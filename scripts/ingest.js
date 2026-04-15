@@ -183,48 +183,13 @@ ${sourceTexts}`;
 }
 
 // --- Image generation ---
-async function getImageUrl(visualKeyword) {
-  const pollinationsUrl = `https://image.pollinations.ai/prompt/${encodeURIComponent(
+// Pollinations generates images lazily on first browser load — no HEAD check needed.
+// The URL is always structurally valid; checking it server-side caused timeouts
+// that silently fell back to the same static Unsplash photo for every article.
+function getImageUrl(visualKeyword) {
+  return `https://image.pollinations.ai/prompt/${encodeURIComponent(
     visualKeyword + ' editorial tech photography high quality'
-  )}?width=1920&height=1080&nologo=true`;
-
-  try {
-    const res = await fetch(pollinationsUrl, {
-      method: 'HEAD',
-      signal: AbortSignal.timeout(15000),
-    });
-    if (res.ok) {
-      return pollinationsUrl;
-    }
-    throw new Error('AI Image Generation Failed with status: ' + res.status);
-  } catch (error) {
-    console.log('  AI image generation failed, falling back to Unsplash:', error.message);
-
-    // Fallback: Unsplash API
-    if (process.env.UNSPLASH_ACCESS_KEY) {
-      try {
-        const unsplashRes = await fetch(
-          `https://api.unsplash.com/photos/random?query=${encodeURIComponent(
-            visualKeyword
-          )}&orientation=landscape`,
-          {
-            headers: {
-              Authorization: `Client-ID ${process.env.UNSPLASH_ACCESS_KEY}`,
-            },
-          }
-        );
-        if (unsplashRes.ok) {
-          const data = await unsplashRes.json();
-          return data.urls.regular;
-        }
-      } catch (unsplashErr) {
-        console.error('  Unsplash fallback failed:', unsplashErr.message);
-      }
-    }
-
-    // Ultimate fallback: static tech image
-    return `https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&q=80`;
-  }
+  )}?width=1920&height=1080&nologo=true&seed=${Date.now()}`;
 }
 
 // --- Main pipeline ---
@@ -256,7 +221,7 @@ async function main() {
       const synthesis = await synthesizeArticle(cluster);
 
       console.log(`  Generating image for: "${synthesis.visual_keyword}"`);
-      const imageUrl = await getImageUrl(synthesis.visual_keyword);
+      const imageUrl = getImageUrl(synthesis.visual_keyword);
 
       const dateStr = new Date().toISOString();
       const slug = synthesis.title

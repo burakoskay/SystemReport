@@ -2,7 +2,7 @@
 title: "AI's Double-Edged Sword: Economic Slowdown Masks Targeted Job Displacement"
 date: 2026-04-15T19:48:44.307Z
 tags: ["ai","layoffs","tech industry","employment","economy"]
-hero_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&q=80"
+hero_image: "https://image.pollinations.ai/prompt/AI%20robot%20hand%20replacing%20human%20worker%20in%20an%20office%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=237968"
 visual_keyword: "AI robot hand replacing human worker in an office"
 description: "While macroeconomic factors are broadly slowing tech hiring, companies like Snap are explicitly linking significant layoffs to AI-driven efficiency, revealing a nuanced employment crisis."
 sources_count: 2

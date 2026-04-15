@@ -2,7 +2,7 @@
 title: "US Government to Mandate Data Center Energy Reporting in Landmark Move"
 date: 2026-04-15T19:44:08.769Z
 tags: ["data centers","energy consumption","eia","sustainability","tech policy"]
-hero_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&q=80"
+hero_image: "https://image.pollinations.ai/prompt/data%20center%20power%20grid%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=993567"
 visual_keyword: "data center power grid"
 description: "The EIA will now require data centers to disclose energy usage, signaling a new era of transparency and accountability for tech's power consumption."
 sources_count: 2

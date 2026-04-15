@@ -2,7 +2,7 @@
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and Apple Prepares a Market Shakeup"
 date: 2026-04-15T19:48:15.843Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
-hero_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&q=80"
+hero_image: "https://image.pollinations.ai/prompt/futuristic%20folding%20smartphone%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=952274"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
 sources_count: 2

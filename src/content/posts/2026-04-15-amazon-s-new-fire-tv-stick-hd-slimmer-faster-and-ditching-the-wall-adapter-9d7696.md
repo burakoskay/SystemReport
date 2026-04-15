@@ -2,7 +2,7 @@
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster, and Ditching the Wall Adapter"
 date: 2026-04-15T19:46:06.589Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
-hero_image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&q=80"
+hero_image: "https://image.pollinations.ai/prompt/Fire%20TV%20Stick%20HD%20hidden%20TV%20USB%20power%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=980382"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
 sources_count: 2
