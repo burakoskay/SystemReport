@@ -77,13 +77,8 @@ const encodedUrl = encodeURIComponent(url);
         checkIcon?.classList.add('hidden');
       }, 2000);
     } catch {
-      // Fallback for older browsers
-      const textarea = document.createElement('textarea');
-      textarea.value = url;
-      document.body.appendChild(textarea);
-      textarea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textarea);
+      // Clipboard API unavailable — show the URL so the user can copy manually
+      window.prompt('Copy this link:', url);
     }
   });
 </script>

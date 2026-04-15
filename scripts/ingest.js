@@ -31,14 +31,15 @@ const purify = DOMPurify(window);
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 const MODEL = 'gemini-2.5-flash';
 
-// --- Retry helper with exponential backoff ---
+// --- Retry helper with exponential backoff (respects 429 Retry-After) ---
 async function withRetry(fn, retries = 3, baseDelay = 1000) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       return await fn();
     } catch (error) {
       if (attempt === retries) throw error;
-      const delay = baseDelay * Math.pow(2, attempt - 1);
+      const is429 = error.message?.includes('429');
+      const delay = is429 ? 15000 : baseDelay * Math.pow(2, attempt - 1);
       console.log(`  Retry ${attempt}/${retries} after ${delay}ms: ${error.message}`);
       await new Promise((r) => setTimeout(r, delay));
     }
@@ -179,24 +180,38 @@ ${sourceTexts}`;
     })
   );
 
-  return JSON.parse(response.text);
+  let result;
+  try {
+    result = JSON.parse(response.text);
+  } catch (e) {
+    throw new Error(`Gemini returned invalid JSON: ${e.message}`);
+  }
+  if (!result.title || !result.article_markdown || !result.tags) {
+    throw new Error('Gemini synthesis missing required fields (title, article_markdown, tags)');
+  }
+  return result;
 }
 
 // --- Image fetching (Pexels) ---
 async function getImageData(visualKeyword) {
-  const res = await withRetry(() =>
-    fetch(
-      `https://api.pexels.com/v1/search?query=${encodeURIComponent(visualKeyword)}&orientation=landscape&per_page=1`,
-      { headers: { Authorization: process.env.PEXELS_API_KEY } }
-    )
-  );
-
-  if (!res.ok) throw new Error(`Pexels API error: ${res.status}`);
+  const res = await withRetry(async () => {
+    const r = await fetch(
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(visualKeyword)}&orientation=landscape&per_page=5`,
+      {
+        headers: { Authorization: process.env.PEXELS_API_KEY },
+        signal: AbortSignal.timeout(10000),
+      }
+    );
+    if (r.status === 429) throw new Error('Pexels 429 rate limit');
+    if (!r.ok) throw new Error(`Pexels API error: ${r.status}`);
+    return r;
+  });
 
   const data = await res.json();
   if (!data.photos?.length) throw new Error(`No Pexels results for: ${visualKeyword}`);
 
-  const photo = data.photos[0];
+  // Pick randomly from top results for variety
+  const photo = data.photos[Math.floor(Math.random() * data.photos.length)];
   return {
     url: photo.src.landscape,
     creditName: photo.photographer,
@@ -223,9 +238,16 @@ async function main() {
   const clusters = await clusterArticles(newArticles);
   console.log(`Identified ${clusters.length} clusters.`);
 
+  // Cap per-run output to avoid runaway API costs and rate limits
+  const MAX_CLUSTERS_PER_RUN = 25;
+  const clustersToProcess = clusters.slice(0, MAX_CLUSTERS_PER_RUN);
+  if (clusters.length > MAX_CLUSTERS_PER_RUN) {
+    console.log(`  Capped to ${MAX_CLUSTERS_PER_RUN} clusters this run.`);
+  }
+
   await fs.mkdir(POSTS_DIR, { recursive: true });
 
-  for (const cluster of clusters) {
+  for (const cluster of clustersToProcess) {
     try {
       console.log(`\nProcessing cluster: "${cluster.theme}" (${cluster.articles.length} sources)`);
 

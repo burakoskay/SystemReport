@@ -29,3 +29,6 @@ pnpm-debug.log*
 
 # Pagefind (generated at build time)
 public/pagefind/
+
+# Local audit reports
+AUDIT_REPORT.md
