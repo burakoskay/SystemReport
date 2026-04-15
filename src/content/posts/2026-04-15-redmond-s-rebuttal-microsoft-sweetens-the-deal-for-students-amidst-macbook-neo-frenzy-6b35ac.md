@@ -2,7 +2,9 @@
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students Amidst MacBook Neo Frenzy"
 date: 2026-04-15T19:46:25.489Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
-hero_image: "https://image.pollinations.ai/prompt/Student%20tech%20battleground%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=673835"
+hero_image: "https://images.pexels.com/photos/4705604/pexels-photo-4705604.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "cottonbro studio"
+hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
 sources_count: 2

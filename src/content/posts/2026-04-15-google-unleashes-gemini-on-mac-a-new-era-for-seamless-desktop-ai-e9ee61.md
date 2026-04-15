@@ -2,7 +2,9 @@
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
-hero_image: "https://image.pollinations.ai/prompt/futuristic%20AI%20assistant%20on%20macOS%20desktop%2C%20floating%20chat%20interface%2C%20seamless%20integration%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=445840"
+hero_image: "https://images.pexels.com/photos/30530406/pexels-photo-30530406.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Matheus Bertelli"
+hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
 sources_count: 5

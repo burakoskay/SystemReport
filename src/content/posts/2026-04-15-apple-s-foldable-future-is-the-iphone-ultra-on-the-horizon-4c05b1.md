@@ -2,7 +2,9 @@
 title: "Apple's Foldable Future: Is the iPhone Ultra on the Horizon?"
 date: 2026-04-15T19:47:26.268Z
 tags: ["apple","iphone ultra","foldable phone","tech rumors","smartphone innovation"]
-hero_image: "https://image.pollinations.ai/prompt/futuristic%20foldable%20iPhone%20concept%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=395711"
+hero_image: "https://images.pexels.com/photos/16380906/pexels-photo-16380906.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Sanket  Mishra"
+hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "futuristic foldable iPhone concept"
 description: "Apple is poised to enter the foldable phone market later this year. Speculation mounts on its name, likely 'iPhone Ultra,' and premium features set to redefine the high-end smartphone experience."
 sources_count: 2

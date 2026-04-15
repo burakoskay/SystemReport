@@ -2,7 +2,9 @@
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
-hero_image: "https://image.pollinations.ai/prompt/Corporate%20AI%20transformation%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true"
+hero_image: "https://images.pexels.com/photos/17485706/pexels-photo-17485706.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Google DeepMind"
+hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
 sources_count: 5

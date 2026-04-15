@@ -2,7 +2,9 @@
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
-hero_image: "https://image.pollinations.ai/prompt/digital%20creative%20assistant%20software%20orchestrating%20art%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=22976"
+hero_image: "https://images.pexels.com/photos/6253568/pexels-photo-6253568.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Vito Goričan"
+hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
 sources_count: 3

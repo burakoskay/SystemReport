@@ -2,7 +2,9 @@
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna & Set-Top Box Users"
 date: 2026-04-15T19:45:52.619Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
-hero_image: "https://image.pollinations.ai/prompt/digital%20television%20antenna%20user%20frustrated%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=235217"
+hero_image: "https://images.pexels.com/photos/19738401/pexels-photo-19738401.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Yiğit  KARAALİOĞLU"
+hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
 sources_count: 2

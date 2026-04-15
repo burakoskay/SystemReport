@@ -2,7 +2,9 @@
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
-hero_image: "https://image.pollinations.ai/prompt/Eroding%20digital%20trust%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=798268"
+hero_image: "https://images.pexels.com/photos/33440144/pexels-photo-33440144.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Zulfugar Karimov"
+hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
 sources_count: 5

@@ -2,7 +2,9 @@
 title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our Cognitive Edge"
 date: 2026-04-15T19:47:05.150Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
-hero_image: "https://image.pollinations.ai/prompt/person%20relying%20on%20glowing%20ai%20screen%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=80681"
+hero_image: "https://images.pexels.com/photos/9783346/pexels-photo-9783346.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Ron Lach"
+hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"
 description: "A new study reveals AI assistance, while boosting immediate performance, fosters dependency and reduces human persistence, raising alarms for innovation and education."
 sources_count: 2

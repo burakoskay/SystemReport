@@ -2,7 +2,9 @@
 title: "Beyond the Buzzword: How Smart Tech Balances Innovation and Essential Functionality"
 date: 2026-04-15T19:47:43.585Z
 tags: ["smart tech","home automation","consumer electronics","grills","safety"]
-hero_image: "https://image.pollinations.ai/prompt/smart%20dual-mode%20grill%20with%20integrated%20controls%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=59236"
+hero_image: "https://images.pexels.com/photos/30641386/pexels-photo-30641386.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Jakub Zerdzicki"
+hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart dual-mode grill with integrated controls"
 description: "From dual-mode grills to risky smoke detectors, explore how new smart tech either enhances daily life or introduces unforeseen compromises."
 sources_count: 7

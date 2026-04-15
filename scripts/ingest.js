@@ -182,14 +182,26 @@ ${sourceTexts}`;
   return JSON.parse(response.text);
 }
 
-// --- Image generation ---
-// Pollinations generates images lazily on first browser load — no HEAD check needed.
-// The URL is always structurally valid; checking it server-side caused timeouts
-// that silently fell back to the same static Unsplash photo for every article.
-function getImageUrl(visualKeyword) {
-  return `https://image.pollinations.ai/prompt/${encodeURIComponent(
-    visualKeyword + ' editorial tech photography high quality'
-  )}?width=1920&height=1080&nologo=true&seed=${Date.now()}`;
+// --- Image fetching (Pexels) ---
+async function getImageData(visualKeyword) {
+  const res = await withRetry(() =>
+    fetch(
+      `https://api.pexels.com/v1/search?query=${encodeURIComponent(visualKeyword)}&orientation=landscape&per_page=1`,
+      { headers: { Authorization: process.env.PEXELS_API_KEY } }
+    )
+  );
+
+  if (!res.ok) throw new Error(`Pexels API error: ${res.status}`);
+
+  const data = await res.json();
+  if (!data.photos?.length) throw new Error(`No Pexels results for: ${visualKeyword}`);
+
+  const photo = data.photos[0];
+  return {
+    url: photo.src.landscape,
+    creditName: photo.photographer,
+    creditUrl: photo.photographer_url,
+  };
 }
 
 // --- Main pipeline ---
@@ -220,8 +232,8 @@ async function main() {
       console.log('  Synthesizing article...');
       const synthesis = await synthesizeArticle(cluster);
 
-      console.log(`  Generating image for: "${synthesis.visual_keyword}"`);
-      const imageUrl = getImageUrl(synthesis.visual_keyword);
+      console.log(`  Fetching Unsplash image for: "${synthesis.visual_keyword}"`);
+      const image = await getImageData(synthesis.visual_keyword);
 
       const dateStr = new Date().toISOString();
       const slug = synthesis.title
@@ -242,7 +254,9 @@ async function main() {
 title: "${synthesis.title.replace(/"/g, '\\"')}"
 date: ${dateStr}
 tags: ${JSON.stringify(synthesis.tags)}
-hero_image: "${imageUrl}"
+hero_image: "${image.url}"
+hero_image_credit_name: "${image.creditName.replace(/"/g, '\\"')}"
+hero_image_credit_url: "${image.creditUrl}"
 visual_keyword: "${synthesis.visual_keyword.replace(/"/g, '\\"')}"
 description: "${synthesis.description.replace(/"/g, '\\"')}"
 sources_count: ${cluster.articles.length}

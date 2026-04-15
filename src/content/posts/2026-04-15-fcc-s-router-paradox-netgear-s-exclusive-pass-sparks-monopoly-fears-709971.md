@@ -2,7 +2,9 @@
 title: "FCC's Router Paradox: Netgear's Exclusive Pass Sparks Monopoly Fears"
 date: 2026-04-15T19:45:34.217Z
 tags: ["fcc","netgear","routers","cybersecurity","tech policy"]
-hero_image: "https://image.pollinations.ai/prompt/government%20regulation%20network%20routers%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=608535"
+hero_image: "https://images.pexels.com/photos/29711663/pexels-photo-29711663.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Jakub Zerdzicki"
+hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"
 description: "The FCC's sweeping ban on foreign-made routers has a curious exception: Netgear. This conditional approval sparks questions about market fairness and national security."
 sources_count: 2

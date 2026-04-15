@@ -2,7 +2,9 @@
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
-hero_image: "https://image.pollinations.ai/prompt/rising%20tech%20prices%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=710234"
+hero_image: "https://images.pexels.com/photos/19867372/pexels-photo-19867372.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Markus Winkler"
+hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
 sources_count: 3

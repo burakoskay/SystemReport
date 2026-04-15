@@ -2,7 +2,9 @@
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
-hero_image: "https://image.pollinations.ai/prompt/Satellite%20phone%20connectivity%20editorial%20tech%20photography%20high%20quality?width=1920&height=1080&nologo=true&seed=321139"
+hero_image: "https://images.pexels.com/photos/30403062/pexels-photo-30403062.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "Amar  Preciado"
+hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
 sources_count: 3
