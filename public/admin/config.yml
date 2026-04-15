@@ -1,0 +1,32 @@
+backend:
+  name: github
+  repo: burakoskay/SystemReport
+  branch: main
+  base_url: https://systemreport.net
+  auth_endpoint: api/auth
+
+publish_mode: editorial_workflow
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "src/content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sortable_fields: ["title", "date"]
+    view_groups:
+      - label: "Year"
+        field: date
+        pattern: \d{4}
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string", required: false, hint: "SEO meta description (max 160 chars)" }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - { label: "Hero Image", name: "hero_image", widget: "image", required: false }
+      - { label: "Visual Keyword", name: "visual_keyword", widget: "string", required: false, hint: "Used for AI image generation fallback" }
+      - { label: "Sources Count", name: "sources_count", widget: "number", required: false, hint: "Number of source articles (auto-filled by pipeline)" }
+      - { label: "Body", name: "body", widget: "markdown" }

@@ -1,0 +1,223 @@
+---
+import '../styles/global.css';
+import DarkModeToggle from '../components/DarkModeToggle.astro';
+import MobileMenu from '../components/MobileMenu.astro';
+import SearchModal from '../components/SearchModal.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  url?: string;
+  type?: string;
+}
+
+const {
+  title,
+  description = 'AI-curated tech news aggregation and synthesis powered by Gemini.',
+  image = '/favicon.svg',
+  url = Astro.url.href,
+  type = 'website',
+} = Astro.props;
+
+const canonicalUrl = new URL(url, Astro.site);
+const currentYear = new Date().getFullYear();
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <!-- Canonical -->
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content="System Report" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+
+    <!-- RSS Discovery -->
+    <link rel="alternate" type="application/rss+xml" title="System Report" href="/rss.xml" />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet" />
+
+    <!-- Dark mode: prevent FOUC -->
+    <script is:inline>
+      (function() {
+        const saved = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (saved === 'dark' || (!saved && prefersDark)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+
+    <!-- AdSense (replace ca-pub-XXXXXXXXXXXXXXXX with your publisher ID) -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+
+    <!-- Cloudflare Web Analytics (replace YOUR_TOKEN_HERE after connecting domain) -->
+    <!-- <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "YOUR_TOKEN_HERE"}'></script> -->
+
+    <meta name="generator" content={Astro.generator} />
+  </head>
+
+  <body class="bg-[#fafaf8] dark:bg-[#0b0d14] text-gray-900 dark:text-gray-100 font-sans antialiased min-h-screen flex flex-col">
+
+    <!-- Header -->
+    <header class="sticky top-0 z-40 bg-white/80 dark:bg-[#0b0d14]/80 backdrop-blur-xl border-b border-gray-200/60 dark:border-gray-800/60">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="flex justify-between items-center h-16">
+          <!-- Logo -->
+          <a href="/" class="text-xl font-extrabold tracking-tight hover:opacity-80 transition-opacity" id="site-logo">
+            SYSTEM<span class="text-blue-600 dark:text-blue-400">REPORT</span>
+          </a>
+
+          <!-- Desktop Nav -->
+          <nav class="hidden md:flex items-center gap-1">
+            <a href="/" class="px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+              Home
+            </a>
+            <a href="/tags" class="px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+              Tags
+            </a>
+            <a href="/about" class="px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
+              About
+            </a>
+
+            <div class="w-px h-5 bg-gray-200 dark:bg-gray-700 mx-2"></div>
+
+            <!-- Search button -->
+            <button
+              id="search-trigger"
+              class="flex items-center gap-2 px-3 py-1.5 text-sm text-gray-400 dark:text-gray-500 bg-gray-100 dark:bg-gray-800 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
+              type="button"
+              aria-label="Search"
+            >
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+              </svg>
+              <span class="hidden lg:inline">Search</span>
+              <kbd class="hidden lg:inline-flex items-center px-1.5 py-0.5 bg-white dark:bg-gray-900 rounded text-[10px] text-gray-400 dark:text-gray-500 font-mono border border-gray-200 dark:border-gray-700">⌘K</kbd>
+            </button>
+
+            <DarkModeToggle />
+          </nav>
+
+          <!-- Mobile: search + dark mode + hamburger -->
+          <div class="flex md:hidden items-center gap-1">
+            <button
+              id="search-trigger-mobile"
+              class="p-2 rounded-lg text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+              type="button"
+              aria-label="Search"
+            >
+              <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+              </svg>
+            </button>
+
+            <DarkModeToggle />
+
+            <button
+              id="mobile-menu-trigger"
+              class="p-2 rounded-lg text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+              type="button"
+              aria-label="Open menu"
+            >
+              <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <MobileMenu />
+    <SearchModal />
+
+    <!-- Main content -->
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full" data-pagefind-body>
+      <slot />
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 mt-auto" data-pagefind-ignore="all">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <!-- Brand -->
+          <div>
+            <span class="text-lg font-extrabold tracking-tight">
+              SYSTEM<span class="text-blue-600 dark:text-blue-400">REPORT</span>
+            </span>
+            <p class="mt-3 text-sm text-gray-500 dark:text-gray-400 leading-relaxed max-w-xs">
+              AI-curated tech news. Automated aggregation and synthesis powered by Gemini. Zero-touch editorial pipeline.
+            </p>
+          </div>
+
+          <!-- Navigate -->
+          <div>
+            <h3 class="text-sm font-semibold text-gray-900 dark:text-gray-100 uppercase tracking-wider mb-4">Navigate</h3>
+            <ul class="space-y-2.5">
+              <li><a href="/" class="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Home</a></li>
+              <li><a href="/tags" class="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Tags</a></li>
+              <li><a href="/about" class="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">About</a></li>
+              <li><a href="/privacy" class="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Privacy Policy</a></li>
+              <li><a href="/admin/" class="text-sm text-gray-500 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">CMS Admin</a></li>
+            </ul>
+          </div>
+
+          <!-- Subscribe -->
+          <div>
+            <h3 class="text-sm font-semibold text-gray-900 dark:text-gray-100 uppercase tracking-wider mb-4">Stay Updated</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400 mb-3">Follow our feed for the latest in tech.</p>
+            <a
+              href="/rss.xml"
+              class="inline-flex items-center gap-2 px-4 py-2 bg-orange-50 dark:bg-orange-950/30 text-orange-600 dark:text-orange-400 rounded-lg text-sm font-medium hover:bg-orange-100 dark:hover:bg-orange-950/50 transition-colors"
+            >
+              <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12.75 19.5v-.75a7.5 7.5 0 0 0-7.5-7.5H4.5m0-6.75h.75c7.87 0 14.25 6.38 14.25 14.25v.75M6 18.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z" />
+              </svg>
+              RSS Feed
+            </a>
+          </div>
+        </div>
+
+        <div class="border-t border-gray-100 dark:border-gray-800 mt-10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
+          <p class="text-sm text-gray-400 dark:text-gray-500">
+            &copy; {currentYear} System Report. Automated via Gemini AI.
+          </p>
+          <p class="text-xs text-gray-300 dark:text-gray-600">
+            Built with Astro · Hosted on Cloudflare Pages
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Mobile search trigger script -->
+    <script>
+      document.getElementById('search-trigger-mobile')?.addEventListener('click', () => {
+        document.getElementById('search-trigger')?.click();
+      });
+    </script>
+  </body>
+</html>

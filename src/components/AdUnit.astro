@@ -1,0 +1,35 @@
+---
+/**
+ * Google AdSense ad unit component.
+ *
+ * Replace `ca-pub-XXXXXXXXXXXXXXXX` with your real AdSense publisher ID
+ * and each `slot` value with your actual ad slot IDs from the AdSense dashboard.
+ */
+interface Props {
+  slot?: string;
+  format?: 'auto' | 'horizontal' | 'vertical' | 'rectangle';
+  className?: string;
+  responsive?: boolean;
+}
+
+const {
+  slot = 'XXXXXXXXXX',
+  format = 'auto',
+  className = '',
+  responsive = true
+} = Astro.props;
+---
+
+<div class:list={['ad-unit my-6', className]} data-pagefind-ignore="all">
+  <ins
+    class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+    data-ad-slot={slot}
+    data-ad-format={format}
+    data-full-width-responsive={responsive ? 'true' : 'false'}
+  ></ins>
+  <script is:inline>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>

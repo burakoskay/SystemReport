@@ -1,0 +1,47 @@
+---
+import ArticleCard from './ArticleCard.astro';
+import { getCollection } from 'astro:content';
+
+interface Props {
+  currentSlug: string;
+  currentTags: string[];
+}
+
+const { currentSlug, currentTags = [] } = Astro.props;
+
+const allPosts = await getCollection('posts');
+
+// Score each post by tag overlap, then by recency
+const scoredPosts = allPosts
+  .filter((post) => post.id !== currentSlug)
+  .map((post) => {
+    const postTags = post.data.tags || [];
+    const tagOverlap = postTags.filter((t) => currentTags.includes(t)).length;
+    return { post, score: tagOverlap };
+  })
+  .sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score;
+    return b.post.data.date.valueOf() - a.post.data.date.valueOf();
+  })
+  .slice(0, 3);
+---
+
+{scoredPosts.length > 0 && (
+  <section class="mt-16" data-pagefind-ignore="all">
+    <h2 class="font-serif text-2xl font-bold text-gray-900 dark:text-gray-100 mb-6">
+      Related Articles
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {scoredPosts.map(({ post }) => (
+        <ArticleCard
+          title={post.data.title}
+          slug={post.id}
+          date={post.data.date}
+          heroImage={post.data.hero_image}
+          tags={post.data.tags}
+          description={post.data.description}
+        />
+      ))}
+    </div>
+  </section>
+)}

@@ -1,0 +1,93 @@
+---
+// Search modal — Pagefind UI with Cmd/Ctrl+K shortcut
+---
+
+<div id="search-modal" class="fixed inset-0 z-[60] hidden" role="dialog" aria-label="Search">
+  <!-- Backdrop -->
+  <div id="search-backdrop" class="absolute inset-0 bg-black/60 backdrop-blur-sm"></div>
+
+  <!-- Modal -->
+  <div class="relative max-w-2xl mx-auto mt-[10vh] mx-4 sm:mx-auto">
+    <div class="bg-white dark:bg-gray-900 rounded-2xl shadow-2xl border border-gray-200 dark:border-gray-800 overflow-hidden animate-scale-in">
+      <!-- Header with keyboard hint -->
+      <div class="flex items-center justify-between px-4 py-3 border-b border-gray-100 dark:border-gray-800">
+        <div class="flex items-center gap-2 text-sm text-gray-400 dark:text-gray-500">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+          </svg>
+          Search articles
+        </div>
+        <kbd class="hidden sm:inline-flex items-center gap-1 px-2 py-0.5 bg-gray-100 dark:bg-gray-800 rounded text-xs text-gray-400 dark:text-gray-500 font-mono">
+          ESC
+        </kbd>
+      </div>
+
+      <!-- Pagefind container -->
+      <div id="search-container" class="max-h-[60vh] overflow-y-auto p-4"></div>
+    </div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+
+<script is:inline>
+  var searchModal = document.getElementById('search-modal');
+  var searchBackdrop = document.getElementById('search-backdrop');
+  var pagefindLoaded = false;
+
+  async function openSearch() {
+    searchModal?.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+
+    if (!pagefindLoaded) {
+      try {
+        var pagefindModule = await import('/pagefind/pagefind-ui.js');
+        new pagefindModule.PagefindUI({
+          element: '#search-container',
+          showSubResults: true,
+          showImages: false,
+        });
+        pagefindLoaded = true;
+      } catch (e) {
+        var container = document.getElementById('search-container');
+        if (container) {
+          container.innerHTML = '<p class="text-sm text-gray-500 dark:text-gray-400 text-center py-8">Search is available after the site is built.</p>';
+        }
+      }
+    }
+
+    setTimeout(function() {
+      var input = document.querySelector('#search-container input');
+      if (input) input.focus();
+    }, 150);
+  }
+
+  function closeSearch() {
+    searchModal?.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+
+  document.addEventListener('keydown', function(e) {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      if (searchModal?.classList.contains('hidden')) {
+        openSearch();
+      } else {
+        closeSearch();
+      }
+    }
+    if (e.key === 'Escape' && !searchModal?.classList.contains('hidden')) {
+      closeSearch();
+    }
+  });
+
+  searchBackdrop?.addEventListener('click', closeSearch);
+
+  document.getElementById('search-trigger')?.addEventListener('click', openSearch);
+  document.getElementById('mobile-search-trigger')?.addEventListener('click', function() {
+    document.getElementById('mobile-menu-overlay')?.classList.add('hidden');
+    document.getElementById('mobile-menu-drawer')?.classList.add('hidden');
+    document.body.style.overflow = '';
+    openSearch();
+  });
+</script>

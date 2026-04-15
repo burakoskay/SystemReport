@@ -1,0 +1,95 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="About — System Report" description="How System Report works: an AI-powered, zero-touch tech news aggregator.">
+  <article class="max-w-3xl mx-auto">
+    <h1 class="font-serif text-4xl sm:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-6">
+      About System Report
+    </h1>
+
+    <div class="prose prose-lg prose-gray dark:prose-invert max-w-none prose-headings:font-serif prose-a:text-blue-600 dark:prose-a:text-blue-400">
+      <p class="text-xl text-gray-500 dark:text-gray-400 leading-relaxed">
+        System Report is a fully automated tech news platform. No human editors, no manual curation — just an AI pipeline that reads, analyzes, and writes about the latest in technology.
+      </p>
+
+      <h2>How It Works</h2>
+
+      <p>Every hour, an automated pipeline performs the following steps:</p>
+
+      <ol>
+        <li>
+          <strong>Ingestion</strong> — RSS feeds from major tech publications are fetched and sanitized. Raw content is stripped of HTML to prevent cross-site scripting.
+        </li>
+        <li>
+          <strong>Deduplication</strong> — A state ledger tracks which articles have already been processed. Duplicates are skipped.
+        </li>
+        <li>
+          <strong>Semantic Clustering</strong> — Headlines are sent to Google's Gemini AI, which groups stories about the same event into clusters. This prevents five identical articles about the same breaking news.
+        </li>
+        <li>
+          <strong>Synthesis</strong> — For each cluster, Gemini acts as an editorial engine, writing an original, comprehensive article that distills the key facts from multiple sources.
+        </li>
+        <li>
+          <strong>Illustration</strong> — An AI image generator creates an editorial illustration for each article. If generation fails, a royalty-free stock image is used instead.
+        </li>
+        <li>
+          <strong>Deployment</strong> — The finished articles are committed to a Git repository. Cloudflare Pages detects the change and deploys the updated site to its global edge network within seconds.
+        </li>
+      </ol>
+
+      <h2>The Architecture</h2>
+
+      <p>
+        System Report is a <strong>strictly static site</strong>. There is no database, no backend server, no API to attack. The entire website is flat HTML, CSS, and JavaScript files served from Cloudflare's edge network across 300+ cities worldwide.
+      </p>
+
+      <p>This architecture provides:</p>
+
+      <ul>
+        <li><strong>Zero attack surface</strong> — No live database to inject, no backend to DDoS</li>
+        <li><strong>Infinite scalability</strong> — Cloudflare's CDN handles traffic spikes with zero compute costs</li>
+        <li><strong>Decoupled reliability</strong> — If the AI pipeline fails, the live site remains operational with the last successful build</li>
+      </ul>
+
+      <h2>Tech Stack</h2>
+
+      <div class="not-prose">
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-8">
+          <div class="p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800">
+            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">Frontend</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Astro.js + Tailwind CSS (Static Site Generation)</p>
+          </div>
+          <div class="p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800">
+            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">AI Engine</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Google Gemini (Clustering & Synthesis)</p>
+          </div>
+          <div class="p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800">
+            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">Pipeline</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Node.js + GitHub Actions (Hourly Cron)</p>
+          </div>
+          <div class="p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800">
+            <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1">Hosting</h3>
+            <p class="text-sm text-gray-500 dark:text-gray-400">Cloudflare Pages (Global Edge Network)</p>
+          </div>
+        </div>
+      </div>
+
+      <h2>Content Policy</h2>
+
+      <p>
+        All articles on System Report are original compositions written by AI. The pipeline reads multiple source articles about the same topic and synthesizes a new piece — similar to how a human journalist would research and write. No content is copied verbatim from any source.
+      </p>
+
+      <p>
+        Images are either AI-generated editorial illustrations or royalty-free stock photos sourced from Unsplash. No copyrighted images are hotlinked.
+      </p>
+
+      <h2>Open Source</h2>
+
+      <p>
+        The entire System Report codebase — including the ETL pipeline, frontend, and deployment configuration — is open source. You can inspect, fork, or contribute to the project on GitHub.
+      </p>
+    </div>
+  </article>
+</Layout>
