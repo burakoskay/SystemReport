@@ -9,7 +9,7 @@ export async function GET(context) {
 
   return rss({
     title: 'System Report',
-    description: 'AI-curated tech news aggregation and synthesis powered by Gemini.',
+    description: 'In-depth tech news, analysis, and expert commentary on the stories shaping the industry.',
     site: context.site,
     items: sortedPosts.map((post) => ({
       title: post.data.title,

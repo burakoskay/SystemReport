@@ -4,9 +4,15 @@
  * Exchanges the temporary GitHub auth code for an access token,
  * then returns it to the CMS admin page via postMessage.
  *
+ * SECURITY: Only the authorized GitHub user (ALLOWED_USER) can complete
+ * the OAuth flow. All other users are rejected.
+ *
  * Requires GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET
  * environment variables set in Cloudflare Pages.
  */
+
+const ALLOWED_USER = 'burakoskay';
+
 export async function onRequestGet(context) {
   const { searchParams } = new URL(context.request.url);
   const code = searchParams.get('code');
@@ -44,10 +50,28 @@ export async function onRequestGet(context) {
     }
 
     const token = tokenData.access_token;
-    const provider = 'github';
 
-    // Return the token to the CMS via postMessage
-    // This is the format that Decap/Sveltia CMS expects
+    // Verify the authenticated user is the allowed user
+    const userResponse = await fetch('https://api.github.com/user', {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        Accept: 'application/vnd.github+json',
+        'User-Agent': 'SystemReport-CMS',
+      },
+    });
+
+    if (!userResponse.ok) {
+      return new Response('Failed to verify user identity', { status: 500 });
+    }
+
+    const userData = await userResponse.json();
+
+    if (userData.login.toLowerCase() !== ALLOWED_USER.toLowerCase()) {
+      return new Response('Access denied. You are not authorized to use this CMS.', { status: 403 });
+    }
+
+    // User is authorized — return the token to the CMS via postMessage
+    const provider = 'github';
     const html = `<!doctype html>
 <html>
 <head><title>OAuth Callback</title></head>
