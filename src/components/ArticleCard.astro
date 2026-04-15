@@ -1,6 +1,4 @@
 ---
-import TagPill from './TagPill.astro';
-
 interface Props {
   title: string;
   slug: string;
@@ -13,22 +11,20 @@ interface Props {
 
 const { title, slug, date, heroImage, tags = [], description, body = '' } = Astro.props;
 
-// Calculate reading time
 const words = (body || '').split(/\s+/).filter(Boolean).length;
 const readingTime = Math.max(1, Math.ceil(words / 200));
 
-// Format date
 const formattedDate = date.toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'short',
   day: 'numeric',
 });
 
-// Generate excerpt
-const excerpt = description || (body ? body.slice(0, 160).replace(/[#*_\[\]`>]/g, '').trim() + '...' : '');
+const excerpt = description || (body ? body.slice(0, 140).replace(/[#*_\[\]`>]/g, '').trim() + '…' : '');
+const category = tags[0] ?? null;
 ---
 
-<article class="group bg-white dark:bg-gray-900/80 rounded-2xl border border-gray-100 dark:border-gray-800 overflow-hidden hover:shadow-lg hover:shadow-gray-200/50 dark:hover:shadow-black/30 transition-all duration-300 hover:-translate-y-0.5 animate-fade-in">
+<article class="group bg-white dark:bg-gray-900/60 rounded-xl border border-gray-200 dark:border-gray-800 overflow-hidden hover:border-gray-300 dark:hover:border-gray-700 transition-colors duration-200 animate-fade-in">
   {heroImage && (
     <a href={`/posts/${slug}`} class="block overflow-hidden aspect-video bg-gray-100 dark:bg-gray-800">
       <img
@@ -42,16 +38,14 @@ const excerpt = description || (body ? body.slice(0, 160).replace(/[#*_\[\]`>]/g
   )}
 
   <div class="p-5">
-    {tags.length > 0 && (
-      <div class="flex flex-wrap gap-1.5 mb-3">
-        {tags.slice(0, 3).map((tag) => (
-          <TagPill tag={tag} />
-        ))}
-      </div>
+    {category && (
+      <span class="text-[0.65rem] font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+        {category}
+      </span>
     )}
 
-    <a href={`/posts/${slug}`} class="block group/title">
-      <h2 class="font-serif text-lg font-semibold text-gray-900 dark:text-gray-100 leading-snug group-hover/title:text-blue-600 dark:group-hover/title:text-blue-400 transition-colors line-clamp-2">
+    <a href={`/posts/${slug}`} class="block mt-1.5">
+      <h2 class="font-serif text-lg font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-2">
         {title}
       </h2>
     </a>
@@ -63,9 +57,7 @@ const excerpt = description || (body ? body.slice(0, 160).replace(/[#*_\[\]`>]/g
     )}
 
     <div class="flex items-center gap-3 mt-4 text-xs text-gray-400 dark:text-gray-500">
-      <time datetime={date.toISOString()}>
-        {formattedDate}
-      </time>
+      <time datetime={date.toISOString()}>{formattedDate}</time>
       <span class="w-1 h-1 rounded-full bg-gray-300 dark:bg-gray-600"></span>
       <span>{readingTime} min read</span>
     </div>

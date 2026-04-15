@@ -26,16 +26,13 @@ const { page, posts, totalPages } = Astro.props;
 ---
 
 <Layout title={`Page ${page} — System Report`} description={`Tech news, page ${page} of ${totalPages}.`}>
-  <section class="mb-8">
-    <nav class="text-sm text-gray-500 dark:text-gray-400 mb-4">
+  <section class="mb-8 pt-8">
+    <nav class="text-sm text-gray-500 dark:text-gray-400 mb-6">
       <a href="/" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">Home</a>
       <span class="mx-2 text-gray-300 dark:text-gray-600">/</span>
       <span>Page {page}</span>
     </nav>
-    <h1 class="font-serif text-3xl font-bold text-gray-900 dark:text-gray-100">
-      All Articles
-      <span class="text-lg font-normal text-gray-400 dark:text-gray-500 ml-2">Page {page}</span>
-    </h1>
+    <div class="section-label">All Articles — Page {page}</div>
   </section>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

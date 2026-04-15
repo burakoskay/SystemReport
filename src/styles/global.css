@@ -172,6 +172,23 @@ html.theme-transition *::after {
   overflow: hidden;
 }
 
+/* --- Gazet-style section label --- */
+.section-label {
+  border-top: 3px solid #2563eb;
+  padding-top: 0.625rem;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #111827;
+  font-family: var(--font-sans);
+}
+
+.dark .section-label {
+  border-top-color: #60a5fa;
+  color: #f1f5f9;
+}
+
 /* --- AdSense container --- */
 .ad-unit {
   min-height: 100px;
