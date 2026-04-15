@@ -6,5 +6,4 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 /cms-43081125dc/*
-  Basic-Auth: 479b911854:4c4e136c687edfce1214
   X-Robots-Tag: noindex, nofollow
