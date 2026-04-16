@@ -39,7 +39,7 @@ jobs:
 
           if ! git diff-index --quiet HEAD; then
             git pull --rebase origin main
-            git commit -m "chore: automated content ingestion [skip ci]"
+            git commit -m "chore: automated content ingestion"
             git push
           else
             echo "No new articles to commit."

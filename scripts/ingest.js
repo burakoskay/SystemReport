@@ -56,8 +56,15 @@ async function loadProcessedUrls() {
   }
 }
 
+const MAX_TRACKED_URLS = 10000;
+
 async function saveProcessedUrls(urlsSet) {
-  const jsonContent = JSON.stringify(Array.from(urlsSet), null, 2);
+  let urls = Array.from(urlsSet);
+  // Trim oldest entries to prevent unbounded file growth
+  if (urls.length > MAX_TRACKED_URLS) {
+    urls = urls.slice(urls.length - MAX_TRACKED_URLS);
+  }
+  const jsonContent = JSON.stringify(urls, null, 2);
   await fs.writeFile(PROCESSED_URLS_FILE, jsonContent, 'utf-8');
 }
 
