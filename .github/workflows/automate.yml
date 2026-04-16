@@ -35,10 +35,13 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Pull before staging so rebase doesn't choke on uncommitted changes
+          git pull --rebase origin main
+
           git add src/content/posts/ processed_urls.json || true
 
           if ! git diff-index --quiet HEAD; then
-            git pull --rebase origin main
             git commit -m "chore: automated content ingestion"
             git push
           else
