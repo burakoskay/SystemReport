@@ -29,7 +29,7 @@ const purify = DOMPurify(window);
 
 // Setup Gemini
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const MODEL = 'gemini-2.5-flash';
+const MODEL = 'gemini-2.0-flash';
 
 // --- Retry helper with exponential backoff (respects 429 Retry-After) ---
 async function withRetry(fn, retries = 3, baseDelay = 1000) {
