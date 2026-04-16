@@ -36,8 +36,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Pull before staging so rebase doesn't choke on uncommitted changes
-          git pull --rebase origin main
+          # Autostash handles modified tracked files (e.g. processed_urls.json) during rebase
+          git pull --rebase --autostash origin main
 
           git add src/content/posts/ processed_urls.json || true
 
