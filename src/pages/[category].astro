@@ -1,33 +1,43 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
-import Pagination from '../components/Pagination.astro';
-import NewsletterSignup from '../components/NewsletterSignup.astro';
-import AdUnit from '../components/AdUnit.astro';
 import { getCollection } from 'astro:content';
+import { CATEGORIES, NAV_CATEGORIES, getArticleCategory } from '../lib/categories';
 
-const ARTICLES_PER_PAGE = 13;
+export async function getStaticPaths() {
+  return NAV_CATEGORIES.map(({ slug }) => ({ params: { category: slug } }));
+}
+
+const { category } = Astro.params;
+const catInfo = CATEGORIES[category];
 
 const allPosts = await getCollection('posts');
-const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const sorted = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const totalPages = Math.max(1, Math.ceil(sortedPosts.length / ARTICLES_PER_PAGE));
-const paginatedPosts = sortedPosts.slice(0, ARTICLES_PER_PAGE);
+const posts = sorted.filter(p => getArticleCategory(p.data.tags ?? []) === category);
 
-const featuredPost  = paginatedPosts[0];
-const sidebarPosts  = paginatedPosts.slice(1, 5);
-const gridPosts     = paginatedPosts.slice(5);
+const featuredPost = posts[0];
+const sidebarPosts = posts.slice(1, 5);
+const gridPosts    = posts.slice(5);
 
 function formatDate(date: Date) {
   return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 }
 ---
 
-<Layout title="System Report — Tech News & Analysis">
+<Layout title={`${catInfo.label} — System Report`} description={`Latest ${catInfo.label} news and analysis from System Report.`}>
 
-  <!-- ── Featured + Sidebar ───────────────────────────────────────── -->
+  <div class="section-label mt-8 mb-10">{catInfo.label}</div>
+
+  {posts.length === 0 && (
+    <div class="py-20 text-center">
+      <h2 class="text-xl font-serif font-semibold text-gray-900 dark:text-gray-100 mb-2">No articles yet</h2>
+      <p class="text-gray-500 dark:text-gray-400">Check back soon — new content is on the way.</p>
+    </div>
+  )}
+
   {featuredPost && (
-    <section class="pt-8 pb-12 border-b border-gray-200 dark:border-gray-800">
+    <section class="pb-12 border-b border-gray-200 dark:border-gray-800">
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-0">
 
         <!-- Main featured article -->
@@ -68,10 +78,7 @@ function formatDate(date: Date) {
             {sidebarPosts.map((post, i) => (
               <a
                 href={`/posts/${post.id}`}
-                class:list={[
-                  'group flex gap-4 py-5',
-                  i > 0 ? 'border-t border-gray-100 dark:border-gray-800' : ''
-                ]}
+                class:list={['group flex gap-4 py-5', i > 0 ? 'border-t border-gray-100 dark:border-gray-800' : '']}
               >
                 <div class="flex-1 min-w-0">
                   {post.data.tags?.[0] && (
@@ -105,48 +112,25 @@ function formatDate(date: Date) {
     </section>
   )}
 
-  <!-- ── Latest section ───────────────────────────────────────────── -->
   {gridPosts.length > 0 && (
     <section class="mt-12">
-      <div class="section-label mb-8">Latest</div>
-
+      <div class="section-label mb-8">More {catInfo.label}</div>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {gridPosts.map((post, i) => (
-          <>
-            <div class:list={[`stagger-${i + 1}`]}>
-              <ArticleCard
-                title={post.data.title}
-                slug={post.id}
-                date={post.data.date}
-                heroImage={post.data.hero_image}
-                tags={post.data.tags}
-                description={post.data.description}
-                body={post.body || ''}
-              />
-            </div>
-            {(i + 1) % 3 === 0 && i < gridPosts.length - 1 && (
-              <div class="col-span-full">
-                <AdUnit format="horizontal" />
-              </div>
-            )}
-          </>
+          <div class:list={[`stagger-${Math.min(i + 1, 12)}`]}>
+            <ArticleCard
+              title={post.data.title}
+              slug={post.id}
+              date={post.data.date}
+              heroImage={post.data.hero_image}
+              tags={post.data.tags}
+              description={post.data.description}
+              body={post.body || ''}
+            />
+          </div>
         ))}
       </div>
     </section>
   )}
-
-  <!-- Empty state -->
-  {!featuredPost && (
-    <div class="py-20 text-center">
-      <h2 class="text-xl font-serif font-semibold text-gray-900 dark:text-gray-100 mb-2">No articles yet</h2>
-      <p class="text-gray-500 dark:text-gray-400">New articles are on the way. Check back soon.</p>
-    </div>
-  )}
-
-  <Pagination currentPage={1} totalPages={totalPages} />
-
-  <div class="mt-16">
-    <NewsletterSignup />
-  </div>
 
 </Layout>
