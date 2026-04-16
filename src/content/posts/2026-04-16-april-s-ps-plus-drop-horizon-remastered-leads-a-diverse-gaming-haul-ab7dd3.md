@@ -1,0 +1,19 @@
+---
+title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
+date: 2026-04-16T05:32:00.613Z
+tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
+hero_image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image_credit_name: "RDNE Stock project"
+hero_image_credit_url: "https://www.pexels.com/@rdne"
+visual_keyword: "Diverse video games lineup"
+description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
+sources_count: 1
+---
+
+PlayStation Plus subscribers are in for a treat this April, with a robust lineup for Extra and Premium tiers that promises something for every gaming palate. From expansive open worlds to quirky indie adventures and intense strategy, the incoming catalog delivers a compelling mix of established hits and hidden gems, all set to arrive starting April 21.
+
+Headlining the month's additions is *Horizon Zero Dawn Remastered*, offering PlayStation 5 players a chance to revisit Aloy's stunning post-apocalyptic journey with enhanced visuals and performance. PlayStation 4 users won't be left out, receiving the critically acclaimed *Horizon Zero Dawn Complete Edition*. Racing enthusiasts can hit the streets of Hawaii in *The Crew Motorfest*, while football strategists can dive into the latest season with *Football Manager 26 Console*.
+
+Beyond these well-known franchises, PlayStation Plus shines a light on a fascinating array of titles. Get ready for some chaotic action with *Warriors: Abyss*, a frantic hack-and-slash roguelite from Koei Tecmo. For those seeking something truly unconventional, *Squirrel with a Gun* delivers exactly what it promises: a competent, albeit silly, third-person shooter developed by an innovative indie duo. Strategy buffs will appreciate *Monster Train*, a beloved demonic deckbuilder from Shiny Shoe, and retro RPG aficionados can journey back in time with *Wild Arms 4*, a PlayStation 2-era classic exclusive to Premium libraries.
+
+Perhaps the most compelling argument for the value of PlayStation Plus this month comes in the form of *The Casting of Frank Stone*. From Supermassive, a studio celebrated for its narrative-driven horror, this title also serves as a crossover within the *Dead by Daylight* universe. It's precisely the kind of game that might fly under the radar for many players, but its inclusion in PS Plus provides a perfect opportunity for discovery. For subscribers, it's a no-cost entry into a potentially rich new world, showcasing how the service truly broadens gaming horizons and offers a gateway to unexpected favorites. This April's batch is indeed a quality collection, offering both grand adventures and delightful surprises.
