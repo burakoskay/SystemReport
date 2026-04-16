@@ -111,11 +111,11 @@ const articleUrl = `https://systemreport.net/posts/${post.id}`;
     <!-- Article Body -->
     <div class="prose prose-lg prose-gray dark:prose-invert max-w-none
       prose-headings:font-serif prose-headings:tracking-tight
-      prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline
+      prose-a:text-gray-900 dark:prose-a:text-gray-100 prose-a:underline prose-a:decoration-gray-300 dark:prose-a:decoration-gray-600 hover:prose-a:decoration-gray-900 dark:hover:prose-a:decoration-gray-100
       prose-img:rounded-xl
       prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:before:content-none prose-code:after:content-none
       prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-pre:border prose-pre:border-gray-800
-      prose-blockquote:border-blue-500 prose-blockquote:not-italic
+      prose-blockquote:border-gray-900 dark:prose-blockquote:border-gray-100 prose-blockquote:not-italic
     ">
       <Content />
     </div>
@@ -131,18 +131,18 @@ const articleUrl = `https://systemreport.net/posts/${post.id}`;
     <!-- Prev/Next Navigation -->
     <nav class="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4" data-pagefind-ignore="all">
       {prevPost ? (
-        <a href={`/posts/${prevPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-blue-300 dark:hover:border-blue-700 transition-colors">
+        <a href={`/posts/${prevPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-gray-400 dark:hover:border-gray-500 transition-colors">
           <span class="text-xs font-medium text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-1">← Previous</span>
-          <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-2">
+          <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-2">
             {prevPost.data.title}
           </span>
         </a>
       ) : <div />}
 
       {nextPost && (
-        <a href={`/posts/${nextPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-blue-300 dark:hover:border-blue-700 transition-colors text-right">
+        <a href={`/posts/${nextPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-gray-400 dark:hover:border-gray-500 transition-colors text-right">
           <span class="text-xs font-medium text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-1">Next →</span>
-          <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-2">
+          <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-2">
             {nextPost.data.title}
           </span>
         </a>

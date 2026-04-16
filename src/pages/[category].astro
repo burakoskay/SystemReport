@@ -54,11 +54,11 @@ function formatDate(date: Date) {
           )}
           <div class="pt-5">
             {featuredPost.data.tags?.[0] && (
-              <span class="text-[0.65rem] font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+              <span class="text-[0.65rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
                 {featuredPost.data.tags[0]}
               </span>
             )}
-            <h2 class="mt-2 font-serif text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight text-gray-900 dark:text-gray-50 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
+            <h2 class="mt-2 font-serif text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight text-gray-900 dark:text-gray-50 group-hover:text-black dark:group-hover:text-white transition-colors">
               {featuredPost.data.title}
             </h2>
             {featuredPost.data.description && (
@@ -82,11 +82,11 @@ function formatDate(date: Date) {
               >
                 <div class="flex-1 min-w-0">
                   {post.data.tags?.[0] && (
-                    <span class="text-[0.6rem] font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+                    <span class="text-[0.6rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
                       {post.data.tags[0]}
                     </span>
                   )}
-                  <h3 class="mt-1 font-serif text-[0.95rem] font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-3">
+                  <h3 class="mt-1 font-serif text-[0.95rem] font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-3">
                     {post.data.title}
                   </h3>
                   <time class="mt-2 block text-xs text-gray-400 dark:text-gray-500">

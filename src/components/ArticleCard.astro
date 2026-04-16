@@ -39,13 +39,13 @@ const category = tags[0] ?? null;
 
   <div class="p-5">
     {category && (
-      <span class="text-[0.65rem] font-bold uppercase tracking-widest text-blue-600 dark:text-blue-400">
+      <span class="text-[0.65rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
         {category}
       </span>
     )}
 
     <a href={`/posts/${slug}`} class="block mt-1.5">
-      <h2 class="font-serif text-lg font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors line-clamp-2">
+      <h2 class="font-serif text-lg font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-2">
         {title}
       </h2>
     </a>

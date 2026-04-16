@@ -10,7 +10,7 @@ const { compact = false } = Astro.props;
   'rounded-2xl border',
   compact
     ? 'p-6 bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-800'
-    : 'p-8 md:p-12 bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-950/30 dark:to-indigo-950/30 border-blue-100 dark:border-blue-900/50'
+    : 'p-8 md:p-12 bg-gray-50 dark:bg-gray-900 border-gray-200 dark:border-gray-800'
 ]}>
   <div class={compact ? '' : 'max-w-2xl mx-auto text-center'}>
     <h3 class:list={[
@@ -42,12 +42,12 @@ const { compact = false } = Astro.props;
         name="email"
         required
         placeholder="you@example.com"
-        class="flex-1 px-4 py-2.5 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-gray-100 placeholder:text-gray-400 dark:placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-shadow"
+        class="flex-1 px-4 py-2.5 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-gray-100 placeholder:text-gray-400 dark:placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent transition-shadow"
         id="newsletter-email"
       />
       <button
         type="submit"
-        class="px-5 py-2.5 bg-blue-600 hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-600 text-white text-sm font-medium rounded-xl transition-colors whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
+        class="px-5 py-2.5 bg-gray-900 hover:bg-black dark:bg-white dark:hover:bg-gray-100 text-white dark:text-gray-900 text-sm font-medium rounded-xl transition-colors whitespace-nowrap focus:outline-none focus:ring-2 focus:ring-gray-900 focus:ring-offset-2 dark:focus:ring-offset-gray-900"
         id="newsletter-submit"
       >
         Subscribe
@@ -58,7 +58,7 @@ const { compact = false } = Astro.props;
       'text-gray-400 dark:text-gray-500',
       compact ? 'mt-2 text-xs' : 'mt-3 text-xs'
     ]}>
-      Also available via <a href="/rss.xml" class="text-blue-600 dark:text-blue-400 hover:underline">RSS feed</a>
+      Also available via <a href="/rss.xml" class="underline hover:text-gray-600 dark:hover:text-gray-300">RSS feed</a>
     </p>
   </div>
 </section>
@@ -71,7 +71,7 @@ const { compact = false } = Astro.props;
     e.preventDefault();
     if (submitBtn) {
       submitBtn.textContent = '✓ Subscribed!';
-      submitBtn.classList.remove('bg-blue-600', 'hover:bg-blue-700', 'dark:bg-blue-500', 'dark:hover:bg-blue-600');
+      submitBtn.classList.remove('bg-gray-900', 'hover:bg-black', 'dark:bg-white', 'dark:hover:bg-gray-100');
       submitBtn.classList.add('bg-green-600', 'cursor-not-allowed');
       (submitBtn as HTMLButtonElement).disabled = true;
     }

@@ -33,7 +33,7 @@ for (let i = 1; i <= totalPages; i++) {
     {currentPage > 1 ? (
       <a
         href={getPageUrl(currentPage - 1)}
-        class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
+        class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
       >
         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
@@ -54,13 +54,13 @@ for (let i = 1; i <= totalPages; i++) {
       page === '...' ? (
         <span class="px-2 py-2 text-sm text-gray-400 dark:text-gray-500">…</span>
       ) : page === currentPage ? (
-        <span class="flex items-center justify-center w-10 h-10 text-sm font-semibold text-white bg-blue-600 dark:bg-blue-500 rounded-lg">
+        <span class="flex items-center justify-center w-10 h-10 text-sm font-semibold text-white bg-gray-900 dark:bg-white dark:text-gray-900 rounded-lg">
           {page}
         </span>
       ) : (
         <a
           href={getPageUrl(page)}
-          class="flex items-center justify-center w-10 h-10 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
+          class="flex items-center justify-center w-10 h-10 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
         >
           {page}
         </a>
@@ -71,7 +71,7 @@ for (let i = 1; i <= totalPages; i++) {
     {currentPage < totalPages ? (
       <a
         href={getPageUrl(currentPage + 1)}
-        class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
+        class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors"
       >
         Next
         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">

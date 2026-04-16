@@ -17,8 +17,8 @@
 @theme {
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-serif: 'Newsreader', Georgia, 'Times New Roman', serif;
-  --color-accent: #2563eb;
-  --color-accent-light: #60a5fa;
+  --color-accent: #000000;
+  --color-accent-light: #ffffff;
 }
 
 /* --- Base Styles --- */
@@ -29,13 +29,13 @@ html {
 }
 
 ::selection {
-  background-color: #2563eb;
+  background-color: #000000;
   color: white;
 }
 
 .dark ::selection {
-  background-color: #60a5fa;
-  color: #0b0d14;
+  background-color: #ffffff;
+  color: #000000;
 }
 
 /* --- Scrollbar --- */
@@ -128,22 +128,22 @@ html.theme-transition *::after {
 /* --- Pagefind UI Overrides --- */
 :root {
   --pagefind-ui-scale: 1;
-  --pagefind-ui-primary: #2563eb;
-  --pagefind-ui-text: #1e293b;
+  --pagefind-ui-primary: #000000;
+  --pagefind-ui-text: #111827;
   --pagefind-ui-background: #ffffff;
   --pagefind-ui-border: #e2e8f0;
-  --pagefind-ui-tag: #eff6ff;
+  --pagefind-ui-tag: #f3f4f6;
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 12px;
   --pagefind-ui-font: 'Inter', system-ui, sans-serif;
 }
 
 .dark {
-  --pagefind-ui-primary: #60a5fa;
+  --pagefind-ui-primary: #ffffff;
   --pagefind-ui-text: #e2e8f0;
   --pagefind-ui-background: #111827;
   --pagefind-ui-border: #1f2937;
-  --pagefind-ui-tag: #1e3a5f;
+  --pagefind-ui-tag: #1f2937;
 }
 
 /* --- Prose dark mode --- */
@@ -183,7 +183,7 @@ html.theme-transition *::after {
 
 /* --- Gazet-style section label --- */
 .section-label {
-  border-top: 3px solid #2563eb;
+  border-top: 3px solid #000000;
   padding-top: 0.625rem;
   font-size: 0.7rem;
   font-weight: 800;
@@ -194,7 +194,7 @@ html.theme-transition *::after {
 }
 
 .dark .section-label {
-  border-top-color: #60a5fa;
+  border-top-color: #ffffff;
   color: #f1f5f9;
 }
 
