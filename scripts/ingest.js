@@ -242,7 +242,14 @@ async function main() {
   }
 
   console.log('Clustering articles...');
-  const clusters = await clusterArticles(newArticles);
+  let clusters;
+  try {
+    clusters = await clusterArticles(newArticles);
+  } catch (err) {
+    console.error(`⛔ Clustering failed — API may be down or quota exhausted: ${err.message}`);
+    console.error('Aborting run. No API calls wasted on synthesis.');
+    return;
+  }
   console.log(`Identified ${clusters.length} clusters.`);
 
   // Cap per-run output to avoid runaway API costs and rate limits
@@ -254,6 +261,10 @@ async function main() {
 
   await fs.mkdir(POSTS_DIR, { recursive: true });
 
+  // Circuit breaker: abort early if too many consecutive failures
+  const MAX_CONSECUTIVE_FAILURES = 3;
+  let consecutiveFailures = 0;
+
   for (const cluster of clustersToProcess) {
     try {
       console.log(`\nProcessing cluster: "${cluster.theme}" (${cluster.articles.length} sources)`);
@@ -261,7 +272,7 @@ async function main() {
       console.log('  Synthesizing article...');
       const synthesis = await synthesizeArticle(cluster);
 
-      console.log(`  Fetching Unsplash image for: "${synthesis.visual_keyword}"`);
+      console.log(`  Fetching Pexels image for: "${synthesis.visual_keyword}"`);
       const image = await getImageData(synthesis.visual_keyword);
 
       const dateStr = new Date().toISOString();
@@ -298,10 +309,17 @@ sources_count: ${cluster.articles.length}
 
       // Mark cluster sources as processed
       cluster.articles.forEach((a) => processedUrls.add(a.link));
+      consecutiveFailures = 0;
 
       console.log(`  ✓ Saved: ${filename}`);
     } catch (err) {
+      consecutiveFailures++;
       console.error(`  ✗ Failed cluster "${cluster.theme}":`, err.message);
+
+      if (consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
+        console.error(`\n⛔ Circuit breaker tripped: ${MAX_CONSECUTIVE_FAILURES} consecutive failures. Aborting run to prevent wasted API calls.`);
+        break;
+      }
     }
   }
 
