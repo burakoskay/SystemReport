@@ -26,11 +26,11 @@
 - **Lighthouse CI gate.** `.lighthouserc.json` + `.github/workflows/lighthouse.yml` — PRs fail if Performance<90 or A11y/BP/SEO<95. Commit `452832f`.
 - **Discord alerting.** `src/pipeline/alerts.mjs` posts to `DISCORD_WEBHOOK_URL` (no-op if unset). Wired to clustering abort, circuit-breaker trip, and run summary (errors + partial-failure + success-with-volume). Needs `gh secret set DISCORD_WEBHOOK_URL` to activate.
 - **Telemetry rollup.** `scripts/telemetry-rollup.js` — daily JSONL → `ops/rollup/YYYY-MM-DD.json` with success rate, p50/p95 latency per model, error-class histogram.
+- **Editorial voice guide.** `docs/EDITORIAL_VOICE.md` loaded once at ingest startup, injected verbatim into both draft and revise prompts. Opinionated voice (concrete, declarative, no marketing verbs, no consultant nouns) replaces the ad-hoc banned-phrase list in prompts.
 
 ### 🚧 Next lever (in-progress / queued)
 
-1. **Editorial voice** (`docs/EDITORIAL_VOICE.md`). Style guide injected into prompts.
-2. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
+1. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
 3. **Image generation.** Flux Schnell on Cloudflare Workers AI → inline illustration per section.
 4. **Dedup (SimHash + semantic).** Kill cross-chunk duplicate clusters.
 5. **Multi-draft A+B + judge.** Two drafts in parallel, judge picks winner — raises ceiling on quality.

@@ -24,6 +24,15 @@ const FEEDS = [
 
 const PROCESSED_URLS_FILE = path.join(process.cwd(), 'processed_urls.json');
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
+const EDITORIAL_VOICE_FILE = path.join(process.cwd(), 'docs/EDITORIAL_VOICE.md');
+
+// Loaded once at startup; injected into draft/revise prompts.
+let EDITORIAL_VOICE = '';
+try {
+  EDITORIAL_VOICE = (await fs.readFile(EDITORIAL_VOICE_FILE, 'utf-8')).trim();
+} catch {
+  EDITORIAL_VOICE = '';
+}
 
 // Setup DOMPurify
 const window = new JSDOM('').window;
@@ -243,11 +252,12 @@ async function draftArticle(cluster) {
     .map((a) => `Title: ${a.title}\nSource: ${a.source}\nContent: ${a.content}`)
     .join('\n\n---\n\n');
 
-  const prompt = `You are a Senior Editor for a top-tier tech publication (like Wired or Hacker News).
-Synthesize a comprehensive, 400-word original article in Markdown format based on the following source texts.
-Do not plagiarize; write an original, cohesive, and highly engaging journalistic piece.
+  const voiceBlock = EDITORIAL_VOICE
+    ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
+    : '';
 
-Banned phrases — NEVER use these or their close variants: "delve", "tapestry", "in today's fast-paced", "in the ever-evolving", "game-changer", "cutting-edge", "paradigm shift", "stands as a testament", "pave the way", "unlock the potential", "harness the power", "revolutionize", "synergy", "holistic", "seamless". Write like a human journalist, not a marketing blog.
+  const prompt = `${voiceBlock}You are writing for System Report, per the voice guide above.
+Synthesize a 400-word original article in Markdown based on the source texts below. No plagiarism.
 
 You must output a JSON object containing:
 - "title": A catchy, professional headline (no colons unless absolutely needed).
@@ -342,9 +352,11 @@ async function reviseDraft(draft, critique, cluster) {
     .map((a) => `Title: ${a.title}\nContent: ${a.content.substring(0, 400)}`)
     .join('\n\n---\n\n');
 
-  const prompt = `Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (400 words).
+  const voiceBlock = EDITORIAL_VOICE
+    ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
+    : '';
 
-Banned phrases (never use these or variants): delve, tapestry, in today's fast-paced, in the ever-evolving, game-changer, cutting-edge, paradigm shift, stands as a testament, pave the way, unlock the potential, harness the power, revolutionize, synergy, holistic, seamless.
+  const prompt = `${voiceBlock}Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (400 words). Adhere to the voice guide.
 
 Return a JSON object with the SAME schema as the original draft: title, description (≤160 chars), article_markdown, tags (3-5), visual_keyword.
 
