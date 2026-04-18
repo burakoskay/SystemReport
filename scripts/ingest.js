@@ -178,18 +178,78 @@ async function clusterArticles(articles) {
   return all;
 }
 
-// --- Content synthesis ---
-async function synthesizeArticle(cluster) {
+// --- Stylometric filter: LLM tell-phrases we refuse to ship ---
+// Sourced from published analyses of GPT/Claude/Llama output + manual audit of prior drafts.
+const BANNED_PHRASES = [
+  'in today\'s fast-paced',
+  'in the ever-evolving',
+  'in the realm of',
+  'tapestry',
+  'delve into',
+  'delving into',
+  'dive into',
+  'navigate the complexities',
+  'navigating the complexities',
+  'it\'s worth noting',
+  'stands as a testament',
+  'testament to',
+  'landscape of',
+  'game-changer',
+  'game changer',
+  'at the forefront of',
+  'pave the way',
+  'paving the way',
+  'cutting-edge',
+  'state-of-the-art',
+  'revolutionize',
+  'revolutionizing',
+  'unlock the potential',
+  'harness the power',
+  'a new era',
+  'the future of',  // allow only when NOT at sentence start
+  'crucial to',
+  'pivotal',
+  'paradigm shift',
+  'holistic approach',
+  'seamless integration',
+  'synergy',
+];
+
+function scanBannedPhrases(markdown) {
+  const lower = markdown.toLowerCase();
+  const hits = [];
+  for (const phrase of BANNED_PHRASES) {
+    if (lower.includes(phrase)) hits.push(phrase);
+  }
+  return hits;
+}
+
+const synthesisSchema = {
+  type: Type.OBJECT,
+  properties: {
+    title: { type: Type.STRING },
+    description: { type: Type.STRING },
+    article_markdown: { type: Type.STRING },
+    tags: { type: Type.ARRAY, items: { type: Type.STRING } },
+    visual_keyword: { type: Type.STRING },
+  },
+  required: ['title', 'description', 'article_markdown', 'tags', 'visual_keyword'],
+};
+
+// --- Draft (single pass) ---
+async function draftArticle(cluster) {
   const sourceTexts = cluster.articles
     .map((a) => `Title: ${a.title}\nSource: ${a.source}\nContent: ${a.content}`)
     .join('\n\n---\n\n');
 
   const prompt = `You are a Senior Editor for a top-tier tech publication (like Wired or Hacker News).
 Synthesize a comprehensive, 400-word original article in Markdown format based on the following source texts.
-Do not plagiarize; write an original, cohesive, and highly engaging journalistic piece. 
+Do not plagiarize; write an original, cohesive, and highly engaging journalistic piece.
+
+Banned phrases — NEVER use these or their close variants: "delve", "tapestry", "in today's fast-paced", "in the ever-evolving", "game-changer", "cutting-edge", "paradigm shift", "stands as a testament", "pave the way", "unlock the potential", "harness the power", "revolutionize", "synergy", "holistic", "seamless". Write like a human journalist, not a marketing blog.
 
 You must output a JSON object containing:
-- "title": A catchy, professional headline.
+- "title": A catchy, professional headline (no colons unless absolutely needed).
 - "description": A compelling 1-2 sentence summary suitable for SEO meta descriptions and article previews (max 160 characters).
 - "article_markdown": The full markdown body of the article (without main # title, just the content).
 - "tags": An array of 3-5 relevant lowercase string tags.
@@ -197,18 +257,6 @@ You must output a JSON object containing:
 
 Source Texts:
 ${sourceTexts}`;
-
-  const synthesisSchema = {
-    type: Type.OBJECT,
-    properties: {
-      title: { type: Type.STRING },
-      description: { type: Type.STRING },
-      article_markdown: { type: Type.STRING },
-      tags: { type: Type.ARRAY, items: { type: Type.STRING } },
-      visual_keyword: { type: Type.STRING },
-    },
-    required: ['title', 'description', 'article_markdown', 'tags', 'visual_keyword'],
-  };
 
   const response = await withRetry(() =>
     routeCall({ task: 'draft', prompt, schema: synthesisSchema })
@@ -218,12 +266,139 @@ ${sourceTexts}`;
   try {
     result = JSON.parse(response.text);
   } catch (e) {
-    throw new Error(`Synthesis returned invalid JSON from ${response.provider}: ${e.message}`);
+    throw new Error(`Draft returned invalid JSON from ${response.provider}: ${e.message}`);
   }
   if (!result.title || !result.article_markdown || !result.tags) {
-    throw new Error(`Synthesis from ${response.provider} missing required fields (title, article_markdown, tags)`);
+    throw new Error(`Draft from ${response.provider} missing required fields`);
   }
+  result._drafter = `${response.provider}/${response.model}`;
   return result;
+}
+
+// --- Critique (different model family) ---
+async function critiqueDraft(draft, cluster) {
+  const sourceTexts = cluster.articles
+    .map((a) => `Title: ${a.title}\nContent: ${a.content.substring(0, 400)}`)
+    .join('\n\n---\n\n');
+
+  const prompt = `You are a ruthless editor reviewing a junior writer's draft.
+Compare the DRAFT against the SOURCE MATERIAL. Return a JSON object with:
+- "factual_issues": array of strings. Claims in the draft NOT supported by sources, or outright contradictions. Empty array if none.
+- "style_issues": array of strings. LLM tell-phrases, purple prose, clichés, weak openings, filler sentences.
+- "missing_angles": array of strings. Important facts or angles in the sources the draft omitted.
+- "verdict": "ship" | "revise" | "reject". "ship" = publish as-is. "revise" = fixable issues. "reject" = factually compromised, regenerate from scratch.
+
+Be concise. One sentence per issue. No pleasantries.
+
+DRAFT TITLE: ${draft.title}
+DRAFT DESCRIPTION: ${draft.description}
+DRAFT BODY:
+${draft.article_markdown}
+
+---
+SOURCE MATERIAL:
+${sourceTexts}`;
+
+  const critiqueSchema = {
+    type: Type.OBJECT,
+    properties: {
+      factual_issues: { type: Type.ARRAY, items: { type: Type.STRING } },
+      style_issues:   { type: Type.ARRAY, items: { type: Type.STRING } },
+      missing_angles: { type: Type.ARRAY, items: { type: Type.STRING } },
+      verdict:        { type: Type.STRING },
+    },
+    required: ['factual_issues', 'style_issues', 'missing_angles', 'verdict'],
+  };
+
+  try {
+    const res = await routeCall({ task: 'critique', prompt, schema: critiqueSchema });
+    const parsed = JSON.parse(res.text);
+    parsed._critic = `${res.provider}/${res.model}`;
+    return parsed;
+  } catch (e) {
+    console.log(`    critique failed, treating as ship: ${e.message.slice(0, 120)}`);
+    return { factual_issues: [], style_issues: [], missing_angles: [], verdict: 'ship', _critic: 'none' };
+  }
+}
+
+// --- Revise (based on critique) ---
+async function reviseDraft(draft, critique, cluster) {
+  const issues = [
+    ...critique.factual_issues.map(s => `FACT: ${s}`),
+    ...critique.style_issues.map(s => `STYLE: ${s}`),
+    ...critique.missing_angles.map(s => `MISSING: ${s}`),
+  ];
+  if (issues.length === 0) return draft;
+
+  const sourceTexts = cluster.articles
+    .map((a) => `Title: ${a.title}\nContent: ${a.content.substring(0, 400)}`)
+    .join('\n\n---\n\n');
+
+  const prompt = `Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (400 words).
+
+Banned phrases (never use these or variants): delve, tapestry, in today's fast-paced, in the ever-evolving, game-changer, cutting-edge, paradigm shift, stands as a testament, pave the way, unlock the potential, harness the power, revolutionize, synergy, holistic, seamless.
+
+Return a JSON object with the SAME schema as the original draft: title, description (≤160 chars), article_markdown, tags (3-5), visual_keyword.
+
+ISSUES TO FIX:
+${issues.map(s => `- ${s}`).join('\n')}
+
+ORIGINAL DRAFT:
+Title: ${draft.title}
+Description: ${draft.description}
+Body:
+${draft.article_markdown}
+
+SOURCE MATERIAL (for fact-fixing):
+${sourceTexts}`;
+
+  try {
+    const res = await routeCall({ task: 'draft', prompt, schema: synthesisSchema });
+    const parsed = JSON.parse(res.text);
+    if (!parsed.title || !parsed.article_markdown || !parsed.tags) {
+      console.log(`    revision missing fields, keeping original draft`);
+      return draft;
+    }
+    parsed._drafter = draft._drafter;
+    parsed._revisor = `${res.provider}/${res.model}`;
+    return parsed;
+  } catch (e) {
+    console.log(`    revision failed, keeping original draft: ${e.message.slice(0, 120)}`);
+    return draft;
+  }
+}
+
+// --- Full synthesize pipeline: draft → critique → revise → stylometric gate ---
+async function synthesizeArticle(cluster) {
+  // 1. Draft
+  let article = await draftArticle(cluster);
+
+  // 2. Critique (different family than drafter — gives fresh eyes)
+  const critique = await critiqueDraft(article, cluster);
+  const issueCount = critique.factual_issues.length + critique.style_issues.length + critique.missing_angles.length;
+  console.log(`    critique=${critique._critic} verdict=${critique.verdict} issues=${issueCount}`);
+
+  if (critique.verdict === 'reject') {
+    throw new Error(`Critic rejected draft as factually compromised. style=${critique.style_issues.length} fact=${critique.factual_issues.length}`);
+  }
+
+  // 3. Revise if critique flagged anything
+  if (critique.verdict === 'revise' || issueCount > 0) {
+    article = await reviseDraft(article, critique, cluster);
+  }
+
+  // 4. Stylometric gate — if banned phrases slipped through, one more revision attempt
+  const hits = scanBannedPhrases(article.article_markdown + ' ' + article.title);
+  if (hits.length > 0) {
+    console.log(`    stylometric gate: ${hits.length} banned phrase(s): ${hits.slice(0, 3).join(', ')}`);
+    article = await reviseDraft(
+      article,
+      { factual_issues: [], missing_angles: [], style_issues: hits.map(h => `Remove banned phrase: "${h}"`), verdict: 'revise' },
+      cluster
+    );
+  }
+
+  return article;
 }
 
 // --- Image fetching (Pexels) ---
