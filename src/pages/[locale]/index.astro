@@ -1,0 +1,76 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { LOCALES } from '../../pipeline/translator.mjs';
+
+const NATIVE = {
+  en: 'English', tr: 'Türkçe', es: 'Español', fr: 'Français', de: 'Deutsch',
+  ja: '日本語', 'zh-CN': '简体中文', ko: '한국어', pt: 'Português', it: 'Italiano', ar: 'العربية',
+};
+
+export async function getStaticPaths() {
+  const all = await getCollection('posts-i18n');
+  const locales = [...new Set(all.map(p => p.id.split('/')[0]))];
+  return locales.map(locale => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+const all = await getCollection('posts-i18n');
+const posts = all
+  .filter(p => p.id.startsWith(`${locale}/`))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const nativeName = NATIVE[locale!] || locale;
+
+const ACTIVE = Object.keys(LOCALES);
+const alternates = [
+  { hreflang: 'en', href: `${siteBase}/` },
+  { hreflang: 'x-default', href: `${siteBase}/` },
+  ...ACTIVE.map(l => ({ hreflang: l, href: `${siteBase}/${l}/` })),
+];
+
+function fmt(date: Date) {
+  try {
+    return date.toLocaleDateString(locale!, { year: 'numeric', month: 'long', day: 'numeric' });
+  } catch {
+    return date.toISOString().slice(0, 10);
+  }
+}
+---
+
+<Layout
+  title={`System Report — ${nativeName}`}
+  description={`System Report in ${nativeName}.`}
+  url={`${siteBase}/${locale}/`}
+  lang={locale}
+  hreflangAlternates={alternates}
+>
+  <div class="max-w-4xl mx-auto">
+    <h1 class="font-serif text-4xl sm:text-5xl font-bold tracking-tight mb-2">{nativeName}</h1>
+    <p class="text-sm text-gray-500 dark:text-gray-400 mb-10">
+      <a href="/" class="underline hover:no-underline">English</a>
+    </p>
+
+    <ul class="space-y-6">
+      {posts.map((post) => {
+        const slug = post.data.canonical_slug || post.id.split('/').slice(1).join('/');
+        return (
+          <li class="border-b border-gray-200 dark:border-gray-800 pb-6">
+            <a href={`/${locale}/posts/${slug}`} class="group block">
+              <h2 class="font-serif text-xl sm:text-2xl font-semibold text-gray-900 dark:text-gray-50 group-hover:underline">
+                {post.data.title}
+              </h2>
+              {post.data.description && (
+                <p class="mt-2 text-gray-600 dark:text-gray-400">{post.data.description}</p>
+              )}
+              <p class="mt-2 text-xs text-gray-500 dark:text-gray-500">
+                <time datetime={post.data.date.toISOString()}>{fmt(post.data.date)}</time>
+              </p>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</Layout>

@@ -1,4 +1,6 @@
 ---
+import { getCollection } from 'astro:content';
+
 interface Props {
   hreflangAlternates?: Array<{ hreflang: string; href: string }>;
   currentLang?: string;
@@ -10,13 +12,24 @@ const NATIVE = {
   ja: '日本語', 'zh-CN': '简体中文', ko: '한국어', pt: 'Português', it: 'Italiano', ar: 'العربية',
 };
 
-// Filter to real locale links: drop x-default and self.
-const links = hreflangAlternates
+// Per-page alternates take precedence: drop x-default and the current locale.
+const perPage = hreflangAlternates
   .filter(a => a.hreflang !== 'x-default' && a.hreflang !== currentLang)
   .map(a => ({ ...a, label: NATIVE[a.hreflang] || a.hreflang.toUpperCase() }));
 
+// Fallback: list every locale that has translated content. Built once per
+// build via the content collection; links point to the locale homepage,
+// or to "/" for the English fallback.
+let links = perPage;
 if (links.length === 0) {
-  // Hide entirely on pages with no translations available.
+  const all = await getCollection('posts-i18n').catch(() => []);
+  const haveContent = new Set(all.map(p => p.id.split('/')[0]));
+  const fallback: Array<{ hreflang: string; href: string; label: string }> = [];
+  if (currentLang !== 'en') fallback.push({ hreflang: 'en', href: '/', label: NATIVE.en });
+  for (const l of haveContent) {
+    if (l !== currentLang) fallback.push({ hreflang: l, href: `/${l}/`, label: NATIVE[l] || l.toUpperCase() });
+  }
+  links = fallback;
 }
 ---
 
