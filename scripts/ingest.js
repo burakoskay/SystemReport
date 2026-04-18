@@ -10,6 +10,7 @@ import { routeCall } from '../src/pipeline/router.mjs';
 import { sendAlert } from '../src/pipeline/alerts.mjs';
 import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
+import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 
 dotenv.config();
 
@@ -534,8 +535,23 @@ async function main() {
       console.log('  Synthesizing article...');
       const synthesis = await synthesizeArticle(cluster);
 
-      console.log(`  Fetching Pexels image for: "${synthesis.visual_keyword}"`);
-      const image = await getImageData(synthesis.visual_keyword);
+      // Prefer a generated hero (CF Flux Schnell) when creds are set; Pexels is fallback.
+      let image = null;
+      let generatedHero = null;
+      if (process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN) {
+        try {
+          console.log(`  Generating hero via Flux Schnell: "${synthesis.visual_keyword}"`);
+          generatedHero = await generateHeroImage(synthesis.visual_keyword, synthesis.title);
+        } catch (e) {
+          console.log(`  ⚠ Flux gen failed, falling back to Pexels: ${e.message}`);
+        }
+      }
+      if (!generatedHero) {
+        console.log(`  Fetching Pexels image for: "${synthesis.visual_keyword}"`);
+        image = await getImageData(synthesis.visual_keyword);
+      } else {
+        image = { url: '', creditName: 'System Report (Flux Schnell)', creditUrl: 'https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/' };
+      }
 
       const dateStr = new Date().toISOString();
       const slug = synthesis.title
@@ -553,15 +569,27 @@ async function main() {
       const baseSlug = `${datePrefix}-${slug}-${hash}`;
       const filename = `${baseSlug}.md`;
 
-      // Self-host the hero to avoid Pexels CDN third-party cookies.
-      // Fall back to the remote URL if the download fails so we never block
-      // publishing on a transient CDN hiccup.
+      // Self-host the hero. Generated images are written directly;
+      // Pexels images are downloaded. Fall back to remote URL on failure.
       let heroPath;
-      try {
-        heroPath = await downloadHero(image.url, baseSlug);
-      } catch (e) {
-        console.log(`  ⚠ hero download failed, using remote URL: ${e.message}`);
-        heroPath = image.url;
+      if (generatedHero) {
+        try {
+          await fs.mkdir(HERO_DIR, { recursive: true });
+          const localPath = path.join(HERO_DIR, `${baseSlug}.png`);
+          await fs.writeFile(localPath, generatedHero);
+          heroPath = `/hero/${baseSlug}.png`;
+        } catch (e) {
+          console.log(`  ⚠ generated hero write failed, falling back to Pexels: ${e.message}`);
+          image = await getImageData(synthesis.visual_keyword);
+          try { heroPath = await downloadHero(image.url, baseSlug); } catch { heroPath = image.url; }
+        }
+      } else {
+        try {
+          heroPath = await downloadHero(image.url, baseSlug);
+        } catch (e) {
+          console.log(`  ⚠ hero download failed, using remote URL: ${e.message}`);
+          heroPath = image.url;
+        }
       }
 
       // Generate narration (best-effort; never blocks publishing).
