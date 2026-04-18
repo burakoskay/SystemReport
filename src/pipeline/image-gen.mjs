@@ -4,8 +4,9 @@
 const STEPS = 4; // 4 is the default; 8 is max quality but 2× time. 4 is plenty for thumbnails.
 
 function buildPrompt(visualKeyword, title) {
-  // Editorial illustration prompt — no text, clean aesthetic, matches site's monochrome-ish vibe.
-  return `Editorial tech news illustration: ${visualKeyword}. Context: ${title}. Clean minimalist composition, muted palette, abstract-realistic style, subtle grain, no text or logos, 16:9 composition, studio lighting.`.slice(0, 2048);
+  // STRICT: never include any text/letters/numbers/words/captions/labels/logos
+  // in generated images. Flux readily hallucinates garbled signage — we ban it.
+  return `Editorial tech news illustration: ${visualKeyword}. Context: ${title}. Clean minimalist composition, muted palette, abstract-realistic style, subtle grain, 16:9 composition, studio lighting. ABSOLUTELY NO TEXT, no letters, no words, no numbers, no captions, no labels, no signage, no typography, no writing of any kind, no logos, no watermarks, no UI elements with text.`.slice(0, 2048);
 }
 
 export async function generateHeroImage(visualKeyword, title) {
