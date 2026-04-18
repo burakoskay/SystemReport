@@ -6,14 +6,13 @@
     "last_failure": "2026-04-18T01:01:38.811Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "last_success": "2026-04-18T01:05:12.284Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-04-18T01:45:12.418Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10642, Requested 2216. Please try again in 4.29s. Need more tokens? Upgrade to Dev Tier today ",
-    "last_failure": "2026-04-18T01:05:12.758Z",
-    "cooldown_until": "2026-04-18T01:15:12.696Z"
+    "last_failure": "2026-04-18T01:05:12.758Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-04-18T01:08:48.096Z",
+    "last_success": "2026-04-18T01:45:11.405Z",
     "consecutive_failures": 0
   },
   "groq:llama-3.1-8b-instant": {
@@ -33,7 +32,7 @@
     "cooldown_until": "2026-05-18T01:01:20.616Z"
   },
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-04-18T01:08:46.218Z",
+    "last_success": "2026-04-18T01:45:05.797Z",
     "consecutive_failures": 0
   }
 }

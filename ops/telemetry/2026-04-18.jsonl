@@ -1,0 +1,6 @@
+{"t":"2026-04-18T01:45:05.798Z","task":"cluster","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":295,"prompt_chars":1651,"response_chars":211}
+{"t":"2026-04-18T01:45:06.999Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1198,"prompt_chars":5633,"response_chars":1505}
+{"t":"2026-04-18T01:45:08.522Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":1521,"prompt_chars":2818,"response_chars":1369}
+{"t":"2026-04-18T01:45:09.488Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":965,"prompt_chars":9829,"response_chars":1285}
+{"t":"2026-04-18T01:45:11.406Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":1916,"prompt_chars":2820,"response_chars":1471}
+{"t":"2026-04-18T01:45:12.418Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1011,"prompt_chars":5911,"response_chars":976}
