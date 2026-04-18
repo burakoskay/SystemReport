@@ -3,9 +3,10 @@ import path from 'path';
 import Parser from 'rss-parser';
 import DOMPurify from 'dompurify';
 import { JSDOM } from 'jsdom';
-import { GoogleGenAI, Type } from '@google/genai';
+import { Type } from '@google/genai';
 import dotenv from 'dotenv';
 import crypto from 'crypto';
+import { routeCall } from '../src/pipeline/router.mjs';
 
 dotenv.config();
 
@@ -27,9 +28,7 @@ const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
 const window = new JSDOM('').window;
 const purify = DOMPurify(window);
 
-// Setup Gemini
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-const MODEL = 'gemini-2.5-flash';
+// LLM calls go through src/pipeline/router.mjs — provider-agnostic with failover.
 
 // --- Retry helper with exponential backoff (respects 429 Retry-After) ---
 async function withRetry(fn, retries = 3, baseDelay = 1000) {
@@ -103,37 +102,42 @@ async function fetchAndSanitizeFeeds(processedUrls) {
 async function clusterArticles(articles) {
   if (articles.length === 0) return [];
 
-  const prompt = `Analyze the following batch of tech news articles. Group duplicate or highly similar stories about the exact same event into semantic clusters. 
-Return a JSON array of clusters. Each cluster must have:
+  const prompt = `Analyze the following batch of tech news articles. Group duplicate or highly similar stories about the exact same event into semantic clusters.
+Return a JSON object with a "clusters" array. Each cluster must have:
 - "theme": A short description of the cluster.
 - "article_indices": An array of the integer indices of the articles belonging to this cluster.
+
+Example shape: {"clusters":[{"theme":"...","article_indices":[0,3]}]}
 
 Articles:
 ${articles.map((a, i) => `[${i}] Title: ${a.title}\nSummary: ${a.content.substring(0, 300)}...\n`).join('\n')}`;
 
-  const response = await withRetry(() =>
-    ai.models.generateContent({
-      model: MODEL,
-      contents: prompt,
-      config: {
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: Type.ARRAY,
-          items: {
-            type: Type.OBJECT,
-            properties: {
-              theme: { type: Type.STRING },
-              article_indices: { type: Type.ARRAY, items: { type: Type.INTEGER } },
-            },
-            required: ['theme', 'article_indices'],
+  const clusterSchema = {
+    type: Type.OBJECT,
+    properties: {
+      clusters: {
+        type: Type.ARRAY,
+        items: {
+          type: Type.OBJECT,
+          properties: {
+            theme: { type: Type.STRING },
+            article_indices: { type: Type.ARRAY, items: { type: Type.INTEGER } },
           },
+          required: ['theme', 'article_indices'],
         },
       },
-    })
+    },
+    required: ['clusters'],
+  };
+
+  const response = await withRetry(() =>
+    routeCall({ task: 'cluster', prompt, schema: clusterSchema })
   );
 
   try {
-    const clustersInfo = JSON.parse(response.text);
+    const parsed = JSON.parse(response.text);
+    // Accept either the new {clusters:[...]} shape or a bare array (Gemini-schema legacy)
+    const clustersInfo = Array.isArray(parsed) ? parsed : (parsed.clusters || []);
     return clustersInfo
       .map((c) => ({
         theme: c.theme,
@@ -166,35 +170,30 @@ You must output a JSON object containing:
 Source Texts:
 ${sourceTexts}`;
 
+  const synthesisSchema = {
+    type: Type.OBJECT,
+    properties: {
+      title: { type: Type.STRING },
+      description: { type: Type.STRING },
+      article_markdown: { type: Type.STRING },
+      tags: { type: Type.ARRAY, items: { type: Type.STRING } },
+      visual_keyword: { type: Type.STRING },
+    },
+    required: ['title', 'description', 'article_markdown', 'tags', 'visual_keyword'],
+  };
+
   const response = await withRetry(() =>
-    ai.models.generateContent({
-      model: MODEL,
-      contents: prompt,
-      config: {
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: Type.OBJECT,
-          properties: {
-            title: { type: Type.STRING },
-            description: { type: Type.STRING },
-            article_markdown: { type: Type.STRING },
-            tags: { type: Type.ARRAY, items: { type: Type.STRING } },
-            visual_keyword: { type: Type.STRING },
-          },
-          required: ['title', 'description', 'article_markdown', 'tags', 'visual_keyword'],
-        },
-      },
-    })
+    routeCall({ task: 'draft', prompt, schema: synthesisSchema })
   );
 
   let result;
   try {
     result = JSON.parse(response.text);
   } catch (e) {
-    throw new Error(`Gemini returned invalid JSON: ${e.message}`);
+    throw new Error(`Synthesis returned invalid JSON from ${response.provider}: ${e.message}`);
   }
   if (!result.title || !result.article_markdown || !result.tags) {
-    throw new Error('Gemini synthesis missing required fields (title, article_markdown, tags)');
+    throw new Error(`Synthesis from ${response.provider} missing required fields (title, article_markdown, tags)`);
   }
   return result;
 }
