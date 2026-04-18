@@ -8,6 +8,7 @@ import dotenv from 'dotenv';
 import crypto from 'crypto';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { sendAlert } from '../src/pipeline/alerts.mjs';
+import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
 
 dotenv.config();
 
@@ -477,12 +478,22 @@ async function main() {
   console.log(`Loaded ${processedUrls.size} previously processed URLs.`);
 
   console.log('Fetching and sanitizing feeds...');
-  const newArticles = await fetchAndSanitizeFeeds(processedUrls);
-  console.log(`Found ${newArticles.length} new articles.`);
+  const rawArticles = await fetchAndSanitizeFeeds(processedUrls);
+  console.log(`Found ${rawArticles.length} new articles.`);
 
-  if (newArticles.length === 0) {
+  if (rawArticles.length === 0) {
     console.log('No new articles. Exiting.');
     return;
+  }
+
+  // SimHash dedup — collapse near-identical feed entries before paying LLM tokens.
+  const { kept: newArticles, collapsed, groups } = collapseNearDuplicates(rawArticles);
+  if (collapsed > 0) {
+    console.log(`Dedup: collapsed ${collapsed} near-duplicates (${rawArticles.length} → ${newArticles.length}).`);
+    // Mark collapsed URLs as processed so we don't re-evaluate them next run.
+    for (const group of groups) {
+      for (let i = 1; i < group.length; i++) processedUrls.add(group[i].link);
+    }
   }
 
   console.log('Clustering articles...');
