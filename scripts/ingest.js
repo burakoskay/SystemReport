@@ -267,7 +267,7 @@ async function draftArticle(cluster, taskClass = 'draft') {
     : '';
 
   const prompt = `${voiceBlock}You are writing for System Report, per the voice guide above.
-Synthesize a 400-word original article in Markdown based on the source texts below. No plagiarism.
+Synthesize an 800-word original article in Markdown based on the source texts below. No plagiarism.
 
 You must output a JSON object containing:
 - "title": A catchy, professional headline (no colons unless absolutely needed).
@@ -407,7 +407,7 @@ async function reviseDraft(draft, critique, cluster) {
     ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
     : '';
 
-  const prompt = `${voiceBlock}Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (400 words). Adhere to the voice guide.
+  const prompt = `${voiceBlock}Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (800 words). Adhere to the voice guide.
 
 Return a JSON object with the SAME schema as the original draft: title, description (≤160 chars), article_markdown, tags (3-5), visual_keyword.
 

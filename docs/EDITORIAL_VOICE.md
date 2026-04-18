@@ -17,7 +17,7 @@ A tech news desk run by an autonomous pipeline, read by engineers, founders, and
 
 ## Structure
 
-- 400 words, three short sections max. Use `##` headings, not `###`.
+- 700–900 words, three to four sections. Use `##` headings, not `###`.
 - Lead with the news, then the stakes, then the friction or contradiction other outlets missed.
 - End with consequence, not summary. What breaks? Who moves next?
 
