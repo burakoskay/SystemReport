@@ -196,7 +196,7 @@ function withTimeout(promise, ms) {
  * Route a generation call across providers for a given task class.
  * Returns { text, provider, model } on success, throws on total failure.
  */
-export async function routeCall({ task, prompt, json = false, schema = undefined, timeoutMs = 45000 }) {
+export async function routeCall({ task, prompt, json = false, schema = undefined, timeoutMs = 45000, promptMeta = null }) {
   const rankedRaw = RANKINGS[task];
   if (!rankedRaw) throw new Error(`routeCall: unknown task class "${task}"`);
   // Normalize: each entry is [provider, model]
@@ -249,6 +249,7 @@ export async function routeCall({ task, prompt, json = false, schema = undefined
         latency_ms: latencyMs,
         prompt_chars: prompt.length,
         response_chars: result.text.length,
+        ...(promptMeta ? { prompt_id: promptMeta.id, prompt_variant: promptMeta.variant } : {}),
       });
 
       console.log(`  [router] ${task} via ${name}/${result.model} in ${latencyMs}ms`);
@@ -274,6 +275,7 @@ export async function routeCall({ task, prompt, json = false, schema = undefined
         latency_ms: latencyMs,
         error_class: kind || 'unknown',
         error: h.last_error,
+        ...(promptMeta ? { prompt_id: promptMeta.id, prompt_variant: promptMeta.variant } : {}),
       });
 
       attempts.push({ provider: name, model, error: h.last_error, classified: kind });

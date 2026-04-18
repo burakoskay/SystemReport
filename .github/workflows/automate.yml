@@ -36,6 +36,13 @@ jobs:
           TRANSLATE_ENABLED:    ${{ vars.TRANSLATE_ENABLED }}
         run: node scripts/ingest.js
 
+      - name: Run Prompt Eval (post-run)
+        # Reads the day's telemetry to compute per-prompt-variant quality
+        # metrics and diff against the previous report. Non-fatal — never
+        # blocks publishing.
+        if: always()
+        run: node scripts/eval-prompts.js || true
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -45,9 +52,9 @@ jobs:
           git pull --rebase --autostash origin main
 
           # Ensure optional output dirs exist so git-add never fails on missing pathspec
-          mkdir -p public/hero public/audio ops/telemetry src/content/posts-i18n
+          mkdir -p public/hero public/audio ops/telemetry ops/eval src/content/posts-i18n
 
-          git add src/content/posts/ src/content/posts-i18n/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
+          git add src/content/posts/ src/content/posts-i18n/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ ops/eval/ ops/dlq.jsonl || true
 
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: automated content ingestion"

@@ -10,12 +10,14 @@ import { routeCall } from '../src/pipeline/router.mjs';
 import { sendAlert } from '../src/pipeline/alerts.mjs';
 import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
 import { collapseSemanticDuplicates } from '../src/pipeline/semantic-dedup.mjs';
-import { groundArticle, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
+import { groundWithSpans, applyInlineCitations, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
 import { enqueueFailure } from '../src/pipeline/dlq.mjs';
 import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
+import { findMatchingPost, applyUpdate, getPostsIndex } from '../src/pipeline/update-matcher.mjs';
+import { selectPrompt } from '../src/pipeline/prompts.mjs';
 
 dotenv.config();
 
@@ -270,21 +272,11 @@ async function draftArticle(cluster, taskClass = 'draft') {
     ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
     : '';
 
-  const prompt = `${voiceBlock}You are writing for System Report, per the voice guide above.
-Synthesize an 800-word original article in Markdown based on the source texts below. No plagiarism.
-
-You must output a JSON object containing:
-- "title": A catchy, professional headline (no colons unless absolutely needed).
-- "description": A compelling 1-2 sentence summary suitable for SEO meta descriptions and article previews (max 160 characters).
-- "article_markdown": The full markdown body of the article (without main # title, just the content).
-- "tags": An array of 3-5 relevant lowercase string tags.
-- "visual_keyword": A single, highly descriptive keyword or short phrase suitable for an image generation prompt.
-
-Source Texts:
-${sourceTexts}`;
+  const sel = selectPrompt('draft');
+  const prompt = sel.render({ voiceBlock, sourceTexts });
 
   const response = await withRetry(() =>
-    routeCall({ task: taskClass, prompt, schema: synthesisSchema })
+    routeCall({ task: taskClass, prompt, schema: synthesisSchema, promptMeta: { id: sel.id, variant: sel.variant } })
   );
 
   let result;
@@ -411,24 +403,11 @@ async function reviseDraft(draft, critique, cluster) {
     ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
     : '';
 
-  const prompt = `${voiceBlock}Revise the draft below to fix every issue the editor flagged. Keep the same structure and approximate length (800 words). Adhere to the voice guide.
-
-Return a JSON object with the SAME schema as the original draft: title, description (≤160 chars), article_markdown, tags (3-5), visual_keyword.
-
-ISSUES TO FIX:
-${issues.map(s => `- ${s}`).join('\n')}
-
-ORIGINAL DRAFT:
-Title: ${draft.title}
-Description: ${draft.description}
-Body:
-${draft.article_markdown}
-
-SOURCE MATERIAL (for fact-fixing):
-${sourceTexts}`;
+  const sel = selectPrompt('revise');
+  const prompt = sel.render({ voiceBlock, issues, draft, sourceTexts });
 
   try {
-    const res = await routeCall({ task: 'draft', prompt, schema: synthesisSchema });
+    const res = await routeCall({ task: 'draft', prompt, schema: synthesisSchema, promptMeta: { id: sel.id, variant: sel.variant } });
     const parsed = JSON.parse(res.text);
     if (!parsed.title || !parsed.article_markdown || !parsed.tags) {
       console.log(`    revision missing fields, keeping original draft`);
@@ -575,12 +554,37 @@ async function main() {
   }
 
   // Semantic dedup — catches paraphrased duplicates SimHash misses. Fail-open.
-  const { kept: newArticles, collapsed: semCollapsed, groups: semGroups } = await collapseSemanticDuplicates(simKept);
+  const { kept: semKept, collapsed: semCollapsed, groups: semGroups } = await collapseSemanticDuplicates(simKept);
   if (semCollapsed > 0) {
-    console.log(`Dedup (semantic): collapsed ${semCollapsed} paraphrased duplicates (${simKept.length} → ${newArticles.length}).`);
+    console.log(`Dedup (semantic): collapsed ${semCollapsed} paraphrased duplicates (${simKept.length} → ${semKept.length}).`);
     for (const group of semGroups) {
       for (let i = 1; i < group.length; i++) processedUrls.add(group[i].link);
     }
+  }
+
+  // Real-time update routing — articles that closely match an existing
+  // published post bump that post's `modified_date` and append a changelog
+  // entry rather than spawning a new article. Preserves URL equity.
+  await getPostsIndex({ refresh: true });
+  const newArticles = [];
+  const updatedSlugs = [];
+  for (const a of semKept) {
+    try {
+      const { match, distance } = await findMatchingPost(a);
+      if (match) {
+        await applyUpdate(match, a, a.title);
+        processedUrls.add(a.link);
+        updatedSlugs.push(match.filename.replace(/\.md$/, ''));
+        console.log(`  ↻ update: "${a.title.slice(0, 70)}" → ${match.filename} (d=${distance})`);
+        continue;
+      }
+    } catch (e) {
+      console.log(`  ⚠ update-match check failed (proceeding as new): ${e.message.slice(0, 100)}`);
+    }
+    newArticles.push(a);
+  }
+  if (updatedSlugs.length > 0) {
+    console.log(`Real-time updates: ${updatedSlugs.length} article(s) updated in place.`);
   }
 
   console.log('Clustering articles...');
@@ -619,15 +623,20 @@ async function main() {
       console.log('  Synthesizing article...');
       const synthesis = await synthesizeArticle(cluster);
 
-      // Google Search grounding — append cited sources. Fail-open returns [].
+      // Google Search grounding — inline per-claim citations + footnote block.
+      // Fail-open: empty results just leave the article unchanged.
       try {
-        const citations = await groundArticle({
+        const { citations, supports } = await groundWithSpans({
           title: synthesis.title,
           body: synthesis.article_markdown,
         });
-        if (citations.length > 0) {
+        if (citations.length > 0 && supports.length > 0) {
+          synthesis.article_markdown = applyInlineCitations(synthesis.article_markdown, supports, citations);
+          console.log(`  🔗 Grounded: ${supports.length} claim(s), ${citations.length} source(s).`);
+        } else if (citations.length > 0) {
+          // Fallback to a flat sources block when span mapping isn't available.
           synthesis.article_markdown += citationsToMarkdown(citations);
-          console.log(`  🔗 Grounded with ${citations.length} citation(s).`);
+          console.log(`  🔗 Grounded (fallback): ${citations.length} source(s).`);
         }
       } catch (e) {
         console.log(`  ⚠ grounding skipped: ${e.message.slice(0, 120)}`);
@@ -803,9 +812,10 @@ audio_bytes: ${audioBytes}` : ''}
   const durationSec = Math.round((Date.now() - runStart) / 1000);
   console.log(`\nPipeline finished. ${processedUrls.size} total URLs tracked.`);
 
-  // IndexNow ping — submit fresh URLs to Bing/Yandex/Seznam/Naver/Yep.
-  if (publishedCount > 0 && publishedSlugs.length > 0) {
-    const urls = publishedSlugs.map(s => `https://systemreport.net/posts/${s}`);
+  // IndexNow ping — submit fresh + updated URLs to Bing/Yandex/Seznam/Naver/Yep.
+  const allChangedSlugs = Array.from(new Set([...publishedSlugs, ...updatedSlugs]));
+  if (allChangedSlugs.length > 0) {
+    const urls = allChangedSlugs.map(s => `https://systemreport.net/posts/${s}`);
     const r = await pingIndexNow(urls);
     console.log(`IndexNow: ${r.ok ? `pinged ${r.count || urls.length} URL(s)` : `failed ${r.error || r.status}`}`);
   }

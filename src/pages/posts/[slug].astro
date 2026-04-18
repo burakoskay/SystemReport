@@ -105,7 +105,7 @@ const articleSchema = {
         }]
       } : {}),
       "datePublished": post.data.date.toISOString(),
-      "dateModified": post.data.date.toISOString(),
+      "dateModified": (post.data.modified_date || post.data.date).toISOString(),
       "wordCount": wordCount,
       "inLanguage": "en-US",
       "speakable": {
@@ -193,6 +193,14 @@ const articleSchema = {
           </svg>
           {formattedDate}
         </time>
+        {post.data.modified_date && post.data.modified_date.valueOf() !== post.data.date.valueOf() && (
+          <>
+            <span class="w-1 h-1 rounded-full bg-gray-300 dark:bg-gray-600"></span>
+            <span class="flex items-center gap-1.5 text-amber-600 dark:text-amber-400">
+              Updated {post.data.modified_date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+            </span>
+          </>
+        )}
         <span class="w-1 h-1 rounded-full bg-gray-300 dark:bg-gray-600"></span>
         <span class="flex items-center gap-1.5">
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">

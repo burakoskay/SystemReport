@@ -4,6 +4,7 @@ import { glob } from 'astro/loaders';
 const postSchema = z.object({
   title: z.string(),
   date: z.string().or(z.date()).transform((val) => new Date(val)),
+  modified_date: z.string().or(z.date()).transform((val) => new Date(val)).optional(),
   tags: z.array(z.string()).optional(),
   hero_image: z.string().optional(),
   hero_image_credit_name: z.string().optional(),
@@ -15,6 +16,7 @@ const postSchema = z.object({
   audio_bytes: z.number().optional(),
   locale: z.string().optional(),
   canonical_slug: z.string().optional(),
+  corrections: z.array(z.object({ date: z.string(), note: z.string() })).optional(),
 });
 
 const postsCollection = defineCollection({

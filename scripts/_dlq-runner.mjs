@@ -9,7 +9,7 @@ import { Type } from '@google/genai';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
-import { groundArticle, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
+import { groundWithSpans, applyInlineCitations, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
 const HERO_DIR  = path.join(process.cwd(), 'public/hero');
@@ -44,10 +44,14 @@ ${sourceTexts}`;
 export async function synthesizeAndPublish(cluster) {
   const synthesis = await draft(cluster);
 
-  // Grounding (best-effort).
+  // Grounding (best-effort): inline per-claim citations when available.
   try {
-    const cites = await groundArticle({ title: synthesis.title, body: synthesis.article_markdown });
-    if (cites.length > 0) synthesis.article_markdown += citationsToMarkdown(cites);
+    const { citations, supports } = await groundWithSpans({ title: synthesis.title, body: synthesis.article_markdown });
+    if (citations.length > 0 && supports.length > 0) {
+      synthesis.article_markdown = applyInlineCitations(synthesis.article_markdown, supports, citations);
+    } else if (citations.length > 0) {
+      synthesis.article_markdown += citationsToMarkdown(citations);
+    }
   } catch { /* fail-open */ }
 
   const dateStr = new Date().toISOString();
