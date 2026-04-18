@@ -43,6 +43,9 @@ jobs:
           # Autostash handles modified tracked files (e.g. processed_urls.json) during rebase
           git pull --rebase --autostash origin main
 
+          # Ensure optional output dirs exist so git-add never fails on missing pathspec
+          mkdir -p public/hero public/audio ops/telemetry
+
           git add src/content/posts/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
 
           if ! git diff-index --quiet HEAD; then
