@@ -18,16 +18,20 @@
 - **Part 0 Hotfix 1/2/3 — Multi-provider router.** `src/pipeline/router.mjs` with task-class routing (`cluster`, `draft`, `critique`, `headline`, `seo-polish`), per-provider+model health tracking, cooldown classification (spending_cap=30d, permission=7d, daily_quota=6h, rate_limit=10m, server=5m, timeout=2m, too_large=fail-forward). Persistent state in `ops/provider-health.json`. Commits `ec99d81`, `5687a7c`, `f4aba3e`.
 - **Provider cartel onboarded (2/12).** Groq (14 models toggled — Llama 3.1 8B Instant, 3.3 70B Versatile, Scout 17B, GPT-OSS 120B/20B, Qwen3 32B, Whisper Turbo, Orpheus English TTS, Compound). Gemini 2.5 Flash (currently in spending-cap cooldown until ~2026-05-17 — router correctly skipping).
 - **Cluster batching.** Articles chunked 30-per-batch to fit 6K-TPM models; summaries trimmed to 200 chars; Scout-17B (30K TPM) promoted to primary clusterer. Cross-chunk dupes acceptable because feed bursts arrive together.
-- **Backlog drain — proof of life.** Workflow run `24593272611` (2026-04-18T01:04Z): 115 queued articles → 37 clusters → 25 drafts published in 1m43s. Mid-run rate-limit on Llama 70B triggered automatic failover to Scout-17B with zero human intervention. **Site now at 67 articles.**
+- **Backlog drain — proof of life.** Workflow run `24593272611` (2026-04-18T01:04Z): 115 queued articles → 37 clusters → 25 drafts published in 1m43s. Mid-run rate-limit on Llama 70B triggered automatic failover to Scout-17B with zero human intervention. **Site now at 79 articles.**
+- **Critique + Revise loop shipped.** `draftArticle` → `critiqueDraft` (cross-family: gpt-oss-120b vs Llama drafter) → `reviseDraft`. Defensive parsing (verdict/issues/missing_context defaults) for non-schema-enforced JSON mode. 1 factual-compromise rejection observed in production.
+- **Stylometric gate.** 30+ banned LLM-tell phrases scanned post-revise; banned phrases regenerate via prompt constraint.
+- **Self-hosted heroes (Best Practices fix).** `downloadHero()` saves every hero to `public/hero/<slug>.jpg` during ingest; `scripts/backfill-heroes.js` backfilled all 79 existing posts (5.2MB total). Pexels preconnect removed from Layout. Eliminates third-party cookies flagged by Lighthouse.
+- **Telemetry emitting.** `src/pipeline/router.mjs` writes JSONL records per call attempt to `ops/telemetry/YYYY-MM-DD.jsonl` (success + failure, latency, token sizes, error class). Commit `e9683b4`.
 
 ### 🚧 Next lever (in-progress / queued)
 
-1. **Critique + Revise loop** (Stages 08-09). Draft → cross-family critique (gpt-oss-120b, different family than drafter) → revise. Biggest single quality lever per unit effort.
-2. **Stylometric gate** (§9 quality gates). Banned-phrase detector for LLM-telltale phrases ("delve", "tapestry", "in today's fast-paced world", etc.). Reject + regenerate.
-3. **Editorial voice** (`docs/EDITORIAL_VOICE.md`). Style guide injected into prompts.
-4. **Discord alerting** — post DLQ summary + provider health when runs fail.
-5. **Telemetry rollup.** `ops/telemetry/YYYY-MM-DD.jsonl` → daily summary in `ops/rollup/`.
-6. **Lighthouse CI gate.** `lhci.config.json` + workflow to block PRs that regress scores.
+1. **Lighthouse CI gate.** `lhci.config.json` + workflow to block PRs that regress scores. Verify Best Practices hits 100 post-self-hosting.
+2. **Discord alerting** — post DLQ summary + provider health when runs fail.
+3. **Telemetry rollup.** Daily JSONL → summary in `ops/rollup/` (success rate per model, p50/p95 latency, error class histogram).
+4. **Editorial voice** (`docs/EDITORIAL_VOICE.md`). Style guide injected into prompts.
+5. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
+6. **Image generation.** Flux Schnell on Cloudflare Workers AI → inline illustration per section.
 
 ### 🔜 Later (Part I Stages 02-14)
 
