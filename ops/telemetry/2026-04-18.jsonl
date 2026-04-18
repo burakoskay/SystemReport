@@ -185,3 +185,55 @@
 {"t":"2026-04-18T12:46:30.615Z","task":"draft-b","provider":"groq","model":"qwen/qwen3-32b","ok":true,"latency_ms":3844,"prompt_chars":8012,"response_chars":3476}
 {"t":"2026-04-18T12:46:33.469Z","task":"critique","provider":"groq","model":"openai/gpt-oss-20b","ok":false,"latency_ms":2853,"error_class":"unknown","error":"Groq 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"\"}}\n"}
 {"t":"2026-04-18T12:46:35.068Z","task":"draft-b","provider":"groq","model":"qwen/qwen3-32b","ok":false,"latency_ms":37,"error_class":"rate_limit","error":"Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5029, Requested 2175. Please try again in 12.04s. Need more tokens? Upgrade to Dev Tier today at https:/"}
+{"t":"2026-04-18T16:31:09.230Z","task":"cluster","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1153,"prompt_chars":7831,"response_chars":888}
+{"t":"2026-04-18T16:31:09.949Z","task":"cluster","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":718,"prompt_chars":3076,"response_chars":615}
+{"t":"2026-04-18T16:31:11.079Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1126,"prompt_chars":6020,"response_chars":1383}
+{"t":"2026-04-18T16:31:13.193Z","task":"draft-b","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":3241,"prompt_chars":6020,"response_chars":4333}
+{"t":"2026-04-18T16:31:14.542Z","task":"judge","provider":"groq","model":"qwen/qwen3-32b","ok":true,"latency_ms":1347,"prompt_chars":5668,"response_chars":335}
+{"t":"2026-04-18T16:31:17.420Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":2877,"prompt_chars":7822,"response_chars":769}
+{"t":"2026-04-18T16:31:19.066Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1645,"prompt_chars":10210,"response_chars":1814}
+{"t":"2026-04-18T16:31:24.095Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":3372,"prompt_chars":2303,"response_chars":2072}
+{"t":"2026-04-18T16:31:25.752Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1655,"prompt_chars":2304,"response_chars":2283}
+{"t":"2026-04-18T16:31:28.146Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":2392,"prompt_chars":2304,"response_chars":2361}
+{"t":"2026-04-18T16:31:30.113Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1965,"prompt_chars":2303,"response_chars":2057}
+{"t":"2026-04-18T16:31:31.251Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1137,"prompt_chars":3418,"response_chars":1152}
+{"t":"2026-04-18T16:31:32.183Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":931,"prompt_chars":2272,"response_chars":713}
+{"t":"2026-04-18T16:31:33.180Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":995,"prompt_chars":4610,"response_chars":1182}
+{"t":"2026-04-18T16:31:46.305Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1597,"prompt_chars":1644,"response_chars":1156}
+{"t":"2026-04-18T16:31:47.099Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":792,"prompt_chars":1645,"response_chars":1228}
+{"t":"2026-04-18T16:31:48.130Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1030,"prompt_chars":1645,"response_chars":1266}
+{"t":"2026-04-18T16:31:49.195Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1064,"prompt_chars":1644,"response_chars":1173}
+{"t":"2026-04-18T16:31:50.434Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1238,"prompt_chars":3248,"response_chars":1559}
+{"t":"2026-04-18T16:31:51.969Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":1534,"prompt_chars":2508,"response_chars":984}
+{"t":"2026-04-18T16:31:52.740Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":770,"prompt_chars":5115,"response_chars":1067}
+{"t":"2026-04-18T16:31:53.360Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":618,"prompt_chars":3813,"response_chars":1053}
+{"t":"2026-04-18T16:31:55.913Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1039,"prompt_chars":1496,"response_chars":891}
+{"t":"2026-04-18T16:31:56.540Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":625,"prompt_chars":1497,"response_chars":1003}
+{"t":"2026-04-18T16:31:57.251Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":709,"prompt_chars":1497,"response_chars":997}
+{"t":"2026-04-18T16:31:58.052Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":798,"prompt_chars":1496,"response_chars":971}
+{"t":"2026-04-18T16:31:58.095Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":false,"latency_ms":40,"error_class":"rate_limit","error":"Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10509, Requested 2702. Please try again in 6.055s. Need more tokens? Upgrade to Dev Tier today"}
+{"t":"2026-04-18T16:31:59.640Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1543,"prompt_chars":9037,"response_chars":2409}
+{"t":"2026-04-18T16:32:04.623Z","task":"draft-b","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":6567,"prompt_chars":9037,"response_chars":5335}
+{"t":"2026-04-18T16:32:06.324Z","task":"judge","provider":"groq","model":"qwen/qwen3-32b","ok":true,"latency_ms":1700,"prompt_chars":7546,"response_chars":238}
+{"t":"2026-04-18T16:32:09.157Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":2832,"prompt_chars":7197,"response_chars":2655}
+{"t":"2026-04-18T16:32:10.659Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1501,"prompt_chars":11491,"response_chars":1747}
+{"t":"2026-04-18T16:32:10.700Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":false,"latency_ms":39,"error_class":"rate_limit","error":"Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10917, Requested 1612. Please try again in 2.645s. Need more tokens? Upgrade to Dev Tier today"}
+{"t":"2026-04-18T16:32:11.706Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1006,"prompt_chars":5444,"response_chars":1748}
+{"t":"2026-04-18T16:32:14.454Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1210,"prompt_chars":2234,"response_chars":1769}
+{"t":"2026-04-18T16:32:15.953Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1498,"prompt_chars":2235,"response_chars":2013}
+{"t":"2026-04-18T16:32:17.082Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1126,"prompt_chars":2235,"response_chars":2104}
+{"t":"2026-04-18T16:32:18.166Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1082,"prompt_chars":2234,"response_chars":1879}
+{"t":"2026-04-18T16:32:19.183Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1016,"prompt_chars":3215,"response_chars":2153}
+{"t":"2026-04-18T16:32:19.225Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":false,"latency_ms":41,"error_class":"rate_limit","error":"Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6659, Requested 2010. Please try again in 5.0175s. Need more tokens? Upgrade to Dev Tier today at h"}
+{"t":"2026-04-18T16:32:21.185Z","task":"critique","provider":"groq","model":"openai/gpt-oss-20b","ok":true,"latency_ms":1959,"prompt_chars":3086,"response_chars":810}
+{"t":"2026-04-18T16:32:22.225Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1039,"prompt_chars":5569,"response_chars":1425}
+{"t":"2026-04-18T16:32:24.667Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":940,"prompt_chars":1908,"response_chars":1511}
+{"t":"2026-04-18T16:32:25.581Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":913,"prompt_chars":1909,"response_chars":1605}
+{"t":"2026-04-18T16:32:26.603Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1019,"prompt_chars":1909,"response_chars":1702}
+{"t":"2026-04-18T16:32:27.581Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":976,"prompt_chars":1908,"response_chars":1720}
+{"t":"2026-04-18T16:32:28.518Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":935,"prompt_chars":2972,"response_chars":1495}
+{"t":"2026-04-18T16:32:29.564Z","task":"critique","provider":"groq","model":"openai/gpt-oss-20b","ok":true,"latency_ms":1045,"prompt_chars":2213,"response_chars":668}
+{"t":"2026-04-18T16:32:32.111Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":2546,"prompt_chars":20857,"response_chars":4306}
+{"t":"2026-04-18T16:32:32.916Z","task":"critique","provider":"groq","model":"openai/gpt-oss-20b","ok":true,"latency_ms":802,"prompt_chars":5766,"response_chars":790}
+{"t":"2026-04-18T16:32:34.264Z","task":"draft","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":1346,"prompt_chars":2987,"response_chars":2607}
+{"t":"2026-04-18T16:32:35.975Z","task":"critique","provider":"groq","model":"openai/gpt-oss-20b","ok":true,"latency_ms":1710,"prompt_chars":3316,"response_chars":1122}
