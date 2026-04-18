@@ -4,7 +4,7 @@
 import { getCollection } from 'astro:content';
 
 const SCHEMA_VERSION = 1;
-const SITE = 'https://systemreport.net';
+const SITE = 'https://www.systemreport.net';
 
 export async function GET() {
   const posts = await getCollection('posts');

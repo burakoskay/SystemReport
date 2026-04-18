@@ -47,7 +47,7 @@ const canonicalUrl = new URL(url, Astro.site);
 const currentYear = new Date().getFullYear();
 
 // OG spec requires absolute URLs for og:image
-const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.site || 'https://systemreport.net').href;
+const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.site || 'https://www.systemreport.net').href;
 ---
 
 <!doctype html>

@@ -20,7 +20,7 @@ const posts = all
   .filter(p => p.id.startsWith(`${locale}/`))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 const nativeName = NATIVE[locale!] || locale;
 
 const ACTIVE = Object.keys(LOCALES);

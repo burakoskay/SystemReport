@@ -84,7 +84,7 @@ export async function GET(context) {
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 50);
 
-  const siteUrl = (context.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+  const siteUrl = (context.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 
   return rss({
     title: 'System Report',

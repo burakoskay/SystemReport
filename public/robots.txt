@@ -2,5 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /cms-43081125dc/
 
-Sitemap: https://systemreport.net/sitemap-index.xml
-Sitemap: https://systemreport.net/news-sitemap.xml
+Sitemap: https://www.systemreport.net/sitemap-index.xml
+Sitemap: https://www.systemreport.net/news-sitemap.xml

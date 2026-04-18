@@ -29,7 +29,7 @@ const { post } = Astro.props;
 const { locale } = Astro.params;
 const { Content } = await render(post);
 
-const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 const canonicalSlug = post.data.canonical_slug || post.id.split('/').slice(1).join('/');
 const articleUrl = `${siteBase}/${locale}/posts/${canonicalSlug}`;
 

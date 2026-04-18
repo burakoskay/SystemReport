@@ -9,7 +9,7 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 const storyUrl = `${siteBase}/stories/${post.id}`;
 const articleUrl = `${siteBase}/posts/${post.id}`;
 

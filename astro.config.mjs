@@ -6,7 +6,7 @@ import pagefind from 'astro-pagefind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://systemreport.net',
+  site: 'https://www.systemreport.net',
   integrations: [sitemap(), pagefind()],
   vite: {
     plugins: [tailwindcss()]

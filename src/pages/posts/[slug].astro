@@ -46,12 +46,12 @@ const formattedModified = post.data.modified_date
   ? `${post.data.modified_date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })} · ${post.data.modified_date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'UTC', timeZoneName: 'short' })}`
   : null;
 
-const articleUrl = `https://systemreport.net/posts/${post.id}`;
+const articleUrl = `https://www.systemreport.net/posts/${post.id}`;
 
 // Calculate word count for schema
 const wordCount = (post.body || '').split(/\s+/).filter(Boolean).length;
 
-const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 
 // Find translated versions of this post and emit hreflang alternates.
 const translations = await getCollection('posts-i18n').catch(() => []);

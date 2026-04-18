@@ -63,7 +63,7 @@ export async function synthesizeAndPublish(cluster) {
   // Hero — Flux preferred when creds present.
   let heroPath = '';
   let creditName = 'System Report';
-  let creditUrl = 'https://systemreport.net';
+  let creditUrl = 'https://www.systemreport.net';
   if (process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN) {
     try {
       const png = await generateHeroImage(synthesis.visual_keyword, synthesis.title);

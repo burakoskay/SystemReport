@@ -11,7 +11,7 @@ export async function GET(context) {
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .slice(0, 100);
 
-  const siteUrl = (context.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+  const siteUrl = (context.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
   const coverUrl = `${siteUrl}/favicon.svg`;
 
   const channelITunes = `

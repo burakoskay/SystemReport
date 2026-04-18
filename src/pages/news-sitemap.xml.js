@@ -11,7 +11,7 @@ function xmlEscape(str) {
 
 export async function GET(context) {
   const posts = await getCollection('posts');
-  const siteBase = (context.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+  const siteBase = (context.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 
   // Google News Sitemaps must only include articles published in the last 48 hours.
   // CAVEAT: This filter runs at BUILD TIME. If GitHub Actions builds hourly, an article

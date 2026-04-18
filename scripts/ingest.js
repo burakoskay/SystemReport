@@ -815,7 +815,7 @@ audio_bytes: ${audioBytes}` : ''}
   // IndexNow ping — submit fresh + updated URLs to Bing/Yandex/Seznam/Naver/Yep.
   const allChangedSlugs = Array.from(new Set([...publishedSlugs, ...updatedSlugs]));
   if (allChangedSlugs.length > 0) {
-    const urls = allChangedSlugs.map(s => `https://systemreport.net/posts/${s}`);
+    const urls = allChangedSlugs.map(s => `https://www.systemreport.net/posts/${s}`);
     const r = await pingIndexNow(urls);
     console.log(`IndexNow: ${r.ok ? `pinged ${r.count || urls.length} URL(s)` : `failed ${r.error || r.status}`}`);
   }
