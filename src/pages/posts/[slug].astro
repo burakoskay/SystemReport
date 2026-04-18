@@ -112,6 +112,14 @@ const articleSchema = {
         "@type": "SpeakableSpecification",
         "cssSelector": ["h1", ".prose"]
       },
+      ...(post.data.audio_path ? {
+        "audio": {
+          "@type": "AudioObject",
+          "contentUrl": `${siteBase}${post.data.audio_path}`,
+          "encodingFormat": "audio/wav",
+          "transcript": articleUrl,
+        }
+      } : {}),
       "author": [{
         "@type": "Person",
         "name": "System Report Staff",
