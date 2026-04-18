@@ -1,7 +1,22 @@
 {
-  "groq": {
-    "consecutive_failures": 1,
-    "last_error": "Groq 403: {\"error\":{\"message\":\"The model `llama-3.1-8b-instant` is blocked at the organization level. Please have the org admin enable this model in the org settings at https://console.groq.com/settings/limits\",\"type\":\"permissions_error\",\"code\":\"model_permission_blocked_org\"}}\n",
-    "last_failure": "2026-04-18T00:52:33.846Z"
+  "groq:qwen/qwen3-32b": {
+    "last_success": "2026-04-18T00:59:35.557Z",
+    "consecutive_failures": 0
+  },
+  "groq:llama-3.3-70b-versatile": {
+    "last_success": "2026-04-18T00:59:35.760Z",
+    "consecutive_failures": 0
+  },
+  "groq:openai/gpt-oss-120b": {
+    "last_success": "2026-04-18T00:59:35.993Z",
+    "consecutive_failures": 0
+  },
+  "groq:llama-3.1-8b-instant": {
+    "last_success": "2026-04-18T00:59:36.167Z",
+    "consecutive_failures": 0
+  },
+  "groq:openai/gpt-oss-20b": {
+    "last_success": "2026-04-18T00:59:36.347Z",
+    "consecutive_failures": 0
   }
 }
