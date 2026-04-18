@@ -41,6 +41,7 @@ const { compact = false } = Astro.props;
         type="email"
         name="email"
         required
+        autocomplete="email"
         placeholder="you@example.com"
         class="flex-1 px-4 py-2.5 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-700 rounded-xl text-sm text-gray-900 dark:text-gray-100 placeholder:text-gray-400 dark:placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-gray-900 focus:border-transparent transition-shadow"
         id="newsletter-email"
@@ -55,7 +56,7 @@ const { compact = false } = Astro.props;
     </form>
 
     <p class:list={[
-      'text-gray-400 dark:text-gray-500',
+      'text-gray-500 dark:text-gray-400',
       compact ? 'mt-2 text-xs' : 'mt-3 text-xs'
     ]}>
       Also available via <a href="/rss.xml" class="underline hover:text-gray-600 dark:hover:text-gray-300">RSS feed</a>

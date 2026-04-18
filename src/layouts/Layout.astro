@@ -8,20 +8,39 @@ interface Props {
   title: string;
   description?: string;
   image?: string;
+  imageWidth?: number;
+  imageHeight?: number;
   url?: string;
   type?: string;
+  schema?: string;
+  publishDate?: Date;
+  modifiedDate?: Date;
+  authorName?: string;
+  tags?: string[];
+  section?: string;
 }
 
 const {
   title,
   description = 'In-depth tech news, analysis, and expert commentary on the stories shaping the industry.',
   image = '/favicon.svg',
+  imageWidth,
+  imageHeight,
   url = Astro.url.href,
   type = 'website',
+  schema,
+  publishDate,
+  modifiedDate,
+  authorName = 'System Report Staff',
+  tags = [],
+  section,
 } = Astro.props;
 
 const canonicalUrl = new URL(url, Astro.site);
 const currentYear = new Date().getFullYear();
+
+// OG spec requires absolute URLs for og:image
+const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.site || 'https://systemreport.net').href;
 ---
 
 <!doctype html>
@@ -38,16 +57,29 @@ const currentYear = new Date().getFullYear();
     <!-- Open Graph -->
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={image} />
+    <meta property="og:image" content={absoluteImage} />
+    {imageWidth && <meta property="og:image:width" content={String(imageWidth)} />}
+    {imageHeight && <meta property="og:image:height" content={String(imageHeight)} />}
+    {absoluteImage && !absoluteImage.endsWith('.svg') && <meta property="og:image:type" content="image/jpeg" />}
     <meta property="og:url" content={canonicalUrl} />
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="System Report" />
+    <meta property="og:locale" content="en_US" />
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={image} />
+    <meta name="twitter:image" content={absoluteImage} />
+
+    {type === 'article' && publishDate && <meta property="article:published_time" content={publishDate.toISOString()} />}
+    {type === 'article' && modifiedDate && <meta property="article:modified_time" content={modifiedDate.toISOString()} />}
+    {type === 'article' && !modifiedDate && publishDate && <meta property="article:modified_time" content={publishDate.toISOString()} />}
+    {type === 'article' && <meta property="article:author" content={authorName} />}
+    {type === 'article' && section && <meta property="article:section" content={section} />}
+    {type === 'article' && tags.map((tag) => <meta property="article:tag" content={tag} />)}
+    
+    {schema && <script type="application/ld+json" set:html={schema} />}
 
     <!-- RSS Discovery -->
     <link rel="alternate" type="application/rss+xml" title="System Report" href="/rss.xml" />
@@ -55,6 +87,13 @@ const currentYear = new Date().getFullYear();
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+    <!-- Theme color (Best Practices) -->
+    <meta name="theme-color" content="#fafaf8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b0d14" media="(prefers-color-scheme: dark)" />
+
+    <!-- Preconnect to image CDN for LCP performance -->
+    <link rel="preconnect" href="https://images.pexels.com" />
+    <link rel="dns-prefetch" href="https://images.pexels.com" />
 
     <!-- Dark mode: prevent FOUC -->
     <script is:inline>
@@ -212,7 +251,7 @@ const currentYear = new Date().getFullYear();
         </div>
 
         <div class="border-t border-gray-100 dark:border-gray-800 mt-10 pt-8">
-          <p class="text-sm text-gray-400 dark:text-gray-500">
+          <p class="text-sm text-gray-500 dark:text-gray-400">
             &copy; {currentYear} System Report. All rights reserved.
           </p>
         </div>

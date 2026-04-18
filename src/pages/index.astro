@@ -21,9 +21,51 @@ const gridPosts     = paginatedPosts.slice(5);
 function formatDate(date: Date) {
   return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
 }
+
+const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+
+// WebSite schema enables Google Sitelinks Search Box in SERPs.
+// Organization schema establishes the publisher entity used across NewsArticle schemas.
+const homepageSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": `${siteBase}/#website`,
+      "url": siteBase,
+      "name": "System Report",
+      "description": "In-depth tech news, analysis, and expert commentary on the stories shaping the industry.",
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": `${siteBase}/?search={search_term_string}`
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": `${siteBase}/#organization`,
+      "name": "System Report",
+      "url": siteBase,
+      "logo": {
+        "@type": "ImageObject",
+        "url": `${siteBase}/logo.png`,
+        "width": 600,
+        "height": 60
+      },
+      "sameAs": []
+    }
+  ]
+};
 ---
 
-<Layout title="System Report — Tech News & Analysis">
+<Layout
+  title="System Report — Tech News & Analysis"
+  schema={JSON.stringify(homepageSchema)}
+>
 
   <!-- ── Featured + Sidebar ───────────────────────────────────────── -->
   {featuredPost && (
@@ -39,6 +81,7 @@ function formatDate(date: Date) {
                 alt={featuredPost.data.title}
                 class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                 loading="eager"
+                fetchpriority="high"
               />
             </div>
           )}
@@ -56,7 +99,7 @@ function formatDate(date: Date) {
                 {featuredPost.data.description}
               </p>
             )}
-            <time class="mt-3 block text-sm text-gray-400 dark:text-gray-500">
+            <time class="mt-3 block text-sm text-gray-500 dark:text-gray-400">
               {formatDate(featuredPost.data.date)}
             </time>
           </div>
@@ -82,7 +125,7 @@ function formatDate(date: Date) {
                   <h3 class="mt-1 font-serif text-[0.95rem] font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-3">
                     {post.data.title}
                   </h3>
-                  <time class="mt-2 block text-xs text-gray-400 dark:text-gray-500">
+                  <time class="mt-2 block text-xs text-gray-500 dark:text-gray-400">
                     {formatDate(post.data.date)}
                   </time>
                 </div>

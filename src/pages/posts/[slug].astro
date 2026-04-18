@@ -6,6 +6,7 @@ import ShareButtons from '../../components/ShareButtons.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
 import AdUnit from '../../components/AdUnit.astro';
+import { getArticleCategory, CATEGORIES } from '../../lib/categories';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -36,14 +37,121 @@ const formattedDate = post.data.date.toLocaleDateString('en-US', {
 });
 
 const articleUrl = `https://systemreport.net/posts/${post.id}`;
+
+// Calculate word count for schema
+const wordCount = (post.body || '').split(/\s+/).filter(Boolean).length;
+
+const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+
+// Build fully-qualified hero image URL
+const heroImageUrl = post.data.hero_image
+  ? (post.data.hero_image.startsWith('http')
+      ? post.data.hero_image
+      : `${siteBase}${post.data.hero_image}`)
+  : undefined;
+
+// Parse image dimensions from Pexels-style URL params (?w=1260&h=750)
+let heroWidth = 1260;
+let heroHeight = 750;
+if (heroImageUrl) {
+  try {
+    const u = new URL(heroImageUrl);
+    const w = parseInt(u.searchParams.get('w') || '0');
+    const h = parseInt(u.searchParams.get('h') || '0');
+    if (w) heroWidth = w;
+    if (h) heroHeight = h;
+  } catch (_) { /* use defaults */ }
+}
+
+// Determine article section/category from tags
+const articleCategorySlug = getArticleCategory(post.data.tags || []);
+const articleSection = CATEGORIES[articleCategorySlug]?.label || 'Tech';
+
+// Publisher logo must be PNG/WebP/JPEG — place a 600×60 PNG at public/logo.png
+const publisherLogoUrl = `${siteBase}/logo.png`;
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "NewsArticle",
+      "@id": `${articleUrl}#article`,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": articleUrl
+      },
+      "headline": post.data.title,
+      "description": post.data.description || post.data.title,
+      "articleSection": articleSection,
+      "isAccessibleForFree": true,
+      ...(heroImageUrl ? {
+        "image": [{
+          "@type": "ImageObject",
+          "url": heroImageUrl,
+          "width": heroWidth,
+          "height": heroHeight,
+        }]
+      } : {}),
+      "datePublished": post.data.date.toISOString(),
+      "dateModified": post.data.date.toISOString(),
+      "wordCount": wordCount,
+      "inLanguage": "en-US",
+      "author": [{
+        "@type": "Person",
+        "name": "System Report Staff",
+        "url": `${siteBase}/about`
+      }],
+      "publisher": {
+        "@type": "Organization",
+        "@id": `${siteBase}/#organization`,
+        "name": "System Report",
+        "url": siteBase,
+        "logo": {
+          "@type": "ImageObject",
+          "url": publisherLogoUrl,
+          "width": 600,
+          "height": 60,
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": siteBase
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": articleSection,
+          "item": `${siteBase}/${articleCategorySlug}`
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": post.data.title
+        }
+      ]
+    }
+  ]
+};
 ---
 
 <Layout
   title={`${post.data.title} — System Report`}
   description={post.data.description || post.data.title}
   image={post.data.hero_image}
+  imageWidth={heroWidth}
+  imageHeight={heroHeight}
   url={articleUrl}
   type="article"
+  schema={JSON.stringify(articleSchema)}
+  publishDate={post.data.date}
+  tags={post.data.tags || []}
+  section={articleSection}
 >
   <article class="max-w-3xl mx-auto">
     <!-- Header -->
@@ -98,7 +206,7 @@ const articleUrl = `https://systemreport.net/posts/${post.id}`;
           loading="eager"
         />
         {post.data.hero_image_credit_name && (
-          <p class="text-xs text-gray-400 dark:text-gray-500 mt-2 px-4 sm:px-0 text-right">
+          <p class="text-xs text-gray-500 dark:text-gray-400 mt-2 px-4 sm:px-0 text-right">
             Photo by <a href={post.data.hero_image_credit_url} target="_blank" rel="noopener noreferrer" class="underline hover:text-gray-600 dark:hover:text-gray-300">{post.data.hero_image_credit_name}</a> on <a href="https://www.pexels.com" target="_blank" rel="noopener noreferrer" class="underline hover:text-gray-600 dark:hover:text-gray-300">Pexels</a>
           </p>
         )}
@@ -132,7 +240,7 @@ const articleUrl = `https://systemreport.net/posts/${post.id}`;
     <nav class="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4" data-pagefind-ignore="all">
       {prevPost ? (
         <a href={`/posts/${prevPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-gray-400 dark:hover:border-gray-500 transition-colors">
-          <span class="text-xs font-medium text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-1">← Previous</span>
+          <span class="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-1">← Previous</span>
           <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-2">
             {prevPost.data.title}
           </span>
@@ -141,7 +249,7 @@ const articleUrl = `https://systemreport.net/posts/${post.id}`;
 
       {nextPost && (
         <a href={`/posts/${nextPost.slug}`} class="group flex flex-col p-5 bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 hover:border-gray-400 dark:hover:border-gray-500 transition-colors text-right">
-          <span class="text-xs font-medium text-gray-400 dark:text-gray-500 uppercase tracking-wider mb-1">Next →</span>
+          <span class="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-1">Next →</span>
           <span class="text-sm font-medium text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-2">
             {nextPost.data.title}
           </span>

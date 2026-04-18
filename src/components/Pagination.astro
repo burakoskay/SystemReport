@@ -41,7 +41,7 @@ for (let i = 1; i <= totalPages; i++) {
         Prev
       </a>
     ) : (
-      <span class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-300 dark:text-gray-600 cursor-not-allowed">
+      <span class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-500 dark:text-gray-400 cursor-not-allowed" aria-disabled="true">
         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5" />
         </svg>
@@ -52,7 +52,7 @@ for (let i = 1; i <= totalPages; i++) {
     {/* Page numbers */}
     {pages.map((page) =>
       page === '...' ? (
-        <span class="px-2 py-2 text-sm text-gray-400 dark:text-gray-500">…</span>
+        <span class="px-2 py-2 text-sm text-gray-500 dark:text-gray-400">…</span>
       ) : page === currentPage ? (
         <span class="flex items-center justify-center w-10 h-10 text-sm font-semibold text-white bg-gray-900 dark:bg-white dark:text-gray-900 rounded-lg">
           {page}
@@ -79,7 +79,7 @@ for (let i = 1; i <= totalPages; i++) {
         </svg>
       </a>
     ) : (
-      <span class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-300 dark:text-gray-600 cursor-not-allowed">
+      <span class="flex items-center gap-1 px-3 py-2 text-sm font-medium text-gray-500 dark:text-gray-400 cursor-not-allowed" aria-disabled="true">
         Next
         <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
