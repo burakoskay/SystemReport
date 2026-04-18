@@ -135,6 +135,24 @@ const providers = {
   },
 };
 
+// Chaos injection — used by scripts/chaos-test.js to verify failover.
+// CHAOS_FAIL_RATE in [0,1]: fraction of provider calls to fail synthetically.
+// Failure class is rotated so cooldowns of varying length get exercised.
+const CHAOS_CLASSES = ['rate_limit', 'server_error', 'timeout', 'daily_quota'];
+let chaosCounter = 0;
+function maybeChaosFail(provider, model) {
+  const rate = parseFloat(process.env.CHAOS_FAIL_RATE || '0');
+  if (!rate || Math.random() >= rate) return;
+  const klass = CHAOS_CLASSES[chaosCounter++ % CHAOS_CLASSES.length];
+  const message = ({
+    rate_limit:   `429 chaos: rate_limit_exceeded for ${provider}/${model}`,
+    server_error: `503 chaos: service unavailable from ${provider}/${model}`,
+    timeout:      `chaos timeout from ${provider}/${model}`,
+    daily_quota:  `429 chaos: requests per day exceeded for ${provider}/${model}`,
+  })[klass];
+  throw new Error(message);
+}
+
 function withTimeout(promise, ms) {
   return Promise.race([
     promise,
@@ -175,6 +193,7 @@ export async function routeCall({ task, prompt, json = false, schema = undefined
 
     const started = Date.now();
     try {
+      maybeChaosFail(name, model || 'default');
       // Gemini-native schema routing only works on Gemini; other providers get JSON mode.
       const useSchema = name === 'gemini' ? schema : undefined;
       const result = await withTimeout(

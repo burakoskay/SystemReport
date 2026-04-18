@@ -9,6 +9,8 @@ import crypto from 'crypto';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { sendAlert } from '../src/pipeline/alerts.mjs';
 import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
+import { collapseSemanticDuplicates } from '../src/pipeline/semantic-dedup.mjs';
+import { groundArticle, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
@@ -561,11 +563,19 @@ async function main() {
   }
 
   // SimHash dedup — collapse near-identical feed entries before paying LLM tokens.
-  const { kept: newArticles, collapsed, groups } = collapseNearDuplicates(rawArticles);
+  const { kept: simKept, collapsed, groups } = collapseNearDuplicates(rawArticles);
   if (collapsed > 0) {
-    console.log(`Dedup: collapsed ${collapsed} near-duplicates (${rawArticles.length} → ${newArticles.length}).`);
-    // Mark collapsed URLs as processed so we don't re-evaluate them next run.
+    console.log(`Dedup (simhash): collapsed ${collapsed} near-duplicates (${rawArticles.length} → ${simKept.length}).`);
     for (const group of groups) {
+      for (let i = 1; i < group.length; i++) processedUrls.add(group[i].link);
+    }
+  }
+
+  // Semantic dedup — catches paraphrased duplicates SimHash misses. Fail-open.
+  const { kept: newArticles, collapsed: semCollapsed, groups: semGroups } = await collapseSemanticDuplicates(simKept);
+  if (semCollapsed > 0) {
+    console.log(`Dedup (semantic): collapsed ${semCollapsed} paraphrased duplicates (${simKept.length} → ${newArticles.length}).`);
+    for (const group of semGroups) {
       for (let i = 1; i < group.length; i++) processedUrls.add(group[i].link);
     }
   }
@@ -605,6 +615,20 @@ async function main() {
 
       console.log('  Synthesizing article...');
       const synthesis = await synthesizeArticle(cluster);
+
+      // Google Search grounding — append cited sources. Fail-open returns [].
+      try {
+        const citations = await groundArticle({
+          title: synthesis.title,
+          body: synthesis.article_markdown,
+        });
+        if (citations.length > 0) {
+          synthesis.article_markdown += citationsToMarkdown(citations);
+          console.log(`  🔗 Grounded with ${citations.length} citation(s).`);
+        }
+      } catch (e) {
+        console.log(`  ⚠ grounding skipped: ${e.message.slice(0, 120)}`);
+      }
 
       // Prefer a generated hero (CF Flux Schnell) when creds are set; Pexels is fallback.
       let image = null;

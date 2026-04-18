@@ -1,0 +1,72 @@
+---
+interface Props {
+  hreflangAlternates?: Array<{ hreflang: string; href: string }>;
+  currentLang?: string;
+}
+const { hreflangAlternates = [], currentLang = 'en' } = Astro.props;
+
+const NATIVE = {
+  en: 'English', tr: 'Türkçe', es: 'Español', fr: 'Français', de: 'Deutsch',
+};
+
+// Filter to real locale links: drop x-default and self.
+const links = hreflangAlternates
+  .filter(a => a.hreflang !== 'x-default' && a.hreflang !== currentLang)
+  .map(a => ({ ...a, label: NATIVE[a.hreflang] || a.hreflang.toUpperCase() }));
+
+if (links.length === 0) {
+  // Hide entirely on pages with no translations available.
+}
+---
+
+{links.length > 0 && (
+  <div class="relative" data-lang-switcher>
+    <button
+      type="button"
+      class="flex items-center gap-1 px-2 py-1.5 text-xs font-medium text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+      aria-haspopup="menu"
+      aria-expanded="false"
+      aria-label="Change language"
+      data-lang-trigger
+    >
+      <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18Zm0 0c2.5-2.5 4-6 4-9s-1.5-6.5-4-9m0 18c-2.5-2.5-4-6-4-9s1.5-6.5 4-9M3 12h18" />
+      </svg>
+      <span class="uppercase tracking-wider">{currentLang}</span>
+    </button>
+    <div
+      class="hidden absolute right-0 mt-1 min-w-[8rem] bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-800 rounded-lg shadow-lg py-1 z-50"
+      role="menu"
+      data-lang-menu
+    >
+      {links.map(({ href, label, hreflang }) => (
+        <a
+          href={href}
+          hreflang={hreflang}
+          class="block px-3 py-1.5 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800"
+          role="menuitem"
+        >
+          {label}
+        </a>
+      ))}
+    </div>
+  </div>
+)}
+
+<script>
+  document.querySelectorAll('[data-lang-switcher]').forEach((root) => {
+    const btn = root.querySelector('[data-lang-trigger]');
+    const menu = root.querySelector('[data-lang-menu]');
+    if (!btn || !menu) return;
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const open = !menu.classList.contains('hidden');
+      menu.classList.toggle('hidden');
+      btn.setAttribute('aria-expanded', String(!open));
+    });
+    document.addEventListener('click', () => {
+      menu.classList.add('hidden');
+      btn.setAttribute('aria-expanded', 'false');
+    });
+  });
+</script>

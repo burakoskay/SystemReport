@@ -1,0 +1,123 @@
+---
+// AMP Web Story per article. Cover + 4 narrative panels distilled from
+// the article body. Indexed by Google as a Web Story (carousel surface).
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts');
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const storyUrl = `${siteBase}/stories/${post.id}`;
+const articleUrl = `${siteBase}/posts/${post.id}`;
+
+// Strip markdown to plain prose, then split into paragraphs.
+const plain = (post.body || '')
+  .replace(/```[\s\S]*?```/g, '')
+  .replace(/!\[[^\]]*\]\([^)]+\)/g, '')
+  .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+  .replace(/^#{1,6}\s+/gm, '')
+  .replace(/[*_`>]/g, '')
+  .trim();
+
+const paragraphs = plain.split(/\n\n+/).map(p => p.trim()).filter(p => p.length > 40);
+
+// Pick up to 4 panel paragraphs, capped to ~200 chars for legibility on the panel.
+const panels = paragraphs.slice(0, 4).map(p => p.length > 220 ? p.slice(0, 217) + '…' : p);
+while (panels.length < 3 && paragraphs[panels.length]) panels.push(paragraphs[panels.length]);
+
+const heroAbs = post.data.hero_image
+  ? (post.data.hero_image.startsWith('http') ? post.data.hero_image : `${siteBase}${post.data.hero_image}`)
+  : `${siteBase}/favicon.svg`;
+
+const publisherLogo = `${siteBase}/favicon.svg`;
+const publishedISO = post.data.date.toISOString();
+---
+
+<!doctype html>
+<html ⚡ lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>{post.data.title} — System Report</title>
+  <link rel="canonical" href={articleUrl} />
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-story" src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: post.data.title,
+    image: [heroAbs],
+    datePublished: publishedISO,
+    author: { '@type': 'Organization', name: 'System Report' },
+    publisher: {
+      '@type': 'Organization',
+      name: 'System Report',
+      logo: { '@type': 'ImageObject', url: publisherLogo },
+    },
+    mainEntityOfPage: storyUrl,
+  })} />
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <style amp-custom>
+    amp-story-page { background: #0b0d14; color: #fafaf8; }
+    .panel { padding: 8vh 6vw; display: flex; flex-direction: column; justify-content: flex-end; height: 100%; box-sizing: border-box; }
+    .panel.cover { justify-content: center; text-align: center; }
+    .scrim { background: linear-gradient(180deg, rgba(11,13,20,0) 0%, rgba(11,13,20,0.85) 70%, #0b0d14 100%); position: absolute; inset: 0; }
+    h1 { font-family: Georgia, serif; font-size: 8vw; line-height: 1.1; margin: 0 0 2vh; letter-spacing: -0.02em; }
+    p  { font-family: -apple-system, system-ui, sans-serif; font-size: 4.5vw; line-height: 1.4; margin: 0; }
+    .kicker { text-transform: uppercase; letter-spacing: 0.2em; font-size: 2.6vw; opacity: 0.7; margin-bottom: 2vh; }
+    .cta { display: inline-block; margin-top: 4vh; padding: 1.5vh 4vw; background: #fafaf8; color: #0b0d14; border-radius: 999px; font-weight: 600; text-decoration: none; font-size: 3.5vw; }
+  </style>
+</head>
+<body>
+  <amp-story
+    standalone
+    title={post.data.title}
+    publisher="System Report"
+    publisher-logo-src={publisherLogo}
+    poster-portrait-src={heroAbs}
+  >
+    <amp-story-page id="cover">
+      <amp-story-grid-layer template="fill">
+        <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt={post.data.title}></amp-img>
+      </amp-story-grid-layer>
+      <amp-story-grid-layer template="fill"><div class="scrim"></div></amp-story-grid-layer>
+      <amp-story-grid-layer template="vertical">
+        <div class="panel cover">
+          <div class="kicker">System Report</div>
+          <h1>{post.data.title}</h1>
+        </div>
+      </amp-story-grid-layer>
+    </amp-story-page>
+
+    {panels.map((text, i) => (
+      <amp-story-page id={`p${i + 1}`}>
+        <amp-story-grid-layer template="fill">
+          <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt=""></amp-img>
+        </amp-story-grid-layer>
+        <amp-story-grid-layer template="fill"><div class="scrim"></div></amp-story-grid-layer>
+        <amp-story-grid-layer template="vertical">
+          <div class="panel"><p>{text}</p></div>
+        </amp-story-grid-layer>
+      </amp-story-page>
+    ))}
+
+    <amp-story-page id="cta">
+      <amp-story-grid-layer template="fill">
+        <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt=""></amp-img>
+      </amp-story-grid-layer>
+      <amp-story-grid-layer template="fill"><div class="scrim"></div></amp-story-grid-layer>
+      <amp-story-grid-layer template="vertical">
+        <div class="panel cover">
+          <div class="kicker">Read the full story</div>
+          <h1>Continue on System Report</h1>
+          <a class="cta" href={articleUrl}>Open article</a>
+        </div>
+      </amp-story-grid-layer>
+    </amp-story-page>
+  </amp-story>
+</body>
+</html>
