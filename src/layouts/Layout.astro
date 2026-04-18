@@ -18,6 +18,8 @@ interface Props {
   authorName?: string;
   tags?: string[];
   section?: string;
+  lang?: string;
+  hreflangAlternates?: Array<{ hreflang: string; href: string }>;
 }
 
 const {
@@ -34,6 +36,8 @@ const {
   authorName = 'System Report Staff',
   tags = [],
   section,
+  lang = 'en',
+  hreflangAlternates = [],
 } = Astro.props;
 
 const canonicalUrl = new URL(url, Astro.site);
@@ -44,7 +48,7 @@ const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.si
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -53,6 +57,10 @@ const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.si
 
     <!-- Canonical -->
     <link rel="canonical" href={canonicalUrl} />
+
+    {hreflangAlternates.map(({ hreflang, href }) => (
+      <link rel="alternate" hreflang={hreflang} href={href} />
+    ))}
 
     <!-- Open Graph -->
     <meta property="og:title" content={title} />

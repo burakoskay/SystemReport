@@ -11,6 +11,7 @@ import { sendAlert } from '../src/pipeline/alerts.mjs';
 import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
+import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
 
 dotenv.config();
 
@@ -27,7 +28,12 @@ const FEEDS = [
 
 const PROCESSED_URLS_FILE = path.join(process.cwd(), 'processed_urls.json');
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
+const I18N_DIR  = path.join(process.cwd(), 'src/content/posts-i18n');
 const AUDIO_DIR = path.join(process.cwd(), 'public/audio');
+
+// Whether to fan out translations on each ingest. Off by default to conserve
+// quota; flip via env when ready. Locale set lives in translator.mjs.
+const TRANSLATE_ENABLED = process.env.TRANSLATE_ENABLED === '1';
 const EDITORIAL_VOICE_FILE = path.join(process.cwd(), 'docs/EDITORIAL_VOICE.md');
 
 // Loaded once at startup; injected into draft/revise prompts.
@@ -698,6 +704,44 @@ audio_bytes: ${audioBytes}` : ''}
       publishedCount++;
 
       console.log(`  ✓ Saved: ${filename}`);
+
+      // Translation fan-out — best-effort, never blocks publishing the English original.
+      if (TRANSLATE_ENABLED) {
+        for (const locale of Object.keys(LOCALES)) {
+          try {
+            const t = await translateArticle({
+              title: synthesis.title,
+              description: synthesis.description,
+              body: synthesis.article_markdown,
+            }, locale);
+            const dir = path.join(I18N_DIR, locale);
+            await fs.mkdir(dir, { recursive: true });
+            // Mirror the same frontmatter as the English post so the per-locale
+            // page can render with full metadata (hero, audio, credits, tags).
+            const tFm = `---
+title: "${t.title.replace(/"/g, '\\"')}"
+date: ${dateStr}
+tags: ${JSON.stringify(synthesis.tags)}
+hero_image: "${heroPath}"
+hero_image_credit_name: "${image.creditName.replace(/"/g, '\\"')}"
+hero_image_credit_url: "${image.creditUrl}"
+visual_keyword: "${synthesis.visual_keyword.replace(/"/g, '\\"')}"
+description: "${t.description.replace(/"/g, '\\"')}"
+sources_count: ${cluster.articles.length}
+locale: "${locale}"
+canonical_slug: "${baseSlug}"${audioPath ? `
+audio_path: "${audioPath}"
+audio_bytes: ${audioBytes}` : ''}
+---
+
+`;
+            await fs.writeFile(path.join(dir, filename), tFm + t.body, 'utf-8');
+            console.log(`  🌐 ${locale}: ${t._translator}`);
+          } catch (e) {
+            console.log(`  ⚠ ${locale} translation skipped: ${e.message.slice(0, 120)}`);
+          }
+        }
+      }
     } catch (err) {
       consecutiveFailures++;
       failedClusters++;

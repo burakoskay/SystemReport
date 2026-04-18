@@ -43,6 +43,18 @@ const wordCount = (post.body || '').split(/\s+/).filter(Boolean).length;
 
 const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
 
+// Find translated versions of this post and emit hreflang alternates.
+const translations = await getCollection('posts-i18n').catch(() => []);
+const myTranslations = translations.filter(t => t.data.canonical_slug === post.id);
+const hreflangAlternates = myTranslations.length > 0 ? [
+  { hreflang: 'en', href: `${siteBase}/posts/${post.id}` },
+  { hreflang: 'x-default', href: `${siteBase}/posts/${post.id}` },
+  ...myTranslations.map(t => ({
+    hreflang: t.data.locale!,
+    href: `${siteBase}/${t.data.locale}/posts/${post.id}`,
+  })),
+] : [];
+
 // Build fully-qualified hero image URL
 const heroImageUrl = post.data.hero_image
   ? (post.data.hero_image.startsWith('http')
@@ -152,6 +164,7 @@ const articleSchema = {
   publishDate={post.data.date}
   tags={post.data.tags || []}
   section={articleSection}
+  hreflangAlternates={hreflangAlternates}
 >
   <article class="max-w-3xl mx-auto">
     <!-- Header -->

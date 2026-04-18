@@ -33,6 +33,7 @@ jobs:
           DISCORD_WEBHOOK_URL:  ${{ secrets.DISCORD_WEBHOOK_URL }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN:  ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          TRANSLATE_ENABLED:    ${{ vars.TRANSLATE_ENABLED }}
         run: node scripts/ingest.js
 
       - name: Commit and Push Changes
@@ -44,9 +45,9 @@ jobs:
           git pull --rebase --autostash origin main
 
           # Ensure optional output dirs exist so git-add never fails on missing pathspec
-          mkdir -p public/hero public/audio ops/telemetry
+          mkdir -p public/hero public/audio ops/telemetry src/content/posts-i18n
 
-          git add src/content/posts/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
+          git add src/content/posts/ src/content/posts-i18n/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
 
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: automated content ingestion"

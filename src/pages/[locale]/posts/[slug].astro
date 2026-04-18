@@ -1,0 +1,110 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../../layouts/Layout.astro';
+import TagPill from '../../../components/TagPill.astro';
+
+const ACTIVE_LOCALES = ['tr', 'es', 'fr', 'de'];
+
+export async function getStaticPaths() {
+  const all = await getCollection('posts-i18n');
+  return all.map((post) => {
+    // Entry id is "<locale>/<slug>" because of the glob loader's base path.
+    const [locale, ...slugParts] = post.id.split('/');
+    const slug = slugParts.join('/');
+    return {
+      params: { locale, slug },
+      props: { post },
+    };
+  });
+}
+
+const { post } = Astro.props;
+const { locale } = Astro.params;
+const { Content } = await render(post);
+
+const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');
+const canonicalSlug = post.data.canonical_slug || post.id.split('/').slice(1).join('/');
+const articleUrl = `${siteBase}/${locale}/posts/${canonicalSlug}`;
+
+// hreflang alternates: English original + every other translated locale of this same story.
+const alternates = [
+  { hreflang: 'en', href: `${siteBase}/posts/${canonicalSlug}` },
+  { hreflang: 'x-default', href: `${siteBase}/posts/${canonicalSlug}` },
+  ...ACTIVE_LOCALES.filter(l => l !== locale).map(l => ({
+    hreflang: l,
+    href: `${siteBase}/${l}/posts/${canonicalSlug}`,
+  })),
+  { hreflang: locale!, href: articleUrl },
+];
+
+const formattedDate = post.data.date.toLocaleDateString(`${locale}-${locale!.toUpperCase()}`, {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+
+const heroImageUrl = post.data.hero_image
+  ? (post.data.hero_image.startsWith('http') ? post.data.hero_image : `${siteBase}${post.data.hero_image}`)
+  : undefined;
+---
+
+<Layout
+  title={`${post.data.title} — System Report`}
+  description={post.data.description || post.data.title}
+  image={post.data.hero_image}
+  url={articleUrl}
+  type="article"
+  publishDate={post.data.date}
+  tags={post.data.tags || []}
+  lang={locale}
+  hreflangAlternates={alternates}
+>
+  <article class="max-w-3xl mx-auto">
+    <header class="mb-8">
+      <p class="text-xs uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-3">
+        <a href={`${siteBase}/posts/${canonicalSlug}`} class="underline hover:no-underline">
+          Read the English original
+        </a>
+      </p>
+
+      {post.data.tags && post.data.tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mb-4">
+          {post.data.tags.map((tag: string) => <TagPill tag={tag} size="md" />)}
+        </div>
+      )}
+
+      <h1 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-50 leading-tight">
+        {post.data.title}
+      </h1>
+
+      <div class="flex flex-wrap items-center gap-4 mt-5 text-sm text-gray-500 dark:text-gray-400">
+        <time datetime={post.data.date.toISOString()}>{formattedDate}</time>
+      </div>
+    </header>
+
+    {heroImageUrl && (
+      <div class="mb-10 -mx-4 sm:mx-0">
+        <img
+          class="w-full aspect-video object-cover rounded-none sm:rounded-2xl"
+          src={post.data.hero_image}
+          alt={post.data.visual_keyword || post.data.title}
+          loading="eager"
+        />
+      </div>
+    )}
+
+    {post.data.audio_path && (
+      <div class="mb-8 border border-gray-200 dark:border-gray-800 rounded-xl p-4 bg-gray-50 dark:bg-gray-900/50">
+        <audio controls preload="none" class="w-full" src={post.data.audio_path}>
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    )}
+
+    <div class="prose prose-lg prose-gray dark:prose-invert max-w-none
+      prose-headings:font-serif prose-headings:tracking-tight
+      prose-a:text-gray-900 dark:prose-a:text-gray-100 prose-a:underline
+      prose-img:rounded-xl
+    ">
+      <Content />
+    </div>
+  </article>
+</Layout>
