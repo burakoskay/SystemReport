@@ -16,8 +16,9 @@ const HEALTH_FILE = path.join(process.cwd(), 'ops/provider-health.json');
 //   meta-llama/llama-4-scout-17b  30 / 1K    / 500K   — large-context drafting fallback
 // Gemini 2.5 Flash: 500 RPD, 1M TPD. Currently cap-hit; router cools down 30d on spending_cap 429.
 const RANKINGS = {
-  // Structured JSON tasks — prioritize Gemini's native schema support when available, then Qwen (highest RPM).
-  cluster:  [['gemini', 'gemini-2.5-flash'], ['groq', 'qwen/qwen3-32b'], ['groq', 'llama-3.1-8b-instant']],
+  // Structured JSON tasks on a LARGE input (clustering a full feed batch). Needs high TPM.
+  // Scout 17B has 30K TPM (vs 6K for qwen/llama-8b). Gemini has high TPM too, currently cap-hit.
+  cluster:  [['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'qwen/qwen3-32b'], ['groq', 'llama-3.1-8b-instant']],
   // Long-form drafting — Llama 70B first (quality), then Scout 17B (cheaper tokens), Gemini, 8B fallback.
   draft:    [['groq', 'llama-3.3-70b-versatile'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
   // Critique should use a different model family than the draft to catch same-family blind spots.
@@ -32,6 +33,8 @@ const RANKINGS = {
 const COOLDOWN_MS = {
   spending_cap:    30 * 24 * 60 * 60 * 1000, // 30 days — Gemini monthly cap
   permission:       7 * 24 * 60 * 60 * 1000, // 7 days — model disabled at org level
+  // Note: 'too_large' is a prompt-level failure, not a model health issue.
+  // We intentionally do NOT cool down the model — just fail forward to a larger-context provider.
   rate_limit:          10 * 60 * 1000,        // 10 min — per-minute quota
   daily_quota:          6 * 60 * 60 * 1000,   // 6 h — RPD exhausted
   server_error:         5 * 60 * 1000,
@@ -42,6 +45,7 @@ function classifyError(err) {
   const msg = String(err?.message || err);
   if (/spending cap|RESOURCE_EXHAUSTED/i.test(msg)) return 'spending_cap';
   if (/permission_blocked|403/i.test(msg)) return 'permission';
+  if (/\b413\b|request too large|context.*exceeded|too long/i.test(msg)) return 'too_large';
   if (/requests per day|rate_limit_exceeded.*day/i.test(msg)) return 'daily_quota';
   if (/\b429\b|rate.?limit|too many requests/i.test(msg)) return 'rate_limit';
   if (/\b5\d\d\b|server error|service unavailable/i.test(msg)) return 'server_error';

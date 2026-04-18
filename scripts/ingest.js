@@ -99,36 +99,44 @@ async function fetchAndSanitizeFeeds(processedUrls) {
 }
 
 // --- Semantic clustering ---
-async function clusterArticles(articles) {
-  if (articles.length === 0) return [];
+// Chunk articles into batches that fit the provider's TPM window. Clusters are
+// merged naively by index (articles in different chunks won't dedupe across
+// chunks — acceptable because feed-burst duplicates usually arrive in the
+// same poll anyway). 30 articles × ~200 chars ≈ 6K chars ≈ 1.5K tokens, well
+// under the smallest TPM limit (6K) and comfortable for scout-17b's 30K TPM.
+const CLUSTER_CHUNK_SIZE = 30;
+const CLUSTER_SUMMARY_CHARS = 200;
 
+const clusterSchema = {
+  type: Type.OBJECT,
+  properties: {
+    clusters: {
+      type: Type.ARRAY,
+      items: {
+        type: Type.OBJECT,
+        properties: {
+          theme: { type: Type.STRING },
+          article_indices: { type: Type.ARRAY, items: { type: Type.INTEGER } },
+        },
+        required: ['theme', 'article_indices'],
+      },
+    },
+  },
+  required: ['clusters'],
+};
+
+async function clusterChunk(chunk) {
   const prompt = `Analyze the following batch of tech news articles. Group duplicate or highly similar stories about the exact same event into semantic clusters.
 Return a JSON object with a "clusters" array. Each cluster must have:
 - "theme": A short description of the cluster.
 - "article_indices": An array of the integer indices of the articles belonging to this cluster.
 
+Every article must appear in exactly one cluster. A cluster of size 1 is valid.
+
 Example shape: {"clusters":[{"theme":"...","article_indices":[0,3]}]}
 
 Articles:
-${articles.map((a, i) => `[${i}] Title: ${a.title}\nSummary: ${a.content.substring(0, 300)}...\n`).join('\n')}`;
-
-  const clusterSchema = {
-    type: Type.OBJECT,
-    properties: {
-      clusters: {
-        type: Type.ARRAY,
-        items: {
-          type: Type.OBJECT,
-          properties: {
-            theme: { type: Type.STRING },
-            article_indices: { type: Type.ARRAY, items: { type: Type.INTEGER } },
-          },
-          required: ['theme', 'article_indices'],
-        },
-      },
-    },
-    required: ['clusters'],
-  };
+${chunk.map((a, i) => `[${i}] Title: ${a.title}\nSummary: ${a.content.substring(0, CLUSTER_SUMMARY_CHARS)}\n`).join('\n')}`;
 
   const response = await withRetry(() =>
     routeCall({ task: 'cluster', prompt, schema: clusterSchema })
@@ -136,18 +144,38 @@ ${articles.map((a, i) => `[${i}] Title: ${a.title}\nSummary: ${a.content.substri
 
   try {
     const parsed = JSON.parse(response.text);
-    // Accept either the new {clusters:[...]} shape or a bare array (Gemini-schema legacy)
     const clustersInfo = Array.isArray(parsed) ? parsed : (parsed.clusters || []);
     return clustersInfo
       .map((c) => ({
         theme: c.theme,
-        articles: c.article_indices.map((i) => articles[i]).filter(Boolean),
+        articles: c.article_indices.map((i) => chunk[i]).filter(Boolean),
       }))
       .filter((c) => c.articles.length > 0);
   } catch (e) {
     console.error('Error parsing clustering response:', e);
     return [];
   }
+}
+
+async function clusterArticles(articles) {
+  if (articles.length === 0) return [];
+
+  const chunks = [];
+  for (let i = 0; i < articles.length; i += CLUSTER_CHUNK_SIZE) {
+    chunks.push(articles.slice(i, i + CLUSTER_CHUNK_SIZE));
+  }
+  console.log(`  Clustering ${articles.length} articles in ${chunks.length} chunk(s) of up to ${CLUSTER_CHUNK_SIZE}...`);
+
+  const all = [];
+  for (let i = 0; i < chunks.length; i++) {
+    try {
+      const clusters = await clusterChunk(chunks[i]);
+      all.push(...clusters);
+    } catch (e) {
+      console.error(`  Chunk ${i + 1}/${chunks.length} failed: ${e.message}`);
+    }
+  }
+  return all;
 }
 
 // --- Content synthesis ---
