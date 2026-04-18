@@ -41,7 +41,7 @@ jobs:
           # Autostash handles modified tracked files (e.g. processed_urls.json) during rebase
           git pull --rebase --autostash origin main
 
-          git add src/content/posts/ public/hero/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
+          git add src/content/posts/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ || true
 
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: automated content ingestion"

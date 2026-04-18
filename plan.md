@@ -28,12 +28,14 @@
 - **Telemetry rollup.** `scripts/telemetry-rollup.js` — daily JSONL → `ops/rollup/YYYY-MM-DD.json` with success rate, p50/p95 latency per model, error-class histogram.
 - **Editorial voice guide.** `docs/EDITORIAL_VOICE.md` loaded once at ingest startup, injected verbatim into both draft and revise prompts. Opinionated voice (concrete, declarative, no marketing verbs, no consultant nouns) replaces the ad-hoc banned-phrase list in prompts.
 - **SimHash near-duplicate collapse.** `src/pipeline/dedup.mjs` — 64-bit SimHash over title (3× weight) + content, Hamming ≤ 18 collapses. Runs before clustering, zero API cost. Collapsed URLs marked processed so they don't resurface next poll. Verified: cross-outlet "same Apple rumor" pairs collapse at distance 15; unrelated stories sit at 30+.
+- **TTS podcast feed.** `src/pipeline/tts.mjs` calls Groq Orpheus-v1-english (voice "hannah") per article. WAV written to `public/audio/<slug>.wav`; frontmatter carries `audio_path` + `audio_bytes`. Inline `<audio>` player on post pages. Separate podcast RSS at `/podcast.xml` with iTunes namespace (author, category Technology, cover art, duration, enclosure). Linked from Layout. TTS failures are non-blocking — article still publishes. Workflow stages `public/audio/`.
 
 ### 🚧 Next lever (in-progress / queued)
 
-1. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
-3. **Image generation.** Flux Schnell on Cloudflare Workers AI → inline illustration per section.
-4. **Multi-draft A+B + judge.** Two drafts in parallel, judge picks winner — raises ceiling on quality.
+1. **Image generation.** Flux Schnell on Cloudflare Workers AI — replace Pexels stock photos with per-article generated illustrations.
+2. **Multi-draft A+B + judge.** Two drafts in parallel, judge picks winner — raises ceiling on quality.
+3. **10-language translation.** Groq-based fan-out; per-language content subpaths.
+4. **Distribution fan-out.** Bluesky / Mastodon / Telegram / Reddit auto-post per article.
 5. **Semantic dedup.** SimHash catches near-identical phrasing; an embedding-cosine pass would catch paraphrased dupes. Low priority — SimHash covers the common feed-overlap case.
 
 ### 🔜 Later (Part I Stages 02-14)

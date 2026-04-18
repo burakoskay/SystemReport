@@ -9,6 +9,7 @@ import crypto from 'crypto';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { sendAlert } from '../src/pipeline/alerts.mjs';
 import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
+import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 
 dotenv.config();
 
@@ -25,6 +26,7 @@ const FEEDS = [
 
 const PROCESSED_URLS_FILE = path.join(process.cwd(), 'processed_urls.json');
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
+const AUDIO_DIR = path.join(process.cwd(), 'public/audio');
 const EDITORIAL_VOICE_FILE = path.join(process.cwd(), 'docs/EDITORIAL_VOICE.md');
 
 // Loaded once at startup; injected into draft/revise prompts.
@@ -562,6 +564,22 @@ async function main() {
         heroPath = image.url;
       }
 
+      // Generate narration (best-effort; never blocks publishing).
+      let audioPath = '';
+      let audioBytes = 0;
+      try {
+        const speechText = markdownToSpeechText(synthesis.title, synthesis.description, synthesis.article_markdown);
+        const wav = await synthesizeSpeech(speechText);
+        await fs.mkdir(AUDIO_DIR, { recursive: true });
+        const audioFile = path.join(AUDIO_DIR, `${baseSlug}.wav`);
+        await fs.writeFile(audioFile, wav);
+        audioPath = `/audio/${baseSlug}.wav`;
+        audioBytes = wav.length;
+        console.log(`  🔊 Narration saved: ${audioPath} (${(wav.length / 1024).toFixed(0)} KB)`);
+      } catch (e) {
+        console.log(`  ⚠ TTS skipped: ${e.message}`);
+      }
+
       const frontmatter = `---
 title: "${synthesis.title.replace(/"/g, '\\"')}"
 date: ${dateStr}
@@ -571,7 +589,9 @@ hero_image_credit_name: "${image.creditName.replace(/"/g, '\\"')}"
 hero_image_credit_url: "${image.creditUrl}"
 visual_keyword: "${synthesis.visual_keyword.replace(/"/g, '\\"')}"
 description: "${synthesis.description.replace(/"/g, '\\"')}"
-sources_count: ${cluster.articles.length}
+sources_count: ${cluster.articles.length}${audioPath ? `
+audio_path: "${audioPath}"
+audio_bytes: ${audioBytes}` : ''}
 ---
 
 `;

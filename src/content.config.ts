@@ -13,6 +13,8 @@ const postsCollection = defineCollection({
     visual_keyword: z.string().optional(),
     description: z.string().optional(),
     sources_count: z.number().optional(),
+    audio_path: z.string().optional(),
+    audio_bytes: z.number().optional(),
   }),
 });
 

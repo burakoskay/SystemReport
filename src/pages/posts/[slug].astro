@@ -213,6 +213,20 @@ const articleSchema = {
       </div>
     )}
 
+    <!-- Audio narration (when available) -->
+    {post.data.audio_path && (
+      <div class="mb-8 border border-gray-200 dark:border-gray-800 rounded-xl p-4 bg-gray-50 dark:bg-gray-900/50">
+        <div class="flex items-center gap-2 mb-2 text-xs uppercase tracking-wider text-gray-500 dark:text-gray-400">
+          <span>🔊 Listen</span>
+          <span class="text-gray-300 dark:text-gray-700">·</span>
+          <span>Narrated by Orpheus</span>
+        </div>
+        <audio controls preload="none" class="w-full" src={post.data.audio_path}>
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    )}
+
     <!-- Ad before article -->
     <AdUnit format="horizontal" className="mb-8" />
 
