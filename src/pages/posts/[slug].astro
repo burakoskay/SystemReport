@@ -35,6 +35,16 @@ const formattedDate = post.data.date.toLocaleDateString('en-US', {
   month: 'long',
   day: 'numeric',
 });
+const formattedTime = post.data.date.toLocaleTimeString('en-US', {
+  hour: 'numeric',
+  minute: '2-digit',
+  hour12: true,
+  timeZone: 'UTC',
+  timeZoneName: 'short',
+});
+const formattedModified = post.data.modified_date
+  ? `${post.data.modified_date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })} · ${post.data.modified_date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'UTC', timeZoneName: 'short' })}`
+  : null;
 
 const articleUrl = `https://systemreport.net/posts/${post.id}`;
 
@@ -199,13 +209,13 @@ const articleSchema = {
           <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5" />
           </svg>
-          {formattedDate}
+          {formattedDate} · {formattedTime}
         </time>
         {post.data.modified_date && post.data.modified_date.valueOf() !== post.data.date.valueOf() && (
           <>
             <span class="w-1 h-1 rounded-full bg-gray-300 dark:bg-gray-600"></span>
             <span class="flex items-center gap-1.5 text-amber-600 dark:text-amber-400">
-              Updated {post.data.modified_date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+              Updated {formattedModified}
             </span>
           </>
         )}
@@ -251,15 +261,78 @@ const articleSchema = {
 
     <!-- Audio narration (when available) -->
     {post.data.audio_path && (
-      <div class="mb-8 border border-gray-200 dark:border-gray-800 rounded-xl p-4 bg-gray-50 dark:bg-gray-900/50">
-        <div class="flex items-center gap-2 mb-2 text-xs uppercase tracking-wider text-gray-500 dark:text-gray-400">
-          <span>🔊 Listen</span>
+      <div class="sr-listen mb-10 mt-2 flex items-center gap-4 px-5 py-4 rounded-2xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950">
+        <button
+          type="button"
+          class="sr-listen-toggle shrink-0 w-12 h-12 rounded-full bg-gray-900 dark:bg-white text-white dark:text-black flex items-center justify-center hover:scale-105 active:scale-95 transition-transform"
+          aria-label="Play narration"
+        >
+          <svg class="sr-listen-play w-5 h-5 ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z" /></svg>
+          <svg class="sr-listen-pause w-5 h-5 hidden" fill="currentColor" viewBox="0 0 24 24"><path d="M6 5h4v14H6zM14 5h4v14h-4z" /></svg>
+        </button>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-baseline justify-between gap-3 mb-1.5">
+            <span class="text-xs uppercase tracking-[0.18em] text-gray-500 dark:text-gray-400 font-medium">Listen to this article</span>
+            <span class="sr-listen-time text-xs font-mono text-gray-500 dark:text-gray-400 tabular-nums">0:00 / --:--</span>
+          </div>
+          <div class="sr-listen-track relative h-1.5 rounded-full bg-gray-200 dark:bg-gray-800 cursor-pointer overflow-hidden">
+            <div class="sr-listen-progress absolute inset-y-0 left-0 w-0 bg-gray-900 dark:bg-white rounded-full"></div>
+          </div>
         </div>
-        <audio controls preload="none" class="w-full" src={post.data.audio_path}>
-          Your browser does not support the audio element.
-        </audio>
+        <audio class="sr-listen-audio hidden" preload="metadata" src={post.data.audio_path}></audio>
       </div>
     )}
+
+    <script is:inline>
+      (function () {
+        document.querySelectorAll('.sr-listen').forEach((root) => {
+          const audio = root.querySelector('.sr-listen-audio');
+          const btn = root.querySelector('.sr-listen-toggle');
+          const playIcon = root.querySelector('.sr-listen-play');
+          const pauseIcon = root.querySelector('.sr-listen-pause');
+          const track = root.querySelector('.sr-listen-track');
+          const progress = root.querySelector('.sr-listen-progress');
+          const timeEl = root.querySelector('.sr-listen-time');
+          if (!audio || !btn) return;
+
+          const fmt = (s) => {
+            if (!isFinite(s) || s < 0) return '--:--';
+            const m = Math.floor(s / 60);
+            const r = Math.floor(s % 60);
+            return m + ':' + (r < 10 ? '0' : '') + r;
+          };
+          const render = () => {
+            const d = audio.duration || 0;
+            const t = audio.currentTime || 0;
+            progress.style.width = d ? (t / d) * 100 + '%' : '0%';
+            timeEl.textContent = fmt(t) + ' / ' + fmt(d);
+          };
+
+          btn.addEventListener('click', () => {
+            if (audio.paused) audio.play(); else audio.pause();
+          });
+          audio.addEventListener('play', () => {
+            playIcon.classList.add('hidden');
+            pauseIcon.classList.remove('hidden');
+            btn.setAttribute('aria-label', 'Pause narration');
+          });
+          audio.addEventListener('pause', () => {
+            playIcon.classList.remove('hidden');
+            pauseIcon.classList.add('hidden');
+            btn.setAttribute('aria-label', 'Play narration');
+          });
+          audio.addEventListener('timeupdate', render);
+          audio.addEventListener('loadedmetadata', render);
+          audio.addEventListener('ended', render);
+
+          track.addEventListener('click', (e) => {
+            const rect = track.getBoundingClientRect();
+            const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+            if (audio.duration) audio.currentTime = ratio * audio.duration;
+          });
+        });
+      })();
+    </script>
 
     <!-- Ad before article -->
     <AdUnit format="horizontal" className="mb-8" />

@@ -19,7 +19,9 @@ const sidebarPosts  = paginatedPosts.slice(1, 5);
 const gridPosts     = paginatedPosts.slice(5);
 
 function formatDate(date: Date) {
-  return date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  const d = date.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  const t = date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'UTC' });
+  return `${d} · ${t} UTC`;
 }
 
 const siteBase = (Astro.site || 'https://systemreport.net').toString().replace(/\/$/, '');

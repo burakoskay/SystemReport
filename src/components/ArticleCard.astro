@@ -14,11 +14,11 @@ const { title, slug, date, heroImage, tags = [], description, body = '' } = Astr
 const words = (body || '').split(/\s+/).filter(Boolean).length;
 const readingTime = Math.max(1, Math.ceil(words / 200));
 
-const formattedDate = date.toLocaleDateString('en-US', {
+const formattedDate = `${date.toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'short',
   day: 'numeric',
-});
+})} · ${date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'UTC' })} UTC`;
 
 const excerpt = description || (body ? body.slice(0, 140).replace(/[#*_\[\]`>]/g, '').trim() + '…' : '');
 const category = tags[0] ?? null;
