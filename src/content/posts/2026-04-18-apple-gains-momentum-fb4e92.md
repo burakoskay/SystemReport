@@ -1,0 +1,20 @@
+---
+title: "Apple Gains Momentum"
+date: 2026-04-18T20:28:47.227Z
+tags: ["Apple","Cerebras","Samsung"]
+hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
+hero_image_credit_name: "System Report (Flux Schnell)"
+hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
+visual_keyword: "Apple Watch"
+description: "Apple wins patent battle, stock target increases"
+sources_count: 7
+---
+
+# Apple's Recent Wins
+Apple scored an important win in its ongoing battle with Masimo over patents related to the Apple Watch’s blood oxygen feature. BNP Paribas raised Apple’s stock price target to $300, up from $260 set in its last investor note, citing a memory shortage opportunity.
+## Global Developments
+The Indian government has given up on its plan to mandate that Apple and other smartphone makers pre-install a state-owned “security” app. Apple will present dozens of studies and demos at the upcoming International Conference on Learning Representations in Rio de Janeiro, Brazil. Additionally, a bug with the Gemini app is removing features and reverting the UI on Android devices.
+## Industry Trends
+Cerebras, an AI chip startup, has filed for IPO after announcing agreements with Amazon Web Services and OpenAI, with the latter deal reportedly worth over $10 billion. Samsung executives discussed the company’s design language, including the Galaxy S26’s vertical camera, which is both a key aspect of its design and a significant problem.
+## Moving Forward
+Apple’s recent wins and upcoming AI conference presentations position the company for growth. The ITC closed the Apple Watch import-ban case, a significant development in Apple's patent battle with Masimo. Samsung faces design issues, while Cerebras’s IPO filing highlights industry challenges and opportunities.
