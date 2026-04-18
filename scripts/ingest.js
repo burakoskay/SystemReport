@@ -7,6 +7,7 @@ import { Type } from '@google/genai';
 import dotenv from 'dotenv';
 import crypto from 'crypto';
 import { routeCall } from '../src/pipeline/router.mjs';
+import { sendAlert } from '../src/pipeline/alerts.mjs';
 
 dotenv.config();
 
@@ -457,6 +458,9 @@ async function downloadHero(remoteUrl, slug) {
 // --- Main pipeline ---
 async function main() {
   console.log('Starting ETL pipeline...');
+  const runStart = Date.now();
+  let publishedCount = 0;
+  let failedClusters = 0;
   const processedUrls = await loadProcessedUrls();
   console.log(`Loaded ${processedUrls.size} previously processed URLs.`);
 
@@ -476,6 +480,11 @@ async function main() {
   } catch (err) {
     console.error(`⛔ Clustering failed — API may be down or quota exhausted: ${err.message}`);
     console.error('Aborting run. No API calls wasted on synthesis.');
+    await sendAlert({
+      title: 'Pipeline aborted: clustering failed',
+      level: 'error',
+      lines: [`${err.message.slice(0, 400)}`, `Queued articles: ${newArticles.length}`],
+    });
     return;
   }
   console.log(`Identified ${clusters.length} clusters.`);
@@ -550,21 +559,54 @@ sources_count: ${cluster.articles.length}
       // Mark cluster sources as processed
       cluster.articles.forEach((a) => processedUrls.add(a.link));
       consecutiveFailures = 0;
+      publishedCount++;
 
       console.log(`  ✓ Saved: ${filename}`);
     } catch (err) {
       consecutiveFailures++;
+      failedClusters++;
       console.error(`  ✗ Failed cluster "${cluster.theme}":`, err.message);
 
       if (consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
         console.error(`\n⛔ Circuit breaker tripped: ${MAX_CONSECUTIVE_FAILURES} consecutive failures. Aborting run to prevent wasted API calls.`);
+        await sendAlert({
+          title: 'Circuit breaker tripped',
+          level: 'error',
+          lines: [
+            `${MAX_CONSECUTIVE_FAILURES} consecutive cluster failures.`,
+            `Last error: ${String(err.message).slice(0, 300)}`,
+            `Published before trip: ${publishedCount}/${clustersToProcess.length}`,
+          ],
+        });
         break;
       }
     }
   }
 
   await saveProcessedUrls(processedUrls);
+  const durationSec = Math.round((Date.now() - runStart) / 1000);
   console.log(`\nPipeline finished. ${processedUrls.size} total URLs tracked.`);
+
+  // Only alert on notable outcomes: all-failed, partial failure, or success with volume.
+  if (publishedCount === 0 && failedClusters > 0) {
+    await sendAlert({
+      title: 'Run published 0 articles',
+      level: 'error',
+      lines: [`${failedClusters} clusters failed`, `Duration: ${durationSec}s`],
+    });
+  } else if (failedClusters > 0) {
+    await sendAlert({
+      title: `Run: ${publishedCount} published, ${failedClusters} failed`,
+      level: 'warn',
+      lines: [`Duration: ${durationSec}s`, `Queued: ${newArticles.length}`],
+    });
+  } else if (publishedCount >= 5) {
+    await sendAlert({
+      title: `Run: ${publishedCount} articles published`,
+      level: 'info',
+      lines: [`Duration: ${durationSec}s`, `Queued: ${newArticles.length}`],
+    });
+  }
 }
 
 main().catch(console.error);

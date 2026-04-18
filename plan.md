@@ -23,15 +23,17 @@
 - **Stylometric gate.** 30+ banned LLM-tell phrases scanned post-revise; banned phrases regenerate via prompt constraint.
 - **Self-hosted heroes (Best Practices fix).** `downloadHero()` saves every hero to `public/hero/<slug>.jpg` during ingest; `scripts/backfill-heroes.js` backfilled all 79 existing posts (5.2MB total). Pexels preconnect removed from Layout. Eliminates third-party cookies flagged by Lighthouse.
 - **Telemetry emitting.** `src/pipeline/router.mjs` writes JSONL records per call attempt to `ops/telemetry/YYYY-MM-DD.jsonl` (success + failure, latency, token sizes, error class). Commit `e9683b4`.
+- **Lighthouse CI gate.** `.lighthouserc.json` + `.github/workflows/lighthouse.yml` — PRs fail if Performance<90 or A11y/BP/SEO<95. Commit `452832f`.
+- **Discord alerting.** `src/pipeline/alerts.mjs` posts to `DISCORD_WEBHOOK_URL` (no-op if unset). Wired to clustering abort, circuit-breaker trip, and run summary (errors + partial-failure + success-with-volume). Needs `gh secret set DISCORD_WEBHOOK_URL` to activate.
+- **Telemetry rollup.** `scripts/telemetry-rollup.js` — daily JSONL → `ops/rollup/YYYY-MM-DD.json` with success rate, p50/p95 latency per model, error-class histogram.
 
 ### 🚧 Next lever (in-progress / queued)
 
-1. **Lighthouse CI gate.** `lhci.config.json` + workflow to block PRs that regress scores. Verify Best Practices hits 100 post-self-hosting.
-2. **Discord alerting** — post DLQ summary + provider health when runs fail.
-3. **Telemetry rollup.** Daily JSONL → summary in `ops/rollup/` (success rate per model, p50/p95 latency, error class histogram).
-4. **Editorial voice** (`docs/EDITORIAL_VOICE.md`). Style guide injected into prompts.
-5. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
-6. **Image generation.** Flux Schnell on Cloudflare Workers AI → inline illustration per section.
+1. **Editorial voice** (`docs/EDITORIAL_VOICE.md`). Style guide injected into prompts.
+2. **TTS podcast feed.** Orpheus-v1-english on Groq → one MP3 per cluster → podcast RSS.
+3. **Image generation.** Flux Schnell on Cloudflare Workers AI → inline illustration per section.
+4. **Dedup (SimHash + semantic).** Kill cross-chunk duplicate clusters.
+5. **Multi-draft A+B + judge.** Two drafts in parallel, judge picks winner — raises ceiling on quality.
 
 ### 🔜 Later (Part I Stages 02-14)
 
