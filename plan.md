@@ -45,7 +45,12 @@ Dedup (SimHash + semantic), multi-draft A+B + judge, Google Search grounding, im
 
 ### 🏁 Final step (manual, last)
 
-**Rotate the Groq API key.** Current key was pasted in chat during bootstrap; must be regenerated at console.groq.com/keys and set via `gh secret set GROQ_API_KEY` before the site is "production-hardened".
+**Rotate exposed credentials.** The following were pasted in chat during bootstrap and must be regenerated before the site is "production-hardened":
+- **Groq API key** — rotate at console.groq.com/keys → `gh secret set GROQ_API_KEY`
+- **Cloudflare API token** — rotate at dash.cloudflare.com/profile/api-tokens (the existing Workers AI token) → `gh secret set CLOUDFLARE_API_TOKEN`
+- **Cloudflare account ID** — not a secret per se (account IDs are not credentials), but rotating the token above is sufficient.
+
+**Skipped: Discord alerting.** Discord is blocked in Turkey, so `DISCORD_WEBHOOK_URL` is intentionally unset. `src/pipeline/alerts.mjs` no-ops gracefully. If a Turkey-accessible alternative is desired (Telegram bot, Slack, ntfy.sh, email), the alert helper can be swapped for any HTTP-POST webhook in <10 lines.
 
 ---
 
