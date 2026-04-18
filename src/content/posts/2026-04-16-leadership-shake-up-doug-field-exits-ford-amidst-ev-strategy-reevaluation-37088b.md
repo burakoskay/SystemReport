@@ -2,7 +2,7 @@
 title: "Leadership Shake-Up: Doug Field Exits Ford Amidst EV Strategy Reevaluation"
 date: 2026-04-16T05:28:05.529Z
 tags: ["ford","electric vehicles","automotive tech","executive changes","software development"]
-hero_image: "https://images.pexels.com/photos/18845908/pexels-photo-18845908.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-leadership-shake-up-doug-field-exits-ford-amidst-ev-strategy-reevaluation-37088b.jpg"
 hero_image_credit_name: "Jordan Rushton"
 hero_image_credit_url: "https://www.pexels.com/@jordanr93"
 visual_keyword: "Ford EV executive transition"

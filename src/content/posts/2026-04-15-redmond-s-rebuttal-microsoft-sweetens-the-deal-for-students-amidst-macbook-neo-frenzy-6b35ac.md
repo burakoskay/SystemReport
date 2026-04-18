@@ -2,7 +2,7 @@
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students Amidst MacBook Neo Frenzy"
 date: 2026-04-15T19:46:25.489Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
-hero_image: "https://images.pexels.com/photos/4705604/pexels-photo-4705604.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-redmond-s-rebuttal-microsoft-sweetens-the-deal-for-students-amidst-macbook-neo-frenzy-6b35ac.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"

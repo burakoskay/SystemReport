@@ -2,7 +2,7 @@
 title: "Code, History, and Reality Converge"
 date: 2026-04-18T01:10:43.528Z
 tags: ["coding","history","cybersecurity"]
-hero_image: "https://images.pexels.com/photos/14553707/pexels-photo-14553707.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-code-history-and-reality-converge-d35300.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"

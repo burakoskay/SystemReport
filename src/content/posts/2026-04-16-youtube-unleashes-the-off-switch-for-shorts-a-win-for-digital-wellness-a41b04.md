@@ -2,7 +2,7 @@
 title: "YouTube Unleashes the 'Off Switch' for Shorts: A Win for Digital Wellness?"
 date: 2026-04-16T05:28:17.434Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
-hero_image: "https://images.pexels.com/photos/13003482/pexels-photo-13003482.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"

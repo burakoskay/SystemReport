@@ -2,7 +2,7 @@
 title: "OpenAI's Shift: Top Execs Depart as Company Refocuses on Enterprise AI"
 date: 2026-04-18T01:04:41.771Z
 tags: ["ai","openai","enterprise"]
-hero_image: "https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-openai-s-shift-top-execs-depart-as-company-refocuses-on-enterprise-ai-ed4924.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"

@@ -2,7 +2,7 @@
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster, and Ditching the Wall Adapter"
 date: 2026-04-15T19:46:06.589Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
-hero_image: "https://images.pexels.com/photos/5202957/pexels-photo-5202957.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"

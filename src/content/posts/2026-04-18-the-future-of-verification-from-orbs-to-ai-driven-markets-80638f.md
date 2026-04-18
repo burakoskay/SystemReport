@@ -2,7 +2,7 @@
 title: "The Future of Verification: From Orbs to AI-Driven Markets"
 date: 2026-04-18T01:05:14.216Z
 tags: ["tech","verification","ai"]
-hero_image: "https://images.pexels.com/photos/8090303/pexels-photo-8090303.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-the-future-of-verification-from-orbs-to-ai-driven-markets-80638f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial scanning orb"

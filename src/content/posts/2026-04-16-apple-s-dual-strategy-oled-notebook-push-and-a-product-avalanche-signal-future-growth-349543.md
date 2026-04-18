@@ -2,7 +2,7 @@
 title: "Apple's Dual Strategy: OLED Notebook Push and a Product Avalanche Signal Future Growth"
 date: 2026-04-16T05:29:28.584Z
 tags: ["apple","oled","notebooks","product launches","tech strategy"]
-hero_image: "https://images.pexels.com/photos/29073142/pexels-photo-29073142.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-apple-s-dual-strategy-oled-notebook-push-and-a-product-avalanche-signal-future-growth-349543.jpg"
 hero_image_credit_name: "Hans Herrington"
 hero_image_credit_url: "https://www.pexels.com/@hans-herrington-99819090"
 visual_keyword: "Apple futuristic tech innovation displays"

@@ -2,7 +2,7 @@
 title: "The AI Paradox: Innovation's March Meets a Crisis of Trust"
 date: 2026-04-16T05:29:41.320Z
 tags: ["ai","privacy","ethics","surveillance","robotics"]
-hero_image: "https://images.pexels.com/photos/29393023/pexels-photo-29393023.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-ai-paradox-innovation-s-march-meets-a-crisis-of-trust-f8f446.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "robot dog scanning industrial gauges and a person looking at data on a screen with privacy warnings"

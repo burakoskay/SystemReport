@@ -2,7 +2,7 @@
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax Season?"
 date: 2026-04-16T05:28:39.623Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
-hero_image: "https://images.pexels.com/photos/6929004/pexels-photo-6929004.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"

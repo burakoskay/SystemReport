@@ -2,7 +2,7 @@
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
 tags: ["apple","india","privacy"]
-hero_image: "https://images.pexels.com/photos/19883685/pexels-photo-19883685.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"

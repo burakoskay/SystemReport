@@ -2,7 +2,7 @@
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
 tags: ["Google","Travel","Shopping"]
-hero_image: "https://images.pexels.com/photos/10774603/pexels-photo-10774603.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"

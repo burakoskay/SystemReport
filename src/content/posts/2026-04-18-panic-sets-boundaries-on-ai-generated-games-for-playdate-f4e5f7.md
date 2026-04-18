@@ -2,7 +2,7 @@
 title: "Panic Sets Boundaries on AI-Generated Games for Playdate"
 date: 2026-04-18T01:10:47.743Z
 tags: ["Playdate","AI","gaming","artistic integrity"]
-hero_image: "https://images.pexels.com/photos/15763955/pexels-photo-15763955.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-panic-sets-boundaries-on-ai-generated-games-for-playdate-f4e5f7.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Playdate console"

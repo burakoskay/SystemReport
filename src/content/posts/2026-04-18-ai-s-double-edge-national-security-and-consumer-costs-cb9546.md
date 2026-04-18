@@ -2,7 +2,7 @@
 title: "AI's Double Edge: National Security and Consumer Costs"
 date: 2026-04-18T01:05:03.130Z
 tags: ["ai","cybersecurity","national security","consumer tech"]
-hero_image: "https://images.pexels.com/photos/8108723/pexels-photo-8108723.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-ai-s-double-edge-national-security-and-consumer-costs-cb9546.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "AI circuit board"

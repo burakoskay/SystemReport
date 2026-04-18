@@ -2,7 +2,7 @@
 title: "Smartphone Security and Interoperability: Navigating a Landscape of Vulnerabilities and Glitches"
 date: 2026-04-16T05:29:18.681Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
-hero_image: "https://images.pexels.com/photos/27522927/pexels-photo-27522927.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"

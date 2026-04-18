@@ -2,7 +2,7 @@
 title: "US Government to Mandate Data Center Energy Reporting in Landmark Move"
 date: 2026-04-15T19:44:08.769Z
 tags: ["data centers","energy consumption","eia","sustainability","tech policy"]
-hero_image: "https://images.pexels.com/photos/17155843/pexels-photo-17155843.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-us-government-to-mandate-data-center-energy-reporting-in-landmark-move-afb47d.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center power grid"

@@ -2,7 +2,7 @@
 title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our Cognitive Edge"
 date: 2026-04-15T19:47:05.150Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
-hero_image: "https://images.pexels.com/photos/9783346/pexels-photo-9783346.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-the-hidden-cost-of-ai-why-assistance-may-be-eroding-our-cognitive-edge-35716a.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"

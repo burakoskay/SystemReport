@@ -2,7 +2,7 @@
 title: "The AI Tidal Wave: How Intelligent Agents and Billions in Capital are Reshaping Tech"
 date: 2026-04-15T19:47:53.588Z
 tags: ["ai","artificial intelligence","agentic ai","tech investment","innovation"]
-hero_image: "https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-the-ai-tidal-wave-how-intelligent-agents-and-billions-in-capital-are-reshaping-tech-76eade.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI intelligence network"

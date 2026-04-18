@@ -2,7 +2,7 @@
 title: "Tech Surge: Innovations Redefining Industries"
 date: 2026-04-18T01:04:52.898Z
 tags: ["tech","innovation","ai","entrepreneurship"]
-hero_image: "https://images.pexels.com/photos/34194567/pexels-photo-34194567.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-tech-surge-innovations-redefining-industries-4d2b91.jpg"
 hero_image_credit_name: "Freek Wolsink"
 hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "robotic arm"

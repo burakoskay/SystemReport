@@ -2,7 +2,7 @@
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider Trading Crackdown"
 date: 2026-04-16T05:31:49.780Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
-hero_image: "https://images.pexels.com/photos/35118208/pexels-photo-35118208.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"

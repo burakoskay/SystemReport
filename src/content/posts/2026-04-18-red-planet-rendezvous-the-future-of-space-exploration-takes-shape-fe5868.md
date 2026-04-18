@@ -2,7 +2,7 @@
 title: "Red Planet Rendezvous: The Future of Space Exploration Takes Shape"
 date: 2026-04-18T01:05:06.563Z
 tags: ["space exploration","mars rover","reentry tech"]
-hero_image: "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-red-planet-rendezvous-the-future-of-space-exploration-takes-shape-fe5868.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Mars rover launch"

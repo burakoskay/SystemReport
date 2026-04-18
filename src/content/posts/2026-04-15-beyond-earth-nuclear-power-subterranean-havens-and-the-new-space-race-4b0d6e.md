@@ -2,7 +2,7 @@
 title: "Beyond Earth: Nuclear Power, Subterranean Havens, and the New Space Race"
 date: 2026-04-15T19:49:01.011Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
-hero_image: "https://images.pexels.com/photos/13332088/pexels-photo-13332088.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"

@@ -2,7 +2,7 @@
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an Illegal Monopoly"
 date: 2026-04-16T05:27:56.433Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
-hero_image: "https://images.pexels.com/photos/20733964/pexels-photo-20733964.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"

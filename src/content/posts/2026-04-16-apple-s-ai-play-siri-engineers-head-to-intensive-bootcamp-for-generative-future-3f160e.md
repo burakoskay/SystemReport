@@ -2,7 +2,7 @@
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for Generative Future"
 date: 2026-04-16T05:32:12.504Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
-hero_image: "https://images.pexels.com/photos/16461434/pexels-photo-16461434.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"

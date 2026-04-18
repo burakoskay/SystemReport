@@ -2,7 +2,7 @@
 title: "The Shifting Sands of Digital Platforms: Innovation, Oversight, and Outages"
 date: 2026-04-16T05:30:50.766Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
-hero_image: "https://images.pexels.com/photos/10325707/pexels-photo-10325707.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"

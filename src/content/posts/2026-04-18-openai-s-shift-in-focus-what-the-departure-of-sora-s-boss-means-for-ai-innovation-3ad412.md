@@ -2,7 +2,7 @@
 title: "OpenAI's Shift in Focus: What the Departure of Sora's Boss Means for AI Innovation"
 date: 2026-04-18T01:04:59.933Z
 tags: ["ai innovation","openai","llm"]
-hero_image: "https://images.pexels.com/photos/17484975/pexels-photo-17484975.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-openai-s-shift-in-focus-what-the-departure-of-sora-s-boss-means-for-ai-innovation-3ad412.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Brain Network"

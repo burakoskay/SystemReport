@@ -2,7 +2,7 @@
 title: "The Digital Tug-of-War: Navigating Content Control, Free Speech, and Regulation on Social Platforms"
 date: 2026-04-15T19:49:24.646Z
 tags: ["content moderation","free speech","social media regulation","brand safety","digital ethics"]
-hero_image: "https://images.pexels.com/photos/17034001/pexels-photo-17034001.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-the-digital-tug-of-war-navigating-content-control-free-speech-and-regulation-on-social-platforms-246118.jpg"
 hero_image_credit_name: "Vincent  Photography"
 hero_image_credit_url: "https://www.pexels.com/@vincentphotography"
 visual_keyword: "Abstract digital crossroads with intersecting lines and symbols representing free speech, corporate power, user experience, and regulation."

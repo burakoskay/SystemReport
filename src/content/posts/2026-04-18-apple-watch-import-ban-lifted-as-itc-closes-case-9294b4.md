@@ -2,7 +2,7 @@
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
 tags: ["Apple","Apple Watch","ITC"]
-hero_image: "https://images.pexels.com/photos/7239986/pexels-photo-7239986.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"

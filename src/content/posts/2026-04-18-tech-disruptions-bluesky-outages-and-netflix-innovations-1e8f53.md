@@ -2,7 +2,7 @@
 title: "Tech Disruptions: Bluesky Outages and Netflix Innovations"
 date: 2026-04-18T01:04:56.938Z
 tags: ["tech","innovation","cybersecurity","entertainment"]
-hero_image: "https://images.pexels.com/photos/5829726/pexels-photo-5829726.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-tech-disruptions-bluesky-outages-and-netflix-innovations-1e8f53.jpg"
 hero_image_credit_name: "Nikita Belokhonov"
 hero_image_credit_url: "https://www.pexels.com/@traveliving"
 visual_keyword: "cyber attack landscape"

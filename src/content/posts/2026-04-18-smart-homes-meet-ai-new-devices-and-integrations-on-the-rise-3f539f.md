@@ -2,7 +2,7 @@
 title: "Smart Homes Meet AI: New Devices and Integrations on the Rise"
 date: 2026-04-18T01:10:59.710Z
 tags: ["smart homes","ai integrations","new devices"]
-hero_image: "https://images.pexels.com/photos/28117882/pexels-photo-28117882.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-smart-homes-meet-ai-new-devices-and-integrations-on-the-rise-3f539f.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home security camera with AI"

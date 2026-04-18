@@ -2,7 +2,7 @@
 title: "The AI Revolution: Where Efficiency Meets Compromise"
 date: 2026-04-18T01:04:49.528Z
 tags: ["ai","tech","cybersecurity","design"]
-hero_image: "https://images.pexels.com/photos/8294658/pexels-photo-8294658.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-the-ai-revolution-where-efficiency-meets-compromise-dfd45f.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic newsroom"

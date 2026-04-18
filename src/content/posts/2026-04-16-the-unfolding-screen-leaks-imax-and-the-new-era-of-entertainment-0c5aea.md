@@ -2,7 +2,7 @@
 title: "The Unfolding Screen: Leaks, IMAX, and the New Era of Entertainment"
 date: 2026-04-16T05:29:54.517Z
 tags: ["entertainment industry","streaming","cinema","content leaks","film innovation"]
-hero_image: "https://images.pexels.com/photos/34598087/pexels-photo-34598087.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-unfolding-screen-leaks-imax-and-the-new-era-of-entertainment-0c5aea.jpg"
 hero_image_credit_name: "Caleb Oquendo"
 hero_image_credit_url: "https://www.pexels.com/@caleboquendo"
 visual_keyword: "Dynamic film and streaming media"

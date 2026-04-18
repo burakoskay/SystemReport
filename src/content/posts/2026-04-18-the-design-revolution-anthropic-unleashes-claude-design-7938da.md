@@ -2,7 +2,7 @@
 title: "The Design Revolution: Anthropic Unleashes Claude Design"
 date: 2026-04-18T01:05:16.030Z
 tags: ["claude design","anthropic","ai-assisted design"]
-hero_image: "https://images.pexels.com/photos/7580765/pexels-photo-7580765.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-the-design-revolution-anthropic-unleashes-claude-design-7938da.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "AI-generated design concept with colorful graphs and diagrams"

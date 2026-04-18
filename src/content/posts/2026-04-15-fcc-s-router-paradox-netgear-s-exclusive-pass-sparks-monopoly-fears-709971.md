@@ -2,7 +2,7 @@
 title: "FCC's Router Paradox: Netgear's Exclusive Pass Sparks Monopoly Fears"
 date: 2026-04-15T19:45:34.217Z
 tags: ["fcc","netgear","routers","cybersecurity","tech policy"]
-hero_image: "https://images.pexels.com/photos/29711663/pexels-photo-29711663.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-fcc-s-router-paradox-netgear-s-exclusive-pass-sparks-monopoly-fears-709971.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"

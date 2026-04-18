@@ -2,7 +2,7 @@
 title: "When Tech Meets Art: The Delight and Frustration of Innovative Gadgets"
 date: 2026-04-18T01:05:09.610Z
 tags: ["tech","art","innovation","gadgets","ai"]
-hero_image: "https://images.pexels.com/photos/8294657/pexels-photo-8294657.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-when-tech-meets-art-the-delight-and-frustration-of-innovative-gadgets-4c1ecb.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic flower"

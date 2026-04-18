@@ -2,7 +2,7 @@
 title: "The Digital Crucible: How AI & Shifting Tides Reshape Political Loyalty"
 date: 2026-04-16T05:30:04.105Z
 tags: ["ai in politics","political shifts","trump","digital propaganda","maga movement"]
-hero_image: "https://images.pexels.com/photos/18069493/pexels-photo-18069493.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-digital-crucible-how-ai-shifting-tides-reshape-political-loyalty-f359e5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI generated political art with a digital landscape overlay"

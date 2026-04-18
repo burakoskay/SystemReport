@@ -2,7 +2,7 @@
 title: "Cyber Insecurity: Hacks Expose Vulnerabilities in US Systems"
 date: 2026-04-18T01:04:54.096Z
 tags: ["cybersecurity","hacking","windows"]
-hero_image: "https://images.pexels.com/photos/5380640/pexels-photo-5380640.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-cyber-insecurity-hacks-expose-vulnerabilities-in-us-systems-651e03.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker in shadows"

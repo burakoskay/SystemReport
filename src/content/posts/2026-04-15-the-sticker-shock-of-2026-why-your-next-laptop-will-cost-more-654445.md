@@ -2,7 +2,7 @@
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
-hero_image: "https://images.pexels.com/photos/19867372/pexels-photo-19867372.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"

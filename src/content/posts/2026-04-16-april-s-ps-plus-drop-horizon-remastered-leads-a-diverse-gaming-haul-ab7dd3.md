@@ -2,7 +2,7 @@
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
-hero_image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"

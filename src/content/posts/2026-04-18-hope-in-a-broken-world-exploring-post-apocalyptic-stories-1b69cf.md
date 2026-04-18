@@ -2,7 +2,7 @@
 title: "Hope in a Broken World: Exploring Post-Apocalyptic Stories"
 date: 2026-04-18T01:05:11.111Z
 tags: ["postapocalyptic","sciencefiction","resilience"]
-hero_image: "https://images.pexels.com/photos/31781225/pexels-photo-31781225.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-hope-in-a-broken-world-exploring-post-apocalyptic-stories-1b69cf.jpg"
 hero_image_credit_name: "Alec Doualetas"
 hero_image_credit_url: "https://www.pexels.com/@alecdoua"
 visual_keyword: "desolate landscape with survivors"

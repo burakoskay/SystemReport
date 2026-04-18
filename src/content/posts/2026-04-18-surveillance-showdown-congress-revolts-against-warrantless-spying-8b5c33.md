@@ -2,7 +2,7 @@
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
 tags: ["surveillance","privacy","security"]
-hero_image: "https://images.pexels.com/photos/17527826/pexels-photo-17527826.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"

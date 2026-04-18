@@ -2,7 +2,7 @@
 title: "Tech Roundup: Healthchecks' Storage Shift, TCL's Mini LED TVs, and a Wireless Charger Recall"
 date: 2026-04-18T01:05:19.132Z
 tags: ["tech news","mini led tvs","wireless charger recall"]
-hero_image: "https://images.pexels.com/photos/25809261/pexels-photo-25809261.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-tech-roundup-healthchecks-storage-shift-tcl-s-mini-led-tvs-and-a-wireless-charger-recall-f62d2b.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "TCL RGB-Mini LED TV"

@@ -2,7 +2,7 @@
 title: "Tech Titans on the Brink: Quantum Computing and Hyperscale Spending"
 date: 2026-04-18T01:05:12.695Z
 tags: ["quantum computing","hyperscale","postquantum crypto"]
-hero_image: "https://images.pexels.com/photos/18467634/pexels-photo-18467634.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-tech-titans-on-the-brink-quantum-computing-and-hyperscale-spending-11c256.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"

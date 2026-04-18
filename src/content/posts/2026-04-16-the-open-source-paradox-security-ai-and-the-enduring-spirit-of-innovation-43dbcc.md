@@ -2,7 +2,7 @@
 title: "The Open Source Paradox: Security, AI, and the Enduring Spirit of Innovation"
 date: 2026-04-16T05:31:12.916Z
 tags: ["open source","ai","cybersecurity","software development","innovation"]
-hero_image: "https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-open-source-paradox-security-ai-and-the-enduring-spirit-of-innovation-43dbcc.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "Digital lock, AI neural network, and open source code"

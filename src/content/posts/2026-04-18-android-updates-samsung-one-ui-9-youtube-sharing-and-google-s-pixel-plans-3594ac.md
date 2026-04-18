@@ -2,7 +2,7 @@
 title: "Android Updates: Samsung One UI 9, YouTube Sharing, and Google's Pixel Plans"
 date: 2026-04-18T01:10:39.205Z
 tags: ["Android","Samsung","Google"]
-hero_image: "https://images.pexels.com/photos/10054185/pexels-photo-10054185.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"

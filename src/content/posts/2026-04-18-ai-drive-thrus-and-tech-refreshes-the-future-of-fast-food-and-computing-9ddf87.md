@@ -2,7 +2,7 @@
 title: "AI Drive-Thrus and Tech Refreshes: The Future of Fast Food and Computing"
 date: 2026-04-18T01:05:01.683Z
 tags: ["ai","tech","fastfood","computing"]
-hero_image: "https://images.pexels.com/photos/8811459/pexels-photo-8811459.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-ai-drive-thrus-and-tech-refreshes-the-future-of-fast-food-and-computing-9ddf87.jpg"
 hero_image_credit_name: "Jonathan Cooper"
 hero_image_credit_url: "https://www.pexels.com/@theshuttervision"
 visual_keyword: "ai drive-thru kiosk"

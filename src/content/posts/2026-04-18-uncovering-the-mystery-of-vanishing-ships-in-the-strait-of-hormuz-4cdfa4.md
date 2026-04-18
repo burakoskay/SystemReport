@@ -2,7 +2,7 @@
 title: "Uncovering the Mystery of Vanishing Ships in the Strait of Hormuz"
 date: 2026-04-18T01:04:58.528Z
 tags: ["maritime","oil trading","geopolitics"]
-hero_image: "https://images.pexels.com/photos/32237794/pexels-photo-32237794.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-uncovering-the-mystery-of-vanishing-ships-in-the-strait-of-hormuz-4cdfa4.jpg"
 hero_image_credit_name: "İrfan Simsar"
 hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"

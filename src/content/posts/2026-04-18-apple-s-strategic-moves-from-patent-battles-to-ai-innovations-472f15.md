@@ -2,7 +2,7 @@
 title: "Apple's Strategic Moves: From Patent Battles to AI Innovations"
 date: 2026-04-18T01:10:54.654Z
 tags: ["apple","technology","ai","iphone"]
-hero_image: "https://images.pexels.com/photos/7580293/pexels-photo-7580293.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-apple-s-strategic-moves-from-patent-battles-to-ai-innovations-472f15.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Watch blood oxygen feature"

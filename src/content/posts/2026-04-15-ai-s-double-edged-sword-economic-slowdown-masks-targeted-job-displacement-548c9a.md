@@ -2,7 +2,7 @@
 title: "AI's Double-Edged Sword: Economic Slowdown Masks Targeted Job Displacement"
 date: 2026-04-15T19:48:44.307Z
 tags: ["ai","layoffs","tech industry","employment","economy"]
-hero_image: "https://images.pexels.com/photos/8439093/pexels-photo-8439093.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-15-ai-s-double-edged-sword-economic-slowdown-masks-targeted-job-displacement-548c9a.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI robot hand replacing human worker in an office"

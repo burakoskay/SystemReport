@@ -2,7 +2,7 @@
 title: "The Unfolding Story of Modern Healthcare: Navigating Progress and Peril"
 date: 2026-04-16T05:30:17.251Z
 tags: ["medical innovation","gene editing","healthcare","scientific research","patient safety"]
-hero_image: "https://images.pexels.com/photos/12344725/pexels-photo-12344725.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-unfolding-story-of-modern-healthcare-navigating-progress-and-peril-7f1a9e.jpg"
 hero_image_credit_name: "Oleg PavLove"
 hero_image_credit_url: "https://www.pexels.com/@oleg-pavlove-194181440"
 visual_keyword: "futuristic medical facility, genetic research, operating room, innovation, challenge"

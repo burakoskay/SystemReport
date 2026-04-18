@@ -2,7 +2,7 @@
 title: "Tech Roundup: Satellite Imaging, Smart Mowers, and AI-Powered Headphones"
 date: 2026-04-18T01:10:25.151Z
 tags: ["satellite imaging","smart mowers","AI-powered headphones"]
-hero_image: "https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-tech-roundup-satellite-imaging-smart-mowers-and-ai-powered-headphones-7af257.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"

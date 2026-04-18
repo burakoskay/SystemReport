@@ -2,7 +2,7 @@
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While Autonomous Tractors Stall"
 date: 2026-04-16T05:29:02.815Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
-hero_image: "https://images.pexels.com/photos/9703551/pexels-photo-9703551.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"

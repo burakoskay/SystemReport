@@ -313,10 +313,17 @@ ${sourceTexts}`;
   try {
     const res = await routeCall({ task: 'critique', prompt, schema: critiqueSchema });
     const parsed = JSON.parse(res.text);
+    // Defensive: Groq JSON mode doesn't enforce schemas — fields can be missing or misnamed.
+    parsed.factual_issues = Array.isArray(parsed.factual_issues) ? parsed.factual_issues : [];
+    parsed.style_issues   = Array.isArray(parsed.style_issues)   ? parsed.style_issues   : [];
+    parsed.missing_angles = Array.isArray(parsed.missing_angles) ? parsed.missing_angles : [];
+    parsed.verdict        = typeof parsed.verdict === 'string' ? parsed.verdict : 'revise';
     parsed._critic = `${res.provider}/${res.model}`;
     return parsed;
   } catch (e) {
-    console.log(`    critique failed, treating as ship: ${e.message.slice(0, 120)}`);
+    // Fail-open: ship original draft rather than blocking on critic outage.
+    // Log prominently so we can tell from the run log that critique was skipped.
+    console.log(`    ⚠ critique skipped (failing open to ship): ${e.message.slice(0, 160)}`);
     return { factual_issues: [], style_issues: [], missing_angles: [], verdict: 'ship', _critic: 'none' };
   }
 }
@@ -401,7 +408,14 @@ async function synthesizeArticle(cluster) {
   return article;
 }
 
-// --- Image fetching (Pexels) ---
+// --- Image fetching (Pexels) + self-hosting ---
+// We download the image binary to public/hero/<slug>.jpg so the final page
+// serves only first-party URLs. Rationale: Pexels' CDN sets third-party
+// tracking cookies which drops Lighthouse Best Practices from 100 to 77.
+// Self-hosting also improves LCP (no extra DNS/TLS round trip) and
+// insulates us from upstream URL churn.
+const HERO_DIR = path.join(process.cwd(), 'public/hero');
+
 async function getImageData(visualKeyword) {
   const res = await withRetry(async () => {
     const r = await fetch(
@@ -426,6 +440,18 @@ async function getImageData(visualKeyword) {
     creditName: photo.photographer,
     creditUrl: photo.photographer_url,
   };
+}
+
+async function downloadHero(remoteUrl, slug) {
+  await fs.mkdir(HERO_DIR, { recursive: true });
+  const localPath = path.join(HERO_DIR, `${slug}.jpg`);
+  const webPath = `/hero/${slug}.jpg`;
+
+  const r = await fetch(remoteUrl, { signal: AbortSignal.timeout(15000) });
+  if (!r.ok) throw new Error(`Hero download ${r.status} for ${remoteUrl}`);
+  const buf = Buffer.from(await r.arrayBuffer());
+  await fs.writeFile(localPath, buf);
+  return webPath;
 }
 
 // --- Main pipeline ---
@@ -490,13 +516,25 @@ async function main() {
         .update(synthesis.title + dateStr)
         .digest('hex')
         .slice(0, 6);
-      const filename = `${datePrefix}-${slug}-${hash}.md`;
+      const baseSlug = `${datePrefix}-${slug}-${hash}`;
+      const filename = `${baseSlug}.md`;
+
+      // Self-host the hero to avoid Pexels CDN third-party cookies.
+      // Fall back to the remote URL if the download fails so we never block
+      // publishing on a transient CDN hiccup.
+      let heroPath;
+      try {
+        heroPath = await downloadHero(image.url, baseSlug);
+      } catch (e) {
+        console.log(`  ⚠ hero download failed, using remote URL: ${e.message}`);
+        heroPath = image.url;
+      }
 
       const frontmatter = `---
 title: "${synthesis.title.replace(/"/g, '\\"')}"
 date: ${dateStr}
 tags: ${JSON.stringify(synthesis.tags)}
-hero_image: "${image.url}"
+hero_image: "${heroPath}"
 hero_image_credit_name: "${image.creditName.replace(/"/g, '\\"')}"
 hero_image_credit_url: "${image.creditUrl}"
 visual_keyword: "${synthesis.visual_keyword.replace(/"/g, '\\"')}"

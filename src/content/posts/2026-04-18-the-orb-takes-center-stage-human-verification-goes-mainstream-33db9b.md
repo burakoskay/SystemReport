@@ -2,7 +2,7 @@
 title: "The Orb Takes Center Stage: Human Verification Goes Mainstream"
 date: 2026-04-18T01:04:45.900Z
 tags: ["human verification","ai ethics","online security"]
-hero_image: "https://images.pexels.com/photos/12900346/pexels-photo-12900346.png?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-the-orb-takes-center-stage-human-verification-goes-mainstream-33db9b.jpg"
 hero_image_credit_name: "iJoxi  Studios"
 hero_image_credit_url: "https://www.pexels.com/@ijoxi-studios-274852259"
 visual_keyword: "glowing blue orb"

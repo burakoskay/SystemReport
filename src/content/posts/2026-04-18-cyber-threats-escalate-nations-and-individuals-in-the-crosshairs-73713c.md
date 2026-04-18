@@ -2,7 +2,7 @@
 title: "Cyber Threats Escalate: Nations and Individuals in the Crosshairs"
 date: 2026-04-18T01:05:07.942Z
 tags: ["cybersecurity","hacking","datasecurity"]
-hero_image: "https://images.pexels.com/photos/29308193/pexels-photo-29308193.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-cyber-threats-escalate-nations-and-individuals-in-the-crosshairs-73713c.jpg"
 hero_image_credit_name: "Shir  Danieli"
 hero_image_credit_url: "https://www.pexels.com/@shir-danieli-313365130"
 visual_keyword: "digital footprint"

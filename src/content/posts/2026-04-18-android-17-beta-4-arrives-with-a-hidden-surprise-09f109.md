@@ -2,7 +2,7 @@
 title: "Android 17 Beta 4 Arrives with a Hidden Surprise"
 date: 2026-04-18T01:10:50.797Z
 tags: ["Android 17","Beta 4","Easter egg"]
-hero_image: "https://images.pexels.com/photos/7149594/pexels-photo-7149594.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-android-17-beta-4-arrives-with-a-hidden-surprise-09f109.jpg"
 hero_image_credit_name: "Nicky Pe"
 hero_image_credit_url: "https://www.pexels.com/@nicky"
 visual_keyword: "Easter egg"

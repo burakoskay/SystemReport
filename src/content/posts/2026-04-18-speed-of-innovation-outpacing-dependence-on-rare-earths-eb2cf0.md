@@ -2,7 +2,7 @@
 title: "Speed of Innovation: Outpacing Dependence on Rare Earths"
 date: 2026-04-18T01:04:55.535Z
 tags: ["space exploration","rare earths","innovation"]
-hero_image: "https://images.pexels.com/photos/586056/pexels-photo-586056.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-speed-of-innovation-outpacing-dependence-on-rare-earths-eb2cf0.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "astronauts in space with earth in background"

@@ -2,7 +2,7 @@
 title: "Lana Del Rey Sings for Spy, Cinema Meets Video Games"
 date: 2026-04-18T01:10:30.460Z
 tags: ["video games","cinema","Lana Del Rey"]
-hero_image: "https://images.pexels.com/photos/20434012/pexels-photo-20434012.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-18-lana-del-rey-sings-for-spy-cinema-meets-video-games-6915a5.jpg"
 hero_image_credit_name: "Tito Zzzz"
 hero_image_credit_url: "https://www.pexels.com/@tizzy"
 visual_keyword: "Exit 8"

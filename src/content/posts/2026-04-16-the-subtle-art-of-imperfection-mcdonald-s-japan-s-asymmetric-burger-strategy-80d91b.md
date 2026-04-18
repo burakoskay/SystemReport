@@ -2,7 +2,7 @@
 title: "The Subtle Art of Imperfection: McDonald's Japan's Asymmetric Burger Strategy"
 date: 2026-04-16T05:31:36.222Z
 tags: ["marketing strategy","food advertising","authenticity","mcdonalds japan","consumer psychology"]
-hero_image: "https://images.pexels.com/photos/8879362/pexels-photo-8879362.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+hero_image: "/hero/2026-04-16-the-subtle-art-of-imperfection-mcdonald-s-japan-s-asymmetric-burger-strategy-80d91b.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"

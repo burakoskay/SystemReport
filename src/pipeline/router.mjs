@@ -3,6 +3,19 @@ import path from 'path';
 import { GoogleGenAI } from '@google/genai';
 
 const HEALTH_FILE = path.join(process.cwd(), 'ops/provider-health.json');
+const TELEMETRY_DIR = path.join(process.cwd(), 'ops/telemetry');
+
+// Append one JSONL record per call attempt. Non-fatal on disk errors.
+async function logTelemetry(record) {
+  try {
+    await fs.mkdir(TELEMETRY_DIR, { recursive: true });
+    const day = new Date().toISOString().slice(0, 10);
+    const file = path.join(TELEMETRY_DIR, `${day}.jsonl`);
+    await fs.appendFile(file, JSON.stringify(record) + '\n');
+  } catch {
+    // Telemetry must never block a pipeline run.
+  }
+}
 
 // Rankings per task class. Each entry is [provider, model] or just 'provider' (uses default model).
 // Ordered by preference; first available wins. Model choices match Groq/Gemini free-tier quotas as of 2026-04.
@@ -165,15 +178,28 @@ export async function routeCall({ task, prompt, json = false, schema = undefined
         timeoutMs
       );
 
+      const latencyMs = Date.now() - started;
       h.last_success = new Date().toISOString();
       h.consecutive_failures = 0;
       delete h.cooldown_until;
       health[key] = h;
       await saveHealth(health);
 
-      console.log(`  [router] ${task} via ${name}/${result.model} in ${Date.now() - started}ms`);
+      await logTelemetry({
+        t: new Date().toISOString(),
+        task,
+        provider: name,
+        model: result.model,
+        ok: true,
+        latency_ms: latencyMs,
+        prompt_chars: prompt.length,
+        response_chars: result.text.length,
+      });
+
+      console.log(`  [router] ${task} via ${name}/${result.model} in ${latencyMs}ms`);
       return { text: result.text, provider: name, model: result.model };
     } catch (err) {
+      const latencyMs = Date.now() - started;
       const kind = classifyError(err);
       h.consecutive_failures = (h.consecutive_failures || 0) + 1;
       h.last_error = String(err.message || err).slice(0, 300);
@@ -183,6 +209,17 @@ export async function routeCall({ task, prompt, json = false, schema = undefined
       }
       health[key] = h;
       await saveHealth(health);
+
+      await logTelemetry({
+        t: new Date().toISOString(),
+        task,
+        provider: name,
+        model: model || 'default',
+        ok: false,
+        latency_ms: latencyMs,
+        error_class: kind || 'unknown',
+        error: h.last_error,
+      });
 
       attempts.push({ provider: name, model, error: h.last_error, classified: kind });
       console.log(`  [router] ${name}/${model || 'default'} failed (${kind || 'unknown'}): ${h.last_error.slice(0, 120)}`);
