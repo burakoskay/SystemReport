@@ -251,7 +251,7 @@ const synthesisSchema = {
 };
 
 // --- Draft (single pass) ---
-async function draftArticle(cluster) {
+async function draftArticle(cluster, taskClass = 'draft') {
   const sourceTexts = cluster.articles
     .map((a) => `Title: ${a.title}\nSource: ${a.source}\nContent: ${a.content}`)
     .join('\n\n---\n\n');
@@ -274,7 +274,7 @@ Source Texts:
 ${sourceTexts}`;
 
   const response = await withRetry(() =>
-    routeCall({ task: 'draft', prompt, schema: synthesisSchema })
+    routeCall({ task: taskClass, prompt, schema: synthesisSchema })
   );
 
   let result;
@@ -288,6 +288,47 @@ ${sourceTexts}`;
   }
   result._drafter = `${response.provider}/${response.model}`;
   return result;
+}
+
+// Judge two drafts. Returns 'A' | 'B'. On any failure, returns 'A' (no harm).
+const judgeSchema = {
+  type: Type.OBJECT,
+  properties: {
+    winner: { type: Type.STRING, enum: ['A', 'B'] },
+    reason: { type: Type.STRING },
+  },
+  required: ['winner'],
+};
+
+async function judgeDrafts(draftA, draftB) {
+  const prompt = `You are a tough senior editor picking the better of two drafts of the same story.
+Criteria, in order: (1) sourcing — claims grounded in reality, no hallucinated specifics; (2) hook — first sentence earns the read; (3) voice — concrete, declarative, no marketing verbs or consultant nouns; (4) structure — tight, no filler; (5) headline quality.
+
+Return a JSON object: { "winner": "A" | "B", "reason": "<one sentence>" }.
+
+DRAFT A (by ${draftA._drafter}):
+Title: ${draftA.title}
+${draftA.article_markdown}
+
+---
+
+DRAFT B (by ${draftB._drafter}):
+Title: ${draftB.title}
+${draftB.article_markdown}`;
+
+  try {
+    const res = await routeCall({ task: 'judge', prompt, schema: judgeSchema });
+    const parsed = JSON.parse(res.text);
+    if (parsed.winner === 'B') {
+      console.log(`    🏆 Judge picked B (${draftB._drafter}) over A (${draftA._drafter})${parsed.reason ? `: ${String(parsed.reason).slice(0, 120)}` : ''}`);
+      return 'B';
+    }
+    console.log(`    🏆 Judge picked A (${draftA._drafter}) over B (${draftB._drafter})${parsed.reason ? `: ${String(parsed.reason).slice(0, 120)}` : ''}`);
+    return 'A';
+  } catch (e) {
+    console.log(`    ⚠ judge failed, defaulting to A: ${e.message.slice(0, 120)}`);
+    return 'A';
+  }
 }
 
 // --- Critique (different model family) ---
@@ -392,10 +433,34 @@ ${sourceTexts}`;
   }
 }
 
-// --- Full synthesize pipeline: draft → critique → revise → stylometric gate ---
+// Multi-draft threshold: only stories backed by this many+ sources get the A+B+judge
+// treatment. Cheaper stories stick with the single-draft path to conserve TPM budget.
+const MULTI_DRAFT_MIN_SOURCES = 3;
+
+// --- Full synthesize pipeline: draft (optional A+B+judge) → critique → revise → stylometric gate ---
 async function synthesizeArticle(cluster) {
-  // 1. Draft
-  let article = await draftArticle(cluster);
+  // 1. Draft — parallel A+B+judge when the story is well-sourced; single draft otherwise.
+  let article;
+  if (cluster.articles.length >= MULTI_DRAFT_MIN_SOURCES) {
+    console.log(`    multi-draft: ${cluster.articles.length} sources ≥ ${MULTI_DRAFT_MIN_SOURCES}`);
+    const [aRes, bRes] = await Promise.allSettled([
+      draftArticle(cluster, 'draft'),
+      draftArticle(cluster, 'draft-b'),
+    ]);
+    const a = aRes.status === 'fulfilled' ? aRes.value : null;
+    const b = bRes.status === 'fulfilled' ? bRes.value : null;
+    if (a && b) {
+      const winner = await judgeDrafts(a, b);
+      article = winner === 'B' ? b : a;
+      article._judge_loser = winner === 'B' ? a._drafter : b._drafter;
+    } else {
+      article = a || b;
+      if (!article) throw new Error(`Both drafts failed: A=${aRes.reason?.message || 'ok'} B=${bRes.reason?.message || 'ok'}`);
+      console.log(`    only one draft succeeded (${article._drafter}); skipping judge`);
+    }
+  } else {
+    article = await draftArticle(cluster);
+  }
 
   // 2. Critique (different family than drafter — gives fresh eyes)
   const critique = await critiqueDraft(article, cluster);

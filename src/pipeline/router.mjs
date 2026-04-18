@@ -34,6 +34,10 @@ const RANKINGS = {
   cluster:  [['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'qwen/qwen3-32b'], ['groq', 'llama-3.1-8b-instant']],
   // Long-form drafting — Llama 70B first (quality), then Scout 17B (cheaper tokens), Gemini, 8B fallback.
   draft:    [['groq', 'llama-3.3-70b-versatile'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
+  // Alt draft (parallel B-lane) — different-family primary so two drafts sound genuinely different.
+  'draft-b': [['groq', 'openai/gpt-oss-120b'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash']],
+  // Judge — picks between two drafts. Uses a different family than either drafter when possible.
+  judge:    [['groq', 'qwen/qwen3-32b'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
   // Critique should use a different model family than the draft to catch same-family blind spots.
   critique: [['groq', 'openai/gpt-oss-120b'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
   // Headlines / short tasks — small & fast.
