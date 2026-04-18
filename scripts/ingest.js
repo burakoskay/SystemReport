@@ -14,6 +14,8 @@ import { groundArticle, citationsToMarkdown } from '../src/pipeline/grounding.mj
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
+import { enqueueFailure } from '../src/pipeline/dlq.mjs';
+import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
 
 dotenv.config();
 
@@ -550,6 +552,7 @@ async function main() {
   const runStart = Date.now();
   let publishedCount = 0;
   let failedClusters = 0;
+  const publishedSlugs = [];
   const processedUrls = await loadProcessedUrls();
   console.log(`Loaded ${processedUrls.size} previously processed URLs.`);
 
@@ -726,6 +729,7 @@ audio_bytes: ${audioBytes}` : ''}
       cluster.articles.forEach((a) => processedUrls.add(a.link));
       consecutiveFailures = 0;
       publishedCount++;
+      publishedSlugs.push(baseSlug);
 
       console.log(`  ✓ Saved: ${filename}`);
 
@@ -771,6 +775,14 @@ audio_bytes: ${audioBytes}` : ''}
       failedClusters++;
       console.error(`  ✗ Failed cluster "${cluster.theme}":`, err.message);
 
+      // Dead-letter queue — preserve the failed cluster for human review / replay.
+      try {
+        const dlqId = await enqueueFailure({ cluster, error: err, stage: 'synthesize' });
+        console.error(`    → DLQ id=${dlqId}`);
+      } catch (e) {
+        console.error(`    DLQ write failed: ${e.message}`);
+      }
+
       if (consecutiveFailures >= MAX_CONSECUTIVE_FAILURES) {
         console.error(`\n⛔ Circuit breaker tripped: ${MAX_CONSECUTIVE_FAILURES} consecutive failures. Aborting run to prevent wasted API calls.`);
         await sendAlert({
@@ -790,6 +802,13 @@ audio_bytes: ${audioBytes}` : ''}
   await saveProcessedUrls(processedUrls);
   const durationSec = Math.round((Date.now() - runStart) / 1000);
   console.log(`\nPipeline finished. ${processedUrls.size} total URLs tracked.`);
+
+  // IndexNow ping — submit fresh URLs to Bing/Yandex/Seznam/Naver/Yep.
+  if (publishedCount > 0 && publishedSlugs.length > 0) {
+    const urls = publishedSlugs.map(s => `https://systemreport.net/posts/${s}`);
+    const r = await pingIndexNow(urls);
+    console.log(`IndexNow: ${r.ok ? `pinged ${r.count || urls.length} URL(s)` : `failed ${r.error || r.status}`}`);
+  }
 
   // Only alert on notable outcomes: all-failed, partial failure, or success with volume.
   if (publishedCount === 0 && failedClusters > 0) {

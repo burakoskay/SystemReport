@@ -6,10 +6,16 @@ import { routeCall } from './router.mjs';
 
 // Active locales. Adding a new one is one line; downstream routing/sitemap pick it up.
 export const LOCALES = {
-  tr: { name: 'Turkish',  hreflang: 'tr', native: 'Türkçe' },
-  es: { name: 'Spanish',  hreflang: 'es', native: 'Español' },
-  fr: { name: 'French',   hreflang: 'fr', native: 'Français' },
-  de: { name: 'German',   hreflang: 'de', native: 'Deutsch' },
+  tr: { name: 'Turkish',              hreflang: 'tr',    native: 'Türkçe'    },
+  es: { name: 'Spanish',              hreflang: 'es',    native: 'Español'   },
+  fr: { name: 'French',               hreflang: 'fr',    native: 'Français'  },
+  de: { name: 'German',               hreflang: 'de',    native: 'Deutsch'   },
+  ja: { name: 'Japanese',             hreflang: 'ja',    native: '日本語'      },
+  'zh-CN': { name: 'Simplified Chinese', hreflang: 'zh-CN', native: '简体中文' },
+  ko: { name: 'Korean',               hreflang: 'ko',    native: '한국어'      },
+  pt: { name: 'Portuguese (Brazil)',  hreflang: 'pt-BR', native: 'Português' },
+  it: { name: 'Italian',              hreflang: 'it',    native: 'Italiano'  },
+  ar: { name: 'Arabic',               hreflang: 'ar',    native: 'العربية'   },
 };
 
 const translationSchema = {

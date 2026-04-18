@@ -31,19 +31,19 @@ async function logTelemetry(record) {
 const RANKINGS = {
   // Structured JSON tasks on a LARGE input (clustering a full feed batch). Needs high TPM.
   // Scout 17B has 30K TPM (vs 6K for qwen/llama-8b). Gemini has high TPM too, currently cap-hit.
-  cluster:  [['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'qwen/qwen3-32b'], ['groq', 'llama-3.1-8b-instant']],
+  cluster:  [['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['cloudflare', '@cf/meta/llama-3.3-70b-instruct-fp8-fast'], ['gemini', 'gemini-2.5-flash'], ['groq', 'qwen/qwen3-32b'], ['groq', 'llama-3.1-8b-instant']],
   // Long-form drafting — Llama 70B first (quality), then Scout 17B (cheaper tokens), Gemini, 8B fallback.
-  draft:    [['groq', 'llama-3.3-70b-versatile'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
+  draft:    [['groq', 'llama-3.3-70b-versatile'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['cloudflare', '@cf/meta/llama-3.3-70b-instruct-fp8-fast'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
   // Alt draft (parallel B-lane) — different-family primary so two drafts sound genuinely different.
-  'draft-b': [['groq', 'openai/gpt-oss-120b'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash']],
+  'draft-b': [['groq', 'openai/gpt-oss-120b'], ['cloudflare', '@cf/qwen/qwen2.5-coder-32b-instruct'], ['groq', 'meta-llama/llama-4-scout-17b-16e-instruct'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash']],
   // Judge — picks between two drafts. Uses a different family than either drafter when possible.
-  judge:    [['groq', 'qwen/qwen3-32b'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
+  judge:    [['groq', 'qwen/qwen3-32b'], ['cloudflare', '@cf/meta/llama-3.1-8b-instruct'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
   // Critique should use a different model family than the draft to catch same-family blind spots.
-  critique: [['groq', 'openai/gpt-oss-120b'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
+  critique: [['groq', 'openai/gpt-oss-120b'], ['cloudflare', '@cf/qwen/qwen2.5-coder-32b-instruct'], ['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash']],
   // Headlines / short tasks — small & fast.
-  headline: [['groq', 'llama-3.1-8b-instant'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash-lite']],
+  headline: [['groq', 'llama-3.1-8b-instant'], ['cloudflare', '@cf/meta/llama-3.1-8b-instruct'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash-lite']],
   // SEO metadata polish — rules-heavy, medium model.
-  'seo-polish': [['groq', 'openai/gpt-oss-20b'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
+  'seo-polish': [['groq', 'openai/gpt-oss-20b'], ['cloudflare', '@cf/meta/llama-3.1-8b-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
 };
 
 // Cooldown durations keyed by error class
@@ -113,6 +113,38 @@ const providers = {
       const text = j.choices?.[0]?.message?.content;
       if (!text) throw new Error('Groq: empty response');
       return { text, model: j.model };
+    },
+  },
+
+  // Cloudflare Workers AI — same token as Flux Schnell. Adds 3 free LLMs to
+  // the cartel: Llama-3.3 70B (Cloudflare-hosted), Qwen2.5-Coder 32B, and
+  // a tiny Llama-3.1 8B for fallback. OpenAI-compatible chat endpoint.
+  cloudflare: {
+    available: () => Boolean(process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN),
+    call: async ({ prompt, json, model }) => {
+      const m = model || '@cf/meta/llama-3.3-70b-instruct-fp8-fast';
+      const url = `https://api.cloudflare.com/client/v4/accounts/${process.env.CLOUDFLARE_ACCOUNT_ID}/ai/v1/chat/completions`;
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${process.env.CLOUDFLARE_API_TOKEN}`,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          model: m,
+          messages: [{ role: 'user', content: prompt }],
+          ...(json ? { response_format: { type: 'json_object' } } : {}),
+          temperature: 0.7,
+        }),
+      });
+      if (!res.ok) {
+        const body = await res.text().catch(() => '');
+        throw new Error(`Cloudflare ${res.status}: ${body.slice(0, 300)}`);
+      }
+      const j = await res.json();
+      const text = j.choices?.[0]?.message?.content;
+      if (!text) throw new Error('Cloudflare: empty response');
+      return { text, model: m };
     },
   },
 

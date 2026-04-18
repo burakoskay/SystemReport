@@ -108,6 +108,10 @@ const articleSchema = {
       "dateModified": post.data.date.toISOString(),
       "wordCount": wordCount,
       "inLanguage": "en-US",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": ["h1", ".prose"]
+      },
       "author": [{
         "@type": "Person",
         "name": "System Report Staff",

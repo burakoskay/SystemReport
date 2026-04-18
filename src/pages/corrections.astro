@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const url = 'https://systemreport.net/corrections';
+
+// A correction is a published post whose frontmatter has a `corrections`
+// array. Each entry: { date: ISO, note: string }. Until the schema gets
+// extended downstream this list is empty by construction — that's correct.
+const posts = await getCollection('posts');
+const withCorrections = posts
+  .filter(p => Array.isArray((p.data as any).corrections) && (p.data as any).corrections.length > 0)
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<Layout title="Corrections — System Report" description="Every published correction, in reverse chronological order." url={url}>
+  <article class="max-w-3xl mx-auto prose prose-gray dark:prose-invert prose-headings:font-serif">
+    <h1>Corrections</h1>
+
+    <p>When a published article needs a factual fix, we update it in place, record the change, and list it here. Articles are git-versioned, so the original wording is always available in the public commit history.</p>
+
+    <h2>How to flag one</h2>
+    <p>Open an issue at <a href="https://github.com/burakoskay/SystemReport/issues">github.com/burakoskay/SystemReport/issues</a> with a link to the article and the specific claim that needs review. We respond on the same channel; corrections post here within 24 hours.</p>
+
+    <h2>What counts as a correction</h2>
+    <ul>
+      <li><strong>Factual.</strong> A wrong number, date, name, or attribution.</li>
+      <li><strong>Material misstatement.</strong> An assertion the sources do not actually support.</li>
+      <li><strong>Quote / paraphrase error.</strong> A statement attributed to a person or company that they did not make.</li>
+    </ul>
+    <p>Stylistic edits and minor copy fixes do not appear here — they live in the git history.</p>
+
+    <h2>Log</h2>
+    {withCorrections.length === 0 && (
+      <p class="text-gray-500 dark:text-gray-400 italic">No corrections logged yet. The list is updated automatically when an article's frontmatter gains a <code>corrections</code> entry.</p>
+    )}
+    {withCorrections.length > 0 && (
+      <ul>
+        {withCorrections.map(p => (
+          <li>
+            <a href={`/posts/${p.id}`}>{p.data.title}</a>
+            <ul>
+              {(p.data as any).corrections.map((c: { date: string; note: string }) => (
+                <li><time datetime={c.date}>{new Date(c.date).toLocaleDateString('en-US')}</time> — {c.note}</li>
+              ))}
+            </ul>
+          </li>
+        ))}
+      </ul>
+    )}
+  </article>
+</Layout>

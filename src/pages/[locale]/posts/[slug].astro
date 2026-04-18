@@ -2,8 +2,15 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import TagPill from '../../../components/TagPill.astro';
+import { LOCALES } from '../../../pipeline/translator.mjs';
 
-const ACTIVE_LOCALES = ['tr', 'es', 'fr', 'de'];
+const ACTIVE_LOCALES = Object.keys(LOCALES);
+
+// Locale code → BCP-47 for Intl.DateTimeFormat. Most codes pass through;
+// a few need region extension (e.g. "pt" → "pt-BR").
+const DATE_LOCALE = {
+  'zh-CN': 'zh-CN', pt: 'pt-BR', ja: 'ja-JP', ko: 'ko-KR', ar: 'ar',
+};
 
 export async function getStaticPaths() {
   const all = await getCollection('posts-i18n');
@@ -37,9 +44,15 @@ const alternates = [
   { hreflang: locale!, href: articleUrl },
 ];
 
-const formattedDate = post.data.date.toLocaleDateString(`${locale}-${locale!.toUpperCase()}`, {
-  year: 'numeric', month: 'long', day: 'numeric',
-});
+const dateLocale = DATE_LOCALE[locale!] || `${locale}-${locale!.toUpperCase()}`;
+let formattedDate;
+try {
+  formattedDate = post.data.date.toLocaleDateString(dateLocale, {
+    year: 'numeric', month: 'long', day: 'numeric',
+  });
+} catch {
+  formattedDate = post.data.date.toISOString().slice(0, 10);
+}
 
 const heroImageUrl = post.data.hero_image
   ? (post.data.hero_image.startsWith('http') ? post.data.hero_image : `${siteBase}${post.data.hero_image}`)
