@@ -34,10 +34,10 @@
 
 ### 🚧 Next lever (in-progress / queued)
 
-1. **Multi-draft A+B + judge.** Two drafts in parallel, judge picks winner — raises ceiling on quality.
-3. **10-language translation.** Groq-based fan-out; per-language content subpaths.
-4. **Distribution fan-out.** Bluesky / Mastodon / Telegram / Reddit auto-post per article.
-5. **Semantic dedup.** SimHash catches near-identical phrasing; an embedding-cosine pass would catch paraphrased dupes. Low priority — SimHash covers the common feed-overlap case.
+1. **10-language translation.** Groq-based fan-out; per-language content subpaths.
+2. **Distribution fan-out.** Bluesky / Mastodon / Telegram / Reddit auto-post per article.
+3. **Google Search grounding.** Back every factual claim with a ≥1-source citation block.
+4. **Semantic dedup.** SimHash catches near-identical phrasing; an embedding-cosine pass would catch paraphrased dupes. Low priority — SimHash covers the common feed-overlap case.
 
 ### 🔜 Later (Part I Stages 02-14)
 
