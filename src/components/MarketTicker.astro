@@ -36,7 +36,7 @@ const CURRENCIES = [
 ];
 ---
 
-<div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black overflow-hidden relative">
+<div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black relative">
   <div class="flex items-stretch">
 
     <div class="shrink-0 relative z-20" data-currency-root>
@@ -222,13 +222,16 @@ const CURRENCIES = [
     const prefersReduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
     if (viewport && track && groups.length >= 2 && !prefersReduced) {
-      const AUTO_SPEED = -60;        // px/s, negative = leftward drift
+      // Old CSS marquee took 90s to traverse halfWidth. We preserve that
+      // cadence so the scroll feels unchanged.
+      const DURATION_S = 90;
       const FRICTION   = 2.2;        // exponential decay per second
       const MAX_VEL    = 4000;       // px/s clamp on released velocity
       const RESUME_MS  = 1200;       // after drag ends, delay before auto-drift takes over
 
       let x = 0;
       let halfWidth = 0;
+      let autoSpeed = -15;           // px/s, recomputed after measure()
       let vel = 0;                   // carries through drag momentum
       let dragging = false;
       let paused = false;            // hover-pause
@@ -236,7 +239,10 @@ const CURRENCIES = [
       let samples = [];              // [t, x] recent pointer positions
       let lastFrame = 0;
 
-      const measure = () => { halfWidth = groups[0].getBoundingClientRect().width + 32; /* pl-8 gap */ };
+      const measure = () => {
+        halfWidth = groups[0].getBoundingClientRect().width + 32; /* pl-8 gap */
+        autoSpeed = -halfWidth / DURATION_S;
+      };
       measure();
       new ResizeObserver(measure).observe(groups[0]);
 
@@ -255,12 +261,12 @@ const CURRENCIES = [
         if (!dragging && !paused) {
           // Momentum carries until it decays below |AUTO_SPEED|, then idle drift.
           const sinceRelease = now - releasedAt;
-          const holdingOff = releasedAt && sinceRelease < RESUME_MS && Math.abs(vel) > Math.abs(AUTO_SPEED);
-          if (Math.abs(vel) > Math.abs(AUTO_SPEED)) {
+          const holdingOff = releasedAt && sinceRelease < RESUME_MS && Math.abs(vel) > Math.abs(autoSpeed);
+          if (Math.abs(vel) > Math.abs(autoSpeed)) {
             x += vel * dt;
             vel *= Math.exp(-FRICTION * dt);
           } else {
-            x += (holdingOff ? 0 : AUTO_SPEED) * dt;
+            x += (holdingOff ? 0 : autoSpeed) * dt;
             vel = 0;
           }
           x = wrap(x);
