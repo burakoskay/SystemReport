@@ -60,15 +60,31 @@ async function fetchOneStooq(entry) {
   } catch { return null; }
 }
 
+// FX rates from Frankfurter (ECB reference rates, keyless, CORS-open).
+// Used client-side to re-quote USD-denominated items in the user's chosen
+// display currency. Kept to the currencies we expose in the ticker dropdown.
+const FX_TARGETS = ['EUR', 'GBP', 'JPY', 'TRY', 'CAD', 'AUD', 'INR', 'CNY', 'CHF', 'MXN', 'BRL'];
+
+async function fetchRates() {
+  try {
+    const url = `https://api.frankfurter.app/latest?from=USD&to=${FX_TARGETS.join(',')}`;
+    const r = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
+    if (!r.ok) return { USD: 1 };
+    const data = await r.json();
+    return { USD: 1, ...(data.rates || {}) };
+  } catch { return { USD: 1 }; }
+}
+
 export async function onRequestGet() {
-  const [crypto, stooq] = await Promise.all([
+  const [crypto, stooq, rates] = await Promise.all([
     fetchCrypto(),
     Promise.all(STOOQ.map(fetchOneStooq)),
+    fetchRates(),
   ]);
   const items = { ...crypto };
   for (const s of stooq) if (s) items[s.sym] = { v: s.v, c: s.c };
 
-  return new Response(JSON.stringify({ items, ts: Date.now() }), {
+  return new Response(JSON.stringify({ items, rates, ts: Date.now() }), {
     headers: {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'public, max-age=60, s-maxage=60',

@@ -1,40 +1,69 @@
 ---
-// Side-scrolling live market ticker. Crypto via CoinGecko (no key, CORS-open),
-// indices/FX via Stooq CSV (CORS-open). Server-rendered placeholders so the
-// bar is never empty; client refreshes every 60s.
+// Side-scrolling live market ticker. Crypto via Binance, indices/FX via
+// Stooq, FX rates via Frankfurter — all fanned out through /api/markets.
+// Users pick a display currency from the leading dropdown; USD-denominated
+// instruments (crypto, gold) are re-quoted client-side via ECB rates.
+// Indices (S&P/NDX/DJI) are unitless points — never converted. FX pairs
+// (EUR/USD, USD/JPY) are pair values — also never converted.
 const SEED = [
-  { sym: 'BTC',   label: 'BTC',     v: '—', c: 0, kind: 'crypto', id: 'bitcoin' },
-  { sym: 'ETH',   label: 'ETH',     v: '—', c: 0, kind: 'crypto', id: 'ethereum' },
-  { sym: 'SOL',   label: 'SOL',     v: '—', c: 0, kind: 'crypto', id: 'solana' },
-  { sym: 'XRP',   label: 'XRP',     v: '—', c: 0, kind: 'crypto', id: 'ripple' },
-  { sym: 'DOGE',  label: 'DOGE',    v: '—', c: 0, kind: 'crypto', id: 'dogecoin' },
-  { sym: '^SPX',  label: 'S&P 500', v: '—', c: 0, kind: 'stooq' },
-  { sym: '^NDX',  label: 'NASDAQ',  v: '—', c: 0, kind: 'stooq' },
-  { sym: '^DJI',  label: 'DOW',     v: '—', c: 0, kind: 'stooq' },
-  { sym: 'EURUSD',label: 'EUR/USD', v: '—', c: 0, kind: 'stooq' },
-  { sym: 'USDJPY',label: 'USD/JPY', v: '—', c: 0, kind: 'stooq' },
-  { sym: 'XAUUSD',label: 'GOLD',    v: '—', c: 0, kind: 'stooq' },
+  { sym: 'BTC',   label: 'BTC',     denom: 'USD'   },
+  { sym: 'ETH',   label: 'ETH',     denom: 'USD'   },
+  { sym: 'SOL',   label: 'SOL',     denom: 'USD'   },
+  { sym: 'XRP',   label: 'XRP',     denom: 'USD'   },
+  { sym: 'DOGE',  label: 'DOGE',    denom: 'USD'   },
+  { sym: '^SPX',  label: 'S&P 500', denom: 'index' },
+  { sym: '^NDX',  label: 'NASDAQ',  denom: 'index' },
+  { sym: '^DJI',  label: 'DOW',     denom: 'index' },
+  { sym: 'EURUSD',label: 'EUR/USD', denom: 'pair'  },
+  { sym: 'USDJPY',label: 'USD/JPY', denom: 'pair'  },
+  { sym: 'XAUUSD',label: 'GOLD',    denom: 'USD'   },
+];
+
+const CURRENCIES = [
+  { code: 'USD', name: 'US Dollar' },
+  { code: 'EUR', name: 'Euro' },
+  { code: 'GBP', name: 'British Pound' },
+  { code: 'JPY', name: 'Japanese Yen' },
+  { code: 'CHF', name: 'Swiss Franc' },
+  { code: 'CAD', name: 'Canadian Dollar' },
+  { code: 'AUD', name: 'Australian Dollar' },
+  { code: 'CNY', name: 'Chinese Yuan' },
+  { code: 'INR', name: 'Indian Rupee' },
+  { code: 'TRY', name: 'Turkish Lira' },
+  { code: 'MXN', name: 'Mexican Peso' },
+  { code: 'BRL', name: 'Brazilian Real' },
 ];
 ---
 
 <div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black overflow-hidden">
   <div class="relative flex items-stretch">
-    <div class="shrink-0 flex items-center px-3 py-1.5 bg-gray-900 dark:bg-white text-white dark:text-black text-[10px] font-bold uppercase tracking-[0.15em] z-10">
-      <span class="relative flex w-1.5 h-1.5 mr-2">
+    <label class="shrink-0 relative flex items-center bg-gray-900 dark:bg-white text-white dark:text-black z-10 cursor-pointer hover:opacity-90 transition-opacity">
+      <span class="relative flex w-1.5 h-1.5 ml-3 mr-2">
         <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
         <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-red-500"></span>
       </span>
-      Markets
-    </div>
+      <select
+        data-ticker-currency
+        class="appearance-none bg-transparent text-[10px] font-bold uppercase tracking-[0.15em] pl-0 pr-6 py-1.5 focus:outline-none cursor-pointer"
+        aria-label="Display currency"
+      >
+        {CURRENCIES.map((c) => (
+          <option value={c.code} class="text-black bg-white">{c.code}</option>
+        ))}
+      </select>
+      <svg class="w-3 h-3 absolute right-2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+      </svg>
+    </label>
     <div class="market-ticker-viewport flex-1 overflow-hidden relative">
       <div class="market-ticker-track flex items-center gap-8 py-1.5 whitespace-nowrap will-change-transform" data-ticker-track>
         {/* Two copies for seamless loop */}
         {[0, 1].map(() => (
           <div class="flex items-center gap-8 pl-8 shrink-0" data-ticker-group>
             {SEED.map((item) => (
-              <span class="flex items-center gap-2 text-xs tabular-nums" data-ticker-item data-sym={item.sym} data-kind={item.kind} data-id={item.id}>
+              <span class="flex items-center gap-2 text-xs tabular-nums" data-ticker-item data-sym={item.sym} data-denom={item.denom}>
                 <span class="font-semibold text-gray-900 dark:text-gray-100">{item.label}</span>
-                <span class="text-gray-700 dark:text-gray-300" data-v>{item.v}</span>
+                <span class="text-gray-700 dark:text-gray-300" data-v>—</span>
                 <span class="text-gray-500 dark:text-gray-500" data-c>—</span>
               </span>
             ))}
@@ -63,28 +92,64 @@ const SEED = [
 
 <script is:inline>
   (function () {
-    const fmt = (n, digits = 2) => {
+    const STORAGE_KEY = 'sr-ticker-currency';
+    const select = document.querySelector('[data-ticker-currency]');
+
+    // Saved state. Rates arrive with the first /api/markets response.
+    let state = {
+      currency: (function () {
+        try { return localStorage.getItem(STORAGE_KEY) || 'USD'; } catch { return 'USD'; }
+      })(),
+      items: {},
+      rates: { USD: 1 },
+    };
+
+    if (select) select.value = state.currency;
+
+    const fmtNumber = (n, currency, denom) => {
       if (!isFinite(n)) return '—';
-      if (Math.abs(n) >= 1000) return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
-      if (Math.abs(n) >= 1)    return n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-      return n.toLocaleString('en-US', { minimumFractionDigits: digits, maximumFractionDigits: 4 });
+      // Index points and FX pairs: plain number, no currency sign.
+      if (denom === 'index') {
+        return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
+      }
+      if (denom === 'pair') {
+        if (Math.abs(n) >= 10) return n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+        return n.toLocaleString('en-US', { minimumFractionDigits: 4, maximumFractionDigits: 4 });
+      }
+      // USD-denominated value, re-quoted via ECB rate into the chosen currency.
+      try {
+        return new Intl.NumberFormat('en-US', {
+          style: 'currency',
+          currency,
+          maximumFractionDigits: Math.abs(n) >= 1000 ? 0 : 2,
+          minimumFractionDigits: Math.abs(n) >= 1 ? 2 : 4,
+        }).format(n);
+      } catch {
+        return n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+      }
     };
     const pct = (n) => {
       if (!isFinite(n)) return '—';
-      const s = n.toFixed(2);
-      return (n >= 0 ? '+' : '') + s + '%';
+      return (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
     };
 
-    const setCell = (sym, v, c) => {
-      document.querySelectorAll('[data-ticker-item][data-sym="' + CSS.escape(sym) + '"]').forEach((el) => {
+    const render = () => {
+      const { currency, items, rates } = state;
+      const fx = rates[currency];
+      document.querySelectorAll('[data-ticker-item]').forEach((el) => {
+        const sym   = el.getAttribute('data-sym');
+        const denom = el.getAttribute('data-denom');
+        const d = items[sym];
         const vE = el.querySelector('[data-v]');
         const cE = el.querySelector('[data-c]');
-        if (vE && isFinite(v)) vE.textContent = fmt(v);
-        if (cE && isFinite(c)) {
-          cE.textContent = pct(c);
-          cE.classList.remove('text-gray-500', 'dark:text-gray-500');
-          if (c >= 0) cE.classList.add('text-green-600', 'dark:text-green-400');
-          else cE.classList.add('text-red-600', 'dark:text-red-400');
+        if (!d || !isFinite(d.v)) return;
+
+        const displayVal = denom === 'USD' && isFinite(fx) ? d.v * fx : d.v;
+        if (vE) vE.textContent = fmtNumber(displayVal, currency, denom);
+        if (cE && isFinite(d.c)) {
+          cE.textContent = pct(d.c);
+          cE.classList.remove('text-gray-500', 'dark:text-gray-500', 'text-green-600', 'dark:text-green-400', 'text-red-600', 'dark:text-red-400');
+          cE.classList.add(d.c >= 0 ? 'text-green-600' : 'text-red-600', d.c >= 0 ? 'dark:text-green-400' : 'dark:text-red-400');
         }
       });
     };
@@ -93,13 +158,21 @@ const SEED = [
       try {
         const r = await fetch('/api/markets', { cache: 'no-store' });
         if (!r.ok) return;
-        const { items } = await r.json();
-        if (!items) return;
-        for (const [sym, d] of Object.entries(items)) {
-          setCell(sym, d.v, d.c);
-        }
+        const data = await r.json();
+        if (data.items) state.items = data.items;
+        if (data.rates) state.rates = { USD: 1, ...data.rates };
+        render();
       } catch (_) {}
     }
+
+    if (select) {
+      select.addEventListener('change', (e) => {
+        state.currency = e.target.value || 'USD';
+        try { localStorage.setItem(STORAGE_KEY, state.currency); } catch {}
+        render();
+      });
+    }
+
     refresh();
     setInterval(refresh, 60000);
   })();
