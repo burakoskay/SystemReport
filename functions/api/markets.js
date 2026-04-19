@@ -2,12 +2,15 @@
 // Avoids browser CORS issues with Stooq and reduces rate-limit exposure on
 // CoinGecko by fanning out from a single edge cache entry.
 
+// Binance spot pairs. CoinGecko blocks Cloudflare Worker IPs with 403/429,
+// so we use Binance's public ticker endpoint instead — no key, CF-friendly,
+// and returns both lastPrice and 24h % change in one call.
 const CRYPTO = [
-  { sym: 'BTC',  id: 'bitcoin' },
-  { sym: 'ETH',  id: 'ethereum' },
-  { sym: 'SOL',  id: 'solana' },
-  { sym: 'XRP',  id: 'ripple' },
-  { sym: 'DOGE', id: 'dogecoin' },
+  { sym: 'BTC',  pair: 'BTCUSDT'  },
+  { sym: 'ETH',  pair: 'ETHUSDT'  },
+  { sym: 'SOL',  pair: 'SOLUSDT'  },
+  { sym: 'XRP',  pair: 'XRPUSDT'  },
+  { sym: 'DOGE', pair: 'DOGEUSDT' },
 ];
 
 const STOOQ = [
@@ -20,18 +23,21 @@ const STOOQ = [
 ];
 
 async function fetchCrypto() {
-  const ids = CRYPTO.map(c => c.id).join(',');
-  const url = `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd&include_24hr_change=true`;
+  const symbols = JSON.stringify(CRYPTO.map(c => c.pair));
+  const url = `https://api.binance.com/api/v3/ticker/24hr?symbols=${encodeURIComponent(symbols)}`;
   try {
     const r = await fetch(url, { cf: { cacheTtl: 60, cacheEverything: true } });
     if (!r.ok) return {};
     const data = await r.json();
+    const byPair = {};
+    for (const row of Array.isArray(data) ? data : []) byPair[row.symbol] = row;
     const out = {};
     for (const c of CRYPTO) {
-      const d = data[c.id];
-      if (d && typeof d.usd === 'number') {
-        out[c.sym] = { v: d.usd, c: typeof d.usd_24h_change === 'number' ? d.usd_24h_change : null };
-      }
+      const d = byPair[c.pair];
+      if (!d) continue;
+      const price = parseFloat(d.lastPrice);
+      const chg   = parseFloat(d.priceChangePercent);
+      if (isFinite(price)) out[c.sym] = { v: price, c: isFinite(chg) ? chg : null };
     }
     return out;
   } catch { return {}; }
