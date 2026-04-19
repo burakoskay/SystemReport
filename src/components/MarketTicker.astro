@@ -89,42 +89,17 @@ const SEED = [
       });
     };
 
-    async function refreshCrypto() {
-      const items = Array.from(document.querySelectorAll('[data-ticker-item][data-kind="crypto"]'));
-      const ids = [...new Set(items.map(i => i.dataset.id).filter(Boolean))];
-      if (!ids.length) return;
+    async function refresh() {
       try {
-        const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=' + ids.join(',') + '&vs_currencies=usd&include_24hr_change=true');
+        const r = await fetch('/api/markets', { cache: 'no-store' });
         if (!r.ok) return;
-        const data = await r.json();
-        items.forEach((el) => {
-          const d = data[el.dataset.id];
-          if (!d) return;
-          setCell(el.dataset.sym, d.usd, d.usd_24h_change);
-        });
+        const { items } = await r.json();
+        if (!items) return;
+        for (const [sym, d] of Object.entries(items)) {
+          setCell(sym, d.v, d.c);
+        }
       } catch (_) {}
     }
-
-    async function refreshStooq() {
-      const items = Array.from(document.querySelectorAll('[data-ticker-item][data-kind="stooq"]'));
-      const syms = [...new Set(items.map(i => i.dataset.sym))];
-      if (!syms.length) return;
-      try {
-        const r = await fetch('https://stooq.com/q/l/?s=' + syms.join(',').toLowerCase() + '&f=sc2&h&e=csv');
-        if (!r.ok) return;
-        const text = await r.text();
-        const lines = text.trim().split('\n').slice(1);
-        lines.forEach((line) => {
-          const [sym, close, change] = line.split(',');
-          const c = parseFloat(change);
-          const v = parseFloat(close);
-          const upper = (sym || '').toUpperCase();
-          setCell(upper, v, c);
-        });
-      } catch (_) {}
-    }
-
-    function refresh() { refreshCrypto(); refreshStooq(); }
     refresh();
     setInterval(refresh, 60000);
   })();

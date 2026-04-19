@@ -476,6 +476,31 @@ async function synthesizeArticle(cluster) {
     );
   }
 
+  // 5. Word-count gate — thin articles aren't publishable. Lengthen once, skip if still short.
+  const MIN_WORDS = 500;
+  const HARD_MIN = 400;
+  const countWords = (s) => (s || '').split(/\s+/).filter(Boolean).length;
+  let wc = countWords(article.article_markdown);
+  if (wc < MIN_WORDS) {
+    console.log(`    word-count gate: ${wc} < ${MIN_WORDS}, running lengthen pass`);
+    article = await reviseDraft(
+      article,
+      {
+        factual_issues: [],
+        missing_angles: [
+          `Article is only ${wc} words. Expand to 700–1000 words per the brief — add industry context, precedent, players involved, technical mechanics, and a forward-looking "what to watch" section. Do not invent new facts about the specific event.`,
+        ],
+        style_issues: [],
+        verdict: 'revise',
+      },
+      cluster
+    );
+    wc = countWords(article.article_markdown);
+  }
+  if (wc < HARD_MIN) {
+    throw new Error(`Draft still too short after lengthen pass: ${wc} words < ${HARD_MIN}`);
+  }
+
   return article;
 }
 

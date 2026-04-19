@@ -13,7 +13,7 @@
 
 export const PROMPTS = {
   draft: {
-    active: 'v2-800w',
+    active: 'v3-900w',
     variants: {
       'v1-400w': ({ voiceBlock, sourceTexts }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
 Synthesize a 400-word original article in Markdown based on the source texts below. No plagiarism.
@@ -31,6 +31,27 @@ You must output a JSON object containing:
 - "article_markdown": The full markdown body of the article (without main # title, just the content).
 - "tags": An array of 3-5 relevant lowercase string tags.
 - "visual_keyword": A single, highly descriptive keyword or short phrase suitable for an image generation prompt.
+
+Source Texts:
+${sourceTexts}`,
+      'v3-900w': ({ voiceBlock, sourceTexts }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
+
+Produce a substantive original article in Markdown based on the source texts below. No plagiarism.
+
+HARD REQUIREMENTS:
+- 700 to 1000 words in the body (article_markdown). Shorter is a failure.
+- At least 3 H2 section headings (## …). Each section at least 2 paragraphs.
+- If the source material is thin on facts about the specific event, expand with relevant context you already know: industry background, prior precedent, the players involved, technical mechanics, market or regulatory implications. NEVER invent new facts about the specific event (quotes, numbers, dates, names) — but freely apply general knowledge that frames why the event matters.
+- Lead with a 1–2 sentence nut-graph that tells the reader what happened and why it matters. No "In this article..." meta-language.
+- Close with a "What to watch" or forward-looking paragraph.
+- Do not pad with filler, hedging clauses, or throat-clearing. Every sentence carries weight.
+
+Output a JSON object:
+- "title": Professional headline, no colons unless necessary.
+- "description": 1–2 sentence SEO summary, ≤160 chars.
+- "article_markdown": Full markdown body, without the main H1. Obeys the word-count and structure rules above.
+- "tags": 3–5 lowercase string tags.
+- "visual_keyword": Single descriptive phrase for image generation.
 
 Source Texts:
 ${sourceTexts}`,
