@@ -19,19 +19,22 @@ const SEED = [
   { sym: 'XAUUSD',label: 'GOLD',    denom: 'USD'   },
 ];
 
+// Label each currency with its native symbol so the dropdown itself reads as
+// "$ / € / ₺" rather than "USD / EUR / TRY". CAD/AUD share "$" globally so
+// we suffix to disambiguate.
 const CURRENCIES = [
-  { code: 'USD', name: 'US Dollar' },
-  { code: 'EUR', name: 'Euro' },
-  { code: 'GBP', name: 'British Pound' },
-  { code: 'JPY', name: 'Japanese Yen' },
-  { code: 'CHF', name: 'Swiss Franc' },
-  { code: 'CAD', name: 'Canadian Dollar' },
-  { code: 'AUD', name: 'Australian Dollar' },
-  { code: 'CNY', name: 'Chinese Yuan' },
-  { code: 'INR', name: 'Indian Rupee' },
-  { code: 'TRY', name: 'Turkish Lira' },
-  { code: 'MXN', name: 'Mexican Peso' },
-  { code: 'BRL', name: 'Brazilian Real' },
+  { code: 'USD', symbol: '$',    name: 'US Dollar' },
+  { code: 'EUR', symbol: '€',    name: 'Euro' },
+  { code: 'GBP', symbol: '£',    name: 'British Pound' },
+  { code: 'JPY', symbol: '¥',    name: 'Japanese Yen' },
+  { code: 'CHF', symbol: 'Fr',   name: 'Swiss Franc' },
+  { code: 'CAD', symbol: 'C$',   name: 'Canadian Dollar' },
+  { code: 'AUD', symbol: 'A$',   name: 'Australian Dollar' },
+  { code: 'CNY', symbol: '¥',    name: 'Chinese Yuan' },
+  { code: 'INR', symbol: '₹',    name: 'Indian Rupee' },
+  { code: 'TRY', symbol: '₺',    name: 'Turkish Lira' },
+  { code: 'MXN', symbol: 'Mex$', name: 'Mexican Peso' },
+  { code: 'BRL', symbol: 'R$',   name: 'Brazilian Real' },
 ];
 ---
 
@@ -48,7 +51,7 @@ const CURRENCIES = [
         aria-label="Display currency"
       >
         {CURRENCIES.map((c) => (
-          <option value={c.code} class="text-black bg-white">{c.code}</option>
+          <option value={c.code} class="text-black bg-white">{c.symbol} {c.code}</option>
         ))}
       </select>
       <svg class="w-3 h-3 absolute right-2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
@@ -117,15 +120,19 @@ const CURRENCIES = [
         return n.toLocaleString('en-US', { minimumFractionDigits: 4, maximumFractionDigits: 4 });
       }
       // USD-denominated value, re-quoted via ECB rate into the chosen currency.
+      // Digits collapse by magnitude so the symbol always renders (prior bug:
+      // min>max for sub-$1 values threw RangeError and fell back to plain).
+      const abs = Math.abs(n);
+      const digits = abs >= 1000 ? 0 : abs >= 1 ? 2 : 4;
       try {
         return new Intl.NumberFormat('en-US', {
           style: 'currency',
           currency,
-          maximumFractionDigits: Math.abs(n) >= 1000 ? 0 : 2,
-          minimumFractionDigits: Math.abs(n) >= 1 ? 2 : 4,
+          minimumFractionDigits: digits,
+          maximumFractionDigits: digits,
         }).format(n);
       } catch {
-        return n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+        return n.toLocaleString('en-US', { maximumFractionDigits: digits });
       }
     };
     const pct = (n) => {
