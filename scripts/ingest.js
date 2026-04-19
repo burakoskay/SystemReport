@@ -18,6 +18,7 @@ import { enqueueFailure } from '../src/pipeline/dlq.mjs';
 import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
 import { findMatchingPost, applyUpdate, getPostsIndex } from '../src/pipeline/update-matcher.mjs';
 import { selectPrompt } from '../src/pipeline/prompts.mjs';
+import { expandSources } from '../src/pipeline/expandSources.mjs';
 
 dotenv.config();
 
@@ -426,8 +427,28 @@ async function reviseDraft(draft, critique, cluster) {
 // treatment. Cheaper stories stick with the single-draft path to conserve TPM budget.
 const MULTI_DRAFT_MIN_SOURCES = 3;
 
-// --- Full synthesize pipeline: draft (optional A+B+judge) → critique → revise → stylometric gate ---
+// Thin clusters (1–2 sources) rarely give the drafter enough material; we
+// preemptively pull additional coverage from GDELT / Google News / HN before
+// drafting. This is "lengthen via research," not "lengthen via padding."
+const THIN_CLUSTER_THRESHOLD = 3;
+
+// --- Full synthesize pipeline: (optional research expansion) → draft (optional A+B+judge) → critique → revise → stylometric gate → word-count gate ---
 async function synthesizeArticle(cluster) {
+  // 0. Source expansion for thin clusters.
+  if (cluster.articles.length < THIN_CLUSTER_THRESHOLD) {
+    try {
+      const extra = await expandSources(cluster, { maxNew: 5 });
+      if (extra.length > 0) {
+        console.log(`    expanded sources: +${extra.length} from GDELT/GNews/HN (was ${cluster.articles.length})`);
+        cluster.articles = [...cluster.articles, ...extra];
+      } else {
+        console.log(`    source expansion found nothing additional`);
+      }
+    } catch (e) {
+      console.log(`    source expansion failed: ${e.message.slice(0, 120)}`);
+    }
+  }
+
   // 1. Draft — parallel A+B+judge when the story is well-sourced; single draft otherwise.
   let article;
   if (cluster.articles.length >= MULTI_DRAFT_MIN_SOURCES) {
@@ -476,26 +497,30 @@ async function synthesizeArticle(cluster) {
     );
   }
 
-  // 5. Word-count gate — thin articles aren't publishable. Lengthen once, skip if still short.
+  // 5. Word-count gate — thin articles aren't publishable. Instead of asking
+  // the LLM to pad (→ slop), we pull MORE sources and re-draft from scratch.
   const MIN_WORDS = 500;
   const HARD_MIN = 400;
   const countWords = (s) => (s || '').split(/\s+/).filter(Boolean).length;
   let wc = countWords(article.article_markdown);
   if (wc < MIN_WORDS) {
-    console.log(`    word-count gate: ${wc} < ${MIN_WORDS}, running lengthen pass`);
-    article = await reviseDraft(
-      article,
-      {
-        factual_issues: [],
-        missing_angles: [
-          `Article is only ${wc} words. Expand to 700–1000 words per the brief — add industry context, precedent, players involved, technical mechanics, and a forward-looking "what to watch" section. Do not invent new facts about the specific event.`,
-        ],
-        style_issues: [],
-        verdict: 'revise',
-      },
-      cluster
-    );
-    wc = countWords(article.article_markdown);
+    console.log(`    word-count gate: ${wc} < ${MIN_WORDS}, retrying with more research`);
+    try {
+      const before = cluster.articles.length;
+      const extra = await expandSources(cluster, { maxNew: 8 });
+      const known = new Set(cluster.articles.map(a => a.link));
+      const fresh = extra.filter(e => !known.has(e.link));
+      if (fresh.length > 0) {
+        cluster.articles = [...cluster.articles, ...fresh];
+        console.log(`    +${fresh.length} new sources (${before} → ${cluster.articles.length}); re-drafting`);
+        article = await draftArticle(cluster);
+        wc = countWords(article.article_markdown);
+      } else {
+        console.log(`    no additional sources found; keeping short draft for final gate`);
+      }
+    } catch (e) {
+      console.log(`    research-retry failed: ${e.message.slice(0, 120)}`);
+    }
   }
   if (wc < HARD_MIN) {
     throw new Error(`Draft still too short after lengthen pass: ${wc} words < ${HARD_MIN}`);

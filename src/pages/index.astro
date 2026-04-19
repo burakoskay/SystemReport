@@ -5,6 +5,9 @@ import Pagination from '../components/Pagination.astro';
 import NewsletterSignup from '../components/NewsletterSignup.astro';
 import AdUnit from '../components/AdUnit.astro';
 import { getCollection } from 'astro:content';
+import { getArticleCategory, CATEGORIES } from '../lib/categories';
+
+const catLabel = (tags?: string[]) => CATEGORIES[getArticleCategory(tags || [])]?.label ?? 'Tech';
 
 const ARTICLES_PER_PAGE = 13;
 
@@ -88,11 +91,9 @@ const homepageSchema = {
             </div>
           )}
           <div class="pt-5">
-            {featuredPost.data.tags?.[0] && (
-              <span class="text-[0.65rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
-                {featuredPost.data.tags[0]}
-              </span>
-            )}
+            <span class="text-[0.65rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
+              {catLabel(featuredPost.data.tags)}
+            </span>
             <h2 class="mt-2 font-serif text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight text-gray-900 dark:text-gray-50 group-hover:text-black dark:group-hover:text-white transition-colors">
               {featuredPost.data.title}
             </h2>
@@ -119,11 +120,9 @@ const homepageSchema = {
                 ]}
               >
                 <div class="flex-1 min-w-0">
-                  {post.data.tags?.[0] && (
-                    <span class="text-[0.6rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
-                      {post.data.tags[0]}
-                    </span>
-                  )}
+                  <span class="text-[0.6rem] font-bold uppercase tracking-widest text-gray-500 dark:text-gray-400">
+                    {catLabel(post.data.tags)}
+                  </span>
                   <h3 class="mt-1 font-serif text-[0.95rem] font-semibold leading-snug text-gray-900 dark:text-gray-100 group-hover:text-black dark:group-hover:text-white transition-colors line-clamp-3">
                     {post.data.title}
                   </h3>

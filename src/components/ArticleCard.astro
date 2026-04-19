@@ -1,4 +1,6 @@
 ---
+import { getArticleCategory, CATEGORIES } from '../lib/categories';
+
 interface Props {
   title: string;
   slug: string;
@@ -21,7 +23,8 @@ const formattedDate = `${date.toLocaleDateString('en-US', {
 })} · ${date.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'UTC' })} UTC`;
 
 const excerpt = description || (body ? body.slice(0, 140).replace(/[#*_\[\]`>]/g, '').trim() + '…' : '');
-const category = tags[0] ?? null;
+const categorySlug = getArticleCategory(tags);
+const category = CATEGORIES[categorySlug]?.label ?? 'Tech';
 ---
 
 <article class="group bg-white dark:bg-gray-900/60 rounded-xl border border-gray-200 dark:border-gray-800 overflow-hidden hover:border-gray-300 dark:hover:border-gray-700 transition-colors duration-200 animate-fade-in">
