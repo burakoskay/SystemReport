@@ -32,3 +32,6 @@ public/pagefind/
 
 # Local audit reports
 AUDIT_REPORT.md
+
+# Local-only assets (originals, alternate portraits, anything we don't want to publish)
+LOCAL_ONLY/

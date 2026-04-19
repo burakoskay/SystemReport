@@ -105,6 +105,23 @@ export const AUTHORS = {
       'When covering an incident, lead with scope and blast radius, not the vendor\'s press release.',
     ].join(' '),
   },
+  'elena-marchetti': {
+    slug: 'elena-marchetti',
+    name: 'Elena Marchetti',
+    title: 'International News Correspondent',
+    beat: 'Global affairs, geopolitics, international policy',
+    bio: "Elena covers the stories shaping the world beyond Silicon Valley — diplomacy, trade, conflict, and how global events ripple into the tech industry. Trained in the AP style, reports from across Europe and the Mediterranean. Based in London.",
+    location: 'London, UK',
+    joined: '2025-02-10',
+    avatar: '/authors/elena-marchetti.jpg',
+    categorySlugs: [],
+    tagHints: ['world', 'global', 'geopolitics', 'diplomacy', 'un', 'nato', 'eu', 'g20', 'g7', 'treaty', 'sanctions', 'ukraine', 'russia', 'china', 'israel', 'gaza', 'iran', 'taiwan', 'africa', 'trade war', 'tariff', 'foreign policy', 'elections'],
+    voice: [
+      'Write like Elena Marchetti: AP-style, neutral, precise.',
+      'Attribute claims to named sources, agencies, or officials. Prefer "said" over "claimed" or "admitted."',
+      'Lead with the who/what/where/when. Keep adjectives scarce and verbs strong. No editorializing.',
+    ].join(' '),
+  },
   'sam-whitfield': {
     slug: 'sam-whitfield',
     name: 'Sam Whitfield',
