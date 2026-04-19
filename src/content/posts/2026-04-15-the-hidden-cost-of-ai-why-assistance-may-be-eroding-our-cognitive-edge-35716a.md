@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our Cognitive Edge"
+title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our"
 date: 2026-04-15T19:47:05.150Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
 hero_image: "/hero/2026-04-15-the-hidden-cost-of-ai-why-assistance-may-be-eroding-our-cognitive-edge-35716a.jpg"

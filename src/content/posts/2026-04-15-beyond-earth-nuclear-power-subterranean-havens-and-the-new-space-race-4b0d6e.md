@@ -1,5 +1,5 @@
 ---
-title: "Beyond Earth: Nuclear Power, Subterranean Havens, and the New Space Race"
+title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"

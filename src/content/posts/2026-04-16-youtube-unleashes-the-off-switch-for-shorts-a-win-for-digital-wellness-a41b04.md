@@ -1,5 +1,5 @@
 ---
-title: "YouTube Unleashes the 'Off Switch' for Shorts: A Win for Digital Wellness?"
+title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"

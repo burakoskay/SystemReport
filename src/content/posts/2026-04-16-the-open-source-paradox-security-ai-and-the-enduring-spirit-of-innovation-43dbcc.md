@@ -1,5 +1,5 @@
 ---
-title: "The Open Source Paradox: Security, AI, and the Enduring Spirit of Innovation"
+title: "The Open Source Paradox: Security, AI"
 date: 2026-04-16T05:31:12.916Z
 tags: ["open source","ai","cybersecurity","software development","innovation"]
 hero_image: "/hero/2026-04-16-the-open-source-paradox-security-ai-and-the-enduring-spirit-of-innovation-43dbcc.jpg"

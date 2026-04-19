@@ -1,5 +1,5 @@
 ---
-title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an Illegal Monopoly"
+title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"

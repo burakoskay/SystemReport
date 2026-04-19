@@ -1,5 +1,5 @@
 ---
-title: "B-52 star tracker, Opus inflation, and Kindle for PC shutdown shape tech discussions"
+title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"

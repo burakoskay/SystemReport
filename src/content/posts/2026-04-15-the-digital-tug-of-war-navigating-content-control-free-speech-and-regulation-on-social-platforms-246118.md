@@ -1,5 +1,5 @@
 ---
-title: "The Digital Tug-of-War: Navigating Content Control, Free Speech, and Regulation on Social Platforms"
+title: "The Digital Tug-of-War: Navigating Content Control, Free Speech"
 date: 2026-04-15T19:49:24.646Z
 modified_date: 2026-04-18T20:28:25.807Z
 tags: ["content moderation","free speech","social media regulation","brand safety","digital ethics"]

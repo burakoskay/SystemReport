@@ -1,5 +1,5 @@
 ---
-title: "AI's Double-Edged Sword: Economic Slowdown Masks Targeted Job Displacement"
+title: "AI's Double-Edged Sword: Economic Slowdown Masks Targeted Job"
 date: 2026-04-15T19:48:44.307Z
 modified_date: 2026-04-19T12:42:24.020Z
 tags: ["ai","layoffs","tech industry","employment","economy"]

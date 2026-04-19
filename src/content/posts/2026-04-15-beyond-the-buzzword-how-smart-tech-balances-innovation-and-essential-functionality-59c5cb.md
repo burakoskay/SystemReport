@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Buzzword: How Smart Tech Balances Innovation and Essential Functionality"
+title: "Beyond the Buzzword: How Smart Tech Balances Innovation and"
 date: 2026-04-15T19:47:43.585Z
 tags: ["smart tech","home automation","consumer electronics","grills","safety"]
 hero_image: "/hero/2026-04-15-beyond-the-buzzword-how-smart-tech-balances-innovation-and-essential-functionality-59c5cb.jpg"

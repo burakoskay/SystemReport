@@ -1,5 +1,5 @@
 ---
-title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for Generative Future"
+title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"

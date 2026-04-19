@@ -1,5 +1,5 @@
 ---
-title: "Foldable Forecast: Motorola Expands as Google Holds Ground and Apple Prepares a Market Shakeup"
+title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"

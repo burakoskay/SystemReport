@@ -1,5 +1,5 @@
 ---
-title: "Tech Roundup: Satellite Imaging, Smart Mowers, and AI-Powered Headphones"
+title: "Tech Roundup: Satellite Imaging, Smart Mowers"
 date: 2026-04-18T01:10:25.151Z
 tags: ["satellite imaging","smart mowers","AI-powered headphones"]
 hero_image: "/hero/2026-04-18-tech-roundup-satellite-imaging-smart-mowers-and-ai-powered-headphones-7af257.jpg"

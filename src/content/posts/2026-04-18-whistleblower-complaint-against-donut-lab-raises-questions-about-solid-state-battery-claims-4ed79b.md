@@ -1,5 +1,5 @@
 ---
-title: "Whistleblower Complaint Against Donut Lab Raises Questions About Solid-State Battery Claims"
+title: "Whistleblower Complaint Against Donut Lab Raises Questions About"
 date: 2026-04-18T01:10:34.548Z
 tags: ["Donut Lab","solid-state battery","whistleblower complaint","Nordic Nano"]
 hero_image: "/hero/2026-04-18-whistleblower-complaint-against-donut-lab-raises-questions-about-solid-state-battery-claims-4ed79b.jpg"

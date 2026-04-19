@@ -47,7 +47,7 @@ HARD REQUIREMENTS:
 - Do not pad with filler, hedging clauses, or throat-clearing. Every sentence carries weight.
 
 Output a JSON object:
-- "title": Professional headline, no colons unless necessary.
+- "title": Professional headline, ≤65 characters (hard limit — search engines truncate past 70). No colons unless necessary.
 - "description": 1–2 sentence SEO summary, ≤160 chars.
 - "article_markdown": Full markdown body, without the main H1. Obeys the word-count and structure rules above.
 - "tags": 3–5 lowercase string tags.

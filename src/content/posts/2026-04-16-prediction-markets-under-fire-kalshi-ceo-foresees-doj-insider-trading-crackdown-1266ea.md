@@ -1,5 +1,5 @@
 ---
-title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider Trading Crackdown"
+title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"

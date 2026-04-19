@@ -1,5 +1,5 @@
 ---
-title: "The Digital Crucible: How AI & Shifting Tides Reshape Political Loyalty"
+title: "The Digital Crucible: How AI & Shifting Tides Reshape Political"
 date: 2026-04-16T05:30:04.105Z
 tags: ["ai in politics","political shifts","trump","digital propaganda","maga movement"]
 hero_image: "/hero/2026-04-16-the-digital-crucible-how-ai-shifting-tides-reshape-political-loyalty-f359e5.jpg"

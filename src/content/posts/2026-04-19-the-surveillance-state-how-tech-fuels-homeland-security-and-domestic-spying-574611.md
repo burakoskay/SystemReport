@@ -1,5 +1,5 @@
 ---
-title: "The Surveillance State: How Tech Fuels Homeland Security and Domestic Spying"
+title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"

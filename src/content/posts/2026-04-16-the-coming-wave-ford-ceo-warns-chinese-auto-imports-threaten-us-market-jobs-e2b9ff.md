@@ -1,5 +1,5 @@
 ---
-title: "The Coming Wave: Ford CEO Warns Chinese Auto Imports Threaten US Market & Jobs"
+title: "The Coming Wave: Ford CEO Warns Chinese Auto Imports Threaten US"
 date: 2026-04-16T05:31:26.392Z
 tags: ["automotive","us jobs","china trade","ford","ev market"]
 hero_image: "/hero/2026-04-16-the-coming-wave-ford-ceo-warns-chinese-auto-imports-threaten-us-market-jobs-e2b9ff.jpg"

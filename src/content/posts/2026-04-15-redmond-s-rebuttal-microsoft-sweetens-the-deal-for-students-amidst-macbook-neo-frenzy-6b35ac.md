@@ -1,5 +1,5 @@
 ---
-title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students Amidst MacBook Neo Frenzy"
+title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students"
 date: 2026-04-15T19:46:25.489Z
 modified_date: 2026-04-19T12:42:23.830Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]

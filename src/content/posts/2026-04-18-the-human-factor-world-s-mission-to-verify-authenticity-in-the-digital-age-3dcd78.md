@@ -1,5 +1,5 @@
 ---
-title: "The Human Factor: World's Mission to Verify Authenticity in the Digital Age"
+title: "The Human Factor: World's Mission to Verify Authenticity in the"
 date: 2026-04-18T01:04:43.454Z
 tags: ["human verification","artificial intelligence","online security"]
 hero_image: "/hero/2026-04-18-the-human-factor-world-s-mission-to-verify-authenticity-in-the-digital-age-3dcd78.jpg"

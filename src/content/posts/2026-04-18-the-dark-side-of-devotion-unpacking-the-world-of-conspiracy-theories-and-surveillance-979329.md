@@ -1,5 +1,5 @@
 ---
-title: "The Dark Side of Devotion: Unpacking the World of Conspiracy Theories and Surveillance"
+title: "The Dark Side of Devotion: Unpacking the World of Conspiracy"
 date: 2026-04-18T01:04:51.470Z
 tags: ["conspiracy theories","surveillance state","social media influencers"]
 hero_image: "/hero/2026-04-18-the-dark-side-of-devotion-unpacking-the-world-of-conspiracy-theories-and-surveillance-979329.jpg"

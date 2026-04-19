@@ -1,5 +1,5 @@
 ---
-title: "The Unfolding Story of Modern Healthcare: Navigating Progress and Peril"
+title: "The Unfolding Story of Modern Healthcare"
 date: 2026-04-16T05:30:17.251Z
 tags: ["medical innovation","gene editing","healthcare","scientific research","patient safety"]
 hero_image: "/hero/2026-04-16-the-unfolding-story-of-modern-healthcare-navigating-progress-and-peril-7f1a9e.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "AI Drive-Thrus and Tech Refreshes: The Future of Fast Food and Computing"
+title: "AI Drive-Thrus and Tech Refreshes"
 date: 2026-04-18T01:05:01.683Z
 tags: ["ai","tech","fastfood","computing"]
 hero_image: "/hero/2026-04-18-ai-drive-thrus-and-tech-refreshes-the-future-of-fast-food-and-computing-9ddf87.jpg"

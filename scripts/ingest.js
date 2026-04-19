@@ -527,7 +527,26 @@ async function synthesizeArticle(cluster) {
     throw new Error(`Draft still too short after lengthen pass: ${wc} words < ${HARD_MIN}`);
   }
 
+  // 6. Title length gate — Bing flags >70 chars as truncated. Cap to 65
+  // for a safety margin. Prefer cutting at natural boundaries (em-dash,
+  // colon, comma), fall back to last word-boundary before the limit.
+  article.title = shortenTitle(article.title, 65);
+
   return article;
+}
+
+function shortenTitle(raw, maxLen) {
+  const t = String(raw || '').trim();
+  if (t.length <= maxLen) return t;
+  // Try boundary cuts in priority order.
+  for (const sep of [' — ', ' – ', ': ', ' - ', ', ']) {
+    const idx = t.lastIndexOf(sep, maxLen);
+    if (idx > maxLen * 0.5) return t.slice(0, idx).trim();
+  }
+  // Last word boundary within limit.
+  const clip = t.slice(0, maxLen);
+  const sp = clip.lastIndexOf(' ');
+  return (sp > 0 ? clip.slice(0, sp) : clip).trim();
 }
 
 // --- Image fetching (Pexels) + self-hosting ---

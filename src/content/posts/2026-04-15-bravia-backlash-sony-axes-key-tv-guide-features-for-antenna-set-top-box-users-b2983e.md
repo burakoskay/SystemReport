@@ -1,5 +1,5 @@
 ---
-title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna & Set-Top Box Users"
+title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
