@@ -1,10 +1,11 @@
 ---
 // Side-scrolling live market ticker. Crypto via Binance, indices/FX via
 // Stooq, FX rates via Frankfurter — all fanned out through /api/markets.
-// Users pick a display currency from the leading dropdown; USD-denominated
-// instruments (crypto, gold) are re-quoted client-side via ECB rates.
-// Indices (S&P/NDX/DJI) are unitless points — never converted. FX pairs
-// (EUR/USD, USD/JPY) are pair values — also never converted.
+// The leading pill is a custom currency dropdown: the closed state shows
+// only the selected symbol (auto-narrow), the open panel shows full names.
+// The scrolling track is driven by requestAnimationFrame so the user can
+// drag and "throw" it; a release velocity is carried forward with friction
+// and decays back into the idle auto-scroll.
 const SEED = [
   { sym: 'BTC',   label: 'BTC',     denom: 'USD'   },
   { sym: 'ETH',   label: 'ETH',     denom: 'USD'   },
@@ -19,9 +20,6 @@ const SEED = [
   { sym: 'XAUUSD',label: 'GOLD',    denom: 'USD'   },
 ];
 
-// Label each currency with its native symbol so the dropdown itself reads as
-// "$ / € / ₺" rather than "USD / EUR / TRY". CAD/AUD share "$" globally so
-// we suffix to disambiguate.
 const CURRENCIES = [
   { code: 'USD', symbol: '$',    name: 'US Dollar' },
   { code: 'EUR', symbol: '€',    name: 'Euro' },
@@ -38,29 +36,51 @@ const CURRENCIES = [
 ];
 ---
 
-<div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black overflow-hidden">
-  <div class="relative flex items-stretch">
-    <label class="shrink-0 relative flex items-center bg-gray-900 dark:bg-white text-white dark:text-black z-10 cursor-pointer hover:opacity-90 transition-opacity">
-      <span class="relative flex w-1.5 h-1.5 ml-3 mr-2">
-        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
-        <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-red-500"></span>
-      </span>
-      <select
-        data-ticker-currency
-        class="appearance-none bg-transparent text-[10px] font-bold uppercase tracking-[0.15em] pl-0 pr-6 py-1.5 focus:outline-none cursor-pointer"
+<div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black overflow-hidden relative">
+  <div class="flex items-stretch">
+
+    <div class="shrink-0 relative z-20" data-currency-root>
+      <button
+        type="button"
+        data-currency-btn
+        class="h-full flex items-center gap-2 pl-3 pr-2 py-1.5 bg-gray-900 dark:bg-white text-white dark:text-black hover:opacity-90 transition-opacity"
+        aria-haspopup="listbox"
+        aria-expanded="false"
         aria-label="Display currency"
       >
+        <span class="relative flex w-1.5 h-1.5">
+          <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+          <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-red-500"></span>
+        </span>
+        <span data-currency-symbol class="text-[11px] font-bold tracking-wide">$</span>
+        <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+        </svg>
+      </button>
+      <div
+        data-currency-menu
+        role="listbox"
+        class="hidden absolute top-full left-0 mt-0 min-w-[12rem] max-h-80 overflow-auto bg-white dark:bg-black border border-gray-200 dark:border-gray-800 shadow-lg rounded-b-md"
+      >
         {CURRENCIES.map((c) => (
-          <option value={c.code} class="text-black bg-white">{c.symbol} {c.code}</option>
+          <button
+            type="button"
+            role="option"
+            data-opt
+            data-code={c.code}
+            data-symbol={c.symbol}
+            class="w-full flex items-center gap-3 px-3 py-2 text-[11px] text-left text-gray-900 dark:text-gray-100 hover:bg-gray-100 dark:hover:bg-gray-900 transition-colors"
+          >
+            <span class="w-8 font-bold tabular-nums">{c.symbol}</span>
+            <span class="font-semibold">{c.code}</span>
+            <span class="text-gray-500 dark:text-gray-400">{c.name}</span>
+          </button>
         ))}
-      </select>
-      <svg class="w-3 h-3 absolute right-2 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
-      </svg>
-    </label>
-    <div class="market-ticker-viewport flex-1 overflow-hidden relative">
-      <div class="market-ticker-track flex items-center gap-8 py-1.5 whitespace-nowrap will-change-transform" data-ticker-track>
-        {/* Two copies for seamless loop */}
+      </div>
+    </div>
+
+    <div class="market-ticker-viewport flex-1 overflow-hidden relative select-none">
+      <div class="market-ticker-track flex items-center gap-8 py-1.5 whitespace-nowrap will-change-transform cursor-grab active:cursor-grabbing" data-ticker-track>
         {[0, 1].map(() => (
           <div class="flex items-center gap-8 pl-8 shrink-0" data-ticker-group>
             {SEED.map((item) => (
@@ -77,29 +97,17 @@ const CURRENCIES = [
   </div>
 </div>
 
-<style>
-  .market-ticker-track {
-    animation: sr-marquee 90s linear infinite;
-  }
-  .market-ticker-viewport:hover .market-ticker-track {
-    animation-play-state: paused;
-  }
-  @keyframes sr-marquee {
-    from { transform: translateX(0); }
-    to   { transform: translateX(-50%); }
-  }
-  @media (prefers-reduced-motion: reduce) {
-    .market-ticker-track { animation: none; }
-  }
-</style>
-
 <script is:inline>
   (function () {
+    // ── Currency dropdown ───────────────────────────────────────────────
     const STORAGE_KEY = 'sr-ticker-currency';
-    const select = document.querySelector('[data-ticker-currency]');
+    const root    = document.querySelector('[data-currency-root]');
+    const btn     = root && root.querySelector('[data-currency-btn]');
+    const menu    = root && root.querySelector('[data-currency-menu]');
+    const symEl   = root && root.querySelector('[data-currency-symbol]');
+    const options = root ? [...root.querySelectorAll('[data-opt]')] : [];
 
-    // Saved state. Rates arrive with the first /api/markets response.
-    let state = {
+    const state = {
       currency: (function () {
         try { return localStorage.getItem(STORAGE_KEY) || 'USD'; } catch { return 'USD'; }
       })(),
@@ -107,21 +115,55 @@ const CURRENCIES = [
       rates: { USD: 1 },
     };
 
-    if (select) select.value = state.currency;
+    const applyCurrency = (code, symbol) => {
+      state.currency = code;
+      if (symEl && symbol) symEl.textContent = symbol;
+      try { localStorage.setItem(STORAGE_KEY, code); } catch {}
+      render();
+    };
 
+    // Seed the pill with the persisted choice's symbol.
+    {
+      const picked = options.find(o => o.getAttribute('data-code') === state.currency);
+      if (picked && symEl) symEl.textContent = picked.getAttribute('data-symbol');
+    }
+
+    const closeMenu = () => {
+      if (!menu) return;
+      menu.classList.add('hidden');
+      btn && btn.setAttribute('aria-expanded', 'false');
+    };
+    const openMenu = () => {
+      if (!menu) return;
+      menu.classList.remove('hidden');
+      btn && btn.setAttribute('aria-expanded', 'true');
+    };
+
+    if (btn) btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (menu && menu.classList.contains('hidden')) openMenu(); else closeMenu();
+    });
+    options.forEach((opt) => {
+      opt.addEventListener('click', () => {
+        applyCurrency(opt.getAttribute('data-code'), opt.getAttribute('data-symbol'));
+        closeMenu();
+      });
+    });
+    document.addEventListener('click', (e) => {
+      if (root && !root.contains(e.target)) closeMenu();
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeMenu();
+    });
+
+    // ── Formatting / rendering ──────────────────────────────────────────
     const fmtNumber = (n, currency, denom) => {
       if (!isFinite(n)) return '—';
-      // Index points and FX pairs: plain number, no currency sign.
-      if (denom === 'index') {
-        return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
-      }
+      if (denom === 'index') return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
       if (denom === 'pair') {
         if (Math.abs(n) >= 10) return n.toLocaleString('en-US', { maximumFractionDigits: 2 });
         return n.toLocaleString('en-US', { minimumFractionDigits: 4, maximumFractionDigits: 4 });
       }
-      // USD-denominated value, re-quoted via ECB rate into the chosen currency.
-      // Digits collapse by magnitude so the symbol always renders (prior bug:
-      // min>max for sub-$1 values threw RangeError and fell back to plain).
       const abs = Math.abs(n);
       const digits = abs >= 1000 ? 0 : abs >= 1 ? 2 : 4;
       try {
@@ -135,12 +177,9 @@ const CURRENCIES = [
         return n.toLocaleString('en-US', { maximumFractionDigits: digits });
       }
     };
-    const pct = (n) => {
-      if (!isFinite(n)) return '—';
-      return (n >= 0 ? '+' : '') + n.toFixed(2) + '%';
-    };
+    const pct = (n) => isFinite(n) ? (n >= 0 ? '+' : '') + n.toFixed(2) + '%' : '—';
 
-    const render = () => {
+    function render() {
       const { currency, items, rates } = state;
       const fx = rates[currency];
       document.querySelectorAll('[data-ticker-item]').forEach((el) => {
@@ -150,7 +189,6 @@ const CURRENCIES = [
         const vE = el.querySelector('[data-v]');
         const cE = el.querySelector('[data-c]');
         if (!d || !isFinite(d.v)) return;
-
         const displayVal = denom === 'USD' && isFinite(fx) ? d.v * fx : d.v;
         if (vE) vE.textContent = fmtNumber(displayVal, currency, denom);
         if (cE && isFinite(d.c)) {
@@ -159,7 +197,7 @@ const CURRENCIES = [
           cE.classList.add(d.c >= 0 ? 'text-green-600' : 'text-red-600', d.c >= 0 ? 'dark:text-green-400' : 'dark:text-red-400');
         }
       });
-    };
+    }
 
     async function refresh() {
       try {
@@ -171,16 +209,111 @@ const CURRENCIES = [
         render();
       } catch (_) {}
     }
-
-    if (select) {
-      select.addEventListener('change', (e) => {
-        state.currency = e.target.value || 'USD';
-        try { localStorage.setItem(STORAGE_KEY, state.currency); } catch {}
-        render();
-      });
-    }
-
     refresh();
     setInterval(refresh, 60000);
+
+    // ── Drag-to-throw marquee ───────────────────────────────────────────
+    // CSS-keyframe marquee can't be interactively paused/resumed mid-flight,
+    // so we drive translateX ourselves. The track contains two identical
+    // groups side-by-side; wrapping at -halfWidth keeps the scroll seamless.
+    const viewport = document.querySelector('.market-ticker-viewport');
+    const track    = document.querySelector('[data-ticker-track]');
+    const groups   = document.querySelectorAll('[data-ticker-group]');
+    const prefersReduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    if (viewport && track && groups.length >= 2 && !prefersReduced) {
+      const AUTO_SPEED = -60;        // px/s, negative = leftward drift
+      const FRICTION   = 2.2;        // exponential decay per second
+      const MAX_VEL    = 4000;       // px/s clamp on released velocity
+      const RESUME_MS  = 1200;       // after drag ends, delay before auto-drift takes over
+
+      let x = 0;
+      let halfWidth = 0;
+      let vel = 0;                   // carries through drag momentum
+      let dragging = false;
+      let paused = false;            // hover-pause
+      let releasedAt = 0;
+      let samples = [];              // [t, x] recent pointer positions
+      let lastFrame = 0;
+
+      const measure = () => { halfWidth = groups[0].getBoundingClientRect().width + 32; /* pl-8 gap */ };
+      measure();
+      new ResizeObserver(measure).observe(groups[0]);
+
+      const wrap = (val) => {
+        if (!halfWidth) return val;
+        while (val <= -halfWidth) val += halfWidth;
+        while (val > 0) val -= halfWidth;
+        return val;
+      };
+
+      function frame(now) {
+        if (!lastFrame) lastFrame = now;
+        const dt = Math.min(0.05, (now - lastFrame) / 1000);
+        lastFrame = now;
+
+        if (!dragging && !paused) {
+          // Momentum carries until it decays below |AUTO_SPEED|, then idle drift.
+          const sinceRelease = now - releasedAt;
+          const holdingOff = releasedAt && sinceRelease < RESUME_MS && Math.abs(vel) > Math.abs(AUTO_SPEED);
+          if (Math.abs(vel) > Math.abs(AUTO_SPEED)) {
+            x += vel * dt;
+            vel *= Math.exp(-FRICTION * dt);
+          } else {
+            x += (holdingOff ? 0 : AUTO_SPEED) * dt;
+            vel = 0;
+          }
+          x = wrap(x);
+          track.style.transform = 'translateX(' + x + 'px)';
+        }
+        requestAnimationFrame(frame);
+      }
+      requestAnimationFrame(frame);
+
+      viewport.addEventListener('mouseenter', () => { paused = true; });
+      viewport.addEventListener('mouseleave', () => { paused = false; });
+
+      const onDown = (e) => {
+        dragging = true;
+        paused = false;
+        vel = 0;
+        samples = [[performance.now(), e.clientX]];
+        track.setPointerCapture && track.setPointerCapture(e.pointerId);
+        e.preventDefault();
+      };
+      const onMove = (e) => {
+        if (!dragging) return;
+        const now = performance.now();
+        const prev = samples[samples.length - 1];
+        const dx = e.clientX - prev[1];
+        x = wrap(x + dx);
+        track.style.transform = 'translateX(' + x + 'px)';
+        samples.push([now, e.clientX]);
+        // Trim samples older than 100ms for a snappy release velocity.
+        while (samples.length > 2 && now - samples[0][0] > 100) samples.shift();
+      };
+      const onUp = (e) => {
+        if (!dragging) return;
+        dragging = false;
+        const now = performance.now();
+        const first = samples[0];
+        const dt = Math.max(1, now - first[0]) / 1000;
+        const dx = e.clientX - first[1];
+        vel = Math.max(-MAX_VEL, Math.min(MAX_VEL, dx / dt));
+        releasedAt = now;
+        track.releasePointerCapture && track.releasePointerCapture(e.pointerId);
+      };
+      track.addEventListener('pointerdown', onDown);
+      track.addEventListener('pointermove', onMove);
+      track.addEventListener('pointerup', onUp);
+      track.addEventListener('pointercancel', onUp);
+      // Block link-clicks that happen after a real drag gesture.
+      track.addEventListener('click', (e) => {
+        const first = samples[0];
+        if (!first) return;
+        const total = Math.abs(e.clientX - first[1]);
+        if (total > 8) { e.preventDefault(); e.stopPropagation(); }
+      }, true);
+    }
   })();
 </script>
