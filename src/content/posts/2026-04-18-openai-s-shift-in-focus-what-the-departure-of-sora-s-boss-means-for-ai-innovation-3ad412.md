@@ -1,5 +1,5 @@
 ---
-title: "OpenAI's Shift in Focus: What the Departure of Sora's Boss Means"
+title: "OpenAI Shifts Focus as Sora's Boss Exits the Company"
 date: 2026-04-18T01:04:59.933Z
 tags: ["ai innovation","openai","llm"]
 hero_image: "/hero/2026-04-18-openai-s-shift-in-focus-what-the-departure-of-sora-s-boss-means-for-ai-innovation-3ad412.jpg"

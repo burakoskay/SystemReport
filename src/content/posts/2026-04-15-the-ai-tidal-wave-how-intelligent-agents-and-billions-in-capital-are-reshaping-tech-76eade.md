@@ -1,5 +1,5 @@
 ---
-title: "The AI Tidal Wave: How Intelligent Agents and Billions in"
+title: "The AI Tidal Wave: Agents and Billions Reshape Tech"
 date: 2026-04-15T19:47:53.588Z
 tags: ["ai","artificial intelligence","agentic ai","tech investment","innovation"]
 hero_image: "/hero/2026-04-15-the-ai-tidal-wave-how-intelligent-agents-and-billions-in-capital-are-reshaping-tech-76eade.jpg"

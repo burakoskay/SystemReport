@@ -1,2 +1,7 @@
 # Bing/other crawlers often guess /sitemap.xml — redirect to the real index.
 /sitemap.xml  /sitemap-index.xml  301
+
+# Homepage already is the posts archive. The bare /posts/ path 404s
+# (no index.astro under src/pages/posts/), so redirect to root.
+/posts        /  301
+/posts/       /  301
