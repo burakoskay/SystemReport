@@ -1,0 +1,2 @@
+# Bing/other crawlers often guess /sitemap.xml — redirect to the real index.
+/sitemap.xml  /sitemap-index.xml  301
