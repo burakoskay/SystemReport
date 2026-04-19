@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker in shadows"
 description: "US government networks and Windows systems compromised by hackers"
 sources_count: 2
+author: "priya-raman"
 ---
 
 The US government's cybersecurity has been called into question after a man was sentenced to probation for hacking into the Supreme Court filing system. Nicholas Moore used stolen credentials to breach three government networks, then boasted about his exploits on social media. 

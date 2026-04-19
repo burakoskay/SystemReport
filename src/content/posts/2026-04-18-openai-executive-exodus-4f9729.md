@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "AI"
 description: "Key leaders depart as OpenAI shifts to enterprise AI"
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-04-18-openai-executive-exodus-4f9729.wav"
 audio_bytes: 3740214
 ---

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic flower"
 description: "Exploring the charming yet frustrating world of gadgets that blend tech and art, from AI poetry cameras to kinetic sculptures"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

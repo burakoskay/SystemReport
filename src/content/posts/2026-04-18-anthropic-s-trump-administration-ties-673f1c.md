@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "dialogue"
 description: "Anthropic engages with Trump admin"
 sources_count: 2
+author: "maya-chen"
 ---
 
 ## Introduction to Anthropic's Engagement

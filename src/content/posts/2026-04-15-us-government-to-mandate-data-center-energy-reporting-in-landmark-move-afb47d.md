@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center power grid"
 description: "The EIA will now require data centers to disclose energy usage, signaling a new era of transparency and accountability for tech's power consumption."
 sources_count: 2
+author: "maya-chen"
 ---
 
 In a significant development poised to reshape the digital infrastructure landscape, the U.S. Energy Information Administration (EIA) has announced plans for a mandatory assessment of data centers' energy consumption. This groundbreaking initiative, confirmed in a letter obtained by WIRED and further detailed by TechCrunch, marks the first time the federal government will systematically compel these digital powerhouses to reveal their energy footprints.

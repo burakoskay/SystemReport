@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "surveillance"
 description: "House revolt sinks White House bid to extend Section 702, a spy program criticized for targeting Congress members and protesters."
 sources_count: 2
+author: "lena-volkov"
 ---
 
 ## Warrantless Surveillance Falls to Republican Mutiny

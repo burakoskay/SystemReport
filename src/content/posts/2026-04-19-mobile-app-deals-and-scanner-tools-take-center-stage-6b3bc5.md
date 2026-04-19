@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 ## Android App Deals and Discounts

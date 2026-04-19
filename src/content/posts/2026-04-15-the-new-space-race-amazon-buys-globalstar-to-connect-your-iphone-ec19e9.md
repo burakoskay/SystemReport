@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The tech landscape is undergoing a profound shift, extending its reach far beyond traditional terrestrial networks. At the heart of this transformation is Amazon’s momentous $11.6 billion acquisition of Globalstar, a move that not only expands Amazon's burgeoning empire but also fundamentally redefines the future of connectivity for Apple iPhone users. This colossal investment signals a new era where seamless communication is no longer bound by cellular towers but by satellites orbiting Earth.

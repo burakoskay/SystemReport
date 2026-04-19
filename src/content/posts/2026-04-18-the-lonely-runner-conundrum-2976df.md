@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "runner"
 description: "Mathematicians struggle to guarantee at least one lonely runner for any set of speeds in the 'lonely runner' problem."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The question of how many runners will always end up running alone, no matter their speed, has vexed mathematicians for decades. The 'lonely runner' problem involves a group of runners moving at unique, constant speeds around a track. The core question is: can we guarantee at least one lonely runner for any set of speeds?

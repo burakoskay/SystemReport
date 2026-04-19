@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Exploring connections between coding, history, and current events"
 sources_count: 5
+author: "priya-raman"
 ---
 
 Miguel Conner spent three months coding by hand, documenting their journey on Substack in the article 'I'm Coding by Hand'. This labor-intensive approach led to a deeper understanding of programming fundamentals. Conner's experience highlights the value of manual coding in software development.

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "MacBook Neo production line"
 description: "Apple faces a chip supply shortage for its MacBook Neo, which is selling better than expected. The company may need to adjust its production strategy."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

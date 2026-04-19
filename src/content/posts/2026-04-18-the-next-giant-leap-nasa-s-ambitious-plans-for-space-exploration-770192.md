@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 As NASA's Artemis II mission recently demonstrated, the agency is making significant strides in space exploration. The mission, which sent four astronauts on a 10-day journey to orbit the Moon, marked a major milestone in the program's history. But while the success of Artemis II has generated excitement, NASA is already looking to the next challenge: exploring Mars.

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kuchbhigautam"
 visual_keyword: "mathematical track"
 description: "Mathematicians struggle to solve the 'lonely runner' problem, a decades-old question about runners circling a track at unique paces."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The 'lonely runner' problem: how many runners will inevitably end up running alone, with no other runner alongside them, when moving at constant, unique speeds around a track? This question vexes mathematicians.

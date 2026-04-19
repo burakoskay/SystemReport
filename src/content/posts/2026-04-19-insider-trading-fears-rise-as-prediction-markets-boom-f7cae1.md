@@ -9,6 +9,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "a graph showing the growth of prediction markets"
 description: "Traders are making millions on prediction markets, sparking concerns about insider trading by government officials and politicians."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 For years, Google has been synonymous with the web. Its sprawling ecosystem, from Search to Gmail to Docs, has largely thrived within the confines of the browser, making it the de facto platform for a generation of users. However, recent developments indicate a subtle yet significant shift in the tech giant's strategy: a renewed focus on native desktop applications.

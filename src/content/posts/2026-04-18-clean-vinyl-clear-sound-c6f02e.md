@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Vinyl Record Player"
 description: "Methods to clean vinyl records"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Cleaning Your Vinyl Records

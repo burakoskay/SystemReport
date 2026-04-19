@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "AI-generated design concept with colorful graphs and diagrams"
 description: "Anthropic introduces Claude Design, a game-changing research preview that empowers users to generate stunning designs, prototypes, and slides with the help of AI."
 sources_count: 3
+author: "maya-chen"
 ---
 
 The world of design has just witnessed a seismic shift. Anthropic, the company behind the popular AI model Claude, has unveiled Claude Design, a revolutionary research preview that's poised to democratize design. This innovative tool allows users to generate breathtaking designs, prototypes, slides, and more with unprecedented ease.

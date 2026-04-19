@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Sharks"
 description: "Sharks overheating, human evolution accelerates"
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-18-sharks-and-humans-3e6ed5.wav"
 audio_bytes: 3152694
 ---

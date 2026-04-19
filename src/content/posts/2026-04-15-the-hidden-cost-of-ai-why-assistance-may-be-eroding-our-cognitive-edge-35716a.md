@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"
 description: "A new study reveals AI assistance, while boosting immediate performance, fosters dependency and reduces human persistence, raising alarms for innovation and education."
 sources_count: 2
+author: "maya-chen"
 ---
 
 The rapid proliferation of AI tools promised a future of enhanced productivity and effortless problem-solving. Yet, a growing body of research suggests this assistance comes with a significant, and potentially alarming, cognitive cost. A recent multi-institutional study, published under the stark title "AI assistance reduces persistence and hurts independent performance," paints a grim picture of how readily our brains surrender autonomy to artificial intelligence.

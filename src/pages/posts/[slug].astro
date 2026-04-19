@@ -7,6 +7,7 @@ import RelatedPosts from '../../components/RelatedPosts.astro';
 import NewsletterSignup from '../../components/NewsletterSignup.astro';
 import AdUnit from '../../components/AdUnit.astro';
 import { getArticleCategory, CATEGORIES } from '../../lib/categories';
+import { getAuthor } from '../../lib/authors.mjs';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -104,6 +105,9 @@ if (heroImageUrl) {
 const articleCategorySlug = getArticleCategory(post.data.tags || []);
 const articleSection = CATEGORIES[articleCategorySlug]?.label || 'Tech';
 
+// Byline author — falls back to house byline if none assigned.
+const author = getAuthor(post.data.author);
+
 // Publisher logo must be PNG/WebP/JPEG — place a 600×60 PNG at public/logo.png
 const publisherLogoUrl = `${siteBase}/logo.png`;
 
@@ -146,7 +150,14 @@ const articleSchema = {
           ...(audioDurationISO ? { "duration": audioDurationISO } : {}),
         }
       } : {}),
-      "author": [{
+      "author": [author ? {
+        "@type": "Person",
+        "@id": `${siteBase}/authors/${author.slug}#person`,
+        "name": author.name,
+        "jobTitle": author.title,
+        "url": `${siteBase}/authors/${author.slug}`,
+        "image": `${siteBase}${author.avatar}`,
+      } : {
         "@type": "Person",
         "name": "System Report Staff",
         "url": `${siteBase}/about`,
@@ -220,6 +231,16 @@ const articleSchema = {
       <h1 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-50 leading-tight">
         {post.data.title}
       </h1>
+
+      {author && (
+        <a href={`/authors/${author.slug}`} class="flex items-center gap-3 mt-5 group">
+          <img src={author.avatar} alt={author.name} width="40" height="40" loading="eager" class="w-10 h-10 rounded-full object-cover bg-gray-100 dark:bg-gray-800" />
+          <div>
+            <div class="text-sm font-semibold text-gray-900 dark:text-gray-100 group-hover:underline">{author.name}</div>
+            <div class="text-xs text-gray-500 dark:text-gray-400">{author.title}</div>
+          </div>
+        </a>
+      )}
 
       <div class="flex flex-wrap items-center gap-4 mt-5 text-sm text-gray-500 dark:text-gray-400">
         <time datetime={post.data.date.toISOString()} class="flex items-center gap-1.5">

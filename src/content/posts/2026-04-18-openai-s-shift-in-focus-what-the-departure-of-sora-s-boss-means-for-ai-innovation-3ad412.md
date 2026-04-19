@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Brain Network"
 description: "OpenAI prioritizes coding & enterprise, former Sora boss leaves"
 sources_count: 2
+author: "maya-chen"
 ---
 
 The AI landscape is rapidly evolving, with companies like OpenAI constantly reassessing their priorities. Recently, OpenAI made the decision to discontinue its Sora video generation tool, a move that has been followed by the departure of Sora team leader, Bill Peebles. This shift in focus towards coding and enterprise use cases marks a significant change in OpenAI's strategy. 

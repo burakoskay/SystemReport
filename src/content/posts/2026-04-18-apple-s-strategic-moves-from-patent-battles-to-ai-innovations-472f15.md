@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Watch blood oxygen feature"
 description: "Apple navigates patent disputes, boosts stock targets, and showcases AI research, while new iPhone colors and Macs may be on the horizon."
 sources_count: 12
+author: "maya-chen"
 ---
 
 

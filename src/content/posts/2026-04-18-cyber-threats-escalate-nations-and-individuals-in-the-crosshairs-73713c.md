@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@shir-danieli-313365130"
 visual_keyword: "digital footprint"
 description: "Nations and individuals face escalating cyber threats, from million-dollar heists to social media breaches."
 sources_count: 2
+author: "priya-raman"
 ---
 
 The landscape of cybercrime is becoming increasingly complex, with both nations and individuals facing significant threats. Recently, Grinex, a US-sanctioned currency exchange, reported a $15 million heist, attributing the attack to 'unfriendly states' with access to sophisticated hacking resources. This incident highlights the role of state-sponsored actors in cybercrime, leveraging their extensive capabilities to execute high-profile breaches. 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "cybersecurity"
 description: "A spate of hacks exposes systemic flaws in software and governance."
 sources_count: 4
+author: "priya-raman"
 ---
 
 ## EU Age-Verification App Compromised

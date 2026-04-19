@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "robotics"
 description: "Schematik's 'Cursor for Hardware' and Anthropic's Claude Design aim to streamline coding and design"
 sources_count: 5
+author: "maya-chen"
 ---
 
 ## Schematik's Bold Step into Hardware Coding

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "AI-powered"
 description: "App Store sees surge in new app launches, AI tools fuel growth"
 sources_count: 10
+author: "ryan-tanaka"
 ---
 
 ## AI Fuels App Store Boom

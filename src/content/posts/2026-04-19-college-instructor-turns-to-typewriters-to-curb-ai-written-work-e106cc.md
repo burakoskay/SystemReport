@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "typewriter on a desk"
 description: "A college instructor uses typewriters to teach life lessons and prevent AI-generated essays. The move sparks debate on AI's role in education."
 sources_count: 3
+author: "maya-chen"
 ---
 
 # The Typewriter Uprising

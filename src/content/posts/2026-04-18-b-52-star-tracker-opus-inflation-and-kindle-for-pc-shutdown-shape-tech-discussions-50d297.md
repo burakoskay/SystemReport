@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
 sources_count: 6
+author: "maya-chen"
 ---
 
 ## B-52 star tracker computer

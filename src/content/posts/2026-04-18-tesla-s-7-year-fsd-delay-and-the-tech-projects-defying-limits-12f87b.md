@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "disjoint-interval-division"
 description: "From disjoint interval arithmetic to privacy-locked MacBooks, engineers push boundaries while giants lag."
 sources_count: 12
+author: "maya-chen"
 ---
 
 ## Tesla Hardware 3 owners face a 7-Year FSD wait

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
 sources_count: 2
+author: "lena-volkov"
 ---
 
 A dramatic post-midnight revolt in the House has sunk the White House's efforts to extend Section 702, a contentious spy program that has been used to surveil members of Congress, protesters, and political donors. The program, which is set to expire in April, has been at the center of a heated debate over the balance between national security and individual privacy. 

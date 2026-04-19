@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "handheld fan"
 description: "Dyson's $99.99 fan, Amazon's Vega OS, and ultra-slim MagSafe batteries"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 ## Dyson's Handheld Fan

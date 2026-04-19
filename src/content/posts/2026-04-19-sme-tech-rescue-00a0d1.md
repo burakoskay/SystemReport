@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
 sources_count: 11
+author: "ryan-tanaka"
 ---
 
 ## Introduction to SME Tech Woes

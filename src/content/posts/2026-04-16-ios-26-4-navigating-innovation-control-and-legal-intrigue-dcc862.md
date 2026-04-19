@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "futuristic iOS interface and legal document"
 description: "iOS 26.4 brings new widgets and App Store changes, but Apple's strict control is evident with no downgrades and an ongoing leak lawsuit. Explore the latest."
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

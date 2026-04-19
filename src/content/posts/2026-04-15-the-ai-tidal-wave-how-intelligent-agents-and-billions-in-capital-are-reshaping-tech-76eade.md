@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI intelligence network"
 description: "AI is rapidly democratizing complex tech like chip design and fueling agentic platforms. Billions in investment signal a pivotal shift, reshaping industries and user experiences."
 sources_count: 7
+author: "maya-chen"
 ---
 
 Artificial intelligence is no longer a futuristic concept; it's a driving force rapidly reshaping every facet of the technology landscape. From streamlining intricate hardware development to empowering sophisticated software agents and fueling massive investment rounds, AI's transformative power is not just accelerating—it's democratizing access to capabilities once reserved for a select few.

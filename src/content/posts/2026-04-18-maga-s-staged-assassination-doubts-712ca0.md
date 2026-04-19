@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Trump"
 description: "MAGA supporters increasingly believe the Trump assassination attempt was staged, fueling internal divisions."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The July 13 Butler, Pennsylvania, shooting of former President Donald Trump has sparked skepticism among his supporters. Some now question the official narrative, convinced the attempt was staged. Specific claims include allegations the event was faked to garner sympathy or distract from other issues.

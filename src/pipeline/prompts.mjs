@@ -34,8 +34,8 @@ You must output a JSON object containing:
 
 Source Texts:
 ${sourceTexts}`,
-      'v3-900w': ({ voiceBlock, sourceTexts }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
-
+      'v3-900w': ({ voiceBlock, sourceTexts, authorVoice }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
+${authorVoice ? `\nBYLINE VOICE (this specific piece is bylined by one of our reporters — match their style):\n${authorVoice}\n` : ''}
 Produce a substantive original article in Markdown based on the source texts below. No plagiarism.
 
 HARD REQUIREMENTS:

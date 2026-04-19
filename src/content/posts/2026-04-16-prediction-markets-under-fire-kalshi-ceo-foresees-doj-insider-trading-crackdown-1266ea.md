@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
 sources_count: 1
+author: "lena-volkov"
 ---
 
 The burgeoning world of prediction markets, where users trade on the outcome of future events, is bracing for a potential showdown with federal regulators. Tarek Mansour, CEO of Kalshi, a leading regulated prediction market platform, has publicly stated his expectation that the U.S. Department of Justice (DOJ) will soon begin prosecuting insider trading cases related to these novel financial instruments. This declaration signals a significant shift, pulling the often-unregulated frontiers of digital speculation firmly into the crosshairs of traditional financial enforcement, redefining the boundaries of market integrity in the digital age.

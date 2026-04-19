@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "budget smartphone lineup"
 description: "Discover the best budget smartphones on the market, offering impressive performance and features at an affordable price"
 sources_count: 3
+author: "david-okafor"
 ---
 
 The world of budget smartphones has never been more exciting, with a plethora of options available that offer impressive performance, features, and affordability. In this article, we'll delve into the top picks for budget smartphones, highlighting their strengths, weaknesses, and what makes them stand out from the crowd. 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Galaxy Z TriFold"
 description: "Samsung's Galaxy Z TriFold is sold out"
 sources_count: 1
+author: "david-okafor"
 ---
 
 ## Samsung's Galaxy Z TriFold is Sold Out

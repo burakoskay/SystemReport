@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Terminal"
 description: "iTerm2 'cat' command safety issue"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Issue with 'cat' Command

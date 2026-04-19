@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI generated political art with a digital landscape overlay"
 description: "As Donald Trump faces growing criticism from former allies, his campaign's embrace of AI-generated art signals a new era in political messaging. We explore how technology is transforming allegiances."
 sources_count: 2
+author: "maya-chen"
 ---
 
 The political landscape is in constant flux, but recent developments surrounding former President Donald Trump suggest an acceleration of change, driven by both internal dissent and emerging technologies. Reports indicate a notable erosion of support from what was once considered his unwavering base, with a growing chorus of criticism emanating from former MAGA allies.

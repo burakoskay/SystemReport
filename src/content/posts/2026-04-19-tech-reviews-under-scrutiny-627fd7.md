@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "fake review detection"
 description: "Fake reviews plague tech products on Amazon, undermining trust"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

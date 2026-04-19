@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Voyager 1 spacecraft silhouetted against starfield with dimmed instrument panel"
 description: "NASA turned off a Voyager 1 sensor to preserve power, underscoring the aging probe's dwindling RTG output and the need for novel deep‑space solutions."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 ## Power Cut on a 45‑Year‑Old Probe

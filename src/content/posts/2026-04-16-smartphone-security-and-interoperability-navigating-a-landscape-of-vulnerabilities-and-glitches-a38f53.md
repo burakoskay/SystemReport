@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
 sources_count: 4
+author: "david-okafor"
 ---
 
 

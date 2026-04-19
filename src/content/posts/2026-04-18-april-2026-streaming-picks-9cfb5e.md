@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "streaming-picks"
 description: "Discover movies to stream this month, including 28 Years Later and more."
 sources_count: 1
+author: "sam-whitfield"
 ---
 
 The best movies to stream this month are out. 28 Years Later, The Bone Temple, Crime 101, and Deathstalker are among the films deserving of your eyeballs.

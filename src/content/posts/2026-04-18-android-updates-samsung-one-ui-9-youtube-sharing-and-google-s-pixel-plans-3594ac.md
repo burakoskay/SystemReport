@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 Samsung is working on its next major update, One UI 9, expected to launch later this summer. A recent leak reveals two exciting features: 'Tap to Share' and Bixby widgets on the home screen. This update aims to enhance user experience with new functionality.

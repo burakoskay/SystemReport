@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
 sources_count: 2
+author: "sam-whitfield"
 ---
 
 Amazon continues to refine its ubiquitous Fire TV ecosystem, today unveiling the latest iteration of its entry-level streaming dongle: the Fire TV Stick HD. Priced at a budget-friendly $35, this new device isn't just an incremental update; it delivers several meaningful upgrades poised to enhance the user experience and declutter living spaces. Positioned beneath its more powerful 4K siblings, this HD model is engineered to bring modern streaming capabilities to older TVs with newfound elegance.

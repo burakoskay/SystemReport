@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
 sources_count: 3
+author: "david-okafor"
 ---
 
 

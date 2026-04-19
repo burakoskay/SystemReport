@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@optlasers"
 visual_keyword: "high-powered laser"
 description: "Scientists push boundaries in fusion energy and quantum photonics with high-powered lasers and innovative materials."
 sources_count: 10
+author: "ryan-tanaka"
 ---
 
 

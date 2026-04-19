@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "astronauts in space with earth in background"
 description: "Astronauts and nations alike are breaking free from limitations, harnessing physics and underwater discoveries to propel forward."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 As astronauts soar through the cosmos, a peculiar challenge arises: measuring their speed. Unlike cars on a highway, spaceships lack a direct way to gauge their velocity. However, by employing physics tricks, space travelers can determine their pace. This ingenuity mirrors the resourcefulness of nations seeking to overcome earthly limitations. 

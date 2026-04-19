@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "TCL RGB-Mini LED TV"
 description: "Healthchecks.io ditches cloud storage for self-hosted solution, TCL unveils RGB-Mini LED TVs, and a wireless charger recall due to burn hazards."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 In a significant move towards data sovereignty, Healthchecks.io has announced its transition to self-hosted object storage. This strategic shift marks a new era for the health monitoring service, allowing for greater control over its data and potentially enhanced security features.

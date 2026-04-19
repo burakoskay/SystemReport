@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 Google is rolling out updates to enhance travel planning and shopping. A new hotel price tracking feature allows users to monitor prices for specific hotels, helping them make informed booking decisions. Additionally, the company's AI Mode, which helps find in-stock products nearby, is now available. This feature is particularly useful for finding local items like sunscreen or beach gear.

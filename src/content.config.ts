@@ -14,6 +14,7 @@ const postSchema = z.object({
   sources_count: z.number().optional(),
   audio_path: z.string().optional(),
   audio_bytes: z.number().optional(),
+  author: z.string().optional(),
   locale: z.string().optional(),
   canonical_slug: z.string().optional(),
   corrections: z.array(z.object({ date: z.string(), note: z.string() })).optional(),

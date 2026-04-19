@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rostislav"
 visual_keyword: "Orb"
 description: "Tools for Humanity uses orbs for human verification"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Concert Kit Tackles Ticket Bots

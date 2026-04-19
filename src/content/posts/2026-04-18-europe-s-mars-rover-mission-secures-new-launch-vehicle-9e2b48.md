@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Mars Rover"
 description: "Europe's first Mars rover mission finds a new ride on SpaceX's Falcon Heavy after multiple launch delays."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## A New Launch for Mars

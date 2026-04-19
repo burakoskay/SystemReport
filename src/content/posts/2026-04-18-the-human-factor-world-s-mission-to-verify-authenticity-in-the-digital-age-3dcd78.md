@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "digital fingerprint"
 description: "World partners with Tinder and Zoom to combat AI imposters"
 sources_count: 2
+author: "priya-raman"
 ---
 
 The rise of artificial intelligence has brought about a plethora of benefits, but also a multitude of challenges. One of the most significant concerns is the increasing presence of AI-generated imposters in online interactions. To combat this issue, Sam Altman's project World is on a mission to scale its human verification empire, starting with high-profile partnerships with the likes of Tinder and Zoom. 

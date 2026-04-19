@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
 sources_count: 5
+author: "maya-chen"
 ---
 
 Google has made a significant leap into the desktop AI arena, officially launching its native Gemini application for macOS. Following its recent debut on Windows, this release marks a pivotal moment, positioning Gemini as a pervasive AI assistant capable of deeply integrating with users' daily workflows on Apple's revered platform. This expansion beyond mobile devices underscores Google's ambition to embed its advanced AI capabilities across all major computing environments.

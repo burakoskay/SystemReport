@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "smart home"
 description: "Examining 2026's smart home locks, a GPU-less laptop, a flexible camera rig, and portable speakers that deliver on promise."
 sources_count: 4
+author: "david-okafor"
 ---
 
 ## Smart Home Upgrades Boost Curb Appeal

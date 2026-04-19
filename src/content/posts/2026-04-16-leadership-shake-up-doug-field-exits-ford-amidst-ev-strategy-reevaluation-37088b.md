@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jordanr93"
 visual_keyword: "Ford EV executive transition"
 description: "Doug Field, a veteran of Apple and Tesla, is departing Ford, signaling a significant leadership shift as the automaker navigates its multi-billion dollar electric vehicle bet."
 sources_count: 2
+author: "priya-raman"
 ---
 
 Ford's ambitious plunge into electric vehicles and advanced software development is facing a pivotal moment, marked by the unexpected departure of its chief architect in these critical areas, Doug Field. The seasoned executive, known for his impactful stints at tech giants Apple and pioneering EV leader Tesla, is stepping down, leaving a significant void at the heart of Ford's future-facing initiatives.

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Uber Doorstep Return Pickup"
 description: "Uber adds doorstep return pickup with a courier fee, expanding its 'everything app' push."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.wav"
 audio_bytes: 2165822
 ---

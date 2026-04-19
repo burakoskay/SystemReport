@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "post-apocalyptic"
 description: "Ridley Scott's The Dog Stars releases first trailer, showing a world ravaged by catastrophe."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-18-the-dog-stars-trailer-unveils-post-apocalyptic-future-795548.wav"
 audio_bytes: 1347910
 ---

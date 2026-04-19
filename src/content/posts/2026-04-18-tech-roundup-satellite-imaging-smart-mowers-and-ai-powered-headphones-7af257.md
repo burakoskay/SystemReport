@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"
 description: "New satellite imaging initiative, smart mower reviews, and AI-powered headphones make headlines in tech."
 sources_count: 4
+author: "maya-chen"
 ---
 
 The Iceye Open Data initiative aims to make satellite imaging more accessible, with significant implications for environmental monitoring and disaster response. The community is engaged, with 104 points and 14 comments on the initiative.

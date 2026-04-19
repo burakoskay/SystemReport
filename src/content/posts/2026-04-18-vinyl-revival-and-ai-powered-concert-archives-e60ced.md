@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

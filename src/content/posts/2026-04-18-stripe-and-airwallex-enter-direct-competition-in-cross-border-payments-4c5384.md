@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "payments"
 description: "Stripe and Airwallex, once close acquisition targets, now compete directly in cross-border payments amid fintech valuation surge."
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-18-stripe-and-airwallex-enter-direct-competition-in-cross-border-payments-4c5384.wav"
 audio_bytes: 3913006
 ---

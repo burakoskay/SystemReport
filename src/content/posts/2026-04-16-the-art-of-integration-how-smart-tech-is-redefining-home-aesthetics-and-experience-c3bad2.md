@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "integrated smart home art and ambiance"
 description: "Tech giants are reimagining smart homes, blending cutting-edge functionality with artistic design. From AI-curated displays to ambient lighting, our living spaces are transforming into smarter, more personal canvases."
 sources_count: 5
+author: "maya-chen"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rahimegul"
 visual_keyword: "shattered mirror reflection"
 description: "Exploring the intersection of conspiracy, surveillance, and the erosion of trust in institutions"
 sources_count: 3
+author: "maya-chen"
 ---
 
 In recent weeks, the world of politics has been rocked by conspiracy theories surrounding the attempted assassination of a high-profile figure. But this phenomenon is not isolated to the realm of politics. The internet is also home to a growing community of influencers who are redefining traditional notions of relationships and intimacy. Meanwhile, a shocking investigation has uncovered the extent of surveillance at a major entertainment venue, raising questions about the balance between security and individual freedom. 

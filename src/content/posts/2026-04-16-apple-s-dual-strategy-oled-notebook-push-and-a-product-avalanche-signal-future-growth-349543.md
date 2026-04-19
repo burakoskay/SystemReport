@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@hans-herrington-99819090"
 visual_keyword: "Apple futuristic tech innovation displays"
 description: "As the smartphone market cools, Apple is doubling down on advanced OLED notebook displays and a massive new product pipeline, signaling a strategic hardware offensive."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 Even as the broader tech landscape faces economic headwinds and shifting consumer demands, Apple appears to be charting an aggressive course forward. Fresh reports highlight a two-pronged strategy from Cupertino: a significant push into advanced display technology for notebooks and an unprecedented wave of new product launches later this year.

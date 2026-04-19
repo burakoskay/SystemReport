@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "GPU-less"
 description: "Asus TUF Gaming A14 lacks punch with AMD's Ryzen 7 7840U"
 sources_count: 1
+author: "sam-whitfield"
 ---
 
 ## Introduction

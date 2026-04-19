@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@japy"
 visual_keyword: "Apple Watch Series 11"
 description: "Amazon's Big Spring Sale is ending, but you can still snag Apple Watch deals. Discounts on Series 11, SE 2, and Ultra 2 models are available."
 sources_count: 10
+author: "ryan-tanaka"
 ---
 
 ## Discounted Apple Watches Abound as Spring Sale Nears End

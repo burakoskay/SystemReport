@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial scanning orb"
 description: "Exploring the intersection of tech and verification, from Sam Altman's orbs to AI-driven prediction markets."
 sources_count: 8
+author: "maya-chen"
 ---
 
 In a world where verifying one's identity has become a pressing concern, innovative solutions are emerging. Sam Altman's World, co-founder of OpenAI, has introduced an identity-verifying orb that has made its way to Tinder. This orb, which uses facial scanning technology, requires users to physically visit one of World's locations to prove they're human. The reward? Five free boosts on the popular dating app.

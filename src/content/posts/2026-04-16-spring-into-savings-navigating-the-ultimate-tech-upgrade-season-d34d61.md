@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "modern tech gadgets discount shopping"
 description: "As spring sales bloom, unprecedented discounts on flagship phones, powerful laptops, and smart home devices offer prime opportunities to upgrade your tech."
 sources_count: 15
+author: "ryan-tanaka"
 ---
 
 As spring blossoms, so do the opportunities for significant tech upgrades and substantial savings. Major retailers and brands are rolling out aggressive promotions, creating a fiercely competitive landscape that benefits savvy consumers. From cutting-edge personal devices to essential home and productivity tools, now is a prime moment to refresh your digital ecosystem.

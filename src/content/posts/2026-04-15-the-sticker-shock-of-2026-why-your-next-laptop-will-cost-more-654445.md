@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The year 2026 is rapidly solidifying a disheartening narrative for tech enthusiasts and everyday consumers alike: the era of affordable computing is increasingly a relic of the past. Major players like Microsoft and Samsung are enacting substantial price hikes across their laptop lineups, making premium devices even more exclusive and effectively eliminating entry-level options. This pervasive "sticker shock" is defining the consumer technology landscape, forcing a re-evaluation of value and accessibility.

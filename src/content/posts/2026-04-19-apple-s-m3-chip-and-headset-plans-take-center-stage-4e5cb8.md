@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Apple M3 chip"
 description: "Apple's latest M3 chip brings significant performance gains, while rumors of a mixed-reality headset continue to build anticipation."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

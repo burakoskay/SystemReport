@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@oleg-pavlove-194181440"
 visual_keyword: "futuristic medical facility, genetic research, operating room, innovation, challenge"
 description: "Modern medicine presents a landscape of stark contrasts, from critical surgical errors and research dead ends to groundbreaking genetic therapies."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The intricate world of modern medicine is a place of dazzling progress and sobering reality. While breakthrough technologies promise cures for previously untreatable conditions, the human element, and indeed, the very journey of scientific discovery, remains fraught with peril. A recent case out of Florida starkly illustrates this paradox, where a surgeon faced charges for allegedly removing the wrong organ – not for the first time. Such incidents are a potent reminder that even as we push the boundaries of what's possible, fundamental issues of patient safety and practitioner accountability remain paramount.

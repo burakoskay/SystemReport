@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "smart lock"
 description: "Add style and function with smart devices"
 sources_count: 1
+author: "priya-raman"
 ---
 
 ## Introduction to Smart Home Accessories

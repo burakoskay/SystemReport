@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

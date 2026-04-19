@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
 sources_count: 6
+author: "maya-chen"
 ---
 
 

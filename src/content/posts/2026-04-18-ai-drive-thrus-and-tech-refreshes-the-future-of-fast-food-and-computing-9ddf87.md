@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@theshuttervision"
 visual_keyword: "ai drive-thru kiosk"
 description: "Dairy Queen introduces AI chatbots to drive-thrus, while Intel and Amazon make significant updates to their products"
 sources_count: 3
+author: "maya-chen"
 ---
 
 The fast food industry is undergoing a significant transformation with the introduction of AI-powered chatbots in drive-thrus. Dairy Queen is the latest chain to adopt this technology, aiming to speed up service and increase sales. The chatbot, built by Presto, will be launched in dozens of locations across the US and Canada. 

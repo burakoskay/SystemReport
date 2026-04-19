@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
 sources_count: 1
+author: "sam-whitfield"
 ---
 
 PlayStation Plus subscribers are in for a treat this April, with a robust lineup for Extra and Premium tiers that promises something for every gaming palate. From expansive open worlds to quirky indie adventures and intense strategy, the incoming catalog delivers a compelling mix of established hits and hidden gems, all set to arrive starting April 21.

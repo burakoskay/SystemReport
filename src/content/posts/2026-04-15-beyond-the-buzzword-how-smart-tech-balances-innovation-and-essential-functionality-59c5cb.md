@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart dual-mode grill with integrated controls"
 description: "From dual-mode grills to risky smoke detectors, explore how new smart tech either enhances daily life or introduces unforeseen compromises."
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 The relentless march of smart technology promises a future where every device, from our home office to our backyard grill, operates with intuitive efficiency. Yet, as innovation accelerates, a critical question emerges: does "smart" always equate to "better," or are we sometimes trading essential functionality for digital bells and whistles? The answer, as the latest tech reviews suggest, lies in a nuanced understanding of integration.

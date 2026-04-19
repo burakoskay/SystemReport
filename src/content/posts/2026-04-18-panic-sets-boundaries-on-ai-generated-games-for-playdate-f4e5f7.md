@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Playdate console"
 description: "Panic bans generative AI for art, audio, music, text, and dialog in Playdate games, citing artistic integrity."
 sources_count: 2
+author: "maya-chen"
 ---
 
 Panic, the company behind Playdate, has announced it will no longer accept games made with generative AI in its catalog. The decision, effective immediately, applies to AI-generated art, audio, music, text, and dialog. Developers can still use AI assistance for coding, but not for core game elements.

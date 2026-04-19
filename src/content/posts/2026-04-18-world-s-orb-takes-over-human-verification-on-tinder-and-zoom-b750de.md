@@ -9,6 +9,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "digital orb scanning a face in a video call badge"
 description: "Sam Altman's World expands its Orb-based human ID to Tinder and Zoom, sparking privacy debates and new friction for AI‑generated imposters."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The US International Trade Commission (ITC) has decided to close the case involving an import ban on certain Apple Watch models, effectively ending the patent dispute with medical technology company Masimo. The dispute centered on patents related to the Apple Watch's blood oxygen feature. Masimo had accused Apple of infringing on its patents with the Apple Watch's ability to measure blood oxygen levels.

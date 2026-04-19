@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "futuristic foldable iPhone concept"
 description: "Apple is poised to enter the foldable phone market later this year. Speculation mounts on its name, likely 'iPhone Ultra,' and premium features set to redefine the high-end smartphone experience."
 sources_count: 2
+author: "david-okafor"
 ---
 
 The whispers have grown into a roar: Apple is on the precipice of entering the foldable smartphone arena, a move long anticipated by tech enthusiasts. For years, the tech world has debated if and when the Cupertino giant would embrace the flexible display, and it now appears the answer is "this fall," with a launch widely expected later this year. But beyond the groundbreaking technology itself, two major questions loom large: what will Apple call its revolutionary device, and what new innovations will it pack?

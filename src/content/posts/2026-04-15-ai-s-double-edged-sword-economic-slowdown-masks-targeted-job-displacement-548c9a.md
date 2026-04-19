@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI robot hand replacing human worker in an office"
 description: "While macroeconomic factors are broadly slowing tech hiring, companies like Snap are explicitly linking significant layoffs to AI-driven efficiency, revealing a nuanced employment crisis."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

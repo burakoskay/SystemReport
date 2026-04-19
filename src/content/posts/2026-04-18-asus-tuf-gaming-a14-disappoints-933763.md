@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Asus TUF Gaming A14"
 description: "Asus' GPU-less gaming laptop underwhelms"
 sources_count: 1
+author: "david-okafor"
 ---
 
 ## Introduction

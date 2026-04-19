@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "calculator"
 description: "Schematik's 'cursor for hardware' aims to prevent errors in coding for physical devices."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "US auto industry under pressure from global competition"
 description: "Ford CEO Jim Farley warns China's vast auto production capacity could overwhelm the US market, posing a critical threat to American jobs and manufacturing."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The American automotive industry, a bedrock of the nation's manufacturing prowess and job creation, faces an unprecedented challenge from overseas. Ford CEO Jim Farley recently articulated a stark warning: the sheer scale of China's automotive production capacity could, if unchecked, effectively "swallow the entire US car market." This isn't just a concern about market share; it's a profound alarm bell for American jobs, economic stability, and technological leadership.

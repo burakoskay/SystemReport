@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@vincentphotography"
 visual_keyword: "Abstract digital crossroads with intersecting lines and symbols representing free speech, corporate power, user experience, and regulation."
 description: "From bot purges and corporate lawsuits to regulatory battles and teen well-being, social media platforms are a battleground where free speech, brand safety, and user experience constantly collide."
 sources_count: 5
+author: "lena-volkov"
 ---
 
 

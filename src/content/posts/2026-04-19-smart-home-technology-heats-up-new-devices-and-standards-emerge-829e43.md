@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "calculator"
 description: "An open-source calculator accurately computes expressions over disjoint interval sets."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 The creator of a new calculator, who has been studying interval arithmetic for weeks, has built a tool that accurately handles division by intervals containing zero. Computing 1 / [-1, 2] yields [-∞, -1] U [0.5, +∞], a union of two disjoint intervals.

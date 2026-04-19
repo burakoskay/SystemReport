@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ezecutiveshot-408241098"
 visual_keyword: "rivalry"
 description: "Stripe and Airwallex shift from complementary to competitive"
 sources_count: 1
+author: "maya-chen"
 ---
 
 ## Introduction to the Competition

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
 sources_count: 2
+author: "lena-volkov"
 ---
 
 Sony, a name often synonymous with premium home entertainment, is set to implement a perplexing change that will impact a significant segment of its Bravia smart TV owners. Starting in late May, various 2023, 2024, and even some forthcoming 2025 Bravia models will see a notable downgrade in their built-in TV guide and set-top box functionalities, particularly for those who steadfastly rely on over-the-air (OTA) antennas or external set-top boxes.

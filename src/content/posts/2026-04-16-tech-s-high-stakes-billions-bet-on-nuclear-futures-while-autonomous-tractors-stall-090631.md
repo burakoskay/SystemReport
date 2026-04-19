@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The relentless pulse of the tech startup ecosystem continues to beat with a fascinating duality: audacious multi-million dollar funding rounds for world-changing ideas juxtaposed against the quiet, often ignominious, collapse of ventures that once promised similar disruption. This week alone offers a stark illustration of this high-stakes environment, where ambition and capital collide with the unforgiving realities of market adoption and technological execution.

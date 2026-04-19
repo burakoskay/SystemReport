@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home security camera with AI"
 description: "The latest smart home devices and AI integrations are changing the game for homeowners and tech enthusiasts alike."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

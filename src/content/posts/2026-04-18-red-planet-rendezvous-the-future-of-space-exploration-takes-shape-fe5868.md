@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Mars rover launch"
 description: "Europe's Mars rover finds a new ride as space agencies make strides in crew launch and reentry tech."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The space industry is abuzz with excitement as several high-profile missions and technological advancements take shape. For the European Space Agency, a long-awaited Mars rover mission has finally found a reliable ride to the Red Planet, courtesy of SpaceX's Falcon Heavy. This development marks a significant milestone for the agency, which has endured a saga of broken promises and false starts. 

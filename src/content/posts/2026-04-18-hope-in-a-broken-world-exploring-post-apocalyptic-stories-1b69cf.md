@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@alecdoua"
 visual_keyword: "desolate landscape with survivors"
 description: "Discover the power of resilience in a world gone mad"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 In a world where the rules have changed and the familiar has been lost, stories of survival and hope have captivated audiences. The upcoming film, The Dog Stars, and the hit series, The Mandalorian, offer two unique perspectives on this theme. 

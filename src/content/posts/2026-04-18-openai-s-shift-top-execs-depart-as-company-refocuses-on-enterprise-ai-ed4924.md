@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"
 description: "OpenAI's pivot towards enterprise AI leads to key departures"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

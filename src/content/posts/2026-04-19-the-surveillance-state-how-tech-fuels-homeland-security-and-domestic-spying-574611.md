@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
 sources_count: 7
+author: "lena-volkov"
 ---
 
 

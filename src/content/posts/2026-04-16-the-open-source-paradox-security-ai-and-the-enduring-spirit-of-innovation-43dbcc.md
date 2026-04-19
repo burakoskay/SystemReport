@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "Digital lock, AI neural network, and open source code"
 description: "Amid security flaws like Windows Recall and AI's impact on open source, the tech world faces evolving challenges. Yet, the spirit of grassroots innovation thrives."
 sources_count: 3
+author: "maya-chen"
 ---
 
 The digital landscape is a battlefield of constant evolution, where even the most fortified systems and established philosophies face unforeseen challenges. Recent events paint a complex picture for the tech community, highlighting vulnerabilities, business model pressures, and the unwavering spirit of independent development.

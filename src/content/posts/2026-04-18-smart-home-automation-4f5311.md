@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Smart Home Accessories

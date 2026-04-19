@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"
 description: "McDonald's Japan's subtly askew burger buns in ads reveal a clever strategy: embracing imperfection to build authenticity and consumer trust."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 In an era saturated with hyper-stylized, perfectly rendered product shots, a curious observation from McDonald's Japan's online menu has sparked considerable discussion: every burger featured boasts a bun that is just ever-so-slightly askew. This isn't an accident; it's a deliberate, nuanced departure from the meticulously crafted perfection typically seen in food advertising, signaling a sophisticated shift in how brands aim to connect with consumers.

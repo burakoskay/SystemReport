@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@traveliving"
 visual_keyword: "cyber attack landscape"
 description: "Bluesky suffers DDoS attack, Netflix unveils AI-driven features"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

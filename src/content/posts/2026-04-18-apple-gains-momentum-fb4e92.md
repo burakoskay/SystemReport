@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 # Apple's Recent Wins

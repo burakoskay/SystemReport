@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

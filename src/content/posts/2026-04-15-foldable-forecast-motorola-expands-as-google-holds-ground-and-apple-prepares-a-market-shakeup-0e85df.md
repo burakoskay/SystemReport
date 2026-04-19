@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 The foldable smartphone arena, once a niche for early adopters and tech enthusiasts, is rapidly evolving into a battleground for innovation and market share. Recent developments signal a crucial phase for this burgeoning segment, as new players make their move and an industry giant looms on the horizon.

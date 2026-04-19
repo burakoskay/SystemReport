@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"
 description: "Analysts track spoofed tankers in a critical waterway, uncovering a complex web of deception"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

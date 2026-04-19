@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Hacked"
 description: "EU's age-verification app hacked in 2 minutes"
 sources_count: 1
+author: "lena-volkov"
 ---
 
 ## Security Flaw Exposed

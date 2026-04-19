@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
 sources_count: 3
+author: "maya-chen"
 ---
 
 Adobe is making a monumental strategic shift, deeply integrating artificial intelligence into the very fabric of its Creative Cloud suite with the introduction of the Firefly AI Assistant. This isn't merely another feature; it's a fundamental reimagining of how creators will interact with powerful, professional-grade software.

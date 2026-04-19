@@ -20,6 +20,7 @@ import { pingWebSub } from '../src/pipeline/websub.mjs';
 import { findMatchingPost, applyUpdate, getPostsIndex } from '../src/pipeline/update-matcher.mjs';
 import { selectPrompt } from '../src/pipeline/prompts.mjs';
 import { expandSources } from '../src/pipeline/expandSources.mjs';
+import { assignAuthor, getAuthor } from '../src/lib/authors.mjs';
 
 dotenv.config();
 
@@ -265,7 +266,7 @@ const synthesisSchema = {
 };
 
 // --- Draft (single pass) ---
-async function draftArticle(cluster, taskClass = 'draft') {
+async function draftArticle(cluster, taskClass = 'draft', author = null) {
   const sourceTexts = cluster.articles
     .map((a) => `Title: ${a.title}\nSource: ${a.source}\nContent: ${a.content}`)
     .join('\n\n---\n\n');
@@ -275,7 +276,7 @@ async function draftArticle(cluster, taskClass = 'draft') {
     : '';
 
   const sel = selectPrompt('draft');
-  const prompt = sel.render({ voiceBlock, sourceTexts });
+  const prompt = sel.render({ voiceBlock, sourceTexts, authorVoice: author?.voice || '' });
 
   const response = await withRetry(() =>
     routeCall({ task: taskClass, prompt, schema: synthesisSchema, promptMeta: { id: sel.id, variant: sel.variant } })
@@ -435,6 +436,16 @@ const THIN_CLUSTER_THRESHOLD = 3;
 
 // --- Full synthesize pipeline: (optional research expansion) → draft (optional A+B+judge) → critique → revise → stylometric gate → word-count gate ---
 async function synthesizeArticle(cluster) {
+  // Pick an author up-front based on cluster signals (source titles act as a
+  // stand-in for tags at draft time). The voice signature is then injected
+  // into the draft prompt so the generated copy picks up the reporter's
+  // rhythm, not the house default.
+  const seedWords = (cluster.articles || [])
+    .flatMap(a => String(a.title || '').toLowerCase().split(/[^a-z0-9]+/))
+    .filter(Boolean);
+  const author = assignAuthor(seedWords, 'tech', cluster.id || seedWords.join('-'));
+  console.log(`    byline: ${author.name} (${author.beat})`);
+
   // 0. Source expansion for thin clusters.
   if (cluster.articles.length < THIN_CLUSTER_THRESHOLD) {
     try {
@@ -455,8 +466,8 @@ async function synthesizeArticle(cluster) {
   if (cluster.articles.length >= MULTI_DRAFT_MIN_SOURCES) {
     console.log(`    multi-draft: ${cluster.articles.length} sources ≥ ${MULTI_DRAFT_MIN_SOURCES}`);
     const [aRes, bRes] = await Promise.allSettled([
-      draftArticle(cluster, 'draft'),
-      draftArticle(cluster, 'draft-b'),
+      draftArticle(cluster, 'draft', author),
+      draftArticle(cluster, 'draft-b', author),
     ]);
     const a = aRes.status === 'fulfilled' ? aRes.value : null;
     const b = bRes.status === 'fulfilled' ? bRes.value : null;
@@ -470,8 +481,13 @@ async function synthesizeArticle(cluster) {
       console.log(`    only one draft succeeded (${article._drafter}); skipping judge`);
     }
   } else {
-    article = await draftArticle(cluster);
+    article = await draftArticle(cluster, 'draft', author);
   }
+
+  // Attach the assigned author to the article so downstream write-out can
+  // put it in the frontmatter. Re-evaluate with the final tags once they
+  // exist — if a better beat-match emerges, switch (voice was already baked).
+  article._author = author.slug;
 
   // 2. Critique (different family than drafter — gives fresh eyes)
   const critique = await critiqueDraft(article, cluster);
@@ -514,7 +530,8 @@ async function synthesizeArticle(cluster) {
       if (fresh.length > 0) {
         cluster.articles = [...cluster.articles, ...fresh];
         console.log(`    +${fresh.length} new sources (${before} → ${cluster.articles.length}); re-drafting`);
-        article = await draftArticle(cluster);
+        article = await draftArticle(cluster, 'draft', author);
+        article._author = author.slug;
         wc = countWords(article.article_markdown);
       } else {
         console.log(`    no additional sources found; keeping short draft for final gate`);
@@ -794,7 +811,8 @@ hero_image_credit_name: "${image.creditName.replace(/"/g, '\\"')}"
 hero_image_credit_url: "${image.creditUrl}"
 visual_keyword: "${synthesis.visual_keyword.replace(/"/g, '\\"')}"
 description: "${synthesis.description.replace(/"/g, '\\"')}"
-sources_count: ${cluster.articles.length}${audioPath ? `
+sources_count: ${cluster.articles.length}${synthesis._author ? `
+author: "${synthesis._author}"` : ''}${audioPath ? `
 audio_path: "${audioPath}"
 audio_bytes: ${audioBytes}` : ''}
 ---

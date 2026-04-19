@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic newsroom"
 description: "AI is transforming newsrooms and tech, but at what cost?"
 sources_count: 5
+author: "maya-chen"
 ---
 
 The rise of AI-assisted writing in newsrooms has sparked a heated debate about the tradeoffs between efficiency and authenticity. Proponents argue that AI can streamline content creation, freeing up human writers to focus on higher-level tasks. However, critics warn that over-reliance on AI could lead to homogenized storytelling and a loss of unique perspectives. 

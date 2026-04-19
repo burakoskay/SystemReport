@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Ron Conway"
 description: "Ron Conway reveals rare cancer diagnosis, stepping back from some VC activities."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 Ron Conway, founder of SV Angel, disclosed a rare form of cancer and will step back from some activities. He will continue to support founders backed by SV Angel. Conway's firm has backed numerous successful startups. His decision comes as he begins treatment. SV Angel's operations will continue with existing leadership.

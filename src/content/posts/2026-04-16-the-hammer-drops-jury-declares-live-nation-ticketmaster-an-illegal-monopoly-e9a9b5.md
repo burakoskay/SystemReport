@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
 sources_count: 5
+author: "lena-volkov"
 ---
 
 A federal jury has delivered a seismic ruling that could redefine the landscape of live entertainment, declaring Live Nation-Ticketmaster an illegal monopoly. After days of deliberation, a Manhattan jury found the behemoth liable on three critical counts: illegally monopolizing the market for live event ticketing, controlling amphitheaters, and tying its dominant concert promotion business to the exclusive use of its venues. This verdict validates years of consumer frustration over inflated prices, hidden fees, and a perceived lack of competition within the ticketing industry.

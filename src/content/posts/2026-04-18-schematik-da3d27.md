@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "hardware"
 description: "Schematik helps code physical devices with 'vibe code'"
 sources_count: 1
+author: "maya-chen"
 ---
 
 ## Schematik's Aim

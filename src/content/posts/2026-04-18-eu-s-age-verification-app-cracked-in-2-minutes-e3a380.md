@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "lock"
 description: "Researchers expose a glaring vulnerability in the EU's new age-verification app, hackable in minutes."
 sources_count: 1
+author: "maya-chen"
 ---
 
 The EU's age-verification app can be hacked in as little as 2 minutes, researchers found, exposing a gaping security flaw. This weakness raises significant concerns about the app's ability to protect user data.

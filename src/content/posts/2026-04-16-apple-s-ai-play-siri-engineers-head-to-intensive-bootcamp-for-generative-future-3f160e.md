@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 A significant strategic maneuver is underway within Apple's Cupertino campus, as reports from The Information indicate a cohort of Siri engineers are being dispatched to a "multi-week bootcamp to learn to code using AI." This isn't just another internal training; it's a clear signal that Apple is making an aggressive, foundational investment in overhauling its voice assistant with next-generation artificial intelligence capabilities.

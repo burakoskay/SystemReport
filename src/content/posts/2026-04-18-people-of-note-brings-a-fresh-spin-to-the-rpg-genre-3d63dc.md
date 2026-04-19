@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 People of Note is a game that brings a fresh spin to the RPG genre. Developed by Annapurna Interactive and Iridium Studios, it's a game that's perfect for a vacation. With its engaging storyline and addictive gameplay, you'll find yourself getting lost in the world of Cadence.

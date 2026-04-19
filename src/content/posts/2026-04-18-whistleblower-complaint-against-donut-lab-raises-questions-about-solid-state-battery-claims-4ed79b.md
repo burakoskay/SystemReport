@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@moh-adbelghaffar"
 visual_keyword: "battery"
 description: "A criminal whistleblower complaint filed against Donut Lab alleges the company's solid-state battery claims are exaggerated, raising concerns about production capacity and technology readiness."
 sources_count: 2
+author: "maya-chen"
 ---
 
 Donut Lab, a startup that generated attention earlier this year with its solid-state battery claims, is now facing a criminal whistleblower complaint. The complaint, filed by Lauri Peltola, former Chief Commercial Officer of Nordic Nano, a partner company involved in Donut Lab's manufacturing process, alleges that Donut Lab's promises of energy density and longevity are questionable.

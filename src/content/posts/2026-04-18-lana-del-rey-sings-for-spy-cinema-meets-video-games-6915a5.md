@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tizzy"
 visual_keyword: "Exit 8"
 description: "Lana Del Rey's new song for James Bond game and Exit 8 film adaptation explore video game and cinema intersections."
 sources_count: 2
+author: "sam-whitfield"
 ---
 
 The James Bond franchise has a long history of partnering with popular artists for its theme songs. IO Interactive has announced that Lana Del Rey co-wrote and performed the theme for 007 First Light, a playable James Bond origin story. This marks Del Rey's second foray into video game music, 15 years after her hit single 'Video Games.' The James Bond franchise has a tradition of memorable theme songs, such as 'Live and Let Die.'

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@nicky"
 visual_keyword: "Easter egg"
 description: "Google releases Android 17 Beta 4 with a new Easter egg and connect-the-dots puzzle."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 Google has just dropped Android 17 Beta 4, the final beta update before the full release. The Easter egg, which hadn't been updated in three generations, is now live and features a connect-the-dots puzzle. Solving the puzzle kicks off a new animation, adding a touch of whimsy to the Android experience.

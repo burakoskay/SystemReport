@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ijoxi-studios-274852259"
 visual_keyword: "glowing blue orb"
 description: "Meet the tech proving you're human, from Tinder to Zoom meetings"
 sources_count: 3
+author: "maya-chen"
 ---
 
 In a bid to combat the rising tide of AI-generated imposters, Sam Altman's project World is revolutionizing the way we verify human identity online. 

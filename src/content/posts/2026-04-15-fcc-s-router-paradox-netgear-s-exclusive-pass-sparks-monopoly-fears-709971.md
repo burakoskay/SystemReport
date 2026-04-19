@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"
 description: "The FCC's sweeping ban on foreign-made routers has a curious exception: Netgear. This conditional approval sparks questions about market fairness and national security."
 sources_count: 2
+author: "lena-volkov"
 ---
 
 The Federal Communications Commission (FCC) has stirred the tech industry pot with a new policy aiming to bolster national security, but its recent actions have left many questioning the fairness and transparency of its implementation. While the commission dramatically expanded its "Covered List" in March 2026 to include virtually all foreign-made routers, effectively preventing the introduction of new models and certain software updates from non-compliant manufacturers, one prominent player has seemingly sidestepped the sweeping ban: Netgear.

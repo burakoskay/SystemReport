@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@atahandemir"
 visual_keyword: "PC"
 description: "Panic buying drives PC sales growth"
 sources_count: 1
+author: "maya-chen"
 ---
 
 ## PC Sales Increase in Q1 2026

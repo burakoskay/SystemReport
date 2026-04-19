@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
 sources_count: 6
+author: "maya-chen"
 ---
 
 

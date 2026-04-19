@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "AI circuit board"
 description: "AI advancements impact national security and consumer prices"
 sources_count: 2
+author: "maya-chen"
 ---
 
 The world of artificial intelligence (AI) is at a crossroads, with recent developments highlighting its double-edged nature. On one hand, AI company Anthropic's new cybersecurity model, Claude Mythos Preview, may be thawing its frosty relationship with the US government. The Trump administration had previously criticized Anthropic for its stance on not using its technology for domestic mass surveillance or lethal autonomous weapons. 

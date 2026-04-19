@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Record Needle"
 description: "Improve sound quality by removing dust and dirt"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Vinyl Record Cleaning

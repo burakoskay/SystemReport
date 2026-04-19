@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "cybercrime"
 description: "US-sanctioned currency exchange Grinex claims $15 million heist was done by 'unfriendly states' with exclusive hacking resources."
 sources_count: 2
+author: "priya-raman"
 ---
 
 Grinex, a US-sanctioned currency exchange, reported a $15 million heist allegedly carried out by 'unfriendly states' with exclusive access to sophisticated hacking resources. The exchange claims that the breach was not an inside job or a random hack, but a targeted attack.

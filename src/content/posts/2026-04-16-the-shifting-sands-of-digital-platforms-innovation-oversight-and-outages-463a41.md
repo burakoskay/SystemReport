@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 The digital world is a realm of exhilarating innovation and frustrating instability, often within the same news cycle. One moment, users are lamenting the "technical difficulties" that cut short an NBA overtime game on Prime Video, echoing LeBron James' bewildered "Am I trippin??" sentiment. Such high-profile outages serve as stark reminders of the fragility inherent in even the most robust streaming infrastructures, especially under high demand. The next, a platform like Spotify is redefining content consumption with groundbreaking integrations.

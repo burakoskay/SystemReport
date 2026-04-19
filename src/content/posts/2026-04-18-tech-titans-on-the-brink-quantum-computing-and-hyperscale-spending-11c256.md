@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"
 description: "Big Tech's pursuit of post-quantum crypto and hyperscale infrastructure"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 The tech landscape is undergoing a seismic shift, driven by two major forces: the quest for post-quantum cryptography and the relentless push for hyperscale infrastructure. Recent advances in quantum computing have brought Big Tech closer to the 'Q-Day' danger zone, where current encryption methods are rendered obsolete. 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "Google AI Mode"
 description: "Google's AI Mode update allows users to track hotel prices for specific hotels, extending existing city-level tracking."
 sources_count: 1
+author: "maya-chen"
 ---
 
 Google's AI Mode has introduced an update that enables users to track hotel prices for specific hotels they're interested in, building upon the existing capability to monitor prices at the city level.

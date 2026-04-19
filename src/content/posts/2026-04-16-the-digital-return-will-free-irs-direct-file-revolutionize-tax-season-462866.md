@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 The corridors of power in Washington D.C. are abuzz today with a vote that could profoundly impact millions of American taxpayers. The Senate is poised to consider legislation to revive IRS Direct File, the ambitious free tax filing service that offered a direct, no-cost alternative to navigating the complexities of tax season. This move, spearheaded by Senator Elizabeth Warren, aims to fast-track the "Direct File Act" and potentially restore a program many hailed as a significant step towards modernizing how citizens interact with their government's financial machinery.

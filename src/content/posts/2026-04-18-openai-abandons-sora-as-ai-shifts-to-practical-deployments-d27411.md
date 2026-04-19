@@ -8,6 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "ai chatbot at fast food drive-thru"
 description: "OpenAI's Sora team disbands as AI moves toward drive-thru chatbots and face-scanning verification orbs."
 sources_count: 11
+author: "maya-chen"
 ---
 
 ## OpenAI's Strategic Pivot and Sora's Demise
