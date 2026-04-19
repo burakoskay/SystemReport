@@ -1,14 +1,16 @@
 ---
 title: "World's Orb Takes Over Human Verification on Tinder and Zoom"
 date: 2026-04-18T12:43:46.183Z
+modified_date: 2026-04-19T01:57:09.544Z
 tags: ["sam altman","human verification","tinder","zoom","ai safety"]
 hero_image: "/hero/2026-04-18-world-s-orb-takes-over-human-verification-on-tinder-and-zoom-b750de.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "digital orb scanning a face in a video call badge"
 description: "Sam Altman's World expands its Orb-based human ID to Tinder and Zoom, sparking privacy debates and new friction for AI‑generated imposters."
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Orb verification lands on Tinder
 
@@ -45,3 +47,7 @@ Rival verification startups are likely to double down on software liveness solut
 Regardless of the path, World’s aggressive partnership model forces the industry to confront the reality of AI‑generated impersonation. The conversation is shifting from "if" to "how" verification will be enforced at scale. The stakes are clear: unchecked synthetic avatars could erode trust in digital interactions, while over‑engineered barriers risk alienating the very users they aim to protect.
 
 The coming months will reveal whether the Orb becomes a ubiquitous gatekeeper or a niche tool for the security‑conscious. For now, the badge on a Tinder profile and the checkmark on a Zoom tile are the most visible signs that the battle for human authenticity has moved from theory to everyday UI.
+
+## Updates
+
+- **2026-04-19** — The RAM shortage could last years ([source](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years))
