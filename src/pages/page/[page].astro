@@ -35,7 +35,7 @@ const { page, posts, totalPages } = Astro.props;
     <div class="section-label">All Articles — Page {page}</div>
   </section>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-5">
     {posts.map((post: any, i: number) => (
       <>
         <div class:list={[`stagger-${i + 1}`, 'h-full']}>
