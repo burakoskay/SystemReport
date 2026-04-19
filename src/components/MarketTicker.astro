@@ -80,9 +80,9 @@ const CURRENCIES = [
     </div>
 
     <div class="market-ticker-viewport flex-1 overflow-hidden relative select-none">
-      <div class="market-ticker-track flex items-center gap-8 py-1.5 whitespace-nowrap will-change-transform cursor-grab active:cursor-grabbing" data-ticker-track>
+      <div class="market-ticker-track flex items-center gap-8 pl-8 py-1.5 whitespace-nowrap will-change-transform cursor-grab active:cursor-grabbing" data-ticker-track>
         {[0, 1].map(() => (
-          <div class="flex items-center gap-8 pl-8 shrink-0" data-ticker-group>
+          <div class="flex items-center gap-8 shrink-0" data-ticker-group>
             {SEED.map((item) => (
               <span class="flex items-center gap-2 text-xs tabular-nums" data-ticker-item data-sym={item.sym} data-denom={item.denom}>
                 <span class="font-semibold text-gray-900 dark:text-gray-100">{item.label}</span>
