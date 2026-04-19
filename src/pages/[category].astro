@@ -114,9 +114,9 @@ function formatDate(date: Date) {
   {gridPosts.length > 0 && (
     <section class="mt-12">
       <div class="section-label mb-8">More {catInfo.label}</div>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
         {gridPosts.map((post, i) => (
-          <div class:list={[`stagger-${Math.min(i + 1, 12)}`]}>
+          <div class:list={[`stagger-${Math.min(i + 1, 12)}`, 'h-full']}>
             <ArticleCard
               title={post.data.title}
               slug={post.id}

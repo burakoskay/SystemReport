@@ -154,10 +154,10 @@ const homepageSchema = {
     <section class="mt-12">
       <div class="section-label mb-8">Latest</div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-6 gap-y-10">
         {gridPosts.map((post, i) => (
           <>
-            <div class:list={[`stagger-${i + 1}`]}>
+            <div class:list={[`stagger-${i + 1}`, 'h-full']}>
               <ArticleCard
                 title={post.data.title}
                 slug={post.id}
@@ -169,7 +169,7 @@ const homepageSchema = {
               />
             </div>
             {(i + 1) % 3 === 0 && i < gridPosts.length - 1 && (
-              <div class="col-span-full">
+              <div class="col-span-full my-2">
                 <AdUnit format="horizontal" />
               </div>
             )}
