@@ -1,14 +1,16 @@
 ---
 title: "Insider Trading Fears Rise as Prediction Markets Boom"
 date: 2026-04-19T01:58:31.432Z
+modified_date: 2026-04-19T08:44:16.275Z
 tags: ["prediction markets","insider trading","government ethics"]
 hero_image: "/hero/2026-04-19-insider-trading-fears-rise-as-prediction-markets-boom-f7cae1.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "a graph showing the growth of prediction markets"
 description: "Traders are making millions on prediction markets, sparking concerns about insider trading by government officials and politicians."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 ## A Lucrative Bet on War
@@ -32,3 +34,7 @@ The lack of transparency and oversight has sparked concerns about the potential 
 ## What to Watch
 
 As prediction markets continue to boom, it's clear that there is a need for clear regulations and oversight to prevent insider trading and ensure that government officials are not profiting from their positions. The CFTC and the Office of Government Ethics will need to provide guidance on insider trading in prediction markets, and lawmakers will need to consider legislation to ban members of Congress and other government officials from buying or selling prediction market bets. Ultimately, the goal is to ensure that prediction markets are used for their intended purpose — to provide a platform for people to make informed bets on future events — rather than as a way for insiders to profit from their positions.
+
+## Updates
+
+- **2026-04-19** — Postponed Apple TV series ‘The Savant’ will finally be released this summer ([source](https://9to5mac.com/2026/04/18/postponed-apple-tv-series-the-savant-will-finally-be-released-this-summer/))

@@ -1,14 +1,16 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
+modified_date: 2026-04-19T08:44:16.125Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 2
+sources_count: 3
 ---
+
 
 Vivo, a name increasingly synonymous with pushing smartphone camera boundaries, is making its most ambitious global statement yet with the launch of the X300 Ultra. After years of its innovative camera-centric phones having limited availability in Western markets, this new flagship is poised to challenge the established order, particularly for aspiring and professional videographers. While a US launch remains unconfirmed, the X300 Ultra is making waves across Asia, parts of Europe, and Brazil, signaling a significant shift in Vivo's market strategy.
 
@@ -19,3 +21,7 @@ Where the X300 Ultra truly shines is in its dedication to cinematic video. All t
 Understanding the needs of serious video creators, Vivo has partnered with SmallRig for a dedicated video-rig kit. This comprehensive accessory includes an expandable camera cage with quick-release ports, dual handgrips, physical shutter and zoom controls, and even an active cooling fan – all designed to facilitate extended, high-resolution shooting sessions.
 
 Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. It's powered by a Snapdragon 8 Elite Gen5 processor, features a vibrant 6.82-inch display with an industry-leading 144Hz refresh rate, and boasts a substantial 6,600mAh battery with rapid 100W FlashCharge and 40W wireless charging. While the pricing and a potential US debut remain under wraps, Vivo's X300 Ultra is a bold declaration, firmly planting its flag in the premium smartphone segment with an unwavering focus on videography innovation.
+
+## Updates
+
+- **2026-04-19** — Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data ([source](https://github.com/drasimwagan/mdv))
