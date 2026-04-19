@@ -16,6 +16,7 @@ import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
 import { enqueueFailure } from '../src/pipeline/dlq.mjs';
 import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
+import { pingWebSub } from '../src/pipeline/websub.mjs';
 import { findMatchingPost, applyUpdate, getPostsIndex } from '../src/pipeline/update-matcher.mjs';
 import { selectPrompt } from '../src/pipeline/prompts.mjs';
 import { expandSources } from '../src/pipeline/expandSources.mjs';
@@ -868,6 +869,11 @@ audio_bytes: ${audioBytes}` : ''}
     const urls = allChangedSlugs.map(s => `https://www.systemreport.net/posts/${s}`);
     const r = await pingIndexNow(urls);
     console.log(`IndexNow: ${r.ok ? `pinged ${r.count || urls.length} URL(s)` : `failed ${r.error || r.status}`}`);
+
+    // WebSub hub: notifies subscribed aggregators that rss.xml/podcast.xml changed.
+    const ws = await pingWebSub();
+    const wsOk = ws.filter(x => x.ok).length;
+    console.log(`WebSub: ${wsOk}/${ws.length} feeds pushed`);
   }
 
   // Only alert on notable outcomes: all-failed, partial failure, or success with volume.

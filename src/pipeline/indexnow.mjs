@@ -5,7 +5,9 @@
 
 import crypto from 'crypto';
 
-const HOST = 'systemreport.net';
+// IndexNow spec: `host` and `urlList` entries must share the same host.
+// Our canonical surface is www, so all of these must agree.
+const HOST = 'www.systemreport.net';
 const ENDPOINT = 'https://api.indexnow.org/indexnow';
 
 export function getIndexNowKey() {

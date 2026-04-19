@@ -148,7 +148,8 @@ export async function GET(context) {
         customData,
       };
     }),
-    // atom:link self-reference + language declaration
-    customData: `<language>en-us</language>\n<atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml" />`,
+    // atom:link self-reference + language + WebSub hub (PubSubHubbub) so
+    // subscribed aggregators get pushed on publish instead of polling.
+    customData: `<language>en-us</language>\n<atom:link href="${siteUrl}/rss.xml" rel="self" type="application/rss+xml" />\n<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />`,
   });
 }

@@ -97,6 +97,18 @@ const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.si
     <!-- RSS Discovery -->
     <link rel="alternate" type="application/rss+xml" title="System Report" href="/rss.xml" />
     <link rel="alternate" type="application/rss+xml" title="System Report — Narrated (Podcast)" href="/podcast.xml" />
+    <link rel="alternate" type="application/feed+json" title="System Report (JSON Feed)" href="/feed.json" />
+
+    <!-- Webmaster verification (env-gated; set at build time) -->
+    {import.meta.env.BING_SITE_VERIFICATION && (
+      <meta name="msvalidate.01" content={import.meta.env.BING_SITE_VERIFICATION} />
+    )}
+    {import.meta.env.GOOGLE_SITE_VERIFICATION && (
+      <meta name="google-site-verification" content={import.meta.env.GOOGLE_SITE_VERIFICATION} />
+    )}
+    {import.meta.env.YANDEX_VERIFICATION && (
+      <meta name="yandex-verification" content={import.meta.env.YANDEX_VERIFICATION} />
+    )}
 
     <!-- Favicon -->
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -133,8 +145,8 @@ const absoluteImage = image.startsWith('http') ? image : new URL(image, Astro.si
         <div class="flex justify-between items-center h-14">
           <!-- Logo -->
           <a href="/" class="flex items-center hover:opacity-80 transition-opacity" id="site-logo" aria-label="System Report">
-            <img src="/logo-light.png" alt="System Report" class="h-5 sm:h-6 w-auto block dark:hidden" width="1200" height="124" />
-            <img src="/logo-dark.png"  alt="System Report" class="h-5 sm:h-6 w-auto hidden dark:block" width="1200" height="124" />
+            <img src="/logo-light.png" alt="System Report" class="h-5 sm:h-6 w-auto block dark:hidden" width="1200" height="124" fetchpriority="high" decoding="async" />
+            <img src="/logo-dark.png"  alt="System Report" class="h-5 sm:h-6 w-auto hidden dark:block" width="1200" height="124" fetchpriority="high" decoding="async" />
           </a>
 
           <!-- Desktop Nav -->
