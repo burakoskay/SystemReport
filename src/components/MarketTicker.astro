@@ -1,0 +1,131 @@
+---
+// Side-scrolling live market ticker. Crypto via CoinGecko (no key, CORS-open),
+// indices/FX via Stooq CSV (CORS-open). Server-rendered placeholders so the
+// bar is never empty; client refreshes every 60s.
+const SEED = [
+  { sym: 'BTC',   label: 'BTC',     v: '—', c: 0, kind: 'crypto', id: 'bitcoin' },
+  { sym: 'ETH',   label: 'ETH',     v: '—', c: 0, kind: 'crypto', id: 'ethereum' },
+  { sym: 'SOL',   label: 'SOL',     v: '—', c: 0, kind: 'crypto', id: 'solana' },
+  { sym: 'XRP',   label: 'XRP',     v: '—', c: 0, kind: 'crypto', id: 'ripple' },
+  { sym: 'DOGE',  label: 'DOGE',    v: '—', c: 0, kind: 'crypto', id: 'dogecoin' },
+  { sym: '^SPX',  label: 'S&P 500', v: '—', c: 0, kind: 'stooq' },
+  { sym: '^NDX',  label: 'NASDAQ',  v: '—', c: 0, kind: 'stooq' },
+  { sym: '^DJI',  label: 'DOW',     v: '—', c: 0, kind: 'stooq' },
+  { sym: 'EURUSD',label: 'EUR/USD', v: '—', c: 0, kind: 'stooq' },
+  { sym: 'USDJPY',label: 'USD/JPY', v: '—', c: 0, kind: 'stooq' },
+  { sym: 'XAUUSD',label: 'GOLD',    v: '—', c: 0, kind: 'stooq' },
+];
+---
+
+<div class="market-ticker border-b border-gray-200 dark:border-gray-800 bg-white dark:bg-black overflow-hidden">
+  <div class="relative flex items-stretch">
+    <div class="shrink-0 flex items-center px-3 py-1.5 bg-gray-900 dark:bg-white text-white dark:text-black text-[10px] font-bold uppercase tracking-[0.15em] z-10">
+      <span class="relative flex w-1.5 h-1.5 mr-2">
+        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+        <span class="relative inline-flex rounded-full h-1.5 w-1.5 bg-red-500"></span>
+      </span>
+      Markets
+    </div>
+    <div class="market-ticker-viewport flex-1 overflow-hidden relative">
+      <div class="market-ticker-track flex items-center gap-8 py-1.5 whitespace-nowrap will-change-transform" data-ticker-track>
+        {/* Two copies for seamless loop */}
+        {[0, 1].map(() => (
+          <div class="flex items-center gap-8 pl-8 shrink-0" data-ticker-group>
+            {SEED.map((item) => (
+              <span class="flex items-center gap-2 text-xs tabular-nums" data-ticker-item data-sym={item.sym} data-kind={item.kind} data-id={item.id}>
+                <span class="font-semibold text-gray-900 dark:text-gray-100">{item.label}</span>
+                <span class="text-gray-700 dark:text-gray-300" data-v>{item.v}</span>
+                <span class="text-gray-500 dark:text-gray-500" data-c>—</span>
+              </span>
+            ))}
+          </div>
+        ))}
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  .market-ticker-track {
+    animation: sr-marquee 90s linear infinite;
+  }
+  .market-ticker-viewport:hover .market-ticker-track {
+    animation-play-state: paused;
+  }
+  @keyframes sr-marquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .market-ticker-track { animation: none; }
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    const fmt = (n, digits = 2) => {
+      if (!isFinite(n)) return '—';
+      if (Math.abs(n) >= 1000) return n.toLocaleString('en-US', { maximumFractionDigits: 0 });
+      if (Math.abs(n) >= 1)    return n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      return n.toLocaleString('en-US', { minimumFractionDigits: digits, maximumFractionDigits: 4 });
+    };
+    const pct = (n) => {
+      if (!isFinite(n)) return '—';
+      const s = n.toFixed(2);
+      return (n >= 0 ? '+' : '') + s + '%';
+    };
+
+    const setCell = (sym, v, c) => {
+      document.querySelectorAll('[data-ticker-item][data-sym="' + CSS.escape(sym) + '"]').forEach((el) => {
+        const vE = el.querySelector('[data-v]');
+        const cE = el.querySelector('[data-c]');
+        if (vE && isFinite(v)) vE.textContent = fmt(v);
+        if (cE && isFinite(c)) {
+          cE.textContent = pct(c);
+          cE.classList.remove('text-gray-500', 'dark:text-gray-500');
+          if (c >= 0) cE.classList.add('text-green-600', 'dark:text-green-400');
+          else cE.classList.add('text-red-600', 'dark:text-red-400');
+        }
+      });
+    };
+
+    async function refreshCrypto() {
+      const items = Array.from(document.querySelectorAll('[data-ticker-item][data-kind="crypto"]'));
+      const ids = [...new Set(items.map(i => i.dataset.id).filter(Boolean))];
+      if (!ids.length) return;
+      try {
+        const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=' + ids.join(',') + '&vs_currencies=usd&include_24hr_change=true');
+        if (!r.ok) return;
+        const data = await r.json();
+        items.forEach((el) => {
+          const d = data[el.dataset.id];
+          if (!d) return;
+          setCell(el.dataset.sym, d.usd, d.usd_24h_change);
+        });
+      } catch (_) {}
+    }
+
+    async function refreshStooq() {
+      const items = Array.from(document.querySelectorAll('[data-ticker-item][data-kind="stooq"]'));
+      const syms = [...new Set(items.map(i => i.dataset.sym))];
+      if (!syms.length) return;
+      try {
+        const r = await fetch('https://stooq.com/q/l/?s=' + syms.join(',').toLowerCase() + '&f=sc2&h&e=csv');
+        if (!r.ok) return;
+        const text = await r.text();
+        const lines = text.trim().split('\n').slice(1);
+        lines.forEach((line) => {
+          const [sym, close, change] = line.split(',');
+          const c = parseFloat(change);
+          const v = parseFloat(close);
+          const upper = (sym || '').toUpperCase();
+          setCell(upper, v, c);
+        });
+      } catch (_) {}
+    }
+
+    function refresh() { refreshCrypto(); refreshStooq(); }
+    refresh();
+    setInterval(refresh, 60000);
+  })();
+</script>
