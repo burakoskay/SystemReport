@@ -20,7 +20,7 @@ const {
 } = Astro.props;
 ---
 
-<div class:list={['ad-unit my-6', className]} data-pagefind-ignore="all">
+<div class:list={['ad-unit my-6', className]} data-ad-wrapper data-pagefind-ignore="all">
   <ins
     class="adsbygoogle"
     style="display:block"
@@ -33,3 +33,36 @@ const {
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
 </div>
+
+<style>
+  .ad-unit.ad-collapsed { display: none; }
+</style>
+
+<script is:inline>
+  // Collapse the wrapper when AdSense reports no fill, or when the <ins>
+  // never gains height (placeholder publisher ID / blocker / script not
+  // loaded). Without this, every unfilled slot leaves a dead `my-6` band.
+  (function () {
+    document.querySelectorAll('[data-ad-wrapper]').forEach((wrap) => {
+      if (wrap.__sr_adWatched) return;
+      wrap.__sr_adWatched = true;
+      const ins = wrap.querySelector('ins.adsbygoogle');
+      if (!ins) { wrap.classList.add('ad-collapsed'); return; }
+
+      const collapse = () => wrap.classList.add('ad-collapsed');
+
+      // AdSense writes data-ad-status once it resolves the slot.
+      const check = () => {
+        const status = ins.getAttribute('data-ad-status');
+        if (status === 'unfilled') collapse();
+      };
+      check();
+      new MutationObserver(check).observe(ins, { attributes: true, attributeFilter: ['data-ad-status'] });
+
+      // Fallback: if after 2.5s the ins still has no height, treat as empty.
+      setTimeout(() => {
+        if (!wrap.classList.contains('ad-collapsed') && ins.offsetHeight < 2) collapse();
+      }, 2500);
+    });
+  })();
+</script>
