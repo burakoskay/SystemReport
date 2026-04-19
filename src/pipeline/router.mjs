@@ -183,7 +183,10 @@ const providers = {
           model: m,
           messages: [{ role: 'user', content: prompt }],
           ...(json ? { response_format: { type: 'json_object' } } : {}),
-          temperature: 0.7,
+          // GPT-5 and some reasoning models reject non-default temperature.
+          // We omit it entirely for GitHub Models — house voice + byline voice
+          // already discipline the output; temperature knob isn't worth the
+          // portability cost across a shifting model catalog.
         }),
       });
       if (!res.ok) {
