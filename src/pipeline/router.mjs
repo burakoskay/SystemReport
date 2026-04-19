@@ -44,6 +44,21 @@ const RANKINGS = {
   headline: [['groq', 'llama-3.1-8b-instant'], ['cloudflare', '@cf/meta/llama-3.1-8b-instruct'], ['groq', 'qwen/qwen3-32b'], ['gemini', 'gemini-2.5-flash-lite']],
   // SEO metadata polish — rules-heavy, medium model.
   'seo-polish': [['groq', 'openai/gpt-oss-20b'], ['cloudflare', '@cf/meta/llama-3.1-8b-instruct'], ['gemini', 'gemini-2.5-flash'], ['groq', 'llama-3.1-8b-instant']],
+  // Editorial long-form — Elena Marchetti's 1500-2000w world→tech pieces.
+  // GPT-5 ONLY, by editorial mandate: no silent downgrade to a weaker model.
+  // If GPT-5 is unavailable the run fails and Elena skips the day rather than
+  // shipping a lesser draft under her byline. Retry/backoff is handled at the
+  // pipeline level (scripts/elena-daily.mjs), not via model fallback.
+  editorial: [
+    ['github-models', 'openai/gpt-5'],
+  ],
+  // Editorial picker — ranks candidate stories and picks one. Small+fast.
+  'editorial-pick': [
+    ['github-models', 'openai/gpt-4.1-mini'],
+    ['groq', 'qwen/qwen3-32b'],
+    ['groq', 'openai/gpt-oss-20b'],
+    ['gemini', 'gemini-2.5-flash'],
+  ],
 };
 
 // Cooldown durations keyed by error class
@@ -145,6 +160,40 @@ const providers = {
       const text = j.choices?.[0]?.message?.content;
       if (!text) throw new Error('Cloudflare: empty response');
       return { text, model: m };
+    },
+  },
+
+  // GitHub Models — free-tier access to frontier models (GPT-5, o1, Llama 405B)
+  // via an OpenAI-compatible endpoint. Requires GITHUB_MODELS_TOKEN (a PAT
+  // with `models:read` scope). Rate limits are per-minute/day per model;
+  // router handles 429s via normal cooldown logic.
+  'github-models': {
+    available: () => Boolean(process.env.GITHUB_MODELS_TOKEN || process.env.GITHUB_TOKEN),
+    call: async ({ prompt, json, model }) => {
+      const token = process.env.GITHUB_MODELS_TOKEN || process.env.GITHUB_TOKEN;
+      const m = model || 'openai/gpt-4.1';
+      const res = await fetch('https://models.github.ai/inference/chat/completions', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${token}`,
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          model: m,
+          messages: [{ role: 'user', content: prompt }],
+          ...(json ? { response_format: { type: 'json_object' } } : {}),
+          temperature: 0.7,
+        }),
+      });
+      if (!res.ok) {
+        const body = await res.text().catch(() => '');
+        throw new Error(`GitHub Models ${res.status}: ${body.slice(0, 300)}`);
+      }
+      const j = await res.json();
+      const text = j.choices?.[0]?.message?.content;
+      if (!text) throw new Error('GitHub Models: empty response');
+      return { text, model: j.model || m };
     },
   },
 
