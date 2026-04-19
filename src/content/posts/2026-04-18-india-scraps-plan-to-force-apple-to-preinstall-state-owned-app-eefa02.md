@@ -1,14 +1,16 @@
 ---
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
+modified_date: 2026-04-19T12:42:23.644Z
 tags: ["apple","india","privacy"]
 hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
-sources_count: 1
+sources_count: 2
 ---
+
 
 In a surprising move, the Indian government has abandoned its efforts to force Apple and other smartphone manufacturers to preinstall a state-owned 'security' app on their devices. According to a report from Reuters, the plan, which had been met with resistance from tech giants, has been scrapped.
 
@@ -19,3 +21,7 @@ While details about the state-owned app remain scarce, it is believed to have be
 The decision to drop the plan is seen as a victory for tech companies and advocates of digital rights. It also highlights the ongoing tension between governments and technology firms over issues of data security, user privacy, and the role of the state in regulating the digital landscape.
 
 As smartphone penetration continues to grow in India, the country's government will likely face increasing pressure to balance its desire for national security with the need to protect user rights and freedoms.
+
+## Updates
+
+- **2026-04-19** — The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot ([source](https://www.wired.com/gallery/best-pet-cameras/))
