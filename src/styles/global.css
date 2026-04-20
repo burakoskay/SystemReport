@@ -198,6 +198,209 @@ html.theme-transition *::after {
   color: #f1f5f9;
 }
 
+/* --- Editorial layout (Elena's daily column) --- */
+
+/* EDITORIAL eyebrow above headline */
+.editorial-eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--font-sans);
+}
+.editorial-eyebrow-label {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #b91c1c;
+  padding: 0.3rem 0.6rem;
+  border: 1.5px solid #b91c1c;
+  border-radius: 2px;
+}
+.dark .editorial-eyebrow-label {
+  color: #fca5a5;
+  border-color: #fca5a5;
+}
+.editorial-eyebrow-rule {
+  flex: 1;
+  height: 1px;
+  background: #e5e7eb;
+}
+.dark .editorial-eyebrow-rule {
+  background: #374151;
+}
+.editorial-eyebrow-meta {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #6b7280;
+}
+.dark .editorial-eyebrow-meta {
+  color: #9ca3af;
+}
+
+/* Dek styling handled inline on element */
+
+/* Drop cap on first paragraph of the editorial body */
+.editorial-body > p:first-of-type::first-letter {
+  float: left;
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 4.75rem;
+  line-height: 0.88;
+  padding: 0.32rem 0.65rem 0 0;
+  margin: 0.08rem 0 0 0;
+  color: #111827;
+}
+.dark .editorial-body > p:first-of-type::first-letter {
+  color: #f9fafb;
+}
+
+/* Numbered H2 section markers */
+.editorial-body {
+  counter-reset: editorial-section;
+}
+.editorial-body h2 {
+  counter-increment: editorial-section;
+  position: relative;
+  padding-top: 2.25rem;
+  margin-top: 3.5rem;
+  margin-bottom: 1.25rem;
+  border-top: 1px solid #e5e7eb;
+  font-size: 1.875rem;
+  line-height: 1.2;
+}
+.dark .editorial-body h2 {
+  border-top-color: #1f2937;
+}
+.editorial-body h2::before {
+  content: counter(editorial-section, decimal-leading-zero);
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  color: #b91c1c;
+}
+.dark .editorial-body h2::before {
+  color: #fca5a5;
+}
+
+/* H3 subheads — quieter */
+.editorial-body h3 {
+  margin-top: 2.25rem;
+  margin-bottom: 0.85rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #111827;
+}
+.dark .editorial-body h3 {
+  color: #f1f5f9;
+}
+
+/* Body type: slightly larger, more generous measure */
+.editorial-body p {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  line-height: 1.72;
+  color: #1f2937;
+}
+.dark .editorial-body p {
+  color: #cbd5e1;
+}
+
+/* Tables — editorial refinement */
+.editorial-body table {
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  border-collapse: collapse;
+  margin: 2.25rem 0;
+  width: 100%;
+}
+.editorial-body thead th {
+  text-align: left;
+  font-weight: 700;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #6b7280;
+  border-bottom: 2px solid #111827;
+  padding: 0.65rem 0.75rem;
+  background: transparent;
+}
+.dark .editorial-body thead th {
+  color: #9ca3af;
+  border-bottom-color: #f9fafb;
+}
+.editorial-body tbody td {
+  vertical-align: top;
+  padding: 0.85rem 0.75rem;
+  border-bottom: 1px solid #e5e7eb;
+  line-height: 1.55;
+}
+.dark .editorial-body tbody td {
+  border-bottom-color: #1f2937;
+}
+
+/* Works Cited / footnote block: an HR + ol at the end */
+.editorial-body hr {
+  margin: 4rem 0 1rem;
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+}
+.dark .editorial-body hr {
+  border-top-color: #1f2937;
+}
+.editorial-body hr + h2 {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: var(--font-sans);
+  color: #6b7280;
+}
+.dark .editorial-body hr + h2 {
+  color: #9ca3af;
+}
+.editorial-body hr + h2::before { content: none; }
+.editorial-body hr ~ ol {
+  font-family: var(--font-sans);
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: #6b7280;
+  padding-left: 1.5rem;
+  margin-top: 0.75rem;
+}
+.dark .editorial-body hr ~ ol {
+  color: #9ca3af;
+}
+.editorial-body hr ~ ol li {
+  margin: 0.35rem 0;
+}
+.editorial-body hr ~ ol li a {
+  word-break: break-word;
+}
+
+/* On small screens, pull drop cap size down a touch */
+@media (max-width: 640px) {
+  .editorial-body > p:first-of-type::first-letter {
+    font-size: 3.75rem;
+    padding: 0.3rem 0.5rem 0 0;
+  }
+  .editorial-body p {
+    font-size: 1.08rem;
+  }
+  .editorial-body h2 {
+    font-size: 1.5rem;
+  }
+}
+
 /* --- AdSense container --- */
 .ad-unit {
   min-height: 100px;

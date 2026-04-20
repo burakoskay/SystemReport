@@ -18,6 +18,11 @@ const postSchema = z.object({
   locale: z.string().optional(),
   canonical_slug: z.string().optional(),
   corrections: z.array(z.object({ date: z.string(), note: z.string() })).optional(),
+  // Long-form opinion pieces (Elena's daily). Opts into a distinct layout:
+  // EDITORIAL eyebrow, dek, drop cap, numbered section markers, footnote block.
+  format: z.enum(['standard', 'editorial']).optional(),
+  // Subtitle / dek shown under the headline for editorial pieces.
+  dek: z.string().optional(),
 });
 
 const postsCollection = defineCollection({

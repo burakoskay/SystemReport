@@ -108,6 +108,14 @@ const articleSection = CATEGORIES[articleCategorySlug]?.label || 'Tech';
 // Byline author — falls back to house byline if none assigned.
 const author = getAuthor(post.data.author);
 
+// Editorial pieces (Elena's daily) get a different chrome: eyebrow, dek,
+// drop cap, numbered section markers, footnote styling for Works Cited.
+const isEditorial = post.data.format === 'editorial';
+const h1Class = isEditorial
+  ? 'font-serif text-4xl sm:text-5xl md:text-6xl font-bold tracking-tight text-gray-900 dark:text-gray-50 leading-[1.08]'
+  : 'font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-50 leading-tight';
+const proseWrapperClass = (isEditorial ? 'editorial-body ' : '') + 'prose prose-lg prose-gray dark:prose-invert max-w-none prose-headings:font-serif prose-headings:tracking-tight prose-a:text-gray-900 dark:prose-a:text-gray-100 prose-a:underline prose-a:decoration-gray-300 dark:prose-a:decoration-gray-600 hover:prose-a:decoration-gray-900 dark:hover:prose-a:decoration-gray-100 prose-img:rounded-xl prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:before:content-none prose-code:after:content-none prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-pre:border prose-pre:border-gray-800 prose-blockquote:border-gray-900 dark:prose-blockquote:border-gray-100 prose-blockquote:not-italic';
+
 // Publisher logo must be PNG/WebP/JPEG — place a 600×60 PNG at public/logo.png
 const publisherLogoUrl = `${siteBase}/logo.png`;
 
@@ -220,17 +228,29 @@ const articleSchema = {
   <article class="max-w-3xl mx-auto">
     <!-- Header -->
     <header class="mb-8">
-      {post.data.tags && post.data.tags.length > 0 && (
+      {isEditorial ? (
+        <div class="editorial-eyebrow mb-5">
+          <span class="editorial-eyebrow-label">Editorial</span>
+          <span class="editorial-eyebrow-rule"></span>
+          <span class="editorial-eyebrow-meta">Elena Marchetti · Daily Column</span>
+        </div>
+      ) : (post.data.tags && post.data.tags.length > 0 && (
         <div class="flex flex-wrap gap-2 mb-4">
           {post.data.tags.map((tag: string) => (
             <TagPill tag={tag} size="md" />
           ))}
         </div>
-      )}
+      ))}
 
-      <h1 class="font-serif text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-gray-900 dark:text-gray-50 leading-tight">
+      <h1 class={h1Class}>
         {post.data.title}
       </h1>
+
+      {isEditorial && post.data.dek && (
+        <p class="editorial-dek mt-5 font-serif text-lg sm:text-xl md:text-2xl leading-snug text-gray-600 dark:text-gray-300 italic">
+          {post.data.dek}
+        </p>
+      )}
 
       {author && (
         <a href={`/authors/${author.slug}`} class="flex items-center gap-3 mt-5 group">
@@ -387,14 +407,7 @@ const articleSchema = {
     <AdUnit format="horizontal" className="mb-8" />
 
     <!-- Article Body -->
-    <div class="prose prose-lg prose-gray dark:prose-invert max-w-none
-      prose-headings:font-serif prose-headings:tracking-tight
-      prose-a:text-gray-900 dark:prose-a:text-gray-100 prose-a:underline prose-a:decoration-gray-300 dark:prose-a:decoration-gray-600 hover:prose-a:decoration-gray-900 dark:hover:prose-a:decoration-gray-100
-      prose-img:rounded-xl
-      prose-code:bg-gray-100 dark:prose-code:bg-gray-800 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:before:content-none prose-code:after:content-none
-      prose-pre:bg-gray-900 dark:prose-pre:bg-gray-950 prose-pre:border prose-pre:border-gray-800
-      prose-blockquote:border-gray-900 dark:prose-blockquote:border-gray-100 prose-blockquote:not-italic
-    ">
+    <div class={proseWrapperClass}>
       <Content />
     </div>
 
