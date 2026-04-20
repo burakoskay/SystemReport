@@ -1,0 +1,51 @@
+name: Elena Doc Ingest
+
+on:
+  schedule:
+    - cron: '15 * * * *'  # hourly at :15 — picks up new docs soon after Elena drops them
+  workflow_dispatch:
+
+jobs:
+  elena_ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Elena Drive ingest
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          ELENA_DRIVE_FOLDER_ID:       ${{ secrets.ELENA_DRIVE_FOLDER_ID }}
+          PEXELS_API_KEY:              ${{ secrets.PEXELS_API_KEY }}
+        run: node scripts/elena-ingest.mjs
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase --autostash origin main
+
+          mkdir -p public/hero ops
+
+          git add src/content/posts/ public/hero/ ops/elena-docs.json || true
+
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "editorial: ingest Elena's latest column"
+            git push
+          else
+            echo "No new editorial to commit."
+          fi
