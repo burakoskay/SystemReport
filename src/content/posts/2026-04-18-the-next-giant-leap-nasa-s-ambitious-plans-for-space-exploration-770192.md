@@ -1,16 +1,18 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-04-19T23:08:40.371Z
+modified_date: 2026-04-20T13:12:37.598Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 4
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
+
 
 
 As NASA's Artemis II mission recently demonstrated, the agency is making significant strides in space exploration. The mission, which sent four astronauts on a 10-day journey to orbit the Moon, marked a major milestone in the program's history. But while the success of Artemis II has generated excitement, NASA is already looking to the next challenge: exploring Mars.
@@ -25,4 +27,6 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-04-20** — GoPro’s Mission 1 camera series will start at $600 ([source](https://www.engadget.com/cameras/gopros-mission-1-camera-series-will-start-at-600-130044898.html?src=rss))
+- **2026-04-20** — We Love the Bose QuietComfort Ultra 2, Especially at $50 Off ([source](https://www.wired.com/story/bose-quietcomfort-ultra-2-earbuds-april-2026/))
 - **2026-04-19** — The Bromine Chokepoint ([source](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/))
