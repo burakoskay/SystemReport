@@ -11,3 +11,15 @@
 {"t":"2026-04-20T01:59:01.635Z","task":"judge","provider":"groq","model":"qwen/qwen3-32b","ok":true,"latency_ms":1542,"prompt_chars":8898,"response_chars":309}
 {"t":"2026-04-20T01:59:03.978Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":2341,"prompt_chars":7664,"response_chars":2273}
 {"t":"2026-04-20T01:59:05.090Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1112,"prompt_chars":11581,"response_chars":1482,"prompt_id":"revise","prompt_variant":"v2-800w"}
+{"t":"2026-04-20T06:10:12.070Z","task":"cluster","provider":"groq","model":"meta-llama/llama-4-scout-17b-16e-instruct","ok":true,"latency_ms":693,"prompt_chars":3992,"response_chars":597}
+{"t":"2026-04-20T06:10:22.792Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":2717,"prompt_chars":5306,"response_chars":4118,"prompt_id":"draft","prompt_variant":"v3-900w"}
+{"t":"2026-04-20T06:10:24.562Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":1768,"prompt_chars":5082,"response_chars":1112}
+{"t":"2026-04-20T06:10:25.651Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1088,"prompt_chars":7813,"response_chars":1429,"prompt_id":"revise","prompt_variant":"v2-800w"}
+{"t":"2026-04-20T06:10:45.008Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":3352,"prompt_chars":5453,"response_chars":4163,"prompt_id":"draft","prompt_variant":"v3-900w"}
+{"t":"2026-04-20T06:10:47.080Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":2072,"prompt_chars":5288,"response_chars":2151}
+{"t":"2026-04-20T06:10:47.832Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":749,"prompt_chars":9083,"response_chars":1058,"prompt_id":"revise","prompt_variant":"v2-800w"}
+{"t":"2026-04-20T06:10:59.348Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":3510,"prompt_chars":5695,"response_chars":4878,"prompt_id":"draft","prompt_variant":"v3-900w"}
+{"t":"2026-04-20T06:10:59.793Z","task":"draft-b","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":3956,"prompt_chars":5695,"response_chars":4121,"prompt_id":"draft","prompt_variant":"v3-900w"}
+{"t":"2026-04-20T06:11:01.550Z","task":"judge","provider":"groq","model":"qwen/qwen3-32b","ok":true,"latency_ms":1755,"prompt_chars":8871,"response_chars":306}
+{"t":"2026-04-20T06:11:04.443Z","task":"critique","provider":"groq","model":"openai/gpt-oss-120b","ok":true,"latency_ms":2891,"prompt_chars":5503,"response_chars":1476}
+{"t":"2026-04-20T06:11:05.503Z","task":"draft","provider":"groq","model":"llama-3.3-70b-versatile","ok":true,"latency_ms":1058,"prompt_chars":8699,"response_chars":1688,"prompt_id":"revise","prompt_variant":"v2-800w"}

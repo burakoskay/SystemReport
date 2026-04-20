@@ -1,24 +1,24 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-04-20T01:58:29.587Z",
+    "last_success": "2026-04-20T06:10:12.069Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on requests per minute (RPM): Limit 30, Used 30, Requested 1. Please try again in 2s. Need more tokens? Upgrade to Dev Tie",
     "last_failure": "2026-04-18T20:30:14.359Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "last_success": "2026-04-20T01:59:05.090Z",
+    "last_success": "2026-04-20T06:11:05.502Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 10359, Requested 1712. Please try again in 355ms. Need more tokens? Upgrade to Dev Tier today ",
     "last_failure": "2026-04-19T23:09:08.343Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-04-20T01:59:03.977Z",
+    "last_success": "2026-04-20T06:11:04.442Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7846, Requested 4108. Please try again in 29.655s. Need more tokens? Upgrade to Dev Tier today at h",
     "last_failure": "2026-04-19T23:09:38.738Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-04-20T01:59:01.635Z",
+    "last_success": "2026-04-20T06:11:01.549Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5029, Requested 2175. Please try again in 12.04s. Need more tokens? Upgrade to Dev Tier today at https:/",
     "last_failure": "2026-04-18T12:46:35.068Z"
