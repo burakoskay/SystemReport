@@ -516,8 +516,8 @@ async function synthesizeArticle(cluster) {
 
   // 5. Word-count gate — thin articles aren't publishable. Instead of asking
   // the LLM to pad (→ slop), we pull MORE sources and re-draft from scratch.
-  const MIN_WORDS = 500;
-  const HARD_MIN = 400;
+  const MIN_WORDS = 900;
+  const HARD_MIN = 700;
   const countWords = (s) => (s || '').split(/\s+/).filter(Boolean).length;
   let wc = countWords(article.article_markdown);
   if (wc < MIN_WORDS) {
@@ -675,18 +675,23 @@ async function main() {
   }
 
   console.log('Clustering articles...');
-  let clusters;
+  let clusters = [];
   try {
     clusters = await clusterArticles(newArticles);
   } catch (err) {
-    console.error(`⛔ Clustering failed — API may be down or quota exhausted: ${err.message}`);
-    console.error('Aborting run. No API calls wasted on synthesis.');
-    await sendAlert({
-      title: 'Pipeline aborted: clustering failed',
-      level: 'error',
-      lines: [`${err.message.slice(0, 400)}`, `Queued articles: ${newArticles.length}`],
-    });
-    return;
+    console.error(`⚠ Clustering failed: ${err.message.slice(0, 300)}`);
+  }
+  // If clustering produced nothing (API outage, total parse failure), fall
+  // back to treating every article as its own single-source cluster rather
+  // than aborting the entire run. Downstream gates (word-count, source
+  // expansion) still protect us from shipping thin junk.
+  if (!clusters || clusters.length === 0) {
+    if (newArticles.length === 0) {
+      console.log('No articles and no clusters. Exiting.');
+      return;
+    }
+    console.log(`Clustering unavailable — running ${newArticles.length} article(s) as solo clusters.`);
+    clusters = newArticles.map((a, i) => ({ theme: a.title, articles: [a], id: `solo-${i}` }));
   }
   console.log(`Identified ${clusters.length} clusters.`);
 
@@ -699,8 +704,10 @@ async function main() {
 
   await fs.mkdir(POSTS_DIR, { recursive: true });
 
-  // Circuit breaker: abort early if too many consecutive failures
-  const MAX_CONSECUTIVE_FAILURES = 3;
+  // Circuit breaker: abort early if too many consecutive failures. Raised
+  // from 3 to 6 — occasional provider hiccups shouldn't kill a whole run
+  // when the router already handles individual provider cooldown.
+  const MAX_CONSECUTIVE_FAILURES = 6;
   let consecutiveFailures = 0;
 
   for (const cluster of clustersToProcess) {
@@ -786,20 +793,35 @@ async function main() {
         }
       }
 
-      // Generate narration (best-effort; never blocks publishing).
+      // Narration is a load-bearing feature ("Listen to this article") —
+      // the TTS module now has a provider chain (CF MeloTTS → Groq Orpheus)
+      // so a single-provider outage no longer silently drops the button
+      // from the page. We retry once at this level too, because a
+      // transient network hiccup costs only one extra call and is cheaper
+      // than publishing without audio.
       let audioPath = '';
       let audioBytes = 0;
-      try {
-        const speechText = markdownToSpeechText(synthesis.title, synthesis.description, synthesis.article_markdown);
-        const wav = await synthesizeSpeech(speechText);
-        await fs.mkdir(AUDIO_DIR, { recursive: true });
-        const audioFile = path.join(AUDIO_DIR, `${baseSlug}.wav`);
-        await fs.writeFile(audioFile, wav);
-        audioPath = `/audio/${baseSlug}.wav`;
-        audioBytes = wav.length;
-        console.log(`  🔊 Narration saved: ${audioPath} (${(wav.length / 1024).toFixed(0)} KB)`);
-      } catch (e) {
-        console.log(`  ⚠ TTS skipped: ${e.message}`);
+      let audioMime = '';
+      const speechText = markdownToSpeechText(synthesis.title, synthesis.description, synthesis.article_markdown);
+      for (let attempt = 1; attempt <= 2; attempt++) {
+        try {
+          const out = await synthesizeSpeech(speechText);
+          await fs.mkdir(AUDIO_DIR, { recursive: true });
+          const audioFile = path.join(AUDIO_DIR, `${baseSlug}.${out.ext}`);
+          await fs.writeFile(audioFile, out.bytes);
+          audioPath = `/audio/${baseSlug}.${out.ext}`;
+          audioBytes = out.bytes.length;
+          audioMime = out.mime;
+          console.log(`  🔊 Narration via ${out.provider}: ${audioPath} (${(out.bytes.length / 1024).toFixed(0)} KB)`);
+          break;
+        } catch (e) {
+          if (attempt === 2) {
+            console.log(`  ⚠ TTS failed after retry — publishing without audio: ${e.message.slice(0, 200)}`);
+          } else {
+            console.log(`  TTS attempt ${attempt} failed, retrying: ${e.message.slice(0, 160)}`);
+            await new Promise(r => setTimeout(r, 3000));
+          }
+        }
       }
 
       const frontmatter = `---
@@ -814,7 +836,8 @@ description: "${synthesis.description.replace(/"/g, '\\"')}"
 sources_count: ${cluster.articles.length}${synthesis._author ? `
 author: "${synthesis._author}"` : ''}${audioPath ? `
 audio_path: "${audioPath}"
-audio_bytes: ${audioBytes}` : ''}
+audio_bytes: ${audioBytes}
+audio_mime: "${audioMime}"` : ''}
 ---
 
 `;
@@ -856,7 +879,8 @@ sources_count: ${cluster.articles.length}
 locale: "${locale}"
 canonical_slug: "${baseSlug}"${audioPath ? `
 audio_path: "${audioPath}"
-audio_bytes: ${audioBytes}` : ''}
+audio_bytes: ${audioBytes}
+audio_mime: "${audioMime}"` : ''}
 ---
 
 `;

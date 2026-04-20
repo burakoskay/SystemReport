@@ -13,8 +13,44 @@
 
 export const PROMPTS = {
   draft: {
-    active: 'v3-900w',
+    active: 'v4-1100w',
     variants: {
+      'v4-1100w': ({ voiceBlock, sourceTexts, authorVoice }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
+${authorVoice ? `\nBYLINE VOICE (this specific piece is bylined by one of our reporters — match their style):\n${authorVoice}\n` : ''}
+Write an original tech-news article in Markdown from the source material below. This is journalism, not a press release — the reader should come away informed, not sold to.
+
+HARD REQUIREMENTS (non-negotiable):
+- 900 to 1300 words in the body (article_markdown). Shorter is a failure and will be rejected.
+- At least 4 H2 section headings (## …). Each section at least 2 paragraphs, most sections 3.
+- Lead with a 1–2 sentence nut-graph. What happened, why it matters. No "in this article" meta-language, no throat-clearing.
+- Second paragraph must add concrete detail — names, numbers, dates, product versions, specific companies. If the sources don't have them, don't invent.
+- At least one H2 section develops the context beyond the immediate news: the history of the product/company/regulation, prior precedent, the competitive landscape, the technical mechanics, the regulatory or market implications.
+- Close with a forward-looking "What to watch" or "What's next" paragraph that names the specific decision, product launch, ruling, or data point the reader should track.
+
+FACTUAL DISCIPLINE (read this twice):
+- Do NOT invent quotes, numbers, dates, people, companies, product names, prices, revenue figures, share counts, death tolls, employee counts, or any other specific fact absent from the source material.
+- If a source says "reportedly" or "sources say," keep that hedge. Do not promote rumor to fact.
+- If the sources contradict each other, note the contradiction — don't pick a side the sources don't.
+- You MAY apply general background knowledge (what a product category is, how a regulatory body works, what a technical term means, what happened in broadly-known prior events) to frame the story. You MAY NOT use general knowledge to assert specifics about this particular event that aren't in the sources.
+- When in doubt, keep the claim general ("the company", "last year", "a large investor") instead of specific ("Apple", "in March", "BlackRock"). General-but-true beats specific-but-invented, every time.
+- Every proper noun, number, and quote in your output must be traceable to the source material.
+
+STYLE:
+- Concrete verbs over abstract ones. "Launched", "filed", "cut", "fired" — not "unveiled", "leveraged", "enabled".
+- Short sentences interleaved with longer ones. Avoid compound-complex sentences stacking three clauses.
+- No "In today's fast-paced world," no "revolutionize," no "landscape of," no "paradigm shift," no "game-changer," no "cutting-edge."
+- No bullet lists unless the source material itself is a list. Journalism is prose.
+- Assume the reader is technical and intelligent. Don't over-explain what RAM is.
+
+Output a JSON object:
+- "title": Professional headline, ≤65 characters (hard limit — search engines truncate past 70). No colons unless necessary.
+- "description": 1–2 sentence SEO summary, ≤160 chars.
+- "article_markdown": Full markdown body, without the main H1. Obeys the word-count, structure, and no-invention rules above.
+- "tags": 3–5 lowercase string tags.
+- "visual_keyword": Single descriptive phrase for image generation. No text, no logos, no signage.
+
+Source Texts:
+${sourceTexts}`,
       'v1-400w': ({ voiceBlock, sourceTexts }) => `${voiceBlock}You are writing for System Report, per the voice guide above.
 Synthesize a 400-word original article in Markdown based on the source texts below. No plagiarism.
 

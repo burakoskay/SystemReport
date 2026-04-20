@@ -2,13 +2,19 @@ name: Automated ETL Pipeline
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours
+    - cron: '0 */2 * * *'  # Every 2 hours
   workflow_dispatch: # Allow manual trigger
+
+# One run at a time. If a long run is still going when the next cron fires,
+# the new run waits rather than racing on processed_urls.json / git push.
+concurrency:
+  group: automated-etl
+  cancel-in-progress: false
 
 jobs:
   ingest_and_publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     permissions:
       contents: write
 

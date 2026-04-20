@@ -40,15 +40,18 @@ export async function GET(context) {
     items: posts.map((post) => {
       const audioUrl = `${siteUrl}${post.data.audio_path}`;
       const len = post.data.audio_bytes || 0;
+      const isMp3 = post.data.audio_path?.endsWith('.mp3');
+      const mime = post.data.audio_mime || (isMp3 ? 'audio/mpeg' : 'audio/wav');
 
-      // Rough duration: WAV at ~180kbps ≈ 22.5 KB/s → bytes / 22500 = seconds.
-      // Orpheus default WAV is 24kHz mono 16-bit ≈ 48 KB/s. Use 48000.
-      const durationSec = Math.max(30, Math.round(len / 48000));
+      // Rough bytes-per-second by format for a duration estimate.
+      // MP3 (MeloTTS): ~128 kbps → 16 KB/s. Orpheus WAV: 24kHz mono 16-bit → 48 KB/s.
+      const bytesPerSec = isMp3 ? 16000 : 48000;
+      const durationSec = Math.max(30, Math.round(len / bytesPerSec));
       const mm = Math.floor(durationSec / 60).toString().padStart(2, '0');
       const ss = (durationSec % 60).toString().padStart(2, '0');
 
       const customData = [
-        `<enclosure url="${audioUrl}" type="audio/wav" length="${len}" />`,
+        `<enclosure url="${audioUrl}" type="${mime}" length="${len}" />`,
         `<itunes:duration>${mm}:${ss}</itunes:duration>`,
         `<itunes:author>System Report</itunes:author>`,
         `<itunes:explicit>false</itunes:explicit>`,
