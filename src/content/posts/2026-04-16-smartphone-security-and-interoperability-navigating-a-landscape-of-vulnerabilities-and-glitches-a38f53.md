@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-04-20T13:12:37.356Z
+modified_date: 2026-04-20T16:57:46.977Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 
 
@@ -24,5 +25,6 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-04-20** — 9to5Mac Daily: April 20, 2026 – iOS 27 rumors, iPhone colors ([source](https://9to5mac.com/2026/04/20/daily-april-20-2026-ios-27/))
 - **2026-04-20** — Huawei beats Samsung and Apple to market with the first wide foldable ([source](https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability))
 - **2026-04-18** — Security Bite: ClickFix malware authors already bypassing Apple’s new Terminal paste warning ([source](https://9to5mac.com/2026/04/18/security-bite-clickfix-malware-authors-already-bypassing-apples-new-terminal-paste-warnings/))

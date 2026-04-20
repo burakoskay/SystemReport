@@ -1,17 +1,19 @@
 ---
 title: "The Militarization of Compute"
-dek: "How the ceasefire collapse in the Strait of Hormuz upends global AI infrastructure."
 date: 2026-04-20T08:00:00.000Z
+modified_date: 2026-04-20T16:57:47.215Z
 tags: ["editorial","geopolitics","ai infrastructure","data centers","hormuz","middle east"]
 hero_image: "/hero/2026-04-20-the-militarization-of-compute-a1f2e7.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "container ship silhouette crossing a narrow strait at dusk, distant refinery flares and data-center roofs on the horizon, cinematic"
 description: "Drone-struck AWS data centers and a closed strait end the era of treating hyperscale compute as benign real estate. The compute-state has replaced the petro-state."
-sources_count: 74
+sources_count: 75
+dek: "How the ceasefire collapse in the Strait of Hormuz upends global AI infrastructure."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 ## The ceasefire collapse: a strategic rupture in global logistics
 
@@ -191,3 +193,7 @@ The technology industry must formally abandon the illusion of geopolitical neutr
 72. [Energy Technology Perspectives 2026 — IEA](https://www.iea.org/reports/energy-technology-perspectives-2026/executive-summary)
 73. [China's Export Restrictions Reshape US Solar Manufacturing — Discovery Alert](https://discoveryalert.com.au/manufacturing-dependencies-reshape-global-energy-infrastructure-2026/)
 74. [The Role of the Middle East in the US–China Race to AI Supremacy — MEI](https://mei.edu/publication/role-middle-east-us-china-race-ai-supremacy/)
+
+## Updates
+
+- **2026-04-20** — Apple Vision Pro used to help make next Star Wars movie: The Mandalorian & Grogu ([source](https://9to5mac.com/2026/04/20/apple-vision-pro-used-to-help-make-next-star-wars-movie-the-mandalorian-grogu/))
