@@ -1,15 +1,17 @@
 ---
 title: "FCC's Router Paradox: Netgear's Exclusive Pass Sparks Monopoly Fears"
 date: 2026-04-15T19:45:34.217Z
+modified_date: 2026-04-20T20:38:35.714Z
 tags: ["fcc","netgear","routers","cybersecurity","tech policy"]
 hero_image: "/hero/2026-04-15-fcc-s-router-paradox-netgear-s-exclusive-pass-sparks-monopoly-fears-709971.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"
 description: "The FCC's sweeping ban on foreign-made routers has a curious exception: Netgear. This conditional approval sparks questions about market fairness and national security."
-sources_count: 2
+sources_count: 3
 author: "lena-volkov"
 ---
+
 
 The Federal Communications Commission (FCC) has stirred the tech industry pot with a new policy aiming to bolster national security, but its recent actions have left many questioning the fairness and transparency of its implementation. While the commission dramatically expanded its "Covered List" in March 2026 to include virtually all foreign-made routers, effectively preventing the introduction of new models and certain software updates from non-compliant manufacturers, one prominent player has seemingly sidestepped the sweeping ban: Netgear.
 
@@ -20,3 +22,7 @@ However, this conditional approval carries significant implications, effectively
 A core requirement for conditional approval is that companies present a plan to shift some or all of their manufacturing to the US—a potentially costly endeavor. Engadget reportedly sought details on Netgear's specific US manufacturing commitments but has yet to receive a response. This lack of transparency surrounding Netgear's application details only deepens the mystery surrounding the FCC's decision, fueling concerns about arbitrary enforcement and potential market distortion.
 
 As the industry navigates this new regulatory landscape, the FCC faces increasing pressure to provide clear explanations. Without a transparent rationale for Netgear's unique position, the commission risks undermining its own stated goal of national security while inadvertently stifling competition and consumer choice in the critical home networking sector. The router market, once diverse, now awaits further clarification from regulators, and potentially, similar exemptions for other manufacturers, to restore a level playing field.
+
+## Updates
+
+- **2026-04-20** — Google Photos adds subtle touch-up tools for faces ([source](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes))

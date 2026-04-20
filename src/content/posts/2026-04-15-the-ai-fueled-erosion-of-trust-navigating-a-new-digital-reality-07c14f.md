@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-04-20T16:57:46.495Z
+modified_date: 2026-04-20T20:38:36.439Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-04-20** — Sony will require age checks in the UK and Ireland to access PlayStation communication features ([source](https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss))
 - **2026-04-20** — Canva’s CEO on its big pivot to AI enterprise software ([source](https://www.theverge.com/podcast/913793/melanie-perkins-canva-ai-adobe-affinity-design))
 - **2026-04-18** — Judge sides with creators of banned ICE trackers who allege DHS and DOJ violated their First Amendment rights ([source](https://www.engadget.com/apps/judge-sides-with-creators-of-banned-ice-trackers-who-allege-dhs-and-doj-violated-their-first-amendment-rights-191701801.html?src=rss))
