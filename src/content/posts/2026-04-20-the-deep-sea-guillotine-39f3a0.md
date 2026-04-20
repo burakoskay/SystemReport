@@ -1,16 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
-dek: "China's cable-cutter and the vulnerability of the physical internet."
 date: 2026-04-20T21:48:40.880Z
+modified_date: 2026-04-20T22:51:28.326Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 14
+sources_count: 15
+dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure.
 
@@ -80,3 +82,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 12. ["Final Frontier of Cyberspace: The Seabed Beyond National Jurisdiction and the Protection of Submarine Cables," Cambridge University Press.](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/final-frontier-of-cyberspace-the-seabed-beyond-national-jurisdiction-and-the-protection-of-submarine-cables/4A40325D1A18927145A36B70ADCD35AD)
 13. ["US Introduces Strategic Subsea Cables Act of 2026," Submarine Networks.](https://www.submarinenetworks.com/en/nv/insights/us-introduces-strategic-subsea-cables-act-of-2026)
 14. ["Southeast Asia Undersea/Subsea Cables," Carnegie Endowment.](https://carnegieendowment.org/research/2024/12/southeast-asia-undersea-subsea-cables)
+
+## Updates
+
+- **2026-04-20** — Apple names Johny Srouji as chief hardware officer ([source](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook))
