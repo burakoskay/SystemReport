@@ -8,7 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "OpenAI acquisition meeting with futuristic AI models"
 description: "OpenAI’s latest deals expose two existential threats while a 12‑month window looms for AI startups, reshaping the industry’s competitive landscape."
 sources_count: 13
-author: "elena-marchetti"
+author: "maya-chen"
 ---
 
 OpenAI’s recent acquisitions have forced the AI community to confront two stark existential threats: the risk of model commoditization and the looming talent drain. The moves, detailed on *TechCrunch*’s Equity podcast, signal that the company is buying up capabilities faster than it can integrate them, a strategy that may backfire if the market’s next wave of startups does not materialize.

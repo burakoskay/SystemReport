@@ -177,14 +177,25 @@ function hashStr(s) {
 export function assignAuthor(tags = [], categorySlug = 'tech', seed = '') {
   const lowerTags = (tags || []).map(t => String(t).toLowerCase());
 
-  // 1. Tag-hint scoring (cross-beat match)
+  // 1. Tag-hint scoring (cross-beat match).
+  //
+  // Substring matching only applies when the hint is ≥ 4 chars. Without that
+  // guard, short hints like "un" or "eu" match any token containing those
+  // letters ("launched", "european", "reuters", "neural") and pull routing
+  // toward whichever author has the shortest hints — that's how Elena ended
+  // up with iOS beta stories and AI-startup deals in her byline.
   let best = null;
   for (const author of AUTHOR_LIST) {
     let score = 0;
     for (const hint of author.tagHints) {
-      if (lowerTags.some(t => t === hint || t.includes(hint) || hint.includes(t))) {
-        score += 2;
-      }
+      const allowSubstring = hint.length >= 4;
+      const matches = lowerTags.some(t => {
+        if (t === hint) return true;
+        if (!allowSubstring) return false;
+        if (t.length < 4) return false;
+        return t.includes(hint) || hint.includes(t);
+      });
+      if (matches) score += 2;
     }
     if (author.categorySlugs.includes(categorySlug)) score += 1;
     if (score > 0 && (!best || score > best.score)) best = { author, score };

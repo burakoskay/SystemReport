@@ -8,7 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
 sources_count: 20
-author: "elena-marchetti"
+author: "maya-chen"
 ---
 
 ## The AI Control Conundrum

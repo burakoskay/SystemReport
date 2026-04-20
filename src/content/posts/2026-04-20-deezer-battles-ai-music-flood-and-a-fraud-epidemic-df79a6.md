@@ -8,7 +8,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "AI-generated music tracks flooding a streaming dashboard"
 description: "Deezer reports AI tracks now 44% of uploads, but most streams are fraudulent, exposing a $20bn market vulnerability."
 sources_count: 3
-author: "elena-marchetti"
+author: "maya-chen"
 ---
 
 Deezer logged 75,000 AI‑generated song submissions on a single day, a volume that now accounts for 44% of all daily uploads. The surge threatens royalty integrity and forces the French streamer to rewrite its fraud defenses.

@@ -8,7 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
 sources_count: 14
-author: "elena-marchetti"
+author: "maya-chen"
 ---
 
 ## The Latest from Apple: iOS 26.5 Beta 3 and Beyond
