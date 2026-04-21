@@ -1,16 +1,17 @@
 ---
 title: "The Dark Side of Devotion: Unpacking the World of Conspiracy"
 date: 2026-04-18T01:04:51.470Z
-modified_date: 2026-04-21T19:20:02.596Z
+modified_date: 2026-04-21T22:42:25.057Z
 tags: ["conspiracy theories","surveillance state","social media influencers"]
 hero_image: "/hero/2026-04-18-the-dark-side-of-devotion-unpacking-the-world-of-conspiracy-theories-and-surveillance-979329.jpg"
 hero_image_credit_name: "Rahime Gül"
 hero_image_credit_url: "https://www.pexels.com/@rahimegul"
 visual_keyword: "shattered mirror reflection"
 description: "Exploring the intersection of conspiracy, surveillance, and the erosion of trust in institutions"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -21,5 +22,6 @@ In recent weeks, the world of politics has been rocked by conspiracy theories su
 
 ## Updates
 
+- **2026-04-21** — We translated the Palantir manifesto for actual human beings ([source](https://www.theverge.com/policy/915237/palantir-manifesto))
 - **2026-04-21** — Tim Cook was an innovator — just not the Jobs kind ([source](https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo))
 - **2026-04-21** — Splatoon Raiders hits the Switch 2 in July ([source](https://www.theverge.com/games/915655/splatoon-raiders-switch-2-release-date-trailer))
