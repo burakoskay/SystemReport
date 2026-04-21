@@ -1,15 +1,17 @@
 ---
 title: "Vercel Hacked"
 date: 2026-04-19T23:08:53.080Z
+modified_date: 2026-04-21T17:09:52.124Z
 tags: ["vercel","cloud security","data breach"]
 hero_image: "/hero/2026-04-19-vercel-hacked-5a59e3.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cloud security breach"
 description: "Vercel, a major cloud development platform, was compromised and hackers are selling stolen data. The breach was caused by a compromised third-party AI tool."
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 
 ## Introduction to the Breach
@@ -29,3 +31,7 @@ The breach also highlights the need for greater transparency and accountability 
 
 ## What to Watch
 As the investigation into the Vercel breach continues, customers and industry observers will be watching to see how the company responds to the incident. Will Vercel take steps to improve its security measures and protect its customers' data? How will the breach impact the company's reputation and business operations? These are just a few of the questions that will be answered in the coming days and weeks. One thing is certain: the Vercel breach is a wake-up call for the cloud services industry, highlighting the need for robust security measures and transparency.
+
+## Updates
+
+- **2026-04-21** — Wearable health tech might be Tim Cook’s greatest legacy ([source](https://www.theverge.com/tech/915976/tim-cook-john-ternus-apple-watch-health-tech-wearables))
