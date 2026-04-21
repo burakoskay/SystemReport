@@ -1,16 +1,17 @@
 ---
 title: "Smart Homes Meet AI: New Devices and Integrations on the Rise"
 date: 2026-04-18T01:10:59.710Z
-modified_date: 2026-04-19T16:30:56.164Z
+modified_date: 2026-04-21T11:13:27.544Z
 tags: ["smart homes","ai integrations","new devices"]
 hero_image: "/hero/2026-04-18-smart-homes-meet-ai-new-devices-and-integrations-on-the-rise-3f539f.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home security camera with AI"
 description: "The latest smart home devices and AI integrations are changing the game for homeowners and tech enthusiasts alike."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 The world of smart home technology is rapidly expanding, with new devices and integrations emerging every week. One of the most exciting developments is the Ulticam IQ V2, a Matter-certified AI security camera that's making waves with its impressive feature set. This sleek device boasts 4K resolution, Power over Ethernet, and Google Gemini AI integrations, making it a top contender in the smart home security market.
@@ -25,4 +26,5 @@ For homeowners and tech enthusiasts, the possibilities are endless. Whether you'
 
 ## Updates
 
+- **2026-04-21** — Yelp is making its AI chatbot way more useful ([source](https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade))
 - **2026-04-19** — Tesla is rolling out its Robotaxi service to Dallas and Houston ([source](https://www.engadget.com/transportation/tesla-is-rolling-out-its-robotaxi-service-to-dallas-and-houston-160742941.html?src=rss))
