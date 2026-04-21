@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-04-20T13:12:37.838Z
+modified_date: 2026-04-21T20:58:33.512Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 # Apple's Recent Wins
@@ -24,4 +25,5 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-04-21** — Meta has misled users about scam ads on Facebook and Instagram, lawsuit says ([source](https://www.engadget.com/social-media/meta-has-misled-users-about-scam-ads-on-facebook-and-instagram-lawsuit-says-193220235.html?src=rss))
 - **2026-04-20** — Judge says White House can’t ‘strong-arm’ Apple into blocking ICE trackers ([source](https://9to5mac.com/2026/04/20/judge-says-white-house-cant-strong-arm-apple-into-blocking-ice-trackers/))
