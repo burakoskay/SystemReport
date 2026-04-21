@@ -1,16 +1,17 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
-modified_date: 2026-04-20T22:51:29.133Z
+modified_date: 2026-04-21T19:20:03.168Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 The tech landscape is undergoing a profound shift, extending its reach far beyond traditional terrestrial networks. At the heart of this transformation is Amazon’s momentous $11.6 billion acquisition of Globalstar, a move that not only expands Amazon's burgeoning empire but also fundamentally redefines the future of connectivity for Apple iPhone users. This colossal investment signals a new era where seamless communication is no longer bound by cellular towers but by satellites orbiting Earth.
@@ -25,4 +26,5 @@ The convergence of consumer electronics and satellite technology marks a new fro
 
 ## Updates
 
+- **2026-04-21** — OpenAI’s updated image generator can now pull information from the web ([source](https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2))
 - **2026-04-20** — Tim Cook to remain involved in Apple’s government relations around the world ([source](https://9to5mac.com/2026/04/20/tim-cook-to-remain-involved-in-apples-government-relations-around-the-world/))

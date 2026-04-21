@@ -1,16 +1,17 @@
 ---
 title: "AI's Double-Edged Sword: The Hidden Wave of Job Displacement"
 date: 2026-04-15T19:48:44.307Z
-modified_date: 2026-04-19T12:42:24.020Z
+modified_date: 2026-04-21T19:20:02.873Z
 tags: ["ai","layoffs","tech industry","employment","economy"]
 hero_image: "/hero/2026-04-15-ai-s-double-edged-sword-economic-slowdown-masks-targeted-job-displacement-548c9a.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI robot hand replacing human worker in an office"
 description: "While macroeconomic factors are broadly slowing tech hiring, companies like Snap are explicitly linking significant layoffs to AI-driven efficiency, revealing a nuanced employment crisis."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 The tech industry finds itself navigating a complex employment landscape, where the narrative around artificial intelligence's impact on jobs remains sharply divided. On one hand, data suggests broad economic forces are at play; on the other, specific corporate decisions directly attribute job cuts to AI's transformative potential.
@@ -25,4 +26,5 @@ The conflicting narratives present a critical juncture for the tech workforce. W
 
 ## Updates
 
+- **2026-04-21** — AI backlash is coming for elections ([source](https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs))
 - **2026-04-19** — Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet ([source](https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review))
