@@ -1,16 +1,17 @@
 ---
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students"
 date: 2026-04-15T19:46:25.489Z
-modified_date: 2026-04-19T12:42:23.830Z
+modified_date: 2026-04-21T15:18:36.191Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
 hero_image: "/hero/2026-04-15-redmond-s-rebuttal-microsoft-sweetens-the-deal-for-students-amidst-macbook-neo-frenzy-6b35ac.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 The ripples from Apple's new MacBook Neo continue to spread across the personal computing landscape, especially in the crucial student demographic. Priced at a highly competitive $599, or an even more enticing $499 for students, the MacBook Neo has clearly sent a message: Apple is serious about capturing the entry-level market. In response, Microsoft has wasted no time in unveiling a robust counter-offensive, directly targeting college students in the U.S. with a compelling new initiative: the "Microsoft College Offer."
@@ -23,4 +24,5 @@ This battle for the student market is more than just a fleeting skirmish over sa
 
 ## Updates
 
+- **2026-04-21** — What's the deal with spacesuits for the Moon? Will they be ready in time? ([source](https://arstechnica.com/space/2026/04/whats-the-deal-with-spacesuits-for-the-moon-will-they-be-ready-in-time/))
 - **2026-04-19** — Blue Origin successfully re-uses a New Glenn rocket for the first time ever ([source](https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/))
