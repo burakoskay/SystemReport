@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-04-20T22:51:28.326Z
+modified_date: 2026-04-21T02:58:06.471Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 15
+sources_count: 16
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure.
@@ -85,4 +86,5 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-04-21** — Tim Cook will still be Apple’s Trump whisperer ([source](https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy))
 - **2026-04-20** — Apple names Johny Srouji as chief hardware officer ([source](https://www.theverge.com/tech/915240/apple-johny-srouji-ternus-cook))
