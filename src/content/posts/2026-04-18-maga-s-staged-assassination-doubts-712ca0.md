@@ -1,15 +1,17 @@
 ---
 title: "MAGA's Staged Assassination Doubts"
 date: 2026-04-18T12:46:10.297Z
+modified_date: 2026-04-21T09:44:33.657Z
 tags: ["MAGA","Trump","conspiracy theories","assassination attempt"]
 hero_image: "/hero/2026-04-18-maga-s-staged-assassination-doubts-712ca0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Trump"
 description: "MAGA supporters increasingly believe the Trump assassination attempt was staged, fueling internal divisions."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 The July 13 Butler, Pennsylvania, shooting of former President Donald Trump has sparked skepticism among his supporters. Some now question the official narrative, convinced the attempt was staged. Specific claims include allegations the event was faked to garner sympathy or distract from other issues.
 
@@ -21,3 +23,7 @@ Claims that the assassination attempt was staged have spread rapidly. These theo
 
 ## Implications for Trump's Base
 The divisions within MAGA have significant implications for Trump's base and the broader conservative movement. As the 2024 presidential election approaches, the infighting could weaken the Republican Party's cohesion and effectiveness. Critics of Trump may capitalize on these divisions, potentially affecting the party's performance.
+
+## Updates
+
+- **2026-04-21** — PlayStation&#8217;s age-gating restrictions are coming to UK consoles ([source](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat))
