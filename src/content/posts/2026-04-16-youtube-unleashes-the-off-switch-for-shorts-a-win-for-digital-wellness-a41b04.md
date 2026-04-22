@@ -1,15 +1,17 @@
 ---
 title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
+modified_date: 2026-04-22T02:56:55.042Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"
 description: "YouTube is rolling out a zero-minute time limit for Shorts, allowing users to effectively turn off the short-form video feed and reclaim digital wellness."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 In an era where attention is the most valuable commodity, platforms constantly battle to capture and retain user engagement. Short-form video, epitomized by TikTok and YouTube Shorts, has become a dominant force, often leading to endless scrolling and concerns over digital well-being. Now, YouTube is offering users a significant new tool in their quest for a healthier digital diet.
 
@@ -20,3 +22,7 @@ For many users grappling with the addictive nature of algorithmically-driven fee
 However, the platform's strategy remains multifaceted. Even as it offers users the power to disengage from Shorts, YouTube is simultaneously experimenting with new ways to integrate content within the Shorts ecosystem. Recent tests reveal the platform is exploring showing creator Posts – essentially text, image, or poll updates from subscribed creators – directly within the Shorts feed. This suggests a dual approach: catering to user demand for control while also trying to diversify and enrich the Shorts experience for those who choose to remain engaged. It's a delicate balance between giving users an off-ramp and exploring new avenues for engagement within its popular short-form format.
 
 Ultimately, the rollout of a zero-minute Shorts limit represents a significant win for user agency and digital health. It’s a clear indication that platforms are listening to feedback about content consumption fatigue and the desire for greater control. While YouTube continues to evolve its content strategy, this new setting stands as a powerful testament to the growing importance of personal boundaries in our increasingly digital lives.
+
+## Updates
+
+- **2026-04-22** — SpaceX is working with Cursor and has an option to buy the startup for $60B ([source](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/))
