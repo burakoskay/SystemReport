@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-04-22T11:11:49.030Z
+modified_date: 2026-04-22T22:52:26.150Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-04-22** — Apple Pay and MLS Season Pass earn Apple two Webby Awards ([source](https://9to5mac.com/2026/04/22/apple-pay-and-mls-season-pass-earn-apple-two-webby-awards/))
 - **2026-04-22** — Windows 9x Subsystem for Linux ([source](https://social.hails.org/@hailey/116446826733136456))
 - **2026-04-21** — Meta has misled users about scam ads on Facebook and Instagram, lawsuit says ([source](https://www.engadget.com/social-media/meta-has-misled-users-about-scam-ads-on-facebook-and-instagram-lawsuit-says-193220235.html?src=rss))
 - **2026-04-20** — Judge says White House can’t ‘strong-arm’ Apple into blocking ICE trackers ([source](https://9to5mac.com/2026/04/20/judge-says-white-house-cant-strong-arm-apple-into-blocking-ice-trackers/))

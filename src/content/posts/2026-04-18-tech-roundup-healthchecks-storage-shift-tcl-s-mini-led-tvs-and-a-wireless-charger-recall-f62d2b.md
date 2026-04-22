@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Healthchecks' Storage Shift, TCL's Mini LED TVs"
 date: 2026-04-18T01:05:19.132Z
-modified_date: 2026-04-22T09:26:11.303Z
+modified_date: 2026-04-22T22:52:25.519Z
 tags: ["tech news","mini led tvs","wireless charger recall"]
 hero_image: "/hero/2026-04-18-tech-roundup-healthchecks-storage-shift-tcl-s-mini-led-tvs-and-a-wireless-charger-recall-f62d2b.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "TCL RGB-Mini LED TV"
 description: "Healthchecks.io ditches cloud storage for self-hosted solution, TCL unveils RGB-Mini LED TVs, and a wireless charger recall due to burn hazards."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 In a significant move towards data sovereignty, Healthchecks.io has announced its transition to self-hosted object storage. This strategic shift marks a new era for the health monitoring service, allowing for greater control over its data and potentially enhanced security features.
@@ -23,4 +24,5 @@ These developments highlight the dual nature of the tech industry, where innovat
 
 ## Updates
 
+- **2026-04-22** — Kalshi suspended three political candidates from its platform for insider trading ([source](https://www.engadget.com/big-tech/kalshi-suspended-three-political-candidates-from-its-platform-for-insider-trading-222433937.html?src=rss))
 - **2026-04-22** — Anthropic’s most dangerous AI model just fell into the wrong hands ([source](https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security))

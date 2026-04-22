@@ -1,16 +1,17 @@
 ---
 title: "People of Note Brings a Fresh Spin to the RPG Genre"
 date: 2026-04-18T12:46:19.998Z
-modified_date: 2026-04-22T11:11:49.630Z
+modified_date: 2026-04-22T22:52:25.196Z
 tags: ["RPG","Music","Vacation","Relaxing","Engaging"]
 hero_image: "/hero/2026-04-18-people-of-note-brings-a-fresh-spin-to-the-rpg-genre-3d63dc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 People of Note is a game that brings a fresh spin to the RPG genre. Developed by Annapurna Interactive and Iridium Studios, it's a game that's perfect for a vacation. With its engaging storyline and addictive gameplay, you'll find yourself getting lost in the world of Cadence.
@@ -29,4 +30,5 @@ In conclusion, People of Note is a game that brings a fresh spin to the RPG genr
 
 ## Updates
 
+- **2026-04-22** — Tesla reports Q1 2026 earnings: Still profitable ([source](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/))
 - **2026-04-22** — This is Ternus’ biggest challenge, as he and Cook notch up key win ([source](https://9to5mac.com/2026/04/22/this-is-ternus-biggest-challenge-as-he-and-cook-notch-up-key-win/))
