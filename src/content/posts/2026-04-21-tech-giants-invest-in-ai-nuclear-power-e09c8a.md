@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Invest in AI, Nuclear Power"
 date: 2026-04-21T17:11:15.962Z
+modified_date: 2026-04-22T11:11:48.133Z
 tags: ["ai","nuclear power","social media"]
 hero_image: "/hero/2026-04-21-tech-giants-invest-in-ai-nuclear-power-e09c8a.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "a robotic figure running a half marathon"
 description: "Recent investments and innovations in AI, nuclear power, and social media aim to tackle issues like loneliness, misinformation, and user engagement."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 ## AI-Powered RPGs and Social Media Overhaul
@@ -72,3 +74,6 @@ Key decision points include the launch of Voyage and Bond, the development of ne
 
 As these innovations continue to unfold, it's essential to track their progress and assess their impact on their respective industries.
 
+## Updates
+
+- **2026-04-22** — Join Our Livestream: Musk v. Altman and the Future of OpenAI ([source](https://www.wired.com/story/livestream-musk-v-altman-trial/))

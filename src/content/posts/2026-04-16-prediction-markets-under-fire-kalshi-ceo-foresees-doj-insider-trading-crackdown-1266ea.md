@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-04-21T13:54:44.949Z
+modified_date: 2026-04-22T11:11:49.331Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 2
+sources_count: 3
 author: "lena-volkov"
 ---
+
 
 
 The burgeoning world of prediction markets, where users trade on the outcome of future events, is bracing for a potential showdown with federal regulators. Tarek Mansour, CEO of Kalshi, a leading regulated prediction market platform, has publicly stated his expectation that the U.S. Department of Justice (DOJ) will soon begin prosecuting insider trading cases related to these novel financial instruments. This declaration signals a significant shift, pulling the often-unregulated frontiers of digital speculation firmly into the crosshairs of traditional financial enforcement, redefining the boundaries of market integrity in the digital age.
@@ -25,4 +26,5 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-04-22** — X finally adds custom timelines ([source](https://www.engadget.com/social-media/x-finally-adds-custom-timelines-103130966.html?src=rss))
 - **2026-04-21** — John Ternus’s first big problem is AI ([source](https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri))

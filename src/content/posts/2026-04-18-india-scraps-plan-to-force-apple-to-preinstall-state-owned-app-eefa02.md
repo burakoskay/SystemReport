@@ -1,16 +1,17 @@
 ---
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
-modified_date: 2026-04-21T22:42:25.618Z
+modified_date: 2026-04-22T11:11:48.427Z
 tags: ["apple","india","privacy"]
 hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ As smartphone penetration continues to grow in India, the country's government w
 
 ## Updates
 
+- **2026-04-22** — Ranking the Best Red Light Therapy Mask and LED Devices of 2026 ([source](https://www.wired.com/story/led-face-masks-and-red-light-therapy/))
 - **2026-04-21** — Cash App now supports accounts for kids 6-12 ([source](https://www.engadget.com/apps/cash-app-now-supports-accounts-for-kids-6-12-210651025.html?src=rss))
 - **2026-04-21** — YouTube is muting push notifications from channels you don't watch ([source](https://www.engadget.com/entertainment/youtube/youtube-is-muting-push-notifications-from-channels-you-dont-watch-205119228.html?src=rss))
 - **2026-04-19** — The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot ([source](https://www.wired.com/gallery/best-pet-cameras/))
