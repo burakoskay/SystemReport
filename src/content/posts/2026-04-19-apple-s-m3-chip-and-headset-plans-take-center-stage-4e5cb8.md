@@ -1,15 +1,17 @@
 ---
 title: "Apple's M3 Chip and Headset Plans Take Center Stage"
 date: 2026-04-19T02:00:29.706Z
+modified_date: 2026-04-22T15:19:01.431Z
 tags: ["apple","m3 chip","mixed-reality headset","ar vr"]
 hero_image: "/hero/2026-04-19-apple-s-m3-chip-and-headset-plans-take-center-stage-4e5cb8.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple M3 chip"
 description: "Apple's latest M3 chip brings significant performance gains, while rumors of a mixed-reality headset continue to build anticipation."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Apple's M3 Chipset: A Leap Forward in Performance
@@ -31,3 +33,7 @@ The stakes for Apple's M3 chip and mixed-reality headset are significant. The M3
 ## What to Watch
 
 As Apple continues to push the boundaries of its technology, several key areas are worth watching. The development and release of the mixed-reality headset will be closely monitored, as will the adoption and impact of the M3 chip on the market. Additionally, Apple's strategy for its AR and VR offerings will provide insight into the company's vision for the future of technology and its role within it.
+
+## Updates
+
+- **2026-04-22** — Now Meta will track what employees do on their computers to train its AI agents ([source](https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking))
