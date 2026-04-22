@@ -1,15 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Beta 3: What's New and Why It Matters"
 date: 2026-04-20T20:41:02.988Z
+modified_date: 2026-04-22T21:01:37.067Z
 tags: ["apple","ios","ipados","security"]
 hero_image: "/hero/2026-04-20-apple-s-ios-26-5-beta-3-what-s-new-and-why-it-matters-5e8bee.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 ## The Latest from Apple: iOS 26.5 Beta 3 and Beyond
 
@@ -38,3 +40,7 @@ As we move forward, it's clear that Apple will continue to prioritize both innov
 ## A Call to Action
 
 For now, developers and users alike should keep a close eye on Apple's updates and take advantage of the new features and security patches as they become available. The company's commitment to security and innovation is evident, and it's up to us to stay informed and adapt to the ever-changing landscape of tech.
+
+## Updates
+
+- **2026-04-22** — Google will fix an Android XR bug leaving Galaxy headsets ‘functionally useless’ ([source](https://9to5google.com/2026/04/22/android-xr-bug-performance-problems/))

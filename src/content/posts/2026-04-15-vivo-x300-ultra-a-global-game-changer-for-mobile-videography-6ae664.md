@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-04-19T08:44:16.125Z
+modified_date: 2026-04-22T21:01:35.839Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 
 Vivo, a name increasingly synonymous with pushing smartphone camera boundaries, is making its most ambitious global statement yet with the launch of the X300 Ultra. After years of its innovative camera-centric phones having limited availability in Western markets, this new flagship is poised to challenge the established order, particularly for aspiring and professional videographers. While a US launch remains unconfirmed, the X300 Ultra is making waves across Asia, parts of Europe, and Brazil, signaling a significant shift in Vivo's market strategy.
@@ -25,4 +26,5 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-04-22** — X is going to let Grok curate your timeline ([source](https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation))
 - **2026-04-19** — Show HN: MDV – a Markdown superset for docs, dashboards, and slides with data ([source](https://github.com/drasimwagan/mdv))
