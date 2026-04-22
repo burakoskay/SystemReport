@@ -1,16 +1,17 @@
 ---
 title: "Ford CEO: Chinese Auto Imports Threaten US Market and Jobs"
 date: 2026-04-16T05:31:26.392Z
-modified_date: 2026-04-21T09:44:34.501Z
+modified_date: 2026-04-22T17:07:46.662Z
 tags: ["automotive","us jobs","china trade","ford","ev market"]
 hero_image: "/hero/2026-04-16-the-coming-wave-ford-ceo-warns-chinese-auto-imports-threaten-us-market-jobs-e2b9ff.jpg"
 hero_image_credit_name: "Kelly"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "US auto industry under pressure from global competition"
 description: "Ford CEO Jim Farley warns China's vast auto production capacity could overwhelm the US market, posing a critical threat to American jobs and manufacturing."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ As the global automotive landscape shifts dramatically towards electrification a
 
 ## Updates
 
+- **2026-04-22** — Anthropic&#8217;s Mythos rollout has missed America’s cyberscurity agency ([source](https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out))
 - **2026-04-21** — Instagram says a bug turned your photos black and white ([source](https://www.engadget.com/apps/instagram-says-a-bug-turned-your-photos-black-and-white-061802389.html?src=rss))
 - **2026-04-21** — Ikea and Samsung promise glitch-free SmartThings integration ([source](https://www.theverge.com/tech/915560/ikea-and-samsung-promise-glitch-free-smartthings-integration))

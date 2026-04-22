@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-04-21T17:09:54.058Z
+modified_date: 2026-04-22T17:07:46.975Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,5 +42,6 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-04-22** — Microsoft teases mysterious Discord and Xbox Game Pass partnership ([source](https://www.theverge.com/news/916787/microsoft-discord-xbox-game-pass-partnership))
 - **2026-04-21** — Those ‘new’ EU battery regulations probably won’t mean hot-swap batteries for your Android phone ([source](https://9to5google.com/2026/04/21/those-new-eu-battery-regulations-probably-wont-mean-hot-swap-batteries-for-your-android-phone/))
 - **2026-04-20** — The Best Hybrid Mattresses for Couples, Back Pain, and More (2026) ([source](https://www.wired.com/gallery/best-hybrid-mattresses/))
