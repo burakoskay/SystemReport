@@ -1,15 +1,17 @@
 ---
 title: "Deezer battles AI music flood and a fraud epidemic"
 date: 2026-04-20T20:39:07.977Z
+modified_date: 2026-04-22T19:21:33.197Z
 tags: ["deezer","ai music","streaming fraud","music industry"]
 hero_image: "/hero/2026-04-20-deezer-battles-ai-music-flood-and-a-fraud-epidemic-df79a6.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI-generated music tracks flooding a streaming dashboard"
 description: "Deezer reports AI tracks now 44% of uploads, but most streams are fraudulent, exposing a $20bn market vulnerability."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Deezer logged 75,000 AI‑generated song submissions on a single day, a volume that now accounts for 44% of all daily uploads. The surge threatens royalty integrity and forces the French streamer to rewrite its fraud defenses.
 
@@ -38,3 +40,7 @@ Historically, technology shocks have exposed regulatory blind spots. The 1996 Te
 ## What to watch
 
 Regulators in the EU and U.S. are drafting guidelines for AI‑generated content. If they mandate transparent labeling, Deezer’s early tagging could become a market advantage. Watch for a possible coalition of streaming services around a shared detection protocol. The next few months will decide whether AI music enriches the catalog or becomes a conduit for a new wave of royalty theft.
+
+## Updates
+
+- **2026-04-22** — Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day ([source](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal))

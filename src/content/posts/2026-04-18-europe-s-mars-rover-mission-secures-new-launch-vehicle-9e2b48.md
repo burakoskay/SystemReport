@@ -1,15 +1,17 @@
 ---
 title: "Europe's Mars Rover Mission Secures New Launch Vehicle"
 date: 2026-04-18T20:30:07.758Z
+modified_date: 2026-04-22T19:21:32.902Z
 tags: ["ESA","ExoMars","SpaceX","Falcon Heavy"]
 hero_image: "/hero/2026-04-18-europe-s-mars-rover-mission-secures-new-launch-vehicle-9e2b48.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Mars Rover"
 description: "Europe's first Mars rover mission finds a new ride on SpaceX's Falcon Heavy after multiple launch delays."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## A New Launch for Mars
 
@@ -26,3 +28,7 @@ The rover is designed to search for signs of life on Mars. Equipped with a drill
 ## What's Next
 
 The Falcon Heavy launch is expected to propel the rover to Mars. Once on the Martian surface, the rover will begin its scientific mission, searching for signs of past or present life. The success of the rover will depend on a variety of factors, including the performance of the Falcon Heavy rocket and the rover's scientific instruments.
+
+## Updates
+
+- **2026-04-22** — Former MrBeast exec sues over ‘years’ of alleged harassment ([source](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit))
