@@ -1,16 +1,17 @@
 ---
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
-modified_date: 2026-04-19T16:30:56.375Z
+modified_date: 2026-04-22T13:54:07.444Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
 hero_image: "/hero/2026-04-15-from-sneakers-to-servers-allbirds-daring-leap-into-ai-compute-545a5c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 The once-ubiquitous wool sneakers of Allbirds, a brand that soared to a $4 billion valuation just a few years ago, are being unceremoniously shed in favor of silicon and servers. In a stunning corporate pivot, the company is rebranding as NewBird AI, aiming to become a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider. This dramatic transformation follows a turbulent period for the footwear giant, which saw its stock tumble and sales decline by nearly 50 percent between 2022 and 2025, ultimately selling its core shoe business and brand assets for a mere $39 million earlier this month. The message is clear: if you can't beat the AI craze, join it—or rather, become it.
@@ -23,4 +24,5 @@ Allbirds' transformation is not an isolated incident but rather a striking sympt
 
 ## Updates
 
+- **2026-04-22** — Xfinity Mobile now includes device protection and anytime phone upgrades ([source](https://www.engadget.com/mobile/xfinity-mobile-now-includes-device-protection-and-anytime-phone-upgrades-133511715.html?src=rss))
 - **2026-04-19** — Apple has already teased Siri’s new design coming in iOS 27 ([source](https://9to5mac.com/2026/04/19/apple-has-already-teased-siris-new-design-coming-in-ios-27/))

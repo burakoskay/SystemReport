@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Updates ChatGPT"
 date: 2026-04-21T22:42:56.333Z
+modified_date: 2026-04-22T13:54:06.540Z
 tags: ["openai","chatgpt","ai"]
 hero_image: "/hero/2026-04-21-openai-updates-chatgpt-7a7176.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "AI chatbot"
 description: "OpenAI releases ChatGPT Images 2.0 model and updates Mac apps due to security issue, while investigating mental health concerns"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to ChatGPT Updates
@@ -43,3 +45,7 @@ The future of ChatGPT and its potential impact on society will depend on how the
 In conclusion, the release of the ChatGPT Images 2.0 model and the updates to the Mac apps are significant developments in the field of AI. As OpenAI continues to push the boundaries of what is possible with AI, it is essential to consider the potential implications and ensure that the technology is used responsibly. The next few months will be crucial in determining the future of ChatGPT and its potential impact on society.
 
 What to watch in the coming weeks: OpenAI's continued updates and improvements to ChatGPT, the potential impact on mental health, and the company's efforts to address concerns about the technology's use and regulation.
+
+## Updates
+
+- **2026-04-22** — The year’s weirdest game is hard to explain and even harder to put down ([source](https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game))

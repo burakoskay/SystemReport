@@ -1,15 +1,17 @@
 ---
 title: "Schematik's Hardware Coding Ambition"
 date: 2026-04-18T12:45:25.911Z
+modified_date: 2026-04-22T13:54:06.839Z
 tags: ["AI","coding","design"]
 hero_image: "/hero/2026-04-18-schematik-s-hardware-coding-ambition-2cdfb0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "robotics"
 description: "Schematik's 'Cursor for Hardware' and Anthropic's Claude Design aim to streamline coding and design"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Schematik's Bold Step into Hardware Coding
 
@@ -26,3 +28,7 @@ The practice of 'tokenmaxxing' generates vast amounts of code, but at a signific
 ## Design and Robotics Advancements
 
 Chef Robotics, having escaped the robot-cooking graveyard, is thriving with its AI-guided robot arms for food production. The company plans to expand services to a broader customer base. As these companies innovate, the lines between code, design, and hardware blur. The consequence of these advancements will be significant, with the tech industry poised for a shake-up.
+
+## Updates
+
+- **2026-04-22** — Behind the unraveling of Dan Crenshaw ([source](https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online))

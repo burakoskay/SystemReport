@@ -1,15 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
+modified_date: 2026-04-22T13:54:08.037Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 The foldable smartphone arena, once a niche for early adopters and tech enthusiasts, is rapidly evolving into a battleground for innovation and market share. Recent developments signal a crucial phase for this burgeoning segment, as new players make their move and an industry giant looms on the horizon.
 
@@ -20,3 +22,7 @@ Across the Atlantic, in the more nascent North American foldable market, Google 
 However, the current landscape is merely the prelude to a much larger transformation. Industry reports forecast a seismic shift with the inevitable arrival of Apple into the foldable market. Projections suggest that upon its debut, an Apple foldable could command nearly 50% of the market share, dwarfing current players almost overnight. This anticipated entry is expected to not only legitimize the foldable category in the eyes of mainstream consumers but also ignite a new wave of innovation and competition among all manufacturers.
 
 As the Razr Fold reaches new shores and Pixel maintains its surprising foothold, the industry watches with bated breath for Apple's play. The next few years promise to be pivotal for foldable technology, transitioning from an experimental luxury to a potentially dominant form factor, driven by both current contenders and an impending market disruptor.
+
+## Updates
+
+- **2026-04-22** — BMW's new i7 xDrive EVs will offer longer range and faster charging ([source](https://www.engadget.com/transportation/evs/bmws-new-i7-xdrive-evs-will-offer-longer-range-and-faster-charging-131059423.html?src=rss))

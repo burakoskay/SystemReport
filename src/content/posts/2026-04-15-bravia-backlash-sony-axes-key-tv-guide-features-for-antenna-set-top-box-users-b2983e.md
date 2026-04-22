@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-04-21T02:58:06.790Z
+modified_date: 2026-04-22T13:54:07.740Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 
 Sony, a name often synonymous with premium home entertainment, is set to implement a perplexing change that will impact a significant segment of its Bravia smart TV owners. Starting in late May, various 2023, 2024, and even some forthcoming 2025 Bravia models will see a notable downgrade in their built-in TV guide and set-top box functionalities, particularly for those who steadfastly rely on over-the-air (OTA) antennas or external set-top boxes.
@@ -25,4 +26,5 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-04-22** — Hey Meta workers, are you getting paid for those keystrokes? ([source](https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss))
 - **2026-04-21** — Amazon will invest up to $25 billion in Anthropic in a broad deal ([source](https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss))
