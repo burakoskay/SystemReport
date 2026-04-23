@@ -1,18 +1,20 @@
 ---
 title: "Google expands Gemini in Chrome, adds AI tools across suite"
 date: 2026-04-21T09:45:11.730Z
+modified_date: 2026-04-23T20:57:34.328Z
 tags: ["google","chrome","ai","accessibility","productivity"]
 hero_image: "/hero/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Chrome browser window with AI assistant overlay"
 description: "Google rolls Gemini AI to Chrome in seven Asian markets while upgrading security, Assistant, Docs and accessibility features."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.mp3"
 audio_bytes: 23819972
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Gemini arrives in Chrome across Asia‑Pacific
 Google enabled Gemini in Chrome for Australia, Indonesia, Japan, the Philippines, Singapore, South Korea and Vietnam. The rollout covers desktop browsers and iOS devices, except for Japan where iOS support is not yet active.
@@ -43,3 +45,7 @@ These accessibility upgrades sit alongside the broader AI rollout, highlighting 
 
 ## What to watch
 Watch for Gemini’s expansion beyond the initial seven markets. Google has hinted at a global rollout early next year, and the next batch of countries will reveal how the model scales across different regulatory environments. Track the adoption of Lookout Image Q&A as it moves from beta to public release; user feedback will shape the feature’s accuracy and privacy safeguards. Finally, monitor how developers leverage the new Assistant language support and hand‑off APIs—early integrations could set the tone for cross‑device AI workflows in 2025.
+
+## Updates
+
+- **2026-04-23** — Rednote Draws a Line Between China and the World ([source](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/))

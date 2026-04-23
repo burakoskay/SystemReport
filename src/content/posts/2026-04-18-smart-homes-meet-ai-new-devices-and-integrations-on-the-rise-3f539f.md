@@ -1,16 +1,18 @@
 ---
 title: "Smart Homes Meet AI: New Devices and Integrations on the Rise"
 date: 2026-04-18T01:10:59.710Z
-modified_date: 2026-04-22T17:07:47.285Z
+modified_date: 2026-04-23T20:57:35.519Z
 tags: ["smart homes","ai integrations","new devices"]
 hero_image: "/hero/2026-04-18-smart-homes-meet-ai-new-devices-and-integrations-on-the-rise-3f539f.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home security camera with AI"
 description: "The latest smart home devices and AI integrations are changing the game for homeowners and tech enthusiasts alike."
-sources_count: 6
+sources_count: 8
 author: "maya-chen"
 ---
+
+
 
 
 
@@ -27,6 +29,8 @@ For homeowners and tech enthusiasts, the possibilities are endless. Whether you'
 
 ## Updates
 
+- **2026-04-23** — Microsoft is reportedly offering voluntary buyouts to up to 7 percent of its employees ([source](https://www.engadget.com/big-tech/microsoft-is-reportedly-offering-voluntary-buyouts-to-up-to-7-percent-of-its-employees-200050484.html?src=rss))
+- **2026-04-23** — Meta is laying off 10 percent of its staff ([source](https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff))
 - **2026-04-22** — Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’ ([source](https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment))
 - **2026-04-21** — Yelp is making its AI chatbot way more useful ([source](https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade))
 - **2026-04-19** — Tesla is rolling out its Robotaxi service to Dallas and Houston ([source](https://www.engadget.com/transportation/tesla-is-rolling-out-its-robotaxi-service-to-dallas-and-houston-160742941.html?src=rss))
