@@ -1,0 +1,30 @@
+# System Report
+
+> In-depth tech news, analysis, and a growing collection of private, browser-based tools. No uploads, no tracking, no accounts.
+
+System Report (systemreport.net) publishes tech news, commentary on hardware and software, and free client-side utilities where user data never leaves the browser.
+
+## Tools
+
+- [EXIF Metadata Remover](https://www.systemreport.net/tools/exif-stripper/): Strip GPS coordinates, camera model, timestamps, and other EXIF metadata from JPEG, PNG, and WebP photos. 100% client-side — images never upload anywhere.
+- [All tools](https://www.systemreport.net/tools/): Collection page listing current and upcoming browser-based utilities.
+
+## Sections
+
+- [Home](https://www.systemreport.net/): Front page with the latest stories.
+- [Tech](https://www.systemreport.net/tech): Tech industry coverage.
+- [AI](https://www.systemreport.net/ai): AI news and analysis.
+- [Gaming](https://www.systemreport.net/gaming): Gaming industry coverage.
+- [Software](https://www.systemreport.net/software): Software and developer-facing coverage.
+- [Hardware](https://www.systemreport.net/hardware): Hardware reviews and news.
+
+## Feeds
+
+- [RSS](https://www.systemreport.net/rss.xml)
+- [JSON Feed](https://www.systemreport.net/feed.json)
+- [Podcast RSS (narrated articles)](https://www.systemreport.net/podcast.xml)
+
+## About
+
+- [About](https://www.systemreport.net/about): What System Report is and how it's built.
+- [Privacy Policy](https://www.systemreport.net/privacy): Data handling policy. Tools pages perform all processing in the browser; no files or form data are transmitted to the server.
