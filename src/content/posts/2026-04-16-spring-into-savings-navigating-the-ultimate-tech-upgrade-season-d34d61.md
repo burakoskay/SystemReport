@@ -1,16 +1,17 @@
 ---
 title: "Spring Into Savings: Navigating the Ultimate Tech Upgrade Season"
 date: 2026-04-16T05:27:43.047Z
-modified_date: 2026-04-23T20:57:34.581Z
+modified_date: 2026-04-23T22:53:04.809Z
 tags: ["tech deals","spring sales","consumer electronics","smart home","productivity"]
 hero_image: "/hero/2026-04-16-spring-into-savings-navigating-the-ultimate-tech-upgrade-season-d34d61.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "modern tech gadgets discount shopping"
 description: "As spring sales bloom, unprecedented discounts on flagship phones, powerful laptops, and smart home devices offer prime opportunities to upgrade your tech."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ Whether you're eyeing a powerful new laptop, a smart home upgrade, or simply bet
 
 ## Updates
 
+- **2026-04-23** — Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro ([source](https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle))
 - **2026-04-23** — Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto ([source](https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/))
 - **2026-04-22** — Sony’s PlayStation 5 is $200 off for the first time since December ([source](https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale))
 - **2026-04-21** — Xbox Game Pass Ultimate gets a price cut but loses new Call of Duty games ([source](https://www.theverge.com/news/915928/microsoft-xbox-game-pass-ultimate-price-drop))
