@@ -1,3 +1,5 @@
+import { spawn } from 'node:child_process';
+
 // Text-to-speech provider chain.
 //
 // Audio narration ("Listen to this article") is a load-bearing site feature,
@@ -103,9 +105,11 @@ async function synthesizeCloudflare(text) {
   const chunks = splitIntoChunks(text, MAX_CHARS_PER_CHUNK);
   const parts = [];
   for (const c of chunks) {
-    parts.push(await withRetry(() => cfMeloOne(c), { retries: 2 }));
+    // 4 retries: MeloTTS quota is generous, the failure mode is transient CF
+    // edge hiccups. Cheaper to retry than to fall through to Groq's daily cap.
+    parts.push(await withRetry(() => cfMeloOne(c), { retries: 4 }));
   }
-  return { bytes: concatMp3s(parts), ext: 'mp3', mime: 'audio/mpeg', provider: 'cloudflare-melotts' };
+  return finalize(concatMp3s(parts), 'cloudflare-melotts');
 }
 
 // --- Groq Orpheus (WAV) ---
@@ -156,7 +160,60 @@ async function synthesizeGroq(text) {
   for (const c of chunks) {
     parts.push(await withRetry(() => groqOrpheusOne(c), { retries: 1 }));
   }
-  return { bytes: concatWavs(parts), ext: 'wav', mime: 'audio/wav', provider: 'groq-orpheus' };
+  return finalize(concatWavs(parts), 'groq-orpheus');
+}
+
+// --- Normalization ---
+//
+// Providers are wildly inconsistent about encoding. CF MeloTTS has been
+// observed returning ~3 Mbps output labeled as MP3 (70s clip → 28 MB),
+// which breaks Cloudflare Pages' 25 MiB per-asset limit and halts deploys.
+// Groq returns uncompressed WAV. Transcoding every output through ffmpeg
+// to a fixed 64 kbps mono MP3 guarantees small (~0.5 MB/min), valid audio
+// regardless of what any provider returns. Safety cap: ~20 MiB for a 6000-
+// char article at typical speech rate — well under the 25 MiB Pages limit.
+async function normalizeToMp3(buffer) {
+  return new Promise((resolve, reject) => {
+    const ff = spawn('ffmpeg', [
+      '-hide_banner', '-loglevel', 'error',
+      '-i', 'pipe:0',
+      '-vn',
+      '-ac', '1',
+      '-ar', '22050',
+      '-b:a', '64k',
+      '-codec:a', 'libmp3lame',
+      '-f', 'mp3',
+      'pipe:1',
+    ], { stdio: ['pipe', 'pipe', 'pipe'] });
+
+    const out = [];
+    const err = [];
+    ff.stdout.on('data', (d) => out.push(d));
+    ff.stderr.on('data', (d) => err.push(d));
+    ff.on('error', (e) => reject(new Error(`ffmpeg spawn failed (is it installed?): ${e.message}`)));
+    ff.on('close', (code) => {
+      if (code !== 0) {
+        return reject(new Error(`ffmpeg exit ${code}: ${Buffer.concat(err).toString('utf8').slice(0, 300)}`));
+      }
+      resolve(Buffer.concat(out));
+    });
+
+    ff.stdin.on('error', (e) => reject(new Error(`ffmpeg stdin: ${e.message}`)));
+    ff.stdin.end(buffer);
+  });
+}
+
+// Hard ceiling below Cloudflare Pages' 25 MiB per-file limit. If we ever hit
+// this post-normalization something is very wrong — refuse rather than ship
+// a file that would break the site deploy.
+const MAX_AUDIO_BYTES = 22 * 1024 * 1024;
+
+async function finalize(bytes, provider) {
+  const mp3 = await normalizeToMp3(bytes);
+  if (mp3.length > MAX_AUDIO_BYTES) {
+    throw new Error(`TTS output oversized after normalize: ${mp3.length} bytes (cap ${MAX_AUDIO_BYTES})`);
+  }
+  return { bytes: mp3, ext: 'mp3', mime: 'audio/mpeg', provider };
 }
 
 // --- Public API ---
