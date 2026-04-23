@@ -1,16 +1,17 @@
 ---
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
-modified_date: 2026-04-21T19:20:04.046Z
+modified_date: 2026-04-23T09:48:49.716Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 A significant strategic maneuver is underway within Apple's Cupertino campus, as reports from The Information indicate a cohort of Siri engineers are being dispatched to a "multi-week bootcamp to learn to code using AI." This isn't just another internal training; it's a clear signal that Apple is making an aggressive, foundational investment in overhauling its voice assistant with next-generation artificial intelligence capabilities.
@@ -25,4 +26,5 @@ As the tech world eagerly anticipates Apple's next major software releases, all 
 
 ## Updates
 
+- **2026-04-23** — Honor’s new phones look like iPhones for Android ([source](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android))
 - **2026-04-21** — The abandoned war: Why no one is stopping the genocide in Sudan ([source](https://respublica.media/en/en-sudan-abandoned-war-genocide-no-one-stopping/))
