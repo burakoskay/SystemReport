@@ -41,11 +41,26 @@ jobs:
 
           mkdir -p public/hero ops
 
-          git add src/content/posts/ public/hero/ ops/elena-docs.json || true
+          # Combine content + ops into a single commit when content changed
+          # so CF Pages sees the build-triggering message at HEAD. Standalone
+          # [CI Skip] commit for ops-only no-op runs (the common case).
+          git add src/content/posts/ public/hero/ || true
+          CONTENT_CHANGED=0
+          if ! git diff-index --quiet --cached HEAD; then
+            CONTENT_CHANGED=1
+          fi
+          git add ops/elena-docs.json || true
 
-          if ! git diff-index --quiet HEAD; then
+          if [ "$CONTENT_CHANGED" = "1" ]; then
             git commit -m "editorial: ingest Elena's latest column"
             git push
+          elif ! git diff-index --quiet --cached HEAD; then
+            git commit -m "chore: elena ingest state [CI Skip]"
+            git push
           else
-            echo "No new editorial to commit."
+            echo "Nothing to commit."
           fi
+
+      - name: Freshness healthcheck (live site vs main)
+        if: always()
+        run: node scripts/check-freshness.mjs

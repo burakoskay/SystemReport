@@ -60,11 +60,31 @@ jobs:
           # Ensure optional output dirs exist so git-add never fails on missing pathspec
           mkdir -p public/hero public/audio ops/telemetry ops/eval src/content/posts-i18n
 
-          git add src/content/posts/ src/content/posts-i18n/ public/hero/ public/audio/ processed_urls.json ops/provider-health.json ops/telemetry/ ops/eval/ ops/dlq.jsonl || true
+          # Check whether any public-facing content changed. CF Pages only
+          # inspects the HEAD commit message for skip markers, so we combine
+          # content + ops into ONE commit whenever content exists, and use a
+          # standalone [CI Skip] commit only for ops-only runs. This stops
+          # burning CF Pages' monthly build budget on no-op telemetry bumps.
+          git add src/content/posts/ src/content/posts-i18n/ public/hero/ public/audio/ || true
+          CONTENT_CHANGED=0
+          if ! git diff-index --quiet --cached HEAD; then
+            CONTENT_CHANGED=1
+          fi
+          git add processed_urls.json ops/provider-health.json ops/telemetry/ ops/eval/ ops/dlq.jsonl || true
 
-          if ! git diff-index --quiet HEAD; then
+          if [ "$CONTENT_CHANGED" = "1" ]; then
             git commit -m "chore: automated content ingestion"
             git push
+          elif ! git diff-index --quiet --cached HEAD; then
+            git commit -m "chore: ops telemetry [CI Skip]"
+            git push
           else
-            echo "No new articles to commit."
+            echo "Nothing to commit."
           fi
+
+      - name: Freshness healthcheck (live site vs main)
+        # Fails loudly (red check on GitHub) if the live site is measurably
+        # behind main. 45-min tolerance absorbs normal CF Pages build time;
+        # anything longer is a real stall worth investigating.
+        if: always()
+        run: node scripts/check-freshness.mjs
