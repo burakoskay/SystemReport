@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-04-22T13:54:07.740Z
+modified_date: 2026-04-23T17:41:36.042Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-04-23** — Five Annapurna Interactive games get Switch 2 releases ([source](https://www.engadget.com/gaming/nintendo/five-annapurna-interactive-games-get-switch-2-releases-164950446.html?src=rss))
 - **2026-04-22** — Hey Meta workers, are you getting paid for those keystrokes? ([source](https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss))
 - **2026-04-21** — Amazon will invest up to $25 billion in Anthropic in a broad deal ([source](https://www.engadget.com/ai/amazon-will-invest-up-to-25-billion-in-anthropic-in-a-broad-deal-225239302.html?src=rss))

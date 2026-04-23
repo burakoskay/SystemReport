@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-04-22T15:19:02.418Z
+modified_date: 2026-04-23T17:41:35.740Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-04-23** — Rivian begins production on the R2 electric SUV ([source](https://www.engadget.com/transportation/evs/rivian-begins-production-on-the-r2-electric-suv-171729320.html?src=rss))
 - **2026-04-22** — John Ternus is an Apple TV fan, but wants to make it ‘more competitive’: report ([source](https://9to5mac.com/2026/04/22/john-ternus-is-an-apple-tv-fan-but-wants-to-make-it-more-competitive-report/))
 - **2026-04-22** — X finally adds custom timelines ([source](https://www.engadget.com/social-media/x-finally-adds-custom-timelines-103130966.html?src=rss))
 - **2026-04-21** — John Ternus’s first big problem is AI ([source](https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri))

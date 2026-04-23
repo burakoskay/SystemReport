@@ -1,15 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
+modified_date: 2026-04-23T17:41:35.114Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Smart Home Devices Get Smarter
@@ -35,3 +37,7 @@ However, there are also challenges to be addressed, such as ensuring that smart 
 As the smart home market continues to heat up, there are several things to watch. One is the development of new devices and systems that take advantage of emerging standards like Matter. Another is the growth of smart home technology in new areas, such as independent living and aging in place. Finally, it's worth keeping an eye on the evolution of smart home standards and protocols, as these will play a critical role in determining the future of the industry.
 
 In the near future, we can expect to see more devices like the Ulticam IQ V2 emerge, which will make it easier for homeowners to monitor and manage their smart homes. We can also expect to see more focus on security and ease of use, as well as on developing standards and protocols that make it easier for devices to communicate with each other. Ultimately, the goal of smart home technology is to make our lives easier and more convenient, and it will be exciting to see how this technology continues to evolve in the coming years.
+
+## Updates
+
+- **2026-04-23** — Era raises $11M to build a software platform for AI gadgets ([source](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/))
