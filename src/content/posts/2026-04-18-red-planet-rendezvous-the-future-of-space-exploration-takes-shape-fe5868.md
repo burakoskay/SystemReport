@@ -1,16 +1,17 @@
 ---
 title: "Red Planet Rendezvous: The Future of Space Exploration Takes Shape"
 date: 2026-04-18T01:05:06.563Z
-modified_date: 2026-04-21T17:09:52.397Z
+modified_date: 2026-04-23T13:56:10.647Z
 tags: ["space exploration","mars rover","reentry tech"]
 hero_image: "/hero/2026-04-18-red-planet-rendezvous-the-future-of-space-exploration-takes-shape-fe5868.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Mars rover launch"
 description: "Europe's Mars rover finds a new ride as space agencies make strides in crew launch and reentry tech."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 The space industry is abuzz with excitement as several high-profile missions and technological advancements take shape. For the European Space Agency, a long-awaited Mars rover mission has finally found a reliable ride to the Red Planet, courtesy of SpaceX's Falcon Heavy. This development marks a significant milestone for the agency, which has endured a saga of broken promises and false starts. 
@@ -19,4 +20,5 @@ The space industry is abuzz with excitement as several high-profile missions and
 
 ## Updates
 
+- **2026-04-23** — Microsoft launches ‘vibe working’ in Word, Excel, and PowerPoint ([source](https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint))
 - **2026-04-21** — Oppo’s new phone has one camera too many ([source](https://www.theverge.com/gadgets/915686/oppo-find-x9-ultra-review-10x-telephoto-lens))

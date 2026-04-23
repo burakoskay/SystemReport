@@ -1,16 +1,17 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-04-22T22:52:25.830Z
+modified_date: 2026-04-23T13:56:10.035Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-04-23** — You’re about to feel the AI money squeeze ([source](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue))
 - **2026-04-22** — Ecco the Dolphin: Complete will combine remasters and a sequel into one package ([source](https://www.engadget.com/gaming/ecco-the-dolphin-complete-will-combine-remasters-and-a-sequel-into-one-package-222020243.html?src=rss))
 - **2026-04-22** — AI failure could trigger the next financial crisis, warns Elizabeth Warren ([source](https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren))
 - **2026-04-20** — Birdfy’s new 4K feeder wants to teach you about the birds it identifies ([source](https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability))
