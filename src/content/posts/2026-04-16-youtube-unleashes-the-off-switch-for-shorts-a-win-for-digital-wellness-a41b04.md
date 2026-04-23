@@ -1,16 +1,17 @@
 ---
 title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
-modified_date: 2026-04-22T19:21:34.125Z
+modified_date: 2026-04-23T11:14:08.177Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"
 description: "YouTube is rolling out a zero-minute time limit for Shorts, allowing users to effectively turn off the short-form video feed and reclaim digital wellness."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ Ultimately, the rollout of a zero-minute Shorts limit represents a significant w
 
 ## Updates
 
+- **2026-04-23** — They Made D4vd a Star. Now They Want Him Convicted of Murder ([source](https://www.wired.com/d4vd-david-burke-celeste-rivas-hernandez-murder/))
 - **2026-04-22** — Apple TV’s acclaimed London crime thriller is back with new season ([source](https://9to5mac.com/2026/04/22/apple-tvs-acclaimed-london-crime-thriller-is-back-with-new-season/))
 - **2026-04-22** — Vampire Survivors developer Poncle is opening more studios and has over 15 games in the works ([source](https://www.engadget.com/gaming/vampire-survivors-developer-poncle-is-opening-more-studios-and-has-over-15-games-in-the-works-174022348.html?src=rss))
 - **2026-04-22** — SpaceX is working with Cursor and has an option to buy the startup for $60B ([source](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/))

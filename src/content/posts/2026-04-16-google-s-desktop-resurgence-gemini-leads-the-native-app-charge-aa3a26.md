@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-04-21T22:42:25.331Z
+modified_date: 2026-04-23T11:14:08.542Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 For years, Google has been synonymous with the web. Its sprawling ecosystem, from Search to Gmail to Docs, has largely thrived within the confines of the browser, making it the de facto platform for a generation of users. However, recent developments indicate a subtle yet significant shift in the tech giant's strategy: a renewed focus on native desktop applications.
@@ -23,4 +24,5 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-04-23** — Musk pledges to fix 2019-2023 Teslas that can't fully self drive ([source](https://www.engadget.com/transportation/evs/musk-pledges-to-fix-2019-2023-teslas-that-cant-fully-self-drive-095002120.html?src=rss))
 - **2026-04-21** — Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" ([source](https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/))
