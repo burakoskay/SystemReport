@@ -1,15 +1,17 @@
 ---
 title: "Smart Gadgets 2026: When Features Miss the Mark"
 date: 2026-04-18T12:44:16.767Z
+modified_date: 2026-04-23T15:59:19.845Z
 tags: ["smart home","gaming laptop","portable speakers","camera accessories"]
 hero_image: "/hero/2026-04-18-smart-gadgets-2026-when-features-miss-the-mark-5fa118.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home"
 description: "Examining 2026's smart home locks, a GPU-less laptop, a flexible camera rig, and portable speakers that deliver on promise."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 ## Smart Home Upgrades Boost Curb Appeal
 Smart home accessories can enhance a home's aesthetic. Locks, lights, and other upgrades let homeowners add automation without disrupting their home's vibe. These accessories promise remote control via voice assistants.
@@ -25,3 +27,7 @@ WIRED's 2026 best Bluetooth speakers list includes JBL, Sonos, and Bose models. 
 
 ## Consequences and Market Direction
 These product categories reveal a pattern. Manufacturers chase feature differentiation, often adding friction rather than value. Consumers receive devices that look innovative on paper but fall short in real-world scenarios. The market will likely reward products that balance novelty with dependable performance.
+
+## Updates
+
+- **2026-04-23** — Motorola’s new Razr Ultra leaks again, this time with all of its cameras [Gallery] ([source](https://9to5google.com/2026/04/23/motorola-razr-ultra-2026-leaks/))

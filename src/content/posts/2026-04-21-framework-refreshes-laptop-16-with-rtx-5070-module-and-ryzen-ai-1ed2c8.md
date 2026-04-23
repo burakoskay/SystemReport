@@ -1,15 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
+modified_date: 2026-04-23T15:59:18.891Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 ## New silicon and graphics in the 16‑inch chassis
 Framework announced a refreshed Laptop 16 that swaps the original Ryzen 7 7840HS for a family of Ryzen AI processors. The entry tier uses the Ryzen AI 340 chip, a move the company says will trim the base price. The top tier retains a Ryzen 9 7940HS, but Framework warned that model will disappear once inventory runs out. Both CPUs sit behind a new graphics module that houses Nvidia’s mobile GeForce RTX 5070. The module carries an 8 GB GDDR7 stack on a 128‑bit bus, shares the GB206 die with the desktop RTX 5060 Ti, and promises a 30‑40 % uplift over the previous Radeon RX 7700S. Nvidia‑specific features such as DLSS, CUDA and ray‑tracing are now available, although the 8 GB memory ceiling may limit some workloads.
@@ -34,3 +36,7 @@ Framework’s modular ethos also means that the RTX 5070 module is backward comp
 ## What to watch next
 The immediate horizon includes the November ship date for the first retail units and the expected June fulfillment deadline for all pre‑orders. Observers should track whether the G‑Sync firmware lands in a future update, as that could retroactively enhance the value of earlier displays. A second indicator will be the market response to the lower‑end Ryzen AI 340 configuration – if it drives enough volume, Framework may expand that tier into a permanent offering.
 Another variable is the relationship with Nvidia. Framework has secured a mobile RTX 5070 module, but the company’s public comments on Nvidia’s support are mixed. Continued driver stability and CUDA compatibility will be essential for the laptop’s professional user base. Finally, the production line’s ability to stay ahead of the Lunar New Year shutdown and avoid further heatsink‑related delays will determine whether the H1 shipping target holds. Any deviation will likely surface in the next batch‑status email, which the community watches closely.
+
+## Updates
+
+- **2026-04-23** — Netflix can’t seem to follow up its biggest shows ([source](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs))
