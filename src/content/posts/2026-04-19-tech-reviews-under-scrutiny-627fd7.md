@@ -1,16 +1,17 @@
 ---
 title: "Tech Reviews Under Scrutiny"
 date: 2026-04-19T12:42:40.242Z
-modified_date: 2026-04-20T20:38:36.677Z
+modified_date: 2026-04-24T03:21:20.061Z
 tags: ["tech reviews","fake reviews","amazon","ai analysis"]
 hero_image: "/hero/2026-04-19-tech-reviews-under-scrutiny-627fd7.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "fake review detection"
 description: "Fake reviews plague tech products on Amazon, undermining trust"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,4 +35,5 @@ The issue of fake reviews is a pressing concern that affects not only Amazon but
 
 ## Updates
 
+- **2026-04-24** — This is the Google Health logo that might replace the Fitbit app ([source](https://9to5google.com/2026/04/23/google-health-logo/))
 - **2026-04-20** — Ubisoft will officially reveal the Assassin's Creed Black Flag remake on April 23 ([source](https://www.engadget.com/gaming/ubisoft-will-officially-reveal-the-assassins-creed-black-flag-remake-on-april-23-184729772.html?src=rss))
