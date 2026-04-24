@@ -1,16 +1,17 @@
 ---
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
-modified_date: 2026-04-21T06:05:25.772Z
+modified_date: 2026-04-24T17:20:21.324Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
 hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,5 +25,6 @@ Industry observers and frustrated consumers alike are left grappling with what h
 
 ## Updates
 
+- **2026-04-24** — The RAM shortage could get even worse if Samsung labor protests cut production ([source](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests))
 - **2026-04-21** — Dyson’s back with a travel-size Supersonic hairdryer ([source](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price))
 - **2026-04-20** — The FAA grounds Blue Origin New Glenn rocket after failure to put payload in orbit ([source](https://www.engadget.com/science/space/the-faa-grounds-blue-origin-new-glenn-rocket-after-failure-to-put-payload-in-orbit-173016117.html?src=rss))
