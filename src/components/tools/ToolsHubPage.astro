@@ -1,0 +1,123 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { TOOLS } from '../../data/tools';
+import {
+  HUB,
+  HREFLANG,
+  LOCALE_LIST,
+  RTL_LOCALES,
+  localeToSlug,
+  type Locale,
+} from '../../i18n/tool-strings';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const s = HUB[locale];
+const isRtl = RTL_LOCALES.has(locale);
+
+const pathFor = (l: Locale) =>
+  l === 'en' ? '/tools/' : `/${localeToSlug(l)}/tools/`;
+const canonical = `https://www.systemreport.net${pathFor(locale)}`;
+
+const hreflangAlternates = LOCALE_LIST.map((l) => ({
+  hreflang: HREFLANG[l],
+  href: `https://www.systemreport.net${pathFor(l)}`,
+}));
+
+const toolHref = (slug: string) =>
+  locale === 'en' ? `/tools/${slug}/` : `/${localeToSlug(locale)}/tools/${slug}/`;
+const aboutHref = locale === 'en' ? '/about' : `/${localeToSlug(locale)}/about`;
+
+const collectionSchema = JSON.stringify({
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: s.metaTitle,
+  description: s.metaDescription,
+  inLanguage: HREFLANG[locale],
+  url: canonical,
+  hasPart: TOOLS.filter((t) => t.status === 'live').map((t) => ({
+    '@type': 'SoftwareApplication',
+    name: t.title,
+    description: t.description,
+    url: `https://www.systemreport.net${toolHref(t.slug)}`,
+    applicationCategory: 'UtilitiesApplication',
+    operatingSystem: 'Any (runs in web browser)',
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  })),
+});
+---
+
+<Layout
+  title={s.metaTitle}
+  description={s.metaDescription}
+  schema={collectionSchema}
+  url={canonical}
+  lang={HREFLANG[locale]}
+  hreflangAlternates={hreflangAlternates}
+>
+  <div class="max-w-5xl mx-auto" dir={isRtl ? 'rtl' : 'ltr'}>
+    <header class="mb-12 text-center">
+      <p class="text-xs font-semibold tracking-[0.2em] uppercase text-gray-500 dark:text-gray-400 mb-3">{s.eyebrow}</p>
+      <h1 class="font-serif text-4xl sm:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4 tracking-tight">{s.h1}</h1>
+      <p class="text-lg text-gray-500 dark:text-gray-400 max-w-2xl mx-auto leading-relaxed">{s.subtitle}</p>
+    </header>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 mb-12">
+      <div class="flex items-center gap-3 px-4 py-3 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+        <svg class="w-5 h-5 text-green-600 dark:text-green-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+        <span class="text-sm text-gray-700 dark:text-gray-300">{s.trustClientSide}</span>
+      </div>
+      <div class="flex items-center gap-3 px-4 py-3 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+        <svg class="w-5 h-5 text-green-600 dark:text-green-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/></svg>
+        <span class="text-sm text-gray-700 dark:text-gray-300">{s.trustNoUploads}</span>
+      </div>
+      <div class="flex items-center gap-3 px-4 py-3 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+        <svg class="w-5 h-5 text-green-600 dark:text-green-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z"/></svg>
+        <span class="text-sm text-gray-700 dark:text-gray-300">{s.trustFree}</span>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      {TOOLS.map((tool) => (
+        <a
+          href={tool.status === 'live' ? toolHref(tool.slug) : '#'}
+          class:list={[
+            'group block p-6 rounded-2xl border transition-all',
+            tool.status === 'live'
+              ? 'bg-white dark:bg-gray-950 border-gray-200 dark:border-gray-800 hover:border-gray-400 dark:hover:border-gray-600 hover:shadow-lg dark:hover:shadow-none hover:-translate-y-0.5'
+              : 'bg-gray-50 dark:bg-gray-900/50 border-gray-200 dark:border-gray-800 opacity-60 cursor-not-allowed'
+          ]}
+          aria-disabled={tool.status !== 'live'}
+        >
+          <div class="flex items-start justify-between mb-4">
+            <div class="w-11 h-11 rounded-xl bg-gray-100 dark:bg-gray-800 flex items-center justify-center group-hover:bg-gray-900 group-hover:text-white dark:group-hover:bg-gray-100 dark:group-hover:text-gray-900 transition-colors">
+              <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="1.75" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d={tool.iconPath}/>
+              </svg>
+            </div>
+            <span class:list={[
+              'text-[10px] font-semibold tracking-wider uppercase px-2 py-1 rounded',
+              tool.status === 'live'
+                ? 'bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-400'
+                : 'bg-gray-200 text-gray-600 dark:bg-gray-800 dark:text-gray-400'
+            ]}>
+              {tool.status === 'live' ? tool.category : s.comingLabel}
+            </span>
+          </div>
+          <h2 class="font-serif text-xl font-bold text-gray-900 dark:text-gray-100 mb-2">{tool.title}</h2>
+          <p class="text-sm text-gray-500 dark:text-gray-400 leading-relaxed">{tool.tagline}</p>
+        </a>
+      ))}
+    </div>
+
+    <section class="mt-16 pt-12 border-t border-gray-200 dark:border-gray-800">
+      <h2 class="font-serif text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">{s.whatsComingTitle}</h2>
+      <p class="text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl">
+        {s.whatsComingBody} <a href={aboutHref} class="text-blue-600 dark:text-blue-400 hover:underline">{s.letUsKnow}</a>
+      </p>
+    </section>
+  </div>
+</Layout>

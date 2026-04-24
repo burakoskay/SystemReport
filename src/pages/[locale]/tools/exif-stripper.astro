@@ -1,0 +1,14 @@
+---
+import ExifStripperPage from '../../../components/tools/ExifStripperPage.astro';
+import { LOCALE_LIST, localeToSlug, type Locale } from '../../../i18n/tool-strings';
+
+export async function getStaticPaths() {
+  return LOCALE_LIST
+    .filter((l) => l !== 'en')
+    .map((l) => ({ params: { locale: localeToSlug(l) }, props: { locale: l } }));
+}
+
+interface Props { locale: Locale; }
+const { locale } = Astro.props;
+---
+<ExifStripperPage locale={locale} />

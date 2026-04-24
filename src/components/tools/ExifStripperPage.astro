@@ -1,0 +1,1235 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {
+  EXIF_STRIPPER,
+  HREFLANG,
+  LOCALE_LIST,
+  RTL_LOCALES,
+  localeToSlug,
+  type Locale,
+} from '../../i18n/tool-strings';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const s = EXIF_STRIPPER[locale];
+const isRtl = RTL_LOCALES.has(locale);
+
+// URL paths. English is served from /tools/exif-stripper/; others from /<loc>/tools/exif-stripper/.
+const pathFor = (l: Locale) =>
+  l === 'en' ? '/tools/exif-stripper/' : `/${localeToSlug(l)}/tools/exif-stripper/`;
+const canonical = `https://www.systemreport.net${pathFor(locale)}`;
+
+const hreflangAlternates = LOCALE_LIST.map((l) => ({
+  hreflang: HREFLANG[l],
+  href: `https://www.systemreport.net${pathFor(l)}`,
+}));
+
+const schema = JSON.stringify([
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: s.schemaAppName,
+    applicationCategory: 'MultimediaApplication',
+    operatingSystem: 'Any (runs in web browser)',
+    inLanguage: HREFLANG[locale],
+    url: canonical,
+    description: s.metaDescription,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    featureList: s.schemaFeatureList,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: s.schemaHowToName,
+    description: s.schemaHowToDesc,
+    inLanguage: HREFLANG[locale],
+    totalTime: 'PT30S',
+    step: s.schemaHowToSteps.map((st, i) => ({
+      '@type': 'HowToStep', position: i + 1, name: st.name, text: st.text,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    inLanguage: HREFLANG[locale],
+    mainEntity: s.faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: s.breadcrumbHome, item: locale === 'en' ? 'https://www.systemreport.net/' : `https://www.systemreport.net/${localeToSlug(locale)}/` },
+      { '@type': 'ListItem', position: 2, name: s.breadcrumbTools, item: locale === 'en' ? 'https://www.systemreport.net/tools/' : `https://www.systemreport.net/${localeToSlug(locale)}/tools/` },
+      { '@type': 'ListItem', position: 3, name: s.breadcrumbTool, item: canonical },
+    ],
+  },
+]);
+
+// Split subtitle at {strong}...{/strong} marker for safe HTML rendering.
+const strongRe = /\{strong\}(.*?)\{\/strong\}/;
+const m = s.subtitle.match(strongRe);
+const subtitleBefore = m ? s.subtitle.slice(0, m.index) : s.subtitle;
+const subtitleStrong = m ? m[1] : '';
+const subtitleAfter = m ? s.subtitle.slice((m.index ?? 0) + m[0].length) : '';
+
+const toolsHref = locale === 'en' ? '/tools/' : `/${localeToSlug(locale)}/tools/`;
+const homeHref = locale === 'en' ? '/' : `/${localeToSlug(locale)}/`;
+
+// Runtime strings for the client JS.
+const runtimeStrings = {
+  processing: s.processing,
+  downloadBtn: s.downloadBtn,
+  metadataFoundOne: s.metadataFoundOne,
+  metadataFoundMany: s.metadataFoundMany,
+  noMetadata: s.noMetadata,
+  stripped: s.stripped,
+  kept: s.kept,
+  customize: s.customize,
+  metadataBreakdown: s.metadataBreakdown,
+  uncheckToKeep: s.uncheckToKeep,
+  reprocessing: s.reprocessing,
+  fileLimitReached: s.fileLimitReached,
+  unsupportedFormat: s.unsupportedFormat,
+  parseError: s.parseError,
+  categories: {
+    gps: { label: s.catGps, desc: s.catGpsDesc },
+    camera: { label: s.catCamera, desc: s.catCameraDesc },
+    camera_settings: { label: s.catCameraSettings, desc: s.catCameraSettingsDesc },
+    timestamps: { label: s.catTimestamps, desc: s.catTimestampsDesc },
+    software: { label: s.catSoftware, desc: s.catSoftwareDesc },
+    author: { label: s.catAuthor, desc: s.catAuthorDesc },
+    thumbnail: { label: s.catThumbnail, desc: s.catThumbnailDesc },
+    xmp: { label: s.catXmp, desc: s.catXmpDesc },
+    iptc: { label: s.catIptc, desc: s.catIptcDesc },
+    icc: { label: s.catIcc, desc: s.catIccDesc },
+    comment: { label: s.catComment, desc: s.catCommentDesc },
+    other: { label: s.catOther, desc: s.catOtherDesc },
+  },
+};
+---
+
+<Layout
+  title={s.metaTitle}
+  description={s.metaDescription}
+  schema={schema}
+  url={canonical}
+  lang={HREFLANG[locale]}
+  hreflangAlternates={hreflangAlternates}
+>
+  <div class="max-w-4xl mx-auto" dir={isRtl ? 'rtl' : 'ltr'}>
+    <nav class="mb-6 text-sm text-gray-500 dark:text-gray-400" aria-label="Breadcrumb">
+      <a href={homeHref} class="hover:text-gray-900 dark:hover:text-gray-100">{s.breadcrumbHome}</a>
+      <span class="mx-2">/</span>
+      <a href={toolsHref} class="hover:text-gray-900 dark:hover:text-gray-100">{s.breadcrumbTools}</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900 dark:text-gray-100">{s.breadcrumbTool}</span>
+    </nav>
+
+    <header class="mb-8">
+      <p class="text-xs font-semibold tracking-[0.2em] uppercase text-gray-500 dark:text-gray-400 mb-3">
+        {s.eyebrow}
+      </p>
+      <h1 class="font-serif text-4xl sm:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4 tracking-tight">
+        {s.h1}
+      </h1>
+      <p class="text-lg text-gray-500 dark:text-gray-400 leading-relaxed max-w-3xl">
+        {subtitleBefore}<strong class="text-gray-900 dark:text-gray-100 font-semibold">{subtitleStrong}</strong>{subtitleAfter}
+      </p>
+    </header>
+
+    <div class="mb-6 flex items-start gap-3 p-4 rounded-xl bg-green-50 dark:bg-green-900/20 border border-green-200 dark:border-green-900/40">
+      <svg class="w-5 h-5 text-green-600 dark:text-green-400 flex-shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+      </svg>
+      <div class="text-sm text-green-900 dark:text-green-200 leading-relaxed">
+        <strong class="font-semibold">{s.privacyBannerTitle}</strong>
+        {' '}{s.privacyBannerBody}
+      </div>
+    </div>
+
+    <section id="tool" class="mb-12">
+      <div
+        id="dropzone"
+        class="relative border-2 border-dashed border-gray-300 dark:border-gray-700 rounded-2xl p-10 sm:p-14 text-center cursor-pointer hover:border-gray-400 dark:hover:border-gray-500 hover:bg-gray-50 dark:hover:bg-gray-900/50 transition-colors"
+        tabindex="0"
+        role="button"
+        aria-label={s.dropHere}
+      >
+        <input id="file-input" type="file" multiple accept="image/jpeg,image/png,image/webp,.jpg,.jpeg,.png,.webp" class="hidden"/>
+        <svg class="w-12 h-12 mx-auto text-gray-400 dark:text-gray-600 mb-4" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 8.25H7.5a2.25 2.25 0 00-2.25 2.25v9a2.25 2.25 0 002.25 2.25h9a2.25 2.25 0 002.25-2.25v-9a2.25 2.25 0 00-2.25-2.25H15M9 12l3 3m0 0l3-3m-3 3V2.25"/>
+        </svg>
+        <p class="text-base font-medium text-gray-900 dark:text-gray-100 mb-1">{s.dropHere}</p>
+        <p class="text-sm text-gray-500 dark:text-gray-400">
+          {s.orBrowse} <span class="text-blue-600 dark:text-blue-400 underline underline-offset-2">{s.browseLink}</span>
+        </p>
+        <p class="mt-4 text-xs text-gray-400 dark:text-gray-500">{s.filesSupported}</p>
+      </div>
+
+      <div id="results" class="mt-6 space-y-3 hidden"></div>
+
+      <div id="bulk-actions" class="mt-4 hidden">
+        <button id="download-all" type="button" class="inline-flex items-center gap-2 px-4 py-2 bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 rounded-lg text-sm font-medium hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/></svg>
+          {s.downloadAll}
+        </button>
+        <button id="clear-all" type="button" class="ml-2 inline-flex items-center gap-2 px-4 py-2 text-gray-600 dark:text-gray-300 text-sm font-medium hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors">
+          {s.clear}
+        </button>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="font-serif text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6">{s.hiwTitle}</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+        <div class="p-5 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+          <div class="w-8 h-8 rounded-full bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 flex items-center justify-center text-sm font-bold mb-3">1</div>
+          <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1.5">{s.hiwStep1Title}</h3>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed">{s.hiwStep1Body}</p>
+        </div>
+        <div class="p-5 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+          <div class="w-8 h-8 rounded-full bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 flex items-center justify-center text-sm font-bold mb-3">2</div>
+          <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1.5">{s.hiwStep2Title}</h3>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed">{s.hiwStep2Body}</p>
+        </div>
+        <div class="p-5 rounded-xl bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800">
+          <div class="w-8 h-8 rounded-full bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 flex items-center justify-center text-sm font-bold mb-3">3</div>
+          <h3 class="font-semibold text-gray-900 dark:text-gray-100 mb-1.5">{s.hiwStep3Title}</h3>
+          <p class="text-sm text-gray-600 dark:text-gray-300 leading-relaxed">{s.hiwStep3Body}</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="font-serif text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-4">{s.whatRemovedTitle}</h2>
+      <p class="text-gray-600 dark:text-gray-300 mb-5 leading-relaxed">{s.whatRemovedIntro}</p>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 text-sm">
+        {s.whatRemovedList.map((item) => (
+          <li class="flex items-start gap-2 text-gray-700 dark:text-gray-300"><span class="text-red-500 mt-0.5">✕</span> {item}</li>
+        ))}
+      </ul>
+      <h3 class="font-serif text-xl font-bold text-gray-900 dark:text-gray-100 mt-8 mb-3">{s.whatPreservedTitle}</h3>
+      <p class="text-gray-600 dark:text-gray-300 leading-relaxed">{s.whatPreservedBody}</p>
+    </section>
+
+    <section class="mb-12">
+      <h2 class="font-serif text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6">{s.faqTitle}</h2>
+      <div class="space-y-5">
+        {s.faq.map((f) => (
+          <details class="group rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 p-5">
+            <summary class="font-semibold text-gray-900 dark:text-gray-100 cursor-pointer list-none flex items-center justify-between gap-4">
+              <span>{f.q}</span>
+              <svg class="w-5 h-5 text-gray-400 transition-transform group-open:rotate-180 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/></svg>
+            </summary>
+            <p class="mt-3 text-gray-600 dark:text-gray-300 leading-relaxed">{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<script type="application/json" id="tool-i18n" set:html={JSON.stringify(runtimeStrings)}></script>
+
+<script>
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+// --- i18n ---------------------------------------------------------------
+const I18N: any = JSON.parse(document.getElementById('tool-i18n')!.textContent || '{}');
+const CATS: string[] = [
+  'gps','camera','camera_settings','timestamps','software','author',
+  'thumbnail','comment','xmp','iptc','icc','other',
+];
+
+// --- Format detection ---------------------------------------------------
+type Fmt = 'jpeg' | 'png' | 'webp' | 'unknown';
+
+function detectFormat(buf: Uint8Array): Fmt {
+  if (buf.length < 12) return 'unknown';
+  if (buf[0] === 0xff && buf[1] === 0xd8) return 'jpeg';
+  if (buf[0] === 0x89 && buf[1] === 0x50 && buf[2] === 0x4e && buf[3] === 0x47) return 'png';
+  if (
+    buf[0] === 0x52 && buf[1] === 0x49 && buf[2] === 0x46 && buf[3] === 0x46 &&
+    buf[8] === 0x57 && buf[9] === 0x45 && buf[10] === 0x42 && buf[11] === 0x50
+  ) return 'webp';
+  return 'unknown';
+}
+
+function concatBytes(chunks: Uint8Array[]): Uint8Array {
+  let total = 0;
+  for (const c of chunks) total += c.length;
+  const out = new Uint8Array(total);
+  let off = 0;
+  for (const c of chunks) { out.set(c, off); off += c.length; }
+  return out;
+}
+
+// --- TIFF / EXIF IFD parser ---------------------------------------------
+
+interface TiffEntry {
+  tag: number;
+  type: number;
+  count: number;
+  rawValue: Uint8Array; // the 4-byte value slot (may be offset)
+  valueBytes: Uint8Array; // resolved variable-length bytes when long
+  displayValue: string;
+  category: string;
+}
+interface ParsedIfd {
+  entries: TiffEntry[];
+  nextIfdOffset: number;
+}
+interface ParsedTiff {
+  be: boolean; // big-endian?
+  ifd0: ParsedIfd;
+  exifIfd?: ParsedIfd;
+  gpsIfd?: ParsedIfd;
+  ifd1?: ParsedIfd; // thumbnail
+  thumbnailBytes?: Uint8Array;
+}
+
+const TYPE_SIZES: Record<number, number> = { 1:1,2:1,3:2,4:4,5:8,6:1,7:1,8:2,9:4,10:8,11:4,12:8 };
+
+const IFD0_CAT: Record<number, string> = {
+  0x010e: 'author', 0x010f: 'camera', 0x0110: 'camera',
+  0x0131: 'software', 0x0132: 'timestamps',
+  0x013b: 'author', 0x8298: 'author',
+  0x8769: 'other', // ExifIFD pointer — handled specially
+  0x8825: 'gps',   // GPSIFD pointer — handled specially
+};
+const EXIF_CAT: Record<number, string> = {
+  0x829a: 'camera_settings', 0x829d: 'camera_settings', 0x8822: 'camera_settings',
+  0x8827: 'camera_settings', 0x9003: 'timestamps', 0x9004: 'timestamps',
+  0x9010: 'timestamps', 0x9011: 'timestamps', 0x9012: 'timestamps',
+  0x9201: 'camera_settings', 0x9202: 'camera_settings', 0x9204: 'camera_settings',
+  0x9207: 'camera_settings', 0x9208: 'camera_settings', 0x9209: 'camera_settings',
+  0x920a: 'camera_settings', 0x9286: 'comment',
+  0xa002: 'camera_settings', 0xa003: 'camera_settings',
+  0xa402: 'camera_settings', 0xa403: 'camera_settings',
+  0xa405: 'camera_settings', 0xa406: 'camera_settings',
+  0xa408: 'camera_settings', 0xa409: 'camera_settings', 0xa40a: 'camera_settings',
+  0xa420: 'other',
+  0xa430: 'author', 0xa431: 'camera', 0xa432: 'camera',
+  0xa433: 'camera', 0xa434: 'camera', 0xa435: 'camera',
+};
+
+function rd16(buf: Uint8Array, o: number, be: boolean): number {
+  return be ? (buf[o] << 8) | buf[o + 1] : (buf[o + 1] << 8) | buf[o];
+}
+function rd32(buf: Uint8Array, o: number, be: boolean): number {
+  return be
+    ? ((buf[o] << 24) >>> 0) | (buf[o+1] << 16) | (buf[o+2] << 8) | buf[o+3]
+    : ((buf[o+3] << 24) >>> 0) | (buf[o+2] << 16) | (buf[o+1] << 8) | buf[o];
+}
+function wr16(buf: Uint8Array, o: number, v: number, be: boolean) {
+  if (be) { buf[o] = (v >>> 8) & 0xff; buf[o+1] = v & 0xff; }
+  else { buf[o] = v & 0xff; buf[o+1] = (v >>> 8) & 0xff; }
+}
+function wr32(buf: Uint8Array, o: number, v: number, be: boolean) {
+  if (be) { buf[o] = (v >>> 24) & 0xff; buf[o+1] = (v >>> 16) & 0xff; buf[o+2] = (v >>> 8) & 0xff; buf[o+3] = v & 0xff; }
+  else { buf[o] = v & 0xff; buf[o+1] = (v >>> 8) & 0xff; buf[o+2] = (v >>> 16) & 0xff; buf[o+3] = (v >>> 24) & 0xff; }
+}
+
+function parseIfd(tiff: Uint8Array, offset: number, be: boolean, defaultCat: string, catMap: Record<number, string>): ParsedIfd {
+  const count = rd16(tiff, offset, be);
+  const entries: TiffEntry[] = [];
+  for (let i = 0; i < count; i++) {
+    const eo = offset + 2 + i * 12;
+    const tag = rd16(tiff, eo, be);
+    const type = rd16(tiff, eo + 2, be);
+    const cnt = rd32(tiff, eo + 4, be);
+    const size = (TYPE_SIZES[type] || 1) * cnt;
+    const raw = tiff.slice(eo + 8, eo + 12);
+    let valueBytes: Uint8Array;
+    if (size <= 4) {
+      valueBytes = raw.slice(0, size);
+    } else {
+      const voff = rd32(tiff, eo + 8, be);
+      valueBytes = tiff.slice(voff, voff + size);
+    }
+    const category = catMap[tag] || defaultCat;
+    entries.push({ tag, type, count: cnt, rawValue: raw, valueBytes, displayValue: formatTagValue(type, cnt, valueBytes, be), category });
+  }
+  const nextIfdOffset = rd32(tiff, offset + 2 + count * 12, be);
+  return { entries, nextIfdOffset };
+}
+
+function formatTagValue(type: number, count: number, b: Uint8Array, be: boolean): string {
+  try {
+    if (type === 2) { // ASCII
+      let s = '';
+      for (let i = 0; i < b.length && b[i] !== 0; i++) s += String.fromCharCode(b[i]);
+      return s.trim();
+    }
+    if (type === 3) { // SHORT
+      const out: number[] = [];
+      for (let i = 0; i < count && i * 2 < b.length; i++) out.push(rd16(b, i * 2, be));
+      return out.join(', ');
+    }
+    if (type === 4) { // LONG
+      const out: number[] = [];
+      for (let i = 0; i < count && i * 4 < b.length; i++) out.push(rd32(b, i * 4, be));
+      return out.join(', ');
+    }
+    if (type === 5) { // RATIONAL
+      const out: string[] = [];
+      for (let i = 0; i < count && i * 8 + 8 <= b.length; i++) {
+        const n = rd32(b, i * 8, be), d = rd32(b, i * 8 + 4, be);
+        out.push(d ? (n / d).toFixed(3).replace(/\.?0+$/, '') : `${n}/${d}`);
+      }
+      return out.join(', ');
+    }
+  } catch {}
+  return `<${count} bytes>`;
+}
+
+function parseTiff(tiff: Uint8Array): ParsedTiff | null {
+  if (tiff.length < 8) return null;
+  const be = tiff[0] === 0x4d; // 'MM' = big, 'II' = little
+  const magic = rd16(tiff, 2, be);
+  if (magic !== 0x002a) return null;
+  const ifd0Offset = rd32(tiff, 4, be);
+  const ifd0 = parseIfd(tiff, ifd0Offset, be, 'other', IFD0_CAT);
+  const out: ParsedTiff = { be, ifd0 };
+  const exifPtr = ifd0.entries.find((e) => e.tag === 0x8769);
+  if (exifPtr) {
+    const off = rd32(exifPtr.rawValue, 0, be);
+    try { out.exifIfd = parseIfd(tiff, off, be, 'camera_settings', EXIF_CAT); } catch {}
+  }
+  const gpsPtr = ifd0.entries.find((e) => e.tag === 0x8825);
+  if (gpsPtr) {
+    const off = rd32(gpsPtr.rawValue, 0, be);
+    try {
+      const gps = parseIfd(tiff, off, be, 'gps', {});
+      gps.entries.forEach((e) => { e.category = 'gps'; });
+      out.gpsIfd = gps;
+    } catch {}
+  }
+  if (ifd0.nextIfdOffset) {
+    try {
+      const ifd1 = parseIfd(tiff, ifd0.nextIfdOffset, be, 'thumbnail', {});
+      ifd1.entries.forEach((e) => { e.category = 'thumbnail'; });
+      out.ifd1 = ifd1;
+    } catch {}
+  }
+  return out;
+}
+
+// --- TIFF writer (selective) ---------------------------------------------
+
+// Rebuild a TIFF block keeping only entries whose category is NOT in remove.
+function rebuildTiff(t: ParsedTiff, remove: Set<string>): Uint8Array {
+  const be = t.be;
+  // Filter helper
+  const keepEntry = (e: TiffEntry) => !remove.has(e.category);
+
+  // Start building: header is 8 bytes, then IFDs + external values packed.
+  // Plan: write IFD0 entries (minus filtered), then ExifIFD, then GPSIFD.
+  // External value blocks follow each IFD's entries in sequence. Simpler: we'll
+  // lay out IFD0 directory, then its external values, then ExifIFD directory,
+  // its values, then GPSIFD directory, its values, then IFD1 if kept.
+  // Pointer tags (ExifIFDPointer 0x8769, GPSInfoPointer 0x8825) are rewritten.
+
+  const header = new Uint8Array(8);
+  header[0] = be ? 0x4d : 0x49; header[1] = be ? 0x4d : 0x49;
+  wr16(header, 2, 0x002a, be);
+
+  // We'll accumulate bytes and patch offsets.
+  const out: number[] = [];
+  for (let i = 0; i < 8; i++) out.push(header[i]);
+
+  const pushBytes = (b: Uint8Array) => { for (let i = 0; i < b.length; i++) out.push(b[i]); };
+  const padTo = (align: number) => { while (out.length % align) out.push(0); };
+
+  // Filter IFDs
+  const ifd0Entries = t.ifd0.entries.filter((e) => {
+    // 0x8769 (exif) and 0x8825 (gps) pointers handled specially
+    if (e.tag === 0x8769) return !!t.exifIfd && !allFiltered(t.exifIfd.entries, remove);
+    if (e.tag === 0x8825) return !!t.gpsIfd && !remove.has('gps');
+    return keepEntry(e);
+  });
+
+  const exifEntries = t.exifIfd ? t.exifIfd.entries.filter(keepEntry) : [];
+  const gpsEntries = (t.gpsIfd && !remove.has('gps')) ? t.gpsIfd.entries : [];
+  const keepIfd1 = !remove.has('thumbnail') && !!t.ifd1;
+
+  // Placeholder offsets to patch later
+  wr32(header, 4, 8, be); // IFD0 starts right after header
+  for (let i = 4; i < 8; i++) out[i] = header[i];
+
+  // --- Layout pass 1: determine offsets ---
+  // IFD0 directory length = 2 + 12 * n + 4
+  const ifd0DirLen = 2 + 12 * ifd0Entries.length + 4;
+  let cursor = 8 + ifd0DirLen;
+
+  // external values for IFD0 (for entries whose size > 4)
+  const ifd0ExtEntries: { e: TiffEntry; offset: number }[] = [];
+  for (const e of ifd0Entries) {
+    const sz = (TYPE_SIZES[e.type] || 1) * e.count;
+    if (sz > 4 && e.tag !== 0x8769 && e.tag !== 0x8825) {
+      // pad to even
+      if (cursor & 1) cursor++;
+      ifd0ExtEntries.push({ e, offset: cursor });
+      cursor += sz;
+    }
+  }
+
+  // ExifIFD directory
+  let exifIfdOffset = 0;
+  const exifExtEntries: { e: TiffEntry; offset: number }[] = [];
+  if (exifEntries.length) {
+    if (cursor & 1) cursor++;
+    exifIfdOffset = cursor;
+    cursor += 2 + 12 * exifEntries.length + 4;
+    for (const e of exifEntries) {
+      const sz = (TYPE_SIZES[e.type] || 1) * e.count;
+      if (sz > 4) {
+        if (cursor & 1) cursor++;
+        exifExtEntries.push({ e, offset: cursor });
+        cursor += sz;
+      }
+    }
+  }
+
+  // GPSIFD directory
+  let gpsIfdOffset = 0;
+  const gpsExtEntries: { e: TiffEntry; offset: number }[] = [];
+  if (gpsEntries.length) {
+    if (cursor & 1) cursor++;
+    gpsIfdOffset = cursor;
+    cursor += 2 + 12 * gpsEntries.length + 4;
+    for (const e of gpsEntries) {
+      const sz = (TYPE_SIZES[e.type] || 1) * e.count;
+      if (sz > 4) {
+        if (cursor & 1) cursor++;
+        gpsExtEntries.push({ e, offset: cursor });
+        cursor += sz;
+      }
+    }
+  }
+
+  // IFD1 (thumbnail) — keep as a full block copy at end. We need to rewrite
+  // StripOffsets/JPEGInterchangeFormat pointers. For simplicity, we *drop* IFD1
+  // unless user kept 'thumbnail' — and if kept, we only keep it if we can
+  // relocate its thumbnail data. Simpler: if kept, include IFD1 and its thumb
+  // bytes, relocating the StripOffsets / JPEGInterchangeFormat to the new
+  // location. If parsing fails or the IFD references bytes we didn't copy,
+  // drop it quietly.
+  let ifd1Offset = 0;
+  const ifd1Entries: TiffEntry[] = keepIfd1 ? t.ifd1!.entries.slice() : [];
+  const ifd1ExtEntries: { e: TiffEntry; offset: number }[] = [];
+  let thumbDataOffset = 0;
+  let thumbBytes: Uint8Array | null = null;
+  if (keepIfd1) {
+    // Find thumbnail data. JPEG thumbnail: JPEGInterchangeFormat (0x0201) +
+    // JPEGInterchangeFormatLength (0x0202). Uncompressed strip format we skip.
+    const jifEntry = ifd1Entries.find((e) => e.tag === 0x0201);
+    const jifLen = ifd1Entries.find((e) => e.tag === 0x0202);
+    if (jifEntry && jifLen && t.thumbnailBytes) {
+      thumbBytes = t.thumbnailBytes;
+    } else {
+      // Can't safely carry IFD1; drop it.
+      ifd1Entries.length = 0;
+    }
+  }
+  if (ifd1Entries.length) {
+    if (cursor & 1) cursor++;
+    ifd1Offset = cursor;
+    cursor += 2 + 12 * ifd1Entries.length + 4;
+    for (const e of ifd1Entries) {
+      const sz = (TYPE_SIZES[e.type] || 1) * e.count;
+      if (sz > 4 && e.tag !== 0x0201) {
+        if (cursor & 1) cursor++;
+        ifd1ExtEntries.push({ e, offset: cursor });
+        cursor += sz;
+      }
+    }
+    if (thumbBytes) {
+      if (cursor & 1) cursor++;
+      thumbDataOffset = cursor;
+      cursor += thumbBytes.length;
+    }
+  }
+
+  // --- Layout pass 2: write bytes ---
+  // We already wrote the 8-byte header. Now IFD0.
+  const writeEntry = (
+    entry: TiffEntry,
+    extLookup: { e: TiffEntry; offset: number }[],
+    overrideValue?: Uint8Array,
+  ) => {
+    const entryBytes = new Uint8Array(12);
+    wr16(entryBytes, 0, entry.tag, be);
+    wr16(entryBytes, 2, entry.type, be);
+    wr32(entryBytes, 4, entry.count, be);
+    if (overrideValue) {
+      entryBytes.set(overrideValue, 8);
+    } else {
+      const sz = (TYPE_SIZES[entry.type] || 1) * entry.count;
+      if (sz <= 4) {
+        entryBytes.set(entry.rawValue, 8);
+      } else {
+        const ext = extLookup.find((x) => x.e === entry);
+        if (ext) wr32(entryBytes, 8, ext.offset, be);
+      }
+    }
+    pushBytes(entryBytes);
+  };
+
+  // IFD0
+  wr16(header, 0, ifd0Entries.length, be); // reusing as scratch
+  const ifd0Header = new Uint8Array(2); wr16(ifd0Header, 0, ifd0Entries.length, be);
+  pushBytes(ifd0Header);
+  for (const e of ifd0Entries) {
+    if (e.tag === 0x8769) {
+      const v = new Uint8Array(4); wr32(v, 0, exifIfdOffset, be);
+      writeEntry(e, ifd0ExtEntries, v);
+    } else if (e.tag === 0x8825) {
+      const v = new Uint8Array(4); wr32(v, 0, gpsIfdOffset, be);
+      writeEntry(e, ifd0ExtEntries, v);
+    } else {
+      writeEntry(e, ifd0ExtEntries);
+    }
+  }
+  const ifd0Next = new Uint8Array(4); wr32(ifd0Next, 0, ifd1Offset, be); pushBytes(ifd0Next);
+
+  // IFD0 external values
+  for (const ext of ifd0ExtEntries) { padTo(2); pushBytes(ext.e.valueBytes); }
+
+  // ExifIFD
+  if (exifEntries.length) {
+    padTo(2);
+    while (out.length < exifIfdOffset) out.push(0);
+    const h = new Uint8Array(2); wr16(h, 0, exifEntries.length, be); pushBytes(h);
+    for (const e of exifEntries) writeEntry(e, exifExtEntries);
+    const nx = new Uint8Array(4); pushBytes(nx);
+    for (const ext of exifExtEntries) { padTo(2); pushBytes(ext.e.valueBytes); }
+  }
+
+  // GPSIFD
+  if (gpsEntries.length) {
+    padTo(2);
+    while (out.length < gpsIfdOffset) out.push(0);
+    const h = new Uint8Array(2); wr16(h, 0, gpsEntries.length, be); pushBytes(h);
+    for (const e of gpsEntries) writeEntry(e, gpsExtEntries);
+    const nx = new Uint8Array(4); pushBytes(nx);
+    for (const ext of gpsExtEntries) { padTo(2); pushBytes(ext.e.valueBytes); }
+  }
+
+  // IFD1
+  if (ifd1Entries.length) {
+    padTo(2);
+    while (out.length < ifd1Offset) out.push(0);
+    const h = new Uint8Array(2); wr16(h, 0, ifd1Entries.length, be); pushBytes(h);
+    for (const e of ifd1Entries) {
+      if (e.tag === 0x0201 && thumbBytes) {
+        const v = new Uint8Array(4); wr32(v, 0, thumbDataOffset, be);
+        writeEntry(e, ifd1ExtEntries, v);
+      } else {
+        writeEntry(e, ifd1ExtEntries);
+      }
+    }
+    const nx = new Uint8Array(4); pushBytes(nx);
+    for (const ext of ifd1ExtEntries) { padTo(2); pushBytes(ext.e.valueBytes); }
+    if (thumbBytes) {
+      padTo(2);
+      while (out.length < thumbDataOffset) out.push(0);
+      pushBytes(thumbBytes);
+    }
+  }
+
+  return new Uint8Array(out);
+}
+
+function allFiltered(entries: TiffEntry[], remove: Set<string>): boolean {
+  return entries.every((e) => remove.has(e.category));
+}
+
+// --- JPEG segment walker ------------------------------------------------
+
+interface JpegSegments {
+  sos: Uint8Array; // from SOS to EOI (pixel data + EOI)
+  preSos: Uint8Array; // SOI + segments before SOS (we won't use this directly)
+  segments: Array<{ marker: number; data: Uint8Array; payload: Uint8Array; kind: string; exifTiff?: Uint8Array; exifThumb?: Uint8Array; tiffParsed?: ParsedTiff }>;
+}
+
+function walkJpeg(buf: Uint8Array): JpegSegments {
+  if (buf[0] !== 0xff || buf[1] !== 0xd8) throw new Error('Not JPEG');
+  const segments: JpegSegments['segments'] = [];
+  let i = 2;
+  let sosStart = -1;
+  while (i < buf.length) {
+    if (buf[i] !== 0xff) throw new Error('Malformed JPEG');
+    let marker = buf[i + 1];
+    let p = i + 1;
+    while (marker === 0xff && p + 1 < buf.length) marker = buf[++p];
+    const mStart = p - 1;
+    if (marker === 0xda) { sosStart = mStart; break; }
+    if (marker === 0xd9) { sosStart = mStart; break; }
+    const len = (buf[mStart + 2] << 8) | buf[mStart + 3];
+    const data = buf.subarray(mStart, mStart + 2 + len);
+    const payload = buf.subarray(mStart + 4, mStart + 2 + len);
+    let kind = 'other';
+    let exifTiff: Uint8Array | undefined;
+    let exifThumb: Uint8Array | undefined;
+    let tiffParsed: ParsedTiff | undefined;
+    if (marker === 0xe1) {
+      const sig = new TextDecoder('ascii').decode(payload.subarray(0, 6));
+      if (sig.startsWith('Exif')) {
+        kind = 'exif';
+        // Payload: "Exif\0\0" + TIFF
+        exifTiff = payload.subarray(6);
+        tiffParsed = parseTiff(exifTiff) || undefined;
+        if (tiffParsed) {
+          // Extract thumbnail bytes if present
+          const ifd1 = tiffParsed.ifd1;
+          if (ifd1) {
+            const jif = ifd1.entries.find((e) => e.tag === 0x0201);
+            const jifLen = ifd1.entries.find((e) => e.tag === 0x0202);
+            if (jif && jifLen) {
+              const off = rd32(jif.rawValue, 0, tiffParsed.be);
+              const len2 = rd32(jifLen.rawValue, 0, tiffParsed.be);
+              if (off + len2 <= exifTiff.length) {
+                exifThumb = exifTiff.subarray(off, off + len2);
+                tiffParsed.thumbnailBytes = exifThumb;
+              }
+            }
+          }
+        }
+      } else {
+        kind = 'xmp';
+      }
+    } else if (marker === 0xe2) {
+      const sig = new TextDecoder('ascii').decode(payload.subarray(0, 12));
+      if (sig.startsWith('ICC_PROFILE')) kind = 'icc';
+      else kind = 'other_app';
+    } else if (marker === 0xed) {
+      kind = 'iptc';
+    } else if (marker === 0xfe) {
+      kind = 'comment';
+    } else if (marker >= 0xe0 && marker <= 0xef) {
+      kind = 'other_app';
+    } else {
+      kind = 'structural';
+    }
+    segments.push({ marker, data, payload, kind, exifTiff, exifThumb, tiffParsed });
+    i = mStart + 2 + len;
+  }
+  if (sosStart < 0) throw new Error('No SOS');
+  return { sos: buf.subarray(sosStart), preSos: buf.subarray(0, sosStart), segments };
+}
+
+// --- Analyze file → categories present ---------------------------------
+
+interface Category {
+  id: string;
+  label: string;
+  desc: string;
+  sampleValues: string[]; // up to a few
+  count: number;
+}
+interface Analysis {
+  format: Fmt;
+  categories: Category[]; // in display order, only those present
+}
+
+function catMeta(id: string, sampleValues: string[] = [], count = 0): Category {
+  const meta = I18N.categories[id] || { label: id, desc: '' };
+  return { id, label: meta.label, desc: meta.desc, sampleValues, count };
+}
+
+function analyzeJpeg(seg: JpegSegments): Analysis {
+  const byCat: Record<string, Category> = {};
+  const add = (id: string, value?: string) => {
+    if (!byCat[id]) byCat[id] = catMeta(id, []);
+    byCat[id].count++;
+    if (value && byCat[id].sampleValues.length < 3) byCat[id].sampleValues.push(value);
+  };
+
+  for (const s of seg.segments) {
+    if (s.kind === 'exif' && s.tiffParsed) {
+      for (const e of s.tiffParsed.ifd0.entries) {
+        if (e.tag === 0x8769 || e.tag === 0x8825) continue;
+        add(e.category, e.displayValue);
+      }
+      if (s.tiffParsed.exifIfd) {
+        for (const e of s.tiffParsed.exifIfd.entries) add(e.category, e.displayValue);
+      }
+      if (s.tiffParsed.gpsIfd && s.tiffParsed.gpsIfd.entries.length) {
+        add('gps', formatGps(s.tiffParsed.gpsIfd));
+      }
+      if (s.tiffParsed.ifd1 && s.tiffParsed.ifd1.entries.length) {
+        add('thumbnail', '');
+      }
+    } else if (s.kind === 'xmp') add('xmp');
+    else if (s.kind === 'iptc') add('iptc');
+    else if (s.kind === 'icc') add('icc');
+    else if (s.kind === 'comment') {
+      try { add('comment', new TextDecoder('utf-8').decode(s.payload).slice(0, 120)); }
+      catch { add('comment'); }
+    } else if (s.kind === 'other_app') add('other');
+  }
+  return { format: 'jpeg', categories: orderCats(byCat) };
+}
+
+function formatGps(ifd: ParsedIfd): string {
+  const lat = ifd.entries.find((e) => e.tag === 0x0002);
+  const lng = ifd.entries.find((e) => e.tag === 0x0004);
+  const latRef = ifd.entries.find((e) => e.tag === 0x0001);
+  const lngRef = ifd.entries.find((e) => e.tag === 0x0003);
+  if (!lat || !lng) return '';
+  const fmt = (e: TiffEntry, ref?: TiffEntry) => {
+    const nums = e.displayValue.split(',').map((x) => parseFloat(x));
+    const [d = 0, m = 0, sec = 0] = nums;
+    const dec = d + m / 60 + sec / 3600;
+    const r = ref ? String.fromCharCode(ref.valueBytes[0] || 0) : '';
+    return dec.toFixed(4) + '°' + (r ? ' ' + r : '');
+  };
+  return `${fmt(lat, latRef)}, ${fmt(lng, lngRef)}`;
+}
+
+function orderCats(byCat: Record<string, Category>): Category[] {
+  return CATS.filter((c) => byCat[c]).map((c) => byCat[c]);
+}
+
+function analyzePng(buf: Uint8Array): Analysis {
+  const byCat: Record<string, Category> = {};
+  const add = (id: string, value?: string) => {
+    if (!byCat[id]) byCat[id] = catMeta(id, []);
+    byCat[id].count++;
+    if (value && byCat[id].sampleValues.length < 3) byCat[id].sampleValues.push(value);
+  };
+  let i = 8;
+  while (i < buf.length) {
+    const len = ((buf[i] << 24) >>> 0) | (buf[i+1] << 16) | (buf[i+2] << 8) | buf[i+3];
+    const type = String.fromCharCode(buf[i+4], buf[i+5], buf[i+6], buf[i+7]);
+    const dataStart = i + 8;
+    const data = buf.subarray(dataStart, dataStart + len);
+    if (type === 'tEXt' || type === 'iTXt' || type === 'zTXt') {
+      const nul = data.indexOf(0);
+      const key = nul > 0 ? new TextDecoder('latin1').decode(data.subarray(0, nul)) : '';
+      const cat = mapPngTextKey(key);
+      add(cat, key);
+    } else if (type === 'eXIf') {
+      add('other', 'eXIf');
+    } else if (type === 'tIME') {
+      add('timestamps');
+    }
+    i = dataStart + len + 4;
+    if (type === 'IEND') break;
+  }
+  return { format: 'png', categories: orderCats(byCat) };
+}
+
+function mapPngTextKey(key: string): string {
+  const k = key.toLowerCase();
+  if (k.includes('software') || k.includes('source')) return 'software';
+  if (k.includes('author') || k.includes('copyright') || k.includes('artist')) return 'author';
+  if (k.includes('comment') || k.includes('description')) return 'comment';
+  if (k.includes('creation') || k.includes('time') || k.includes('date')) return 'timestamps';
+  if (k.includes('xmp')) return 'xmp';
+  return 'other';
+}
+
+function analyzeWebp(buf: Uint8Array): Analysis {
+  const byCat: Record<string, Category> = {};
+  const add = (id: string) => {
+    if (!byCat[id]) byCat[id] = catMeta(id, []);
+    byCat[id].count++;
+  };
+  let i = 12;
+  while (i + 8 <= buf.length) {
+    const type = String.fromCharCode(buf[i], buf[i+1], buf[i+2], buf[i+3]);
+    const size = buf[i+4] | (buf[i+5] << 8) | (buf[i+6] << 16) | (buf[i+7] << 24);
+    const padded = size + (size & 1);
+    if (type === 'EXIF') add('other');
+    else if (type === 'XMP ') add('xmp');
+    i += 8 + padded;
+  }
+  return { format: 'webp', categories: orderCats(byCat) };
+}
+
+// --- Rebuild: JPEG with selective categories ----------------------------
+
+function rebuildJpeg(seg: JpegSegments, remove: Set<string>): Uint8Array {
+  const out: Uint8Array[] = [new Uint8Array([0xff, 0xd8])];
+  for (const s of seg.segments) {
+    if (s.kind === 'structural') { out.push(s.data); continue; }
+    if (s.kind === 'exif' && s.tiffParsed) {
+      // Decide: any EXIF cat kept?
+      const allEntries: TiffEntry[] = [
+        ...s.tiffParsed.ifd0.entries.filter((e) => e.tag !== 0x8769 && e.tag !== 0x8825),
+        ...(s.tiffParsed.exifIfd?.entries ?? []),
+      ];
+      const keptEntries = allEntries.filter((e) => !remove.has(e.category));
+      const keepGps = !remove.has('gps') && !!s.tiffParsed.gpsIfd;
+      const keepThumb = !remove.has('thumbnail') && !!s.tiffParsed.ifd1;
+      if (keptEntries.length === 0 && !keepGps && !keepThumb) {
+        continue; // drop entire EXIF segment
+      }
+      const newTiff = rebuildTiff(s.tiffParsed, remove);
+      const payloadLen = 6 + newTiff.length; // "Exif\0\0"
+      const segLen = payloadLen + 2;
+      if (segLen > 0xffff) {
+        // Safety: too big — drop EXIF rather than produce corrupt file.
+        continue;
+      }
+      const header = new Uint8Array(4 + 6);
+      header[0] = 0xff; header[1] = 0xe1;
+      header[2] = (segLen >>> 8) & 0xff; header[3] = segLen & 0xff;
+      header[4] = 0x45; header[5] = 0x78; header[6] = 0x69; header[7] = 0x66; header[8] = 0x00; header[9] = 0x00;
+      out.push(header);
+      out.push(newTiff);
+      continue;
+    }
+    // For other-kind segments: drop if its category is removed.
+    const catForSegment: Record<string, string> = {
+      xmp: 'xmp', iptc: 'iptc', icc: 'icc', comment: 'comment', other_app: 'other',
+    };
+    const cat = catForSegment[s.kind];
+    if (cat && remove.has(cat)) continue;
+    out.push(s.data);
+  }
+  out.push(seg.sos);
+  return concatBytes(out);
+}
+
+// --- PNG selective rebuild ----------------------------------------------
+
+function rebuildPng(buf: Uint8Array, remove: Set<string>): Uint8Array {
+  const keep: Uint8Array[] = [buf.subarray(0, 8)];
+  let i = 8;
+  while (i < buf.length) {
+    const len = ((buf[i] << 24) >>> 0) | (buf[i+1] << 16) | (buf[i+2] << 8) | buf[i+3];
+    const type = String.fromCharCode(buf[i+4], buf[i+5], buf[i+6], buf[i+7]);
+    const chunkEnd = i + 8 + len + 4;
+    let drop = false;
+    if (type === 'tEXt' || type === 'iTXt' || type === 'zTXt') {
+      const data = buf.subarray(i + 8, i + 8 + len);
+      const nul = data.indexOf(0);
+      const key = nul > 0 ? new TextDecoder('latin1').decode(data.subarray(0, nul)) : '';
+      const cat = mapPngTextKey(key);
+      drop = remove.has(cat);
+    } else if (type === 'eXIf') {
+      drop = remove.has('other') || remove.has('camera') || remove.has('gps'); // coarse
+    } else if (type === 'tIME') {
+      drop = remove.has('timestamps');
+    }
+    if (!drop) keep.push(buf.subarray(i, chunkEnd));
+    if (type === 'IEND') break;
+    i = chunkEnd;
+  }
+  return concatBytes(keep);
+}
+
+function rebuildWebp(buf: Uint8Array, remove: Set<string>): Uint8Array {
+  const kept: Uint8Array[] = [];
+  let i = 12;
+  while (i + 8 <= buf.length) {
+    const type = String.fromCharCode(buf[i], buf[i+1], buf[i+2], buf[i+3]);
+    const size = buf[i+4] | (buf[i+5] << 8) | (buf[i+6] << 16) | (buf[i+7] << 24);
+    const padded = size + (size & 1);
+    const chunkEnd = i + 8 + padded;
+    const drop =
+      (type === 'EXIF' && (remove.has('other') || remove.has('camera') || remove.has('gps'))) ||
+      (type === 'XMP ' && remove.has('xmp'));
+    if (!drop) {
+      let chunk = buf.subarray(i, chunkEnd);
+      if (type === 'VP8X') {
+        chunk = new Uint8Array(chunk);
+        let mask = 0;
+        if (remove.has('other') || remove.has('camera') || remove.has('gps')) mask |= 0b00001000;
+        if (remove.has('xmp')) mask |= 0b00000100;
+        chunk[8] &= ~mask;
+      }
+      kept.push(chunk);
+    }
+    i = chunkEnd;
+  }
+  const payloadBytes = kept.reduce((n, c) => n + c.length, 0);
+  const riffSize = 4 + payloadBytes;
+  const header = new Uint8Array(12);
+  header.set([0x52, 0x49, 0x46, 0x46], 0);
+  header[4] = riffSize & 0xff; header[5] = (riffSize >>> 8) & 0xff;
+  header[6] = (riffSize >>> 16) & 0xff; header[7] = (riffSize >>> 24) & 0xff;
+  header.set([0x57, 0x45, 0x42, 0x50], 8);
+  return concatBytes([header, ...kept]);
+}
+
+// --- Orchestrator -------------------------------------------------------
+
+interface ProcessedFile {
+  id: string;
+  name: string;
+  format: Fmt;
+  origBytes: Uint8Array;
+  analysis: Analysis | null;
+  segs?: JpegSegments;
+  removeSet: Set<string>;
+  cleanBlob?: Blob;
+  cleanUrl?: string;
+  cleanSize?: number;
+  error?: string;
+}
+
+const files: ProcessedFile[] = [];
+const MAX_FILES = 20;
+
+function analyze(bytes: Uint8Array): { analysis: Analysis; segs?: JpegSegments; fmt: Fmt } {
+  const fmt = detectFormat(bytes);
+  if (fmt === 'jpeg') {
+    const segs = walkJpeg(bytes);
+    return { analysis: analyzeJpeg(segs), segs, fmt };
+  }
+  if (fmt === 'png') return { analysis: analyzePng(bytes), fmt };
+  if (fmt === 'webp') return { analysis: analyzeWebp(bytes), fmt };
+  throw new Error(I18N.unsupportedFormat);
+}
+
+function rebuild(f: ProcessedFile): { blob: Blob; bytes: Uint8Array } {
+  if (f.format === 'jpeg' && f.segs) {
+    const b = rebuildJpeg(f.segs, f.removeSet);
+    return { blob: new Blob([b], { type: 'image/jpeg' }), bytes: b };
+  }
+  if (f.format === 'png') {
+    const b = rebuildPng(f.origBytes, f.removeSet);
+    return { blob: new Blob([b], { type: 'image/png' }), bytes: b };
+  }
+  if (f.format === 'webp') {
+    const b = rebuildWebp(f.origBytes, f.removeSet);
+    return { blob: new Blob([b], { type: 'image/webp' }), bytes: b };
+  }
+  throw new Error(I18N.unsupportedFormat);
+}
+
+// --- UI -----------------------------------------------------------------
+
+const dropzone = document.getElementById('dropzone')!;
+const fileInput = document.getElementById('file-input') as HTMLInputElement;
+const results = document.getElementById('results')!;
+const bulkActions = document.getElementById('bulk-actions')!;
+const downloadAllBtn = document.getElementById('download-all')!;
+const clearAllBtn = document.getElementById('clear-all')!;
+
+function fmtBytes(n: number): string {
+  if (n < 1024) return n + ' B';
+  if (n < 1024 * 1024) return (n / 1024).toFixed(1) + ' KB';
+  return (n / (1024 * 1024)).toFixed(2) + ' MB';
+}
+function escapeHtml(s: string): string {
+  return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
+}
+function cleanedFilename(name: string): string {
+  const dot = name.lastIndexOf('.');
+  if (dot === -1) return name + '-clean';
+  return name.slice(0, dot) + '-clean' + name.slice(dot);
+}
+
+function renderCard(f: ProcessedFile): HTMLElement {
+  const card = document.createElement('details');
+  card.className = 'group rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 overflow-hidden';
+  card.dataset.fileId = f.id;
+  card.open = false;
+  if (f.error) {
+    card.innerHTML = `
+      <summary class="list-none p-4 flex items-start gap-4 cursor-pointer">
+        <div class="w-10 h-10 rounded-lg bg-red-100 dark:bg-red-900/40 flex items-center justify-center flex-shrink-0">
+          <svg class="w-5 h-5 text-red-600 dark:text-red-400" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"/></svg>
+        </div>
+        <div class="flex-1 min-w-0">
+          <p class="font-medium text-gray-900 dark:text-gray-100 truncate">${escapeHtml(f.name)}</p>
+          <p class="text-sm text-red-600 dark:text-red-400 mt-0.5">${escapeHtml(f.error)}</p>
+        </div>
+      </summary>`;
+    return card;
+  }
+  const cats = f.analysis?.categories || [];
+  const foundLabel = cats.length === 0
+    ? I18N.noMetadata
+    : cats.length === 1
+      ? I18N.metadataFoundOne
+      : I18N.metadataFoundMany.replace('{n}', String(cats.length));
+  const origSize = f.origBytes.length;
+  const cleanSize = f.cleanSize ?? origSize;
+  const delta = origSize - cleanSize;
+  const iconColor = cats.length ? 'text-amber-600 dark:text-amber-400 bg-amber-100 dark:bg-amber-900/40' : 'text-green-600 dark:text-green-400 bg-green-100 dark:bg-green-900/40';
+  const iconPath = cats.length
+    ? 'M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z'
+    : 'M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z';
+  card.innerHTML = `
+    <summary class="list-none p-4 flex items-start gap-4 cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-900/40">
+      <div class="w-10 h-10 rounded-lg ${iconColor} flex items-center justify-center flex-shrink-0">
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="${iconPath}"/></svg>
+      </div>
+      <div class="flex-1 min-w-0">
+        <div class="flex items-baseline justify-between gap-3">
+          <p class="font-medium text-gray-900 dark:text-gray-100 truncate">${escapeHtml(f.name)}</p>
+          <span class="text-xs text-gray-400 dark:text-gray-500 flex-shrink-0 uppercase">${f.format}</span>
+        </div>
+        <p class="text-sm text-gray-500 dark:text-gray-400 mt-0.5">
+          ${fmtBytes(origSize)} → ${fmtBytes(cleanSize)}
+          ${delta > 0 ? `<span class="text-green-600 dark:text-green-400">(−${fmtBytes(delta)})</span>` : ''}
+        </p>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">${escapeHtml(foundLabel)}</p>
+      </div>
+      <div class="flex items-center gap-2 flex-shrink-0">
+        <a data-dl class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-gray-900 dark:bg-gray-100 text-white dark:text-gray-900 rounded-lg text-sm font-medium hover:bg-gray-800 dark:hover:bg-gray-200 transition-colors" download="${escapeHtml(cleanedFilename(f.name))}">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"/></svg>
+          ${escapeHtml(I18N.downloadBtn)}
+        </a>
+        ${cats.length ? `<svg class="w-5 h-5 text-gray-400 transition-transform group-open:rotate-180 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/></svg>` : ''}
+      </div>
+    </summary>
+    ${cats.length ? `
+    <div class="border-t border-gray-200 dark:border-gray-800 p-4 bg-gray-50 dark:bg-gray-900/30">
+      <p class="text-xs font-semibold tracking-wider uppercase text-gray-500 dark:text-gray-400 mb-2">${escapeHtml(I18N.metadataBreakdown)}</p>
+      <p class="text-xs text-gray-500 dark:text-gray-400 mb-4">${escapeHtml(I18N.uncheckToKeep)}</p>
+      <div class="space-y-2" data-cats>
+        ${cats.map((c) => `
+          <label class="flex items-start gap-3 p-3 rounded-lg bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800 cursor-pointer hover:border-gray-300 dark:hover:border-gray-700">
+            <input type="checkbox" data-cat="${c.id}" checked class="mt-0.5 w-4 h-4 rounded border-gray-300 dark:border-gray-600 text-gray-900 dark:text-gray-100 focus:ring-gray-900 dark:focus:ring-gray-100"/>
+            <div class="flex-1 min-w-0">
+              <p class="text-sm font-medium text-gray-900 dark:text-gray-100">${escapeHtml(c.label)}</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-0.5">${escapeHtml(c.desc)}</p>
+              ${c.sampleValues.length ? `<p class="text-xs text-gray-400 dark:text-gray-500 mt-1 font-mono truncate">${escapeHtml(c.sampleValues.slice(0, 2).join(' · '))}</p>` : ''}
+            </div>
+          </label>
+        `).join('')}
+      </div>
+    </div>` : ''}
+  `;
+  // Wire checkbox listeners
+  card.querySelectorAll<HTMLInputElement>('input[data-cat]').forEach((cb) => {
+    cb.addEventListener('change', () => onCategoryToggle(f, card));
+    cb.addEventListener('click', (e) => e.stopPropagation());
+  });
+  // Populate download link
+  updateDownloadLink(card, f);
+  return card;
+}
+
+function updateDownloadLink(card: HTMLElement, f: ProcessedFile) {
+  const a = card.querySelector<HTMLAnchorElement>('[data-dl]');
+  if (!a) return;
+  if (f.cleanUrl) a.href = f.cleanUrl;
+  a.addEventListener('click', (e) => e.stopPropagation(), { once: true });
+}
+
+function onCategoryToggle(f: ProcessedFile, card: HTMLElement) {
+  f.removeSet = new Set();
+  card.querySelectorAll<HTMLInputElement>('input[data-cat]').forEach((cb) => {
+    if (cb.checked) f.removeSet.add(cb.dataset.cat!);
+  });
+  // Rebuild
+  try {
+    if (f.cleanUrl) URL.revokeObjectURL(f.cleanUrl);
+    const { blob, bytes } = rebuild(f);
+    f.cleanBlob = blob;
+    f.cleanUrl = URL.createObjectURL(blob);
+    f.cleanSize = bytes.length;
+  } catch (e: any) {
+    f.error = e?.message || I18N.parseError;
+  }
+  // Re-render in place
+  const newCard = renderCard(f);
+  newCard.open = card.open;
+  card.replaceWith(newCard);
+}
+
+async function handleFiles(selected: FileList | File[]) {
+  const list = Array.from(selected);
+  if (!list.length) return;
+  const remaining = Math.max(0, MAX_FILES - files.length);
+  const accepted = list.slice(0, remaining);
+  const skipped = list.length - accepted.length;
+  results.classList.remove('hidden');
+  bulkActions.classList.remove('hidden');
+  for (const file of accepted) {
+    const placeholder = document.createElement('div');
+    placeholder.className = 'flex items-center gap-3 p-4 rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950';
+    placeholder.innerHTML = `
+      <div class="w-10 h-10 rounded-lg bg-gray-100 dark:bg-gray-800 flex items-center justify-center flex-shrink-0">
+        <svg class="w-5 h-5 text-gray-400 animate-spin" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M16.023 9.348h4.992v-.001M2.985 19.644v-4.992m0 0h4.992m-4.993 0l3.181 3.183a8.25 8.25 0 0013.803-3.7M4.031 9.865a8.25 8.25 0 0113.803-3.7l3.181 3.182m0-4.991v4.99"/></svg>
+      </div>
+      <p class="text-sm text-gray-500 dark:text-gray-400">${escapeHtml(I18N.processing)} ${escapeHtml(file.name)}…</p>
+    `;
+    results.appendChild(placeholder);
+    const bytes = new Uint8Array(await file.arrayBuffer());
+    const id = Math.random().toString(36).slice(2);
+    const f: ProcessedFile = {
+      id, name: file.name, format: 'unknown',
+      origBytes: bytes, analysis: null, removeSet: new Set(CATS),
+    };
+    try {
+      const { analysis, segs, fmt } = analyze(bytes);
+      f.format = fmt; f.analysis = analysis; f.segs = segs;
+      f.removeSet = new Set(analysis.categories.map((c) => c.id));
+      const { blob, bytes: cleanedBytes } = rebuild(f);
+      f.cleanBlob = blob;
+      f.cleanUrl = URL.createObjectURL(blob);
+      f.cleanSize = cleanedBytes.length;
+    } catch (e: any) {
+      f.error = e?.message || I18N.parseError;
+    }
+    files.push(f);
+    const card = renderCard(f);
+    results.replaceChild(card, placeholder);
+  }
+  if (skipped > 0) {
+    const warn = document.createElement('div');
+    warn.className = 'p-3 rounded-lg bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-900/40 text-sm text-amber-900 dark:text-amber-200';
+    warn.textContent = I18N.fileLimitReached;
+    results.appendChild(warn);
+  }
+}
+
+dropzone.addEventListener('click', () => fileInput.click());
+dropzone.addEventListener('keydown', (e: KeyboardEvent) => {
+  if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); fileInput.click(); }
+});
+fileInput.addEventListener('change', () => {
+  if (fileInput.files) handleFiles(fileInput.files);
+  fileInput.value = '';
+});
+
+(['dragenter', 'dragover'] as const).forEach((evt) => {
+  dropzone.addEventListener(evt, (e: Event) => {
+    e.preventDefault();
+    dropzone.classList.add('border-gray-900', 'dark:border-gray-100', 'bg-gray-50', 'dark:bg-gray-900/50');
+  });
+});
+(['dragleave', 'drop'] as const).forEach((evt) => {
+  dropzone.addEventListener(evt, (e: Event) => {
+    e.preventDefault();
+    dropzone.classList.remove('border-gray-900', 'dark:border-gray-100', 'bg-gray-50', 'dark:bg-gray-900/50');
+  });
+});
+dropzone.addEventListener('drop', (e: DragEvent) => {
+  if (e.dataTransfer?.files?.length) handleFiles(e.dataTransfer.files);
+});
+
+downloadAllBtn.addEventListener('click', () => {
+  for (const f of files) {
+    if (f.error || !f.cleanUrl) continue;
+    const a = document.createElement('a');
+    a.href = f.cleanUrl;
+    a.download = cleanedFilename(f.name);
+    a.click();
+  }
+});
+
+clearAllBtn.addEventListener('click', () => {
+  for (const f of files) if (f.cleanUrl) URL.revokeObjectURL(f.cleanUrl);
+  files.length = 0;
+  results.innerHTML = '';
+  results.classList.add('hidden');
+  bulkActions.classList.add('hidden');
+});
+</script>
