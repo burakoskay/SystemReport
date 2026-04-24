@@ -1,18 +1,20 @@
 ---
 title: "Space Exploration's New Frontiers"
 date: 2026-04-24T17:31:07.057Z
+modified_date: 2026-04-24T19:00:57.992Z
 tags: ["space exploration","NASA","SpaceX"]
 hero_image: "/hero/2026-04-24-space-exploration-s-new-frontiers-b8d8d7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "space"
 description: "NASA and private companies push the boundaries of space travel and exploration."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-04-24-space-exploration-s-new-frontiers-b8d8d7.mp3"
 audio_bytes: 597517
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Future of Space Exploration
@@ -62,3 +64,7 @@ The space industry has experienced significant growth in recent years, driven by
 ## Conclusion
 
 The future of space exploration is exciting and uncertain. With NASA's Artemis program and private companies like SpaceX pushing the boundaries of space travel and exploration, we can expect to see new breakthroughs and challenges emerge. As the industry continues to evolve, it's essential to stay informed about the latest developments and challenges.
+
+## Updates
+
+- **2026-04-24** — This free iPhone app from Cornell answers nature’s greatest springtime mystery ([source](https://9to5mac.com/2026/04/24/this-free-iphone-app-from-cornell-answers-natures-greatest-springtime-mystery/))
