@@ -1,16 +1,17 @@
 ---
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
-modified_date: 2026-04-23T13:56:10.340Z
+modified_date: 2026-04-24T06:11:14.303Z
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
 hero_image: "/hero/2026-04-15-adobe-unleashes-firefly-ai-assistant-the-future-of-creative-workflows-e381a9.jpg"
 hero_image_credit_name: "Vito Goričan"
 hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ This move positions Firefly AI Assistant as Adobe's definitive answer to the nar
 
 ## Updates
 
+- **2026-04-24** — Using the internet like it's 1999 ([source](https://joshblais.com/blog/using-the-internet-like-its-1999/))
 - **2026-04-23** — Tim Cook’s departure is the start of a new era at Apple ([source](https://www.theverge.com/tech/916585/tim-cook-apple-new-era))
 - **2026-04-23** — The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated ([source](https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati))
 - **2026-04-21** — ISS astronauts are getting new laptops ([source](https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9))
