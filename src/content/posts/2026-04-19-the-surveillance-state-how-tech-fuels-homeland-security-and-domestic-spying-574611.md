@@ -1,15 +1,17 @@
 ---
 title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
+modified_date: 2026-04-24T13:46:45.132Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 ## The Web of Surveillance
@@ -35,3 +37,7 @@ The use of surveillance technologies has also been criticized for its disproport
 As the use of surveillance technologies continues to expand, it's clear that the debate over privacy and civil liberties will only intensify. The TSA's PreCheck program, for example, has raised questions about the trade-offs between security and convenience. As the Department of Homeland Security celebrates its 20th anniversary, it's time to take a step back and assess the impact of its programs on our society.
 
 The next step in this debate is likely to be a renewed focus on reforming surveillance powers and ensuring that tech companies are not fueling the growth of a surveillance state. With the rise of new technologies and the increasing use of data fusion centers, it's more important than ever to prioritize transparency and accountability in the use of surveillance technologies.
+
+## Updates
+
+- **2026-04-24** — The Best Cordless Vacuums for Your Whole House (2026) ([source](https://www.wired.com/gallery/the-best-cordless-vacuum/))
