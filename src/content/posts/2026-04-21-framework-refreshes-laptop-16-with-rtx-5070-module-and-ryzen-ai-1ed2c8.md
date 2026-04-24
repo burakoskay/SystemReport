@@ -1,16 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-04-23T15:59:18.891Z
+modified_date: 2026-04-24T17:03:07.173Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 ## New silicon and graphics in the 16‑inch chassis
@@ -39,4 +40,5 @@ Another variable is the relationship with Nvidia. Framework has secured a mobile
 
 ## Updates
 
+- **2026-04-24** — How Project Maven taught the military to love AI ([source](https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson))
 - **2026-04-23** — Netflix can’t seem to follow up its biggest shows ([source](https://www.theverge.com/entertainment/917121/stranger-things-tales-from-85-netflix-spinoffs))

@@ -1,16 +1,17 @@
 ---
 title: "People of Note Brings a Fresh Spin to the RPG Genre"
 date: 2026-04-18T12:46:19.998Z
-modified_date: 2026-04-23T22:53:06.066Z
+modified_date: 2026-04-24T17:03:07.521Z
 tags: ["RPG","Music","Vacation","Relaxing","Engaging"]
 hero_image: "/hero/2026-04-18-people-of-note-brings-a-fresh-spin-to-the-rpg-genre-3d63dc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ In conclusion, People of Note is a game that brings a fresh spin to the RPG genr
 
 ## Updates
 
+- **2026-04-24** — Xreal’s best AR glasses are $599 for good now ([source](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale))
 - **2026-04-23** — Apple TV scores two wins at the 2026 Peabody Awards ([source](https://9to5mac.com/2026/04/23/apple-tv-scores-two-wins-at-the-2026-peabody-awards/))
 - **2026-04-22** — Tesla reports Q1 2026 earnings: Still profitable ([source](https://arstechnica.com/cars/2026/04/tesla-reports-q1-2026-earnings-still-profitable/))
 - **2026-04-22** — This is Ternus’ biggest challenge, as he and Cook notch up key win ([source](https://9to5mac.com/2026/04/22/this-is-ternus-biggest-challenge-as-he-and-cook-notch-up-key-win/))
