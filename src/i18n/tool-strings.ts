@@ -204,6 +204,134 @@ export const HUB: Record<Locale, HubStrings> = {
   },
 };
 
+// -------- Site chrome (header + footer + mobile menu) ----------------------
+
+export interface ChromeStrings {
+  home: string;
+  tech: string;
+  gaming: string;
+  ai: string;
+  software: string;
+  hardware: string;
+  tools: string;
+  tags: string;
+  team: string;
+  about: string;
+  privacy: string;
+  search: string;
+  searchArticles: string;
+  openMenu: string;
+  closeMenu: string;
+  navigateHeading: string;
+  stayUpdatedHeading: string;
+  followFeed: string;
+  rssFeed: string;
+  brandTagline: string;
+  copyright: string; // trailing sentence after "© YYYY System Report."
+}
+
+export const CHROME: Record<Locale, ChromeStrings> = {
+  en: {
+    home: 'Home', tech: 'Tech', gaming: 'Gaming', ai: 'AI', software: 'Software', hardware: 'Hardware', tools: 'Tools',
+    tags: 'Tags', team: 'The Team', about: 'About', privacy: 'Privacy Policy',
+    search: 'Search', searchArticles: 'Search articles...', openMenu: 'Open menu', closeMenu: 'Close menu',
+    navigateHeading: 'Navigate', stayUpdatedHeading: 'Stay Updated',
+    followFeed: 'Follow our feed for the latest in tech.', rssFeed: 'RSS Feed',
+    brandTagline: 'In-depth tech news, analysis, and expert commentary. Covering the stories that matter in technology.',
+    copyright: 'All rights reserved.',
+  },
+  tr: {
+    home: 'Ana Sayfa', tech: 'Teknoloji', gaming: 'Oyun', ai: 'YZ', software: 'Yazılım', hardware: 'Donanım', tools: 'Araçlar',
+    tags: 'Etiketler', team: 'Ekip', about: 'Hakkında', privacy: 'Gizlilik Politikası',
+    search: 'Ara', searchArticles: 'Makalelerde ara...', openMenu: 'Menüyü aç', closeMenu: 'Menüyü kapat',
+    navigateHeading: 'Gezinti', stayUpdatedHeading: 'Güncel Kal',
+    followFeed: 'En son teknoloji için akışımızı takip edin.', rssFeed: 'RSS Akışı',
+    brandTagline: 'Derinlemesine teknoloji haberleri, analizler ve uzman yorumları. Teknolojide önemli olan hikâyeleri ele alıyoruz.',
+    copyright: 'Tüm hakları saklıdır.',
+  },
+  es: {
+    home: 'Inicio', tech: 'Tecnología', gaming: 'Videojuegos', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Herramientas',
+    tags: 'Etiquetas', team: 'El Equipo', about: 'Acerca de', privacy: 'Política de Privacidad',
+    search: 'Buscar', searchArticles: 'Buscar artículos...', openMenu: 'Abrir menú', closeMenu: 'Cerrar menú',
+    navigateHeading: 'Navegar', stayUpdatedHeading: 'Mantente al día',
+    followFeed: 'Sigue nuestro feed para lo último en tecnología.', rssFeed: 'Feed RSS',
+    brandTagline: 'Noticias tecnológicas en profundidad, análisis y comentarios expertos. Cubrimos las historias que importan en tecnología.',
+    copyright: 'Todos los derechos reservados.',
+  },
+  fr: {
+    home: 'Accueil', tech: 'Tech', gaming: 'Jeux', ai: 'IA', software: 'Logiciel', hardware: 'Matériel', tools: 'Outils',
+    tags: 'Tags', team: "L'Équipe", about: 'À propos', privacy: 'Politique de confidentialité',
+    search: 'Rechercher', searchArticles: 'Rechercher des articles...', openMenu: 'Ouvrir le menu', closeMenu: 'Fermer le menu',
+    navigateHeading: 'Navigation', stayUpdatedHeading: 'Restez informé',
+    followFeed: 'Suivez notre flux pour les dernières actualités tech.', rssFeed: 'Flux RSS',
+    brandTagline: "Actualités technologiques approfondies, analyses et commentaires d'experts. Nous couvrons les histoires qui comptent dans la tech.",
+    copyright: 'Tous droits réservés.',
+  },
+  de: {
+    home: 'Startseite', tech: 'Tech', gaming: 'Gaming', ai: 'KI', software: 'Software', hardware: 'Hardware', tools: 'Tools',
+    tags: 'Tags', team: 'Das Team', about: 'Über uns', privacy: 'Datenschutz',
+    search: 'Suche', searchArticles: 'Artikel suchen...', openMenu: 'Menü öffnen', closeMenu: 'Menü schließen',
+    navigateHeading: 'Navigation', stayUpdatedHeading: 'Bleib informiert',
+    followFeed: 'Folge unserem Feed für die neuesten Tech-News.', rssFeed: 'RSS-Feed',
+    brandTagline: 'Fundierte Tech-Nachrichten, Analysen und Experten-Kommentare. Wir berichten über die Geschichten, die in der Technik zählen.',
+    copyright: 'Alle Rechte vorbehalten.',
+  },
+  ja: {
+    home: 'ホーム', tech: 'テック', gaming: 'ゲーム', ai: 'AI', software: 'ソフトウェア', hardware: 'ハードウェア', tools: 'ツール',
+    tags: 'タグ', team: 'チーム', about: '概要', privacy: 'プライバシーポリシー',
+    search: '検索', searchArticles: '記事を検索...', openMenu: 'メニューを開く', closeMenu: 'メニューを閉じる',
+    navigateHeading: 'ナビゲーション', stayUpdatedHeading: '最新情報',
+    followFeed: '最新のテクノロジーはフィードをフォロー。', rssFeed: 'RSSフィード',
+    brandTagline: '深掘りのテクノロジーニュース、分析、専門家による解説。重要な技術の物語をお届けします。',
+    copyright: '無断複写・転載を禁じます。',
+  },
+  'zh-CN': {
+    home: '首页', tech: '科技', gaming: '游戏', ai: '人工智能', software: '软件', hardware: '硬件', tools: '工具',
+    tags: '标签', team: '团队', about: '关于', privacy: '隐私政策',
+    search: '搜索', searchArticles: '搜索文章...', openMenu: '打开菜单', closeMenu: '关闭菜单',
+    navigateHeading: '导航', stayUpdatedHeading: '保持关注',
+    followFeed: '关注我们的订阅源获取最新科技资讯。', rssFeed: 'RSS 订阅',
+    brandTagline: '深度科技新闻、分析与专家解读。报道科技领域真正重要的故事。',
+    copyright: '版权所有。',
+  },
+  ko: {
+    home: '홈', tech: '기술', gaming: '게임', ai: 'AI', software: '소프트웨어', hardware: '하드웨어', tools: '도구',
+    tags: '태그', team: '팀', about: '소개', privacy: '개인정보처리방침',
+    search: '검색', searchArticles: '기사 검색...', openMenu: '메뉴 열기', closeMenu: '메뉴 닫기',
+    navigateHeading: '내비게이션', stayUpdatedHeading: '최신 소식',
+    followFeed: '최신 기술 소식을 피드에서 확인하세요.', rssFeed: 'RSS 피드',
+    brandTagline: '심층적인 기술 뉴스, 분석, 전문가 논평. 기술 분야에서 중요한 이야기를 다룹니다.',
+    copyright: '모든 권리 보유.',
+  },
+  pt: {
+    home: 'Início', tech: 'Tech', gaming: 'Games', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Ferramentas',
+    tags: 'Tags', team: 'A Equipe', about: 'Sobre', privacy: 'Política de Privacidade',
+    search: 'Buscar', searchArticles: 'Buscar artigos...', openMenu: 'Abrir menu', closeMenu: 'Fechar menu',
+    navigateHeading: 'Navegar', stayUpdatedHeading: 'Fique por dentro',
+    followFeed: 'Siga nosso feed para as últimas em tecnologia.', rssFeed: 'Feed RSS',
+    brandTagline: 'Notícias de tecnologia aprofundadas, análises e comentários de especialistas. Cobrimos as histórias que importam em tecnologia.',
+    copyright: 'Todos os direitos reservados.',
+  },
+  it: {
+    home: 'Home', tech: 'Tech', gaming: 'Videogiochi', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Strumenti',
+    tags: 'Tag', team: 'Il Team', about: 'Chi siamo', privacy: 'Privacy Policy',
+    search: 'Cerca', searchArticles: 'Cerca articoli...', openMenu: 'Apri menu', closeMenu: 'Chiudi menu',
+    navigateHeading: 'Naviga', stayUpdatedHeading: 'Resta aggiornato',
+    followFeed: 'Segui il nostro feed per le ultime novità tech.', rssFeed: 'Feed RSS',
+    brandTagline: 'Notizie tech approfondite, analisi e commenti esperti. Raccontiamo le storie che contano nel mondo della tecnologia.',
+    copyright: 'Tutti i diritti riservati.',
+  },
+  ar: {
+    home: 'الرئيسية', tech: 'تقنية', gaming: 'ألعاب', ai: 'ذكاء اصطناعي', software: 'برمجيات', hardware: 'عتاد', tools: 'أدوات',
+    tags: 'الوسوم', team: 'الفريق', about: 'حول', privacy: 'سياسة الخصوصية',
+    search: 'بحث', searchArticles: 'ابحث في المقالات...', openMenu: 'فتح القائمة', closeMenu: 'إغلاق القائمة',
+    navigateHeading: 'التصفح', stayUpdatedHeading: 'ابقَ على اطلاع',
+    followFeed: 'تابع خلاصتنا لآخر أخبار التقنية.', rssFeed: 'خلاصة RSS',
+    brandTagline: 'أخبار تقنية متعمقة وتحليلات وتعليقات الخبراء. نغطي القصص التي تهم عالم التكنولوجيا.',
+    copyright: 'جميع الحقوق محفوظة.',
+  },
+};
+
 // -------- EXIF stripper page -----------------------------------------------
 
 export interface FaqItem { q: string; a: string; }
