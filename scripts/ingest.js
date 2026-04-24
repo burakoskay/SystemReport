@@ -425,6 +425,29 @@ async function reviseDraft(draft, critique, cluster) {
   }
 }
 
+// --- Lengthen (called when draft underruns the word-count gate) ---
+async function lengthenDraft(draft, cluster, currentWords, targetWords, maxWords) {
+  const sourceTexts = cluster.articles
+    .map((a) => `Title: ${a.title}\nContent: ${a.content.substring(0, 600)}`)
+    .join('\n\n---\n\n');
+
+  const voiceBlock = EDITORIAL_VOICE
+    ? `EDITORIAL VOICE GUIDE (follow exactly):\n${EDITORIAL_VOICE}\n\n---\n\n`
+    : '';
+
+  const sel = selectPrompt('lengthen');
+  const prompt = sel.render({ voiceBlock, draft, sourceTexts, currentWords, targetWords, maxWords });
+
+  const res = await routeCall({ task: 'draft', prompt, schema: synthesisSchema, promptMeta: { id: sel.id, variant: sel.variant } });
+  const parsed = JSON.parse(res.text);
+  if (!parsed.title || !parsed.article_markdown || !parsed.tags) {
+    throw new Error('Lengthen response missing required fields');
+  }
+  parsed._drafter = draft._drafter;
+  parsed._lengthener = `${res.provider}/${res.model}`;
+  return parsed;
+}
+
 // Multi-draft threshold: only stories backed by this many+ sources get the A+B+judge
 // treatment. Cheaper stories stick with the single-draft path to conserve TPM budget.
 const MULTI_DRAFT_MIN_SOURCES = 3;
@@ -514,10 +537,15 @@ async function synthesizeArticle(cluster) {
     );
   }
 
-  // 5. Word-count gate — thin articles aren't publishable. Instead of asking
-  // the LLM to pad (→ slop), we pull MORE sources and re-draft from scratch.
+  // 5. Word-count gate — thin articles aren't publishable, but over-gating
+  // drops every cluster into the DLQ and starves the site. Two-stage fix:
+  //   a. If < MIN_WORDS (target), pull more sources and re-draft from scratch.
+  //   b. If STILL < MIN_WORDS, call a dedicated `lengthen` prompt up to 2x
+  //      that expands via context/history/mechanics without padding.
+  //   c. Reject only if below HARD_MIN after all that.
   const MIN_WORDS = 900;
-  const HARD_MIN = 700;
+  const HARD_MIN = 500;
+  const MAX_WORDS = 1300;
   const countWords = (s) => (s || '').split(/\s+/).filter(Boolean).length;
   let wc = countWords(article.article_markdown);
   if (wc < MIN_WORDS) {
@@ -531,17 +559,40 @@ async function synthesizeArticle(cluster) {
         cluster.articles = [...cluster.articles, ...fresh];
         console.log(`    +${fresh.length} new sources (${before} → ${cluster.articles.length}); re-drafting`);
         article = await draftArticle(cluster, 'draft', author);
-        article._author = author.slug;
+        if (author) article._author = author.slug;
         wc = countWords(article.article_markdown);
       } else {
-        console.log(`    no additional sources found; keeping short draft for final gate`);
+        console.log(`    no additional sources found; falling through to lengthen pass`);
       }
     } catch (e) {
       console.log(`    research-retry failed: ${e.message.slice(0, 120)}`);
     }
   }
+  // Stage b: lengthen-via-revision, up to 2 tries. Each try must make forward
+  // progress (more words than before) or we give up to avoid loops.
+  for (let lenAttempt = 1; lenAttempt <= 2 && wc < MIN_WORDS; lenAttempt++) {
+    console.log(`    lengthen pass ${lenAttempt}/2: ${wc} < ${MIN_WORDS}`);
+    try {
+      const lengthened = await lengthenDraft(article, cluster, wc, MIN_WORDS, MAX_WORDS);
+      const newWc = countWords(lengthened.article_markdown);
+      if (newWc > wc) {
+        article = { ...lengthened, _author: article._author, _drafter: article._drafter };
+        wc = newWc;
+        console.log(`    lengthen pass ${lenAttempt}: ${wc} words`);
+      } else {
+        console.log(`    lengthen pass ${lenAttempt}: no progress (${newWc} words), stopping`);
+        break;
+      }
+    } catch (e) {
+      console.log(`    lengthen pass ${lenAttempt} failed: ${e.message.slice(0, 120)}`);
+      break;
+    }
+  }
   if (wc < HARD_MIN) {
     throw new Error(`Draft still too short after lengthen pass: ${wc} words < ${HARD_MIN}`);
+  }
+  if (wc < MIN_WORDS) {
+    console.log(`    accepting ${wc}-word draft (below target ${MIN_WORDS} but above hard floor ${HARD_MIN})`);
   }
 
   // 6. Title length gate — Bing flags >70 chars as truncated. Cap to 65
@@ -794,16 +845,17 @@ async function main() {
       }
 
       // Narration is a load-bearing feature ("Listen to this article") —
-      // the TTS module now has a provider chain (CF MeloTTS → Groq Orpheus)
-      // so a single-provider outage no longer silently drops the button
-      // from the page. We retry once at this level too, because a
-      // transient network hiccup costs only one extra call and is cheaper
-      // than publishing without audio.
+      // the site contract is that every published article has audio. If the
+      // full provider chain (CF MeloTTS → Groq Orpheus, each with its own
+      // retries) still can't produce audio, we do NOT publish this cluster:
+      // the sources stay unprocessed and the next run retries. Better to
+      // delay a piece by two hours than to publish without the player.
       let audioPath = '';
       let audioBytes = 0;
       let audioMime = '';
       const speechText = markdownToSpeechText(synthesis.title, synthesis.description, synthesis.article_markdown);
-      for (let attempt = 1; attempt <= 2; attempt++) {
+      let ttsErr;
+      for (let attempt = 1; attempt <= 3; attempt++) {
         try {
           const out = await synthesizeSpeech(speechText);
           await fs.mkdir(AUDIO_DIR, { recursive: true });
@@ -813,15 +865,17 @@ async function main() {
           audioBytes = out.bytes.length;
           audioMime = out.mime;
           console.log(`  🔊 Narration via ${out.provider}: ${audioPath} (${(out.bytes.length / 1024).toFixed(0)} KB)`);
+          ttsErr = null;
           break;
         } catch (e) {
-          if (attempt === 2) {
-            console.log(`  ⚠ TTS failed after retry — publishing without audio: ${e.message.slice(0, 200)}`);
-          } else {
-            console.log(`  TTS attempt ${attempt} failed, retrying: ${e.message.slice(0, 160)}`);
-            await new Promise(r => setTimeout(r, 3000));
-          }
+          ttsErr = e;
+          console.log(`  TTS attempt ${attempt}/3 failed: ${e.message.slice(0, 200)}`);
+          if (attempt < 3) await new Promise(r => setTimeout(r, 5000 * attempt));
         }
+      }
+      if (!audioPath) {
+        console.log(`  ⏭  Skipping cluster — every published article must have audio. Will retry next run.`);
+        throw new Error(`TTS failed across all providers: ${ttsErr?.message?.slice(0, 200) || 'unknown'}`);
       }
 
       const frontmatter = `---
@@ -845,7 +899,12 @@ audio_mime: "${audioMime}"` : ''}
       const fileContent = frontmatter + synthesis.article_markdown;
       await fs.writeFile(path.join(POSTS_DIR, filename), fileContent, 'utf-8');
 
-      // Mark cluster sources as processed
+      // Mark cluster sources as processed — ONLY on successful publish. If
+      // synthesis or TTS fails earlier, the cluster throws out to the DLQ and
+      // the URLs remain unclaimed so the next run can retry them. Do not move
+      // this assignment earlier in the function without re-auditing the retry
+      // contract: Apr 2026 near-outage was caused by a too-aggressive gate
+      // starving the queue of publishable work.
       cluster.articles.forEach((a) => processedUrls.add(a.link));
       consecutiveFailures = 0;
       publishedCount++;

@@ -20,7 +20,7 @@ ${authorVoice ? `\nBYLINE VOICE (this specific piece is bylined by one of our re
 Write an original tech-news article in Markdown from the source material below. This is journalism, not a press release — the reader should come away informed, not sold to.
 
 HARD REQUIREMENTS (non-negotiable):
-- 900 to 1300 words in the body (article_markdown). Shorter is a failure and will be rejected.
+- 900 to 1300 words in the body (article_markdown). Shorter is a failure and will be rejected. If you find yourself finishing under 900 words, add another H2 section on industry context, history, or technical mechanics before returning — do not truncate and submit.
 - At least 4 H2 section headings (## …). Each section at least 2 paragraphs, most sections 3.
 - Lead with a 1–2 sentence nut-graph. What happened, why it matters. No "in this article" meta-language, no throat-clearing.
 - Second paragraph must add concrete detail — names, numbers, dates, product versions, specific companies. If the sources don't have them, don't invent.
@@ -188,6 +188,40 @@ Body:
 ${draft.article_markdown}
 
 SOURCE MATERIAL (for fact-fixing):
+${sourceTexts}`,
+    },
+  },
+  // Lengthen — called when a draft underruns the word-count gate after
+  // source expansion. Targets `targetWords`, bounded above by `maxWords`.
+  // Explicitly forbids invented specifics: expand via industry context,
+  // history, competitive landscape, and technical mechanics only.
+  lengthen: {
+    active: 'v1',
+    variants: {
+      'v1': ({ voiceBlock, draft, sourceTexts, currentWords, targetWords, maxWords }) => `${voiceBlock}The draft below is too short at ${currentWords} words. Expand it to between ${targetWords} and ${maxWords} words without inventing new facts about the specific event.
+
+HOW TO EXPAND (in this order of preference):
+- Add an H2 section on the broader industry context — adjacent products, competing companies, market size, adoption curves.
+- Add an H2 section on the history: prior launches, precedent regulatory actions, earlier incidents of the same category.
+- Add an H2 section on the technical mechanics: what actually happens under the hood, why this particular design choice matters.
+- Add an H2 section on downstream implications: who benefits, who is squeezed, what decision comes next.
+- Flesh out thin paragraphs with specific reasoning, not adjectives.
+
+FORBIDDEN:
+- Inventing new quotes, people, numbers, dates, company names, product names, revenue figures, death tolls, or any specific fact not in the source material.
+- Padding with filler, hedging clauses, or throat-clearing ("In today's fast-paced world…", "It's worth noting…").
+- Repeating points already made.
+- Bullet lists — this is prose journalism.
+
+Output a JSON object with the SAME schema as the original draft: title, description (≤160 chars), article_markdown, tags (3-5), visual_keyword. Keep the title, description, tags, and visual_keyword roughly the same — the job is to expand the body.
+
+ORIGINAL DRAFT:
+Title: ${draft.title}
+Description: ${draft.description}
+Body:
+${draft.article_markdown}
+
+SOURCE MATERIAL (for grounding any added claims):
 ${sourceTexts}`,
     },
   },
