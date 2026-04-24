@@ -173,6 +173,12 @@ const runtimeStrings = {
         <p class="mt-4 text-xs text-gray-400 dark:text-gray-500">{s.filesSupported}</p>
       </div>
 
+      <div id="file-limit-warning" class="mt-3 hidden p-3 rounded-lg bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-900/40 text-sm text-amber-900 dark:text-amber-200"></div>
+
+      <div id="file-counter" class="mt-3 hidden flex items-center justify-between text-xs text-gray-500 dark:text-gray-400">
+        <span><span data-count>0</span> / 20</span>
+      </div>
+
       <div id="results" class="mt-6 space-y-3 hidden"></div>
 
       <div id="bulk-actions" class="mt-4 hidden">
@@ -1017,6 +1023,25 @@ const results = document.getElementById('results')!;
 const bulkActions = document.getElementById('bulk-actions')!;
 const downloadAllBtn = document.getElementById('download-all')!;
 const clearAllBtn = document.getElementById('clear-all')!;
+const fileCounter = document.getElementById('file-counter')!;
+const fileCounterValue = fileCounter.querySelector('[data-count]') as HTMLElement;
+const fileLimitWarning = document.getElementById('file-limit-warning')!;
+
+function updateCounter() {
+  if (files.length > 1) {
+    fileCounterValue.textContent = String(files.length);
+    fileCounter.classList.remove('hidden');
+  } else {
+    fileCounter.classList.add('hidden');
+  }
+}
+function showLimitWarning(msg: string) {
+  fileLimitWarning.textContent = msg;
+  fileLimitWarning.classList.remove('hidden');
+}
+function hideLimitWarning() {
+  fileLimitWarning.classList.add('hidden');
+}
 
 function fmtBytes(n: number): string {
   if (n < 1024) return n + ' B';
@@ -1181,12 +1206,12 @@ async function handleFiles(selected: FileList | File[]) {
     files.push(f);
     const card = renderCard(f);
     results.replaceChild(card, placeholder);
+    updateCounter();
   }
   if (skipped > 0) {
-    const warn = document.createElement('div');
-    warn.className = 'p-3 rounded-lg bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-900/40 text-sm text-amber-900 dark:text-amber-200';
-    warn.textContent = I18N.fileLimitReached;
-    results.appendChild(warn);
+    showLimitWarning(I18N.fileLimitReached);
+  } else {
+    hideLimitWarning();
   }
 }
 
@@ -1231,5 +1256,7 @@ clearAllBtn.addEventListener('click', () => {
   results.innerHTML = '';
   results.classList.add('hidden');
   bulkActions.classList.add('hidden');
+  fileCounter.classList.add('hidden');
+  hideLimitWarning();
 });
 </script>
