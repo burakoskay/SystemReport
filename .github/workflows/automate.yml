@@ -31,6 +31,17 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
+      - name: Install ffmpeg
+        # TTS normalizes every clip through ffmpeg to a capped 64 kbps mono
+        # MP3 so Cloudflare Pages' 25 MiB per-file limit is never tripped.
+        # Without this, synthesis fails and no article gets published.
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update -qq
+            sudo apt-get install -y --no-install-recommends ffmpeg
+          fi
+          ffmpeg -version | head -1
+
       - name: Run ETL Pipeline
         env:
           GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
