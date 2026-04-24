@@ -2,9 +2,9 @@
 title: "Uber CTO joins StrictlyVC SF lineup"
 date: 2026-04-24T17:32:34.129Z
 tags: ["AI","Uber","StrictlyVC SF"]
-hero_image: "/hero/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.png"
-hero_image_credit_name: "System Report (Flux Schnell)"
-hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
+hero_image: "/hero/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.jpg"
+hero_image_credit_name: "Federico Abis"
+hero_image_credit_url: "https://www.pexels.com/@federicoabisphotography"
 visual_keyword: "Uber"
 description: "Uber CTO Praveen Neppalli Naga joins StrictlyVC San Francisco on April 30 to discuss operating at scale in the age of AI."
 sources_count: 2

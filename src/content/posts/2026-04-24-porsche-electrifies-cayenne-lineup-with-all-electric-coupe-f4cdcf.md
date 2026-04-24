@@ -2,9 +2,9 @@
 title: "Porsche Electrifies Cayenne Lineup with All-Electric Coupe"
 date: 2026-04-24T17:29:25.334Z
 tags: ["Porsche","Electric Vehicles","Giga-Castings"]
-hero_image: "/hero/2026-04-24-porsche-electrifies-cayenne-lineup-with-all-electric-coupe-f4cdcf.png"
-hero_image_credit_name: "System Report (Flux Schnell)"
-hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
+hero_image: "/hero/2026-04-24-porsche-electrifies-cayenne-lineup-with-all-electric-coupe-f4cdcf.jpg"
+hero_image_credit_name: "Crz ."
+hero_image_credit_url: "https://www.pexels.com/@crz-2158032520"
 visual_keyword: "Porsche Cayenne Coupe Electric"
 description: "Porsche adds an all-electric Cayenne coupe to its lineup, set to launch in late summer. The move signals a significant shift towards electrification in the luxury SUV market."
 sources_count: 3
