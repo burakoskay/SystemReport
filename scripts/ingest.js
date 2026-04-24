@@ -596,25 +596,80 @@ async function synthesizeArticle(cluster) {
   }
 
   // 6. Title length gate — Bing flags >70 chars as truncated. Cap to 65
-  // for a safety margin. Prefer cutting at natural boundaries (em-dash,
-  // colon, comma), fall back to last word-boundary before the limit.
-  article.title = shortenTitle(article.title, 65);
+  // for a safety margin. When the drafter overshoots, regenerate via the
+  // headline task first (avoids mid-phrase chops like "…Beats Its"); only
+  // fall back to blind boundary truncation if regeneration also fails.
+  if (article.title.length > 65) {
+    const rewritten = await rewriteHeadline(article).catch((e) => {
+      console.log(`    headline rewrite failed (${e.message.slice(0, 120)}); falling back to trim`);
+      return null;
+    });
+    article.title = (rewritten && rewritten.length <= 65 && rewritten.length >= 10)
+      ? rewritten
+      : shortenTitle(article.title, 65);
+  }
 
   return article;
 }
 
+const headlineSchema = {
+  type: Type.OBJECT,
+  properties: { title: { type: Type.STRING } },
+  required: ['title'],
+};
+
+async function rewriteHeadline(article) {
+  const sel = selectPrompt('rewrite-headline');
+  const bodyExcerpt = String(article.article_markdown || '').slice(0, 800);
+  const prompt = sel.render({
+    currentTitle: article.title,
+    description: article.description || '',
+    bodyExcerpt,
+    maxChars: 60,
+  });
+  const res = await routeCall({
+    task: 'headline',
+    prompt,
+    schema: headlineSchema,
+    timeoutMs: 20000,
+    promptMeta: { id: sel.id, variant: sel.variant },
+  });
+  const parsed = JSON.parse(res.text);
+  const t = String(parsed.title || '').trim().replace(/^["']|["']$/g, '');
+  if (!t) throw new Error('Empty headline from rewrite');
+  return t;
+}
+
+const TRAILING_STOPWORDS = new Set([
+  'a', 'an', 'the', 'and', 'or', 'but', 'nor', 'for', 'to', 'of', 'in', 'on',
+  'at', 'by', 'with', 'from', 'as', 'is', 'its', "it's", 'this', 'that',
+  'these', 'those', 'into', 'onto', 'over', 'under', 'about', 'after', 'before',
+  'beats', 'hits', 'gets', 'sees',
+]);
+
 function shortenTitle(raw, maxLen) {
   const t = String(raw || '').trim();
   if (t.length <= maxLen) return t;
-  // Try boundary cuts in priority order.
-  for (const sep of [' — ', ' – ', ': ', ' - ', ', ']) {
+  // Try boundary cuts in priority order. Drop the 50%-of-maxLen gate for
+  // commas — an early clean cut at a comma beats a mid-phrase word cut.
+  for (const sep of [' — ', ' – ', ': ', ' - ']) {
     const idx = t.lastIndexOf(sep, maxLen);
     if (idx > maxLen * 0.5) return t.slice(0, idx).trim();
   }
-  // Last word boundary within limit.
+  const commaIdx = t.lastIndexOf(', ', maxLen);
+  if (commaIdx > 15) return t.slice(0, commaIdx).trim();
+  // Last word boundary within limit, then strip trailing stopwords so we
+  // don't end on dangling "…Beats Its" / "…for a" / "…of the".
   const clip = t.slice(0, maxLen);
   const sp = clip.lastIndexOf(' ');
-  return (sp > 0 ? clip.slice(0, sp) : clip).trim();
+  let out = (sp > 0 ? clip.slice(0, sp) : clip).trim();
+  while (out.includes(' ')) {
+    const lastSp = out.lastIndexOf(' ');
+    const tail = out.slice(lastSp + 1).toLowerCase().replace(/[,.:;!?]+$/, '');
+    if (!TRAILING_STOPWORDS.has(tail)) break;
+    out = out.slice(0, lastSp).trim();
+  }
+  return out;
 }
 
 // --- Image fetching (Pexels) + self-hosting ---

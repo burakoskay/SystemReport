@@ -225,6 +225,32 @@ SOURCE MATERIAL (for grounding any added claims):
 ${sourceTexts}`,
     },
   },
+  // Headline rewrite — called when the drafter's title exceeds the 65-char
+  // hard cap. Regenerates a tight, punchy headline informed by the full
+  // draft so we don't blindly chop mid-phrase. Kept cheap: no voice block,
+  // no source texts, just the draft the reader is actually getting.
+  'rewrite-headline': {
+    active: 'v1',
+    variants: {
+      'v1': ({ currentTitle, description, bodyExcerpt, maxChars = 60 }) => `The headline below is too long. Rewrite it to ≤${maxChars} characters while keeping the punch and the specifics.
+
+RULES:
+- ≤${maxChars} characters. Hard limit. Count characters, not words.
+- Keep the most newsworthy specific (the name, number, or verb) if there is one.
+- No colons unless absolutely necessary.
+- No trailing function words (its, the, a, and, or, to, from, of, in, on, at, by, with).
+- No clickbait ("you won't believe…"), no vague hype ("game-changer", "revolutionary").
+- Active voice. Concrete verb.
+- If the original is a grab-bag of unrelated stories, pick the single most important angle and drop the rest — a focused headline beats a truncated list.
+
+Return ONLY a JSON object: { "title": "..." }
+
+ORIGINAL TITLE: ${currentTitle}
+DESCRIPTION: ${description}
+ARTICLE OPENING:
+${bodyExcerpt}`,
+    },
+  },
 };
 
 // Returns { id, variant, render } for a prompt id. If

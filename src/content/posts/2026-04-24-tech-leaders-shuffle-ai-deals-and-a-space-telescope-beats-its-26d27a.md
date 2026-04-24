@@ -1,5 +1,5 @@
 ---
-title: "Tech Leaders Shuffle, AI Deals, and a Space Telescope Beats Its"
+title: "Tech Leaders Shuffle as AI Deals and Space Launch Accelerate"
 date: 2026-04-24T11:10:51.603Z
 tags: ["leadership","m&a","space","ai"]
 hero_image: "/hero/2026-04-24-tech-leaders-shuffle-ai-deals-and-a-space-telescope-beats-its-26d27a.jpg"
