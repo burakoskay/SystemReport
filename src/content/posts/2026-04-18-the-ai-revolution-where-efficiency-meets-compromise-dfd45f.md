@@ -1,16 +1,17 @@
 ---
 title: "The AI Revolution: Where Efficiency Meets Compromise"
 date: 2026-04-18T01:04:49.528Z
-modified_date: 2026-04-23T20:57:35.885Z
+modified_date: 2026-04-24T09:48:49.490Z
 tags: ["ai","tech","cybersecurity","design"]
 hero_image: "/hero/2026-04-18-the-ai-revolution-where-efficiency-meets-compromise-dfd45f.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic newsroom"
 description: "AI is transforming newsrooms and tech, but at what cost?"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -22,5 +23,6 @@ The rise of AI-assisted writing in newsrooms has sparked a heated debate about t
 
 ## Updates
 
+- **2026-04-24** — The Men Behind Your Favorite AI Gay Thirst Traps ([source](https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/))
 - **2026-04-23** — Discover ending Pay with Rewards and Connected Account support in Apple Pay ([source](https://9to5mac.com/2026/04/23/discover-ending-pay-with-rewards-and-connected-account-support-in-apple-pay/))
 - **2026-04-20** — La-Z-Boy’s recliners and sofas are getting built-in Klipsch speakers ([source](https://www.theverge.com/tech/914248/la-z-boy-audioluxe-furniture-recliner-sofa-speaker-subwoofer-klipsch))

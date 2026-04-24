@@ -1,18 +1,19 @@
 ---
 title: "The Militarization of Compute"
 date: 2026-04-20T08:00:00.000Z
-modified_date: 2026-04-21T20:58:32.652Z
+modified_date: 2026-04-24T09:48:50.754Z
 tags: ["editorial","geopolitics","ai infrastructure","data centers","hormuz","middle east"]
 hero_image: "/hero/2026-04-20-the-militarization-of-compute-a1f2e7.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "container ship silhouette crossing a narrow strait at dusk, distant refinery flares and data-center roofs on the horizon, cinematic"
 description: "Drone-struck AWS data centers and a closed strait end the era of treating hyperscale compute as benign real estate. The compute-state has replaced the petro-state."
-sources_count: 77
+sources_count: 78
 dek: "How the ceasefire collapse in the Strait of Hormuz upends global AI infrastructure."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -198,6 +199,7 @@ The technology industry must formally abandon the illusion of geopolitical neutr
 
 ## Updates
 
+- **2026-04-24** — Astronomers find the edge of the Milky Way ([source](https://skyandtelescope.org/astronomy-news/astronomers-find-the-edge-of-the-milky-way/))
 - **2026-04-21** — Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield ([source](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/))
 - **2026-04-21** — Apple has 10+ new products rumored to launch first with John Ternus as CEO ([source](https://9to5mac.com/2026/04/21/apple-has-10-new-products-rumored-to-launch-first-with-john-ternus-as-ceo/))
 - **2026-04-20** — Apple Vision Pro used to help make next Star Wars movie: The Mandalorian & Grogu ([source](https://9to5mac.com/2026/04/20/apple-vision-pro-used-to-help-make-next-star-wars-movie-the-mandalorian-grogu/))

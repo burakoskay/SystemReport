@@ -1,15 +1,17 @@
 ---
 title: "Mobile App Deals and Scanner Tools Take Center Stage"
 date: 2026-04-19T05:56:45.151Z
+modified_date: 2026-04-24T09:48:49.799Z
 tags: ["mobile apps","app deals","scanner tools"]
 hero_image: "/hero/2026-04-19-mobile-app-deals-and-scanner-tools-take-center-stage-6b3bc5.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Android App Deals and Discounts
 
@@ -38,3 +40,7 @@ The deal, which grants Amazon a more generous 85-15 percent revenue share with A
 ## What to Watch
 
 As mobile app deals and discounts continue to make headlines, it's clear that the mobile landscape is evolving rapidly. With Apple's App Store deals and controversies, Crittercism's funding, and the iScanner App's popularity, there's a lot to watch in the world of mobile apps. Will Apple's App Store terms change, or will developers continue to push back against the company's policies? One thing is certain: the mobile app ecosystem will continue to be a key player in the tech industry.
+
+## Updates
+
+- **2026-04-24** — The WIRED Gear Team’s Tips on Ways to Save Money ([source](https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/))

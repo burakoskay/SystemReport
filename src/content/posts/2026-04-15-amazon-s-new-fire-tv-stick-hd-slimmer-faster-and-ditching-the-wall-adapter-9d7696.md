@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-04-22T17:07:47.903Z
+modified_date: 2026-04-24T09:48:51.066Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 Amazon continues to refine its ubiquitous Fire TV ecosystem, today unveiling the latest iteration of its entry-level streaming dongle: the Fire TV Stick HD. Priced at a budget-friendly $35, this new device isn't just an incremental update; it delivers several meaningful upgrades poised to enhance the user experience and declutter living spaces. Positioned beneath its more powerful 4K siblings, this HD model is engineered to bring modern streaming capabilities to older TVs with newfound elegance.
@@ -25,4 +26,5 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-04-24** — Porsche's new Cayenne Turbo Coupé Electric can do 0-60 mph in 2.5 seconds ([source](https://www.engadget.com/transportation/evs/porsches-new-cayenne-turbo-coupe-electric-can-do-0-60-mph-in-25-seconds-091925467.html?src=rss))
 - **2026-04-22** — Physicists think they've solved the muon mystery ([source](https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/))
