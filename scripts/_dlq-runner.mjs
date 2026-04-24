@@ -8,7 +8,6 @@ import crypto from 'crypto';
 import { Type } from '@google/genai';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
-import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { groundWithSpans, applyInlineCitations, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 
 const POSTS_DIR = path.join(process.cwd(), 'src/content/posts');
@@ -60,20 +59,10 @@ export async function synthesizeAndPublish(cluster) {
   const hash = crypto.createHash('md5').update(synthesis.title + dateStr).digest('hex').slice(0, 6);
   const baseSlug = `${datePrefix}-${slug}-${hash}`;
 
-  // Hero — Flux preferred when creds present.
+  // Hero is optional on replay — leave blank. Main pipeline handles Pexels.
   let heroPath = '';
   let creditName = 'System Report';
   let creditUrl = 'https://www.systemreport.net';
-  if (process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN) {
-    try {
-      const png = await generateHeroImage(synthesis.visual_keyword, synthesis.title);
-      await fs.mkdir(HERO_DIR, { recursive: true });
-      await fs.writeFile(path.join(HERO_DIR, `${baseSlug}.png`), png);
-      heroPath = `/hero/${baseSlug}.png`;
-      creditName = 'System Report (Flux Schnell)';
-      creditUrl = 'https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/';
-    } catch { /* hero is optional on replay */ }
-  }
 
   // Audio — best-effort.
   let audioPath = '', audioBytes = 0;

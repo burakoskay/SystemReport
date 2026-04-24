@@ -17,7 +17,6 @@ import dotenv from 'dotenv';
 import { routeCall } from '../src/pipeline/router.mjs';
 import { selectPrompt } from '../src/pipeline/prompts.mjs';
 import { fetchWorldCandidates, expandStoryForEditorial } from '../src/pipeline/elena-feeds.mjs';
-import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
 import { groundWithSpans, applyInlineCitations, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
@@ -357,20 +356,7 @@ async function main() {
   let creditName = '';
   let creditUrl = '';
   await fs.mkdir(HERO_DIR, { recursive: true });
-  if (process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN) {
-    try {
-      console.log(`  Generating hero via Flux: "${article.visual_keyword}"`);
-      const img = await generateHeroImage(article.visual_keyword, article.title);
-      const localPath = path.join(HERO_DIR, `${baseSlug}.png`);
-      await fs.writeFile(localPath, img);
-      heroPath = `/hero/${baseSlug}.png`;
-      creditName = 'System Report (Flux Schnell)';
-      creditUrl = 'https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/';
-    } catch (e) {
-      console.log(`  ⚠ Flux failed: ${e.message.slice(0, 120)}`);
-    }
-  }
-  if (!heroPath) {
+  {
     const pex = await getPexelsImage(article.visual_keyword);
     if (pex) {
       try {

@@ -12,7 +12,6 @@ import { collapseNearDuplicates } from '../src/pipeline/dedup.mjs';
 import { collapseSemanticDuplicates } from '../src/pipeline/semantic-dedup.mjs';
 import { groundWithSpans, applyInlineCitations, citationsToMarkdown } from '../src/pipeline/grounding.mjs';
 import { synthesizeSpeech, markdownToSpeechText } from '../src/pipeline/tts.mjs';
-import { generateHeroImage } from '../src/pipeline/image-gen.mjs';
 import { translateArticle, LOCALES } from '../src/pipeline/translator.mjs';
 import { enqueueFailure } from '../src/pipeline/dlq.mjs';
 import { pingIndexNow } from '../src/pipeline/indexnow.mjs';
@@ -842,23 +841,11 @@ async function main() {
         console.log(`  ⚠ grounding skipped: ${e.message.slice(0, 120)}`);
       }
 
-      // Prefer a generated hero (CF Flux Schnell) when creds are set; Pexels is fallback.
-      let image = null;
-      let generatedHero = null;
-      if (process.env.CLOUDFLARE_ACCOUNT_ID && process.env.CLOUDFLARE_API_TOKEN) {
-        try {
-          console.log(`  Generating hero via Flux Schnell: "${synthesis.visual_keyword}"`);
-          generatedHero = await generateHeroImage(synthesis.visual_keyword, synthesis.title);
-        } catch (e) {
-          console.log(`  ⚠ Flux gen failed, falling back to Pexels: ${e.message}`);
-        }
-      }
-      if (!generatedHero) {
-        console.log(`  Fetching Pexels image for: "${synthesis.visual_keyword}"`);
-        image = await getImageData(synthesis.visual_keyword);
-      } else {
-        image = { url: '', creditName: 'System Report (Flux Schnell)', creditUrl: 'https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/' };
-      }
+      // Heroes come from Pexels. We tried Flux Schnell for generated heroes
+      // but it produced too many artifacts (missing car parts, garbled logos,
+      // warped text) — stock photography is a safer floor for a news site.
+      console.log(`  Fetching Pexels image for: "${synthesis.visual_keyword}"`);
+      const image = await getImageData(synthesis.visual_keyword);
 
       const dateStr = new Date().toISOString();
       const slug = synthesis.title
@@ -876,27 +863,12 @@ async function main() {
       const baseSlug = `${datePrefix}-${slug}-${hash}`;
       const filename = `${baseSlug}.md`;
 
-      // Self-host the hero. Generated images are written directly;
-      // Pexels images are downloaded. Fall back to remote URL on failure.
       let heroPath;
-      if (generatedHero) {
-        try {
-          await fs.mkdir(HERO_DIR, { recursive: true });
-          const localPath = path.join(HERO_DIR, `${baseSlug}.png`);
-          await fs.writeFile(localPath, generatedHero);
-          heroPath = `/hero/${baseSlug}.png`;
-        } catch (e) {
-          console.log(`  ⚠ generated hero write failed, falling back to Pexels: ${e.message}`);
-          image = await getImageData(synthesis.visual_keyword);
-          try { heroPath = await downloadHero(image.url, baseSlug); } catch { heroPath = image.url; }
-        }
-      } else {
-        try {
-          heroPath = await downloadHero(image.url, baseSlug);
-        } catch (e) {
-          console.log(`  ⚠ hero download failed, using remote URL: ${e.message}`);
-          heroPath = image.url;
-        }
+      try {
+        heroPath = await downloadHero(image.url, baseSlug);
+      } catch (e) {
+        console.log(`  ⚠ hero download failed, using remote URL: ${e.message}`);
+        heroPath = image.url;
       }
 
       // Narration is a load-bearing feature ("Listen to this article") —
