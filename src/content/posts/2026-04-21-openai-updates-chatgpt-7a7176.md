@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Updates ChatGPT"
 date: 2026-04-21T22:42:56.333Z
-modified_date: 2026-04-22T13:54:06.540Z
+modified_date: 2026-04-24T22:44:10.917Z
 tags: ["openai","chatgpt","ai"]
 hero_image: "/hero/2026-04-21-openai-updates-chatgpt-7a7176.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "AI chatbot"
 description: "OpenAI releases ChatGPT Images 2.0 model and updates Mac apps due to security issue, while investigating mental health concerns"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,4 +49,5 @@ What to watch in the coming weeks: OpenAI's continued updates and improvements t
 
 ## Updates
 
+- **2026-04-24** — OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API ([source](https://developers.openai.com/api/docs/changelog))
 - **2026-04-22** — The year’s weirdest game is hard to explain and even harder to put down ([source](https://www.theverge.com/entertainment/915891/titanium-court-review-indie-game))

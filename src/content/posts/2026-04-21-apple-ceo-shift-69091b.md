@@ -1,19 +1,20 @@
 ---
 title: "Apple CEO Shift"
 date: 2026-04-21T06:05:51.664Z
-modified_date: 2026-04-22T17:07:47.593Z
+modified_date: 2026-04-24T22:44:11.306Z
 tags: ["apple","ceo transition","john ternus"]
 hero_image: "/hero/2026-04-21-apple-ceo-shift-69091b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Transition"
 description: "Tim Cook steps down, John Ternus takes over as Apple's eighth CEO. What it means for the company's future."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-21-apple-ceo-shift-69091b.mp3"
 audio_bytes: 25934846
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In the immediate future, investors and followers of Apple will be watching for a
 
 ## Updates
 
+- **2026-04-24** — XChat, the standalone app for messaging on X, is available on iOS now ([source](https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss))
 - **2026-04-22** — Will a new CEO help realize Apple&#8217;s smart home potential? ([source](https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors))
