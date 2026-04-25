@@ -1,16 +1,18 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-04-24T13:46:45.466Z
+modified_date: 2026-04-25T14:50:47.356Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 5
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -27,6 +29,8 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-04-25** — Apple @ Work: Is Safari the biggest shadow IT blind spot in your enterprise? ([source](https://9to5mac.com/2026/04/25/is-safari-the-biggest-shadow-it-blind-spot-in-your-enterprise/))
+- **2026-04-25** — Tesla is giving away one year free Supercharging with Model 3 Premium and Performance purchases ([source](https://www.engadget.com/transportation/evs/tesla-is-giving-away-one-year-free-supercharging-with-model-3-premium-and-performance-purchases-144431817.html?src=rss))
 - **2026-04-24** — DeepSeek previews new AI model that ‘closes the gap’ with frontier models ([source](https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/))
 - **2026-04-23** — 25 years later, is it time for a new iPod? ([source](https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music))
 - **2026-04-22** — BMW's new i7 xDrive EVs will offer longer range and faster charging ([source](https://www.engadget.com/transportation/evs/bmws-new-i7-xdrive-evs-will-offer-longer-range-and-faster-charging-131059423.html?src=rss))
