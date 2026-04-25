@@ -1,16 +1,17 @@
 ---
 title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
-modified_date: 2026-04-24T11:10:15.176Z
+modified_date: 2026-04-25T19:00:45.576Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"
 description: "YouTube is rolling out a zero-minute time limit for Shorts, allowing users to effectively turn off the short-form video feed and reclaim digital wellness."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ Ultimately, the rollout of a zero-minute Shorts limit represents a significant w
 
 ## Updates
 
+- **2026-04-25** — The next iPad could sport a new naming scheme, thanks to new interview insight ([source](https://9to5mac.com/2026/04/25/could-the-next-ipad-have-a-new-naming-scheme/))
 - **2026-04-24** — They Wanted to Join Raya. They’ve Been on the Waiting List for Years ([source](https://www.wired.com/story/raya-waitlist-years/))
 - **2026-04-23** — Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax ([source](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors))
 - **2026-04-23** — They Made D4vd a Star. Now They Want Him Convicted of Murder ([source](https://www.wired.com/d4vd-david-burke-celeste-rivas-hernandez-murder/))

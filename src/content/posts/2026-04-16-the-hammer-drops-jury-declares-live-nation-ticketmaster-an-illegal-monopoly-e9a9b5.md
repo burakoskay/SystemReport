@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-04-24T19:00:56.545Z
+modified_date: 2026-04-25T19:00:44.446Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-04-25** — An influx of used EVs could drive down prices ([source](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices))
 - **2026-04-24** — Report: Samsung execs worried company could lose money on smartphones for the first time ([source](https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/))
 - **2026-04-24** — Samsung’s delayed Android XR glasses, the ones with a display, showed up in One UI 9 ([source](https://9to5google.com/2026/04/24/samsungs-delayed-android-xr-glasses-the-ones-with-a-display-showed-up-in-one-ui-9/))
 - **2026-04-22** — Anker made its own chip to bring AI to all its products ([source](https://www.theverge.com/tech/916463/anker-thus-chip-announcement))

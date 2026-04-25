@@ -1,17 +1,19 @@
 ---
 title: "AI Chip Race Intensifies"
 date: 2026-04-24T17:20:52.352Z
+modified_date: 2026-04-25T19:00:44.826Z
 tags: ["AI","chips","Meta","Amazon"]
 hero_image: "/hero/2026-04-24-ai-chip-race-intensifies-0db41f.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI chips"
 description: "Meta signs deal for Amazon AI CPUs, Nothing introduces on-device AI dictation"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-24-ai-chip-race-intensifies-0db41f.mp3"
 audio_bytes: 619251
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The AI Landscape Shifts
@@ -53,3 +55,7 @@ The development of AI chips has been an ongoing process. In 2017, Google introdu
 ## Conclusion
 
 The AI chip race is intensifying, with companies like Meta, Amazon, and Apple competing fiercely to develop the most advanced AI chips. The increasing demand for AI-specific chips is driving innovation and pushing the boundaries of what is possible with AI. As the industry continues to evolve, we can expect to see significant developments in the field, with new applications and use cases emerging as a result.
+
+## Updates
+
+- **2026-04-25** — Plain text has been around for decades and it’s here to stay ([source](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/))
