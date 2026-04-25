@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T19:13:06.990Z",
+  "generated_at": "2026-04-25T21:19:56.832Z",
   "window_days": 7,
-  "total_records": 2790,
+  "total_records": 2937,
   "variants": {
     "draft:v3-900w": {
       "calls": 129,
@@ -16,49 +16,49 @@
       }
     },
     "revise:v2-800w": {
-      "calls": 345,
-      "success": 317,
-      "success_rate": 0.9188405797101449,
-      "latency_p50": 1249,
-      "latency_p95": 2143,
-      "response_chars_mean": 1843,
+      "calls": 356,
+      "success": 325,
+      "success_rate": 0.9129213483146067,
+      "latency_p50": 1252,
+      "latency_p95": 2191,
+      "response_chars_mean": 1838,
       "error_classes": {
-        "rate_limit": 27,
+        "rate_limit": 30,
         "unknown": 1
       }
     },
     "draft:v4-1100w": {
-      "calls": 868,
-      "success": 782,
-      "success_rate": 0.9009216589861752,
-      "latency_p50": 2267,
-      "latency_p95": 8384,
-      "response_chars_mean": 3250,
+      "calls": 910,
+      "success": 812,
+      "success_rate": 0.8923076923076924,
+      "latency_p50": 2302,
+      "latency_p95": 8954,
+      "response_chars_mean": 3239,
       "error_classes": {
-        "rate_limit": 70,
+        "rate_limit": 79,
         "server_error": 1,
-        "unknown": 14,
+        "unknown": 17,
         "permission": 1
       }
     },
     "lengthen:v1": {
-      "calls": 166,
-      "success": 139,
-      "success_rate": 0.8373493975903614,
-      "latency_p50": 2728,
-      "latency_p95": 4128,
-      "response_chars_mean": 5326,
+      "calls": 177,
+      "success": 149,
+      "success_rate": 0.8418079096045198,
+      "latency_p50": 2780,
+      "latency_p95": 9284,
+      "response_chars_mean": 5127,
       "error_classes": {
-        "rate_limit": 27
+        "rate_limit": 28
       }
     },
     "rewrite-headline:v1": {
-      "calls": 3,
-      "success": 3,
+      "calls": 4,
+      "success": 4,
       "success_rate": 1,
-      "latency_p50": 276,
+      "latency_p50": 269,
       "latency_p95": 276,
-      "response_chars_mean": 55,
+      "response_chars_mean": 60,
       "error_classes": {}
     }
   }

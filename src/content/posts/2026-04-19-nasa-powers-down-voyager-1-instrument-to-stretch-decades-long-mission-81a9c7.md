@@ -1,15 +1,17 @@
 ---
 title: "NASA Powers Down Voyager 1 Instrument to Stretch Decades‑Long Mission"
 date: 2026-04-19T05:54:54.302Z
+modified_date: 2026-04-25T20:46:15.975Z
 tags: ["voyager","spacecraft","radiation","deep‑space","technology"]
 hero_image: "/hero/2026-04-19-nasa-powers-down-voyager-1-instrument-to-stretch-decades-long-mission-81a9c7.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Voyager 1 spacecraft silhouetted against starfield with dimmed instrument panel"
 description: "NASA turned off a Voyager 1 sensor to preserve power, underscoring the aging probe's dwindling RTG output and the need for novel deep‑space solutions."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Power Cut on a 45‑Year‑Old Probe
 NASA disabled a non‑essential sensor on Voyager 1 on 17 April 2026, citing the spacecraft’s shrinking plutonium‑powered electricity budget. The move protects the probe’s core navigation and communications gear, which must stay alive to continue sending interstellar data. With the radioisotope thermoelectric generators (RTGs) delivering less than 200 watts—about a third of the original output—every watt counts.
@@ -33,3 +35,7 @@ The fascination with deep‑space exploration also fuels community projects like
 
 ## What to Watch
 NASA’s next power‑budget review will likely target another low‑priority sensor, tightening the margin for future data. Simultaneously, the radiotrophic‑fungus concept is moving toward ground‑based scalability studies; a successful demonstration could reshape shielding strategies for the Europa Clipper and Artemis habitats. Keep an eye on budget hearings and peer‑reviewed papers on bio‑shielding—each will signal how the space community balances legacy missions with next‑generation resilience.
+
+## Updates
+
+- **2026-04-25** — Trump fires the entire National Science Board ([source](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board))
