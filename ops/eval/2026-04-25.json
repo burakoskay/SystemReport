@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-25T15:05:23.901Z",
+  "generated_at": "2026-04-25T17:08:04.033Z",
   "window_days": 7,
-  "total_records": 2662,
+  "total_records": 2707,
   "variants": {
     "draft:v3-900w": {
       "calls": 129,
@@ -16,49 +16,49 @@
       }
     },
     "revise:v2-800w": {
-      "calls": 334,
-      "success": 307,
-      "success_rate": 0.9191616766467066,
-      "latency_p50": 1250,
+      "calls": 342,
+      "success": 314,
+      "success_rate": 0.9181286549707602,
+      "latency_p50": 1246,
       "latency_p95": 2086,
-      "response_chars_mean": 1853,
+      "response_chars_mean": 1846,
       "error_classes": {
-        "rate_limit": 26,
+        "rate_limit": 27,
         "unknown": 1
       }
     },
     "draft:v4-1100w": {
-      "calls": 832,
-      "success": 757,
-      "success_rate": 0.9098557692307693,
-      "latency_p50": 2251,
-      "latency_p95": 8264,
-      "response_chars_mean": 3264,
+      "calls": 845,
+      "success": 766,
+      "success_rate": 0.906508875739645,
+      "latency_p50": 2248,
+      "latency_p95": 8258,
+      "response_chars_mean": 3268,
       "error_classes": {
-        "rate_limit": 64,
+        "rate_limit": 66,
         "server_error": 1,
-        "unknown": 9,
+        "unknown": 11,
         "permission": 1
       }
     },
     "lengthen:v1": {
-      "calls": 149,
-      "success": 123,
-      "success_rate": 0.825503355704698,
-      "latency_p50": 2780,
+      "calls": 160,
+      "success": 133,
+      "success_rate": 0.83125,
+      "latency_p50": 2696,
       "latency_p95": 3930,
-      "response_chars_mean": 5500,
+      "response_chars_mean": 5396,
       "error_classes": {
-        "rate_limit": 26
+        "rate_limit": 27
       }
     },
     "rewrite-headline:v1": {
-      "calls": 2,
-      "success": 2,
+      "calls": 3,
+      "success": 3,
       "success_rate": 1,
       "latency_p50": 276,
       "latency_p95": 276,
-      "response_chars_mean": 59,
+      "response_chars_mean": 55,
       "error_classes": {}
     }
   }

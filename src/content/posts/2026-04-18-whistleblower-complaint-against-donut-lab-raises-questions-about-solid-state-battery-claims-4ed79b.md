@@ -1,16 +1,17 @@
 ---
 title: "Whistleblower Challenges Donut Lab's Solid-State Battery Claims"
 date: 2026-04-18T01:10:34.548Z
-modified_date: 2026-04-21T19:20:04.330Z
+modified_date: 2026-04-25T16:52:27.769Z
 tags: ["Donut Lab","solid-state battery","whistleblower complaint","Nordic Nano"]
 hero_image: "/hero/2026-04-18-whistleblower-complaint-against-donut-lab-raises-questions-about-solid-state-battery-claims-4ed79b.jpg"
 hero_image_credit_name: "mohamed abdelghaffar"
 hero_image_credit_url: "https://www.pexels.com/@moh-adbelghaffar"
 visual_keyword: "battery"
 description: "A criminal whistleblower complaint filed against Donut Lab alleges the company's solid-state battery claims are exaggerated, raising concerns about production capacity and technology readiness."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 Donut Lab, a startup that generated attention earlier this year with its solid-state battery claims, is now facing a criminal whistleblower complaint. The complaint, filed by Lauri Peltola, former Chief Commercial Officer of Nordic Nano, a partner company involved in Donut Lab's manufacturing process, alleges that Donut Lab's promises of energy density and longevity are questionable.
@@ -23,4 +24,5 @@ The allegations against Donut Lab raise important questions about the company's 
 
 ## Updates
 
+- **2026-04-25** — Researchers say we’re talking less than ever ([source](https://www.theverge.com/science/918753/researchers-talking-less))
 - **2026-04-21** — Monterey Park, California has banned any data centers within its city limits ([source](https://www.engadget.com/ai/monterey-park-california-has-banned-any-data-centers-within-its-city-limits-180426656.html?src=rss))

@@ -1,16 +1,17 @@
 ---
 title: "World's Orb Takes Over Human Verification on Tinder and Zoom"
 date: 2026-04-18T12:43:46.183Z
-modified_date: 2026-04-24T22:44:11.694Z
+modified_date: 2026-04-25T16:52:27.474Z
 tags: ["sam altman","human verification","tinder","zoom","ai safety"]
 hero_image: "/hero/2026-04-18-world-s-orb-takes-over-human-verification-on-tinder-and-zoom-b750de.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "digital orb scanning a face in a video call badge"
 description: "Sam Altman's World expands its Orb-based human ID to Tinder and Zoom, sparking privacy debates and new friction for AI‑generated imposters."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The coming months will reveal whether the Orb becomes a ubiquitous gatekeeper or
 
 ## Updates
 
+- **2026-04-25** — Apple under Ternus: what comes next for the tech giant’s hardware strategy ([source](https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/))
 - **2026-04-24** — Maine governor vetoes bill temporarily banning large data centers in the state ([source](https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss))
 - **2026-04-20** — Humanoid &#8216;Lightning&#8217; robot smashes the half-marathon record ([source](https://www.theverge.com/tech/914869/humanoid-robot-half-marathon-record))
 - **2026-04-19** — The RAM shortage could last years ([source](https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years))

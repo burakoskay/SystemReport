@@ -1,16 +1,17 @@
 ---
 title: "The Subtle Art of Imperfection: McDonald's Japan's Asymmetric"
 date: 2026-04-16T05:31:36.222Z
-modified_date: 2026-04-23T15:59:19.201Z
+modified_date: 2026-04-25T16:52:27.186Z
 tags: ["marketing strategy","food advertising","authenticity","mcdonalds japan","consumer psychology"]
 hero_image: "/hero/2026-04-16-the-subtle-art-of-imperfection-mcdonald-s-japan-s-asymmetric-burger-strategy-80d91b.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"
 description: "McDonald's Japan's subtly askew burger buns in ads reveal a clever strategy: embracing imperfection to build authenticity and consumer trust."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 In an era saturated with hyper-stylized, perfectly rendered product shots, a curious observation from McDonald's Japan's online menu has sparked considerable discussion: every burger featured boasts a bun that is just ever-so-slightly askew. This isn't an accident; it's a deliberate, nuanced departure from the meticulously crafted perfection typically seen in food advertising, signaling a sophisticated shift in how brands aim to connect with consumers.
@@ -25,4 +26,5 @@ Ultimately, McDonald's Japan's askew bun isn't just a quirk; it's a testament to
 
 ## Updates
 
+- **2026-04-25** — Apps to distract you from the endless cycle of doomscrolling ([source](https://techcrunch.com/2026/04/25/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/))
 - **2026-04-23** — BMW bumps the 7 Series for 2027, adds all-new battery ([source](https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/))
