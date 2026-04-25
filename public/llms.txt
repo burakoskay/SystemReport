@@ -24,7 +24,21 @@ System Report (systemreport.net) publishes tech news, commentary on hardware and
 - [JSON Feed](https://www.systemreport.net/feed.json)
 - [Podcast RSS (narrated articles)](https://www.systemreport.net/podcast.xml)
 
+## APIs (machine-readable)
+
+- [Article Index (JSON)](https://www.systemreport.net/data/posts.json): All published articles with title, URL, date, tags, hero image, and audio link.
+- [Article Stream (NDJSON)](https://www.systemreport.net/data/clusters.jsonl): One JSON object per line. Suitable for streaming and incremental processing.
+- [Market Data](https://www.systemreport.net/api/markets): Live cryptocurrency, stock index, forex, and commodity prices.
+
+## Agent Discovery
+
+- [API Catalog](https://www.systemreport.net/.well-known/api-catalog): RFC 9727 API discovery (application/linkset+json).
+- [MCP Server Card](https://www.systemreport.net/.well-known/mcp/server-card.json): Model Context Protocol server capabilities.
+- [A2A Agent Card](https://www.systemreport.net/.well-known/agent-card.json): Agent-to-agent discovery.
+- [Agent Skills](https://www.systemreport.net/.well-known/agent-skills/index.json): Discoverable skills with SKILL.md specifications.
+
 ## About
 
 - [About](https://www.systemreport.net/about): What System Report is and how it's built.
 - [Privacy Policy](https://www.systemreport.net/privacy): Data handling policy. Tools pages perform all processing in the browser; no files or form data are transmitted to the server.
+- [Contact](https://www.systemreport.net/contact): Email contact@systemreport.net.

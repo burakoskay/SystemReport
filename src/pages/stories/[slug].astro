@@ -102,7 +102,7 @@ const publishedISO = post.data.date.toISOString();
     {panels.map((text, i) => (
       <amp-story-page id={`p${i + 1}`}>
         <amp-story-grid-layer template="fill">
-          <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt=""></amp-img>
+          <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt={`${post.data.title} - panel ${i + 1}`}></amp-img>
         </amp-story-grid-layer>
         <amp-story-grid-layer template="fill"><div class="scrim"></div></amp-story-grid-layer>
         <amp-story-grid-layer template="vertical">
@@ -113,7 +113,7 @@ const publishedISO = post.data.date.toISOString();
 
     <amp-story-page id="cta">
       <amp-story-grid-layer template="fill">
-        <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt=""></amp-img>
+        <amp-img src={heroAbs} width="720" height="1280" layout="responsive" alt={`${post.data.title} - read more`}></amp-img>
       </amp-story-grid-layer>
       <amp-story-grid-layer template="fill"><div class="scrim"></div></amp-story-grid-layer>
       <amp-story-grid-layer template="vertical">

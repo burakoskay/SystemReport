@@ -1,0 +1,70 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.systemreport.net/data/posts.json",
+      "service-desc": [
+        {
+          "href": "https://www.systemreport.net/.well-known/agent-skills/article-search/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.systemreport.net/llms.txt",
+          "type": "text/plain"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.systemreport.net/data/clusters.jsonl",
+      "service-desc": [
+        {
+          "href": "https://www.systemreport.net/.well-known/agent-skills/article-search/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://www.systemreport.net/llms.txt",
+          "type": "text/plain"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.systemreport.net/rss.xml",
+      "service-doc": [
+        {
+          "href": "https://www.systemreport.net/llms.txt",
+          "type": "text/plain"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.systemreport.net/feed.json",
+      "service-doc": [
+        {
+          "href": "https://www.systemreport.net/llms.txt",
+          "type": "text/plain"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.systemreport.net/podcast.xml",
+      "service-doc": [
+        {
+          "href": "https://www.systemreport.net/llms.txt",
+          "type": "text/plain"
+        }
+      ]
+    },
+    {
+      "anchor": "https://www.systemreport.net/api/markets",
+      "service-desc": [
+        {
+          "href": "https://www.systemreport.net/.well-known/agent-skills/article-search/SKILL.md",
+          "type": "text/markdown"
+        }
+      ]
+    }
+  ]
+}

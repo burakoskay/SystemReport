@@ -156,9 +156,6 @@ const toolsHref = `${localePrefix}/tools`;
     <!-- Google AdSense -->
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4803415346052918" crossorigin="anonymous"></script>
 
-    <!-- Cloudflare Web Analytics (replace YOUR_TOKEN_HERE after connecting domain) -->
-    <!-- <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "YOUR_TOKEN_HERE"}'></script> -->
-
     <meta name="generator" content={Astro.generator} />
   </head>
 
@@ -284,10 +281,10 @@ const toolsHref = `${localePrefix}/tools`;
               <li><a href={toolsHref} class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.tools}</a></li>
               <li><a href="/tags" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.tags}</a></li>
               <li><a href="/authors" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.team}</a></li>
-              <li><a href="/about" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.about}</a></li>
-              <li><a href="/contact" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.contact}</a></li>
-              <li><a href="/privacy" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.privacy}</a></li>
-              <li><a href="/terms" class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.terms}</a></li>
+              <li><a href={`${localePrefix}/about`} class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.about}</a></li>
+              <li><a href={`${localePrefix}/contact`} class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.contact}</a></li>
+              <li><a href={`${localePrefix}/privacy`} class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.privacy}</a></li>
+              <li><a href={`${localePrefix}/terms`} class="text-sm text-gray-500 dark:text-gray-400 hover:text-black dark:hover:text-white transition-colors">{t.terms}</a></li>
             </ul>
           </div>
 
@@ -314,6 +311,75 @@ const toolsHref = `${localePrefix}/tools`;
         </div>
       </div>
     </footer>
+
+    <!-- WebMCP: Expose site tools to AI agents via browser -->
+    <script is:inline>
+      (function() {
+        if (typeof navigator === 'undefined' || !navigator.modelContext) return;
+        try {
+          navigator.modelContext.registerTool({
+            name: 'search-articles',
+            description: 'Search System Report tech news articles by keyword. Returns matching articles with title, URL, date, tags, and description.',
+            inputSchema: {
+              type: 'object',
+              properties: {
+                query: { type: 'string', description: 'Search term or phrase' }
+              },
+              required: ['query']
+            },
+            execute: async function(params) {
+              var r = await fetch('/data/posts.json');
+              var data = await r.json();
+              var q = (params.query || '').toLowerCase();
+              var matches = data.items.filter(function(item) {
+                return item.title.toLowerCase().includes(q) ||
+                       (item.description || '').toLowerCase().includes(q) ||
+                       (item.tags || []).some(function(t) { return t.toLowerCase().includes(q); });
+              }).slice(0, 10);
+              return JSON.stringify(matches);
+            }
+          });
+          navigator.modelContext.registerTool({
+            name: 'get-latest-articles',
+            description: 'Get the most recently published tech news articles from System Report with full metadata.',
+            inputSchema: {
+              type: 'object',
+              properties: {
+                limit: { type: 'integer', description: 'Number of articles to return (default 10)', default: 10 }
+              }
+            },
+            execute: async function(params) {
+              var r = await fetch('/data/posts.json');
+              var data = await r.json();
+              var limit = params.limit || 10;
+              return JSON.stringify(data.items.slice(0, limit));
+            }
+          });
+          navigator.modelContext.registerTool({
+            name: 'navigate-to-section',
+            description: 'Navigate to a section of System Report. Available sections: home, tech, ai, gaming, software, hardware, tools, about, contact, privacy.',
+            inputSchema: {
+              type: 'object',
+              properties: {
+                section: { type: 'string', description: 'Section name to navigate to' }
+              },
+              required: ['section']
+            },
+            execute: function(params) {
+              var routes = {
+                home: '/', tech: '/tech', ai: '/ai', gaming: '/gaming',
+                software: '/software', hardware: '/hardware', tools: '/tools',
+                about: '/about', contact: '/contact', privacy: '/privacy',
+                'exif-stripper': '/tools/exif-stripper/', tags: '/tags'
+              };
+              var path = routes[(params.section || '').toLowerCase()] || '/';
+              window.location.href = path;
+              return JSON.stringify({ navigated: path });
+            }
+          });
+        } catch(e) { /* WebMCP not supported */ }
+      })();
+    </script>
 
     <!-- Mobile search trigger script -->
     <script>

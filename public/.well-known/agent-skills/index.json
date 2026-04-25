@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "article-search",
+      "type": "skill-md",
+      "description": "Search and retrieve tech news articles from System Report. Supports keyword search across titles, descriptions, and tags. Returns structured JSON with article metadata.",
+      "url": "https://www.systemreport.net/.well-known/agent-skills/article-search/SKILL.md",
+      "digest": "sha256:0fd41c1e1dff32e4581c21ef99de7428cf06ba0fbae728c4986afc4701756b36"
+    },
+    {
+      "name": "exif-metadata-remover",
+      "type": "skill-md",
+      "description": "Strip EXIF metadata (GPS, camera model, timestamps) from JPEG, PNG, and WebP images using a browser-based tool. 100% client-side — images never leave the device.",
+      "url": "https://www.systemreport.net/.well-known/agent-skills/exif-metadata-remover/SKILL.md",
+      "digest": "sha256:f4d5b610440900e1ec7c2978be29712ec1a070d6d064df4dd9de7e15124a8727"
+    }
+  ]
+}

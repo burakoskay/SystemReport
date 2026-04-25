@@ -41,3 +41,10 @@ LOCAL_ONLY/
 *.sa.json
 *service-account*.json
 gen-lang-client-*.json
+
+# Agent context and internal state — never commit to public repo
+STATE.md
+RULES.md
+gemini-code-*.json
+isitagentready.txt
+plan.md

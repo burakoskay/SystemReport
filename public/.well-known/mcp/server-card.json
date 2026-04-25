@@ -1,0 +1,102 @@
+{
+  "serverInfo": {
+    "name": "System Report",
+    "version": "1.0.0",
+    "description": "Tech news, analysis, and client-side privacy tools. All APIs are public and read-only."
+  },
+  "capabilities": {
+    "tools": true,
+    "resources": true,
+    "prompts": false
+  },
+  "tools": [
+    {
+      "name": "search-articles",
+      "description": "Search published tech news articles by keyword. Returns titles, URLs, dates, tags, and descriptions.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "Search term or phrase to find matching articles"
+          },
+          "limit": {
+            "type": "integer",
+            "description": "Maximum number of results to return (default 10)",
+            "default": 10
+          }
+        },
+        "required": ["query"]
+      },
+      "endpoint": "https://www.systemreport.net/data/posts.json"
+    },
+    {
+      "name": "get-latest-articles",
+      "description": "Retrieve the latest published articles with metadata including title, URL, date, tags, hero image, and audio narration link.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "limit": {
+            "type": "integer",
+            "description": "Maximum number of articles to return (default 20)",
+            "default": 20
+          }
+        }
+      },
+      "endpoint": "https://www.systemreport.net/data/posts.json"
+    },
+    {
+      "name": "strip-exif-metadata",
+      "description": "Remove EXIF metadata (GPS, camera model, timestamps) from JPEG, PNG, and WebP images. Runs 100% client-side in the browser — images never leave the user's device.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "action": {
+            "type": "string",
+            "enum": ["navigate"],
+            "description": "Navigate to the EXIF tool page to use interactively"
+          }
+        }
+      },
+      "endpoint": "https://www.systemreport.net/tools/exif-stripper/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "articles-json",
+      "description": "Full index of all published articles in JSON format",
+      "uri": "https://www.systemreport.net/data/posts.json",
+      "mimeType": "application/json"
+    },
+    {
+      "name": "articles-ndjson",
+      "description": "Streaming NDJSON feed of all articles (one JSON object per line)",
+      "uri": "https://www.systemreport.net/data/clusters.jsonl",
+      "mimeType": "application/x-ndjson"
+    },
+    {
+      "name": "rss-feed",
+      "description": "RSS 2.0 feed with full article content, images, and categories",
+      "uri": "https://www.systemreport.net/rss.xml",
+      "mimeType": "application/rss+xml"
+    },
+    {
+      "name": "json-feed",
+      "description": "JSON Feed 1.1 with article summaries and metadata",
+      "uri": "https://www.systemreport.net/feed.json",
+      "mimeType": "application/feed+json"
+    },
+    {
+      "name": "podcast-feed",
+      "description": "Podcast RSS feed with audio narrations of articles",
+      "uri": "https://www.systemreport.net/podcast.xml",
+      "mimeType": "application/rss+xml"
+    },
+    {
+      "name": "llms-context",
+      "description": "LLM-optimized site overview with navigation and API links",
+      "uri": "https://www.systemreport.net/llms.txt",
+      "mimeType": "text/plain"
+    }
+  ]
+}

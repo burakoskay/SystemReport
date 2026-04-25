@@ -1,8 +1,24 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { LOCALE_LIST, HREFLANG, localeToSlug } from '../i18n/tool-strings';
+
+const siteBase = 'https://www.systemreport.net';
+const hreflangAlternates = [
+  { hreflang: 'en', href: `${siteBase}/privacy` },
+  { hreflang: 'x-default', href: `${siteBase}/privacy` },
+  ...LOCALE_LIST.filter(l => l !== 'en').map(l => ({
+    hreflang: HREFLANG[l],
+    href: `${siteBase}/${localeToSlug(l)}/privacy`,
+  })),
+];
 ---
 
-<Layout title="Privacy Policy — System Report" description="System Report privacy policy. No cookies, no tracking, no personal data collection.">
+<Layout
+  title="Privacy Policy — System Report"
+  description="System Report privacy policy. No cookies, no tracking, no personal data collection."
+  url={`${siteBase}/privacy`}
+  hreflangAlternates={hreflangAlternates}
+>
   <article class="max-w-3xl mx-auto">
     <h1 class="font-serif text-4xl font-bold text-gray-900 dark:text-gray-100 mb-6">
       Privacy Policy

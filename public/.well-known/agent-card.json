@@ -1,0 +1,51 @@
+{
+  "name": "System Report",
+  "version": "1.0.0",
+  "description": "Tech news publication with in-depth analysis, expert commentary, and client-side privacy tools. Publishes original editorial content across AI, hardware, software, gaming, and policy beats. All tools run locally in the browser with zero data transmission.",
+  "url": "https://www.systemreport.net",
+  "supportedInterfaces": [
+    {
+      "url": "https://www.systemreport.net/data/posts.json",
+      "protocol": "https",
+      "description": "REST API returning all published articles as JSON"
+    },
+    {
+      "url": "https://www.systemreport.net/rss.xml",
+      "protocol": "https",
+      "description": "RSS 2.0 feed with full article content"
+    },
+    {
+      "url": "https://www.systemreport.net/feed.json",
+      "protocol": "https",
+      "description": "JSON Feed 1.1 with article metadata"
+    }
+  ],
+  "capabilities": [
+    "article-search",
+    "content-syndication",
+    "metadata-stripping",
+    "multilingual-content"
+  ],
+  "skills": [
+    {
+      "id": "article-search",
+      "name": "Article Search",
+      "description": "Search and retrieve tech news articles by keyword, tag, or category. Returns structured metadata including title, description, publication date, tags, hero image URL, and audio narration link."
+    },
+    {
+      "id": "get-latest-news",
+      "name": "Get Latest News",
+      "description": "Retrieve the most recently published tech news articles. Useful for staying current on AI, hardware, software, gaming, and tech policy developments."
+    },
+    {
+      "id": "exif-metadata-remover",
+      "name": "EXIF Metadata Remover",
+      "description": "Strip GPS coordinates, camera model, timestamps, and other EXIF metadata from JPEG, PNG, and WebP images. Processing is 100% client-side — images never leave the browser."
+    },
+    {
+      "id": "market-data",
+      "name": "Market Data",
+      "description": "Get real-time market data including cryptocurrency prices (BTC, ETH, SOL, XRP, DOGE), stock indices (S&P 500, NASDAQ, Dow Jones), forex rates, and gold prices."
+    }
+  ]
+}

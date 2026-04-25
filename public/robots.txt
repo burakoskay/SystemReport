@@ -4,3 +4,7 @@ Disallow: /cms-43081125dc/
 
 Sitemap: https://www.systemreport.net/sitemap-index.xml
 Sitemap: https://www.systemreport.net/news-sitemap.xml
+
+# LLM / Agent discovery
+# See https://llmstxt.org/ for the llms.txt specification
+# See https://www.rfc-editor.org/rfc/rfc9727 for the API Catalog specification
