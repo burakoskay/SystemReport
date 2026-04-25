@@ -218,6 +218,8 @@ export interface ChromeStrings {
   team: string;
   about: string;
   privacy: string;
+  contact: string;
+  terms: string;
   search: string;
   searchArticles: string;
   openMenu: string;
@@ -233,7 +235,7 @@ export interface ChromeStrings {
 export const CHROME: Record<Locale, ChromeStrings> = {
   en: {
     home: 'Home', tech: 'Tech', gaming: 'Gaming', ai: 'AI', software: 'Software', hardware: 'Hardware', tools: 'Tools',
-    tags: 'Tags', team: 'The Team', about: 'About', privacy: 'Privacy Policy',
+    tags: 'Tags', team: 'The Team', about: 'About', privacy: 'Privacy Policy', contact: 'Contact', terms: 'Terms of Use',
     search: 'Search', searchArticles: 'Search articles...', openMenu: 'Open menu', closeMenu: 'Close menu',
     navigateHeading: 'Navigate', stayUpdatedHeading: 'Stay Updated',
     followFeed: 'Follow our feed for the latest in tech.', rssFeed: 'RSS Feed',
@@ -242,7 +244,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   tr: {
     home: 'Ana Sayfa', tech: 'Teknoloji', gaming: 'Oyun', ai: 'YZ', software: 'Yazılım', hardware: 'Donanım', tools: 'Araçlar',
-    tags: 'Etiketler', team: 'Ekip', about: 'Hakkında', privacy: 'Gizlilik Politikası',
+    tags: 'Etiketler', team: 'Ekip', about: 'Hakkında', privacy: 'Gizlilik Politikası', contact: 'İletişim', terms: 'Kullanım Koşulları',
     search: 'Ara', searchArticles: 'Makalelerde ara...', openMenu: 'Menüyü aç', closeMenu: 'Menüyü kapat',
     navigateHeading: 'Gezinti', stayUpdatedHeading: 'Güncel Kal',
     followFeed: 'En son teknoloji için akışımızı takip edin.', rssFeed: 'RSS Akışı',
@@ -251,7 +253,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   es: {
     home: 'Inicio', tech: 'Tecnología', gaming: 'Videojuegos', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Herramientas',
-    tags: 'Etiquetas', team: 'El Equipo', about: 'Acerca de', privacy: 'Política de Privacidad',
+    tags: 'Etiquetas', team: 'El Equipo', about: 'Acerca de', privacy: 'Política de Privacidad', contact: 'Contacto', terms: 'Términos de uso',
     search: 'Buscar', searchArticles: 'Buscar artículos...', openMenu: 'Abrir menú', closeMenu: 'Cerrar menú',
     navigateHeading: 'Navegar', stayUpdatedHeading: 'Mantente al día',
     followFeed: 'Sigue nuestro feed para lo último en tecnología.', rssFeed: 'Feed RSS',
@@ -260,7 +262,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   fr: {
     home: 'Accueil', tech: 'Tech', gaming: 'Jeux', ai: 'IA', software: 'Logiciel', hardware: 'Matériel', tools: 'Outils',
-    tags: 'Tags', team: "L'Équipe", about: 'À propos', privacy: 'Politique de confidentialité',
+    tags: 'Tags', team: "L'Équipe", about: 'À propos', privacy: 'Politique de confidentialité', contact: 'Contact', terms: "Conditions d'utilisation",
     search: 'Rechercher', searchArticles: 'Rechercher des articles...', openMenu: 'Ouvrir le menu', closeMenu: 'Fermer le menu',
     navigateHeading: 'Navigation', stayUpdatedHeading: 'Restez informé',
     followFeed: 'Suivez notre flux pour les dernières actualités tech.', rssFeed: 'Flux RSS',
@@ -269,7 +271,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   de: {
     home: 'Startseite', tech: 'Tech', gaming: 'Gaming', ai: 'KI', software: 'Software', hardware: 'Hardware', tools: 'Tools',
-    tags: 'Tags', team: 'Das Team', about: 'Über uns', privacy: 'Datenschutz',
+    tags: 'Tags', team: 'Das Team', about: 'Über uns', privacy: 'Datenschutz', contact: 'Kontakt', terms: 'Nutzungsbedingungen',
     search: 'Suche', searchArticles: 'Artikel suchen...', openMenu: 'Menü öffnen', closeMenu: 'Menü schließen',
     navigateHeading: 'Navigation', stayUpdatedHeading: 'Bleib informiert',
     followFeed: 'Folge unserem Feed für die neuesten Tech-News.', rssFeed: 'RSS-Feed',
@@ -278,7 +280,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   ja: {
     home: 'ホーム', tech: 'テック', gaming: 'ゲーム', ai: 'AI', software: 'ソフトウェア', hardware: 'ハードウェア', tools: 'ツール',
-    tags: 'タグ', team: 'チーム', about: '概要', privacy: 'プライバシーポリシー',
+    tags: 'タグ', team: 'チーム', about: '概要', privacy: 'プライバシーポリシー', contact: 'お問い合わせ', terms: '利用規約',
     search: '検索', searchArticles: '記事を検索...', openMenu: 'メニューを開く', closeMenu: 'メニューを閉じる',
     navigateHeading: 'ナビゲーション', stayUpdatedHeading: '最新情報',
     followFeed: '最新のテクノロジーはフィードをフォロー。', rssFeed: 'RSSフィード',
@@ -287,7 +289,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   'zh-CN': {
     home: '首页', tech: '科技', gaming: '游戏', ai: '人工智能', software: '软件', hardware: '硬件', tools: '工具',
-    tags: '标签', team: '团队', about: '关于', privacy: '隐私政策',
+    tags: '标签', team: '团队', about: '关于', privacy: '隐私政策', contact: '联系我们', terms: '使用条款',
     search: '搜索', searchArticles: '搜索文章...', openMenu: '打开菜单', closeMenu: '关闭菜单',
     navigateHeading: '导航', stayUpdatedHeading: '保持关注',
     followFeed: '关注我们的订阅源获取最新科技资讯。', rssFeed: 'RSS 订阅',
@@ -296,7 +298,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   ko: {
     home: '홈', tech: '기술', gaming: '게임', ai: 'AI', software: '소프트웨어', hardware: '하드웨어', tools: '도구',
-    tags: '태그', team: '팀', about: '소개', privacy: '개인정보처리방침',
+    tags: '태그', team: '팀', about: '소개', privacy: '개인정보처리방침', contact: '문의', terms: '이용약관',
     search: '검색', searchArticles: '기사 검색...', openMenu: '메뉴 열기', closeMenu: '메뉴 닫기',
     navigateHeading: '내비게이션', stayUpdatedHeading: '최신 소식',
     followFeed: '최신 기술 소식을 피드에서 확인하세요.', rssFeed: 'RSS 피드',
@@ -305,7 +307,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   pt: {
     home: 'Início', tech: 'Tech', gaming: 'Games', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Ferramentas',
-    tags: 'Tags', team: 'A Equipe', about: 'Sobre', privacy: 'Política de Privacidade',
+    tags: 'Tags', team: 'A Equipe', about: 'Sobre', privacy: 'Política de Privacidade', contact: 'Contato', terms: 'Termos de uso',
     search: 'Buscar', searchArticles: 'Buscar artigos...', openMenu: 'Abrir menu', closeMenu: 'Fechar menu',
     navigateHeading: 'Navegar', stayUpdatedHeading: 'Fique por dentro',
     followFeed: 'Siga nosso feed para as últimas em tecnologia.', rssFeed: 'Feed RSS',
@@ -314,7 +316,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   it: {
     home: 'Home', tech: 'Tech', gaming: 'Videogiochi', ai: 'IA', software: 'Software', hardware: 'Hardware', tools: 'Strumenti',
-    tags: 'Tag', team: 'Il Team', about: 'Chi siamo', privacy: 'Privacy Policy',
+    tags: 'Tag', team: 'Il Team', about: 'Chi siamo', privacy: 'Privacy Policy', contact: 'Contatti', terms: 'Termini di utilizzo',
     search: 'Cerca', searchArticles: 'Cerca articoli...', openMenu: 'Apri menu', closeMenu: 'Chiudi menu',
     navigateHeading: 'Naviga', stayUpdatedHeading: 'Resta aggiornato',
     followFeed: 'Segui il nostro feed per le ultime novità tech.', rssFeed: 'Feed RSS',
@@ -323,7 +325,7 @@ export const CHROME: Record<Locale, ChromeStrings> = {
   },
   ar: {
     home: 'الرئيسية', tech: 'تقنية', gaming: 'ألعاب', ai: 'ذكاء اصطناعي', software: 'برمجيات', hardware: 'عتاد', tools: 'أدوات',
-    tags: 'الوسوم', team: 'الفريق', about: 'حول', privacy: 'سياسة الخصوصية',
+    tags: 'الوسوم', team: 'الفريق', about: 'حول', privacy: 'سياسة الخصوصية', contact: 'اتصل بنا', terms: 'شروط الاستخدام',
     search: 'بحث', searchArticles: 'ابحث في المقالات...', openMenu: 'فتح القائمة', closeMenu: 'إغلاق القائمة',
     navigateHeading: 'التصفح', stayUpdatedHeading: 'ابقَ على اطلاع',
     followFeed: 'تابع خلاصتنا لآخر أخبار التقنية.', rssFeed: 'خلاصة RSS',
