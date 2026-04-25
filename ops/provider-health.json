@@ -1,25 +1,25 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-04-25T03:04:45.233Z",
+    "last_success": "2026-04-25T06:04:28.705Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 498155, Requested 2512. Please try again in 1m55.2576s. Need more tokens? Upgr",
     "last_failure": "2026-04-24T22:54:12.142Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "last_success": "2026-04-25T02:55:09.278Z",
-    "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99412, Requested 2380. Please try again in 25m48.287999999s. Need more tokens? Upgrade to Dev Ti",
-    "last_failure": "2026-04-25T02:55:09.346Z",
-    "cooldown_until": "2026-04-25T03:05:09.279Z"
+    "last_success": "2026-04-25T05:51:26.597Z",
+    "consecutive_failures": 2,
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99103, Requested 1914. Please try again in 14m38.688s. Need more tokens? Upgrade to Dev Tier tod",
+    "last_failure": "2026-04-25T06:04:22.193Z",
+    "cooldown_until": "2026-04-25T06:14:22.140Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-04-25T03:04:31.810Z",
+    "last_success": "2026-04-25T06:07:38.307Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7231, Requested 3574. Please try again in 21.0375s. Need more tokens? Upgrade to Dev Tier today at ",
     "last_failure": "2026-04-25T02:51:27.261Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-04-25T03:01:13.885Z",
+    "last_success": "2026-04-25T06:07:36.894Z",
     "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"max completion tokens reached before generating a valid document\"}}\n",
     "last_failure": "2026-04-24T22:57:54.747Z"
