@@ -1,15 +1,17 @@
 ---
 title: "The Design Revolution: Anthropic Unleashes Claude Design"
 date: 2026-04-18T01:05:16.030Z
+modified_date: 2026-04-25T02:50:54.231Z
 tags: ["claude design","anthropic","ai-assisted design"]
 hero_image: "/hero/2026-04-18-the-design-revolution-anthropic-unleashes-claude-design-7938da.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "AI-generated design concept with colorful graphs and diagrams"
 description: "Anthropic introduces Claude Design, a game-changing research preview that empowers users to generate stunning designs, prototypes, and slides with the help of AI."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 The world of design has just witnessed a seismic shift. Anthropic, the company behind the popular AI model Claude, has unveiled Claude Design, a revolutionary research preview that's poised to democratize design. This innovative tool allows users to generate breathtaking designs, prototypes, slides, and more with unprecedented ease.
 
@@ -24,3 +26,7 @@ The timing of Claude Design's release is significant, coinciding with the launch
 Claude Design is currently available as part of Anthropic's Pro, Max, Team, and Enterprise subscriptions, with usage subject to limits. As the design landscape continues to evolve, one thing is clear: Claude Design is a force to be reckoned with.
 
 The implications of Claude Design extend far beyond the world of design. As AI-powered tools become increasingly sophisticated, we can expect to see a fundamental shift in the way we create and interact with visual content. With Claude Design, Anthropic has taken a bold step into this future, and it's exciting to think about what's to come.
+
+## Updates
+
+- **2026-04-25** — I cancelled Claude: Token issues, declining quality, and poor support ([source](https://nickyreinert.de/en/2026/2026-04-24-claude-critics/))
