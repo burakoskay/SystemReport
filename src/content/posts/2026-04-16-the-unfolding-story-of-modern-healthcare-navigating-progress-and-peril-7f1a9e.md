@@ -1,16 +1,17 @@
 ---
 title: "The Unfolding Story of Modern Healthcare"
 date: 2026-04-16T05:30:17.251Z
-modified_date: 2026-04-23T19:18:31.676Z
+modified_date: 2026-04-25T13:15:31.255Z
 tags: ["medical innovation","gene editing","healthcare","scientific research","patient safety"]
 hero_image: "/hero/2026-04-16-the-unfolding-story-of-modern-healthcare-navigating-progress-and-peril-7f1a9e.jpg"
 hero_image_credit_name: "Oleg PavLove"
 hero_image_credit_url: "https://www.pexels.com/@oleg-pavlove-194181440"
 visual_keyword: "futuristic medical facility, genetic research, operating room, innovation, challenge"
 description: "Modern medicine presents a landscape of stark contrasts, from critical surgical errors and research dead ends to groundbreaking genetic therapies."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The landscape of modern medicine is thus a tapestry woven with threads of stark 
 
 ## Updates
 
+- **2026-04-25** — Xbox’s weirdest studio is on a roll ([source](https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam))
 - **2026-04-23** — Today’s Android game and app deals: DRAGON QUEST BUILDERS, 9th Dawn Remake RPG, Maneater, more ([source](https://9to5toys.com/2026/04/23/android-game-app-deals-dragon-quest-builders-maneater/))
 - **2026-04-21** — Sennheiser launches HD 480 Pro, the closed-back headphones fans have been waiting for ([source](https://www.engadget.com/audio/headphones/sennheiser-launches-hd-480-pro-the-closed-back-headphones-fans-have-been-waiting-for-080000727.html?src=rss))
 - **2026-04-20** — John Ternus will be CEO of Apple when Tim Cook steps down this fall ([source](https://www.engadget.com/computing/tim-cook-will-step-down-as-204959434.html?src=rss))
