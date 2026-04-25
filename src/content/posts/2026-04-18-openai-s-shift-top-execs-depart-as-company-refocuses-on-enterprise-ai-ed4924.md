@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Shift: Top Execs Depart as Company Refocuses on Enterprise AI"
 date: 2026-04-18T01:04:41.771Z
-modified_date: 2026-04-24T17:03:08.896Z
+modified_date: 2026-04-25T22:42:43.171Z
 tags: ["ai","openai","enterprise"]
 hero_image: "/hero/2026-04-18-openai-s-shift-top-execs-depart-as-company-refocuses-on-enterprise-ai-ed4924.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"
 description: "OpenAI's pivot towards enterprise AI leads to key departures"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -18,5 +19,6 @@ OpenAI, the company behind the revolutionary ChatGPT, is undergoing a significan
 
 ## Updates
 
+- **2026-04-25** — OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police ([source](https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss))
 - **2026-04-24** — Watch Apple reveal how it made the delightful MacBook Neo intro video ([source](https://9to5mac.com/2026/04/24/apple-reveals-how-it-made-the-delightful-macbook-neo-introduction-video/))
 - **2026-04-18** — Judge rules Trump administration violated the First Amendment in fight against ICE-tracking ([source](https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking))

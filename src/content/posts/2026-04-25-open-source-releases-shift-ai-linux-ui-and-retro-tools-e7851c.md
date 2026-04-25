@@ -1,18 +1,20 @@
 ---
 title: "Open-source releases shift AI, Linux UI, and retro tools"
 date: 2026-04-25T20:48:46.338Z
+modified_date: 2026-04-25T22:42:42.735Z
 tags: ["open-source","ai","linux","developer-tools"]
 hero_image: "/hero/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "developer workstation with code editors and open-source project logos"
 description: "Five recent open-source projects—memory layer, Wayland compositor, AI benchmark, C64 music files, and Turbo Vision—hit Hacker News, drawing developer attention."
-sources_count: 11
-author: "maya-chen"
+sources_count: 12
 audio_path: "/audio/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.mp3"
 audio_bytes: 618624
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Open‑source memory layer for AI agents
 
@@ -49,3 +51,7 @@ Turbo Vision 2.0 modernizes the original Borland library for contemporary C++ co
 ## What to watch next
 
 Developers will monitor how the memory‑layer library integrates with emerging vector databases and whether performance metrics improve in real‑world deployments. Niri’s scrollable tiling will be tested against other Wayland compositors as more users adopt high‑resolution displays. The Lambda Calculus benchmark may inspire follow‑up suites that combine symbolic reasoning with type‑inference challenges. Finally, the C64 music archive and Turbo Vision 2.0 will likely see forks that adapt the assets for educational curricula and niche UI projects. Tracking issue trackers, pull‑request activity, and subsequent Hacker News threads will reveal which of these tools gain lasting traction.
+
+## Updates
+
+- **2026-04-25** — The AI Industry Is Discovering That the Public Hates It ([source](https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash))
