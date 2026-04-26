@@ -1,37 +1,35 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-04-25T22:48:40.781Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-04-26T03:37:56.868Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 498232, Requested 3297. Please try again in 4m24.2112s. Need more tokens? Upgr",
-    "last_failure": "2026-04-25T22:48:40.806Z",
-    "cooldown_until": "2026-04-25T22:58:40.782Z"
+    "last_failure": "2026-04-25T22:48:40.806Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "last_success": "2026-04-25T22:43:02.897Z",
+    "last_success": "2026-04-26T03:29:18.186Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98718, Requested 1566. Please try again in 4m5.376s. Need more tokens? Upgrade to Dev Tier today",
-    "last_failure": "2026-04-25T22:43:10.998Z",
-    "cooldown_until": "2026-04-25T22:53:10.962Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99995, Requested 3068. Please try again in 44m6.432s. Need more tokens? Upgrade to Dev Tier toda",
+    "last_failure": "2026-04-26T03:31:48.174Z",
+    "cooldown_until": "2026-04-26T03:41:48.131Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-04-25T22:45:41.401Z",
+    "last_success": "2026-04-26T03:31:45.540Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198801, Requested 3811. Please try again in 18m48.384s. Need more tokens? Upgrade to Dev Tier today ",
-    "last_failure": "2026-04-25T22:45:42.722Z",
-    "cooldown_until": "2026-04-25T22:55:42.696Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 3944, Requested 4436. Please try again in 2.85s. Need more tokens? Upgrade to Dev Tier today at htt",
+    "last_failure": "2026-04-26T03:31:46.585Z",
+    "cooldown_until": "2026-04-26T03:41:46.552Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-04-25T22:48:26.665Z",
-    "consecutive_failures": 2,
+    "last_success": "2026-04-26T03:37:37.850Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 3277, Requested 2920. Please try again in 1.97s. Need more tokens? Upgrade to Dev Tier today at https://",
-    "last_failure": "2026-04-25T22:51:27.035Z",
-    "cooldown_until": "2026-04-25T23:01:26.995Z"
+    "last_failure": "2026-04-25T22:51:27.035Z"
   },
   "groq:openai/gpt-oss-20b": {
-    "last_success": "2026-04-25T22:51:45.787Z",
-    "consecutive_failures": 0,
+    "last_success": "2026-04-26T03:34:46.844Z",
+    "consecutive_failures": 1,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"\"}}\n",
-    "last_failure": "2026-04-25T22:45:45.052Z"
+    "last_failure": "2026-04-26T03:37:40.152Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -40,11 +38,10 @@
     "cooldown_until": "2026-05-18T12:46:02.123Z"
   },
   "groq:llama-3.1-8b-instant": {
-    "last_success": "2026-04-25T22:51:46.435Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-04-26T03:35:02.013Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5213, Requested 1996. Please try again in 12.09s. Need more tokens? Upgrade to Dev Tier today at h",
-    "last_failure": "2026-04-25T22:51:46.462Z",
-    "cooldown_until": "2026-04-25T23:01:46.436Z"
+    "last_failure": "2026-04-25T22:51:46.462Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {
     "last_success": "2026-04-24T17:33:40.237Z",

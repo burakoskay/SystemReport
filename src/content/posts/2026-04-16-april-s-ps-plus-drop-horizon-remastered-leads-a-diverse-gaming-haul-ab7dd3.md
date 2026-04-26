@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-04-20T09:51:45.826Z
+modified_date: 2026-04-26T03:28:48.106Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 
 PlayStation Plus subscribers are in for a treat this April, with a robust lineup for Extra and Premium tiers that promises something for every gaming palate. From expansive open worlds to quirky indie adventures and intense strategy, the incoming catalog delivers a compelling mix of established hits and hidden gems, all set to arrive starting April 21.
@@ -23,4 +24,5 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-04-26** — A web-based RDP client built with Go WebAssembly and grdp ([source](https://github.com/nakagami/grdpwasm))
 - **2026-04-20** — GoPro’s new Mission cameras are priced beyond most weekend athletes ([source](https://www.theverge.com/gadgets/914764/gopros-mission-camera-prices))
