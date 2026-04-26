@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
-modified_date: 2026-04-23T17:41:35.114Z
+modified_date: 2026-04-26T14:51:58.666Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,4 +41,5 @@ In the near future, we can expect to see more devices like the Ulticam IQ V2 eme
 
 ## Updates
 
+- **2026-04-26** — Skylight’s 15-inch smart calendar is down to its lowest price to date ([source](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale))
 - **2026-04-23** — Era raises $11M to build a software platform for AI gadgets ([source](https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/))
