@@ -1,16 +1,17 @@
 ---
 title: "iTerm2 Issue with 'cat' Command"
 date: 2026-04-18T05:29:49.980Z
-modified_date: 2026-04-22T13:54:05.925Z
+modified_date: 2026-04-26T16:52:15.253Z
 tags: ["iTerm2","Terminal Emulator","Safety Issue"]
 hero_image: "/hero/2026-04-18-iterm2-issue-with-cat-command-0118cb.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Terminal"
 description: "iTerm2 'cat' command safety issue"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Issue with 'cat' Command
@@ -22,4 +23,5 @@ According to the source, using `cat` in iTerm2 poses a safety risk. Users should
 
 ## Updates
 
+- **2026-04-26** — Tomora’s Come Closer is an ecstatic love letter to 90s dance music ([source](https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music))
 - **2026-04-22** — Amazon Music partners with Bandsintowns for concert listings ([source](https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/))
