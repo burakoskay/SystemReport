@@ -1,16 +1,18 @@
 ---
 title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
-modified_date: 2026-04-23T06:09:00.765Z
+modified_date: 2026-04-26T13:16:56.493Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"
 description: "From NASA's lunar nuclear reactors to the search for life in alien caves and the shifting dynamics of commercial launches, humanity is charting an ambitious new course in space."
-sources_count: 7
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -20,5 +22,7 @@ is becoming a paramount factor. This competitive landscape is driving innovation
 
 ## Updates
 
+- **2026-04-26** — The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026) ([source](https://www.wired.com/story/best-smart-bird-feeders/))
+- **2026-04-26** — The Best Kindle Accessories (2026): Cases, Page Turners, Stickers ([source](https://www.wired.com/story/best-kindle-accessories/))
 - **2026-04-23** — Chirp Discount Codes and Deals: Save Up to 67% ([source](https://www.wired.com/story/chirp-discount-code/))
 - **2026-04-22** — Our eighth generation TPUs: two chips for the agentic era ([source](https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/))
