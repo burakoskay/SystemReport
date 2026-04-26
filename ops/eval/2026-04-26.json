@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-26T20:53:53.295Z",
+  "generated_at": "2026-04-26T23:07:46.816Z",
   "window_days": 7,
-  "total_records": 3029,
+  "total_records": 3168,
   "variants": {
     "draft:v3-900w": {
       "calls": 51,
@@ -16,50 +16,50 @@
       }
     },
     "revise:v2-800w": {
-      "calls": 382,
-      "success": 340,
-      "success_rate": 0.8900523560209425,
-      "latency_p50": 1237,
-      "latency_p95": 2186,
-      "response_chars_mean": 1841,
+      "calls": 389,
+      "success": 347,
+      "success_rate": 0.8920308483290489,
+      "latency_p50": 1246,
+      "latency_p95": 2441,
+      "response_chars_mean": 1835,
       "error_classes": {
         "unknown": 1,
         "rate_limit": 41
       }
     },
     "draft:v4-1100w": {
-      "calls": 1062,
-      "success": 932,
-      "success_rate": 0.8775894538606404,
-      "latency_p50": 2283,
-      "latency_p95": 8496,
-      "response_chars_mean": 3325,
+      "calls": 1107,
+      "success": 969,
+      "success_rate": 0.8753387533875339,
+      "latency_p50": 2329,
+      "latency_p95": 9357,
+      "response_chars_mean": 3294,
       "error_classes": {
-        "rate_limit": 103,
+        "rate_limit": 109,
         "server_error": 1,
-        "unknown": 25,
+        "unknown": 27,
         "permission": 1
       }
     },
     "lengthen:v1": {
-      "calls": 263,
-      "success": 219,
-      "success_rate": 0.8326996197718631,
-      "latency_p50": 2684,
-      "latency_p95": 4401,
-      "response_chars_mean": 5179,
+      "calls": 280,
+      "success": 233,
+      "success_rate": 0.8321428571428572,
+      "latency_p50": 2728,
+      "latency_p95": 9888,
+      "response_chars_mean": 5007,
       "error_classes": {
-        "rate_limit": 43,
+        "rate_limit": 46,
         "unknown": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 7,
-      "success": 6,
-      "success_rate": 0.8571428571428571,
-      "latency_p50": 198,
-      "latency_p95": 276,
-      "response_chars_mean": 63,
+      "calls": 8,
+      "success": 7,
+      "success_rate": 0.875,
+      "latency_p50": 269,
+      "latency_p95": 296,
+      "response_chars_mean": 62,
       "error_classes": {
         "spending_cap": 1
       }
