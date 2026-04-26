@@ -2,9 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../../layouts/Layout.astro';
 import TagPill from '../../../components/TagPill.astro';
-import { LOCALES } from '../../../pipeline/translator.mjs';
-
-const ACTIVE_LOCALES = Object.keys(LOCALES);
+import { HREFLANG, type Locale } from '../../../i18n/tool-strings';
 
 // Locale code → BCP-47 for Intl.DateTimeFormat. Most codes pass through;
 // a few need region extension (e.g. "pt" → "pt-BR").
@@ -19,32 +17,39 @@ export async function getStaticPaths() {
     const [locale, ...slugParts] = post.id.split('/');
     const slug = slugParts.join('/');
     return {
-      params: { locale, slug },
+      params: { locale: locale.toLowerCase(), slug },
       props: { post },
     };
   });
 }
 
 const { post } = Astro.props;
-const { locale } = Astro.params;
+const { locale } = Astro.params; // lowercase (e.g. "zh-cn")
+const rawLocale = post.id.split('/')[0]; // original case from content ID (e.g. "zh-CN")
 const { Content } = await render(post);
 
 const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 const canonicalSlug = post.data.canonical_slug || post.id.split('/').slice(1).join('/');
 const articleUrl = `${siteBase}/${locale}/posts/${canonicalSlug}`;
 
-// hreflang alternates: English original + every other translated locale of this same story.
+// hreflang alternates: English original + only locales that actually have translations.
+const allI18n = await getCollection('posts-i18n');
+const siblings = allI18n.filter(p =>
+  (p.data.canonical_slug || p.id.split('/').slice(1).join('/')) === canonicalSlug
+);
 const alternates = [
   { hreflang: 'en', href: `${siteBase}/posts/${canonicalSlug}` },
   { hreflang: 'x-default', href: `${siteBase}/posts/${canonicalSlug}` },
-  ...ACTIVE_LOCALES.filter(l => l !== locale).map(l => ({
-    hreflang: l,
-    href: `${siteBase}/${l}/posts/${canonicalSlug}`,
-  })),
-  { hreflang: locale!, href: articleUrl },
+  ...siblings.map(p => {
+    const sibLocale = p.id.split('/')[0];
+    return {
+      hreflang: HREFLANG[sibLocale as Locale] || sibLocale,
+      href: `${siteBase}/${sibLocale.toLowerCase()}/posts/${canonicalSlug}`,
+    };
+  }),
 ];
 
-const dateLocale = DATE_LOCALE[locale!] || `${locale}-${locale!.toUpperCase()}`;
+const dateLocale = DATE_LOCALE[rawLocale] || rawLocale;
 let formattedDate;
 try {
   formattedDate = post.data.date.toLocaleDateString(dateLocale, {
@@ -67,7 +72,7 @@ const heroImageUrl = post.data.hero_image
   type="article"
   publishDate={post.data.date}
   tags={post.data.tags || []}
-  lang={locale}
+  lang={rawLocale}
   hreflangAlternates={alternates}
 >
   <article class="max-w-3xl mx-auto">

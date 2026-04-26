@@ -5,3 +5,6 @@
 # (no index.astro under src/pages/posts/), so redirect to root.
 /posts        /  301
 /posts/       /  301
+
+# zh-CN was previously served at uppercase path; redirect to lowercase.
+/zh-CN/*      /zh-cn/:splat  301

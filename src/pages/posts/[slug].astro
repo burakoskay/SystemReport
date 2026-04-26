@@ -8,6 +8,7 @@ import NewsletterSignup from '../../components/NewsletterSignup.astro';
 import AdUnit from '../../components/AdUnit.astro';
 import { getArticleCategory, CATEGORIES } from '../../lib/categories';
 import { getAuthor } from '../../lib/authors.mjs';
+import { HREFLANG, type Locale } from '../../i18n/tool-strings';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
@@ -72,14 +73,17 @@ const siteBase = (Astro.site || 'https://www.systemreport.net').toString().repla
 // Find translated versions of this post and emit hreflang alternates.
 const translations = await getCollection('posts-i18n').catch(() => []);
 const myTranslations = translations.filter(t => t.data.canonical_slug === post.id);
-const hreflangAlternates = myTranslations.length > 0 ? [
+const hreflangAlternates = [
   { hreflang: 'en', href: `${siteBase}/posts/${post.id}` },
   { hreflang: 'x-default', href: `${siteBase}/posts/${post.id}` },
-  ...myTranslations.map(t => ({
-    hreflang: t.data.locale!,
-    href: `${siteBase}/${t.data.locale}/posts/${post.id}`,
-  })),
-] : [];
+  ...myTranslations.map(t => {
+    const rawLocale = t.data.locale as string;
+    return {
+      hreflang: HREFLANG[rawLocale as Locale] || rawLocale,
+      href: `${siteBase}/${rawLocale.toLowerCase()}/posts/${post.id}`,
+    };
+  }),
+];
 
 // Build fully-qualified hero image URL
 const heroImageUrl = post.data.hero_image
