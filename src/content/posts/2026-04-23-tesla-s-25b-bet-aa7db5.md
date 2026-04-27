@@ -1,18 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
+modified_date: 2026-04-27T12:17:30.707Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -61,3 +63,7 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 * Regulatory developments will be important, particularly in areas such as environmental sustainability and consumer protection
 * The development of new battery technologies and the growth of autonomous driving technologies will be important areas to watch
 * The expansion of the electric vehicle market will be driven by factors such as government policies, consumer demand, and technological innovation
+
+## Updates
+
+- **2026-04-27** — Spotify is partnering with Peloton for guided workouts ([source](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts))

@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-04-27T06:32:14.803Z
+modified_date: 2026-04-27T12:17:30.250Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 22
+sources_count: 23
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -92,6 +93,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-04-27** — Govee’s multicolor ceiling light doubles as a low-res screen ([source](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability))
 - **2026-04-27** — The 1944 Warsaw Uprising, in Color ([source](https://www.barwypowstania.pl/))
 - **2026-04-25** — NASA's initial takeaways from the Artemis II mission, and more science stories ([source](https://www.engadget.com/science/nasas-initial-takeaways-from-the-artemis-ii-mission-and-more-science-stories-160000808.html?src=rss))
 - **2026-04-25** — The most exciting laptop I’ve seen in forever ([source](https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer))
