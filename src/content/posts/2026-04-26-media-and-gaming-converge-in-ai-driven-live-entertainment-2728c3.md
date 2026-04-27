@@ -1,18 +1,20 @@
 ---
 title: "Media and Gaming Converge in AI-Driven Live Entertainment"
 date: 2026-04-26T22:56:45.034Z
+modified_date: 2026-04-27T14:06:05.182Z
 tags: ["AI-driven live entertainment","media and gaming convergence","interactive media"]
 hero_image: "/hero/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered live casino"
 description: "VCs and developers are redefining interactive media through AI and real-time gaming innovations."
-sources_count: 5
-author: "elena-marchetti"
+sources_count: 6
 audio_path: "/audio/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.mp3"
 audio_bytes: 597099
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The New Frontier of Interactive Media
 
@@ -62,3 +64,7 @@ By 2027, three forces will determine the next phase of interactive media:
 3. The U.S. Olympic Committee's decision on whether to recognize sub-two-hour marathons as a new category of athletic performance.
 
 Each represents a hinge point. Fail to regulate live game RNGs, and you risk a new class of algorithmic gambling addiction. Underestimate the power of memory-driven AI characters, and you miss the next generation of engagement. The industry is at the precipice of the 1996 Telecom Act or the 1973 oil crisis—depending on whose data you trust.
+
+## Updates
+
+- **2026-04-27** — That UL safety logo is a lot more complicated than it looks ([source](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon))

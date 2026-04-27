@@ -1,16 +1,17 @@
 ---
 title: "College Instructor Turns to Typewriters to Curb AI-Written Work"
 date: 2026-04-19T01:57:45.436Z
-modified_date: 2026-04-20T20:38:35.479Z
+modified_date: 2026-04-27T14:06:04.235Z
 tags: ["ai in education","academic integrity","typewriters"]
 hero_image: "/hero/2026-04-19-college-instructor-turns-to-typewriters-to-curb-ai-written-work-e106cc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "typewriter on a desk"
 description: "A college instructor uses typewriters to teach life lessons and prevent AI-generated essays. The move sparks debate on AI's role in education."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 # The Typewriter Uprising
@@ -41,4 +42,5 @@ The debate surrounding AI in education is far from over. As AI tools continue to
 
 ## Updates
 
+- **2026-04-27** — The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path ([source](https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/))
 - **2026-04-20** — Japanese man sentenced to prison for posting spoilers ([source](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten))
