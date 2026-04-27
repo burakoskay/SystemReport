@@ -1,16 +1,17 @@
 ---
 title: "Tech Disruptions: Bluesky Outages and Netflix Innovations"
 date: 2026-04-18T01:04:56.938Z
-modified_date: 2026-04-20T20:38:37.396Z
+modified_date: 2026-04-27T10:22:48.802Z
 tags: ["tech","innovation","cybersecurity","entertainment"]
 hero_image: "/hero/2026-04-18-tech-disruptions-bluesky-outages-and-netflix-innovations-1e8f53.jpg"
 hero_image_credit_name: "Nikita Belokhonov"
 hero_image_credit_url: "https://www.pexels.com/@traveliving"
 visual_keyword: "cyber attack landscape"
 description: "Bluesky suffers DDoS attack, Netflix unveils AI-driven features"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -19,6 +20,7 @@ The world of tech is abuzz with news of disruptions and innovations. Bluesky, a 
 
 ## Updates
 
+- **2026-04-27** — The Iran War Is Impacting the Environment in Unseen Ways ([source](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/))
 - **2026-04-20** — Motorola confirms Razr (2026) launch date, new colors in ‘something new’ teaser [Video] ([source](https://9to5google.com/2026/04/20/motorola-confirms-razr-2026-date-and-colors/))
 - **2026-04-20** — Silicon Valley has forgotten what normal people want ([source](https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos))
 - **2026-04-19** — Tesla brings its robotaxi service to Dallas and Houston ([source](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/))
