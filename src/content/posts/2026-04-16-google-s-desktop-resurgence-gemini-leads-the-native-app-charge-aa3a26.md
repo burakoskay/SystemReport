@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-04-24T13:46:46.120Z
+modified_date: 2026-04-27T21:08:11.806Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-04-27** — Canonical lays out a plan for AI in Ubuntu Linux ([source](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features))
 - **2026-04-24** — Elon Musk and Sam Altman’s court showdown will dish the dirt ([source](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip))
 - **2026-04-23** — Musk pledges to fix 2019-2023 Teslas that can't fully self drive ([source](https://www.engadget.com/transportation/evs/musk-pledges-to-fix-2019-2023-teslas-that-cant-fully-self-drive-095002120.html?src=rss))
 - **2026-04-21** — Framework's CEO on the RAM crisis and creating a "MacBook Pro for Linux users" ([source](https://arstechnica.com/gadgets/2026/04/frameworks-ceo-on-the-ram-crisis-and-creating-a-macbook-pro-for-linux-users/))

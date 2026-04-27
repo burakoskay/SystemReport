@@ -1,16 +1,17 @@
 ---
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
-modified_date: 2026-04-24T09:48:50.432Z
+modified_date: 2026-04-27T21:08:13.260Z
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
 hero_image: "/hero/2026-04-15-adobe-unleashes-firefly-ai-assistant-the-future-of-creative-workflows-e381a9.jpg"
 hero_image_credit_name: "Vito Goričan"
 hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ This move positions Firefly AI Assistant as Adobe's definitive answer to the nar
 
 ## Updates
 
+- **2026-04-27** — Samsung&#8217;s first smart glasses have leaked ([source](https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images))
 - **2026-04-24** — Saros is pure action nirvana ([source](https://www.theverge.com/entertainment/917462/saros-review-ps5))
 - **2026-04-24** — Using the internet like it's 1999 ([source](https://joshblais.com/blog/using-the-internet-like-its-1999/))
 - **2026-04-23** — Tim Cook’s departure is the start of a new era at Apple ([source](https://www.theverge.com/tech/916585/tim-cook-apple-new-era))

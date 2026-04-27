@@ -1,16 +1,17 @@
 ---
 title: "Mobile App Deals and Scanner Tools Take Center Stage"
 date: 2026-04-19T05:56:45.151Z
-modified_date: 2026-04-24T09:48:49.799Z
+modified_date: 2026-04-27T21:08:10.839Z
 tags: ["mobile apps","app deals","scanner tools"]
 hero_image: "/hero/2026-04-19-mobile-app-deals-and-scanner-tools-take-center-stage-6b3bc5.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## Android App Deals and Discounts
@@ -43,4 +44,5 @@ As mobile app deals and discounts continue to make headlines, it's clear that th
 
 ## Updates
 
+- **2026-04-27** — Mother’s Day Deals on Smart Bird Feeders (2026) ([source](https://www.wired.com/story/mothers-day-deals-on-smart-bird-feeders-2026/))
 - **2026-04-24** — The WIRED Gear Team’s Tips on Ways to Save Money ([source](https://www.wired.com/story/wired-gear-team-tips-on-ways-to-save-money/))

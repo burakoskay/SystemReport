@@ -1,18 +1,20 @@
 ---
 title: "Porsche Electrifies Cayenne Lineup with All-Electric Coupe"
 date: 2026-04-24T17:29:25.334Z
+modified_date: 2026-04-27T21:08:14.243Z
 tags: ["Porsche","Electric Vehicles","Giga-Castings"]
 hero_image: "/hero/2026-04-24-porsche-electrifies-cayenne-lineup-with-all-electric-coupe-f4cdcf.jpg"
 hero_image_credit_name: "Crz ."
 hero_image_credit_url: "https://www.pexels.com/@crz-2158032520"
 visual_keyword: "Porsche Cayenne Coupe Electric"
 description: "Porsche adds an all-electric Cayenne coupe to its lineup, set to launch in late summer. The move signals a significant shift towards electrification in the luxury SUV market."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-04-24-porsche-electrifies-cayenne-lineup-with-all-electric-coupe-f4cdcf.mp3"
 audio_bytes: 587904
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Porsche's Electric Cayenne Coupe Debuts This Summer
@@ -62,3 +64,7 @@ The electrification of the Cayenne lineup is part of a larger trend in the autom
 ## Conclusion
 
 The Porsche electric Cayenne coupe launch marks a significant shift towards electrification in the luxury SUV market. As the industry continues to evolve, we can expect to see increased adoption of giga-castings and electrification technology. The use of these technologies will play a crucial role in reducing emissions and improving sustainability in vehicle manufacturing.
+
+## Updates
+
+- **2026-04-27** — Joby Aviation is demoing 10-minute air taxi flights from JFK to Manhattan for a week ([source](https://www.engadget.com/transportation/joby-aviation-is-demoing-10-minute-air-taxi-flights-from-jfk-to-manhattan-for-a-week-180247411.html?src=rss))

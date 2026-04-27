@@ -1,19 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
-modified_date: 2026-04-27T12:17:30.707Z
+modified_date: 2026-04-27T21:08:13.747Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -66,4 +67,5 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 
 ## Updates
 
+- **2026-04-27** — "Super ZSNES" is a stab at a modern SNES emulator from the original developers ([source](https://arstechnica.com/gadgets/2026/04/super-zsnes-is-a-stab-at-a-modern-snes-emulator-from-the-original-developers/))
 - **2026-04-27** — Spotify is partnering with Peloton for guided workouts ([source](https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts))
