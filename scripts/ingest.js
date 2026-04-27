@@ -871,17 +871,14 @@ async function main() {
         heroPath = image.url;
       }
 
-      // Narration is a load-bearing feature ("Listen to this article") —
-      // the site contract is that every published article has audio. If the
-      // full provider chain (CF MeloTTS → Groq Orpheus, each with its own
-      // retries) still can't produce audio, we do NOT publish this cluster:
-      // the sources stay unprocessed and the next run retries. Better to
-      // delay a piece by two hours than to publish without the player.
+      // Narration ("Listen to this article") — best-effort. If all TTS
+      // providers fail, publish the article without audio rather than
+      // sending it to the DLQ. The audio player hides automatically when
+      // audio_path is absent. backfill-audio.mjs can fill gaps later.
       let audioPath = '';
       let audioBytes = 0;
       let audioMime = '';
       const speechText = markdownToSpeechText(synthesis.title, synthesis.description, synthesis.article_markdown);
-      let ttsErr;
       for (let attempt = 1; attempt <= 3; attempt++) {
         try {
           const out = await synthesizeSpeech(speechText);
@@ -892,17 +889,14 @@ async function main() {
           audioBytes = out.bytes.length;
           audioMime = out.mime;
           console.log(`  🔊 Narration via ${out.provider}: ${audioPath} (${(out.bytes.length / 1024).toFixed(0)} KB)`);
-          ttsErr = null;
           break;
         } catch (e) {
-          ttsErr = e;
           console.log(`  TTS attempt ${attempt}/3 failed: ${e.message.slice(0, 200)}`);
           if (attempt < 3) await new Promise(r => setTimeout(r, 5000 * attempt));
         }
       }
       if (!audioPath) {
-        console.log(`  ⏭  Skipping cluster — every published article must have audio. Will retry next run.`);
-        throw new Error(`TTS failed across all providers: ${ttsErr?.message?.slice(0, 200) || 'unknown'}`);
+        console.log(`  ⚠ TTS failed — publishing without audio. Run backfill-audio.mjs to add narration later.`);
       }
 
       const frontmatter = `---
