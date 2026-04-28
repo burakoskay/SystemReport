@@ -100,7 +100,7 @@ async function fetchAndSanitizeFeeds(processedUrls) {
   const parser = new Parser();
   const articles = [];
 
-  for (const feedUrl of FEEDS) {
+  await Promise.all(FEEDS.map(async (feedUrl) => {
     try {
       const feed = await parser.parseURL(feedUrl);
       for (const item of feed.items.slice(0, 15)) {
@@ -121,7 +121,7 @@ async function fetchAndSanitizeFeeds(processedUrls) {
     } catch (err) {
       console.error(`Error fetching feed ${feedUrl}:`, err.message);
     }
-  }
+  }));
 
   return articles;
 }
