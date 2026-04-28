@@ -1,11 +1,7 @@
 ---
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
-<<<<<<< Updated upstream
-modified_date: 2026-04-28T17:51:09.311Z
-=======
 modified_date: 2026-04-28T19:34:09.385Z
->>>>>>> Stashed changes
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
 hero_image: "/hero/2026-04-15-adobe-unleashes-firefly-ai-assistant-the-future-of-creative-workflows-e381a9.jpg"
 hero_image_credit_name: "Vito Goričan"
