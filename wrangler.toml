@@ -1,8 +1,0 @@
-name = "systemreport"
-pages_build_output_dir = "dist"
-
-[build]
-command = "npm run build"
-# Skip builds if the commit is a PR merge or a bot commit. 
-# Exits with 0 (skip build) if grep finds a match, otherwise exits with 1 (proceed with build).
-ignore_command = "git log -1 --pretty=%B | grep -E -q '^Merge pull request|^Merge branch|\\[CI Skip\\]'"
