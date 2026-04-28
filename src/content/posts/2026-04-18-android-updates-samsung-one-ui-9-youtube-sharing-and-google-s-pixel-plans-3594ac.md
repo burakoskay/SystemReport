@@ -1,16 +1,18 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-modified_date: 2026-04-21T17:09:54.333Z
+modified_date: 2026-04-28T19:34:10.527Z
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
-sources_count: 8
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
+
 
 
 Samsung is working on its next major update, One UI 9, expected to launch later this summer. A recent leak reveals two exciting features: 'Tap to Share' and Bixby widgets on the home screen. This update aims to enhance user experience with new functionality.
@@ -27,4 +29,6 @@ The tech industry is witnessing significant changes, with major players like Sam
 
 ## Updates
 
+- **2026-04-28** — Deals: Giant deals knock up to $560 off Galaxy Tab S11 Ultra, Odyssey QD-OLED monitor 40% off, Nest Cam, and more ([source](https://9to5google.com/2026/04/28/deals-galaxy-tab-s11-ultra-odyssey-monitor-nest-cam/))
+- **2026-04-28** — Today’s Android game and app deals: Dungeons of Dreadrock, FrogBoy, Exolotl, more ([source](https://9to5toys.com/2026/04/28/todays-android-game-app-deals-dreadrock-frogboy/))
 - **2026-04-21** — Deals: Pixel Watch 4 LTE $110 off, Pixel 10 up to $321 off, Galaxy Ring from $108, more ([source](https://9to5google.com/2026/04/21/deals-pixel-watch-4-lte-pixel-10-galaxy-ring-anker/))

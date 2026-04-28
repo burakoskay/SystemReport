@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-04-28T10:20:50.603Z
+modified_date: 2026-04-28T19:34:11.099Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-04-28** — Apple Weather down? iPhone app experiencing issues right now ([source](https://9to5mac.com/2026/04/28/apple-weather-down-iphone-app-experiencing-issues-right-now/))
 - **2026-04-28** — Union accuses Apple of unlawful discrimination against represented workers ([source](https://www.engadget.com/big-tech/union-accuses-apple-of-unlawful-discrimination-against-represented-workers-094531505.html?src=rss))
 - **2026-04-23** — We still don't have a more precise value for "Big G" ([source](https://arstechnica.com/science/2026/04/we-still-dont-have-a-more-precise-value-for-big-g/))
 - **2026-04-23** — Rivian begins production on the R2 electric SUV ([source](https://www.engadget.com/transportation/evs/rivian-begins-production-on-the-r2-electric-suv-171729320.html?src=rss))

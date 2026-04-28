@@ -1,18 +1,20 @@
 ---
 title: "Walmart's Google TV Streamers Launch"
 date: 2026-04-26T23:01:41.608Z
+modified_date: 2026-04-28T19:34:08.821Z
 tags: ["google","walmart","pixel","android","smart home"]
 hero_image: "/hero/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "google tv streaming device on a modern coffee table"
 description: "Google refines voice typing, overhauls app designs, and partners with Walmart as smart home updates spark mixed reactions."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.mp3"
 audio_bytes: 638059
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Walmart’s Onn Google TV Streamers Launch Amid Retail Leaks
 
@@ -41,3 +43,7 @@ This shift mirrors Amazon Alexa’s 2022 decision to phase out phone linking. Bo
 ## What to Watch
 
 Three threads will define Google’s near-term impact: First, whether the Onn streamers gain traction against Amazon’s Fire TV dominance. Second, if Apple’s rumored M4 iPad rumors influence Google’s Pixel tablet roadmap. Third, how the gradient redesign plays in regulated markets like the EU, where the new UI might violate accessibility standards under the Web Content Accessibility Guidelines. The next Google I/O in May could clarify these directions.
+
+## Updates
+
+- **2026-04-28** — Google Translate uses AI to help you practice pronunciation ([source](https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss))

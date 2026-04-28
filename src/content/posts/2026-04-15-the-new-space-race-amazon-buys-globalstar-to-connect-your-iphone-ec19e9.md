@@ -1,7 +1,11 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
+<<<<<<< Updated upstream
 modified_date: 2026-04-28T17:51:05.840Z
+=======
+modified_date: 2026-04-28T19:34:03.138Z
+>>>>>>> Stashed changes
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"

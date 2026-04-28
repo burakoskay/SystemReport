@@ -1,7 +1,11 @@
 ---
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
+<<<<<<< Updated upstream
 modified_date: 2026-04-28T17:51:07.554Z
+=======
+modified_date: 2026-04-28T19:34:07.095Z
+>>>>>>> Stashed changes
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
 hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
