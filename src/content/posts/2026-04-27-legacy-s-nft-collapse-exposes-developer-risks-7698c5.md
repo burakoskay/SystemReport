@@ -1,17 +1,19 @@
 ---
 title: "Legacy's NFT Collapse Exposes Developer Risks"
 date: 2026-04-27T12:19:09.718Z
+modified_date: 2026-04-28T10:20:49.002Z
 tags: ["NFT","software patents","play-to-earn games"]
 hero_image: "/hero/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"
 ---
+
 
 The collapse of Legacy, a play-to-earn game backed by millions in NFT sales, reveals the darker side of speculative gaming and the perils of software patents. Within weeks of its launch, the game's marketplace stalled, and community forums filled with complaints about broken rewards and lost tokens. Players who bought Legacy NFTs faced significant financial losses.
 
@@ -46,3 +48,7 @@ The incident also highlights the need for greater transparency and accountabilit
 As the industry moves forward, it's clear that Legacy's collapse will serve as a cautionary tale for developers and players alike. The risks associated with speculative token economies and software patents are real, and developers must take steps to mitigate them. This includes prioritizing robust testing, validation, and transparency, as well as being aware of the potential risks and pitfalls of software patents.
 
 In conclusion, the collapse of Legacy serves as a reminder of the risks and challenges associated with speculative token economies and software patents. Developers must be aware of these risks and take steps to mitigate them. The industry must also prioritize transparency, accountability, and fairness to ensure that players are protected and that the industry can grow and thrive in a sustainable way.
+
+## Updates
+
+- **2026-04-28** — The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not ([source](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/))

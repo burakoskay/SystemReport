@@ -1,16 +1,17 @@
 ---
 title: "The AI Tidal Wave: Agents and Billions Reshape Tech"
 date: 2026-04-15T19:47:53.588Z
-modified_date: 2026-04-27T12:17:31.639Z
+modified_date: 2026-04-28T10:20:48.465Z
 tags: ["ai","artificial intelligence","agentic ai","tech investment","innovation"]
 hero_image: "/hero/2026-04-15-the-ai-tidal-wave-how-intelligent-agents-and-billions-in-capital-are-reshaping-tech-76eade.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI intelligence network"
 description: "AI is rapidly democratizing complex tech like chip design and fueling agentic platforms. Billions in investment signal a pivotal shift, reshaping industries and user experiences."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ The rise of agentic AI is equally compelling. OpenAI's enhanced Agents SDK under
 
 ## Updates
 
+- **2026-04-28** — Acer Swift 16 AI (2026) Review: Where Do Your Hands Go? ([source](https://www.wired.com/review/acer-swift-16-ai-2026/))
 - **2026-04-27** — The AI-designed car is taking shape ([source](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept))
 - **2026-04-26** — John Ternus could borrow from Microsoft’s playbook to reinvigorate Apple ([source](https://9to5mac.com/2026/04/26/john-ternus-reinvigorate-apple-engineering-early-retirement/))
 - **2026-04-25** — The Govee smart lamp brightened up my room, and then my life ([source](https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease))
