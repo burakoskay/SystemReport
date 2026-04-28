@@ -1,16 +1,17 @@
 ---
 title: "Lana Del Rey Sings for Spy, Cinema Meets Video Games"
 date: 2026-04-18T01:10:30.460Z
-modified_date: 2026-04-21T17:09:54.613Z
+modified_date: 2026-04-28T06:33:30.690Z
 tags: ["video games","cinema","Lana Del Rey"]
 hero_image: "/hero/2026-04-18-lana-del-rey-sings-for-spy-cinema-meets-video-games-6915a5.jpg"
 hero_image_credit_name: "Tito Zzzz"
 hero_image_credit_url: "https://www.pexels.com/@tizzy"
 visual_keyword: "Exit 8"
 description: "Lana Del Rey's new song for James Bond game and Exit 8 film adaptation explore video game and cinema intersections."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 The James Bond franchise has a long history of partnering with popular artists for its theme songs. IO Interactive has announced that Lana Del Rey co-wrote and performed the theme for 007 First Light, a playable James Bond origin story. This marks Del Rey's second foray into video game music, 15 years after her hit single 'Video Games.' The James Bond franchise has a tradition of memorable theme songs, such as 'Live and Let Die.'
@@ -21,4 +22,5 @@ The film Exit 8 is described as 'cinema for the livestreaming era.' The intersec
 
 ## Updates
 
+- **2026-04-28** — Jury selection in Musk v. Altman: ‘People don’t like him’ ([source](https://www.theverge.com/tech/919469/elon-musk-dont-like))
 - **2026-04-21** — Deals: 1TB M5 MacBook Air, 2TB M5 Pro MacBook Pro new low, Apple black USB cables, chargers, more ([source](https://9to5mac.com/2026/04/21/deals-m5-macbook-air-2tb-macbook-pro-series-11/))
