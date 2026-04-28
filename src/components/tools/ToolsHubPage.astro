@@ -29,7 +29,7 @@ const hreflangAlternates = LOCALE_LIST.map((l) => ({
 
 const toolHref = (slug: string) =>
   locale === 'en' ? `/tools/${slug}/` : `/${localeToSlug(locale)}/tools/${slug}/`;
-const aboutHref = locale === 'en' ? '/about' : `/${localeToSlug(locale)}/about`;
+const contactHref = locale === 'en' ? '/contact' : `/${localeToSlug(locale)}/contact`;
 
 const collectionSchema = JSON.stringify({
   '@context': 'https://schema.org',
@@ -114,9 +114,9 @@ const collectionSchema = JSON.stringify({
     </div>
 
     <section class="mt-16 pt-12 border-t border-gray-200 dark:border-gray-800">
-      <h2 class="font-serif text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">{s.whatsComingTitle}</h2>
+      <h2 class="font-serif text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">{s.h1}</h2>
       <p class="text-gray-600 dark:text-gray-300 leading-relaxed max-w-2xl">
-        {s.whatsComingBody} <a href={aboutHref} class="text-blue-600 dark:text-blue-400 hover:underline">{s.letUsKnow}</a>
+        {s.metaDescription} <a href={contactHref} class="text-blue-600 dark:text-blue-400 hover:underline">{s.letUsKnow}</a>
       </p>
     </section>
   </div>
