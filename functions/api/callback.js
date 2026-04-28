@@ -72,22 +72,32 @@ export async function onRequestGet(context) {
 
     // User is authorized — return the token to the CMS via postMessage
     const provider = 'github';
+    const url = new URL(context.request.url);
+    const targetOrigin = url.origin;
+
     const html = `<!doctype html>
 <html>
 <head><title>OAuth Callback</title></head>
 <body>
   <script>
     (function() {
+      const targetOrigin = "${targetOrigin}";
+
       function receiveMessage(e) {
         console.log("receiveMessage %o", e);
+        if (e.origin !== targetOrigin) {
+          console.warn("Unauthorized message origin: " + e.origin);
+          return;
+        }
+
         window.opener.postMessage(
           'authorization:${provider}:success:${JSON.stringify({ token, provider })}',
-          e.origin
+          targetOrigin
         );
         window.removeEventListener("message", receiveMessage, false);
       }
       window.addEventListener("message", receiveMessage, false);
-      window.opener.postMessage("authorizing:${provider}", "*");
+      window.opener.postMessage("authorizing:${provider}", targetOrigin);
     })();
   </script>
 </body>
