@@ -48,3 +48,4 @@ RULES.md
 gemini-code-*.json
 isitagentready.txt
 plan.md
+benchmark/test-logs/
