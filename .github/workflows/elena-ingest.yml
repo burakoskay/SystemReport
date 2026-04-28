@@ -58,6 +58,13 @@ jobs:
 
           git pull --rebase --autostash origin main
 
+          # Check if autostash pop resulted in merge conflicts
+          if git ls-files -u | grep -q .; then
+            echo "::error::Merge conflicts detected after applying autostash. Aborting to prevent corrupt commits."
+            git reset --hard HEAD
+            exit 1
+          fi
+
           mkdir -p public/hero ops
 
           # Combine content + ops into a single commit when content changed
