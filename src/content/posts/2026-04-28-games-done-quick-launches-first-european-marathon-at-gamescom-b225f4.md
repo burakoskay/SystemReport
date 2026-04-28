@@ -1,18 +1,20 @@
 ---
 title: "Games Done Quick launches first European marathon at Gamescom"
 date: 2026-04-28T19:49:57.309Z
+modified_date: 2026-04-28T21:11:47.827Z
 tags: ["gamesdonequick","charity","gaming","events"]
 hero_image: "/hero/2026-04-28-games-done-quick-launches-first-european-marathon-at-gamescom-b225f4.jpg"
 hero_image_credit_name: "Matheus Amaral"
 hero_image_credit_url: "https://www.pexels.com/@eumatheusamaral"
 visual_keyword: "crowded convention hall with gamers watching a speedrun stage"
 description: "GDQ brings its charity speedrunning marathon to Cologne in August, expanding live audience reach and testing a new broadcast schedule."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-04-28-games-done-quick-launches-first-european-marathon-at-gamescom-b225f4.mp3"
 audio_bytes: 605458
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Games Done Quick will run its first live marathon on European soil at Gamescom in Cologne, August 28‑30. The move adds a physical audience to a format that has lived online for over a decade.
 
@@ -57,3 +59,7 @@ Audio mixing presents a unique challenge when blending on‑site crowd noise wit
 The next data point to track is the total donation amount reported at the end of the Cologne marathon, broken down by on‑site versus online contributions. GDQ will publish a post‑event audit that includes compliance with German charity regulations. Observers will also watch how the hybrid format influences viewer retention on Twitch and YouTube, especially during the early morning ET slots that overlap with European daytime.
 
 If the event proves financially viable, GDQ may schedule additional live marathons in other regions, potentially expanding to Asia’s major gaming expos. The organization’s ability to scale its production model while navigating cross‑border legal frameworks will determine whether the hybrid approach becomes a new norm for charitable gaming events.
+
+## Updates
+
+- **2026-04-28** — Claude.ai unavailable and elevated errors on the API ([source](https://status.claude.com/incidents/9l93x2ht4s5w))

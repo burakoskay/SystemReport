@@ -1,104 +1,45 @@
 {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  "generated_at": "2026-04-28T18:07:40.574Z",
-=======
-  "generated_at": "2026-04-28T20:35:14.453Z",
->>>>>>> Stashed changes
+  "generated_at": "2026-04-28T21:16:46.769Z",
   "window_days": 7,
-  "total_records": 3235,
+  "total_records": 3389,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1038,
-      "success": 895,
-      "success_rate": 0.8622350674373795,
-      "latency_p50": 2468,
-      "latency_p95": 9762,
-<<<<<<< Updated upstream
-      "response_chars_mean": 3412,
-=======
-  "generated_at": "2026-04-28T20:00:50.587Z",
-  "window_days": 7,
-  "total_records": 3209,
-  "variants": {
-    "draft:v4-1100w": {
-      "calls": 1029,
-      "success": 889,
-      "success_rate": 0.8639455782312925,
-      "latency_p50": 2468,
-      "latency_p95": 9762,
-      "response_chars_mean": 3425,
->>>>>>> Stashed changes
-=======
-      "response_chars_mean": 3421,
->>>>>>> Stashed changes
+      "calls": 1073,
+      "success": 921,
+      "success_rate": 0.8583410997204101,
+      "latency_p50": 2515,
+      "latency_p95": 9975,
+      "response_chars_mean": 3426,
       "error_classes": {
-        "rate_limit": 113,
-        "unknown": 29,
+        "rate_limit": 121,
+        "unknown": 30,
         "permission": 1
       }
     },
     "revise:v2-800w": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      "calls": 349,
-      "success": 302,
-      "success_rate": 0.8653295128939829,
-      "latency_p50": 1250,
-      "latency_p95": 2782,
-      "response_chars_mean": 1853,
-=======
-      "calls": 348,
-      "success": 301,
-      "success_rate": 0.8649425287356322,
-      "latency_p50": 1250,
-      "latency_p95": 3017,
+      "calls": 359,
+      "success": 309,
+      "success_rate": 0.8607242339832869,
+      "latency_p50": 1252,
+      "latency_p95": 3371,
       "response_chars_mean": 1850,
->>>>>>> Stashed changes
-=======
-      "calls": 353,
-      "success": 304,
-      "success_rate": 0.8611898016997167,
-      "latency_p50": 1249,
-      "latency_p95": 2782,
-      "response_chars_mean": 1855,
->>>>>>> Stashed changes
       "error_classes": {
-        "rate_limit": 47,
+        "rate_limit": 48,
         "unknown": 1,
         "timeout": 1
       }
     },
     "lengthen:v1": {
-<<<<<<< Updated upstream
-      "calls": 350,
-<<<<<<< Updated upstream
-      "success": 295,
-      "success_rate": 0.8428571428571429,
-=======
-      "calls": 357,
-      "success": 298,
-      "success_rate": 0.834733893557423,
->>>>>>> Stashed changes
+      "calls": 371,
+      "success": 307,
+      "success_rate": 0.8274932614555256,
       "latency_p50": 2684,
-      "latency_p95": 10040,
-      "response_chars_mean": 4949,
+      "latency_p95": 10180,
+      "response_chars_mean": 4884,
       "error_classes": {
-<<<<<<< Updated upstream
-        "rate_limit": 54,
-=======
-      "success": 294,
-      "success_rate": 0.84,
-      "latency_p50": 2684,
-      "latency_p95": 9888,
-      "response_chars_mean": 4926,
-      "error_classes": {
-        "rate_limit": 55,
->>>>>>> Stashed changes
-=======
-        "rate_limit": 58,
->>>>>>> Stashed changes
-        "unknown": 1
+        "rate_limit": 62,
+        "unknown": 1,
+        "spending_cap": 1
       }
     },
     "rewrite-headline:v1": {
