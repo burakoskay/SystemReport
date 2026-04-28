@@ -67,15 +67,46 @@ const { compact = false } = Astro.props;
 <script>
   const form = document.getElementById('newsletter-form') as HTMLFormElement;
   const submitBtn = document.getElementById('newsletter-submit');
+  const emailInput = document.getElementById('newsletter-email') as HTMLInputElement;
 
-  form?.addEventListener('submit', (e) => {
+  form?.addEventListener('submit', async (e) => {
     e.preventDefault();
+
+    if (!emailInput?.value) return;
+
     if (submitBtn) {
-      submitBtn.textContent = '✓ Subscribed!';
-      submitBtn.classList.remove('bg-gray-900', 'hover:bg-black', 'dark:bg-white', 'dark:hover:bg-gray-100');
-      submitBtn.classList.add('bg-green-600', 'cursor-not-allowed');
+      submitBtn.textContent = 'Subscribing...';
       (submitBtn as HTMLButtonElement).disabled = true;
     }
-    // TODO: Connect to newsletter service (Buttondown, ConvertKit, or Cloudflare Worker)
+
+    try {
+      const response = await fetch('/api/newsletter', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email: emailInput.value }),
+      });
+
+      if (!response.ok) {
+        throw new Error('Subscription failed');
+      }
+
+      if (submitBtn) {
+        submitBtn.textContent = '✓ Subscribed!';
+        submitBtn.classList.remove('bg-gray-900', 'hover:bg-black', 'dark:bg-white', 'dark:hover:bg-gray-100');
+        submitBtn.classList.add('bg-green-600', 'cursor-not-allowed');
+      }
+
+      if (emailInput) {
+        emailInput.value = '';
+      }
+    } catch (error) {
+      console.error('Newsletter subscription error:', error);
+      if (submitBtn) {
+        submitBtn.textContent = 'Error. Try again';
+        (submitBtn as HTMLButtonElement).disabled = false;
+      }
+    }
   });
 </script>
