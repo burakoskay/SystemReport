@@ -1,15 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
+modified_date: 2026-04-28T14:24:37.177Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Deals and Discounts
 The world of deals and discounts is ever-changing, with new offers and promotions emerging every day. Recently, several major brands have announced significant discounts on their products, including Best Buy, OnePlus, and Hulu. Additionally, a new rewards app called Miles has launched, which tracks users' movements in exchange for deals and discounts.
@@ -43,3 +45,7 @@ The Miles rewards app uses a combination of GPS and machine learning algorithms 
 
 ## Downstream Implications
 The Miles rewards app and other deals and discounts platforms have significant downstream implications for the retail industry. By offering personalized deals and discounts, companies can increase customer loyalty and drive sales. Additionally, the use of data and analytics to offer deals and discounts can help companies to better understand their customers and tailor their marketing efforts accordingly. However, there are also concerns about the impact of deals and discounts on consumer behavior, with some critics arguing that they can lead to a culture of discounting and undermine the value of products and services. Furthermore, the increasing reliance on data and analytics to offer deals and discounts raises questions about data privacy and security.
+
+## Updates
+
+- **2026-04-28** — Behold the crown jewel of outrageous gaming laptops ([source](https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review))

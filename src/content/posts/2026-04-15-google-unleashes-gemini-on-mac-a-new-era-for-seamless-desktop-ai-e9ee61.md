@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-04-23T11:14:07.851Z
+modified_date: 2026-04-28T14:24:36.615Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-04-28** — Get Ready for More Brain-Scanning Consumer Gadgets ([source](https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/))
 - **2026-04-23** — Best Fitbit Models for Beginners, Athletes, and Kids (2026) ([source](https://www.wired.com/story/best-fitbit/))
 - **2026-04-20** — Show HN: Faceoff – A terminal UI for following NHL games ([source](https://www.vincentgregoire.com/faceoff/))
