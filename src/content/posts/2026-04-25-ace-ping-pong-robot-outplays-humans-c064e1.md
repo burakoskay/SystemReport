@@ -1,18 +1,20 @@
 ---
 title: "Ace Ping-Pong Robot Outplays Humans"
 date: 2026-04-25T20:56:26.756Z
+modified_date: 2026-04-28T23:00:15.398Z
 tags: ["robotics","aerospace","biotech","tech-innovation"]
 hero_image: "/hero/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.jpg"
 hero_image_credit_name: "dp singh Bhullar"
 hero_image_credit_url: "https://www.pexels.com/@dpsinghbhullar"
 visual_keyword: "robotic arm playing ping-pong against a human"
 description: "Ace, a ping-pong robot with advanced tracking, joins a landscape of orbital interceptors and regulatory shifts in biotech."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.mp3"
 audio_bytes: 599398
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A Machine That Learns to Win
 
@@ -37,3 +39,7 @@ This calculated approach has worked, but it raises questions about long-term cre
 Three forces will shape the next phase of this tech landscape. First, Ace's developers plan to open-source the motion-tracking code by Q3 2024, potentially democratizing robotic sports systems. Second, Golden Dome's backers might pivot to smaller interceptors if funding emerges from Japan's space agency. Third, Moderna's U.S. vaccine application could resurface once RFK Jr.'s influence on the FDA wanes—though that may not happen until 2025 at the earliest.
 
 The bigger question is how these systems will cascade into daily life. When robots outplay humans at leisure, when orbital defense remains a financial non-starter, and when vaccines are delayed by political tides, what does that say about our relationship with progress? These aren't just technical stories—they're reflections of our priorities, limitations, and the messy human systems that govern them.
+
+## Updates
+
+- **2026-04-28** — James Comey indicted over Instagram seashell photo that allegedly threatened Trump ([source](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump))

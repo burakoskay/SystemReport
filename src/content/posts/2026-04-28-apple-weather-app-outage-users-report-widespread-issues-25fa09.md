@@ -1,18 +1,20 @@
 ---
 title: "Apple Weather App Outage: Users Report Widespread Issues"
 date: 2026-04-28T17:58:50.244Z
+modified_date: 2026-04-28T23:00:16.083Z
 tags: ["apple","weather","ios","outage","app"]
 hero_image: "/hero/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.jpg"
 hero_image_credit_name: "JÉSHOOTS"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots"
 visual_keyword: "iPhone user looking at a frozen Weather app screen"
 description: "Apple's Weather app is down for iOS and macOS users, with intermittent outages reported across regions."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.mp3"
 audio_bytes: 603160
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple’s Weather app is down for users worldwide. iOS and macOS versions show delays or fail to load entirely, despite Apple’s System Status page initially dismissing the reports as isolated.
 
@@ -45,3 +47,7 @@ The app’s failure to load next-hour precipitation data in Alaska—cited by Ap
 Apple has a history of resolving outages silently, with no public post-mortems. This approach frustrates engineers who want transparency. The company’s System Status page now lists the Weather service as operational, though users continue to report issues. Until a macOS update addresses the Mac app’s freeze, workarounds include switching to third-party weather services like Dark Sky or using Apple’s Safari browser to access weather data directly.
 
 What to watch: The next major iOS update, likely in September, could include a fix for the Weather app. Track Apple’s System Status page for updates, and watch Reddit’s r/ios for user-reported fixes. If the problem persists, expect more users to abandon Apple’s first-party apps in favor of alternatives.
+
+## Updates
+
+- **2026-04-28** — Apple TV scores six Gotham Television Award nominations, here’s the list ([source](https://9to5mac.com/2026/04/28/apple-tv-scores-six-gotham-television-award-nominations-heres-the-list/))
