@@ -1,11 +1,7 @@
 ---
 title: "The Lonely Runner Problem"
 date: 2026-04-18T12:46:00.914Z
-<<<<<<< Updated upstream
-modified_date: 2026-04-28T19:34:02.572Z
-=======
 modified_date: 2026-04-28T20:11:21.796Z
->>>>>>> Stashed changes
 tags: ["mathematics","lonely runner problem","number theory"]
 hero_image: "/hero/2026-04-18-the-lonely-runner-problem-9da208.jpg"
 hero_image_credit_name: "Deepak Gautam"

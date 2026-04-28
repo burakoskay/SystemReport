@@ -1,31 +1,20 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-<<<<<<< Updated upstream
-modified_date: 2026-04-28T19:34:10.527Z
-=======
 modified_date: 2026-04-28T20:11:26.087Z
->>>>>>> Stashed changes
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
-<<<<<<< Updated upstream
 sources_count: 10
-=======
-sources_count: 9
->>>>>>> Stashed changes
 author: "ryan-tanaka"
 ---
 
 
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 Samsung is working on its next major update, One UI 9, expected to launch later this summer. A recent leak reveals two exciting features: 'Tap to Share' and Bixby widgets on the home screen. This update aims to enhance user experience with new functionality.
 
 YouTube is overhauling its video sharing feature, discontinuing 'Clips' and introducing a new 'share at timestamp' option on phones. This change makes it easier for users to share specific moments from videos.
@@ -40,9 +29,7 @@ The tech industry is witnessing significant changes, with major players like Sam
 
 ## Updates
 
-<<<<<<< Updated upstream
 - **2026-04-28** — Deals: Giant deals knock up to $560 off Galaxy Tab S11 Ultra, Odyssey QD-OLED monitor 40% off, Nest Cam, and more ([source](https://9to5google.com/2026/04/28/deals-galaxy-tab-s11-ultra-odyssey-monitor-nest-cam/))
-=======
->>>>>>> Stashed changes
 - **2026-04-28** — Today’s Android game and app deals: Dungeons of Dreadrock, FrogBoy, Exolotl, more ([source](https://9to5toys.com/2026/04/28/todays-android-game-app-deals-dreadrock-frogboy/))
 - **2026-04-21** — Deals: Pixel Watch 4 LTE $110 off, Pixel 10 up to $321 off, Galaxy Ring from $108, more ([source](https://9to5google.com/2026/04/21/deals-pixel-watch-4-lte-pixel-10-galaxy-ring-anker/))
+tch-4-lte-pixel-10-galaxy-ring-anker/))
