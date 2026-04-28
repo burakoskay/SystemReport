@@ -80,6 +80,13 @@ jobs:
           # Autostash handles modified tracked files (e.g. processed_urls.json) during rebase
           git pull --rebase --autostash origin main
 
+          # Check if autostash pop resulted in merge conflicts
+          if git ls-files -u | grep -q .; then
+            echo "::error::Merge conflicts detected after applying autostash. Aborting to prevent corrupt commits."
+            git reset --hard HEAD
+            exit 1
+          fi
+
           # Ensure optional output dirs exist so git-add never fails on missing pathspec
           mkdir -p public/hero public/audio ops/telemetry ops/eval src/content/posts-i18n
 

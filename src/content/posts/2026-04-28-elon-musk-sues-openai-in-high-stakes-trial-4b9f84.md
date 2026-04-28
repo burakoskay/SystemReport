@@ -13,8 +13,6 @@ author: "maya-chen"
 
 ## Musk v. OpenAI: A Fractured Vision
 
-Elon Musk has begun testifying in a federal trial asserting OpenAI CEO Sam Altman and company president Greg Brockman violated a founding agreement to keep AI development altruistic. The case, filed in 2024, alleges OpenAI prioritized profit over its nonprofit mission. Musk seeks unspecified funds for OpenAI's charitable arm and Altman's removal from the board. OpenAI calls the lawsuit a "baseless and jealous bid to derail a competitor."
-
 The dispute traces to OpenAI's 2015 founding as a nonprofit backed by Musk's $38 million investment. Relations soured as OpenAI shifted toward a for-profit structure, prompting Musk to withdraw funding in 2020. Microsoft later became OpenAI's largest investor, a move Musk claims OpenAI concealed. The trial, set in Oakland, California, could reshape AI governance and corporate control of transformative technology.
 
 ## A History of Diverging Paths
