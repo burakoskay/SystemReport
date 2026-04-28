@@ -1318,6 +1318,7 @@
   "https://www.theverge.com/2017/6/5/15732070/apple-ios-11-announced-iphone-update-new-features-wwdc-2017",
   "http://www.apple.com/ipad/software-update",
   "http://9to5mac.com/2013/10/28/recent-ios-updates-simplify-burst-mode-camera-feature-in-iphone-5s-helps-users-save-storage-space",
+<<<<<<< Updated upstream
   "http://blog.agilebits.com/2013/05/13/1password-4-2-for-ios-gets-huge-update-to-browser-sharing-features"
 =======
   "https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/",
@@ -1388,5 +1389,50 @@
   "https://spreadprivacy.com/privacy-companies-call-for-vote",
   "https://battlepenguin.com/tech/the-solution-to-big-tech-isnt-legislation-its-technology",
   "http://mortdeus.blogspot.com/2015/01/the-reality-of-tech-legislation.html"
+>>>>>>> Stashed changes
+=======
+  "http://blog.agilebits.com/2013/05/13/1password-4-2-for-ios-gets-huge-update-to-browser-sharing-features",
+  "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
+  "https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale",
+  "https://www.theverge.com/news/919517/logitech-g512x-gaming-keyboard-hall-effect-tmr-mechanical-swap",
+  "https://www.engadget.com/ai/ios-27-will-reportedly-come-with-new-ai-powered-photo-editing-tools-194119562.html?src=rss",
+  "https://www.engadget.com/computing/laptops/nvidia-starts-offering-a-12gb-version-of-the-5070-for-laptops-180057515.html?src=rss",
+  "https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/",
+  "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
+  "https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants",
+  "https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update",
+  "https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c",
+  "https://status.claude.com/incidents/9l93x2ht4s5w",
+  "https://www.lumara-space.app/",
+  "https://9to5toys.com/2026/04/28/todays-android-game-app-deals-dreadrock-frogboy/",
+  "https://9to5mac.com/2026/04/28/daily-april-28-2026/",
+  "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+  "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+  "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+  "https://www.tomshardware.com/tech-industry/microsoft-and-openai-end-exclusivity-agreement-opening-up-potential-partnerships-with-amazon-and-google-microsoft-will-continue-to-receive-revenue-share-through-2030",
+  "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+  "https://apnews.com/article/musk-altman-artificial-intelligence-trial-openai-eb854fa682675f70267abd8a7b9a6a43",
+  "https://finance.yahoo.com/sectors/technology/article/elon-musks-years-long-legal-battle-with-openai-and-sam-altman-will-finally-head-to-trial-on-monday-130000137.html",
+  "https://mitchellh.com/writing/ghostty-leaving-github",
+  "http://jrmeyer.github.io/misc/2026/02/21/ghostty-watercolors.html",
+  "https://github.com/qaml-ai/pi-worker/tree/main/examples/terminal-agent",
+  "https://vouchbook.dev",
+  "https://hmx.dev",
+  "https://github.com/daxliar/tmux-bar",
+  "https://ghosttythemes.com",
+  "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+  "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+  "https://github.com/vim/vim/security/advisories/GHSA-2gmj-rpqf-pxvh",
+  "https://github.com/luka-kusulja/MyFirstAlmostCVE",
+  "https://github.com/JSONPath-Plus/JSONPath/issues/226",
+  "https://github.com/NCSC-NL/OpenSSL-2022",
+  "https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html",
+  "https://www.engadget.com/social-media/the-ftc-says-americans-lost-at-least-21-billion-to-social-media-scams-in-2025-152846798.html?src=rss",
+  "https://www.thestar.com.my/tech/tech-news/2026/02/04/exclusive-us-senators-unveil-bill-to-prevent-scam-ads-on-social-media-platforms",
+  "https://www.rstreet.org/commentary/reform-the-cfpb-by-making-it-americas-scam-response-hub",
+  "https://ktvz.com/fraud-prevention-tips",
+  "https://9to5mac.com/2026/04/28/ios-27-could-make-your-airpods-a-lot-more-powerful-heres-why/",
+  "https://9to5mac.com/2026/04/28/ios-27-will-add-three-new-features-to-apples-photos-app-per-report/",
+  "https://9to5mac.com/2026/04/28/airpods-ultra-launching-later-this-year-sounds-more-likely-than-ever/"
 >>>>>>> Stashed changes
 ]

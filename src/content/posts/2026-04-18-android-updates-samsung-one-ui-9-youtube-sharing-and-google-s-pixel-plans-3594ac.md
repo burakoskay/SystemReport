@@ -1,14 +1,13 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-modified_date: 2026-04-28T19:34:10.527Z
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
-sources_count: 10
+sources_count: 9
 author: "ryan-tanaka"
 ---
 

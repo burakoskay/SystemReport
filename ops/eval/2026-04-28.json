@@ -1,15 +1,20 @@
 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "generated_at": "2026-04-28T18:07:40.574Z",
+=======
+  "generated_at": "2026-04-28T20:35:14.453Z",
+>>>>>>> Stashed changes
   "window_days": 7,
-  "total_records": 3193,
+  "total_records": 3235,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1026,
-      "success": 886,
-      "success_rate": 0.8635477582846004,
-      "latency_p50": 2466,
+      "calls": 1038,
+      "success": 895,
+      "success_rate": 0.8622350674373795,
+      "latency_p50": 2468,
       "latency_p95": 9762,
+<<<<<<< Updated upstream
       "response_chars_mean": 3412,
 =======
   "generated_at": "2026-04-28T20:00:50.587Z",
@@ -24,13 +29,17 @@
       "latency_p95": 9762,
       "response_chars_mean": 3425,
 >>>>>>> Stashed changes
+=======
+      "response_chars_mean": 3421,
+>>>>>>> Stashed changes
       "error_classes": {
-        "rate_limit": 110,
+        "rate_limit": 113,
         "unknown": 29,
         "permission": 1
       }
     },
     "revise:v2-800w": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "calls": 349,
       "success": 302,
@@ -46,21 +55,36 @@
       "latency_p95": 3017,
       "response_chars_mean": 1850,
 >>>>>>> Stashed changes
+=======
+      "calls": 353,
+      "success": 304,
+      "success_rate": 0.8611898016997167,
+      "latency_p50": 1249,
+      "latency_p95": 2782,
+      "response_chars_mean": 1855,
+>>>>>>> Stashed changes
       "error_classes": {
-        "rate_limit": 45,
+        "rate_limit": 47,
         "unknown": 1,
         "timeout": 1
       }
     },
     "lengthen:v1": {
+<<<<<<< Updated upstream
       "calls": 350,
 <<<<<<< Updated upstream
       "success": 295,
       "success_rate": 0.8428571428571429,
+=======
+      "calls": 357,
+      "success": 298,
+      "success_rate": 0.834733893557423,
+>>>>>>> Stashed changes
       "latency_p50": 2684,
       "latency_p95": 10040,
-      "response_chars_mean": 4951,
+      "response_chars_mean": 4949,
       "error_classes": {
+<<<<<<< Updated upstream
         "rate_limit": 54,
 =======
       "success": 294,
@@ -70,6 +94,9 @@
       "response_chars_mean": 4926,
       "error_classes": {
         "rate_limit": 55,
+>>>>>>> Stashed changes
+=======
+        "rate_limit": 58,
 >>>>>>> Stashed changes
         "unknown": 1
       }

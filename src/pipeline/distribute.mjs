@@ -26,15 +26,19 @@ async function loadSeenUrls(destination) {
   const seen = new Set();
   try {
     const files = await fs.readdir(LOG_DIR);
-    for (const f of files.filter(x => x.endsWith('.jsonl'))) {
-      const raw = await fs.readFile(path.join(LOG_DIR, f), 'utf-8');
-      for (const line of raw.split('\n').filter(Boolean)) {
+    await Promise.all(
+      files.filter(x => x.endsWith('.jsonl')).map(async (f) => {
         try {
-          const j = JSON.parse(line);
-          if (j.destination === destination && j.ok) seen.add(j.url);
+          const raw = await fs.readFile(path.join(LOG_DIR, f), 'utf-8');
+          for (const line of raw.split('\n').filter(Boolean)) {
+            try {
+              const j = JSON.parse(line);
+              if (j.destination === destination && j.ok) seen.add(j.url);
+            } catch {}
+          }
         } catch {}
-      }
-    }
+      })
+    );
   } catch {}
   return seen;
 }

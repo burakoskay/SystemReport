@@ -935,7 +935,7 @@ audio_mime: "${audioMime}"` : ''}
 
       // Translation fan-out — best-effort, never blocks publishing the English original.
       if (TRANSLATE_ENABLED) {
-        for (const locale of Object.keys(LOCALES)) {
+        await Promise.all(Object.keys(LOCALES).map(async (locale) => {
           try {
             const t = await translateArticle({
               title: synthesis.title,
@@ -969,7 +969,7 @@ audio_mime: "${audioMime}"` : ''}
           } catch (e) {
             console.log(`  ⚠ ${locale} translation skipped: ${e.message.slice(0, 120)}`);
           }
-        }
+        }));
       }
     } catch (err) {
       consecutiveFailures++;

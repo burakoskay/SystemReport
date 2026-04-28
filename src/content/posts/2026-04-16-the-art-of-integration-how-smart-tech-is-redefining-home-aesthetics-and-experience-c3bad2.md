@@ -1,7 +1,7 @@
 ---
 title: "The Art of Integration: How Smart Tech is Redefining Home"
 date: 2026-04-16T05:30:31.924Z
-modified_date: 2026-04-28T19:34:07.687Z
+modified_date: 2026-04-28T20:11:25.445Z
 tags: ["smart home","home decor","ai","consumer tech","ambient computing"]
 hero_image: "/hero/2026-04-16-the-art-of-integration-how-smart-tech-is-redefining-home-aesthetics-and-experience-c3bad2.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"

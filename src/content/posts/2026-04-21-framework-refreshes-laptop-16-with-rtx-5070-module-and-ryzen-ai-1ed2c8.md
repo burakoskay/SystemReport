@@ -1,7 +1,7 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-04-28T19:34:05.964Z
+modified_date: 2026-04-28T20:11:24.186Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
