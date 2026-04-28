@@ -1,0 +1,969 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {
+  HREFLANG,
+  LOCALE_LIST,
+  RTL_LOCALES,
+  localeToSlug,
+  type Locale,
+} from '../../i18n/tool-strings';
+import { VRAM_STRINGS } from '../../i18n/vram-strings';
+
+interface Props {
+  locale: Locale;
+}
+
+const { locale } = Astro.props;
+const s = VRAM_STRINGS[locale] || VRAM_STRINGS.en;
+const isRtl = RTL_LOCALES.has(locale);
+
+const pathFor = (l: Locale) =>
+  l === 'en' ? '/tools/vram-calculator/' : `/${localeToSlug(l)}/tools/vram-calculator/`;
+const canonical = `https://www.systemreport.net${pathFor(locale)}`;
+
+const hreflangAlternates = LOCALE_LIST.map((l) => ({
+  hreflang: HREFLANG[l],
+  href: `https://www.systemreport.net${pathFor(l)}`,
+}));
+
+const schema = JSON.stringify([
+  {
+    '@context': 'https://schema.org',
+    '@type': 'SoftwareApplication',
+    name: s.metaTitle,
+    applicationCategory: 'UtilitiesApplication',
+    operatingSystem: 'Any (runs in web browser)',
+    inLanguage: HREFLANG[locale],
+    url: canonical,
+    description: s.metaDescription,
+    offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    inLanguage: HREFLANG[locale],
+    mainEntity: s.faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: s.h1,
+    description: s.metaDescription,
+    inLanguage: HREFLANG[locale],
+    step: [
+      { '@type': 'HowToStep', position: 1, name: s.hardwareSettingsLabel, text: s.macFamilyLabel },
+      { '@type': 'HowToStep', position: 2, name: s.modelSettingsLabel, text: s.modelSearchLabel },
+      { '@type': 'HowToStep', position: 3, name: s.resultsTitle, text: s.totalMemory },
+    ],
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: s.breadcrumbHome, item: locale === 'en' ? 'https://www.systemreport.net/' : `https://www.systemreport.net/${localeToSlug(locale)}/` },
+      { '@type': 'ListItem', position: 2, name: s.breadcrumbTools, item: locale === 'en' ? 'https://www.systemreport.net/tools/' : `https://www.systemreport.net/${localeToSlug(locale)}/tools/` },
+      { '@type': 'ListItem', position: 3, name: s.breadcrumbTool, item: canonical },
+    ],
+  },
+]);
+
+const strongRe = /\{strong\}(.*?)\{\/strong\}/;
+const m = s.subtitle.match(strongRe);
+const subtitleBefore = m ? s.subtitle.slice(0, m.index) : s.subtitle;
+const subtitleStrong = m ? m[1] : '';
+const subtitleAfter = m ? s.subtitle.slice((m.index ?? 0) + m[0].length) : '';
+
+const toolsHref = locale === 'en' ? '/tools/' : `/${localeToSlug(locale)}/tools/`;
+const homeHref = locale === 'en' ? '/' : `/${localeToSlug(locale)}/`;
+
+const jsStrings = JSON.stringify({
+  ratingGodTier: s.ratingGodTier,
+  ratingGood: s.ratingGood,
+  ratingBad: s.ratingBad,
+  ratingCannotRun: s.ratingCannotRun,
+  recommendedBadge: s.recommendedBadge,
+  specsBandwidth: s.specsBandwidth,
+  specsNeuralEngine: s.specsNeuralEngine,
+  hfResultsLabel: s.hfResultsLabel,
+  hfSearchingLabel: s.hfSearchingLabel,
+  hfNoResults: s.hfNoResults,
+  hfApiLabel: s.hfApiLabel,
+  hfLoadingModel: s.hfLoadingModel,
+  hfFetchError: s.hfFetchError,
+  deployCopied: s.deployCopied,
+  deployInstallHint: s.deployInstallHint,
+  deployInstallHintOllama: s.deployInstallHintOllama,
+  deployInstallHintVllm: s.deployInstallHintVllm,
+  deployInstallHintSglang: s.deployInstallHintSglang,
+  deployInstallHintMlx: s.deployInstallHintMlx,
+  usedLabel: s.usedLabel,
+  availableLabel: s.availableLabel,
+});
+---
+
+<Layout
+  title={s.metaTitle}
+  description={s.metaDescription}
+  schema={schema}
+  url={canonical}
+  lang={HREFLANG[locale]}
+  hreflangAlternates={hreflangAlternates}
+>
+  <div class="max-w-6xl mx-auto" dir={isRtl ? 'rtl' : 'ltr'}>
+    <nav class="mb-6 text-sm text-gray-500 dark:text-gray-400" aria-label="Breadcrumb">
+      <a href={homeHref} class="hover:text-gray-900 dark:hover:text-gray-100">{s.breadcrumbHome}</a>
+      <span class="mx-2">/</span>
+      <a href={toolsHref} class="hover:text-gray-900 dark:hover:text-gray-100">{s.breadcrumbTools}</a>
+      <span class="mx-2">/</span>
+      <span class="text-gray-900 dark:text-gray-100">{s.breadcrumbTool}</span>
+    </nav>
+
+    <header class="mb-8">
+      <p class="text-xs font-semibold tracking-[0.2em] uppercase text-gray-500 dark:text-gray-400 mb-3">
+        {s.eyebrow}
+      </p>
+      <h1 class="font-serif text-4xl sm:text-5xl font-bold text-gray-900 dark:text-gray-100 mb-4 tracking-tight">
+        {s.h1}
+      </h1>
+      <p class="text-lg text-gray-500 dark:text-gray-400 leading-relaxed max-w-3xl">
+        {subtitleBefore}<strong class="text-gray-900 dark:text-gray-100 font-semibold">{subtitleStrong}</strong>{subtitleAfter}
+      </p>
+    </header>
+
+    <section id="tool" class="mb-12 grid grid-cols-1 lg:grid-cols-12 gap-6 lg:gap-8 items-start">
+      <!-- Calculator Form -->
+      <div class="lg:col-span-7 space-y-6">
+
+        <!-- Hardware Settings Panel -->
+        <div class="bg-white dark:bg-gray-950 p-6 sm:p-8 rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm">
+          <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-5">{s.hardwareSettingsLabel}</h2>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-5">
+            <div>
+              <label for="mac-select" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.macFamilyLabel}</label>
+              <select id="mac-select" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100 focus:border-transparent transition-colors">
+                <!-- Injected via JS -->
+              </select>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mt-1" id="mac-specs-text"></p>
+            </div>
+
+            <div>
+              <label for="ram-select" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.macRamLabel}</label>
+              <select id="ram-select" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100 focus:border-transparent transition-colors">
+                <option value="8">8 GB</option>
+                <option value="16" selected>16 GB</option>
+                <option value="24">24 GB</option>
+                <option value="32">32 GB</option>
+                <option value="36">36 GB</option>
+                <option value="48">48 GB</option>
+                <option value="64">64 GB</option>
+                <option value="96">96 GB</option>
+                <option value="128">128 GB</option>
+                <option value="192">192 GB</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="os-select" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.macOsLabel}</label>
+              <select id="os-select" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100 focus:border-transparent transition-colors">
+                <option value="16">macOS 16 Tahoe</option>
+                <option value="15">macOS 15 Sequoia</option>
+                <option value="14" selected>macOS 14 Sonoma</option>
+                <option value="13">macOS 13 Ventura</option>
+              </select>
+            </div>
+
+            <div>
+              <label for="framework-select" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.frameworkLabel}</label>
+              <select id="framework-select" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100 focus:border-transparent transition-colors">
+                <option value="mlx" selected>MLX (Apple Native)</option>
+                <option value="ollama">Ollama (llama.cpp)</option>
+                <option value="vllm">vLLM (Pre-alloc KV)</option>
+                <option value="sglang">SGLang (High Throughput)</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <!-- Model Configuration Panel -->
+        <div class="bg-white dark:bg-gray-950 p-6 sm:p-8 rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm relative z-10">
+          <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-5">{s.modelSettingsLabel}</h2>
+
+          <div class="mb-6 relative">
+            <label for="model-search" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.modelSearchLabel}</label>
+            <div class="relative">
+              <input type="text" id="model-search" placeholder={s.modelSearchPlaceholder} class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg pl-10 pr-4 py-3 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100 focus:border-transparent transition-colors" autocomplete="off" />
+              <svg class="w-5 h-5 absolute left-3 top-3.5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            </div>
+
+            <!-- Custom Autocomplete Dropdown -->
+            <div id="autocomplete-list" class="absolute w-full mt-1 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-lg shadow-xl overflow-hidden hidden max-h-80 overflow-y-auto z-50">
+              <div id="autocomplete-results"></div>
+              <div id="autocomplete-loading" class="hidden px-4 py-3 text-sm text-gray-500 dark:text-gray-400 flex items-center justify-center">
+                <svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-gray-500 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
+                {s.modelSearchLivePlaceholder}
+              </div>
+            </div>
+          </div>
+
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+            <!-- Parameters -->
+            <div>
+              <label for="params-input" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.paramsLabel}</label>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">{s.paramsDesc}</p>
+              <input type="number" id="params-input" value="8" min="0.1" step="any" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100"/>
+            </div>
+
+            <!-- Precision -->
+            <div>
+              <label for="precision-select" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.precisionLabel}</label>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">{s.precisionDesc}</p>
+              <select id="precision-select" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100">
+                <option value="4">FP32 (4 bytes)</option>
+                <option value="2">FP16 / BF16 (2 bytes)</option>
+                <option value="1">INT8 / Q8 (1 byte)</option>
+                <option value="0.5" selected>INT4 / Q4 (0.5 bytes)</option>
+                <option value="0.375">3-bit (0.375 bytes)</option>
+                <option value="0.25">2-bit (0.25 bytes)</option>
+              </select>
+            </div>
+
+            <!-- Context Window -->
+            <div>
+              <label for="context-input" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.contextLabel}</label>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">{s.contextDesc}</p>
+              <input type="number" id="context-input" value="8192" min="1" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100"/>
+            </div>
+
+            <!-- Batch Size -->
+            <div>
+              <label for="batch-input" class="block text-sm font-medium text-gray-900 dark:text-gray-100 mb-1">{s.batchLabel}</label>
+              <p class="text-xs text-gray-500 dark:text-gray-400 mb-2">{s.batchDesc}</p>
+              <input type="number" id="batch-input" value="1" min="1" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-4 py-2 text-gray-900 dark:text-gray-100 focus:ring-2 focus:ring-gray-900 dark:focus:ring-gray-100"/>
+            </div>
+          </div>
+
+          <details class="group mt-6 border-t border-gray-200 dark:border-gray-800 pt-5">
+            <summary class="font-medium text-sm text-gray-700 dark:text-gray-300 cursor-pointer list-none flex items-center justify-between">
+              <span>{s.advancedSettingsLabel}</span>
+              <svg class="w-4 h-4 text-gray-400 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/></svg>
+            </summary>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4 text-sm">
+              <div>
+                <label for="layers-input" class="block font-medium text-gray-900 dark:text-gray-100 mb-1">{s.layersLabel}</label>
+                <input type="number" id="layers-input" value="32" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-3 py-1.5 text-gray-900 dark:text-gray-100"/>
+              </div>
+              <div>
+                <label for="hidden-size-input" class="block font-medium text-gray-900 dark:text-gray-100 mb-1">{s.hiddenSizeLabel}</label>
+                <input type="number" id="hidden-size-input" value="4096" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-3 py-1.5 text-gray-900 dark:text-gray-100"/>
+              </div>
+              <div>
+                <label for="attention-heads-input" class="block font-medium text-gray-900 dark:text-gray-100 mb-1">{s.attentionHeadsLabel}</label>
+                <input type="number" id="attention-heads-input" value="32" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-3 py-1.5 text-gray-900 dark:text-gray-100"/>
+              </div>
+              <div>
+                <label for="kv-heads-input" class="block font-medium text-gray-900 dark:text-gray-100 mb-1">{s.kvHeadsLabel}</label>
+                <input type="number" id="kv-heads-input" value="8" class="w-full bg-gray-50 dark:bg-gray-900 border border-gray-300 dark:border-gray-700 rounded-lg px-3 py-1.5 text-gray-900 dark:text-gray-100"/>
+              </div>
+            </div>
+          </details>
+        </div>
+
+        <!-- Recommended Models Card -->
+        <div class="bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800 p-6 sm:p-8 rounded-2xl shadow-sm mt-6">
+          <h2 class="text-xl font-bold text-gray-900 dark:text-gray-100 mb-5">{s.recommendedTitle}</h2>
+          <div id="recommended-empty" class="text-sm text-gray-500 dark:text-gray-400 hidden">
+            {s.recommendedEmpty}
+          </div>
+          <div id="recommended-list" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <!-- Injected via JS -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Results Panel -->
+      <div class="lg:col-span-5 space-y-6 z-0">
+
+        <!-- Breakdown Card -->
+        <div class="bg-gray-900 dark:bg-white text-white dark:text-gray-900 p-6 sm:p-8 rounded-2xl shadow-xl relative overflow-hidden border border-gray-800 dark:border-gray-200">
+
+          <div class="relative z-10">
+            <h2 class="font-serif text-xl font-bold mb-6 flex items-center justify-between">
+              {s.resultsTitle}
+              <svg class="w-5 h-5 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+            </h2>
+
+            <div class="mb-8">
+              <p class="text-sm text-gray-400 dark:text-gray-500 mb-1 font-medium">{s.totalMemory}</p>
+              <p class="text-5xl font-extrabold tracking-tight drop-shadow-sm text-orange-500"><span id="total-memory-output">0.0</span> <span class="text-2xl font-bold text-gray-500 dark:text-gray-400">GB</span></p>
+
+              <!-- Compatibility Progress Bar -->
+              <div class="mt-4 bg-gray-800 dark:bg-gray-200 rounded-full h-1.5 overflow-hidden flex">
+                <div id="progress-weights" class="bg-blue-400 h-full transition-all duration-500 ease-out" style="width: 0%"></div>
+                <div id="progress-kv" class="bg-purple-400 h-full transition-all duration-500 ease-out" style="width: 0%"></div>
+                <div id="progress-act" class="bg-pink-400 h-full transition-all duration-500 ease-out" style="width: 0%"></div>
+                <div id="progress-os" class="bg-gray-500 dark:bg-gray-400 h-full transition-all duration-500 ease-out" style="width: 0%"></div>
+                <div id="progress-danger" class="bg-red-500 h-full transition-all duration-500 ease-out" style="width: 0%"></div>
+              </div>
+              <div class="flex justify-between mt-2 text-xs font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">
+                <span id="used-label"></span>
+                <span><span id="available-label"></span>: <span id="avail-ram-output">16</span> GB</span>
+              </div>
+            </div>
+
+            <div class="space-y-3 text-sm font-medium">
+              <div class="flex justify-between items-center pb-3 border-b border-gray-800 dark:border-gray-200">
+                <span class="text-gray-300 dark:text-gray-700 flex items-center gap-2"><span class="w-2.5 h-2.5 rounded-full bg-blue-400"></span>{s.modelWeights}</span>
+                <span><span id="weights-output">0.0</span> GB</span>
+              </div>
+              <div class="flex justify-between items-center pb-3 border-b border-gray-800 dark:border-gray-200">
+                <span class="text-gray-300 dark:text-gray-700 flex items-center gap-2"><span class="w-2.5 h-2.5 rounded-full bg-purple-400"></span>{s.kvCache}</span>
+                <span><span id="kv-output">0.0</span> GB</span>
+              </div>
+              <div class="flex justify-between items-center pb-3 border-b border-gray-800 dark:border-gray-200">
+                <span class="text-gray-300 dark:text-gray-700 flex items-center gap-2"><span class="w-2.5 h-2.5 rounded-full bg-pink-400"></span>{s.frameworkOverhead} &amp; Acts.</span>
+                <span><span id="activation-output">1.0</span> GB</span>
+              </div>
+              <div class="flex justify-between items-center">
+                <span class="text-gray-300 dark:text-gray-700 flex items-center gap-2"><span class="w-2.5 h-2.5 rounded-full bg-gray-500 dark:bg-gray-400"></span>{s.macOsOverhead}</span>
+                <span><span id="os-overhead-output">2.0</span> GB</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Performance Estimates Card -->
+        <div class="bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800 p-6 rounded-2xl">
+          <div id="verdict-banner" class="mb-5 p-3 rounded-lg bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 border border-green-200 dark:border-green-800/50 text-sm font-medium">
+            {s.ratingGodTier}
+          </div>
+
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-4">
+            <div>
+              <p class="text-xs text-gray-500 dark:text-gray-400 font-medium uppercase tracking-wider mb-1">{s.throughputLabel}</p>
+              <p class="text-xl font-bold text-gray-900 dark:text-gray-100">~<span id="throughput-output">0</span> <span class="text-sm font-normal text-gray-500">t/s</span></p>
+            </div>
+            <div>
+              <p class="text-xs text-gray-500 dark:text-gray-400 font-medium uppercase tracking-wider mb-1">{s.ttftLabel}</p>
+              <p class="text-xl font-bold text-gray-900 dark:text-gray-100">&lt;<span id="ttft-output">0.5</span> <span class="text-sm font-normal text-gray-500">s</span></p>
+            </div>
+            <div>
+              <p class="text-xs text-gray-500 dark:text-gray-400 font-medium uppercase tracking-wider mb-1">{s.powerDrawLabel}</p>
+              <p class="text-xl font-bold text-gray-900 dark:text-gray-100"><span id="power-output">0</span> <span class="text-sm font-normal text-gray-500">W</span></p>
+            </div>
+          </div>
+
+          <div class="pt-4 border-t border-gray-200 dark:border-gray-800 grid grid-cols-2 gap-4">
+            <div>
+              <p class="text-xs text-gray-500 dark:text-gray-400 font-medium uppercase tracking-wider mb-1">{s.costPerHrLabel}</p>
+              <p class="text-sm font-bold text-gray-900 dark:text-gray-100">$<span id="cost-output">0.00</span></p>
+            </div>
+            <div>
+              <p class="text-xs text-gray-500 dark:text-gray-400 font-medium uppercase tracking-wider mb-1">{s.emissionsPerHrLabel}</p>
+              <p class="text-sm font-bold text-gray-900 dark:text-gray-100"><span id="emissions-output">0</span> <span class="text-xs font-normal text-gray-500">gCO₂e</span></p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Start Card -->
+        <div class="bg-gray-50 dark:bg-gray-900 border border-gray-200 dark:border-gray-800 p-6 rounded-2xl shadow-sm">
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="text-sm font-bold text-gray-900 dark:text-gray-100 uppercase tracking-wide">{s.deployTitle}</h3>
+          </div>
+          <p class="text-xs text-gray-500 dark:text-gray-400 mb-3">{s.deployDesc}</p>
+
+          <!-- Main command with copy button -->
+          <div class="relative group">
+            <div class="bg-gray-900 dark:bg-black rounded-lg p-4 pr-12 font-mono text-sm text-green-400 overflow-x-auto border border-gray-800">
+              <span class="text-gray-500 select-none">$ </span><span id="deploy-command-output" class="whitespace-nowrap select-all">mlx_lm.generate --model meta-llama/Meta-Llama-3-8B</span>
+            </div>
+            <button
+              id="copy-command-btn"
+              type="button"
+              class="absolute top-2.5 right-2.5 p-1.5 rounded-md bg-gray-800 hover:bg-gray-700 dark:bg-gray-900 dark:hover:bg-gray-800 text-gray-400 hover:text-white transition-colors opacity-0 group-hover:opacity-100 focus:opacity-100"
+              aria-label="Copy command"
+            >
+              <svg id="copy-icon" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9.75a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184" /></svg>
+              <svg id="check-icon" class="w-4 h-4 hidden text-green-400" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" /></svg>
+            </button>
+          </div>
+
+          <!-- Install hint -->
+          <div id="install-hint" class="mt-3 text-xs text-gray-500 dark:text-gray-400 bg-gray-100 dark:bg-gray-800 rounded-lg p-3 border border-gray-200 dark:border-gray-700">
+            <p class="font-medium mb-1" id="install-hint-label"></p>
+            <code id="install-hint-cmd" class="text-orange-600 dark:text-orange-400 font-mono"></code>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="mb-12 border-t border-gray-200 dark:border-gray-800 pt-12">
+      <h2 class="font-serif text-2xl sm:text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6">{s.faqTitle}</h2>
+      <div class="space-y-4">
+        {s.faq.map((f) => (
+          <details class="group rounded-xl border border-gray-200 dark:border-gray-800 bg-white dark:bg-gray-950 p-5 transition-colors hover:border-gray-300 dark:hover:border-gray-700">
+            <summary class="font-semibold text-gray-900 dark:text-gray-100 cursor-pointer list-none flex items-center justify-between gap-4">
+              <span>{f.q}</span>
+              <svg class="w-5 h-5 text-gray-400 transition-transform group-open:rotate-180 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5"/></svg>
+            </summary>
+            <p class="mt-3 text-gray-600 dark:text-gray-300 leading-relaxed text-sm">{f.a}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<script define:vars={{ jsStrings }}>
+window.__VRAM_STRINGS__ = JSON.parse(jsStrings);
+</script>
+
+<script>
+const STR: Record<string, string> = (window as any).__VRAM_STRINGS__;
+
+const MACS = [
+  { id: 'm1', name: 'M1 (8 CPU, 8 GPU)', bw: 68, ne: 16, tdp: 15, ram: [8, 16] },
+  { id: 'm1-pro', name: 'M1 Pro (10 CPU, 16 GPU)', bw: 200, ne: 16, tdp: 30, ram: [16, 32] },
+  { id: 'm1-max', name: 'M1 Max (10 CPU, 32 GPU)', bw: 400, ne: 16, tdp: 60, ram: [32, 64] },
+  { id: 'm1-ultra', name: 'M1 Ultra (20 CPU, 64 GPU)', bw: 800, ne: 32, tdp: 120, ram: [64, 128, 256] },
+  { id: 'm2', name: 'M2 (8 CPU, 10 GPU)', bw: 100, ne: 16, tdp: 20, ram: [8, 16, 24] },
+  { id: 'm2-pro', name: 'M2 Pro (12 CPU, 19 GPU)', bw: 200, ne: 16, tdp: 35, ram: [16, 32] },
+  { id: 'm2-max', name: 'M2 Max (12 CPU, 38 GPU)', bw: 400, ne: 16, tdp: 65, ram: [32, 64, 96] },
+  { id: 'm2-ultra', name: 'M2 Ultra (24 CPU, 76 GPU)', bw: 800, ne: 32, tdp: 130, ram: [64, 128, 192, 256, 512] },
+  { id: 'm3', name: 'M3 (8 CPU, 10 GPU)', bw: 100, ne: 16, tdp: 20, ram: [8, 16, 24] },
+  { id: 'm3-pro', name: 'M3 Pro (12 CPU, 18 GPU)', bw: 150, ne: 16, tdp: 35, ram: [18, 36] },
+  { id: 'm3-max', name: 'M3 Max (16 CPU, 40 GPU)', bw: 400, ne: 16, tdp: 65, ram: [36, 48, 64, 96, 128] },
+  { id: 'm4', name: 'M4 (10 CPU, 10 GPU)', bw: 120, ne: 16, tdp: 20, ram: [16, 24, 32] },
+  { id: 'm4-pro', name: 'M4 Pro (14 CPU, 20 GPU)', bw: 273, ne: 16, tdp: 40, ram: [24, 48, 64] },
+  { id: 'm4-max', name: 'M4 Max (16 CPU, 40 GPU)', bw: 546, ne: 16, tdp: 70, ram: [36, 48, 64, 128] },
+  { id: 'm5', name: 'M5 (10 CPU, 10 GPU)', bw: 153.6, ne: 16, tdp: 20, ram: [16, 24, 32] },
+  { id: 'm5-pro', name: 'M5 Pro (18 CPU, 20 GPU)', bw: 307, ne: 16, tdp: 40, ram: [24, 48, 64] },
+  { id: 'm5-max', name: 'M5 Max (18 CPU, 40 GPU)', bw: 614, ne: 16, tdp: 70, ram: [36, 48, 64, 128] },
+];
+
+const CURATED_MODELS = [
+  { id: 'moonshotai/Kimi-K2.6', name: 'Kimi K2.6 (671B)', params: 671.0, layers: 61, hidden: 7168, att: 64, kv: 64, role: 'Advanced MoE' },
+  { id: 'moonshotai/Kimi-K2.5', name: 'Kimi K2.5 (671B)', params: 671.0, layers: 61, hidden: 7168, att: 64, kv: 64, role: 'Advanced MoE' },
+  { id: 'moonshotai/Kimi-Dev-72B', name: 'Kimi Dev (72B)', params: 72.0, layers: 80, hidden: 8192, att: 64, kv: 8, role: 'Dev Dense Model' },
+  { id: 'moonshotai/Kimi-Linear-48B-A3B-Instruct', name: 'Kimi Linear A3B (48B)', params: 48.0, layers: 64, hidden: 4096, att: 32, kv: 8, role: 'Linear Architect' },
+  { id: 'moonshotai/Kimi-K2-Thinking', name: 'Kimi K2 Thinking', params: 72.0, layers: 80, hidden: 8192, att: 64, kv: 8, role: 'CoT Reasoning' },
+  { id: 'llama-3.1-405b', name: 'Meta Llama 3.1 (405B)', params: 405.0, layers: 126, hidden: 16384, att: 128, kv: 8, role: 'Ultimate Reasoning' },
+  { id: 'nemotron-4-340b', name: 'Nemotron 4 (340B)', params: 340.0, layers: 96, hidden: 18432, att: 96, kv: 8, role: 'Synth Data & Instruct' },
+  { id: 'deepseek-v2', name: 'DeepSeek V2 (236B)', params: 236.0, layers: 60, hidden: 5120, att: 128, kv: 128, role: 'Math & Code MoE' },
+  { id: 'mixtral-8x22b', name: 'Mixtral 8x22B', params: 141.0, layers: 56, hidden: 6144, att: 48, kv: 8, role: 'High Speed MoE' },
+  { id: 'command-r-plus', name: 'Command R+ (104B)', params: 104.0, layers: 64, hidden: 12288, att: 96, kv: 8, role: 'Best for Enterprise' },
+  { id: 'llama-3.1-70b', name: 'Meta Llama 3.1 (70B)', params: 70.6, layers: 80, hidden: 8192, att: 64, kv: 8, role: 'Best General Chat' },
+  { id: 'qwen-2.5-72b', name: 'Qwen 2.5 (72B)', params: 72.7, layers: 80, hidden: 8192, att: 64, kv: 8, role: 'Best for Coding' },
+  { id: 'mixtral-8x7b', name: 'Mixtral 8x7B', params: 46.7, layers: 32, hidden: 4096, att: 32, kv: 8, role: 'Fast General Use' },
+  { id: 'qwen-2.5-32b', name: 'Qwen 2.5 (32B)', params: 32.5, layers: 64, hidden: 5120, att: 40, kv: 8, role: 'Balanced Performance' },
+  { id: 'gemma-2-27b', name: 'Gemma 2 (27B)', params: 27.2, layers: 46, hidden: 4608, att: 32, kv: 16, role: 'Google Distillation' },
+  { id: 'deepseek-coder-v2-lite', name: 'DeepSeek Coder V2 Lite (16B)', params: 15.7, layers: 27, hidden: 2048, att: 16, kv: 16, role: 'Lightweight Code' },
+  { id: 'qwen-2.5-14b', name: 'Qwen 2.5 (14B)', params: 14.2, layers: 40, hidden: 5120, att: 40, kv: 40, role: 'Mid-Tier Balanced' },
+  { id: 'mistral-nemo-12b', name: 'Mistral Nemo (12B)', params: 12.2, layers: 40, hidden: 5120, att: 32, kv: 8, role: 'Long Context (128k)' },
+  { id: 'gemma-2-9b', name: 'Gemma 2 (9B)', params: 9.24, layers: 42, hidden: 3584, att: 16, kv: 8, role: 'Small but Capable' },
+  { id: 'llama-3.1-8b', name: 'Meta Llama 3.1 (8B)', params: 8.03, layers: 32, hidden: 4096, att: 32, kv: 8, role: 'Fastest Chat' },
+  { id: 'qwen-2.5-7b', name: 'Qwen 2.5 (7B)', params: 7.62, layers: 28, hidden: 3584, att: 28, kv: 4, role: 'Fastest Code' },
+  { id: 'phi-3-mini', name: 'Phi-3 Mini (3.8B)', params: 3.82, layers: 32, hidden: 3072, att: 32, kv: 32, role: 'Mobile/Edge Devices' },
+  { id: 'qwen-2.5-1.5b', name: 'Qwen 2.5 (1.5B)', params: 1.54, layers: 28, hidden: 1536, att: 12, kv: 2, role: 'Ultra Lightweight' }
+];
+
+const INSTALL_HINTS: Record<string, string> = {
+  mlx: STR.deployInstallHintMlx,
+  ollama: STR.deployInstallHintOllama,
+  vllm: STR.deployInstallHintVllm,
+  sglang: STR.deployInstallHintSglang,
+};
+
+// UI Elements
+const els = {
+  macSelect: document.getElementById('mac-select') as HTMLSelectElement,
+  macSpecs: document.getElementById('mac-specs-text') as HTMLElement,
+  ramSelect: document.getElementById('ram-select') as HTMLSelectElement,
+  osSelect: document.getElementById('os-select') as HTMLSelectElement,
+  fwSelect: document.getElementById('framework-select') as HTMLSelectElement,
+
+  searchInput: document.getElementById('model-search') as HTMLInputElement,
+  autoList: document.getElementById('autocomplete-list') as HTMLElement,
+  autoResults: document.getElementById('autocomplete-results') as HTMLElement,
+  autoLoading: document.getElementById('autocomplete-loading') as HTMLElement,
+
+  params: document.getElementById('params-input') as HTMLInputElement,
+  precision: document.getElementById('precision-select') as HTMLSelectElement,
+  context: document.getElementById('context-input') as HTMLInputElement,
+  batch: document.getElementById('batch-input') as HTMLInputElement,
+  layers: document.getElementById('layers-input') as HTMLInputElement,
+  hiddenSize: document.getElementById('hidden-size-input') as HTMLInputElement,
+  attHeads: document.getElementById('attention-heads-input') as HTMLInputElement,
+  kvHeads: document.getElementById('kv-heads-input') as HTMLInputElement,
+
+  weightsOut: document.getElementById('weights-output') as HTMLElement,
+  kvOut: document.getElementById('kv-output') as HTMLElement,
+  actOut: document.getElementById('activation-output') as HTMLElement,
+  osOverheadOut: document.getElementById('os-overhead-output') as HTMLElement,
+  totalOut: document.getElementById('total-memory-output') as HTMLElement,
+  availRamOut: document.getElementById('avail-ram-output') as HTMLElement,
+  usedLabel: document.getElementById('used-label') as HTMLElement,
+  availableLabel: document.getElementById('available-label') as HTMLElement,
+
+  progWeights: document.getElementById('progress-weights') as HTMLElement,
+  progKv: document.getElementById('progress-kv') as HTMLElement,
+  progAct: document.getElementById('progress-act') as HTMLElement,
+  progOs: document.getElementById('progress-os') as HTMLElement,
+  progDanger: document.getElementById('progress-danger') as HTMLElement,
+
+  throughputOut: document.getElementById('throughput-output') as HTMLElement,
+  ttftOut: document.getElementById('ttft-output') as HTMLElement,
+  powerOut: document.getElementById('power-output') as HTMLElement,
+  costOut: document.getElementById('cost-output') as HTMLElement,
+  emissionsOut: document.getElementById('emissions-output') as HTMLElement,
+  verdictBanner: document.getElementById('verdict-banner') as HTMLElement,
+
+  recEmpty: document.getElementById('recommended-empty') as HTMLElement,
+  recList: document.getElementById('recommended-list') as HTMLElement,
+
+  deployCmdOut: document.getElementById('deploy-command-output') as HTMLElement,
+  copyBtn: document.getElementById('copy-command-btn') as HTMLButtonElement,
+  copyIcon: document.getElementById('copy-icon') as HTMLElement,
+  checkIcon: document.getElementById('check-icon') as HTMLElement,
+  installHint: document.getElementById('install-hint') as HTMLElement,
+  installHintLabel: document.getElementById('install-hint-label') as HTMLElement,
+  installHintCmd: document.getElementById('install-hint-cmd') as HTMLElement,
+};
+
+// Set translated labels
+els.usedLabel.textContent = STR.usedLabel;
+els.availableLabel.textContent = STR.availableLabel;
+
+// Copy button
+els.copyBtn.addEventListener('click', () => {
+  const cmd = els.deployCmdOut.textContent || '';
+  navigator.clipboard.writeText(cmd).then(() => {
+    els.copyIcon.classList.add('hidden');
+    els.checkIcon.classList.remove('hidden');
+    setTimeout(() => {
+      els.copyIcon.classList.remove('hidden');
+      els.checkIcon.classList.add('hidden');
+    }, 2000);
+  });
+});
+
+// Init Selects
+function initSelects() {
+  MACS.forEach(mac => {
+    const opt = document.createElement('option');
+    opt.value = mac.id;
+    opt.textContent = mac.name;
+    if (mac.id === 'm5-pro') opt.selected = true;
+    els.macSelect.appendChild(opt);
+  });
+  updateRamOptions();
+}
+
+function updateRamOptions() {
+  const mac = MACS.find(m => m.id === els.macSelect.value) || MACS[15];
+  const currentRam = parseFloat(els.ramSelect.value) || 16;
+
+  els.ramSelect.innerHTML = '';
+  let closestMatch = mac.ram[0];
+
+  mac.ram.forEach(r => {
+    const opt = document.createElement('option');
+    opt.value = r.toString();
+    opt.textContent = r + ' GB';
+    els.ramSelect.appendChild(opt);
+
+    if (Math.abs(r - currentRam) < Math.abs(closestMatch - currentRam)) {
+      closestMatch = r;
+    }
+  });
+
+  els.ramSelect.value = closestMatch.toString();
+}
+
+els.macSelect.addEventListener('change', () => {
+  updateRamOptions();
+  calculate();
+});
+
+// Logic Engine
+function calculate() {
+  const mac = MACS.find(m => m.id === els.macSelect.value) || MACS[15];
+  const ramGB = parseFloat(els.ramSelect.value) || 16;
+  const osVer = parseInt(els.osSelect.value) || 14;
+  const fw = els.fwSelect.value;
+
+  els.macSpecs.textContent = `${STR.specsBandwidth}: ${mac.bw} GB/s | ${STR.specsNeuralEngine}: ${mac.ne}-core`;
+
+  const p = parseFloat(els.params.value) || 0;
+  const bytesPerParam = parseFloat(els.precision.value) || 2;
+  const ctx = parseFloat(els.context.value) || 0;
+  const batch = parseFloat(els.batch.value) || 1;
+  const layers = parseFloat(els.layers.value) || 1;
+  const hidden = parseFloat(els.hiddenSize.value) || 1;
+  const att = parseFloat(els.attHeads.value) || 1;
+  const kv = parseFloat(els.kvHeads.value) || 1;
+
+  const weightsGB = (p * 1e9 * bytesPerParam) / (1024 ** 3);
+
+  const headDim = hidden / att;
+  const bytesPerToken = 2 * layers * kv * headDim * bytesPerParam;
+  let kvCacheGB = (ctx * batch * bytesPerToken) / (1024 ** 3);
+
+  if (fw === 'vllm') kvCacheGB *= 1.2;
+
+  let fwOverhead = 0.2;
+  if (fw === 'ollama') fwOverhead = 0.6;
+  if (fw === 'vllm') fwOverhead = 1.0;
+  const activationGB = fwOverhead + (ctx * batch * 0.0001);
+
+  const osOverhead = osVer >= 15 ? 2.5 + (ramGB * 0.05) : 1.5 + (ramGB * 0.05);
+
+  const totalReqGB = weightsGB + kvCacheGB + activationGB + osOverhead;
+
+  els.weightsOut.textContent = weightsGB.toFixed(2);
+  els.kvOut.textContent = kvCacheGB.toFixed(2);
+  els.actOut.textContent = activationGB.toFixed(2);
+  els.osOverheadOut.textContent = osOverhead.toFixed(2);
+  els.totalOut.textContent = totalReqGB.toFixed(2);
+  els.availRamOut.textContent = ramGB.toString();
+
+  const wPct = (weightsGB / ramGB) * 100;
+  const kvPct = (kvCacheGB / ramGB) * 100;
+  const actPct = (activationGB / ramGB) * 100;
+  const osPct = (osOverhead / ramGB) * 100;
+  const totalPct = wPct + kvPct + actPct + osPct;
+
+  if (totalPct > 100) {
+    els.progWeights.style.width = '0%';
+    els.progKv.style.width = '0%';
+    els.progAct.style.width = '0%';
+    els.progOs.style.width = '0%';
+    els.progDanger.style.width = '100%';
+  } else {
+    els.progWeights.style.width = `${wPct}%`;
+    els.progKv.style.width = `${kvPct}%`;
+    els.progAct.style.width = `${actPct}%`;
+    els.progOs.style.width = `${osPct}%`;
+    els.progDanger.style.width = `0%`;
+  }
+
+  let efficiency = 0.85;
+  if (fw === 'ollama') efficiency = 0.65;
+  if (fw === 'vllm') efficiency = 0.70;
+  if (fw === 'sglang') efficiency = 0.88;
+
+  let throughput = (mac.bw * efficiency) / (weightsGB || 1);
+  if (throughput > 200) throughput = 200;
+
+  let ttft = (ctx / 1000) * (16 / mac.ne) * 0.05;
+  if (ttft < 0.1) ttft = 0.1;
+
+  if (totalReqGB > ramGB) {
+    throughput = throughput * 0.1;
+    ttft = ttft * 5;
+  }
+
+  let powerW = mac.tdp * 0.8;
+  if (totalReqGB > ramGB) powerW = mac.tdp;
+  let costPerHr = (powerW / 1000) * 0.15;
+  let emissionsPerHr = (powerW / 1000) * 385;
+
+  els.throughputOut.textContent = Math.round(throughput).toString();
+  els.ttftOut.textContent = ttft.toFixed(2);
+  els.powerOut.textContent = Math.round(powerW).toString();
+  els.costOut.textContent = costPerHr.toFixed(3);
+  els.emissionsOut.textContent = Math.round(emissionsPerHr).toString();
+
+  if (totalReqGB > ramGB * 1.1) {
+    els.verdictBanner.className = "mb-5 p-3 rounded-lg bg-red-100 dark:bg-red-900/30 text-red-800 dark:text-red-300 border border-red-200 dark:border-red-800/50 text-sm font-medium";
+    els.verdictBanner.textContent = STR.ratingCannotRun;
+  } else if (totalReqGB > ramGB * 0.9) {
+    els.verdictBanner.className = "mb-5 p-3 rounded-lg bg-orange-100 dark:bg-orange-900/30 text-orange-800 dark:text-orange-300 border border-orange-200 dark:border-orange-800/50 text-sm font-medium";
+    els.verdictBanner.textContent = STR.ratingBad;
+  } else if (throughput >= 30) {
+    els.verdictBanner.className = "mb-5 p-3 rounded-lg bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-300 border border-green-200 dark:border-green-800/50 text-sm font-medium";
+    els.verdictBanner.textContent = STR.ratingGodTier;
+  } else {
+    els.verdictBanner.className = "mb-5 p-3 rounded-lg bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300 border border-blue-200 dark:border-blue-800/50 text-sm font-medium";
+    els.verdictBanner.textContent = STR.ratingGood;
+  }
+
+  let cmd = '';
+  let modelName = els.searchInput.value || 'local-model';
+
+  const curatedMatch = CURATED_MODELS.find(m => m.name === modelName);
+  if (curatedMatch) modelName = curatedMatch.id;
+
+  if (fw === 'ollama') {
+    let cleanName = modelName.split('/').pop()?.toLowerCase() || 'model';
+    cmd = `ollama run ${cleanName}`;
+  } else if (fw === 'mlx') {
+    cmd = `mlx_lm.generate --model ${modelName} --prompt "Hello"`;
+  } else if (fw === 'vllm') {
+    cmd = `python -m vllm.entrypoints.openai.api_server --model ${modelName}`;
+  } else if (fw === 'sglang') {
+    cmd = `python -m sglang.launch_server --model-path ${modelName} --port 3000`;
+  }
+
+  if (els.deployCmdOut) {
+    els.deployCmdOut.textContent = cmd;
+  }
+
+  // Update install hint
+  els.installHintLabel.textContent = STR.deployInstallHint;
+  els.installHintCmd.textContent = INSTALL_HINTS[fw] || INSTALL_HINTS.mlx;
+
+  updateRecommendations(mac, ramGB, osVer, fw);
+}
+
+function updateRecommendations(mac: any, ramGB: number, osVer: number, fw: string) {
+  els.recList.innerHTML = '';
+  els.recEmpty.classList.add('hidden');
+
+  const bytesPerParam = parseFloat(els.precision.value) || 0.5;
+
+  const validModels = CURATED_MODELS.map(m => {
+    const weightsGB = (m.params * 1e9 * bytesPerParam) / (1024 ** 3);
+    const headDim = m.hidden / m.att;
+    const bytesPerToken = 2 * m.layers * m.kv * headDim * bytesPerParam;
+
+    let kvCacheGB = (4096 * 1 * bytesPerToken) / (1024 ** 3);
+    if (fw === 'vllm') kvCacheGB *= 1.2;
+
+    let fwOverhead = 0.2;
+    if (fw === 'ollama') fwOverhead = 0.6;
+    if (fw === 'vllm') fwOverhead = 1.0;
+    const activationGB = fwOverhead + (4096 * 1 * 0.0001);
+
+    const osOverhead = osVer >= 15 ? 2.5 + (ramGB * 0.05) : 1.5 + (ramGB * 0.05);
+    const totalReqGB = weightsGB + kvCacheGB + activationGB + osOverhead;
+
+    let efficiency = 0.85;
+    if (fw === 'ollama') efficiency = 0.65;
+    if (fw === 'vllm') efficiency = 0.70;
+    if (fw === 'sglang') efficiency = 0.88;
+
+    let throughput = (mac.bw * efficiency) / (weightsGB || 1);
+    if (throughput > 200) throughput = 200;
+
+    return { ...m, fits: totalReqGB <= ramGB * 0.95, ts: Math.round(throughput) };
+  }).filter(m => m.fits).sort((a, b) => b.params - a.params);
+
+  if (validModels.length === 0) {
+    els.recEmpty.classList.remove('hidden');
+    return;
+  }
+
+  const topRecommendations = validModels.slice(0, 3);
+
+  topRecommendations.forEach(m => {
+    const div = document.createElement('div');
+    div.className = "flex items-center justify-between p-3 rounded-xl border border-gray-100 dark:border-gray-800 hover:border-orange-500/50 hover:bg-orange-50 dark:hover:bg-orange-500/10 cursor-pointer transition-colors group";
+
+    div.innerHTML = `
+      <div>
+        <h3 class="font-medium text-gray-900 dark:text-gray-100 group-hover:text-orange-600 dark:group-hover:text-orange-400 transition-colors">${m.name}</h3>
+        <p class="text-xs text-gray-500 dark:text-gray-400 mt-0.5">${m.params}B Params <span class="mx-1">•</span> <span class="font-medium text-indigo-500 dark:text-indigo-400">${m.role || 'General Purpose'}</span></p>
+      </div>
+      <div class="text-right">
+        <span class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-xs font-semibold">
+          ~${m.ts} ${STR.recommendedBadge}
+        </span>
+      </div>
+    `;
+
+    div.addEventListener('click', () => {
+      const fullModel = CURATED_MODELS.find(cm => cm.id === m.id);
+      if (fullModel) {
+        applyModelData(fullModel);
+        els.searchInput.value = fullModel.name;
+        els.autoList.classList.add('hidden');
+      }
+    });
+
+    els.recList.appendChild(div);
+  });
+}
+
+// Search Autocomplete Logic
+let hfTimeout: number;
+els.searchInput.addEventListener('input', (e) => {
+  const val = (e.target as HTMLInputElement).value.toLowerCase();
+  els.autoResults.innerHTML = '';
+
+  if (!val) {
+    els.autoList.classList.add('hidden');
+    clearTimeout(hfTimeout);
+    return;
+  }
+
+  els.autoList.classList.remove('hidden');
+
+  const matches = CURATED_MODELS.filter(m => m.name.toLowerCase().includes(val) || m.id.includes(val));
+
+  matches.forEach(m => {
+    const div = document.createElement('div');
+    div.className = "px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800 cursor-pointer border-b border-gray-100 dark:border-gray-800 last:border-0";
+    div.innerHTML = `<div class="font-medium text-gray-900 dark:text-gray-100">${m.name}</div><div class="text-xs text-gray-500">${m.params}B Params</div>`;
+    div.addEventListener('click', () => {
+      els.searchInput.value = m.name;
+      els.autoList.classList.add('hidden');
+      applyModelData(m);
+      clearTimeout(hfTimeout);
+    });
+    els.autoResults.appendChild(div);
+  });
+
+  if (matches.length === 0) {
+    els.autoResults.innerHTML = `<div class="px-4 py-3 text-sm text-gray-500 italic">${STR.hfSearchingLabel}</div>`;
+  }
+
+  clearTimeout(hfTimeout);
+  hfTimeout = setTimeout(() => {
+    searchHuggingFace(val);
+  }, 500) as unknown as number;
+});
+
+els.searchInput.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    clearTimeout(hfTimeout);
+    searchHuggingFace(els.searchInput.value);
+  }
+});
+
+document.addEventListener('click', (e) => {
+  if (!els.autoList.contains(e.target as Node) && e.target !== els.searchInput) {
+    els.autoList.classList.add('hidden');
+  }
+});
+
+async function searchHuggingFace(query: string) {
+  if (!query) return;
+
+  try {
+    const res = await fetch(`https://huggingface.co/api/models?search=${encodeURIComponent(query)}&limit=15&sort=downloads`);
+    const data = await res.json();
+
+    const localMatches = CURATED_MODELS.filter(m => m.name.toLowerCase().includes(query.toLowerCase()) || m.id.includes(query.toLowerCase()));
+
+    if (localMatches.length === 0) {
+      els.autoResults.innerHTML = '';
+    } else {
+      const lastChild = els.autoResults.lastElementChild;
+      if (lastChild && lastChild.classList.contains('italic')) {
+        els.autoResults.removeChild(lastChild);
+      }
+
+      if (data && data.length > 0) {
+         const div = document.createElement('div');
+         div.className = "px-4 py-1 text-xs font-bold text-gray-400 bg-gray-50 dark:bg-gray-900 border-b border-gray-100 dark:border-gray-800 uppercase";
+         div.textContent = STR.hfResultsLabel;
+         els.autoResults.appendChild(div);
+      }
+    }
+
+    if (!data || data.length === 0) {
+      if (localMatches.length === 0) {
+        els.autoResults.innerHTML = `<div class="px-4 py-3 text-sm text-gray-500 italic">${STR.hfNoResults}</div>`;
+      }
+      return;
+    }
+
+    data.forEach((m: any) => {
+      const div = document.createElement('div');
+      div.className = "px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800 cursor-pointer border-b border-gray-100 dark:border-gray-800 last:border-0";
+      div.innerHTML = `<div class="font-medium text-blue-600 dark:text-blue-400 break-all">${m.id}</div><div class="text-xs text-gray-500 flex gap-2 mt-0.5"><span>⬇ ${m.downloads?.toLocaleString() || 0}</span><span class="bg-gray-100 dark:bg-gray-800 px-1.5 rounded">${STR.hfApiLabel}</span></div>`;
+      div.addEventListener('click', () => {
+        els.searchInput.value = m.id;
+        els.autoList.classList.add('hidden');
+        fetchHuggingFaceConfig(m.id);
+      });
+      els.autoResults.appendChild(div);
+    });
+  } catch (err) {
+    // Ignore fetch errors during typing
+  }
+}
+
+async function fetchHuggingFaceConfig(modelId: string) {
+  els.searchInput.value = `${STR.hfLoadingModel} ${modelId}...`;
+
+  const lowerId = modelId.toLowerCase();
+  let guessedPrecision = 2;
+
+  if (lowerId.includes('fp32') || lowerId.includes('f32')) guessedPrecision = 4;
+  else if (lowerId.includes('int8') || lowerId.includes('q8') || lowerId.includes('8bpw')) guessedPrecision = 1;
+  else if (lowerId.includes('int4') || lowerId.includes('q4') || lowerId.includes('4bpw') || lowerId.includes('exl2-4') || lowerId.includes('awq') || lowerId.includes('gguf')) guessedPrecision = 0.5;
+  else if (lowerId.includes('q3') || lowerId.includes('3bpw')) guessedPrecision = 0.375;
+  else if (lowerId.includes('q2') || lowerId.includes('2bpw')) guessedPrecision = 0.25;
+
+  try {
+    const res = await fetch(`https://huggingface.co/${modelId}/raw/main/config.json`);
+    if (!res.ok) throw new Error('Not found or private');
+    const config = await res.json();
+
+    let layers = config.num_hidden_layers || 32;
+    let hidden = config.hidden_size || 4096;
+    let att = config.num_attention_heads || 32;
+    let kv = config.num_key_value_heads || att;
+
+    let pMatch = modelId.match(/(\d+(?:\.\d+)?)[bB](?![a-zA-Z])/i);
+    let params = pMatch ? parseFloat(pMatch[1]) : 0;
+
+    if (params === 0) {
+      params = Math.round((layers * hidden * hidden * 12) / 1e9) || 8;
+    }
+
+    applyModelData({
+      params, layers, hidden, att, kv, precision: guessedPrecision
+    });
+    els.searchInput.value = modelId;
+    } catch (err) {
+    let pMatch = modelId.match(/(\d+(?:\.\d+)?)[bB](?![a-zA-Z])/i);
+    let params = pMatch ? parseFloat(pMatch[1]) : 8;
+
+    const banner = els.verdictBanner;
+    const origText = banner.textContent;
+    const origClass = banner.className;
+    banner.className = "mb-5 p-3 rounded-lg bg-yellow-100 dark:bg-yellow-900/30 text-yellow-800 dark:text-yellow-300 border border-yellow-200 dark:border-yellow-800/50 text-sm font-medium";
+    banner.textContent = STR.hfFetchError;
+    setTimeout(() => { banner.textContent = origText; banner.className = origClass; }, 4000);
+
+    els.params.value = params.toString();
+    els.precision.value = guessedPrecision.toString();
+    calculate();
+
+    els.searchInput.value = modelId;
+  }
+}
+
+function applyModelData(data: any) {
+  els.params.value = data.params;
+  els.layers.value = data.layers;
+  els.hiddenSize.value = data.hidden;
+  els.attHeads.value = data.att;
+  els.kvHeads.value = data.kv;
+  if (data.precision !== undefined) {
+    els.precision.value = data.precision.toString();
+  } else {
+    els.precision.value = "0.5";
+  }
+  calculate();
+}
+
+// Bind events
+[els.ramSelect, els.osSelect, els.fwSelect, els.params, els.precision, els.context, els.batch, els.layers, els.hiddenSize, els.attHeads, els.kvHeads].forEach(el => {
+  el.addEventListener('input', calculate);
+});
+
+// Run init
+initSelects();
+calculate();
+</script>

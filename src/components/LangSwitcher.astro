@@ -15,7 +15,15 @@ const NATIVE: Record<string, string> = {
 // Per-page alternates take precedence: drop x-default and the current locale.
 const perPage = hreflangAlternates
   .filter(a => a.hreflang !== 'x-default' && a.hreflang !== currentLang)
-  .map(a => ({ ...a, label: NATIVE[a.hreflang] || a.hreflang.toUpperCase() }));
+  .map(a => {
+    let relativeHref = a.href;
+    try {
+      if (a.href.startsWith('http')) {
+        relativeHref = new URL(a.href).pathname;
+      }
+    } catch(e) {}
+    return { ...a, href: relativeHref, label: NATIVE[a.hreflang] || a.hreflang.toUpperCase() };
+  });
 
 // Fallback: list every locale that has translated content. Built once per
 // build via the content collection; links point to the locale homepage,

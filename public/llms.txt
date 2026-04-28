@@ -6,6 +6,7 @@ System Report (systemreport.net) publishes tech news, commentary on hardware and
 
 ## Tools
 
+- [Can My Mac Run It? — LLM Memory Calculator](https://www.systemreport.net/tools/vram-calculator/): Free calculator to check if a Mac can run any LLM locally. Estimates VRAM usage, token throughput, KV cache, power draw, and compatibility for Apple Silicon M1 through M5. Supports MLX, Ollama, vLLM, and SGLang frameworks. Available in 11 languages.
 - [EXIF Metadata Remover](https://www.systemreport.net/tools/exif-stripper/): Strip GPS coordinates, camera model, timestamps, and other EXIF metadata from JPEG, PNG, and WebP photos. 100% client-side — images never upload anywhere.
 - [All tools](https://www.systemreport.net/tools/): Collection page listing current and upcoming browser-based utilities.
 

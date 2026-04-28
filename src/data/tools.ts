@@ -23,6 +23,25 @@ export interface Tool {
 
 export const TOOLS: Tool[] = [
   {
+    slug: 'vram-calculator',
+    title: 'LLM VRAM & Memory Calculator',
+    tagline: 'Calculate memory requirements for LLM inference with Apple Silicon support.',
+    description: 'Calculate VRAM and system memory requirements for running Large Language Models (LLMs) locally. First-class support for Apple Silicon unified memory. Supports FP16, INT8, INT4 quantization and KV cache estimation.',
+    category: 'AI',
+    status: 'live',
+    iconPath: 'M8.25 3v1.5M4.5 8.25H3m18 0h-1.5M4.5 12H3m18 0h-1.5m-15 3.75H3m18 0h-1.5M8.25 19.5V21M12 3v1.5m0 15V21m3.75-18v1.5m0 15V21m-9-1.5h10.5a2.25 2.25 0 002.25-2.25V6.75a2.25 2.25 0 00-2.25-2.25H6.75A2.25 2.25 0 004.5 6.75v10.5a2.25 2.25 0 002.25 2.25z',
+    keywords: [
+      'llm vram calculator',
+      'llm memory calculator',
+      'apple silicon llm memory',
+      'unified memory calculator',
+      'kv cache calculator',
+      'ai model memory requirements',
+      'llama vram requirements'
+    ],
+  },
+
+  {
     slug: 'exif-stripper',
     title: 'EXIF Metadata Remover',
     tagline: 'Strip GPS, camera, and timestamp data from photos — in your browser.',
