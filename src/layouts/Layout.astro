@@ -157,10 +157,6 @@ const pubId = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
       })();
     </script>
 
-    <!-- Google Funding Choices — serves GDPR/CCPA consent banners configured in AdSense Privacy & messaging -->
-    {pubId && <script async src={`https://fundingchoicesmessages.google.com/i/pub-${pubId}?ers=1`}></script>}
-    {pubId && <script is:inline>window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];</script>}
-
     <!-- Google AdSense -->
     {pubId && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-${pubId}`} crossorigin="anonymous"></script>}
 
