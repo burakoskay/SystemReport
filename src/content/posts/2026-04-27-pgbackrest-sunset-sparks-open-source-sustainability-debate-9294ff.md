@@ -1,15 +1,17 @@
 ---
 title: "pgBackRest sunset sparks open‑source sustainability debate"
 date: 2026-04-27T14:11:16.430Z
+modified_date: 2026-04-28T17:51:05.262Z
 tags: ["open-source","maintenance","community","postgres","telemetry"]
 hero_image: "/hero/2026-04-27-pgbackrest-sunset-sparks-open-source-sustainability-debate-9294ff.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "developer reviewing code on laptop with open-source project logos"
 description: "The pgBackRest backup tool is now unmaintained, prompting a wider look at how niche open‑source projects survive."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## pgBackRest maintenance ends
 The pgBackRest GitHub repository now carries a clear notice: the project is no longer being maintained. The change surfaced on Hacker News, where the post earned 207 points and attracted 88 comments. The community’s reaction was swift, with many users questioning how to replace a backup solution that many Postgres deployments rely on.
@@ -38,3 +40,7 @@ At the same time, the FreeBSD Device Drivers Book continues to fill a documentat
 
 ## What to watch
 Operators running pgBackRest should audit their backup pipelines this quarter and evaluate fork‑maintained forks or alternative tools such as Barman or pg_probackup. GitLab users need to monitor the outcome of the October 29 retrospective to see if any new telemetry policy emerges. For privacy‑focused hardware adopters, Secluso’s plug‑and‑play prototype will likely see a beta release later this year—watch the project’s mailing list for the exact date. Finally, keep an eye on Taiga’s service SLA changes under the new exclusive provider, as they may impact integration pipelines for agile teams.
+
+## Updates
+
+- **2026-04-28** — A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform ([source](https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/))

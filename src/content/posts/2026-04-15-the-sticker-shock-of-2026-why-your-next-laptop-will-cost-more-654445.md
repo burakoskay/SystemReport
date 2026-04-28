@@ -1,16 +1,17 @@
 ---
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
-modified_date: 2026-04-24T20:55:38.669Z
+modified_date: 2026-04-28T17:51:07.554Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
 hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ Industry observers and frustrated consumers alike are left grappling with what h
 
 ## Updates
 
+- **2026-04-28** — Claude can now plug directly into Photoshop, Blender, and Ableton ([source](https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender))
 - **2026-04-24** — Alex Jones has uncovered another massive conspiracy ([source](https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker))
 - **2026-04-24** — The RAM shortage could get even worse if Samsung labor protests cut production ([source](https://www.theverge.com/tech/918301/samsung-south-korea-union-protests))
 - **2026-04-21** — Dyson’s back with a travel-size Supersonic hairdryer ([source](https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price))

@@ -1,17 +1,19 @@
 ---
 title: "Snabbit, Pronto, and Series spark fresh funding waves"
 date: 2026-04-25T19:02:08.763Z
+modified_date: 2026-04-28T17:51:11.061Z
 tags: ["gig economy","AI social networking","funding rounds"]
 hero_image: "/hero/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.jpg"
 hero_image_credit_name: "El gringo photo"
 hero_image_credit_url: "https://www.pexels.com/@el-gringo-photo-116752370"
 visual_keyword: "gig economy"
 description: "Indian gig player Snabbit seeks $400M, house-help platform Pronto eyes $200M, and US AI social network Series lands $5.1M."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.mp3"
 audio_bytes: 632208
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Snabbit has scaled rapidly, crossing one million jobs in March, amid growing investor interest at a $400 million valuation. This milestone marks a significant achievement for the Indian gig platform, which has managed to tap into the country's growing demand for on-demand labor.
@@ -71,3 +73,7 @@ There have been numerous precedents for successful funding rounds in the Indian 
 ## Conclusion
 
 The funding rounds for Snabbit, Pronto, and Series reflect the growing interest in the Indian gig economy and U.S. consumer AI markets. The startups' ability to scale and sustain their growth will be critical in determining their success. The funding dynamics reflect the varying levels of maturity and growth in these markets, and the potential for innovation and disruption.
+
+## Updates
+
+- **2026-04-28** — Deals: Giant deals knock up to $560 off Galaxy Tab S11 Ultra, Odyssey QD-OLED monitor 40% off, Nest Cam, and more ([source](https://9to5google.com/2026/04/28/deals-galaxy-tab-s11-ultra-odyssey-monitor-nest-cam/))
