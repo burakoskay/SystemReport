@@ -1,7 +1,11 @@
 ---
 title: "AI's Double-Edged Sword: The Hidden Wave of Job Displacement"
 date: 2026-04-15T19:48:44.307Z
+<<<<<<< Updated upstream
 modified_date: 2026-04-28T19:34:04.831Z
+=======
+modified_date: 2026-04-28T20:11:23.579Z
+>>>>>>> Stashed changes
 tags: ["ai","layoffs","tech industry","employment","economy"]
 hero_image: "/hero/2026-04-15-ai-s-double-edged-sword-economic-slowdown-masks-targeted-job-displacement-548c9a.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
