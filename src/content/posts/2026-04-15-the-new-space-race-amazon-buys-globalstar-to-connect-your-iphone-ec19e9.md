@@ -1,16 +1,18 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
-modified_date: 2026-04-28T19:34:03.138Z
+modified_date: 2026-04-28T21:11:40.112Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
-sources_count: 9
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -30,6 +32,8 @@ The convergence of consumer electronics and satellite technology marks a new fro
 
 ## Updates
 
+- **2026-04-28** — Elon Musk tells the jury that all he wants to do is save humanity ([source](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity))
+- **2026-04-28** — Australia forces Big Tech firms to pay for news or face a 2.25% tax ([source](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/))
 - **2026-04-28** — Australia forces Big Tech firms to pay for news or face a 2.25% tax ([source](https://techcrunch.com/2026/04/28/australia-forces-big-tech-firms-to-pay-for-news-or-face-a-2-25-tax/))
 - **2026-04-27** — Google Messages read receipts redesign continues with old icons, swipe for time ([source](https://9to5google.com/2026/04/27/google-messages-swipe-time/))
 - **2026-04-24** — HomeKit Weekly: The Aqara G400 brings PoE and HomeKit Secure Video to your front door ([source](https://9to5mac.com/2026/04/24/aqara-doorbell-camera-g400/))

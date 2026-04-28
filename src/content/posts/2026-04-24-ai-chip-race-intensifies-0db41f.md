@@ -1,18 +1,19 @@
 ---
 title: "AI Chip Race Intensifies"
 date: 2026-04-24T17:20:52.352Z
-modified_date: 2026-04-28T20:11:22.402Z
+modified_date: 2026-04-28T21:11:41.376Z
 tags: ["AI","chips","Meta","Amazon"]
 hero_image: "/hero/2026-04-24-ai-chip-race-intensifies-0db41f.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI chips"
 description: "Meta signs deal for Amazon AI CPUs, Nothing introduces on-device AI dictation"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-24-ai-chip-race-intensifies-0db41f.mp3"
 audio_bytes: 619251
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The AI chip race is intensifying, with companies like Meta, Amazon, and Apple co
 
 ## Updates
 
+- **2026-04-28** — Now YouTube TV lets you multiview any channel you want ([source](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel))
 - **2026-04-28** — Now YouTube TV lets you multiview any channel you want ([source](https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel))
 - **2026-04-27** — MagSafe Monday: Scosche’s 2-in-1 Qi2 mount is the perfect car companion for summer travel ([source](https://9to5mac.com/2026/04/27/scosche-magicmount-charge-pro/))
 - **2026-04-25** — Plain text has been around for decades and it’s here to stay ([source](https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/))

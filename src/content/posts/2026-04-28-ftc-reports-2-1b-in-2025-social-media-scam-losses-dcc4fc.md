@@ -1,15 +1,17 @@
 ---
 title: "FTC Reports $2.1B in 2025 Social Media Scam Losses"
 date: 2026-04-28T20:28:21.367Z
+modified_date: 2026-04-28T21:11:49.094Z
 tags: ["social media scams","ftc","scam legislation","meta","cfpb"]
 hero_image: "/hero/2026-04-28-ftc-reports-2-1b-in-2025-social-media-scam-losses-dcc4fc.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "crowded smartphone screen with fake ads and scam messages"
 description: "The FTC attributes $2.1B in 2025 scam losses to social media, with new legislation proposed to curb fraudulent ads."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 ## The FTC’s 2025 Social Media Scam Report
 
@@ -34,3 +36,7 @@ The CFPB, currently operating with 90% fewer staff than its peak, has been propo
 Three developments will shape the next phase of this issue. First, the FTC’s enforcement actions under the SCAM Act, should it pass, will test platforms’ compliance with advertiser verification. Second, the CFPB’s potential restructuring to address scam reporting could redefine federal oversight. Third, Meta’s legal battles over ad revenue transparency—specifically its $16 billion 2024 projection—will determine whether courts or regulators impose binding requirements on platform accountability.
 
 Consumers are advised to scrutinize URLs, avoid sharing personal data with unsolicited contacts, and verify websites through trusted directories like BBB.org. The FTC’s guidance also warns against allowing social media contacts to influence investment decisions. As AI tools refine scam tactics, proactive measures like multi-factor authentication and privacy settings will remain critical for reducing exposure.
+
+## Updates
+
+- **2026-04-28** — The FTC says Americans lost at least $2.1 billion to social media scams in 2025 ([source](https://www.engadget.com/social-media/the-ftc-says-americans-lost-at-least-21-billion-to-social-media-scams-in-2025-152846798.html?src=rss))
