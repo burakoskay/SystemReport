@@ -75,7 +75,7 @@ async function fetchRates() {
   } catch { return { USD: 1 }; }
 }
 
-export async function onRequestGet() {
+export async function onRequestGet(context) {
   const [crypto, stooq, rates] = await Promise.all([
     fetchCrypto(),
     Promise.all(STOOQ.map(fetchOneStooq)),
@@ -84,11 +84,20 @@ export async function onRequestGet() {
   const items = { ...crypto };
   for (const s of stooq) if (s) items[s.sym] = { v: s.v, c: s.c };
 
+  const origin = context.request.headers.get('Origin');
+  const allowedOrigins = ['https://www.systemreport.net', 'http://localhost:4321', 'http://localhost:8788'];
+  let allowOrigin = 'https://www.systemreport.net';
+
+  if (origin && (allowedOrigins.includes(origin) || origin.endsWith('.systemreport.net'))) {
+    allowOrigin = origin;
+  }
+
   return new Response(JSON.stringify({ items, rates, ts: Date.now() }), {
     headers: {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'public, max-age=60, s-maxage=60',
-      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Origin': allowOrigin,
+      'Vary': 'Origin',
     },
   });
 }
