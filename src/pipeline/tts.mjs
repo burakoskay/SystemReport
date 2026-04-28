@@ -270,6 +270,28 @@ export function markdownToSpeechText(title, description, markdownBody) {
     .replace(/\n{3,}/g, '\n\n')
     .trim();
 
-  const head = `${title}. ${description || ''}`.trim();
-  return `${head}\n\n${body}`;
+  const desc = (description || '').trim();
+  const skipDesc = desc && body.startsWith(desc);
+
+  const endsWithPunctuation = (s) => /[.!?]$/.test(s);
+
+  let out = (title || '').trim();
+  if (out && !endsWithPunctuation(out)) {
+    out += '.';
+  }
+
+  if (desc && !skipDesc) {
+    if (out) out += ' ';
+    out += desc;
+    if (out && !endsWithPunctuation(out)) {
+      out += '.';
+    }
+  }
+
+  if (body) {
+    if (out) out += skipDesc ? ' ' : '\n\n';
+    out += body;
+  }
+
+  return out.trim();
 }
