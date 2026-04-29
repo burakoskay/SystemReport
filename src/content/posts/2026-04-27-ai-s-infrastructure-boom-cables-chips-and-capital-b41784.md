@@ -1,15 +1,17 @@
 ---
 title: "AI's Infrastructure Boom: Cables, Chips, and Capital"
 date: 2026-04-27T21:14:42.893Z
+modified_date: 2026-04-29T03:36:08.123Z
 tags: ["ai-infrastructure","subsea-cables","deepmind","ai-startups","tech-investment"]
 hero_image: "/hero/2026-04-27-ai-s-infrastructure-boom-cables-chips-and-capital-b41784.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "underwater fiber optic cable with data centers visible in the ocean above"
 description: "From subsea cables to startup funding, AI's next phase demands infrastructure — and the money is flowing."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Ineffable Intelligence, a new AI lab founded by former DeepMind researcher David Silver, has raised $1.1 billion to build systems that learn without human-labeled data. The company’s $5.1 billion valuation signals investor confidence in a radical approach to machine learning — one that diverges from the data-hungry models dominating today’s AI landscape.
 
@@ -42,3 +44,7 @@ Regulators are starting to take notice. The U.S. and EU are considering mandates
 ## What to Watch
 
 Three developments will define AI’s infrastructure era in 2025: First, whether Ineffable’s self-supervised models can achieve commercial viability without the usual data pipelines. Second, if Meta’s Waterworth cable will be operational by its projected 2028 deadline. Third, how regulators respond to concentrated control of subsea networks — particularly as geopolitical tensions over digital sovereignty intensify.
+
+## Updates
+
+- **2026-04-29** — Elon Musk appeared more petty than prepared ([source](https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one))

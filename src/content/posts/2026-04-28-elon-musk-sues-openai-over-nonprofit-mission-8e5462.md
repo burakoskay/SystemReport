@@ -1,14 +1,16 @@
 ---
 title: "Elon Musk Sues OpenAI Over Nonprofit Mission"
 date: 2026-04-28T03:38:22.766Z
+modified_date: 2026-04-29T03:36:07.420Z
 tags: ["AI","OpenAI","Elon Musk","Lawsuit"]
 hero_image: "/hero/2026-04-28-elon-musk-sues-openai-over-nonprofit-mission-8e5462.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Musk files new lawsuit against OpenAI and Sam Altman"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Introduction to the Lawsuit
 Elon Musk filed a new lawsuit against OpenAI, CEO Sam Altman, and co-founder Gregory Brockman. Musk, who co-founded OpenAI in 2015, claims the company has strayed from its nonprofit charter. The lawsuit was filed in federal court and mirrors the February 2024 case, but with added racketeering allegations.
@@ -30,3 +32,7 @@ The outcome of the lawsuit could have significant implications for the AI indust
 The Federal Trade Commission's probe into OpenAI for possible consumer-protection violations adds another layer of complexity to the case. The outcome of the lawsuit could influence the FTC's decision, potentially leading to new regulations or guidelines for AI companies. This, in turn, could impact the entire AI industry, as companies would need to adapt to new rules and ensure compliance.
 ## Competitive Landscape
 The AI industry is highly competitive, with multiple companies vying for market share. The outcome of the lawsuit could impact OpenAI's competitive position, potentially affecting its ability to attract investors, talent, and customers. Other companies in the industry may also be affected, as the lawsuit's outcome could set a precedent for how AI research entities balance profit and public benefit.
+
+## Updates
+
+- **2026-04-29** — It’s primetime for conspiracy theorist video creators ([source](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag))
