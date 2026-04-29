@@ -1,15 +1,17 @@
 ---
 title: "Games Done Quick lands in Europe, sparking a live‑gaming surge"
 date: 2026-04-29T10:20:16.853Z
+modified_date: 2026-04-29T17:43:16.281Z
 tags: ["gaming","speedrunning","venture-capital","live-streaming","interactive-media"]
 hero_image: "/hero/2026-04-29-games-done-quick-lands-in-europe-sparking-a-live-gaming-surge-de0e2d.jpg"
 hero_image_credit_name: "Pexels LATAM"
 hero_image_credit_url: "https://www.pexels.com/@pexels-latam-478514802"
 visual_keyword: "crowd of gamers watching a speedrun marathon on stage"
 description: "GDQ’s first European marathon at Gamescom signals a shift toward live, interactive gaming events and draws venture‑capital interest."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 ## GDQ’s European debut reshapes the charity marathon model
 Games Done Quick is bringing its marathon speedrunning charity event to Europe for the first time, setting up a three‑day live show at Gamescom in Cologne. The move expands the marathon’s reach beyond its U.S.‑centric history and puts a massive audience in the same room as the runners.
@@ -33,3 +35,7 @@ The rollout of *Widow’s Bay* also illustrates how streaming platforms can be
 
 ## What to watch
 Track the post‑Gamescom data on viewership spikes for GDQ’s Twitch and YouTube streams; a significant lift could prompt other festivals to host live speedrunning marathons. Keep an eye on Evolution Gaming’s quarterly reports for Crazy Time revenue growth, which will indicate how live‑dealer formats fare against traditional slots. Finally, monitor Apple’s subscriber metrics after *Widow’s Bay* launches, as any uptick may encourage more studios to experiment with genre‑blending series.
+
+## Updates
+
+- **2026-04-29** — Uber adds hotels to its app in big travel swing ([source](https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
-modified_date: 2026-04-24T19:00:56.188Z
+modified_date: 2026-04-29T17:43:15.488Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ As the tech world eagerly anticipates Apple's next major software releases, all 
 
 ## Updates
 
+- **2026-04-29** — Motorola just revealed the Razr Fold’s price and hoo boy ([source](https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability))
 - **2026-04-24** — BMW is one step closer to selling you a color-changing car ([source](https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing))
 - **2026-04-24** — Beatbot Pool-Cleaning Robots Are on Sale for a Limited Time ([source](https://www.wired.com/story/beatbot-pool-cleaning-robot-deals-april-2026/))
 - **2026-04-23** — Honor’s new phones look like iPhones for Android ([source](https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android))

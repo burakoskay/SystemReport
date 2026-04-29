@@ -1,15 +1,17 @@
 ---
 title: "Supreme Court Tackles Science, Privacy, and Power"
 date: 2026-04-27T23:06:39.651Z
+modified_date: 2026-04-29T17:43:14.729Z
 tags: ["supreme-court","privacy","science-policy"]
 hero_image: "/hero/2026-04-27-supreme-court-tackles-science-privacy-and-power-4ec5d9.jpg"
 hero_image_credit_name: "Robert Clark"
 hero_image_credit_url: "https://www.pexels.com/@robert-clark-504241532"
 visual_keyword: "abstract representation of data streams intersecting with judicial scales"
 description: "Three landmark cases test federal oversight of tech and research."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 The Supreme Court will this term decide whether cell location data requires a warrant, while the Trump administration silences scientists warning about China's rise. These cases reveal the judiciary's growing role in defining the boundaries of digital rights and federal science policy.
 
@@ -38,3 +40,7 @@ This issue cuts to the core of how we understand consent in the digital age. Whe
 These cases collectively test how the judiciary adapts to technological change. The Roundup case examines corporate accountability in the AI era, where data trails document internal knowledge. The geofencing dispute forces definitions of privacy in a world where location data is both valuable and pervasive. And the National Science Board's dissolution underscores the fragility of evidence-based governance.
 
 What to watch: The National Science Board's May 15 hearing on reinstatement, the Roundup decision by September, and the geofencing ruling by October. Each will shape how future governments handle AI ethics, environmental regulation, and digital civil liberties.
+
+## Updates
+
+- **2026-04-29** — How Trump Weaponized the DOJ Division That Kept Elections Fair ([source](https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/))
