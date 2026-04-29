@@ -1,15 +1,17 @@
 ---
 title: "SME Tech Rescue"
 date: 2026-04-19T16:31:39.767Z
+modified_date: 2026-04-29T14:09:58.342Z
 tags: ["smetech","backofficetech","consultancy"]
 hero_image: "/hero/2026-04-19-sme-tech-rescue-00a0d1.jpg"
 hero_image_credit_name: "Juan Moccagatta"
 hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to SME Tech Woes
 A solo engineer has launched a consultancy to help small and medium-sized enterprises (SMEs) sort out their messy back-office technology. The consultancy, crescita.cc, focuses on resolving issues such as spreadsheet glue, brittle internal workflows, poor reporting, awkward integrations, backend/platform problems, and AI workflows that need to do real work rather than just look good in a demo.
@@ -32,3 +34,7 @@ The future of SME tech looks promising, with advancements in areas such as artif
 The consultancy is well-positioned to help SMEs navigate the ever-changing tech landscape and make informed decisions about their back-office tech. By providing expert guidance and support, the consultancy can help SMEs overcome their tech challenges and achieve their business objectives.
 
 What to watch: As the consultancy continues to grow and expand its services, it will be interesting to see how it helps SMEs to adopt new technologies and improve their back-office operations. With the increasing importance of efficient back-office tech, the consultancy's services are likely to be in high demand.
+
+## Updates
+
+- **2026-04-29** — Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU ([source](https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification))

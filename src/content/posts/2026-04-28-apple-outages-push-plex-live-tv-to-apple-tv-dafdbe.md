@@ -1,15 +1,17 @@
 ---
 title: "Apple Outages Push Plex Live TV to Apple TV"
 date: 2026-04-28T06:48:52.940Z
+modified_date: 2026-04-29T14:09:59.038Z
 tags: ["apple","tv","streaming","plex"]
 hero_image: "/hero/2026-04-28-apple-outages-push-plex-live-tv-to-apple-tv-dafdbe.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with glitch overlay and Plex live TV remote"
 description: "Apple's recent service outage and a new subscriber survey come as Plex launches its Live TV service on Apple TV, reshaping the streaming battleground."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Outage exposes fragility of Apple TV ecosystem
 Apple TV, Apple Music and the App Store were down for thousands of users on Monday afternoon, and the outage lingered long enough to interrupt product repairs and internal workflows. Downdetector recorded roughly 4,000 complaints about iCloud and another 4,000 about Apple Music, while the system status page listed eleven separate failures, including podcasts, arcade and Find My iPhone.
@@ -34,3 +36,7 @@ The expansion also highlights a competitive tension: Apple is courting premium c
 
 ## What to watch next
 Apple will unveil two new subscription services at its March event, one of which promises to serve partner streams directly inside the Apple TV app. The success of that rollout will hinge on whether Apple can restore confidence after the DNS‑related outage and deliver a stable viewing experience. Meanwhile, Plex’s Live TV on Apple TV will test Apple’s willingness to accommodate third‑party streaming solutions on its platform. Track the post‑event announcements, monitor DNS health reports in the weeks after the launch, and watch subscriber churn numbers for both Apple TV and Plex Pass as the market recalibrates.
+
+## Updates
+
+- **2026-04-29** — China freezes new robotaxi licenses after Baidu chaos ([source](https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos))

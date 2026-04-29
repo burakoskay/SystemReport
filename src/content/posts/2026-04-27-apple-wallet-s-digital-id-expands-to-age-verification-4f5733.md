@@ -1,17 +1,19 @@
 ---
 title: "Apple Wallet's Digital ID Expands to Age Verification"
 date: 2026-04-27T03:36:39.716Z
+modified_date: 2026-04-29T14:10:04.058Z
 tags: ["Apple","Digital ID","Financial Inclusion"]
 hero_image: "/hero/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.jpg"
 hero_image_credit_name: "Emil Kalibradov"
 hero_image_credit_url: "https://www.pexels.com/@emil-kalibradov-3013808"
 visual_keyword: "Apple Wallet"
 description: "Apple Wallet's Digital ID feature now supports age verification on iPhone, expanding its use beyond identification."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.mp3"
 audio_bytes: 608802
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple's Digital ID Adds Age Verification
@@ -67,3 +69,7 @@ The upcoming releases of new features and updates to these platforms will have a
 The future of digital identification and financial inclusion will also be shaped by regulatory requirements and industry standards. As the use of mobile apps for financial inclusion continues to grow, we can expect to see increased scrutiny from regulators and industry stakeholders. Companies will need to adapt to these changing requirements and standards in order to remain competitive and provide innovative solutions to users.
 
 In conclusion, the expansion of Apple's Digital ID feature to include age verification is a significant development in the field of digital identification. The feature has the potential to simplify the process of buying age-restricted items and provide users with a convenient and secure way to prove their age. The development of HCB Mobile also demonstrates the potential for mobile apps to provide financial inclusion and support for underserved communities. As the use of mobile apps for financial inclusion continues to grow, we can expect to see new innovations and developments in this space.
+
+## Updates
+
+- **2026-04-29** — John Ternus faces critical decisions on iPhone pricing and US manufacturing – FT ([source](https://9to5mac.com/2026/04/29/john-ternus-faces-critical-decisions-on-iphone-pricing-and-us-manufacturing-ft/))

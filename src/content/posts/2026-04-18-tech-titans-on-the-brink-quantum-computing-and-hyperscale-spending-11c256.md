@@ -1,16 +1,17 @@
 ---
 title: "Tech Titans on the Brink: Quantum Computing and Hyperscale Spending"
 date: 2026-04-18T01:05:12.695Z
-modified_date: 2026-04-27T12:17:29.791Z
+modified_date: 2026-04-29T14:09:56.926Z
 tags: ["quantum computing","hyperscale","postquantum crypto"]
 hero_image: "/hero/2026-04-18-tech-titans-on-the-brink-quantum-computing-and-hyperscale-spending-11c256.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"
 description: "Big Tech's pursuit of post-quantum crypto and hyperscale infrastructure"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -21,5 +22,6 @@ The tech landscape is undergoing a seismic shift, driven by two major forces: th
 
 ## Updates
 
+- **2026-04-29** — Taylor Swift deepfakes are pushing scams on TikTok ([source](https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks))
 - **2026-04-27** — The Tech Bros Are All In on Zyn ([source](https://www.wired.com/story/tech-bros-are-all-in-on-zyn/))
 - **2026-04-23** — Why are the Mac mini and Mac Studio gradually becoming impossible to buy? ([source](https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/))

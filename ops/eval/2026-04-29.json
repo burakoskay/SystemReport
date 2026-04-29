@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-29T10:23:45.335Z",
+  "generated_at": "2026-04-29T14:35:25.852Z",
   "window_days": 7,
-  "total_records": 3342,
+  "total_records": 3470,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 981,
-      "success": 820,
-      "success_rate": 0.835881753312946,
-      "latency_p50": 2650,
-      "latency_p95": 10145,
-      "response_chars_mean": 3522,
+      "calls": 1005,
+      "success": 832,
+      "success_rate": 0.8278606965174129,
+      "latency_p50": 2662,
+      "latency_p95": 10141,
+      "response_chars_mean": 3535,
       "error_classes": {
-        "rate_limit": 126,
-        "unknown": 32,
+        "rate_limit": 137,
+        "unknown": 33,
         "permission": 1,
         "too_large": 2
       }
     },
     "revise:v2-800w": {
-      "calls": 320,
-      "success": 269,
-      "success_rate": 0.840625,
-      "latency_p50": 1237,
+      "calls": 323,
+      "success": 272,
+      "success_rate": 0.8421052631578947,
+      "latency_p50": 1236,
       "latency_p95": 9145,
-      "response_chars_mean": 1830,
+      "response_chars_mean": 1831,
       "error_classes": {
         "rate_limit": 48,
         "unknown": 2,
@@ -31,12 +31,12 @@
       }
     },
     "lengthen:v1": {
-      "calls": 393,
-      "success": 324,
-      "success_rate": 0.8244274809160306,
+      "calls": 399,
+      "success": 330,
+      "success_rate": 0.8270676691729323,
       "latency_p50": 2679,
       "latency_p95": 10147,
-      "response_chars_mean": 4923,
+      "response_chars_mean": 4925,
       "error_classes": {
         "rate_limit": 67,
         "unknown": 1,
@@ -44,15 +44,15 @@
       }
     },
     "rewrite-headline:v1": {
-      "calls": 19,
-      "success": 14,
-      "success_rate": 0.7368421052631579,
-      "latency_p50": 198,
-      "latency_p95": 1108,
+      "calls": 23,
+      "success": 17,
+      "success_rate": 0.7391304347826086,
+      "latency_p50": 269,
+      "latency_p95": 2640,
       "response_chars_mean": 62,
       "error_classes": {
         "spending_cap": 2,
-        "rate_limit": 3
+        "rate_limit": 4
       }
     }
   }

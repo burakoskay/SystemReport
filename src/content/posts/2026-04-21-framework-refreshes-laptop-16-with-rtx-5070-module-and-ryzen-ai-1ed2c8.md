@@ -1,16 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-04-28T20:11:24.186Z
+modified_date: 2026-04-29T14:09:57.647Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Another variable is the relationship with Nvidia. Framework has secured a mobile
 
 ## Updates
 
+- **2026-04-29** — Electric air taxis are finally taking flight — just not with passengers ([source](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa))
 - **2026-04-28** — The resurrected Commodore 64 is getting a facelift like the original ([source](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c))
 - **2026-04-28** — You can get dragged into a police investigation by proximity alone — for now ([source](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants))
 - **2026-04-26** — Trump turns the WHCD shooting into a pitch for the White House ballroom ([source](https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom))

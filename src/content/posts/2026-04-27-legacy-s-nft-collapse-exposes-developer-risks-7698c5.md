@@ -1,18 +1,19 @@
 ---
 title: "Legacy's NFT Collapse Exposes Developer Risks"
 date: 2026-04-27T12:19:09.718Z
-modified_date: 2026-04-28T10:20:49.002Z
+modified_date: 2026-04-29T14:10:01.202Z
 tags: ["NFT","software patents","play-to-earn games"]
 hero_image: "/hero/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"
 ---
+
 
 
 The collapse of Legacy, a play-to-earn game backed by millions in NFT sales, reveals the darker side of speculative gaming and the perils of software patents. Within weeks of its launch, the game's marketplace stalled, and community forums filled with complaints about broken rewards and lost tokens. Players who bought Legacy NFTs faced significant financial losses.
@@ -51,4 +52,5 @@ In conclusion, the collapse of Legacy serves as a reminder of the risks and chal
 
 ## Updates
 
+- **2026-04-29** — Which Automatic Litter Box Is Best? We Tested Litter-Robot’s Lineup ([source](https://www.wired.com/story/which-litter-robot-is-right-for-you/))
 - **2026-04-28** — The Bloomberg Terminal Is Getting an AI Makeover, Like It or Not ([source](https://www.wired.com/story/the-bloomberg-terminal-is-getting-an-ai-makeover-like-it-or-not/))
