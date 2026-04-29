@@ -1,37 +1,35 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-04-29T19:46:45.230Z",
+    "last_success": "2026-04-29T21:12:13.189Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 496878, Requested 4905. Please try again in 5m8.1024s. Need more tokens? Upgra",
-    "last_failure": "2026-04-29T19:47:12.755Z",
-    "cooldown_until": "2026-04-29T19:57:12.659Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 500000, Requested 2556. Please try again in 7m21.6768s. Need more tokens? Upgr",
+    "last_failure": "2026-04-29T21:12:13.228Z",
+    "cooldown_until": "2026-04-29T21:22:13.192Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-04-29T19:47:30.512Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-04-29T21:12:29.695Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198769, Requested 1690. Please try again in 3m18.288s. Need more tokens? Upgrade to Dev Tier today a",
-    "last_failure": "2026-04-29T19:50:07.992Z",
-    "cooldown_until": "2026-04-29T20:00:07.930Z"
+    "last_failure": "2026-04-29T19:50:07.992Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-04-29T19:52:47.581Z",
-    "consecutive_failures": 2,
+    "last_success": "2026-04-29T21:11:29.170Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 3815, Requested 4584. Please try again in 23.99s. Need more tokens? Upgrade to Dev Tier today at https:/",
-    "last_failure": "2026-04-29T19:53:44.385Z",
-    "cooldown_until": "2026-04-29T20:03:44.298Z"
+    "last_failure": "2026-04-29T19:53:44.385Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 2,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 97397, Requested 3525. Please try again in 13m16.608s. Need more tokens? Upgrade to Dev Tier tod",
-    "last_failure": "2026-04-29T19:54:20.758Z",
-    "last_success": "2026-04-29T19:44:03.290Z",
-    "cooldown_until": "2026-04-29T20:04:20.628Z"
+    "consecutive_failures": 1,
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 2152. Please try again in 30m59.328s. Need more tokens? Upgrade to Dev Tier to",
+    "last_failure": "2026-04-29T21:11:45.532Z",
+    "last_success": "2026-04-29T21:11:45.494Z",
+    "cooldown_until": "2026-04-29T21:21:45.496Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 11,
+    "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (67266870-cc53-4ef1-8a4a-3c8609a903f0)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-04-29T19:47:12.890Z",
-    "cooldown_until": "2026-04-29T19:57:12.659Z"
+    "last_success": "2026-04-29T21:15:46.052Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

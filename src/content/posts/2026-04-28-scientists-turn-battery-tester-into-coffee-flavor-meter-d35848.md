@@ -1,15 +1,17 @@
 ---
 title: "Scientists Turn Battery Tester Into Coffee Flavor Meter"
 date: 2026-04-28T19:53:27.470Z
+modified_date: 2026-04-29T21:11:21.038Z
 tags: ["coffee","electrochemistry","foodscience","instrumentation"]
 hero_image: "/hero/2026-04-28-scientists-turn-battery-tester-into-coffee-flavor-meter-d35848.jpg"
 hero_image_credit_name: "Chevanon Photography"
 hero_image_credit_url: "https://www.pexels.com/@chevanon"
 visual_keyword: "coffee beans beside scientific instrument with wires"
 description: "University of Oregon researchers adapt a battery‑testing instrument to capture coffee’s electrochemical fingerprint, promising sharper quality control."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## A battery tester now reads coffee
 The University of Oregon team swapped a lab instrument for a coffee‑shop tool. They connected a battery‑testing device to a coffee sample and recorded voltage swings that correlate with flavor compounds.
@@ -35,3 +37,7 @@ The technique also dovetails with efforts to embed AI into sensory evaluation. D
 The next step for the Oregon team is field testing in commercial roasteries. Their upcoming Phase 2 will compare the sensor’s predictions against blind taste panels across three major coffee brands. Stakeholders should track the pilot’s results, the cost per unit of the adapted instrument, and any standards bodies that reference electrochemical metrics for coffee grading. If the data hold up, the industry may see a shift from subjective cupping notes to objective voltage curves.
 
 ---
+
+## Updates
+
+- **2026-04-29** — Google Search queries hit an ‘all time high’ last quarter ([source](https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai))
