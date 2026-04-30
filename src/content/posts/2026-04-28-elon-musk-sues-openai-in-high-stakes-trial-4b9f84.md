@@ -1,15 +1,17 @@
 ---
 title: "Elon Musk sues OpenAI in high-stakes trial"
 date: 2026-04-28T20:18:39.683Z
+modified_date: 2026-04-30T06:31:58.769Z
 tags: ["elon-musk","openai","ai","legal-battle","sam-altman"]
 hero_image: "/hero/2026-04-28-elon-musk-sues-openai-in-high-stakes-trial-4b9f84.jpg"
 hero_image_credit_name: "Quang Vuong"
 hero_image_credit_url: "https://www.pexels.com/@quang-vuong-724225078"
 visual_keyword: "Elon Musk and Sam Altman in federal court"
 description: "Elon Musk's legal battle with OpenAI over AI governance and profits begins in federal court."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Musk v. OpenAI: A Fractured Vision
 
@@ -32,3 +34,7 @@ The trial hinges on proving whether OpenAI's transition to a PBC violated its or
 This case arrives as AI governance debates intensify. Musk has repeatedly offered to buy OpenAI ($97.4 billion in 2025) or sue to block its profit-driven direction. Altman's rebuttal—offering to purchase Musk's X platform for $9.74 billion—exposes the personal and financial tensions underlying technical disagreements. If Musk prevails, OpenAI may face forced restructuring or delayed IPO, altering its ability to fund AI research and compete with rivals.
 
 What to watch: Opening statements begin Tuesday in Oakland. Key evidence includes Musk's 2015-2020 funding records, OpenAI's 2023 board decisions, and testimony from Microsoft CEO Satya Nadella. The trial is expected to conclude by mid-May. Investors and AI researchers should track any court-ordered rollbacks of OpenAI's for-profit transition and potential impacts on Microsoft's $130 billion stake.
+
+## Updates
+
+- **2026-04-30** — SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO ([source](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/))
