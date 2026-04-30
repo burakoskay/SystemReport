@@ -1,16 +1,17 @@
 ---
 title: "MAGA's Staged Assassination Doubts"
 date: 2026-04-18T12:46:10.297Z
-modified_date: 2026-04-21T09:44:33.657Z
+modified_date: 2026-04-30T14:08:19.393Z
 tags: ["MAGA","Trump","conspiracy theories","assassination attempt"]
 hero_image: "/hero/2026-04-18-maga-s-staged-assassination-doubts-712ca0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Trump"
 description: "MAGA supporters increasingly believe the Trump assassination attempt was staged, fueling internal divisions."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 The July 13 Butler, Pennsylvania, shooting of former President Donald Trump has sparked skepticism among his supporters. Some now question the official narrative, convinced the attempt was staged. Specific claims include allegations the event was faked to garner sympathy or distract from other issues.
@@ -26,4 +27,5 @@ The divisions within MAGA have significant implications for Trump's base and the
 
 ## Updates
 
+- **2026-04-30** — Instagram says it doesn’t want your tweet round ups ([source](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups))
 - **2026-04-21** — PlayStation&#8217;s age-gating restrictions are coming to UK consoles ([source](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat))

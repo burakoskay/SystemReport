@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Gives Windows Users a Break on Updates"
 date: 2026-04-25T20:46:44.659Z
-modified_date: 2026-04-30T10:11:05.953Z
+modified_date: 2026-04-30T14:08:18.521Z
 tags: ["Microsoft","Windows Updates","Software Updates"]
 hero_image: "/hero/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "Windows Update"
 description: "Microsoft now lets users pause Windows updates for up to 35 days. The change aims to make updates less disruptive."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.mp3"
 audio_bytes: 581426
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ In conclusion, Microsoft's new update policy is a welcome change for Windows use
 
 ## Updates
 
+- **2026-04-30** — Here’s what Netflix’s new vertical video feed is like ([source](https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui))
 - **2026-04-30** — Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim ([source](https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/))

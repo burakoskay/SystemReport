@@ -1,15 +1,17 @@
 ---
 title: "Uber Takes a Page from Airbnb with Hotel Bookings"
 date: 2026-04-29T19:44:18.726Z
+modified_date: 2026-04-30T14:08:17.670Z
 tags: ["Uber","Hotel Bookings","Travel Industry"]
 hero_image: "/hero/2026-04-29-uber-takes-a-page-from-airbnb-with-hotel-bookings-e87bf6.jpg"
 hero_image_credit_name: "SHOX ART"
 hero_image_credit_url: "https://www.pexels.com/@shox"
 visual_keyword: "Uber app"
 description: "Uber expands into hotel bookings, leveraging AI to offer users a new way to plan their trips. The move marks a significant shift in the company's business model."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## A New Direction for Uber
@@ -80,3 +82,6 @@ Uber's expansion into new markets has not always been smooth. The company has fa
 
 As Uber continues to grow and expand its services, it's likely that it will face increased regulatory scrutiny. The company's hotel booking feature could raise concerns about safety, liability, and competition, and Uber will need to navigate these challenges to succeed.
 
+## Updates
+
+- **2026-04-30** — Samsung says the RAM shortage could get even worse next year ([source](https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027))

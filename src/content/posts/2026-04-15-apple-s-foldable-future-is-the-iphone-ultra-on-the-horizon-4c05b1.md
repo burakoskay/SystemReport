@@ -1,16 +1,17 @@
 ---
 title: "Apple's Foldable Future: Is the iPhone Ultra on the Horizon?"
 date: 2026-04-15T19:47:26.268Z
-modified_date: 2026-04-27T14:06:05.687Z
+modified_date: 2026-04-30T14:08:16.822Z
 tags: ["apple","iphone ultra","foldable phone","tech rumors","smartphone innovation"]
 hero_image: "/hero/2026-04-15-apple-s-foldable-future-is-the-iphone-ultra-on-the-horizon-4c05b1.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "futuristic foldable iPhone concept"
 description: "Apple is poised to enter the foldable phone market later this year. Speculation mounts on its name, likely 'iPhone Ultra,' and premium features set to redefine the high-end smartphone experience."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ Apple's entry into the foldable market, particularly with an "Ultra" branded dev
 
 ## Updates
 
+- **2026-04-30** — How to win — and lose — Decoder ([source](https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview))
 - **2026-04-27** — OpenAI is making its own phone to compete with the iPhone: report ([source](https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/))
 - **2026-04-25** — Sho Miyake answers life’s greatest questions ([source](https://www.theverge.com/entertainment/918313/director-sho-miyake-interview))
 - **2026-04-24** — 360-degree cameras have a new superpower ([source](https://www.theverge.com/tech/914730/splatica-gaussian-splats-insta360-antigravity))
