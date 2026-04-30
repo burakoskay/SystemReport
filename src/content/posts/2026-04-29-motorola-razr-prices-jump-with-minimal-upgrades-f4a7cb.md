@@ -1,14 +1,16 @@
 ---
 title: "Motorola Razr prices jump with minimal upgrades"
 date: 2026-04-29T17:49:32.576Z
+modified_date: 2026-04-30T17:26:10.629Z
 tags: ["Motorola","Razr","foldable phones"]
 hero_image: "/hero/2026-04-29-motorola-razr-prices-jump-with-minimal-upgrades-f4a7cb.jpg"
 hero_image_credit_name: "Chris F"
 hero_image_credit_url: "https://www.pexels.com/@chris-f-38966"
 visual_keyword: "Motorola Razr"
 description: "Motorola's 2026 Razr lineup arrives with higher prices and minor changes. Moto Buds 2 Plus add Bose sound for $149."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Price hike on all three Razr flip phones
@@ -35,3 +37,6 @@ The 2026 Razr lineup's price increase may have a significant impact on consumers
 ## What to watch next
 The next few months will reveal whether Motorola's price gamble pays off. Watch the sales data for the 2026 Razr models during the holiday quarter; a dip could prompt the company to reconsider its pricing strategy before the 2027 refresh. Additionally, the success of the Moto Buds 2 Plus may influence Motorola's future product launches and pricing decisions. If the Moto Buds 2 Plus are well-received, Motorola may focus on expanding its audio product line, which could help the company attract a broader audience.
 
+## Updates
+
+- **2026-04-30** — Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System ([source](https://www.wired.com/story/daniel-davis-immunology-wired-health/))

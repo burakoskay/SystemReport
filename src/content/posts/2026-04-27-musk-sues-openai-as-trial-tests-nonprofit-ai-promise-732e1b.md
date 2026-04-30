@@ -1,15 +1,17 @@
 ---
 title: "Musk sues OpenAI as trial tests nonprofit AI promise"
 date: 2026-04-27T21:11:54.883Z
+modified_date: 2026-04-30T17:26:15.162Z
 tags: ["ai","lawsuit","openai","elon-musk","techpolicy"]
 hero_image: "/hero/2026-04-27-musk-sues-openai-as-trial-tests-nonprofit-ai-promise-732e1b.jpg"
 hero_image_credit_name: "KATRIN  BOLOVTSOVA"
 hero_image_credit_url: "https://www.pexels.com/@ekaterina-bolovtsova"
 visual_keyword: "courtroom with AI symbols and legal documents"
 description: "Elon Musk’s lawsuit claims OpenAI betrayed its nonprofit charter, and a federal trial in Oakland will decide the future of open artificial intelligence."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Musk’s lawsuit ignites a courtroom showdown
 Elon Musk filed a civil suit against OpenAI, Sam Altman, and Greg Brockman on Thursday in San Francisco federal court. The complaint accuses the startup of abandoning the nonprofit mission it promised when Musk helped fund it in 2015.
@@ -42,3 +44,7 @@ OpenAI’s claim to openness is now contested. Altman has promised that OpenAI�
 The Oakland trial will produce a factual record on how OpenAI’s governance diverged from its original charter. Watch for the judge’s ruling on whether the founding agreement is enforceable and whether Microsoft’s influence can be deemed a breach of contract. A settlement or court‑ordered restructuring could force OpenAI to separate its research arm from commercial licensing, reshaping the AI market for years to come.
 
 ---
+
+## Updates
+
+- **2026-04-30** — Here&#8217;s how the new Microsoft and OpenAI deal breaks down ([source](https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad))

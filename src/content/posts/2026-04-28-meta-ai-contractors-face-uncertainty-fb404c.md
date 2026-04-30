@@ -1,14 +1,16 @@
 ---
 title: "Meta AI Contractors Face Uncertainty"
 date: 2026-04-28T20:11:53.107Z
+modified_date: 2026-04-30T17:26:13.365Z
 tags: ["Meta","AI","Layoffs","Tech Industry","Contractors"]
 hero_image: "/hero/2026-04-28-meta-ai-contractors-face-uncertainty-fb404c.jpg"
 hero_image_credit_name: "ANTONI SHKRABA production"
 hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
-sources_count: 1
+sources_count: 2
 ---
+
 
 ## Meta AI Contractors Face Uncertainty
 
@@ -53,3 +55,7 @@ The tech industry has seen significant growth in recent years, but it has also b
 ### What to Watch
 
 The outcome of the potential layoffs and the response from Meta and Accenture. The situation has significant implications for the workers and their families, and could have broader implications for the tech industry as a whole.
+
+## Updates
+
+- **2026-04-30** — Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale ([source](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale))
