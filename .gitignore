@@ -49,3 +49,9 @@ gemini-code-*.json
 isitagentready.txt
 plan.md
 benchmark/test-logs/
+
+# One-off local scripts
+fix_vram.js
+test_yaml.js
+benchmark/bench.mjs
+benchmark/bench2.mjs
