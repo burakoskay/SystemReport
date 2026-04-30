@@ -1,17 +1,19 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
+modified_date: 2026-04-30T19:41:05.152Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Instagram tests Instants for ephemeral sharing
@@ -53,3 +55,7 @@ The AI-generated wolf case highlights the importance of understanding the techni
 ## Conclusion
 
 The launch of Instants and Throw highlights the challenges facing social tech companies today. As users increasingly demand more private and secure ways of sharing content, platforms must balance these needs against the potential for misuse and the need for accountability. The AI-generated wolf case serves as a warning about the potential risks of unregulated AI systems. As the industry continues to grow and evolve, it's essential that developers, regulators, and users work together to create a safer and more responsible social tech ecosystem.
+
+## Updates
+
+- **2026-04-30** — Today’s Android game and app deals: Star Wars KOTOR 1 and 2,  Metal Soldiers 4 Pro, Cyberlords, more ([source](https://9to5toys.com/2026/04/30/today-android-game-app-deals-star-wars-kotor/))

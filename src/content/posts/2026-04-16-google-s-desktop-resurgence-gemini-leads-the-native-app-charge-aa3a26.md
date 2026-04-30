@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-04-28T10:20:50.067Z
+modified_date: 2026-04-30T19:40:58.126Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-04-30** — Microsoft’s Xbox mode is now available for all Windows 11 PCs ([source](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11))
 - **2026-04-28** — It’s a busy time for sci-fi, but don’t miss Aphelion ([source](https://www.theverge.com/entertainment/919379/aphelion-review-sci-fi-game-steam-ps5-xbox))
 - **2026-04-27** — Canonical lays out a plan for AI in Ubuntu Linux ([source](https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features))
 - **2026-04-24** — Elon Musk and Sam Altman’s court showdown will dish the dirt ([source](https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip))

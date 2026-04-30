@@ -1,16 +1,17 @@
 ---
 title: "Deezer battles AI music flood and a fraud epidemic"
 date: 2026-04-20T20:39:07.977Z
-modified_date: 2026-04-23T22:53:05.426Z
+modified_date: 2026-04-30T19:41:01.603Z
 tags: ["deezer","ai music","streaming fraud","music industry"]
 hero_image: "/hero/2026-04-20-deezer-battles-ai-music-flood-and-a-fraud-epidemic-df79a6.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI-generated music tracks flooding a streaming dashboard"
 description: "Deezer reports AI tracks now 44% of uploads, but most streams are fraudulent, exposing a $20bn market vulnerability."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Regulators in the EU and U.S. are drafting guidelines for AI‑generated content
 
 ## Updates
 
+- **2026-04-30** — Hackers are actively exploiting a bug in cPanel, used by millions of websites ([source](https://techcrunch.com/2026/04/30/hackers-are-actively-exploiting-a-bug-in-cpanel-used-by-millions-of-websites/))
 - **2026-04-23** — Brendan Carr’s war on wokeness targets inclusive children&#8217;s television ([source](https://www.theverge.com/entertainment/917810/brendan-carr-fcc-transgender-nonbinary-childrens-programming))
 - **2026-04-23** — Democrats want to ban ICE from turning warehouses into detention centers ([source](https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs))
 - **2026-04-22** — Ember’s self-heating smart mug is more than $50 off ahead of Mother’s Day ([source](https://www.theverge.com/gadgets/916818/ember-smart-mug-2-mothers-day-sale-2026-deal))

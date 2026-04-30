@@ -1,16 +1,17 @@
 ---
 title: "Uncovering the Mystery of Vanishing Ships in the Strait of Hormuz"
 date: 2026-04-18T01:04:58.528Z
-modified_date: 2026-04-21T19:20:03.461Z
+modified_date: 2026-04-30T19:41:03.375Z
 tags: ["maritime","oil trading","geopolitics"]
 hero_image: "/hero/2026-04-18-uncovering-the-mystery-of-vanishing-ships-in-the-strait-of-hormuz-4cdfa4.jpg"
 hero_image_credit_name: "İrfan Simsar"
 hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"
 description: "Analysts track spoofed tankers in a critical waterway, uncovering a complex web of deception"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -21,5 +22,6 @@ The Strait of Hormuz, a vital waterway connecting the Persian Gulf to the Gulf o
 
 ## Updates
 
+- **2026-04-30** — City of None is the next game from the co-creator of Celeste ([source](https://www.engadget.com/2161453/city-of-none-is-the-next-game-from-the-co-creator-of-celeste/))
 - **2026-04-21** — Framework is building a better couch keyboard because everyone hates the Logitech one ([source](https://www.theverge.com/tech/915497/framework-is-building-a-better-couch-keyboard-because-everyone-hates-the-logitech-one))
 - **2026-04-19** — Nothing’s modular CMF Headphone Pro are down to their lowest price to date ([source](https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal))

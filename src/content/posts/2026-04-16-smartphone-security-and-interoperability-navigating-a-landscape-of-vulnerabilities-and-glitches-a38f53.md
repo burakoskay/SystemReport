@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-04-26T10:51:25.137Z
+modified_date: 2026-04-30T19:41:04.266Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 8
+sources_count: 9
 author: "david-okafor"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-04-30** — Microsoft Flight Simulator 2024 support for PlayStation VR2 is now live ([source](https://www.engadget.com/2161381/microsoft-flight-simulator-2024-support-for-playstation-vr2-is-now-live/))
 - **2026-04-26** — The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync ([source](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/))
 - **2026-04-25** — Refuse to let your doctor record you ([source](https://buttondown.com/maiht3k/archive/why-you-should-refuse-to-let-your-doctor-record/))
 - **2026-04-20** — 9to5Mac Daily: April 20, 2026 – iOS 27 rumors, iPhone colors ([source](https://9to5mac.com/2026/04/20/daily-april-20-2026-ios-27/))

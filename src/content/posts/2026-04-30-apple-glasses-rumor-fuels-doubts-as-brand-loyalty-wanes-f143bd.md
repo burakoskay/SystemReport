@@ -1,15 +1,17 @@
 ---
 title: "Apple Glasses rumor fuels doubts as brand loyalty wanes"
 date: 2026-04-30T14:25:14.301Z
+modified_date: 2026-04-30T19:41:06.067Z
 tags: ["apple","tech","privacy"]
 hero_image: "/hero/2026-04-30-apple-glasses-rumor-fuels-doubts-as-brand-loyalty-wanes-f143bd.jpg"
 hero_image_credit_name: "Sony Dude"
 hero_image_credit_url: "https://www.pexels.com/@sony-dude-2930971"
 visual_keyword: "apple glasses on a hand with subtle gesture icons, muted background"
 description: "A tentative hand‑gesture claim for Apple Glasses arrives while surveys show Apple slipping in consumer passion and regulators eye its news‑feed bias."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Apple Glasses may soon recognize Vision Pro‑style hand gestures, but the claim arrives as fresh surveys reveal Apple slipping in consumer passion and regulators probe the company’s news‑feed bias.
 
@@ -28,3 +30,7 @@ Apple’s news‑feed controversy adds a regulatory layer to the brand’s chall
 The confluence of a tentative hardware feature, slipping consumer passion, and mounting regulatory pressure paints a picture of a company at a crossroads. Hand‑gesture control could make Apple Glasses feel more immersive, but without clear confirmation the feature remains speculative. Meanwhile, the brand’s declining emotional connection with users suggests that novelty alone may not sustain loyalty.
 
 What to watch: The next Apple hardware event, slated for early next year, will reveal whether gesture‑based interaction makes it into the Glasses lineup. A follow‑up release of the The Verge/Reticle survey’s full data set could clarify how Apple’s perception evolves after the event. Finally, keep an eye on the FTC’s investigation timeline; any formal findings or settlement could reshape Apple News’ editorial policies and set a precedent for other platforms.
+
+## Updates
+
+- **2026-04-30** — Apple and Porsche debut 80s-inspired race car liveries at Laguna Seca ([source](https://9to5mac.com/2026/04/30/apple-and-porsche-debut-80s-inspired-race-car-liveries-at-laguna-seca/))

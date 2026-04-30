@@ -1,41 +1,42 @@
 {
-  "generated_at": "2026-04-30T17:36:34.719Z",
+  "generated_at": "2026-04-30T20:02:44.154Z",
   "window_days": 7,
-  "total_records": 3776,
+  "total_records": 3888,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1002,
-      "success": 803,
-      "success_rate": 0.8013972055888223,
-      "latency_p50": 3225,
+      "calls": 1030,
+      "success": 819,
+      "success_rate": 0.7951456310679612,
+      "latency_p50": 3267,
       "latency_p95": 11159,
-      "response_chars_mean": 3528,
+      "response_chars_mean": 3534,
       "error_classes": {
-        "unknown": 38,
-        "rate_limit": 159,
-        "too_large": 2
+        "unknown": 40,
+        "rate_limit": 168,
+        "too_large": 2,
+        "permission": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 305,
-      "success": 252,
-      "success_rate": 0.8262295081967214,
-      "latency_p50": 1227,
+      "calls": 308,
+      "success": 254,
+      "success_rate": 0.8246753246753247,
+      "latency_p50": 1228,
       "latency_p95": 9437,
       "response_chars_mean": 1839,
       "error_classes": {
-        "rate_limit": 50,
+        "rate_limit": 51,
         "unknown": 2,
         "timeout": 1
       }
     },
     "lengthen:v1": {
-      "calls": 450,
-      "success": 375,
-      "success_rate": 0.8333333333333334,
-      "latency_p50": 2642,
+      "calls": 454,
+      "success": 379,
+      "success_rate": 0.8348017621145375,
+      "latency_p50": 2625,
       "latency_p95": 10040,
-      "response_chars_mean": 4891,
+      "response_chars_mean": 4889,
       "error_classes": {
         "rate_limit": 73,
         "unknown": 1,
@@ -43,15 +44,15 @@
       }
     },
     "rewrite-headline:v1": {
-      "calls": 34,
-      "success": 25,
-      "success_rate": 0.7352941176470589,
+      "calls": 37,
+      "success": 27,
+      "success_rate": 0.7297297297297297,
       "latency_p50": 244,
       "latency_p95": 3902,
       "response_chars_mean": 63,
       "error_classes": {
         "spending_cap": 2,
-        "rate_limit": 7
+        "rate_limit": 8
       }
     }
   }
