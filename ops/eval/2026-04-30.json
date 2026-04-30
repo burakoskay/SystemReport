@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-30T21:24:13.207Z",
+  "generated_at": "2026-04-30T23:06:20.907Z",
   "window_days": 7,
-  "total_records": 3970,
+  "total_records": 4019,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1048,
-      "success": 827,
-      "success_rate": 0.7891221374045801,
-      "latency_p50": 3284,
+      "calls": 1060,
+      "success": 831,
+      "success_rate": 0.7839622641509434,
+      "latency_p50": 3267,
       "latency_p95": 11019,
-      "response_chars_mean": 3540,
+      "response_chars_mean": 3539,
       "error_classes": {
-        "unknown": 43,
-        "rate_limit": 175,
-        "too_large": 2,
+        "unknown": 45,
+        "rate_limit": 179,
+        "too_large": 4,
         "permission": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 309,
-      "success": 255,
-      "success_rate": 0.8252427184466019,
+      "calls": 311,
+      "success": 257,
+      "success_rate": 0.8263665594855305,
       "latency_p50": 1228,
       "latency_p95": 9437,
-      "response_chars_mean": 1836,
+      "response_chars_mean": 1839,
       "error_classes": {
         "rate_limit": 51,
         "unknown": 2,
@@ -31,28 +31,28 @@
       }
     },
     "lengthen:v1": {
-      "calls": 456,
-      "success": 381,
-      "success_rate": 0.8355263157894737,
+      "calls": 463,
+      "success": 385,
+      "success_rate": 0.8315334773218143,
       "latency_p50": 2625,
-      "latency_p95": 10040,
-      "response_chars_mean": 4891,
+      "latency_p95": 9888,
+      "response_chars_mean": 4879,
       "error_classes": {
-        "rate_limit": 73,
+        "rate_limit": 76,
         "unknown": 1,
         "spending_cap": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 37,
-      "success": 27,
-      "success_rate": 0.7297297297297297,
+      "calls": 39,
+      "success": 28,
+      "success_rate": 0.717948717948718,
       "latency_p50": 244,
-      "latency_p95": 3902,
+      "latency_p95": 3917,
       "response_chars_mean": 63,
       "error_classes": {
         "spending_cap": 2,
-        "rate_limit": 8
+        "rate_limit": 9
       }
     }
   }
