@@ -1,16 +1,17 @@
 ---
 title: "NASA Powers Down Voyager 1 Instrument to Stretch Decades‑Long Mission"
 date: 2026-04-19T05:54:54.302Z
-modified_date: 2026-04-25T20:46:15.975Z
+modified_date: 2026-04-30T03:37:22.650Z
 tags: ["voyager","spacecraft","radiation","deep‑space","technology"]
 hero_image: "/hero/2026-04-19-nasa-powers-down-voyager-1-instrument-to-stretch-decades-long-mission-81a9c7.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Voyager 1 spacecraft silhouetted against starfield with dimmed instrument panel"
 description: "NASA turned off a Voyager 1 sensor to preserve power, underscoring the aging probe's dwindling RTG output and the need for novel deep‑space solutions."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Power Cut on a 45‑Year‑Old Probe
@@ -38,4 +39,5 @@ NASA’s next power‑budget review will likely target another low‑priority se
 
 ## Updates
 
+- **2026-04-30** — Germany has become the largest ammunition producer in the world ([source](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/))
 - **2026-04-25** — Trump fires the entire National Science Board ([source](https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board))
