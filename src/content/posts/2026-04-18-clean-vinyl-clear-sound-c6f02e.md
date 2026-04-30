@@ -1,16 +1,17 @@
 ---
 title: "Clean Vinyl, Clear Sound"
 date: 2026-04-18T11:07:06.076Z
-modified_date: 2026-04-24T17:03:08.204Z
+modified_date: 2026-04-30T10:11:08.472Z
 tags: ["Vinyl Records","Record Cleaning","Sound Quality"]
 hero_image: "/hero/2026-04-18-clean-vinyl-clear-sound-c6f02e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Vinyl Record Player"
 description: "Methods to clean vinyl records"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -23,5 +24,6 @@ Proper cleaning reduces clicks and pops by 90%. Regular cleaning extends record 
 
 ## Updates
 
+- **2026-04-30** — Where the goblins came from ([source](https://openai.com/index/where-the-goblins-came-from/))
 - **2026-04-24** — Norway Set to Become Latest Country to Ban Social Media for Under 16s ([source](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s))
 - **2026-04-23** — Turkey wants to ban social media for kids under 15 ([source](https://www.engadget.com/social-media/turkey-wants-to-ban-social-media-for-kids-under-15-143053462.html?src=rss))

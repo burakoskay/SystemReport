@@ -1,18 +1,20 @@
 ---
 title: "Microsoft Gives Windows Users a Break on Updates"
 date: 2026-04-25T20:46:44.659Z
+modified_date: 2026-04-30T10:11:05.953Z
 tags: ["Microsoft","Windows Updates","Software Updates"]
 hero_image: "/hero/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "Windows Update"
 description: "Microsoft now lets users pause Windows updates for up to 35 days. The change aims to make updates less disruptive."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.mp3"
 audio_bytes: 581426
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Welcome Reprieve for Windows Users
@@ -66,3 +68,7 @@ The new update policy is a significant change for Microsoft, and it will be inte
 ## Conclusion
 
 In conclusion, Microsoft's new update policy is a welcome change for Windows users. By giving users more control over when their device updates, Microsoft is acknowledging the frustration that many users have expressed about its previous approach. While there may be implications for IT departments and organizations, the benefits of the new policy are clear. As Microsoft continues to roll out this new policy, it will be interesting to see how users respond and what changes may come in the future.
+
+## Updates
+
+- **2026-04-30** — Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim ([source](https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/))

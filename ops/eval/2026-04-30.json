@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-04-30T06:38:28.461Z",
+  "generated_at": "2026-04-30T10:28:00.903Z",
   "window_days": 7,
-  "total_records": 3512,
+  "total_records": 3600,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 960,
-      "success": 771,
-      "success_rate": 0.803125,
-      "latency_p50": 3245,
-      "latency_p95": 11450,
-      "response_chars_mean": 3511,
+      "calls": 974,
+      "success": 782,
+      "success_rate": 0.8028747433264887,
+      "latency_p50": 3225,
+      "latency_p95": 11423,
+      "response_chars_mean": 3521,
       "error_classes": {
         "unknown": 35,
-        "rate_limit": 152,
+        "rate_limit": 155,
         "too_large": 2
       }
     },
     "revise:v2-800w": {
-      "calls": 290,
-      "success": 241,
-      "success_rate": 0.8310344827586207,
+      "calls": 294,
+      "success": 245,
+      "success_rate": 0.8333333333333334,
       "latency_p50": 1235,
-      "latency_p95": 9441,
-      "response_chars_mean": 1834,
+      "latency_p95": 9437,
+      "response_chars_mean": 1830,
       "error_classes": {
         "rate_limit": 46,
         "unknown": 2,
@@ -30,25 +30,25 @@
       }
     },
     "lengthen:v1": {
-      "calls": 430,
-      "success": 357,
-      "success_rate": 0.8302325581395349,
-      "latency_p50": 2679,
-      "latency_p95": 10147,
-      "response_chars_mean": 4886,
+      "calls": 437,
+      "success": 363,
+      "success_rate": 0.8306636155606407,
+      "latency_p50": 2644,
+      "latency_p95": 10040,
+      "response_chars_mean": 4887,
       "error_classes": {
-        "rate_limit": 71,
+        "rate_limit": 72,
         "unknown": 1,
         "spending_cap": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 27,
-      "success": 21,
-      "success_rate": 0.7777777777777778,
+      "calls": 28,
+      "success": 22,
+      "success_rate": 0.7857142857142857,
       "latency_p50": 213,
-      "latency_p95": 2640,
-      "response_chars_mean": 62,
+      "latency_p95": 1735,
+      "response_chars_mean": 63,
       "error_classes": {
         "spending_cap": 2,
         "rate_limit": 4
