@@ -1,16 +1,18 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-04-24T13:46:46.464Z
+modified_date: 2026-04-30T21:06:14.285Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 10
+sources_count: 12
 author: "lena-volkov"
 ---
+
+
 
 
 
@@ -29,6 +31,8 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-04-30** — iOS 27 to bring AI inside the Camera app, Tim Cook’s biggest mistake, iPhone shutdown problem ([source](https://9to5mac.com/2026/04/30/happy-hour-588/))
+- **2026-04-30** — Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter ([source](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/))
 - **2026-04-24** — The Morning After: Polymarket and a hairdryer ([source](https://www.engadget.com/general/the-morning-after-engadget-newsletter-112802570.html?src=rss))
 - **2026-04-22** — Anthropic is investigating 'unauthorized access' of its Mythos cybersecurity tool ([source](https://www.engadget.com/ai/anthropic-is-investigating-unauthorized-access-of-its-mythos-cybersecurity-tool-091017168.html?src=rss))
 - **2026-04-20** — Sony will require age checks in the UK and Ireland to access PlayStation communication features ([source](https://www.engadget.com/gaming/playstation/sony-will-require-age-checks-in-the-uk-and-ireland-to-access-playstation-communication-features-194916442.html?src=rss))

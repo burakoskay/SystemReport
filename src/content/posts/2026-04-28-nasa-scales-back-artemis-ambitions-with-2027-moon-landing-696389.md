@@ -1,14 +1,16 @@
 ---
 title: "NASA Scales Back Artemis Ambitions with 2027 Moon Landing"
 date: 2026-04-28T03:48:39.956Z
+modified_date: 2026-04-30T21:06:11.471Z
 tags: ["NASA","Artemis","Moon Landing"]
 hero_image: "/hero/2026-04-28-nasa-scales-back-artemis-ambitions-with-2027-moon-landing-696389.jpg"
 hero_image_credit_name: "Daniel Dzejak"
 hero_image_credit_url: "https://www.pexels.com/@daniel-dzejak-219872264"
 visual_keyword: "NASA Artemis Moon Mission"
 description: "NASA delays Artemis III to 2027, shifts focus from lunar landing to tech testing"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## NASA Scales Back Artemis Ambitions
@@ -62,3 +64,7 @@ In conclusion, NASA's decision to scale back its Artemis ambitions is a direct r
 The success of the Artemis program will depend on NASA's ability to work with private companies and leverage their expertise and resources. The agency will need to ensure that its partnerships are successful and that the necessary technologies and strategies are developed.
 
 The Artemis program has significant implications for the future of space exploration. The program is part of a larger effort to establish a sustainable presence on the moon and explore the solar system. The success of the program will depend on NASA's ability to develop and implement new technologies.
+
+## Updates
+
+- **2026-04-30** — Stranded traveler gets more than he bargained for in Resident Evil teaser ([source](https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/))
