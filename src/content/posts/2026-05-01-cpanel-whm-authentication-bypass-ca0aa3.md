@@ -1,18 +1,20 @@
 ---
 title: "cPanel WHM Authentication Bypass"
 date: 2026-05-01T09:53:26.149Z
+modified_date: 2026-05-01T17:02:00.122Z
 tags: ["cPanel","WHM","authentication bypass","vulnerability"]
 hero_image: "/hero/2026-05-01-cpanel-whm-authentication-bypass-ca0aa3.jpg"
 hero_image_credit_name: "Cầu Đường Việt Nam"
 hero_image_credit_url: "https://www.pexels.com/@c-u-d-ng-vi-t-nam-478497515"
 visual_keyword: "cPanel WHM Authentication Bypass"
 description: "cPanel's WHM has an authentication bypass vulnerability, CVE-2026-41940. This flaw allows unauthorized access to cPanel accounts."
-sources_count: 9
-author: "priya-raman"
+sources_count: 10
 audio_path: "/audio/2026-05-01-cpanel-whm-authentication-bypass-ca0aa3.mp3"
 audio_bytes: 666480
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Authentication Bypass in cPanel's WHM
@@ -68,3 +70,7 @@ The incident also highlights the importance of collaboration between web hosting
 As the web hosting industry continues to evolve, it is essential that companies prioritize security and take proactive steps to protect their customers' data. This includes implementing robust security measures, providing transparency and communication in the event of a security breach, and working collaboratively with security researchers and customers to identify and address security vulnerabilities.
 
 By taking a proactive and collaborative approach to security, the web hosting industry can build trust with its customers and protect against potential threats.
+
+## Updates
+
+- **2026-05-01** — Scorpions go terminator mode and reinforce their weapons with metal ([source](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/))

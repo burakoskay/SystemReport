@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-04-29T14:10:01.920Z
+modified_date: 2026-05-01T17:01:57.203Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 11
+sources_count: 12
 author: "lena-volkov"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-05-01** — We just got a new reason to believe the Trump phone is real(ish) ([source](https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile))
 - **2026-04-29** — A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound ([source](https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/))
 - **2026-04-28** — Adidas’ Lightest Shoes Ever Were Behind the First Sub-2-Hour Marathon ([source](https://www.wired.com/story/sub-2-hour-marathon-adidas-shoes-sabastian-sawe/))
 - **2026-04-25** — An influx of used EVs could drive down prices ([source](https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices))

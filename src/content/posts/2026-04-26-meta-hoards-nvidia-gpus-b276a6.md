@@ -1,19 +1,20 @@
 ---
 title: "Meta Hoards Nvidia GPUs"
 date: 2026-04-26T22:45:13.473Z
-modified_date: 2026-05-01T03:49:48.672Z
+modified_date: 2026-05-01T17:01:58.180Z
 tags: ["AI","Nvidia","Meta"]
 hero_image: "/hero/2026-04-26-meta-hoards-nvidia-gpus-b276a6.jpg"
 hero_image_credit_name: "Elias Gamez"
 hero_image_credit_url: "https://www.pexels.com/@elias-gamez-2002621"
 visual_keyword: "Nvidia H100 GPU"
 description: "Meta has 350,000 Nvidia H100 GPUs for AI training"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-26-meta-hoards-nvidia-gpus-b276a6.mp3"
 audio_bytes: 603787
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ The regulatory implications of the H100 GPU will also continue to evolve, with t
 
 ## Updates
 
+- **2026-05-01** — The Chinese Government Just Got the World’s Largest Digital Rights Conference Canceled ([source](https://www.wired.com/story/the-chinese-government-pressured-zambia-to-cancel-the-worlds-largest-digital-rights-conference/))
 - **2026-05-01** — The craziest part of Musk v. Altman happened while the jury was out of the room ([source](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai))

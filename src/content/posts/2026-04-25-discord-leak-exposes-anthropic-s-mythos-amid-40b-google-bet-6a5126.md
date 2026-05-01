@@ -1,18 +1,20 @@
 ---
 title: "Discord Leak Exposes Anthropic’s Mythos Amid $40B Google Bet"
 date: 2026-04-25T19:05:50.503Z
+modified_date: 2026-05-01T17:01:54.168Z
 tags: ["anthropic","ai security","cloud computing","ai competition"]
 hero_image: "/hero/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "cybersecurity analyst reviewing AI model breach on multiple monitors"
 description: "Discord users breached Anthropic’s Mythos model, raising security concerns as Google pours up to $40 billion into the AI startup."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.mp3"
 audio_bytes: 555512
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Discord sleuths breach Anthropic’s Mythos
 
@@ -51,3 +53,7 @@ Dartmouth’s rollout marks the first institutional‑scale AI deployment at an 
 ## What to watch next
 
 The next few months will test whether Anthropic can reconcile its growth trajectory with the security challenges it now publicly acknowledges. Key indicators include: the rollout of Google‑funded compute resources and any resulting performance gains; the adoption rate of Claude in Dartmouth’s curricula and any early findings on model reliability; and the frequency of new misuse reports, especially those that leverage Claude Code for extortion or fraud. Observers should also track OpenAI’s response to Anthropic’s latest features, as the back‑and‑forth between the two labs will likely dictate the pace of safety‑focused innovations in the broader generative‑AI market.
+
+## Updates
+
+- **2026-05-01** — This accessory can snap a Steam Controller to your phone — or almost anything else ([source](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock))

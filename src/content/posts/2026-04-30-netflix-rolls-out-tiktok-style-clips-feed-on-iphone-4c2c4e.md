@@ -1,15 +1,16 @@
 ---
 title: "Netflix Rolls Out TikTok-Style 'Clips' Feed on iPhone"
 date: 2026-04-30T14:11:29.618Z
-modified_date: 2026-04-30T17:26:14.249Z
+modified_date: 2026-05-01T17:01:56.156Z
 tags: ["Netflix","Clips","TikTok","Streaming"]
 hero_image: "/hero/2026-04-30-netflix-rolls-out-tiktok-style-clips-feed-on-iphone-4c2c4e.jpg"
 hero_image_credit_name: "Cup of  Couple"
 hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "Netflix Clips"
 description: "Netflix redesigns its iPhone app with a vertical video feed called Clips, showcasing highlights from original programming."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 
@@ -59,4 +60,5 @@ In conclusion, the introduction of Clips represents a significant shift in Netfl
 
 ## Updates
 
+- **2026-05-01** — Dreame’s rocket-powered car can do 0–60 in 0.9 seconds because you can just say things now ([source](https://www.theverge.com/transportation/921204/dreame-ev-car-rocket-boosted-zero-sixty-reality))
 - **2026-04-30** — Gemini is rolling out to cars with Google built-in ([source](https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade))
