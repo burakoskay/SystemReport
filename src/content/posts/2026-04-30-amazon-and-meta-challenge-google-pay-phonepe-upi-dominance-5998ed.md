@@ -1,15 +1,17 @@
 ---
 title: "Amazon and Meta Challenge Google Pay, PhonePe UPI Dominance"
 date: 2026-04-30T10:22:25.382Z
+modified_date: 2026-05-01T11:11:20.479Z
 tags: ["india","upi","tech","ai","regulation"]
 hero_image: "/hero/2026-04-30-amazon-and-meta-challenge-google-pay-phonepe-upi-dominance-5998ed.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "Indian digital payments hub with competing logos and a farmer using a smartphone"
 description: "Amazon and Meta lobby Indian regulators to curb Google Pay and PhonePe's 80% UPI share, while AI tools like KisanAI reshape Indian tech landscape."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Amazon, Meta, and the UPI Power Play
 
@@ -50,3 +52,7 @@ Regulators will announce whether they will impose caps on transaction fees or fo
 In parallel, watch for adoption metrics from KisanAI and similar open‑source agritech tools. If farmer uptake spikes, it could pressure larger agritech firms to open their APIs or lower their prices.
 
 Both stories converge on a single question: will India’s tech ecosystem evolve toward more open competition, or will entrenched players double down on market control? The answer will shape everything from a farmer’s WhatsApp chat to a shopper’s checkout experience.
+
+## Updates
+
+- **2026-05-01** — Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing ([source](https://www.wired.com/review/soundcore-nebula-p1/))
