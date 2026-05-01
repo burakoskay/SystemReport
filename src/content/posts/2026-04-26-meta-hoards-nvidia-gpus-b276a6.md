@@ -1,18 +1,20 @@
 ---
 title: "Meta Hoards Nvidia GPUs"
 date: 2026-04-26T22:45:13.473Z
+modified_date: 2026-05-01T03:49:48.672Z
 tags: ["AI","Nvidia","Meta"]
 hero_image: "/hero/2026-04-26-meta-hoards-nvidia-gpus-b276a6.jpg"
 hero_image_credit_name: "Elias Gamez"
 hero_image_credit_url: "https://www.pexels.com/@elias-gamez-2002621"
 visual_keyword: "Nvidia H100 GPU"
 description: "Meta has 350,000 Nvidia H100 GPUs for AI training"
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-04-26-meta-hoards-nvidia-gpus-b276a6.mp3"
 audio_bytes: 603787
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta's Nvidia H100 Hoard
@@ -71,3 +73,6 @@ In conclusion, the Nvidia H100 GPU is a powerful tool that is driving the growth
 
 The regulatory implications of the H100 GPU will also continue to evolve, with the U.S. government and other countries imposing new controls and regulations on the technology. However, the importance of the H100 GPU will only continue to increase, and it will be exciting to see how the technology develops in the coming years.
 
+## Updates
+
+- **2026-05-01** — The craziest part of Musk v. Altman happened while the jury was out of the room ([source](https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai))

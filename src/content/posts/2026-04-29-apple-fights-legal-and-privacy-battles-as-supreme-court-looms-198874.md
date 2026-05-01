@@ -1,15 +1,17 @@
 ---
 title: "Apple fights legal and privacy battles as Supreme Court looms"
 date: 2026-04-29T14:19:57.648Z
+modified_date: 2026-05-01T03:49:50.821Z
 tags: ["apple","privacy","app store"]
 hero_image: "/hero/2026-04-29-apple-fights-legal-and-privacy-battles-as-supreme-court-looms-198874.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "courtroom with Apple logo and app icons"
 description: "Apple lost a bid to pause App Store fee changes, faces scrutiny over ad personalization and AI‑nudify apps, while Brussels seeks to yank Uber from its stores."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Apple’s App Store fee fight reaches the Supreme Court
 Apple lost its bid to pause the court‑ordered changes to App Store payment rules. The decision leaves external purchase links active and pushes the Epic Games dispute toward the Supreme Court.
@@ -29,3 +31,7 @@ The move follows a pattern of local bans in Spain, Thailand, India, the United S
 
 ## What to watch
 The Supreme Court’s ruling on the Epic Games case will set a precedent for all app‑store ecosystems. At the same time, Apple’s ad‑personalization controls and its handling of AI‑nudify apps will be tested by privacy advocates and regulators. Finally, Brussels’ attempt to force Apple and Google to pull Uber could become a template for other cities. Track the Court’s opinion, any new Apple policy updates, and the outcome of the Belgian complaint for the next wave of tech‑industry turbulence.
+
+## Updates
+
+- **2026-05-01** — Apple stock sees slight bump following Q2 2026 earnings report ([source](https://9to5mac.com/2026/04/30/apple-stock-sees-slight-bump-following-q2-2026-earnings-report/))

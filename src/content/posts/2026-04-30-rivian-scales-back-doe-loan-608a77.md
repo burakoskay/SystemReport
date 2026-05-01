@@ -1,14 +1,16 @@
 ---
 title: "Rivian Scales Back DOE Loan"
 date: 2026-04-30T22:59:46.117Z
+modified_date: 2026-05-01T03:49:49.391Z
 tags: ["Rivian","DOE Loan","Electric Vehicle","Georgia Factory","Data Collection"]
 hero_image: "/hero/2026-04-30-rivian-scales-back-doe-loan-608a77.jpg"
 hero_image_credit_name: "smart-me AG"
 hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Rivian Reworks DOE Loan Deal
 
@@ -55,3 +57,7 @@ Additionally, Rivian's data collection feature may set a precedent for other man
 Rivian's revised DOE loan deal and production capacity expansion are significant developments in the electric vehicle market. The company's ability to navigate regulatory environments and address supply chain challenges will be critical to its success.
 
 As the industry continues to evolve, Rivian's progress will be closely monitored. The company's commitment to data privacy and transparency may set a new standard for the industry.
+
+## Updates
+
+- **2026-05-01** — Rivian downsizes DOE loan to $4.5B for Georgia factory ([source](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/))
