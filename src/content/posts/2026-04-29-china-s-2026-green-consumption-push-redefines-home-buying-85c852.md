@@ -1,15 +1,17 @@
 ---
 title: "China’s 2026 Green Consumption Push Redefines Home Buying"
 date: 2026-04-29T06:40:28.199Z
+modified_date: 2026-05-01T22:54:27.223Z
 tags: ["china","green consumption","policy","sustainability"]
 hero_image: "/hero/2026-04-29-china-s-2026-green-consumption-push-redefines-home-buying-85c852.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "modern Chinese family choosing energy‑efficient appliances in a bright kitchen"
 description: "January 2026 sees China launch a sweeping green‑consumption action plan, reshaping appliances, cars and daily habits for a low‑carbon economy."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 The Chinese government unveiled a nationwide green‑consumption action plan in January 2026, targeting everything from refrigerators to electric cars. The move forces manufacturers and shoppers to prioritize carbon impact over price or status.
 
@@ -56,3 +58,7 @@ Monitor the rollout of the new energy‑efficiency standards. Early adopters wil
 Watch consumer sentiment surveys from the China Consumer Association. Shifts in willingness to pay a premium for green labels will indicate whether the policy reshapes buying habits or remains a top‑down mandate.
 
 The 2026 Action Plan could turn green consumption from a niche trend into a core pillar of China’s economy. Whether it succeeds will depend on enforcement, market adaptation and the willingness of everyday shoppers to trade price for planet.
+
+## Updates
+
+- **2026-05-01** — Microsoft tests redesigned Windows 11 Run menu with dark mode and more ([source](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test))
