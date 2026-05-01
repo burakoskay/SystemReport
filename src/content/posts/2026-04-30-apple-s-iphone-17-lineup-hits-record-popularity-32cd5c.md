@@ -1,15 +1,17 @@
 ---
 title: "Apple's iPhone 17 Lineup Hits Record Popularity"
 date: 2026-04-30T21:06:44.235Z
+modified_date: 2026-05-01T13:28:06.747Z
 tags: ["Apple","iPhone 17","smartphones"]
 hero_image: "/hero/2026-04-30-apple-s-iphone-17-lineup-hits-record-popularity-32cd5c.jpg"
 hero_image_credit_name: "Brijesh H"
 hero_image_credit_url: "https://www.pexels.com/@brijeshritz"
 visual_keyword: "iPhone 17"
 description: "Apple's iPhone 17 lineup has become the company's most popular model family ever, with the tech giant reporting another record-breaking quarter of earnings."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## A New Record for iPhone Popularity
 
@@ -64,3 +66,7 @@ The iPhone 17 lineup's impact on Apple's ecosystem is also noteworthy. With more
 In conclusion, the iPhone 17 lineup's record popularity is a significant achievement for Apple. With its enhanced features, competitive pricing, and technical advancements, it's no wonder that this lineup has resonated with consumers worldwide.
 
 As Apple continues to push the boundaries of innovation, it will be exciting to see what the future holds for the company's iPhone offerings.
+
+## Updates
+
+- **2026-05-01** — Netflix has reportedly greenlit a prequel for 'The Crown' ([source](https://www.engadget.com/2161834/netflix-the-crown-prequel/))
