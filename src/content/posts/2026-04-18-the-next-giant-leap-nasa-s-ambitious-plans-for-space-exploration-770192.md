@@ -1,16 +1,17 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-04-29T10:11:09.103Z
+modified_date: 2026-05-01T15:01:00.632Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-05-01** — Your guide to sci-fi streaming season ([source](https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026))
 - **2026-04-29** — The Justice Department Has Destroyed Its Voting Rights Section ([source](https://www.wired.com/story/the-justice-department-has-destroyed-its-voting-rights-section/))
 - **2026-04-23** — You’re about to feel the AI money squeeze ([source](https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue))
 - **2026-04-22** — Ecco the Dolphin: Complete will combine remasters and a sequel into one package ([source](https://www.engadget.com/gaming/ecco-the-dolphin-complete-will-combine-remasters-and-a-sequel-into-one-package-222020243.html?src=rss))

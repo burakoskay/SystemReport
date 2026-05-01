@@ -1,18 +1,20 @@
 ---
 title: "Elon Musk Faces Multiple Lawsuits Over Tesla, OpenAI Claims"
 date: 2026-04-28T19:43:24.910Z
+modified_date: 2026-05-01T15:00:59.644Z
 tags: ["elon musk","tesla","lawsuits","openai"]
 hero_image: "/hero/2026-04-28-elon-musk-faces-multiple-lawsuits-over-tesla-openai-claims-335c96.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "courtroom with legal documents and a tesla vehicle model in background"
 description: "Shareholders sue Tesla over autopilot risks, Musk testifies in OpenAI trial"
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-04-28-elon-musk-faces-multiple-lawsuits-over-tesla-openai-claims-335c96.mp3"
 audio_bytes: 655822
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Tesla Shareholders Sue Over Autopilot Claims
 
@@ -41,3 +43,7 @@ The Tesla trial is particularly consequential: if shareholders prove misrepresen
 ## What to Watch
 
 The Tesla shareholders’ lawsuit will hinge on evidence of intentional misrepresentation versus reasonable estimates about emerging technology. Key dates include pre-trial motions in Q2 2024 and potential settlement talks. In the OpenAI trial, the court’s interpretation of founder agreements may determine whether Musk has legal claims for governance changes. Sallie Mae’s defense strategy in the Scholly case will likely focus on contractual terms and regulatory compliance. All three cases could set precedents for tech sector governance and liability.
+
+## Updates
+
+- **2026-05-01** — Elon Musk had a bad week in court ([source](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast))

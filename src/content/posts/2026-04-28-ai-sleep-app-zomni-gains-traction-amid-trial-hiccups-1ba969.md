@@ -1,15 +1,17 @@
 ---
 title: "AI Sleep App Zomni Gains Traction Amid Trial Hiccups"
 date: 2026-04-28T06:52:11.898Z
+modified_date: 2026-05-01T15:00:56.722Z
 tags: ["ai health tech","cbt-i app","sleep tracking","mobile app updates","user feedback"]
 hero_image: "/hero/2026-04-28-ai-sleep-app-zomni-gains-traction-amid-trial-hiccups-1ba969.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "AI sleep coaching app interface on iPhone with dark mode"
 description: "Zomni's CBT-I app faces trial issues but wins praise for simplicity and effectiveness."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## The Rise of a Sleep Coaching App
 
@@ -32,3 +34,7 @@ Scalability is another hurdle. The app’s language support (Chinese, Spanish, A
 ## What to Watch
 
 Zomni’s next moves will test its ability to balance rapid expansion with quality control. The company should prioritize two things: a public update on the trial issue and a more detailed privacy policy. Without resolving these trust gaps, the app’s user retention could falter despite its strong initial traction. On the features side, the promised 'Sleep Insights' and improved AI companion show potential—users will be watching if these upgrades deliver meaningful improvements or just add to the app’s already cluttered release notes. For now, Zomni remains a compelling, if imperfect, tool for sleep-deprived New Yorkers—and a case study in the challenges of scaling AI health apps.
+
+## Updates
+
+- **2026-05-01** — Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic ([source](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia))

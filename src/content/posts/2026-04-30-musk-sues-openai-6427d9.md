@@ -1,18 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-04-30T03:37:44.124Z
+modified_date: 2026-05-01T15:01:04.513Z
 tags: ["AI","Elon Musk","OpenAI"]
 hero_image: "/hero/2026-04-30-musk-sues-openai-6427d9.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Elon Musk's lawsuit against OpenAI alleges breach of contract, seeking $134bn in damages"
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-04-30-musk-sues-openai-6427d9.mp3"
 audio_bytes: 660420
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Lawsuit
 Elon Musk is suing OpenAI for breach of contract, alleging the company prioritized profits over the public good. Musk claims OpenAI's shift to a for-profit model was a betrayal of the founding agreement.
@@ -57,3 +59,7 @@ The dispute between Musk and Altman has a long history, dating back to the found
 
 ## Implications for the Future of AI
 The outcome of the lawsuit will have significant implications for the future of AI development and the role of non-profit and for-profit entities in the industry. The lawsuit has highlighted the need for greater transparency and accountability in the AI industry, and the outcome will be closely watched by the tech industry.
+
+## Updates
+
+- **2026-05-01** — Fortnite returns to iPhone in Japan with Epic Games Store launch, still unavailable on Mac ([source](https://9to5mac.com/2026/05/01/fortnite-returns-to-iphone-in-japan-with-epic-games-store-launch-still-unavailable-on-mac/))

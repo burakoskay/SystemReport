@@ -1,17 +1,19 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T17:51:37.722Z
+modified_date: 2026-05-01T15:01:02.591Z
 tags: ["Amazon","Apple","AI","Pricing Models"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.jpg"
 hero_image_credit_name: "Luana  Ribeiro"
 hero_image_credit_url: "https://www.pexels.com/@luana-ribeiro-44057245"
 visual_keyword: "Kindle Colorsoft"
 description: "Amazon updates Kindle Colorsoft with dark mode, Apple introduces new subscription tier"
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.mp3"
 audio_bytes: 564289
 audio_mime: "audio/mpeg"
 ---
+
 
 # Amazon Updates Kindle Colorsoft with Dark Mode
 Amazon shipped a dark mode update for the Kindle Colorsoft. The change lets readers switch the interface from a bright white background to a deep gray.
@@ -51,3 +53,7 @@ The updates from Amazon, Apple, Otter, and GitHub have significant implications 
 The shift towards usage-based billing models, for instance, may prompt other AI tool vendors to adopt similar approaches. This could lead to a new wave of cost-optimization tools and services, as companies seek to minimize their AI-related expenses and maximize their returns on investment.
 
 Ultimately, the future of the tech industry will be shaped by the ongoing interplay between innovation, user demand, and pricing strategies. As companies continue to evolve and adapt, users can expect to see more sophisticated and user-centric products and services that reflect the changing needs of the market.
+
+## Updates
+
+- **2026-05-01** — Nissan abandons plans for US EV plant ([source](https://www.engadget.com/2161887/nissan-abandons-plans-for-us-ev-plant/))
