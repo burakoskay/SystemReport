@@ -1,16 +1,17 @@
 ---
 title: "SME Tech Rescue"
 date: 2026-04-19T16:31:39.767Z
-modified_date: 2026-04-29T14:09:58.342Z
+modified_date: 2026-05-01T20:58:40.213Z
 tags: ["smetech","backofficetech","consultancy"]
 hero_image: "/hero/2026-04-19-sme-tech-rescue-00a0d1.jpg"
 hero_image_credit_name: "Juan Moccagatta"
 hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to SME Tech Woes
@@ -37,4 +38,5 @@ What to watch: As the consultancy continues to grow and expand its services, it 
 
 ## Updates
 
+- **2026-05-01** — AI uses less water than the public thinks ([source](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/))
 - **2026-04-29** — Meta isn’t doing enough to keep kids off Facebook and Instagram, rules EU ([source](https://www.theverge.com/tech/920313/meta-facebook-instagram-eu-dsa-age-verification))
