@@ -1,16 +1,18 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-04-28T21:11:46.553Z
+modified_date: 2026-05-01T19:18:44.213Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 12
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -50,6 +52,8 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-05-01** — Today’s Android game and app deals: Down in Bermuda, Agent A, Backflip Madness, Last Game, more ([source](https://9to5toys.com/2026/05/01/android-game-app-deals-down-bermuda-backflip-last/))
+- **2026-05-01** — Musk v. Altman is just getting started ([source](https://techcrunch.com/video/musk-v-altman-is-just-getting-started/))
 - **2026-04-28** — Apple Weather down? iPhone app experiencing issues right now [U: Fixed] ([source](https://9to5mac.com/2026/04/28/apple-weather-down-iphone-app-experiencing-issues-right-now/))
 - **2026-04-28** — The Nex Playground gaming console is $60 off this week ([source](https://www.theverge.com/gadgets/919736/nex-playground-amazon-gaming-week-deal-sale))
 - **2026-04-28** — Behold the crown jewel of outrageous gaming laptops ([source](https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review))

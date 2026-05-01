@@ -1,16 +1,17 @@
 ---
 title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
-modified_date: 2026-04-24T13:46:45.132Z
+modified_date: 2026-05-01T19:18:43.216Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -40,4 +41,5 @@ The next step in this debate is likely to be a renewed focus on reforming survei
 
 ## Updates
 
+- **2026-05-01** — Dreame — the vacuum company — just ‘launched’ its own phones ([source](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular))
 - **2026-04-24** — The Best Cordless Vacuums for Your Whole House (2026) ([source](https://www.wired.com/gallery/the-best-cordless-vacuum/))

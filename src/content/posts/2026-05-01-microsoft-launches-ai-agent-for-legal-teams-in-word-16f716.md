@@ -1,18 +1,20 @@
 ---
 title: "Microsoft Launches AI Agent for Legal Teams in Word"
 date: 2026-05-01T13:29:44.026Z
+modified_date: 2026-05-01T19:18:41.271Z
 tags: ["Microsoft","Legal AI","Artificial Intelligence"]
 hero_image: "/hero/2026-05-01-microsoft-launches-ai-agent-for-legal-teams-in-word-16f716.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "Microsoft Legal Agent"
 description: "Microsoft introduces Legal Agent, an AI tool for legal teams in Word, handling document edits and complex documents."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-01-microsoft-launches-ai-agent-for-legal-teams-in-word-16f716.mp3"
 audio_bytes: 605249
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Microsoft's Foray into Legal AI
@@ -66,3 +68,7 @@ There have been several prior launches of AI-powered tools for legal teams, incl
 ## Conclusion
 
 In conclusion, Microsoft's Legal Agent is a significant development in the legal AI space. The tool has the potential to improve efficiency and productivity for legal teams, while also enhancing the quality of legal services. As the technology continues to evolve, it will be interesting to see how Legal Agent develops and whether it becomes a standard tool for legal teams.
+
+## Updates
+
+- **2026-05-01** — Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day ([source](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale))
