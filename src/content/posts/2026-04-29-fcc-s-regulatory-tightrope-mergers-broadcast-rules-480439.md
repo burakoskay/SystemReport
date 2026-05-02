@@ -1,15 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
+modified_date: 2026-05-02T13:22:36.446Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## FCC’s Nexstar-Tegna Merger Drama Unfolds
 
@@ -39,3 +41,7 @@ The FCC’s next moves will test its legitimacy. Nexstar’s appeal to the Ninth
 
 
 The FCC’s current trajectory is a high-stakes balancing act. For media companies, the message is clear: Navigate regulations carefully. For the public, the fallout means fewer platforms for contentious political debates—and a regulatory body increasingly seen as a political actor itself.
+
+## Updates
+
+- **2026-05-02** — What You Need to Know About the Foreign-Made Router Ban in the US ([source](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/))

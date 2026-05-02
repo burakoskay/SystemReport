@@ -1,16 +1,17 @@
 ---
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
-modified_date: 2026-04-24T20:55:39.767Z
+modified_date: 2026-05-02T13:22:37.475Z
 tags: ["apple","india","privacy"]
 hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ As smartphone penetration continues to grow in India, the country's government w
 
 ## Updates
 
+- **2026-05-02** — Playing Esoteric Ebb is like rolling the dice with a great DM ([source](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam))
 - **2026-04-24** — Pixelated 097: Lights and laptops ([source](https://9to5google.com/2026/04/24/pixelated-097-lights-and-laptops/))
 - **2026-04-24** — I don&#8217;t think Gwyneth Paltrow knows what a peptide is ([source](https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides))
 - **2026-04-22** — Ranking the Best Red Light Therapy Mask and LED Devices of 2026 ([source](https://www.wired.com/story/led-face-masks-and-red-light-therapy/))
