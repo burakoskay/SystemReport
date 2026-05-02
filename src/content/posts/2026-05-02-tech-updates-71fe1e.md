@@ -1,15 +1,17 @@
 ---
 title: "Tech Updates"
 date: 2026-05-02T06:12:14.610Z
+modified_date: 2026-05-02T19:07:39.503Z
 tags: ["tech news","iOS 26","broadband network"]
 hero_image: "/hero/2026-05-02-tech-updates-71fe1e.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "iPhone"
 description: "Recent tech news and updates"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 # Introduction to Recent Tech News
 The tech world has seen several developments recently, including the release of iOS 26[^1][^2][^3][^4] and the launch of new apps. Two launches this week delivered 61 more satellites to orbit for the Amazon Leo broadband network.[^5][^6][^7][^8]
@@ -56,6 +58,10 @@ The release of iOS 26, for example, is the latest in a long line of iOS updates 
 The new features in iOS 26's Phone app are made possible by a combination of hardware and software advancements.[^1][^2][^4] The improved caller ID, for instance, relies on machine learning algorithms that are run on the iPhone's processor.[^1][^2][^4] These algorithms are able to analyze large amounts of data and identify patterns, allowing the Phone app to block spam calls and provide more accurate caller ID information.[^1][^2][^4]
 
 The development of focus-friendly apps is also driven by advancements in technology. The new bookmarking app, for example, uses a combination of natural language processing and machine learning algorithms to provide users with a smooth and focused experience. The app's ability to track regular tasks and provide users with a scheduled task list is made possible by the use of cloud-based storage and synchronization technologies.
+
+## Updates
+
+- **2026-05-02** — Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever ([source](https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/))
 
 [^1]: [macworld.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76Rko2g8Fhuqbzxvz8laTDqxRZcWj53To6emqaD6IEAMEtFHjq0kqHeFAVnzjFaseFuZw030fwlWwUZo3ElcAimbvyAEYqf2dHE0T5VzFbgLaS69MHtT33xfv0epFjGTLEFVE19cGLzlUc5v9KohiKKYC4L0dARL5_WesJ8VQ4iq2dvWdmFTuIZr3t6ukz9i7K8fhzlZc3Q==)
 [^2]: [macrumors.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC-ABqIsNOfQ3GZG8qz5P2txR_OtktPyNjCQUC7z78YbOKtfE4qTsXdfAVIHW6el3w5v-Bf7vmDjsYAlml5BaXCNDsLTZPGpFDatDqnJso2MH2xqL0ODzyofl-3B3c9CXaxqom)

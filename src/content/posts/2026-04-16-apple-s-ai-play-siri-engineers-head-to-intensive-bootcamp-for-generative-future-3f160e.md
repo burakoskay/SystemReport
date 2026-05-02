@@ -1,16 +1,17 @@
 ---
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
-modified_date: 2026-05-01T15:00:55.767Z
+modified_date: 2026-05-02T19:07:40.621Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ As the tech world eagerly anticipates Apple's next major software releases, all 
 
 ## Updates
 
+- **2026-05-02** — Apple @ Work: Unpacking the top mobile threats facing your Apple fleet this year ([source](https://9to5mac.com/2026/05/02/unpacking-the-top-mobile-threats-facing-your-apple-fleet-this-year/))
 - **2026-05-01** — Some of Xteink’s credit card-sized e-readers are losing their best feature ([source](https://www.theverge.com/tech/921552/xteink-x3-x4-e-reader-third-party-crosspoint-firmware-usb-blocked))
 - **2026-05-01** — Christian content creators are outsourcing AI slop to gig workers on Fiverr ([source](https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop))
 - **2026-04-29** — Motorola just revealed the Razr Fold’s price and hoo boy ([source](https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability))
