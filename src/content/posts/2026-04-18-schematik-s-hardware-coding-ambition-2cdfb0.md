@@ -1,16 +1,17 @@
 ---
 title: "Schematik's Hardware Coding Ambition"
 date: 2026-04-18T12:45:25.911Z
-modified_date: 2026-04-24T20:55:39.033Z
+modified_date: 2026-05-02T10:56:49.004Z
 tags: ["AI","coding","design"]
 hero_image: "/hero/2026-04-18-schematik-s-hardware-coding-ambition-2cdfb0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "robotics"
 description: "Schematik's 'Cursor for Hardware' and Anthropic's Claude Design aim to streamline coding and design"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ Chef Robotics, having escaped the robot-cooking graveyard, is thriving with its 
 
 ## Updates
 
+- **2026-05-02** — How to Buy a Bike That’s the Right Size for You ([source](https://www.wired.com/story/how-to-buy-a-bike-thats-the-right-size-for-you/))
 - **2026-04-24** — The person who allegedly leaked Paramount’s new Avatar movie has been arrested ([source](https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus))
 - **2026-04-22** — Alexis Ohanian shocks Washington with pro-immigration remarks ([source](https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks))
 - **2026-04-22** — Behind the unraveling of Dan Crenshaw ([source](https://www.theverge.com/features/916289/dan-crenshaw-ouster-trolls-online))

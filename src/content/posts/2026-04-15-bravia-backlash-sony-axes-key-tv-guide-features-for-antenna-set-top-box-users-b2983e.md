@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-04-23T22:53:04.498Z
+modified_date: 2026-05-02T10:56:47.990Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-05-02** — Apple AirPods Max 2 Review: The Best Over-Ears for iOS ([source](https://www.wired.com/review/apple-airpods-max-2/))
 - **2026-04-23** — These are the countries moving to ban social media for children ([source](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/))
 - **2026-04-23** — Five Annapurna Interactive games get Switch 2 releases ([source](https://www.engadget.com/gaming/nintendo/five-annapurna-interactive-games-get-switch-2-releases-164950446.html?src=rss))
 - **2026-04-22** — Hey Meta workers, are you getting paid for those keystrokes? ([source](https://www.engadget.com/general/hey-meta-workers-are-you-getting-paid-for-those-keystrokes-131934881.html?src=rss))
