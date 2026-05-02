@@ -1,14 +1,16 @@
 ---
 title: "Google Photos Adds AI-Powered Wardrobe on Motorola Razr 2026"
 date: 2026-04-29T17:43:51.430Z
+modified_date: 2026-05-02T14:53:47.217Z
 tags: ["Google Photos","AI-Powered Wardrobe","Motorola Razr 2026","Fashion Industry"]
 hero_image: "/hero/2026-04-29-google-photos-adds-ai-powered-wardrobe-on-motorola-razr-2026-ebf67b.jpg"
 hero_image_credit_name: "Jonas Thomann"
 hero_image_credit_url: "https://www.pexels.com/@jonast"
 visual_keyword: "Google Photos Wardrobe"
 description: "Google Photos adds Wardrobe tool to digitize closets and suggest outfits"
-sources_count: 5
+sources_count: 6
 ---
+
 
 ## Introduction to Wardrobe
 Google Photos has introduced an AI-powered 'Wardrobe' feature that allows users to scan and search their closets. The feature debuted on Motorola's 2026 Razr flip-phone lineup. Motorola announced the Razr 2026 series, pairing the classic flip form factor with Google Photos' new Wardrobe capability. The tool scans clothing items, creates a virtual inventory, and returns matching pieces when the user asks for outfit suggestions. Google Photos also recreated Cher's iconic Clueless closet as a demonstration of the feature's capabilities.
@@ -27,3 +29,7 @@ The use of AI-powered features is not new to the tech industry. Companies have b
 
 ## Broader Industry Context
 The launch of Wardrobe also has implications for the broader tech industry. For example, it could lead to an increase in the use of AI-powered features in other applications, such as virtual try-on experiences and personalized recommendations. It could also lead to an increase in the use of machine learning algorithms to recognize patterns and shapes in images. Additionally, the use of AI in Wardrobe could have implications for the environment, with users being able to keep track of their clothing items and reduce waste by avoiding duplicate purchases.
+
+## Updates
+
+- **2026-05-02** — Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15 ([source](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal))
