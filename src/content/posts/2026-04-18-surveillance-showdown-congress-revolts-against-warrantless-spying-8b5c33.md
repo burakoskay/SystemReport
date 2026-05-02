@@ -1,16 +1,17 @@
 ---
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
-modified_date: 2026-04-19T20:29:11.670Z
+modified_date: 2026-05-02T09:12:34.444Z
 tags: ["surveillance","privacy","security"]
 hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 
 A dramatic post-midnight revolt in the House has sunk the White House's efforts to extend Section 702, a contentious spy program that has been used to surveil members of Congress, protesters, and political donors. The program, which is set to expire in April, has been at the center of a heated debate over the balance between national security and individual privacy. 
@@ -19,4 +20,5 @@ A dramatic post-midnight revolt in the House has sunk the White House's efforts 
 
 ## Updates
 
+- **2026-05-02** — Job Postings for Software Engineers Are Rapidly Rising ([source](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/))
 - **2026-04-19** — Robots beat human records at Beijing half-marathon ([source](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/))

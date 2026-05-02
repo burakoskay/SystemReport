@@ -1,16 +1,17 @@
 ---
 title: "Apple's iPhone 17 Lineup Hits Record Popularity"
 date: 2026-04-30T21:06:44.235Z
-modified_date: 2026-05-01T13:28:06.747Z
+modified_date: 2026-05-02T09:12:33.416Z
 tags: ["Apple","iPhone 17","smartphones"]
 hero_image: "/hero/2026-04-30-apple-s-iphone-17-lineup-hits-record-popularity-32cd5c.jpg"
 hero_image_credit_name: "Brijesh H"
 hero_image_credit_url: "https://www.pexels.com/@brijeshritz"
 visual_keyword: "iPhone 17"
 description: "Apple's iPhone 17 lineup has become the company's most popular model family ever, with the tech giant reporting another record-breaking quarter of earnings."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 ## A New Record for iPhone Popularity
@@ -69,4 +70,5 @@ As Apple continues to push the boundaries of innovation, it will be exciting to 
 
 ## Updates
 
+- **2026-05-02** — Ask.com has closed ([source](https://www.ask.com/))
 - **2026-05-01** — Netflix has reportedly greenlit a prequel for 'The Crown' ([source](https://www.engadget.com/2161834/netflix-the-crown-prequel/))
