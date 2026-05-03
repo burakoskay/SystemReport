@@ -1,17 +1,19 @@
 ---
 title: "Medical Breakthroughs: Osteoarthritis, HIV, and PTSD Treatments"
 date: 2026-05-01T11:13:13.013Z
+modified_date: 2026-05-03T16:57:30.142Z
 tags: ["medical breakthroughs","osteoporosis","HIV prevention","PTSD treatment"]
 hero_image: "/hero/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "medical research"
 description: "New therapies show promise in treating osteoarthritis and HIV, while a previously hindered treatment for PTSD gains traction."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.mp3"
 audio_bytes: 559065
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Reversing Osteoarthritis Joint Damage
@@ -65,3 +67,7 @@ However, these advances also raise important questions about the future of medic
 As we look to the future, it is clear that these medical breakthroughs have the potential to transform the lives of millions of people worldwide. However, realizing this potential will require a sustained commitment to investing in medical research, healthcare infrastructure, and policy frameworks that prioritize accessibility, affordability, and equity.
 
 By working together, we can ensure that these breakthroughs have a lasting and meaningful impact on patients' lives, and that we continue to push the boundaries of what is possible in medical research and treatment.
+
+## Updates
+
+- **2026-05-03** — Reggie Fils-Aimé says Amazon once asked Nintendo to break the law ([source](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal))

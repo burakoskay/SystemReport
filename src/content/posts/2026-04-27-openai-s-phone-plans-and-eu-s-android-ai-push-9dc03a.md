@@ -1,15 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
+modified_date: 2026-05-03T16:57:31.280Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI's Phone Plans
@@ -62,3 +64,6 @@ In conclusion, the intersection of AI and hardware is a rapidly evolving space t
 
 The development of AI-powered devices is also driving the need for more advanced cybersecurity measures. As AI becomes more pervasive, it is likely to create new vulnerabilities and risks. Therefore, it is essential to develop more advanced cybersecurity measures that can protect AI-powered devices and systems from cyber threats.
 
+## Updates
+
+- **2026-05-03** — Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo ([source](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale))
