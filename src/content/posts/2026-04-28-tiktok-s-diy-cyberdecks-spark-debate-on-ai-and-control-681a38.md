@@ -1,14 +1,16 @@
 ---
 title: "TikTok’s DIY Cyberdecks Spark Debate on AI and Control"
 date: 2026-04-28T10:24:24.759Z
+modified_date: 2026-05-03T06:30:34.976Z
 tags: ["DIY computing","AI accessories","cyberdecks"]
 hero_image: "/hero/2026-04-28-tiktok-s-diy-cyberdecks-spark-debate-on-ai-and-control-681a38.jpg"
 hero_image_credit_name: "FOX ^.ᆽ.^= ∫"
 hero_image_credit_url: "https://www.pexels.com/@fox-58267"
 visual_keyword: "cyberdeck"
 description: "Young creators build purse-sized computers as AI accessories like SpeakON gain traction."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 The surge of handcrafted purse computers on TikTok shows makers reclaiming control over their digital lives. These cyberdecks, built by young women and posted on the platform, are functional computers that fit inside a handbag and offer a tactile experience of computing.
@@ -40,3 +42,7 @@ The implications of the cyberdeck trend and AI-powered accessories like SpeakON 
 Keep an eye on the next batch of TikTok cyberdeck videos for signs of commercialization. Follow SpeakON's firmware updates for any shift toward on-device model training. Finally, track Apple's product announcements for confirmation of the MacBook Ultra name and its spec sheet. The intersection of DIY computing and AI-powered accessories will likely continue to evolve, with new innovations and challenges emerging in the coming months.
 
 The conversation around DIY computing and AI-powered accessories is just beginning. As the tech industry continues to evolve, it's clear that the demand for transparency, control, and customization will only grow. Whether through cyberdecks or AI-powered accessories, makers and developers are pushing the boundaries of what's possible in computing.
+
+## Updates
+
+- **2026-05-03** — Skullcandy Discount Code: 30% Off | May 2026 ([source](https://www.wired.com/story/skullcandy-discount-code/))
