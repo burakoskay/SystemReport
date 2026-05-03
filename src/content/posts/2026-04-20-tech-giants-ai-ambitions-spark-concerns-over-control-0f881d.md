@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants' AI Ambitions Spark Concerns Over Control"
 date: 2026-04-20T13:13:15.934Z
+modified_date: 2026-05-03T13:21:53.879Z
 tags: ["ai","control","tech giants","society"]
 hero_image: "/hero/2026-04-20-tech-giants-ai-ambitions-spark-concerns-over-control-0f881d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
-sources_count: 20
+sources_count: 21
 author: "maya-chen"
 ---
+
 
 ## The AI Control Conundrum
 
@@ -32,3 +34,7 @@ The path forward will require significant investments in AI literacy, education,
 ## What to Watch
 
 The next few months will be critical in determining the future of AI control. Policymakers, regulators, and civil society will need to work together to develop new guidelines, regulations, and technologies that prioritize user autonomy, transparency, and accountability. The tech industry will need to prioritize the development of AI systems that are transparent, accountable, and user-centric. The stakes are high, and the consequences of inaction will be significant.
+
+## Updates
+
+- **2026-05-03** — These reusable digital Polaroids are a clever way to cover a fridge in memories ([source](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on))
