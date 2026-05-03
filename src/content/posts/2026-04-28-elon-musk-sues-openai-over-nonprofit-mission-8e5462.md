@@ -1,15 +1,16 @@
 ---
 title: "Elon Musk Sues OpenAI Over Nonprofit Mission"
 date: 2026-04-28T03:38:22.766Z
-modified_date: 2026-04-29T03:36:07.420Z
+modified_date: 2026-05-03T09:25:11.782Z
 tags: ["AI","OpenAI","Elon Musk","Lawsuit"]
 hero_image: "/hero/2026-04-28-elon-musk-sues-openai-over-nonprofit-mission-8e5462.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Musk files new lawsuit against OpenAI and Sam Altman"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 ## Introduction to the Lawsuit
@@ -35,4 +36,5 @@ The AI industry is highly competitive, with multiple companies vying for market 
 
 ## Updates
 
+- **2026-05-03** — Coway Airmega Mighty2 Review: The Sequel Is Better Than the Original ([source](https://www.wired.com/review/coway-airmega-mighty2/))
 - **2026-04-29** — It’s primetime for conspiracy theorist video creators ([source](https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag))

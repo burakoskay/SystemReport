@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-04-30T19:41:06.948Z
+modified_date: 2026-05-03T09:25:12.928Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 24
+sources_count: 25
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -94,6 +95,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-05-03** — Show HN: State of the Art of Coding Models, According to Hacker News Commenters ([source](https://hnup.date/hn-sota))
 - **2026-04-30** — The More Young People Use AI, the More They Hate It ([source](https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai))
 - **2026-04-27** — Govee’s multicolor ceiling light doubles as a low-res screen ([source](https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability))
 - **2026-04-27** — The 1944 Warsaw Uprising, in Color ([source](https://www.barwypowstania.pl/))

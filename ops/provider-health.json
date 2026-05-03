@@ -1,10 +1,9 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-05-03T06:33:11.551Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-05-03T09:27:05.881Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 498530, Requested 5394. Please try again in 11m18.0672s. Need more tokens? Upg",
-    "last_failure": "2026-05-03T06:33:20.719Z",
-    "cooldown_until": "2026-05-03T06:43:20.383Z"
+    "last_failure": "2026-05-03T06:33:20.719Z"
   },
   "groq:openai/gpt-oss-120b": {
     "last_success": "2026-04-30T19:53:12.704Z",
@@ -21,10 +20,10 @@
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99973, Requested 4146. Please try again in 59m18.816s. Need more tokens? Upgrade to Dev Tier tod",
-    "last_failure": "2026-05-03T06:32:09.779Z",
-    "last_success": "2026-05-03T06:31:46.292Z",
-    "cooldown_until": "2026-05-03T06:42:09.680Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99981, Requested 3260. Please try again in 46m40.224s. Need more tokens? Upgrade to Dev Tier tod",
+    "last_failure": "2026-05-03T09:26:30.402Z",
+    "last_success": "2026-05-03T09:26:13.825Z",
+    "cooldown_until": "2026-05-03T09:36:30.290Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 0,
@@ -48,7 +47,7 @@
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (b823d3de-f286-4ed6-be07-7c3ddb56f7f4)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-05-02T16:56:07.905Z",
-    "last_success": "2026-05-03T06:33:10.279Z"
+    "last_success": "2026-05-03T09:26:30.289Z"
   },
   "groq:openai/gpt-oss-20b": {
     "last_success": "2026-05-02T17:05:36.244Z",
