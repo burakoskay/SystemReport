@@ -1,16 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-05-03T16:57:33.592Z
+modified_date: 2026-05-04T21:13:14.302Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Another variable is the relationship with Nvidia. Framework has secured a mobile
 
 ## Updates
 
+- **2026-05-04** — MagSafe Monday: The ESR Geo Wallet Boost is the ultimate Find My accessory ([source](https://9to5mac.com/2026/05/04/esr-geo-wallet-boost/))
 - **2026-05-03** — Ask.com has shut down, marking the official farewell to the Internet's favorite butler ([source](https://www.engadget.com/2163129/ask-com-has-shut-down-marking-official-farewell-to-internet-favorite-butler/))
 - **2026-04-29** — Electric air taxis are finally taking flight — just not with passengers ([source](https://www.theverge.com/transportation/919532/joby-aviation-electric-air-taxi-jfk-manhattan-faa))
 - **2026-04-28** — The resurrected Commodore 64 is getting a facelift like the original ([source](https://www.theverge.com/tech/919625/commodore-64c-ultimate-fpga-computer-retro-c64c))
