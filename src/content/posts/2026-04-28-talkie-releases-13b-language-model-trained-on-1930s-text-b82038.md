@@ -1,15 +1,17 @@
 ---
 title: "Talkie releases 13B language model trained on 1930s text"
 date: 2026-04-28T06:40:30.268Z
+modified_date: 2026-05-04T10:18:54.887Z
 tags: ["language-models","ai","open-source","vintage-data"]
 hero_image: "/hero/2026-04-28-talkie-releases-13b-language-model-trained-on-1930s-text-b82038.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "vintage typewriter beside modern server racks"
 description: "Talkie unveils a 13‑billion‑parameter model built on 1930s literature, prompting debate over vintage data and modern LLM trade‑offs."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 ## Talkie’s announcement
 
@@ -46,3 +48,7 @@ The trade‑off is clear: a model that excels at reproducing 1930s prose will un
 The next milestone will be independent benchmarking. If researchers publish perplexity or downstream task results on modern datasets, the community can gauge Talkie’s practical limits. Watch for a GitHub issue thread where contributors attempt to fine‑tune the model on contemporary data. A successful fine‑tune could demonstrate whether vintage pre‑training offers any regularization benefit. Conversely, poor results would reinforce the view that historic data is a curiosity rather than a foundation for production‑grade LLMs.
 
 Future updates from the Talkie team may include larger checkpoints or additional decades. Tracking those releases will show whether the project intends to build a series of era‑specific models or consolidate into a broader historic‑language suite.
+
+## Updates
+
+- **2026-05-04** — Nicolas Sauvage is betting on the boring parts of AI ([source](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/))

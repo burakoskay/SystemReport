@@ -1,15 +1,17 @@
 ---
 title: "F# Game Boy Emulator Raises Open-Source Disclosure Questions"
 date: 2026-04-30T21:18:09.089Z
+modified_date: 2026-05-04T10:18:52.596Z
 tags: ["fsharp","open-source","emulation","security-disclosure"]
 hero_image: "/hero/2026-04-30-f-game-boy-emulator-raises-open-source-disclosure-questions-a29074.jpg"
 hero_image_credit_name: "Paras Katwal"
 hero_image_credit_url: "https://www.pexels.com/@paras"
 visual_keyword: "Game Boy emulator code on a screen"
 description: "A functional programming emulator project sparks debates over transparency and development practices in open-source communities."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 ## A Functional Programming Experiment in Emulation
 
@@ -34,3 +36,7 @@ Kossolapov’s project handles disclosure differently. The GitHub repo includes 
 The F# community will track whether this emulator influences language adoption in gaming. Microsoft’s recent .NET 8 updates show improved performance for F#—a potential enabler for more projects like this. Meanwhile, the broader open-source world needs to resolve the CopyFail precedent: should vulnerabilities in infrastructure code require 90-day disclosure policies, or does that just shift the problem? The next Gentoo release will include policy changes directly addressing this tension. Developers should watch both technical progress in functional emulation and the evolving legal frameworks around open-source security.
 
 For now, Kossolapov’s work stands as a proof point: even retro gaming can force modern debates about code quality, language choice, and community responsibility. The next patch version of the emulator will add ARM7 support for Game Boy Color—a challenge that will test whether functional programming’s strengths can survive the jump from 8-bit to 16-bit architecture.
+
+## Updates
+
+- **2026-05-04** — Dating Is a Rich Person’s Game Now ([source](https://www.wired.com/story/dating-is-a-rich-persons-game-now/))
