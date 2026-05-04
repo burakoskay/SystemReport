@@ -1,15 +1,17 @@
 ---
 title: "Saudi Leisure Boom, DIY RF Labs, and a Grindr White House Bash"
 date: 2026-04-30T10:25:35.873Z
+modified_date: 2026-05-04T17:45:19.360Z
 tags: ["saudi arabia","entertainment","rf","grindr","tech"]
 hero_image: "/hero/2026-04-30-saudi-leisure-boom-diy-rf-labs-and-a-grindr-white-house-bash-15245b.jpg"
 hero_image_credit_name: "Paolo Motti"
 hero_image_credit_url: "https://www.pexels.com/@paolo-motti-410165760"
 visual_keyword: "futuristic amusement park with neon rides and a sleek RF lab"
 description: "Saudi Arabia’s $5.36 B entertainment market, a hobbyist RF showcase, and Grindr’s high‑profile party illustrate shifting tech‑driven leisure."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Saudi Arabia bets big on out‑of‑home fun
 The public‑sector capital push has turned the kingdom into a fast‑growing playground. A market‑size forecast puts the Saudi entertainment and amusement sector at **USD 5.36 billion by 2031**, driven by a **12.4% CAGR** from 2026 onward.
@@ -36,3 +38,7 @@ Both moments illustrate a broader friction: tech‑centric experiences are incre
 
 ## What to watch next
 The Saudi entertainment sector will release its first quarterly performance data for Qiddiya and NEOM in late 2026; those figures will reveal whether the **dynamic‑pricing models** are delivering the off‑peak revenue the forecast assumes. In the hardware world, watch for any open‑source RF designs that gain traction in commercial mixed‑reality deployments—especially if a partner announces a joint venture with a Saudi leisure operator. Finally, track Grindr’s next high‑profile event calendar and Nike’s promotional cadence; together they will indicate whether brand‑driven experiences can sustain user engagement without inflating acquisition costs.
+
+## Updates
+
+- **2026-05-04** — Deals: Entry M5 MacBook Air all-time low, AirPods Max 2, M3 iPad Air $300 off, Magic Mouse Amazon low, more ([source](https://9to5mac.com/2026/05/04/deals-entry-m5-macbook-air-airpods-max-2-magic-mouse/))

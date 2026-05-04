@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Beta 3: What's New and Why It Matters"
 date: 2026-04-20T20:41:02.988Z
-modified_date: 2026-04-30T14:08:22.845Z
+modified_date: 2026-05-04T17:45:12.736Z
 tags: ["apple","ios","ipados","security"]
 hero_image: "/hero/2026-04-20-apple-s-ios-26-5-beta-3-what-s-new-and-why-it-matters-5e8bee.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ For now, developers and users alike should keep a close eye on Apple's updates a
 
 ## Updates
 
+- **2026-05-04** — US healthcare marketplaces shared citizenship and race data with ad tech giants ([source](https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/))
 - **2026-04-30** — Facebook and Instagram losing users, with signs pointing to low-quality feeds ([source](https://9to5mac.com/2026/04/30/facebook-and-instagram-losing-users-with-signs-pointing-to-low-quality-feeds/))
 - **2026-04-29** — AirDrop is now widely available on Android phones, and I’m here for it ([source](https://9to5mac.com/2026/04/29/airdrop-is-now-widely-available-on-android-phones-and-im-here-for-it/))
 - **2026-04-25** — Framework Laptop 13 Pro: Major Upgrades and Linux Front and Center ([source](https://boilingsteam.com/framework-laptop-13-pro-announced/))
