@@ -1,18 +1,20 @@
 ---
 title: "Apple Card Offers $100 Bonus for Co-Owner Addition"
 date: 2026-05-02T22:52:18.518Z
+modified_date: 2026-05-04T22:59:55.275Z
 tags: ["Apple Card","credit card promotions","rewards programs"]
 hero_image: "/hero/2026-05-02-apple-card-offers-100-bonus-for-co-owner-addition-09acac.jpg"
 hero_image_credit_name: "Dagmara Dombrovska"
 hero_image_credit_url: "https://www.pexels.com/@dagmara-dombrovska-22732579"
 visual_keyword: "Apple Card"
 description: "Apple Card users can earn $100 Daily Cash by adding a co-owner and having them spend $100 within 30 days."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-02-apple-card-offers-100-bonus-for-co-owner-addition-09acac.mp3"
 audio_bytes: 633880
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Surprising Perk for Loyal Users
@@ -69,3 +71,6 @@ The Apple Card's strategy to reward existing users could influence the broader c
 
 In conclusion, the Apple Card's $100 bonus for adding a co-owner is a strategic move to deepen relationships with existing customers. By offering rewards for loyalty, Apple is setting a new standard for credit card issuers and potentially changing the way we think about rewards programs.
 
+## Updates
+
+- **2026-05-04** — Stop big tech from making users behave in ways they don't want to ([source](https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to))
