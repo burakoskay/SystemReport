@@ -1,17 +1,19 @@
 ---
 title: "Invisible Face Scanning Tech Emerges"
 date: 2026-05-04T14:14:13.906Z
+modified_date: 2026-05-04T19:47:03.235Z
 tags: ["face scanning technology","cooling tech","virtual violin design"]
 hero_image: "/hero/2026-05-04-invisible-face-scanning-tech-emerges-3f1ca1.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "face scanning"
 description: "Metalenz unveils Polar ID face-scanning tech that works under display. Advances in cooling tech and virtual violin design also make headlines."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-04-invisible-face-scanning-tech-emerges-3f1ca1.mp3"
 audio_bytes: 574111
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Invisible Face Scanning Arrives
@@ -72,3 +74,6 @@ As these technologies continue to evolve, we can expect to see significant advan
 
 The emergence of invisible face scanning tech, advances in cooling tech, and virtual violin design are significant developments in their respective fields. As these technologies continue to evolve, we can expect to see new applications and innovations emerge. By staying informed about these developments, we can better understand the potential implications and opportunities that they present.
 
+## Updates
+
+- **2026-05-04** — Hackers are still exploiting the cPanel bug to gain control of thousands of websites ([source](https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/))

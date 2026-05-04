@@ -1,18 +1,20 @@
 ---
 title: "Games Done Quick Expands to Europe Amid Tech Battles"
 date: 2026-04-28T17:55:28.606Z
+modified_date: 2026-05-04T19:47:06.950Z
 tags: ["games-done-quick","europe","repair-laws","android","wasm"]
 hero_image: "/hero/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "crowd at gamescom speedrunning event"
 description: "Games Done Quick debuts in Europe as repair laws and open-source debates reshape tech."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.mp3"
 audio_bytes: 565334
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Games Done Quick Heads to Germany
 
@@ -43,3 +45,7 @@ This distinction matters for performance-critical applications. Projects using W
 Three threads will define tech’s next phase. First, follow the August 28 GDQ event’s final donation tally—will it hit $100 million total? Second, track the Colorado repair lawsuits in early 2025: a loss could trigger a nationwide rollback. Third, watch the EU’s enforcement of its Digital Markets Act by December 2024—will Google loosen Android’s grip to comply?
 
 Meanwhile, open-source tools like Lovable’s "vibe-coding" app (launching this week) could disrupt traditional development workflows. As devices become more locked down, tools that let developers iterate on the go will grow in importance—whether through iOS or Android loopholes, or entirely new operating systems.
+
+## Updates
+
+- **2026-05-04** — Wholesome Direct returns June 6 with a slew of joyful games ([source](https://www.engadget.com/2164200/wholesome-direct-returns-june-6-with-a-slew-of-joyful-games/))

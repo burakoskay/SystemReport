@@ -1,15 +1,17 @@
 ---
 title: "Ghostty Bids Adieu to GitHub"
 date: 2026-04-28T20:21:56.046Z
+modified_date: 2026-05-04T19:47:09.585Z
 tags: ["ghostty","github","terminal emulator","tech news"]
 hero_image: "/hero/2026-04-28-ghostty-bids-adieu-to-github-ddf349.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "terminal emulator screenshot"
 description: "Popular terminal emulator Ghostty is leaving GitHub, citing reasons yet to be disclosed. The move comes after a series of innovative features and integrations."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## A Sudden Departure
@@ -51,3 +53,7 @@ Ghostty's departure from GitHub marks a significant event in the tech community.
 ## What's Next for Terminal Emulators?
 
 The terminal emulator landscape is poised for continued innovation and growth. As users' needs evolve, terminal emulators will need to adapt to meet those needs. With the rise of cloud-based services and AI-powered tools, terminal emulators will play an increasingly important role in facilitating these interactions. As such, it will be exciting to see how projects like Ghostty continue to push the boundaries of what is possible in the world of terminal emulators.
+
+## Updates
+
+- **2026-05-04** — iOS 27: Apple Wallet adding new ‘Create a Pass’ feature, per report ([source](https://9to5mac.com/2026/05/04/ios-27-apple-wallet-adding-new-create-a-pass-feature-per-report/))

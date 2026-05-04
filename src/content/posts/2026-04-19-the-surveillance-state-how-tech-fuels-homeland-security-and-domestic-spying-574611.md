@@ -1,16 +1,17 @@
 ---
 title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
-modified_date: 2026-05-04T17:45:15.412Z
+modified_date: 2026-05-04T19:47:04.475Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
-sources_count: 10
+sources_count: 11
 author: "lena-volkov"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The next step in this debate is likely to be a renewed focus on reforming survei
 
 ## Updates
 
+- **2026-05-04** — GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it ([source](https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/))
 - **2026-05-04** — The best Star Wars Day deals ([source](https://www.theverge.com/gadgets/922905/best-star-wars-day-2026-may-the-fourth-4th-deals-sale))
 - **2026-05-01** — Dreame — the vacuum company — just ‘launched’ its own phones ([source](https://www.theverge.com/gadgets/922246/dreame-next-smartphones-aurora-lux-nex-modular))
 - **2026-04-24** — The Best Cordless Vacuums for Your Whole House (2026) ([source](https://www.wired.com/gallery/the-best-cordless-vacuum/))
