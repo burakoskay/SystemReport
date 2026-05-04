@@ -1,14 +1,16 @@
 ---
 title: "Reid Hoffman Warns Docs: Not Using AI Advice Is Malpractice"
 date: 2026-04-30T10:16:54.017Z
+modified_date: 2026-05-04T03:39:16.672Z
 tags: ["AI in healthcare","medical decision-making","Reid Hoffman"]
 hero_image: "/hero/2026-04-30-reid-hoffman-warns-docs-not-using-ai-advice-is-malpractice-402b51.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI in healthcare"
 description: "Reid Hoffman says docs who don't seek AI second opinions risk malpractice. His AI drug discovery startup aims to integrate AI in healthcare."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## The Malpractice Risk of Not Using AI
@@ -59,3 +61,6 @@ The integration of AI into healthcare has the potential to transform the way doc
 
 As AI continues to transform the healthcare landscape, it is essential that the medical community stays focused on the goal of improving patient outcomes. This will require ongoing investment in AI research and development, as well as a commitment to addressing the challenges and risks associated with AI in healthcare. By staying focused on the goal of improving patient outcomes, the medical community can harness the potential of AI to revolutionize the way doctors make decisions and improve healthcare outcomes.
 
+## Updates
+
+- **2026-05-04** — The text mode lie: why modern TUIs are a nightmare for accessibility ([source](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility))
