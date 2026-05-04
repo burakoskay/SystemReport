@@ -1,16 +1,17 @@
 ---
 title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
-modified_date: 2026-04-27T21:08:14.727Z
+modified_date: 2026-05-04T14:12:55.211Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## B-52 star tracker computer
@@ -30,4 +31,5 @@ The B-52 star tracker computer's design era and specific gear ratios demonstrate
 
 ## Updates
 
+- **2026-05-04** — Homebridge 2.0 is here, and it speaks Matter ([source](https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums))
 - **2026-04-27** — Spotify is now a fitness app too ([source](https://www.engadget.com/apps/spotify-is-now-a-fitness-app-too-144037057.html?src=rss))

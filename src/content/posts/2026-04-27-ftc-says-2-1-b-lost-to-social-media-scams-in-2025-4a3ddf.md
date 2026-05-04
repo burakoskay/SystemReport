@@ -1,15 +1,17 @@
 ---
 title: "FTC says $2.1 B Lost to Social Media Scams in 2025"
 date: 2026-04-27T23:04:02.288Z
+modified_date: 2026-05-04T14:12:52.811Z
 tags: ["scams","ftc","consumer-protection","cybersecurity"]
 hero_image: "/hero/2026-04-27-ftc-says-2-1-b-lost-to-social-media-scams-in-2025-4a3ddf.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "concerned person looking at phone with scam messages"
 description: "Scam losses hit $2.1 billion in 2025, an eight‑fold jump that outpaces any other fraud channel, prompting a regulatory rethink."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 ## The $2.1 B Social Media Scam Surge
 
@@ -52,3 +54,7 @@ For a user who receives a seemingly innocuous DM promising a free iPhone, the de
 ## What to Watch
 
 The next FTC quarterly report, due in July 2026, will be the first to reflect any impact from the proposed rulemaking. Analysts will also track platform‑specific metrics—average removal time, verification‑badge abuse rates, and ad‑network compliance scores. A shift in these numbers could signal that the regulatory pressure is starting to bite. Until then, consumers should treat any unsolicited offer on social media with the same skepticism they reserve for cold‑call scams.
+
+## Updates
+
+- **2026-05-04** — GameStop makes $56 billion offer to acquire eBay ([source](https://www.theverge.com/games/922935/gamestop-ebay-bid))

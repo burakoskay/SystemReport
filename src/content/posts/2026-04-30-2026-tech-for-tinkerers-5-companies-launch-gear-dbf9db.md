@@ -1,15 +1,17 @@
 ---
 title: "2026 Tech for Tinkerers 5 Companies Launch Gear"
 date: 2026-04-30T14:19:49.378Z
+modified_date: 2026-05-04T14:12:54.011Z
 tags: ["consumer tech","product reviews","2026","hardware","gadgets"]
 hero_image: "/hero/2026-04-30-2026-tech-for-tinkerers-5-companies-launch-gear-dbf9db.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "a desk with a portable power station, UV printer, stylus phone, smart water valve and modular gaming controller"
 description: "Goal Zero, EufyMake, Motorola, Eve and HyperX unveil new gear that pushes niche features into everyday hands."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 Goal Zero’s Yeti 1500, EufyMake’s E1 UV printer, Motorola’s Moto G Stylus, Eve’s Aqua controller and HyperX’s Clutch Talon all landed in 2026 with a single promise: more capability for the hobbyist who wants to tinker without waiting for a corporate rollout.
 
@@ -54,3 +56,7 @@ The market response shows that manufacturers are betting on depth rather than br
 ## What to Watch
 
 Track the next firmware updates for the Yeti 1500 and Clutch Talon, as both manufacturers promised performance tweaks after launch. Keep an eye on pricing adjustments for the Moto G Stylus; a mid‑season discount could broaden its appeal. Finally, monitor how Eve expands the Aqua controller’s integration with other smart‑home hubs, a move that could turn a niche valve into a central irrigation hub.
+
+## Updates
+
+- **2026-05-04** — Hisense aggressively cuts the price of its RGB LED TV on release day ([source](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9))
