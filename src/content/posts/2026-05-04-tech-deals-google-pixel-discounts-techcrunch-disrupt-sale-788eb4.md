@@ -1,18 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
+modified_date: 2026-05-05T19:29:21.343Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google Pixel Deals Live
@@ -67,3 +69,6 @@ WIRED and 9to5Google are offering various deals on tech products, including Star
 
 The current tech deals offer a range of opportunities for consumers to save on various products. By understanding the technical specifications and market trends, consumers can make informed purchasing decisions. The tech industry is constantly evolving, and staying informed can help consumers stay ahead of the curve.
 
+## Updates
+
+- **2026-05-05** — Android 16 May update rolling out: Pixel display, slow wireless charging fixes ([source](https://9to5google.com/2026/05/05/android-16-may-update-pixel/))

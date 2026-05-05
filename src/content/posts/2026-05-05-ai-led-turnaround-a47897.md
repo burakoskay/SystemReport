@@ -1,15 +1,17 @@
 ---
 title: "AI-Led Turnaround"
 date: 2026-05-05T17:30:09.931Z
+modified_date: 2026-05-05T19:29:25.491Z
 tags: ["AI","Tech Industry","Innovation"]
 hero_image: "/hero/2026-05-05-ai-led-turnaround-a47897.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "PayPal cuts jobs, modernizes tech stack with AI-led turnaround"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## Introduction to AI-Led Turnaround
 PayPal is cutting jobs and modernizing its tech stack as part of an AI-led turnaround. The company ties automation and restructuring to $1.5B in savings.
@@ -54,3 +56,7 @@ For example, the use of AI in image recognition has improved significantly in re
 ## Technical Details
 The technical details of AI adoption are complex and multifaceted. For instance, the use of natural language processing (NLP) in AI-powered chatbots requires the development of sophisticated algorithms that can understand and respond to human language.
 Additionally, the use of machine learning models in AI-powered trading platforms requires the development of sophisticated models that can analyze large amounts of data and make predictions about market trends.
+
+## Updates
+
+- **2026-05-05** — When everyone has AI and the company still learns nothing ([source](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/))
