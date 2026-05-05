@@ -1,15 +1,17 @@
 ---
 title: "Uber's Robotaxis Get Clean and Charged by Hertz's New Affiliate"
 date: 2026-04-30T17:29:25.462Z
+modified_date: 2026-05-05T10:07:28.866Z
 tags: ["autonomous vehicles","ride-hailing","fleet management"]
 hero_image: "/hero/2026-04-30-uber-s-robotaxis-get-clean-and-charged-by-hertz-s-new-affiliate-8dec85.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Uber partners with Hertz to manage its Lucid Motors robotaxis through a new affiliate called Oro Mobility, aiming to improve fleet management."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Uber's Robotaxis Get Clean and Charged by Hertz's New Affiliate
@@ -72,3 +74,6 @@ The development of autonomous vehicles is expected to have a significant impact 
 
 Furthermore, the use of autonomous vehicles in ride-hailing services has the potential to significantly reduce labor costs and improve safety. However, there are still many technical and regulatory challenges that need to be addressed.
 
+## Updates
+
+- **2026-05-05** — The Best Food Gifts to Buy Online, as Tested by Our Tastebuds (2026) ([source](https://www.wired.com/gallery/the-best-food-gifts/))
