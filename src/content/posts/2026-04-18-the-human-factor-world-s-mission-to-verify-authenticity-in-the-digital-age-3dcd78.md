@@ -1,16 +1,17 @@
 ---
 title: "The Human Factor: World's Mission to Verify Authenticity in the"
 date: 2026-04-18T01:04:43.454Z
-modified_date: 2026-05-04T17:45:18.060Z
+modified_date: 2026-05-05T22:59:25.926Z
 tags: ["human verification","artificial intelligence","online security"]
 hero_image: "/hero/2026-04-18-the-human-factor-world-s-mission-to-verify-authenticity-in-the-digital-age-3dcd78.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "digital fingerprint"
 description: "World partners with Tinder and Zoom to combat AI imposters"
-sources_count: 9
+sources_count: 10
 author: "priya-raman"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The rise of artificial intelligence has brought about a plethora of benefits, bu
 
 ## Updates
 
+- **2026-05-05** — 9to5Mac Daily: May 5, 2026 – iOS 26.5 RC, Apple chip partners ([source](https://9to5mac.com/2026/05/05/daily-may-5-2026/))
 - **2026-05-04** — 9to5Mac Daily: May 4, 2026 – Mac mini changes, more ([source](https://9to5mac.com/2026/05/04/daily-may-4-2026/))
 - **2026-04-30** — 9to5Mac Daily: April 30, 2026 – OpenAI smartphone, more ([source](https://9to5mac.com/2026/04/30/9to5mac-daily-april-30-2026/))
 - **2026-04-29** — Check your gravity with NASA's Artemis II zero-g indicator ([source](https://arstechnica.com/space/2026/04/check-your-gravity-with-nasas-artemis-ii-zero-g-indicator/))

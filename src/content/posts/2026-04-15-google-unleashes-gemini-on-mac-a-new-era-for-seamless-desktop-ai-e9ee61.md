@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-05-05T19:29:20.264Z
+modified_date: 2026-05-05T22:59:20.468Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-05-05** — Google Home&#8217;s Gemini AI can handle more complicated requests ([source](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade))
 - **2026-05-05** — Google Home gets upgraded Gemini voice assistant and new camera controls ([source](https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/))
 - **2026-05-05** — Gemini for Home voice assistant gets Gemini 3.1 upgrade ([source](https://9to5google.com/2026/05/05/gemini-3-1-home/))
 - **2026-04-28** — Get Ready for More Brain-Scanning Consumer Gadgets ([source](https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/))
