@@ -1,16 +1,17 @@
 ---
 title: "Samsung's New Galaxy Buds and Tablet Lineup"
 date: 2026-04-20T20:42:51.471Z
-modified_date: 2026-04-27T21:08:12.780Z
+modified_date: 2026-05-05T21:08:51.661Z
 tags: ["samsung","galaxy buds","tablet"]
 hero_image: "/hero/2026-04-20-samsung-s-new-galaxy-buds-and-tablet-lineup-665d33.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Samsung Galaxy Buds and Tablet"
 description: "Samsung is working on new Galaxy Buds with an open-ear design and a budget-friendly tablet, the Galaxy Tab A11+ Kids Edition."
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 
 
@@ -41,5 +42,6 @@ In the meantime, consumers can look forward to the release of the Galaxy Tab S11
 
 ## Updates
 
+- **2026-05-05** — Samsung is discounting a ton of Galaxy accessories including cases, chargers, more ([source](https://9to5google.com/2026/05/05/samsung-galaxy-cases-accessories-discount/))
 - **2026-04-27** — Why the Steam Controller is (and isn’t) a big deal ([source](https://www.theverge.com/tech/918115/steam-controller-2026-pc-deck-machine-hands-on-features))
 - **2026-04-27** — SmartGym expands personalization with custom heart rate zones and smarter routine tracking ([source](https://9to5mac.com/2026/04/27/smartgym-expands-personalization-with-custom-heart-rate-zones-and-smarter-routine-tracking/))

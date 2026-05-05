@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-05-04T17:45:20.682Z
+modified_date: 2026-05-05T21:08:47.721Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-05-05** — Remakes of Myst and Riven are coming to PlayStation, Xbox and the Microsoft Store ([source](https://www.engadget.com/2165488/remakes-of-myst-and-riven-are-coming-to-playstation-xbox-and-the-microsoft-store/))
 - **2026-05-04** — New iPhone redesign is coming next year, inspired by Liquid Glass: report ([source](https://9to5mac.com/2026/05/04/new-iphone-redesign-is-coming-next-year-inspired-by-liquid-glass-report/))
 - **2026-05-03** — Why you need a digital spring cleaning (and how Incogni makes it effortless) ([source](https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/))
 - **2026-05-03** — Why you need a digital spring cleaning (and how Incogni makes it effortless) ([source](https://9to5mac.com/2026/05/03/why-you-need-digital-spring-cleaning-how-incogni-makes-effortless-sponsored/))
