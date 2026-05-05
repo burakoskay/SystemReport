@@ -1,15 +1,17 @@
 ---
 title: "Uber Torches 2026 AI Budget on Claude Code in Four Months"
 date: 2026-05-01T19:22:56.452Z
+modified_date: 2026-05-05T17:29:30.046Z
 tags: ["ai-spending","anthropic","claude-code","ai-assistants","data-center-investment"]
 hero_image: "/hero/2026-05-01-uber-torches-2026-ai-budget-on-claude-code-in-four-months-7f90ed.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "A futuristic cityscape with glowing data center towers and AI-themed holograms"
 description: "Uber spends its entire 2026 AI budget on Claude Code in four months as Anthropic accelerates data center expansion."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 Uber spent its entire 2026 AI budget on Claude Code in four months. The decision, reported by Hacker News with 324 points and 347 comments, has sparked debate about AI spending velocity and Anthropic’s growing influence. The company reportedly allocated $180 million for Claude Code integration across its engineering teams by July 2025.
 
@@ -38,3 +40,7 @@ One Android developer who tested COSMO described the experience as “half-compe
 Three threads are converging: enterprise AI adoption, infrastructure control, and consumer personal assistants. Uber’s burn rate suggests companies may need to budget AI spending in quarters rather than years. Anthropic’s land deals indicate we’ll see more vertical integration in AI hardware. And Google’s COSMO release shows the consumer market isn’t waiting for perfect AI—it wants functional tools now.
 
 The next six months will clarify where these forces collide. Watch for Anthropic to announce its first self-operated data center by Q1 2025, for COSMO to integrate with Google Workspace by early 2025, and for Anthropic to release an enterprise version of Claude Code optimized for automotive engineering use cases.
+
+## Updates
+
+- **2026-05-05** — Samsung Galaxy A37 review: A solid deal even in this economy ([source](https://www.engadget.com/2164208/samsung-galaxy-a37-5g-review/))

@@ -1,17 +1,19 @@
 ---
 title: "Cohere Takes Over Aleph Alpha"
 date: 2026-04-25T19:01:14.278Z
+modified_date: 2026-05-05T17:29:22.940Z
 tags: ["AI","Mergers and Acquisitions","Technology"]
 hero_image: "/hero/2026-04-25-cohere-takes-over-aleph-alpha-1bcf97.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Powerhouse"
 description: "Cohere acquires Aleph Alpha to create transatlantic AI powerhouse"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-04-25-cohere-takes-over-aleph-alpha-1bcf97.mp3"
 audio_bytes: 597099
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Merger
 Cohere, a Canadian AI startup, took over Aleph Alpha, a Germany-based company, with support from Schwarz Group, the owner of Lidl. This move aims to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.
@@ -31,3 +33,7 @@ The combined company will need to focus on creating a cohesive and effective AI 
 Cohere was founded with the goal of providing AI solutions to businesses in regulated industries. Aleph Alpha, on the other hand, has been building AI systems for businesses and governments. The merger between the two companies is a natural progression of their respective goals and will allow them to create a more comprehensive AI solution.
 ## Industry Reaction
 The merger between Cohere and Aleph Alpha is expected to have significant implications for the AI industry. Other companies in the industry will need to respond to the creation of a transatlantic AI powerhouse, and may need to adjust their own strategies in order to remain competitive. The merger could also lead to increased investment in the AI industry, as companies look to take advantage of the new opportunities created by the combined company.
+
+## Updates
+
+- **2026-05-05** — The Secret to Amelia Dimoldenberg’s Online Superstardom? Control ([source](https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/))
