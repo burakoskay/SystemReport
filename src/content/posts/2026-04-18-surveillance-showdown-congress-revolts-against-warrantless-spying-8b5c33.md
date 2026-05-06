@@ -1,16 +1,17 @@
 ---
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
-modified_date: 2026-05-02T09:12:34.444Z
+modified_date: 2026-05-06T10:23:21.765Z
 tags: ["surveillance","privacy","security"]
 hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -20,5 +21,6 @@ A dramatic post-midnight revolt in the House has sunk the White House's efforts 
 
 ## Updates
 
+- **2026-05-06** — Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO ([source](https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/))
 - **2026-05-02** — Job Postings for Software Engineers Are Rapidly Rising ([source](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/))
 - **2026-04-19** — Robots beat human records at Beijing half-marathon ([source](https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/))
