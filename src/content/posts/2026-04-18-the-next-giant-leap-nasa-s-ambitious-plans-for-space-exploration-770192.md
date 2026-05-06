@@ -1,16 +1,17 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-05-06T17:46:18.044Z
+modified_date: 2026-05-06T21:15:46.996Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-05-06** — Mina the Hollower, from the studio behind Shovel Knight, arrives on May 29 ([source](https://www.engadget.com/2166369/mina-the-hollower-from-the-studio-behind-shovel-knight-arrives-on-may-29/))
 - **2026-05-06** — This slim ice cream maker could fit in my already crowded kitchen ([source](https://www.theverge.com/tech/925124/nutribullet-chill-ice-cream-maker))
 - **2026-05-05** — The fun has been optimized out of the Internet ([source](https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/))
 - **2026-05-01** — Your guide to sci-fi streaming season ([source](https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026))

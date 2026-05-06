@@ -1,16 +1,18 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-05-04T21:13:11.791Z
+modified_date: 2026-05-06T21:15:48.536Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 13
+sources_count: 15
 author: "lena-volkov"
 ---
+
+
 
 
 
@@ -30,6 +32,8 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-05-06** — Appearing productive in the workplace ([source](https://nooneshappy.com/article/appearing-productive-in-the-workplace/))
+- **2026-05-06** — Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected ([source](https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/))
 - **2026-05-04** — The Sideload 032: Why your next phone might be a downgrade ([source](https://9to5google.com/2026/05/04/the-sideload-032-why-your-next-phone-might-be-a-downgrade/))
 - **2026-05-01** — We just got a new reason to believe the Trump phone is real(ish) ([source](https://www.theverge.com/gadgets/922180/trump-mobile-t1-phone-ptcrb-certification-t-mobile))
 - **2026-04-29** — A Falcon 9 rocket will hit the Moon this summer at seven times the speed of sound ([source](https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/))

@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
-modified_date: 2026-05-03T16:57:31.280Z
+modified_date: 2026-05-06T21:15:43.905Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -66,4 +67,5 @@ The development of AI-powered devices is also driving the need for more advanced
 
 ## Updates
 
+- **2026-05-06** — The animated version of the iconic "Hello, world" image reveals striking new details ([source](https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/))
 - **2026-05-03** — Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo ([source](https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale))

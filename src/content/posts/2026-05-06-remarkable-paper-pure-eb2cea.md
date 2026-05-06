@@ -1,18 +1,20 @@
 ---
 title: "ReMarkable Paper Pure"
 date: 2026-05-06T14:26:28.023Z
+modified_date: 2026-05-06T21:15:40.845Z
 tags: ["ReMarkable Paper Pure","E-reader","Writing Device","Corporate Buyers"]
 hero_image: "/hero/2026-05-06-remarkable-paper-pure-eb2cea.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "ReMarkable Paper Pure"
 description: "ReMarkable's new entry-level slate prioritizes corporate buyers, but at what cost?"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-06-remarkable-paper-pure-eb2cea.mp3"
 audio_bytes: 576828
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the ReMarkable Paper Pure
 The ReMarkable Paper Pure is the latest offering from ReMarkable, designed to replace the ReMarkable 2. After six years, the new device promises a fresh take on the original. However, the Paper Pure's design and functionality reveal a conscious effort to appeal more to corporate buyers, raising questions about its suitability for ordinary users.
@@ -54,3 +56,7 @@ The ReMarkable Paper Pure's focus on corporate buyers may have significant impli
 As the ReMarkable Paper Pure enters the market, it will be interesting to see how it is received by both corporate buyers and individual users. Will the device's focus on business users pay off, or will it alienate consumers who are looking for a more personalized experience? The answer to this question will depend on how the device is adopted and used in the real world.
 
 The device's downstream implications also extend to the broader market. If the ReMarkable Paper Pure is successful in the corporate market, it may lead to a shift in the way that businesses approach note-taking and document management. On the other hand, if the device fails to gain traction, it may be seen as a sign that the market is not ready for a device that is so heavily focused on corporate users.
+
+## Updates
+
+- **2026-05-06** — How David Sacks crashed and burned in the White House ([source](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review))
