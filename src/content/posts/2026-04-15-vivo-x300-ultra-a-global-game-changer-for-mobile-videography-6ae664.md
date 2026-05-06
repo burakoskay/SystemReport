@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-04-30T17:26:20.539Z
+modified_date: 2026-05-06T22:57:00.030Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-05-06** — Moto G Stylus (2026) might actually be worth $499, if you really want a pen that badly ([source](https://9to5google.com/2026/05/06/moto-g-stylus-2026-hands-on-review/))
 - **2026-04-30** — The Vivo X300 Ultra should scare Samsung into changes [Video] ([source](https://9to5google.com/2026/04/30/the-vivo-x300-ultra-should-scare-samsung-into-changes-video/))
 - **2026-04-29** — Don’t bother with Moto’s new Razr Ultra — last year’s model is nearly half off and virtually identical ([source](https://9to5google.com/2026/04/29/dont-bother-with-motos-new-razr-ultra-last-years-model-is-nearly-half-off-and-virtually-identical/))
 - **2026-04-25** — Google Wallet adds support for three more digital passport IDs on Android ([source](https://9to5google.com/2026/04/25/google-wallet-passport-brazil-singapore-taiwan/))
