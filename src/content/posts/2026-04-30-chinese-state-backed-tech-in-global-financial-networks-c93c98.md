@@ -1,15 +1,17 @@
 ---
 title: "Chinese State-Backed Tech in Global Financial Networks"
 date: 2026-04-30T19:47:40.483Z
+modified_date: 2026-05-06T03:36:15.376Z
 tags: ["high-frequency trading","chinese tech","regulatory risk","financial infrastructure"]
 hero_image: "/hero/2026-04-30-chinese-state-backed-tech-in-global-financial-networks-c93c98.jpg"
 hero_image_credit_name: "Michal Marek"
 hero_image_credit_url: "https://www.pexels.com/@michalmarek"
 visual_keyword: "high-frequency trading network components in a financial center"
 description: "A state-owned Chinese firm’s laser amplifiers power high-speed trading in key financial hubs, raising regulatory concerns."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Accelink’s Hidden Reach in Global Finance
 
@@ -38,3 +40,7 @@ This ambiguity fuels the market’s pushback. Ciena and Lumentum, U.S.-based opt
 ## What to Watch
 
 The CFTC and SEC could expand their scrutiny to financial infrastructure beyond stock exchanges. A proposed EU digital resilience act mandates third-party audits of hardware in critical systems—this might apply to Accelink’s European deployments. Meanwhile, 137 Ventures’ new funds may invest in U.S. firms developing open-source optical components, a potential counterweight to Chinese dominance in this niche. The next 90 days will test whether regulators can balance latency demands with security imperatives.
+
+## Updates
+
+- **2026-05-06** — Intel’s stock jumped 13% today over Apple chip manufacturing report ([source](https://9to5mac.com/2026/05/05/intels-stock-jumped-13-today-over-apple-chip-manufacturing-report/))
