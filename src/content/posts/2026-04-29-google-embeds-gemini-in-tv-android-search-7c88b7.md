@@ -1,14 +1,16 @@
 ---
 title: "Google embeds Gemini in TV, Android Search"
 date: 2026-04-29T17:46:40.728Z
+modified_date: 2026-05-06T17:46:25.760Z
 tags: ["Google Gemini","AI Integration","Consumer Devices"]
 hero_image: "/hero/2026-04-29-google-embeds-gemini-in-tv-android-search-7c88b7.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
-sources_count: 3
+sources_count: 4
 ---
+
 
 Google just added two new transformers to Google TV: Nano Banana for photo tweaks and Veo for video re-rendering.
 
@@ -53,3 +55,7 @@ Looking ahead, Google may continue to refine Gemini's features and expand its re
 The trade-off is clear: deeper integration. Users will have to weigh convenience.
 
 What to watch: tracking adoption metrics for the TV transformers and file-generation feature will indicate whether the integrated experience drives broader AI usage.
+
+## Updates
+
+- **2026-05-06** — Higher usage limits for Claude and a compute deal with SpaceX ([source](https://www.anthropic.com/news/higher-limits-spacex))

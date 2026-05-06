@@ -1,14 +1,16 @@
 ---
 title: "Apple Discontinues Base Mac Mini, Starts at $799"
 date: 2026-05-01T19:19:16.066Z
+modified_date: 2026-05-06T17:46:19.632Z
 tags: ["Tech News","Apple","LG"]
 hero_image: "/hero/2026-05-01-apple-discontinues-base-mac-mini-starts-at-799-2e9004.jpg"
 hero_image_credit_name: "Tofros.com"
 hero_image_credit_url: "https://www.pexels.com/@tofros-com-83191"
 visual_keyword: "Laptop"
 description: "Apple discontinues base Mac mini, LG launches 2026 Gram laptops"
-sources_count: 8
+sources_count: 9
 ---
+
 
 ## Apple Discontinues Base Mac Mini Model
 Apple has discontinued its base Mac mini model, previously starting at $599 with 256GB of storage.[^1][^2][^3] The move replaces the base model with a new starting point of $799 with 512GB of storage.[^1][^2][^3][^4]
@@ -32,6 +34,10 @@ The tech industry is witnessing a significant shift towards more powerful and ef
 The laptop market has undergone significant changes over the years, with companies like Apple and LG consistently pushing the boundaries of innovation. The launch of new products and services has driven growth and competition in the industry, with consumers benefiting from more choices and better prices.
 ## Technical Comparison
 The Aqara Camera Hub G350's Matter certification sets it apart from other smart home cameras on the market. The camera's compatibility with Apple's HomeKit and its seamless integration with other devices make it an attractive option for users invested in the Apple ecosystem. The camera's technical specifications, including its resolution and field of view, make it a competitive option in the smart home market.
+
+## Updates
+
+- **2026-05-06** — Google DeepMind is partnering with EVE Online to research ‘player-driven systems’ ([source](https://9to5google.com/2026/05/06/google-deepmind-is-partnering-with-eve-online-to-research-player-driven-systems/))
 
 [^1]: [macrumors.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFanPWxEE4Qw_k8ztAnyD9zmvNXCrk_6H58-r_15XwQDvR2MTFtdPb8QZUqVkk0K6rfK07NzDX0IR0dCvvL4YjPINiplFfck-uTKDfOw6MG3sq1AOoOl9Zy0bRConLlR3X-yk33rFRjWZX4I5M3hdWcYp6IPw8r0rdPGg==)
 [^2]: [9to5mac.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGws4X4SDEn4wZwddMKKsF1zayamNOKH2R8oyRQeKNKcAqEKMAdVcZdfCgQQAt0cB38qF4kQFiR7Ic0DEm0ngge31aAHGLVvt7D7hGZvDuyAtRk6b4DBztJXXIX9jiV5QB-gl_2VvW19xvnbk4UoZMlBfyODW6ebPwkBe8_oewmjXDImSjarQBb2T2ULiE94rDh_fzqKm7Ye7CC6m584X4=)
