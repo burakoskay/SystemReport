@@ -1,17 +1,19 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
+modified_date: 2026-05-06T14:25:47.875Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Bumble's Paying Users Decline
@@ -69,3 +71,7 @@ Bumble's new overhaul is an attempt to address these changing needs and remain c
 Bumble's paying users are slipping, and the company is betting on a major overhaul to reverse the trend. The dating app's new features aim to promote more authentic and meaningful connections, and its focus on getting users to meet in real life.
 
 The success of Bumble's overhaul will depend on its ability to attract and retain users. If the company can successfully execute its new strategy, it may be able to regain its position as a leader in the dating app market. However, there are risks associated with Bumble's new approach, and the company must continually innovate and improve its services to remain competitive.
+
+## Updates
+
+- **2026-05-06** — Energizer’s new coin batteries won’t cause ingestion burns if swallowed ([source](https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention))

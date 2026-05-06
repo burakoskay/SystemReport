@@ -1,19 +1,20 @@
 ---
 title: "MIT paper retraction sparks AI research scrutiny"
 date: 2026-04-26T22:52:44.101Z
-modified_date: 2026-04-30T10:11:06.781Z
+modified_date: 2026-05-06T14:25:46.516Z
 tags: ["ai-ethics","computational-biology","research-integrity"]
 hero_image: "/hero/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "neural network model overlaid on dna helix structure in monochrome"
 description: "MIT withdraws controversial AI research paper, as scientists push Claude and SciCraft for discovery"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.mp3"
 audio_bytes: 612355
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ Three key developments will shape the next phase of AI in scientific research. F
 
 ## Updates
 
+- **2026-05-06** — It’s time to let my iPhone Mini go ([source](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass))
 - **2026-04-30** — The Person Behind Those Viral Polycule Ads Says It’s Just a Joke ([source](https://www.wired.com/story/the-person-behind-those-viral-polycule-ads-says-its-just-a-joke/))
 - **2026-04-28** — You can get dragged into a police investigation by proximity alone — for now ([source](https://www.theverge.com/report/919664/chatrie-v-united-states-supreme-court-arguments-fourth-amendment-geofence-warrants))

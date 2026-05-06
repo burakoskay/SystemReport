@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: OpenAI's Smartphone Plans, Instagram's Feed Update"
 date: 2026-04-28T06:37:39.091Z
+modified_date: 2026-05-06T14:25:54.709Z
 tags: ["OpenAI","Instagram","Smartphones","AI"]
 hero_image: "/hero/2026-04-28-tech-roundup-openai-s-smartphone-plans-instagram-s-feed-update-3f7094.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "smartphone"
 description: "OpenAI is reportedly working on a smartphone focused on AI agents. Instagram's new feed update has sparked outrage among users."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI's Foray into Hardware
@@ -69,3 +71,7 @@ The smartphone market, in particular, is highly competitive, with many manufactu
 ## Conclusion
 
 In conclusion, the tech industry is constantly evolving, and new developments are emerging every day. From OpenAI's smartphone plans to Instagram's feed update, these developments have significant implications for users, companies, and the broader economy. As the industry continues to evolve, it's essential to stay informed about the latest developments and to consider their potential impact.
+
+## Updates
+
+- **2026-05-06** — Apple may have just made one of the most important new Siri announcements ([source](https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/))

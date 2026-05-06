@@ -1,17 +1,19 @@
 ---
 title: "Google's Pentagon AI Deal Sparks Employee Outcry"
 date: 2026-04-28T17:52:59.626Z
+modified_date: 2026-05-06T14:25:45.171Z
 tags: ["Google","Pentagon","AI","military"]
 hero_image: "/hero/2026-04-28-google-s-pentagon-ai-deal-sparks-employee-outcry-9d4afe.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google signs deal with Pentagon for AI use, sparks employee opposition over military involvement"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-28-google-s-pentagon-ai-deal-sparks-employee-outcry-9d4afe.mp3"
 audio_bytes: 575783
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's Updated Pentagon Deal
@@ -54,3 +56,6 @@ Google's involvement with the Pentagon is not new. In 2018, the company was crit
 
 The updated deal with the Pentagon has reignited concerns about Google's involvement with the military. While the company has stated that it will not develop or deploy AI technology that could be used for lethal purposes, employees and critics argue that the deal still poses significant risks. The debate over AI use in military operations is likely to continue, with companies like Google and Microsoft facing increasing pressure to ensure that their AI technologies are used responsibly.
 
+## Updates
+
+- **2026-05-06** — Google&#8217;s AI search summaries will now quote Reddit ([source](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links))

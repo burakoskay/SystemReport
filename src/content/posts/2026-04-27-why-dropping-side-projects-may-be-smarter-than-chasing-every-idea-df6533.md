@@ -1,15 +1,17 @@
 ---
 title: "Why Dropping Side Projects May Be Smarter Than Chasing Every Idea"
 date: 2026-04-27T14:14:13.288Z
+modified_date: 2026-05-06T14:25:49.243Z
 tags: ["side-projects","developer-tools","ai-automation"]
 hero_image: "/hero/2026-04-27-why-dropping-side-projects-may-be-smarter-than-chasing-every-idea-df6533.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "engineer juggling multiple code repositories with AI agents and a terminal window"
 description: "A Hacker News debate, AI‑driven task tools, and a Neovim plugin reveal why engineers are rethinking side‑project culture."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 A Hacker News post titled *It’s OK to abandon your side‑project* racked up 131 points and 62 comments, sparking a rare consensus that quitting a personal codebase isn’t a failure.
 
@@ -46,3 +48,7 @@ Both cases illustrate a friction point: the promise of “more done with less ef
 ## What to watch
 
 Watch Fluxa’s upcoming release notes for any metrics on agent‑setup time versus manual effort saved; early adoption data will reveal whether the AI layer justifies its learning curve. Keep an eye on the Neovim community’s fork activity around *xcodebuild.nvim*—a surge in contributions could signal that the plugin is maturing into a viable Xcode alternative. Finally, monitor future Hacker News threads on side‑project burnout; a rise in posts citing concrete productivity gains from abandoning unfinished repos would confirm that the cultural shift hinted at in the original debate is gaining traction.
+
+## Updates
+
+- **2026-05-06** — The clippening ([source](https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast))

@@ -1,18 +1,20 @@
 ---
 title: "GitHub Availability Update"
 date: 2026-04-28T14:28:17.773Z
+modified_date: 2026-05-06T14:25:41.100Z
 tags: ["GitHub","Availability Update","Software Development"]
 hero_image: "/hero/2026-04-28-github-availability-update-999967.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub"
 description: "GitHub provides an update on its availability. The company shares details on its current status."
-sources_count: 8
-author: "david-okafor"
+sources_count: 9
 audio_path: "/audio/2026-04-28-github-availability-update-999967.mp3"
 audio_bytes: 623013
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## GitHub Availability Update
 
@@ -45,3 +47,7 @@ The update on GitHub's availability has significant implications for developers 
 ## What to Watch
 
 The company will likely continue to provide updates on its status, and developers and users will be watching for any changes or improvements. As GitHub continues to evolve and grow, it will be essential to monitor its performance and impact on the software development industry. The platform's future developments, such as its plans for artificial intelligence and machine learning, will also be closely watched by the developer community.
+
+## Updates
+
+- **2026-05-06** — A Library Dedicated Solely to the Epstein Files Is Opening in New York ([source](https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/))

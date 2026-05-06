@@ -1,15 +1,17 @@
 ---
 title: "Colorado Leads on Right to Repair, As Federal Bills Stall"
 date: 2026-04-28T19:56:24.994Z
+modified_date: 2026-05-06T14:25:50.665Z
 tags: ["right to repair","colorado","sustainability","electronics"]
 hero_image: "/hero/2026-04-28-colorado-leads-on-right-to-repair-as-federal-bills-stall-4de731.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "a person repairing a smartphone"
 description: "Colorado passes landmark right to repair bill, bucking trend of tech industry opposition. The legislation ensures consumers and repair shops can fix their own devices."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 ## Colorado's Right to Repair Bill Passes
@@ -63,3 +65,7 @@ The Colorado right to repair bill is a significant step forward for the movement
 * Will the federal government pass a national right to repair standard?
 
 These are just a few of the questions that will be on the minds of consumers and repair advocates in the coming months and years. One thing is certain: the right to repair movement is here to stay, and it's only a matter of time before more states and countries follow Colorado's lead.
+
+## Updates
+
+- **2026-05-06** — Google Home will try to make Nest Cam ‘Familiar Faces’ more reliable – the bar is low ([source](https://9to5google.com/2026/05/06/google-home-nest-cam-familiar-faces-improvements/))

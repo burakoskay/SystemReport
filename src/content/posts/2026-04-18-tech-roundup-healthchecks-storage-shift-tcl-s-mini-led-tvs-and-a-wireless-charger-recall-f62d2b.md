@@ -1,16 +1,18 @@
 ---
 title: "Tech Roundup: Healthchecks' Storage Shift, TCL's Mini LED TVs"
 date: 2026-04-18T01:05:19.132Z
-modified_date: 2026-04-30T22:56:54.782Z
+modified_date: 2026-05-06T14:25:53.359Z
 tags: ["tech news","mini led tvs","wireless charger recall"]
 hero_image: "/hero/2026-04-18-tech-roundup-healthchecks-storage-shift-tcl-s-mini-led-tvs-and-a-wireless-charger-recall-f62d2b.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "TCL RGB-Mini LED TV"
 description: "Healthchecks.io ditches cloud storage for self-hosted solution, TCL unveils RGB-Mini LED TVs, and a wireless charger recall due to burn hazards."
-sources_count: 9
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -28,6 +30,8 @@ These developments highlight the dual nature of the tech industry, where innovat
 
 ## Updates
 
+- **2026-05-06** — Energizer now offers child-safe batteries for your AirTags ([source](https://9to5mac.com/2026/05/06/energizer-now-offers-child-safe-batteries-for-your-airtags/))
+- **2026-05-06** — iPhone 18 Pro getting new display upgrade with two benefits, per report ([source](https://9to5mac.com/2026/05/06/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-report/))
 - **2026-04-30** — LinkedIn scans for 6,278 extensions and encrypts the results into every request ([source](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/))
 - **2026-04-29** — Essential Gear for an Emergency Kit—for Cars or Go-Bags ([source](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/))
 - **2026-04-27** — Letterboxd, the social platform for film buffs, reportedly looking for new owner ([source](https://techcrunch.com/2026/04/27/letterboxd-sale-film-social-media-semafor-versant-ankler/))
