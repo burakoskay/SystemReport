@@ -1,19 +1,20 @@
 ---
 title: "Tech Discounts"
 date: 2026-05-01T09:51:32.747Z
-modified_date: 2026-05-01T17:02:02.108Z
+modified_date: 2026-05-06T06:41:26.745Z
 tags: ["tech discounts","promo codes","online shopping"]
 hero_image: "/hero/2026-05-01-tech-discounts-f78661.jpg"
 hero_image_credit_name: "Nataliya Vaitkevich"
 hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "promo codes"
 description: "Exclusive promo codes for Dell, Google Workspace, and more. Save up to 20% on laptops, software, and services."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-01-tech-discounts-f78661.mp3"
 audio_bytes: 628655
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Promo Codes
@@ -39,4 +40,5 @@ The use of promo codes can have a significant impact on consumer behavior. As pe
 
 ## Updates
 
+- **2026-05-06** — Jabra Promo Codes: 30% Off  Headphones, Headsets & More ([source](https://www.wired.com/story/jabra-promo-codes-coupons/))
 - **2026-05-01** — Deals: Galaxy Tab S11 Ultra over $500 off, Galaxy S26 Ultra up to $369 off, Galaxy Book6, Echo Show displays, more ([source](https://9to5google.com/2026/05/01/deals-galaxy-tab-s11-ultra-galaxy-s26-ultra-echo-show/))

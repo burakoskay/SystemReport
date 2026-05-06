@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Tightens Codex, While Open‑Source AI Coworkers Multiply"
 date: 2026-04-29T06:37:23.176Z
+modified_date: 2026-05-06T06:41:25.382Z
 tags: ["ai","open-source","devops","coding-tools"]
 hero_image: "/hero/2026-04-29-openai-tightens-codex-while-open-source-ai-coworkers-multiply-a150c5.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "developer using AI coworker on laptop with code and knowledge graph"
 description: "OpenAI bans fantasy references in Codex as a wave of open‑source AI coworkers, skill catalogs, and CI agents reshape developer workflows."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 OpenAI added a strict content filter to its Codex coding agent, banning references to fantasy creatures. The move signals a shift toward tighter guardrails on code‑generation models.
 
@@ -54,3 +56,7 @@ OpenAI’s goblin ban may be a narrow policy tweak, but it underscores a broader
 ## What to watch
 
 Watch for OpenAI’s next prompt update and any public rationale for the creature list. Track Rowboat’s adoption metrics on GitHub, especially issues related to vault corruption or integration breakage. Monitor GooseWorks and Mother MCP for new skill releases that target emerging APIs such as AI‑generated documentation. Finally, observe how Continue’s CI checks perform in large‑scale repositories and whether major cloud CI providers add native support for AI‑driven status checks.
+
+## Updates
+
+- **2026-05-06** — Expedia Coupons: 75% Off ([source](https://www.wired.com/story/expedia-coupon/))
