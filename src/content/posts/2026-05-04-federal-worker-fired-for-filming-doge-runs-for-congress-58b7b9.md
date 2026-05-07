@@ -1,18 +1,20 @@
 ---
 title: "Federal Worker Fired for Filming DOGE, Runs for Congress"
 date: 2026-05-04T14:16:25.345Z
+modified_date: 2026-05-07T23:04:12.446Z
 tags: ["government","congress","DOGE"]
 hero_image: "/hero/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.jpg"
 hero_image_credit_name: "Hugo Sykes"
 hero_image_credit_url: "https://www.pexels.com/@hugosykes"
 visual_keyword: "Alexis Goldstein"
 description: "Alexis Goldstein, ex-CFPB employee, fired for recording DOGE's incursion into the agency, now runs for Congress."
-sources_count: 5
-author: "lena-volkov"
+sources_count: 6
 audio_path: "/audio/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.mp3"
 audio_bytes: 561573
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Feds, Firing, and Finances
@@ -52,3 +54,7 @@ The implications of Goldstein's actions and her campaign extend beyond her indiv
 In the context of government accountability, Goldstein's campaign may also highlight the need for clearer guidelines and policies around employee conduct on social media and personal projects. This could have implications for other government agencies and employees, and may lead to changes in the way that government employees are expected to conduct themselves online and offline.
 
 Ultimately, the outcome of Goldstein's campaign will depend on how voters respond to her message and her vision for Congress. If she is successful, it could have implications for the way that government employees are viewed and treated, and may lead to changes in the way that government agencies approach issues related to employee conduct and accountability.
+
+## Updates
+
+- **2026-05-07** — Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained ([source](https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/))

@@ -1,14 +1,16 @@
 ---
 title: "Regulatory Storms Hit Tech and Crypto"
 date: 2026-05-05T03:31:39.386Z
+modified_date: 2026-05-07T23:04:21.818Z
 tags: ["AI regulation","cryptocurrency","online privacy"]
 hero_image: "/hero/2026-05-05-regulatory-storms-hit-tech-and-crypto-a58d87.jpg"
 hero_image_credit_name: "David McElwee"
 hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "regulation"
 description: "New regulations loom for AI, Bitcoin, and online privacy, sparking debates on innovation and oversight."
-sources_count: 7
+sources_count: 8
 ---
+
 
 ## Musk Settles with SEC
 
@@ -71,3 +73,7 @@ The impact of these regulations on the cryptocurrency market will be significant
 ## Conclusion
 
 The regulatory landscape for tech and crypto is evolving rapidly. As the White House, SEC, and NYDFS continue to develop new guidelines and regulations, it is essential to consider the potential impacts on innovation, security, and individual rights. The ongoing discussions around AI regulation, cryptocurrency oversight, and online privacy will likely have far-reaching implications for the tech industry.
+
+## Updates
+
+- **2026-05-07** — Trump set to invite Tim Cook and other CEOs to upcoming China trip ([source](https://9to5mac.com/2026/05/07/trump-set-to-invite-tim-cook-and-other-ceos-to-upcoming-china-trip/))

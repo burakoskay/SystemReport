@@ -1,15 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
+modified_date: 2026-05-07T23:04:15.574Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Apple's latest macOS virtualization benchmarks show performance within 15% of native. The 2026 EclecticLightCo report[^1] [1] measured VMs running on M2 Pro chips, finding consistent latency spikes during disk-intensive tasks[^2]. This 15% gap persists despite Apple's Rosetta 2 optimizations, contradicting claims of near-native parity seen in earlier A17 Pro benchmarks.
 
@@ -36,6 +38,10 @@ Apple's upcoming macOS 15 release may include virtualization performance improve
 The open-source burnout report[^8] [3] demands immediate policy responses[^1][^3][^8]. The Linux Foundation's recent $15 million infrastructure grant program offers a potential model for sustaining critical projects. Watch for GitHub's 2027 roadmap to include automated contribution load monitoring tools.
 
 For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update introduced a unified $TEMP directory. While not backward-compatible, this change reduced configuration errors by 42% in enterprise environments. Open-source projects should adopt similar consolidation strategies by 2027 to reduce cross-platform maintenance debt.
+
+## Updates
+
+- **2026-05-07** — Disney looking to make a unified ‘super app,’ report says ([source](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/))
 
 [^1]: [developer-tech.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG80-WLQJdTI28VL85AChxPumu9Ktsfw17-1hvT7F4bwlKMEfHqdRJ9cIqnKRTcDodzk5ATYFNxXghFSwd2vn_kjXmbVxka1anD_6o73nMF1DOtV4df99TVU0FCc_v7X1UlOedeYYbTNd_SUXfVfHTIrcws8yvGTlFrIP_XAtYT0yzgg3j97FYQeTIyI5_8e3TNm02Wjw==)
 [^2]: [eclecticlight.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEptJgziyGl-ZbQD8hRTAj8OnyRq8aWxRYYlY03Qv_um-EVSzt-t4mbdTCq63DOwHXd1zV-Gi9dv4592OoM2RYX_0vJwchLXo_4cs3Q2tyr6k2w5DPbafSBvR3OHrj9XVzb-H6Q1FQ7fltx1FJjkEMDH6JsST-3_a4Ch3cnYI0-j37R4HFHQjsfcPJpP3nwbCIL6WgQ)

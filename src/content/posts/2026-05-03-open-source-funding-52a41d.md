@@ -1,17 +1,19 @@
 ---
 title: "Open Source Funding"
 date: 2026-05-03T09:25:48.190Z
+modified_date: 2026-05-07T23:04:20.287Z
 tags: ["Open Source","Funding","Community Engagement"]
 hero_image: "/hero/2026-05-03-open-source-funding-52a41d.jpg"
 hero_image_credit_name: "Karol D"
 hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "Funding"
 description: "New funding announcements and community discussions highlight open source development nuances"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-03-open-source-funding-52a41d.mp3"
 audio_bytes: 617788
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Open Source Funding
 Open source projects rely on community involvement and funding to thrive. Clojurists Together announced their Q2 2026 open source funding recipients, supporting key projects in the Clojure ecosystem.
@@ -48,3 +50,7 @@ The impact of the funding announcement will be felt throughout the Clojure ecosy
 The success of these initiatives will depend on the community's continued involvement and support. As the open source funding landscape evolves, it is essential to track the progress of the funded projects and the growth of the Clojure ecosystem. The emergence of new funding models and initiatives will likely shape the future of open source development, enabling a wide range of projects to thrive.
 
 In addition to the direct impact on the Clojure ecosystem, the funding announcement will also have broader implications for the open source community. The success of community-driven initiatives like Clojurists Together will inspire other organizations and individuals to contribute to open source projects, further accelerating the growth of the open source landscape. As the open source ecosystem continues to evolve, it is essential to prioritize community engagement, inclusivity, and structured funding models to ensure the long-term sustainability and success of open source projects.
+
+## Updates
+
+- **2026-05-07** — Gmail adds AI Inbox to the bottom bar as Help me write becomes more personal ([source](https://9to5google.com/2026/05/07/gmail-ai-inbox-android-ios/))
