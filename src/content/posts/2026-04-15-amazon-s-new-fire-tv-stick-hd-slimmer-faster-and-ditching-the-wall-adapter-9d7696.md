@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-04-24T09:48:51.066Z
+modified_date: 2026-05-07T17:52:13.847Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-05-07** — Google unveils Whoop-like screenless Fitbit Air ([source](https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/))
 - **2026-04-24** — Porsche's new Cayenne Turbo Coupé Electric can do 0-60 mph in 2.5 seconds ([source](https://www.engadget.com/transportation/evs/porsches-new-cayenne-turbo-coupe-electric-can-do-0-60-mph-in-25-seconds-091925467.html?src=rss))
 - **2026-04-22** — Physicists think they've solved the muon mystery ([source](https://arstechnica.com/science/2026/04/physicists-think-theyve-solved-the-muon-mystery/))

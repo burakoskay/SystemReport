@@ -1,18 +1,19 @@
 ---
 title: "Anthropic Valued at $900B, Drives AI-Related Investments"
 date: 2026-04-30T06:33:00.063Z
-modified_date: 2026-05-04T17:45:11.445Z
+modified_date: 2026-05-07T17:52:30.635Z
 tags: ["AI","subsea cables","Anthropic","Meta"]
 hero_image: "/hero/2026-04-30-anthropic-valued-at-900b-drives-ai-related-investments-cc0c8b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "subsea cables"
 description: "Anthropic's $900B valuation and Meta's AI ambitions spark investments in subsea cables."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-30-anthropic-valued-at-900b-drives-ai-related-investments-cc0c8b.mp3"
 audio_bytes: 607966
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,4 +71,5 @@ The subsea cable industry is expected to continue growing, driven by the increas
 
 ## Updates
 
+- **2026-05-07** — Google will still sell you the Fitbit Sense 2 or Versa 4 after launching ‘Air’ ([source](https://9to5google.com/2026/05/07/google-fitbit-versa-4-sense-2-still-available-after-air/))
 - **2026-05-04** — Sierra raises $950M as the race to own enterprise AI gets serious ([source](https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/))

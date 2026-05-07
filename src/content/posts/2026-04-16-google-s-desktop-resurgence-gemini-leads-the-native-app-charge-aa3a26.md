@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-05-05T17:29:21.525Z
+modified_date: 2026-05-07T17:52:26.098Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-05-07** — Netflix has its own, impressive AI-powered voice search ([source](https://www.theverge.com/column/925898/netflix-ai-voice-search))
 - **2026-05-05** — Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home ([source](https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/))
 - **2026-05-01** — Prices hikes have arrived for OnePlus 15, Nothing phones, more ([source](https://9to5google.com/2026/05/01/prices-hikes-have-arrived-for-oneplus-15-nothing-phones-more/))
 - **2026-04-30** — Microsoft’s Xbox mode is now available for all Windows 11 PCs ([source](https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11))

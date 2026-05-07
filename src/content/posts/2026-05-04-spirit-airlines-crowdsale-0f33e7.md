@@ -1,14 +1,16 @@
 ---
 title: "Spirit Airlines Crowdsale"
 date: 2026-05-04T03:39:31.294Z
+modified_date: 2026-05-07T17:52:19.981Z
 tags: ["Spirit Airlines","Crowdsale","Aviation Industry"]
 hero_image: "/hero/2026-05-04-spirit-airlines-crowdsale-0f33e7.jpg"
 hero_image_credit_name: "K"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Airplane"
 description: "TikToker rallies $23M to buy Spirit Airlines"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Introduction to Chaos
 A TikToker's call to action resulted in $23 million pledged to buy Spirit Airlines, hours after the airline's collapse. This move has left the aviation industry stunned.
@@ -55,3 +57,7 @@ The Spirit Airlines crowdsale has sparked a debate about the potential of crowds
 
 ## Conclusion
 The Spirit Airlines crowdsale has sent shockwaves through the aviation industry, raising questions about the potential of crowdsales and their implications for the industry. As the situation continues to unfold, it will be important to follow the developments and assess the long-term impact of this unprecedented event.
+
+## Updates
+
+- **2026-05-07** — Did Microsoft just tease a new Xbox UI? ([source](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud))

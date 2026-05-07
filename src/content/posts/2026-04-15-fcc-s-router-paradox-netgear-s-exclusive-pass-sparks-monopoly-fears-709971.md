@@ -1,16 +1,17 @@
 ---
 title: "FCC's Router Paradox: Netgear's Exclusive Pass Sparks Monopoly Fears"
 date: 2026-04-15T19:45:34.217Z
-modified_date: 2026-04-22T13:54:08.334Z
+modified_date: 2026-05-07T17:52:27.625Z
 tags: ["fcc","netgear","routers","cybersecurity","tech policy"]
 hero_image: "/hero/2026-04-15-fcc-s-router-paradox-netgear-s-exclusive-pass-sparks-monopoly-fears-709971.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"
 description: "The FCC's sweeping ban on foreign-made routers has a curious exception: Netgear. This conditional approval sparks questions about market fairness and national security."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ As the industry navigates this new regulatory landscape, the FCC faces increasin
 
 ## Updates
 
+- **2026-05-07** — BMW iX3 has a lower starting price than comparable gas-powered X3 ([source](https://www.theverge.com/transportation/925975/bmw-ix3-starting-price-lower-x3-range-estimate))
 - **2026-04-22** — Google Meet adding in-person ‘Take Notes for me’ and Drive ‘projects’ ([source](https://9to5google.com/2026/04/22/google-workspace-next-2026/))
 - **2026-04-20** — Google Photos adds subtle touch-up tools for faces ([source](https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes))
