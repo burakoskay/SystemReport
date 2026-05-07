@@ -1,16 +1,17 @@
 ---
 title: "Code, History, and Reality Converge"
 date: 2026-04-18T01:10:43.528Z
-modified_date: 2026-04-26T22:44:41.317Z
+modified_date: 2026-05-07T19:47:29.594Z
 tags: ["coding","history","cybersecurity"]
 hero_image: "/hero/2026-04-18-code-history-and-reality-converge-d35300.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Exploring connections between coding, history, and current events"
-sources_count: 6
+sources_count: 7
 author: "priya-raman"
 ---
+
 
 
 Miguel Conner spent three months coding by hand, documenting their journey on Substack in the article 'I'm Coding by Hand'. This labor-intensive approach led to a deeper understanding of programming fundamentals. Conner's experience highlights the value of manual coding in software development.
@@ -27,4 +28,5 @@ These stories, though disparate, share a common thread – a pursuit of understa
 
 ## Updates
 
+- **2026-05-07** — Tome, another Goodreads book-tracker rival, shuts down ([source](https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/))
 - **2026-04-26** — The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder ([source](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/))

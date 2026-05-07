@@ -1,16 +1,17 @@
 ---
 title: "The AI Tidal Wave: Agents and Billions Reshape Tech"
 date: 2026-04-15T19:47:53.588Z
-modified_date: 2026-05-07T17:52:33.687Z
+modified_date: 2026-05-07T19:47:45.435Z
 tags: ["ai","artificial intelligence","agentic ai","tech investment","innovation"]
 hero_image: "/hero/2026-04-15-the-ai-tidal-wave-how-intelligent-agents-and-billions-in-capital-are-reshaping-tech-76eade.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI intelligence network"
 description: "AI is rapidly democratizing complex tech like chip design and fueling agentic platforms. Billions in investment signal a pivotal shift, reshaping industries and user experiences."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ The rise of agentic AI is equally compelling. OpenAI's enhanced Agents SDK under
 
 ## Updates
 
+- **2026-05-07** — Apple hits milestone in development of AirPods with cameras: report ([source](https://9to5mac.com/2026/05/07/apple-hits-milestone-in-development-of-airpods-with-cameras-report/))
 - **2026-05-07** — New Apple TV 4K adding AI might look like this Netflix feature ([source](https://9to5mac.com/2026/05/07/new-apple-tv-4k-adding-ai-might-look-like-this-netflix-feature/))
 - **2026-04-28** — Acer Swift 16 AI (2026) Review: Where Do Your Hands Go? ([source](https://www.wired.com/review/acer-swift-16-ai-2026/))
 - **2026-04-27** — The AI-designed car is taking shape ([source](https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept))

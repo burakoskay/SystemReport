@@ -1,15 +1,17 @@
 ---
 title: "Robotic Vision and Autonomy Push Past Lab Experiments"
 date: 2026-05-06T17:59:00.610Z
+modified_date: 2026-05-07T19:47:42.254Z
 tags: ["robotics","autonomous vehicles","ai development"]
 hero_image: "/hero/2026-05-06-robotic-vision-and-autonomy-push-past-lab-experiments-28a152.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "robotic hands manipulating objects under varying light conditions"
 description: "Genesis AI and Foxglove showcase breakthroughs in robotics and autonomous systems, while HDR cameras address real-world challenges."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## Robotic hands, HDR cameras, and the quiet war for real-world autonomy
 
@@ -40,3 +42,7 @@ This matters because Aurora's recent deal with McLane—a $1.2 billion logistics
 The convergence of better hardware and smarter software is accelerating, but the cracks remain visible. Genesis AI's $105 million seed round dwarfs most robotics startups, yet its demo doesn't include long-term reliability testing. Foxglove users report occasional data sync failures in multi-vehicle scenarios. And Aurora's 2026 timeline depends on Texas regulators updating vehicle codes—a political fight no one is talking about.
 
 What's next: Watch for three things. First, Genesis AI's public benchmarking of GENE-26.5 against industry standards like RTX Robotics. Second, Foxglove's roadmap announcement—current users are demanding better support for LiDAR data streams. Third, Aurora's first safety incident in Texas, which will force a reckoning over HDR camera limitations. The real test of autonomy isn't in the demo—it's in the next 12 months of operational data.
+
+## Updates
+
+- **2026-05-07** — Valve will open reservations on May 8 for the second wave of Steam Controllers ([source](https://www.engadget.com/2167230/valve-will-open-reservations-on-may-8-for-the-second-wave-of-steam-controllers/))

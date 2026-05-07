@@ -1,18 +1,19 @@
 ---
 title: "Uber Introduces Doorstep Return Pickup Service"
 date: 2026-04-18T12:45:34.715Z
-modified_date: 2026-04-30T17:26:19.637Z
+modified_date: 2026-05-07T19:47:40.676Z
 tags: ["Uber","delivery service","returns"]
 hero_image: "/hero/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Uber Doorstep Return Pickup"
 description: "Uber adds doorstep return pickup with a courier fee, expanding its 'everything app' push."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.wav"
 audio_bytes: 2165822
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,5 +25,6 @@ The courier fee and service limitations are key factors. If executed well, this 
 
 ## Updates
 
+- **2026-05-07** — Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake ([source](https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/))
 - **2026-04-30** — Galaxy Ring has dropped to $299 again, but you can save even more ([source](https://9to5google.com/2026/04/30/galaxy-ring-has-dropped-to-299-again-but-you-can-save-even-more/))
 - **2026-04-20** — This pasta sauce wants to record your family ([source](https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps))

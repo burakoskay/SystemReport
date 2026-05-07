@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-05-05T22:59:20.468Z
+modified_date: 2026-05-07T19:47:43.855Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-05-07** — Apple Notes is a killer app, and iOS 27’s rumored upgrade excites me for more ([source](https://9to5mac.com/2026/05/07/apple-notes-is-a-killer-app-and-ios-27s-rumored-upgrade-excites-me-for-more/))
 - **2026-05-05** — Google Home&#8217;s Gemini AI can handle more complicated requests ([source](https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade))
 - **2026-05-05** — Google Home gets upgraded Gemini voice assistant and new camera controls ([source](https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/))
 - **2026-05-05** — Gemini for Home voice assistant gets Gemini 3.1 upgrade ([source](https://9to5google.com/2026/05/05/gemini-3-1-home/))

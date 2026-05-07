@@ -1,18 +1,20 @@
 ---
 title: "Apple's Record Sales Marred by Looming Chip Shortage"
 date: 2026-05-01T09:54:20.561Z
+modified_date: 2026-05-07T19:47:34.360Z
 tags: ["Apple","chip shortage","tech industry"]
 hero_image: "/hero/2026-05-01-apple-s-record-sales-marred-by-looming-chip-shortage-5890b6.jpg"
 hero_image_credit_name: "Gustavo Denuncio"
 hero_image_credit_url: "https://www.pexels.com/@gustavodenuncio"
 visual_keyword: "Apple"
 description: "Apple reports record sales as Tim Cook steps down, but a chip shortage threatens the company's future. The tech giant's sales success may be short-lived."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-01-apple-s-record-sales-marred-by-looming-chip-shortage-5890b6.mp3"
 audio_bytes: 533569
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple's Record Sales
@@ -60,3 +62,7 @@ In conclusion, Apple's record sales are a notable achievement, but the looming c
 ## What to Watch
 
 The next 48 hours will be crucial for Anthropic's valuation round, which could reach $900B+. Investors will also be watching Apple's response to the RAM chip shortage and its impact on the company's future performance. As the tech industry continues to evolve, it will be shaped by a range of factors, including technological advancements, regulatory developments, and shifting consumer preferences.
+
+## Updates
+
+- **2026-05-07** — SpaceX has a $55 billion plan to build AI chips in Texas ([source](https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips))
