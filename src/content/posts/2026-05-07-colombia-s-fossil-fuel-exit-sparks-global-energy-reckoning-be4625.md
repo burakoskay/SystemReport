@@ -1,15 +1,17 @@
 ---
 title: "Colombia’s fossil fuel exit sparks global energy reckoning"
 date: 2026-05-07T06:48:50.844Z
+modified_date: 2026-05-07T14:30:40.640Z
 tags: ["energy transition","ai sustainability","fossil fuels","climate policy","tech regulation"]
 hero_image: "/hero/2026-05-07-colombia-s-fossil-fuel-exit-sparks-global-energy-reckoning-be4625.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Solar panels and coal mines under a stormy sky, with data streams projected on a mountain range"
 description: "As AI’s energy demands collide with climate policy shifts, the world grapples with a new energy transition."
-sources_count: 9
+sources_count: 10
 author: "elena-marchetti"
 ---
+
 
 ## A coal country pivots
 
@@ -34,3 +36,7 @@ This mirrors the 1990s “clean coal” era, when carbon capture technologies we
 The convergence of these forces is creating regulatory fissures. Colombia’s coal exit plan depends on lithium extraction, which requires 5,000 liters of water per ton of output—an untenable ratio in regions already facing 30% groundwater depletion. Similarly, Google’s geothermal data centers rely on Iceland’s volcanic activity, a resource the country is considering privatizing. The EU’s proposed 2027 Digital Sustainability Act would require AI firms to source 80% of energy from renewables, but loopholes allow offsets from carbon-trading markets.
 
 What to watch: Colombia’s Green Energy Fund will host a public audit in October 2025; the outcome will determine whether the coal phaseout can offset lithium dependency. Simultaneously, the EPA’s AI energy regulations will face a House vote in November 2025. If passed, the rules could force tech firms to invest $120 billion in grid upgrades by 2030. The real test will come when the International Energy Agency releases its 2026 Global AI Carbon Index, which may finally quantify whether AI’s energy gains outpace its consumption. Until then, the world remains stuck in a 21st-century energy Cold War, where coal, code, and climate policy dictate the next decade’s economic winners and losers.
+
+## Updates
+
+- **2026-05-07** — Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’ ([source](https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/))

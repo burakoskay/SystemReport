@@ -1,18 +1,20 @@
 ---
 title: "Google's Pixel 10 Update Locks Down Android Versions"
 date: 2026-05-06T03:39:59.472Z
+modified_date: 2026-05-07T14:30:49.533Z
 tags: ["Google","Pixel 10","Android","Security"]
 hero_image: "/hero/2026-05-06-google-s-pixel-10-update-locks-down-android-versions-f80d3a.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Pixel 10"
 description: "Google's May 2026 update for Pixel 10 series devices introduces an anti-rollback measure, preventing installation of older Android versions. This move enhances security but limits user control."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-06-google-s-pixel-10-update-locks-down-android-versions-f80d3a.mp3"
 audio_bytes: 599189
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's Pixel 10 Update Locks Down Android Versions
@@ -60,3 +62,7 @@ In the coming months, it will be interesting to see how users and developers res
 ## Conclusion
 
 The anti-rollback measure on Pixel devices is a significant change that reflects a broader trend towards more control over devices by manufacturers and operating system providers. While it enhances security, it also limits user control over their devices. As technology continues to evolve, the balance between security, user control, and device customization will remain a critical issue.
+
+## Updates
+
+- **2026-05-07** — Google accused of copying Apple’s Liquid Glass look – Android head denies it ([source](https://9to5mac.com/2026/05/07/google-accused-of-copying-apples-liquid-glass-look-android-head-denies-it/))

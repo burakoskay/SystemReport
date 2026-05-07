@@ -1,16 +1,17 @@
 ---
 title: "Tech Updates"
 date: 2026-05-02T06:12:14.610Z
-modified_date: 2026-05-02T19:07:39.503Z
+modified_date: 2026-05-07T14:30:51.013Z
 tags: ["tech news","iOS 26","broadband network"]
 hero_image: "/hero/2026-05-02-tech-updates-71fe1e.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "iPhone"
 description: "Recent tech news and updates"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 # Introduction to Recent Tech News
@@ -61,6 +62,7 @@ The development of focus-friendly apps is also driven by advancements in technol
 
 ## Updates
 
+- **2026-05-07** — Are you eligible for a share of Apple’s $250M new Siri settlement? ([source](https://9to5mac.com/2026/05/07/are-you-eligible-for-a-share-of-apples-250m-new-siri-settlement/))
 - **2026-05-02** — Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever ([source](https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/))
 
 [^1]: [macworld.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH76Rko2g8Fhuqbzxvz8laTDqxRZcWj53To6emqaD6IEAMEtFHjq0kqHeFAVnzjFaseFuZw030fwlWwUZo3ElcAimbvyAEYqf2dHE0T5VzFbgLaS69MHtT33xfv0epFjGTLEFVE19cGLzlUc5v9KohiKKYC4L0dARL5_WesJ8VQ4iq2dvWdmFTuIZr3t6ukz9i7K8fhzlZc3Q==)

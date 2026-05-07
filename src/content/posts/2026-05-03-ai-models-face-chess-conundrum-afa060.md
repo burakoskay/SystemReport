@@ -1,18 +1,20 @@
 ---
 title: "AI Models Face Chess Conundrum"
 date: 2026-05-03T03:44:59.520Z
+modified_date: 2026-05-07T14:30:42.133Z
 tags: ["AI","artificial intelligence","chess","zugzwang"]
 hero_image: "/hero/2026-05-03-ai-models-face-chess-conundrum-afa060.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "zugzwang"
 description: "Chess AI models struggle with zugzwang, a situation where any move worsens the position."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-03-ai-models-face-chess-conundrum-afa060.mp3"
 audio_bytes: 559901
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Uncomfortable Position
@@ -68,3 +70,7 @@ The study of zugzwang will continue to be an essential area of research in the f
 The development of more advanced AI models will also raise new questions about the nature of intelligence and decision-making. As AI models become more advanced, they will be able to handle complex situations and make optimal decisions. However, this will also raise questions about the role of human expertise and the need for more advanced techniques that can handle complex situations.
 
 In conclusion, the concept of zugzwang has significant implications for AI models and their applications in various industries. The development of AI models that can navigate zugzwang situations will require the integration of multiple techniques and the development of more advanced algorithms. As AI models continue to advance, researchers will focus on developing techniques that can handle complex situations like zugzwang.
+
+## Updates
+
+- **2026-05-07** — Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit. ([source](https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/))

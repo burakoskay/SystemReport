@@ -1,15 +1,16 @@
 ---
 title: "Meta AI Contractors Face Uncertainty"
 date: 2026-04-28T20:11:53.107Z
-modified_date: 2026-04-30T19:40:59.844Z
+modified_date: 2026-05-07T14:30:37.685Z
 tags: ["Meta","AI","Layoffs","Tech Industry","Contractors"]
 hero_image: "/hero/2026-04-28-meta-ai-contractors-face-uncertainty-fb404c.jpg"
 hero_image_credit_name: "ANTONI SHKRABA production"
 hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The outcome of the potential layoffs and the response from Meta and Accenture. T
 
 ## Updates
 
+- **2026-05-07** — Best Bug Spray (2026), Tested and Reviewed ([source](https://www.wired.com/story/best-bug-sprays/))
 - **2026-04-30** — With Saros, Housemarque makes a case for doing next-gen games differently ([source](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5))
 - **2026-04-30** — Cricut’s Joy 2 makes creating stickers easier for beginners, and it’s on sale ([source](https://www.theverge.com/gadgets/921355/cricut-joy-2-mothers-day-deal-sale))

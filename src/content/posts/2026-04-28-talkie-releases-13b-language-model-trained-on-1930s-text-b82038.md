@@ -1,16 +1,17 @@
 ---
 title: "Talkie releases 13B language model trained on 1930s text"
 date: 2026-04-28T06:40:30.268Z
-modified_date: 2026-05-04T10:18:54.887Z
+modified_date: 2026-05-07T14:30:36.205Z
 tags: ["language-models","ai","open-source","vintage-data"]
 hero_image: "/hero/2026-04-28-talkie-releases-13b-language-model-trained-on-1930s-text-b82038.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "vintage typewriter beside modern server racks"
 description: "Talkie unveils a 13‑billion‑parameter model built on 1930s literature, prompting debate over vintage data and modern LLM trade‑offs."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 ## Talkie’s announcement
@@ -51,4 +52,5 @@ Future updates from the Talkie team may include larger checkpoints or additional
 
 ## Updates
 
+- **2026-05-07** — Google Ditches the Screen With the New Fitbit Air (2026) ([source](https://www.wired.com/story/google-fitbit-air/))
 - **2026-05-04** — Nicolas Sauvage is betting on the boring parts of AI ([source](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/))
