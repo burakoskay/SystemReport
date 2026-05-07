@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-05-06T17:46:13.467Z
+modified_date: 2026-05-07T21:08:29.168Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 28
+sources_count: 29
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -98,6 +99,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-05-07** — Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster ([source](https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster))
 - **2026-05-06** — Here&#8217;s what Microsoft is offering long-serving employees to voluntarily retire ([source](https://www.theverge.com/report/925218/microsoft-voluntary-retirement-program-package-details))
 - **2026-05-04** — Elon Musk will settle the feds’ Twitter lawsuit with pocket change ([source](https://www.theverge.com/tech/923612/elon-musk-sec-1-5-million-penalty-twitter-x))
 - **2026-05-03** — Show HN: Apple's SHARP running in the browser via ONNX runtime web ([source](https://github.com/bring-shrubbery/ml-sharp-web))
