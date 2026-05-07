@@ -1,15 +1,17 @@
 ---
 title: "Bay Area Dominates AI Funding, Europe Navigates Tech Shifts"
 date: 2026-05-06T21:22:23.119Z
+modified_date: 2026-05-07T10:28:59.043Z
 tags: ["ai","funding","eu","startups","quantum"]
 hero_image: "/hero/2026-05-06-bay-area-dominates-ai-funding-europe-navigates-tech-shifts-3fdca0.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "San Francisco skyline with glowing data streams and office towers"
 description: "San Francisco leads global AI investment 2023, while European startups and policies reshape tech landscape."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## San Francisco Claims AI Funding Crown
 
@@ -34,3 +36,7 @@ This creates a self-reinforcing cycle. OpenAI’s $10 billion funding round in M
 The Bay Area’s dominance raises two immediate risks. First, the open-source community is already feeling the squeeze: Anthropic’s recent decision to restrict access to its 175B-parameter model has developers scrambling for alternatives. Second, the EU and Japan’s deepening digital partnership—focused on AI, quantum, and chip development—could fracture the U.S.-centric tech stack if it accelerates. Watch for the first EU-AI regulatory "clash" in late 2024, when SAP’s Prior Labs integration hits EU compliance walls.
 
 On the Bay Area front, track the next OpenAI funding milestone. The company’s 500,000-square-foot Mission Bay campus is now 70% occupied. If they expand by another 100,000 square feet, it’ll signal they’re building for the long game—a model others will follow. Conversely, if Anthropic’s Financial District lease renews at a lower rate, it’ll hint at a cooling market. Either way, the Bay Area’s AI boom has a shelf life—and 2025 will test it.
+
+## Updates
+
+- **2026-05-07** — RGG's Stranger Than Heaven game arrives this winter ([source](https://www.engadget.com/2166765/rgg-stranger-than-heaven-winter-release/))
