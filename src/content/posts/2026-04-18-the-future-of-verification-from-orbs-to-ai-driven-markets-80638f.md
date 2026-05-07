@@ -1,16 +1,17 @@
 ---
 title: "The Future of Verification: From Orbs to AI-Driven Markets"
 date: 2026-04-18T01:05:14.216Z
-modified_date: 2026-04-28T19:34:06.532Z
+modified_date: 2026-05-07T03:42:57.586Z
 tags: ["tech","verification","ai"]
 hero_image: "/hero/2026-04-18-the-future-of-verification-from-orbs-to-ai-driven-markets-80638f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial scanning orb"
 description: "Exploring the intersection of tech and verification, from Sam Altman's orbs to AI-driven prediction markets."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ From lunar hay fever to satellite images revealing construction delays, the inte
 
 ## Updates
 
+- **2026-05-07** — Musk’s biggest loyalist became his biggest liability ([source](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony))
 - **2026-04-28** — Apple TV’s new horror series is scarier because it’s also hilarious ([source](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview))
 - **2026-04-28** — Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI ([source](https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit))
