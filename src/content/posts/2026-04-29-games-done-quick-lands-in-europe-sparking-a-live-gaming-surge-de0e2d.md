@@ -1,16 +1,17 @@
 ---
 title: "Games Done Quick lands in Europe, sparking a live‑gaming surge"
 date: 2026-04-29T10:20:16.853Z
-modified_date: 2026-04-29T17:43:16.281Z
+modified_date: 2026-05-07T06:42:23.515Z
 tags: ["gaming","speedrunning","venture-capital","live-streaming","interactive-media"]
 hero_image: "/hero/2026-04-29-games-done-quick-lands-in-europe-sparking-a-live-gaming-surge-de0e2d.jpg"
 hero_image_credit_name: "Pexels LATAM"
 hero_image_credit_url: "https://www.pexels.com/@pexels-latam-478514802"
 visual_keyword: "crowd of gamers watching a speedrun marathon on stage"
 description: "GDQ’s first European marathon at Gamescom signals a shift toward live, interactive gaming events and draws venture‑capital interest."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 ## GDQ’s European debut reshapes the charity marathon model
@@ -38,4 +39,5 @@ Track the post‑Gamescom data on viewership spikes for GDQ’s Twitch and YouTu
 
 ## Updates
 
+- **2026-05-07** — Womanizer Coupons: Save 15% in May ([source](https://www.wired.com/story/womanizer-coupon/))
 - **2026-04-29** — Uber adds hotels to its app in big travel swing ([source](https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search))
