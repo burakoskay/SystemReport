@@ -1,18 +1,20 @@
 ---
 title: "Tech Deals: Samsung Galaxy Tab S11, OnePlus Merges with Realme"
 date: 2026-04-30T03:38:49.486Z
+modified_date: 2026-05-08T19:30:14.885Z
 tags: ["tech deals","Samsung Galaxy Tab S11","OnePlus Realme merger"]
 hero_image: "/hero/2026-04-30-tech-deals-samsung-galaxy-tab-s11-oneplus-merges-with-realme-a3e111.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "Samsung Galaxy Tab S11"
 description: "Today's tech deals include a $411 discount on Samsung's Galaxy Tab S11 and a merger between OnePlus and Realme."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-04-30-tech-deals-samsung-galaxy-tab-s11-oneplus-merges-with-realme-a3e111.mp3"
 audio_bytes: 626356
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Samsung Galaxy Tab S11 Sees Huge Discount
@@ -75,3 +77,6 @@ The Nest Wifi router and point are popular choices for home networking, known fo
 
 The technical mechanics of the update are complex, involving significant changes to the device's software and hardware. The update is expected to be seamless, with minimal disruption to users.
 
+## Updates
+
+- **2026-05-08** — HomeKit Weekly: The Airversa QliQ brings a rechargeable Thread smart button to Apple Home ([source](https://9to5mac.com/2026/05/08/airversa-qliq/))

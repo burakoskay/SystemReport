@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Trial Unveils Founding Tensions"
 date: 2026-05-06T21:19:36.854Z
+modified_date: 2026-05-08T19:30:03.315Z
 tags: ["openai","elonmusk","ai-governance","corporate-lawsuits"]
 hero_image: "/hero/2026-05-06-openai-trial-unveils-founding-tensions-d1d838.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "openai trial courtroom with attorneys in focus"
 description: "Legal battle between Elon Musk and Sam Altman exposes OpenAI's mission conflicts."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 ## OpenAI Trial Reveals Fractured Visions
 
@@ -38,3 +40,7 @@ Musk's reduced damages request—from $100 billion to unspecified nonprofit fund
 ## What to Watch
 
 The trial will resume with testimony from OpenAI's legal team and Microsoft representatives. Key dates include the May 11 presentation of Microsoft's investment terms and the May 15 cross-examination of Greg Brockman, OpenAI's former CTO. The jury is expected to deliver a verdict by June 1. Investors should monitor whether the ruling creates legal precedents for AI governance models or triggers shareholder lawsuits over OpenAI's valuation shifts. The case will also test whether courts can enforce nonprofit mission statements against for-profit commercialization in rapidly evolving tech sectors.
+
+## Updates
+
+- **2026-05-08** — Here is Yarbo’s promise to fix the robot mower that ran me over ([source](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise))
