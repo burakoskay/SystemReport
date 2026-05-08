@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-05-08T11:23:06.980Z
+modified_date: 2026-05-08T14:01:22.721Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-05-08** — Apple’s education discount now requires proof that you’re a student ([source](https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us))
 - **2026-05-08** — Apple now requires verification for Education Store, adds Apple Watch with discounts ([source](https://9to5mac.com/2026/05/08/apple-now-requires-verification-for-education-store-adds-apple-watch-with-discounts/))
 - **2026-04-24** — Fitbit 4.68 rolling out sleep editing, motivational Coach messages, more personalization ([source](https://9to5google.com/2026/04/24/fitbit-4-68/))
 - **2026-04-24** — ComfyUI hits $500M valuation as creators seek more control over AI-generated media ([source](https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/))

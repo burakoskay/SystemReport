@@ -1,14 +1,16 @@
 ---
 title: "OpenAI's Smartphone Plans Accelerate"
 date: 2026-05-05T19:32:33.712Z
+modified_date: 2026-05-08T14:01:21.075Z
 tags: ["OpenAI","Smartphone","AI-Powered Hardware"]
 hero_image: "/hero/2026-05-05-openai-s-smartphone-plans-accelerate-687d3a.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI phone"
 description: "OpenAI reportedly fast-tracks smartphone launch, potentially debuting early next year."
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## OpenAI's Smartphone Plans Accelerate
 
@@ -64,3 +66,7 @@ Title: Sam Altman: OpenAI plans to develop a dedicated AI device to replace smar
 Content: 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
 【シリコンバレー=山田遼太郎】米オープンAIのサム・アルトマン最高経営責任者（CEO）は日本経済新聞の取材でスマートフォンに代わる生成AI（人工知能）専用端末の開発に乗り出すと表明した。独自半導体の開発にも意欲を示した。AIの普及はIT（情報技術）産業を一新する機会とみて、2007年のiPhone登場から約20年ぶりのデジタル機器の革新を狙う。
 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。
+
+## Updates
+
+- **2026-05-08** — Everybody wants to rule the AI world ([source](https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast))
