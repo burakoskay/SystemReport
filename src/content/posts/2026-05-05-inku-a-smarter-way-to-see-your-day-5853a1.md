@@ -1,15 +1,17 @@
 ---
 title: "Inku: A Smarter Way to See Your Day"
 date: 2026-05-05T17:56:08.830Z
+modified_date: 2026-05-08T03:31:26.613Z
 tags: ["smart calendar","e-ink","ai companion","productivity","hardware"]
 hero_image: "/hero/2026-05-05-inku-a-smarter-way-to-see-your-day-5853a1.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "e-ink desk calendar with cat avatar"
 description: "E-ink desk calendar with AI insights and a customizable companion avatar hits $249, ships mid-2026"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## A Desk Calendar That Finally Feels Like a Friend
 
@@ -38,3 +40,7 @@ The bigger challenge is scaling. A 2026 release date is optimistic for a hardwar
 ## What to Watch
 
 Inku's success will depend on three things: the quality of its AI companion, the reliability of its hardware, and whether users actually keep it plugged in (it needs a full charge every 30 days). The company plans to ship in mid-2026, but hardware production delays are common. If the product lives up to the hype, expect competitors to follow with similar "calm tech" designs. For now, Inku has created something rare: a schedule that doesn't feel like work.
+
+## Updates
+
+- **2026-05-08** — Apple TV announces new docuseries on UConn women’s basketball team ([source](https://9to5mac.com/2026/05/07/apple-tv-announces-new-docuseries-on-uconn-womens-basketball-team/))

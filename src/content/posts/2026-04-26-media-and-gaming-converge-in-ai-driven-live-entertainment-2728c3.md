@@ -1,19 +1,20 @@
 ---
 title: "Media and Gaming Converge in AI-Driven Live Entertainment"
 date: 2026-04-26T22:56:45.034Z
-modified_date: 2026-05-07T14:30:48.057Z
+modified_date: 2026-05-08T03:31:28.141Z
 tags: ["AI-driven live entertainment","media and gaming convergence","interactive media"]
 hero_image: "/hero/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered live casino"
 description: "VCs and developers are redefining interactive media through AI and real-time gaming innovations."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.mp3"
 audio_bytes: 597099
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,5 +69,6 @@ Each represents a hinge point. Fail to regulate live game RNGs, and you risk a n
 
 ## Updates
 
+- **2026-05-08** — Spotify’s AI-powered personal DJ adds support for more countries and languages ([source](https://9to5mac.com/2026/05/07/spotifys-ai-powered-personal-dj-adds-support-for-more-countries-and-languages/))
 - **2026-05-07** — Spotify's AI-powered personal DJ expands to more languages and countries ([source](https://www.engadget.com/2166965/spotify-ai-powered-personal-dj-expands-to-more-languages-and-countries/))
 - **2026-04-27** — That UL safety logo is a lot more complicated than it looks ([source](https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon))
