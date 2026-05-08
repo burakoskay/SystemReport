@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-05-08T19:49:52.738Z",
+  "generated_at": "2026-05-08T21:14:36.285Z",
   "window_days": 7,
-  "total_records": 3577,
+  "total_records": 3612,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 774,
-      "success": 539,
-      "success_rate": 0.6963824289405685,
+      "calls": 782,
+      "success": 544,
+      "success_rate": 0.6956521739130435,
       "latency_p50": 3439,
-      "latency_p95": 13733,
-      "response_chars_mean": 2874,
+      "latency_p95": 13720,
+      "response_chars_mean": 2887,
       "error_classes": {
-        "rate_limit": 202,
+        "rate_limit": 205,
         "too_large": 7,
         "unknown": 24,
         "permission": 2
       }
     },
     "revise:v2-800w": {
-      "calls": 145,
-      "success": 123,
-      "success_rate": 0.8482758620689655,
-      "latency_p50": 1181,
+      "calls": 149,
+      "success": 125,
+      "success_rate": 0.8389261744966443,
+      "latency_p50": 1166,
       "latency_p95": 2104,
-      "response_chars_mean": 1833,
+      "response_chars_mean": 1835,
       "error_classes": {
-        "rate_limit": 22
+        "rate_limit": 24
       }
     },
     "lengthen:v1": {
-      "calls": 293,
-      "success": 255,
-      "success_rate": 0.8703071672354948,
-      "latency_p50": 2495,
+      "calls": 297,
+      "success": 258,
+      "success_rate": 0.8686868686868687,
+      "latency_p50": 2491,
       "latency_p95": 4464,
-      "response_chars_mean": 4960,
+      "response_chars_mean": 4956,
       "error_classes": {
-        "rate_limit": 36,
+        "rate_limit": 37,
         "timeout": 1,
         "unknown": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 16,
-      "success": 13,
-      "success_rate": 0.8125,
+      "calls": 19,
+      "success": 14,
+      "success_rate": 0.7368421052631579,
       "latency_p50": 234,
       "latency_p95": 3429,
-      "response_chars_mean": 63,
+      "response_chars_mean": 65,
       "error_classes": {
-        "rate_limit": 2,
+        "rate_limit": 4,
         "unknown": 1
       }
     }

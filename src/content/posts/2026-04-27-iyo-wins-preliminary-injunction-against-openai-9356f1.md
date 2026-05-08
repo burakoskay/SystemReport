@@ -1,17 +1,19 @@
 ---
 title: "iyO Wins Preliminary Injunction Against OpenAI"
 date: 2026-04-27T03:34:11.877Z
+modified_date: 2026-05-08T21:07:46.675Z
 tags: ["OpenAI","iyO","trademark dispute","tech industry"]
 hero_image: "/hero/2026-04-27-iyo-wins-preliminary-injunction-against-openai-9356f1.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "branding"
 description: "Court grants iyO preliminary injunction against OpenAI's io branding"
-sources_count: 1
+sources_count: 2
 audio_path: "/audio/2026-04-27-iyo-wins-preliminary-injunction-against-openai-9356f1.mp3"
 audio_bytes: 578291
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -37,3 +39,7 @@ The court's decision may have downstream implications for OpenAI and Jony Ive's 
 
 ## What to Watch
 The next step is the development of a new brand identity for OpenAI and Jony Ive's venture. The outcome will be closely watched, as it highlights the importance of careful branding and trademark protection. The court's decision may impact OpenAI's product launch schedule, as the company must now invest in rebranding efforts. The venture's ability to adapt to the new brand identity and navigate the trademark dispute will be crucial to its success in the market. As the tech industry continues to evolve, companies will need to prioritize trademark protection and careful branding to avoid similar disputes.
+
+## Updates
+
+- **2026-05-08** — Podman rootless containers and the Copy Fail exploit ([source](https://garrido.io/notes/podman-rootless-containers-copy-fail/))

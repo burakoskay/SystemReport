@@ -1,19 +1,20 @@
 ---
 title: "Google expands Gemini in Chrome, adds AI tools across suite"
 date: 2026-04-21T09:45:11.730Z
-modified_date: 2026-04-28T17:51:08.127Z
+modified_date: 2026-05-08T21:07:43.305Z
 tags: ["google","chrome","ai","accessibility","productivity"]
 hero_image: "/hero/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Chrome browser window with AI assistant overlay"
 description: "Google rolls Gemini AI to Chrome in seven Asian markets while upgrading security, Assistant, Docs and accessibility features."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.mp3"
 audio_bytes: 23819972
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,5 +50,6 @@ Watch for Gemini’s expansion beyond the initial seven markets. Google has hint
 
 ## Updates
 
+- **2026-05-08** — Pixelated 099: Should we be worried about the Pixel 11? ([source](https://9to5google.com/2026/05/08/pixelated-099-should-we-be-worried-about-the-pixel-11/))
 - **2026-04-28** — Google Translate can now help you with pronunciation ([source](https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability))
 - **2026-04-23** — Rednote Draws a Line Between China and the World ([source](https://www.wired.com/story/rednote-draws-a-line-between-china-and-the-world/))
