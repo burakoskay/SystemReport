@@ -1,54 +1,56 @@
 {
-  "generated_at": "2026-05-08T09:41:26.527Z",
+  "generated_at": "2026-05-08T11:31:30.655Z",
   "window_days": 7,
-  "total_records": 3180,
+  "total_records": 3243,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 718,
-      "success": 504,
-      "success_rate": 0.7019498607242339,
+      "calls": 726,
+      "success": 509,
+      "success_rate": 0.7011019283746557,
       "latency_p50": 3404,
       "latency_p95": 13841,
-      "response_chars_mean": 2777,
+      "response_chars_mean": 2790,
       "error_classes": {
         "rate_limit": 185,
-        "too_large": 4,
+        "too_large": 7,
         "unknown": 23,
         "permission": 2
       }
     },
     "revise:v2-800w": {
-      "calls": 129,
-      "success": 111,
-      "success_rate": 0.8604651162790697,
-      "latency_p50": 1165,
-      "latency_p95": 2104,
-      "response_chars_mean": 1886,
+      "calls": 132,
+      "success": 113,
+      "success_rate": 0.8560606060606061,
+      "latency_p50": 1166,
+      "latency_p95": 2106,
+      "response_chars_mean": 1883,
       "error_classes": {
-        "rate_limit": 18
+        "rate_limit": 19
       }
     },
     "lengthen:v1": {
-      "calls": 269,
-      "success": 235,
-      "success_rate": 0.8736059479553904,
+      "calls": 274,
+      "success": 239,
+      "success_rate": 0.8722627737226277,
       "latency_p50": 2500,
       "latency_p95": 4817,
-      "response_chars_mean": 4991,
+      "response_chars_mean": 4987,
       "error_classes": {
-        "rate_limit": 32,
+        "rate_limit": 33,
         "timeout": 1,
         "unknown": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 7,
-      "success": 7,
-      "success_rate": 1,
+      "calls": 9,
+      "success": 8,
+      "success_rate": 0.8888888888888888,
       "latency_p50": 221,
-      "latency_p95": 260,
-      "response_chars_mean": 60,
-      "error_classes": {}
+      "latency_p95": 294,
+      "response_chars_mean": 61,
+      "error_classes": {
+        "rate_limit": 1
+      }
     }
   }
 }

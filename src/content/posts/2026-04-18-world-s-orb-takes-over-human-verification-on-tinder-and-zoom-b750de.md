@@ -1,16 +1,17 @@
 ---
 title: "World's Orb Takes Over Human Verification on Tinder and Zoom"
 date: 2026-04-18T12:43:46.183Z
-modified_date: 2026-04-28T17:51:10.480Z
+modified_date: 2026-05-08T11:23:02.106Z
 tags: ["sam altman","human verification","tinder","zoom","ai safety"]
 hero_image: "/hero/2026-04-18-world-s-orb-takes-over-human-verification-on-tinder-and-zoom-b750de.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "digital orb scanning a face in a video call badge"
 description: "Sam Altman's World expands its Orb-based human ID to Tinder and Zoom, sparking privacy debates and new friction for AI‑generated imposters."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ The coming months will reveal whether the Orb becomes a ubiquitous gatekeeper or
 
 ## Updates
 
+- **2026-05-08** — We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising ([source](https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/))
 - **2026-04-28** — Traeger debuts the Irontop, a more affordable gas-powered griddle ([source](https://www.engadget.com/home/kitchen-tech/traeger-debuts-the-irontop-a-more-affordable-gas-powered-griddle-150000759.html?src=rss))
 - **2026-04-28** — Attack of the killer script kiddies ([source](https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai))
 - **2026-04-27** — This touchscreen mouse is my over-engineering nightmare ([source](https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series))

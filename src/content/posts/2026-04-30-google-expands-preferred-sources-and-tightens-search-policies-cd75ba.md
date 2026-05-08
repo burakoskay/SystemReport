@@ -1,15 +1,17 @@
 ---
 title: "Google Expands Preferred Sources and Tightens Search Policies"
 date: 2026-04-30T21:21:32.057Z
+modified_date: 2026-05-08T11:23:05.359Z
 tags: ["google","search","ai"]
 hero_image: "/hero/2026-04-30-google-expands-preferred-sources-and-tightens-search-policies-cd75ba.jpg"
 hero_image_credit_name: "Sarah Blocksidge"
 hero_image_credit_url: "https://www.pexels.com/@sarah-blocksidge-69426152"
 visual_keyword: "Google search interface with highlighted Preferred Sources and updated spam policy notices"
 description: "Google rolls out global Preferred Sources and March 2024 spam policies to enhance search quality."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Google’s Search Overhaul: User Preferences Clash with Algorithmic Control
 
@@ -38,3 +40,7 @@ This design choice has real consequences. I tested the update for a week and fou
 ## What to Watch
 
 Google’s next moves will determine if these updates are evolutionary or revolutionary. Track three things: the April 2024 spam manual action rollout, which will test how effectively Google enforces its new policies. Then, the expansion of Preferred Sources to mobile search—currently limited to desktop. Finally, the company’s response to lawsuits from content creators claiming the March update unfairly penalizes them. Until then, the search wars show no signs of ending.
+
+## Updates
+
+- **2026-05-08** — The Morning After: Google's new wearable doesn't have a screen ([source](https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/))
