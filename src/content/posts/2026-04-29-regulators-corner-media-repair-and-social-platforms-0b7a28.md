@@ -1,18 +1,20 @@
 ---
 title: "Regulators Corner Media, Repair, and Social Platforms"
 date: 2026-04-29T23:02:47.971Z
+modified_date: 2026-05-08T17:25:11.940Z
 tags: ["regulation","media","technology"]
 hero_image: "/hero/2026-04-29-regulators-corner-media-repair-and-social-platforms-0b7a28.jpg"
 hero_image_credit_name: "Manuel Camacho-Navarro"
 hero_image_credit_url: "https://www.pexels.com/@himanuuu"
 visual_keyword: "corporate building with legal scales and digital icons"
 description: "ABC's FCC license risk, Colorado's right‑to‑repair law, and EU scrutiny of Meta illustrate mounting pressure on tech and media firms."
-sources_count: 8
-author: "lena-volkov"
+sources_count: 9
 audio_path: "/audio/2026-04-29-regulators-corner-media-repair-and-social-platforms-0b7a28.mp3"
 audio_bytes: 584560
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ABC faces a renewed FCC license threat that could hinge on Disney's willingness to fight. The broadcast renewal process, reshaped by a 1996 statutory amendment, now treats renewals as "all but automatic," but the FCC retains discretion to challenge a station if ownership disputes arise.
 
@@ -52,3 +54,6 @@ Together, these developments highlight an environment where legal challenges, le
 
 Watch for Disney's filing response to the FCC and any subsequent hearing dates that could set a benchmark for future broadcast license disputes. Monitor Colorado's legislature for any amendment proposals that could strengthen the right‑to‑repair framework or invite new industry challenges. Finally, track the EU's final decision on Meta's compliance plan, which will clarify enforcement expectations for all large social platforms operating in Europe.
 
+## Updates
+
+- **2026-05-08** — Poland says hackers breached water treatment plants, and the U.S. is facing the same threat ([source](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/))

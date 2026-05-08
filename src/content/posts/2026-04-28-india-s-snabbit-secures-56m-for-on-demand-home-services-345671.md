@@ -1,14 +1,16 @@
 ---
 title: "India's Snabbit Secures $56M for On-Demand Home Services"
 date: 2026-04-28T03:42:12.098Z
+modified_date: 2026-05-08T17:25:30.129Z
 tags: ["on-demand home services","Snabbit","funding round"]
 hero_image: "/hero/2026-04-28-india-s-snabbit-secures-56m-for-on-demand-home-services-345671.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "on-demand home services"
 description: "Snabbit raises $56M as it processes 40,000 daily jobs in on-demand home services."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Snabbit's Big Win
@@ -47,3 +49,6 @@ As the Indian on-demand home services market continues to grow, Snabbit is well-
 
 The Indian on-demand home services market is highly competitive, with several established players. Companies like UrbanClap and HouseJoy have a strong presence in the market. New entrants are also emerging, looking to capitalize on the growing demand for on-demand home services. Snabbit will need to differentiate itself from its competitors to succeed.
 
+## Updates
+
+- **2026-05-08** — Engadget Podcast: Gamestop's wild eBay gamble ([source](https://www.engadget.com/2167771/engadget-podcast-gamestops-wild-ebay-gamble/))

@@ -1,16 +1,17 @@
 ---
 title: "The Dark Side of Devotion: Unpacking the World of Conspiracy"
 date: 2026-04-18T01:04:51.470Z
-modified_date: 2026-05-06T22:56:57.165Z
+modified_date: 2026-05-08T17:25:23.521Z
 tags: ["conspiracy theories","surveillance state","social media influencers"]
 hero_image: "/hero/2026-04-18-the-dark-side-of-devotion-unpacking-the-world-of-conspiracy-theories-and-surveillance-979329.jpg"
 hero_image_credit_name: "Rahime Gül"
 hero_image_credit_url: "https://www.pexels.com/@rahimegul"
 visual_keyword: "shattered mirror reflection"
 description: "Exploring the intersection of conspiracy, surveillance, and the erosion of trust in institutions"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ In recent weeks, the world of politics has been rocked by conspiracy theories su
 
 ## Updates
 
+- **2026-05-08** — The company that owns Moog, Akai Pro, and Numark is buying Native Instruments ([source](https://www.theverge.com/entertainment/926841/native-instruments-inmusic))
 - **2026-05-06** — Nintendo announces a new Star Fox for the Switch 2 ([source](https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2))
 - **2026-05-01** — Toilet maker Toto is here to help with the RAM crisis ([source](https://www.engadget.com/2161815/toto-profits-from-ram-crisis/))
 - **2026-04-23** — ‘We Are Xbox’: read the memo defining Microsoft’s gaming future ([source](https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty))
