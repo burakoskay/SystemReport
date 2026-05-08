@@ -1,18 +1,19 @@
 ---
 title: "Medical Breakthroughs: Osteoarthritis, HIV, and PTSD Treatments"
 date: 2026-05-01T11:13:13.013Z
-modified_date: 2026-05-03T16:57:30.142Z
+modified_date: 2026-05-08T23:00:21.378Z
 tags: ["medical breakthroughs","osteoporosis","HIV prevention","PTSD treatment"]
 hero_image: "/hero/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "medical research"
 description: "New therapies show promise in treating osteoarthritis and HIV, while a previously hindered treatment for PTSD gains traction."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.mp3"
 audio_bytes: 559065
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,4 +71,5 @@ By working together, we can ensure that these breakthroughs have a lasting and m
 
 ## Updates
 
+- **2026-05-08** — The unprecedented and deadly cruise ship hantavirus outbreak, explained ([source](https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/))
 - **2026-05-03** — Reggie Fils-Aimé says Amazon once asked Nintendo to break the law ([source](https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal))

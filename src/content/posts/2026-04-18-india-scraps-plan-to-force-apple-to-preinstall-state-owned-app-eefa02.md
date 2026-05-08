@@ -1,16 +1,17 @@
 ---
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
-modified_date: 2026-05-05T21:08:49.043Z
+modified_date: 2026-05-08T23:00:19.650Z
 tags: ["apple","india","privacy"]
 hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ As smartphone penetration continues to grow in India, the country's government w
 
 ## Updates
 
+- **2026-05-08** — Sony says "efficient" AI tools will lead to even more games flooding the market ([source](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/))
 - **2026-05-05** — Apple Manufacturing Academy highlights AI adoption across U.S. industry ([source](https://9to5mac.com/2026/05/05/apple-manufacturing-academy-highlights-ai-adoption-across-u-s-industry/))
 - **2026-05-02** — Playing Esoteric Ebb is like rolling the dice with a great DM ([source](https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam))
 - **2026-04-24** — Pixelated 097: Lights and laptops ([source](https://9to5google.com/2026/04/24/pixelated-097-lights-and-laptops/))

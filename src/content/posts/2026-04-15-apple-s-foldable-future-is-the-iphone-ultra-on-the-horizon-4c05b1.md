@@ -1,16 +1,17 @@
 ---
 title: "Apple's Foldable Future: Is the iPhone Ultra on the Horizon?"
 date: 2026-04-15T19:47:26.268Z
-modified_date: 2026-05-04T17:45:16.751Z
+modified_date: 2026-05-08T23:00:17.898Z
 tags: ["apple","iphone ultra","foldable phone","tech rumors","smartphone innovation"]
 hero_image: "/hero/2026-04-15-apple-s-foldable-future-is-the-iphone-ultra-on-the-horizon-4c05b1.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "futuristic foldable iPhone concept"
 description: "Apple is poised to enter the foldable phone market later this year. Speculation mounts on its name, likely 'iPhone Ultra,' and premium features set to redefine the high-end smartphone experience."
-sources_count: 8
+sources_count: 9
 author: "david-okafor"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ Apple's entry into the foldable market, particularly with an "Ultra" branded dev
 
 ## Updates
 
+- **2026-05-08** — San Francisco’s housing market has lost its mind ([source](https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/))
 - **2026-05-04** — Dara Khosrowshahi on replacing Uber drivers — and himself — with AI ([source](https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service))
 - **2026-04-30** — How to win — and lose — Decoder ([source](https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview))
 - **2026-04-27** — OpenAI is making its own phone to compete with the iPhone: report ([source](https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/))
