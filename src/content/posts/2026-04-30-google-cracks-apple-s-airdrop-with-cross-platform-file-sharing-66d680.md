@@ -1,18 +1,20 @@
 ---
 title: "Google Cracks Apple's AirDrop with Cross-Platform File Sharing"
 date: 2026-04-30T03:39:51.712Z
+modified_date: 2026-05-08T09:28:58.243Z
 tags: ["Google","Apple","Cross-Platform","File Sharing"]
 hero_image: "/hero/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Google Pixel 10"
 description: "Google's Quick Share feature allows seamless file transfers between Android and iOS devices, rivaling Apple's AirDrop."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.mp3"
 audio_bytes: 576619
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Seamless Sharing Arrives
@@ -67,3 +69,6 @@ As the industry continues to evolve, we can expect to see further developments i
 
 The long-term implications of Quick Share are significant. As more devices become connected, the need for secure and efficient data transfer will only continue to grow. Google's Quick Share feature has the potential to become a key player in this market, and its success will depend on its ability to adapt and evolve to meet the changing needs of users.
 
+## Updates
+
+- **2026-05-08** — Sony&#8217;s PS5 sales plummet amid price rises and a memory crisis ([source](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes))
