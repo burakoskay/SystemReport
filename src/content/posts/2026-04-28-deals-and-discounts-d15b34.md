@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-05-02T22:50:42.317Z
+modified_date: 2026-05-09T14:56:46.229Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-05-09** — These great digital gifts will arrive just in time for Mother’s Day ([source](https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026))
 - **2026-05-02** — AI-generated actors and scripts are now ineligible for Oscars ([source](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/))
 - **2026-05-01** — New research suggests people can communicate and practice skills while dreaming ([source](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we))
 - **2026-05-01** — Today’s Android game and app deals: Down in Bermuda, Agent A, Backflip Madness, Last Game, more ([source](https://9to5toys.com/2026/05/01/android-game-app-deals-down-bermuda-backflip-last/))
