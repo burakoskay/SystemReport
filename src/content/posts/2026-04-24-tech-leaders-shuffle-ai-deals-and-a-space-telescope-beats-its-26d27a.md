@@ -1,16 +1,17 @@
 ---
 title: "Tech Leaders Shuffle as AI Deals and Space Launch Accelerate"
 date: 2026-04-24T11:10:51.603Z
-modified_date: 2026-04-30T19:41:00.708Z
+modified_date: 2026-05-09T20:52:04.263Z
 tags: ["leadership","m&a","space","ai"]
 hero_image: "/hero/2026-04-24-tech-leaders-shuffle-ai-deals-and-a-space-telescope-beats-its-26d27a.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "tech executives gathered around a futuristic satellite backdrop"
 description: "Bob Iger returns to venture capital, Redwood’s COO exits, Sierra buys Fragment, Microsoft rolls out a retirement buyout, and the Roman Telescope launches early."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 Bob Iger re‑entered the venture‑capital arena as an advisor to Thrive Capital, a move that signals his continued appetite for high‑risk bets after his Disney tenure. At the same time, Redwood Materials shed its chief operating officer, Microsoft opened a voluntary retirement path for a slice of its workforce, and Sierra snapped up French AI startup Fragment. The Roman Telescope, a repurposed spy satellite, is also set to launch eight months ahead of schedule.
@@ -53,4 +54,5 @@ Keep an eye on how Redwood’s restructuring affects its battery‑recycling thr
 
 ## Updates
 
+- **2026-05-09** — The hypocrisy of cyberlibertarianism ([source](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/))
 - **2026-04-30** — Elon Musk confirms xAI used OpenAI’s models to train Grok ([source](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation))

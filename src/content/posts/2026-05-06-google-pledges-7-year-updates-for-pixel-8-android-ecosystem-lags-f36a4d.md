@@ -1,15 +1,17 @@
 ---
 title: "Google Pledges 7-Year Updates for Pixel 8, Android Ecosystem Lags"
 date: 2026-05-06T23:03:43.188Z
+modified_date: 2026-05-09T20:51:58.888Z
 tags: ["android-updates","pixel-8","obtainium"]
 hero_image: "/hero/2026-05-06-google-pledges-7-year-updates-for-pixel-8-android-ecosystem-lags-f36a4d.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract geometric shapes in blue and green tones"
 description: "Google extends software support for Pixel 8 to 2030, but Android’s update chaos persists. Samsung and Apple still dominate."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Google’s 7-Year Software Pledge for Pixel 8
 
@@ -38,3 +40,7 @@ The catch: Samsung’s four-year security plan isn’t monthly for all devices. 
 ## What to Watch
 
 Google’s Pixel 8 update timeline will determine whether it can keep up with Android 18 and beyond. If the company can deliver updates for seven years without flaking, it could pressure other manufacturers to follow. But the real test is Android 17’s final release—will Google actually roll it out to non-Pixel devices in 2025? Meanwhile, Samsung’s four-year security plan is a win, but its OS updates remain sluggish. And if Obtainium gains traction, expect more users to bypass app stores entirely. The next milestone: Android 17 hitting 10% global adoption, a number that’s still stuck at 10% for Android 9 Pie. Until that changes, the ecosystem’s update problem isn’t improving—it’s just getting louder.
+
+## Updates
+
+- **2026-05-09** — Fintech startup Parker files for bankruptcy ([source](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/))
