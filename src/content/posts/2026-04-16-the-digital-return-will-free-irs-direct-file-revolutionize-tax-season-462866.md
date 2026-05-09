@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-05-06T17:46:16.510Z
+modified_date: 2026-05-09T17:00:44.335Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,5 +27,6 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-05-09** — Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time ([source](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale))
 - **2026-05-06** — The best beauty tech you can still grab in time for Mother’s Day ([source](https://www.theverge.com/gadgets/923581/best-mothers-day-beauty-tech-gift-ideas-2026))
 - **2026-04-28** — YouTube is testing an AI search mode that 'feels more like a conversation' ([source](https://www.engadget.com/apps/youtube-is-testing-an-ai-search-mode-that-feels-more-like-a-conversation-075057461.html?src=rss))
