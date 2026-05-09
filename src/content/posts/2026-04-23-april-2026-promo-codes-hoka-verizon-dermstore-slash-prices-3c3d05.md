@@ -1,15 +1,17 @@
 ---
 title: "April 2026 Promo Codes: Hoka, Verizon, Dermstore Slash Prices"
 date: 2026-04-23T17:42:55.310Z
+modified_date: 2026-05-09T13:26:46.547Z
 tags: ["promo codes","e-commerce","discounts"]
 hero_image: "/hero/2026-04-23-april-2026-promo-codes-hoka-verizon-dermstore-slash-prices-3c3d05.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "shopping cart with discount tags and tech brand logos"
 description: "Hoka, Verizon and Dermstore roll out April 2026 coupon codes offering up to 30% off, $200 gift cards, and 25% savings, reshaping e‑commerce discounts."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## The April Discount Burst
 
@@ -48,3 +50,7 @@ The timing of these promotions—April 2026—coincides with several pending reg
 ## What to Watch
 
 The next quarter will reveal whether the Hoka, Verizon and Dermstore coupons translate into sustained sales lifts or merely a short‑term spike. Analysts will track redemption rates, average order values and churn after the April window closes. Keep an eye on any regulatory filings from the FTC or state privacy agencies that reference coupon‑driven data practices. The outcome will shape how aggressively other brands deploy deep‑discount codes in the months ahead.
+
+## Updates
+
+- **2026-05-09** — Let it snow ([source](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy))

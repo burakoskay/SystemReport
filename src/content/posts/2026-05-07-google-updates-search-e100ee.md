@@ -1,15 +1,17 @@
 ---
 title: "Google Updates Search"
 date: 2026-05-07T03:43:23.874Z
+modified_date: 2026-05-09T13:26:50.100Z
 tags: ["Google","AI","Search"]
 hero_image: "/hero/2026-05-07-google-updates-search-e100ee.jpg"
 hero_image_credit_name: "Philipp Pistis"
 hero_image_credit_url: "https://www.pexels.com/@philipp-pistis-164965741"
 visual_keyword: "Google Search"
 description: "Google introduces new AI-powered search features and updates to Maps and Translate"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 ## Introduction to Google's New Search Features
 
@@ -81,3 +83,7 @@ The company is expected to continue to improve its search capabilities, includin
 
 The use of AI in search and navigation is expected to continue to grow, with more companies developing their own AI-powered search capabilities. 
 As the use of AI in these areas continues to grow, it's likely that we'll see significant changes in the way we interact with information online.
+
+## Updates
+
+- **2026-05-09** — Google Pixel phones will probably let you ditch the search bar in Android 17 QPR1 [Video] ([source](https://9to5google.com/2026/05/09/google-pixel-search-bar-toggle-android-17-leak/))
