@@ -1,15 +1,17 @@
 ---
 title: "Brain Implants, AI Rivalry, and Identity Tokens Clash in 2026"
 date: 2026-04-27T23:01:15.270Z
+modified_date: 2026-05-09T11:01:35.984Z
 tags: ["brain-computer interface","ai rivalry","digital identity"]
 hero_image: "/hero/2026-04-27-brain-implants-ai-rivalry-and-identity-tokens-clash-in-2026-abb718.jpg"
 hero_image_credit_name: "Vika Glitter"
 hero_image_credit_url: "https://www.pexels.com/@vika-glitter-392079"
 visual_keyword: "futuristic lab with brain implant device and glowing digital ID symbols"
 description: "Motif Neurotech's depression implant, Meta's aborted China acquisition, and US firms' support for World ID reveal a tech sector under geopolitical and ethical strain."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 ## A new brain implant for depression moves toward human trials
 Motif Neurotech announced that its first-in-human study of a cortical implant targeting major depressive disorder will begin this month. The device delivers patterned electrical stimulation to a region of the prefrontal cortex that prior animal work linked to mood regulation. The company plans to enroll a dozen volunteers who have not responded to conventional medication. Participants will wear the implant for six months while clinicians record changes in depressive scores and neural activity.
@@ -30,3 +32,7 @@ The brain‑implant field also bears a historical echo of the 1990s deep‑brain
 
 ## What to watch next
 Regulators in Beijing and Washington will soon publish guidelines that could shape the fate of the Meta‑Manus deal and future AI cross‑border investments. Investors should monitor the U.S. Committee on Foreign Investment’s next review cycle for signs of tighter controls. In the biometric arena, the European Data Protection Board is expected to release a draft ruling on World ID’s compliance with GDPR. Finally, the results of Motif Neurotech’s depression trial, slated for release in early 2027, will indicate whether neuromodulation can move from niche research to mainstream psychiatry. The convergence of these three stories will test how quickly policy can keep pace with rapid technological ambition.
+
+## Updates
+
+- **2026-05-09** — The 19 Most Exciting Cars at the Beijing Auto Show 2026 ([source](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/))
