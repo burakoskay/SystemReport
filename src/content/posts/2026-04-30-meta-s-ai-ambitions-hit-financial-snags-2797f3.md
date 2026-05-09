@@ -1,17 +1,19 @@
 ---
 title: "Meta's AI Ambitions Hit Financial Snags"
 date: 2026-04-30T06:33:49.140Z
+modified_date: 2026-05-09T03:30:57.012Z
 tags: ["Meta","AI","Reality Labs"]
 hero_image: "/hero/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Meta AI"
 description: "Meta's Reality Labs losses mount as AI investments increase spending."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.mp3"
 audio_bytes: 598771
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta's AI Push Hits Financial Roadblock
@@ -60,3 +62,6 @@ In the future, Meta's AI agents may have a significant impact on various industr
 
 As the AI landscape continues to evolve, it will be interesting to see how Meta's AI agents shape the future of technology. With its heavy investment in AI research and development, Meta is well-positioned to play a major role in this evolution. However, the company must balance its innovation with fiscal responsibility to ensure long-term success.
 
+## Updates
+
+- **2026-05-09** — Top Megelin Deals for Laser and LED Therapy Devices (2026) ([source](https://www.wired.com/story/megelin-deals-2026/))
