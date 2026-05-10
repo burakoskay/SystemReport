@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-05-07T23:04:15.574Z
+modified_date: 2026-05-10T11:03:11.043Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 Apple's latest macOS virtualization benchmarks show performance within 15% of native. The 2026 EclecticLightCo report[^1] [1] measured VMs running on M2 Pro chips, finding consistent latency spikes during disk-intensive tasks[^2]. This 15% gap persists despite Apple's Rosetta 2 optimizations, contradicting claims of near-native parity seen in earlier A17 Pro benchmarks.
@@ -41,6 +42,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-05-10** — How Handheld Translators Work and Why They’re Handy for Travel ([source](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/))
 - **2026-05-07** — Disney looking to make a unified ‘super app,’ report says ([source](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/))
 
 [^1]: [developer-tech.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG80-WLQJdTI28VL85AChxPumu9Ktsfw17-1hvT7F4bwlKMEfHqdRJ9cIqnKRTcDodzk5ATYFNxXghFSwd2vn_kjXmbVxka1anD_6o73nMF1DOtV4df99TVU0FCc_v7X1UlOedeYYbTNd_SUXfVfHTIrcws8yvGTlFrIP_XAtYT0yzgg3j97FYQeTIyI5_8e3TNm02Wjw==)
