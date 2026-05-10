@@ -1,16 +1,17 @@
 ---
 title: "Android 17 Beta 4 Arrives with a Hidden Surprise"
 date: 2026-04-18T01:10:50.797Z
-modified_date: 2026-05-05T17:29:32.839Z
+modified_date: 2026-05-10T14:58:25.918Z
 tags: ["Android 17","Beta 4","Easter egg"]
 hero_image: "/hero/2026-04-18-android-17-beta-4-arrives-with-a-hidden-surprise-09f109.jpg"
 hero_image_credit_name: "Nicky Pe"
 hero_image_credit_url: "https://www.pexels.com/@nicky"
 visual_keyword: "Easter egg"
 description: "Google releases Android 17 Beta 4 with a new Easter egg and connect-the-dots puzzle."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -22,5 +23,6 @@ The Easter egg showcases Google's attention to detail and commitment to deliveri
 
 ## Updates
 
+- **2026-05-10** — Apple’s biggest iPad competitor isn’t Android, it’s older iPads ([source](https://9to5mac.com/2026/05/10/apples-ipad-competition-is-coming-from-within-heres-why/))
 - **2026-05-05** — Google hosting The Android Show on May 12: ‘one of the biggest years for Android yet’ ([source](https://9to5google.com/2026/05/05/android-show-i-o-2026/))
 - **2026-04-23** — Google hosting The Android Show before I/O 2026: ‘one of the biggest years for Android yet’ ([source](https://9to5google.com/2026/04/23/android-show-i-o-2026/))

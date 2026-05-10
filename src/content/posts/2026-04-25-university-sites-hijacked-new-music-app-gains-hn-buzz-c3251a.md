@@ -1,18 +1,20 @@
 ---
 title: "University Sites Hijacked, New Music App Gains HN Buzz"
 date: 2026-04-25T20:58:49.696Z
+modified_date: 2026-05-10T14:58:18.442Z
 tags: ["security","education","web","music","universities"]
 hero_image: "/hero/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.jpg"
 hero_image_credit_name: "Julien Bachelet"
 hero_image_credit_url: "https://www.pexels.com/@julienblt"
 visual_keyword: "computer screen showing hijacked university website with porn overlay and music app interface"
 description: "Hundreds of university subdomains now serve porn after hijacks, while a fresh web music tool draws attention on Hacker News, highlighting web hygiene gaps."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.mp3"
 audio_bytes: 618415
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## University Subdomain Hijacks Surface
 
@@ -41,3 +43,7 @@ Flow Music appears to be a browser‑based music experience, though the Hacker N
 ## What to Watch
 
 University IT departments should prioritize a DNS audit within the next quarter. Tracking stale records will prevent further subdomain takeovers. Meanwhile, the Flow Music project will likely release updates as it responds to user feedback on Hacker News. Observers should monitor its traffic patterns for any security implications, given the platform’s reliance on third‑party hosting. The next wave of incidents may involve either a new hijack vector or a novel web service that inadvertently opens a hole. Keeping an eye on both fronts will reveal whether the higher‑education sector can catch up to the rapid pace of web innovation.
+
+## Updates
+
+- **2026-05-10** — The hottest place for startups to strike a deal? The F1 paddock ([source](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/))
