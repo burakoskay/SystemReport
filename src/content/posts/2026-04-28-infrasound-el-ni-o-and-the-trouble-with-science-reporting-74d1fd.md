@@ -1,16 +1,17 @@
 ---
 title: "Infrasound, El Niño, and the Trouble with Science Reporting"
 date: 2026-04-28T06:43:16.341Z
-modified_date: 2026-05-08T19:30:08.249Z
+modified_date: 2026-05-10T13:39:10.781Z
 tags: ["science","media","climate","research"]
 hero_image: "/hero/2026-04-28-infrasound-el-ni-o-and-the-trouble-with-science-reporting-74d1fd.jpg"
 hero_image_credit_name: "Shivansh  Sharma"
 hero_image_credit_url: "https://www.pexels.com/@sincegameon"
 visual_keyword: "a scientist measuring low-frequency sound in a dimly lit room"
 description: "A look at how a new infrasound study, El Niño forecasts, and media missteps reveal the fragility of public trust in science."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Track the peer‑reviewed follow‑up to the infrasound study; if replication co
 
 ## Updates
 
+- **2026-05-10** — Netflix may have finally figured out games ([source](https://www.theverge.com/column/926250/netflix-tv-games-strategy))
 - **2026-05-08** — ABC and Disney accuse Trump admin of violating First Amendment rights ([source](https://www.theverge.com/policy/927002/abc-disney-fcc-first-amendment-the-view))
 - **2026-04-30** — Roblox’s daily users continue to drop as age-checks slow growth ([source](https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau))
 - **2026-04-28** — The FCC is going after the broadcast licenses of Disney-owned ABC stations ([source](https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat))
