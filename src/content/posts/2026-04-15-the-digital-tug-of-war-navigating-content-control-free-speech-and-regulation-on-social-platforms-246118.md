@@ -1,16 +1,17 @@
 ---
 title: "The Digital Tug-of-War: Navigating Content Control, Free Speech"
 date: 2026-04-15T19:49:24.646Z
-modified_date: 2026-05-05T03:25:40.565Z
+modified_date: 2026-05-10T06:37:39.736Z
 tags: ["content moderation","free speech","social media regulation","brand safety","digital ethics"]
 hero_image: "/hero/2026-04-15-the-digital-tug-of-war-navigating-content-control-free-speech-and-regulation-on-social-platforms-246118.jpg"
 hero_image_credit_name: "Vincent  Photography"
 hero_image_credit_url: "https://www.pexels.com/@vincentphotography"
 visual_keyword: "Abstract digital crossroads with intersecting lines and symbols representing free speech, corporate power, user experience, and regulation."
 description: "From bot purges and corporate lawsuits to regulatory battles and teen well-being, social media platforms are a battleground where free speech, brand safety, and user experience constantly collide."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ These disparate events paint a vivid picture of social media at a critical junct
 
 ## Updates
 
+- **2026-05-10** — Show HN: Building a web server in assembly to give my life (a lack of) meaning ([source](https://github.com/imtomt/ymawky))
 - **2026-05-05** — Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’ ([source](https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/))
 - **2026-04-22** — Apple rolls out iOS 26.4.2 to fix a flaw that allowed the FBI to access push notifications ([source](https://www.engadget.com/cybersecurity/apple-rolls-out-ios-2642-to-fix-a-flaw-that-allowed-the-fbi-to-access-push-notifications-201153603.html?src=rss))
 - **2026-04-21** — Ordering with the Starbucks ChatGPT app was a true coffee nightmare ([source](https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing))

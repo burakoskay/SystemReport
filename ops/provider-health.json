@@ -1,13 +1,12 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-05-10T03:49:29.426Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-05-10T06:37:41.965Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 30000, Used 27649, Requested 4353. Please try again in 4.004s. Need more tokens? Upgrade",
-    "last_failure": "2026-05-10T03:49:29.466Z",
-    "cooldown_until": "2026-05-10T03:59:29.427Z"
+    "last_failure": "2026-05-10T03:49:29.466Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-05-10T03:49:16.396Z",
+    "last_success": "2026-05-10T06:37:46.505Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5582, Requested 5107. Please try again in 20.1675s. Need more tokens? Upgrade to Dev Tier today at ",
     "last_failure": "2026-05-09T20:55:21.559Z"
@@ -19,11 +18,10 @@
     "last_failure": "2026-05-08T21:13:51.268Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 1,
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 3524. Please try again in 50m36.096s. Need more tokens? Upgrade to Dev Tier tod",
     "last_failure": "2026-05-10T03:46:32.225Z",
-    "last_success": "2026-05-10T03:46:23.334Z",
-    "cooldown_until": "2026-05-10T03:56:32.184Z"
+    "last_success": "2026-05-10T06:40:19.996Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 5,
