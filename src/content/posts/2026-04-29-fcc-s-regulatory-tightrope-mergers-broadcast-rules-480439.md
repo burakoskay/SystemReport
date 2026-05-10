@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-05-07T14:30:43.625Z
+modified_date: 2026-05-10T03:43:44.332Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,5 +46,6 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-05-10** — Forking the Web ([source](https://dillo-browser.org/lab/web-fork/))
 - **2026-05-07** — Ploopy&#8217;s new mouse makes the ThinkPad&#8217;s iconic TrackPoint portable ([source](https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk))
 - **2026-05-02** — What You Need to Know About the Foreign-Made Router Ban in the US ([source](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/))
