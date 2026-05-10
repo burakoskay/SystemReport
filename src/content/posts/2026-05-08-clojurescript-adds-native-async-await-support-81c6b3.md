@@ -1,15 +1,17 @@
 ---
 title: "ClojureScript Adds Native Async/Await Support"
 date: 2026-05-08T14:16:34.187Z
+modified_date: 2026-05-10T22:54:16.082Z
 tags: ["clojurescript","async","javascript"]
 hero_image: "/hero/2026-05-08-clojurescript-adds-native-async-await-support-81c6b3.jpg"
 hero_image_credit_name: "Stanislav Kondratiev"
 hero_image_credit_url: "https://www.pexels.com/@technobulka"
 visual_keyword: "developer typing async await code in a modern code editor"
 description: "ClojureScript's May 7 release brings async/await syntax, tightening JavaScript interop and reshaping async code for Clojure fans."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ClojureScript finally speaks the language of modern JavaScript: async/await. The new release, posted on the official ClojureScript news page on May 7, 2026, adds native syntax for asynchronous functions. Developers can now write `async (fn [] …)` and `await` calls without dropping into raw promises, a change that feels immediate in day‑to‑day coding.
 
@@ -42,3 +44,7 @@ Other languages have explored automatic dependency tracking, as discussed in a r
 ## What to Watch Next
 
 The next milestone is the adoption curve. Watch the upcoming releases of major ClojureScript tooling—Shadow‑CLJS, Figwheel, and the official compiler itself—for updated support of the async macro. Pay attention to the first real‑world libraries that publish async/await‑based APIs; their success will signal whether the community embraces the new pattern or sticks with `core.async`. Finally, keep an eye on the Hacker News comments as a barometer: if the debate settles into practical tips rather than objections, async/await may become the default async model for ClojureScript developers.
+
+## Updates
+
+- **2026-05-10** — Get ready for the whisper-filled office of the future ([source](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/))
