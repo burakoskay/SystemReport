@@ -1,15 +1,17 @@
 ---
 title: "Tech Watch: OpenAI, FCC, Disney+, Gaming, and More"
 date: 2026-05-07T03:48:57.418Z
+modified_date: 2026-05-10T17:01:12.232Z
 tags: ["OpenAI","FCC","Disney+"]
 hero_image: "/hero/2026-05-07-tech-watch-openai-fcc-disney-gaming-and-more-988ffd.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Latest tech news on OpenAI, FCC, Disney+, gaming, and innovative products."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 ## OpenAI Leadership Shakes Up
@@ -104,3 +106,6 @@ The broader industry context is critical to understanding the tech industry. It 
 
 The tech industry is not an isolated incident. It reflects a broader trend in the economy, where companies are seeking to create more value and drive growth through innovation and technological advancements.
 
+## Updates
+
+- **2026-05-10** — Liquid Glass tweaks are reportedly coming in the next macOS ([source](https://www.engadget.com/2169037/liquid-glass-tweaks-are-reportedly-coming-in-the-next-macos/))

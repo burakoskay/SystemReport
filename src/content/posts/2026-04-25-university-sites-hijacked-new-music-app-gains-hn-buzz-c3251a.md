@@ -1,19 +1,20 @@
 ---
 title: "University Sites Hijacked, New Music App Gains HN Buzz"
 date: 2026-04-25T20:58:49.696Z
-modified_date: 2026-05-10T14:58:18.442Z
+modified_date: 2026-05-10T17:01:04.694Z
 tags: ["security","education","web","music","universities"]
 hero_image: "/hero/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.jpg"
 hero_image_credit_name: "Julien Bachelet"
 hero_image_credit_url: "https://www.pexels.com/@julienblt"
 visual_keyword: "computer screen showing hijacked university website with porn overlay and music app interface"
 description: "Hundreds of university subdomains now serve porn after hijacks, while a fresh web music tool draws attention on Hacker News, highlighting web hygiene gaps."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.mp3"
 audio_bytes: 618415
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## University Subdomain Hijacks Surface
@@ -46,4 +47,5 @@ University IT departments should prioritize a DNS audit within the next quarter.
 
 ## Updates
 
+- **2026-05-10** — The hottest place for startups to strike a deal? The F1 paddock ([source](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/))
 - **2026-05-10** — The hottest place for startups to strike a deal? The F1 paddock ([source](https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/))

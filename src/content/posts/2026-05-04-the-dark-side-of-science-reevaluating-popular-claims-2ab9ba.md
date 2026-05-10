@@ -1,18 +1,20 @@
 ---
 title: "The Dark Side of Science: Reevaluating Popular Claims"
 date: 2026-05-04T10:22:46.549Z
+modified_date: 2026-05-10T17:01:15.983Z
 tags: ["science","research","transparency"]
 hero_image: "/hero/2026-05-04-the-dark-side-of-science-reevaluating-popular-claims-2ab9ba.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "science"
 description: "Researchers challenge popular scientific claims, including the benefits of power posing and Calico's secrecy in aging research."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-04-the-dark-side-of-science-reevaluating-popular-claims-2ab9ba.mp3"
 audio_bytes: 595009
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Dark Side of Science: Reevaluating Popular Claims
@@ -70,3 +72,7 @@ Recent advancements in fields like neuroscience and artificial intelligence have
 ## The Role of Funding and Resources
 
 The availability of funding and resources can have a significant impact on the conduct and outcome of scientific research. For instance, Calico's $1.5 billion investment in aging research has raised expectations about its potential impact. However, the secrecy surrounding its research has raised concerns about its accountability and transparency. By understanding the role of funding and resources in scientific research, researchers can better navigate the complex issues at play and ensure that findings are reliable and impactful.
+
+## Updates
+
+- **2026-05-10** — Task Paralysis and AI ([source](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html))

@@ -1,19 +1,20 @@
 ---
 title: "Tech Watch: Space Solar, Ethernet, and UK Competition"
 date: 2026-04-27T10:24:34.592Z
-modified_date: 2026-05-10T14:58:22.167Z
+modified_date: 2026-05-10T17:01:10.341Z
 tags: ["space solar power","Ethernet","UK digital competition"]
 hero_image: "/hero/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.jpg"
 hero_image_credit_name: "Lio Voo"
 hero_image_credit_url: "https://www.pexels.com/@lio-voo-262755153"
 visual_keyword: "space solar power"
 description: "Meta inks deal for solar power beamed from space, Ethernet's relevance in modern networks, and UK's push for digital competition."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.mp3"
 audio_bytes: 609638
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,4 +80,5 @@ The intersection of technology and transportation is an exciting space, with man
 
 ## Updates
 
+- **2026-05-10** — Writers are fleeing the Substack Tax ([source](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv))
 - **2026-05-10** — Writers are fleeing the Substack Tax ([source](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv))

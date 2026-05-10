@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: OpenAI's Smartphone Plans, Instagram's Feed Update"
 date: 2026-04-28T06:37:39.091Z
-modified_date: 2026-05-08T19:30:09.914Z
+modified_date: 2026-05-10T17:01:06.577Z
 tags: ["OpenAI","Instagram","Smartphones","AI"]
 hero_image: "/hero/2026-04-28-tech-roundup-openai-s-smartphone-plans-instagram-s-feed-update-3f7094.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "smartphone"
 description: "OpenAI is reportedly working on a smartphone focused on AI agents. Instagram's new feed update has sparked outrage among users."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -75,5 +76,6 @@ In conclusion, the tech industry is constantly evolving, and new developments ar
 
 ## Updates
 
+- **2026-05-10** — Ashnymph’s Childhood EP is exhilarating dance goth rock ([source](https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review))
 - **2026-05-08** — Someone out-Trumped the Trump phone ([source](https://www.theverge.com/gadgets/926968/trump-mobile-t1-phone-dreame-aurora-phones))
 - **2026-05-06** — Apple may have just made one of the most important new Siri announcements ([source](https://9to5mac.com/2026/05/06/apple-may-have-just-made-one-of-the-most-important-new-siri-announcements/))

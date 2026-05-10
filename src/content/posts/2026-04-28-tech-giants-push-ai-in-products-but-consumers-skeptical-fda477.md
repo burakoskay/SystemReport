@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Push AI in Products, But Consumers Skeptical"
 date: 2026-04-28T21:12:19.887Z
-modified_date: 2026-05-10T14:58:20.263Z
+modified_date: 2026-05-10T17:01:08.448Z
 tags: ["AI","Apple","Google","Microsoft","Consumer Products"]
 hero_image: "/hero/2026-04-28-tech-giants-push-ai-in-products-but-consumers-skeptical-fda477.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-Powered Features"
 description: "Tech companies like Apple, Google, and Microsoft are pushing AI features in their products, but consumers are not as excited."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -89,6 +90,7 @@ The next thing to watch is how consumers respond to AI-powered features in produ
 
 ## Updates
 
+- **2026-05-10** — Cricut’s $99 craft cutting machine helped me feel creative again ([source](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on))
 - **2026-05-10** — Cricut’s $99 craft cutting machine helped me feel creative again ([source](https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on))
 - **2026-05-08** — Why you can never get your doctor to call you back ([source](https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/))
 - **2026-05-06** — Google shuts down Project Mariner ([source](https://www.theverge.com/tech/925559/google-project-mariner-shut-down))
