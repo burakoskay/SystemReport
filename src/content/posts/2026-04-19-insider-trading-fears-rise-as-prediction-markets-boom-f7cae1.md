@@ -1,16 +1,17 @@
 ---
 title: "Insider Trading Fears Rise as Prediction Markets Boom"
 date: 2026-04-19T01:58:31.432Z
-modified_date: 2026-04-19T08:44:16.275Z
+modified_date: 2026-05-10T20:55:04.605Z
 tags: ["prediction markets","insider trading","government ethics"]
 hero_image: "/hero/2026-04-19-insider-trading-fears-rise-as-prediction-markets-boom-f7cae1.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "a graph showing the growth of prediction markets"
 description: "Traders are making millions on prediction markets, sparking concerns about insider trading by government officials and politicians."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,4 +39,5 @@ As prediction markets continue to boom, it's clear that there is a need for clea
 
 ## Updates
 
+- **2026-05-10** — The Bastl Kalimba is a wild synth that thinks it’s a thumb piano ([source](https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano))
 - **2026-04-19** — Postponed Apple TV series ‘The Savant’ will finally be released this summer ([source](https://9to5mac.com/2026/04/18/postponed-apple-tv-series-the-savant-will-finally-be-released-this-summer/))
