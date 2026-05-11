@@ -1,15 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
+modified_date: 2026-05-11T22:59:58.254Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to Apple's AI Update
@@ -48,3 +50,6 @@ As Apple continues to develop its AI capabilities, it is likely that we will see
 ## Conclusion
 In conclusion, Apple's decision to open up its AI features to third-party models is a significant development in the tech industry. It has the potential to lead to increased competition and innovation in the AI space, as well as improved user experience for Apple device users. As the AI market continues to evolve, it will be interesting to see how Apple's AI capabilities develop and how other tech companies respond to its move.
 
+## Updates
+
+- **2026-05-11** — Apple just made it easier for Apple Card users to access Savings on the web ([source](https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/))
