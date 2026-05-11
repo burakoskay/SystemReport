@@ -1,15 +1,17 @@
 ---
 title: "Vine Returns, PS5 Runs Linux, Apple TV Revives “Trying”"
 date: 2026-04-29T14:23:13.991Z
+modified_date: 2026-05-11T11:30:07.767Z
 tags: ["vine","ps5","linux","apple tv","tech news"]
 hero_image: "/hero/2026-04-29-vine-returns-ps5-runs-linux-apple-tv-revives-trying-3cb918.jpg"
 hero_image_credit_name: "Ravi Roshan"
 hero_image_credit_url: "https://www.pexels.com/@ravi-roshan-2875998"
 visual_keyword: "six-second looping video interface on a smartphone"
 description: "Divine launches a six‑second video platform, a developer gets Linux on the PS5, and Apple TV announces a new season of the comedy Trying."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Three unrelated moves are shaking up the consumer tech feed this week: a Vine‑style app is back, a PlayStation 5 can now boot Linux, and Apple TV is bringing back a critically praised comedy.
 
@@ -50,3 +52,7 @@ Streaming services increasingly revive niche titles with strong critical recepti
 ## What to Watch
 
 Divine’s user growth will reveal whether six‑second loops can survive in a TikTok‑dominated market. Keep an eye on Sony’s firmware releases for patches that could block the Linux exploit. Finally, track Apple TV’s viewership numbers for the new season of “Trying” and see if the show’s critical cache translates into subscriber retention.
+
+## Updates
+
+- **2026-05-11** — A Chevron Texas Power Plant Seeks School District Tax Break ([source](https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/))
