@@ -1,16 +1,17 @@
 ---
 title: "DHS, Meta, and AI: Three cases at the tech-legal frontier"
 date: 2026-05-05T17:50:14.053Z
-modified_date: 2026-05-10T03:43:40.682Z
+modified_date: 2026-05-11T17:59:07.280Z
 tags: ["dhs","meta","ai-regulation","tech-legal","civil-litigation"]
 hero_image: "/hero/2026-05-05-dhs-meta-and-ai-three-cases-at-the-tech-legal-frontier-007421.jpg"
 hero_image_credit_name: "Franco Monsalvo"
 hero_image_credit_url: "https://www.pexels.com/@franco-monsalvo-252430633"
 visual_keyword: "a courtroom with digital data streams projected on the walls"
 description: "DHS seeks Canadian data under 1930s law, New Mexico sues Meta over teen notifications, and AI firms grant US early model access."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## DHS invokes 1930s customs law to access Canadian’s Google data
@@ -43,4 +44,5 @@ Three developments will shape the next phase of these cases. First, a federal ju
 
 ## Updates
 
+- **2026-05-11** — Bravo is creating unscripted microdramas for the Peacock app ([source](https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/))
 - **2026-05-10** — Show HN: I made a Clojure-like language in Go, boots in 7ms ([source](https://github.com/nooga/let-go))

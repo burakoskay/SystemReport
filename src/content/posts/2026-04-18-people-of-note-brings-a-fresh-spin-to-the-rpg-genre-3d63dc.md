@@ -1,16 +1,17 @@
 ---
 title: "People of Note Brings a Fresh Spin to the RPG Genre"
 date: 2026-04-18T12:46:19.998Z
-modified_date: 2026-05-07T19:47:35.947Z
+modified_date: 2026-05-11T17:59:17.105Z
 tags: ["RPG","Music","Vacation","Relaxing","Engaging"]
 hero_image: "/hero/2026-04-18-people-of-note-brings-a-fresh-spin-to-the-rpg-genre-3d63dc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ In conclusion, People of Note is a game that brings a fresh spin to the RPG genr
 
 ## Updates
 
+- **2026-05-11** — There’s an Unhinged New Video Game About Trump and the Iran War ([source](https://www.wired.com/story/video-game-trump-iran-war/))
 - **2026-05-07** — Peak Design is taking up to 50 percent off some of our favorite bags right now ([source](https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal))
 - **2026-05-07** — Hands-on: Lexar ES5 brings MagSafe convenience and ProRes SSD speeds to your iPhone ([source](https://9to5mac.com/2026/05/07/hands-on-lexar-es5-brings-magsafe-convenience-and-prores-ssd-speeds-to-your-iphone/))
 - **2026-04-24** — Xreal’s best AR glasses are $599 for good now ([source](https://www.theverge.com/gadgets/918169/xreal-one-pro-ar-glasses-price-cut-deal-sale))

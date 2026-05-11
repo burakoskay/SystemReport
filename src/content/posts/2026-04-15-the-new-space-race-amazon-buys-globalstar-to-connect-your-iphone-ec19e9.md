@@ -1,16 +1,17 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
-modified_date: 2026-05-06T17:46:22.709Z
+modified_date: 2026-05-11T17:59:15.138Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The convergence of consumer electronics and satellite technology marks a new fro
 
 ## Updates
 
+- **2026-05-11** — 7 of our favorite deals from Amazon’s Pet Days sale ([source](https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale))
 - **2026-05-06** — Amazon Blink beats Google’s 2K Nest Doorbell with the same quality for under $50 ([source](https://9to5google.com/2026/05/06/amazon-blink-2k-doorbell/))
 - **2026-04-29** — Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off ([source](https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale))
 - **2026-04-28** — Elon Musk tells the jury that all he wants to do is save humanity ([source](https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity))

@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-04-23T19:18:31.370Z
+modified_date: 2026-05-11T17:59:09.238Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-05-11** — Apple brings encrypted RCS chats to iPhone ([source](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android))
 - **2026-04-23** — Titanium Court mashes together genres and cultural references to tell a strange, funny tale ([source](https://www.engadget.com/gaming/titanium-court-mashes-together-genres-and-cultural-references-to-tell-a-strange-funny-tale-184750797.html?src=rss))
 - **2026-04-22** — Apple Pay and MLS Season Pass earn Apple two Webby Awards ([source](https://9to5mac.com/2026/04/22/apple-pay-and-mls-season-pass-earn-apple-two-webby-awards/))
 - **2026-04-22** — Windows 9x Subsystem for Linux ([source](https://social.hails.org/@hailey/116446826733136456))

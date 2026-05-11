@@ -1,14 +1,16 @@
 ---
 title: "VC Firm Bets on Physical World Startups Amid Geopolitical Turmoil"
 date: 2026-04-29T03:39:29.980Z
+modified_date: 2026-05-11T17:59:21.028Z
 tags: ["venture capital","geopolitics","startup acquisitions"]
 hero_image: "/hero/2026-04-29-vc-firm-bets-on-physical-world-startups-amid-geopolitical-turmoil-799a5b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "venture capital"
 description: "Kompas VC invests in startups focused on physical world as geopolitical tensions rise. Founder of Scholly sues Sallie Mae."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Kompas VC's Strategy
@@ -43,3 +45,6 @@ The coming months will be crucial in determining the success of Kompas VC's stra
 
 The challenges faced by venture investors today are not unprecedented. In the past, geopolitical turmoil and economic instability have had a significant impact on the venture capital market. For instance, during the 2008 financial crisis, many venture capital firms struggled to raise funds, leading to a decline in investments. However, this also created opportunities for firms to capitalize on niche areas and invest in startups that were well-positioned to weather the storm. Today, venture investors are facing similar challenges, but with the added complexity of emerging technologies like AI and blockchain.
 
+## Updates
+
+- **2026-05-11** — F1 set for another engine tweak in 2027, and what's this about V8s? ([source](https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/))
