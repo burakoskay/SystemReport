@@ -1,15 +1,17 @@
 ---
 title: "Chrome AI storage meets Prime Video's vertical video push"
 date: 2026-05-08T19:36:44.082Z
+modified_date: 2026-05-11T21:38:06.039Z
 tags: ["chrome","prime video","vertical video","ai","mobile"]
 hero_image: "/hero/2026-05-08-chrome-ai-storage-meets-prime-video-s-vertical-video-push-ad1856.jpg"
 hero_image_credit_name: "Bastian Riccardi"
 hero_image_credit_url: "https://www.pexels.com/@shutter-speed"
 visual_keyword: "smartphone displaying vertical video carousel beside browser storage settings"
 description: "Chrome's 4 GB AI model storage sparks confusion as Prime Video rolls out a TikTok‑style vertical feed, highlighting the clash between desktop AI bloat and mobile video trends."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Chrome's AI model now claims 4 GB of local disk space, and Prime Video just dropped a TikTok‑like vertical feed. Both moves expose a tension between heavyweight desktop features and the lean, scroll‑first experience users expect on phones.
 
@@ -50,3 +52,7 @@ Prime Video's **Clips** improves content discoverability for on‑the‑go viewe
 ## What to watch
 
 Watch for Chrome's next configuration update: Google has hinted at a smaller, modular AI model that could reduce the default storage allocation. Track whether the change rolls out globally or remains an opt‑in experiment. On the streaming side, monitor Amazon's ad metrics for **Clips** during the upcoming quarter; a spike could signal a shift toward a hybrid subscription‑ad model. Both developments will shape how engineers balance on‑device intelligence with the lean UI demands of mobile consumption.
+
+## Updates
+
+- **2026-05-11** — Digg tries again, this time as an AI news aggregator ([source](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/))
