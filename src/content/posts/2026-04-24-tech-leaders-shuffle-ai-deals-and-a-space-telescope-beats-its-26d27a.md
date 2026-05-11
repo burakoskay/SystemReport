@@ -1,16 +1,17 @@
 ---
 title: "Tech Leaders Shuffle as AI Deals and Space Launch Accelerate"
 date: 2026-04-24T11:10:51.603Z
-modified_date: 2026-05-09T20:52:04.263Z
+modified_date: 2026-05-11T07:51:31.450Z
 tags: ["leadership","m&a","space","ai"]
 hero_image: "/hero/2026-04-24-tech-leaders-shuffle-ai-deals-and-a-space-telescope-beats-its-26d27a.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "tech executives gathered around a futuristic satellite backdrop"
 description: "Bob Iger returns to venture capital, Redwood’s COO exits, Sierra buys Fragment, Microsoft rolls out a retirement buyout, and the Roman Telescope launches early."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ Keep an eye on how Redwood’s restructuring affects its battery‑recycling thr
 
 ## Updates
 
+- **2026-05-11** — The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024) ([source](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html))
 - **2026-05-09** — The hypocrisy of cyberlibertarianism ([source](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/))
 - **2026-04-30** — Elon Musk confirms xAI used OpenAI’s models to train Grok ([source](https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation))
