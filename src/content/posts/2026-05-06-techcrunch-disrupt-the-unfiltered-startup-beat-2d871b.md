@@ -1,15 +1,17 @@
 ---
 title: "TechCrunch Disrupt: The Unfiltered Startup Beat"
 date: 2026-05-06T18:01:54.655Z
+modified_date: 2026-05-11T20:00:43.502Z
 tags: ["techcrunch","startups","m&a","dating-tech","wordpress"]
 hero_image: "/hero/2026-05-06-techcrunch-disrupt-the-unfiltered-startup-beat-2d871b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "young entrepreneurs presenting to investors in a tech conference hall"
 description: "From Gen Z dating apps to WordPress founder talks, here's what's shaping tech innovation at Disrupt."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## TechCrunch Disrupt 2025: A Startup Crossroads
 
@@ -40,3 +42,7 @@ For now, Cerca’s social graph approach and Mullenweg’s open-source pragmatis
 TechCrunch Disrupt 2026’s M&A panel (October 12) will reveal whether early-stage acquisition strategies have shifted post-2024. Cerca’s co-founder Myles Slayton has hinted at expanding to “friend-of-a-friend” dating in major US cities by Q1 2026. Meanwhile, Automattic’s ongoing legal fight with WP Engine could reshape how open-source platforms monetize their infrastructure.
 
 The event’s ticket discounts (50% off second tickets until May 8) suggest a shift toward team-based innovation. Keep an eye on Disrupt 2026’s Startup Battlefield winners—many of this year’s most talked-about startups were non-AI, non-VC funded, and building in real-world markets.
+
+## Updates
+
+- **2026-05-11** — The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance ([source](https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/))
