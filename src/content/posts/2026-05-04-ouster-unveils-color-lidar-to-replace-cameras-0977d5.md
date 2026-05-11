@@ -1,18 +1,20 @@
 ---
 title: "Ouster Unveils Color Lidar to Replace Cameras"
 date: 2026-05-04T10:20:36.557Z
+modified_date: 2026-05-11T15:21:28.309Z
 tags: ["lidar","autonomous vehicles","robotics"]
 hero_image: "/hero/2026-05-04-ouster-unveils-color-lidar-to-replace-cameras-0977d5.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "lidar sensor"
 description: "Ouster's new color lidar sensor captures depth and image data, potentially replacing cameras in various applications."
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-05-04-ouster-unveils-color-lidar-to-replace-cameras-0977d5.mp3"
 audio_bytes: 649762
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Ouster's Color Lidar Sensor
@@ -73,3 +75,6 @@ In addition to its technical capabilities, Ouster's color lidar sensor also has 
 
 This could lead to significant cost savings for companies that adopt the sensor, as well as improved outcomes for individuals and communities. As such, Ouster's color lidar sensor is not only an exciting technical development, but also a potentially transformative one.
 
+## Updates
+
+- **2026-05-11** — Venmo’s biggest makeover in years comes at a very interesting time ([source](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/))

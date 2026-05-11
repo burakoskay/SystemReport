@@ -1,16 +1,17 @@
 ---
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
-modified_date: 2026-05-08T14:01:24.371Z
+modified_date: 2026-05-11T15:21:32.157Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
 hero_image: "/hero/2026-04-15-from-sneakers-to-servers-allbirds-daring-leap-into-ai-compute-545a5c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ Allbirds' transformation is not an isolated incident but rather a striking sympt
 
 ## Updates
 
+- **2026-05-11** — Apple debuts new Mac video that says ‘Great ideas start here’ ([source](https://9to5mac.com/2026/05/11/apple-debuts-new-mac-video-that-says-great-ideas-start-here/))
 - **2026-05-08** — Lime, the Uber-backed micromobility company, files for IPO ([source](https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/))
 - **2026-04-27** — Here’s what Apple showcased at ICLR 2026, one of the world’s biggest AI conferences ([source](https://9to5mac.com/2026/04/27/heres-what-apple-showcased-at-iclr-2026-one-of-the-worlds-biggest-ai-conferences/))
 - **2026-04-22** — Xfinity Mobile now includes device protection and anytime phone upgrades ([source](https://www.engadget.com/mobile/xfinity-mobile-now-includes-device-protection-and-anytime-phone-upgrades-133511715.html?src=rss))

@@ -1,16 +1,17 @@
 ---
 title: "China’s 2026 Green Consumption Push Redefines Home Buying"
 date: 2026-04-29T06:40:28.199Z
-modified_date: 2026-05-07T17:52:29.140Z
+modified_date: 2026-05-11T15:21:24.489Z
 tags: ["china","green consumption","policy","sustainability"]
 hero_image: "/hero/2026-04-29-china-s-2026-green-consumption-push-redefines-home-buying-85c852.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "modern Chinese family choosing energy‑efficient appliances in a bright kitchen"
 description: "January 2026 sees China launch a sweeping green‑consumption action plan, reshaping appliances, cars and daily habits for a low‑carbon economy."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The 2026 Action Plan could turn green consumption from a niche trend into a core
 
 ## Updates
 
+- **2026-05-11** — TikTok launches an ad-free subscription plan in the UK ([source](https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/))
 - **2026-05-07** — Samsung’s flagship laptop is a MacBook Pro clone gone horribly wrong ([source](https://www.theverge.com/tech/925806/samsung-galaxy-book6-ultra-nvidia-rtx-5070-laptop-review))
 - **2026-05-03** — Top Rover Promo Codes and Referral Deals for May 2026 ([source](https://www.wired.com/story/rover-promo-code/))
 - **2026-05-01** — Microsoft tests redesigned Windows 11 Run menu with dark mode and more ([source](https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test))
