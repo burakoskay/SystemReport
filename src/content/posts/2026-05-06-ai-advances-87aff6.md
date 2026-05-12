@@ -1,18 +1,20 @@
 ---
 title: "AI Advances"
 date: 2026-05-06T06:42:07.091Z
+modified_date: 2026-05-12T10:37:21.878Z
 tags: ["AI","Nvidia","ChatRTX"]
 hero_image: "/hero/2026-05-06-ai-advances-87aff6.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "New AI developments and implications"
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-05-06-ai-advances-87aff6.mp3"
 audio_bytes: 587277
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to AI Advances
 
@@ -69,3 +71,7 @@ The use of AI also raises concerns about privacy and security. For example, the 
 As AI continues to advance, it is essential to keep an eye on developments in the field. The use of AI in restaurants, gaming, and customer service is just the beginning, and it is likely that we will see AI being used in many other areas in the future.
 
 The next significant development to watch is the release of new AI-powered products and services, such as the upcoming 1.0 release of ChatRTX. This release is expected to include new features and improvements, such as the return of YouTube link scrubbing capabilities.
+
+## Updates
+
+- **2026-05-12** — Lotus will return to combustion engines for its cars ([source](https://www.engadget.com/2170515/lotus-vision-2030-type-135/))

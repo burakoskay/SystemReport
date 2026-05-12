@@ -1,16 +1,17 @@
 ---
 title: "Apple's CEO Succession and the Quest for Vertical Integration"
 date: 2026-04-20T20:42:06.124Z
-modified_date: 2026-04-28T21:11:49.723Z
+modified_date: 2026-05-12T10:37:23.845Z
 tags: ["apple","ceo","vertical integration","chip design"]
 hero_image: "/hero/2026-04-20-apple-s-ceo-succession-and-the-quest-for-vertical-integration-744a82.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Tim Cook and John Ternus"
 description: "Tim Cook steps down as Apple CEO, John Ternus takes over. What does this mean for Apple's future in vertical integration and chip design?"
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 
 
@@ -41,5 +42,6 @@ What to watch: Apple's chip design efforts will be closely watched in the coming
 
 ## Updates
 
+- **2026-05-12** — Digg is back again, this time to aggregate AI news ([source](https://www.engadget.com/2170484/digg-ai-news-aggregator/))
 - **2026-04-28** — ASUS' dual-screen ROG Zephyrus Duo is now on pre-order starting at $4,500 ([source](https://www.engadget.com/computing/laptops/asus-dual-screen-rog-zephyrus-duo-is-now-on-pre-order-starting-at-4500-130041463.html?src=rss))
 - **2026-04-28** — ASUS' dual-screen ROG Zephyrus Duo is now on pre-order starting at $4,500 ([source](https://www.engadget.com/computing/laptops/asus-dual-screen-rog-zephyrus-duo-is-now-on-pre-order-starting-at-4500-130041463.html?src=rss))

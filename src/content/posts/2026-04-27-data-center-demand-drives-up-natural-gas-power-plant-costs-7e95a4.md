@@ -1,15 +1,17 @@
 ---
 title: "Data center demand drives up natural gas power plant costs"
 date: 2026-04-27T21:22:04.184Z
+modified_date: 2026-05-12T10:37:15.960Z
 tags: ["data centers","energy costs","sustainability","regulation"]
 hero_image: "/hero/2026-04-27-data-center-demand-drives-up-natural-gas-power-plant-costs-7e95a4.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center expansion"
 description: "Natural gas power plant costs surge 66% as data center electricity demand skyrockets."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 # Soaring Energy Costs
 
@@ -42,3 +44,7 @@ State policymakers are taking notice of the impact of data centers on energy gri
 As the demand for data center electricity continues to grow, it is essential to develop more sustainable solutions to meet this demand. This may involve the development of new technologies, such as more efficient cooling systems or renewable energy sources. It may also involve greater investment in grid infrastructure, to ensure that data centers can be powered reliably and efficiently. Whatever the solution, it is clear that the growth of data centers is not going to slow down anytime soon, and it is up to policymakers, industry leaders, and residents to work together to ensure that this growth is sustainable and responsible.
 
 The next critical decision will be how state regulators respond to the growing demand for data center electricity. Will they prioritize economic development and allow data centers to proliferate, or will they take a more cautious approach and prioritize the protection of local resources? The answer will have significant implications for the future of the data center industry and the communities that host them.
+
+## Updates
+
+- **2026-05-12** — The Creators of ‘Hacks’ Really, Really, Really Hate AI ([source](https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/))

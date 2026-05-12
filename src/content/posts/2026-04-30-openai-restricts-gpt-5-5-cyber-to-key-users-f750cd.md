@@ -1,14 +1,16 @@
 ---
 title: "OpenAI Restricts GPT-5.5 Cyber to Key Users"
 date: 2026-04-30T19:41:39.822Z
+modified_date: 2026-05-12T10:37:12.043Z
 tags: ["AI Security","OpenAI","Yubico"]
 hero_image: "/hero/2026-04-30-openai-restricts-gpt-5-5-cyber-to-key-users-f750cd.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Security"
 description: "OpenAI limits GPT-5.5 Cyber to critical cyber defenders and partners with Yubico"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## OpenAI Limits GPT-5.5 Cyber Access
 OpenAI will roll out its cybersecurity testing tool, GPT-5.5 Cyber, to critical cyber defenders only. The company announced the limited access in a brief statement.
@@ -42,3 +44,7 @@ The need for advanced security measures in the AI industry is not new. There hav
 
 ## Future of AI Security
 As the AI industry continues to evolve, it is likely that we will see a growing focus on security and safety. Regulators will play a crucial role in shaping the industry's approach to security, and companies will need to adapt to the new landscape. The introduction of advanced security measures, such as those introduced by OpenAI, will be critical in ensuring the safe and beneficial use of AI models.
+
+## Updates
+
+- **2026-05-12** — Amazon launches 30-minute delivery across the U.S. ([source](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/))

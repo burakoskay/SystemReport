@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-05-01T19:18:45.217Z
+modified_date: 2026-05-12T10:37:14.011Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-05-12** — These new Roombas are smaller and cheaper ([source](https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date))
 - **2026-05-01** — Advanced Quantization Algorithm for LLMs ([source](https://github.com/intel/auto-round))
 - **2026-04-27** — Is this Samsung’s upcoming wide foldable? ([source](https://www.theverge.com/tech/918951/samsung-galaxy-z-fold-8-wide-dummy-leak))
 - **2026-04-24** — US soldier arrested for allegedly making over $400,000 on Polymarket with classified Maduro information ([source](https://www.engadget.com/apps/us-soldier-arrested-for-allegedly-making-over-400000-on-polymarket-with-classified-maduro-information-014531367.html?src=rss))

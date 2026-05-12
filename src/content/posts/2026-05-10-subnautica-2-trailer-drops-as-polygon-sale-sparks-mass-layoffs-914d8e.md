@@ -1,18 +1,20 @@
 ---
 title: "Subnautica 2 Trailer Drops as Polygon Sale Sparks Mass Layoffs"
 date: 2026-05-10T20:58:47.036Z
+modified_date: 2026-05-12T10:37:17.917Z
 tags: ["gaming","media","industry","indie"]
 hero_image: "/hero/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "underwater alien landscape with diver beside chaotic newsroom"
 description: "A new Subnautica 2 trailer arrives just before early access, while Polygon's sale to Valnet triggers a wave of veteran journalist cuts."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.mp3"
 audio_bytes: 556766
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Subnautica 2 dropped its first gameplay trailer, and Polygon announced a surprise sale that wiped out its veteran staff.
 
@@ -49,3 +51,7 @@ Blue’s News survives on a minimalist model: a single‑person operation that
 The next weeks will reveal whether Subnautica 2’s Early Access can sustain player interest long enough to justify a full launch, and whether Polygon’s new owners will restore any of the editorial staff or simply repurpose the brand for traffic. Track the community response on Reddit’s r/Subnautica and the engagement metrics on Polygon’s redirected URLs. A follow‑up announcement from Valnet about future hiring plans, or a public statement from Heaslip about potential collaborations, could signal whether the industry is moving toward further consolidation or a resurgence of independent, ad‑free journalism.
 
 ---
+
+## Updates
+
+- **2026-05-12** — Beatbot Pool-Cleaning Robots Are on Sale ([source](https://www.wired.com/story/beatbot-deals-may-2026/))
