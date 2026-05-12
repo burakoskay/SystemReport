@@ -1,19 +1,20 @@
 ---
 title: "Discord Leak Exposes Anthropic’s Mythos Amid $40B Google Bet"
 date: 2026-04-25T19:05:50.503Z
-modified_date: 2026-05-01T17:01:54.168Z
+modified_date: 2026-05-12T06:48:21.165Z
 tags: ["anthropic","ai security","cloud computing","ai competition"]
 hero_image: "/hero/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "cybersecurity analyst reviewing AI model breach on multiple monitors"
 description: "Discord users breached Anthropic’s Mythos model, raising security concerns as Google pours up to $40 billion into the AI startup."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.mp3"
 audio_bytes: 555512
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Discord sleuths breach Anthropic’s Mythos
@@ -56,4 +57,5 @@ The next few months will test whether Anthropic can reconcile its growth traject
 
 ## Updates
 
+- **2026-05-12** — Sony upgraded its wearable AC so it’s cooler and better at hugging your neck ([source](https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner))
 - **2026-05-01** — This accessory can snap a Steam Controller to your phone — or almost anything else ([source](https://www.theverge.com/games/921823/valve-steam-controller-mechanism-mounts-basegrip-dock))
