@@ -1,15 +1,17 @@
 ---
 title: "Musk Relitigates Old Friendship at OpenAI Trial"
 date: 2026-04-29T03:45:29.981Z
+modified_date: 2026-05-12T18:03:59.133Z
 tags: ["OpenAI","Elon Musk","AI development","Regulatory implications","AI industry"]
 hero_image: "/hero/2026-04-29-musk-relitigates-old-friendship-at-openai-trial-757f70.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Artificial Intelligence, AI"
 description: "Elon Musk testified at his OpenAI trial, relitigating an old friendship. The trial marks a new chapter in the ongoing saga of Musk's relationship with OpenAI."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Musk's Testimony at OpenAI Trial
 
@@ -61,3 +63,6 @@ The trial is expected to have significant implications for the future of OpenAI 
 
 As AI systems become increasingly powerful, the stakes are higher than ever.
 
+## Updates
+
+- **2026-05-12** — Sam Altman says Elon Musk’s mind games were damaging OpenAI ([source](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage))

@@ -1,15 +1,17 @@
 ---
 title: "Tesla’s 7-Year FSD Delay and the Tech Projects Defying Limits"
 date: 2026-04-18T12:46:34.988Z
+modified_date: 2026-05-12T18:03:57.000Z
 tags: ["interval-arithmetic","privacy-security","virtualization","ai-timelines","hardware-design"]
 hero_image: "/hero/2026-04-18-tesla-s-7-year-fsd-delay-and-the-tech-projects-defying-limits-12f87b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "disjoint-interval-division"
 description: "From disjoint interval arithmetic to privacy-locked MacBooks, engineers push boundaries while giants lag."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 ## Tesla Hardware 3 owners face a 7-Year FSD wait
 
@@ -30,3 +32,7 @@ The smolvm project achieves subsecond coldstarts for portable virtual machines u
 ## Lunar dust allergy and AI timelines
 
 ESA's 2018 study revealed all 12 moonwalkers suffered "lunar hay fever" from dust particles reacting with oxygen to produce gunpowder-like odors. This discovery complicates future lunar habitation plans, requiring air filtration systems to handle ionic bonding in moon regolith. Meanwhile, FSD's 7-year delay mirrors the LLM industry's struggle with 7B+ parameter models—Groq's llama-3.3-70b still lags 3x behind expected inference speeds. As hyperscalers outspend NASA's Artemis program by 50%, engineering timelines across AI and space remain tightly coupled.
+
+## Updates
+
+- **2026-05-12** — Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen ([source](https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/))

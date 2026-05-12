@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Gives Windows Users a Break on Updates"
 date: 2026-04-25T20:46:44.659Z
-modified_date: 2026-05-11T20:00:49.462Z
+modified_date: 2026-05-12T18:04:01.287Z
 tags: ["Microsoft","Windows Updates","Software Updates"]
 hero_image: "/hero/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "Windows Update"
 description: "Microsoft now lets users pause Windows updates for up to 35 days. The change aims to make updates less disruptive."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.mp3"
 audio_bytes: 581426
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,6 +74,7 @@ In conclusion, Microsoft's new update policy is a welcome change for Windows use
 
 ## Updates
 
+- **2026-05-12** — Android Auto is now one (screen) size fits all ([source](https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all))
 - **2026-05-11** — iOS 26.5 has fixes for 50+ security issues on iPhone, details here ([source](https://9to5mac.com/2026/05/11/ios-26-5-has-fixes-for-50-security-issues-on-iphone-details-here/))
 - **2026-04-30** — Here’s what Netflix’s new vertical video feed is like ([source](https://www.theverge.com/streaming/920179/netflix-vertical-video-feed-mobile-app-ui))
 - **2026-04-30** — Exposed Data Illustrates the Nightmare Scenario for a Stalkerware Victim ([source](https://www.wired.com/story/exposed-data-illustrates-the-nightmare-scenario-for-a-stalkerware-victim/))

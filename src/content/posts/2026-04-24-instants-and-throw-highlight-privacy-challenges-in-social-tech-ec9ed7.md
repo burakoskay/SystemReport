@@ -1,18 +1,19 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-05-05T19:29:22.392Z
+modified_date: 2026-05-12T18:04:22.223Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-05-12** — Today’s best Android app deals and freebies: Hyper Light Drifter, Friend of a Slime, more ([source](https://9to5toys.com/2026/05/12/today-best-android-app-deals-hyper-light-drifter/))
 - **2026-05-05** — Today’s Android app deals and freebies: Last Game, Vault of the Void, Metal Soldiers 4 Pro, more ([source](https://9to5toys.com/2026/05/05/android-app-deals-free-last-game-void-metal/))
 - **2026-04-30** — Today’s Android game and app deals: Star Wars KOTOR 1 and 2,  Metal Soldiers 4 Pro, Cyberlords, more ([source](https://9to5toys.com/2026/04/30/today-android-game-app-deals-star-wars-kotor/))

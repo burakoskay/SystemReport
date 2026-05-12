@@ -1,15 +1,16 @@
 ---
 title: "Meta AI Contractors Face Uncertainty"
 date: 2026-04-28T20:11:53.107Z
-modified_date: 2026-05-07T19:47:28.039Z
+modified_date: 2026-05-12T18:04:07.608Z
 tags: ["Meta","AI","Layoffs","Tech Industry","Contractors"]
 hero_image: "/hero/2026-04-28-meta-ai-contractors-face-uncertainty-fb404c.jpg"
 hero_image_credit_name: "ANTONI SHKRABA production"
 hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The outcome of the potential layoffs and the response from Meta and Accenture. T
 
 ## Updates
 
+- **2026-05-12** — Parents say ChatGPT got their son killed with bad advice on party drugs ([source](https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose))
 - **2026-05-07** — Bumble is getting rid of the swipe, CEO says ([source](https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/))
 - **2026-05-07** — Best Bug Spray (2026), Tested and Reviewed ([source](https://www.wired.com/story/best-bug-sprays/))
 - **2026-04-30** — With Saros, Housemarque makes a case for doing next-gen games differently ([source](https://www.theverge.com/games/921391/housemarque-interview-saros-ps5))

@@ -1,15 +1,17 @@
 ---
 title: "Senators Ban Self from Prediction Markets"
 date: 2026-04-30T21:15:06.194Z
+modified_date: 2026-05-12T18:04:26.458Z
 tags: ["politics","tech-policy","ethics","prediction-markets","congress"]
 hero_image: "/hero/2026-04-30-senators-ban-self-from-prediction-markets-019940.jpg"
 hero_image_credit_name: "raksasok heng"
 hero_image_credit_url: "https://www.pexels.com/@raksasok-heng-10957066"
 visual_keyword: "senators voting in a chamber"
 description: "U.S. lawmakers restrict trading to avoid conflicts of interest in high-stakes forecasting platforms."
-sources_count: 11
+sources_count: 12
 author: "elena-marchetti"
 ---
+
 
 ## Senate Cuts Off Its Own Gamble
 
@@ -32,3 +34,7 @@ Technical limitations further undermine the measure’s effectiveness. Predictio
 ## What to Watch
 
 The true test of this policy will come in October 2025, when the Senate faces a procedural vote on whether to expand the ban to all federal employees. If the chamber votes yes, it would align with the 1978 Ethics in Government Act’s broader approach to conflict-of-interest rules. If it votes no, the current patchwork restriction will leave U.S. governance vulnerable to the same kinds of information arbitrage that destabilized the 2008 housing market. Meanwhile, the House has scheduled its own review of prediction market impacts for December 2025—a delay that could allow the same kinds of regulatory arbitrage seen during the 1996 Telecommunications Act debates.
+
+## Updates
+
+- **2026-05-12** — Bambu Lab is abusing the open source social contract ([source](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/))
