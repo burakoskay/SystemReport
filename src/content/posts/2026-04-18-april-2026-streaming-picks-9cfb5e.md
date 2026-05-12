@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Streaming Picks"
 date: 2026-04-18T11:07:25.223Z
-modified_date: 2026-04-30T17:26:12.476Z
+modified_date: 2026-05-12T14:35:35.821Z
 tags: ["streaming","movies","April 2026"]
 hero_image: "/hero/2026-04-18-april-2026-streaming-picks-9cfb5e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "streaming-picks"
 description: "Discover movies to stream this month, including 28 Years Later and more."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -22,5 +23,6 @@ Viewers will have to decide for themselves if these films live up to their expec
 
 ## Updates
 
+- **2026-05-12** — Some Women Are Obsessively Testing Their Vaginas to Optimize Them ([source](https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/))
 - **2026-04-30** — Meta is running get-rich-quick ads for its AI tools ([source](https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop))
 - **2026-04-29** — When Robots Have Their ChatGPT Moment, Remember These Pincers ([source](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/))

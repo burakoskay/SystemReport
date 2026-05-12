@@ -1,18 +1,19 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T17:51:37.722Z
-modified_date: 2026-05-03T22:51:08.864Z
+modified_date: 2026-05-12T14:35:39.892Z
 tags: ["Amazon","Apple","AI","Pricing Models"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.jpg"
 hero_image_credit_name: "Luana  Ribeiro"
 hero_image_credit_url: "https://www.pexels.com/@luana-ribeiro-44057245"
 visual_keyword: "Kindle Colorsoft"
 description: "Amazon updates Kindle Colorsoft with dark mode, Apple introduces new subscription tier"
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.mp3"
 audio_bytes: 564289
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ Ultimately, the future of the tech industry will be shaped by the ongoing interp
 
 ## Updates
 
+- **2026-05-12** — Amazon’s ultrafast 30-minute deliveries are now available in more cities ([source](https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities))
 - **2026-05-03** — Google’s official cases for the entire Pixel 10 series are on sale right now ([source](https://9to5google.com/2026/05/03/google-pixel-10-cases-discount/))
 - **2026-05-01** — Nissan abandons plans for US EV plant ([source](https://www.engadget.com/2161887/nissan-abandons-plans-for-us-ev-plant/))

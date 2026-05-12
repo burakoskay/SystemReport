@@ -1,16 +1,17 @@
 ---
 title: "iOS 26.4: Navigating Innovation, Control, and Legal Intrigue"
 date: 2026-04-16T05:28:54.116Z
-modified_date: 2026-05-06T21:15:51.587Z
+modified_date: 2026-05-12T14:35:31.756Z
 tags: ["ios26","apple","widgets","softwareupdates","techlaw"]
 hero_image: "/hero/2026-04-16-ios-26-4-navigating-innovation-control-and-legal-intrigue-dcc862.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "futuristic iOS interface and legal document"
 description: "iOS 26.4 brings new widgets and App Store changes, but Apple's strict control is evident with no downgrades and an ongoing leak lawsuit. Explore the latest."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ In essence, iOS 26.4 and its subsequent developments paint a comprehensive pictu
 
 ## Updates
 
+- **2026-05-12** — Dessn raises $6M for its production focused design tool ([source](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/))
 - **2026-05-06** — Report: iPhone 17 demand helped Apple hit record Q1 smartphone revenue ([source](https://9to5mac.com/2026/05/06/report-iphone-17-demand-helped-apple-hit-record-q1-smartphone-revenue/))
 - **2026-04-30** — Rivian’s revenue is up as R2 production kicks into gear ([source](https://www.theverge.com/transportation/921295/rivian-q1-2026-earnings-revenue-profit-r2))
 - **2026-04-25** — Why Tokyo is the most important tech destination of 2026 ([source](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/))

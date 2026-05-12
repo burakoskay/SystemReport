@@ -1,15 +1,17 @@
 ---
 title: "AI agents and bug hunters spark US policy scramble"
 date: 2026-05-07T23:13:35.000Z
+modified_date: 2026-05-12T14:35:37.858Z
 tags: ["ai","security","policy","space","tech"]
 hero_image: "/hero/2026-05-07-ai-agents-and-bug-hunters-spark-us-policy-scramble-caac01.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI code analysis robot beside satellite network"
 description: "Mozilla's AI bug scanner, Meta's shopping AI, and a US report on China's tech push converge to reshape security, commerce, and regulation."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## AI bug hunting moves from experiment to production
 Mozilla announced that its AI‑driven scanner, Mythos, has identified 271 vulnerabilities in Firefox code with "almost no false positives." The company said it has "completely bought in" on the approach, treating the tool as a core part of its security workflow. The claim comes from an Ars Technica report that quoted Mozilla engineers describing Mythos as a reliable first line of defense rather than a research curiosity.
@@ -32,3 +34,7 @@ The convergence of AI‑driven security, commerce, and geopolitical competition 
 Meta's OpenClaw illustrates how AI agents are moving beyond chat and into transaction automation. The capability could reshape e‑commerce, but regulators may intervene if consumer consent mechanisms are insufficient. The commission's call for an AGI program underscores that the U.S. government sees AI as a strategic asset comparable to nuclear technology. Funding a national AGI effort could accelerate domestic research while prompting private firms to align their roadmaps with government priorities.
 
 What to watch: The next quarterly release from Mozilla should reveal Mythos' false‑positive rate and any integration challenges. Meta is expected to demo OpenClaw at its upcoming developer conference; the demo will indicate how far the shopping workflow is from public use. In Washington, the Senate Armed Services Committee is slated to hold hearings on the commission's recommendations, with particular focus on the proposed AGI funding bill and the review of commercial space regulations. Tracking these developments will show whether AI and space policy converge into a coordinated strategy or remain fragmented across agencies.
+
+## Updates
+
+- **2026-05-12** — There’s an internet choke point in the Middle East — is the solution in the North Pole? ([source](https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect))
