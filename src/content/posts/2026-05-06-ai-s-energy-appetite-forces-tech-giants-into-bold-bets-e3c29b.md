@@ -1,15 +1,17 @@
 ---
 title: "AI's Energy Appetite Forces Tech Giants Into Bold Bets"
 date: 2026-05-06T23:06:25.302Z
+modified_date: 2026-05-12T21:23:59.167Z
 tags: ["ai-infrastructure","semiconductor-energy","tech-regulation","startup-funding","climate-tech"]
 hero_image: "/hero/2026-05-06-ai-s-energy-appetite-forces-tech-giants-into-bold-bets-e3c29b.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "wind turbines with data center cooling towers in the distance"
 description: "From data centers to wind turbines, the AI boom is reshaping energy and regulatory landscapes."
-sources_count: 15
+sources_count: 16
 author: "elena-marchetti"
 ---
+
 
 ## A 20-Minute Pitch Captures a $18 Billion Market
 
@@ -38,3 +40,7 @@ This incident parallels the 2016 EU General Data Protection Regulation rollout, 
 ## What to Watch Next
 
 The coming months will reveal whether current energy investments can sustain AI's exponential growth. TSMC's turbine project hits a critical milestone in Q4, while xAI's data center expansion faces a December deadline for its first phase. Meanwhile, the FTC is expected to release new guidelines on AI-generated content verification by January. Any misstep in these areas could trigger a cascade of consequences — from supply chain disruptions to regulatory crackdowns — that reshape the industry's trajectory for years.
+
+## Updates
+
+- **2026-05-12** — DOJ extracts $30m settlement from PayPal over minority-owned business program ([source](https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/))

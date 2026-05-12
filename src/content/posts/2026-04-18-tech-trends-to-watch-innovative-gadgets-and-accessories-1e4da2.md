@@ -1,16 +1,17 @@
 ---
 title: "Tech Trends to Watch: Innovative Gadgets and Accessories"
 date: 2026-04-18T01:04:47.608Z
-modified_date: 2026-05-05T17:29:28.646Z
+modified_date: 2026-05-12T21:24:03.294Z
 tags: ["tech trends","gadgets","innovation"]
 hero_image: "/hero/2026-04-18-tech-trends-to-watch-innovative-gadgets-and-accessories-1e4da2.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "colorful smartphone accessories"
 description: "Discover the latest tech must-haves, from portable speakers to MagSafe accessories"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -18,5 +19,6 @@ As we dive into the latest tech trends, it's clear that innovation is at an all-
 
 ## Updates
 
+- **2026-05-12** — Threads users are pissed they can't block Meta's new AI chatbot ([source](https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/))
 - **2026-05-05** — Game Pass additions for May include Subnautica 2 and Forza Horizon 6 ([source](https://www.engadget.com/2165109/game-pass-additons-for-may-include-subnautica-2-and-forza-horizon-6/))
 - **2026-04-21** — I was happy with my Pixel camera until I tried the Oppo Find X9 Ultra  [Gallery] ([source](https://9to5google.com/2026/04/21/oppo-find-x9-ultra-camera-samples-gallery/))
