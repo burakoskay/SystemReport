@@ -1,16 +1,17 @@
 ---
 title: "Amazon adds AI audio Q&A to product pages"
 date: 2026-04-28T23:06:28.593Z
-modified_date: 2026-05-03T20:52:08.038Z
+modified_date: 2026-05-12T23:06:10.110Z
 tags: ["amazon","ai","ecommerce","github","kindle"]
 hero_image: "/hero/2026-04-28-amazon-adds-ai-audio-q-a-to-product-pages-cdcb8d.jpg"
 hero_image_credit_name: "Murry Lee"
 hero_image_credit_url: "https://www.pexels.com/@murry"
 visual_keyword: "a shopper listening to an AI voice response on an Amazon product page"
 description: "Amazon's Join the chat feature serves spoken AI answers on retail pages, prompting questions about cost, latency, and user experience."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Amazon rolls out AI audio Q&A
@@ -51,4 +52,5 @@ Track how Amazon measures latency and cost for Join the chat. A future blog post
 
 ## Updates
 
+- **2026-05-12** — iOS 27 might add a lot more customization to the Camera app ([source](https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization))
 - **2026-05-03** — ‘This is fine’ creator says AI startup stole his art ([source](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/))

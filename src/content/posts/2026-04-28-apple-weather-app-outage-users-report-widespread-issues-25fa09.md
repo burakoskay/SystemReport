@@ -1,19 +1,20 @@
 ---
 title: "Apple Weather App Outage: Users Report Widespread Issues"
 date: 2026-04-28T17:58:50.244Z
-modified_date: 2026-05-02T03:23:22.601Z
+modified_date: 2026-05-12T23:06:14.216Z
 tags: ["apple","weather","ios","outage","app"]
 hero_image: "/hero/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.jpg"
 hero_image_credit_name: "JÉSHOOTS"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots"
 visual_keyword: "iPhone user looking at a frozen Weather app screen"
 description: "Apple's Weather app is down for iOS and macOS users, with intermittent outages reported across regions."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.mp3"
 audio_bytes: 603160
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,5 +52,6 @@ What to watch: The next major iOS update, likely in September, could include a f
 
 ## Updates
 
+- **2026-05-12** — Apple notified in Brazil over allegedly misleading Apple Intelligence ads ([source](https://9to5mac.com/2026/05/12/apple-notified-in-brazil-over-allegedly-misleading-apple-intelligence-ads/))
 - **2026-05-02** — Apple escalates fight with India antitrust watchdog over access to global financials ([source](https://9to5mac.com/2026/05/01/apple-escalates-fight-with-india-antitrust-watchdog-over-access-to-global-financials/))
 - **2026-04-28** — Apple TV scores six Gotham Television Award nominations, here’s the list ([source](https://9to5mac.com/2026/04/28/apple-tv-scores-six-gotham-television-award-nominations-heres-the-list/))
