@@ -1,19 +1,20 @@
 ---
 title: "Claude’s new life‑science suite slashes research cycles"
 date: 2026-04-24T17:34:00.568Z
-modified_date: 2026-05-12T18:03:50.619Z
+modified_date: 2026-05-13T18:06:09.471Z
 tags: ["ai","life sciences","research tools","anthropic","biotech"]
 hero_image: "/hero/2026-04-24-claude-s-new-life-science-suite-slashes-research-cycles-c56592.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "laboratory desk with holographic AI interface and scientific equipment"
 description: "Anthropic upgrades Claude with Opus 4.5 and a dedicated life‑science toolkit, letting labs compress months‑long projects into hours."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-24-claude-s-new-life-science-suite-slashes-research-cycles-c56592.mp3"
 audio_bytes: 612982
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Claude’s latest life‑science suite cuts research cycles from months to hours, giving labs a faster route to discovery.
@@ -50,4 +51,5 @@ Track the adoption rate of Claude‑for‑Life‑Sciences across university labs
 
 ## Updates
 
+- **2026-05-13** — Why does the Googlebook exist? ([source](https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini))
 - **2026-05-12** — Report: Google and SpaceX in talks to put data centers into orbit ([source](https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/))

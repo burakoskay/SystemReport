@@ -1,18 +1,20 @@
 ---
 title: "Pentagon trims classification on secret space programs"
 date: 2026-05-07T21:15:17.848Z
+modified_date: 2026-05-13T18:06:11.618Z
 tags: ["defense","space","classification","policy","technology"]
 hero_image: "/hero/2026-05-07-pentagon-trims-classification-on-secret-space-programs-77791e.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite orbit with classified documents overlay"
 description: "DoD policy lowers secrecy on key space projects, opening tech to allies and industry as the US seeks an edge over China and Russia."
-sources_count: 7
-author: "priya-raman"
+sources_count: 8
 audio_path: "/audio/2026-05-07-pentagon-trims-classification-on-secret-space-programs-77791e.mp3"
 audio_bytes: 605249
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A new classification memo rewrites two decades of secrecy
 The Department of Defense just approved a policy that drops the classification ceiling on a swath of its most guarded space programs. Deputy Secretary of Defense Kathleen Hicks signed off on the change, and DoD Assistant Secretary for Space Policy John Plumb said the memo overwrites a legacy document that dates back twenty years.
@@ -38,3 +40,7 @@ Calls for reform have echoed inside the Pentagon for years. Officials argued tha
 The policy’s rollout will be tracked by the Defense Department’s Office of the Under Secretary of Defense for Research and Engineering, which will publish a list of programs moving out of SAP status. Watch for announcements from the Space Force about which satellite constellations will receive shared data feeds, and monitor industry bids for refuel‑in‑orbit contracts that could reshape logistics.
 
 China’s People’s Liberation Army Rocket Force and Russia’s Aerospace Forces have both signaled intent to field comparable on‑orbit servicing and surveillance constellations. If the United States successfully leverages the declassification to accelerate joint development with allies, it could cement an asymmetric advantage that the memo’s architects claim “neither China nor Russia could ever hope to match.”
+
+## Updates
+
+- **2026-05-13** — Could this be the moment that drug manufacturing takes off in orbit? ([source](https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/))

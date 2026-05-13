@@ -1,14 +1,16 @@
 ---
 title: "Microsoft's Windows Update Woes Continue"
 date: 2026-05-05T10:14:17.185Z
+modified_date: 2026-05-13T18:05:58.898Z
 tags: ["Microsoft","Windows Update","Infinite Reboot","Update Bugs"]
 hero_image: "/hero/2026-05-05-microsoft-s-windows-update-woes-continue-ac3a09.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Windows Update, Microsoft, Tech News"
 description: "Microsoft pauses Windows 11 update due to infinite reboot issue, struggles with update bugs"
-sources_count: 4
+sources_count: 5
 ---
+
 
 # System Report — Editorial Voice
 
@@ -55,3 +57,7 @@ The pause on the KB5039302 update has implications for Windows 11 users, particu
 
 ## Conclusion
 Microsoft's ongoing struggles with update bugs are a reminder of the challenges of maintaining a large and complex operating system like Windows. While the company has made efforts to improve its update process, more work remains to be done to ensure a smooth and reliable update experience for users. The incident highlights the importance of robust testing and validation in software development, particularly for complex operating systems like Windows.
+
+## Updates
+
+- **2026-05-13** — Trump's Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket ([source](https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/))

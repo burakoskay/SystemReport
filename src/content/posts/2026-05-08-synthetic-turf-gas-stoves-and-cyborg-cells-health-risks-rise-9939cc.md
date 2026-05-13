@@ -1,19 +1,20 @@
 ---
 title: "Synthetic Turf, Gas Stoves, and Cyborg Cells: Health Risks Rise"
 date: 2026-05-08T23:06:54.166Z
-modified_date: 2026-05-10T11:03:12.945Z
+modified_date: 2026-05-13T18:06:00.998Z
 tags: ["environment","health","technology","policy"]
 hero_image: "/hero/2026-05-08-synthetic-turf-gas-stoves-and-cyborg-cells-health-risks-rise-9939cc.jpg"
 hero_image_credit_name: "Tom Van Dyck"
 hero_image_credit_url: "https://www.pexels.com/@tom-van-dyck-423949093"
 visual_keyword: "synthetic turf field under scorching sun"
 description: "California’s turf boom, a contested gas‑stove study, and UC‑Davis cyborg cells spotlight growing health debates around new technologies."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-08-synthetic-turf-gas-stoves-and-cyborg-cells-health-risks-rise-9939cc.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 California is laying down miles of plastic grass, the natural‑gas industry is fighting a study that links its burners to asthma, and UC‑Davis researchers have released semi‑living cells that can survive harsh chemicals. All three stories converge on a single question: how much risk should we tolerate for convenience and innovation?
@@ -56,4 +57,5 @@ Watch the L.A. City Council’s October hearing on artificial‑turf bans; the o
 
 ## Updates
 
+- **2026-05-13** — Inside the Race to Develop a Test for the Rare Andes Hantavirus ([source](https://www.wired.com/story/race-to-develop-andes-hantavirus-test/))
 - **2026-05-10** — Vivo’s X300 Ultra has the best cameras in any phone ([source](https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone))

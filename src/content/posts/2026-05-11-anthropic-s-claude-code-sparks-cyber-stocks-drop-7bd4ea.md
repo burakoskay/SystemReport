@@ -1,15 +1,17 @@
 ---
 title: "Anthropic's Claude Code Sparks Cyber Stocks Drop"
 date: 2026-05-11T11:42:37.615Z
+modified_date: 2026-05-13T18:06:15.861Z
 tags: ["cybersecurity","anthropic","ai-security","stock-market","software-vulnerabilities"]
 hero_image: "/hero/2026-05-11-anthropic-s-claude-code-sparks-cyber-stocks-drop-7bd4ea.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "ai security tool interface next to code"
 description: "Anthropic's new AI tool triggers market panic as cybersecurity stocks drop. Explore the implications for AI-driven security."
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 ## Anthropic's AI Tool Undermines Cybersecurity Market
 
@@ -38,3 +40,7 @@ Enterprise adoption of Claude Code Security also introduces operational friction
 ## What's Next
 
 Anthropic plans to expand Claude Code Security’s capabilities: integration with CI/CD pipelines will be critical for mainstream adoption. Watch for CISA to propose AI-specific cybersecurity standards in Q3 2026. CrowdStrike and Cloudflare must either acquire AI security firms or develop their own generative analysis tools to retain enterprise customers. Meanwhile, the open-source community’s response to Anthropic’s tool will shape whether this AI-led disruption accelerates or falters.
+
+## Updates
+
+- **2026-05-13** — Anthropic courts a new kind of customer: small business owners ([source](https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/))

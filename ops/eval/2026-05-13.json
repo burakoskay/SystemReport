@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-05-13T10:43:30.725Z",
+  "generated_at": "2026-05-13T18:17:30.571Z",
   "window_days": 7,
-  "total_records": 3390,
+  "total_records": 3458,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 614,
-      "success": 479,
-      "success_rate": 0.7801302931596091,
-      "latency_p50": 3173,
-      "latency_p95": 14543,
-      "response_chars_mean": 3097,
+      "calls": 632,
+      "success": 487,
+      "success_rate": 0.7705696202531646,
+      "latency_p50": 3163,
+      "latency_p95": 13881,
+      "response_chars_mean": 3101,
       "error_classes": {
-        "rate_limit": 121,
+        "rate_limit": 130,
         "permission": 1,
         "too_large": 3,
-        "unknown": 10
+        "unknown": 11
       }
     },
     "revise:v2-800w": {
-      "calls": 172,
-      "success": 145,
-      "success_rate": 0.8430232558139535,
-      "latency_p50": 1154,
+      "calls": 173,
+      "success": 146,
+      "success_rate": 0.8439306358381503,
+      "latency_p50": 1141,
       "latency_p95": 10147,
-      "response_chars_mean": 1684,
+      "response_chars_mean": 1682,
       "error_classes": {
         "rate_limit": 27
       }
     },
     "lengthen:v1": {
-      "calls": 296,
-      "success": 252,
-      "success_rate": 0.8513513513513513,
-      "latency_p50": 2531,
+      "calls": 299,
+      "success": 255,
+      "success_rate": 0.8528428093645485,
+      "latency_p50": 2541,
       "latency_p95": 9815,
-      "response_chars_mean": 4850,
+      "response_chars_mean": 4858,
       "error_classes": {
         "rate_limit": 43,
         "unknown": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 31,
-      "success": 23,
-      "success_rate": 0.7419354838709677,
+      "calls": 33,
+      "success": 24,
+      "success_rate": 0.7272727272727273,
       "latency_p50": 269,
       "latency_p95": 3429,
-      "response_chars_mean": 63,
+      "response_chars_mean": 64,
       "error_classes": {
-        "rate_limit": 7,
+        "rate_limit": 8,
         "unknown": 1
       }
     }

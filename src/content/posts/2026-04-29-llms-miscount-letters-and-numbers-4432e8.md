@@ -1,14 +1,16 @@
 ---
 title: "LLMs Miscount Letters and Numbers"
 date: 2026-04-29T14:10:32.882Z
+modified_date: 2026-05-13T18:06:03.113Z
 tags: ["LLMs","AI","ChatGPT"]
 hero_image: "/hero/2026-04-29-llms-miscount-letters-and-numbers-4432e8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "LLMs"
 description: "ChatGPT and other LLMs struggle with basic facts"
-sources_count: 4
+sources_count: 5
 ---
+
 
 ## The Problem with LLMs
 ChatGPT and other large language models miscount letters and numbers. For example, ChatGPT couldn't accurately count the number of letters in the word 'strawberry', miscounting the number of 'R's. This issue is not isolated, as seen in the case of carb counting, where an individual asked AI to count carbs 27,000 times and received different answers each time.
@@ -24,3 +26,7 @@ The technical mechanics behind LLMs involve complex algorithms and neural networ
 The struggles of LLMs with basic facts have significant implications for their use in everyday applications. The development of more accurate and reliable AI models is crucial for realizing the full potential of these technologies. As AI becomes increasingly integrated into various aspects of life, the need for accurate and consistent models becomes more pressing. For example, in healthcare, AI models are being used to analyze medical images and diagnose diseases. However, if these models are prone to confident mistakes, it could lead to incorrect diagnoses and potentially harm patients. Similarly, in finance, AI models are being used to analyze market trends and make investment decisions. If these models are flawed, it could lead to significant financial losses.
 ## What's Next
 Developers must prioritize accuracy and consistency in their models. The community's reaction to the carb-counting article and the strawberry R-count issue indicates a growing awareness of the limitations of LLMs. As the industry continues to evolve, it is essential to address these challenges and develop more reliable AI models. One potential solution is to use more diverse and high-quality training data, which could help to reduce the risk of confident mistakes. Additionally, developers could use techniques such as data augmentation and transfer learning to improve the performance of their models.
+
+## Updates
+
+- **2026-05-13** — OnlyFans’ First-Gen Creators Are Retiring—and Some Are Begging You to Forget They Exist ([source](https://www.wired.com/story/onlyfans-creators-retiring-right-to-be-forgotten/))

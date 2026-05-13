@@ -1,14 +1,16 @@
 ---
 title: "Zed Editor Launches Theme Builder"
 date: 2026-05-09T22:55:29.674Z
+modified_date: 2026-05-13T18:06:17.964Z
 tags: ["Zed Editor","Theme Builder","Code Editor"]
 hero_image: "/hero/2026-05-09-zed-editor-launches-theme-builder-f70cfc.jpg"
 hero_image_credit_name: "Polesie Toys"
 hero_image_credit_url: "https://www.pexels.com/@polesietoys"
 visual_keyword: "theme builder"
 description: "Zed.dev introduces a theme builder for its code editor, sparking interest in the developer community."
-sources_count: 1
+sources_count: 2
 ---
+
 
 Zed.dev's theme builder has garnered 128 points and 38 comments on Hacker News. The feature allows users to create custom themes.
 
@@ -34,3 +36,7 @@ The concept of theme builders is not new, with many software applications offeri
 The success of the Zed.dev theme builder could have implications for the wider developer community. As more developers begin to use the theme builder, there may be a growing demand for similar features in other code editors. This could lead to increased competition and innovation in the market, ultimately benefiting developers and users alike. Furthermore, the theme builder could also enable a new wave of user-created themes and plugins, which could further enhance the user experience and drive adoption of the Zed.dev editor.
 
 The team at Zed.dev seems well-positioned to continue iterating on the theme builder and responding to user feedback. With a strong community of users and a clear vision for the product, Zed.dev is likely to remain a player in the code editor market. As the market continues to evolve, it will be interesting to see how Zed.dev adapts and innovates to meet the changing needs of developers.
+
+## Updates
+
+- **2026-05-13** — r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting ([source](https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/))

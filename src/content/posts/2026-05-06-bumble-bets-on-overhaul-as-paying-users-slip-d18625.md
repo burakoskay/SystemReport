@@ -1,18 +1,19 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
-modified_date: 2026-05-06T14:25:47.875Z
+modified_date: 2026-05-13T18:06:30.448Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,4 +75,5 @@ The success of Bumble's overhaul will depend on its ability to attract and retai
 
 ## Updates
 
+- **2026-05-13** — Here are some smart AI features we can expect from the Gemini-powered new Siri ([source](https://9to5mac.com/2026/05/13/here-are-some-smart-ai-features-we-can-expect-from-the-gemini-powered-new-siri/))
 - **2026-05-06** — Energizer’s new coin batteries won’t cause ingestion burns if swallowed ([source](https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention))
