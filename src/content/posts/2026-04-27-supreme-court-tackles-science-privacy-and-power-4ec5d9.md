@@ -1,16 +1,17 @@
 ---
 title: "Supreme Court Tackles Science, Privacy, and Power"
 date: 2026-04-27T23:06:39.651Z
-modified_date: 2026-04-30T03:37:21.021Z
+modified_date: 2026-05-13T21:29:03.415Z
 tags: ["supreme-court","privacy","science-policy"]
 hero_image: "/hero/2026-04-27-supreme-court-tackles-science-privacy-and-power-4ec5d9.jpg"
 hero_image_credit_name: "Robert Clark"
 hero_image_credit_url: "https://www.pexels.com/@robert-clark-504241532"
 visual_keyword: "abstract representation of data streams intersecting with judicial scales"
 description: "Three landmark cases test federal oversight of tech and research."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ What to watch: The National Science Board's May 15 hearing on reinstatement, the
 
 ## Updates
 
+- **2026-05-13** — Andreessen Horowitz is the midterm elections' biggest donor ([source](https://www.engadget.com/2172293/andreessen-horowitz-is-the-midterm-elections-biggest-donor/))
 - **2026-04-30** — On the stand, Elon Musk can’t escape his own tweets ([source](https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/))
 - **2026-04-29** — How Trump Weaponized the DOJ Division That Kept Elections Fair ([source](https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/))

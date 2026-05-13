@@ -1,18 +1,20 @@
 ---
 title: "UAE Leaves OPEC After 59 Years, Opens Door to Higher Output"
 date: 2026-04-28T19:36:14.989Z
+modified_date: 2026-05-13T21:28:44.811Z
 tags: ["uae","opec","oil markets"]
 hero_image: "/hero/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.jpg"
 hero_image_credit_name: "Shivansh  Sharma"
 hero_image_credit_url: "https://www.pexels.com/@sincegameon"
 visual_keyword: "UAE oil fields with OPEC logo fading"
 description: "The United Arab Emirates will quit OPEC on May 1, ending a 59‑year run and giving it freedom to boost oil production amid volatile markets."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.mp3"
 audio_bytes: 595009
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## UAE’s abrupt exit shakes a decades‑old alliance
 The United Arab Emirates announced it will quit OPEC on May 1, ending a 59‑year membership that began in the early 1960s. The move frees Abu Dhabi to raise crude output at a time when global supply chains are jittery and price swings are the norm.
@@ -38,3 +40,7 @@ Outside the Middle East, major oil‑importing nations are likely to recalibrate
 The first indicator will be the UAE’s production figures for June, when the country’s oil ministry is scheduled to release its quarterly output report. If the numbers show a clear increase over the OPEC‑mandated ceiling, markets will treat the exit as a signal that the emirate is willing to use its oil wealth aggressively. Conversely, a modest or unchanged output level could suggest the move was more about political signaling than immediate supply expansion. Analysts will also monitor OPEC’s response at its next meeting in July, where the cartel may tighten or loosen its own quotas to offset any potential surge from Abu Dhabi.
 
 The next few months will reveal whether the UAE’s departure reshapes the balance of power within OPEC+ or simply adds another variable to an already complex energy landscape. Investors, policymakers, and industry watchers should keep an eye on production data, OPEC meeting minutes, and any statements from Abu Dhabi’s oil ministry for clues about the emirate’s long‑term strategy.
+
+## Updates
+
+- **2026-05-13** — This is what some the world’s largest banks of malware look like stacked as hard drives ([source](https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/))

@@ -1,16 +1,17 @@
 ---
 title: "AI Job Screening"
 date: 2026-05-05T10:07:59.425Z
-modified_date: 2026-05-05T22:59:23.154Z
+modified_date: 2026-05-13T21:28:47.169Z
 tags: ["AI","Job Screening","Automation"]
 hero_image: "/hero/2026-05-05-ai-job-screening-adccfe.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Medical student investigates AI's role in trashing his job application."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to AI in Job Screening
@@ -57,4 +58,5 @@ The intersection of AI and job hunting is a complex and rapidly evolving field, 
 
 ## Updates
 
+- **2026-05-13** — DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border ([source](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/))
 - **2026-05-05** — Valve releases design files for its out-of-stock Steam Controller ([source](https://www.engadget.com/2165638/valve-releases-design-files-for-its-out-of-stock-steam-controller/))

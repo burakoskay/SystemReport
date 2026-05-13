@@ -1,15 +1,17 @@
 ---
 title: "Tesla Cybertruck Rust and Auto Industry Shifts"
 date: 2026-05-12T03:52:21.716Z
+modified_date: 2026-05-13T21:28:51.847Z
 tags: ["tesla-cybertruck","ev-rebates","giga-castings"]
 hero_image: "/hero/2026-05-12-tesla-cybertruck-rust-and-auto-industry-shifts-f76e9b.jpg"
 hero_image_credit_name: "Julio Muebles"
 hero_image_credit_url: "https://www.pexels.com/@julio-muebles-3330448"
 visual_keyword: "stainless-steel Cybertruck with visible rust spots and a giga-press machine in a factory"
 description: "Tesla's stainless-steel Cybertruck faces corrosion issues while EV rebates freeze and giga-casting tech reshapes manufacturing."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Tesla’s Cybertruck Is a Rust Magnet
 
@@ -38,3 +40,7 @@ The environmental angle is thorny. Giga-castings use cleaner aluminum alloys, bu
 ## What to Watch
 
 Three threads are converging. First, Tesla’s Cybertruck will likely get a software update in Q2 2025 to auto-apply protective coatings via its self-cleaning windshield tech—whether that’s feasible without a clear coat remains to be seen. Second, California’s EV rebate will reopen in mid-2025 if Congress allocates $750 million from the Inflation Reduction Act. Third, Ford and General Motors will announce in May 2025 whether they’ll adopt giga-casting or stick with modular assembly. These moves will determine if EVs can scale affordably—or if the future belongs to the few who can afford daily car washes.
+
+## Updates
+
+- **2026-05-13** — The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it. ([source](https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it))

@@ -1,15 +1,17 @@
 ---
 title: "Meta AI Arrives on WhatsApp with Private 'Incognito Chat'"
 date: 2026-05-13T18:09:56.685Z
+modified_date: 2026-05-13T21:29:05.729Z
 tags: ["Meta AI","WhatsApp","AI chatbot","private conversations"]
 hero_image: "/hero/2026-05-13-meta-ai-arrives-on-whatsapp-with-private-incognito-chat-49105b.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Meta AI on WhatsApp"
 description: "Meta brings AI chatbot to WhatsApp with end-to-end encryption, allowing private conversations."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Meta AI Launches on WhatsApp
@@ -64,3 +66,6 @@ The integration of Meta AI with WhatsApp has significant implications for users 
 
 However, the integration of Meta AI with WhatsApp also raises concerns about user data and privacy. As Meta continues to expand its AI capabilities, it will need to balance the need for data collection and analysis with the need to protect user privacy.
 
+## Updates
+
+- **2026-05-13** — WhatsApp now lets you have incognito conversations with Meta AI ([source](https://9to5mac.com/2026/05/13/whatsapp-now-lets-you-have-incognito-conversations-with-meta-ai/))

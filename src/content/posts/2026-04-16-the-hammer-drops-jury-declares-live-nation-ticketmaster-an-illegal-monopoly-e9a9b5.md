@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-05-12T18:04:30.677Z
+modified_date: 2026-05-13T21:28:54.162Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 16
+sources_count: 17
 author: "lena-volkov"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-05-13** — Fighting Trump will make or break Disney’s new CEO ([source](https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine))
 - **2026-05-12** — Bartender Pro makes the MacBook notch more useful with widgets, files, clipboard, more ([source](https://9to5mac.com/2026/05/12/bartender-pro-makes-the-macbook-notch-more-useful-with-widgets-files-clipboard-more/))
 - **2026-05-06** — Appearing productive in the workplace ([source](https://nooneshappy.com/article/appearing-productive-in-the-workplace/))
 - **2026-05-06** — Trump’s Team Wants Him to Accept an Iran Deal He’s Already Rejected ([source](https://www.wired.com/story/trumps-team-wants-him-to-accept-an-iran-deal-hes-already-rejected/))

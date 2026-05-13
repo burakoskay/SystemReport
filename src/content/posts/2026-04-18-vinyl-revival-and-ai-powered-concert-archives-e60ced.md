@@ -1,15 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
+modified_date: 2026-05-13T21:28:56.464Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Cleaning Vinyl Records for Clarity
@@ -27,3 +29,7 @@ The new iPhone app Gigs uses AI to turn old tickets, screenshots, and emails int
 ## Music Archives Evolution
 
 As technology advances, more innovative solutions emerge in music preservation and enhancement.
+
+## Updates
+
+- **2026-05-13** — Mid-week Android game and app deals: Wind Peaks, Age of Dynasties, Farm Invasion, more ([source](https://9to5toys.com/2026/05/13/mid-week-android-game-deals-wind-peaks/))

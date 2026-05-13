@@ -1,15 +1,16 @@
 ---
 title: "Microsoft's Windows Update Woes Continue"
 date: 2026-05-05T10:14:17.185Z
-modified_date: 2026-05-13T18:05:58.898Z
+modified_date: 2026-05-13T21:29:08.107Z
 tags: ["Microsoft","Windows Update","Infinite Reboot","Update Bugs"]
 hero_image: "/hero/2026-05-05-microsoft-s-windows-update-woes-continue-ac3a09.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Windows Update, Microsoft, Tech News"
 description: "Microsoft pauses Windows 11 update due to infinite reboot issue, struggles with update bugs"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 # System Report — Editorial Voice
@@ -60,4 +61,5 @@ Microsoft's ongoing struggles with update bugs are a reminder of the challenges 
 
 ## Updates
 
+- **2026-05-13** — NASA provides some details about Artemis III, but hard decisions remain ([source](https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/))
 - **2026-05-13** — Trump's Inner Circle Is Already Scrambling Over the 2028 Presidential Ticket ([source](https://www.wired.com/story/trump-inner-circle-2028-presidential-ticket/))

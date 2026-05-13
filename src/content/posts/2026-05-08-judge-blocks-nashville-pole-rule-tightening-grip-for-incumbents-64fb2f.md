@@ -1,15 +1,17 @@
 ---
 title: "Judge blocks Nashville pole rule, tightening grip for incumbents"
 date: 2026-05-08T03:43:50.785Z
+modified_date: 2026-05-13T21:28:49.525Z
 tags: ["broadband","regulation","fiber","pole-access"]
 hero_image: "/hero/2026-05-08-judge-blocks-nashville-pole-rule-tightening-grip-for-incumbents-64fb2f.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "city utility poles with fiber optic cables and legal documents"
 description: "A federal judge nullified Nashville's One Touch Make Ready ordinance, citing FCC preemption and raising new hurdles for Google Fiber's expansion."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 ## Court Decision and Immediate Impact
 
@@ -40,3 +42,7 @@ Google Fiber's statement that it is "reviewing the court ruling to understand it
 The next steps will hinge on whether NES files an official position and whether AT&T and Comcast file amended complaints adding NES as a required party. An appeal to the Sixth Circuit could also extend the legal battle. Meanwhile, the FCC is expected to issue further guidance on pole‑attachment rules, and any state‑level opt‑out filings could reshape the regulatory landscape. Stakeholders should monitor FCC rulemaking updates and any filings by the Metro Council seeking to revise the OTMR framework.
 
 ---
+
+## Updates
+
+- **2026-05-13** — AMD&#8217;s best CPU tech for gamers is coming to workstations too ([source](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache))
