@@ -1,16 +1,17 @@
 ---
 title: "Whistleblower Challenges Donut Lab's Solid-State Battery Claims"
 date: 2026-04-18T01:10:34.548Z
-modified_date: 2026-05-07T23:04:24.899Z
+modified_date: 2026-05-13T03:50:13.248Z
 tags: ["Donut Lab","solid-state battery","whistleblower complaint","Nordic Nano"]
 hero_image: "/hero/2026-04-18-whistleblower-complaint-against-donut-lab-raises-questions-about-solid-state-battery-claims-4ed79b.jpg"
 hero_image_credit_name: "mohamed abdelghaffar"
 hero_image_credit_url: "https://www.pexels.com/@moh-adbelghaffar"
 visual_keyword: "battery"
 description: "A criminal whistleblower complaint filed against Donut Lab alleges the company's solid-state battery claims are exaggerated, raising concerns about production capacity and technology readiness."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ The allegations against Donut Lab raise important questions about the company's 
 
 ## Updates
 
+- **2026-05-13** — Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare ([source](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare))
 - **2026-05-07** — Logitech announces two new keyboard cases for iPad ([source](https://9to5mac.com/2026/05/07/logitech-announces-two-new-keyboard-cases-for-ipad/))
 - **2026-04-29** — GitHub rushed to fix a critical vulnerability in less than six hours ([source](https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix))
 - **2026-04-25** — Researchers say we’re talking less than ever ([source](https://www.theverge.com/science/918753/researchers-talking-less))
