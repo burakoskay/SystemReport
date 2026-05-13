@@ -1,18 +1,20 @@
 ---
 title: "Netflix Ad Tier Hits 250M Users"
 date: 2026-05-13T21:38:10.811Z
+modified_date: 2026-05-13T23:09:09.725Z
 tags: ["netflix","ad-tier","assassins-creed","device-compatibility","streaming-industry"]
 hero_image: "/hero/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.jpg"
 hero_image_credit_name: "Anastasia Haritonov"
 hero_image_credit_url: "https://www.pexels.com/@anastasia-haritonov-898480"
 visual_keyword: "Netflix logo with Italian filming locations"
 description: "Netflix's ad-supported tier hits 250M users while Assassin's Creed TV series begins filming in Italy"
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.mp3"
 audio_bytes: 615907
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Netflix's ad-supported tier now has 250 million monthly users, a significant milestone for the streamer's advertising strategy. Meanwhile, the platform's new Assassin’s Creed TV series has begun filming in Italy with an expected 2027 release, and reports suggest potential device compatibility issues could affect 87 million devices this March.
 
@@ -46,3 +48,7 @@ What to watch:
 1. Monitor the ad tier's retention rates over the next quarter to assess long-term viability
 2. Track the Assassin’s Creed series' production progress through 2026 for potential release window updates
 3. Watch for official announcements about affected devices in early 2026
+
+## Updates
+
+- **2026-05-13** — Trump administration defends right to ban content moderation experts from US ([source](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research))

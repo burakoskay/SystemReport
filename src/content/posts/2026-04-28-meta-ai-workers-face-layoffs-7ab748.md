@@ -1,18 +1,19 @@
 ---
 title: "Meta AI Workers Face Layoffs"
 date: 2026-04-28T19:34:40.925Z
-modified_date: 2026-05-11T20:00:51.453Z
+modified_date: 2026-05-13T23:09:11.866Z
 tags: ["AI","Meta","Layoffs"]
 hero_image: "/hero/2026-04-28-meta-ai-workers-face-layoffs-7ab748.jpg"
 hero_image_credit_name: "Murry Lee"
 hero_image_credit_url: "https://www.pexels.com/@murry"
 visual_keyword: "AI Workers"
 description: "Over 700 jobs at risk in Ireland"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-04-28-meta-ai-workers-face-layoffs-7ab748.mp3"
 audio_bytes: 620923
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Meta's AI Workers
@@ -44,4 +45,5 @@ The future of AI development is likely to be shaped by the experiences of worker
 
 ## Updates
 
+- **2026-05-13** — YouTube is courting creators — and sponsors — with streaming shows ([source](https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront))
 - **2026-05-11** — MagSafe Monday: Clean up your nightstand with the NOCO XGrid XDP3 ([source](https://9to5mac.com/2026/05/11/noco-xgrid-xdp3/))

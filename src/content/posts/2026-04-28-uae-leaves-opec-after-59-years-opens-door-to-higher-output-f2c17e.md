@@ -1,19 +1,20 @@
 ---
 title: "UAE Leaves OPEC After 59 Years, Opens Door to Higher Output"
 date: 2026-04-28T19:36:14.989Z
-modified_date: 2026-05-13T21:28:44.811Z
+modified_date: 2026-05-13T23:09:05.444Z
 tags: ["uae","opec","oil markets"]
 hero_image: "/hero/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.jpg"
 hero_image_credit_name: "Shivansh  Sharma"
 hero_image_credit_url: "https://www.pexels.com/@sincegameon"
 visual_keyword: "UAE oil fields with OPEC logo fading"
 description: "The United Arab Emirates will quit OPEC on May 1, ending a 59‑year run and giving it freedom to boost oil production amid volatile markets."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.mp3"
 audio_bytes: 595009
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## UAE’s abrupt exit shakes a decades‑old alliance
@@ -43,4 +44,5 @@ The next few months will reveal whether the UAE’s departure reshapes the balan
 
 ## Updates
 
+- **2026-05-13** — This is what some of the world’s largest banks of malware look like stacked as hard drives ([source](https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/))
 - **2026-05-13** — This is what some the world’s largest banks of malware look like stacked as hard drives ([source](https://techcrunch.com/2026/05/13/this-is-what-some-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/))
