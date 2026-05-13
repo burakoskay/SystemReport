@@ -1,15 +1,17 @@
 ---
 title: "AMD Adds HDMI 2.1 Support for Linux"
 date: 2026-05-04T23:00:46.477Z
+modified_date: 2026-05-13T10:34:45.186Z
 tags: ["AMD","Linux","HDMI 2.1","Steam Machine"]
 hero_image: "/hero/2026-05-04-amd-adds-hdmi-2-1-support-for-linux-240385.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "HDMI 2.1"
 description: "AMD adds HDMI 2.1 support for Linux, benefiting Steam Machine users with higher frame rates and resolutions up to 8K at 60Hz."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## AMD Brings HDMI 2.1 to Linux
@@ -65,3 +67,7 @@ The addition of HDMI 2.1 support by AMD is not just a significant development fo
 As the demand for high-resolution content and faster refresh rates continues to grow, hardware manufacturers will need to adapt to meet these demands. The development of new video standards, such as HDMI 2.1, will play a critical role in this process.
 
 In conclusion, AMD's addition of HDMI 2.1 support for Linux is a significant step forward for the Linux community and the tech industry as a whole. It sets a new standard for video output on Linux systems and has implications for the development of new applications and use cases.
+
+## Updates
+
+- **2026-05-13** — Amazon&#8217;s Panos Panay addresses new Fire phone rumors ([source](https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer))

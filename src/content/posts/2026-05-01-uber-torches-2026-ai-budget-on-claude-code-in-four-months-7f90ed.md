@@ -1,16 +1,17 @@
 ---
 title: "Uber Torches 2026 AI Budget on Claude Code in Four Months"
 date: 2026-05-01T19:22:56.452Z
-modified_date: 2026-05-05T17:29:30.046Z
+modified_date: 2026-05-13T10:34:47.372Z
 tags: ["ai-spending","anthropic","claude-code","ai-assistants","data-center-investment"]
 hero_image: "/hero/2026-05-01-uber-torches-2026-ai-budget-on-claude-code-in-four-months-7f90ed.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "A futuristic cityscape with glowing data center towers and AI-themed holograms"
 description: "Uber spends its entire 2026 AI budget on Claude Code in four months as Anthropic accelerates data center expansion."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 Uber spent its entire 2026 AI budget on Claude Code in four months. The decision, reported by Hacker News with 324 points and 347 comments, has sparked debate about AI spending velocity and Anthropic’s growing influence. The company reportedly allocated $180 million for Claude Code integration across its engineering teams by July 2025.
@@ -43,4 +44,5 @@ The next six months will clarify where these forces collide. Watch for Anthropic
 
 ## Updates
 
+- **2026-05-13** — Sony's Xperia 1 VIII has bigger camera sensors and a new look ([source](https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/))
 - **2026-05-05** — Samsung Galaxy A37 review: A solid deal even in this economy ([source](https://www.engadget.com/2164208/samsung-galaxy-a37-5g-review/))

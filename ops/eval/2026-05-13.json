@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-05-13T07:01:45.182Z",
+  "generated_at": "2026-05-13T10:43:30.725Z",
   "window_days": 7,
-  "total_records": 3333,
+  "total_records": 3390,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 603,
-      "success": 472,
-      "success_rate": 0.7827529021558872,
-      "latency_p50": 3187,
+      "calls": 614,
+      "success": 479,
+      "success_rate": 0.7801302931596091,
+      "latency_p50": 3173,
       "latency_p95": 14543,
-      "response_chars_mean": 3085,
+      "response_chars_mean": 3097,
       "error_classes": {
-        "rate_limit": 117,
+        "rate_limit": 121,
         "permission": 1,
         "too_large": 3,
         "unknown": 10
       }
     },
     "revise:v2-800w": {
-      "calls": 167,
-      "success": 142,
-      "success_rate": 0.8502994011976048,
+      "calls": 172,
+      "success": 145,
+      "success_rate": 0.8430232558139535,
       "latency_p50": 1154,
       "latency_p95": 10147,
-      "response_chars_mean": 1692,
+      "response_chars_mean": 1684,
       "error_classes": {
-        "rate_limit": 25
+        "rate_limit": 27
       }
     },
     "lengthen:v1": {
-      "calls": 292,
-      "success": 248,
-      "success_rate": 0.8493150684931506,
-      "latency_p50": 2541,
+      "calls": 296,
+      "success": 252,
+      "success_rate": 0.8513513513513513,
+      "latency_p50": 2531,
       "latency_p95": 9815,
-      "response_chars_mean": 4847,
+      "response_chars_mean": 4850,
       "error_classes": {
         "rate_limit": 43,
         "unknown": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 29,
-      "success": 22,
-      "success_rate": 0.7586206896551724,
-      "latency_p50": 234,
+      "calls": 31,
+      "success": 23,
+      "success_rate": 0.7419354838709677,
+      "latency_p50": 269,
       "latency_p95": 3429,
-      "response_chars_mean": 62,
+      "response_chars_mean": 63,
       "error_classes": {
-        "rate_limit": 6,
+        "rate_limit": 7,
         "unknown": 1
       }
     }

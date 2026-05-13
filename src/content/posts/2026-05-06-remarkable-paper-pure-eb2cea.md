@@ -1,19 +1,20 @@
 ---
 title: "ReMarkable Paper Pure"
 date: 2026-05-06T14:26:28.023Z
-modified_date: 2026-05-06T21:15:40.845Z
+modified_date: 2026-05-13T10:34:43.060Z
 tags: ["ReMarkable Paper Pure","E-reader","Writing Device","Corporate Buyers"]
 hero_image: "/hero/2026-05-06-remarkable-paper-pure-eb2cea.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "ReMarkable Paper Pure"
 description: "ReMarkable's new entry-level slate prioritizes corporate buyers, but at what cost?"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-06-remarkable-paper-pure-eb2cea.mp3"
 audio_bytes: 576828
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the ReMarkable Paper Pure
@@ -59,4 +60,5 @@ The device's downstream implications also extend to the broader market. If the R
 
 ## Updates
 
+- **2026-05-13** — Data centers are coming for rural America ([source](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine))
 - **2026-05-06** — How David Sacks crashed and burned in the White House ([source](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review))
