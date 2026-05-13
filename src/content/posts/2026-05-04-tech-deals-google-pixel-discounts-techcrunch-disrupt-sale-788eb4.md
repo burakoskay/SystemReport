@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-05-12T18:04:28.573Z
+modified_date: 2026-05-13T06:51:55.122Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-05-13** — Naturepedic Promo Codes and Deals: 20% Off ([source](https://www.wired.com/story/naturepedic-promo-code/))
 - **2026-05-12** — Deals: 32GB M5 MacBook Pro $300 off, 48GB M5 Pro $300 off, iPad Air, Apple MagSafe Battery 40% off, more ([source](https://9to5mac.com/2026/05/12/deals-m5-macbook-pro-m5-pro-apple-magsafe-battery/))
 - **2026-05-09** — T-Mobile Promo Codes: 25% Off | May ([source](https://www.wired.com/story/t-mobile-business-promo-code/))
 - **2026-05-07** — Deals: AirPods, Apple MagSafe Battery 40% off, 512GB M5 MacBook Air $220 off, entry M5 Pro $250 off, Studio Display, more ([source](https://9to5mac.com/2026/05/07/deals-airpods-apple-magsafe-battery-m5-macbook-air/))
