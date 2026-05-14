@@ -1,19 +1,20 @@
 ---
 title: "Canvas cyberattack disrupts US schools' finals"
 date: 2026-05-08T23:04:47.009Z
-modified_date: 2026-05-14T14:26:10.242Z
+modified_date: 2026-05-14T21:16:05.886Z
 tags: ["cybersecurity","infrastructure","retrocomputing"]
 hero_image: "/hero/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "a server room with red alert lights and a vintage gaming console on a desk"
 description: "Schools scramble after Canvas outage, Let’s Encrypt stops issuing certs, and a retro CPU analysis highlights lasting security challenges."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.mp3"
 audio_bytes: 541511
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Canvas outage stalls finals
@@ -54,4 +55,5 @@ Canvas’s parent company, Instructure, is expected to release a post‑mortem w
 
 ## Updates
 
+- **2026-05-14** — The European Union backs Italy's right to make Meta pay for news ([source](https://www.niemanlab.org/2026/05/the-eu-backs-italys-right-to-make-meta-pay-for-news/))
 - **2026-05-14** — iPhone thieves can get up to $800 more if they snatch unlocked devices ([source](https://9to5mac.com/2026/05/14/iphone-thieves-can-get-up-to-800-more-if-they-snatch-unlocked-devices/))

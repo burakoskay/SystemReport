@@ -1,19 +1,20 @@
 ---
 title: "Apple CEO Shift"
 date: 2026-04-21T06:05:51.664Z
-modified_date: 2026-05-09T20:52:02.421Z
+modified_date: 2026-05-14T21:16:03.506Z
 tags: ["apple","ceo transition","john ternus"]
 hero_image: "/hero/2026-04-21-apple-ceo-shift-69091b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Transition"
 description: "Tim Cook steps down, John Ternus takes over as Apple's eighth CEO. What it means for the company's future."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-21-apple-ceo-shift-69091b.mp3"
 audio_bytes: 25934846
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ In the immediate future, investors and followers of Apple will be watching for a
 
 ## Updates
 
+- **2026-05-14** — Anthropic forms $200M partnership with the Gates Foundation ([source](https://www.anthropic.com/news/gates-foundation-partnership))
 - **2026-05-09** — Indie App Spotlight: The ‘Before You’ bundle offers four effective screen time apps ([source](https://9to5mac.com/2026/05/09/indie-app-spotlight-the-before-you-bundle-offers-four-effective-screen-time-apps/))
 - **2026-05-08** — Ask HN: We just had an actual UUID v4 collision... ([source](https://news.ycombinator.com/item?id=48060054))
 - **2026-04-24** — XChat, the standalone app for messaging on X, is available on iOS now ([source](https://www.engadget.com/apps/xchat-the-standalone-app-for-messaging-on-x-is-available-on-ios-now-214826886.html?src=rss))

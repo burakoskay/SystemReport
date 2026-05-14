@@ -1,16 +1,17 @@
 ---
 title: "When Tech Meets Art: The Delight and Frustration of Innovative Gadgets"
 date: 2026-04-18T01:05:09.610Z
-modified_date: 2026-04-18T20:28:25.468Z
+modified_date: 2026-05-14T21:15:54.005Z
 tags: ["tech","art","innovation","gadgets","ai"]
 hero_image: "/hero/2026-04-18-when-tech-meets-art-the-delight-and-frustration-of-innovative-gadgets-4c1ecb.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic flower"
 description: "Exploring the charming yet frustrating world of gadgets that blend tech and art, from AI poetry cameras to kinetic sculptures"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 The intersection of technology and art has given birth to some fascinating, albeit sometimes frustrating, innovations. Take the Poetry Camera, for instance, a charming gadget that uses AI to generate poems instead of taking pictures. With its delightful design and color-matched woven strap, it's an object that exudes playfulness and lo-fi charm. However, its actual output – AI-generated poems printed on thermal receipt paper – often falls short of expectations, leaving the user feeling more frustrated than inspired.
@@ -23,4 +24,5 @@ The intersection of technology and art has given birth to some fascinating, albe
 
 ## Updates
 
+- **2026-05-14** — Five Apple Wallet features that helped replace my physical wallet [Video] ([source](https://9to5mac.com/2026/05/14/five-apple-wallet-features-that-helped-replace-my-physical-wallet-video/))
 - **2026-04-18** — Cheap stuff that doesn’t suck, take 3 ([source](https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers))

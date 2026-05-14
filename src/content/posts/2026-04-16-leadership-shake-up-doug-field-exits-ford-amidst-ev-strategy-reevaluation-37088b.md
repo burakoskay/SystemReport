@@ -1,15 +1,17 @@
 ---
 title: "Leadership Shake-Up: Doug Field Exits Ford Amidst EV Strategy"
 date: 2026-04-16T05:28:05.529Z
+modified_date: 2026-05-14T21:15:32.649Z
 tags: ["ford","electric vehicles","automotive tech","executive changes","software development"]
 hero_image: "/hero/2026-04-16-leadership-shake-up-doug-field-exits-ford-amidst-ev-strategy-reevaluation-37088b.jpg"
 hero_image_credit_name: "Jordan Rushton"
 hero_image_credit_url: "https://www.pexels.com/@jordanr93"
 visual_keyword: "Ford EV executive transition"
 description: "Doug Field, a veteran of Apple and Tesla, is departing Ford, signaling a significant leadership shift as the automaker navigates its multi-billion dollar electric vehicle bet."
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 Ford's ambitious plunge into electric vehicles and advanced software development is facing a pivotal moment, marked by the unexpected departure of its chief architect in these critical areas, Doug Field. The seasoned executive, known for his impactful stints at tech giants Apple and pioneering EV leader Tesla, is stepping down, leaving a significant void at the heart of Ford's future-facing initiatives.
 
@@ -20,3 +22,7 @@ The announcement comes at a challenging juncture for Ford's EV division. Less th
 In the wake of Field's exit, Ford is moving swiftly to realign its leadership. Alan Clarke, another former Tesla engineer who currently heads Ford's innovative California-based 'skunkworks' lab, is set to receive a promotion. Clarke will assume the role of Vice President of Advanced Development Projects, and crucially, will continue to lead the development of Ford's Universal Electric Vehicle (UEV) Platform. This indicates a potential doubling down on foundational, scalable EV architecture as a key path forward.
 
 Field's departure, alongside Clarke's elevation, suggests a strategic re-evaluation within Ford's EV and software teams. While the reasons for Field's exit remain undisclosed, the move undoubtedly signals a new chapter for the Blue Oval's electric dreams. The transition places increased emphasis on the UEV Platform and the team under Clarke, highlighting Ford's resolve to innovate and adapt in the volatile, yet inevitable, shift towards electrification.
+
+## Updates
+
+- **2026-05-14** — Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses ([source](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer))

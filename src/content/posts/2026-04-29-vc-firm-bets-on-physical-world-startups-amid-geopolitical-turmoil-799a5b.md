@@ -1,15 +1,16 @@
 ---
 title: "VC Firm Bets on Physical World Startups Amid Geopolitical Turmoil"
 date: 2026-04-29T03:39:29.980Z
-modified_date: 2026-05-11T17:59:21.028Z
+modified_date: 2026-05-14T21:15:35.103Z
 tags: ["venture capital","geopolitics","startup acquisitions"]
 hero_image: "/hero/2026-04-29-vc-firm-bets-on-physical-world-startups-amid-geopolitical-turmoil-799a5b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "venture capital"
 description: "Kompas VC invests in startups focused on physical world as geopolitical tensions rise. Founder of Scholly sues Sallie Mae."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 
@@ -47,4 +48,5 @@ The challenges faced by venture investors today are not unprecedented. In the pa
 
 ## Updates
 
+- **2026-05-14** — Behold, the Elon Musk jackass trophy ([source](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue))
 - **2026-05-11** — F1 set for another engine tweak in 2027, and what's this about V8s? ([source](https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/))

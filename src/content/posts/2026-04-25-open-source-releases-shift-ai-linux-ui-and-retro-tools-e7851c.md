@@ -1,19 +1,20 @@
 ---
 title: "Open-source releases shift AI, Linux UI, and retro tools"
 date: 2026-04-25T20:48:46.338Z
-modified_date: 2026-05-13T21:29:01.124Z
+modified_date: 2026-05-14T21:15:51.607Z
 tags: ["open-source","ai","linux","developer-tools"]
 hero_image: "/hero/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "developer workstation with code editors and open-source project logos"
 description: "Five recent open-source projects—memory layer, Wayland compositor, AI benchmark, C64 music files, and Turbo Vision—hit Hacker News, drawing developer attention."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.mp3"
 audio_bytes: 618624
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Developers will monitor how the memory‑layer library integrates with emerging 
 
 ## Updates
 
+- **2026-05-14** — The Esports World Cup will reportedly move to Paris from Riyadh ([source](https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/))
 - **2026-05-13** — The Talos Principle 3 will wrap up the series ([source](https://www.engadget.com/2172314/the-talos-principle-3-will-wrap-up-the-series/))
 - **2026-05-07** — Could Lovable’s automatic 10% pay raise be the cure for toxic cultures? ([source](https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/))
 - **2026-04-26** — Trump has terminated several members of the independent National Science Board ([source](https://www.engadget.com/science/trump-has-terminated-several-members-of-the-independent-national-science-board-170405205.html?src=rss))

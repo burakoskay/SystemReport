@@ -1,18 +1,20 @@
 ---
 title: "US banks face 36‑hour cyber‑incident rule amid tighter reporting"
 date: 2026-05-10T21:01:21.478Z
+modified_date: 2026-05-14T21:15:25.446Z
 tags: ["cybersecurity","regulation","incident reporting"]
 hero_image: "/hero/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "conference room with security analysts reviewing alert dashboards"
 description: "Regulators mandate US banks report significant cyber incidents within 36 hours, echoing tighter reporting moves at the ICC and Microsoft’s security overhaul."
-sources_count: 9
-author: "priya-raman"
+sources_count: 10
 audio_path: "/audio/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.mp3"
 audio_bytes: 569723
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## New 36‑hour reporting rule forces banks to act fast
 The Federal Deposit Insurance Corporation, the Federal Reserve Board, and the Office of the Comptroller of the Currency approved a rule that obliges banking organizations to notify their primary regulator of any "significant" cybersecurity incident within 36 hours of discovery. The rule defines significance as an event that could materially affect a bank’s operations, its ability to deliver products, or the stability of the U.S. financial sector. It also requires banks to alert customers as soon as possible if the incident may impact them for four hours or more.
@@ -36,3 +38,7 @@ Industry observers expect the 36‑hour rule to trigger a wave of tooling invest
 
 ## What to watch
 Track the first quarter of 2022 for banks’ compliance reports and any enforcement actions from the FDIC, Fed, or OCC. Monitor Microsoft’s Secure Future Initiative rollout for concrete metrics on patch cadence and supply‑chain hardening. Keep an eye on the ICC’s cloud migration roadmap, as its progress will reveal how a high‑profile legal body adapts its cyber‑defense posture. Finally, watch for industry commentary on whether Chekhov‑style incident narratives become a formal requirement in regulatory guidance.
+
+## Updates
+
+- **2026-05-14** — We Now Know How Many People the CDC Is Monitoring for Hantavirus ([source](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/))

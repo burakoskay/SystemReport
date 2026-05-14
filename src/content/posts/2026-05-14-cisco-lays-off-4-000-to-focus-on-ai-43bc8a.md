@@ -1,14 +1,16 @@
 ---
 title: "Cisco Lays Off 4,000 to Focus on AI"
 date: 2026-05-14T14:26:44.918Z
+modified_date: 2026-05-14T21:15:30.253Z
 tags: ["Cisco","AI","Layoffs","Tech Industry"]
 hero_image: "/hero/2026-05-14-cisco-lays-off-4-000-to-focus-on-ai-43bc8a.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "Cisco"
 description: "Cisco cuts 4,000 jobs to invest in AI, reports record revenue"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Cisco's Restructuring Effort
 Cisco Systems is laying off 4,000 employees to focus on artificial intelligence and other key technologies. The company reported record quarterly revenue, with CEO Chuck Robbins highlighting growth and investment in AI.
@@ -28,3 +30,7 @@ Cisco has undergone significant restructuring efforts in the past, with a focus 
 The AI market is expected to continue growing, with estimates suggesting that it will reach $190 billion by 2025. The adoption of AI technologies is becoming increasingly widespread, with companies across various industries investing in AI-powered solutions. Cisco's focus on AI is well-timed, as the company is positioned to capitalize on the growing demand for AI technologies.
 ## Competing Companies
 Cisco faces significant competition in the AI market, with companies like Google, Amazon, and Microsoft investing heavily in AI research and development. However, Cisco's existing customer base and expertise in networking and cybersecurity provide a strong foundation for the company's AI initiatives. By leveraging its strengths and investing in AI, Cisco can differentiate itself from competitors and establish a leadership position in the AI market.
+
+## Updates
+
+- **2026-05-14** — Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting ([source](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/))

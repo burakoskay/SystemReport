@@ -1,19 +1,20 @@
 ---
 title: "Google Cracks Apple's AirDrop with Cross-Platform File Sharing"
 date: 2026-04-30T03:39:51.712Z
-modified_date: 2026-05-12T21:24:13.392Z
+modified_date: 2026-05-14T21:16:01.159Z
 tags: ["Google","Apple","Cross-Platform","File Sharing"]
 hero_image: "/hero/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Google Pixel 10"
 description: "Google's Quick Share feature allows seamless file transfers between Android and iOS devices, rivaling Apple's AirDrop."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.mp3"
 audio_bytes: 576619
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,5 +73,6 @@ The long-term implications of Quick Share are significant. As more devices becom
 
 ## Updates
 
+- **2026-05-14** — Removing the modem and GPS from my 2024 RAV4 hybrid ([source](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/))
 - **2026-05-12** — PSA: Spotify confirms ongoing outage [Updated] ([source](https://9to5mac.com/2026/05/12/psa-spotify-confirms-ongoing-outage/))
 - **2026-05-08** — Sony&#8217;s PS5 sales plummet amid price rises and a memory crisis ([source](https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes))

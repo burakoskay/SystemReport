@@ -1,18 +1,20 @@
 ---
 title: "Atlantic Current Risks Shut Down"
 date: 2026-05-10T17:03:35.667Z
+modified_date: 2026-05-14T21:15:49.263Z
 tags: ["climate change","ocean currents","environmental science"]
 hero_image: "/hero/2026-05-10-atlantic-current-risks-shut-down-aa7733.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "ocean"
 description: "Scientists warn Atlantic current at risk of shutting down due to climate change. This could have severe environmental and economic impacts."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-10-atlantic-current-risks-shut-down-aa7733.mp3"
 audio_bytes: 564080
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Atlantic Current Risks Shut Down
@@ -69,3 +71,6 @@ The ongoing research and monitoring of the AMOC will provide critical insights i
 
 In the face of this potential crisis, international cooperation and collective action are essential. The global community must come together to address the root causes of climate change and prepare for the potential impacts of an AMOC shutdown.
 
+## Updates
+
+- **2026-05-14** — Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny ([source](https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/))
