@@ -1,15 +1,17 @@
 ---
 title: "Office gear gets subtle upgrades, from chairs to Kindle"
 date: 2026-04-29T10:17:32.062Z
+modified_date: 2026-05-14T18:02:37.709Z
 tags: ["office","hardware","tech","updates"]
 hero_image: "/hero/2026-04-29-office-gear-gets-subtle-upgrades-from-chairs-to-kindle-f16cbc.jpg"
 hero_image_credit_name: "Alpha En"
 hero_image_credit_url: "https://www.pexels.com/@alphaen"
 visual_keyword: "modern office setup with ergonomic chair, earbuds, smart lighting, and e-reader"
 description: "New Vari Align chair, Galaxy Buds 4 stability patch, Philips Hue SpatialAware lighting, and Kindle dark mode roll out, reshaping the office tech mix."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Subtle upgrades reshape the office tech stack
 The latest hardware tweaks hit the desk, the ear, the wall, and the page. Each change nudges the daily workflow toward a tighter loop.
@@ -38,3 +40,7 @@ The update also brings Smart Shapes to the Scribe’s notebook interface. A tool
 
 ## What to watch
 Watch how quickly the Galaxy Buds stability patch expands beyond the initial regions; a broader rollout will test Samsung’s firmware pipeline. Track adoption of Philips Hue SpatialAware as developers integrate the mode into third‑party automations. Monitor whether the Vari Align Chair gains traction in enterprises that prioritize cost‑effective ergonomics. Finally, see if Amazon extends dark mode and Smart Shapes to its broader Kindle line, a move that could pressure rivals to upgrade their e‑ink UI features.
+
+## Updates
+
+- **2026-05-14** — Netflix is building an AI animation studio ([source](https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator))

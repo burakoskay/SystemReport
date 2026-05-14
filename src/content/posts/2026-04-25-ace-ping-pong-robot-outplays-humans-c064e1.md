@@ -1,19 +1,20 @@
 ---
 title: "Ace Ping-Pong Robot Outplays Humans"
 date: 2026-04-25T20:56:26.756Z
-modified_date: 2026-04-29T19:43:43.068Z
+modified_date: 2026-05-14T18:02:29.010Z
 tags: ["robotics","aerospace","biotech","tech-innovation"]
 hero_image: "/hero/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.jpg"
 hero_image_credit_name: "dp singh Bhullar"
 hero_image_credit_url: "https://www.pexels.com/@dpsinghbhullar"
 visual_keyword: "robotic arm playing ping-pong against a human"
 description: "Ace, a ping-pong robot with advanced tracking, joins a landscape of orbital interceptors and regulatory shifts in biotech."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.mp3"
 audio_bytes: 599398
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -43,5 +44,6 @@ The bigger question is how these systems will cascade into daily life. When robo
 
 ## Updates
 
+- **2026-05-14** — Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 ([source](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/))
 - **2026-04-29** — Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained ([source](https://read.thecoder.cafe/p/linux-broke-postgresql))
 - **2026-04-28** — James Comey indicted over Instagram seashell photo that allegedly threatened Trump ([source](https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump))

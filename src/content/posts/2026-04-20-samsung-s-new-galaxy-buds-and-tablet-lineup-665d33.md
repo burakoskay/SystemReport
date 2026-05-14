@@ -1,16 +1,17 @@
 ---
 title: "Samsung's New Galaxy Buds and Tablet Lineup"
 date: 2026-04-20T20:42:51.471Z
-modified_date: 2026-05-12T23:06:16.308Z
+modified_date: 2026-05-14T18:02:50.699Z
 tags: ["samsung","galaxy buds","tablet"]
 hero_image: "/hero/2026-04-20-samsung-s-new-galaxy-buds-and-tablet-lineup-665d33.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Samsung Galaxy Buds and Tablet"
 description: "Samsung is working on new Galaxy Buds with an open-ear design and a budget-friendly tablet, the Galaxy Tab A11+ Kids Edition."
-sources_count: 11
+sources_count: 12
 author: "priya-raman"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ In the meantime, consumers can look forward to the release of the Galaxy Tab S11
 
 ## Updates
 
+- **2026-05-14** — Today’s Android game and app deals: Subnautica Below Zero, Kingdom Rush 5, Iron Marines 2, more ([source](https://9to5toys.com/2026/05/14/todays-highlight-android-app-price-drops/))
 - **2026-05-12** — Hands-on: CUKTECH 30 Ultra delivers 300W charging, real-time power monitoring, more ([source](https://9to5mac.com/2026/05/12/hands-on-cuktech-30-ultra-delivers-300w-charging-real-time-power-monitoring-more/))
 - **2026-05-12** — Leak shows Android 17 with custom color picker for Material You, preset variants, blur [Gallery] ([source](https://9to5google.com/2026/05/12/android-17-material-color-picker-blur-leak/))
 - **2026-05-05** — Samsung is discounting a ton of Galaxy accessories including cases, chargers, more ([source](https://9to5google.com/2026/05/05/samsung-galaxy-cases-accessories-discount/))

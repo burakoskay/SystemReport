@@ -1,17 +1,19 @@
 ---
 title: "Google Unveils $99 Fitbit Air and Rebrands Health App"
 date: 2026-05-07T14:32:21.490Z
+modified_date: 2026-05-14T18:02:52.829Z
 tags: ["Google","Fitbit","Wearable Technology"]
 hero_image: "/hero/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.jpg"
 hero_image_credit_name: "Burst"
 hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "Fitbit Air"
 description: "Google launches $99 screen-less Fitbit Air and rebrands Google Fit to Google Health, streamlining health and fitness tracking."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.mp3"
 audio_bytes: 594173
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google Consolidates Health and Fitness Tracking
@@ -54,3 +56,6 @@ As Google refines its health and fitness tracking ecosystem, users should monito
 
 Looking ahead, Google's focus on health and fitness tracking is likely to continue. With the Fitbit Air and Google Health app, the company is well-positioned to make a significant impact in the wearable technology market. As the market continues to grow and evolve, Google's commitment to innovation and user experience will be essential in driving its success. By monitoring the development of the Google Health app and the adoption of the Fitbit Air, users can gain a better understanding of the future of health and fitness tracking.
 
+## Updates
+
+- **2026-05-14** — Google’s Fitbit Air is super comfortable, but its AI coach is already hallucinating ([source](https://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/))

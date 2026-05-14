@@ -1,18 +1,20 @@
 ---
 title: "Smeg Mixer Review"
 date: 2026-05-06T10:23:46.769Z
+modified_date: 2026-05-14T18:02:39.874Z
 tags: ["Smeg Forte","Stand Mixer","Kitchen Appliances"]
 hero_image: "/hero/2026-05-06-smeg-mixer-review-2c1d09.jpg"
 hero_image_credit_name: "Max Vakhtbovych"
 hero_image_credit_url: "https://www.pexels.com/@artbovich"
 visual_keyword: "Smeg"
 description: "Smeg's Forte stand mixer has power but mixed results"
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-06-smeg-mixer-review-2c1d09.mp3"
 audio_bytes: 591248
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Smeg Forte
 Smeg's new Forte stand mixer brings a powerful punch to the kitchen, but its performance isn't as polished as its design. With a focus on retro looks, the Forte packs some serious power, but how does it hold up in real-world use?
@@ -34,3 +36,7 @@ In terms of design, the Smeg Forte stand mixer features a sleek and sturdy const
 ## Downstream Implications
 The release of the Smeg Forte stand mixer has significant implications for the kitchen appliance market, as it offers a new level of power and versatility to home cooks. The mixer's high-quality design and construction also make it a desirable addition to any kitchen, which could drive sales and revenue for Smeg. Additionally, the mixer's compatibility with a range of attachments and accessories makes it a valuable investment for serious home cooks, who can use it to prepare a wide range of dishes and recipes.
 The promo codes and deals offered by 1Password, Bose, and Vivid Seats also have significant implications for consumers, as they provide opportunities to save money and get the most out of their purchases. By taking advantage of these deals, consumers can upgrade their tech, score tickets to sold-out events, and enjoy a range of other benefits and discounts.
+
+## Updates
+
+- **2026-05-14** — The Beats Solo 4 have returned to their best price of the year ([source](https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale))

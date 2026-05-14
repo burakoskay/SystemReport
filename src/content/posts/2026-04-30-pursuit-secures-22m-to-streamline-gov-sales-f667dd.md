@@ -1,14 +1,16 @@
 ---
 title: "Pursuit Secures $22M to Streamline Gov Sales"
 date: 2026-04-30T10:14:17.698Z
+modified_date: 2026-05-14T18:02:42.057Z
 tags: ["gov tech","government technology","Pursuit"]
 hero_image: "/hero/2026-04-30-pursuit-secures-22m-to-streamline-gov-sales-f667dd.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "gov tech"
 description: "Pursuit, backed by Bill Gurley and Jack Altman, raises $22M Series A led by OpenGov co-founder Mike Rosengarten to help companies sell to government."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Pursuit Lands $22M for Gov Sales Push
@@ -61,3 +63,6 @@ Pursuit's use of data analytics and machine learning is critical to its platform
 
 As the gov tech space continues to evolve, Pursuit is well-positioned to play a significant role. With its platform, the company is helping businesses navigate the complex government sales landscape, and its success could have significant implications for both businesses and government agencies.
 
+## Updates
+
+- **2026-05-14** — Americans really don't want AI data centers close to their homes ([source](https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/))
