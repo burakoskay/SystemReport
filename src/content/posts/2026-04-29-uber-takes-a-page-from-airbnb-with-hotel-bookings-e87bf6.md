@@ -1,16 +1,17 @@
 ---
 title: "Uber Takes a Page from Airbnb with Hotel Bookings"
 date: 2026-04-29T19:44:18.726Z
-modified_date: 2026-04-30T14:08:17.670Z
+modified_date: 2026-05-14T10:24:29.966Z
 tags: ["Uber","Hotel Bookings","Travel Industry"]
 hero_image: "/hero/2026-04-29-uber-takes-a-page-from-airbnb-with-hotel-bookings-e87bf6.jpg"
 hero_image_credit_name: "SHOX ART"
 hero_image_credit_url: "https://www.pexels.com/@shox"
 visual_keyword: "Uber app"
 description: "Uber expands into hotel bookings, leveraging AI to offer users a new way to plan their trips. The move marks a significant shift in the company's business model."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -84,4 +85,5 @@ As Uber continues to grow and expand its services, it's likely that it will face
 
 ## Updates
 
+- **2026-05-14** — Your iPhone Gets Stolen. Then the Hacking Begins ([source](https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/))
 - **2026-04-30** — Samsung says the RAM shortage could get even worse next year ([source](https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027))
