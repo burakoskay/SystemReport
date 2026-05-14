@@ -1,14 +1,16 @@
 ---
 title: "Europe ditches US software for sovereign tech"
 date: 2026-04-28T03:45:22.840Z
+modified_date: 2026-05-14T06:49:48.249Z
 tags: ["European tech","sovereign tech","US tech providers"]
 hero_image: "/hero/2026-04-28-europe-ditches-us-software-for-sovereign-tech-94c8f0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "European tech"
 description: "European governments seek to reduce dependence on American tech providers"
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## A Shift Towards Sovereign Tech
@@ -49,3 +51,6 @@ The next step for European governments will be to develop and implement effectiv
 
 As European governments continue to invest in sovereign tech, they will need to address several challenges, including the need for significant investment, the risk of protectionism, and the potential for trade tensions. However, if successful, this shift towards sovereign tech could create a more diverse and resilient global tech landscape. The EU's efforts to promote technological sovereignty may also inspire other regions to follow suit, leading to a more multipolar world.
 
+## Updates
+
+- **2026-05-14** — We-Vibe Discount Codes and Deals: Up to 60% Off ([source](https://www.wired.com/story/we-vibe-discount-code/))
