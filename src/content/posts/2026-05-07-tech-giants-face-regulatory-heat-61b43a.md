@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Face Regulatory Heat"
 date: 2026-05-07T10:29:37.180Z
+modified_date: 2026-05-14T14:25:52.927Z
 tags: ["tech giants","regulatory challenges","digital economy"]
 hero_image: "/hero/2026-05-07-tech-giants-face-regulatory-heat-61b43a.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "tech giants"
 description: "UK competition rules must be updated for the digital age"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 # Introduction to the Digital Landscape
@@ -53,3 +55,6 @@ The future of mobility is becoming less car-centric, but the autobahn in Germany
 
 The UK's regulatory update will also have implications for the development of new technologies. The creation of a new competition unit and the strengthening of outdated laws will provide a framework for regulators to ensure that businesses are competing fairly and that consumers are protected.
 
+## Updates
+
+- **2026-05-14** — The Razr Fold is stuck in the middle ([source](https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Trends to Watch: Innovative Gadgets and Accessories"
 date: 2026-04-18T01:04:47.608Z
-modified_date: 2026-05-13T18:06:24.242Z
+modified_date: 2026-05-14T14:25:57.256Z
 tags: ["tech trends","gadgets","innovation"]
 hero_image: "/hero/2026-04-18-tech-trends-to-watch-innovative-gadgets-and-accessories-1e4da2.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "colorful smartphone accessories"
 description: "Discover the latest tech must-haves, from portable speakers to MagSafe accessories"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -20,6 +21,7 @@ As we dive into the latest tech trends, it's clear that innovation is at an all-
 
 ## Updates
 
+- **2026-05-14** — I’m obsessed with Forza Horizon 6, and I’ve barely even raced ([source](https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc))
 - **2026-05-13** — Deals: Galaxy S26 Ultra up to $435 off, Galaxy Z Flip 7 $400 off, Nest Doorbell nearly $100 off, chargers, more ([source](https://9to5google.com/2026/05/13/deals-galaxy-s26-ultra-z-flip-7-400-off-nest-doorbell/))
 - **2026-05-12** — Threads users are pissed they can't block Meta's new AI chatbot ([source](https://www.engadget.com/2171113/threads-users-are-pissed-they-cant-block-metas-new-ai-chatbot/))
 - **2026-05-05** — Game Pass additions for May include Subnautica 2 and Forza Horizon 6 ([source](https://www.engadget.com/2165109/game-pass-additons-for-may-include-subnautica-2-and-forza-horizon-6/))

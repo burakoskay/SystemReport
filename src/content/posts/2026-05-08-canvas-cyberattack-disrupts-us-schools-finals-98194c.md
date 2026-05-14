@@ -1,18 +1,20 @@
 ---
 title: "Canvas cyberattack disrupts US schools' finals"
 date: 2026-05-08T23:04:47.009Z
+modified_date: 2026-05-14T14:26:10.242Z
 tags: ["cybersecurity","infrastructure","retrocomputing"]
 hero_image: "/hero/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "a server room with red alert lights and a vintage gaming console on a desk"
 description: "Schools scramble after Canvas outage, Let’s Encrypt stops issuing certs, and a retro CPU analysis highlights lasting security challenges."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.mp3"
 audio_bytes: 541511
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Canvas outage stalls finals
 
@@ -50,3 +52,6 @@ For institutions, the immediate lesson is to diversify authentication and commun
 
 Canvas’s parent company, Instructure, is expected to release a post‑mortem within the next two weeks; the findings will likely shape future SaaS security contracts for education. Let’s Encrypt will post an incident report and a timeline for resuming issuance; monitoring the status page will indicate when the web’s TLS supply chain returns to normal. Finally, the retro‑computing community plans a series of webinars on accurate PC Engine emulation, which could surface new tools for low‑power CPU verification. Tracking these developments will reveal whether the industry translates these disruptions into lasting resilience measures.
 
+## Updates
+
+- **2026-05-14** — iPhone thieves can get up to $800 more if they snatch unlocked devices ([source](https://9to5mac.com/2026/05/14/iphone-thieves-can-get-up-to-800-more-if-they-snatch-unlocked-devices/))
