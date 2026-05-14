@@ -1,19 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
-modified_date: 2026-05-12T18:04:09.695Z
+modified_date: 2026-05-14T23:01:44.335Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 
 ## Updates
 
+- **2026-05-14** — Razer updates the Blade 18 with new chips, a specced-out model costs $7,000 ([source](https://www.engadget.com/2173332/razer-updates-the-blade-18-with-new-chips-a-specced-out-model-costs-7000/))
 - **2026-05-12** — George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing ([source](https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard))
 - **2026-04-30** — Salesforce is crowdsourcing its AI roadmap — with customers ([source](https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/))
 - **2026-04-28** — DJI’s new Mic Mini 2 adds colorful covers to help them blend in ([source](https://www.theverge.com/tech/919553/dji-mic-mini-2-wireless-microphone-transmitter-magnetic-cover))

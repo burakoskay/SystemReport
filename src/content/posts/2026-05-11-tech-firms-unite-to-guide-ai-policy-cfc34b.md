@@ -1,15 +1,17 @@
 ---
 title: "Tech Firms Unite to Guide AI Policy"
 date: 2026-05-11T20:04:36.847Z
+modified_date: 2026-05-14T23:01:46.793Z
 tags: ["AI","Tech","Google","Nvidia","Open Loop","Policy","Emerging Technologies","Rapid Advancement"]
 hero_image: "/hero/2026-05-11-tech-firms-unite-to-guide-ai-policy-cfc34b.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Meta, Facebook, and others launch Open Loop to develop forward-looking policies around AI, as the technology raises concerns around the world."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 # System Report — Editorial Voice
 
@@ -105,3 +107,7 @@ The launch of Open Loop marks an important step in the development of forward-lo
 - A.I. note takers are making lawyers nervous
 - How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?
 - OpenLoop: Facebook and Others Guiding Policy for AI
+
+## Updates
+
+- **2026-05-14** — 9to5Mac Daily: May 14, 2026 – AI on the App Store, more ([source](https://9to5mac.com/2026/05/14/daily-may-14-2026/))

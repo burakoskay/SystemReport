@@ -1,15 +1,17 @@
 ---
 title: "Programming in the AI Age: Language Wars and Ethical Gaps"
 date: 2026-05-12T03:55:01.264Z
+modified_date: 2026-05-14T23:01:41.831Z
 tags: ["ai-ethics","language-design","memory-safety"]
 hero_image: "/hero/2026-05-12-programming-in-the-ai-age-language-wars-and-ethical-gaps-c258a2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "binary code flowing through neural network connections"
 description: "Python's future, memory-safe Java tools, and AI model architecture shifts collide with corporate accountability gaps."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 ## AI Code Tools Force a Technical Reckoning
 
@@ -42,3 +44,7 @@ This pattern repeats across tech firms. A Stanford study found 78% of AI ethics 
 ## What to Watch Next
 
 The Python community will vote on PEP 722 next month, which could enable AI-assisted code generation in the standard library. Mamba Studio plans to open-source TypedMemory's security verification module by Q4. Interfaze's first patent filing will shed light on their interaction modeling math. For ethical accountability, watch the EU AI Act negotiations - the final draft may force transparency requirements for corporate AI leadership decisions.
+
+## Updates
+
+- **2026-05-14** — Metroid Prime 4: Beyond got its first big discount ([source](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale))
