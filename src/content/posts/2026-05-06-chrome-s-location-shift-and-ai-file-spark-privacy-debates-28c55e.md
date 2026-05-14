@@ -1,16 +1,17 @@
 ---
 title: "Chrome's Location Shift and AI File Spark Privacy Debates"
 date: 2026-05-06T17:55:52.662Z
-modified_date: 2026-05-11T15:21:30.226Z
+modified_date: 2026-05-14T03:49:43.577Z
 tags: ["privacy","chrome","apple","online safety act","ai"]
 hero_image: "/hero/2026-05-06-chrome-s-location-shift-and-ai-file-spark-privacy-debates-28c55e.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "split screen showing chrome settings menu and privacy shield icon on mobile devices"
 description: "Chrome introduces approximate location sharing on Android, raises privacy concerns over AI downloads, while Pornhub adjusts UK access for Apple users."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Google Chrome has introduced a new privacy feature for Android users, allowing them to share approximate rather than precise location data with websites. The change, buried in Chrome's settings, aligns with broader industry trends toward location data minimization but raises questions about user awareness of how often this feature is actually used. Meanwhile, a separate privacy controversy has emerged: security researchers allege Chrome silently downloads a 4GB AI file on Android devices without explicit user consent, though the company provides a toggle to disable the feature.
@@ -37,4 +38,5 @@ Three developments warrant close attention. First, how many Chrome users actuall
 
 ## Updates
 
+- **2026-05-14** — Apple counters US smartphone decline as iPhone sales grow: report ([source](https://9to5mac.com/2026/05/13/apple-counters-us-smartphone-decline-as-iphone-sales-grow-report/))
 - **2026-05-11** — TikTok is letting UK users pay to remove ads ([source](https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk))

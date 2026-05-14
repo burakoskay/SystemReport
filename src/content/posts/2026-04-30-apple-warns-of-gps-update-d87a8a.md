@@ -1,15 +1,17 @@
 ---
 title: "Apple Warns of GPS Update"
 date: 2026-04-30T17:26:40.434Z
+modified_date: 2026-05-14T03:49:36.945Z
 tags: ["Apple","GPS","Update"]
 hero_image: "/hero/2026-04-30-apple-warns-of-gps-update-d87a8a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "GPS"
 description: "Apple warns older iPhone and iPad users to update their devices"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 ## Introduction to the Issue
 Apple is warning owners of older iPhones and iPads that they must update their devices to the latest iOS software by Sunday or they will lose access to the internet. This warning is due to a GPS time rollover issue that occurs every 19 years, requiring GPS devices to reset in order to accurately measure time and dates.
@@ -31,3 +33,7 @@ The consequences of not updating the devices will be significant, and users will
 The GPS time rollover issue is caused by the way GPS devices store time and date information. GPS devices use a 10-bit counter to store the number of weeks since the GPS epoch, which is the reference point for GPS time. This counter can only store a maximum of 1,024 weeks, which is equivalent to approximately 19.7 years. When the counter reaches its maximum value, it resets to zero, causing the GPS device to lose its accurate time and date measurements.
 ## Broader Implications
 The GPS time rollover issue has broader implications for the tech industry. As devices become increasingly reliant on GPS technology, the need for regular software updates and compatibility with the latest technologies becomes more critical. Companies must prioritize software updates and ensure that their devices are compatible with the latest technologies to avoid issues like the GPS time rollover.
+
+## Updates
+
+- **2026-05-14** — Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing ([source](https://news.ycombinator.com/item?id=48128003))
