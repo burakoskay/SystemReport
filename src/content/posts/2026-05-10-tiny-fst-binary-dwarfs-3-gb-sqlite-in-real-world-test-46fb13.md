@@ -1,18 +1,20 @@
 ---
 title: "Tiny FST Binary Dwarfs 3 GB SQLite in Real‑World Test"
 date: 2026-05-10T19:15:04.361Z
+modified_date: 2026-05-15T03:53:00.930Z
 tags: ["opensource","databases","performance","hackernews"]
 hero_image: "/hero/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.jpg"
 hero_image_credit_name: "Muhammed Ensar"
 hero_image_credit_url: "https://www.pexels.com/@mecanbay"
 visual_keyword: "developer comparing massive database file to tiny binary on laptop screen"
 description: "A Hacker News post shows a 10 MB finite‑state transducer replacing a 3 GB SQLite DB, sparking debate on storage efficiency and platform fatigue."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.mp3"
 audio_bytes: 593338
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## FST Wins Over SQLite in One Developer’s Experiment
 
@@ -45,3 +47,7 @@ Together, these posts paint a picture of a developer community that is both tech
 The next week will reveal whether the FST approach gains traction beyond niche projects. Watch for follow‑up posts that benchmark the technique against other compact data structures, such as succinct tries or Bloom filters. Also monitor GitHub’s response to the *GitHub is sinking* criticism; any policy shift or pricing adjustment could validate the community’s concerns.
 
 For teams wrestling with large static datasets, the FST experiment offers a data‑driven proof point: a ten‑megabyte binary can replace a three‑gigabyte relational file without sacrificing lookup speed. The real test will be whether the trade‑off in mutability fits production pipelines. As the Hacker News community continues to surface these efficiency stories, the pressure on larger platforms to justify their resource footprints will only grow.
+
+## Updates
+
+- **2026-05-15** — The Real Losers of the Musk v. Altman Trial ([source](https://www.wired.com/story/musk-v-altman-trial-closing-arguments/))
