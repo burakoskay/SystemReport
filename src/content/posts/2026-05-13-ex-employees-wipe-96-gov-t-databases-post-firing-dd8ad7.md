@@ -1,15 +1,17 @@
 ---
 title: "Ex-Employees Wipe 96 Gov't Databases Post-Firing"
 date: 2026-05-13T03:57:10.361Z
+modified_date: 2026-05-15T19:44:46.649Z
 tags: ["cybersecurity","gov't security","data breach","access control","IT policies"]
 hero_image: "/hero/2026-05-13-ex-employees-wipe-96-gov-t-databases-post-firing-dd8ad7.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "government server room with blinking lights and access badges on the floor"
 description: "Twin brothers erased 96 government databases minutes after termination, highlighting credential management failures."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Twin brothers deleted 96 government databases minutes after their firing became official. The incident, detailed in a recent case study, reveals systemic gaps in access control protocols across public-sector IT systems.
 
@@ -36,3 +38,7 @@ The breach has reignited debates about the cost-benefit of modernizing legacy in
 ## What to Watch
 
 The Office of Management and Budget will issue revised access control guidelines by September 15. Track the proposed 90-second deprovisioning rule and its enforcement mechanisms. Also, monitor the Department of Defense’s $2.1 billion RFP for AI-powered identity management systems, which could set new industry standards. Until then, agencies with legacy systems remain at risk—this wasn’t a software failure, but a process failure they knew how to fix.
+
+## Updates
+
+- **2026-05-15** — One of Intel’s fastest desktop CPUs is $50 off ([source](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale))

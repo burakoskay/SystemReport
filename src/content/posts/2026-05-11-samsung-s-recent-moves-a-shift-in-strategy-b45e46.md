@@ -1,15 +1,17 @@
 ---
 title: "Samsung's Recent Moves: A Shift in Strategy?"
 date: 2026-05-11T18:05:34.997Z
+modified_date: 2026-05-15T19:44:42.034Z
 tags: ["samsung","software updates","ddr5","solid-state batteries","evs"]
 hero_image: "/hero/2026-05-11-samsung-s-recent-moves-a-shift-in-strategy-b45e46.jpg"
 hero_image_credit_name: "Rann Vijay"
 hero_image_credit_url: "https://www.pexels.com/@rann-vijay-677553"
 visual_keyword: "Samsung's Recent Moves: A Shift in Strategy?"
 description: "Samsung is making significant changes, from software updates to battery technology. What does this mean for the company and its customers?"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 ## Samsung Rolls Out Stable One UI 8.5 Update After Five Months in Beta
@@ -41,3 +43,7 @@ The new feature is part of Samsung's efforts to improve the overall user experie
 Samsung is making significant changes to its software and hardware offerings. The company's software update process is still inconsistent, but its development of DDR5-7200 512GB RAM is a step in the right direction. Samsung's expansion of solid-state battery technology has the potential to revolutionize the EV industry, offering improved performance and safety. The company's efforts to block apps that spam notifications with ads are also a welcome addition to its software.
 
 What to watch: Samsung's software update process, the development of DDR5-7200 512GB RAM, and the expansion of solid-state battery technology will be key areas to watch in the coming months. The company's efforts to block apps that spam notifications with ads will also be important to track.
+
+## Updates
+
+- **2026-05-15** — The Analogue 3D is finally getting save states ([source](https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state))

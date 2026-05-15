@@ -1,15 +1,17 @@
 ---
 title: "Apple Unveils Enterprise Fixes, Intel Chips"
 date: 2026-05-14T21:23:02.634Z
+modified_date: 2026-05-15T19:44:51.330Z
 tags: ["macos","apple-card","intel","carplay","apple-wallet"]
 hero_image: "/hero/2026-05-14-apple-unveils-enterprise-fixes-intel-chips-c7c2bd.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "technical scene with Apple products and Intel chips in a modern workspace"
 description: "Apple addresses enterprise macOS issues, partners with Intel for iPhone chips, and expands CarPlay audio features as part of ongoing product updates."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 ## Apple Publishes macOS 26.5 Enterprise Fixes
 
@@ -38,3 +40,7 @@ Separately, CarPlay has added two new audio apps: Spotify Wrapped and iHeartRadi
 ## What to Watch
 
 The macOS 26.5 fixes will roll out to enterprise users in mid-September. Intel’s iPhone production scale will depend on 18A yield improvements, with full production expected Q2 2026. For CarPlay, the addition of Spotify Wrapped signals Apple’s push into vehicle data sharing—watch for regulatory scrutiny in the EU over data privacy. Finally, the Apple Card transition’s final phase will include a new Apple-issued Chase credit card, with application availability in early 2025.
+
+## Updates
+
+- **2026-05-15** — Apple will launch 15+ new products this fall, here’s what’s coming ([source](https://9to5mac.com/2026/05/15/apple-will-launch-15-new-products-this-fall-heres-whats-coming/))
