@@ -1,16 +1,17 @@
 ---
 title: "Apple’s October Mac mini and iPhone reveal reshape dev focus"
 date: 2026-04-28T10:30:54.128Z
-modified_date: 2026-05-05T06:21:32.068Z
+modified_date: 2026-05-15T17:44:54.020Z
 tags: ["apple","macos","iphone","hardware"]
 hero_image: "/hero/2026-04-28-apple-s-october-mac-mini-and-iphone-reveal-reshape-dev-focus-789e55.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Apple Mac mini with multiple USB-C ports on a desk"
 description: "Apple’s upcoming iPhone launch, WWDC community events, and a redesigned Mac mini with five USB‑C ports signal a shift for developers and hardware buyers."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## iPhone debut sets the stage
@@ -47,4 +48,5 @@ The next weeks will reveal whether Apple’s AI‑focused Siri delivers measurab
 
 ## Updates
 
+- **2026-05-15** — The Chinese App That Puts Instagram to Shame ([source](https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/))
 - **2026-05-05** — Meta Quest Promo Codes: $50 Off | May 2026 ([source](https://www.wired.com/story/meta-quest-promo-code/))

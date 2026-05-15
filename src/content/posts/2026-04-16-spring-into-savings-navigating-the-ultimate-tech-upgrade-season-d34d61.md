@@ -1,16 +1,17 @@
 ---
 title: "Spring Into Savings: Navigating the Ultimate Tech Upgrade Season"
 date: 2026-04-16T05:27:43.047Z
-modified_date: 2026-05-14T18:02:35.541Z
+modified_date: 2026-05-15T17:45:26.941Z
 tags: ["tech deals","spring sales","consumer electronics","smart home","productivity"]
 hero_image: "/hero/2026-04-16-spring-into-savings-navigating-the-ultimate-tech-upgrade-season-d34d61.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "modern tech gadgets discount shopping"
 description: "As spring sales bloom, unprecedented discounts on flagship phones, powerful laptops, and smart home devices offer prime opportunities to upgrade your tech."
-sources_count: 25
+sources_count: 26
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ Whether you're eyeing a powerful new laptop, a smart home upgrade, or simply bet
 
 ## Updates
 
+- **2026-05-15** — A new book on Steve Jobs at NeXT ([source](https://spectrum.ieee.org/steve-jobs-next-computer))
 - **2026-05-14** — Leaked images show Microsoft’s new Xbox Cloud Gaming controller ([source](https://www.theverge.com/news/930502/microsoft-xbox-cloud-gaming-controller-leak))
 - **2026-05-12** — OnePlus Promo Code: $70 Off | 2026 ([source](https://www.wired.com/story/oneplus-promo-code/))
 - **2026-05-09** — So you’ve heard these AI terms and nodded along; let’s fix that ([source](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/))

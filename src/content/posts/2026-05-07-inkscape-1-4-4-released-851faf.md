@@ -1,15 +1,17 @@
 ---
 title: "Inkscape 1.4.4 Released"
 date: 2026-05-07T03:46:09.517Z
+modified_date: 2026-05-15T17:45:24.591Z
 tags: ["Inkscape","open-source","vector graphics editor"]
 hero_image: "/hero/2026-05-07-inkscape-1-4-4-released-851faf.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Inkscape 1.4.4"
 description: "Inkscape 1.4.4 has been released, offering bug fixes and performance improvements to the popular open-source vector graphics editor."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 ## Inkscape 1.4.4 Released
 
@@ -48,3 +50,7 @@ The technical improvements in Inkscape 1.4.4 are a result of the community's eff
 The release of Inkscape 1.4.4 has several downstream implications. For users, the update provides a more stable and usable software experience. For developers, the update provides a more reliable platform for building and testing applications. The update also has implications for the broader software landscape, as it demonstrates the ongoing commitment of the Inkscape community to improving the software.
 
 The release of Inkscape 1.4.4 also highlights the importance of open-source software in the technology industry. Inkscape's development process is a testament to the power of community-driven development and the importance of collaboration in software development.
+
+## Updates
+
+- **2026-05-15** — The old world of tech is dying and the new cannot be born ([source](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/))
