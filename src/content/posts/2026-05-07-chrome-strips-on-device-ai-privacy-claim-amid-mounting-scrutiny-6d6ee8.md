@@ -1,15 +1,17 @@
 ---
 title: "Chrome strips on‑device AI privacy claim amid mounting scrutiny"
 date: 2026-05-07T21:16:29.207Z
+modified_date: 2026-05-15T14:19:09.955Z
 tags: ["chrome","privacy","ai","regulation","browsers"]
 hero_image: "/hero/2026-05-07-chrome-strips-on-device-ai-privacy-claim-amid-mounting-scrutiny-6d6ee8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Chrome browser window with AI icons fading into background"
 description: "Google backs away from saying its Chrome AI runs fully offline, sparking debate over data handling and regulatory pressure."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 ## Chrome retracts on‑device AI privacy claim
 Chrome’s marketing page no longer says its on‑device AI never contacts Google servers. The change appeared on the product description in early May 2026. The edit was first noted in a Reddit discussion and quickly surfaced on Hacker News, where it generated over 300 points and a lively comment thread.
@@ -39,3 +41,7 @@ The next Chrome release, slated for the second half of 2026, will likely include
 **Tags**: ["chrome", "privacy", "ai", "regulation", "browsers"]
 
 **Visual keyword**: "Chrome browser window with AI icons fading into background"
+
+## Updates
+
+- **2026-05-15** — X is fighting Andrew Tate’s attempt to unmask his critics ([source](https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation))

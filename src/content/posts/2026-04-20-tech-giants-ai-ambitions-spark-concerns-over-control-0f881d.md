@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants' AI Ambitions Spark Concerns Over Control"
 date: 2026-04-20T13:13:15.934Z
-modified_date: 2026-05-03T13:21:53.879Z
+modified_date: 2026-05-15T14:19:21.022Z
 tags: ["ai","control","tech giants","society"]
 hero_image: "/hero/2026-04-20-tech-giants-ai-ambitions-spark-concerns-over-control-0f881d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 ## The AI Control Conundrum
@@ -37,4 +38,5 @@ The next few months will be critical in determining the future of AI control. Po
 
 ## Updates
 
+- **2026-05-15** — Why I use Apple Calendar and not a to-do list as my task manager ([source](https://9to5mac.com/2026/05/15/why-i-use-apple-calendar-and-not-a-to-do-list-as-my-task-manager/))
 - **2026-05-03** — These reusable digital Polaroids are a clever way to cover a fridge in memories ([source](https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on))

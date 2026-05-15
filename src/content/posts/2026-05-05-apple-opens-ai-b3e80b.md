@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-05-11T22:59:58.254Z
+modified_date: 2026-05-15T14:19:12.157Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-05-15** — Bose&#8217;s new Lifestyle Ultra speakers are now available ([source](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability))
 - **2026-05-11** — Apple just made it easier for Apple Card users to access Savings on the web ([source](https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/))
