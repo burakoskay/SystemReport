@@ -1,19 +1,20 @@
 ---
 title: "Subnautica 2 Trailer Drops as Polygon Sale Sparks Mass Layoffs"
 date: 2026-05-10T20:58:47.036Z
-modified_date: 2026-05-12T10:37:17.917Z
+modified_date: 2026-05-15T22:59:29.991Z
 tags: ["gaming","media","industry","indie"]
 hero_image: "/hero/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "underwater alien landscape with diver beside chaotic newsroom"
 description: "A new Subnautica 2 trailer arrives just before early access, while Polygon's sale to Valnet triggers a wave of veteran journalist cuts."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.mp3"
 audio_bytes: 556766
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Subnautica 2 dropped its first gameplay trailer, and Polygon announced a surprise sale that wiped out its veteran staff.
@@ -54,4 +55,5 @@ The next weeks will reveal whether Subnautica 2’s Early Access can sustain p
 
 ## Updates
 
+- **2026-05-15** — The Sideload 034: Your Google I/O 2026 primer ([source](https://9to5google.com/2026/05/15/the-sideload-034-your-google-i-o-2026-primer/))
 - **2026-05-12** — Beatbot Pool-Cleaning Robots Are on Sale ([source](https://www.wired.com/story/beatbot-deals-may-2026/))

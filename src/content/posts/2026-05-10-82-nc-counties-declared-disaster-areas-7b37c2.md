@@ -1,15 +1,17 @@
 ---
 title: "82 NC Counties Declared Disaster Areas"
 date: 2026-05-10T13:42:51.288Z
+modified_date: 2026-05-15T22:59:25.368Z
 tags: ["natural disaster","drought","North Carolina"]
 hero_image: "/hero/2026-05-10-82-nc-counties-declared-disaster-areas-7b37c2.jpg"
 hero_image_credit_name: "James Frid"
 hero_image_credit_url: "https://www.pexels.com/@james-frid-81279"
 visual_keyword: "drought"
 description: "The US government designates 82 North Carolina counties as natural disaster areas due to severe drought conditions."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Drought Relief for North Carolina Farmers
 
@@ -46,3 +48,7 @@ The Call for Code AI Global Challenge is a developer competition that seeks solu
 ## What to Watch
 
 As the drought continues to affect North Carolina and other parts of the country, it is essential to track the USDA's disaster designations and the impact on local communities. The next US drought monitor update will likely provide more information on the current state of drought in the region. Farmers and residents can also access resources and tools provided by the USDA and other organizations to help mitigate the effects of the drought.
+
+## Updates
+
+- **2026-05-15** — YouTube is expanding its AI deepfake detection tool to all adult users ([source](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults))
