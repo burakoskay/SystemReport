@@ -1,17 +1,19 @@
 ---
 title: "Defense Tech Startup Anduril Valued at $61B After $5B Raise"
 date: 2026-05-13T21:33:17.730Z
+modified_date: 2026-05-15T10:29:50.821Z
 tags: ["Defense Tech","Startup","Funding"]
 hero_image: "/hero/2026-05-13-defense-tech-startup-anduril-valued-at-61b-after-5b-raise-caea9c.jpg"
 hero_image_credit_name: "Osman Özavcı"
 hero_image_credit_url: "https://www.pexels.com/@osman"
 visual_keyword: "Defense Tech"
 description: "Anduril, a defense tech startup, raises $5B, doubling its valuation to $61B with $2.2B in revenue in 2025."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-13-defense-tech-startup-anduril-valued-at-61b-after-5b-raise-caea9c.mp3"
 audio_bytes: 626774
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Anduril's Massive Raise
 
@@ -62,3 +64,7 @@ Anduril's success is also likely to have implications for the broader defense te
 The defense tech market is expected to continue to grow and evolve in the coming years, driven by increasing demand for advanced technologies. Anduril is well-positioned to remain a leader in the space, with its focus on developing advanced technologies and strong customer relationships.
 
 In conclusion, Anduril's latest raise is a significant milestone in the defense tech industry. The company's success is reflective of its innovative approach and strong customer relationships. As the industry continues to evolve, it will be interesting to see how Anduril and other companies respond to the changing needs of customers.
+
+## Updates
+
+- **2026-05-15** — The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849 ([source](https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/))

@@ -1,16 +1,17 @@
 ---
 title: "Uncovering the Mystery of Vanishing Ships in the Strait of Hormuz"
 date: 2026-04-18T01:04:58.528Z
-modified_date: 2026-05-14T18:02:44.200Z
+modified_date: 2026-05-15T10:29:53.402Z
 tags: ["maritime","oil trading","geopolitics"]
 hero_image: "/hero/2026-04-18-uncovering-the-mystery-of-vanishing-ships-in-the-strait-of-hormuz-4cdfa4.jpg"
 hero_image_credit_name: "İrfan Simsar"
 hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"
 description: "Analysts track spoofed tankers in a critical waterway, uncovering a complex web of deception"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ The Strait of Hormuz, a vital waterway connecting the Persian Gulf to the Gulf o
 
 ## Updates
 
+- **2026-05-15** — Details of the Daring Airdrop at Tristan Da Cunha ([source](https://www.tristandc.com/government/news-2026-05-11-airdrop.php))
 - **2026-05-14** — The original versions of Metro 2033 and Metro: Last Light land on GOG ([source](https://www.engadget.com/2172946/original-versions-of-metro-2033-and-metro-last-light-land-on-gog/))
 - **2026-05-11** — Yarbo says it will remove the intentional backdoor from its robot lawn mower ([source](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor))
 - **2026-05-07** — There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were ([source](https://www.wired.com/story/there-is-no-evidence-the-trump-assassination-attempts-were-staged-people-still-believe-they-were/))
