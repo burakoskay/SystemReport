@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Promo Codes: Hoka, Verizon, Dermstore Slash Prices"
 date: 2026-04-23T17:42:55.310Z
-modified_date: 2026-05-12T23:06:18.346Z
+modified_date: 2026-05-16T17:02:59.823Z
 tags: ["promo codes","e-commerce","discounts"]
 hero_image: "/hero/2026-04-23-april-2026-promo-codes-hoka-verizon-dermstore-slash-prices-3c3d05.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "shopping cart with discount tags and tech brand logos"
 description: "Hoka, Verizon and Dermstore roll out April 2026 coupon codes offering up to 30% off, $200 gift cards, and 25% savings, reshaping e‑commerce discounts."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ The next quarter will reveal whether the Hoka, Verizon and Dermstore coupons tra
 
 ## Updates
 
+- **2026-05-16** — The offline desk gadget that actually got me to sit up straight ([source](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/))
 - **2026-05-12** — Quack: The DuckDB Client-Server Protocol ([source](https://duckdb.org/2026/05/12/quack-remote-protocol))
 - **2026-05-09** — Let it snow ([source](https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy))

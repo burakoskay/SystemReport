@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-05-13T03:50:06.802Z
+modified_date: 2026-05-16T17:03:09.571Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-05-16** — Europe built sovereign clouds to escape US control. Forgot about the processors ([source](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735))
 - **2026-05-13** — Sam Altman was winning on the stand, but it might not be enough ([source](https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial))
 - **2026-05-12** — NBA The Run hits the streets on June 9 ([source](https://www.engadget.com/2171357/nba-the-run-hits-the-streets-on-june-9/))
 - **2026-05-10** — Forking the Web ([source](https://dillo-browser.org/lab/web-fork/))

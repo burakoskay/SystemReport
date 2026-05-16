@@ -1,15 +1,17 @@
 ---
 title: "Waymo Tightens Age Rules as AV Industry Faces New Challenges"
 date: 2026-05-02T03:37:02.132Z
+modified_date: 2026-05-16T17:03:02.272Z
 tags: ["autonomous vehicles","Waymo","PTIO"]
 hero_image: "/hero/2026-05-02-waymo-tightens-age-rules-as-av-industry-faces-new-challenges-655446.jpg"
 hero_image_credit_name: "Ministar Samuel"
 hero_image_credit_url: "https://www.pexels.com/@ministar"
 visual_keyword: "self-driving car with LiDAR hub on a city street"
 description: "Waymo adds age verification checks to restrict solo minors in driverless cars while industry players form new partnerships and grapple with public safety concerns."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## The New Age Check
 
@@ -38,3 +40,7 @@ Kevin Ridley, a Chandler resident, told NBC News he actively avoids driving near
 ## What to Watch
 
 The next six months will test the AV industry's ability to balance innovation with practicality. PTIO's first policy white paper is due by Q1 2024, and it will include specific proposals on workforce transitions. Waymo's PBT-trained models should enter real-world testing in Phoenix by the end of 2023. Meanwhile, the Arizona harassment cases could prompt new safety features—like mandatory driver monitors in all AVs, a move that would significantly increase costs but might satisfy regulators. The industry's next inflection point won't come from code or capital—it'll come from the people in the streets who still see these machines as an alien presence.
+
+## Updates
+
+- **2026-05-16** — OpenAI is offering ChatGPT Plus to citizens of Malta for a year ([source](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/))
