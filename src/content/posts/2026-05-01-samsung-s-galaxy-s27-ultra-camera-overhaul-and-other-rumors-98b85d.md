@@ -1,18 +1,20 @@
 ---
 title: "Samsung's Galaxy S27 Ultra Camera Overhaul and Other Rumors"
 date: 2026-05-01T09:52:32.145Z
+modified_date: 2026-05-16T19:12:04.039Z
 tags: ["samsung","galaxy s27 ultra","galaxy book","galaxy a27"]
 hero_image: "/hero/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.jpg"
 hero_image_credit_name: "Themba Mtegha"
 hero_image_credit_url: "https://www.pexels.com/@thembaforfun"
 visual_keyword: "Samsung Galaxy S27 Ultra camera"
 description: "Samsung's upcoming Galaxy S27 Ultra may feature a camera overhaul, ditching its 3x telephoto lens. Other rumors include new Galaxy Book laptops running Android and details on the Galaxy A27 and Z Flip 8."
-sources_count: 8
-author: "david-okafor"
+sources_count: 9
 audio_path: "/audio/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.mp3"
 audio_bytes: 671705
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Samsung Galaxy S27 Ultra Camera Rumored to Get Major Overhaul
@@ -52,3 +54,7 @@ In conclusion, Samsung's upcoming products, including the Galaxy S27 Ultra, Gala
 ## What's Next
 
 The next few months will be crucial for Samsung as it unveils its new products and competes with other tech giants. Key decisions to watch include the official launch of the Galaxy S27 Ultra, the release of new Galaxy Book laptops, and any further announcements on the Galaxy SmartTag. As the tech landscape continues to shift, Samsung's moves will be closely watched by industry insiders and consumers alike.
+
+## Updates
+
+- **2026-05-16** — Engadget review recap: Razr Fold, Bose Lifestyle Ultra Speaker, Ultrahuman Ring Pro and more ([source](https://www.engadget.com/2174499/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro/))
