@@ -1,18 +1,20 @@
 ---
 title: "TurboTax Discounts"
 date: 2026-05-03T06:31:19.591Z
+modified_date: 2026-05-16T03:35:08.950Z
 tags: ["TurboTax","Discounts","Couponing","Tax Preparation","Software"]
 hero_image: "/hero/2026-05-03-turbotax-discounts-481b1f.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "TurboTax"
 description: "Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes"
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-03-turbotax-discounts-481b1f.mp3"
 audio_bytes: 616325
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Tax Season
 Tax season is upon us, and with it comes the stress of filing our taxes. However, with the right tools and discounts, we can make the process less painful. TurboTax is one of the most popular tax filing software, and this year, they are offering exclusive discounts to their customers.
@@ -40,3 +42,7 @@ In addition to the tax preparation industry, the couponing industry is also a si
 ## Downstream Implications
 The use of discounts and coupons can have a significant impact on the economy. By offering discounts and coupons, companies can increase sales and revenue, which can help to stimulate economic growth. Additionally, discounts and coupons can also help to increase customer loyalty, which can lead to long-term benefits for companies.
 In conclusion, the TurboTax discounts and other coupon options available to customers can provide significant savings and benefits. By understanding the context and history of couponing, as well as the technical mechanics involved, customers can make the most of these deals and save money on their tax filings and other products.
+
+## Updates
+
+- **2026-05-16** — The LiberNovo Maxis ergonomic chair sets a new standard for big and tall users ([source](https://9to5mac.com/2026/05/15/libernovo-maxis-ergonomic-chair-sets-new-standard-big-tall-users/))

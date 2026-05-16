@@ -1,14 +1,16 @@
 ---
 title: "Lutris Unveils Gamepad UI for Linux"
 date: 2026-05-10T13:45:41.332Z
+modified_date: 2026-05-16T03:35:06.433Z
 tags: ["Linux gaming","Lutris","Gamepad UI"]
 hero_image: "/hero/2026-05-10-lutris-unveils-gamepad-ui-for-linux-270865.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## A New Way to Game on Linux
@@ -50,3 +52,7 @@ The Linux gaming community has welcomed the new gamepad UI with enthusiasm. User
 ## Conclusion
 
 In conclusion, the introduction of the gamepad UI by Lutris marks a significant milestone in the evolution of Linux gaming. By providing a user-friendly, controller-optimized interface, Lutris is making gaming on Linux more accessible and enjoyable. As the gaming landscape continues to evolve, platforms like Lutris will play a crucial role in shaping the future of gaming on Linux.
+
+## Updates
+
+- **2026-05-16** — Apple Cash is down for some iPhone users in the U.S. ([source](https://9to5mac.com/2026/05/15/apple-cash-is-down-for-some-iphone-users-in-the-u-s/))
