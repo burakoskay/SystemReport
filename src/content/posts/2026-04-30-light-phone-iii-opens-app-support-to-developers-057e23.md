@@ -1,16 +1,17 @@
 ---
 title: "Light Phone III opens app support to developers"
 date: 2026-04-30T19:56:14.657Z
-modified_date: 2026-05-05T17:29:27.218Z
+modified_date: 2026-05-16T20:55:57.300Z
 tags: ["minimalism","retro-gaming","gaming-monitors"]
 hero_image: "/hero/2026-04-30-light-phone-iii-opens-app-support-to-developers-057e23.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "A swiveling retro handheld gaming device displayed beside a minimalist smartphone and a large curved monitor with LED backlighting"
 description: "Minimalist phones, retro handhelds, and AI-upscaling monitors target niche markets."
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 
 ## Light Phone III opens app support to developers
@@ -43,4 +44,5 @@ Track Light Phone’s SDK adoption rate—will developers build tools that enhan
 
 ## Updates
 
+- **2026-05-16** — What new Google Messages features are rolling out [May 2026] ([source](https://9to5google.com/2026/05/16/new-google-messages-features/))
 - **2026-05-05** — Google, Microsoft, and xAI will allow the US government to review their new AI models ([source](https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review))
