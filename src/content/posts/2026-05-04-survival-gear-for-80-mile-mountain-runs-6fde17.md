@@ -1,18 +1,19 @@
 ---
 title: "Survival Gear for 80-Mile Mountain Runs"
 date: 2026-05-04T14:15:18.305Z
-modified_date: 2026-05-12T21:24:07.337Z
+modified_date: 2026-05-16T13:42:04.251Z
 tags: ["endurance sports","environmental sustainability","human interaction"]
 hero_image: "/hero/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.jpg"
 hero_image_credit_name: "VANNGO Ng"
 hero_image_credit_url: "https://www.pexels.com/@vanngo-ng-105653827"
 visual_keyword: "mountain run"
 description: "A 10-lb pack for running 80 miles across mountains. Essential gear for survival."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.mp3"
 audio_bytes: 576201
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ For example, advances in technology could lead to new and innovative products fo
 
 ## Updates
 
+- **2026-05-16** — Here are 40 of our favorite deals from REI’s massive Anniversary Sale ([source](https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026))
 - **2026-05-12** — iOS 27 to make key design changes to ‘streamline’ Liquid Glass: report ([source](https://9to5mac.com/2026/05/12/ios-27-to-make-key-design-changes-to-streamline-liquid-glass-report/))
 - **2026-05-09** — Review: I want to love Belkin’s 3-in-1 Pixel Watch charging dock, but Google ruined it [Gallery] ([source](https://9to5google.com/2026/05/09/belkin-modular-charging-dock-pixel-watch-review/))
 - **2026-05-05** — Apple agrees to pay iPhone owners $250 million for not delivering AI Siri ([source](https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement))

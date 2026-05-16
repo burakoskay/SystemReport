@@ -1,16 +1,17 @@
 ---
 title: "Elon Musk sues OpenAI in high-stakes trial"
 date: 2026-04-28T20:18:39.683Z
-modified_date: 2026-04-30T06:31:58.769Z
+modified_date: 2026-05-16T13:42:06.699Z
 tags: ["elon-musk","openai","ai","legal-battle","sam-altman"]
 hero_image: "/hero/2026-04-28-elon-musk-sues-openai-in-high-stakes-trial-4b9f84.jpg"
 hero_image_credit_name: "Quang Vuong"
 hero_image_credit_url: "https://www.pexels.com/@quang-vuong-724225078"
 visual_keyword: "Elon Musk and Sam Altman in federal court"
 description: "Elon Musk's legal battle with OpenAI over AI governance and profits begins in federal court."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Musk v. OpenAI: A Fractured Vision
@@ -37,4 +38,5 @@ What to watch: Opening statements begin Tuesday in Oakland. Key evidence include
 
 ## Updates
 
+- **2026-05-16** — Fresh horror from Supermassive, a Battlestar Galactica roguelite and other new indie games worth checking out ([source](https://www.engadget.com/2173984/fresh-horror-from-supermassive-a-battlestar-galactica-roguelite-and-other-new-indie-games/))
 - **2026-04-30** — SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO ([source](https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/))
