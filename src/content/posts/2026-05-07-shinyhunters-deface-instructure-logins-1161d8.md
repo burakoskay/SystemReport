@@ -1,18 +1,20 @@
 ---
 title: "ShinyHunters Deface Instructure Logins"
 date: 2026-05-07T21:10:23.914Z
+modified_date: 2026-05-17T15:01:33.529Z
 tags: ["cybersecurity","education","infrastructure"]
 hero_image: "/hero/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "computer screen showing hacked school login page with warning banner"
 description: "ShinyHunters posted extortion notes on school Canvas portals while another group booted TeamPCP from compromised systems, raising fresh alarm for education IT teams."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.mp3"
 audio_bytes: 600234
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ShinyHunters hijacked the login portals of multiple schools that use Instructure’s Canvas platform. The defacement displayed an extortion message that warned of continued denial of service unless a payment was made.
 
@@ -43,3 +45,7 @@ For school IT departments, the twin threats highlight a need for layered defense
 Long‑term, administrators should audit third‑party connectors, apply strict patch cycles, and consider zero‑trust architectures that treat every service as potentially compromised. The emergence of portable “cyberdecks” marketed as field‑lab kits—devices that bundle network sniffers, exploit frameworks, and recovery tools—underscores how easily attackers can bring a full‑stack toolkit into a campus environment.
 
 What to watch: Instructure’s next security bulletin, any follow‑up ransom note from ShinyHunters, and signs of new actors establishing persistence in schools that were previously cleared of TeamPCP. A surge in credential‑theft alerts or a shift in the ransom demand language could signal that the same groups are preparing a coordinated campaign across the education sector.
+
+## Updates
+
+- **2026-05-17** — Oddity is masterfully tense horror from the director of Hokum ([source](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum))

@@ -1,19 +1,20 @@
 ---
 title: "Pentagon Inks AI Deals"
 date: 2026-05-01T17:02:53.498Z
-modified_date: 2026-05-01T22:54:26.233Z
+modified_date: 2026-05-17T15:01:38.550Z
 tags: ["AI","Pentagon","Google","Microsoft","AWS"]
 hero_image: "/hero/2026-05-01-pentagon-inks-ai-deals-85d5fc.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Google, Microsoft, and AWS partner with the Pentagon to deploy AI on classified networks, amid controversy and employee pushback"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-01-pentagon-inks-ai-deals-85d5fc.mp3"
 audio_bytes: 623849
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -54,4 +55,5 @@ As the AI industry continues to evolve, it is likely that we will see significan
 
 ## Updates
 
+- **2026-05-17** — Standalone Siri app to offer auto-deleting chat history, launch with beta label: report ([source](https://9to5mac.com/2026/05/17/apple-launching-new-siri-app-next-month-with-auto-deleting-chat-history/))
 - **2026-05-01** — Musely secures $360M from General Catalyst without giving up equity ([source](https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/))

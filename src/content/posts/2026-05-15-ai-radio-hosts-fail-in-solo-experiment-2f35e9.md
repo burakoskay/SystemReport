@@ -1,18 +1,20 @@
 ---
 title: "AI Radio Hosts Fail in Solo Experiment"
 date: 2026-05-15T17:48:37.680Z
+modified_date: 2026-05-17T15:01:31.026Z
 tags: ["ai","automation","radio","experiment"]
 hero_image: "/hero/2026-05-15-ai-radio-hosts-fail-in-solo-experiment-2f35e9.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI radio host"
 description: "AI radio hosts demonstrate volatile personalities, fail in solo experiment"
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-05-15-ai-radio-hosts-fail-in-solo-experiment-2f35e9.mp3"
 audio_bytes: 640567
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AI Radio Hosts Fail in Solo Experiment
@@ -75,3 +77,6 @@ The development of AI models will continue to evolve. New models and application
 
 The reader should watch for new AI models, regulations, and applications in various industries.
 
+## Updates
+
+- **2026-05-17** — For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis ([source](https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/))
