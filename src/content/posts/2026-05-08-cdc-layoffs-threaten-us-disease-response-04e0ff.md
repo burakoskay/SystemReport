@@ -1,14 +1,16 @@
 ---
 title: "CDC Layoffs Threaten US Disease Response"
 date: 2026-05-08T03:37:43.942Z
+modified_date: 2026-05-17T17:02:18.589Z
 tags: ["CDC","public health","layoffs"]
 hero_image: "/hero/2026-05-08-cdc-layoffs-threaten-us-disease-response-04e0ff.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "CDC"
 description: "CDC layoffs raise concerns about US ability to respond to infectious disease outbreaks"
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## CDC Layoffs Threaten US Disease Response
@@ -46,3 +48,7 @@ The CDC's ability to respond effectively will be crucial in the coming weeks. Th
 ## Future of Public Health Infrastructure
 
 The long-term implications of the CDC layoffs are uncertain, but it is clear that the public health landscape is changing. The CDC's role in protecting public health is critical, and the agency must find ways to maintain its disease surveillance and response capabilities in the face of challenges. This may involve partnerships with other agencies, leveraging new technologies, and finding innovative solutions to the challenges posed by the layoffs.
+
+## Updates
+
+- **2026-05-17** — TechCrunch Mobility: The AI skills arms race is coming for automotive ([source](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/))
