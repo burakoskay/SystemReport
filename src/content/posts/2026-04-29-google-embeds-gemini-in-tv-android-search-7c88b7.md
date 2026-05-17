@@ -1,15 +1,16 @@
 ---
 title: "Google embeds Gemini in TV, Android Search"
 date: 2026-04-29T17:46:40.728Z
-modified_date: 2026-05-15T17:45:01.074Z
+modified_date: 2026-05-17T06:49:11.942Z
 tags: ["Google Gemini","AI Integration","Consumer Devices"]
 hero_image: "/hero/2026-04-29-google-embeds-gemini-in-tv-android-search-7c88b7.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -59,5 +60,6 @@ What to watch: tracking adoption metrics for the TV transformers and file-genera
 
 ## Updates
 
+- **2026-05-17** — Fisker went bankrupt and owners built an open source car company from the ashes ([source](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/))
 - **2026-05-15** — Google updates its spam rules to include attempts to ‘manipulate’ AI ([source](https://www.theverge.com/tech/931416/google-ai-search-spam-policy))
 - **2026-05-06** — Higher usage limits for Claude and a compute deal with SpaceX ([source](https://www.anthropic.com/news/higher-limits-spacex))
