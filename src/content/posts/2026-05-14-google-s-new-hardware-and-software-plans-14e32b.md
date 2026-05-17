@@ -1,15 +1,17 @@
 ---
 title: "Google's New Hardware and Software Plans"
 date: 2026-05-14T06:53:01.498Z
+modified_date: 2026-05-17T20:59:35.587Z
 tags: ["Google","Android","Hardware"]
 hero_image: "/hero/2026-05-14-google-s-new-hardware-and-software-plans-14e32b.jpg"
 hero_image_credit_name: "Click Jeth"
 hero_image_credit_url: "https://www.pexels.com/@click-jeth-703137695"
 visual_keyword: "Google Home Display"
 description: "Google is working on a new 'Google Home Display' device, rolling out AI-powered 'Contextual suggestions' on Android, and more."
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 
 ## Google Home Display Emerges
@@ -60,3 +62,6 @@ The 'Google Home Display' device and the 'Contextual suggestions' feature on And
 
 The downstream implications of these updates are also significant for other companies in the tech industry. The 'Google Home Display' device, for example, may pose a challenge to other companies that offer similar devices, such as Amazon's Echo Show. The 'Contextual suggestions' feature on Android may also pose a challenge to other companies that offer similar features, such as Apple's Siri suggestions. As the tech industry continues to evolve, it will be interesting to see how Google and other companies adapt and respond to changing user needs.
 
+## Updates
+
+- **2026-05-17** — Spotify confirms disco ball app icon is temporary and regular logo will return ([source](https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/))
