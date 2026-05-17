@@ -1,19 +1,20 @@
 ---
 title: "AI Advances"
 date: 2026-05-06T06:42:07.091Z
-modified_date: 2026-05-12T10:37:21.878Z
+modified_date: 2026-05-17T22:56:56.752Z
 tags: ["AI","Nvidia","ChatRTX"]
 hero_image: "/hero/2026-05-06-ai-advances-87aff6.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "New AI developments and implications"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-06-ai-advances-87aff6.mp3"
 audio_bytes: 587277
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to AI Advances
@@ -74,4 +75,5 @@ The next significant development to watch is the release of new AI-powered produ
 
 ## Updates
 
+- **2026-05-17** — Microsoft is retiring Teams’ Together Mode ([source](https://www.theverge.com/tech/932215/microsoft-teams-together-mode))
 - **2026-05-12** — Lotus will return to combustion engines for its cars ([source](https://www.engadget.com/2170515/lotus-vision-2030-type-135/))
