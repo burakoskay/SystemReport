@@ -1,17 +1,19 @@
 ---
 title: "Google Weighs SpaceX Partnership for Orbital Data Centers"
 date: 2026-05-12T21:26:53.287Z
+modified_date: 2026-05-18T04:06:34.807Z
 tags: ["Google","SpaceX","Orbital Data Centers","Space Technology"]
 hero_image: "/hero/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Google considers partnering with SpaceX for data centers in orbit, a plan explored since late 2025."
-sources_count: 1
+sources_count: 2
 audio_path: "/audio/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.mp3"
 audio_bytes: 637014
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's Orbital Ambition
@@ -45,3 +47,7 @@ As Google and SpaceX continue to explore their potential partnership, several ke
 The development of orbital data centers will also depend on the development of supporting infrastructure, such as launch services and satellite constellations. The growth of the space industry has led to a decrease in launch costs and an increase in launch frequency, making it more feasible to deploy and maintain orbital data centers.
 
 In conclusion, the proposed partnership between Google and SpaceX represents a significant step forward in the development of orbital data centers. While there are significant technical and practical challenges to overcome, the potential benefits of this technology make it an exciting and worthwhile pursuit.
+
+## Updates
+
+- **2026-05-18** — Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep ([source](https://github.com/MinishLab/semble))
