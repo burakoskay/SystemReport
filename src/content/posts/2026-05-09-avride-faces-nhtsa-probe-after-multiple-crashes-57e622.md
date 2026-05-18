@@ -1,17 +1,19 @@
 ---
 title: "Avride Faces NHTSA Probe After Multiple Crashes"
 date: 2026-05-09T03:31:19.471Z
+modified_date: 2026-05-18T15:42:50.846Z
 tags: ["Avride","NHTSA","Self-Driving Cars"]
 hero_image: "/hero/2026-05-09-avride-faces-nhtsa-probe-after-multiple-crashes-57e622.jpg"
 hero_image_credit_name: "Daniel Andraski"
 hero_image_credit_url: "https://www.pexels.com/@daniel-andraski-197681005"
 visual_keyword: "self-driving"
 description: "NHTSA investigates Avride over self-driving crashes"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-09-avride-faces-nhtsa-probe-after-multiple-crashes-57e622.mp3"
 audio_bytes: 618833
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Avride's Crash Toll Triggers NHTSA Probe
 Avride is under investigation by the National Highway Traffic Safety Administration after more than a dozen crashes and one minor injury. The NHTSA identified the crashes in a filing.
@@ -52,3 +54,7 @@ The FCC has also taken regulatory action against companies that violate broadcas
 One of the key technical challenges facing the self-driving industry is the development of reliable and secure sensor systems. These systems must be able to detect and respond to a wide range of scenarios, including unexpected events and edge cases.
 
 Another technical challenge facing the industry is the development of robust and efficient machine learning algorithms. These algorithms must be able to process large amounts of data in real-time, and must also be able to adapt to changing circumstances and unexpected events.
+
+## Updates
+
+- **2026-05-18** — Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones ([source](https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks))

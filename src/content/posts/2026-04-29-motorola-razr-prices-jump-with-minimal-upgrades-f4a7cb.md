@@ -1,15 +1,16 @@
 ---
 title: "Motorola Razr prices jump with minimal upgrades"
 date: 2026-04-29T17:49:32.576Z
-modified_date: 2026-05-05T17:29:18.717Z
+modified_date: 2026-05-18T15:43:05.225Z
 tags: ["Motorola","Razr","foldable phones"]
 hero_image: "/hero/2026-04-29-motorola-razr-prices-jump-with-minimal-upgrades-f4a7cb.jpg"
 hero_image_credit_name: "Chris F"
 hero_image_credit_url: "https://www.pexels.com/@chris-f-38966"
 visual_keyword: "Motorola Razr"
 description: "Motorola's 2026 Razr lineup arrives with higher prices and minor changes. Moto Buds 2 Plus add Bose sound for $149."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -40,5 +41,6 @@ The next few months will reveal whether Motorola's price gamble pays off. Watch 
 
 ## Updates
 
+- **2026-05-18** — It is time to give up the dualism introduced by the debate on consciousness ([source](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/))
 - **2026-05-05** — Coinbase to lay off 14% of staff as part of broader restructuring ([source](https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/))
 - **2026-04-30** — Scientists Are Starting to Unlock the Nanoscale Secrets of the Immune System ([source](https://www.wired.com/story/daniel-davis-immunology-wired-health/))

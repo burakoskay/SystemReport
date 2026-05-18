@@ -1,14 +1,16 @@
 ---
 title: "eBay Rejects GameStop's $56B Takeover Bid"
 date: 2026-05-13T03:53:51.739Z
+modified_date: 2026-05-18T15:43:08.059Z
 tags: ["eBay","GameStop","takeover bid","e-commerce"]
 hero_image: "/hero/2026-05-13-ebay-rejects-gamestop-s-56b-takeover-bid-5c8074.jpg"
 hero_image_credit_name: "Cup of  Couple"
 hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "ecommerce"
 description: "eBay's board rejects GameStop's $56 billion takeover offer, citing doubts about GameStop's ability to buy and operate the larger firm."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 # eBay Rejects GameStop's $56B Takeover Bid
@@ -54,3 +56,7 @@ The rejection does not necessarily mean that GameStop will not try to make anoth
 In the short term, eBay will focus on continuing to operate as an independent company. The company will need to continue to innovate and adapt to changing market conditions, in order to remain competitive. GameStop, on the other hand, will need to reconsider its expansion plans, potentially looking to other acquisition targets or focusing on its core business.
 
 The e-commerce market is highly competitive, and companies must be able to adapt quickly to changing market conditions. The rejection of GameStop's offer is a reminder of the challenges faced by companies looking to expand their presence online through acquisitions.
+
+## Updates
+
+- **2026-05-18** — Most Americans don't trust AI – or the people in charge of it (2025) ([source](https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai))

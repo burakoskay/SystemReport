@@ -1,14 +1,16 @@
 ---
 title: "Google Teases Android-Based Googlebooks"
 date: 2026-05-16T06:26:13.235Z
+modified_date: 2026-05-18T15:42:33.182Z
 tags: ["Google","Android","Googlebooks","Google I/O"]
 hero_image: "/hero/2026-05-16-google-teases-android-based-googlebooks-e246b4.jpg"
 hero_image_credit_name: "Perfecto Capucine"
 hero_image_credit_url: "https://www.pexels.com/@perfecto-capucine-515848"
 visual_keyword: "Googlebooks"
 description: "Google hints at a new product, potentially an Android-based Googlebooks"
-sources_count: 7
+sources_count: 8
 ---
+
 
 
 ## Introduction
@@ -37,3 +39,7 @@ The e-reader market has seen significant growth in recent years, with Amazon's K
 
 ## Conclusion
 The introduction of Googlebooks could be a significant development in the tech industry, representing a new direction for Google in the hardware space. With its history of innovation and commitment to pushing the boundaries of what is possible with technology, Google is well-positioned to make a major impact in this space. As the company prepares to announce new products at Google I/O next week, industry observers will be watching closely to see what Google has in store.
+
+## Updates
+
+- **2026-05-18** — South Korea’s LetinAR is building optics behind AI glasses ([source](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/))
