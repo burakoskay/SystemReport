@@ -1,14 +1,16 @@
 ---
 title: "Reservation Hijacking Scams Target Travelers"
 date: 2026-05-10T09:42:16.163Z
+modified_date: 2026-05-18T21:16:33.219Z
 tags: ["Travel Scams","Reservation Hijacking","Tourism Industry"]
 hero_image: "/hero/2026-05-10-reservation-hijacking-scams-target-travelers-124d23.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "hotel"
 description: "Scammers impersonate hotel staff to seize bookings"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Reservation Hijacking
 A scammer calls, claiming to be a hotel clerk, demanding payment for a reservation. The call is urgent, referencing a booking reference. The scammer is not a hotel employee, but rather a caller trying to harvest funds.
@@ -30,3 +32,7 @@ The implications of reservation hijacking scams extend beyond the individual tra
 The tourism industry is not the only sector vulnerable to scams. Other industries, such as finance and healthcare, also face similar risks. However, the tourism industry's unique characteristics, such as the high volume of transactions and the emotional nature of travel, make it particularly susceptible to scams. As the industry continues to grow and evolve, it is essential to stay vigilant and adapt to new threats.
 ## Scam Evolution
 Scammers are constantly evolving their tactics to stay ahead of their targets. In the case of reservation hijacking scams, scammers may use new technologies, such as AI-generated voices or spoofed phone numbers, to make their calls appear more legitimate. Travelers and the industry must stay informed about the latest scamming techniques to effectively prevent and respond to these threats.
+
+## Updates
+
+- **2026-05-18** — Guy Gardner makes a cameo in new Lanterns teaser ([source](https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/))

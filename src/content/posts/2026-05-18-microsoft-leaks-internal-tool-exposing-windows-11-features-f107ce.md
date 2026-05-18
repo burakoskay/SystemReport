@@ -1,18 +1,20 @@
 ---
 title: "Microsoft leaks internal tool, exposing Windows 11 features"
 date: 2026-05-18T18:07:07.084Z
+modified_date: 2026-05-18T21:16:25.303Z
 tags: ["windows","security","features"]
 hero_image: "/hero/2026-05-18-microsoft-leaks-internal-tool-exposing-windows-11-features-f107ce.jpg"
 hero_image_credit_name: "Edward Jenner"
 hero_image_credit_url: "https://www.pexels.com/@edward-jenner"
 visual_keyword: "Windows 11 taskbar with hidden feature toggle overlay"
 description: "Leaked StagingTool and a Recall vulnerability give power users and attackers new access to Windows 11 internals while the OS finally restores long‑missing taskbar options."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-18-microsoft-leaks-internal-tool-exposing-windows-11-features-f107ce.mp3"
 audio_bytes: 577037
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Microsoft’s accidental release of its internal StagingTool has handed Windows power users a direct key to hidden Windows 11 features, exposing both the company’s development opacity and a broader security blind spot.
 
@@ -53,3 +55,7 @@ Microsoft’s official stance, as noted in a prior Insider Program blog post, ac
 The two stories—StagingTool’s leak and the Recall injection—highlight a paradox in Microsoft’s development philosophy. On one hand, the company embraces a “continuous innovation” model that ships incremental changes behind feature flags. On the other hand, the very mechanisms that enable rapid iteration become attack vectors when exposed. Power users relish the ability to peek behind the curtain, but that curiosity can inadvertently weaken the platform’s security posture.
 
 If Microsoft wants to preserve the benefits of feature‑flag agility without handing out the keys, it will need to harden the processes that expose those flags. That could mean adding PPL or AppContainer protections to UI hosts like AIXHost.exe, or encrypting feature‑ID mappings in a way that only signed internal tools can read. Until then, the community will continue to walk the line between productive tinkering and exploitable exposure, and every leaked tool or uncovered vulnerability will shift the balance.
+
+## Updates
+
+- **2026-05-18** — Musk v. Altman proved that AI is led by the wrong people ([source](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people))

@@ -1,18 +1,19 @@
 ---
 title: "Apple Wallet's Digital ID Expands to Age Verification"
 date: 2026-04-27T03:36:39.716Z
-modified_date: 2026-04-29T14:10:04.058Z
+modified_date: 2026-05-18T21:16:27.927Z
 tags: ["Apple","Digital ID","Financial Inclusion"]
 hero_image: "/hero/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.jpg"
 hero_image_credit_name: "Emil Kalibradov"
 hero_image_credit_url: "https://www.pexels.com/@emil-kalibradov-3013808"
 visual_keyword: "Apple Wallet"
 description: "Apple Wallet's Digital ID feature now supports age verification on iPhone, expanding its use beyond identification."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.mp3"
 audio_bytes: 608802
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,4 +73,5 @@ In conclusion, the expansion of Apple's Digital ID feature to include age verifi
 
 ## Updates
 
+- **2026-05-18** — Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day ([source](https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale))
 - **2026-04-29** — John Ternus faces critical decisions on iPhone pricing and US manufacturing – FT ([source](https://9to5mac.com/2026/04/29/john-ternus-faces-critical-decisions-on-iphone-pricing-and-us-manufacturing-ft/))

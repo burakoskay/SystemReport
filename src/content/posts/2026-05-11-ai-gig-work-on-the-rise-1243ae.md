@@ -1,14 +1,16 @@
 ---
 title: "AI Gig Work on the Rise"
 date: 2026-05-11T11:30:44.767Z
+modified_date: 2026-05-18T21:16:12.238Z
 tags: ["AI","Gig Work","Tech Industry"]
 hero_image: "/hero/2026-05-11-ai-gig-work-on-the-rise-1243ae.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI gig work increases"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## AI Gig Work Takes Hold
 AI gig work has become a reality for many. In eight months, I've completed 20 contracts for five different platforms. This surge in AI-generated content has disrupted the tech market. The rise of AI gig work is not limited to the tech industry, as it has also been observed in the entertainment sector. For instance, screenwriters are now secretly training AI, and AI gig work has become the new waiting tables for many.
@@ -26,3 +28,7 @@ The concept of AI gig work is not new. However, the recent surge in AI-generated
 The technical mechanics of AI-generated content are complex. AI algorithms are used to generate code, but human developers are needed to correct and steer it. The design choice of using AI-generated content is crucial, as it allows for more efficient and productive software development. The use of AI in software development has also raised concerns about bias and fairness in AI decision-making. For example, AI algorithms can be biased if they are trained on biased data, which can lead to unfair outcomes.
 ## Downstream Implications
 The downstream implications of AI gig work are significant. The rise of AI-generated content will lead to changes in the job market, with some jobs becoming obsolete. However, it will also create new opportunities for human developers who can work alongside AI. The decision to invest in AI technology will be crucial for companies looking to stay competitive in the market. Companies that fail to adapt to the changing market may struggle to remain relevant, while companies that invest in AI technology may see significant benefits.
+
+## Updates
+
+- **2026-05-18** — Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare ([source](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/))

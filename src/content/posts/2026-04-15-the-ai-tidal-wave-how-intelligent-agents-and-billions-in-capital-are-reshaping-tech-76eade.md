@@ -1,16 +1,17 @@
 ---
 title: "The AI Tidal Wave: Agents and Billions Reshape Tech"
 date: 2026-04-15T19:47:53.588Z
-modified_date: 2026-05-16T22:52:58.862Z
+modified_date: 2026-05-18T21:16:38.500Z
 tags: ["ai","artificial intelligence","agentic ai","tech investment","innovation"]
 hero_image: "/hero/2026-04-15-the-ai-tidal-wave-how-intelligent-agents-and-billions-in-capital-are-reshaping-tech-76eade.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI intelligence network"
 description: "AI is rapidly democratizing complex tech like chip design and fueling agentic platforms. Billions in investment signal a pivotal shift, reshaping industries and user experiences."
-sources_count: 16
+sources_count: 17
 author: "maya-chen"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The rise of agentic AI is equally compelling. OpenAI's enhanced Agents SDK under
 
 ## Updates
 
+- **2026-05-18** — Apple Watch sleep score became more useful for me with these settings ([source](https://9to5mac.com/2026/05/18/apple-watch-sleep-score-became-more-useful-for-me-with-these-settings/))
 - **2026-05-16** — What to read this weekend: Celestial Lights and If Destruction Be Our Lot ([source](https://www.engadget.com/2174600/what-to-read-this-weekend-celestial-lights-if-destruction-be-our-lot/))
 - **2026-05-13** — Deterministic Fully-Static Whole-Binary Translation Without Heuristics ([source](https://arxiv.org/abs/2605.08419))
 - **2026-05-07** — Apple hits milestone in development of AirPods with cameras: report ([source](https://9to5mac.com/2026/05/07/apple-hits-milestone-in-development-of-airpods-with-cameras-report/))

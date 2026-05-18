@@ -1,14 +1,16 @@
 ---
 title: "Apple Faces Mac Supply Constraints Amid AI Demand"
 date: 2026-04-30T22:57:10.211Z
+modified_date: 2026-05-18T21:16:22.676Z
 tags: ["Apple","AI","Mac"]
 hero_image: "/hero/2026-04-30-apple-faces-mac-supply-constraints-amid-ai-demand-c6c0ee.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac mini"
 description: "Apple reports surprise AI-driven Mac demand"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 ## AI-Driven Demand Constrains Mac Supply
@@ -50,3 +52,7 @@ The history of AI-driven demand for Macs is an important context for understandi
 The AI-driven demand for Macs is part of a broader trend in the tech industry. Companies across various sectors are investing heavily in AI research and development, driving demand for high-performance computing hardware. This trend is expected to continue, with AI applications becoming increasingly ubiquitous.
 
 The broader industry trends are an important context for understanding the AI-driven demand for Macs. By examining the trends and their implications, Apple can better anticipate and respond to the needs of its customers, and make strategic decisions about its product lineup and manufacturing operations.
+
+## Updates
+
+- **2026-05-18** — PlayStation exclusives aren&#8217;t coming to PC anymore ([source](https://www.theverge.com/games/932817/playstation-exclusive-games-pc))

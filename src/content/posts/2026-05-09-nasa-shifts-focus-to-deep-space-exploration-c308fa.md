@@ -1,16 +1,17 @@
 ---
 title: "NASA Shifts Focus to Deep Space Exploration"
 date: 2026-05-09T20:52:34.045Z
-modified_date: 2026-05-14T14:25:59.449Z
+modified_date: 2026-05-18T21:16:14.886Z
 tags: ["NASA","Deep Space Exploration","Lunar Lander"]
 hero_image: "/hero/2026-05-09-nasa-shifts-focus-to-deep-space-exploration-c308fa.jpg"
 hero_image_credit_name: "Frankie Hatton"
 hero_image_credit_url: "https://www.pexels.com/@frankie-hatton-225801"
 visual_keyword: "NASA"
 description: "NASA partners with Blue Origin and South Korea for lunar and deep space missions, while also addressing astronaut safety and talent acquisition."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -82,4 +83,5 @@ As the agency continues to collaborate with commercial partners and internationa
 
 ## Updates
 
+- **2026-05-18** — These 11 Automatic Cat Feeders Were the Best We Tested in 2026 ([source](https://www.wired.com/gallery/best-automatic-cat-feeders/))
 - **2026-05-14** — Gen Z Is Pioneering a New Understanding of Truth ([source](https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/))

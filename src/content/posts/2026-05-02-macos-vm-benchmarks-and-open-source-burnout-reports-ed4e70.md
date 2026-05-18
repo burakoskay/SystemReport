@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-05-10T11:03:11.043Z
+modified_date: 2026-05-18T21:16:35.862Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-05-18** — iPhone 18 Pro release date: Here’s when Apple’s new model is coming ([source](https://9to5mac.com/2026/05/18/iphone-18-release-date-when-apples-new-model-is-coming/))
 - **2026-05-10** — How Handheld Translators Work and Why They’re Handy for Travel ([source](https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/))
 - **2026-05-07** — Disney looking to make a unified ‘super app,’ report says ([source](https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/))
 

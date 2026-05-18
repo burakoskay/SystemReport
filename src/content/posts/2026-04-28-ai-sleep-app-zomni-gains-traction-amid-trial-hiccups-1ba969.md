@@ -1,16 +1,17 @@
 ---
 title: "AI Sleep App Zomni Gains Traction Amid Trial Hiccups"
 date: 2026-04-28T06:52:11.898Z
-modified_date: 2026-05-01T15:00:56.722Z
+modified_date: 2026-05-18T21:16:17.479Z
 tags: ["ai health tech","cbt-i app","sleep tracking","mobile app updates","user feedback"]
 hero_image: "/hero/2026-04-28-ai-sleep-app-zomni-gains-traction-amid-trial-hiccups-1ba969.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "AI sleep coaching app interface on iPhone with dark mode"
 description: "Zomni's CBT-I app faces trial issues but wins praise for simplicity and effectiveness."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Rise of a Sleep Coaching App
@@ -37,4 +38,5 @@ Zomni’s next moves will test its ability to balance rapid expansion with quali
 
 ## Updates
 
+- **2026-05-18** — Leica Cine Play 1 Review: Pricey but Worth Every Penny ([source](https://www.wired.com/review/review-leica-cine-play-1/))
 - **2026-05-01** — Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic ([source](https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia))

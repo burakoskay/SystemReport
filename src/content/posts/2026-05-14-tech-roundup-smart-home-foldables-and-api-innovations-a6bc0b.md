@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: Smart Home, Foldables, and API Innovations"
 date: 2026-05-14T14:32:36.606Z
+modified_date: 2026-05-18T21:16:20.091Z
 tags: ["smart home","foldable phones","API innovations"]
 hero_image: "/hero/2026-05-14-tech-roundup-smart-home-foldables-and-api-innovations-a6bc0b.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "This week's tech news covers smart home devices, foldable phone reviews, and API innovations in observability and job application tracking."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Smart Home and Microgreens
@@ -76,3 +78,6 @@ The foldable phone market is also likely to have significant implications for th
 
 The API space is also likely to have significant implications for the way we work and interact with technology. For example, it could enable new forms of automation and artificial intelligence.
 
+## Updates
+
+- **2026-05-18** — Volvo teases a new affordable EV to replace discontinued EX30 ([source](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60))
