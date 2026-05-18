@@ -1,14 +1,16 @@
 ---
 title: "Canvas Hack Paralyzes Thousands of Schools"
 date: 2026-05-08T09:35:14.308Z
+modified_date: 2026-05-18T23:07:08.955Z
 tags: ["cybersecurity","education","ransomware"]
 hero_image: "/hero/2026-05-08-canvas-hack-paralyzes-thousands-of-schools-9c884d.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "cyberattack"
 description: "Instructure's Canvas platform shut down after ShinyHunters breach, claiming data from nearly 9,000 schools stolen."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## ShinyHunters Breach Locks Out Thousands
@@ -55,3 +57,6 @@ The breach may also lead to increased regulatory scrutiny of Instructure and the
 
 The Canvas breach has significant implications for the education sector, highlighting the need for institutions to prioritize cybersecurity and invest in robust protection. The incident demonstrates the potential consequences of a data breach, including reputational damage, financial losses, and disruptions to educational activities. As the education sector continues to rely on digital platforms, it is essential that institutions take proactive steps to protect their data and prevent similar breaches in the future.
 
+## Updates
+
+- **2026-05-18** — MagSafe Monday: The UGREEN Nexode Power Bank might be the ultimate 3-in-1 MagSafe charger ([source](https://9to5mac.com/2026/05/18/the-ugreen-nexode-power-bank-might-be-the-ultimate-3-in-1-charger/))
