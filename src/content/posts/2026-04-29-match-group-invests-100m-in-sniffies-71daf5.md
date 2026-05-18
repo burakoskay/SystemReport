@@ -1,14 +1,16 @@
 ---
 title: "Match Group Invests $100M in Sniffies"
 date: 2026-04-29T06:28:58.657Z
+modified_date: 2026-05-18T18:04:38.431Z
 tags: ["Match Group","Sniffies","Online Dating"]
 hero_image: "/hero/2026-04-29-match-group-invests-100m-in-sniffies-71daf5.jpg"
 hero_image_credit_name: "Italo Crespi"
 hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
-sources_count: 1
+sources_count: 2
 ---
+
 
 ## Introduction to Sniffies
 Match Group invested $100M in Sniffies, a cruising app for gay men, as its newest attempt to re-energize mobile users' interest in online romance.
@@ -54,3 +56,7 @@ The investment in Sniffies is a significant development in this market, as it hi
 The investment in Sniffies is not the first time that Match Group has sought to expand its offerings and appeal to more specific niche markets. The company has a history of investing in and acquiring other dating apps and websites, as it seeks to provide a range of options for its users.
 
 The investment in Sniffies is a significant development in this trend, as it highlights the growing importance of niche dating apps and the need for companies to provide unique and tailored experiences for their users. As the market continues to evolve, it is likely that we will see more companies seeking to expand their offerings and appeal to more specific niche markets.
+
+## Updates
+
+- **2026-05-18** — Today’s Android app deals and freebies: Greak Memories of Azur, Bloons TD 6, more ([source](https://9to5toys.com/2026/05/18/android-app-deals-free-greak-azur-bloons/))

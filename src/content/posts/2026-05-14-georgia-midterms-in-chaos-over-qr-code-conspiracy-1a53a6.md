@@ -1,18 +1,20 @@
 ---
 title: "Georgia Midterms in Chaos Over QR Code Conspiracy"
 date: 2026-05-14T03:53:11.300Z
+modified_date: 2026-05-18T18:04:42.489Z
 tags: ["elections","misinformation","voting technology"]
 hero_image: "/hero/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "QR code"
 description: "Georgia bans QR codes in elections due to conspiracy theories, leaving ballot counting uncertain."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.mp3"
 audio_bytes: 613818
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Georgia's QR Code Conundrum
@@ -62,3 +64,7 @@ Election experts have weighed in on the controversy, highlighting the need for a
 ## The Road Ahead
 
 As the midterm elections approach, election officials in Georgia and across the country must prioritize the security and accuracy of the voting process. This will involve implementing alternative methods for counting ballots, as well as addressing the spread of misinformation and conspiracy theories. The integrity of the electoral process depends on the ability of election officials and lawmakers to navigate these complex challenges and ensure that the voices of voters are heard.
+
+## Updates
+
+- **2026-05-18** — The jury in the OpenAI case has ruled against Elon Musk ([source](https://www.engadget.com/2175740/the-jury-in-the-openai-case-has-ruled-against-elon-musk/))

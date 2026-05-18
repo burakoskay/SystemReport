@@ -1,16 +1,17 @@
 ---
 title: "New Co‑op Shooter, Horror Mode, and Classic Remaster Hit Summer"
 date: 2026-05-08T19:39:29.080Z
-modified_date: 2026-05-11T22:59:54.023Z
+modified_date: 2026-05-18T18:04:46.495Z
 tags: ["gaming","releases","remaster"]
 hero_image: "/hero/2026-05-08-new-co-op-shooter-horror-mode-and-classic-remaster-hit-summer-71408e.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "gaming controllers and retro game box art on a sleek table"
 description: "Aliens: Fireteam Elite 2 adds four‑player co‑op and new classes, Resident Evil Requiem launches a Leon‑only mode, and Sony upgrades Ico and Shadow of the Colossus."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Aliens: Fireteam Elite 2 expands co‑op
@@ -53,4 +54,5 @@ Track the server performance metrics for Aliens: Fireteam Elite 2 once it launch
 
 ## Updates
 
+- **2026-05-18** — Volvo reveals $58,400 starting price for the EX60 ([source](https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/))
 - **2026-05-11** — Astronomers use the Webb telescope to improve our map of the cosmic web ([source](https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/))

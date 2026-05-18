@@ -1,15 +1,17 @@
 ---
 title: "Why New Software Installs Are Riskier Than You Think"
 date: 2026-05-08T03:49:14.704Z
+modified_date: 2026-05-18T18:04:36.362Z
 tags: ["security","software","open-source","ai"]
 hero_image: "/hero/2026-05-08-why-new-software-installs-are-riskier-than-you-think-90ad96.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "software engineer hesitating before clicking install button on laptop"
 description: "Fresh installs expose systems to zero‑day flaws, data theft claims, and a security talent gap that big‑tech funding alone can’t fix."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Pause Before You Click Install
 
@@ -48,3 +50,7 @@ Adopting such a holistic engineering approach does not replace the need for time
 ## What to Watch
 
 Watch for a patched release of IPsec‑tools from the upstream maintainers and any official response from Instructure regarding the Canvas breach. Track Anthropic’s progress reports to the PSF for concrete security milestones on CPython and PyPI. Finally, monitor early adopters of the Agno framework for real‑world evidence that its “no‑telemetry” claim translates into measurable risk reduction. The next few months will reveal whether cautious install habits, faster patch cycles, and tighter engineering practices can outpace the relentless stream of new vulnerabilities.
+
+## Updates
+
+- **2026-05-18** — Elon Musk lost his case against Sam Altman ([source](https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial))
