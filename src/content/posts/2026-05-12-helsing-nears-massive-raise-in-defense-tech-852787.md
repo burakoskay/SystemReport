@@ -1,14 +1,16 @@
 ---
 title: "Helsing Nears Massive Raise in Defense Tech"
 date: 2026-05-12T03:46:14.918Z
+modified_date: 2026-05-18T10:14:16.453Z
 tags: ["Defense Tech","Military Drones","Startup Funding"]
 hero_image: "/hero/2026-05-12-helsing-nears-massive-raise-in-defense-tech-852787.jpg"
 hero_image_credit_name: "Emre Koşak"
 hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "military_drone"
 description: "European military drone startup Helsing close to raising another monster round."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 ## Helsing's Big Raise
@@ -50,3 +52,7 @@ The investment round is expected to attract significant interest from investors,
 ## Market Size
 
 The global military drone market size is projected to reach $15B by 2025, with a compound annual growth rate (CAGR) of 12%. Helsing's products and services are being sought after by governments and military organizations, driving the company's revenue. The company's success could have significant implications for the broader defense tech industry, driving further investments and innovation in the sector.
+
+## Updates
+
+- **2026-05-18** — Disco Elysium’s spiritual successor can&#8217;t escape its phantoms ([source](https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium))
