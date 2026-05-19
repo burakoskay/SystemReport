@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Breaks Microsoft's Hold"
 date: 2026-04-27T21:08:45.859Z
-modified_date: 2026-05-06T14:25:42.458Z
+modified_date: 2026-05-19T03:59:12.338Z
 tags: ["OpenAI","Microsoft","Cloud Computing","AI"]
 hero_image: "/hero/2026-04-27-openai-breaks-microsoft-s-hold-44e806.jpg"
 hero_image_credit_name: "Antoni Shkraba Studio"
 hero_image_credit_url: "https://www.pexels.com/@shkrabaanthony"
 visual_keyword: "Cloud Computing"
 description: "OpenAI ends exclusivity with Microsoft, allowing it to sell products on AWS and other cloud providers."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In conclusion, the updated partnership between OpenAI and Microsoft marks a sign
 
 ## Updates
 
+- **2026-05-19** — The FBI Wants to Buy Nationwide Access to License Plate Readers ([source](https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/))
 - **2026-05-06** — Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker ([source](https://www.wired.com/review/focal-muso-hekla/))
 - **2026-04-29** — Microsoft reports sinking Xbox revenue as its cloud business climbs ([source](https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings))
 - **2026-04-28** — GitHub Actions is the weakest link ([source](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html))

@@ -1,16 +1,17 @@
 ---
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students"
 date: 2026-04-15T19:46:25.489Z
-modified_date: 2026-05-11T15:21:34.076Z
+modified_date: 2026-05-19T03:59:09.686Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
 hero_image: "/hero/2026-04-15-redmond-s-rebuttal-microsoft-sweetens-the-deal-for-students-amidst-macbook-neo-frenzy-6b35ac.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ This battle for the student market is more than just a fleeting skirmish over sa
 
 ## Updates
 
+- **2026-05-19** — LG will release the first 1000Hz, 1080p gaming monitor this year ([source](https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b))
 - **2026-05-11** — Smart AirPods cameras could be a killer feature – if they work ([source](https://9to5mac.com/2026/05/11/smart-airpods-cameras-could-be-a-killer-feature-if-they-work/))
 - **2026-05-08** — All the latest updates on AI data centers ([source](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy))
 - **2026-05-07** — Spotify now lets AI agents like OpenClaw generate personal podcasts ([source](https://www.engadget.com/2166997/spotify-now-lets-ai-agents-like-openclaw-generate-personal-podcasts/))
