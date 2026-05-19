@@ -1,18 +1,20 @@
 ---
 title: "Obsidian Plugin Abused to Deploy RAT"
 date: 2026-05-11T04:00:30.431Z
+modified_date: 2026-05-19T23:08:04.396Z
 tags: ["plugin security","malware","Obsidian"]
 hero_image: "/hero/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.jpg"
 hero_image_credit_name: "Techivation"
 hero_image_credit_url: "https://www.pexels.com/@techivation-76108219"
 visual_keyword: "Obsidian plugin"
 description: "Malicious actors exploit Obsidian plugin to spread Phantom Pulse remote access trojan, raising concerns about plugin security."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.mp3"
 audio_bytes: 582680
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Malicious Actors Exploit Obsidian Plugin
 
@@ -63,3 +65,7 @@ As the software industry continues to evolve, it will be important to watch for 
 In the coming weeks and months, it will be important to monitor the Obsidian development team's efforts to improve plugin security, as well as any changes to the plugin ecosystem. By staying informed and taking steps to protect themselves, users can reduce the risk of falling victim to malicious plugins.
 
 The incident serves as a reminder of the importance of robust security measures and the need for users and developers to be vigilant. By working together, we can create a safer and more secure plugin ecosystem.
+
+## Updates
+
+- **2026-05-19** — Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal ([source](https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/))
