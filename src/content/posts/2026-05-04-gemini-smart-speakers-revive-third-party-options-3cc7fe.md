@@ -1,15 +1,17 @@
 ---
 title: "Gemini Smart Speakers Revive Third-Party Options"
 date: 2026-05-04T03:42:18.341Z
+modified_date: 2026-05-19T15:35:12.918Z
 tags: ["Google","Smart Speakers","Gemini"]
 hero_image: "/hero/2026-05-04-gemini-smart-speakers-revive-third-party-options-3cc7fe.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "smart speaker"
 description: "Google's Gemini era may bring new third-party smart speakers, ending a drought in the market. The move could increase competition in the smart home sector."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## Google Revives Third-Party Smart Speakers with Gemini
@@ -64,3 +66,6 @@ In conclusion, the revival of third-party smart speakers in the Gemini era could
 
 The future of the smart speaker market looks promising, with new technologies and innovations emerging. The integration of smart speakers with other smart home devices could lead to new use cases and applications. For example, smart speakers could be used to control lighting, temperature, and security systems in homes. The possibilities are endless, and it will be exciting to see how the market evolves in the coming years.
 
+## Updates
+
+- **2026-05-19** — Google I/O 2026: Live updates as the company announces new features for Gemini, AI, Search and more ([source](https://www.engadget.com/2176173/google-io-live-blog-gemini-ai/))

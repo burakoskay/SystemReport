@@ -1,15 +1,17 @@
 ---
 title: "Apple's iOS Updates"
 date: 2026-04-29T10:11:35.903Z
+modified_date: 2026-05-19T15:35:31.104Z
 tags: ["Apple","iOS","privacy"]
 hero_image: "/hero/2026-04-29-apple-s-ios-updates-a3b135.jpg"
 hero_image_credit_name: "hartono subagio"
 hero_image_credit_url: "https://www.pexels.com/@hartonosbg"
 visual_keyword: "Apple"
 description: "Apple releases iOS updates with new features and security patches, while facing controversy over privacy features and lawsuits."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Apple's Latest Moves
 
@@ -54,3 +56,7 @@ The rollout of ATT will have significant implications for the advertising indust
 ## Conclusion
 
 In conclusion, Apple's latest iOS updates and features demonstrate the company's commitment to innovation and security. However, the ongoing controversies and lawsuits surrounding the company's decisions will be essential to watch in the coming months. As the tech industry continues to evolve, Apple's role in shaping the future of data collection, user consent, and security will be crucial.
+
+## Updates
+
+- **2026-05-19** — Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality ([source](https://9to5mac.com/2026/05/19/apple-announces-ai-powered-accessibility-features-and-eye-controlled-wheelchair-functionality/))

@@ -1,18 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-05-04T17:45:57.502Z
+modified_date: 2026-05-19T15:35:25.901Z
 tags: ["AI","Elon Musk","OpenAI","Lawsuit"]
 hero_image: "/hero/2026-05-04-musk-sues-openai-4e01e4.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Elon Musk's lawsuit against OpenAI and Sam Altman began with jury selection"
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-05-04-musk-sues-openai-4e01e4.mp3"
 audio_bytes: 584560
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Trial
 Elon Musk and Sam Altman, two influential figures in the tech industry, are facing off in a high-stakes trial. The lawsuit, filed by Musk in 2024, accuses Altman and OpenAI of betraying their founding mission to prioritize profits over the public good.
@@ -58,3 +60,7 @@ The AI safety community has warned about the potential risks of AI, including th
 The outcome of the case will have significant implications for the AI industry and the broader tech community. If Musk's lawsuit is successful, it could derail OpenAI's plans for an initial public offering (IPO) and potentially limit the company's ability to raise external funding.
 
 The case will also highlight the importance of transparency and accountability in the AI industry. As AI becomes more powerful and pervasive, there is a growing need for companies to be transparent about their development and deployment of AI, and to be held accountable for any negative consequences.
+
+## Updates
+
+- **2026-05-19** — Fortnite is back on the App Store worldwide, says Epic Games ([source](https://9to5mac.com/2026/05/19/fortnite-is-back-on-the-app-store-worldwide-says-epic-games/))

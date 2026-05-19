@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Invest in AI, Nuclear Power"
 date: 2026-04-21T17:11:15.962Z
-modified_date: 2026-05-12T18:03:54.892Z
+modified_date: 2026-05-19T15:35:15.526Z
 tags: ["ai","nuclear power","social media"]
 hero_image: "/hero/2026-04-21-tech-giants-invest-in-ai-nuclear-power-e09c8a.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "a robotic figure running a half marathon"
 description: "Recent investments and innovations in AI, nuclear power, and social media aim to tackle issues like loneliness, misinformation, and user engagement."
-sources_count: 14
+sources_count: 15
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -77,5 +78,6 @@ As these innovations continue to unfold, it's essential to track their progress 
 
 ## Updates
 
+- **2026-05-19** — This free camera app adapts to your shot and ditches overprocessing, and it’s only on Android [Gallery] ([source](https://9to5google.com/2026/05/19/vwfndr-mbl-android-camera-app/))
 - **2026-05-12** — Indigo brings the open social web to one app ([source](https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/))
 - **2026-04-22** — Join Our Livestream: Musk v. Altman and the Future of OpenAI ([source](https://www.wired.com/story/livestream-musk-v-altman-trial/))

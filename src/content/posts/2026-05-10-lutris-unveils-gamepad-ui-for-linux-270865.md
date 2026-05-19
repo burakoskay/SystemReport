@@ -1,15 +1,16 @@
 ---
 title: "Lutris Unveils Gamepad UI for Linux"
 date: 2026-05-10T13:45:41.332Z
-modified_date: 2026-05-16T03:35:06.433Z
+modified_date: 2026-05-19T15:34:49.314Z
 tags: ["Linux gaming","Lutris","Gamepad UI"]
 hero_image: "/hero/2026-05-10-lutris-unveils-gamepad-ui-for-linux-270865.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 
@@ -55,4 +56,5 @@ In conclusion, the introduction of the gamepad UI by Lutris marks a significant 
 
 ## Updates
 
+- **2026-05-19** — The Best Action Cameras for All Your Craziest Adventures (2026) ([source](https://www.wired.com/gallery/best-action-cameras/))
 - **2026-05-16** — Apple Cash is down for some iPhone users in the U.S. ([source](https://9to5mac.com/2026/05/15/apple-cash-is-down-for-some-iphone-users-in-the-u-s/))

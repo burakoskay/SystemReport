@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Updates"
 date: 2026-05-16T17:03:40.149Z
+modified_date: 2026-05-19T15:34:57.257Z
 tags: ["OpenAI","ChatGPT","AI","Mental Health"]
 hero_image: "/hero/2026-05-16-openai-updates-b63a0e.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "OpenAI addresses security concerns and mental health risks with ChatGPT updates"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Introduction to OpenAI's Latest Moves
 OpenAI co-founder Greg Brockman has taken charge of product strategy. The company plans to combine ChatGPT and Codex.
@@ -62,3 +64,7 @@ OpenAI's updates are a significant development in the tech industry. Users shoul
 As OpenAI continues to develop and improve its AI-powered tools, it will be important to monitor the company's progress. The company's commitment to prioritizing user safety and well-being is a positive step, but more work is needed to fully address the risks associated with AI.
 
 The tech industry as a whole will need to continue to grapple with the implications of AI on mental health. As AI becomes more widespread, companies will need to prioritize user safety and well-being, and work to develop more advanced and sophisticated tools for mental health support.
+
+## Updates
+
+- **2026-05-19** — America’s dangerous, messy deepfakes crackdown is here ([source](https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake))
