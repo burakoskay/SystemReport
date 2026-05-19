@@ -1,15 +1,17 @@
 ---
 title: "Google Embeds Gemini Nano AI in Chrome Silently"
 date: 2026-05-05T10:17:26.608Z
+modified_date: 2026-05-19T18:10:17.442Z
 tags: ["chrome","ai","privacy","google","webgpu"]
 hero_image: "/hero/2026-05-05-google-embeds-gemini-nano-ai-in-chrome-silently-8fd1d8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "browser with hidden AI model"
 description: "Google integrates Gemini Nano into Chrome 126 without explicit user consent, raising privacy concerns."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## Google Embeds Gemini Nano AI in Chrome Without Opt-In
 
@@ -38,3 +40,7 @@ Regulators may scrutinize the rollout. The European Union’s Digital Markets Ac
 ## What to Watch
 
 Google’s Chrome 126 stable release in late 2024 will be a key metric. Track user adoption rates and storage complaints, particularly in emerging markets where low-end hardware is common. Second, monitor the Rival Lens extension on HN for any shifts in model metadata accuracy—its ability to detect Gemini Nano will test Google’s claims about local execution. Finally, watch the EU’s Digital Markets Act enforcement timeline; if regulators classify Chrome as a gatekeeper, they may order a rollback of the silent integration.
+
+## Updates
+
+- **2026-05-19** — Google is adding AI detection for photos, videos, and audio to Search and Chrome ([source](https://9to5google.com/2026/05/19/google-is-adding-ai-detection-for-photos-videos-and-audio-to-search-and-chrome/))

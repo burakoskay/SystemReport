@@ -1,16 +1,17 @@
 ---
 title: "Google Expands Preferred Sources and Tightens Search Policies"
 date: 2026-04-30T21:21:32.057Z
-modified_date: 2026-05-10T03:43:42.477Z
+modified_date: 2026-05-19T18:09:34.096Z
 tags: ["google","search","ai"]
 hero_image: "/hero/2026-04-30-google-expands-preferred-sources-and-tightens-search-policies-cd75ba.jpg"
 hero_image_credit_name: "Sarah Blocksidge"
 hero_image_credit_url: "https://www.pexels.com/@sarah-blocksidge-69426152"
 visual_keyword: "Google search interface with highlighted Preferred Sources and updated spam policy notices"
 description: "Google rolls out global Preferred Sources and March 2024 spam policies to enhance search quality."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Google’s next moves will determine if these updates are evolutionary or revolu
 
 ## Updates
 
+- **2026-05-19** — Google Search as you know it is over ([source](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/))
 - **2026-05-10** — Distributing Mac software is increasing my cortisol levels ([source](https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels))
 - **2026-05-08** — The Morning After: Google's new wearable doesn't have a screen ([source](https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/))

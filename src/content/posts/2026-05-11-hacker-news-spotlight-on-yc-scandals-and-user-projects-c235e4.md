@@ -1,14 +1,16 @@
 ---
 title: "Hacker News Spotlight on YC Scandals and User Projects"
 date: 2026-05-11T07:54:56.811Z
+modified_date: 2026-05-19T18:10:06.660Z
 tags: ["YC","Hacker News","startup ecosystem"]
 hero_image: "/hero/2026-05-11-hacker-news-spotlight-on-yc-scandals-and-user-projects-c235e4.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "YC scandals and Hacker News users' projects discussed. What's new in tech?"
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## YC's Turbulent Times
@@ -61,3 +63,6 @@ YC's response to scrutiny and the successes or setbacks of Hacker News users' pr
 
 The response of YC and other stakeholders will be crucial in shaping the future of the startup ecosystem. As the industry continues to grow and evolve, it is essential to prioritize accountability and transparency. The discussions on Hacker News and the scandals surrounding YC are just the beginning of a broader conversation about the role of technology in society.
 
+## Updates
+
+- **2026-05-19** — Spotify confirms CarPlay bug causing wrong song info to appear ([source](https://9to5mac.com/2026/05/19/spotify-confirms-carplay-bug-causing-wrong-song-info-to-appear/))

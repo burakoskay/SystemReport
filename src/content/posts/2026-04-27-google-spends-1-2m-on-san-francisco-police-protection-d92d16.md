@@ -1,18 +1,19 @@
 ---
 title: "Google Spends $1.2M on San Francisco Police Protection"
 date: 2026-04-27T10:26:35.890Z
-modified_date: 2026-05-14T23:01:34.503Z
+modified_date: 2026-05-19T18:10:12.073Z
 tags: ["Google","AI Edge","Police Protection Spending"]
 hero_image: "/hero/2026-04-27-google-spends-1-2m-on-san-francisco-police-protection-d92d16.jpg"
 hero_image_credit_name: "Firmbee.com"
 hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google"
 description: "Google's new AI edge push and San Francisco tech firms' increased spending on police protection after the Altman attack."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-27-google-spends-1-2m-on-san-francisco-police-protection-d92d16.mp3"
 audio_bytes: 628446
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,4 +79,5 @@ In conclusion, Google's AI edge initiative is a significant move in the tech ind
 
 ## Updates
 
+- **2026-05-19** — XREAL’s Android XR glasses will launch before the end of 2026, early access for devs ([source](https://9to5google.com/2026/05/19/xreal-project-aura-android-xr-developers-2026-launch/))
 - **2026-05-14** — What the jury will actually decide in the case of Elon Musk vs. Sam Altman ([source](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/))

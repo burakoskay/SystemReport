@@ -1,16 +1,17 @@
 ---
 title: "Vine Returns, PS5 Runs Linux, Apple TV Revives “Trying”"
 date: 2026-04-29T14:23:13.991Z
-modified_date: 2026-05-18T23:07:03.655Z
+modified_date: 2026-05-19T18:10:01.269Z
 tags: ["vine","ps5","linux","apple tv","tech news"]
 hero_image: "/hero/2026-04-29-vine-returns-ps5-runs-linux-apple-tv-revives-trying-3cb918.jpg"
 hero_image_credit_name: "Ravi Roshan"
 hero_image_credit_url: "https://www.pexels.com/@ravi-roshan-2875998"
 visual_keyword: "six-second looping video interface on a smartphone"
 description: "Divine launches a six‑second video platform, a developer gets Linux on the PS5, and Apple TV announces a new season of the comedy Trying."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Divine’s user growth will reveal whether six‑second loops can survive in a T
 
 ## Updates
 
+- **2026-05-19** — A first (and second) look at the Android XR glasses launching this year ([source](https://www.theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026))
 - **2026-05-18** — PSA: The first F1 race on Netflix is this weekend ([source](https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/))
 - **2026-05-12** — iOS 27’s ‘completely rebuilt’ Siri will include a new system-wide search gesture: report ([source](https://9to5mac.com/2026/05/12/ios-27s-completely-rebuilt-siri-will-include-a-new-system-wide-search-gesture-report/))
 - **2026-05-11** — A Chevron Texas Power Plant Seeks School District Tax Break ([source](https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/))

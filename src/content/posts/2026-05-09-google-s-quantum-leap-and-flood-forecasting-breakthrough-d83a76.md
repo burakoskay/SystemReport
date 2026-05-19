@@ -1,15 +1,17 @@
 ---
 title: "Google's Quantum Leap and Flood Forecasting Breakthrough"
 date: 2026-05-09T17:13:32.783Z
+modified_date: 2026-05-19T18:10:20.104Z
 tags: ["quantum-computing","ai-forecasting","google-quantum","natural-disasters","tech-research"]
 hero_image: "/hero/2026-05-09-google-s-quantum-leap-and-flood-forecasting-breakthrough-d83a76.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google Quantum AI lab with neutral atoms and flood map projections"
 description: "Google Quantum AI expands into neutral atom computing while launching AI to predict urban floods"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Nut Graph
 Google Quantum AI is branching into neutral atom computing, a shift that could reshape quantum hardware timelines. Simultaneously, the company launched Groundsource, an AI tool to predict urban flash floods, expanding its crisis response capabilities.
@@ -39,3 +41,7 @@ But skeptics remain. A University of Sydney study found neutral atom systems req
 
 ## What to Watch
 Three timelines will define Google's success: 1) By mid-2025, will their neutral atom team demonstrate 10k qubit arrays with 1000 gate cycles? 2) Can Groundsource's flood model reduce Jakarta's annual flood damage by 15% by 2026? 3) When will Google's logical qubit hit 99% fidelity - a target Microsoft claims to be close to achieving? These milestones will determine whether this dual-track strategy delivers on its bold promises.
+
+## Updates
+
+- **2026-05-19** — Google gets ‘intelligent’ Search box redesign, information agents, mini apps, & more ([source](https://9to5google.com/2026/05/19/google-gets-intelligent-search-box-redesign/))

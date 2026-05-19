@@ -1,18 +1,20 @@
 ---
 title: "US Bets on AI to Catch Insider Trading"
 date: 2026-05-16T20:57:38.773Z
+modified_date: 2026-05-19T18:10:22.776Z
 tags: ["AI","insider trading","regulatory efforts"]
 hero_image: "/hero/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The Commodity Futures Trading Commission is using AI to detect insider trading in prediction markets. The move aims to prevent market manipulation."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.mp3"
 audio_bytes: 578082
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## US Bets on AI to Catch Insider Trading
@@ -63,3 +65,6 @@ The CFTC's use of AI to detect insider trading is a significant development in t
 
 As the use of AI in regulatory efforts continues to evolve, it is likely that we will see more regulatory agencies turning to these technologies to improve their oversight and enforcement efforts. It will be important to watch how different countries and regulatory agencies approach this issue, and to monitor the results of their efforts.
 
+## Updates
+
+- **2026-05-19** — These are the first Android XR audio glasses, coming this fall with iPhone support ([source](https://9to5google.com/2026/05/19/android-xr-audio-glasses/))
