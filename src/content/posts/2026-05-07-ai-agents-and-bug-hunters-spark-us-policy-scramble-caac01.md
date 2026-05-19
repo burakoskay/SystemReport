@@ -1,16 +1,17 @@
 ---
 title: "AI agents and bug hunters spark US policy scramble"
 date: 2026-05-07T23:13:35.000Z
-modified_date: 2026-05-12T14:35:37.858Z
+modified_date: 2026-05-19T21:24:35.265Z
 tags: ["ai","security","policy","space","tech"]
 hero_image: "/hero/2026-05-07-ai-agents-and-bug-hunters-spark-us-policy-scramble-caac01.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI code analysis robot beside satellite network"
 description: "Mozilla's AI bug scanner, Meta's shopping AI, and a US report on China's tech push converge to reshape security, commerce, and regulation."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## AI bug hunting moves from experiment to production
@@ -37,4 +38,5 @@ What to watch: The next quarterly release from Mozilla should reveal Mythos' fal
 
 ## Updates
 
+- **2026-05-19** — Democrats preview how they’d go after the Ticketmaster settlement if they regain power ([source](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement))
 - **2026-05-12** — There’s an internet choke point in the Middle East — is the solution in the North Pole? ([source](https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect))

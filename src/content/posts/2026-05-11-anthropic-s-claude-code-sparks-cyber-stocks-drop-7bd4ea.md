@@ -1,16 +1,17 @@
 ---
 title: "Anthropic's Claude Code Sparks Cyber Stocks Drop"
 date: 2026-05-11T11:42:37.615Z
-modified_date: 2026-05-13T18:06:15.861Z
+modified_date: 2026-05-19T21:24:38.068Z
 tags: ["cybersecurity","anthropic","ai-security","stock-market","software-vulnerabilities"]
 hero_image: "/hero/2026-05-11-anthropic-s-claude-code-sparks-cyber-stocks-drop-7bd4ea.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "ai security tool interface next to code"
 description: "Anthropic's new AI tool triggers market panic as cybersecurity stocks drop. Explore the implications for AI-driven security."
-sources_count: 9
+sources_count: 10
 author: "priya-raman"
 ---
+
 
 
 ## Anthropic's AI Tool Undermines Cybersecurity Market
@@ -43,4 +44,5 @@ Anthropic plans to expand Claude Code Security’s capabilities: integration wit
 
 ## Updates
 
+- **2026-05-19** — Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life ([source](https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball))
 - **2026-05-13** — Anthropic courts a new kind of customer: small business owners ([source](https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/))

@@ -1,16 +1,17 @@
 ---
 title: "Google's Gemini AI Hits the Road in Millions of Vehicles"
 date: 2026-04-30T19:44:27.553Z
-modified_date: 2026-05-13T18:06:26.314Z
+modified_date: 2026-05-19T21:24:29.715Z
 tags: ["Google","Gemini AI","Artificial Intelligence","Automotive"]
 hero_image: "/hero/2026-04-30-google-s-gemini-ai-hits-the-road-in-millions-of-vehicles-090957.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google Gemini AI"
 description: "Google's Gemini AI assistant is rolling out to millions of vehicles, bringing conversational AI to the driving experience."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The rollout of Google's Gemini AI assistant to millions of vehicles marks a sign
 
 ## Updates
 
+- **2026-05-19** — 9to5Mac Daily: May 19, 2026 – WWDC invites, iOS 27 expectations ([source](https://9to5mac.com/2026/05/19/daily-may-19-2026/))
 - **2026-05-13** — 9to5Mac Daily: May 13, 2026 – More iOS 27 rumors ([source](https://9to5mac.com/2026/05/13/daily-may-13-2026/))
 - **2026-05-07** — 9to5Mac Daily: May 7, 2026 – MacBook Neo production rumors, more ([source](https://9to5mac.com/2026/05/07/daily-may-7-2026/))

@@ -1,19 +1,20 @@
 ---
 title: "Georgia Midterms in Chaos Over QR Code Conspiracy"
 date: 2026-05-14T03:53:11.300Z
-modified_date: 2026-05-18T18:04:42.489Z
+modified_date: 2026-05-19T21:24:18.599Z
 tags: ["elections","misinformation","voting technology"]
 hero_image: "/hero/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "QR code"
 description: "Georgia bans QR codes in elections due to conspiracy theories, leaving ballot counting uncertain."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.mp3"
 audio_bytes: 613818
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ As the midterm elections approach, election officials in Georgia and across the 
 
 ## Updates
 
+- **2026-05-19** — The Apple Sports app expands to 90 new markets ahead of the World Cup ([source](https://www.engadget.com/2177172/apple-sports-app-expands-to-90-new-markets-ahead-of-the-world-cup/))
 - **2026-05-18** — The jury in the OpenAI case has ruled against Elon Musk ([source](https://www.engadget.com/2175740/the-jury-in-the-openai-case-has-ruled-against-elon-musk/))

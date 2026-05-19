@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-05-19T18:32:23.715Z",
+  "generated_at": "2026-05-19T21:37:29.344Z",
   "window_days": 7,
-  "total_records": 3281,
+  "total_records": 3454,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 719,
-      "success": 523,
-      "success_rate": 0.7273991655076495,
-      "latency_p50": 3427,
-      "latency_p95": 12199,
-      "response_chars_mean": 2980,
+      "calls": 743,
+      "success": 546,
+      "success_rate": 0.7348586810228802,
+      "latency_p50": 3628,
+      "latency_p95": 12555,
+      "response_chars_mean": 2979,
       "error_classes": {
-        "rate_limit": 168,
+        "rate_limit": 169,
         "unknown": 27,
         "too_large": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 149,
-      "success": 124,
-      "success_rate": 0.8322147651006712,
-      "latency_p50": 1168,
-      "latency_p95": 2004,
-      "response_chars_mean": 1775,
+      "calls": 159,
+      "success": 133,
+      "success_rate": 0.8364779874213837,
+      "latency_p50": 1199,
+      "latency_p95": 9888,
+      "response_chars_mean": 1750,
       "error_classes": {
-        "rate_limit": 25
+        "rate_limit": 26
       }
     },
     "lengthen:v1": {
-      "calls": 288,
-      "success": 239,
-      "success_rate": 0.8298611111111112,
-      "latency_p50": 2588,
-      "latency_p95": 4006,
-      "response_chars_mean": 5059,
+      "calls": 300,
+      "success": 251,
+      "success_rate": 0.8366666666666667,
+      "latency_p50": 2611,
+      "latency_p95": 9462,
+      "response_chars_mean": 4954,
       "error_classes": {
         "rate_limit": 46,
         "unknown": 3
       }
     },
     "rewrite-headline:v1": {
-      "calls": 25,
-      "success": 19,
-      "success_rate": 0.76,
-      "latency_p50": 273,
-      "latency_p95": 2724,
+      "calls": 28,
+      "success": 22,
+      "success_rate": 0.7857142857142857,
+      "latency_p50": 266,
+      "latency_p95": 2347,
       "response_chars_mean": 63,
       "error_classes": {
         "rate_limit": 3,

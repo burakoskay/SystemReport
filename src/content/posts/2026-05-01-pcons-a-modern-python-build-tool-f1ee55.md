@@ -1,18 +1,20 @@
 ---
 title: "Pcons, a Modern Python Build Tool"
 date: 2026-05-01T15:05:29.637Z
+modified_date: 2026-05-19T21:24:24.144Z
 tags: ["pcons","python","build tool","scons","cmake"]
 hero_image: "/hero/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "modern software build tool"
 description: "Pcons aims to fill a real need for a general-purpose broadly applicable extensible software build tool using a modern well-known language to describe builds and tools."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.mp3"
 audio_bytes: 550497
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Pcons: a modern Python build tool inspired by SCons and CMake
 
@@ -65,3 +67,7 @@ Pcons is a modern alternative to SCons and CMake, and fills a real need in the m
 ## Conclusion
 
 Pcons is a modern Python build tool inspired by SCons and CMake. It's designed to be easy to use, reliable, and quick, and fills a real need in the market. Keep an eye on the project's GitHub page for updates and releases.
+
+## Updates
+
+- **2026-05-19** — Android 17 QPR1 Beta 3: System UI adds more blur to Pixel ([source](https://9to5google.com/2026/05/19/android-17-beta-1-blur/))
