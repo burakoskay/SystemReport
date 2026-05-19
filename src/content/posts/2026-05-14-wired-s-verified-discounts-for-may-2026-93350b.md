@@ -1,14 +1,16 @@
 ---
 title: "WIRED's Verified Discounts for May 2026"
 date: 2026-05-14T06:50:12.741Z
+modified_date: 2026-05-19T07:54:53.259Z
 tags: ["Retail","Discounts","Promotions","Sephora","Birdfy"]
 hero_image: "/hero/2026-05-14-wired-s-verified-discounts-for-may-2026-93350b.jpg"
 hero_image_credit_name: "David Kouakou"
 hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
-sources_count: 9
+sources_count: 10
 ---
+
 
 ## Retailers Offer Exclusive Discounts
 Sephora's coupon earns more points on skincare purchases. Birdfy offers 15% off sitewide and up to 40% off smart feeders, camera kits, and accessories.
@@ -28,3 +30,7 @@ The discounts and promotions offered by these retailers will likely have signifi
 The retail industry is highly competitive, with many companies vying for customer attention and loyalty. The discounts and promotions offered by Sephora, Birdfy, and other retailers are just one aspect of their overall marketing strategy. To remain competitive, these companies will need to continue innovating and adapting to changing consumer behavior and technological advancements. This may involve investing in new technologies, such as augmented reality and artificial intelligence, to create more immersive and personalized shopping experiences.
 ## Consumer Behavior and Preferences
 Consumer behavior and preferences are constantly evolving, and retailers must be able to adapt to these changes in order to remain competitive. The discounts and promotions offered by Sephora, Birdfy, and other retailers are designed to appeal to a wide range of customers, from bargain hunters to loyal brand enthusiasts. By understanding consumer behavior and preferences, retailers can create targeted marketing campaigns and personalized offers that resonate with their target audience.
+
+## Updates
+
+- **2026-05-19** — Barkbox Promo Codes and Discounts: Up to 50% Off ([source](https://www.wired.com/story/barkbox-promo-code/))
