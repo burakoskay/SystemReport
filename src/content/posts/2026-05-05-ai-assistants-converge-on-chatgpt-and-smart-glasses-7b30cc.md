@@ -1,14 +1,16 @@
 ---
 title: "AI Assistants Converge on ChatGPT and Smart Glasses"
 date: 2026-05-05T17:33:06.426Z
+modified_date: 2026-05-19T11:25:19.645Z
 tags: ["AI Assistants","ChatGPT","Smart Glasses","Conversational Commerce"]
 hero_image: "/hero/2026-05-05-ai-assistants-converge-on-chatgpt-and-smart-glasses-7b30cc.jpg"
 hero_image_credit_name: "Krewr Studio"
 hero_image_credit_url: "https://www.pexels.com/@tezshekhawat"
 visual_keyword: "smart glasses"
 description: "Etsy and Meta integrate AI assistants into shopping and smart glasses, while Amazon enhances code development tools."
-sources_count: 6
+sources_count: 7
 ---
+
 
 # AI Assistants Converge on ChatGPT and Smart Glasses
 
@@ -55,3 +57,7 @@ The technical mechanics behind AI assistants involve complex machine learning al
 The integration of AI assistants across various platforms will continue to advance. With Alexa+ now available on Bose speakers, it's clear that AI-powered interfaces are becoming increasingly ubiquitous. As the technology continues to evolve, we can expect to see new and innovative applications of AI assistants in various industries, such as healthcare, finance, and education.
 
 The increasing adoption of AI assistants will have significant implications for businesses and consumers. For businesses, AI assistants can help streamline processes and improve customer experiences. For consumers, AI assistants can provide more intuitive and user-friendly interfaces, making it easier to interact with products and services.
+
+## Updates
+
+- **2026-05-19** — Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen ([source](https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/))
