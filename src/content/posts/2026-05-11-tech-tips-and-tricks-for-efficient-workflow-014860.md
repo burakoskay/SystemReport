@@ -1,15 +1,17 @@
 ---
 title: "Tech Tips and Tricks for Efficient Workflow"
 date: 2026-05-11T11:36:30.208Z
+modified_date: 2026-05-20T22:01:22.615Z
 tags: ["productivity","workflow","tech tips"]
 hero_image: "/hero/2026-05-11-tech-tips-and-tricks-for-efficient-workflow-014860.jpg"
 hero_image_credit_name: "Jolo Diaz"
 hero_image_credit_url: "https://www.pexels.com/@jolodiazr"
 visual_keyword: "keyboard shortcuts"
 description: "Discover practical tech tips and tricks for efficient workflow, from keyboard shortcuts to handy tools and strategies."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Mastering Keyboard Shortcuts
@@ -80,3 +82,6 @@ In addition to improving job satisfaction and performance, efficient workflow an
 
 In conclusion, tech tips and tricks are essential for efficient workflow and productivity. By mastering keyboard shortcuts, using handy tools, and developing efficient strategies, you can stay ahead of the curve and make a significant impact in your field.
 
+## Updates
+
+- **2026-05-20** — Kansas City Public Schools to replace 30,000 Windows PCs and Chromebooks with Apple devices ([source](https://9to5mac.com/2026/05/20/kansas-city-public-schools-to-replace-30000-windows-pcs-and-chromebooks-with-apple-devices/))

@@ -1,19 +1,20 @@
 ---
 title: "AI Startup Pit Raises $16M, Perplexity Expands Mac AI Assistant"
 date: 2026-05-07T21:08:53.742Z
-modified_date: 2026-05-20T10:58:51.038Z
+modified_date: 2026-05-20T22:01:11.328Z
 tags: ["AI","Startup","Machine Learning"]
 hero_image: "/hero/2026-05-07-ai-startup-pit-raises-16m-perplexity-expands-mac-ai-assistant-545556.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "New AI startup Pit raises $16M, while Perplexity opens its Personal Computer AI assistant to all Mac users."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-07-ai-startup-pit-raises-16m-perplexity-expands-mac-ai-assistant-545556.mp3"
 audio_bytes: 643911
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,4 +82,5 @@ The release of Distr 2.0 is a significant development in the software distributi
 
 ## Updates
 
+- **2026-05-20** — SpaceX just filed for what could be the biggest IPO ever ([source](https://www.theverge.com/business/902219/spacex-ipo-details))
 - **2026-05-20** — Samsung workers set to strike at worst possible time ([source](https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply))

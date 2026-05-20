@@ -1,19 +1,20 @@
 ---
 title: "TurboTax Discounts"
 date: 2026-05-03T06:31:19.591Z
-modified_date: 2026-05-16T03:35:08.950Z
+modified_date: 2026-05-20T22:01:20.355Z
 tags: ["TurboTax","Discounts","Couponing","Tax Preparation","Software"]
 hero_image: "/hero/2026-05-03-turbotax-discounts-481b1f.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "TurboTax"
 description: "Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-03-turbotax-discounts-481b1f.mp3"
 audio_bytes: 616325
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Tax Season
@@ -45,4 +46,5 @@ In conclusion, the TurboTax discounts and other coupon options available to cust
 
 ## Updates
 
+- **2026-05-20** — Pixelated 101: Chatting with Google at I/O 2026 ([source](https://9to5google.com/2026/05/20/pixelated-101-chatting-with-google-at-i-o-2026/))
 - **2026-05-16** — The LiberNovo Maxis ergonomic chair sets a new standard for big and tall users ([source](https://9to5mac.com/2026/05/15/libernovo-maxis-ergonomic-chair-sets-new-standard-big-tall-users/))

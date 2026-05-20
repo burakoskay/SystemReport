@@ -1,16 +1,17 @@
 ---
 title: "Speed of Innovation: Outpacing Dependence on Rare Earths"
 date: 2026-04-18T01:04:55.535Z
-modified_date: 2026-04-30T10:11:07.629Z
+modified_date: 2026-05-20T22:01:13.610Z
 tags: ["space exploration","rare earths","innovation"]
 hero_image: "/hero/2026-04-18-speed-of-innovation-outpacing-dependence-on-rare-earths-eb2cf0.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "astronauts in space with earth in background"
 description: "Astronauts and nations alike are breaking free from limitations, harnessing physics and underwater discoveries to propel forward."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 As astronauts soar through the cosmos, a peculiar challenge arises: measuring their speed. Unlike cars on a highway, spaceships lack a direct way to gauge their velocity. However, by employing physics tricks, space travelers can determine their pace. This ingenuity mirrors the resourcefulness of nations seeking to overcome earthly limitations. 
@@ -19,4 +20,5 @@ As astronauts soar through the cosmos, a peculiar challenge arises: measuring th
 
 ## Updates
 
+- **2026-05-20** — OpenAI claims it solved an 80-year-old math problem — for real this time ([source](https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/))
 - **2026-04-30** — PlayStation now requires a ‘one-time online check’ to confirm you own a game ([source](https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement))
