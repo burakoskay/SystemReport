@@ -1,15 +1,16 @@
 ---
 title: "NASA Scales Back Artemis Ambitions with 2027 Moon Landing"
 date: 2026-04-28T03:48:39.956Z
-modified_date: 2026-04-30T21:06:11.471Z
+modified_date: 2026-05-20T15:38:02.263Z
 tags: ["NASA","Artemis","Moon Landing"]
 hero_image: "/hero/2026-04-28-nasa-scales-back-artemis-ambitions-with-2027-moon-landing-696389.jpg"
 hero_image_credit_name: "Daniel Dzejak"
 hero_image_credit_url: "https://www.pexels.com/@daniel-dzejak-219872264"
 visual_keyword: "NASA Artemis Moon Mission"
 description: "NASA delays Artemis III to 2027, shifts focus from lunar landing to tech testing"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The Artemis program has significant implications for the future of space explora
 
 ## Updates
 
+- **2026-05-20** — The biggest data center ever is becoming a huge problem in Utah ([source](https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary))
 - **2026-04-30** — Stranded traveler gets more than he bargained for in Resident Evil teaser ([source](https://arstechnica.com/culture/2026/04/stranded-traveler-gets-more-than-he-bargained-for-in-resident-evil-teaser/))

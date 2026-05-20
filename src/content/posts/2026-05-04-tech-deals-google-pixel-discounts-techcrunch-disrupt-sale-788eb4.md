@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-05-19T07:54:55.940Z
+modified_date: 2026-05-20T15:38:10.950Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-05-20** — Deals: M3 iPad Air $400 off, 1TB M5 iPad Pro all-time low, 24GB M5 MacBook Pro $1,499, Apple Watch Ultra 3, more ([source](https://9to5mac.com/2026/05/20/deals-ipad-air-ipad-pro-macbook-pro-apple-watch-ultra-3/))
 - **2026-05-19** — 30% Off Tempur-Pedic Promo Codes | May 2026 ([source](https://www.wired.com/story/tempur-pedic-promo-code/))
 - **2026-05-18** — Deals: M4 iPad Air $150 off, 48GB M5 Pro MacBook Pro $300 off, iPhone Air $150 off, AirTag $11 each, more ([source](https://9to5mac.com/2026/05/18/deals-m4-ipad-air-m5-pro-macbook-pro-iphone-air/))
 - **2026-05-15** — Deals: 2TB M5 Pro MacBook Pro all-time low or M5 $1499, M5 MacBook Air $170 off, iPad Pro up to $300 off, more ([source](https://9to5mac.com/2026/05/15/deals-m5-pro-macbook-pro-m5-macbook-air-ipad-pro/))

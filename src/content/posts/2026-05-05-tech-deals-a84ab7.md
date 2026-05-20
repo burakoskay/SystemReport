@@ -1,15 +1,16 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-05-18T10:14:13.921Z
+modified_date: 2026-05-20T15:38:08.061Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 6
+sources_count: 7
 ---
+
 
 
 
@@ -37,5 +38,6 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-05-20** — Project Genie adds Google Street View integration and goes live for global AI Ultra users ([source](https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/))
 - **2026-05-18** — I’m a Normie. Can Normies Really Vibe Code? ([source](https://www.wired.com/story/normie-vibe-code/))
 - **2026-05-05** — Deals: M4 iPad Air $110 off, M4 MacBook Air $400 off orig. price, M5 MacBook Pro, Apple cables, more ([source](https://9to5mac.com/2026/05/05/deals-m4-ipad-air-m4-macbook-air-m5-macbook-pro/))

@@ -1,16 +1,17 @@
 ---
 title: "Tesla’s 7-Year FSD Delay and the Tech Projects Defying Limits"
 date: 2026-04-18T12:46:34.988Z
-modified_date: 2026-05-15T07:29:04.906Z
+modified_date: 2026-05-20T15:37:53.802Z
 tags: ["interval-arithmetic","privacy-security","virtualization","ai-timelines","hardware-design"]
 hero_image: "/hero/2026-04-18-tesla-s-7-year-fsd-delay-and-the-tech-projects-defying-limits-12f87b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "disjoint-interval-division"
 description: "From disjoint interval arithmetic to privacy-locked MacBooks, engineers push boundaries while giants lag."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,5 +37,6 @@ ESA's 2018 study revealed all 12 moonwalkers suffered "lunar hay fever" from dus
 
 ## Updates
 
+- **2026-05-20** — The Verge’s 2026 high school graduation gift guide ([source](https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas))
 - **2026-05-15** — HostGator Promo Codes: 76% Off for April 2026 ([source](https://www.wired.com/story/hostagtor-coupon/))
 - **2026-05-12** — Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen ([source](https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/))

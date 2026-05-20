@@ -1,18 +1,20 @@
 ---
 title: "Apple's macOS 27 Drops Support for 4 Older Macs"
 date: 2026-05-18T21:18:11.068Z
+modified_date: 2026-05-20T15:38:13.836Z
 tags: ["Apple","macOS 27","iOS 27"]
 hero_image: "/hero/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.jpg"
 hero_image_credit_name: "Lex Photography"
 hero_image_credit_url: "https://www.pexels.com/@lexovertoom"
 visual_keyword: "macOS"
 description: "Apple's upcoming macOS 27 will no longer support four older Mac models. The company also introduces new security features, including AI-powered vulnerability detection."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.mp3"
 audio_bytes: 647463
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Dropping Support for Older Macs
@@ -71,3 +73,6 @@ As the threat landscape continues to evolve, it will be important for companies 
 
 In conclusion, Apple's macOS 27 and iOS 27 represent a significant step forward in the company's efforts to improve security in its products. The introduction of AI-powered vulnerability detection systems like Mythos Preview and Rapid Security Response updates will provide greater protection against emerging threats and vulnerabilities. As the tech industry continues to evolve, it will be interesting to see how companies like Apple respond with new security features and updates.
 
+## Updates
+
+- **2026-05-20** — Apple’s three goals for iOS 27 sound like a big win for users ([source](https://9to5mac.com/2026/05/20/apples-three-goals-for-ios-27-sound-like-a-big-win-for-users/))

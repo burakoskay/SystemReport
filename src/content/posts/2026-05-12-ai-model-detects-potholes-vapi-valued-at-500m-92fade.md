@@ -1,17 +1,19 @@
 ---
 title: "AI Model Detects Potholes, Vapi Valued at $500M"
 date: 2026-05-12T14:38:08.303Z
+modified_date: 2026-05-20T15:38:19.505Z
 tags: ["AI","road maintenance","customer support"]
 hero_image: "https://images.pexels.com/photos/3977241/pexels-photo-3977241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
 hero_image_credit_name: "Viktor Mogilat"
 hero_image_credit_url: "https://www.pexels.com/@mogilat"
 visual_keyword: "pothole"
 description: "Samsara develops AI to detect potholes, while Vapi reaches $500M valuation."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-12-ai-model-detects-potholes-vapi-valued-at-500m-92fade.mp3"
 audio_bytes: 597517
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Pothole Detection via AI
@@ -55,3 +57,7 @@ The future of AI in road maintenance and customer support looks promising. As th
 The widespread adoption of AI-powered road maintenance and the growth of AI voice startups like Vapi are developments to watch. As these technologies continue to evolve, we can expect to see significant improvements in road safety, maintenance costs, and customer satisfaction. The impact of AI on road maintenance and customer support will also be felt by various stakeholders, including municipalities, companies, and consumers.
 
 In the near future, we can expect to see more companies adopting AI-powered road maintenance and customer support solutions. This trend is expected to continue, driven by the increasing need for efficient and cost-effective solutions. As the technologies continue to evolve, we can expect to see significant improvements in road safety, maintenance costs, and customer satisfaction.
+
+## Updates
+
+- **2026-05-20** — AI companies and data brokers even resort to fake forms to keep selling our data ([source](https://9to5mac.com/2026/05/20/ai-companies-and-data-brokers-even-resort-to-fake-forms-to-keep-selling-our-data/))

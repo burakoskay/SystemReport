@@ -1,15 +1,17 @@
 ---
 title: "Google Cuts Gemini 1.5 Flash Prices for Developers"
 date: 2026-05-10T11:09:22.251Z
+modified_date: 2026-05-20T15:37:59.423Z
 tags: ["Google Gemini","AI Model","Price Cut","Language Support","Developer Community","Market Competition"]
 hero_image: "/hero/2026-05-10-google-cuts-gemini-1-5-flash-prices-for-developers-4bd867.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google Gemini 1.5 Flash Price Cut"
 description: "Google slashes prices for Gemini 1.5 Flash, making it more affordable for developers to build high-volume, low-latency applications."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 # Google Cuts Gemini 1.5 Flash Prices for Developers
 
@@ -50,3 +52,7 @@ The price cut and expanded language support are likely to have a significant imp
 ## What's Next?
 
 The price cut and expanded language support are likely to make Gemini 1.5 Flash more attractive to developers. What's next is to see how developers respond to these changes and what new applications they build on the platform. One thing to watch is how Google's competitors respond to these moves and whether they follow suit with their own price cuts and feature updates.
+
+## Updates
+
+- **2026-05-20** — If Google can’t make AI agents useful, maybe no one can ([source](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can))

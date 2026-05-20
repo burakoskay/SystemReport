@@ -1,15 +1,16 @@
 ---
 title: "Reid Hoffman Warns Docs: Not Using AI Advice Is Malpractice"
 date: 2026-04-30T10:16:54.017Z
-modified_date: 2026-05-04T03:39:16.672Z
+modified_date: 2026-05-20T15:37:56.629Z
 tags: ["AI in healthcare","medical decision-making","Reid Hoffman"]
 hero_image: "/hero/2026-04-30-reid-hoffman-warns-docs-not-using-ai-advice-is-malpractice-402b51.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI in healthcare"
 description: "Reid Hoffman says docs who don't seek AI second opinions risk malpractice. His AI drug discovery startup aims to integrate AI in healthcare."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 
@@ -63,4 +64,5 @@ As AI continues to transform the healthcare landscape, it is essential that the 
 
 ## Updates
 
+- **2026-05-20** — It&#8217;s make or break time for AI labeling systems ([source](https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts))
 - **2026-05-04** — The text mode lie: why modern TUIs are a nightmare for accessibility ([source](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility))
