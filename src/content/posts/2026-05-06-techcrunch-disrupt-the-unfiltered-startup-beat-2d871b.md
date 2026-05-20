@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Disrupt: The Unfiltered Startup Beat"
 date: 2026-05-06T18:01:54.655Z
-modified_date: 2026-05-11T22:59:51.895Z
+modified_date: 2026-05-20T03:59:46.909Z
 tags: ["techcrunch","startups","m&a","dating-tech","wordpress"]
 hero_image: "/hero/2026-05-06-techcrunch-disrupt-the-unfiltered-startup-beat-2d871b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "young entrepreneurs presenting to investors in a tech conference hall"
 description: "From Gen Z dating apps to WordPress founder talks, here's what's shaping tech innovation at Disrupt."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ The event’s ticket discounts (50% off second tickets until May 8) suggest a sh
 
 ## Updates
 
+- **2026-05-20** — Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds ([source](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs))
 - **2026-05-11** — Here&#8217;s what Mira Murati&#8217;s AI company is up to ([source](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model))
 - **2026-05-11** — The FCC Received Hundreds of Complaints About Bad Bunny’s ‘Vulgar’ Super Bowl Performance ([source](https://www.wired.com/story/bad-bunny-super-bowl-fcc-complaints/))

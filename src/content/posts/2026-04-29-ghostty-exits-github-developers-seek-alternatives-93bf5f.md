@@ -1,15 +1,17 @@
 ---
 title: "Ghostty Exits GitHub, Developers Seek Alternatives"
 date: 2026-04-29T14:32:04.847Z
+modified_date: 2026-05-20T03:59:49.696Z
 tags: ["github","alternatives","tooling","open-source","dev-ops"]
 hero_image: "/hero/2026-04-29-ghostty-exits-github-developers-seek-alternatives-93bf5f.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "developers using terminal-based tools with minimal interface elements"
 description: "Ghostty's departure from GitHub sparks interest in alternatives like AgentKit and Gottp as developers seek new tools for collaboration and API management."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Ghostty Leaves GitHub Over Ethical Concerns
 
@@ -40,3 +42,7 @@ The project's focus on theme customization via YAML files suggests an emphasis o
 The convergence of ethical concerns and technical pragmatism is reshaping developer tooling. Ghostty's migration highlights a growing preference for self-hosted infrastructure, while AgentKit and Gottp demonstrate viable alternatives to proprietary ecosystems. The next six months will reveal whether these projects can sustain momentum against entrenched incumbents.
 
 Key observables include: Ghostty's migration timeline (current estimates: 4-6 weeks), AgentKit's adoption by major AI frameworks, and Gottp's ability to integrate with CI/CD pipelines. The open-source community's response to GitHub's recent policy shifts will ultimately determine if this trend is a passing fad or a structural shift in software development.
+
+## Updates
+
+- **2026-05-20** — Wear OS 7 will keep track of deliveries and sports scores on your wrist ([source](https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026))
