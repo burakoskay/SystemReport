@@ -1,14 +1,16 @@
 ---
 title: "OpenAI and Google sharpen AI image detection"
 date: 2026-05-19T18:17:05.336Z
+modified_date: 2026-05-20T23:24:19.313Z
 tags: ["AI","Image Detection","OpenAI","Google","C2PA","SynthID"]
 hero_image: "/hero/2026-05-19-openai-and-google-sharpen-ai-image-detection-eec6e1.jpg"
 hero_image_credit_name: "Atypeek Dgn"
 hero_image_credit_url: "https://www.pexels.com/@atypeek"
 visual_keyword: "AI image detection"
 description: "OpenAI joins C2PA and adds SynthID, while Google expands its Circle to Search detector"
-sources_count: 3
+sources_count: 4
 ---
+
 
 OpenAI announced two new measures to help detect AI-generated imagery: joining the open C2PA standard and adding Google's SynthID to its products. This sharpened toolset aims to verify image provenance and signals a shift toward embedded detection.
 
@@ -33,3 +35,7 @@ OpenAI's API users now have to decide whether to expose the metadata to downstre
 A lingering question is enforcement. Neither OpenAI nor Google can compel third-party platforms to honor the tags. Adoption hinges on market incentives: publishers that value trust may prioritize content with verifiable provenance, while malicious actors will seek ways to evade detection. The industry has yet to agree on penalties for non-compliance.
 
 What to watch: Google has hinted at expanding Circle to Search into its advertising suite. Regulators in the EU and US are drafting transparency rules that could mandate provenance labeling for all AI-generated media. The next quarter will reveal whether standards like C2PA gain legal weight or remain voluntary best practices.
+
+## Updates
+
+- **2026-05-20** — xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over ([source](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/))

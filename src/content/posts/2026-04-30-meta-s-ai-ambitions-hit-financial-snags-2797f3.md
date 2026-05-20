@@ -1,18 +1,19 @@
 ---
 title: "Meta's AI Ambitions Hit Financial Snags"
 date: 2026-04-30T06:33:49.140Z
-modified_date: 2026-05-20T07:54:25.559Z
+modified_date: 2026-05-20T23:24:25.286Z
 tags: ["Meta","AI","Reality Labs"]
 hero_image: "/hero/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Meta AI"
 description: "Meta's Reality Labs losses mount as AI investments increase spending."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.mp3"
 audio_bytes: 598771
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,5 +66,6 @@ As the AI landscape continues to evolve, it will be interesting to see how Meta'
 
 ## Updates
 
+- **2026-05-20** — Ask HN: Shouldn't Google need to give a public statement about Railway incident? ([source](https://news.ycombinator.com/item?id=48210590))
 - **2026-05-20** — Herman Miller Promo Code & Discounts: Save up to 40% in May 2026 ([source](https://www.wired.com/story/herman-miller-promo-code/))
 - **2026-05-09** — Top Megelin Deals for Laser and LED Therapy Devices (2026) ([source](https://www.wired.com/story/megelin-deals-2026/))

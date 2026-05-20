@@ -1,16 +1,17 @@
 ---
 title: "Apple Unveils Enterprise Fixes, Intel Chips"
 date: 2026-05-14T21:23:02.634Z
-modified_date: 2026-05-18T15:42:59.502Z
+modified_date: 2026-05-20T23:24:28.229Z
 tags: ["macos","apple-card","intel","carplay","apple-wallet"]
 hero_image: "/hero/2026-05-14-apple-unveils-enterprise-fixes-intel-chips-c7c2bd.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "technical scene with Apple products and Intel chips in a modern workspace"
 description: "Apple addresses enterprise macOS issues, partners with Intel for iPhone chips, and expands CarPlay audio features as part of ongoing product updates."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ The macOS 26.5 fixes will roll out to enterprise users in mid-September. Intel�
 
 ## Updates
 
+- **2026-05-20** — The Outsiders celebrates Apple Design Awards 2026 nomination with biggest update yet ([source](https://9to5mac.com/2026/05/20/the-outsiders-celebrates-apple-design-awards-2026-nomination-with-biggest-update-yet/))
 - **2026-05-18** — Apple Watch Ultra 4 getting two major new upgrades, per report ([source](https://9to5mac.com/2026/05/18/apple-watch-ultra-4-getting-two-major-new-upgrades-per-report/))
 - **2026-05-15** — Apple will launch 15+ new products this fall, here’s what’s coming ([source](https://9to5mac.com/2026/05/15/apple-will-launch-15-new-products-this-fall-heres-whats-coming/))
