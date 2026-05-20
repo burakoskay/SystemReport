@@ -1,14 +1,16 @@
 ---
 title: "Infrasound Waves Offer New Fire Suppression Method"
 date: 2026-05-02T13:26:22.717Z
+modified_date: 2026-05-20T10:59:00.062Z
 tags: ["fire safety","acoustic fire suppression","infrasound waves"]
 hero_image: "/hero/2026-05-02-infrasound-waves-offer-new-fire-suppression-method-b3893c.jpg"
 hero_image_credit_name: "𝑒𝑏𝑟𝑎𝑟"
 hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Acoustic Fire Suppression Enters the Market
@@ -75,3 +77,6 @@ The system's developers are likely to continue testing and evaluating the system
 
 Regulatory bodies will also play a critical role in the adoption of acoustic fire suppression systems. As the technology evolves, regulatory standards and codes will need to be updated to reflect the new technology.
 
+## Updates
+
+- **2026-05-20** — Moose-proof and megacasting: Ars drives the new Volvo EX60 ([source](https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/))

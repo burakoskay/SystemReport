@@ -1,15 +1,17 @@
 ---
 title: "Robotaxis' Remote Control Conundrum"
 date: 2026-05-03T16:57:55.259Z
+modified_date: 2026-05-20T10:59:03.039Z
 tags: ["autonomous vehicles","robotaxis","remote assistance"]
 hero_image: "/hero/2026-05-03-robotaxis-remote-control-conundrum-c8679a.jpg"
 hero_image_credit_name: "Ayyeee Ayyeee"
 hero_image_credit_url: "https://www.pexels.com/@ayyeee-ayyeee-434363205"
 visual_keyword: "robotaxi"
 description: "US lawmakers press autonomous vehicle companies for transparency on remote assistance workers as regulators probe human operators guiding robotaxis on public roads."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 ## Stalled on Transparency
 
@@ -98,3 +100,7 @@ The use of remote assistance workers also raises questions about the safety and 
 The use of remote assistance workers in AVs is a complex issue that raises questions about safety, accountability, and the future of work. As the industry continues to evolve, we can expect to see more stringent regulations and standards emerge.
 
 Companies will need to be more transparent about their use of remote assistance workers and demonstrate the safety and effectiveness of their systems. The outcome of Markey's investigation and the potential NHTSA probe will be closely watched by industry stakeholders and the public.
+
+## Updates
+
+- **2026-05-20** — Everything in C is undefined behavior ([source](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html))
