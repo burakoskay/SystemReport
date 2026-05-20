@@ -1,16 +1,17 @@
 ---
 title: "Apple Glasses rumor fuels doubts as brand loyalty wanes"
 date: 2026-04-30T14:25:14.301Z
-modified_date: 2026-04-30T19:41:06.067Z
+modified_date: 2026-05-20T18:23:07.510Z
 tags: ["apple","tech","privacy"]
 hero_image: "/hero/2026-04-30-apple-glasses-rumor-fuels-doubts-as-brand-loyalty-wanes-f143bd.jpg"
 hero_image_credit_name: "Sony Dude"
 hero_image_credit_url: "https://www.pexels.com/@sony-dude-2930971"
 visual_keyword: "apple glasses on a hand with subtle gesture icons, muted background"
 description: "A tentative hand‑gesture claim for Apple Glasses arrives while surveys show Apple slipping in consumer passion and regulators eye its news‑feed bias."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Apple Glasses may soon recognize Vision Pro‑style hand gestures, but the claim arrives as fresh surveys reveal Apple slipping in consumer passion and regulators probe the company’s news‑feed bias.
@@ -33,4 +34,5 @@ What to watch: The next Apple hardware event, slated for early next year, will r
 
 ## Updates
 
+- **2026-05-20** — Vibe coding is coming to your phone ([source](https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts))
 - **2026-04-30** — Apple and Porsche debut 80s-inspired race car liveries at Laguna Seca ([source](https://9to5mac.com/2026/04/30/apple-and-porsche-debut-80s-inspired-race-car-liveries-at-laguna-seca/))

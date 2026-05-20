@@ -1,14 +1,16 @@
 ---
 title: "E-ink smart screens expand with Dory, Yota, and Inku devices"
 date: 2026-05-19T04:05:59.636Z
+modified_date: 2026-05-20T18:23:04.687Z
 tags: ["e-ink","smart screens","Dory","Yota","Inku"]
 hero_image: "/hero/2026-05-19-e-ink-smart-screens-expand-with-dory-yota-and-inku-devices-aa4a72.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "e-ink display"
 description: "New e-ink devices from Dory, Yota, and Inku showcase low-power displays moving beyond niche readers."
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 ## Smart signs gain traction
@@ -79,3 +81,6 @@ The e-ink market is expected to grow significantly in the coming years, driven b
 
 In conclusion, the e-ink devices from Dory, Yota, and Inku showcase the versatility and potential of e-ink technology. As the technology continues to improve, we can expect to see more innovative applications across various industries.
 
+## Updates
+
+- **2026-05-20** — I’ve tested the latest Switch 2 controllers, and this one is the best ([source](https://www.theverge.com/tech/791574/best-switch-2-controllers))

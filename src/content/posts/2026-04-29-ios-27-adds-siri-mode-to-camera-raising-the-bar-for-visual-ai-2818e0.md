@@ -1,16 +1,17 @@
 ---
 title: "iOS 27 adds Siri mode to Camera, raising the bar for visual AI"
 date: 2026-04-29T17:52:48.067Z
-modified_date: 2026-05-06T06:41:24.019Z
+modified_date: 2026-05-20T18:22:56.203Z
 tags: ["apple","ios","camera","siri","magSafe"]
 hero_image: "/hero/2026-04-29-ios-27-adds-siri-mode-to-camera-raising-the-bar-for-visual-ai-2818e0.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "iPhone camera interface with Siri voice overlay"
 description: "Apple’s iOS 27 will embed Siri into the Camera app, promising deeper visual intelligence while rumors swirl about MagSafe and upcoming iPhone models."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Apple will embed Siri directly into the iPhone Camera app with iOS 27, a move that could reshape how users interact with visual AI. The change arrives alongside a broader visual‑intelligence overhaul that Apple has been teasing for months.
@@ -47,4 +48,5 @@ The June iOS 27 unveiling will be the first public test of Siri‑enabled visual
 
 ## Updates
 
+- **2026-05-20** — The Kingdom Come studio is officially making a Lord of the Rings RPG ([source](https://www.engadget.com/2177754/the-kingdom-come-studio-is-officially-making-a-lord-of-the-rings-rpg/))
 - **2026-05-06** — The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026 ([source](https://www.wired.com/story/the-motley-fool-promo-code/))

@@ -1,15 +1,17 @@
 ---
 title: "Google embeds Gemini in TV, Android Search"
 date: 2026-04-29T17:46:40.728Z
-modified_date: 2026-05-18T23:07:11.615Z
+modified_date: 2026-05-20T18:23:15.993Z
 tags: ["Google Gemini","AI Integration","Consumer Devices"]
 hero_image: "/hero/2026-04-29-google-embeds-gemini-in-tv-android-search-7c88b7.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
-sources_count: 7
+sources_count: 9
 ---
+
+
 
 
 
@@ -61,6 +63,8 @@ What to watch: tracking adoption metrics for the TV transformers and file-genera
 
 ## Updates
 
+- **2026-05-20** — Google Search’s AI evolution includes more ads ([source](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search))
+- **2026-05-20** — Buckle up: Google is set to remake search with agentic AI in 2026 ([source](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/))
 - **2026-05-18** — With iOS 27, Shortcuts is about to become what it was always meant to be ([source](https://9to5mac.com/2026/05/18/with-ios-27-shortcuts-is-about-to-become-what-it-was-always-meant-to-be/))
 - **2026-05-17** — Fisker went bankrupt and owners built an open source car company from the ashes ([source](https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/))
 - **2026-05-15** — Google updates its spam rules to include attempts to ‘manipulate’ AI ([source](https://www.theverge.com/tech/931416/google-ai-search-spam-policy))
