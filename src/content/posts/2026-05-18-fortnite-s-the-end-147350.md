@@ -1,18 +1,20 @@
 ---
 title: "Fortnite's The End"
 date: 2026-05-18T04:07:20.871Z
+modified_date: 2026-05-21T20:00:03.264Z
 tags: ["Fortnite","Gaming","The End"]
 hero_image: "/hero/2026-05-18-fortnite-s-the-end-147350.jpg"
 hero_image_credit_name: "Alena Darmel"
 hero_image_credit_url: "https://www.pexels.com/@a-darmel"
 visual_keyword: "Fortnite"
 description: "Fortnite's Season 10 event, The End, has concluded with a massive 6 million concurrent viewers"
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-18-fortnite-s-the-end-147350.mp3"
 audio_bytes: 580381
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The End of Fortnite as We Know It
 
@@ -59,3 +61,7 @@ The game's engine, Unreal Engine, is also used to create the game's graphics and
 The downstream implications of Fortnite's events are significant, with many players and companies being affected by the game's updates and changes. The game's popularity has led to the creation of a large esports scene, with many professional players and teams competing in tournaments and leagues.
 
 The game has also been used as a platform for social commentary and awareness, with many players and streamers using the game to raise money and awareness for various causes.
+
+## Updates
+
+- **2026-05-21** — The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy ([source](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/))

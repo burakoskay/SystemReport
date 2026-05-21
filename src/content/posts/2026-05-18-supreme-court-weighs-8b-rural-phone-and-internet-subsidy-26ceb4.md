@@ -1,17 +1,19 @@
 ---
 title: "Supreme Court Weighs $8B Rural Phone and Internet Subsidy"
 date: 2026-05-18T04:10:25.006Z
+modified_date: 2026-05-21T20:00:27.545Z
 tags: ["rural broadband","universal service fund","supreme court"]
 hero_image: "/hero/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.jpg"
 hero_image_credit_name: "Sascha Weber"
 hero_image_credit_url: "https://www.pexels.com/@buxteh"
 visual_keyword: "rural broadband"
 description: "The US Supreme Court considers the fate of an $8 billion program subsidizing phone and internet services in rural areas, challenged on constitutional grounds."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.mp3"
 audio_bytes: 627610
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Rural Broadband Subsidy Hangs in the Balance
@@ -61,3 +63,7 @@ The RDOF is an important initiative, but it is not without its challenges. For e
 The Supreme Court is expected to issue a ruling in the coming months. The case, heard during the Trump administration, highlights the ongoing debate over the program's constitutionality and its implications for rural broadband access. The outcome will likely have significant consequences for the millions of Americans who rely on the Universal Service Fund for their communication services.
 
 The Supreme Court's decision will have far-reaching implications for the future of regulatory power in the United States. It will also have significant consequences for rural communities, which rely on the Universal Service Fund for access to vital communication services. As the court considers the case, it will be essential to consider the potential implications of its decision and to ensure that the Universal Service Fund continues to support universal service initiatives.
+
+## Updates
+
+- **2026-05-21** — BBEdit 16 out now with in-image text search, deeper Shortcuts integration, notebook filtering, more ([source](https://9to5mac.com/2026/05/21/bbedit-16-out-now-with-in-image-text-search-deeper-shortcuts-integration-notebook-filtering-more/))

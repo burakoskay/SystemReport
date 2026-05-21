@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: Ebikes, Laptops, Power Banks, and Mic Systems"
 date: 2026-05-20T15:47:45.004Z
+modified_date: 2026-05-21T19:59:53.985Z
 tags: ["ebikes","laptops","power banks","mic systems"]
 hero_image: "/hero/2026-05-20-tech-roundup-ebikes-laptops-power-banks-and-mic-systems-a64f5e.jpg"
 hero_image_credit_name: "G-FORCE Bike"
 hero_image_credit_url: "https://www.pexels.com/@g-force-bike-95411088"
 visual_keyword: "ebike"
 description: "Latest tech news on ebikes, laptops, power banks, and mic systems from various sources."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Ebike Review: Ride1Up Roadster
@@ -90,3 +92,6 @@ The impact of new technologies on various industries and aspects of our lives ca
 
 As these technologies continue to advance, we can expect to see changes in the way we live, work, and interact with one another. It's essential to consider the potential consequences of these technologies and ensure that they are developed and used responsibly.
 
+## Updates
+
+- **2026-05-21** — Mustard Made Storage Lockers Are on a Rare Sale Through May 31 ([source](https://www.wired.com/story/mustard-made-sale/))

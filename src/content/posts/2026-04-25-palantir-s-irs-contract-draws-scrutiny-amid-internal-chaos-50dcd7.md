@@ -1,18 +1,20 @@
 ---
 title: "Palantir's IRS Contract Draws Scrutiny Amid Internal Chaos"
 date: 2026-04-25T20:51:34.728Z
+modified_date: 2026-05-21T20:00:12.321Z
 tags: ["palantir","irs","nuclear-energy","speculative-betting","corporate-culture"]
 hero_image: "/hero/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.jpg"
 hero_image_credit_name: "Dan  Nelson"
 hero_image_credit_url: "https://www.pexels.com/@dan-nelson-1667453"
 visual_keyword: "Palantir office with encrypted screens"
 description: "Palantir's IRS contract faces scrutiny as internal messages reveal corporate strife."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.mp3"
 audio_bytes: 631790
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Palantir's government contracts are drawing fresh scrutiny as employees document the company's culture in leaked Slack messages. The software firm's decade-long IRS contract, now under public microscope, contrasts sharply with its internal chaos.
 
@@ -39,3 +41,7 @@ Competitors like Oracle and Amazon Web Services have also faced scrutiny over go
 ## What to Watch
 
 The coming months will test Palantir's ability to sustain its government partnerships while addressing internal dissent. The IRS is unlikely to abandon its Palantir system given the financial and technical investment already sunk. But if more employees come forward with detailed accounts of workplace practices, the company could face congressional inquiries. Two key developments to track: the Department of Defense's next round of Palantir contract renewals, due in Q4, and the SEC's ongoing review of corporate governance disclosures.
+
+## Updates
+
+- **2026-05-21** — This mechanical bird drops dead when your home’s air quality worsens ([source](https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding))

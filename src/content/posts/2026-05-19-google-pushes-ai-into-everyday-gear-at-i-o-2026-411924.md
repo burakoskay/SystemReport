@@ -1,17 +1,19 @@
 ---
 title: "Google Pushes AI into Everyday Gear at I/O 2026"
 date: 2026-05-19T23:08:37.782Z
+modified_date: 2026-05-21T20:00:00.137Z
 tags: ["Google","AI","I/O 2026"]
 hero_image: "/hero/2026-05-19-google-pushes-ai-into-everyday-gear-at-i-o-2026-411924.jpg"
 hero_image_credit_name: "Sound On"
 hero_image_credit_url: "https://www.pexels.com/@sound-on"
 visual_keyword: "Google smart glasses"
 description: "Google unveiled AI-powered devices at I/O 2026"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-19-google-pushes-ai-into-everyday-gear-at-i-o-2026-411924.mp3"
 audio_bytes: 559483
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction
@@ -43,3 +45,7 @@ The launch of Google’s audio glasses and revamped Gemini app has significant i
 
 ## Future Developments
 As Google continues to develop its AI-powered devices and services, we can expect to see even more innovative applications of AI in the future. The company's focus on making AI more accessible and user-friendly could lead to widespread adoption across a range of industries, from healthcare to education to finance. However, as AI becomes more pervasive, it's also important to consider the potential risks and challenges associated with its development and deployment. By prioritizing transparency, accountability, and user control, Google and other AI developers can help ensure that AI-powered devices and services are used in ways that benefit society as a whole.
+
+## Updates
+
+- **2026-05-21** — Spotify and Universal Music strike deal allowing fan-made AI covers and remixes ([source](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/))

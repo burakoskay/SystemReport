@@ -1,14 +1,16 @@
 ---
 title: "GoPro Eyes Defense Applications"
 date: 2026-05-15T22:59:53.071Z
+modified_date: 2026-05-21T19:59:57.076Z
 tags: ["GoPro","ArXiv","AI-generated content"]
 hero_image: "/hero/2026-05-15-gopro-eyes-defense-applications-820762.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "GoPro"
 description: "GoPro considers defense applications, ArXiv bans AI-generated content"
-sources_count: 10
+sources_count: 11
 ---
+
 
 
 ## GoPro Explores Defense Applications
@@ -61,3 +63,6 @@ As the tech industry continues to evolve, we can expect to see new innovations a
 ## Conclusion
 In conclusion, the emerging tech trends of AI, AR, and VR are transforming the way we live and work. However, they also raise significant challenges and concerns, from academic integrity to online safety. As these technologies continue to evolve, it is essential that we address these challenges and ensure that they are developed and used responsibly.
 
+## Updates
+
+- **2026-05-21** — NYC and LA Are Teaming Up to Fight for EVs ([source](https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/))

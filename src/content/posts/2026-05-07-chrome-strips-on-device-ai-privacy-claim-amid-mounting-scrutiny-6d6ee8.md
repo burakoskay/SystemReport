@@ -1,16 +1,17 @@
 ---
 title: "Chrome strips on‑device AI privacy claim amid mounting scrutiny"
 date: 2026-05-07T21:16:29.207Z
-modified_date: 2026-05-15T14:19:09.955Z
+modified_date: 2026-05-21T20:00:24.479Z
 tags: ["chrome","privacy","ai","regulation","browsers"]
 hero_image: "/hero/2026-05-07-chrome-strips-on-device-ai-privacy-claim-amid-mounting-scrutiny-6d6ee8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Chrome browser window with AI icons fading into background"
 description: "Google backs away from saying its Chrome AI runs fully offline, sparking debate over data handling and regulatory pressure."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 ## Chrome retracts on‑device AI privacy claim
@@ -44,4 +45,5 @@ The next Chrome release, slated for the second half of 2026, will likely include
 
 ## Updates
 
+- **2026-05-21** — Gemini’s new usage limits are live, and users already seem frustrated about it ([source](https://9to5google.com/2026/05/21/gemini-usage-limits-live-user-reactions/))
 - **2026-05-15** — X is fighting Andrew Tate’s attempt to unmask his critics ([source](https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation))

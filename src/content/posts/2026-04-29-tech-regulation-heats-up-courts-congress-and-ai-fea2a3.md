@@ -1,15 +1,17 @@
 ---
 title: "Tech Regulation Heats Up: Courts, Congress, and AI"
 date: 2026-04-29T03:42:26.327Z
+modified_date: 2026-05-21T20:00:18.412Z
 tags: ["AI regulation","tech regulation","geofence warrants"]
 hero_image: "/hero/2026-04-29-tech-regulation-heats-up-courts-congress-and-ai-fea2a3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The US Supreme Court is set to rule on geofence search warrants, while Congress and state lawmakers grapple with AI regulation, data privacy, and social media laws."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## The Geofence Warrant Debate
@@ -87,3 +89,7 @@ The Missouri attorney general's letters to big tech companies, accusing them of 
 ## Conclusion
 
 The future of tech regulation is both complex and contentious. However, one thing is certain: lawmakers, regulators, and tech companies will need to work together to shape a future that balances innovation with consumer protection and civil rights.
+
+## Updates
+
+- **2026-05-21** — Today’s Android app deals and freebies: Chicken Police, Endling, Fury of Dracula, more ([source](https://9to5toys.com/2026/05/21/today-android-app-deals-free-chicken-police-endling-dracula/))
