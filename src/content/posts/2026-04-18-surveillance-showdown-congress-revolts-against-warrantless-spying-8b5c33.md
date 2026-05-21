@@ -1,16 +1,17 @@
 ---
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
-modified_date: 2026-05-11T03:57:00.074Z
+modified_date: 2026-05-21T12:47:40.729Z
 tags: ["surveillance","privacy","security"]
 hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 
@@ -23,6 +24,7 @@ A dramatic post-midnight revolt in the House has sunk the White House's efforts 
 
 ## Updates
 
+- **2026-05-21** — Scammers are abusing an internal Microsoft account to send spam links ([source](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/))
 - **2026-05-11** — Maryland citizens hit with $2B power grid upgrade for out-of-state AI ([source](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises))
 - **2026-05-08** — Plasticity and language in the anaesthetized human hippocampus ([source](https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain))
 - **2026-05-06** — Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO ([source](https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/))

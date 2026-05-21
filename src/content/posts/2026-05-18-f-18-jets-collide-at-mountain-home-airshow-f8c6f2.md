@@ -1,17 +1,19 @@
 ---
 title: "F-18 Jets Collide at Mountain Home Airshow"
 date: 2026-05-18T04:08:19.771Z
+modified_date: 2026-05-21T12:47:43.537Z
 tags: ["F-18","airshow","military aviation"]
 hero_image: "/hero/2026-05-18-f-18-jets-collide-at-mountain-home-airshow-f8c6f2.jpg"
 hero_image_credit_name: "Rafael Minguet Delgado"
 hero_image_credit_url: "https://www.pexels.com/@thales13"
 visual_keyword: "F-18"
 description: "Two EA-18 fighter jets collided during an airshow at Mountain Home Air Force Base, pilots ejected safely."
-sources_count: 1
+sources_count: 2
 audio_path: "/audio/2026-05-18-f-18-jets-collide-at-mountain-home-airshow-f8c6f2.mp3"
 audio_bytes: 621968
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Mid-Air Collision at Mountain Home Airshow
@@ -68,3 +70,6 @@ The incident also underscores the importance of transparency and communication i
 
 Ultimately, the goal of any airshow is to entertain and educate the public while showcasing the military's capabilities. However, safety must always be the top priority. The US military and the FAA have a responsibility to ensure that airshows are conducted safely and with the utmost respect for the public and the performers.
 
+## Updates
+
+- **2026-05-21** — NYC Mayor Zohran Mamdani is launching a Twitch series ([source](https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people))
