@@ -1,16 +1,17 @@
 ---
 title: "Ford CEO: Chinese Auto Imports Threaten US Market and Jobs"
 date: 2026-04-16T05:31:26.392Z
-modified_date: 2026-05-15T17:45:12.894Z
+modified_date: 2026-05-21T09:51:40.952Z
 tags: ["automotive","us jobs","china trade","ford","ev market"]
 hero_image: "/hero/2026-04-16-the-coming-wave-ford-ceo-warns-chinese-auto-imports-threaten-us-market-jobs-e2b9ff.jpg"
 hero_image_credit_name: "Kelly"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "US auto industry under pressure from global competition"
 description: "Ford CEO Jim Farley warns China's vast auto production capacity could overwhelm the US market, posing a critical threat to American jobs and manufacturing."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ As the global automotive landscape shifts dramatically towards electrification a
 
 ## Updates
 
+- **2026-05-21** — The Best Home Security System Is Modular (2026) ([source](https://www.wired.com/story/simplisafe-rave-2026/))
 - **2026-05-15** — Gemini Intelligence has high Android spec requirements, likely won’t support Pixel 9 or Galaxy Z Fold 7 ([source](https://9to5google.com/2026/05/15/gemini-intelligence-android-spec-requirements/))
 - **2026-05-14** — Apple TV renews ‘Margo’s Got Money Troubles’ for season 2 ahead of next week’s finale ([source](https://9to5mac.com/2026/05/13/apple-tv-renews-margos-got-money-troubles-for-season-2-ahead-of-next-weeks-finale/))
 - **2026-04-26** — Mine, an IDE for Coalton and Common Lisp ([source](https://coalton-lang.github.io/mine/))

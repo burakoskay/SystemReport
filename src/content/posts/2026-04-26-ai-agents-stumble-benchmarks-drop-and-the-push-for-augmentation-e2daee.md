@@ -1,19 +1,20 @@
 ---
 title: "AI agents stumble, benchmarks drop, and the push for augmentation"
 date: 2026-04-26T22:47:45.733Z
-modified_date: 2026-05-15T17:45:08.202Z
+modified_date: 2026-05-21T09:51:43.814Z
 tags: ["ai","devops","benchmark","openai"]
 hero_image: "/hero/2026-04-26-ai-agents-stumble-benchmarks-drop-and-the-push-for-augmentation-e2daee.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "server rack with red warning overlay and AI code snippets"
 description: "Recent AI mishaps and OpenAI's benchmark shift highlight the tension between automation and human oversight."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-26-ai-agents-stumble-benchmarks-drop-and-the-push-for-augmentation-e2daee.mp3"
 audio_bytes: 589994
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Track OpenAI's next blog post for a replacement to SWE‑bench Verified, especia
 
 ## Updates
 
+- **2026-05-21** — The EU Is Going Through a Trump-Fueled Breakup With Big Tech ([source](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/))
 - **2026-05-15** — The cute VR platformer Moss and its sequel are heading to consoles ([source](https://www.engadget.com/2173842/cute-vr-platformer-moss-and-its-sequel-are-heading-to-consoles/))
 - **2026-05-12** — Tim Cook among CEOs confirmed for President Trump’s China trip ([source](https://9to5mac.com/2026/05/11/tim-cook-among-ceos-confirmed-for-president-trumps-china-trip/))
 - **2026-04-27** — Oprah brings her podcast to Amazon's streaming services ([source](https://www.engadget.com/entertainment/oprah-brings-her-podcast-to-amazons-streaming-services-142846445.html?src=rss))

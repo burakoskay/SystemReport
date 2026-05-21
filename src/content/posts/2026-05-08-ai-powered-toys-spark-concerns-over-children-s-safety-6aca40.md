@@ -1,15 +1,17 @@
 ---
 title: "AI-Powered Toys Spark Concerns Over Children's Safety"
 date: 2026-05-08T11:26:20.240Z
+modified_date: 2026-05-21T09:51:38.088Z
 tags: ["AI","toys","children's safety"]
 hero_image: "/hero/2026-05-08-ai-powered-toys-spark-concerns-over-children-s-safety-6aca40.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered toys"
 description: "Connected companions for kids raise red flags among lawmakers, while AI technology continues to advance in various sectors."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## AI-Powered Toys Spark Concerns Over Children's Safety
@@ -60,3 +62,6 @@ The increasing presence of AI-powered toys in the market raises important questi
 
 The next step for lawmakers and regulators will be to determine the appropriate level of oversight and regulation for AI-powered toys. Companies will need to prioritize transparency, safety, and children's well-being in the development of these products. The industry will also need to address concerns over bias, data collection, and potential misuse of AI technology.
 
+## Updates
+
+- **2026-05-21** — Best Yoga Mats (2026): Lululemon, Manduka, JadeYoga ([source](https://www.wired.com/gallery/the-best-yoga-mat/))
