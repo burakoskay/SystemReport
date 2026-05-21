@@ -1,15 +1,17 @@
 ---
 title: "Tech Privacy and Security Updates"
 date: 2026-05-09T19:13:32.980Z
+modified_date: 2026-05-21T21:45:39.431Z
 tags: ["tech privacy","security updates","regulatory actions"]
 hero_image: "/hero/2026-05-09-tech-privacy-and-security-updates-c11b1d.jpg"
 hero_image_credit_name: "Jessica Lewis 🦋 thepaintedsquare"
 hero_image_credit_url: "https://www.pexels.com/@thepaintedsquare"
 visual_keyword: "lock"
 description: "General Motors settles for $12.75M over driver privacy, while tech companies face scrutiny over data handling and surveillance."
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 
 ## General Motors Agrees to $12.75M Settlement Over Driver Privacy
@@ -80,3 +82,6 @@ The current landscape of tech privacy and security is complex and rapidly evolvi
 
 The actions taken by tech companies and regulators will have significant downstream implications for users, businesses, and the broader tech industry. As the debate over privacy and security continues, it is clear that tech companies will need to prioritize transparency, user control, and data protection in order to maintain user trust and comply with evolving regulatory requirements.
 
+## Updates
+
+- **2026-05-21** — Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI ([source](https://www.theverge.com/tech/935631/firefox-project-nova-redesign))

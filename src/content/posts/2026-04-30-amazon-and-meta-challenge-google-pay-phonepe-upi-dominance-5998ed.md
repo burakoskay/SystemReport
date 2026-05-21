@@ -1,16 +1,17 @@
 ---
 title: "Amazon and Meta Challenge Google Pay, PhonePe UPI Dominance"
 date: 2026-04-30T10:22:25.382Z
-modified_date: 2026-05-19T18:09:47.847Z
+modified_date: 2026-05-21T21:45:47.581Z
 tags: ["india","upi","tech","ai","regulation"]
 hero_image: "/hero/2026-04-30-amazon-and-meta-challenge-google-pay-phonepe-upi-dominance-5998ed.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "Indian digital payments hub with competing logos and a farmer using a smartphone"
 description: "Amazon and Meta lobby Indian regulators to curb Google Pay and PhonePe's 80% UPI share, while AI tools like KisanAI reshape Indian tech landscape."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ Both stories converge on a single question: will India’s tech ecosystem evolve
 
 ## Updates
 
+- **2026-05-21** — Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates ([source](https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/))
 - **2026-05-19** — Gemini will use Volvo’s external cameras to interpret parking signs ([source](https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking))
 - **2026-05-01** — Soundcore Nebula P1 Projector Review (2026): Compact and Portable for Indoor-Outdoor Viewing ([source](https://www.wired.com/review/soundcore-nebula-p1/))

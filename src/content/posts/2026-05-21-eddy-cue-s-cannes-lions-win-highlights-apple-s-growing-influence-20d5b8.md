@@ -1,17 +1,19 @@
 ---
 title: "Eddy Cue’s Cannes Lions Win Highlights Apple’s Growing Influence"
 date: 2026-05-21T04:12:00.653Z
+modified_date: 2026-05-21T21:45:36.676Z
 tags: ["Apple","AI","Entertainment"]
 hero_image: "/hero/2026-05-21-eddy-cue-s-cannes-lions-win-highlights-apple-s-growing-influence-20d5b8.jpg"
 hero_image_credit_name: "Atlantic Ambience"
 hero_image_credit_url: "https://www.pexels.com/@freestockpro"
 visual_keyword: "Apple"
 description: "Apple executive Eddy Cue earns Cannes Lions Entertainment Person of the Year as Apple captures top CVPR award"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-21-eddy-cue-s-cannes-lions-win-highlights-apple-s-growing-influence-20d5b8.mp3"
 audio_bytes: 613818
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Eddy Cue’s Cannes Lions Recognition
@@ -51,3 +53,7 @@ The entertainment industry is expected to continue evolving, with technology com
 The use of AI in entertainment is becoming increasingly prevalent, with companies like Apple, Amazon, and Netflix investing heavily in AI research. The technology has the potential to revolutionize the way content is created and consumed, and companies that are able to harness its power are likely to have a significant advantage in the industry.
 
 In conclusion, Eddy Cue’s recognition as the Entertainment Person of the Year and Apple’s AI paper win highlight the company’s growing influence in the entertainment industry. The company’s investment in AI research and original content has paid off, and it is likely to continue to play a major role in shaping the future of the industry.
+
+## Updates
+
+- **2026-05-21** — Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle ([source](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/))

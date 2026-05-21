@@ -1,16 +1,17 @@
 ---
 title: "AI's Infrastructure Boom: Cables, Chips, and Capital"
 date: 2026-04-27T21:14:42.893Z
-modified_date: 2026-05-14T23:01:36.935Z
+modified_date: 2026-05-21T21:45:52.983Z
 tags: ["ai-infrastructure","subsea-cables","deepmind","ai-startups","tech-investment"]
 hero_image: "/hero/2026-04-27-ai-s-infrastructure-boom-cables-chips-and-capital-b41784.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "underwater fiber optic cable with data centers visible in the ocean above"
 description: "From subsea cables to startup funding, AI's next phase demands infrastructure — and the money is flowing."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Three developments will define AI’s infrastructure era in 2025: First, whether
 
 ## Updates
 
+- **2026-05-21** — Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case ([source](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/))
 - **2026-05-14** — OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned ([source](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/))
 - **2026-05-07** — ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns ([source](https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification))
 - **2026-05-01** — My $5K smart bed needs to shut the hell up ([source](https://www.theverge.com/column/921654/optimizer-eight-sleep-ai-summaries-health-wellness))

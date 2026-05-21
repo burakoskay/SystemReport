@@ -1,14 +1,16 @@
 ---
 title: "Defense Tech Funding Surges"
 date: 2026-04-29T14:13:29.160Z
+modified_date: 2026-05-21T21:45:42.133Z
 tags: ["Defense Tech","AI","Industrial Tech"]
 hero_image: "/hero/2026-04-29-defense-tech-funding-surges-f79060.jpg"
 hero_image_credit_name: "Aleson Padilha"
 hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Defense Startup Firestorm Labs Raises $82M
@@ -55,3 +57,6 @@ The future of defense technology is likely to be shaped by the development and d
 
 The investment in defense technology is likely to continue, driven by the increasing demand for advanced systems and solutions. As the sector continues to evolve, we can expect to see new applications and use cases emerge, driving further growth and innovation in these areas.
 
+## Updates
+
+- **2026-05-21** — In desperate times, graduates find hope in humiliating tech CEOs ([source](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos))
