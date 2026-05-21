@@ -1,16 +1,17 @@
 ---
 title: "The Human Factor: World's Mission to Verify Authenticity in the"
 date: 2026-04-18T01:04:43.454Z
-modified_date: 2026-05-21T12:47:49.294Z
+modified_date: 2026-05-21T23:06:48.866Z
 tags: ["human verification","artificial intelligence","online security"]
 hero_image: "/hero/2026-04-18-the-human-factor-world-s-mission-to-verify-authenticity-in-the-digital-age-3dcd78.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "digital fingerprint"
 description: "World partners with Tinder and Zoom to combat AI imposters"
-sources_count: 15
+sources_count: 16
 author: "priya-raman"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ The rise of artificial intelligence has brought about a plethora of benefits, bu
 
 ## Updates
 
+- **2026-05-21** — 9to5Mac Daily: May 21, 2026 – iPhone Ultra leaks, more ([source](https://9to5mac.com/2026/05/21/daily-may-21-2026/))
 - **2026-05-21** — Best Duffel Bags: Eastpak, Patagonia, Baboon to the Moon (2026) ([source](https://www.wired.com/gallery/best-duffel-bags/))
 - **2026-05-21** — Haskell Foundation 2026 Update ([source](https://discourse.haskell.org/t/haskell-foundation-2026-update/14136))
 - **2026-05-18** — 9to5Mac Daily: May 18, 2026 – Apple Card promo, Siri rumors ([source](https://9to5mac.com/2026/05/18/daily-may-18-2026/))

@@ -1,19 +1,20 @@
 ---
 title: "Developers Reconsider AI Coding Tools"
 date: 2026-05-11T03:58:34.716Z
-modified_date: 2026-05-12T14:35:47.977Z
+modified_date: 2026-05-21T23:06:54.997Z
 tags: ["AI-assisted development","hand-coding","software development","machine learning"]
 hero_image: "/hero/2026-05-11-developers-reconsider-ai-coding-tools-361755.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Hand-coding and local models gain traction as developers reevaluate AI-assisted software development"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-11-developers-reconsider-ai-coding-tools-361755.mp3"
 audio_bytes: 610683
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ In the near term, we can expect to see continued innovation in AI-assisted devel
 
 ## Updates
 
+- **2026-05-21** — Review: SwitchBot Wallet Finder is an incredibly useful accessory to track your wallet with iPhone Find My ([source](https://9to5mac.com/2026/05/21/review-switchbot-wallet-finder-is-an-incredibly-useful-accessory-to-track-your-wallet-with-iphone-find-my/))
 - **2026-05-12** — Once again, SpaceX has set a new record for the tallest rocket ever built ([source](https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/))
