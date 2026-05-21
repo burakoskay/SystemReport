@@ -1,15 +1,17 @@
 ---
 title: "Meta Acquires Robot Startup"
 date: 2026-05-01T22:54:54.249Z
+modified_date: 2026-05-21T04:09:18.465Z
 tags: ["Meta","AI","Robotics"]
 hero_image: "/hero/2026-05-01-meta-acquires-robot-startup-ade39a.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "Meta buys Assured Robot Intelligence to improve AI models for robots. Apple spotlights Perplexity's Mac-native platform."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 # Introduction to Meta's Acquisition
@@ -56,3 +58,7 @@ The growth of the tech industry is being driven by the increasing demand for AI 
 As the tech industry continues to evolve, there are several key developments to watch. Meta's acquisition of Assured Robot Intelligence and Apple's involvement with Perplexity are just the beginning. The industry is expected to see significant investment in AI and robotics, and companies that fail to adapt may be left behind.
 
 The proposed IPO in the travel industry is also worth watching, as it could lead to significant consolidation and innovation in the sector. As the industry continues to evolve, it will be important to track the key developments and trends that are shaping its future.
+
+## Updates
+
+- **2026-05-21** — Show HN: I reverse engineered Apple's video wallpapers ([source](https://github.com/kageroumado/phosphene))

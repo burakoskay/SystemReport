@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-05-14T14:25:48.651Z
+modified_date: 2026-05-21T04:09:07.022Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-05-21** — Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia ([source](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/))
 - **2026-05-14** — Dyson put a camera on its purifier so fresh air can follow you around the room ([source](https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy))
 - **2026-05-12** — The 9 biggest new features in Android 17 ([source](https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io))
 - **2026-05-09** — Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time ([source](https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale))

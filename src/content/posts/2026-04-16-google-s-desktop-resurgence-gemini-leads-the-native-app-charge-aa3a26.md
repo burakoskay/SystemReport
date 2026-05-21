@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-05-07T19:47:37.539Z
+modified_date: 2026-05-21T04:09:09.853Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-05-21** — SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers ([source](https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/))
 - **2026-05-07** — Valve is fighting Steam Controller scalpers with a new reservations system ([source](https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers))
 - **2026-05-07** — Netflix has its own, impressive AI-powered voice search ([source](https://www.theverge.com/column/925898/netflix-ai-voice-search))
 - **2026-05-05** — Bose Brings Back Its ‘Lifestyle’ Branding With New Speakers for the Home ([source](https://www.wired.com/story/bose-brings-back-its-lifestyle-branding-with-new-speakers-for-the-home/))
