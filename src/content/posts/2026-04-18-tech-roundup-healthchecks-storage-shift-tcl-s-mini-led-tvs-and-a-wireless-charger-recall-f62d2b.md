@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Healthchecks' Storage Shift, TCL's Mini LED TVs"
 date: 2026-04-18T01:05:19.132Z
-modified_date: 2026-05-20T22:01:15.841Z
+modified_date: 2026-05-22T16:29:27.063Z
 tags: ["tech news","mini led tvs","wireless charger recall"]
 hero_image: "/hero/2026-04-18-tech-roundup-healthchecks-storage-shift-tcl-s-mini-led-tvs-and-a-wireless-charger-recall-f62d2b.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "TCL RGB-Mini LED TV"
 description: "Healthchecks.io ditches cloud storage for self-hosted solution, TCL unveils RGB-Mini LED TVs, and a wireless charger recall due to burn hazards."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ These developments highlight the dual nature of the tech industry, where innovat
 
 ## Updates
 
+- **2026-05-22** — LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card ([source](https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale))
 - **2026-05-20** — IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed ([source](https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/))
 - **2026-05-13** — Reimagining the mouse pointer for the AI era ([source](https://deepmind.google/blog/ai-pointer/))
 - **2026-05-06** — Energizer now offers child-safe batteries for your AirTags ([source](https://9to5mac.com/2026/05/06/energizer-now-offers-child-safe-batteries-for-your-airtags/))

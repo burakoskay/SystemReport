@@ -1,16 +1,17 @@
 ---
 title: "Ghostty Bids Adieu to GitHub"
 date: 2026-04-28T20:21:56.046Z
-modified_date: 2026-05-19T18:09:53.215Z
+modified_date: 2026-05-22T16:29:15.122Z
 tags: ["ghostty","github","terminal emulator","tech news"]
 hero_image: "/hero/2026-04-28-ghostty-bids-adieu-to-github-ddf349.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "terminal emulator screenshot"
 description: "Popular terminal emulator Ghostty is leaving GitHub, citing reasons yet to be disclosed. The move comes after a series of innovative features and integrations."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The terminal emulator landscape is poised for continued innovation and growth. A
 
 ## Updates
 
+- **2026-05-22** — Even If You Hate AI, You Will Use Google AI Search ([source](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/))
 - **2026-05-19** — Google can now vibe-code you an Android app ([source](https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026))
 - **2026-05-04** — iOS 27: Apple Wallet adding new ‘Create a Pass’ feature, per report ([source](https://9to5mac.com/2026/05/04/ios-27-apple-wallet-adding-new-create-a-pass-feature-per-report/))

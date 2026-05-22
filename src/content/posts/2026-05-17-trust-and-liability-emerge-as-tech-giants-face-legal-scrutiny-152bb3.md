@@ -1,14 +1,16 @@
 ---
 title: "Trust and Liability Emerge as Tech Giants Face Legal Scrutiny"
 date: 2026-05-17T21:03:08.847Z
+modified_date: 2026-05-22T16:29:53.762Z
 tags: ["regulatory scrutiny","trust and liability","Amazon","Android","OpenAI"]
 hero_image: "/hero/2026-05-17-trust-and-liability-emerge-as-tech-giants-face-legal-scrutiny-152bb3.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "regulatory"
 description: "Regulatory bodies target OpenAI, Amazon, and Android over trust, refunds, and liability concerns."
-sources_count: 3
+sources_count: 4
 ---
+
 
 # System Report — Editorial Voice
 
@@ -75,3 +77,7 @@ Stakeholders should monitor the Musk-OpenAI trial’s final judgment for languag
 - The judge’s ruling in the OpenAI case expected later this quarter.
 - The deadline for Amazon’s class-action plaintiffs to submit evidence, slated for August 2026.
 - The filing of a consolidated antitrust complaint against Google’s Android ecosystem anticipated in the fall.
+
+## Updates
+
+- **2026-05-22** — The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't ([source](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt))

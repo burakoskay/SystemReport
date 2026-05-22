@@ -1,14 +1,16 @@
 ---
 title: "Stability AI Unveils On-Device Audio Model as Rivals Advance"
 date: 2026-05-20T15:41:44.951Z
+modified_date: 2026-05-22T16:29:38.917Z
 tags: ["AI","on-device AI","Stability AI"]
 hero_image: "/hero/2026-05-20-stability-ai-unveils-on-device-audio-model-as-rivals-advance-0a4bcc.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Stability AI's Audio 3.0 generates short tracks on-device. The release joins Figma's AI assistant, Apple's Vision Pro video, and Qwen's new agent model."
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 Stability AI has released Audio 3.0 small, a generative model that runs on a phone or laptop and generates two-minute tracks.
@@ -58,3 +60,7 @@ In conclusion, the release of on-device AI models marks a new era in AI developm
 As on-device AI continues to advance, we can expect to see new applications in various domains, from entertainment and education to healthcare and finance. The potential for on-device AI to transform industries and create new opportunities is vast, and it will be exciting to see how this technology continues to evolve in the coming years.
 
 The intersection of on-device AI and consumer technology will continue to shape the future of AI development, and it will be interesting to see how companies like Stability AI, Figma, Apple, and Qwen continue to push the boundaries of what is possible with on-device AI.
+
+## Updates
+
+- **2026-05-22** — Boots Riley turns class struggle into comedy with I Love Boosters ([source](https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview))

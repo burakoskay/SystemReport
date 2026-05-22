@@ -1,15 +1,17 @@
 ---
 title: "Microsoft hikes Xbox controller price as new model drops Chatpad"
 date: 2026-05-21T21:59:39.648Z
+modified_date: 2026-05-22T16:29:18.161Z
 tags: ["xbox","microsoft","gaming","accessibility","pricing"]
 hero_image: "/hero/2026-05-21-microsoft-hikes-xbox-controller-price-as-new-model-drops-chatpad-42d1f8.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "modern game controller on a sleek surface with price tags"
 description: "Microsoft raises Xbox controller cost to $64.99, removes the Chatpad port, and pushes its $99.99 Adaptive Controller amid broader price hikes and Apple’s new sales channel."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 ## New Xbox controller strips away Chatpad port and climbs to $64.99
 Microsoft’s latest Xbox wireless controller arrives without the accessory port that once held the optional Chatpad. Engadget reports the redesign eliminates the underused slot, forcing users who still rely on the miniature keyboard to look for work‑arounds. At the same time, Microsoft lifts the controller’s suggested retail price in the United States to $64.99, up from the previous $59.95.
@@ -33,3 +35,7 @@ The Apple listing does not yet appear in physical retail locations, but the part
 
 ## What to watch: pricing pressure, accessibility adoption, and market response
 The next quarter will reveal whether gamers accept the higher price tags or shift to cheaper alternatives. Analysts will watch sales data for the new controller, especially given its $64.99 price point and the loss of the Chatpad port. Adoption rates for the $99.99 Adaptive Controller will also be a barometer for Microsoft’s accessibility ambitions. Finally, Apple’s foray into Xbox hardware sales could prompt other ecosystem players to broaden support, potentially reshaping the peripheral market ahead of the holiday season.
+
+## Updates
+
+- **2026-05-22** — PSA: The Steam Controller’s magnetic charger can be a fire hazard ([source](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/))

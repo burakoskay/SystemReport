@@ -1,16 +1,17 @@
 ---
 title: "Games Done Quick lands in Europe, sparking a live‑gaming surge"
 date: 2026-04-29T10:20:16.853Z
-modified_date: 2026-05-13T03:50:02.488Z
+modified_date: 2026-05-22T16:29:47.811Z
 tags: ["gaming","speedrunning","venture-capital","live-streaming","interactive-media"]
 hero_image: "/hero/2026-04-29-games-done-quick-lands-in-europe-sparking-a-live-gaming-surge-de0e2d.jpg"
 hero_image_credit_name: "Pexels LATAM"
 hero_image_credit_url: "https://www.pexels.com/@pexels-latam-478514802"
 visual_keyword: "crowd of gamers watching a speedrun marathon on stage"
 description: "GDQ’s first European marathon at Gamescom signals a shift toward live, interactive gaming events and draws venture‑capital interest."
-sources_count: 9
+sources_count: 10
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Track the post‑Gamescom data on viewership spikes for GDQ’s Twitch and YouTu
 
 ## Updates
 
+- **2026-05-22** — WWDC invites, iOS 27 accessibility features, new Siri will be a ‘beta’ ([source](https://9to5mac.com/2026/05/22/happy-hour-591/))
 - **2026-05-13** — Medicare’s new payment model is built for AI, and most of the tech world has no idea ([source](https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/))
 - **2026-05-11** — Google stopped a zero-day hack that it says was developed with AI ([source](https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped))
 - **2026-05-07** — Womanizer Coupons: Save 15% in May ([source](https://www.wired.com/story/womanizer-coupon/))
