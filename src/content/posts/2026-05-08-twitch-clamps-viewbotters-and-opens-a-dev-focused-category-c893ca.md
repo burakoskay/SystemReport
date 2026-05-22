@@ -1,15 +1,17 @@
 ---
 title: "Twitch clamps viewbotters and opens a dev‑focused category"
 date: 2026-05-08T03:46:32.507Z
+modified_date: 2026-05-22T04:04:17.508Z
 tags: ["twitch","streaming","viewbotting","game-development"]
 hero_image: "/hero/2026-05-08-twitch-clamps-viewbotters-and-opens-a-dev-focused-category-c893ca.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Twitch streamer monitoring live chat with view count overlay"
 description: "Twitch introduces view caps for repeat viewbotters and launches a Software & Game Development category, reshaping creator incentives amid rising competition."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 ## New penalties hit repeat viewbotters
 
@@ -42,3 +44,7 @@ Both moves reflect Twitch’s attempt to balance growth with credibility. By cur
 The next few weeks will reveal whether the view‑cap enforcement actually reduces bot traffic. Twitch will publish periodic transparency reports, and analysts will compare peak viewership trends before and after the policy’s rollout. On the competitive front, keep an eye on Mixer’s co‑streaming rollout schedule and its adoption rates among Xbox Insiders. Finally, monitor how quickly the Software & Game Development category climbs in Twitch’s internal ranking system—early adoption could signal a shift in creator migration patterns.
 
 ---
+
+## Updates
+
+- **2026-05-22** — How Elon Musk will increase his power through the SpaceX IPO ([source](https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/))

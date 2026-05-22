@@ -1,14 +1,16 @@
 ---
 title: "AI Medical Diagnosis Approaches Human Expertise"
 date: 2026-05-03T19:07:17.829Z
+modified_date: 2026-05-22T04:04:20.586Z
 tags: ["AI","Medical Diagnosis","Healthcare"]
 hero_image: "/hero/2026-05-03-ai-medical-diagnosis-approaches-human-expertise-54d1a1.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Medical Imaging"
 description: "AI systems match human doctors in medical diagnosis accuracy"
-sources_count: 5
+sources_count: 6
 ---
+
 
 ## Introduction to AI in Medical Diagnosis
 A recent review found that artificial intelligence systems can interpret medical images using deep learning algorithms, performing on a par with human experts.
@@ -30,3 +32,7 @@ The downstream implications of AI medical diagnosis are significant. If AI syste
 The regulatory framework surrounding AI medical diagnosis is still in its infancy. As AI systems become more prevalent in medical diagnosis, it is essential to establish clear guidelines and regulations to ensure their safe and effective use. This includes ensuring that AI systems are transparent, explainable, and fair, and that they are designed with patient safety and well-being in mind.
 ## Future Directions
 The future of AI medical diagnosis is promising, with potential applications in a wide range of medical specialties. However, it is crucial to address the challenges and limitations associated with AI medical diagnosis, including the potential for bias and error, and the need for further research and evaluation. By doing so, we can ensure that AI systems are used to improve patient outcomes and enhance the quality of healthcare.
+
+## Updates
+
+- **2026-05-22** — The memory shortage is causing a repricing of consumer electronics ([source](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone))
