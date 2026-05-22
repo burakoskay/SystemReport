@@ -1,15 +1,17 @@
 ---
 title: "Visual DB: No-Code Database Frontend"
 date: 2026-05-21T12:51:12.070Z
+modified_date: 2026-05-22T23:06:26.654Z
 tags: ["no-code","low-code","database frontend"]
 hero_image: "/hero/2026-05-21-visual-db-no-code-database-frontend-c45e0a.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "database"
 description: "Visual DB offers a web frontend for databases with drag-and-drop tools, AI assistance, and no coding required."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## A New Way to Build Databases
@@ -74,3 +76,6 @@ Visual DB aims to solve common business problems associated with using Excel to 
 
 As Visual DB continues to develop its platform, it will be interesting to see how it competes with other no-code and low-code solutions. The company will need to demonstrate the scalability and reliability of its platform to attract large enterprises.
 
+## Updates
+
+- **2026-05-22** — WhatsApp is working on a centralized interface showing which contacts are online ([source](https://9to5mac.com/2026/05/22/whatsapp-is-working-on-a-centralized-interface-showing-which-contacts-are-online/))

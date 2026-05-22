@@ -1,18 +1,20 @@
 ---
 title: "Gusto hits $1B revenue as Telegram rolls out business tools"
 date: 2026-05-07T21:11:34.471Z
+modified_date: 2026-05-22T23:06:20.350Z
 tags: ["gusto","telegram","business-messaging","saas","monetization"]
 hero_image: "/hero/2026-05-07-gusto-hits-1b-revenue-as-telegram-rolls-out-business-tools-ac7164.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "messaging app interface with business tools overlay"
 description: "Gusto reports $1 billion in revenue while Telegram launches Business features and ad‑sharing, reshaping SaaS growth and messaging monetization."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-07-gusto-hits-1b-revenue-as-telegram-rolls-out-business-tools-ac7164.mp3"
 audio_bytes: 571395
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Gusto crosses the $1 billion revenue threshold
 
@@ -47,3 +49,7 @@ The convergence of subscription and ad models also raises questions about pricin
 ## What to watch next
 
 Gusto’s next filing will likely reveal whether the $1 billion figure translates into a profit margin that satisfies public‑market investors. Keep an eye on any guidance about a potential IPO timeline. For Telegram, the rollout of AI‑powered chatbots—hinted at by Durov—will be the next litmus test for the Business suite’s stickiness. Also watch the adoption rate of the 50 % ad‑revenue share; a rapid uptick in channel creator earnings could force Meta to adjust its own monetization terms. The interplay between subscription growth, ad revenue, and enterprise adoption will shape the competitive landscape for messaging platforms over the next 12 months.
+
+## Updates
+
+- **2026-05-22** — SpaceX launches Starship V3 for the first time, but loses booster on return ([source](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/))

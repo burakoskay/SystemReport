@@ -1,57 +1,58 @@
 {
-  "generated_at": "2026-05-22T21:30:21.004Z",
+  "generated_at": "2026-05-22T23:14:20.011Z",
   "window_days": 7,
-  "total_records": 3896,
+  "total_records": 3931,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 730,
-      "success": 542,
-      "success_rate": 0.7424657534246575,
+      "calls": 741,
+      "success": 547,
+      "success_rate": 0.738191632928475,
       "latency_p50": 3823,
       "latency_p95": 13152,
-      "response_chars_mean": 3461,
+      "response_chars_mean": 3473,
       "error_classes": {
-        "rate_limit": 164,
-        "unknown": 20,
+        "rate_limit": 169,
+        "unknown": 21,
         "too_large": 1,
         "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 186,
-      "success": 151,
-      "success_rate": 0.8118279569892473,
+      "calls": 189,
+      "success": 153,
+      "success_rate": 0.8095238095238095,
       "latency_p50": 1326,
       "latency_p95": 10067,
-      "response_chars_mean": 1660,
+      "response_chars_mean": 1648,
       "error_classes": {
-        "rate_limit": 31,
+        "rate_limit": 32,
         "unknown": 1,
         "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 308,
-      "success": 267,
-      "success_rate": 0.8668831168831169,
+      "calls": 310,
+      "success": 268,
+      "success_rate": 0.864516129032258,
       "latency_p50": 2693,
       "latency_p95": 9906,
-      "response_chars_mean": 4724,
+      "response_chars_mean": 4735,
       "error_classes": {
-        "rate_limit": 38,
+        "rate_limit": 39,
         "unknown": 2,
         "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 40,
-      "success": 28,
-      "success_rate": 0.7,
-      "latency_p50": 273,
+      "calls": 42,
+      "success": 29,
+      "success_rate": 0.6904761904761905,
+      "latency_p50": 302,
       "latency_p95": 3910,
       "response_chars_mean": 62,
       "error_classes": {
-        "unknown": 12
+        "unknown": 12,
+        "rate_limit": 1
       }
     }
   }
