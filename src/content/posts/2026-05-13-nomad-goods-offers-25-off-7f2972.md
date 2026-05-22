@@ -1,14 +1,16 @@
 ---
 title: "Nomad Goods Offers 25% Off"
 date: 2026-05-13T06:52:21.113Z
+modified_date: 2026-05-22T21:16:24.688Z
 tags: ["tech discounts","Nomad Goods","Corsair","H&R Block"]
 hero_image: "/hero/2026-05-13-nomad-goods-offers-25-off-7f2972.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Discounts Hit Nomad Goods, Corsair, and H&R Block
 Nomad Goods is providing up to 25% off accessories like phone cases and wallets. This strategic move by Nomad Goods reflects a broader trend in the tech industry, where companies are leveraging discounts to drive sales and clear inventory. The discounts are available on various Nomad Goods products, including phone cases and wallets, which are part of the company's efforts to promote its product line and attract new customers.
@@ -28,3 +30,7 @@ The discounts offered by Nomad Goods, Corsair, and H&R Block have significant im
 The discounts offered by Nomad Goods, Corsair, and H&R Block are part of a broader trend in the tech industry, where companies are using discounts to drive sales and attract customers. Other companies, such as Apple and Samsung, have also used discounts to promote their products and clear inventory. The use of discounts is a common strategy in the tech industry, where companies are constantly looking for ways to differentiate themselves and attract customers.
 ## What to Watch
 Consumers should track whether these discounts continue and if other brands follow suit. The impact of these deals on revenue and customer engagement will be worth monitoring. Additionally, the response of competitors to these discounts will be crucial, as it may lead to a price war or the introduction of new products and services. The discounts may also have an impact on the overall market trends, including the demand for certain products and the competitive landscape.
+
+## Updates
+
+- **2026-05-22** — Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ ([source](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/))
