@@ -1,15 +1,17 @@
 ---
 title: "Free Tools for Taking Control of Your Debt and Finances"
 date: 2026-05-17T11:15:50.188Z
+modified_date: 2026-05-22T09:36:51.305Z
 tags: ["personal finance","financial literacy","debt management"]
 hero_image: "/hero/2026-05-17-free-tools-for-taking-control-of-your-debt-and-finances-bdc7e9.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "financial chart"
 description: "Several free tools and resources are available to help individuals manage their debt and personal finances."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## A New Era of Financial Transparency
@@ -67,3 +69,7 @@ There are many additional resources available for individuals looking to take co
 ## Conclusion
 
 In conclusion, taking control of one's finances is a crucial aspect of achieving financial stability and well-being. With the rise of free and open-source tools, individuals can now access a wide range of resources to help them manage their finances more effectively. By understanding the technical mechanics behind these tools and resources, individuals can make more informed decisions about their financial lives and achieve their financial goals.
+
+## Updates
+
+- **2026-05-22** — Finally, a Great Free Radio App for Windows ([source](https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/))
