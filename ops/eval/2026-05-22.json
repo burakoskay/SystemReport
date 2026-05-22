@@ -1,56 +1,57 @@
 {
-  "generated_at": "2026-05-22T16:39:47.531Z",
+  "generated_at": "2026-05-22T20:13:52.939Z",
   "window_days": 7,
-  "total_records": 3662,
+  "total_records": 3806,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 685,
-      "success": 506,
-      "success_rate": 0.7386861313868613,
-      "latency_p50": 3792,
-      "latency_p95": 12307,
-      "response_chars_mean": 3436,
+      "calls": 712,
+      "success": 531,
+      "success_rate": 0.7457865168539326,
+      "latency_p50": 3794,
+      "latency_p95": 12575,
+      "response_chars_mean": 3464,
       "error_classes": {
         "rate_limit": 158,
         "unknown": 19,
         "too_large": 1,
-        "timeout": 1
+        "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 172,
-      "success": 141,
-      "success_rate": 0.8197674418604651,
-      "latency_p50": 1301,
-      "latency_p95": 9888,
-      "response_chars_mean": 1662,
+      "calls": 182,
+      "success": 147,
+      "success_rate": 0.8076923076923077,
+      "latency_p50": 1319,
+      "latency_p95": 9901,
+      "response_chars_mean": 1651,
       "error_classes": {
-        "rate_limit": 28,
+        "rate_limit": 31,
         "unknown": 1,
-        "timeout": 2
+        "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 297,
-      "success": 258,
-      "success_rate": 0.8686868686868687,
-      "latency_p50": 2645,
+      "calls": 303,
+      "success": 263,
+      "success_rate": 0.8679867986798679,
+      "latency_p50": 2689,
       "latency_p95": 9704,
-      "response_chars_mean": 4764,
+      "response_chars_mean": 4750,
       "error_classes": {
         "rate_limit": 37,
-        "unknown": 2
+        "unknown": 2,
+        "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 28,
-      "success": 22,
-      "success_rate": 0.7857142857142857,
-      "latency_p50": 234,
-      "latency_p95": 2347,
-      "response_chars_mean": 64,
+      "calls": 38,
+      "success": 27,
+      "success_rate": 0.7105263157894737,
+      "latency_p50": 273,
+      "latency_p95": 3910,
+      "response_chars_mean": 62,
       "error_classes": {
-        "unknown": 6
+        "unknown": 11
       }
     }
   }

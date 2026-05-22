@@ -1,16 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-05-20T15:37:42.292Z
+modified_date: 2026-05-22T19:54:15.778Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 19
+sources_count: 20
 author: "david-okafor"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Another variable is the relationship with Nvidia. Framework has secured a mobile
 
 ## Updates
 
+- **2026-05-22** — SpaceX files to go public, and the math requires a little faith ([source](https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/))
 - **2026-05-20** — ‘Perfect Storm’: How Trump's Aid Cuts Are Fueling the Ebola Outbreak ([source](https://www.wired.com/story/how-trumps-aid-cuts-are-fueling-the-ebola-outbreak/))
 - **2026-05-09** — The React2Shell Story ([source](https://lachlan.nz/blog/the-react2shell-story/))
 - **2026-05-07** — The future of Disney Plus is a confused mess ([source](https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks))

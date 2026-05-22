@@ -1,19 +1,20 @@
 ---
 title: "cPanel WHM Authentication Bypass"
 date: 2026-05-01T09:53:26.149Z
-modified_date: 2026-05-01T17:02:00.122Z
+modified_date: 2026-05-22T19:54:40.805Z
 tags: ["cPanel","WHM","authentication bypass","vulnerability"]
 hero_image: "/hero/2026-05-01-cpanel-whm-authentication-bypass-ca0aa3.jpg"
 hero_image_credit_name: "Cầu Đường Việt Nam"
 hero_image_credit_url: "https://www.pexels.com/@c-u-d-ng-vi-t-nam-478497515"
 visual_keyword: "cPanel WHM Authentication Bypass"
 description: "cPanel's WHM has an authentication bypass vulnerability, CVE-2026-41940. This flaw allows unauthorized access to cPanel accounts."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-01-cpanel-whm-authentication-bypass-ca0aa3.mp3"
 audio_bytes: 666480
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,4 +74,5 @@ By taking a proactive and collaborative approach to security, the web hosting in
 
 ## Updates
 
+- **2026-05-22** — Friday’s Android app deals and freebies: Balatro, Samorost 3, CHUCHEL, Botanicula, more ([source](https://9to5toys.com/2026/05/22/friday-android-app-deals-free-balatro-samorost/))
 - **2026-05-01** — Scorpions go terminator mode and reinforce their weapons with metal ([source](https://arstechnica.com/science/2026/05/scorpions-go-terminator-mode-and-reinforce-their-weapons-with-metal/))

@@ -1,15 +1,17 @@
 ---
 title: "Lux OS Takes a Microkernel Approach"
 date: 2026-05-16T09:58:59.945Z
+modified_date: 2026-05-22T19:54:22.088Z
 tags: ["microkernel-os","ssd-issues","indie-software","operating-systems","blogging-tools"]
 hero_image: "/hero/2026-05-16-lux-os-takes-a-microkernel-approach-b4cd16.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "microkernel architecture diagram with user-space servers connected via Unix sockets"
 description: "A 5,000-line microkernel OS and Spotify’s SSD problem intersect with indie blog tools."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Lux OS: A Microkernel Built for Simplicity
 
@@ -38,3 +40,7 @@ The product caters to writers frustrated by ad-supported models. For 50 free pos
 ## What to Watch
 
 *Lux*’s roadmap will determine if its minimalist philosophy can evolve beyond an educational project. Key milestones include ARM64 support and integration of core drivers into user-space servers. For Spotify, hardware manufacturers may start including firmware-level write throttling to mitigate the issue. And *Pika*’s long-term viability depends on whether its subscription model gains traction against free, open-source competitors. All three stories underscore a tension between engineering purity and user pragmatism that remains unresolved in 2024.
+
+## Updates
+
+- **2026-05-22** — Elon, stop trying to make Grok happen ([source](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen))
