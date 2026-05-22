@@ -1,18 +1,19 @@
 ---
 title: "OpenAI Executive Exodus"
 date: 2026-04-18T12:43:17.028Z
-modified_date: 2026-05-08T17:25:26.829Z
+modified_date: 2026-05-22T12:25:44.309Z
 tags: ["OpenAI","Enterprise AI","Executive Exodus"]
 hero_image: "/hero/2026-04-18-openai-executive-exodus-4f9729.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI"
 description: "Key leaders depart as OpenAI shifts to enterprise AI"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-18-openai-executive-exodus-4f9729.wav"
 audio_bytes: 3740214
 author: "maya-chen"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ OpenAI's ability to deliver on its enterprise AI promises will shape its future.
 
 ## Updates
 
+- **2026-05-22** — Valve Steam Controller Review (2026): Wait for the Steam Machine ([source](https://www.wired.com/review/valve-steam-controller-2026/))
 - **2026-05-08** — Which Macs are suffering from shortages—and where are things getting worse? ([source](https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/))
 - **2026-05-01** — Engadget Podcast: Is the Valve Steam Controller worth $100? ([source](https://www.engadget.com/2161921/engadget-podcast-is-the-valve-steam-controller-worth-dollar100/))
 - **2026-04-21** — The Vergecast Vergecast, 2026 edition ([source](https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast))

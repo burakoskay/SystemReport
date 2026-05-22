@@ -1,18 +1,20 @@
 ---
 title: "Apple doubles down on content, wallets and hardware speed"
 date: 2026-05-19T21:33:21.817Z
+modified_date: 2026-05-22T12:25:41.209Z
 tags: ["apple","hardware","streaming","ios"]
 hero_image: "/hero/2026-05-19-apple-doubles-down-on-content-wallets-and-hardware-speed-21105d.jpg"
 hero_image_credit_name: "Dmitry Demidov"
 hero_image_credit_url: "https://www.pexels.com/@dmitry-demidov-515774"
 visual_keyword: "Apple conference hall with film reel and hardware schematics"
 description: "Apple adds a new original film star, fixes Wallet order tracking, rolls out Peanuts premieres, and reshuffles hardware leadership to speed future devices."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-05-19-apple-doubles-down-on-content-wallets-and-hardware-speed-21105d.mp3"
 audio_bytes: 588531
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple is stacking new talent, software tweaks and hardware leadership changes to keep its ecosystem humming. The moves signal a push to tighten user experience while accelerating the pipeline for next‑gen devices.
 
@@ -45,3 +47,7 @@ According to the report, Srouji is cutting redundancies and tightening review cy
 ## What to Watch
 
 The next quarter will reveal whether Apple’s content bets and hardware reforms translate into measurable gains. Track the release window for *Running* and the performance of the Peanuts specials in subscriber metrics. Monitor iOS 26 adoption rates to see how quickly users engage with the new Wallet tracking. Finally, watch for any public statements from Srouji or Ternus on the revised hardware roadmap, especially any hints about upcoming silicon generations.
+
+## Updates
+
+- **2026-05-22** — All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques ([source](https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/))

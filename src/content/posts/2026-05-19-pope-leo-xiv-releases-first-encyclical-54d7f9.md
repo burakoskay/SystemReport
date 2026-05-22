@@ -1,14 +1,16 @@
 ---
 title: "Pope Leo XIV Releases First Encyclical"
 date: 2026-05-19T04:08:56.245Z
+modified_date: 2026-05-22T12:25:50.505Z
 tags: ["Pope Leo XIV","Catholic Church","Encyclical","Vatican","Global Affairs"]
 hero_image: "/hero/2026-05-19-pope-leo-xiv-releases-first-encyclical-54d7f9.jpg"
 hero_image_credit_name: "Özgür KAYA"
 hero_image_credit_url: "https://www.pexels.com/@ozgur-kaya-575422504"
 visual_keyword: "Vatican"
 description: "Pope Leo XIV's first encyclical, Magnifica humanitas, published on May 25."
-sources_count: 1
+sources_count: 2
 ---
+
 
 # System Report — Editorial Voice
 
@@ -88,3 +90,7 @@ The encyclical's release is a significant event for the Catholic Church and the 
 
 - Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html
 - Comments URL: https://news.ycombinator.com/item?id=48187201
+
+## Updates
+
+- **2026-05-22** — Tell HN: I'm tired of AI-generated answers ([source](https://news.ycombinator.com/item?id=48230104))

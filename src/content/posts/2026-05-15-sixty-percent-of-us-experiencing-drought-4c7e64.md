@@ -1,18 +1,20 @@
 ---
 title: "Sixty Percent of US Experiencing Drought"
 date: 2026-05-15T10:33:46.122Z
+modified_date: 2026-05-22T12:25:38.119Z
 tags: ["drought","energy","deportation"]
 hero_image: "/hero/2026-05-15-sixty-percent-of-us-experiencing-drought-4c7e64.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "energy"
 description: "A look at the US drought crisis, energy shortages in California, and a deportation loophole; plus, a knowledge engine for tracking wealth and power."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-15-sixty-percent-of-us-experiencing-drought-4c7e64.mp3"
 audio_bytes: 581844
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Drought Conditions Hit Hard Across the US
@@ -75,3 +77,6 @@ The situation also highlights the need for greater investment in energy infrastr
 
 The drought crisis, energy shortages, and deportation loopholes are just a few examples of the complex challenges facing our society. By providing more nuanced and in-depth analysis of these issues, we can gain a deeper understanding of the interconnectedness of our world and the need for more effective solutions.
 
+## Updates
+
+- **2026-05-22** — Rocket Report: Starship launch delayed, German launch company may aid Canada ([source](https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/))
