@@ -1,16 +1,17 @@
 ---
 title: "FTC says $2.1 B Lost to Social Media Scams in 2025"
 date: 2026-04-27T23:04:02.288Z
-modified_date: 2026-05-21T12:47:52.227Z
+modified_date: 2026-05-23T09:58:27.227Z
 tags: ["scams","ftc","consumer-protection","cybersecurity"]
 hero_image: "/hero/2026-04-27-ftc-says-2-1-b-lost-to-social-media-scams-in-2025-4a3ddf.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "concerned person looking at phone with scam messages"
 description: "Scam losses hit $2.1 billion in 2025, an eight‑fold jump that outpaces any other fraud channel, prompting a regulatory rethink."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The next FTC quarterly report, due in July 2026, will be the first to reflect 
 
 ## Updates
 
+- **2026-05-23** — A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal ([source](https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/))
 - **2026-05-21** — OLED MacBook Pro screens on-track amid talk of delayed launch ([source](https://9to5mac.com/2026/05/21/oled-macbook-pro-screens-on-track-amid-talk-of-delayed-launch/))
 - **2026-05-08** — iPhone-controlled Anthbot M9 robot lawn mower has replaced cutting grass for me [20% off] ([source](https://9to5mac.com/2026/05/08/iphone-controlled-anthbot-m9-robot-lawn-mower-has-replaced-cutting-grass-for-me/))
 - **2026-05-07** — ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily' ([source](https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/))

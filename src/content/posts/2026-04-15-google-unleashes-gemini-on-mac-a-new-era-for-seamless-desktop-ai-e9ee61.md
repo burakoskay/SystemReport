@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-05-19T18:09:39.652Z
+modified_date: 2026-05-23T09:58:30.450Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-05-23** — Best Early Memorial Day Mattress Deals: Helix, Saatva (2026) ([source](https://www.wired.com/story/memorial-day-mattress-deals-2026-1/))
 - **2026-05-19** — Google adds voice-based prompting to Docs and Keep ([source](https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/))
 - **2026-05-14** — AT&T, T-Mobile, and Verizon join forces to eliminate mobile coverage dead zones ([source](https://www.engadget.com/2172897/att-tmobile-and-verizon-join-forces-to-eliminate-mobile-coverage-dead-zones/))
 - **2026-05-13** — Valvoline Coupons & Promo Codes for May 2026 ([source](https://www.wired.com/story/valvoline-coupons/))
