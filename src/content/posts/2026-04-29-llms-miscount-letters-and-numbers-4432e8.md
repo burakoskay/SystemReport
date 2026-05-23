@@ -1,15 +1,16 @@
 ---
 title: "LLMs Miscount Letters and Numbers"
 date: 2026-04-29T14:10:32.882Z
-modified_date: 2026-05-13T18:06:03.113Z
+modified_date: 2026-05-23T11:21:07.960Z
 tags: ["LLMs","AI","ChatGPT"]
 hero_image: "/hero/2026-04-29-llms-miscount-letters-and-numbers-4432e8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "LLMs"
 description: "ChatGPT and other LLMs struggle with basic facts"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 ## The Problem with LLMs
@@ -29,4 +30,5 @@ Developers must prioritize accuracy and consistency in their models. The communi
 
 ## Updates
 
+- **2026-05-23** — China’s shark finning could lead to US seafood sanctions ([source](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/))
 - **2026-05-13** — OnlyFans’ First-Gen Creators Are Retiring—and Some Are Begging You to Forget They Exist ([source](https://www.wired.com/story/onlyfans-creators-retiring-right-to-be-forgotten/))

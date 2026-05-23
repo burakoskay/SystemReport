@@ -1,14 +1,16 @@
 ---
 title: "NanoClaw Secures $12M Seed Funding"
 date: 2026-05-20T15:38:51.647Z
+modified_date: 2026-05-23T11:21:00.991Z
 tags: ["NanoClaw","Quartermaster","Maritime Tech"]
 hero_image: "/hero/2026-05-20-nanoclaw-secures-12m-seed-funding-013428.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "Maritime Sensors"
 description: "NanoCo turns down buyout, raises $12M seed"
-sources_count: 2
+sources_count: 3
 ---
+
 
 # Introduction to NanoClaw
 NanoCo turned down a $20 million buyout offer. Instead, they raised a $12 million seed round, as reported by the founders to TechCrunch. 
@@ -55,3 +57,7 @@ This will lead to increased efficiency, safety, and sustainability in maritime o
 The future of the maritime industry looks promising, with advancements in technology and innovation. 
 Startups like NanoCo and Quartermaster are playing a significant role in shaping the industry's future. 
 As the industry continues to evolve, we can expect to see more innovative solutions and advancements in technology.
+
+## Updates
+
+- **2026-05-23** — The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers ([source](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/))
