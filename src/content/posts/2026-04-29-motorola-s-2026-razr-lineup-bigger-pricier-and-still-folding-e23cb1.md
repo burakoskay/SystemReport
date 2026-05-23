@@ -1,19 +1,20 @@
 ---
 title: "Motorola's 2026 Razr Lineup: Bigger, Pricier, and Still Folding"
 date: 2026-04-29T19:52:58.966Z
-modified_date: 2026-05-08T17:25:21.868Z
+modified_date: 2026-05-23T17:05:59.376Z
 tags: ["motorola","razr","foldable phones","smartphone reviews"]
 hero_image: "/hero/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.jpg"
 hero_image_credit_name: "Md Imran"
 hero_image_credit_url: "https://www.pexels.com/@im19"
 visual_keyword: "modestly upgraded foldable phone with stylus support"
 description: "Motorola's 2026 Razr lineup grows in size and cost, with new book-style foldables and native stylus support"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.mp3"
 audio_bytes: 664600
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Motorola’s latest Razr iteration doesn’t reinvent foldables—it leans harder into the form factor while hiking prices. The 2026 lineup introduces a book-style foldable for the first time, but the upgrades feel incremental as the brand doubles down on a niche market already saturated by Samsung and Huawei.
@@ -44,4 +45,5 @@ Motorola’s 2026 Razr line will begin shipping in October, with pre-orders open
 
 ## Updates
 
+- **2026-05-23** — DeepSeek permanently reduces the price of its flagship V4 model by 75 percent ([source](https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/))
 - **2026-05-08** — Google Fitbit Air preorders come with a second band for free ([source](https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale))
