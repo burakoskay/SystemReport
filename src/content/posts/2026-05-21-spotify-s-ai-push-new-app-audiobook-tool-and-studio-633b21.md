@@ -1,15 +1,17 @@
 ---
 title: "Spotify's AI Push: New App, Audiobook Tool, and Studio"
 date: 2026-05-21T20:04:13.335Z
+modified_date: 2026-05-23T22:57:01.840Z
 tags: ["Spotify","AI","Music Streaming"]
 hero_image: "/hero/2026-05-21-spotify-s-ai-push-new-app-audiobook-tool-and-studio-633b21.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Spotify"
 description: "Spotify launches a new desktop app, an ElevenLabs-powered audiobook creation tool, and an experimental 'Studio' app that generates podcasts using user data."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 # Spotify's AI Push: New App, Audiobook Tool, and Studio
@@ -65,3 +67,7 @@ In the coming months, Spotify is likely to face increased competition from other
 The company's AI push is also likely to have implications for the broader music streaming industry. As more companies invest in AI research and development, users can expect to see more personalized and engaging experiences across the industry. However, the industry will also need to grapple with the challenges and concerns associated with AI, including data privacy and bias in AI-powered recommendations.
 
 In conclusion, Spotify's AI push is a significant development in the music streaming industry. The company's focus on AI is a strategic effort to stay ahead in the market and provide a more seamless and intuitive experience for users. As the company continues to develop and refine its AI-powered features, users can expect to see more innovative and personalized experiences on the platform.
+
+## Updates
+
+- **2026-05-23** — Record Club is trying to be Letterboxd for music nerds ([source](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds))
