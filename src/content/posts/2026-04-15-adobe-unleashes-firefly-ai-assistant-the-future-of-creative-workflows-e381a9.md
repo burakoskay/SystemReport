@@ -1,16 +1,17 @@
 ---
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
-modified_date: 2026-05-13T03:50:04.698Z
+modified_date: 2026-05-23T06:37:36.098Z
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
 hero_image: "/hero/2026-04-15-adobe-unleashes-firefly-ai-assistant-the-future-of-creative-workflows-e381a9.jpg"
 hero_image_credit_name: "Vito Goričan"
 hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ This move positions Firefly AI Assistant as Adobe's definitive answer to the nar
 
 ## Updates
 
+- **2026-05-23** — 9to5Mac Daily: May 22, 2026 – Apple Music AI, hardware changes ([source](https://9to5mac.com/2026/05/22/daily-may-22-2026/))
 - **2026-05-13** — Sony’s new Xperia phone gets an overdue redesign ([source](https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs))
 - **2026-05-07** — Apple showcases four new MAMI shorts shot on the iPhone 17 Pro Max ([source](https://9to5mac.com/2026/05/07/apple-showcases-four-new-mami-shorts-shot-on-the-iphone-17-pro-max/))
 - **2026-04-28** — Google and the Pentagon sign classified deal to give the Department of Defense unfettered access to its AI models ([source](https://www.engadget.com/ai/google-and-the-pentagon-sign-classified-deal-to-give-the-department-of-defense-unfettered-access-to-its-ai-models-155211834.html?src=rss))
