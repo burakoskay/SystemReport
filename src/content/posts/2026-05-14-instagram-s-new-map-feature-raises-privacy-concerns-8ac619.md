@@ -1,18 +1,20 @@
 ---
 title: "Instagram's New Map Feature Raises Privacy Concerns"
 date: 2026-05-14T03:51:16.264Z
+modified_date: 2026-05-23T03:40:58.314Z
 tags: ["Instagram","Snapchat","Privacy Concerns"]
 hero_image: "/hero/2026-05-14-instagram-s-new-map-feature-raises-privacy-concerns-8ac619.jpg"
 hero_image_credit_name: "John-Mark Smith"
 hero_image_credit_url: "https://www.pexels.com/@jmark"
 visual_keyword: "map"
 description: "Instagram's new map feature allows users to share their location with friends, sparking privacy concerns. The feature is similar to Snapchat's Snap Map."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-14-instagram-s-new-map-feature-raises-privacy-concerns-8ac619.mp3"
 audio_bytes: 554049
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Instagram's New Map Feature Raises Privacy Concerns
@@ -68,3 +70,7 @@ The regulatory environment surrounding social media platforms and user data is e
 ## User Responsibility
 
 Ultimately, users have a responsibility to be aware of the potential risks associated with sharing their location data on social media platforms. By being cautious about the data they share and how it is used, users can help mitigate the risks of data misuse and surveillance. Instagram's new map feature serves as a reminder of the importance of user awareness and responsibility in the digital age.
+
+## Updates
+
+- **2026-05-23** — CISA tries to contain data leak ([source](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/))
