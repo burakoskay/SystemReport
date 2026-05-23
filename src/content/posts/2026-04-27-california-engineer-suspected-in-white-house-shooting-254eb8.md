@@ -1,18 +1,19 @@
 ---
 title: "California Engineer Suspected in White House Shooting"
 date: 2026-04-27T06:33:49.275Z
-modified_date: 2026-04-28T17:51:06.987Z
+modified_date: 2026-05-23T13:46:48.244Z
 tags: ["security","White House","indie game developer"]
 hero_image: "/hero/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.jpg"
 hero_image_credit_name: "Star Zhang"
 hero_image_credit_url: "https://www.pexels.com/@star-zhang-3254790"
 visual_keyword: "security"
 description: "A 31-year-old California engineer and indie game developer is suspected of firing shots at the White House Correspondents' Dinner."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.mp3"
 audio_bytes: 548825
 audio_mime: "audio/mpeg"
 ---
+
 
 
 A 31-year-old engineer and self-described indie game developer from California is suspected of firing shots at the White House Correspondents' Dinner, an annual event attended by President Donald Trump, high-profile media figures, and US government officials.
@@ -59,4 +60,5 @@ The incident also raises questions about the role of technology in facilitating 
 
 ## Updates
 
+- **2026-05-23** — I have a new go-to browser ([source](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer))
 - **2026-04-28** — Apple TV’s new horror series is scarier because it’s also hilarious ([source](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview))

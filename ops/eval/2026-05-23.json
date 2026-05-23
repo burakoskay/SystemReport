@@ -1,42 +1,42 @@
 {
-  "generated_at": "2026-05-23T11:25:28.847Z",
+  "generated_at": "2026-05-23T14:00:02.505Z",
   "window_days": 7,
-  "total_records": 3656,
+  "total_records": 3719,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 673,
-      "success": 497,
-      "success_rate": 0.7384843982169391,
+      "calls": 687,
+      "success": 507,
+      "success_rate": 0.7379912663755459,
       "latency_p50": 3719,
-      "latency_p95": 13160,
-      "response_chars_mean": 3644,
+      "latency_p95": 13152,
+      "response_chars_mean": 3655,
       "error_classes": {
-        "rate_limit": 152,
+        "rate_limit": 156,
         "unknown": 20,
         "too_large": 1,
         "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 280,
-      "success": 244,
-      "success_rate": 0.8714285714285714,
-      "latency_p50": 2716,
+      "calls": 286,
+      "success": 248,
+      "success_rate": 0.8671328671328671,
+      "latency_p50": 2705,
       "latency_p95": 9906,
-      "response_chars_mean": 4707,
+      "response_chars_mean": 4728,
       "error_classes": {
-        "rate_limit": 33,
+        "rate_limit": 35,
         "unknown": 2,
         "timeout": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 176,
-      "success": 145,
-      "success_rate": 0.8238636363636364,
+      "calls": 177,
+      "success": 146,
+      "success_rate": 0.8248587570621468,
       "latency_p50": 1361,
       "latency_p95": 10067,
-      "response_chars_mean": 1656,
+      "response_chars_mean": 1664,
       "error_classes": {
         "rate_limit": 27,
         "unknown": 1,
@@ -44,12 +44,12 @@
       }
     },
     "rewrite-headline:v1": {
-      "calls": 46,
-      "success": 31,
-      "success_rate": 0.6739130434782609,
-      "latency_p50": 302,
+      "calls": 47,
+      "success": 32,
+      "success_rate": 0.6808510638297872,
+      "latency_p50": 281,
       "latency_p95": 3910,
-      "response_chars_mean": 62,
+      "response_chars_mean": 63,
       "error_classes": {
         "unknown": 12,
         "rate_limit": 3

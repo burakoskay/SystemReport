@@ -1,18 +1,20 @@
 ---
 title: "Dyson Drops Its Motor"
 date: 2026-05-01T11:12:10.678Z
+modified_date: 2026-05-23T13:46:51.384Z
 tags: ["Dyson","Robot Vacuum","Third-Party Motor"]
 hero_image: "/hero/2026-05-01-dyson-drops-its-motor-d5745a.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "Dyson Robot Vacuum"
 description: "Dyson's new robot vacuum uses a third-party motor"
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-01-dyson-drops-its-motor-d5745a.mp3"
 audio_bytes: 637432
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Dyson's New Robot Vacuum
 Dyson's newest robot vacuum adds mopping capabilities but takes away the Dyson motor of its predecessor. The recently launched Spot & Scrub Ai robot vacuum and mop was co-engineered with a third-party motor.
@@ -34,3 +36,7 @@ The robot vacuum market is becoming increasingly competitive, with companies suc
 Dyson has a history of innovation and risk-taking, from the development of the iconic Dual Cyclone bagless vacuum to the introduction of the Airblade hand dryer. The company's decision to use a third-party motor in its new robot vacuum may be seen as a continuation of this tradition, as well as a recognition of the changing needs and expectations of consumers.
 ## Technical Details
 The lidar-based navigation technology used in the Spot & Scrub Ai robot vacuum and mop is a significant advancement in robot vacuum technology. This technology allows for more accurate mapping and navigation of spaces, as well as improved obstacle detection and avoidance. The use of lidar technology also enables the device to clean and mop floors more effectively, making it a valuable addition to the Dyson product line.
+
+## Updates
+
+- **2026-05-23** — Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale ([source](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/))
