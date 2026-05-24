@@ -1,15 +1,17 @@
 ---
 title: "Microsoft Bitlocker Backdoor Allegations and IPsec"
 date: 2026-05-17T17:05:47.312Z
+modified_date: 2026-05-24T13:45:43.252Z
 tags: ["security","software","vulnerabilities","Microsoft","IPsec"]
 hero_image: "/hero/2026-05-17-microsoft-bitlocker-backdoor-allegations-and-ipsec-cd8c30.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Cybersecurity professionals analyzing code on a dark-themed interface"
 description: "Security claims against Microsoft Bitlocker and IPsec tools highlight critical infrastructure risks."
-sources_count: 5
+sources_count: 6
 author: "priya-raman"
 ---
+
 
 ## Microsoft Accused of Bitlocker Backdoor, Exploit Released
 
@@ -38,3 +40,7 @@ The researchers argue that API designers must prioritize intuitive security defa
 ## What to Watch
 
 Three developments will define the next phase of this story. First, Microsoft must address the Bitlocker backdoor allegations, either by releasing a patch or repudiating the exploit’s validity. Second, IPsec maintainers will need to roll out a fix for the null dereference vulnerability, a task complicated by the protocol’s entrenched use in legacy systems. Third, the StackWatch app’s adoption or rejection by enterprise teams will signal whether the market sees value in consumer-facing monitoring tools for infrastructure security. Finally, the CMU-SEI research team’s tools for API usability testing could shift how industry approaches secure design—if they gain traction beyond academic circles.
+
+## Updates
+
+- **2026-05-24** — Hackers are learning to exploit chatbot &#8216;personalities&#8217; ([source](https://www.theverge.com/column/935545/hackers-ai-chatbots))

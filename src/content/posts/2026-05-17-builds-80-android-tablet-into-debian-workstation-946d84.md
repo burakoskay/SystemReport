@@ -1,15 +1,17 @@
 ---
 title: "Builds $80 Android tablet into Debian workstation"
 date: 2026-05-17T21:09:45.084Z
+modified_date: 2026-05-24T13:45:45.924Z
 tags: ["linux","arm","devops"]
 hero_image: "/hero/2026-05-17-builds-80-android-tablet-into-debian-workstation-946d84.jpg"
 hero_image_credit_name: "Kawê  Rodrigues"
 hero_image_credit_url: "https://www.pexels.com/@kawerodriguess"
 visual_keyword: "engineer using a small tablet as a Linux workstation on a desk"
 description: "A hobbyist repurposes a cheap RK3562 tablet for Debian, showing how low‑cost hardware can become a usable Linux dev box."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 The hack that replaces an $80 Android tablet’s firmware with Debian turns a pocket‑sized device into a usable Linux workstation. The result is a fully bootable Debian system that runs on a Rockchip RK3562 board, proving that cheap ARM tablets can serve as development platforms.
 
@@ -26,3 +28,7 @@ Comparing this approach to traditional single‑board computers reveals trade‑
 Looking ahead, the success of this hack could spur more manufacturers to ship tablets with unlocked bootloaders or dual‑boot options. If vendors expose the boot partition, the community could maintain official Debian images, reducing the need for custom flashing. Meanwhile, the open‑source community may extend the repo to support newer Rockchip chips, such as the RK3588, which promise higher performance and better GPU support. Tracking updates to the `tech4bot/rk3562deb` repository and any follow‑up posts on Hacker News will reveal whether this experiment stays a one‑off or becomes a template for low‑cost Linux development.
 
 **What to watch** – Keep an eye on the next wave of ARM‑based tablets that ship with unlocked bootloaders. If a major vendor releases a model with a Rockchip or MediaTek SoC and publishes a Linux‑compatible device tree, the barrier to turning cheap tablets into workstations will drop further. Also monitor the GitHub repo for new releases that add hardware acceleration or support for newer Debian releases. Those signals will indicate whether the hobbyist hack is evolving into a broader solution for portable, low‑cost Linux development.
+
+## Updates
+
+- **2026-05-24** — Whatever the mirror test tells us, beluga whales pass it ([source](https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/))
