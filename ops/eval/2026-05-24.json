@@ -1,51 +1,52 @@
 {
-  "generated_at": "2026-05-24T17:13:40.683Z",
+  "generated_at": "2026-05-24T19:33:32.710Z",
   "window_days": 7,
-  "total_records": 3793,
+  "total_records": 3885,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 687,
-      "success": 526,
-      "success_rate": 0.7656477438136827,
-      "latency_p50": 3850,
-      "latency_p95": 12575,
-      "response_chars_mean": 3651,
+      "calls": 707,
+      "success": 542,
+      "success_rate": 0.7666195190947667,
+      "latency_p50": 3874,
+      "latency_p95": 13160,
+      "response_chars_mean": 3637,
       "error_classes": {
-        "rate_limit": 143,
+        "rate_limit": 147,
         "unknown": 15,
         "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 181,
-      "success": 151,
-      "success_rate": 0.8342541436464088,
+      "calls": 186,
+      "success": 155,
+      "success_rate": 0.8333333333333334,
       "latency_p50": 1380,
-      "latency_p95": 10183,
-      "response_chars_mean": 1639,
+      "latency_p95": 10186,
+      "response_chars_mean": 1657,
       "error_classes": {
-        "rate_limit": 26,
+        "rate_limit": 27,
         "unknown": 1,
         "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 289,
-      "success": 257,
-      "success_rate": 0.889273356401384,
-      "latency_p50": 2726,
-      "latency_p95": 10046,
-      "response_chars_mean": 4699,
+      "calls": 296,
+      "success": 263,
+      "success_rate": 0.8885135135135135,
+      "latency_p50": 2719,
+      "latency_p95": 10134,
+      "response_chars_mean": 4663,
       "error_classes": {
         "rate_limit": 30,
         "unknown": 1,
-        "timeout": 1
+        "timeout": 1,
+        "permission": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 51,
-      "success": 35,
-      "success_rate": 0.6862745098039216,
+      "calls": 52,
+      "success": 36,
+      "success_rate": 0.6923076923076923,
       "latency_p50": 302,
       "latency_p95": 4105,
       "response_chars_mean": 62,

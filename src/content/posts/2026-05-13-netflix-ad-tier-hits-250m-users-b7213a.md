@@ -1,19 +1,20 @@
 ---
 title: "Netflix Ad Tier Hits 250M Users"
 date: 2026-05-13T21:38:10.811Z
-modified_date: 2026-05-14T03:49:39.142Z
+modified_date: 2026-05-24T19:23:41.086Z
 tags: ["netflix","ad-tier","assassins-creed","device-compatibility","streaming-industry"]
 hero_image: "/hero/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.jpg"
 hero_image_credit_name: "Anastasia Haritonov"
 hero_image_credit_url: "https://www.pexels.com/@anastasia-haritonov-898480"
 visual_keyword: "Netflix logo with Italian filming locations"
 description: "Netflix's ad-supported tier hits 250M users while Assassin's Creed TV series begins filming in Italy"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.mp3"
 audio_bytes: 615907
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,5 +53,6 @@ What to watch:
 
 ## Updates
 
+- **2026-05-24** — Memory has grown to nearly two-thirds of AI chip component costs ([source](https://epoch.ai/data-insights/ai-chip-component-cost-shares))
 - **2026-05-14** — Making the news available at no cost is a victory ([source](https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/))
 - **2026-05-13** — Trump administration defends right to ban content moderation experts from US ([source](https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research))
