@@ -1,15 +1,17 @@
 ---
 title: "SolarSquare Eyes $60M Raise"
 date: 2026-05-23T20:59:44.993Z
+modified_date: 2026-05-24T17:08:32.768Z
 tags: ["renewable energy","solar power","Indian startups"]
 hero_image: "/hero/2026-05-23-solarsquare-eyes-60m-raise-9f5725.jpg"
 hero_image_credit_name: "Budget Bizar"
 hero_image_credit_url: "https://www.pexels.com/@budget-bizar-92378004"
 visual_keyword: "solar panels"
 description: "Indian rooftop solar firm SolarSquare in talks to raise up to $60M"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Indian Rooftop Solar Market Heats Up
@@ -84,3 +86,6 @@ SolarSquare will need to navigate these regulatory challenges and work with the 
 
 The funding deal is a significant milestone for SolarSquare, and it could have far-reaching implications for the Indian rooftop solar market. The company's success could drive growth and innovation in the industry, and it could play a key role in achieving India's renewable energy goals.
 
+## Updates
+
+- **2026-05-24** — On Trails is a wandering tale that blends hiking, science, and history ([source](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review))
