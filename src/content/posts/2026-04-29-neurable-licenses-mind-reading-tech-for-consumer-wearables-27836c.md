@@ -1,15 +1,17 @@
 ---
 title: "Neurable Licenses 'Mind-Reading' Tech for Consumer Wearables"
 date: 2026-04-29T06:34:33.754Z
+modified_date: 2026-05-24T11:20:13.983Z
 tags: ["neurable","bci","mind-reading","consumer wearables","brain-computer interface"]
 hero_image: "/hero/2026-04-29-neurable-licenses-mind-reading-tech-for-consumer-wearables-27836c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "neural data collection"
 description: "BCI startup Neurable seeks to integrate its non-invasive neural data collection tech into consumer wearables."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Neurable Licenses 'Mind-Reading' Tech for Consumer Wearables
@@ -73,3 +75,7 @@ The potential applications of Neurable's 'mind-reading' tech are vast, from gami
 ### Industry Experts Weigh In
 
 We spoke with several industry experts who offered their thoughts on Neurable's licensing deal.
+
+## Updates
+
+- **2026-05-24** — These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin ([source](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/))

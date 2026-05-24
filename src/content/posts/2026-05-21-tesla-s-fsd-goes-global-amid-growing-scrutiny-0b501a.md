@@ -1,15 +1,17 @@
 ---
 title: "Tesla’s FSD Goes Global Amid Growing Scrutiny"
 date: 2026-05-21T12:57:24.266Z
+modified_date: 2026-05-24T11:20:20.558Z
 tags: ["tesla","autonomous-driving","regulation","china"]
 hero_image: "/hero/2026-05-21-tesla-s-fsd-goes-global-amid-growing-scrutiny-0b501a.jpg"
 hero_image_credit_name: "Nektarios Moutakis"
 hero_image_credit_url: "https://www.pexels.com/@nektarios-moutakis-266968888"
 visual_keyword: "Tesla Model 3 navigating Shanghai streets at night under bright neon lights"
 description: "Tesla launches Full Self‑Driving in China while Musk promises a feature‑complete version, sparking regulatory pushback and user‑level doubts."
-sources_count: 7
+sources_count: 8
 author: "elena-marchetti"
 ---
+
 
 ## Tesla unlocks Full Self‑Driving in China
 
@@ -52,3 +54,7 @@ The combination of high upfront costs, a feature that still requires supervision
 ## What to watch
 
 The next few months will reveal whether the California DMV’s naming challenge gains traction at the state or federal level, and whether NHTSA issues concrete standards for driver‑assist systems. Simultaneously, Tesla’s software team must decide if the promised “feature‑complete” city‑driving capability will arrive through the early‑access program or be postponed indefinitely. The outcome will determine if the FSD label survives regulatory censure or becomes a relic of an over‑promised era.
+
+## Updates
+
+- **2026-05-24** — Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage ([source](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo))
