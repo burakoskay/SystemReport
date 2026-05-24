@@ -1,19 +1,20 @@
 ---
 title: "Federal Worker Fired for Filming DOGE, Runs for Congress"
 date: 2026-05-04T14:16:25.345Z
-modified_date: 2026-05-23T15:05:59.407Z
+modified_date: 2026-05-24T15:08:55.548Z
 tags: ["government","congress","DOGE"]
 hero_image: "/hero/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.jpg"
 hero_image_credit_name: "Hugo Sykes"
 hero_image_credit_url: "https://www.pexels.com/@hugosykes"
 visual_keyword: "Alexis Goldstein"
 description: "Alexis Goldstein, ex-CFPB employee, fired for recording DOGE's incursion into the agency, now runs for Congress."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.mp3"
 audio_bytes: 561573
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Ultimately, the outcome of Goldstein's campaign will depend on how voters respon
 
 ## Updates
 
+- **2026-05-24** — Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day ([source](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale))
 - **2026-05-23** — Here are 38 Memorial Day deals we recommend for $50 or less ([source](https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50))
 - **2026-05-19** — Google Flow AI video editing & music tools getting dedicated apps and Omni upgrades ([source](https://9to5google.com/2026/05/19/google-flow-video-music-ai-apps/))
 - **2026-05-17** — Mozilla to UK regulators: VPNs are essential privacy and security tools ([source](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/))

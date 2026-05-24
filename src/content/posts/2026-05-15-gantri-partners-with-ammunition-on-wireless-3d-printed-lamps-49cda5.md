@@ -1,17 +1,19 @@
 ---
 title: "Gantri Partners with Ammunition on Wireless 3D-Printed Lamps"
 date: 2026-05-15T14:19:51.550Z
+modified_date: 2026-05-24T15:08:58.859Z
 tags: ["Gantri","Ammunition","Wireless Lighting","3D Printing"]
 hero_image: "/hero/2026-05-15-gantri-partners-with-ammunition-on-wireless-3d-printed-lamps-49cda5.jpg"
 hero_image_credit_name: "Tom Swinnen"
 hero_image_credit_url: "https://www.pexels.com/@shottrotter"
 visual_keyword: "Wireless Lamps"
 description: "Gantri's 3D-printed lamps go wireless with Ammunition"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-15-gantri-partners-with-ammunition-on-wireless-3d-printed-lamps-49cda5.mp3"
 audio_bytes: 606503
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Wireless Lighting
 Gantri's 3D-printed lamps are going wireless in a partnership with design firm Ammunition. This move marks a significant development in the smart home industry, where convenience and user experience are key. The collaboration aims to enhance the user experience by eliminating the need for cables, making the lamps more versatile and easier to place in any setting.
@@ -49,3 +51,7 @@ The use of 3D printing technology in the production of wireless lamps also has i
 
 ## Technical Advancements
 Recent advancements in wireless technology have made it possible to create more efficient and reliable wireless lighting systems. The development of new protocols and standards, such as Zigbee and Bluetooth Low Energy, has enabled the creation of more sophisticated and integrated lighting systems. These advancements have also made it possible to create more affordable and accessible wireless lighting products, which can be used in a wide range of applications.
+
+## Updates
+
+- **2026-05-24** — iOS 27 could offer native integration with Google Cast and other streaming protocols ([source](https://9to5mac.com/2026/05/24/ios-27-google-cast-third-party-streaming-integration-eu/))

@@ -1,14 +1,16 @@
 ---
 title: "Privacy Concerns Mount Over Apple AirPods Cameras"
 date: 2026-05-08T03:40:34.528Z
+modified_date: 2026-05-24T15:09:02.174Z
 tags: ["Apple","AirPods","Privacy"]
 hero_image: "/hero/2026-05-08-privacy-concerns-mount-over-apple-airpods-cameras-44d6dc.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AirPods"
 description: "New Apple AirPods with cameras spark privacy concerns while users adapt with iOS 26 shortcuts, webcam lighting hacks, and Chromebook switches."
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 ## Camera‑Equipped AirPods Raise Immediate Privacy Concerns
@@ -93,3 +95,6 @@ The introduction of camera-equipped AirPods has significant implications for use
 
 The intersection of technology and policy will be critical to watch. As users adapt to new technologies, regulators will need to consider the implications of emerging trends.
 
+## Updates
+
+- **2026-05-24** — Report: iOS 27 to revamp the AirPods settings UI ([source](https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/))
