@@ -1,18 +1,20 @@
 ---
 title: "Sharge’s Qi2.2 Battery Down to $70, Altra & Ember Deals"
 date: 2026-04-25T19:08:50.378Z
+modified_date: 2026-05-25T19:47:49.099Z
 tags: ["portable-charging","deals","tech-deals","smart-gadgets","running-shoes"]
 hero_image: "/hero/2026-04-25-sharge-s-qi2-2-battery-down-to-70-altra-ember-deals-23b7e0.jpg"
 hero_image_credit_name: "I'm Zion"
 hero_image_credit_url: "https://www.pexels.com/@zion"
 visual_keyword: "compact wireless charging battery with MagSafe and kickstand"
 description: "Sharge’s Icemag 3 power bank drops to $70, plus Altra and Ember deals for May."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-04-25-sharge-s-qi2-2-battery-down-to-70-altra-ember-deals-23b7e0.mp3"
 audio_bytes: 640567
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Sharge Icemag 3 Hits $70 with Free Cable
 
@@ -41,3 +43,7 @@ Sharge’s Icemag 3 is the most compelling play here. By targeting iPhone 16 own
 ## What to Watch
 
 Track Sharge’s Icemag 3 stock levels in July. If Apple announces MagSafe-compatible USB-C iPhones, expect a surge in demand for Qi2.2 batteries. For Altra, monitor whether the 50% sale styles cannibalize new model sales. Ember’s Mother’s Day push will reveal if smart mugs can maintain relevance beyond novelty. All three deals expire in June, so compare prices on June 1st to see if discounts reset.
+
+## Updates
+
+- **2026-05-25** — Cox Media fined after bragging it spied on users through their phones ([source](https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine))
