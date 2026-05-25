@@ -1,15 +1,17 @@
 ---
 title: "Spotify beta tests AI‑generated playlists from text prompts"
 date: 2026-05-22T04:32:16.408Z
+modified_date: 2026-05-25T04:14:15.442Z
 tags: ["spotify","ai","playlists"]
 hero_image: "/hero/2026-05-22-spotify-beta-tests-ai-generated-playlists-from-text-prompts-2e6313.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "a smartphone screen showing Spotify's AI playlist generation interface with text prompts and music icons"
 description: "Spotify launches a UK/Australia beta letting Premium users create 30‑track playlists from natural‑language prompts, sparking questions about curation and pricing."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## AI Playlists Beta Rolls Out in the UK and Australia
 
@@ -38,3 +40,7 @@ The AI Playlist beta could be a revenue lever. Premium plans currently start at 
 ## What to Watch
 
 In the coming months, watch for three signals: the geographic expansion of the AI Playlist beta beyond the UK and Australia; any pricing announcements that tie the new AI tools to premium tiers; and the evolution of the AI DJ’s voice library, especially whether additional synthetic hosts replace or augment the Xavier Jernigan model. These moves will reveal how aggressively Spotify intends to monetize generative AI and whether the experiments reshape the streaming experience or remain niche curiosities.
+
+## Updates
+
+- **2026-05-25** — No, that probably wasn’t Pixel 11’s ‘Glow’ at I/O – ‘Pixel Ultra meeting’ anyone? ([source](https://9to5google.com/2026/05/24/pixel-11-glow-io-wink/))
