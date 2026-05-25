@@ -1,18 +1,20 @@
 ---
 title: "Hacker News Success Factors"
 date: 2026-05-18T10:15:30.079Z
+modified_date: 2026-05-25T23:10:51.150Z
 tags: ["Hacker News","content creation","success factors"]
 hero_image: "/hero/2026-05-18-hacker-news-success-factors-d6695a.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "Researchers analyze Hacker News submissions to determine what factors contribute to a post's success."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-05-18-hacker-news-success-factors-d6695a.mp3"
 audio_bytes: 533987
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction
 
@@ -77,3 +79,7 @@ The study's findings provide a valuable foundation for future research into the 
 Several related studies have explored the factors that contribute to a post's success on Hacker News. For example, one study found that posts with certain keywords or phrases were more likely to be successful. Another study found that posts submitted during certain times of the day were more likely to be successful.
 
 These studies provide valuable insights into the mechanisms that drive engagement on Hacker News. However, more research is needed to fully understand the factors that contribute to a post's success.
+
+## Updates
+
+- **2026-05-25** — The Virtual OS Museum is a fantastic project that lets you run Mac OS, A/UX, NeXTSTEP, more ([source](https://9to5mac.com/2026/05/25/the-virtual-os-museum-is-a-fantastic-project-that-lets-you-run-mac-os-a-ux-nextstep-more/))

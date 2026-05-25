@@ -1,18 +1,19 @@
 ---
 title: "Google Cloud Hits $20B Revenue Milestone"
 date: 2026-04-29T23:01:00.019Z
-modified_date: 2026-05-21T23:06:42.687Z
+modified_date: 2026-05-25T23:10:47.566Z
 tags: ["Google Cloud","AI","Cloud Computing"]
 hero_image: "/hero/2026-04-29-google-cloud-hits-20b-revenue-milestone-506646.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google Cloud"
 description: "Google Cloud posts $20B quarter driven by AI, hampered by capacity"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-29-google-cloud-hits-20b-revenue-milestone-506646.mp3"
 audio_bytes: 621550
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,4 +49,5 @@ In conclusion, Google Cloud's $20 billion revenue milestone is a significant ach
 
 ## Updates
 
+- **2026-05-25** — Google clarifies its slightly confusing pair of AI Ultra plans ([source](https://9to5google.com/2026/05/25/google-one-ai-ultra-clarification/))
 - **2026-05-21** — Anker’s new earbuds are the first with its AI chip that boosts noise reduction ([source](https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip))

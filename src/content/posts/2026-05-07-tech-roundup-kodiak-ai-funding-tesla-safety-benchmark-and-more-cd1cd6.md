@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: Kodiak AI Funding, Tesla Safety Benchmark, and More"
 date: 2026-05-07T23:07:42.990Z
+modified_date: 2026-05-25T23:10:43.966Z
 tags: ["Kodiak AI","Tesla","Google Health","Loopletter"]
 hero_image: "/hero/2026-05-07-tech-roundup-kodiak-ai-funding-tesla-safety-benchmark-and-more-cd1cd6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Kodiak AI raises $100M at a discount, Tesla Model Y meets new safety benchmark, and Google Health app drops Fitbit features."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Kodiak AI's Funding Falters
@@ -54,3 +56,6 @@ The developments in the tech industry have significant implications for the futu
 
 The downstream implications of the developments in the tech industry are significant. The companies that are able to adapt and innovate will be well-positioned to succeed in the market. The industry is expected to continue to grow and evolve, with new innovations and developments emerging regularly. The impact of these developments will be felt across the industry, with companies and consumers alike benefiting from the innovations and advancements.
 
+## Updates
+
+- **2026-05-25** — Ferrari Luce unveiled: Here's the first car from Jony Ive's design house ([source](https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/))
