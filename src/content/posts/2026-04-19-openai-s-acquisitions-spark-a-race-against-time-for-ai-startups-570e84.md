@@ -1,16 +1,17 @@
 ---
 title: "OpenAI’s Acquisitions Spark a Race Against Time for AI Startups"
 date: 2026-04-19T23:09:41.968Z
-modified_date: 2026-05-11T20:00:47.471Z
+modified_date: 2026-05-25T15:17:39.869Z
 tags: ["openai","ai-startups","tech-industry"]
 hero_image: "/hero/2026-04-19-openai-s-acquisitions-spark-a-race-against-time-for-ai-startups-570e84.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "OpenAI acquisition meeting with futuristic AI models"
 description: "OpenAI’s latest deals expose two existential threats while a 12‑month window looms for AI startups, reshaping the industry’s competitive landscape."
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ If OpenAI missteps, the AI ecosystem could fragment, echoing the post‑Apollo e
 
 ## Updates
 
+- **2026-05-25** — The pope’s AI encyclical isn’t really about AI ([source](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/))
 - **2026-05-11** — Palantir&#8217;s true believers are wearing this jacket ([source](https://www.theverge.com/report/928026/palantir-chore-coat))
 - **2026-04-30** — $100 Nintendo gift cards are $20 off at Newegg today ([source](https://www.theverge.com/gadgets/921157/100-nintendo-gift-cards-are-20-off-at-newegg-today))
 - **2026-04-28** — Start with the sensors, then design the rest: How Zoox built its robotaxi ([source](https://arstechnica.com/cars/2026/04/start-with-the-sensors-then-design-the-rest-how-zoox-built-its-robotaxi/))

@@ -1,16 +1,17 @@
 ---
 title: "Office gear gets subtle upgrades, from chairs to Kindle"
 date: 2026-04-29T10:17:32.062Z
-modified_date: 2026-05-14T18:02:37.709Z
+modified_date: 2026-05-25T15:17:46.897Z
 tags: ["office","hardware","tech","updates"]
 hero_image: "/hero/2026-04-29-office-gear-gets-subtle-upgrades-from-chairs-to-kindle-f16cbc.jpg"
 hero_image_credit_name: "Alpha En"
 hero_image_credit_url: "https://www.pexels.com/@alphaen"
 visual_keyword: "modern office setup with ergonomic chair, earbuds, smart lighting, and e-reader"
 description: "New Vari Align chair, Galaxy Buds 4 stability patch, Philips Hue SpatialAware lighting, and Kindle dark mode roll out, reshaping the office tech mix."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Subtle upgrades reshape the office tech stack
@@ -43,4 +44,5 @@ Watch how quickly the Galaxy Buds stability patch expands beyond the initial reg
 
 ## Updates
 
+- **2026-05-25** — All of the Best Memorial Day deals: Pixel 10 up to $300 off, Galaxy gear up to $375 off, e-Bikes, Switch 2, Anker, more ([source](https://9to5google.com/2026/05/25/all-best-memorial-day-deals-pixel-galaxy/))
 - **2026-05-14** — Netflix is building an AI animation studio ([source](https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator))

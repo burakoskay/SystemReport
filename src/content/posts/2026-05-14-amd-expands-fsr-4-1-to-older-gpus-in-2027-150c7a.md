@@ -1,15 +1,17 @@
 ---
 title: "AMD Expands FSR 4.1 to Older GPUs in 2027"
 date: 2026-05-14T14:35:46.770Z
+modified_date: 2026-05-25T15:17:43.379Z
 tags: ["amd","fsr 4.1","gpu upscaling","gaming tech","rdna 2"]
 hero_image: "/hero/2026-05-14-amd-expands-fsr-4-1-to-older-gpus-in-2027-150c7a.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "AMD FSR 4.1 GPU upscaling in game settings menu"
 description: "AMD's FSR 4.1 upscaling arrives on RDNA 2 cards, expanding support to 300+ games by next year."
-sources_count: 9
+sources_count: 10
 author: "sam-whitfield"
 ---
+
 
 AMD’s FSR 4.1 upscaling tech will reach RDNA 2 graphics cards in early 2027, broadening access for gamers using older hardware. The update follows a July 2024 rollout to RDNA 3 GPUs, which already supports 300+ titles including *Cyberpunk 2077* and *Assassin’s Creed Shadows*.
 
@@ -41,3 +43,7 @@ AMD has 14 months to polish the RDNA 2 port. Watch for:
 3. A potential **FSR 5 announcement** at SIGGRAPH 2025 
 
 The 2027 rollout will test whether open-source upscaling can outcompete closed ecosystems. For now, the $1,299 Alienware 15’s AMD CPU bundle and FSR 4.1’s 2024 launch prove the tech is here to stay—even if it demands more from developers than marketing claims suggest.
+
+## Updates
+
+- **2026-05-25** — In Defense of My Attachment to This Lululemon Duffel Bag (2026) ([source](https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/))

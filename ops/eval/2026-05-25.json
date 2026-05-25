@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-25T10:25:53.023Z",
+  "generated_at": "2026-05-25T15:37:00.706Z",
   "window_days": 7,
-  "total_records": 3680,
+  "total_records": 3818,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 657,
-      "success": 495,
-      "success_rate": 0.7534246575342466,
-      "latency_p50": 3821,
-      "latency_p95": 13152,
+      "calls": 675,
+      "success": 512,
+      "success_rate": 0.7585185185185185,
+      "latency_p50": 3783,
+      "latency_p95": 12307,
       "response_chars_mean": 3703,
       "error_classes": {
-        "rate_limit": 144,
+        "rate_limit": 145,
         "unknown": 15,
         "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 175,
-      "success": 144,
-      "success_rate": 0.8228571428571428,
-      "latency_p50": 1349,
+      "calls": 185,
+      "success": 151,
+      "success_rate": 0.8162162162162162,
+      "latency_p50": 1361,
       "latency_p95": 10067,
-      "response_chars_mean": 1653,
+      "response_chars_mean": 1657,
       "error_classes": {
-        "rate_limit": 27,
+        "rate_limit": 30,
         "unknown": 1,
         "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 279,
-      "success": 248,
-      "success_rate": 0.8888888888888888,
+      "calls": 290,
+      "success": 259,
+      "success_rate": 0.8931034482758621,
       "latency_p50": 2637,
       "latency_p95": 9946,
-      "response_chars_mean": 4632,
+      "response_chars_mean": 4643,
       "error_classes": {
         "rate_limit": 28,
         "unknown": 1,
@@ -44,15 +44,15 @@
       }
     },
     "rewrite-headline:v1": {
-      "calls": 49,
-      "success": 32,
-      "success_rate": 0.6530612244897959,
-      "latency_p50": 306,
+      "calls": 51,
+      "success": 33,
+      "success_rate": 0.6470588235294118,
+      "latency_p50": 358,
       "latency_p95": 4105,
       "response_chars_mean": 61,
       "error_classes": {
         "unknown": 11,
-        "rate_limit": 6
+        "rate_limit": 7
       }
     }
   }
