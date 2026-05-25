@@ -1,18 +1,20 @@
 ---
 title: "Visual DB Launches Web Front End for Database Management"
 date: 2026-05-06T14:28:17.325Z
+modified_date: 2026-05-25T17:48:05.084Z
 tags: ["no-code development","database management","Visual DB"]
 hero_image: "/hero/2026-05-06-visual-db-launches-web-front-end-for-database-management-aafbec.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "database"
 description: "Visual DB offers a drag-and-drop tool for creating professional databases, forms, sheets, and reports without coding."
-sources_count: 5
-author: "david-okafor"
+sources_count: 6
 audio_path: "/audio/2026-05-06-visual-db-launches-web-front-end-for-database-management-aafbec.mp3"
 audio_bytes: 624893
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Visual DB Streamlines Database Management
@@ -67,3 +69,6 @@ The market for database management tools is highly competitive, with established
 
 The competitive landscape for database management tools is complex, with many established players and a growing number of new entrants. Visual DB will need to continue to innovate and improve its platform to stay ahead of the competition. Key competitors include companies like Airtable, which offers a similar no-code development platform for database management. However, Visual DB's focus on CRUD applications and its AI-powered tools set it apart from its competitors.
 
+## Updates
+
+- **2026-05-25** — Hopes for WWDC 2026: Health for Mac, Wallet everywhere, and other OS 27 dreams ([source](https://9to5mac.com/2026/05/25/hopes-for-wwdc-2026-health-for-mac-wallet-everywhere-and-other-os-27-dreams/))

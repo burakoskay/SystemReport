@@ -1,16 +1,17 @@
 ---
 title: "Google Embeds Gemini Nano AI in Chrome Silently"
 date: 2026-05-05T10:17:26.608Z
-modified_date: 2026-05-19T18:10:17.442Z
+modified_date: 2026-05-25T17:48:08.568Z
 tags: ["chrome","ai","privacy","google","webgpu"]
 hero_image: "/hero/2026-05-05-google-embeds-gemini-nano-ai-in-chrome-silently-8fd1d8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "browser with hidden AI model"
 description: "Google integrates Gemini Nano into Chrome 126 without explicit user consent, raising privacy concerns."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## Google Embeds Gemini Nano AI in Chrome Without Opt-In
@@ -43,4 +44,5 @@ Google’s Chrome 126 stable release in late 2024 will be a key metric. Track us
 
 ## Updates
 
+- **2026-05-25** — iOS 27 could give Google Cast native integration, like AirPlay, thanks to the EU ([source](https://9to5google.com/2026/05/25/apple-ios-27-google-cast-streaming-protocols-report/))
 - **2026-05-19** — Google is adding AI detection for photos, videos, and audio to Search and Chrome ([source](https://9to5google.com/2026/05/19/google-is-adding-ai-detection-for-photos-videos-and-audio-to-search-and-chrome/))
