@@ -1,15 +1,17 @@
 ---
 title: "Meta, Musk, and the Billion-Dollar Nvidia GPU Hoarding War"
 date: 2026-05-05T21:12:48.499Z
+modified_date: 2026-05-25T21:14:42.850Z
 tags: ["nvidia","ai","meta","tesla","h100"]
 hero_image: "/hero/2026-05-05-meta-musk-and-the-billion-dollar-nvidia-gpu-hoarding-war-daea21.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "stack of nvidia h100 gpus in server racks under led lighting"
 description: "Meta stockpiles $10B in H100 GPUs as tech giants weaponize AI hardware. What breaks next?"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Tech’s AI arms race is now a GPU land grab
 
@@ -40,3 +42,7 @@ Watch these three flashpoints:
 3. **China’s H100 black market**: Smuggled H100s are already training models like Qwen3. If the US tightens export controls, the next generation of AI could leap ahead in Beijing.
 
 The H100 war isn’t just about hardware — it’s about who gets to define the future. When companies stockpile billions in chips while claiming "the market is tight," they’re not just protecting their margins. They’re shaping the entire trajectory of AI. And the rest of us are stuck watching the show.
+
+## Updates
+
+- **2026-05-25** — The Electric Ferrari Luce Is Finally Here ([source](https://www.wired.com/story/ferrari-luce-ev-is-finally-here/))
