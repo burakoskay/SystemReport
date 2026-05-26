@@ -1,17 +1,19 @@
 ---
 title: "Kalshi Valued at $22B"
 date: 2026-05-07T19:48:15.357Z
+modified_date: 2026-05-26T23:14:02.760Z
 tags: ["prediction markets","Kalshi","funding round"]
 hero_image: "/hero/2026-05-07-kalshi-valued-at-22b-0d4c7f.jpg"
 hero_image_credit_name: "Hanna Pad"
 hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi raises $1 billion, doubles valuation in 5 months"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-07-kalshi-valued-at-22b-0d4c7f.mp3"
 audio_bytes: 619042
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Kalshi's Rapid Ascent
@@ -57,3 +59,7 @@ One potential area of growth for Kalshi is the expansion of its platform into ne
 Another potential area of focus for Kalshi is the development of new features and tools. The company may invest in research and development to create new capabilities for its platform, such as more advanced analytics or machine learning algorithms. This could help Kalshi differentiate itself from competitors and provide more value to its users.
 
 Overall, Kalshi's future growth will depend on its ability to innovate and adapt to changing market conditions. The company's success will be influenced by a range of factors, including its ability to navigate regulatory challenges, expand its user base, and develop new features and tools.
+
+## Updates
+
+- **2026-05-26** — Trump admin wants nuclear startups to use plutonium for their reactors ([source](https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/))

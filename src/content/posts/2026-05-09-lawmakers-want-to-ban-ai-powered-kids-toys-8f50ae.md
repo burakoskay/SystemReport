@@ -1,17 +1,19 @@
 ---
 title: "Lawmakers Want to Ban AI-Powered Kids' Toys"
 date: 2026-05-09T13:28:34.301Z
+modified_date: 2026-05-26T23:14:06.333Z
 tags: ["AI","Kids' Toys","Regulation"]
 hero_image: "/hero/2026-05-09-lawmakers-want-to-ban-ai-powered-kids-toys-8f50ae.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered kids' toys"
 description: "Some lawmakers are calling for an outright ban on AI-powered kids' toys, citing concerns about children's safety and data protection."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-09-lawmakers-want-to-ban-ai-powered-kids-toys-8f50ae.mp3"
 audio_bytes: 590621
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Lawmakers Want to Ban AI-Powered Kids' Toys
@@ -50,3 +52,6 @@ The AI-powered kids' toy market is expected to continue growing, driven by advan
 
 In conclusion, the development of AI-powered toys raises important questions about children's safety, data protection, and the potential risks associated with these products. As the market continues to grow, it is essential that lawmakers, companies, and parents engage in a nuanced discussion about the implications of AI-powered toys. This discussion will be critical in shaping the future of the industry and ensuring that AI-powered toys are developed and used responsibly.
 
+## Updates
+
+- **2026-05-26** — Google rolling out new settings for Search Services History & Personalized Recommendations ([source](https://9to5google.com/2026/05/26/google-search-services-history-settings/))

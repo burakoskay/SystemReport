@@ -1,16 +1,17 @@
 ---
 title: "China Blocks Meta's $2B AI Startup Acquisition"
 date: 2026-04-27T14:06:42.659Z
-modified_date: 2026-05-20T15:37:39.380Z
+modified_date: 2026-05-26T23:13:55.610Z
 tags: ["Meta","AI","China"]
 hero_image: "/hero/2026-04-27-china-blocks-meta-s-2b-ai-startup-acquisition-ec119d.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "China has blocked Meta's $2 billion acquisition of AI startup Manus, citing laws and regulations. The move is a setback to Meta's AI ambitions and reflects growing tensions between the US and China over AI technology."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The global AI market is expected to continue growing rapidly in the coming years
 
 ## Updates
 
+- **2026-05-26** — NASA&#8217;s permanent Moon base plans start with three missions this year ([source](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates))
 - **2026-05-20** — Intuit to lay off over 3,000 employees to refocus on AI ([source](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/))
 - **2026-04-30** — Apple reports Q2 2026 earnings: $111.2 billion in revenue, up 17% [Charts] ([source](https://9to5mac.com/2026/04/30/apple-reports-q2-2026-earnings-111-2-billion-in-revenue-up-17/))
