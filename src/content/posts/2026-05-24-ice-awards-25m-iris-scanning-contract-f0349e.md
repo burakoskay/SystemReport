@@ -1,18 +1,20 @@
 ---
 title: "ICE Awards $25M Iris-Scanning Contract"
 date: 2026-05-24T04:04:28.394Z
+modified_date: 2026-05-26T03:59:50.396Z
 tags: ["biometrics","surveillance","privacy"]
 hero_image: "/hero/2026-05-24-ice-awards-25m-iris-scanning-contract-f0349e.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "iris-scanning"
 description: "The US Immigration and Customs Enforcement (ICE) has awarded a $25 million contract to Bi2 Technologies for iris-scanning technology, sparking concerns over privacy and surveillance."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-24-ice-awards-25m-iris-scanning-contract-f0349e.mp3"
 audio_bytes: 623013
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## ICE's Iris-Scanning Contract
@@ -71,3 +73,6 @@ The contract has also highlighted the need for greater transparency and oversigh
 
 Ultimately, the use of iris-scanning technology by ICE represents a complex issue with significant implications. While the technology has the potential to be used for identification purposes, it also raises concerns about privacy and surveillance. As the debate continues, it will be important to consider the potential implications of this technology and to ensure that it is used in a way that is consistent with individual rights and freedoms.
 
+## Updates
+
+- **2026-05-26** — Motorola phones have started hijacking the Amazon app to insert affiliate codes [Video] ([source](https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/))
