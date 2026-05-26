@@ -1,15 +1,17 @@
 ---
 title: "Indie Hits, Open-Source AI Plugins Redefine Music Tech"
 date: 2026-05-21T13:03:49.883Z
+modified_date: 2026-05-26T21:49:39.789Z
 tags: ["music production","open-source software","ai audio tools","apple music","indie artists"]
 hero_image: "/hero/2026-05-21-indie-hits-open-source-ai-plugins-redefine-music-tech-04f5a4.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "vintage vinyl records on a digital interface with glowing AI-generated waveforms"
 description: "From GarageBand hits to AI-powered DAW tools, independent creators are reshaping music production and consumption."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 A 100M-streaming single produced on a school iPad, an experimental AI music plugin, and a vinyl-inspired Apple Music app are converging to redefine how music is made and experienced. These tools—each built on accessible technology—highlight an industry-wide shift toward democratizing creative workflows.
 
@@ -34,3 +36,7 @@ These tools reflect broader trends in music tech. The Infinite Crate’s open-so
 For creators, the next 12 months will test these tools’ viability. The Infinite Crate’s roadmap includes a "Wax Recommends" AI training phase, while Wax Crate’s roadmap hints at "Multi-Room Audio" enhancements. Meanwhile, Brye’s rise may force labels to rethink their investment in traditional studio setups. The tension between open-source innovation and commercial infrastructure will determine which tools survive beyond early adopters.
 
 What to watch: Track The Infinite Crate’s JUCE license adoption rate, Wax Crate’s accessibility updates in Q2 2024, and Brye’s label negotiations as her streams cross 150M. These metrics will reveal whether the current wave of tools can sustain mainstream momentum or remain niche curiosities.
+
+## Updates
+
+- **2026-05-26** — 9to5Mac Daily: May 26, 2026 – watchOS 27 rumors, more ([source](https://9to5mac.com/2026/05/26/daily-may-26-2026/))

@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-05-23T11:21:04.459Z
+modified_date: 2026-05-26T21:49:36.157Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 ## OpenAI sued for shielding Sam Altman after school‑shooter tip
@@ -55,4 +56,5 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-05-26** — DuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O ([source](https://9to5mac.com/2026/05/26/duckduckgo-sees-iphone-installs-spike-in-the-us-following-ai-announcements-at-google-i-o/))
 - **2026-05-23** — Cosmic Voids May Contain the Universe’s Best Secrets ([source](https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/))

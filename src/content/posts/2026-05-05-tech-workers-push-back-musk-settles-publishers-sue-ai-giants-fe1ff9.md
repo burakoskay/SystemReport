@@ -1,15 +1,17 @@
 ---
 title: "Tech Workers Push Back, Musk Settles, Publishers Sue AI Giants"
 date: 2026-05-05T19:35:44.408Z
+modified_date: 2026-05-26T21:49:28.613Z
 tags: ["google-deepmind-union","musk-twitter-lawsuit","meta-copyright-case","tech-labor-rights","ai-legal-battles"]
 hero_image: "/hero/2026-05-05-tech-workers-push-back-musk-settles-publishers-sue-ai-giants-fe1ff9.jpg"
 hero_image_credit_name: "PNW Production"
 hero_image_credit_url: "https://www.pexels.com/@pnw-prod"
 visual_keyword: "tech workers holding signs at a protest with 'No Military AI' slogans"
 description: "Google DeepMind union vote, Musk's $1.5M Twitter settlement, and Meta's copyright clash reshape tech's labor and legal landscape."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Tech Workers Take a Stand at Google DeepMind
 
@@ -40,3 +42,7 @@ The lawsuits and unionization reflect a broader erosion of trust. Engineers and 
 Google DeepMind’s union will test whether corporate AI labs can maintain secrecy while complying with labor laws. A key deadline looms in late 2024: the U.S. Department of Defense plans to finalize rules for AI ethics in military contracts, which could force Google to choose between its research division and Pentagon clients.
 
 The Meta copyright case has a 12-month discovery window, with the first motions likely in early 2025. Meanwhile, Musk’s settlement sets up a potential House Oversight Committee hearing on SEC enforcement, where Gensler’s tenure could become a target for critics of regulatory capture.
+
+## Updates
+
+- **2026-05-26** — Google Health is here, but a lot of people want their Fitbit app back instead ([source](https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai))
