@@ -1,18 +1,20 @@
 ---
 title: "AI Updates: Moonshot AI Funding, Spotify's AI DJ, and More"
 date: 2026-05-07T14:34:29.057Z
+modified_date: 2026-05-26T15:50:02.420Z
 tags: ["AI","Machine Learning","Open-Source AI"]
 hero_image: "/hero/2026-05-07-ai-updates-moonshot-ai-funding-spotify-s-ai-dj-and-more-5f0b1e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Moonshot AI raises $2B, Spotify's AI DJ expands to new languages, and Nvidia's ChatRTX gets a major update."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-05-07-ai-updates-moonshot-ai-funding-spotify-s-ai-dj-and-more-5f0b1e.mp3"
 audio_bytes: 655405
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Moonshot AI Raises $2B at $20B Valuation
@@ -76,3 +78,7 @@ The AI industry is also facing challenges related to ethics, bias, and regulatio
 The recent developments in AI technology, including the funding of Moonshot AI, the expansion of Spotify's AI DJ feature, and the update to Nvidia's ChatRTX app, highlight the growing demand for AI solutions that can be used in practical applications.
 
 As the AI industry continues to evolve, it will be crucial to address the challenges associated with AI technology and ensure that it is developed and used responsibly. The future of AI development and deployment is uncertain, but one thing is clear: AI will play an increasingly important role in shaping the world around us.
+
+## Updates
+
+- **2026-05-26** — Nvidia has retired its GeForce Control Panel app after 20 years ([source](https://www.theverge.com/news/937221/nvidia-geforce-control-panel-app-retirement))

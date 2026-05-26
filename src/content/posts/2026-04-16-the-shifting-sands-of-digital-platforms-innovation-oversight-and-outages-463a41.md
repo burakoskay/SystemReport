@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-05-07T14:30:46.581Z
+modified_date: 2026-05-26T15:50:09.315Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-05-26** — AI warfare is already here ([source](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines))
 - **2026-05-07** — Angry Birds and FIFA International Soccer join the World Video Game Hall of Fame ([source](https://www.engadget.com/2164266/angry-birds-and-fifa-international-soccer-join-the-world-video-game-hall-of-fame/))
 - **2026-04-30** — OnePlus Pad 4 debuts with Snapdragon 8 Elite Gen 5, one downgrade, and vague launch plans ([source](https://9to5google.com/2026/04/30/oneplus-pad-4-debuts-with-snapdragon-8-elite-gen-5-one-downgrade-and-vague-launch-plans/))
 - **2026-04-28** — 9to5Mac Daily: April 27, 2026 – iOS 26.4.2, more on Ternus and Cook ([source](https://9to5mac.com/2026/04/27/april-27-2026-ios-26-4-2/))

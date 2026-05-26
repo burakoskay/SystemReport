@@ -1,16 +1,17 @@
 ---
 title: "Waymo Tightens Age Rules as AV Industry Faces New Challenges"
 date: 2026-05-02T03:37:02.132Z
-modified_date: 2026-05-16T17:03:02.272Z
+modified_date: 2026-05-26T15:50:23.056Z
 tags: ["autonomous vehicles","Waymo","PTIO"]
 hero_image: "/hero/2026-05-02-waymo-tightens-age-rules-as-av-industry-faces-new-challenges-655446.jpg"
 hero_image_credit_name: "Ministar Samuel"
 hero_image_credit_url: "https://www.pexels.com/@ministar"
 visual_keyword: "self-driving car with LiDAR hub on a city street"
 description: "Waymo adds age verification checks to restrict solo minors in driverless cars while industry players form new partnerships and grapple with public safety concerns."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## The New Age Check
@@ -43,4 +44,5 @@ The next six months will test the AV industry's ability to balance innovation wi
 
 ## Updates
 
+- **2026-05-26** — AI Is Taking Over the Most Cursed Job in the World ([source](https://www.wired.com/story/ai-takes-over-debt-collection/))
 - **2026-05-16** — OpenAI is offering ChatGPT Plus to citizens of Malta for a year ([source](https://www.engadget.com/2174473/openai-is-offering-chatgpt-plus-to-citizens-of-malta-for-a-year/))

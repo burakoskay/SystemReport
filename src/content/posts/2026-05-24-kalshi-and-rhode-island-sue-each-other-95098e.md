@@ -1,14 +1,16 @@
 ---
 title: "Kalshi and Rhode Island Sue Each Other"
 date: 2026-05-24T21:02:44.262Z
+modified_date: 2026-05-26T15:49:41.619Z
 tags: ["prediction markets","regulatory scrutiny","online betting"]
 hero_image: "/hero/2026-05-24-kalshi-and-rhode-island-sue-each-other-95098e.jpg"
 hero_image_credit_name: "Hanna Pad"
 hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi and Rhode Island engage in legal battle"
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 # Introduction
@@ -39,3 +41,7 @@ The outcome of the lawsuits between Kalshi and Rhode Island will have downstream
 The legal battle between Kalshi and Rhode Island may prompt other states to reevaluate their stance on prediction markets. If Rhode Island succeeds in its legal action, it could encourage other states to follow suit, potentially leading to a more restrictive regulatory environment for prediction markets nationwide. Conversely, a favorable ruling for Kalshi could embolden other prediction market operators to expand their services, potentially leading to increased competition and innovation in the industry. The reactions of various stakeholders, including users, investors, and regulators, will be critical in shaping the future of prediction markets.
 
 The evolving legal landscape for prediction markets underscores the need for clear, consistent regulations that balance the need for consumer protection with the potential benefits of these platforms. As the industry continues to grow and mature, finding this balance will be crucial for ensuring that prediction markets can operate effectively while minimizing risks to users and society as a whole.
+
+## Updates
+
+- **2026-05-26** — Ferrari’s first EV is not for you ([source](https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/))

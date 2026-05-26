@@ -1,14 +1,16 @@
 ---
 title: "US Automakers Ditch EVs for Battery Storage"
 date: 2026-05-16T13:45:42.161Z
+modified_date: 2026-05-26T15:49:48.602Z
 tags: ["electric vehicles","energy storage","artificial intelligence"]
 hero_image: "/hero/2026-05-16-us-automakers-ditch-evs-for-battery-storage-ca54e0.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "battery storage"
 description: "Ford and GM pivot to energy storage amid EV struggles, driven by AI-driven optimizations."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Ford and GM's Strategic Shift
@@ -56,3 +58,7 @@ For the broader energy industry, this shift could help to accelerate the adoptio
 The next major milestone for the companies will be the launch of their energy storage products. This is expected to happen in the coming years and will provide a key indicator of the companies' success in this new market. As the energy storage market continues to grow, it will be important to monitor the progress of Ford and GM, as well as other companies that are investing in this space.
 
 The success of Ford and GM's energy storage ventures will depend on their ability to develop and deploy AI-powered technologies. The use of AI in energy storage systems can help to optimize battery performance, predict energy demand, and improve overall system efficiency. As the energy storage market continues to evolve, it will be interesting to see how Ford and GM adapt and innovate in this space.
+
+## Updates
+
+- **2026-05-26** — Amazon fulfillment competitor Stord raises $250M at $3B valuation ([source](https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/))

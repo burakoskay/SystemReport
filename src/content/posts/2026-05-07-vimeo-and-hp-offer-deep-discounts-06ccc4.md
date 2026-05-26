@@ -1,14 +1,16 @@
 ---
 title: "Vimeo and HP Offer Deep Discounts"
 date: 2026-05-07T06:42:49.121Z
+modified_date: 2026-05-26T15:50:33.361Z
 tags: ["Vimeo","HP","Discounts","Tech Industry"]
 hero_image: "/hero/2026-05-07-vimeo-and-hp-offer-deep-discounts-06ccc4.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Discounts"
 description: "Vimeo and HP discounts up to 60% off"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Vimeo and HP Discounts
 Vimeo offers 40% off, plus an additional 10% off annual plans, and 25% off a membership. HP offers up to 60% off laptops, printers, PCs, and more, with an extra 20% off using HP promo codes.
@@ -37,3 +39,7 @@ The tech industry as a whole will also be affected by the discounts. Competitors
 
 ## Customer Benefits
 The discounts offered by Vimeo and HP can have a significant impact on customers. For individuals and businesses, the discounts can provide an opportunity to purchase products and services at a lower price, which can help to increase adoption and loyalty. The discounts can also help customers to upgrade to newer products and services, which can improve their overall experience and productivity.
+
+## Updates
+
+- **2026-05-26** — Deals: Pixel 10 devices from $449, Google Nest Cam $57, Ring Wired Doorbell Pro, Anker chargers, more ([source](https://9to5google.com/2026/05/26/deals-pixel-10-google-nest-cam-ring-wired-doorbell-pro/))

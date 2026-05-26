@@ -1,17 +1,19 @@
 ---
 title: "US Lags in Audio Ban as AI Bypasses NTSB Rules"
 date: 2026-05-22T21:21:27.986Z
+modified_date: 2026-05-26T15:50:29.916Z
 tags: ["NTSB","AI","VPN","Ad-Tech","Digital Privacy"]
 hero_image: "/hero/2026-05-22-us-lags-in-audio-ban-as-ai-bypasses-ntsb-rules-40f7a5.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "law-enforcement"
 description: "A look at the NTSB's cockpit-audio crackdown, a police VPN bust, and a massive ad-tech settlement, and what they mean for digital privacy."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-22-us-lags-in-audio-ban-as-ai-bypasses-ntsb-rules-40f7a5.mp3"
 audio_bytes: 577037
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The NTSB Audio Ban and Online Reenactments
 
@@ -40,3 +42,7 @@ Stakeholders across the board—regulators, tech firms, and civil-rights groups�
 ## What's Next
 
 Watch for legislative proposals that address AI-generated media, especially any bills that amend the NTSB's disclosure rules. Monitor court filings from the VPN operator's defense, as they may set precedent for how log-keeping requirements are interpreted. Finally, keep an eye on the Federal Trade Commission's next move in the ad-tech space; a new set of guidelines could reshape how device identifiers are collected and sold. These developments will determine whether privacy protections evolve faster than the tools that test them.
+
+## Updates
+
+- **2026-05-26** — I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy ([source](https://www.wired.com/story/finally-a-laptop-sleeve-for-me/))
