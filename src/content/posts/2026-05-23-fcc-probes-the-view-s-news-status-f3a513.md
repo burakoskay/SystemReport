@@ -1,14 +1,16 @@
 ---
 title: "FCC Probes The View's News Status"
 date: 2026-05-23T10:02:06.230Z
+modified_date: 2026-05-26T07:59:01.691Z
 tags: ["FCC","The View","media regulation","news"]
 hero_image: "/hero/2026-05-23-fcc-probes-the-view-s-news-status-f3a513.jpg"
 hero_image_credit_name: "Mukhtar Shuaib Mukhtar"
 hero_image_credit_url: "https://www.pexels.com/@akoonie"
 visual_keyword: "FCC"
 description: "FCC seeks public comment on ABC's The View as a news show, focusing on newsworthiness."
-sources_count: 1
+sources_count: 2
 ---
+
 
 The Federal Communications Commission (FCC) is seeking public comment on whether ABC's daytime talk show The View's content decisions are 'based on newsworthiness,' a criterion typically applied to news shows.
 
@@ -46,3 +48,7 @@ The implications of the FCC's decision on The View's status will also be closely
 The FCC's decision on The View's status could have far-reaching consequences for the media landscape. It could lead to a re-evaluation of the lines between news and opinion programming, as well as a re-examination of the regulations governing media outlets. It could also lead to a greater emphasis on transparency and disclosure in media outlets, as well as a greater focus on ensuring that outlets adhere to established standards of journalism.
 
 Ultimately, the FCC's decision on The View's status will have significant implications for the media landscape. It will be closely watched by media outlets, regulators, and audiences alike, and could shape the future of media regulation for years to come.
+
+## Updates
+
+- **2026-05-26** — The User Is Visibly Frustrated ([source](https://pscanf.com/s/354/))
