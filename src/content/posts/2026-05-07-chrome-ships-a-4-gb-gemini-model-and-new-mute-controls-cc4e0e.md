@@ -1,16 +1,17 @@
 ---
 title: "Chrome ships a 4 GB Gemini model and new mute controls"
 date: 2026-05-07T23:10:47.802Z
-modified_date: 2026-05-14T18:02:33.390Z
+modified_date: 2026-05-26T18:31:53.418Z
 tags: ["chrome","ai","privacy","extensions"]
 hero_image: "/hero/2026-05-07-chrome-ships-a-4-gb-gemini-model-and-new-mute-controls-cc4e0e.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "browser settings window showing AI model toggle and mute site option"
 description: "Google embeds a 4‑GB Gemini AI in Chrome, offers a way to uninstall it, and rolls out mute and link‑blocking features in version 64."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 Chrome 64 arrives with a 4‑GB Gemini AI model baked into the browser and a set of privacy‑focused UI tweaks. The changes force engineers and power users to decide whether the on‑device model is worth the memory hit.
@@ -49,4 +50,5 @@ Chrome users should track the adoption rate of the Gemini uninstall toggle and t
 
 ## Updates
 
+- **2026-05-26** — Memory V re-creates the Memorymoog without the massive headaches or price tag ([source](https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer))
 - **2026-05-14** — Subnautica 2 is having a huge launch on Steam ([source](https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox))

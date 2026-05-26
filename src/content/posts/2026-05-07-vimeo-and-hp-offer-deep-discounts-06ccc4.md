@@ -1,15 +1,16 @@
 ---
 title: "Vimeo and HP Offer Deep Discounts"
 date: 2026-05-07T06:42:49.121Z
-modified_date: 2026-05-26T15:50:33.361Z
+modified_date: 2026-05-26T18:31:50.019Z
 tags: ["Vimeo","HP","Discounts","Tech Industry"]
 hero_image: "/hero/2026-05-07-vimeo-and-hp-offer-deep-discounts-06ccc4.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Discounts"
 description: "Vimeo and HP discounts up to 60% off"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Vimeo and HP Discounts
@@ -42,4 +43,5 @@ The discounts offered by Vimeo and HP can have a significant impact on customers
 
 ## Updates
 
+- **2026-05-26** — American Airlines is getting Starlink Wi-Fi ([source](https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed))
 - **2026-05-26** — Deals: Pixel 10 devices from $449, Google Nest Cam $57, Ring Wired Doorbell Pro, Anker chargers, more ([source](https://9to5google.com/2026/05/26/deals-pixel-10-google-nest-cam-ring-wired-doorbell-pro/))

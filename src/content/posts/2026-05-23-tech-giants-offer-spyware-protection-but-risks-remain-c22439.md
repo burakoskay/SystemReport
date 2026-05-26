@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Offer Spyware Protection, But Risks Remain"
 date: 2026-05-23T17:06:31.858Z
+modified_date: 2026-05-26T18:31:56.854Z
 tags: ["spyware","data privacy","security"]
 hero_image: "/hero/2026-05-23-tech-giants-offer-spyware-protection-but-risks-remain-c22439.jpg"
 hero_image_credit_name: "Alex Koch"
 hero_image_credit_url: "https://www.pexels.com/@alexandra-koch"
 visual_keyword: "lockdown"
 description: "Apple, Meta, and Google offer security modes to protect against targeted spyware attacks, but users must take steps to enable them. Meanwhile, concerns about data privacy and security persist."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 ## Spyware Protection from Tech Giants
@@ -65,3 +67,7 @@ The ongoing debate about data privacy and security is likely to continue, with t
 Moreover, the use of spyware protection can have broader societal implications. For example, it can impact the way we think about data privacy and security, and it can influence the development of new technologies. As we move forward, it's essential to consider these implications and work towards a future where data privacy and security are prioritized.
 
 In conclusion, the need for spyware protection is clear, and tech giants are taking steps to provide it. However, users must also take responsibility for their own data privacy and security. By staying informed and taking steps to protect ourselves, we can create a safer and more secure online environment.
+
+## Updates
+
+- **2026-05-26** — 3D-printable humanoid legs let robotics experiments run wild ([source](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/))

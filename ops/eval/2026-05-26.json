@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-05-26T16:00:33.090Z",
+  "generated_at": "2026-05-26T18:52:55.795Z",
   "window_days": 7,
-  "total_records": 3603,
+  "total_records": 3704,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 647,
-      "success": 493,
-      "success_rate": 0.7619783616692427,
-      "latency_p50": 3839,
-      "latency_p95": 12822,
-      "response_chars_mean": 3714,
+      "calls": 665,
+      "success": 508,
+      "success_rate": 0.7639097744360902,
+      "latency_p50": 3821,
+      "latency_p95": 12798,
+      "response_chars_mean": 3726,
       "error_classes": {
-        "rate_limit": 136,
-        "unknown": 15,
+        "rate_limit": 138,
+        "unknown": 16,
         "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 171,
-      "success": 137,
-      "success_rate": 0.8011695906432749,
-      "latency_p50": 1405,
+      "calls": 176,
+      "success": 140,
+      "success_rate": 0.7954545454545454,
+      "latency_p50": 1390,
       "latency_p95": 10124,
-      "response_chars_mean": 1660,
+      "response_chars_mean": 1658,
       "error_classes": {
-        "rate_limit": 30,
+        "rate_limit": 32,
         "unknown": 1,
         "timeout": 3
       }
     },
     "lengthen:v1": {
-      "calls": 266,
-      "success": 238,
-      "success_rate": 0.8947368421052632,
+      "calls": 274,
+      "success": 246,
+      "success_rate": 0.8978102189781022,
       "latency_p50": 2651,
-      "latency_p95": 10463,
-      "response_chars_mean": 4728,
+      "latency_p95": 10156,
+      "response_chars_mean": 4755,
       "error_classes": {
         "rate_limit": 25,
         "unknown": 1,
@@ -44,15 +44,15 @@
       }
     },
     "rewrite-headline:v1": {
-      "calls": 51,
-      "success": 31,
-      "success_rate": 0.6078431372549019,
-      "latency_p50": 1299,
+      "calls": 53,
+      "success": 32,
+      "success_rate": 0.6037735849056604,
+      "latency_p50": 1099,
       "latency_p95": 4105,
       "response_chars_mean": 61,
       "error_classes": {
         "unknown": 13,
-        "rate_limit": 7
+        "rate_limit": 8
       }
     }
   }

@@ -1,7 +1,7 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-modified_date: 2026-05-12T06:48:15.221Z
+modified_date: 2026-05-26T18:32:00.287Z
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
@@ -10,6 +10,7 @@ visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ The tech industry is witnessing significant changes, with major players like Sam
 
 ## Updates
 
+- **2026-05-26** — Today’s Android app deals and freebies, Dragon Quest 1 – 6, Townscaper, Kingdom Eighties, more ([source](https://9to5toys.com/2026/05/26/today-android-app-deals-free-dragon-quest/))
 - **2026-05-12** — Priceline Promo Codes: 10% Off May 2026 ([source](https://www.wired.com/story/priceline-promo-code/))
 - **2026-05-08** — Deals: Fitbit Air pre-order offers, Pixel 10 Pro/XL up to $500 off, Legion Go 2 Windows handheld $482 off, more ([source](https://9to5google.com/2026/05/08/deals-fitbit-air-pixel-10-pro-xl-legion-go-2/))
 - **2026-05-05** — Google readies ‘AI Ultra Lite’ plan and explicit ‘usage limits’ for Gemini ([source](https://9to5google.com/2026/05/05/google-ai-ultra-lite-gemini-usage-limits/))
