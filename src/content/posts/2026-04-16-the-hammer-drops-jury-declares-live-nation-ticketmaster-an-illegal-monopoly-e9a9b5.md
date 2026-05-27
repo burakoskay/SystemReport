@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-05-23T15:06:02.680Z
+modified_date: 2026-05-27T22:01:07.126Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 20
+sources_count: 21
 author: "lena-volkov"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-05-27** — Rivian will deliver the first R2 SUVs on June 9 ([source](https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/))
 - **2026-05-23** — Dead by Daylight is finally adding Jason from Friday the 13th ([source](https://www.engadget.com/2178886/dead-by-daylight-is-finally-adding-jason-from-friday-the-13th/))
 - **2026-05-18** — The Backward Logic of Chickenpox Parties ([source](https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/))
 - **2026-05-16** — We've made the world too complicated ([source](https://user8.bearblog.dev/the-world-is-too-complicated/))

@@ -1,16 +1,17 @@
 ---
 title: "Smart Beds: Decode the Jargon Before You Buy"
 date: 2026-04-30T19:53:32.661Z
-modified_date: 2026-05-01T22:54:28.214Z
+modified_date: 2026-05-27T22:01:25.698Z
 tags: ["smart-beds","consumer-tech","mattress-tech","product-jargon"]
 hero_image: "/hero/2026-04-30-smart-beds-decode-the-jargon-before-you-buy-02cb50.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "smart bed interface with adjustable settings"
 description: "Avoid costly mistakes by understanding the real differences between smart beds, adjustable mattresses, and frames."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## A $2,000 Mistake Waiting to Happen
@@ -39,4 +40,5 @@ For buyers, the key is to ask concrete questions: Does this device track sleep s
 
 ## Updates
 
+- **2026-05-27** — Halide Mark III adds a built-in editor to the popular camera app ([source](https://www.engadget.com/2182499/halide-mark-iii-adds-a-built-in-editor-to-the-popular-camera-app/))
 - **2026-05-01** — Apple raises the Mac Mini&#8217;s starting price ([source](https://www.theverge.com/tech/922572/apple-mac-mini-256-model))

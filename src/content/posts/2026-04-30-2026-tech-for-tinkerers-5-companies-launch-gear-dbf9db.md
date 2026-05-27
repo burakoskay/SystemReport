@@ -1,16 +1,17 @@
 ---
 title: "2026 Tech for Tinkerers 5 Companies Launch Gear"
 date: 2026-04-30T14:19:49.378Z
-modified_date: 2026-05-19T18:09:55.899Z
+modified_date: 2026-05-27T22:01:44.204Z
 tags: ["consumer tech","product reviews","2026","hardware","gadgets"]
 hero_image: "/hero/2026-04-30-2026-tech-for-tinkerers-5-companies-launch-gear-dbf9db.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "a desk with a portable power station, UV printer, stylus phone, smart water valve and modular gaming controller"
 description: "Goal Zero, EufyMake, Motorola, Eve and HyperX unveil new gear that pushes niche features into everyday hands."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,5 +61,6 @@ Track the next firmware updates for the Yeti 1500 and Clutch Talon, as both ma
 
 ## Updates
 
+- **2026-05-27** — Mystery GPS jammer in Iran becomes test for NASA satellites’ capabilities ([source](https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/))
 - **2026-05-19** — Google Search is getting its biggest changes ever ([source](https://www.theverge.com/tech/932970/google-search-ai-update-io-2026))
 - **2026-05-04** — Hisense aggressively cuts the price of its RGB LED TV on release day ([source](https://www.theverge.com/tech/922571/hisense-cuts-price-ur9))

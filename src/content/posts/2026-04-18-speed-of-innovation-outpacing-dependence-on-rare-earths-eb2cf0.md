@@ -1,16 +1,17 @@
 ---
 title: "Speed of Innovation: Outpacing Dependence on Rare Earths"
 date: 2026-04-18T01:04:55.535Z
-modified_date: 2026-05-20T22:01:13.610Z
+modified_date: 2026-05-27T22:01:10.913Z
 tags: ["space exploration","rare earths","innovation"]
 hero_image: "/hero/2026-04-18-speed-of-innovation-outpacing-dependence-on-rare-earths-eb2cf0.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "astronauts in space with earth in background"
 description: "Astronauts and nations alike are breaking free from limitations, harnessing physics and underwater discoveries to propel forward."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -20,5 +21,6 @@ As astronauts soar through the cosmos, a peculiar challenge arises: measuring th
 
 ## Updates
 
+- **2026-05-27** — In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips ([source](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/))
 - **2026-05-20** — OpenAI claims it solved an 80-year-old math problem — for real this time ([source](https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/))
 - **2026-04-30** — PlayStation now requires a ‘one-time online check’ to confirm you own a game ([source](https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement))

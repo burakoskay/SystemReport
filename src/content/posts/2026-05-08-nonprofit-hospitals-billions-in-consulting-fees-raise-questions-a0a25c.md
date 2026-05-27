@@ -1,14 +1,16 @@
 ---
 title: "Nonprofit Hospitals' Billions in Consulting Fees Raise Questions"
 date: 2026-05-08T06:07:40.947Z
+modified_date: 2026-05-27T22:01:47.906Z
 tags: ["Nonprofit Hospitals","Consulting Fees","Healthcare Industry"]
 hero_image: "/hero/2026-05-08-nonprofit-hospitals-billions-in-consulting-fees-raise-questions-a0a25c.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Healthcare"
 description: "Hospitals spend billions on consultants with unclear impact"
-sources_count: 1
+sources_count: 2
 ---
+
 
 # Introduction to the Issue
 Nonprofit hospitals in the US spend billions of dollars on management consultants. The impact of these investments is unclear. This practice has sparked intense debate regarding the efficacy and transparency of such expenditures.
@@ -30,3 +32,7 @@ The lack of transparency in consulting expenditures by nonprofit hospitals is a 
 The history of consulting in healthcare is marked by a steady increase in demand for external advice. As the healthcare landscape becomes increasingly complex, hospitals have turned to consultants to navigate regulatory requirements, improve operational efficiency, and enhance patient care. However, the growth of the healthcare consulting market has also raised concerns about the potential for conflict of interest and the lack of oversight.
 ## Future of Healthcare Consulting
 The future of healthcare consulting is likely to be shaped by the evolving needs of the healthcare industry. As healthcare costs continue to rise, the demand for consulting services aimed at reducing costs and improving efficiency is likely to increase. However, the industry must also address concerns about transparency, accountability, and the potential for conflict of interest. By doing so, healthcare consulting can play a vital role in shaping the future of the healthcare industry.
+
+## Updates
+
+- **2026-05-27** — Mina the Hollower is the best old-school action adventure I've played in a while ([source](https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/))

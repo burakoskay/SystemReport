@@ -1,17 +1,19 @@
 ---
 title: "Spyware App and Quantum-Safe Ransomware Highlight Cybersecurity"
 date: 2026-04-24T17:26:16.416Z
+modified_date: 2026-05-27T22:01:36.787Z
 tags: ["cybersecurity","spyware","ransomware","quantum computing"]
 hero_image: "/hero/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "cybersecurity"
 description: "New spyware app and quantum-safe ransomware family expose growing risks for engineers and security teams."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.mp3"
 audio_bytes: 622804
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Malicious Spyware App Targets Android Users
@@ -74,3 +76,6 @@ The implications of these threats extend beyond immediate security concerns, inf
 
 The emergence of bespoke spyware and quantum-safe ransomware highlights the growing risks for engineers and security teams. These threats underscore the need for a proactive approach to cybersecurity, including staying informed about the latest threats and continuously testing defenses. By understanding the technical mechanics behind these threats and the downstream implications, security teams can better prepare for the evolving threat landscape.
 
+## Updates
+
+- **2026-05-27** — This Find My wallet tracker has two features that make it stand out ([source](https://9to5mac.com/2026/05/27/this-find-my-wallet-tracker-has-two-features-that-make-it-stand-out/))
