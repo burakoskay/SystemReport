@@ -1,14 +1,16 @@
 ---
 title: "Spooked by Mythos"
 date: 2026-05-07T06:45:35.253Z
+modified_date: 2026-05-27T04:14:07.875Z
 tags: ["AI","safety testing","Trump","Biden"]
 hero_image: "/hero/2026-05-07-spooked-by-mythos-2073cf.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Trump forced to admit Biden was right on AI safety testing"
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Trump's Forced Admission
@@ -47,3 +49,6 @@ The implementation of AI safety testing and the development of technologies like
 
 In the future, we can expect to see more advanced AI detection solutions, such as those that can detect manipulated media in real-time. We may also see more widespread adoption of AI safety testing and regulation, particularly in industries like healthcare and finance. As AI continues to evolve, it will be important to prioritize safety and transparency, and to develop effective solutions to mitigate the risks associated with AI.
 
+## Updates
+
+- **2026-05-27** — UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak ([source](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/))

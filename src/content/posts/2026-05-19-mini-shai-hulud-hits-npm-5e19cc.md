@@ -1,15 +1,17 @@
 ---
 title: "Mini Shai-Hulud Hits npm"
 date: 2026-05-19T15:36:03.151Z
+modified_date: 2026-05-27T04:14:15.247Z
 tags: ["npm","supply chain attack","open source software"]
 hero_image: "/hero/2026-05-19-mini-shai-hulud-hits-npm-5e19cc.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "npm"
 description: "Hackers compromise dozens of popular open source packages in ongoing supply chain attack"
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 ## Introduction
 The Mini Shai-Hulud campaign has compromised 314 npm packages, leaving developers and companies that use them vulnerable to attacks. This ongoing supply chain attack is part of a wider campaign that has already affected several open source projects.
@@ -53,3 +55,7 @@ In 2021, the Log4j vulnerability was discovered, which highlighted the importanc
 
 ## Conclusion
 The Mini Shai-Hulud campaign is a significant threat to the security of open source software and the companies that rely on it. The attack highlights the importance of securing open source software and the need for developers to be vigilant about the packages they use. As the campaign continues to evolve, it is essential to monitor the situation closely and take steps to protect against potential threats.
+
+## Updates
+
+- **2026-05-27** — Did the Pope use AI to write about the dangers of AI? ([source](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram))
