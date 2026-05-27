@@ -1,18 +1,20 @@
 ---
 title: "Apple's Mac Mini and Studio Demand Outstrips Supply"
 date: 2026-05-01T17:03:45.538Z
+modified_date: 2026-05-27T15:56:21.891Z
 tags: ["Apple","Mac Mini","Studio","Chip Shortage","AI"]
 hero_image: "/hero/2026-05-01-apple-s-mac-mini-and-studio-demand-outstrips-supply-bfd438.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac Studio"
 description: "Apple faces chip shortages and high demand for Mac mini and Studio, causing delays. The company is working to meet demand."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-01-apple-s-mac-mini-and-studio-demand-outstrips-supply-bfd438.mp3"
 audio_bytes: 577664
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Demand for Mac Mini and Studio Outstrips Supply
@@ -90,3 +92,7 @@ As the technology industry continues to evolve, companies like Apple will need t
 Apple's strategy for managing demand and supply chain challenges will be closely monitored, as the company works to resolve the current issues and position itself for future success. The next significant update from Apple on this issue will likely come during its quarterly earnings report or a future product announcement event.
 
 The situation highlights the complexities of the technology industry and the need for companies to be proactive in managing their supply chains and meeting the evolving needs of their customers.
+
+## Updates
+
+- **2026-05-27** — Startup Battlefield 200 applications close today: Nominate a founder or submit your startup ([source](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/))

@@ -1,18 +1,20 @@
 ---
 title: "Google Updates"
 date: 2026-05-12T21:24:45.219Z
+modified_date: 2026-05-27T15:56:52.319Z
 tags: ["Google","Android","Artificial Intelligence"]
 hero_image: "/hero/2026-05-12-google-updates-12b357.jpg"
 hero_image_credit_name: "Firmbee.com"
 hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google"
 description: "Google adds Gemini-powered dictation to Gboard and launches new Android security features"
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-05-12-google-updates-12b357.mp3"
 audio_bytes: 612773
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google's Latest Moves
 Google has added Gemini-powered dictation to Gboard, which could be bad news for dictation startups. The transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.
@@ -51,3 +53,7 @@ The impact of these features on dictation startups and other companies in the vo
 
 ## What to Watch
 As Google continues to update and expand its features, it's essential to keep an eye on the company's future developments. With the launch of Gemini-powered dictation and Intrusion Logging, Google has demonstrated its commitment to improving the Android ecosystem. In the coming months, we can expect to see further updates and innovations from Google, including the expansion of these features to more devices and the launch of new security features.
+
+## Updates
+
+- **2026-05-27** — Spotify's latest feature makes it easier to share podcast clips ([source](https://www.engadget.com/2181929/spotifys-latest-feature-makes-it-easier-to-share-podcast-clips/))

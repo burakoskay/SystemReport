@@ -1,19 +1,20 @@
 ---
 title: "Walmart's Google TV Streamers Launch"
 date: 2026-04-26T23:01:41.608Z
-modified_date: 2026-05-19T11:25:17.040Z
+modified_date: 2026-05-27T15:57:15.398Z
 tags: ["google","walmart","pixel","android","smart home"]
 hero_image: "/hero/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "google tv streaming device on a modern coffee table"
 description: "Google refines voice typing, overhauls app designs, and partners with Walmart as smart home updates spark mixed reactions."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.mp3"
 audio_bytes: 638059
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Three threads will define Google’s near-term impact: First, whether the Onn st
 
 ## Updates
 
+- **2026-05-27** — Gradient Google icon redesign rolls out on iPhone and web [U] ([source](https://9to5google.com/2026/05/27/gradient-google-icon-redesign-web/))
 - **2026-05-19** — Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave ([source](https://www.wired.com/story/the-big-interview-podcast-tom-steyer/))
 - **2026-05-12** — Google is bringing AirDrop support to most Android phones later this year ([source](https://9to5google.com/2026/05/12/google-bringing-airdrop-support-most-android-phones-later-this-year/))
 - **2026-04-28** — Google Translate uses AI to help you practice pronunciation ([source](https://www.engadget.com/ai/google-translate-uses-ai-to-help-you-practice-pronunciation-160000542.html?src=rss))

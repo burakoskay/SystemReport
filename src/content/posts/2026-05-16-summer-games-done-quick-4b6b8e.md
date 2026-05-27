@@ -1,15 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
+modified_date: 2026-05-27T15:57:11.532Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 ## Introduction to Summer Games Done Quick
 Summer Games Done Quick, a charity video game marathon, is set to return this July. The event, which features high-level gameplay by speedrunners, aims to raise money for various charities.
@@ -30,3 +32,7 @@ Another community that is part of the Games Done Quick event is Black in a Flash
 As the Summer Games Done Quick event approaches, there are several things to watch out for. The schedule for the event is now out, and it promises to be an exciting one, with a mix of popular games and speedrunning challenges. The event will also feature a mix of experienced and new speedrunners, making it a great opportunity for newcomers to learn and participate. The community aspect of the event is also something to look out for, with various communities and organizations coming together to promote speedrunning and charity events.
 
 Overall, the Summer Games Done Quick event is a great opportunity for gamers and speedrunners to come together and raise money for charity. With its rich history, exciting schedule, and strong community support, the event is sure to be a success. As the event approaches, it will be interesting to see how the speedrunning community comes together to support the event and raise money for charity.
+
+## Updates
+
+- **2026-05-27** — Samsung Galaxy flagships to see price hikes in June for some regions, report claims ([source](https://9to5google.com/2026/05/27/samsung-galaxy-flagship-price-hikes-report/))

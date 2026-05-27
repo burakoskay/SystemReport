@@ -1,15 +1,17 @@
 ---
 title: "European Governments Operate 3,000+ Tracking Sites With Weak"
 date: 2026-05-13T10:41:07.134Z
+modified_date: 2026-05-27T15:56:14.329Z
 tags: ["cybersecurity","encryption","privacy","uk legislation","government surveillance"]
 hero_image: "/hero/2026-05-13-european-governments-operate-3-000-tracking-sites-with-weak-6c85cd.jpg"
 hero_image_credit_name: "AI25.Studio  Studio"
 hero_image_credit_url: "https://www.pexels.com/@ai25studioai"
 visual_keyword: "dark web network with encrypted data streams and exposed vulnerabilities"
 description: "A new report reveals European governments manage over 3,000 tracking sites with 99% using weak encryption, as global experts warn against weakening end-to-end encryption in UK legislation."
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 ## Global Encryption Coalition Warns Against Online Safety Bill
 
@@ -38,3 +40,7 @@ Legal scholars have also criticized the bill’s lack of statutory safeguards. T
 ## What to Watch
 
 The UK Parliament’s next scheduled review of the Online Safety Bill in July 2026 will determine whether encryption protections remain intact or if scanning provisions are implemented. SecurityBaseline.eu plans to release a follow-up report in Q3 2026, tracking whether European governments address the 3,000+ vulnerable tracking sites identified in their study. Meanwhile, the Global Encryption Coalition will continue pressuring the government to align the bill with international cybersecurity standards.
+
+## Updates
+
+- **2026-05-27** — The State Department Really Doesn’t Want to Talk About the Office of Remigration ([source](https://www.wired.com/story/the-state-department-really-doesnt-want-to-talk-about-the-office-of-remigration/))

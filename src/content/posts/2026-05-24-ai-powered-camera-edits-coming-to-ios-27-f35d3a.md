@@ -1,17 +1,19 @@
 ---
 title: "AI-Powered Camera Edits Coming to iOS 27"
 date: 2026-05-24T08:36:23.473Z
+modified_date: 2026-05-27T15:56:44.686Z
 tags: ["iOS 27","AI-powered camera","smarter keyboard","Siri app"]
 hero_image: "/hero/2026-05-24-ai-powered-camera-edits-coming-to-ios-27-f35d3a.jpg"
 hero_image_credit_name: "Tessa Charles"
 hero_image_credit_url: "https://www.pexels.com/@tessacharles"
 visual_keyword: "iPhone"
 description: "iOS 27 rumors: AI camera edits, smarter keyboard, and new Siri app"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-24-ai-powered-camera-edits-coming-to-ios-27-f35d3a.mp3"
 audio_bytes: 577037
 audio_mime: "audio/mpeg"
 ---
+
 
 ## AI Upgrades to Camera and Photos
 Apple is enhancing the iPhone camera with AI-powered editing tools. According to 9to5Mac, these upgrades build on the redesign introduced last year with iOS 26. The new tools will include a broader set of AI-enhanced editing tools in the Photos app. This move could simplify photo editing for power users, allowing them to make more precise adjustments to their images.
@@ -57,3 +59,7 @@ The iOS 27 updates represent the latest step in this journey, with the introduct
 The use of AI-powered features in smartphones is a growing trend, with many manufacturers investing in similar technologies. The development of AI-powered cameras, keyboards, and virtual assistants is expected to continue, with significant implications for the smartphone industry and beyond.
 
 The iOS 27 updates are part of this broader trend, and demonstrate Apple's commitment to staying at the forefront of AI-powered innovation. The updates could have significant implications for the smartphone industry, and could help to drive further investment and innovation in AI-powered features.
+
+## Updates
+
+- **2026-05-27** — This smart bird feeder captures more of my backyard drama ([source](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review))
