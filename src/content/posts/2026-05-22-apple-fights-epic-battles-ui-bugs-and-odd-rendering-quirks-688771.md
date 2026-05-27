@@ -1,18 +1,20 @@
 ---
 title: "Apple fights Epic, battles UI bugs, and odd rendering quirks"
 date: 2026-05-22T16:37:32.834Z
+modified_date: 2026-05-27T23:26:12.785Z
 tags: ["apple","app store","ui bugs","security"]
 hero_image: "/hero/2026-05-22-apple-fights-epic-battles-ui-bugs-and-odd-rendering-quirks-688771.jpg"
 hero_image_credit_name: "Кирилл Абрамов"
 hero_image_credit_url: "https://www.pexels.com/@feel-and-live"
 visual_keyword: "Apple laptop with notch and glitchy menu bar"
 description: "Apple asks the Supreme Court to narrow Epic’s App Store injunction while users wrestle with notch menu bar glitches, PNG rendering bugs, and a quirky iOS calculator."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-22-apple-fights-epic-battles-ui-bugs-and-odd-rendering-quirks-688771.mp3"
 audio_bytes: 612146
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple asks Supreme Court to trim Epic injunction
 Apple filed a petition with the U.S. Supreme Court on Thursday. The petition asks the court to narrow the injunction that forced Apple to allow Epic Games to use alternative payment systems in its App Store.
@@ -52,3 +54,7 @@ Monitor macOS updates for a fix to the notch menu bar clipping. A software patch
 Track security advisories for parallel‑decodable PNGs. If Apple releases a decoder update, developers should verify that their image pipelines reject ambiguous streams.
 
 Finally, keep an eye on iOS releases that address the calculator animation latency. A swift fix would improve reliability for users who rely on the built‑in app for quick calculations.
+
+## Updates
+
+- **2026-05-27** — FCC filing shows Amazon plans to acquire Apple’s 20% stake in Globalstar ([source](https://9to5mac.com/2026/05/27/fcc-filing-shows-amazon-plans-to-acquire-apples-20-stake-in-globalstar/))

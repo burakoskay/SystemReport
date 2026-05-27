@@ -1,17 +1,19 @@
 ---
 title: "GenCAD: Free Programming Book Collection Curated by Hacker News"
 date: 2026-05-18T04:09:26.855Z
+modified_date: 2026-05-27T23:26:16.647Z
 tags: ["Hacker News","GenCAD","free programming books"]
 hero_image: "/hero/2026-05-18-gencad-free-programming-book-collection-curated-by-hacker-news-88fa56.jpg"
 hero_image_credit_name: "Ashar Mirza"
 hero_image_credit_url: "https://www.pexels.com/@ashar-mirza-2148003869"
 visual_keyword: "books"
 description: "Hacker News users bookmark a community-driven list of sites offering legally free programming and tech books."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-18-gencad-free-programming-book-collection-curated-by-hacker-news-88fa56.mp3"
 audio_bytes: 592920
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A community-sourced list of free programming books hits Hacker News
@@ -50,3 +52,6 @@ The GenCAD list has several downstream implications. For developers, it provides
 
 As the GenCAD list continues to grow and evolve, it is likely that we will see new features and resources added. For example, the list's creators may choose to implement a rating system or a commenting mechanism to help users evaluate the quality of the resources. Additionally, the list may be integrated with other platforms or tools, such as GitHub or Stack Overflow, to provide a more seamless experience for developers. Whatever the future holds, it is clear that the GenCAD list has tapped into a need in the programming community, and it will be interesting to see how it continues to evolve and impact the way developers learn and access programming resources.
 
+## Updates
+
+- **2026-05-27** — I found a second vote.gov – and it's registered to the White House ([source](https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its))
