@@ -1,15 +1,17 @@
 ---
 title: "Microsoft's Data Centers Threaten Clean Energy Goals"
 date: 2026-05-06T21:31:48.512Z
+modified_date: 2026-05-27T10:02:57.953Z
 tags: ["microsoft","data-centers","clean-energy","ai","sustainability"]
 hero_image: "/hero/2026-05-06-microsoft-s-data-centers-threaten-clean-energy-goals-a1cb21.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "modern data center with solar panels and wind turbines in the background"
 description: "Microsoft's AI-driven data center expansion risks undermining its 2030 clean energy targets as infrastructure demand grows."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 ## The Clean Energy Conflict
 
@@ -44,3 +46,7 @@ Microsoft will announce its 2025 infrastructure roadmap at the Ignite conference
 3. **AI workload distribution strategies** to balance performance with clean energy availability
 
 The company’s next quarterly sustainability report, due January 2025, will also reveal whether its clean energy mix remains above 65%. A dip below 60% would trigger a mandatory review of its 2030 goals, according to internal governance documents.
+
+## Updates
+
+- **2026-05-27** — Airbnb-backed WeRoad raises $58M to take its group travel platform to the US ([source](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/))
