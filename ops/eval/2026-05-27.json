@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-27T16:11:12.100Z",
+  "generated_at": "2026-05-27T18:39:51.891Z",
   "window_days": 7,
-  "total_records": 3536,
+  "total_records": 3631,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 638,
-      "success": 487,
-      "success_rate": 0.7633228840125392,
-      "latency_p50": 3721,
-      "latency_p95": 12822,
-      "response_chars_mean": 3727,
+      "calls": 655,
+      "success": 504,
+      "success_rate": 0.7694656488549618,
+      "latency_p50": 3772,
+      "latency_p95": 13630,
+      "response_chars_mean": 3694,
       "error_classes": {
         "rate_limit": 134,
         "unknown": 14,
@@ -17,12 +17,12 @@
       }
     },
     "revise:v2-800w": {
-      "calls": 176,
-      "success": 142,
-      "success_rate": 0.8068181818181818,
-      "latency_p50": 1392,
-      "latency_p95": 10855,
-      "response_chars_mean": 1684,
+      "calls": 182,
+      "success": 148,
+      "success_rate": 0.8131868131868132,
+      "latency_p50": 1405,
+      "latency_p95": 11348,
+      "response_chars_mean": 1672,
       "error_classes": {
         "unknown": 1,
         "rate_limit": 30,
@@ -30,28 +30,28 @@
       }
     },
     "lengthen:v1": {
-      "calls": 266,
-      "success": 238,
-      "success_rate": 0.8947368421052632,
-      "latency_p50": 2644,
-      "latency_p95": 10156,
-      "response_chars_mean": 4809,
+      "calls": 274,
+      "success": 245,
+      "success_rate": 0.8941605839416058,
+      "latency_p50": 2652,
+      "latency_p95": 10556,
+      "response_chars_mean": 4777,
       "error_classes": {
-        "rate_limit": 25,
+        "rate_limit": 26,
         "unknown": 1,
         "timeout": 1,
         "permission": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 59,
-      "success": 35,
-      "success_rate": 0.5932203389830508,
+      "calls": 61,
+      "success": 36,
+      "success_rate": 0.5901639344262295,
       "latency_p50": 1532,
       "latency_p95": 4163,
-      "response_chars_mean": 62,
+      "response_chars_mean": 63,
       "error_classes": {
-        "unknown": 16,
+        "unknown": 17,
         "rate_limit": 8
       }
     }

@@ -1,15 +1,17 @@
 ---
 title: "CopilotKit Raises $27M to Deploy App-Native AI Agents"
 date: 2026-05-05T17:41:42.678Z
+modified_date: 2026-05-27T18:30:51.623Z
 tags: ["AI","machine learning","startups","funding"]
 hero_image: "/hero/2026-05-05-copilotkit-raises-27m-to-deploy-app-native-ai-agents-646443.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI agents"
 description: "Seattle-based CopilotKit secures $27M in Series A funding to help developers deploy app-native AI agents."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## CopilotKit Secures $27M to Streamline AI Agent Deployment
 
@@ -58,3 +60,7 @@ Governments around the world are also taking steps to support startups and drive
 ## Future Outlook
 
 As the startup ecosystem continues to evolve, it will be interesting to see how CopilotKit and other AI agent deployment startups navigate the changing landscape. With the increased funding and support from governments and investors, these startups are well-positioned to drive innovation and growth in the AI and machine learning spaces. Ultimately, the future of AI agent deployment looks bright, with significant potential for growth and adoption across various industries.
+
+## Updates
+
+- **2026-05-27** — Mid-week Android app deals and freebies: Poker, Ya Joker, Empire of the Gods, Dawncaster, more ([source](https://9to5toys.com/2026/05/27/mid-week-android-app-deals-and-freebies-poker-ya-joker-empire-of-the-gods-dawncaster-more/))

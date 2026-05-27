@@ -1,15 +1,16 @@
 ---
 title: "Rivian Scales Back DOE Loan"
 date: 2026-04-30T22:59:46.117Z
-modified_date: 2026-05-01T03:49:49.391Z
+modified_date: 2026-05-27T18:31:10.533Z
 tags: ["Rivian","DOE Loan","Electric Vehicle","Georgia Factory","Data Collection"]
 hero_image: "/hero/2026-04-30-rivian-scales-back-doe-loan-608a77.jpg"
 hero_image_credit_name: "smart-me AG"
 hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Rivian Reworks DOE Loan Deal
@@ -60,4 +61,5 @@ As the industry continues to evolve, Rivian's progress will be closely monitored
 
 ## Updates
 
+- **2026-05-27** — Halide Mark III pro camera for iPhone arrives with three key photography upgrades ([source](https://9to5mac.com/2026/05/27/halide-mark-iii-pro-camera-for-iphone-arrives-with-three-key-photography-upgrades/))
 - **2026-05-01** — Rivian downsizes DOE loan to $4.5B for Georgia factory ([source](https://techcrunch.com/2026/04/30/rivian-downsizes-doe-loan-to-4-5b-of-georgia-factory/))

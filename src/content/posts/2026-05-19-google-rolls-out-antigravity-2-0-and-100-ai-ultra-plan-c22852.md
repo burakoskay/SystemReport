@@ -1,15 +1,17 @@
 ---
 title: "Google rolls out Antigravity 2.0 and $100 AI Ultra plan"
 date: 2026-05-19T18:19:49.457Z
+modified_date: 2026-05-27T18:30:44.086Z
 tags: ["google","ai","pricing","antigravity"]
 hero_image: "/hero/2026-05-19-google-rolls-out-antigravity-2-0-and-100-ai-ultra-plan-c22852.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "modern office desk with AI interface and floating icons"
 description: "Google unveils Antigravity 2.0 and lifts its AI Ultra subscription to $100/month, promising five‑fold usage over the Pro tier."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Google launched Antigravity 2.0 and raised the price of its top‑tier AI Ultra plan to $100 a month. The move doubles the headline price of Google’s most expensive AI subscription while promising five times the usage limit of the AI Pro tier.
 
@@ -42,3 +44,7 @@ The competitive field is crowded with startups offering niche pricing models, su
 ## What to watch
 
 The next quarter will reveal whether the $100 Ultra plan attracts enough high‑volume users to offset the lower price point. Analysts will track subscription uptake, token consumption trends, and any subsequent price tweaks. The rollout of Antigravity 2.0’s CLI will also be a litmus test for developer adoption; a surge in GitHub activity around the tool could signal a shift in workflow preferences. Keep an eye on Google’s quarterly earnings call for the first hard data on Ultra‑plan churn and on any announced enhancements to the Antigravity suite.
+
+## Updates
+
+- **2026-05-27** — UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us ([source](https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/))

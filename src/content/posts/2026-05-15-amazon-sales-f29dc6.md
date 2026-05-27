@@ -1,18 +1,20 @@
 ---
 title: "Amazon Sales"
 date: 2026-05-15T07:29:44.245Z
+modified_date: 2026-05-27T18:30:40.273Z
 tags: ["Amazon","Big Spring Sale","Prime Day"]
 hero_image: "/hero/2026-05-15-amazon-sales-f29dc6.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "shopping"
 description: "Shop now and save big on Amazon's Big Spring Sale and Prime Day"
-sources_count: 13
-author: "ryan-tanaka"
+sources_count: 14
 audio_path: "/audio/2026-05-15-amazon-sales-f29dc6.mp3"
 audio_bytes: 534405
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Amazon Sales
 
@@ -80,3 +82,7 @@ In addition to affecting the retail industry, Amazon's sales events also have im
 Other retailers, such as Best Buy and Argos, also offer significant discounts and promotions during their own sales events. For example, Best Buy's Tech Fest sale has discounted several Windows laptops, while Argos has offered up to 50% off in their Big Red sale. These events can be a great opportunity for shoppers to find deals on the products they want, but they may not offer the same level of discounts as Amazon's sales.
 
 In order to compete with Amazon, other retailers must focus on offering unique products, services, and experiences that set them apart from the competition. For example, Best Buy has invested heavily in its online platform and in-store experience, offering services like Geek Squad and in-store pickup. By differentiating themselves, other retailers can attract customers who are looking for alternatives to Amazon.
+
+## Updates
+
+- **2026-05-27** — Sony is offering up to 50 percent off some of our favorite PS5 games ([source](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal))

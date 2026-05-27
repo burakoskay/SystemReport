@@ -1,15 +1,17 @@
 ---
 title: "Volvo Clears US Sales Hurdle, Palantir Sparks Draft Debate"
 date: 2026-05-27T04:17:50.276Z
+modified_date: 2026-05-27T18:30:47.819Z
 tags: ["Volvo","Palantir","connected cars","universal national service"]
 hero_image: "/hero/2026-05-27-volvo-clears-us-sales-hurdle-palantir-sparks-draft-debate-29b650.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "connected cars"
 description: "Volvo can sell connected cars in the US, while Palantir's universal national service proposal sparks controversy."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Volvo's US Sales Clearance
@@ -57,3 +59,7 @@ Another is the ongoing security concerns with robot lawn mowers like Yarbo's, an
 As the tech industry continues to evolve, it will be important for companies to prioritize transparency, accountability, and public engagement. With the increasing intersection of technology and society, companies must be aware of the impact of their products and services on society and take steps to mitigate any negative consequences.
 
 The development of connected and autonomous vehicles, and the debate over universal national service, are just two examples of the complex and often contentious issues that the tech industry is facing. As the industry continues to evolve, it will be important for companies to navigate these issues in a way that prioritizes transparency, accountability, and public engagement.
+
+## Updates
+
+- **2026-05-27** — CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks ([source](https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/))

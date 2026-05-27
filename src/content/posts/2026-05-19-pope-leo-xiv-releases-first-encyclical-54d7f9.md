@@ -1,15 +1,16 @@
 ---
 title: "Pope Leo XIV Releases First Encyclical"
 date: 2026-05-19T04:08:56.245Z
-modified_date: 2026-05-22T12:25:50.505Z
+modified_date: 2026-05-27T18:31:02.985Z
 tags: ["Pope Leo XIV","Catholic Church","Encyclical","Vatican","Global Affairs"]
 hero_image: "/hero/2026-05-19-pope-leo-xiv-releases-first-encyclical-54d7f9.jpg"
 hero_image_credit_name: "Özgür KAYA"
 hero_image_credit_url: "https://www.pexels.com/@ozgur-kaya-575422504"
 visual_keyword: "Vatican"
 description: "Pope Leo XIV's first encyclical, Magnifica humanitas, published on May 25."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 # System Report — Editorial Voice
@@ -93,4 +94,5 @@ The encyclical's release is a significant event for the Catholic Church and the 
 
 ## Updates
 
+- **2026-05-27** — MLB: The Show officially brings the best baseball game to iPhone ([source](https://9to5mac.com/2026/05/27/mlb-the-show-is-officially-bringing-the-best-baseball-game-to-iphone/))
 - **2026-05-22** — Tell HN: I'm tired of AI-generated answers ([source](https://news.ycombinator.com/item?id=48230104))

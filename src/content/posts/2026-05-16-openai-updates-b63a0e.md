@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Updates"
 date: 2026-05-16T17:03:40.149Z
-modified_date: 2026-05-19T15:34:57.257Z
+modified_date: 2026-05-27T18:30:21.137Z
 tags: ["OpenAI","ChatGPT","AI","Mental Health"]
 hero_image: "/hero/2026-05-16-openai-updates-b63a0e.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "OpenAI addresses security concerns and mental health risks with ChatGPT updates"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to OpenAI's Latest Moves
@@ -67,4 +68,5 @@ The tech industry as a whole will need to continue to grapple with the implicati
 
 ## Updates
 
+- **2026-05-27** — Huawei's ‘Chip Queen’ Throws Down the Gauntlet ([source](https://www.wired.com/story/huawei-chip-queen-moores-law-tau/))
 - **2026-05-19** — America’s dangerous, messy deepfakes crackdown is here ([source](https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake))

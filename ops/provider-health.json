@@ -1,34 +1,35 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-05-27T16:09:49.831Z",
+    "last_success": "2026-05-27T18:32:26.819Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"{\\n\\\"title\\\": \\\"Güney Kore'nin Yeni Anti-Korsan Birimleri Yapay Zeka Destekli Riski Karşılar",
-    "last_failure": "2026-05-27T16:10:12.023Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 30000, Used 27626, Requested 2550. Please try again in 352ms. Need more tokens? Upgrade ",
+    "last_failure": "2026-05-27T18:32:45.923Z",
+    "cooldown_until": "2026-05-27T18:42:45.851Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-05-27T16:09:26.661Z",
+    "last_success": "2026-05-27T18:37:03.550Z",
     "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"{\\n  \\\"title\\\": \\\"Labor Dept Orders Workers to Spy on DEI Critics\\\",\\n  \\\"description\\\": \\\"A",
     "last_failure": "2026-05-27T10:11:57.305Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-05-27T16:09:50.915Z",
+    "last_success": "2026-05-27T18:36:13.816Z",
     "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"max completion tokens reached before generating a valid document\"}}\n",
     "last_failure": "2026-05-26T18:44:08.407Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 3,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99273, Requested 964. Please try again in 3m24.768s. Need more tokens? Upgrade to Dev Tier today",
-    "last_failure": "2026-05-27T16:08:36.238Z",
-    "last_success": "2026-05-27T15:57:48.224Z",
-    "cooldown_until": "2026-05-27T16:18:36.134Z"
+    "consecutive_failures": 1,
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98207, Requested 2796. Please try again in 14m26.592s. Need more tokens? Upgrade to Dev Tier tod",
+    "last_failure": "2026-05-27T18:31:37.589Z",
+    "last_success": "2026-05-27T18:31:37.543Z",
+    "cooldown_until": "2026-05-27T18:41:37.545Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 0,
     "last_error": "timeout after 45000ms",
     "last_failure": "2026-05-27T16:02:40.444Z",
-    "last_success": "2026-05-27T16:10:30.229Z"
+    "last_success": "2026-05-27T18:39:16.897Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -57,9 +58,9 @@
     "last_failure": "2026-05-26T18:47:31.241Z"
   },
   "cloudflare:@cf/meta/llama-3.1-8b-instruct": {
-    "consecutive_failures": 43,
-    "last_error": "Cloudflare 400: {\"errors\":[{\"message\":\"AiError: AiError: invalid prompt: failed to parse prompt: unknown variant `json_object`, expected `json_schema` at line 1 column 1922 (22615e3c-7820-499e-b273-6943ec993487)\",\"code\":9015}],\"success\":false,\"result\":{},\"messages\":[]}",
-    "last_failure": "2026-05-27T16:09:49.980Z",
+    "consecutive_failures": 44,
+    "last_error": "Cloudflare 400: {\"errors\":[{\"message\":\"AiError: AiError: invalid prompt: failed to parse prompt: unknown variant `json_object`, expected `json_schema` at line 1 column 1907 (7088ec5b-88e4-48c0-bdb9-fb33cd975838)\",\"code\":9015}],\"success\":false,\"result\":{},\"messages\":[]}",
+    "last_failure": "2026-05-27T18:36:11.531Z",
     "cooldown_until": "2026-05-26T18:57:43.911Z"
   },
   "gemini:gemini-2.5-flash-lite": {
