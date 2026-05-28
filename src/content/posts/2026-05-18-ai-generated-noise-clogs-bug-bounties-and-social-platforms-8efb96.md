@@ -1,18 +1,19 @@
 ---
 title: "AI-generated noise clogs bug bounties and social platforms"
 date: 2026-05-18T15:44:33.375Z
-modified_date: 2026-05-27T18:30:55.408Z
+modified_date: 2026-05-28T23:22:31.994Z
 tags: ["AI-generated content","bug bounty programs","social media platforms"]
 hero_image: "/hero/2026-05-18-ai-generated-noise-clogs-bug-bounties-and-social-platforms-8efb96.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated noise"
 description: "AI-spam overloads bug bounty programs, prompts LinkedIn bans, and triggers boos at graduation speeches."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-18-ai-generated-noise-clogs-bug-bounties-and-social-platforms-8efb96.mp3"
 audio_bytes: 604831
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,5 +76,6 @@ Ultimately, the goal should be to create a more sustainable and effective ecosys
 
 ## Updates
 
+- **2026-05-28** — The internet is being rebuilt for machines ([source](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/))
 - **2026-05-27** — YouTube adds ‘custom feed’ to home page, just in case the search bar is too boring for you ([source](https://9to5google.com/2026/05/27/youtube-adds-custom-feed-to-home-page/))
 - **2026-05-19** — Gmail is going to start talking to you ([source](https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026))
