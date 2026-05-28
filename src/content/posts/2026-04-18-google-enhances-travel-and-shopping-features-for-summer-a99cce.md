@@ -1,16 +1,17 @@
 ---
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
-modified_date: 2026-05-26T21:49:32.424Z
+modified_date: 2026-05-28T16:11:28.359Z
 tags: ["Google","Travel","Shopping"]
 hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ The hotel price-tracking tool is designed to help users save money on summer vac
 
 ## Updates
 
+- **2026-05-28** — At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals ([source](https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/))
 - **2026-05-26** — The Best Movies to Stream This Month (May 2026) ([source](https://www.wired.com/story/the-9-best-movies-to-stream-right-now/))
 - **2026-04-29** — Google TV is getting a dedicated row for YouTube Shorts ([source](https://www.theverge.com/tech/920354/google-tv-youtube-shorts-row-update))
 - **2026-04-27** — Pokémon 30th Anniversary Collabs—What You Can Still Buy and What’s Coming ([source](https://www.wired.com/story/pokemon-30th-anniversary-collabs/))

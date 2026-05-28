@@ -1,18 +1,20 @@
 ---
 title: "Bipartisan Bill Threatens Police License Plate Readers"
 date: 2026-05-20T23:26:43.449Z
+modified_date: 2026-05-28T16:10:53.178Z
 tags: ["surveillance","legislation","privacy","first amendment"]
 hero_image: "/hero/2026-05-20-bipartisan-bill-threatens-police-license-plate-readers-349f84.jpg"
 hero_image_credit_name: "R9 Media Photo Collective"
 hero_image_credit_url: "https://www.pexels.com/@r9media"
 visual_keyword: "police car with blurred license plate scanner"
 description: "A new amendment links highway funding to the removal of automated license‑plate readers for policing, sparking legal and local pushback."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-05-20-bipartisan-bill-threatens-police-license-plate-readers-349f84.mp3"
 audio_bytes: 601697
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Federal Bill Targets Police License Plate Readers
 
@@ -41,3 +43,7 @@ Industry analysts note that the technology itself is not disappearing; rather, i
 ## What to Watch
 
 The amendment’s fate hinges on the upcoming vote in the Senate transportation committee. Watch for statements from the committee chair, who has framed the provision as a privacy safeguard, and from the House Appropriations Committee, which controls the purse strings for highway projects. In parallel, monitor any litigation that cites the amendment as a basis for challenging existing ALPR deployments. The convergence of federal funding pressure, local bans, and First Amendment settlements suggests a pivotal moment for the United States’ surveillance architecture.
+
+## Updates
+
+- **2026-05-28** — What’s next for Microsoft’s Surface PCs? ([source](https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad))

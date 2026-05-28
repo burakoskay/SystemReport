@@ -1,14 +1,16 @@
 ---
 title: "Practical Fixes for Developer Pain Points"
 date: 2026-05-25T04:18:03.449Z
+modified_date: 2026-05-28T16:12:06.249Z
 tags: ["developer tools","Git","Rust","DSL"]
 hero_image: "/hero/2026-05-25-practical-fixes-for-developer-pain-points-355c11.jpg"
 hero_image_credit_name: "Jorge Urosa"
 hero_image_credit_url: "https://www.pexels.com/@jorgeural"
 visual_keyword: "developer_tools"
 description: "New blog posts offer concrete solutions for Git complexity, language migration, and DSL development."
-sources_count: 4
+sources_count: 5
 ---
+
 
 ## New blog posts surface practical fixes for entrenched developer pain points
 
@@ -49,3 +51,7 @@ The history of developer tooling is marked by a steady evolution towards greater
 ## What to watch
 
 Watch for the first open-source projects that adopt Jujutsu as their primary Git interface, especially those paired with a Rust-centric codebase. Track updates to the Go-to-Rust migration guide for community-contributed case studies. Monitor Xtext's release notes for new language-server features that simplify integrating custom DSL checks into continuous-integration pipelines.
+
+## Updates
+
+- **2026-05-28** — Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM ([source](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions))

@@ -1,18 +1,19 @@
 ---
 title: "Defense Tech Startup Anduril Valued at $61B After $5B Raise"
 date: 2026-05-13T21:33:17.730Z
-modified_date: 2026-05-15T10:29:50.821Z
+modified_date: 2026-05-28T16:11:02.024Z
 tags: ["Defense Tech","Startup","Funding"]
 hero_image: "/hero/2026-05-13-defense-tech-startup-anduril-valued-at-61b-after-5b-raise-caea9c.jpg"
 hero_image_credit_name: "Osman Özavcı"
 hero_image_credit_url: "https://www.pexels.com/@osman"
 visual_keyword: "Defense Tech"
 description: "Anduril, a defense tech startup, raises $5B, doubling its valuation to $61B with $2.2B in revenue in 2025."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-13-defense-tech-startup-anduril-valued-at-61b-after-5b-raise-caea9c.mp3"
 audio_bytes: 626774
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Anduril's Massive Raise
@@ -67,4 +68,5 @@ In conclusion, Anduril's latest raise is a significant milestone in the defense 
 
 ## Updates
 
+- **2026-05-28** — Waymo to begin passenger rides in its new Ojai robotaxi ([source](https://www.theverge.com/transportation/938156/waymo-zeekr-ojai-robotaxi-passenger-trips))
 - **2026-05-15** — The ROG Xreal R1 AR gaming glasses are now available to pre-order for $849 ([source](https://www.engadget.com/2173261/the-rog-xreal-r1-ar-gaming-glasses-are-now-available-to-pre-order-for-dollar849/))

@@ -1,15 +1,17 @@
 ---
 title: "Pennsylvanians Resist Data Center Boom"
 date: 2026-05-15T21:23:31.355Z
+modified_date: 2026-05-28T16:11:07.879Z
 tags: ["data center","pennsylvania","regulation","community engagement","industry impact"]
 hero_image: "/hero/2026-05-15-pennsylvanians-resist-data-center-boom-a2acbe.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center landscape"
 description: "Pennsylvanians voice concerns about the rapid growth of data centers in their state, citing transparency and public trust issues."
-sources_count: 10
+sources_count: 11
 author: "elena-marchetti"
 ---
+
 
 # Data Center Backlash in Pennsylvania
 
@@ -50,3 +52,7 @@ As the data center boom continues to sweep across the United States, it is essen
 ## What to Watch
 
 As the data center boom continues to spread, it will be essential to track the developments in regulatory efforts, community engagement, and industry impact. Key metrics to watch include the number of data center permits issued, the level of community resistance, and the effectiveness of regulatory policies in addressing concerns. By monitoring these trends, policymakers and industry leaders can stay ahead of the curve and develop effective strategies to address the challenges and opportunities associated with data center development.
+
+## Updates
+
+- **2026-05-28** — CNN sues Perplexity over ‘verbatim’ copycat articles ([source](https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit))

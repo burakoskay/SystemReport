@@ -1,15 +1,17 @@
 ---
 title: "Uber revives own AVs to feed robotaxi partners"
 date: 2026-05-21T21:55:49.634Z
+modified_date: 2026-05-28T16:11:19.627Z
 tags: ["uber","autonomous-vehicles","waymo","lidar"]
 hero_image: "/hero/2026-05-21-uber-revives-own-avs-to-feed-robotaxi-partners-a2a1a3.jpg"
 hero_image_credit_name: "Hyundai Motor Group"
 hero_image_credit_url: "https://www.pexels.com/@hyundaimotorgroup"
 visual_keyword: "Hyundai Ioniq 5 equipped with lidar and cameras driving in urban street"
 description: "Uber puts a Hyundai Ioniq 5 on the road to harvest data for its robotaxi allies, reviving its AV program amid lawsuits and fleet‑only debates."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Uber has placed a single Hyundai Ioniq 5 equipped with lidar, cameras and radar back on public streets, not to run rides itself but to collect sensor data for the dozens of robotaxi partners that rely on its platform. The move marks the first time the ride‑hailing giant has fielded its own autonomous vehicle since selling its Advanced Technologies Group to Aurora Innovation.
 
@@ -38,3 +40,7 @@ Critics argue the principle is self‑serving. University of Washington professo
 ## What to watch
 
 The next few months will reveal whether Uber’s data‑first approach can coexist with the ongoing Waymo litigation and the industry’s fleet‑only push. Key indicators include any court rulings on Waymo’s IP claims, the volume of sensor data Uber distributes to partners, and whether regulators adopt the shared‑fleet principle into municipal codes. Track the rollout of Uber’s AV Lab vehicle, any expansion beyond the single Ioniq 5, and Aurora’s integration plan, which promises to run Aurora‑built self‑driving cars on Uber’s platform after the $400 million investment closes. Those moves will signal whether Uber is merely a data conduit or preparing to re‑enter the robotaxi arena under a different banner.
+
+## Updates
+
+- **2026-05-28** — Slate Auto will start taking orders for its low-cost EV on June 24 ([source](https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/))

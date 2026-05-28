@@ -1,19 +1,20 @@
 ---
 title: "ReMarkable Paper Pure"
 date: 2026-05-06T14:26:28.023Z
-modified_date: 2026-05-13T18:06:07.366Z
+modified_date: 2026-05-28T16:11:10.796Z
 tags: ["ReMarkable Paper Pure","E-reader","Writing Device","Corporate Buyers"]
 hero_image: "/hero/2026-05-06-remarkable-paper-pure-eb2cea.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "ReMarkable Paper Pure"
 description: "ReMarkable's new entry-level slate prioritizes corporate buyers, but at what cost?"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-06-remarkable-paper-pure-eb2cea.mp3"
 audio_bytes: 576828
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The device's downstream implications also extend to the broader market. If the R
 
 ## Updates
 
+- **2026-05-28** — These are my favorite Switch 2 accessories ([source](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories))
 - **2026-05-13** — Garmin’s mini satellite communicators are on sale for up to 40 percent off ([source](https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale))
 - **2026-05-13** — Data centers are coming for rural America ([source](https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine))
 - **2026-05-06** — How David Sacks crashed and burned in the White House ([source](https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review))
