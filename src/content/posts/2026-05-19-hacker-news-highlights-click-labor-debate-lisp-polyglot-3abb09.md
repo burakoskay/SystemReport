@@ -1,15 +1,17 @@
 ---
 title: "Hacker News highlights: Click, labor debate, Lisp polyglot"
 date: 2026-05-19T04:12:07.596Z
+modified_date: 2026-05-28T20:30:54.621Z
 tags: ["hackernews","programming","community"]
 hero_image: "/hero/2026-05-19-hacker-news-highlights-click-labor-debate-lisp-polyglot-3abb09.jpg"
 hero_image_credit_name: "ahmed akeri"
 hero_image_credit_url: "https://www.pexels.com/@ahmed-akeri-801514718"
 visual_keyword: "Hacker News front page with comment threads"
 description: "Three high‑scoring Hacker News posts expose a retro web curiosity, a looming service‑market shift, and a multi‑language Lisp map."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## A surge of niche chatter on Hacker News
 
@@ -46,3 +48,7 @@ Historically, Hacker News has acted as an early warning system for shifts that l
 Track the follow‑up posts that reference these three stories. A forthcoming comment thread on *Click* may surface a modern implementation using WebAssembly, which could reshape how we think about zero‑click experiences. The labor‑market debate is likely to generate a new round of surveys from freelance platforms; watch for published data on pricing trends in Q3. Finally, the Hyperpolyglot Lisp page may evolve into a living document if the maintainer opens community contributions—watch the repo URL that appears in the next comment batch.
 
 The next wave of discussion will reveal whether these niche concerns become mainstream pressures on product roadmaps, hiring strategies, and language tooling. Engineers should keep an eye on the comment counts; a sudden surge often presages a shift in the broader tech ecosystem.
+
+## Updates
+
+- **2026-05-28** — The line between games and movies keeps getting blurrier ([source](https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games))

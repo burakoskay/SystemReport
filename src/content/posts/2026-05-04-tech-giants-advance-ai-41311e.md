@@ -1,18 +1,20 @@
 ---
 title: "Tech Giants Advance AI"
 date: 2026-05-04T14:13:25.050Z
+modified_date: 2026-05-28T20:30:35.471Z
 tags: ["AI","Tech Giants","Logistics","Device Development"]
 hero_image: "/hero/2026-05-04-tech-giants-advance-ai-41311e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI-powered tools"
 description: "DoorDash, Instagram, and Amazon introduce new AI-powered tools and services"
-sources_count: 9
-author: "david-okafor"
+sources_count: 10
 audio_path: "/audio/2026-05-04-tech-giants-advance-ai-41311e.mp3"
 audio_bytes: 602115
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to AI Advancements
 DoorDash has added new AI-powered tools to speed up merchant onboarding, edit photos of dishes, and create new websites from existing content. This move is part of a larger trend of tech giants incorporating AI into their services. Instagram is also testing optional 'AI creator' labels, encouraging accounts that frequently post Gen AI content to use the feature.
@@ -48,3 +50,7 @@ The incorporation of AI into various services and devices is also expected to ha
 The tech industry is a complex and ever-evolving landscape, with numerous companies competing for market share. The incorporation of AI into various services and devices is a key aspect of this competition, as companies seek to provide more personalized and efficient experiences for their customers. The use of AI-powered tools is expected to continue to drive innovation and growth in the industry, as companies seek to stay ahead of the curve and provide the best possible experiences for their customers.
 
 The broader industry context is also marked by significant advancements in AI and machine learning. The development of AI-powered tools has enabled companies to provide more personalized and efficient services, which has driven customer satisfaction and loyalty. As the industry continues to evolve, it is likely that AI will play an increasingly important role in shaping the future of tech.
+
+## Updates
+
+- **2026-05-28** — Just like gold and oil, we’ll soon be able to trade AI token futures ([source](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/))

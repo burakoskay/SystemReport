@@ -1,15 +1,17 @@
 ---
 title: "El Niño, 5G, and AI reshape the coming hurricane season"
 date: 2026-05-28T16:28:02.464Z
+modified_date: 2026-05-28T20:31:29.068Z
 tags: ["weather","ai","5g","forecasting"]
 hero_image: "/hero/2026-05-28-el-ni-o-5g-and-ai-reshape-the-coming-hurricane-season-e858b2.jpg"
 hero_image_credit_name: "Bl∡ke"
 hero_image_credit_url: "https://www.pexels.com/@giantasparagus"
 visual_keyword: "satellite sensor array against city skyline with 5G towers"
 description: "Forecasters warn a milder Atlantic season thanks to El Niño, but 5G threatens satellite data while Google rolls out AI‑driven WeatherNext 2."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## Hurricane outlook dampened by El Niño
 
@@ -40,3 +42,7 @@ A similar contraction appears in 72‑hour error metrics: the 1960s and 70s saw 
 ## What to watch
 
 The next few months will test whether the projected El Niño stays strong enough to keep the Atlantic quiet, and whether regulators curb 5G spectrum use near the 23.8 GHz band to protect satellite radiometers. At the same time, adoption metrics for WeatherNext 2—such as the volume of forecasts pulled from Earth Engine and the number of agencies joining the Vertex AI early‑access program—will indicate how quickly AI can become a core component of operational meteorology. Tracking these variables will reveal which of the three forces—climate patterns, wireless infrastructure, or artificial intelligence—will have the biggest impact on the next storm season.
+
+## Updates
+
+- **2026-05-28** — Apple releases first iOS 26.6 public beta, here’s what to expect ([source](https://9to5mac.com/2026/05/28/apple-releases-first-ios-26-6-public-beta-heres-what-to-expect/))

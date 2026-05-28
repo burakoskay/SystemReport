@@ -1,14 +1,16 @@
 ---
 title: "Musk Secures 50% Voting Power"
 date: 2026-05-21T23:07:35.498Z
+modified_date: 2026-05-28T20:30:58.425Z
 tags: ["SpaceX","Elon Musk","Orbital Data Centers"]
 hero_image: "/hero/2026-05-21-musk-secures-50-voting-power-76505a.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Elon Musk will hold over 50% voting power in SpaceX's IPO, while the company touts orbital data centers and faces political attacks and internal cash moves."
-sources_count: 6
+sources_count: 7
 ---
+
 
 
 ## Musk Secures Control Over SpaceX IPO
@@ -88,3 +90,7 @@ The use of orbital data centers could also have significant implications for the
 The regulatory environment will also play a critical role in the success of SpaceX's orbital data centers. The company will need to navigate a complex set of regulations and laws, including those related to space debris, data security, and intellectual property.
 
 Overall, the success of SpaceX's orbital data centers will depend on its ability to execute on its ambitious plans, while also navigating the complex regulatory environment. With its strong track record of innovation and execution, SpaceX is well-positioned to make a significant impact in the market.
+
+## Updates
+
+- **2026-05-28** — Claude’s new model is more ‘honest’ when it messes up ([source](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort))

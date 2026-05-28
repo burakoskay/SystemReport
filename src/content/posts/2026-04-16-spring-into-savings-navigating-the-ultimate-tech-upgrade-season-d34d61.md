@@ -1,16 +1,17 @@
 ---
 title: "Spring Into Savings: Navigating the Ultimate Tech Upgrade Season"
 date: 2026-04-16T05:27:43.047Z
-modified_date: 2026-05-21T20:00:15.372Z
+modified_date: 2026-05-28T20:30:50.837Z
 tags: ["tech deals","spring sales","consumer electronics","smart home","productivity"]
 hero_image: "/hero/2026-04-16-spring-into-savings-navigating-the-ultimate-tech-upgrade-season-d34d61.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "modern tech gadgets discount shopping"
 description: "As spring sales bloom, unprecedented discounts on flagship phones, powerful laptops, and smart home devices offer prime opportunities to upgrade your tech."
-sources_count: 31
+sources_count: 32
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Whether you're eyeing a powerful new laptop, a smart home upgrade, or simply bet
 
 ## Updates
 
+- **2026-05-28** — Microsoft 365 Copilot gets a speed boost and cleaner design ([source](https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign))
 - **2026-05-21** — Meta and Google get data from the app your boss uses to track you ([source](https://www.theverge.com/policy/935299/bossware-employer-surveillance))
 - **2026-05-19** — Google’s new Universal Cart wants to follow you across the entire internet ([source](https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/))
 - **2026-05-16** — How to remove your personal data from the internet (and why you can’t afford to wait) ([source](https://9to5mac.com/2026/05/16/how-to-remove-personal-data-from-internet/))

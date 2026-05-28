@@ -1,16 +1,17 @@
 ---
 title: "AUO Unveils 800Hz 24-Inch Monitor, Gaming Tech Shakes Up"
 date: 2026-05-05T17:53:04.695Z
-modified_date: 2026-05-07T21:08:27.664Z
+modified_date: 2026-05-28T20:31:17.625Z
 tags: ["auo","xbox","gaming-hardware"]
 hero_image: "/hero/2026-05-05-auo-unveils-800hz-24-inch-monitor-gaming-tech-shakes-up-38a325.jpg"
 hero_image_credit_name: "Lynde"
 hero_image_credit_url: "https://www.pexels.com/@lynde-2123295"
 visual_keyword: "800Hz gaming monitor with RGB lighting on desk"
 description: "AUO's 800Hz monitor, Microsoft-NVIDIA update woes, Xbox exec shakeup, and new games define tech's turbulent week."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 ## AUO Launches 800Hz Monitor in 24-Inch Form
@@ -43,4 +44,5 @@ AUO’s 800Hz monitor needs a 2027 launch date and real-world latency tests. Xbo
 
 ## Updates
 
+- **2026-05-28** — Spotify adds playlist folders, bulk editing and background downloads ([source](https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/))
 - **2026-05-07** — New Pride wallpapers, $599 Mac mini goes away, Apple earnings call tidbits ([source](https://9to5mac.com/2026/05/07/happy-hour-589/))

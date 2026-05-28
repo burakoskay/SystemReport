@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-05-26T21:49:36.157Z
+modified_date: 2026-05-28T20:30:43.209Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-05-28** — Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago ([source](https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/))
 - **2026-05-26** — DuckDuckGo sees iPhone installs spike in the US following AI announcements at Google I/O ([source](https://9to5mac.com/2026/05/26/duckduckgo-sees-iphone-installs-spike-in-the-us-following-ai-announcements-at-google-i-o/))
 - **2026-05-23** — Cosmic Voids May Contain the Universe’s Best Secrets ([source](https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/))

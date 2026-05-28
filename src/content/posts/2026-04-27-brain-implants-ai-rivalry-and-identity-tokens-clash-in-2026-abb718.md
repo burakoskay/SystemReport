@@ -1,16 +1,17 @@
 ---
 title: "Brain Implants, AI Rivalry, and Identity Tokens Clash in 2026"
 date: 2026-04-27T23:01:15.270Z
-modified_date: 2026-05-20T15:37:45.160Z
+modified_date: 2026-05-28T20:31:36.741Z
 tags: ["brain-computer interface","ai rivalry","digital identity"]
 hero_image: "/hero/2026-04-27-brain-implants-ai-rivalry-and-identity-tokens-clash-in-2026-abb718.jpg"
 hero_image_credit_name: "Vika Glitter"
 hero_image_credit_url: "https://www.pexels.com/@vika-glitter-392079"
 visual_keyword: "futuristic lab with brain implant device and glowing digital ID symbols"
 description: "Motif Neurotech's depression implant, Meta's aborted China acquisition, and US firms' support for World ID reveal a tech sector under geopolitical and ethical strain."
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -36,5 +37,6 @@ Regulators in Beijing and Washington will soon publish guidelines that could sha
 
 ## Updates
 
+- **2026-05-28** — EU fines Temu €200M for allowing sale of illegal products ([source](https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o))
 - **2026-05-20** — Hypershell X Ultra S Review: The Best Exoskeleton Yet ([source](https://www.wired.com/review/hypershell-x-ultra-s/))
 - **2026-05-09** — The 19 Most Exciting Cars at the Beijing Auto Show 2026 ([source](https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/))

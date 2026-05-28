@@ -1,16 +1,17 @@
 ---
 title: "Deezer battles AI music flood and a fraud epidemic"
 date: 2026-04-20T20:39:07.977Z
-modified_date: 2026-05-08T17:25:33.427Z
+modified_date: 2026-05-28T20:30:27.796Z
 tags: ["deezer","ai music","streaming fraud","music industry"]
 hero_image: "/hero/2026-04-20-deezer-battles-ai-music-flood-and-a-fraud-epidemic-df79a6.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI-generated music tracks flooding a streaming dashboard"
 description: "Deezer reports AI tracks now 44% of uploads, but most streams are fraudulent, exposing a $20bn market vulnerability."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Regulators in the EU and U.S. are drafting guidelines for AI‑generated content
 
 ## Updates
 
+- **2026-05-28** — Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook ([source](https://www.wired.com/story/meta-copies-snapchats-homework-again/))
 - **2026-05-08** — Apple Watch vs WHOOP: Here’s what I learned after 60 days wearing both [Video] ([source](https://9to5mac.com/2026/05/08/apple-watch-vs-whoop-heres-what-i-learned-after-60-days-wearing-both-video/))
 - **2026-05-05** — Meta sued by major book publishers over copyright infringement ([source](https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright))
 - **2026-05-03** — Southwest Headquarters Tour ([source](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html))

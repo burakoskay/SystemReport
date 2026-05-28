@@ -1,19 +1,20 @@
 ---
 title: "MIT paper retraction sparks AI research scrutiny"
 date: 2026-04-26T22:52:44.101Z
-modified_date: 2026-05-23T13:46:54.536Z
+modified_date: 2026-05-28T20:30:31.610Z
 tags: ["ai-ethics","computational-biology","research-integrity"]
 hero_image: "/hero/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "neural network model overlaid on dna helix structure in monochrome"
 description: "MIT withdraws controversial AI research paper, as scientists push Claude and SciCraft for discovery"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.mp3"
 audio_bytes: 612355
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Three key developments will shape the next phase of AI in scientific research. F
 
 ## Updates
 
+- **2026-05-28** — The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are ([source](https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/))
 - **2026-05-23** — Apple @ Work: Why the ClickFix campaign means it is time to kill the 90 day update deferral ([source](https://9to5mac.com/2026/05/23/apple-work-why-the-clickfix-campaign-means-it-is-time-to-kill-the-90-day-update-deferral/))
 - **2026-05-14** — PSA: A security breach means you must update the ChatGPT Mac app ([source](https://9to5mac.com/2026/05/14/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/))
 - **2026-05-06** — It’s time to let my iPhone Mini go ([source](https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass))
