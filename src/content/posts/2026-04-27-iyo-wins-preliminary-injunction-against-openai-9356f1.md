@@ -1,18 +1,19 @@
 ---
 title: "iyO Wins Preliminary Injunction Against OpenAI"
 date: 2026-04-27T03:34:11.877Z
-modified_date: 2026-05-08T21:07:46.675Z
+modified_date: 2026-05-28T10:12:41.995Z
 tags: ["OpenAI","iyO","trademark dispute","tech industry"]
 hero_image: "/hero/2026-04-27-iyo-wins-preliminary-injunction-against-openai-9356f1.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "branding"
 description: "Court grants iyO preliminary injunction against OpenAI's io branding"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-04-27-iyo-wins-preliminary-injunction-against-openai-9356f1.mp3"
 audio_bytes: 578291
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -42,4 +43,5 @@ The next step is the development of a new brand identity for OpenAI and Jony Ive
 
 ## Updates
 
+- **2026-05-28** — YouTube will let you ask AI to make a custom video feed ([source](https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability))
 - **2026-05-08** — Podman rootless containers and the Copy Fail exploit ([source](https://garrido.io/notes/podman-rootless-containers-copy-fail/))

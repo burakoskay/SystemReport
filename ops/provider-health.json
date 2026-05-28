@@ -1,35 +1,36 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-05-28T04:10:18.282Z",
-    "consecutive_failures": 0,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499954, Requested 2478. Please try again in 7m0.2496s. Need more tokens? Upgra",
-    "last_failure": "2026-05-27T23:29:10.235Z"
+    "last_success": "2026-05-28T10:22:03.632Z",
+    "consecutive_failures": 1,
+    "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"```\\n{\\n\\\"title\\\": \\\"Dipendente Google accusato di insider trading per 1 milione di dollari ",
+    "last_failure": "2026-05-28T10:24:29.234Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-05-28T04:07:31.008Z",
-    "consecutive_failures": 0,
-    "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"{\\n  \\\"title\\\": \\\"Labor Dept Orders Workers to Spy on DEI Critics\\\",\\n  \\\"description\\\": \\\"A",
-    "last_failure": "2026-05-27T10:11:57.305Z"
+    "last_success": "2026-05-28T10:21:48.702Z",
+    "consecutive_failures": 1,
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6561, Requested 2490. Please try again in 7.882499999s. Need more tokens? Upgrade to Dev Tier today",
+    "last_failure": "2026-05-28T10:21:48.765Z",
+    "cooldown_until": "2026-05-28T10:31:48.705Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-05-28T04:07:29.143Z",
+    "last_success": "2026-05-28T10:21:51.407Z",
     "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"max completion tokens reached before generating a valid document\"}}\n",
     "last_failure": "2026-05-26T18:44:08.407Z"
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99990, Requested 3117. Please try again in 44m44.448s. Need more tokens? Upgrade to Dev Tier tod",
-    "last_failure": "2026-05-28T04:04:37.858Z",
-    "last_success": "2026-05-28T04:04:29.149Z",
-    "cooldown_until": "2026-05-28T04:14:37.783Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99991, Requested 2972. Please try again in 42m40.032s. Need more tokens? Upgrade to Dev Tier tod",
+    "last_failure": "2026-05-28T10:15:56.038Z",
+    "last_success": "2026-05-28T10:15:47.952Z",
+    "cooldown_until": "2026-05-28T10:25:55.955Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 2,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (8e096b66-e8ec-400a-8fc8-42331be251b3)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-05-27T23:29:10.349Z",
+    "consecutive_failures": 3,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (5ee57901-e6b0-482a-91d1-acb9ccaa6f0e)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-05-28T10:24:29.283Z",
     "last_success": "2026-05-27T18:39:16.897Z",
-    "cooldown_until": "2026-05-27T23:39:10.172Z"
+    "cooldown_until": "2026-05-28T10:34:25.519Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -45,15 +46,15 @@
     "cooldown_until": "2026-05-31T19:31:06.532Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {
-    "consecutive_failures": 2,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (49efe680-c0ad-4f90-ad33-2ce3f0f74738)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-05-27T10:11:57.381Z",
+    "consecutive_failures": 3,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (ec1b23fb-e1f0-460b-9756-ad5f32110b32)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-05-28T10:21:48.873Z",
     "last_success": "2026-05-26T08:01:35.874Z",
-    "cooldown_until": "2026-05-27T10:21:54.297Z"
+    "cooldown_until": "2026-05-28T10:31:48.705Z"
   },
   "groq:openai/gpt-oss-20b": {
-    "last_success": "2026-05-26T18:44:32.005Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-05-28T10:21:52.842Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"max completion tokens reached before generating a valid document\"}}\n",
     "last_failure": "2026-05-26T18:47:31.241Z"
   },
