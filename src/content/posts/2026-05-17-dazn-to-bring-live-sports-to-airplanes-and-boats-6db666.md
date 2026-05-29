@@ -1,15 +1,17 @@
 ---
 title: "DAZN to Bring Live Sports to Airplanes and Boats"
 date: 2026-05-17T13:44:07.643Z
+modified_date: 2026-05-29T15:51:37.470Z
 tags: ["DAZN","Live Sports Streaming","In-Flight Entertainment"]
 hero_image: "/hero/2026-05-17-dazn-to-bring-live-sports-to-airplanes-and-boats-6db666.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "airplane"
 description: "DAZN plans to launch live sports streaming for travelers on airplanes and boats in 2027, addressing a pain point for sports fans."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Live Sports on the Go
@@ -63,3 +65,7 @@ The company will also need to ensure that its streaming service is compatible wi
 ## Conclusion
 
 DAZN's move into live sports streaming on airplanes and boats is a bold step that could change the sports broadcasting landscape. The company faces significant technical and rights-related challenges, but its focus on live sports and global reach could give it an edge in the market. As the company prepares to launch DAZN Inflight in 2027, sports fans and industry observers should watch for updates on DAZN's progress in securing rights and developing the necessary technology.
+
+## Updates
+
+- **2026-05-29** — Trump’s mass deportations are only possible with racial profiling ([source](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations))

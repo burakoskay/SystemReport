@@ -1,15 +1,16 @@
 ---
 title: "Google Photos Adds AI-Powered Wardrobe on Motorola Razr 2026"
 date: 2026-04-29T17:43:51.430Z
-modified_date: 2026-05-02T14:53:47.217Z
+modified_date: 2026-05-29T15:52:08.567Z
 tags: ["Google Photos","AI-Powered Wardrobe","Motorola Razr 2026","Fashion Industry"]
 hero_image: "/hero/2026-04-29-google-photos-adds-ai-powered-wardrobe-on-motorola-razr-2026-ebf67b.jpg"
 hero_image_credit_name: "Jonas Thomann"
 hero_image_credit_url: "https://www.pexels.com/@jonast"
 visual_keyword: "Google Photos Wardrobe"
 description: "Google Photos adds Wardrobe tool to digitize closets and suggest outfits"
-sources_count: 6
+sources_count: 7
 ---
+
 
 
 ## Introduction to Wardrobe
@@ -32,4 +33,5 @@ The launch of Wardrobe also has implications for the broader tech industry. For 
 
 ## Updates
 
+- **2026-05-29** — For all Mankind spinoff series Star City premieres on Apple TV ([source](https://9to5mac.com/2026/05/29/for-all-mankind-spinoff-series-star-city-premieres-on-apple-tv/))
 - **2026-05-02** — Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15 ([source](https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal))

@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-05-26T15:50:36.796Z
+modified_date: 2026-05-29T15:52:04.680Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-05-29** — Deals: M5 MacBook Air up to $270 off, iPad from $299, Apple Solo Loops from $9, Beats 240W cable, more ([source](https://9to5mac.com/2026/05/29/deals-m5-macbook-air-ipad-apple-solo-loop/))
 - **2026-05-26** — Deals: 24GB M5 MacBook Air up to $320 off, iPhone Air MagSafe Battery 40% off, M5 MacBook Pro $1,499, more ([source](https://9to5mac.com/2026/05/26/deals-m5-macbook-air-iphone-air-magsafe-battery/))
 - **2026-05-22** — Deals: AirPods Pro 3 Memorial Day deal back at $199, M5 MacBook Air Amazon low $199 off, iPad Air $400 off, Series 11, more ([source](https://9to5mac.com/2026/05/22/deals-airpods-pro-3-m5-macbook-air/))
 - **2026-05-20** — Deals: M3 iPad Air $400 off, 1TB M5 iPad Pro all-time low, 24GB M5 MacBook Pro $1,499, Apple Watch Ultra 3, more ([source](https://9to5mac.com/2026/05/20/deals-ipad-air-ipad-pro-macbook-pro-apple-watch-ultra-3/))

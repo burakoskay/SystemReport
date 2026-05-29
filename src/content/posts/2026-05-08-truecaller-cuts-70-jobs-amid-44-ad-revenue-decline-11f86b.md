@@ -1,14 +1,16 @@
 ---
 title: "Truecaller Cuts 70 Jobs Amid 44% Ad Revenue Decline"
 date: 2026-05-08T17:26:06.992Z
+modified_date: 2026-05-29T15:51:41.372Z
 tags: ["Truecaller","Ad Revenue","Layoffs"]
 hero_image: "/hero/2026-05-08-truecaller-cuts-70-jobs-amid-44-ad-revenue-decline-11f86b.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Job Cuts"
 description: "Truecaller lays off 70 employees due to ad revenue drop"
-sources_count: 1
+sources_count: 2
 ---
+
 
 ## Introduction to the Crisis
 Truecaller cut 70 jobs after its ad revenue declined by 44%. This significant decline has forced the company to reevaluate its workforce and make difficult decisions to ensure its future.
@@ -26,3 +28,7 @@ The decline in ad revenue and the resulting layoffs will have significant downst
 The decline in ad revenue is part of a larger trend in the tech industry. Many companies are experiencing a shift in the way that advertising revenue is generated, and are being forced to adapt to new market conditions. The rise of ad blockers, changing consumer behavior, and increased competition for advertising dollars have all contributed to a decline in ad revenue. Companies like Truecaller will need to be proactive in their efforts to navigate this new reality and find new ways to generate revenue.
 ## Regulatory Environment
 The regulatory environment is also playing a role in the decline of ad revenue. Governments around the world are implementing new regulations to protect consumer data and limit the use of targeted advertising. These regulations have significant implications for companies like Truecaller, which rely on targeted advertising to generate revenue. The company will need to navigate this new regulatory environment and find ways to comply with new regulations while still generating revenue.
+
+## Updates
+
+- **2026-05-29** — At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal ([source](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale))

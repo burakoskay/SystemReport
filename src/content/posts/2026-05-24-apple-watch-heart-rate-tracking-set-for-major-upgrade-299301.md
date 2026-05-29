@@ -1,14 +1,16 @@
 ---
 title: "Apple Watch Heart Rate Tracking Set for Major Upgrade"
 date: 2026-05-24T21:05:33.654Z
+modified_date: 2026-05-29T15:51:33.563Z
 tags: ["Apple Watch","health and fitness","wearable technology"]
 hero_image: "/hero/2026-05-24-apple-watch-heart-rate-tracking-set-for-major-upgrade-299301.jpg"
 hero_image_credit_name: "Deise Elen"
 hero_image_credit_url: "https://www.pexels.com/@deise-elen-2149983761"
 visual_keyword: "Apple Watch"
 description: "Apple's watchOS update to greatly improve heart-rate tracking; AI health coach delayed."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Apple Watch Heart Rate Tracking Upgraded
@@ -48,3 +50,7 @@ As AI and machine learning technologies continue to advance, they are likely to 
 ## Conclusion
 
 In conclusion, the upcoming watchOS 27 update is set to greatly improve heart rate tracking on the Apple Watch. While the delay in the AI health coach's launch may impact user expectations and Apple's position in the market, the company's focus on health and fitness is likely to continue. As the wearable technology market continues to evolve, Apple will need to balance user expectations with its own product roadmap and feature announcements.
+
+## Updates
+
+- **2026-05-29** — Today is the last day to apply to speak at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/))

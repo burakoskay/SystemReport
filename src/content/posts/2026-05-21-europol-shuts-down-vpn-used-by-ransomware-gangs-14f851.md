@@ -1,15 +1,17 @@
 ---
 title: "Europol shuts down VPN used by ransomware gangs"
 date: 2026-05-21T23:10:51.558Z
+modified_date: 2026-05-29T15:51:53.019Z
 tags: ["ransomware","vpn","europol","cybersecurity"]
 hero_image: "/hero/2026-05-21-europol-shuts-down-vpn-used-by-ransomware-gangs-14f851.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "dark server room with glowing network maps"
 description: "Europol dismantled a VPN service that promised complete anonymity and was leveraged by roughly two dozen ransomware groups."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 ## The operation
 
@@ -46,3 +48,7 @@ Europol’s success underscores that operational security extends beyond the VPN
 ## What to watch
 
 The next step will be the legal fallout. Europol is expected to hand over the identified user data to national prosecutors, potentially leading to arrests or asset seizures. Watch for indictments targeting the ransomware groups that relied on the service, and for any court filings that reveal the exact data Europol obtained. Additionally, monitor whether other privacy‑focused VPN providers adjust their logging policies or introduce stricter verification to deter law‑enforcement infiltration. The ripple effects will shape how ransomware gangs balance anonymity against operational convenience in the months ahead.
+
+## Updates
+
+- **2026-05-29** — Hundreds of prolific Wikipedia editors are threatening to go on strike ([source](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike))

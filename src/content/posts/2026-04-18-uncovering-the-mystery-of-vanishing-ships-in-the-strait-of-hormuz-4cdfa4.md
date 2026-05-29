@@ -1,16 +1,17 @@
 ---
 title: "Uncovering the Mystery of Vanishing Ships in the Strait of Hormuz"
 date: 2026-04-18T01:04:58.528Z
-modified_date: 2026-05-28T10:12:49.493Z
+modified_date: 2026-05-29T15:51:13.939Z
 tags: ["maritime","oil trading","geopolitics"]
 hero_image: "/hero/2026-04-18-uncovering-the-mystery-of-vanishing-ships-in-the-strait-of-hormuz-4cdfa4.jpg"
 hero_image_credit_name: "İrfan Simsar"
 hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"
 description: "Analysts track spoofed tankers in a critical waterway, uncovering a complex web of deception"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ The Strait of Hormuz, a vital waterway connecting the Persian Gulf to the Gulf o
 
 ## Updates
 
+- **2026-05-29** — The Vatican’s Man Inside Anthropic ([source](https://www.wired.com/story/the-vaticans-man-inside-anthropic/))
 - **2026-05-28** — How Are French Open Players Dealing With the Paris Heat Wave? ([source](https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/))
 - **2026-05-15** — Details of the Daring Airdrop at Tristan Da Cunha ([source](https://www.tristandc.com/government/news-2026-05-11-airdrop.php))
 - **2026-05-14** — The original versions of Metro 2033 and Metro: Last Light land on GOG ([source](https://www.engadget.com/2172946/original-versions-of-metro-2033-and-metro-last-light-land-on-gog/))

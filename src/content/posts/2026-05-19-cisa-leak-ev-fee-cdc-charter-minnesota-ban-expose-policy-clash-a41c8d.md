@@ -1,18 +1,20 @@
 ---
 title: "CISA leak, EV fee, CDC charter, Minnesota ban expose policy clash"
 date: 2026-05-19T21:28:37.070Z
+modified_date: 2026-05-29T15:51:45.241Z
 tags: ["cisa","ev","policy","prediction-markets"]
 hero_image: "/hero/2026-05-19-cisa-leak-ev-fee-cdc-charter-minnesota-ban-expose-policy-clash-a41c8d.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "collage of breached code repository, electric car charging station, CDC panel meeting, gavel"
 description: "Recent CISA credential exposure, a new EV road-use fee, a withdrawn CDC panel charter, and Minnesota's prediction market ban illustrate growing tech-policy tensions."
-sources_count: 10
-author: "lena-volkov"
+sources_count: 11
 audio_path: "/audio/2026-05-19-cisa-leak-ev-fee-cdc-charter-minnesota-ban-expose-policy-clash-a41c8d.mp3"
 audio_bytes: 626565
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 A public GitHub repository hosted secret CISA SSH keys and plaintext passwords for months. The breach shows how basic hygiene failures can endanger national‑level cyber defenses.
 
@@ -49,3 +51,7 @@ These four developments reveal a pattern of policy makers confronting emerging t
 Together, the incidents suggest that 2026 will be a testing ground for how quickly institutions can adapt to technical realities. Agencies may face tighter audits, legislators may draft more granular statutes, and courts may become battlegrounds for jurisdictional disputes. The trajectory points toward a more fragmented regulatory environment where each sector must negotiate its own compliance frontier.
 
 **What to watch** – Track the House Transportation Committee’s next hearing on the EV fee, the Senate’s vote on the bill, the CFTC’s progress in its lawsuit against Minnesota, and any follow‑up audits announced by CISA. Each decision will signal how regulators balance innovation, security, and public interest in the months ahead.
+
+## Updates
+
+- **2026-05-29** — What would you be willing to put in your body? ([source](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness))

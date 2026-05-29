@@ -1,16 +1,17 @@
 ---
 title: "LLMs Prefer Self-Generated Resumes"
 date: 2026-05-02T17:03:02.424Z
-modified_date: 2026-05-28T16:11:40.053Z
+modified_date: 2026-05-29T15:51:17.842Z
 tags: ["ai research","llm bias","pytorch","audio extraction","nih workshop"]
 hero_image: "/hero/2026-05-02-llms-prefer-self-generated-resumes-43755a.jpg"
 hero_image_credit_name: "SilvaNeto"
 hero_image_credit_url: "https://www.pexels.com/@silvanetomkt"
 visual_keyword: "close-up of a microphone with AI-generated soundwaves"
 description: "Large language models consistently rank their own resume outputs higher than human or competing AI work. What this reveals about AI evaluation."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The next six months will clarify whether LLM self-preference is a fundamental bi
 
 ## Updates
 
+- **2026-05-29** — 15 Best Wireless Chargers, All Tested and Reviewed (2026) ([source](https://www.wired.com/gallery/best-wireless-chargers/))
 - **2026-05-28** — Proton Mail aims to make it easier for you to transition away from Gmail and ditch Google ([source](https://www.engadget.com/2182918/proton-mail-aims-to-make-it-easier-for-you-to-transition-away-from-gmail-and-ditch-google/))
 - **2026-05-27** — Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts ([source](https://www.wired.com/story/lovehoney-discount-code/))
 - **2026-05-22** — The best Memorial Day sales you can shop this weekend ([source](https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026))
