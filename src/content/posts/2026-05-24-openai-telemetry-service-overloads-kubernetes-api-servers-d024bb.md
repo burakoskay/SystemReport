@@ -1,17 +1,19 @@
 ---
 title: "OpenAI Telemetry Service Overloads Kubernetes API Servers"
 date: 2026-05-24T15:10:45.641Z
+modified_date: 2026-05-29T10:02:06.677Z
 tags: ["OpenAI","Kubernetes","Telemetry","Outage"]
 hero_image: "/hero/2026-05-24-openai-telemetry-service-overloads-kubernetes-api-servers-d024bb.jpg"
 hero_image_credit_name: "Anna Hinckel"
 hero_image_credit_url: "https://www.pexels.com/@anna-hinckel-3008225"
 visual_keyword: "Kubernetes"
 description: "OpenAI's new telemetry service caused a Kubernetes control plane outage on Dec 11, 2024, due to excessive API calls from thousands of nodes."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-24-openai-telemetry-service-overloads-kubernetes-api-servers-d024bb.mp3"
 audio_bytes: 641612
 audio_mime: "audio/mpeg"
 ---
+
 
 
 OpenAI deployed a telemetry service at 3:12 PM PST on Dec 11, 2024. The rollout overloaded Kubernetes API servers in large clusters, collapsing DNS service discovery.
@@ -75,3 +77,6 @@ In conclusion, the OpenAI incident serves as a valuable reminder of the importan
 
 The OpenAI incident also highlights the need for greater collaboration and knowledge-sharing within the industry. By working together and sharing best practices, companies can develop more effective strategies for preventing outages and ensuring system reliability.
 
+## Updates
+
+- **2026-05-29** — The Best Espresso Accessories for Home Baristas (2026) ([source](https://www.wired.com/story/best-espresso-accessories-for-home-baristas/))

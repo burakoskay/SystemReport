@@ -1,14 +1,16 @@
 ---
 title: "Patina Raises $2M to Shake Up Fragrance"
 date: 2026-05-22T04:13:32.058Z
+modified_date: 2026-05-29T10:02:02.804Z
 tags: ["fragrance tech","patina","betaworks"]
 hero_image: "/hero/2026-05-22-patina-raises-2m-to-shake-up-fragrance-f75b3a.jpg"
 hero_image_credit_name: "Sara Ertem"
 hero_image_credit_url: "https://www.pexels.com/@sara-ertem-734725946"
 visual_keyword: "fragrance"
 description: "Patina, a fragrance tech startup, secures $2 million from Betaworks and True Ventures."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Patina Secures $2 Million in Funding
@@ -55,3 +57,6 @@ As Patina moves forward with its plans, the industry will be watching closely. W
 
 The company's future plans and progress will be closely watched by investors, industry experts, and competitors. One thing is certain: Patina's $2 million raise is a significant step towards making that happen.
 
+## Updates
+
+- **2026-05-29** — Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor ([source](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays))
