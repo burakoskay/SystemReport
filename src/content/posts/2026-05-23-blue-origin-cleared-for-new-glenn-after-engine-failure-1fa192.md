@@ -1,14 +1,16 @@
 ---
 title: "Blue Origin cleared for New Glenn after engine failure"
 date: 2026-05-23T03:44:38.130Z
+modified_date: 2026-05-29T18:38:05.241Z
 tags: ["Blue Origin","New Glenn","FAA"]
 hero_image: "/hero/2026-05-23-blue-origin-cleared-for-new-glenn-after-engine-failure-1fa192.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "New Glenn rocket"
 description: "FAA approves New Glenn's return after April engine failure knocked AST SpaceMobile satellite out of orbit."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Engine failure and immediate fallout
@@ -69,3 +71,6 @@ The FAA's clearance of New Glenn for flight is a significant step forward for Bl
 
 The growth of the satellite launch market presents significant opportunities for Blue Origin and other players. The company must now capitalize on these opportunities and demonstrate its capabilities to customers.
 
+## Updates
+
+- **2026-05-29** — Galaxy Z Fold 8 series may ‘significantly’ improve the display crease ([source](https://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/))

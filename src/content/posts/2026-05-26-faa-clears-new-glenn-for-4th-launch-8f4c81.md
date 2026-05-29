@@ -1,18 +1,20 @@
 ---
 title: "FAA Clears New Glenn for 4th Launch"
 date: 2026-05-26T15:55:50.535Z
+modified_date: 2026-05-29T18:38:21.064Z
 tags: ["space","debris","launch","satellite-internet"]
 hero_image: "/hero/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "blue origin new glenn rocket on launch pad with satellite internet beams"
 description: "Blue Origin's New Glenn gets FAA clearance for its fourth flight as debris concerns grow and satellite internet readies to power more inflight Wi‑Fi by 2027."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.mp3"
 audio_bytes: 598980
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## FAA clears New Glenn for fourth launch
 Blue Origin announced that the Federal Aviation Administration has signed off on the next New Glenn mission. The agency’s clearance follows a months‑long investigation into the rocket’s previous flight anomalies. The regulator’s sign‑off means the company can start assembling the vehicle for a launch that will mark the fourth time New Glenn lifts off from Florida.
@@ -44,3 +46,7 @@ Stakeholders are already negotiating solutions. Some launch firms are testing �
 
 ## What to watch next
 Watch for the FAA’s next set of rules on upper‑stage disposal, which could redefine how New Glenn and its competitors certify future flights. Track the first commercial satellite‑based inflight Wi‑Fi service that launches in 2027, as its performance will set expectations for the broader aviation market. Finally, monitor the debris‑tracking community for any new collision alerts involving spent upper stages, because a single event could trigger policy changes that affect every launch provider.
+
+## Updates
+
+- **2026-05-29** — Microsoft teases new Surface hardware and ‘a new era of PC’ ([source](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors))

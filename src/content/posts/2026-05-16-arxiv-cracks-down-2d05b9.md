@@ -1,18 +1,20 @@
 ---
 title: "ArXiv Cracks Down"
 date: 2026-05-16T19:12:42.920Z
+modified_date: 2026-05-29T18:38:01.314Z
 tags: ["ArXiv","AI-Generated Research","Academic Integrity"]
 hero_image: "/hero/2026-05-16-arxiv-cracks-down-2d05b9.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "ArXiv"
 description: "ArXiv bans authors for AI-generated papers, a move to maintain research integrity"
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-16-arxiv-cracks-down-2d05b9.mp3"
 audio_bytes: 597308
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to ArXiv's New Policy
 ArXiv is taking a significant step to crack down on the misuse of large language models in scientific papers. The research repository will ban authors for a year if they let AI do all the work. This decision reflects a growing concern about the authenticity of research submissions.
@@ -51,3 +53,7 @@ As the use of AI in research continues to evolve, it is likely that we will see 
 
 ## What to Watch
 In the coming months, it will be interesting to see how ArXiv's new policy is implemented and how it affects the research community. Will other platforms and institutions follow suit, or will they take a different approach to addressing the issue of AI-generated research? As the use of AI in research continues to evolve, it is essential to monitor developments in this area and to consider the implications for academic integrity and the validity of research findings.
+
+## Updates
+
+- **2026-05-29** — Startup offers free home cleaning—if it can record it all for robot training ([source](https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/))

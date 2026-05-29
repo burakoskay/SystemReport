@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-05-18T18:04:40.468Z
+modified_date: 2026-05-29T18:38:24.999Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-05-29** — ChatGPT for iOS and Android can now start Codex work on Windows ([source](https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/))
 - **2026-05-18** — Sony raises PS Plus prices for one- and three-month subscriptions ([source](https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/))
 - **2026-05-16** — How to Control Everything on Your Phone With Your Voice (iOS and Android) ([source](https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/))
 - **2026-05-12** — Android 17 includes better iOS file sharing and a forced break for addictive apps ([source](https://www.engadget.com/2170845/android-17-includes-better-ios-file-sharing-and-a-forced-break-for-addictive-apps/))

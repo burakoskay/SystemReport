@@ -1,16 +1,17 @@
 ---
 title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
-modified_date: 2026-05-28T20:30:47.025Z
+modified_date: 2026-05-29T18:37:49.424Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
-sources_count: 13
+sources_count: 14
 author: "lena-volkov"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The next step in this debate is likely to be a renewed focus on reforming survei
 
 ## Updates
 
+- **2026-05-29** — What happens when companies become too AI-pilled? ([source](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/))
 - **2026-05-28** — Nintendo&#8217;s newest WarioWare is a weirdo smartphone app ([source](https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game))
 - **2026-05-09** — Workers for Xbox studio Double Fine are forming a union ([source](https://www.engadget.com/2168430/xbox-studio-double-fine-union/))
 - **2026-05-04** — GameStop offers $56 billion for eBay, struggles to explain how it'll pay for it ([source](https://arstechnica.com/tech-policy/2026/05/gamestop-offers-56-billion-for-ebay-struggles-to-explain-how-itll-pay-for-it/))
