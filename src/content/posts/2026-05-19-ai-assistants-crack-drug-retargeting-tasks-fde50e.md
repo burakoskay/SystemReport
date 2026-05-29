@@ -1,19 +1,20 @@
 ---
 title: "AI assistants crack drug-retargeting tasks"
 date: 2026-05-19T21:29:57.311Z
-modified_date: 2026-05-22T16:29:35.946Z
+modified_date: 2026-05-29T23:18:32.222Z
 tags: ["ai","space","governance"]
 hero_image: "/hero/2026-05-19-ai-assistants-crack-drug-retargeting-tasks-fde50e.jpg"
 hero_image_credit_name: "Axel Bonniot"
 hero_image_credit_url: "https://www.pexels.com/@axelbonniot"
 visual_keyword: "satellite constellation against a dark city skyline with a stylized villain silhouette"
 description: "Two AI science assistants proved drug‑retargeting chops, NASA pushes mass‑produced satellites, and Musk‑Altman tensions highlight governance stakes."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-19-ai-assistants-crack-drug-retargeting-tasks-fde50e.mp3"
 audio_bytes: 586232
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AI assistants crack drug‑retargeting
@@ -54,4 +55,5 @@ Track NASA's procurement announcements for a batch order of standardized satelli
 
 ## Updates
 
+- **2026-05-29** — Apple spotlights Detroit app makers as local Developer Academy marks fifth graduating class ([source](https://9to5mac.com/2026/05/29/apple-spotlights-detroit-app-makers-as-local-developer-academy-marks-fifth-graduating-class/))
 - **2026-05-22** — Tesla recalls thousands of Model Ys at risk of&#8230; missing a sticker ([source](https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall))

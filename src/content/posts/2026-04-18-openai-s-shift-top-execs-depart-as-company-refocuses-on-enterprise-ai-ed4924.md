@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Shift: Top Execs Depart as Company Refocuses on Enterprise AI"
 date: 2026-04-18T01:04:41.771Z
-modified_date: 2026-05-12T23:06:07.997Z
+modified_date: 2026-05-29T23:18:23.020Z
 tags: ["ai","openai","enterprise"]
 hero_image: "/hero/2026-04-18-openai-s-shift-top-execs-depart-as-company-refocuses-on-enterprise-ai-ed4924.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"
 description: "OpenAI's pivot towards enterprise AI leads to key departures"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -20,6 +21,7 @@ OpenAI, the company behind the revolutionary ChatGPT, is undergoing a significan
 
 ## Updates
 
+- **2026-05-29** — Coders are refusing to work without AI — and that could come back to bite them ([source](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/))
 - **2026-05-12** — The Unitree GD01 Is a Giant Mecha Robot You Can Actually Buy ([source](https://www.wired.com/story/unitree-gd01-mecha-robot/))
 - **2026-04-25** — OpenAI's Sam Altman apologizes for not reporting ChatGPT account of Tumbler Ridge suspect to police ([source](https://www.engadget.com/ai/openais-sam-altman-apologizes-for-not-reporting-chatgpt-account-of-tumbler-ridge-suspect-to-police-221400813.html?src=rss))
 - **2026-04-24** — Watch Apple reveal how it made the delightful MacBook Neo intro video ([source](https://9to5mac.com/2026/04/24/apple-reveals-how-it-made-the-delightful-macbook-neo-introduction-video/))

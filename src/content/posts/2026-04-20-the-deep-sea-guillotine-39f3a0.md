@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-05-26T18:32:10.485Z
+modified_date: 2026-05-29T23:18:29.152Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 33
+sources_count: 34
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -103,6 +104,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-05-29** — Rothko for your current weather conditions ([source](https://rothko.joonas.wtf/))
 - **2026-05-26** — Apple releases macOS 26.6 developer beta 1 ([source](https://9to5mac.com/2026/05/26/apple-releases-macos-26-6-developer-beta-1/))
 - **2026-05-22** — The Trump phone is not here ([source](https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped))
 - **2026-05-14** — The AI Zombification of Universities ([source](https://www.thenewcritic.com/p/the-great-zombification))
