@@ -1,14 +1,16 @@
 ---
 title: "TechCrunch Disrupt 2026: 50% Off Second Pass Ends Today"
 date: 2026-05-08T17:28:57.494Z
+modified_date: 2026-05-29T04:03:54.691Z
 tags: ["TechCrunch Disrupt","Tech Conference","Event Discount"]
 hero_image: "/hero/2026-05-08-techcrunch-disrupt-2026-50-off-second-pass-ends-today-8213b9.jpg"
 hero_image_credit_name: "Thilina Alagiyawanna"
 hero_image_credit_url: "https://www.pexels.com/@thilina-alagiyawanna-3266092"
 visual_keyword: "TechCrunch Disrupt 2026"
 description: "Today's the last day to buy a second pass to TechCrunch Disrupt 2026 at 50% off."
-sources_count: 1
+sources_count: 2
 ---
+
 
 TechCrunch Disrupt 2026's second pass offer ends today. Buy one pass and get a second one at 50% off. This limited-time discount allows you to bring a partner, co-founder, or colleague at half off, making it an attractive option for those looking to attend the event with a team. The offer has generated significant interest among entrepreneurs, investors, and innovators looking to connect with like-minded individuals.
 
@@ -35,3 +37,7 @@ Behind the scenes, the organizers of TechCrunch Disrupt are working hard to ensu
 
 ## Conclusion and Call to Action
 In conclusion, today's the last day to take advantage of the 50% off second pass offer for TechCrunch Disrupt 2026. Interested parties should act quickly to secure their spot and bring a partner, co-founder, or colleague at half off. With a packed agenda and valuable networking opportunities, TechCrunch Disrupt 2026 promises to be a must-attend event for those in the tech industry.
+
+## Updates
+
+- **2026-05-29** — Peak Design’s small Travel Backpack is the exact tech bag I’ve been looking for ([source](https://9to5google.com/2026/05/28/peak-designs-small-travel-backpack-is-the-exact-tech-bag-ive-been-looking-for/))
