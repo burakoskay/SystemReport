@@ -1,16 +1,17 @@
 ---
 title: "The Lonely Runner Problem"
 date: 2026-04-18T12:46:00.914Z
-modified_date: 2026-05-14T14:25:50.777Z
+modified_date: 2026-05-29T21:55:22.932Z
 tags: ["mathematics","lonely runner problem","number theory"]
 hero_image: "/hero/2026-04-18-the-lonely-runner-problem-9da208.jpg"
 hero_image_credit_name: "Deepak Gautam"
 hero_image_credit_url: "https://www.pexels.com/@kuchbhigautam"
 visual_keyword: "mathematical track"
 description: "Mathematicians struggle to solve the 'lonely runner' problem, a decades-old question about runners circling a track at unique paces."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ The problem touches on concepts in number theory, algebra, and geometry.
 
 ## Updates
 
+- **2026-05-29** — CNN is the latest media company to sue Perplexity ([source](https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/))
 - **2026-05-14** — Dell and RAMageddon are watering down the Alienware brand ([source](https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding))
 - **2026-05-06** — The Pixel Watch 4’s handy USB-C charger is back in stock, but the price went up [U] ([source](https://9to5google.com/2026/05/06/the-pixel-watch-4s-handy-usb-c-charger-is-back-in-stock/))
 - **2026-04-28** — The UK’s Answer to Darpa Wants to Rewire the Human Brain ([source](https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/))

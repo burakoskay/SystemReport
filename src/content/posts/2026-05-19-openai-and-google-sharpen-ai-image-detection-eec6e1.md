@@ -1,15 +1,16 @@
 ---
 title: "OpenAI and Google sharpen AI image detection"
 date: 2026-05-19T18:17:05.336Z
-modified_date: 2026-05-20T23:24:19.313Z
+modified_date: 2026-05-29T21:55:14.844Z
 tags: ["AI","Image Detection","OpenAI","Google","C2PA","SynthID"]
 hero_image: "/hero/2026-05-19-openai-and-google-sharpen-ai-image-detection-eec6e1.jpg"
 hero_image_credit_name: "Atypeek Dgn"
 hero_image_credit_url: "https://www.pexels.com/@atypeek"
 visual_keyword: "AI image detection"
 description: "OpenAI joins C2PA and adds SynthID, while Google expands its Circle to Search detector"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 OpenAI announced two new measures to help detect AI-generated imagery: joining the open C2PA standard and adding Google's SynthID to its products. This sharpened toolset aims to verify image provenance and signals a shift toward embedded detection.
@@ -38,4 +39,5 @@ What to watch: Google has hinted at expanding Circle to Search into its advertis
 
 ## Updates
 
+- **2026-05-29** — Disney’s ‘Project Gemini’ isn’t AI, but reportedly the death of the Hulu app ([source](https://9to5google.com/2026/05/29/disney-hulu-app-report/))
 - **2026-05-20** — xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over ([source](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/))

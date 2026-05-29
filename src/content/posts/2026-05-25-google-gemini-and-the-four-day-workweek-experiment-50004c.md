@@ -1,14 +1,16 @@
 ---
 title: "Google Gemini and the Four-Day Workweek Experiment"
 date: 2026-05-25T04:15:02.705Z
+modified_date: 2026-05-29T21:55:02.549Z
 tags: ["Google Gemini","Four-Day Workweek","AI Applications"]
 hero_image: "/hero/2026-05-25-google-gemini-and-the-four-day-workweek-experiment-50004c.jpg"
 hero_image_credit_name: "Faizi Ali"
 hero_image_credit_url: "https://www.pexels.com/@faizialiphotography"
 visual_keyword: "Gemini"
 description: "Google's Gemini AI and Australia's 100:80:100 workweek"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Introduction to Gemini and the Four-Day Workweek
 Google's Gemini AI focuses on practical applications, such as natural language processing and computer vision. Meanwhile, Australia's 100:80:100 experiment shows mixed results, with some companies reporting challenges and no clear consensus on universal productivity gains. The 100:80:100 model involves employees working 100% of their regular hours condensed into four days, for 80% of their regular pay, and maintaining 100% productivity.
@@ -26,3 +28,7 @@ The adoption of a four-day workweek and the integration of AI in the workforce w
 The four-day workweek experiment in Australia and the development of practical AI applications like Gemini are not isolated events. They are part of a larger trend towards rethinking work, productivity, and technology. Other companies, such as Microsoft and Amazon, are also exploring the potential of AI and condensed workweeks. The success of these experiments will depend on the ability of companies to adapt and innovate in response to changing circumstances. The integration of AI in the workforce will require companies to reevaluate their business models, strategies, and regulatory frameworks to ensure that they are aligned with the changing landscape.
 ## History of Condensed Workweeks
 The concept of a condensed workweek is not new. In the past, companies have experimented with various forms of compressed work schedules, including four-day workweeks and flexible work arrangements. However, the current experiment in Australia is notable for its focus on maintaining productivity and its use of a 100:80:100 model. The success of this experiment will depend on the ability of companies to adapt and innovate in response to changing circumstances. The integration of AI in the workforce will require companies to reevaluate their business models, strategies, and regulatory frameworks to ensure that they are aligned with the changing landscape.
+
+## Updates
+
+- **2026-05-29** — Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend ([source](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/))
