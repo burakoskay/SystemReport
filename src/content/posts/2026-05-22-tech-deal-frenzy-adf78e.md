@@ -1,18 +1,20 @@
 ---
 title: "Tech Deal Frenzy"
 date: 2026-05-22T19:55:27.371Z
+modified_date: 2026-05-30T19:24:18.597Z
 tags: ["tech deals","apple","uk tech prosperity deal","bubble concerns"]
 hero_image: "/hero/2026-05-22-tech-deal-frenzy-adf78e.jpg"
 hero_image_credit_name: "Donald Tong"
 hero_image_credit_url: "https://www.pexels.com/@donaldtong94"
 visual_keyword: "smartwatch technology"
 description: "A surge in tech deals sparks concerns of a bubble, while Apple explores advanced smartwatch technology and the UK's tech prosperity deal with the US is put on ice."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-22-tech-deal-frenzy-adf78e.mp3"
 audio_bytes: 561364
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Tech Deal Frenzy
@@ -59,3 +61,7 @@ The regulatory or market implications of the tech deal frenzy are significant, w
 
 ## What's Next
 As the tech deal frenzy continues, there are several key developments to watch. The UK's tech prosperity deal with the US is still on the table, although its fate remains uncertain. Apple's exploration of advanced smartwatch technology could be a game-changer for the wearables market. Meanwhile, the concerns of a bubble will continue to loom over the tech industry, with many experts warning that the market is due for a correction. One key decision to track is the outcome of the UK's trade negotiations with the US, which could have a significant impact on the tech industry. The specific data point to track is the announcement of the UK's trade agreement with the US, which is expected to be made in the coming months.
+
+## Updates
+
+- **2026-05-30** — What to read this weekend: The Dorians and Red Roots ([source](https://www.engadget.com/2184277/what-to-read-this-weekend-the-dorians-nick-cutter-red-roots-image-comics/))
