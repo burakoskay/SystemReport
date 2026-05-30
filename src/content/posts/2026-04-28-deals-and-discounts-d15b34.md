@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-05-26T15:49:52.074Z
+modified_date: 2026-05-30T13:49:10.126Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 20
+sources_count: 21
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-05-30** — Mina the Hollower, a Sims alternative and other new indie games worth checking out ([source](https://www.engadget.com/2183989/mina-the-hollower-a-sims-alternative-and-other-new-indie-games-worth-checking-out/))
 - **2026-05-26** — Saving for a Switch 2 is easier with Newegg’s gift card deal ([source](https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale))
 - **2026-05-21** — Sam's Club Coupons and Promo May 2026 ([source](https://www.wired.com/story/sams-club-coupon/))
 - **2026-05-11** — OpenADR and Matter are collaborating to let your smart home talk to the grid ([source](https://www.engadget.com/2169973/openadr-and-matter-are-collaborating-to-let-your-smart-home-talk-to-the-grid/))

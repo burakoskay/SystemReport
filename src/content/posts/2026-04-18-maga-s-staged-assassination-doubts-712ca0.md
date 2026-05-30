@@ -1,16 +1,17 @@
 ---
 title: "MAGA's Staged Assassination Doubts"
 date: 2026-04-18T12:46:10.297Z
-modified_date: 2026-05-28T23:22:28.194Z
+modified_date: 2026-05-30T13:49:02.191Z
 tags: ["MAGA","Trump","conspiracy theories","assassination attempt"]
 hero_image: "/hero/2026-04-18-maga-s-staged-assassination-doubts-712ca0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Trump"
 description: "MAGA supporters increasingly believe the Trump assassination attempt was staged, fueling internal divisions."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ The divisions within MAGA have significant implications for Trump's base and the
 
 ## Updates
 
+- **2026-05-30** — ‘Backrooms’ Takes You Deeper Inside the Internet’s Most Uncanny Horror Myth ([source](https://www.wired.com/story/backrooms-movie-kane-parsons-interview/))
 - **2026-05-28** — How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline ([source](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/))
 - **2026-04-30** — Instagram says it doesn’t want your tweet round ups ([source](https://www.theverge.com/news/920999/instagram-says-it-doesnt-want-your-tweet-round-ups))
 - **2026-04-21** — PlayStation&#8217;s age-gating restrictions are coming to UK consoles ([source](https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat))

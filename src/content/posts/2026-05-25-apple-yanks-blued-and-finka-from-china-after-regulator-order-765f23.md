@@ -1,18 +1,20 @@
 ---
 title: "Apple yanks Blued and Finka from China after regulator order"
 date: 2026-05-25T19:49:56.519Z
+modified_date: 2026-05-30T13:48:54.153Z
 tags: ["apple","blued","china"]
 hero_image: "/hero/2026-05-25-apple-yanks-blued-and-finka-from-china-after-regulator-order-765f23.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "Apple storefront with Chinese regulatory symbols, muted colors"
 description: "Apple removed China’s two biggest gay dating apps following a Cyberspace Administration directive, spotlighting tightening LGBTQ controls and the apps’ health‑care pivot."
-sources_count: 7
-author: "lena-volkov"
+sources_count: 8
 audio_path: "/audio/2026-05-25-apple-yanks-blued-and-finka-from-china-after-regulator-order-765f23.mp3"
 audio_bytes: 577664
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple complies with Chinese regulator, removes Blued and Finka
 Apple pulled Blued and Finka from the Chinese iOS storefront on Tuesday after receiving a direct order from the Cyberspace Administration of China (CAC). The removal affects only the China store; the apps remain available in other regions where they have already been withdrawn.
@@ -40,3 +42,7 @@ Meanwhile, international LGBTQ apps continue to be blocked in China. Grindr’s 
 
 ## What to watch
 The CAC has not indicated whether the removal of Blued and Finka is permanent. Past cases show that apps can return after submitting revised content or restructuring their services. Observers should track any new version releases, especially a potential “lite” Blued update, and monitor Apple’s compliance statements for hints of policy shifts. A formal appeal from BlueCity or Newborn Town could trigger a renegotiation, but the regulator’s recent emphasis on ideological conformity makes a swift reinstatement unlikely. The next data point to watch is the CAC’s upcoming quarterly guidance on “online content that affects public morality,” which may set the parameters for future LGBTQ‑focused services in China.
+
+## Updates
+
+- **2026-05-30** — As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026 ([source](https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/))

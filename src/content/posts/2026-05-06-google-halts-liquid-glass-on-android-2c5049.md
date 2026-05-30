@@ -1,15 +1,17 @@
 ---
 title: "Google Halts Liquid Glass on Android"
 date: 2026-05-06T21:34:28.920Z
+modified_date: 2026-05-30T13:49:21.984Z
 tags: ["android","apple","liquid-glass","google","redesign"]
 hero_image: "/hero/2026-05-06-google-halts-liquid-glass-on-android-2c5049.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Pixel 8 Pro smartphone on a desk with Android 14 UI elements displayed on screen"
 description: "Google's Android President confirms Liquid Glass won't arrive on Pixels, Apple's divisive design remains iOS-exclusive."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 ## Android Rejects Liquid Glass, Preserving Platform Identity
 
@@ -38,3 +40,7 @@ This isn’t the first time Android has diverged from Apple’s lead. When Apple
 ## What to Watch Next
 
 Google’s next major Android update is scheduled for Q4 2024, with a focus on AI-powered context-aware UI elements rather than visual redesigns. Meanwhile, Apple’s tvOS 26 and iPadOS 26.5 will introduce new customization options that could indirectly influence mobile design trends. For now, Android users can expect incremental updates—like the recent five new tvOS settings—rather than radical overhauls. The most significant near-term changes will likely come from Android’s enterprise partnerships, as companies like Samsung and OnePlus continue to differentiate their hardware and software ecosystems.
+
+## Updates
+
+- **2026-05-30** — Apple @ Work: How Apple Business solved the shadow IT problem of Apple Maps Connect ([source](https://9to5mac.com/2026/05/30/how-apple-business-solved-the-shadow-it-problem-of-apple-maps-connect/))

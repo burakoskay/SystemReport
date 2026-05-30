@@ -1,16 +1,17 @@
 ---
 title: "Saudi Leisure Boom, DIY RF Labs, and a Grindr White House Bash"
 date: 2026-04-30T10:25:35.873Z
-modified_date: 2026-05-08T19:30:13.214Z
+modified_date: 2026-05-30T13:49:29.900Z
 tags: ["saudi arabia","entertainment","rf","grindr","tech"]
 hero_image: "/hero/2026-04-30-saudi-leisure-boom-diy-rf-labs-and-a-grindr-white-house-bash-15245b.jpg"
 hero_image_credit_name: "Paolo Motti"
 hero_image_credit_url: "https://www.pexels.com/@paolo-motti-410165760"
 visual_keyword: "futuristic amusement park with neon rides and a sleek RF lab"
 description: "Saudi Arabia’s $5.36 B entertainment market, a hobbyist RF showcase, and Grindr’s high‑profile party illustrate shifting tech‑driven leisure."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ The Saudi entertainment sector will release its first quarterly performance data
 
 ## Updates
 
+- **2026-05-30** — Sometimes, a short game hits the spot ([source](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc))
 - **2026-05-08** — Friday’s best Android app deals and freebies: Seoul Exorcist, WindWings, Farm Invasion, more ([source](https://9to5toys.com/2026/05/08/fridays-best-android-app-deals-free-seoul-exorcist/))
 - **2026-05-04** — Deals: Entry M5 MacBook Air all-time low, AirPods Max 2, M3 iPad Air $300 off, Magic Mouse Amazon low, more ([source](https://9to5mac.com/2026/05/04/deals-entry-m5-macbook-air-airpods-max-2-magic-mouse/))

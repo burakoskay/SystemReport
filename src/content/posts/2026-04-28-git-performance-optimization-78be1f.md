@@ -1,14 +1,16 @@
 ---
 title: "Git Performance Optimization"
 date: 2026-04-28T10:21:18.268Z
+modified_date: 2026-05-30T13:49:18.053Z
 tags: ["Git","Performance Optimization","Security"]
 hero_image: "/hero/2026-04-28-git-performance-optimization-78be1f.jpg"
 hero_image_credit_name: "Myburgh Roux"
 hero_image_credit_url: "https://www.pexels.com/@myburgh"
 visual_keyword: "Git Performance"
 description: "GTFOBins and High Performance Git discussions"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Introduction to Git Optimization
 GTFOBins, a website listing Linux binaries, and High Performance Git, a tool for optimizing Git, sparked discussions on Hacker News. GTFOBins focuses on binary exploitation, while High Performance Git provides benchmark data and performance analysis for Git.
@@ -36,3 +38,7 @@ A comparison of the two tools reveals that High Performance Git focuses on optim
 
 ## Community Engagement
 The community engagement around High Performance Git and GTFOBins is a clear indication of the industry's interest in optimizing Git performance. The discussions on Hacker News highlight the importance of these tools and the need for further development and improvement. As the community continues to engage with these tools, we can expect to see new features and updates that will further improve the performance and security of software projects.
+
+## Updates
+
+- **2026-05-30** — Pixel Watch fixes ‘Find My Phone’ app crash, ECG app still broken [Video] ([source](https://9to5google.com/2026/05/30/google-pixel-watch-find-my-phone-ecg-app-issues/))

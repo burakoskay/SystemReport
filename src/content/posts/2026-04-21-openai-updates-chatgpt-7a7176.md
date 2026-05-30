@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Updates ChatGPT"
 date: 2026-04-21T22:42:56.333Z
-modified_date: 2026-05-12T10:37:19.879Z
+modified_date: 2026-05-30T13:49:06.155Z
 tags: ["openai","chatgpt","ai"]
 hero_image: "/hero/2026-04-21-openai-updates-chatgpt-7a7176.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "AI chatbot"
 description: "OpenAI releases ChatGPT Images 2.0 model and updates Mac apps due to security issue, while investigating mental health concerns"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ What to watch in the coming weeks: OpenAI's continued updates and improvements t
 
 ## Updates
 
+- **2026-05-30** — Backrooms is a reminder that the internet is the future of cinema ([source](https://www.engadget.com/2183952/backrooms-is-a-reminder-that-the-internet-is-the-future-of-cinema/))
 - **2026-05-12** — What Happens When You Try to Treat OCD With Psilocybin ([source](https://www.wired.com/story/book-excerpt-how-to-not-know-simone-stolzoff/))
 - **2026-05-04** — The creator of Roomba is back with a furry robot companion ([source](https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch))
 - **2026-04-24** — OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API ([source](https://developers.openai.com/api/docs/changelog))

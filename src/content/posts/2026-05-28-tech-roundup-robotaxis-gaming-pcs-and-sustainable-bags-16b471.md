@@ -1,18 +1,20 @@
 ---
 title: "Tech Roundup: Robotaxis, Gaming PCs, and Sustainable Bags"
 date: 2026-05-28T20:35:24.722Z
+modified_date: 2026-05-30T13:49:25.948Z
 tags: ["robotaxi","gaming PCs","sustainable design"]
 hero_image: "/hero/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Waymo's new robotaxi, Intel's handheld gaming PCs, and a sustainable travel bag make headlines in the tech world."
-sources_count: 11
-author: "ryan-tanaka"
+sources_count: 12
 audio_path: "/audio/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.mp3"
 audio_bytes: 612982
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Robotaxis Hit the Road
@@ -81,3 +83,6 @@ The launch of the Cotopaxi Allpa 35L Travel Pack is a great example of sustainab
 
 The impact of sustainable design is likely to be felt across the tech industry, as companies prioritize eco-friendly products and services. This could lead to new innovations and developments in the field of sustainable design, as well as changes in consumer behavior and expectations.
 
+## Updates
+
+- **2026-05-30** — AI grifters are creating fake Black people to sell Shein junk ([source](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping))
