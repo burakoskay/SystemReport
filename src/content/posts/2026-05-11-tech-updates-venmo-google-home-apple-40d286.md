@@ -1,14 +1,16 @@
 ---
 title: "Tech Updates: Venmo, Google Home, Apple"
 date: 2026-05-11T21:38:30.078Z
+modified_date: 2026-05-30T17:14:20.932Z
 tags: ["Venmo","Google Home","Apple"]
 hero_image: "/hero/2026-05-11-tech-updates-venmo-google-home-apple-40d286.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "New tech updates: Venmo's discreet payments, Google Home's Gemini speed boost, and Apple's AI research."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 ## Venmo Tightens Payment Defaults
@@ -56,3 +58,6 @@ The future outlook for the tech industry is one of continued innovation and grow
 
 The growing emphasis on user privacy and data security is likely to have far-reaching implications for the tech industry, from how companies design their products and services to how they interact with their users and regulators. As the industry continues to evolve, it is essential to consider the potential downstream implications of these developments and how they may shape the future of the industry.
 
+## Updates
+
+- **2026-05-30** — Here’s how Incogni helps you protect your family from scams and spam ([source](https://9to5mac.com/2026/05/30/incogni-helps-you-protect-family-from-scams-spam/))
