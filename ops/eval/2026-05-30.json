@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-30T03:56:05.405Z",
+  "generated_at": "2026-05-30T06:56:11.587Z",
   "window_days": 7,
-  "total_records": 2992,
+  "total_records": 3078,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 506,
-      "success": 413,
-      "success_rate": 0.8162055335968379,
+      "calls": 515,
+      "success": 421,
+      "success_rate": 0.8174757281553398,
       "latency_p50": 3685,
-      "latency_p95": 12207,
-      "response_chars_mean": 3581,
+      "latency_p95": 12822,
+      "response_chars_mean": 3572,
       "error_classes": {
-        "rate_limit": 79,
+        "rate_limit": 80,
         "unknown": 10,
         "timeout": 3,
         "spending_cap": 1
       }
     },
     "lengthen:v1": {
-      "calls": 242,
-      "success": 223,
-      "success_rate": 0.9214876033057852,
-      "latency_p50": 2611,
+      "calls": 249,
+      "success": 230,
+      "success_rate": 0.9236947791164659,
+      "latency_p50": 2597,
       "latency_p95": 10084,
-      "response_chars_mean": 4946,
+      "response_chars_mean": 4910,
       "error_classes": {
         "rate_limit": 17,
         "permission": 1,
@@ -31,26 +31,26 @@
       }
     },
     "revise:v2-800w": {
-      "calls": 155,
-      "success": 134,
-      "success_rate": 0.864516129032258,
-      "latency_p50": 1275,
+      "calls": 160,
+      "success": 138,
+      "success_rate": 0.8625,
+      "latency_p50": 1272,
       "latency_p95": 11590,
-      "response_chars_mean": 1684,
+      "response_chars_mean": 1677,
       "error_classes": {
-        "rate_limit": 21
+        "rate_limit": 22
       }
     },
     "rewrite-headline:v1": {
-      "calls": 37,
-      "success": 20,
-      "success_rate": 0.5405405405405406,
-      "latency_p50": 1698,
+      "calls": 39,
+      "success": 21,
+      "success_rate": 0.5384615384615384,
+      "latency_p50": 1832,
       "latency_p95": 4180,
       "response_chars_mean": 64,
       "error_classes": {
         "rate_limit": 7,
-        "unknown": 10
+        "unknown": 11
       }
     }
   }
