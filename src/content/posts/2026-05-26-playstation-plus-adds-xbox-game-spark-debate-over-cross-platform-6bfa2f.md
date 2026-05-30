@@ -1,15 +1,17 @@
 ---
 title: "PlayStation Plus Adds Xbox Game Spark Debate Over Cross-Platform"
 date: 2026-05-26T18:47:45.424Z
+modified_date: 2026-05-30T23:03:20.110Z
 tags: ["gaming","platforms","interactive media","casinos","vc funding"]
 hero_image: "/hero/2026-05-26-playstation-plus-adds-xbox-game-spark-debate-over-cross-platform-6bfa2f.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "retro pixel art fighter against neon city backdrop"
 description: "Sony's June lineup includes Xbox's Grounded, while Earthion and Crazy Time Live highlight gaming's shifting landscape"
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 Sony PlayStation Plus subscribers got an unexpected gift this month: access to Xbox's Grounded, a survival game that defies traditional platform exclusivity. The June 9 catalog update for Plus Extra and Premium tiers also includes Destiny 2's annual collection, raising questions about why a first-party Microsoft title would appear on a competing service.
 
@@ -40,3 +42,7 @@ Sony's decision to include Grounded isn't just about customer convenience. By of
 For developers, the platform choice paradox is intensifying. Earthion's creators had to reject PC exclusivity offers to maintain indie flexibility. Meanwhile, Evolution Gaming's casino clients face a 180-day development cycle just to implement new customization options, creating a bottleneck that smaller operators can't afford.
 
 What to watch: PlayStation Plus will reveal next month's catalog on June 20. The Destiny 2 collection's performance will indicate whether cross-platform play can sustain long-term engagement. Evolution Gaming has a June 30 deadline to meet new UK Gambling Commission RNG standards, which could force global rule changes. Finally, expect an investor report from Founders Fund before July 4 detailing their synthetic media investments—this could name specific AI-driven characters in development.
+
+## Updates
+
+- **2026-05-30** — This weekend’s two biggest movies were both directed by YouTubers ([source](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/))

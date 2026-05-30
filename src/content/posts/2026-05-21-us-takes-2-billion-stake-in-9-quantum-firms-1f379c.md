@@ -1,14 +1,16 @@
 ---
 title: "US takes $2 billion stake in 9 quantum firms"
 date: 2026-05-21T20:17:24.409Z
+modified_date: 2026-05-30T23:03:24.290Z
 tags: ["quantum computing","US government","investment","politics","technology"]
 hero_image: "/hero/2026-05-21-us-takes-2-billion-stake-in-9-quantum-firms-1f379c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "quantum-computing"
 description: "US invests $2 billion in 9 quantum firms, including one linked to the Trump family."
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Quantum Computing's New Backers
 
@@ -54,3 +56,6 @@ The investment raises questions about the intersection of politics and technolog
 
 The progress of these nine firms and their use of funding will be key to watch. The US government's ongoing investment in quantum computing will also be crucial, as it balances innovation with accountability. The consequences of success or failure will be significant, with the potential to reshape the country's technological future.
 
+## Updates
+
+- **2026-05-30** — Lamine Yamal shares pictures teasing the new Beats headphones on the way ([source](https://www.engadget.com/2184302/lamine-yamal-shares-pictures-teasing-the-new-beats-headphones-on-the-way/))

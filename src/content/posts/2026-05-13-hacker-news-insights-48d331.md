@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Insights"
 date: 2026-05-13T06:58:24.476Z
-modified_date: 2026-05-20T18:23:10.318Z
+modified_date: 2026-05-30T23:03:28.683Z
 tags: ["Hacker News","Starship V3","Rust"]
 hero_image: "/hero/2026-05-13-hacker-news-insights-48d331.jpg"
 hero_image_credit_name: "Lucas Andrade"
 hero_image_credit_url: "https://www.pexels.com/@lucasandrade"
 visual_keyword: "Hacker News"
 description: "Analysis of trending topics on Hacker News, including Starship V3, Rust, and article success prediction"
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ As Hacker News and similar platforms continue to grow, understanding the dynamic
 
 ## Updates
 
+- **2026-05-30** — Domain expertise has always been the real moat ([source](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/))
 - **2026-05-20** — You can now remix other people’s YouTube Shorts with AI ([source](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai))
 - **2026-05-14** — Cell phone users can't stop incriminating themselves ([source](https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/))
