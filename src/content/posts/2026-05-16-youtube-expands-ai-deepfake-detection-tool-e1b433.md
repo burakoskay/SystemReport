@@ -1,14 +1,16 @@
 ---
 title: "YouTube Expands AI Deepfake Detection Tool"
 date: 2026-05-16T09:52:55.837Z
+modified_date: 2026-05-30T10:04:55.634Z
 tags: ["YouTube","AI-generated content","deepfakes","misinformation","democracy"]
 hero_image: "/hero/2026-05-16-youtube-expands-ai-deepfake-detection-tool-e1b433.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated content detector"
 description: "YouTube's AI deepfake detection tool is now available to all creators 18 and older"
-sources_count: 2
+sources_count: 3
 ---
+
 
 # YouTube Expands AI Deepfake Detection Tool
 
@@ -49,3 +51,7 @@ The consequences of AI-generated content are far-reaching and multifaceted. On o
 ## Conclusion
 
 YouTube's AI deepfake detection tool is a significant step in addressing the challenges posed by AI-generated content. As the technology continues to evolve, it is essential to have effective tools in place to detect and prevent the misuse of AI-generated content. By working together, we can ensure that AI-generated content is used for the greater good and does not pose a threat to democracy.
+
+## Updates
+
+- **2026-05-30** — The Last Technical Interview ([source](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564))

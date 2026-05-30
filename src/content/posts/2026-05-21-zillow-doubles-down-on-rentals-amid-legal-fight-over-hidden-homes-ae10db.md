@@ -1,15 +1,17 @@
 ---
 title: "Zillow doubles down on rentals amid legal fight over hidden homes"
 date: 2026-05-21T22:03:09.147Z
+modified_date: 2026-05-30T10:04:51.607Z
 tags: ["zillow","real-estate","rentals","tech"]
 hero_image: "/hero/2026-05-21-zillow-doubles-down-on-rentals-amid-legal-fight-over-hidden-homes-ae10db.jpg"
 hero_image_credit_name: "Vlad Bagacian"
 hero_image_credit_url: "https://www.pexels.com/@vladbagacian"
 visual_keyword: "busy city apartment search on laptop"
 description: "Zillow buys HotPads for $16 million, pushes a unified rental platform while suing over hidden listings, highlighting the stubborn role of agents."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Zillow’s latest moves signal a two‑pronged push: expand its rental marketplace and defend its listing inventory.
 
@@ -50,3 +52,7 @@ Zillow’s acquisition spree over the past two years—RentJuice, Mortech, Buyfo
 At the same time, the hidden‑listings fight may set a legal precedent for how MLS data can be used by online portals. If the injunction holds, brokers could be forced to keep listings visible on Zillow, potentially boosting the site’s inventory and giving it more leverage in the Premier Agents market. If the court sides with the brokers, Zillow could lose a key source of fresh listings, weakening its rental lead engine.
 
 What to watch: the court’s ruling on the preliminary injunction, HotPads’ integration timeline, and Zillow’s next quarterly earnings report, which will reveal whether the rental lead flow translates into higher Premier Agent spend. The convergence of legal, product, and financial moves will determine if Zillow can truly expand its rental moat or if the agent‑driven status quo will hold fast.
+
+## Updates
+
+- **2026-05-30** — Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste ([source](https://www.wired.com/story/nike-recycled-world-cup-uniforms/))
