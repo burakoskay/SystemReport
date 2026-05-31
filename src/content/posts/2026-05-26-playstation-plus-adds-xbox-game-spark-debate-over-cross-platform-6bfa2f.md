@@ -1,16 +1,17 @@
 ---
 title: "PlayStation Plus Adds Xbox Game Spark Debate Over Cross-Platform"
 date: 2026-05-26T18:47:45.424Z
-modified_date: 2026-05-30T23:03:20.110Z
+modified_date: 2026-05-31T19:23:50.157Z
 tags: ["gaming","platforms","interactive media","casinos","vc funding"]
 hero_image: "/hero/2026-05-26-playstation-plus-adds-xbox-game-spark-debate-over-cross-platform-6bfa2f.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "retro pixel art fighter against neon city backdrop"
 description: "Sony's June lineup includes Xbox's Grounded, while Earthion and Crazy Time Live highlight gaming's shifting landscape"
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 Sony PlayStation Plus subscribers got an unexpected gift this month: access to Xbox's Grounded, a survival game that defies traditional platform exclusivity. The June 9 catalog update for Plus Extra and Premium tiers also includes Destiny 2's annual collection, raising questions about why a first-party Microsoft title would appear on a competing service.
@@ -45,4 +46,5 @@ What to watch: PlayStation Plus will reveal next month's catalog on June 20. The
 
 ## Updates
 
+- **2026-05-31** — This weekend’s two biggest movies were both directed by YouTubers ([source](https://techcrunch.com/2026/05/31/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/))
 - **2026-05-30** — This weekend’s two biggest movies were both directed by YouTubers ([source](https://techcrunch.com/2026/05/30/this-weekends-two-biggest-movies-were-both-directed-by-youtubers/))
