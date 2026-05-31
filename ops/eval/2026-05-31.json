@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-05-31T11:47:26.644Z",
+  "generated_at": "2026-05-31T14:08:03.118Z",
   "window_days": 7,
-  "total_records": 3135,
+  "total_records": 3196,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 527,
-      "success": 403,
-      "success_rate": 0.7647058823529411,
-      "latency_p50": 3502,
+      "calls": 539,
+      "success": 411,
+      "success_rate": 0.7625231910946196,
+      "latency_p50": 3524,
       "latency_p95": 11664,
-      "response_chars_mean": 3728,
+      "response_chars_mean": 3745,
       "error_classes": {
-        "rate_limit": 107,
+        "rate_limit": 111,
         "unknown": 13,
         "timeout": 3,
         "spending_cap": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 164,
-      "success": 142,
-      "success_rate": 0.8658536585365854,
-      "latency_p50": 1222,
+      "calls": 166,
+      "success": 144,
+      "success_rate": 0.8674698795180723,
+      "latency_p50": 1229,
       "latency_p95": 11244,
-      "response_chars_mean": 1631,
+      "response_chars_mean": 1637,
       "error_classes": {
         "rate_limit": 22
       }
     },
     "lengthen:v1": {
-      "calls": 252,
-      "success": 235,
-      "success_rate": 0.9325396825396826,
-      "latency_p50": 2458,
+      "calls": 257,
+      "success": 239,
+      "success_rate": 0.9299610894941635,
+      "latency_p50": 2459,
       "latency_p95": 9948,
-      "response_chars_mean": 4847,
+      "response_chars_mean": 4855,
       "error_classes": {
-        "rate_limit": 16,
+        "rate_limit": 17,
         "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 46,
-      "success": 22,
-      "success_rate": 0.4782608695652174,
-      "latency_p50": 1832,
+      "calls": 48,
+      "success": 23,
+      "success_rate": 0.4791666666666667,
+      "latency_p50": 2071,
       "latency_p95": 3763,
       "response_chars_mean": 65,
       "error_classes": {
-        "rate_limit": 11,
+        "rate_limit": 12,
         "unknown": 12,
         "spending_cap": 1
       }

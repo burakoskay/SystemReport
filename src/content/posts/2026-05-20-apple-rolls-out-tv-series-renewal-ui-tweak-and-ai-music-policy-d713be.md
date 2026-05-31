@@ -1,15 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
+modified_date: 2026-05-31T13:54:57.057Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 Apple announced three service updates this week: a second season for its culinary series, a new accessibility setting for Apple TV, and a policy brief on AI‑generated music.
 
@@ -50,3 +52,7 @@ Streaming rivals such as Netflix and Spotify have already rolled out accessibili
 ## What to watch
 
 Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for a release window for Knife Edge season two, which will indicate Apple’s commitment to niche nonfiction. Monitor Apple Music’s next transparency report to see if AI‑generated plays stay below the one‑percent threshold or if new compliance measures appear.
+
+## Updates
+
+- **2026-05-31** — I went looking for the AI weed vape that gives you Bitcoin for smoking ([source](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape))
