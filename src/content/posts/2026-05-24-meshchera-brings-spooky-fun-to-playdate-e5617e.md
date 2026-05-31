@@ -1,15 +1,17 @@
 ---
 title: "Meshchera Brings Spooky Fun to Playdate"
 date: 2026-05-24T23:05:28.349Z
+modified_date: 2026-05-31T15:20:02.492Z
 tags: ["gaming","playdate","live gaming"]
 hero_image: "/hero/2026-05-24-meshchera-brings-spooky-fun-to-playdate-e5617e.jpg"
 hero_image_credit_name: "Natalia Goryaeva"
 hero_image_credit_url: "https://www.pexels.com/@natalia-goryaeva-119587096"
 visual_keyword: "Meshchera"
 description: "A new match-three game for Playdate, Meshchera, offers an atmospheric experience set in a haunted marsh, complete with spiders and skeletons."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 
 ## A Haunting New Release for Playdate
@@ -77,3 +79,7 @@ In conclusion, Meshchera is a great addition to the Playdate library, offering a
 The game's developer has clearly put a lot of thought into creating an immersive experience, with a focus on storytelling and atmosphere. The result is a game that is both fun to play and visually striking.
 
 As the gaming industry continues to evolve, it will be interesting to see how games like Meshchera and Crazy Time shape the market. With new technologies and innovations emerging all the time, the future of gaming looks bright.
+
+## Updates
+
+- **2026-05-31** — This extravagant gaming laptop could ruin other screens for you ([source](https://www.theverge.com/tech/940221/asus-rog-strix-scar-18-elmb-gaming-laptop-motion-blur-handson-impressions))
