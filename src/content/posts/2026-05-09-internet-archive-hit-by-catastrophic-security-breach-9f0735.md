@@ -1,19 +1,20 @@
 ---
 title: "Internet Archive Hit by Catastrophic Security Breach"
 date: 2026-05-09T14:57:27.864Z
-modified_date: 2026-05-30T17:14:08.874Z
+modified_date: 2026-05-31T21:05:19.847Z
 tags: ["cybersecurity","Internet Archive","DDoS attack"]
 hero_image: "/hero/2026-05-09-internet-archive-hit-by-catastrophic-security-breach-9f0735.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "The Internet Archive has suffered a catastrophic security breach, with a DDoS attack and defacement of its website via a JavaScript library."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-09-internet-archive-hit-by-catastrophic-security-breach-9f0735.mp3"
 audio_bytes: 597308
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,4 +74,5 @@ In conclusion, the Internet Archive's security breach is a reminder of the impor
 
 ## Updates
 
+- **2026-05-31** — How to watch Nvidia&#8217;s Computex keynote ([source](https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote))
 - **2026-05-30** — Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves ([source](https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves))
