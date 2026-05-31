@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-05-31T04:34:31.556Z",
+  "generated_at": "2026-05-31T09:02:25.750Z",
   "window_days": 7,
-  "total_records": 3033,
+  "total_records": 3093,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 508,
-      "success": 387,
-      "success_rate": 0.7618110236220472,
-      "latency_p50": 3548,
+      "calls": 515,
+      "success": 393,
+      "success_rate": 0.7631067961165049,
+      "latency_p50": 3538,
       "latency_p95": 11876,
-      "response_chars_mean": 3716,
+      "response_chars_mean": 3726,
       "error_classes": {
-        "rate_limit": 104,
+        "rate_limit": 105,
         "unknown": 13,
         "timeout": 3,
         "spending_cap": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 158,
-      "success": 137,
-      "success_rate": 0.8670886075949367,
+      "calls": 163,
+      "success": 141,
+      "success_rate": 0.8650306748466258,
       "latency_p50": 1229,
       "latency_p95": 11348,
-      "response_chars_mean": 1626,
+      "response_chars_mean": 1635,
       "error_classes": {
-        "rate_limit": 21
+        "rate_limit": 22
       }
     },
     "lengthen:v1": {
-      "calls": 243,
-      "success": 226,
-      "success_rate": 0.9300411522633745,
+      "calls": 248,
+      "success": 231,
+      "success_rate": 0.9314516129032258,
       "latency_p50": 2459,
       "latency_p95": 9948,
-      "response_chars_mean": 4856,
+      "response_chars_mean": 4864,
       "error_classes": {
         "rate_limit": 16,
         "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 44,
-      "success": 21,
-      "success_rate": 0.4772727272727273,
+      "calls": 46,
+      "success": 22,
+      "success_rate": 0.4782608695652174,
       "latency_p50": 1832,
-      "latency_p95": 4180,
-      "response_chars_mean": 66,
+      "latency_p95": 3763,
+      "response_chars_mean": 65,
       "error_classes": {
-        "rate_limit": 10,
+        "rate_limit": 11,
         "unknown": 12,
         "spending_cap": 1
       }

@@ -1,15 +1,16 @@
 ---
 title: "Hacker News Spotlight on YC Scandals and User Projects"
 date: 2026-05-11T07:54:56.811Z
-modified_date: 2026-05-22T23:06:29.771Z
+modified_date: 2026-05-31T08:52:44.742Z
 tags: ["YC","Hacker News","startup ecosystem"]
 hero_image: "/hero/2026-05-11-hacker-news-spotlight-on-yc-scandals-and-user-projects-c235e4.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "YC scandals and Hacker News users' projects discussed. What's new in tech?"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 
@@ -66,5 +67,6 @@ The response of YC and other stakeholders will be crucial in shaping the future 
 
 ## Updates
 
+- **2026-05-31** — Jef Raskin, the Visionary Behind the Mac (2013) ([source](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/))
 - **2026-05-22** — HomeKit Weekly: Why the Aqara G5 Pro remains one of the best outdoor HomeKit cameras ([source](https://9to5mac.com/2026/05/22/why-the-aqara-g5-pro-remains-one-of-the-best-outdoor-homekit-camera-in-2026/))
 - **2026-05-19** — Spotify confirms CarPlay bug causing wrong song info to appear ([source](https://9to5mac.com/2026/05/19/spotify-confirms-carplay-bug-causing-wrong-song-info-to-appear/))
