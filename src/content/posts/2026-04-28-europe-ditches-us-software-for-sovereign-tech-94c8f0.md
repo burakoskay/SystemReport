@@ -1,15 +1,16 @@
 ---
 title: "Europe ditches US software for sovereign tech"
 date: 2026-04-28T03:45:22.840Z
-modified_date: 2026-05-29T21:55:26.934Z
+modified_date: 2026-05-31T11:42:45.844Z
 tags: ["European tech","sovereign tech","US tech providers"]
 hero_image: "/hero/2026-04-28-europe-ditches-us-software-for-sovereign-tech-94c8f0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "European tech"
 description: "European governments seek to reduce dependence on American tech providers"
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 
@@ -55,6 +56,7 @@ As European governments continue to invest in sovereign tech, they will need to 
 
 ## Updates
 
+- **2026-05-31** — Wi-Fi Router vs. Mesh System: Which Is Best for You? ([source](https://www.wired.com/story/mesh-system-vs-wi-fi-router/))
 - **2026-05-29** — Apple TV’s latest sci-fi series is a winner, and just the start of exciting new direction ([source](https://9to5mac.com/2026/05/29/apple-tvs-latest-sci-fi-series-is-a-winner-and-just-the-start-of-exciting-new-direction/))
 - **2026-05-15** — The 5 Best Outdoor Griddles and Flat Top Grills (2026) ([source](https://www.wired.com/story/best-backyard-griddles-flat-top-grills/))
 - **2026-05-14** — We-Vibe Discount Codes and Deals: Up to 60% Off ([source](https://www.wired.com/story/we-vibe-discount-code/))

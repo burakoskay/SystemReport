@@ -1,18 +1,20 @@
 ---
 title: "Anthropic upgrades Claude, raises $65B, adds dynamic workflows"
 date: 2026-05-28T20:44:13.160Z
+modified_date: 2026-05-31T11:42:49.869Z
 tags: ["anthropic","ai","funding","model-upgrade","devtools"]
 hero_image: "/hero/2026-05-28-anthropic-upgrades-claude-raises-65b-adds-dynamic-workflows-38e6aa.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract AI research lab with code and data streams"
 description: "Anthropic released Claude Opus 4.8, secured $65 billion Series H funding at a $965 billion valuation, and launched Dynamic Workflows in Claude Code."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-05-28-anthropic-upgrades-claude-raises-65b-adds-dynamic-workflows-38e6aa.mp3"
 audio_bytes: 604622
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Claude Opus 4.8 hit production this week, tightening Anthropic's model rollout schedule. The move signals a strategic push to outpace rivals on iteration speed.
 
@@ -45,3 +47,7 @@ The trade‑off between speed and safety is evident. Pushing a new model to prod
 ## What to watch
 
 The next quarter will reveal whether Opus 4.8 stabilizes across diverse workloads and whether Dynamic Workflows gain traction among enterprise developers. Investors should track Anthropic's usage metrics, any announced safety audits, and the timing of the next model iteration. The company's ability to translate its massive valuation into sustainable revenue will hinge on how quickly those signals turn positive.
+
+## Updates
+
+- **2026-05-31** — How Turkey Hacked the Hair Transplant Industry ([source](https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/))
