@@ -1,14 +1,16 @@
 ---
 title: "Fervo Energy's $6.5B IPO Bid"
 date: 2026-05-05T03:26:02.852Z
+modified_date: 2026-05-31T17:12:16.794Z
 tags: ["Geothermal Energy","Renewable Energy","IPO"]
 hero_image: "/hero/2026-05-05-fervo-energy-s-6-5b-ipo-bid-ed3acd.jpg"
 hero_image_credit_name: "ArtHouse Studio"
 hero_image_credit_url: "https://www.pexels.com/@arthousestudio"
 visual_keyword: "Geothermal"
 description: "Geothermal startup Fervo Energy to raise up to $1.3B in IPO"
-sources_count: 5
+sources_count: 6
 ---
+
 
 ## Fervo Energy Files for IPO
 Fervo Energy aims to raise up to $1.3 billion in its IPO, valuing the company at up to $6.5 billion. The geothermal startup's enhanced geothermal systems (EGS) technology can create geothermal reservoirs in areas without natural reservoirs.
@@ -26,3 +28,7 @@ Geothermal energy has been around for decades, but its potential remains largely
 The geothermal energy market is not isolated, but rather part of a broader renewable energy landscape. Other companies, such as those in the solar and wind energy sectors, are also working to increase the share of renewable energy in the global energy mix. Fervo Energy's success will depend on its ability to compete with these other sources of renewable energy, while also navigating the complex regulatory environment surrounding geothermal energy production.
 ## Comparison to Other Renewable Energy Sources
 Fervo Energy's EGS technology has the potential to offer several advantages over other forms of renewable energy. For example, geothermal energy can provide baseload power, meaning it can generate electricity at a consistent rate, unlike solar and wind energy, which are intermittent. Additionally, geothermal energy can be generated locally, reducing the need for long-distance transmission lines and the associated energy losses.
+
+## Updates
+
+- **2026-05-31** — TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce ([source](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/))

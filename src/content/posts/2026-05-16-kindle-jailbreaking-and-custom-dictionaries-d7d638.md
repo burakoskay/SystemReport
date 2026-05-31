@@ -1,14 +1,16 @@
 ---
 title: "Kindle Jailbreaking and Custom Dictionaries"
 date: 2026-05-16T17:07:01.710Z
+modified_date: 2026-05-31T17:12:21.014Z
 tags: ["e-readers","Kindle","jailbreaking"]
 hero_image: "/hero/2026-05-16-kindle-jailbreaking-and-custom-dictionaries-d7d638.jpg"
 hero_image_credit_name: "Adrienne Andersen"
 hero_image_credit_url: "https://www.pexels.com/@adrienne-andersen-1174503"
 visual_keyword: "Kindle"
 description: "Amazon ends support for older Kindles, users turn to jailbreaking and custom dictionaries like Runik."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Amazon's Support Ends for Older Kindles
@@ -91,3 +93,6 @@ The e-reader market is changing, and users will watch to see how manufacturers r
 
 In conclusion, the e-reader market is evolving, and users are driving the demand for more control and customization. Manufacturers must adapt to changing user needs and provide more flexibility and options for users.
 
+## Updates
+
+- **2026-05-31** — Making sense of the debate over AI psychosis ([source](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/))

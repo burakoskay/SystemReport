@@ -1,16 +1,17 @@
 ---
 title: "Bacteria, Coffee and Neanderthal Brains Upend Assumptions"
 date: 2026-04-29T06:43:32.060Z
-modified_date: 2026-05-08T17:25:18.553Z
+modified_date: 2026-05-31T17:12:25.227Z
 tags: ["bacteria","coffee","neanderthal","science","research"]
 hero_image: "/hero/2026-04-29-bacteria-coffee-and-neanderthal-brains-upend-assumptions-8aeea9.jpg"
 hero_image_credit_name: "Wassily Kandark"
 hero_image_credit_url: "https://www.pexels.com/@wkandark"
 visual_keyword: "laboratory scene with bacterial culture, coffee apparatus, and brain scan overlay"
 description: "New research shows necrotizing bacteria can consume tissue in days, electrical testing reshapes coffee profiling, and Neanderthal brains match modern size."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 
 Necrotizing bacteria devoured a patient’s arm and leg in three days, a repurposed battery‑testing tool mapped coffee flavor, and a brain scan suggested Neanderthal skulls match modern volume. The convergence of these findings forces engineers, clinicians, and paleo‑anthropologists to revisit long‑standing assumptions about decay, taste measurement, and brain evolution.
@@ -51,4 +52,5 @@ Clinicians should monitor emerging protocols that incorporate rapid visual diagn
 
 ## Updates
 
+- **2026-05-31** — A new Apple TV and HomePod mini could arrive in the fall ([source](https://www.engadget.com/2184409/a-new-apple-tv-and-homepod-mini-could-arrive-in-the-fall/))
 - **2026-05-08** — PlayStation sees AI as a ‘powerful tool’ to help make games ([source](https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games))
