@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Promo Codes: Hoka, Verizon, Dermstore Slash Prices"
 date: 2026-04-23T17:42:55.310Z
-modified_date: 2026-05-31T13:54:52.721Z
+modified_date: 2026-05-31T23:04:52.629Z
 tags: ["promo codes","e-commerce","discounts"]
 hero_image: "/hero/2026-04-23-april-2026-promo-codes-hoka-verizon-dermstore-slash-prices-3c3d05.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "shopping cart with discount tags and tech brand logos"
 description: "Hoka, Verizon and Dermstore roll out April 2026 coupon codes offering up to 30% off, $200 gift cards, and 25% savings, reshaping e‑commerce discounts."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ The next quarter will reveal whether the Hoka, Verizon and Dermstore coupons tra
 
 ## Updates
 
+- **2026-05-31** — Apple’s strategy for smart glasses is the same as smart watches ([source](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches))
 - **2026-05-31** — A meteor exploded off the coast of Boston ([source](https://www.theverge.com/science/940467/meteor-exploded-new-england))
 - **2026-05-16** — The offline desk gadget that actually got me to sit up straight ([source](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/))
 - **2026-05-12** — Quack: The DuckDB Client-Server Protocol ([source](https://duckdb.org/2026/05/12/quack-remote-protocol))
