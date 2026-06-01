@@ -1,14 +1,16 @@
 ---
 title: "Google Acquires PushLife for $25 Million"
 date: 2026-05-08T11:23:28.900Z
+modified_date: 2026-06-01T04:44:08.946Z
 tags: ["Google","PushLife","mobile entertainment"]
 hero_image: "/hero/2026-05-08-google-acquires-pushlife-for-25-million-296052.jpg"
 hero_image_credit_name: "Yan Krukau"
 hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "mobile entertainment"
 description: "Google buys mobile music platform"
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Introduction to PushLife Acquisition
@@ -37,3 +39,7 @@ The acquisition of PushLife could have significant implications for the mobile e
 The acquisition could also have implications for other companies in the mobile entertainment space. For example, companies like Apple and Amazon may need to re-evaluate their own mobile entertainment strategies in response to Google's move. This could lead to a more competitive and innovative market, which could ultimately benefit consumers.
 
 In conclusion, Google's acquisition of PushLife is a strategic move that highlights the growing importance of mobile entertainment. The acquisition provides Google with the technology and expertise to improve its mobile entertainment offerings and compete with other major players in the industry. As the mobile entertainment market continues to grow and evolve, it will be interesting to see how Google and other companies respond to changing consumer demands and technological advancements.
+
+## Updates
+
+- **2026-06-01** — Google Home Speaker gets June release date from one retailer ([source](https://9to5google.com/2026/05/31/google-home-speaker-release-date-june/))

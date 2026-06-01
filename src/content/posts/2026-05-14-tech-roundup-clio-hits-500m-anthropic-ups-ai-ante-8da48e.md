@@ -1,14 +1,16 @@
 ---
 title: "Tech Roundup: Clio Hits $500M, Anthropic Ups AI Ante"
 date: 2026-05-14T10:30:36.320Z
+modified_date: 2026-06-01T04:44:00.563Z
 tags: ["Clio","Anthropic","AI"]
 hero_image: "/hero/2026-05-14-tech-roundup-clio-hits-500m-anthropic-ups-ai-ante-8da48e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Clio reaches $500M ARR milestone as Anthropic releases new AI model; Netflix expands ads across app"
-sources_count: 6
+sources_count: 7
 ---
+
 
 
 ## Clio Reaches $500M ARR Milestone
@@ -49,3 +51,6 @@ Anthropic's latest Claude model release is part of a larger trend of AI advancem
 ## Industry Context
 The tech industry is rapidly evolving, with new advancements and innovations emerging every day. The increasing adoption of AI solutions is driving growth in the industry, with many companies investing heavily in AI research and development. As the industry continues to evolve, it will be essential for companies to stay ahead of the curve and adapt to emerging trends and regulatory requirements.
 
+## Updates
+
+- **2026-06-01** — AMD’s new pitch: our old tech is so good you should just keep using it ([source](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d))

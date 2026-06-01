@@ -1,17 +1,19 @@
 ---
 title: "Disney shuts Hulu app, cuts $1.5B costs"
 date: 2026-05-28T20:46:01.771Z
+modified_date: 2026-06-01T04:44:04.763Z
 tags: ["Disney","Hulu","Fubo","streaming services","merger"]
 hero_image: "/hero/2026-05-28-disney-shuts-hulu-app-cuts-1-5b-costs-f8d8da.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Disney+"
 description: "Disney plans to retire Hulu app, merge live TV with Fubo, and write down $1.5 billion in content costs."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-28-disney-shuts-hulu-app-cuts-1-5b-costs-f8d8da.mp3"
 audio_bytes: 614653
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Hulu app shutdown confirmed by internal memo
@@ -46,3 +48,7 @@ The live TV streaming market is rapidly evolving, with companies like YouTube TV
 
 ## Conclusion
 In conclusion, the shutdown of the Hulu app and merger with Fubo marks a significant shift in Disney's streaming strategy. The deal will have significant implications for the streaming market, as companies adjust to the new competitive landscape. As the industry continues to evolve and change, it will be interesting to see how Disney, Fubo, and other streaming services adapt and respond to changing consumer demands and technological advancements.
+
+## Updates
+
+- **2026-06-01** — Everyone Has Their Targets Set on the MacBook Neo ([source](https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/))
