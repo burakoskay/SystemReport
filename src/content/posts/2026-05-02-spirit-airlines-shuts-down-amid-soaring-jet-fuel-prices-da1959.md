@@ -1,18 +1,20 @@
 ---
 title: "Spirit Airlines Shuts Down Amid Soaring Jet Fuel Prices"
 date: 2026-05-02T19:09:33.974Z
+modified_date: 2026-06-01T17:51:35.872Z
 tags: ["spirit airlines","jet fuel prices","airline industry","low-cost carriers"]
 hero_image: "/hero/2026-05-02-spirit-airlines-shuts-down-amid-soaring-jet-fuel-prices-da1959.jpg"
 hero_image_credit_name: "john mckenna"
 hero_image_credit_url: "https://www.pexels.com/@johnboy"
 visual_keyword: "Spirit Airlines planes parked on tarmac"
 description: "Spirit Airlines ceased operations on Saturday morning, citing rising jet fuel prices. The ultra-low-cost carrier shut down after 34 years in business."
-sources_count: 1
-author: "elena-marchetti"
+sources_count: 2
 audio_path: "/audio/2026-05-02-spirit-airlines-shuts-down-amid-soaring-jet-fuel-prices-da1959.mp3"
 audio_bytes: 579754
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Spirit Airlines Grounds All Flights Amidst Soaring Jet Fuel Prices
@@ -42,3 +44,7 @@ The US Department of Transportation has announced that it will investigate the s
 ## What to Watch
 
 The shutdown of Spirit Airlines highlights the challenges faced by the aviation industry in maintaining profitability amidst rising jet fuel prices. As the industry continues to evolve, passengers and investors will be watching to see how other airlines adapt to the changing market conditions. The next significant event to watch is the quarterly earnings report of other low-cost carriers, which will provide insight into their financial health and ability to withstand rising fuel prices.
+
+## Updates
+
+- **2026-06-01** — When AI Crosses the Line: The Matplotlib Incident ([source](https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096))

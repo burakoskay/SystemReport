@@ -1,15 +1,16 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-05-29T21:54:58.411Z
+modified_date: 2026-06-01T17:50:58.527Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 8
+sources_count: 9
 ---
+
 
 
 
@@ -39,6 +40,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-06-01** — An affordable, long-lasting AirTag alternative is $15 right now ([source](https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale))
 - **2026-05-29** — So you’ve heard these AI terms and nodded along; let’s fix that ([source](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/))
 - **2026-05-20** — Project Genie adds Google Street View integration and goes live for global AI Ultra users ([source](https://www.engadget.com/2176797/project-genie-adds-google-street-view-integration-and-goes-live-for-global-ai-ultra-users/))
 - **2026-05-18** — I’m a Normie. Can Normies Really Vibe Code? ([source](https://www.wired.com/story/normie-vibe-code/))

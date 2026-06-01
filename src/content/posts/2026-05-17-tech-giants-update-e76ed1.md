@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Update"
 date: 2026-05-17T20:59:57.706Z
+modified_date: 2026-06-01T17:51:19.292Z
 tags: ["Tech","Apple","Google"]
 hero_image: "/hero/2026-05-17-tech-giants-update-e76ed1.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "Siri"
 description: "Apple, Google, and WhatsApp unveil new features and updates, focusing on privacy, design, and AI integration."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## New Features and Updates
 Apple is revamping Siri with a focus on privacy, potentially including auto-deleting chats. This move is significant, as it addresses growing concerns about data protection. According to reports, the new version of Siri will prioritize user privacy, which could set a new standard for virtual assistants.
@@ -45,3 +47,7 @@ As the tech industry continues to evolve, it is essential to consider the downst
 As the tech industry continues to evolve, there are several key developments to watch. Google's Android Show: I/O Edition 2026 is expected to bring significant updates, including design updates, new features, and deeper AI integration. Apple's revamp of Siri is also expected to set a new standard for virtual assistants, with a focus on privacy and security. WhatsApp's redesigned chat interface is another significant development, with a focus on visual enhancements and new customization options.
 
 In the coming months, we can expect to see even more updates and developments from these companies, as they continue to prioritize user experience, privacy, and security. As users, it is essential to stay informed about these developments, to ensure that we are getting the most out of our devices and services. By keeping up with the latest news and updates, we can make informed decisions about the products and services we use, and ensure that our personal information is protected.
+
+## Updates
+
+- **2026-06-01** — Xiaomi is the latest to add AirDrop support with Quick Share to its Android phones ([source](https://9to5google.com/2026/06/01/xiaomi-17t-pro-airdrop-support/))

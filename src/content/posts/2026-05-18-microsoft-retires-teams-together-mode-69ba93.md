@@ -1,17 +1,19 @@
 ---
 title: "Microsoft Retires Teams 'Together' Mode"
 date: 2026-05-18T10:14:51.248Z
+modified_date: 2026-06-01T17:50:54.397Z
 tags: ["Microsoft","Teams","Virtual Meetings"]
 hero_image: "/hero/2026-05-18-microsoft-retires-teams-together-mode-69ba93.jpg"
 hero_image_credit_name: "Anh Lee"
 hero_image_credit_url: "https://www.pexels.com/@anhleephoto"
 visual_keyword: "Teams"
 description: "Microsoft drops virtual-room feature"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-18-microsoft-retires-teams-together-mode-69ba93.mp3"
 audio_bytes: 578082
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft Retires Teams 'Together' Mode
 Microsoft will retire Teams 'Together' mode due to implementation complexity. The company will steer users toward the gallery view instead.
@@ -33,3 +35,7 @@ The 'Together' mode was a complex feature that required significant resources to
 
 ## Downstream Implications
 The retirement of 'Together' mode is likely to have significant implications for Microsoft's users. Power users will need to adapt to the gallery view, which may not offer the same level of immersion as 'Together' mode. IT administrators, on the other hand, will welcome the simplification and reduced complexity. As the industry continues to evolve, it will be important for companies like Microsoft to prioritize the needs of their users and to balance innovation with practicality. The decision to retire 'Together' mode may also have implications for Microsoft's competitors, as they may need to reassess their own virtual meeting solutions in light of this change.
+
+## Updates
+
+- **2026-06-01** — Summer Game Fest 2026: All the news from gaming&#8217;s busiest week ([source](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026))

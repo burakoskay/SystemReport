@@ -1,18 +1,20 @@
 ---
 title: "PNG Payroll Glitch Triggers Deadly Riots"
 date: 2026-05-09T11:03:31.175Z
+modified_date: 2026-06-01T17:51:06.841Z
 tags: ["asia","technology","regulation","ai","payroll"]
 hero_image: "/hero/2026-05-09-png-payroll-glitch-triggers-deadly-riots-33d043.jpg"
 hero_image_credit_name: "Oscar Chan"
 hero_image_credit_url: "https://www.pexels.com/@cltsan"
 visual_keyword: "crowded street protest with police barricades under tropical sky"
 description: "A payroll system error in Papua New Guinea sparked a two‑week emergency and deadly unrest, underscoring fragile tech oversight across the region."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-09-png-payroll-glitch-triggers-deadly-riots-33d043.mp3"
 audio_bytes: 593965
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## PNG Payroll Glitch Sparks Deadly Unrest
 The mis‑configured payroll system for government workers in Papua New Guinea ignited riots that left multiple people dead and forced the capital into a two‑week state of emergency. The glitch reverted employees to older, higher tax rates, shaving roughly $100 off each paycheck and cutting many salaries in half.
@@ -33,3 +35,7 @@ India's electronics ministry has issued similar warnings to X, urging the platfo
 
 ## What to Watch
 Watch how PNG's government restructures its payroll infrastructure and whether it adopts stricter vendor oversight; the outcome will set a precedent for public‑sector tech procurement in the Pacific. In India, monitor the enforcement of the new AI obligations, especially how deepfake labeling compliance is audited. Finally, track X's response to the Southeast Asian bans—whether it implements robust deepfake safeguards or faces broader platform restrictions across the region. These developments will reveal whether policymakers can keep pace with the accelerating pace of AI‑driven disruption.
+
+## Updates
+
+- **2026-06-01** — Samsung Care+ loosens restrictions on Galaxy phone age to sign up, discounted enrollment ([source](https://9to5google.com/2026/06/01/samsung-care-plus-open-enrollment-begins/))

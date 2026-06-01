@@ -1,18 +1,19 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
-modified_date: 2026-05-27T22:01:18.324Z
+modified_date: 2026-06-01T17:50:50.218Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ The success of Bumble's overhaul will depend on its ability to attract and retai
 
 ## Updates
 
+- **2026-06-01** — Sony’s new fight stick and gaming monitor launch in August ([source](https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price))
 - **2026-05-27** — The new Halide camera app launches with film looks and an upgraded photo editor ([source](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available))
 - **2026-05-20** — Apple gives update on the App Store and its key protections ([source](https://9to5mac.com/2026/05/20/apple-gives-update-on-the-app-store-and-its-key-protections/))
 - **2026-05-19** — YouTube removes dedicated ‘Subscriptions’ tab from mobile app in new test ([source](https://9to5google.com/2026/05/18/youtube-removes-subscription-tab-new-test-mobile/))

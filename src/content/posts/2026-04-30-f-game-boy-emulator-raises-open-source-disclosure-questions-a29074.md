@@ -1,16 +1,17 @@
 ---
 title: "F# Game Boy Emulator Raises Open-Source Disclosure Questions"
 date: 2026-04-30T21:18:09.089Z
-modified_date: 2026-05-23T19:18:13.299Z
+modified_date: 2026-06-01T17:51:10.996Z
 tags: ["fsharp","open-source","emulation","security-disclosure"]
 hero_image: "/hero/2026-04-30-f-game-boy-emulator-raises-open-source-disclosure-questions-a29074.jpg"
 hero_image_credit_name: "Paras Katwal"
 hero_image_credit_url: "https://www.pexels.com/@paras"
 visual_keyword: "Game Boy emulator code on a screen"
 description: "A functional programming emulator project sparks debates over transparency and development practices in open-source communities."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ For now, Kossolapov’s work stands as a proof point: even retro gaming can forc
 
 ## Updates
 
+- **2026-06-01** — Nvidia RTX Spark sounds like it might be a great Windows chip even beyond the AI ([source](https://9to5google.com/2026/06/01/nvidia-rtx-spark-windows-reveal/))
 - **2026-05-23** — What to read this weekend: The new Image Comics miniseries, Of the Earth ([source](https://www.engadget.com/2180091/what-to-read-new-image-comics-miniseries-of-the-earth/))
 - **2026-05-04** — Dating Is a Rich Person’s Game Now ([source](https://www.wired.com/story/dating-is-a-rich-persons-game-now/))
