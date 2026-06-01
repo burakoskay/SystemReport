@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Kodiak AI Funding, Tesla Safety Benchmark, and More"
 date: 2026-05-07T23:07:42.990Z
-modified_date: 2026-06-01T04:44:13.146Z
+modified_date: 2026-06-01T11:44:35.717Z
 tags: ["Kodiak AI","Tesla","Google Health","Loopletter"]
 hero_image: "/hero/2026-05-07-tech-roundup-kodiak-ai-funding-tesla-safety-benchmark-and-more-cd1cd6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Kodiak AI raises $100M at a discount, Tesla Model Y meets new safety benchmark, and Google Health app drops Fitbit features."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The downstream implications of the developments in the tech industry are signifi
 
 ## Updates
 
+- **2026-06-01** — These are the first Nvidia RTX Spark laptops ([source](https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026))
 - **2026-06-01** — The Speed of Prototyping in the Age of AI ([source](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai))
 - **2026-05-25** — Ferrari Luce unveiled: Here's the first car from Jony Ive's design house ([source](https://www.engadget.com/2180674/ferrari-luce-first-look-jony-ive/))

@@ -1,18 +1,20 @@
 ---
 title: "Toyota to Remanufacture Cars 3 Times"
 date: 2026-05-09T03:34:37.581Z
+modified_date: 2026-06-01T11:44:44.282Z
 tags: ["automotive","software","battery","sustainability"]
 hero_image: "/hero/2026-05-09-toyota-to-remanufacture-cars-3-times-daf0a5.jpg"
 hero_image_credit_name: "Freek Wolsink"
 hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "modern car factory with robots and battery swap station"
 description: "Toyota will remanufacture cars three times, Stellantis pours €30bn into software, and Nio rolls out Europe’s first five‑minute battery swap as raw material prices squeeze margins."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-09-toyota-to-remanufacture-cars-3-times-daf0a5.mp3"
 audio_bytes: 609220
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Toyota’s triple‑life refresh for UK cars
 
@@ -60,3 +62,7 @@ The next six months will reveal whether Toyota’s triple‑life program can ach
 - Quarterly lithium price reports and Tesla’s next earnings call for updated margin commentary.
 
 These data points will indicate whether the industry’s new levers—software, circular manufacturing, and battery swapping—are enough to offset raw‑material headwinds and keep EV adoption on an upward trajectory.
+
+## Updates
+
+- **2026-06-01** — The Painful Truth About Long Covid ([source](https://www.wired.com/story/the-painful-truth-about-long-covid/))

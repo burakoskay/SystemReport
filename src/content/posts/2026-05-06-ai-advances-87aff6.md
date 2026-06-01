@@ -1,19 +1,20 @@
 ---
 title: "AI Advances"
 date: 2026-05-06T06:42:07.091Z
-modified_date: 2026-05-28T23:22:43.504Z
+modified_date: 2026-06-01T11:44:48.569Z
 tags: ["AI","Nvidia","ChatRTX"]
 hero_image: "/hero/2026-05-06-ai-advances-87aff6.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "New AI developments and implications"
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-06-ai-advances-87aff6.mp3"
 audio_bytes: 587277
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ The next significant development to watch is the release of new AI-powered produ
 
 ## Updates
 
+- **2026-06-01** — Websites Can Now Spy on You Through Your Hard Drive ([source](https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/))
 - **2026-05-28** — Nitpicking the shell history scene in 'Tron: Legacy' ([source](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/))
 - **2026-05-28** — Apple TV’s two most acclaimed shows return soon, here’s what’s coming ([source](https://9to5mac.com/2026/05/28/apple-tvs-two-most-acclaimed-shows-return-soon-heres-whats-coming/))
 - **2026-05-24** — 14 New Tools for Taking on the Great Outdoors Properly ([source](https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/))
