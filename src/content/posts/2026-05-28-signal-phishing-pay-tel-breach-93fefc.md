@@ -1,17 +1,19 @@
 ---
 title: "Signal phishing, Pay Tel breach"
 date: 2026-05-28T20:34:13.136Z
+modified_date: 2026-06-01T21:39:07.872Z
 tags: ["data security","phishing attacks","insider trading"]
 hero_image: "/hero/2026-05-28-signal-phishing-pay-tel-breach-93fefc.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Signal users phished for backup keys, Pay Tel exposes 300k IDs, Google engineer wins $1.2M on Polymarket"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-28-signal-phishing-pay-tel-breach-93fefc.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"
 ---
+
 
 Signal users are being targeted with phishing attacks that harvest their backup recovery keys, potentially exposing their encrypted online backups.
 
@@ -64,3 +66,7 @@ All three incidents share a common failure: privileged data escaped its intended
 The Google engineer was arrested on February 20, 2025, and faces charges. The Pay Tel breach was discovered and secured in early February. Signal's phishing campaign was first reported in late January.
 
 The Department of Justice is expected to release a detailed indictment in the Google case. As these incidents demonstrate, data security is a critical concern for organizations and individuals alike. Companies must take proactive measures to protect sensitive information and prevent data breaches.
+
+## Updates
+
+- **2026-06-01** — MagSafe Monday: Why the PISEN 5000mAh battery pack is great for everyday carry ([source](https://9to5mac.com/2026/06/01/magsafe-monday-why-the-pisen-5000mah-battery-pack-is-great-for-everyday-carry/))

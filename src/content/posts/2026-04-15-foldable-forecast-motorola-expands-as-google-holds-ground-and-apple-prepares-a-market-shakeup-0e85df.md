@@ -1,16 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-05-12T23:06:12.193Z
+modified_date: 2026-06-01T21:38:58.939Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-06-01** — ‘Aviate,’ a Flighty-like app for Android, takes off with Play Store registration [Gallery] ([source](https://9to5google.com/2026/06/01/aviate-android-app-flighty-alternative/))
 - **2026-05-12** — Your iPhone just got a brand new colorful wallpaper, here’s how to customize it ([source](https://9to5mac.com/2026/05/12/your-iphone-just-got-a-brand-new-colorful-wallpaper-heres-how-to-customize-it/))
 - **2026-05-08** — Nintendo is raising Switch 2 prices ([source](https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results))
 - **2026-05-07** — Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web ([source](https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/))

@@ -1,15 +1,17 @@
 ---
 title: "Ex-OpenAI Staffers Raise Alarm on xAI Safety"
 date: 2026-05-19T15:41:49.033Z
+modified_date: 2026-06-01T21:38:54.450Z
 tags: ["AI Safety","xAI","SpaceX","IPO"]
 hero_image: "/hero/2026-05-19-ex-openai-staffers-raise-alarm-on-xai-safety-55a57b.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI Safety"
 description: "Former OpenAI employees warn xAI's safety record could impact SpaceX's IPO, citing need for more transparency."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Safety Concerns Raised for xAI
 
@@ -64,3 +66,7 @@ In the coming weeks, investors and regulators will be closely watching xAI's and
 The AI industry is at a critical juncture, with concerns about AI safety continuing to grow. The response of xAI and SpaceX to these concerns will be closely watched, and could have significant implications for the future of the AI industry.
 
 Moreover, this incident highlights the need for more stringent regulations and standards in the AI industry. As AI systems become increasingly powerful and ubiquitous, the importance of ensuring their safety and reliability will only continue to grow.
+
+## Updates
+
+- **2026-06-01** — Meta reportedly has several new smart glasses in the works ([source](https://9to5google.com/2026/06/01/meta-new-smart-glasses-report/))
