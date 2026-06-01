@@ -1,18 +1,20 @@
 ---
 title: "Intel Reorgs Foundry"
 date: 2026-05-15T10:30:27.443Z
+modified_date: 2026-06-01T23:39:05.014Z
 tags: ["Intel","Foundry","18A Process Technology"]
 hero_image: "/hero/2026-05-15-intel-reorgs-foundry-bdfc56.jpg"
 hero_image_credit_name: "Jordan Harrison"
 hero_image_credit_url: "https://www.pexels.com/@jord"
 visual_keyword: "Intel Foundry"
 description: "Intel's technology development chief Ann Kelleher to retire, succeeded by Naga Chandrasekaran and Navid Shahriari"
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-05-15-intel-reorgs-foundry-bdfc56.mp3"
 audio_bytes: 617161
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Leadership Shift at Intel
 Intel's executive vice president, Dr. Ann Kelleher, has announced plans to retire later this year after three decades at the company. Kelleher has been responsible for developing Intel's fabrication technologies since 2020. Her retirement marks a significant shift in leadership as Intel prepares to start production on its 18A process technology.
@@ -46,3 +48,7 @@ The downstream implications of the 18A process technology extend beyond Intel's 
 
 ## What's Next
 As Intel starts production on its 18A process technology, the company is expected to face significant challenges in terms of yield and performance. The leadership shift is seen as a strategic move to ensure that the company can meet its production targets and deliver high-quality products to its customers. The success of the 18A process technology will be critical to Intel's future growth and competitiveness in the semiconductor industry. The company's ability to execute on its foundry priorities will be closely watched by investors and industry analysts.
+
+## Updates
+
+- **2026-06-01** — How to make the Startup Battlefield Top 20 — and what every company gets regardless ([source](https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/))

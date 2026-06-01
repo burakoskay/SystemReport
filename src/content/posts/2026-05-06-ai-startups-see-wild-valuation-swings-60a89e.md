@@ -1,14 +1,16 @@
 ---
 title: "AI Startups See Wild Valuation Swings"
 date: 2026-05-06T17:46:51.955Z
+modified_date: 2026-06-01T23:39:09.212Z
 tags: ["AI","Startups","Valuation"]
 hero_image: "/hero/2026-05-06-ai-startups-see-wild-valuation-swings-60a89e.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "DeepSeek's valuation jumps to $45B, Samsung hits $1T on AI chip demand"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## DeepSeek's Valuation Jumps
 DeepSeek's potential valuation has reportedly jumped from $20 billion to $45 billion in a matter of weeks. This increase comes as the company secures its first investment round. Details about the investors and the round's specifics remain scarce.
@@ -49,3 +51,7 @@ The growth of the AI sector will also have significant implications for the broa
 The coming months will determine the long-term viability and impact of these AI startups and companies. Key indicators to watch include DeepSeek's product announcements, Samsung's continued performance in the AI chip market, and the growth trajectory of companies like Ethos. These developments will provide insight into the sector's direction and potential for innovation.
 
 The growth of the AI sector will also be influenced by regulatory developments, with governments around the world considering new regulations and laws to govern the use of AI technologies. Companies like DeepSeek and Samsung will need to navigate these regulatory developments to ensure that they are in compliance with new laws and regulations.
+
+## Updates
+
+- **2026-06-01** — Alphabet plans to raise $80B to pay for AI buildout ([source](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/))
