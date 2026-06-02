@@ -1,18 +1,20 @@
 ---
 title: "VCs Bet on Gaming, Entertainment Mergers"
 date: 2026-05-29T16:01:57.673Z
+modified_date: 2026-06-02T20:55:55.650Z
 tags: ["VCs","gaming","entertainment","AI"]
 hero_image: "/hero/2026-05-29-vcs-bet-on-gaming-entertainment-mergers-2d8449.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "gaming"
 description: "Top VCs share their media investment theses, focusing on AI, gaming, and interactive media."
-sources_count: 4
-author: "sam-whitfield"
+sources_count: 5
 audio_path: "/audio/2026-05-29-vcs-bet-on-gaming-entertainment-mergers-2d8449.mp3"
 audio_bytes: 593547
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Gaming and Entertainment Mergers on VC Radar
 
@@ -73,3 +75,7 @@ However, there are also potential risks and challenges associated with these inv
 In conclusion, the venture capital community is betting big on the gaming and entertainment industries, with a focus on AI, gaming, and interactive media. These investments are poised to transform the way we consume and interact with media, and it's clear that VC investments will play a major role in shaping the future of these industries.
 
 The future of media and entertainment is likely to be shaped by the intersection of technology, creativity, and business. As VC investments continue to flow into the industry, we can expect to see new and innovative companies emerge, pushing the boundaries of what's possible in media and entertainment.
+
+## Updates
+
+- **2026-06-02** — Dashlane says hackers stole password vaults via a 'brute force attack' ([source](https://www.engadget.com/2186075/dashlane-says-hackers-stole-password-vaults-via-a-brute-force-attack/))

@@ -1,18 +1,20 @@
 ---
 title: "US Proposes New Funding Rules with Stricter Grant Oversight"
 date: 2026-05-30T03:53:04.386Z
+modified_date: 2026-06-02T20:55:29.123Z
 tags: ["US government","grant funding","research"]
 hero_image: "/hero/2026-05-30-us-proposes-new-funding-rules-with-stricter-grant-oversight-cd0425.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "grant funding"
 description: "The US government proposes new funding rules allowing for the cancellation of grants at any time and making peer review optional."
-sources_count: 5
-author: "lena-volkov"
+sources_count: 6
 audio_path: "/audio/2026-05-30-us-proposes-new-funding-rules-with-stricter-grant-oversight-cd0425.mp3"
 audio_bytes: 550079
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Stricter Oversight for US Grants
@@ -64,3 +66,7 @@ The impact of the rules on the research process will depend on how they are impl
 The implementation of the proposed rules and their impact on research in the US. The rules could lead to a decrease in the quality of research and a decrease in the advancement of knowledge. The research community will be closely watching the implementation of the rules and their impact on the grant-making process.
 
 The proposed rules are a significant development in the grant-making process, and their impact will be closely watched by the research community. The government will need to balance the need for oversight and accountability with the need to allow researchers to pursue their own research questions.
+
+## Updates
+
+- **2026-06-02** — I held the next-gen handheld ([source](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview))

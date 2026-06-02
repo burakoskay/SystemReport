@@ -1,15 +1,17 @@
 ---
 title: "Google's Gemini AI Gets Embedded in Android and Google Apps"
 date: 2026-05-03T22:51:39.290Z
+modified_date: 2026-06-02T20:55:46.823Z
 tags: ["Google","Gemini AI","Android","Google Apps"]
 hero_image: "/hero/2026-05-03-google-s-gemini-ai-gets-embedded-in-android-and-google-apps-a75df3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google Gemini AI"
 description: "Google's AI model Gemini is being integrated into Android and Google apps, enhancing user experience with features like image generation, task automation, and personalized assistance."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## Google Embeds Gemini AI in Android and Google Apps
 
@@ -58,3 +60,7 @@ The future of AI assistants is looking more integrated and intelligent. With the
 ## Conclusion
 
 In conclusion, the integration of Gemini AI in Android and Google apps marks a significant shift in how users interact with their devices and services. With more personalized and automated features, users can expect a more seamless and efficient experience. Developers will also have new opportunities to create more integrated and intelligent apps. As the tech industry continues to evolve, one thing is clear: AI-powered assistants are here to stay, and Google is at the forefront of this revolution.
+
+## Updates
+
+- **2026-06-02** — Android Is Fighting Phone Scams With a New Feature to Prove Who’s Calling ([source](https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/))

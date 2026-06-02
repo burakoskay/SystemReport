@@ -1,14 +1,16 @@
 ---
 title: "Hormuz Crisis Drives Up Container Shipping Rates Sharply"
 date: 2026-05-30T23:06:48.825Z
+modified_date: 2026-06-02T20:55:15.573Z
 tags: ["Hormuz Strait","Container Shipping","Global Trade"]
 hero_image: "/hero/2026-05-30-hormuz-crisis-drives-up-container-shipping-rates-sharply-4074ae.jpg"
 hero_image_credit_name: "Wolfgang Weiser"
 hero_image_credit_url: "https://www.pexels.com/@wolfgang-weiser-467045605"
 visual_keyword: "container ships"
 description: "Tensions in the Hormuz Strait lead to significant increase in container shipping rates."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Rate Surge
@@ -46,3 +48,7 @@ The crisis in the Hormuz Strait has significant implications for global trade an
 The current crisis has also highlighted the need for greater investment in maritime security, particularly in the Gulf region. The development of more secure and resilient supply chains will be critical in mitigating the risks associated with global trade. This may involve the development of new technologies, such as autonomous ships and advanced surveillance systems, as well as greater collaboration between governments and the private sector.
 
 In conclusion, the crisis in the Hormuz Strait has significant implications for global trade and the shipping industry. As the situation continues to unfold, it will be important to monitor the response of major shipping companies and governments, and to assess the impact on global trade routes and supply chains. The stakes are high, and the consequences of inaction could be severe.
+
+## Updates
+
+- **2026-06-02** — Cyberdecks are having a moment, rejecting big tech surveillance with style and substance ([source](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/))
