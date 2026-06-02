@@ -1,16 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
-modified_date: 2026-05-27T15:57:11.532Z
+modified_date: 2026-06-02T04:23:06.715Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 ## Introduction to Summer Games Done Quick
@@ -35,4 +36,5 @@ Overall, the Summer Games Done Quick event is a great opportunity for gamers and
 
 ## Updates
 
+- **2026-06-02** — ASUS's ExpertBook B5 Flip G2 is a 2.9 pound 360 touchscreen laptop ([source](https://www.engadget.com/2184801/asuss-expertbook-b5-flip-g2-is-a-29-pound-360-touchscreen-laptop/))
 - **2026-05-27** — Samsung Galaxy flagships to see price hikes in June for some regions, report claims ([source](https://9to5google.com/2026/05/27/samsung-galaxy-flagship-price-hikes-report/))

@@ -1,30 +1,30 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
-    "last_success": "2026-06-01T23:40:57.945Z",
+    "last_success": "2026-06-02T04:25:02.786Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 500000, Used 499963, Requested 3860. Please try again in 11m0.6144s. Need more tokens? Upgr",
-    "last_failure": "2026-06-01T23:41:05.950Z",
-    "cooldown_until": "2026-06-01T23:51:05.908Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `meta-llama/llama-4-scout-17b-16e-instruct` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 30000, Used 28364, Requested 2425. Please try again in 1.578s. Need more tokens? Upgrade",
+    "last_failure": "2026-06-02T04:25:25.951Z",
+    "cooldown_until": "2026-06-02T04:35:25.893Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-06-01T23:42:36.559Z",
+    "last_success": "2026-06-02T04:29:07.328Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5130, Requested 3626. Please try again in 5.67s. Need more tokens? Upgrade to Dev Tier today at htt",
-    "last_failure": "2026-06-01T23:42:36.601Z",
-    "cooldown_until": "2026-06-01T23:52:36.561Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5023, Requested 3578. Please try again in 4.5075s. Need more tokens? Upgrade to Dev Tier today at h",
+    "last_failure": "2026-06-02T04:29:07.371Z",
+    "cooldown_until": "2026-06-02T04:39:07.329Z"
   },
   "groq:qwen/qwen3-32b": {
-    "last_success": "2026-06-01T23:41:03.723Z",
+    "last_success": "2026-06-02T04:26:32.793Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `qwen/qwen3-32b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 4822, Requested 1613. Please try again in 4.35s. Need more tokens? Upgrade to Dev Tier today at https://",
     "last_failure": "2026-05-31T11:43:54.502Z"
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98626, Requested 1544. Please try again in 2m26.88s. Need more tokens? Upgrade to Dev Tier today",
-    "last_failure": "2026-06-01T23:39:39.512Z",
-    "last_success": "2026-06-01T23:39:34.580Z",
-    "cooldown_until": "2026-06-01T23:49:39.459Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99444, Requested 4011. Please try again in 49m45.12s. Need more tokens? Upgrade to Dev Tier toda",
+    "last_failure": "2026-06-02T04:24:32.071Z",
+    "last_success": "2026-06-02T04:23:54.953Z",
+    "cooldown_until": "2026-06-02T04:34:32.006Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 5,
@@ -40,18 +40,17 @@
     "cooldown_until": "2026-06-27T23:31:24.074Z"
   },
   "groq:llama-3.1-8b-instant": {
-    "last_success": "2026-06-01T23:41:17.565Z",
+    "last_success": "2026-06-02T04:25:30.345Z",
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 4418, Requested 1987. Please try again in 4.05s. Need more tokens? Upgrade to Dev Tier today at ht",
-    "last_failure": "2026-06-01T23:41:17.606Z",
-    "cooldown_until": "2026-06-01T23:51:17.566Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 3541, Requested 3769. Please try again in 13.1s. Need more tokens? Upgrade to Dev Tier today at ht",
+    "last_failure": "2026-06-02T04:25:54.938Z",
+    "cooldown_until": "2026-06-02T04:35:54.877Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (a5f692cb-10e5-4269-8a98-4597095bd8dc)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-06-01T23:42:36.670Z",
-    "last_success": "2026-06-01T11:46:08.880Z",
-    "cooldown_until": "2026-06-01T23:52:36.561Z"
+    "last_success": "2026-06-02T04:29:18.922Z"
   },
   "groq:openai/gpt-oss-20b": {
     "last_success": "2026-06-01T23:42:37.814Z",
@@ -60,9 +59,9 @@
     "last_failure": "2026-06-01T21:58:18.899Z"
   },
   "cloudflare:@cf/meta/llama-3.1-8b-instruct": {
-    "consecutive_failures": 60,
-    "last_error": "Cloudflare 400: {\"errors\":[{\"message\":\"AiError: AiError: invalid prompt: failed to parse prompt: unknown variant `json_object`, expected `json_schema` at line 1 column 1872 (2f13c3a4-dd9c-44d8-a9c7-819804cc00f4)\",\"code\":9015}],\"success\":false,\"result\":{},\"messages\":[]}",
-    "last_failure": "2026-05-31T23:08:05.014Z",
+    "consecutive_failures": 61,
+    "last_error": "Cloudflare 400: {\"errors\":[{\"message\":\"AiError: AiError: invalid prompt: failed to parse prompt: unknown variant `json_object`, expected `json_schema` at line 1 column 1963 (0fba7e68-38b5-4876-a107-18229dda11bf)\",\"code\":9015}],\"success\":false,\"result\":{},\"messages\":[]}",
+    "last_failure": "2026-06-02T04:26:31.161Z",
     "cooldown_until": "2026-05-31T14:11:44.894Z"
   },
   "gemini:gemini-2.5-flash-lite": {
