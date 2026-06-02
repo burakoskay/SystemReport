@@ -1,15 +1,16 @@
 ---
 title: "WIRED's Verified Discounts for May 2026"
 date: 2026-05-14T06:50:12.741Z
-modified_date: 2026-06-01T17:51:15.164Z
+modified_date: 2026-06-02T16:42:38.195Z
 tags: ["Retail","Discounts","Promotions","Sephora","Birdfy"]
 hero_image: "/hero/2026-05-14-wired-s-verified-discounts-for-may-2026-93350b.jpg"
 hero_image_credit_name: "David Kouakou"
 hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
-sources_count: 11
+sources_count: 12
 ---
+
 
 
 
@@ -34,5 +35,6 @@ Consumer behavior and preferences are constantly evolving, and retailers must be
 
 ## Updates
 
+- **2026-06-02** — Cricut&#8217;s Joy 2 helps you personalize Father&#8217;s Day gifts, and it&#8217;s at its lowest price yet ([source](https://www.theverge.com/gadgets/941696/cricut-joy-2-rainbow-essential-bundle-deal-sale))
 - **2026-06-01** — Deals: Galaxy Z Fold 7 $779+ off, Tab S10 Lite $300, M8 Smart Monitor 50% off, Pixelsnap cases, more ([source](https://9to5google.com/2026/06/01/deals-galaxy-z-fold-7-tab-s10-lite-m8-smart-monitor/))
 - **2026-05-19** — Barkbox Promo Codes and Discounts: Up to 50% Off ([source](https://www.wired.com/story/barkbox-promo-code/))

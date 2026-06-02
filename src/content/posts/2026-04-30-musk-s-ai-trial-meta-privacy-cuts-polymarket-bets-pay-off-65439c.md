@@ -1,15 +1,17 @@
 ---
 title: "Musk's AI Trial, Meta Privacy Cuts, Polymarket Bets Pay Off"
 date: 2026-04-30T23:02:48.544Z
+modified_date: 2026-06-02T16:43:32.949Z
 tags: ["elon musk","openai trial","meta contractors","polymarket bets","privacy concerns"]
 hero_image: "/hero/2026-04-30-musk-s-ai-trial-meta-privacy-cuts-polymarket-bets-pay-off-65439c.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "elon musk in courtroom with meta and polymarket logos in background"
 description: "Elon Musk's OpenAI trial, Meta's contractor cuts over privacy, and Polymarket's successful military action bets highlight ongoing tech controversies."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Corporate Accountability in the Tech Spotlight
 
@@ -38,3 +40,7 @@ Regulators have yet to propose binding frameworks for these issues. The FTC's on
 ## What to Watch Next
 
 The OpenAI trial verdict is scheduled for July 15. A ruling against OpenAI could force restructuring of its Microsoft partnership and accelerate Musk's xAI timelines. Meta's Kenya layoffs may prompt renewed scrutiny of its Reality Labs moderation policies in the EU. For Polymarket, the key development will be whether the SEC classifies its military action contracts as securities. Each of these cases will test how effectively legal systems can constrain corporate behavior in rapidly evolving tech sectors.
+
+## Updates
+
+- **2026-06-02** — iPhone Ultra might have tech innovation over 15 years in the making ([source](https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/))

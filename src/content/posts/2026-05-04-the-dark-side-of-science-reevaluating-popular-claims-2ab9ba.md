@@ -1,19 +1,20 @@
 ---
 title: "The Dark Side of Science: Reevaluating Popular Claims"
 date: 2026-05-04T10:22:46.549Z
-modified_date: 2026-05-10T17:01:15.983Z
+modified_date: 2026-06-02T16:42:17.055Z
 tags: ["science","research","transparency"]
 hero_image: "/hero/2026-05-04-the-dark-side-of-science-reevaluating-popular-claims-2ab9ba.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "science"
 description: "Researchers challenge popular scientific claims, including the benefits of power posing and Calico's secrecy in aging research."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-04-the-dark-side-of-science-reevaluating-popular-claims-2ab9ba.mp3"
 audio_bytes: 595009
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ The availability of funding and resources can have a significant impact on the c
 
 ## Updates
 
+- **2026-06-02** — Password manager Dashlane says hackers stole some customers’ password vaults ([source](https://techcrunch.com/2026/06/02/password-manager-dashlane-says-hackers-stole-some-customers-password-vaults/))
 - **2026-05-10** — Task Paralysis and AI ([source](https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html))

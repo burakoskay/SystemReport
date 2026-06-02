@@ -1,16 +1,17 @@
 ---
 title: "Musk sues OpenAI as trial tests nonprofit AI promise"
 date: 2026-04-27T21:11:54.883Z
-modified_date: 2026-05-20T18:22:36.115Z
+modified_date: 2026-06-02T16:42:12.868Z
 tags: ["ai","lawsuit","openai","elon-musk","techpolicy"]
 hero_image: "/hero/2026-04-27-musk-sues-openai-as-trial-tests-nonprofit-ai-promise-732e1b.jpg"
 hero_image_credit_name: "KATRIN  BOLOVTSOVA"
 hero_image_credit_url: "https://www.pexels.com/@ekaterina-bolovtsova"
 visual_keyword: "courtroom with AI symbols and legal documents"
 description: "Elon Musk’s lawsuit claims OpenAI betrayed its nonprofit charter, and a federal trial in Oakland will decide the future of open artificial intelligence."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The Oakland trial will produce a factual record on how OpenAI’s governance div
 
 ## Updates
 
+- **2026-06-02** — Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands ([source](https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/))
 - **2026-05-20** — Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27 ([source](https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/))
 - **2026-05-13** — Denon Home 200, 400 and 600 review: Taking on Sonos ([source](https://www.engadget.com/2171196/denon-home-200-400-and-600-review-taking-on-sonos/))
 - **2026-05-05** — OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT ([source](https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/))

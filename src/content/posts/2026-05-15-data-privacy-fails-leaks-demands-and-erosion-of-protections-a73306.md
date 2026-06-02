@@ -1,15 +1,17 @@
 ---
 title: "Data Privacy Fails: Leaks, Demands, and Erosion of Protections"
 date: 2026-05-15T21:15:59.532Z
+modified_date: 2026-06-02T16:43:16.158Z
 tags: ["data privacy","cybersecurity","data breaches","surveillance","legislation"]
 hero_image: "/hero/2026-05-15-data-privacy-fails-leaks-demands-and-erosion-of-protections-a73306.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "data breach timeline with exposed documents"
 description: "Hotel systems, travel platforms, and government actions expose sensitive data, highlighting security gaps."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 Millions of sensitive records are now exposed or under threat from misconfigured systems, government overreach, and legislative rollbacks. A hotel check-in company left a million passports and driver’s licenses public in cloud storage. Booking.com warned customers that names, addresses, and phone numbers may have been accessed. Meanwhile, the Department of Justice is demanding identities of 100,000 users of a car app, while Congress moves to weaken federal privacy laws.
 
@@ -35,3 +37,7 @@ Computer scientist Ed Felten argues that call records can reveal health struggle
 
 ## What to Watch
 Congressional hearings on the 2015 bill will determine whether protections for call records survive. Booking.com’s security team must demonstrate how it’s preventing future breaches. And the DOJ’s EZ Lynk request will test how aggressively agencies can push for user data without clear legal boundaries. For now, the pattern is clear: when companies and governments treat data as an afterthought, users pay the price.
+
+## Updates
+
+- **2026-06-02** — Motorola Edge (2026) is coming to the US for $599 with a smaller 6.3-inch display ([source](https://9to5google.com/2026/06/02/motorola-edge-2026-specs-price-release-date/))

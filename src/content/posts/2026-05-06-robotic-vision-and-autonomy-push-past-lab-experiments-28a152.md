@@ -1,16 +1,17 @@
 ---
 title: "Robotic Vision and Autonomy Push Past Lab Experiments"
 date: 2026-05-06T17:59:00.610Z
-modified_date: 2026-05-26T18:32:07.091Z
+modified_date: 2026-06-02T16:42:42.386Z
 tags: ["robotics","autonomous vehicles","ai development"]
 hero_image: "/hero/2026-05-06-robotic-vision-and-autonomy-push-past-lab-experiments-28a152.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "robotic hands manipulating objects under varying light conditions"
 description: "Genesis AI and Foxglove showcase breakthroughs in robotics and autonomous systems, while HDR cameras address real-world challenges."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ What's next: Watch for three things. First, Genesis AI's public benchmarking of 
 
 ## Updates
 
+- **2026-06-02** — Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more ([source](https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates))
 - **2026-05-26** — iPadOS 26.6 beta 1 now available, plus watchOS 26.6, tvOS 26.6, more ([source](https://9to5mac.com/2026/05/26/ipados-26-6-beta-1-now-available-plus-watchos-26-6-tvos-26-6-more/))
 - **2026-05-13** — DeepMind details Googlebook ‘Magic Pointer’ with demos you can try, also coming to Gemini in Chrome ([source](https://9to5google.com/2026/05/12/deepmind-googlebook-magic-pointer/))
 - **2026-05-07** — Valve will open reservations on May 8 for the second wave of Steam Controllers ([source](https://www.engadget.com/2167230/valve-will-open-reservations-on-may-8-for-the-second-wave-of-steam-controllers/))

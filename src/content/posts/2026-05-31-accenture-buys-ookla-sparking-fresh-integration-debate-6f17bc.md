@@ -1,15 +1,17 @@
 ---
 title: "Accenture buys Ookla, sparking fresh integration debate"
 date: 2026-05-31T04:32:06.248Z
+modified_date: 2026-06-02T16:43:37.128Z
 tags: ["acquisition","ookla","consulting"]
 hero_image: "/hero/2026-05-31-accenture-buys-ookla-sparking-fresh-integration-debate-6f17bc.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "office meeting with data dashboards"
 description: "Accenture's acquisition of Speedtest.net owner Ookla highlights the recurring challenges large firms face when absorbing startup assets."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Accenture's deal with Ookla
 Accenture announced it will acquire Ookla, the company behind the widely used Speedtest.net service. The move puts a consulting heavyweight in control of one of the internet's most visible consumer data points. Accenture did not disclose the purchase price or the timeline for closing the transaction. The announcement appeared on a typical corporate press release and was quickly echoed on tech news sites.
@@ -33,3 +35,7 @@ When valuations are inflated, the risk of integration failure grows. Venture cap
 
 ## What to watch
 Accenture’s next moves will reveal how seriously it takes the integration challenge. Key indicators include whether Ookla retains its engineering team, how quickly Accenture rolls out new analytics offerings built on Speedtest data, and whether regulators raise any antitrust concerns about a consulting giant controlling a major internet measurement platform. Observers should also track any announcements about product roadmaps that blend Accenture’s consulting services with Ookla’s data capabilities. The success or failure of this deal could shape how other large firms approach future purchases of data‑centric startups.
+
+## Updates
+
+- **2026-06-02** — Apple TV reveals Silo season 3’s split-timeline plot, here’s the trailer ([source](https://9to5mac.com/2026/06/02/apple-tv-reveals-silo-season-3s-split-timeline-plot-heres-the-trailer/))

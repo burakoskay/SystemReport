@@ -1,16 +1,17 @@
 ---
 title: "Companies Use Unrelated Press Releases to Distract from Bad News"
 date: 2026-05-02T09:18:51.381Z
-modified_date: 2026-06-01T17:51:27.562Z
+modified_date: 2026-06-02T16:43:07.686Z
 tags: ["SEC","8-K filings","investor relations"]
 hero_image: "/hero/2026-05-02-companies-use-unrelated-press-releases-to-distract-from-bad-news-e1c954.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "press release"
 description: "A study finds that companies strategically issue unrelated press releases on the same day they file negative news with the SEC via Form 8-K."
-sources_count: 11
+sources_count: 12
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ In conclusion, the study provides new insights into the use of unrelated press r
 
 ## Updates
 
+- **2026-06-02** — Trump signs scaled-back AI cybersecurity order ([source](https://www.engadget.com/2185845/trump-signs-scaled-back-ai-cybersecurity-order/))
 - **2026-06-01** — The newest Instagram “exploit” is the goofiest I've seen ([source](https://www.0xsid.com/blog/meta-account-takeover-fiasco))
 - **2026-05-18** — Apple ordered to cooperate with India antitrust probe as court declines to pause case ([source](https://9to5mac.com/2026/05/18/apple-ordered-to-cooperate-with-india-antitrust-probe-as-court-declines-to-pause-case/))
 - **2026-05-18** — Apple gift card scam cost buyers hundreds of millions of dollars ([source](https://9to5mac.com/2026/05/18/apple-gift-card-scam-cost-buyers-hundreds-of-millions-of-dollars/))

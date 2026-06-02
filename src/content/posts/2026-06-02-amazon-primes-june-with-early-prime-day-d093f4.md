@@ -1,14 +1,16 @@
 ---
 title: "Amazon primes June with early Prime Day"
 date: 2026-06-02T10:51:41.265Z
+modified_date: 2026-06-02T16:42:29.729Z
 tags: ["Amazon","Prime Day","e-commerce","Whoop"]
 hero_image: "/hero/2026-06-02-amazon-primes-june-with-early-prime-day-d093f4.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "Amazon Prime Day"
 description: "Amazon shifts Prime Day to June 23-26, while Whoop offers 20% off memberships"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Amazon primes June with early Prime Day
@@ -41,3 +43,6 @@ Monitor whether Amazon extends early-ticket windows to other blockbuster release
 ## Broader implications for e-commerce
 The e-commerce landscape is expected to continue growing, with more consumers turning to online shopping. As a result, companies like Amazon and Whoop must prioritize their digital strategies, investing in personalized experiences and timely promotions. The success of these strategies will depend on their ability to adapt to changing consumer preferences and stay ahead of the competition.
 
+## Updates
+
+- **2026-06-02** — Amazon Prime Day 2026 takes place June 23-26 ([source](https://techcrunch.com/2026/06/02/amazon-prime-day-2026-takes-place-june-23-26/))
