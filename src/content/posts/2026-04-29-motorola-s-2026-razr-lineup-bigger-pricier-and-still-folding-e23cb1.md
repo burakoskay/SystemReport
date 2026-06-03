@@ -1,19 +1,20 @@
 ---
 title: "Motorola's 2026 Razr Lineup: Bigger, Pricier, and Still Folding"
 date: 2026-04-29T19:52:58.966Z
-modified_date: 2026-05-31T04:16:05.145Z
+modified_date: 2026-06-03T04:42:44.310Z
 tags: ["motorola","razr","foldable phones","smartphone reviews"]
 hero_image: "/hero/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.jpg"
 hero_image_credit_name: "Md Imran"
 hero_image_credit_url: "https://www.pexels.com/@im19"
 visual_keyword: "modestly upgraded foldable phone with stylus support"
 description: "Motorola's 2026 Razr lineup grows in size and cost, with new book-style foldables and native stylus support"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.mp3"
 audio_bytes: 664600
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Motorola’s 2026 Razr line will begin shipping in October, with pre-orders open
 
 ## Updates
 
+- **2026-06-03** — Google releases Fitbit Air blueprints to let anyone make bands, accessories ([source](https://9to5google.com/2026/06/02/fitbit-air-blueprints/))
 - **2026-05-31** — Leaked photo compares Samsung’s wider Galaxy Z Fold 8 to the ‘Ultra’ one ([source](https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/))
 - **2026-05-23** — DeepSeek permanently reduces the price of its flagship V4 model by 75 percent ([source](https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/))
 - **2026-05-08** — Google Fitbit Air preorders come with a second band for free ([source](https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale))
