@@ -1,14 +1,16 @@
 ---
 title: "OSHA Probes SpaceX Starbase Worker Death"
 date: 2026-05-19T11:28:51.973Z
+modified_date: 2026-06-03T23:48:48.349Z
 tags: ["SpaceX","OSHA","Worker Safety"]
 hero_image: "/hero/2026-05-19-osha-probes-spacex-starbase-worker-death-fb23ae.jpg"
 hero_image_credit_name: "Jeswin  Thomas"
 hero_image_credit_url: "https://www.pexels.com/@jeswin"
 visual_keyword: "SpaceX Starbase facility"
 description: "OSHA investigates worker death at SpaceX's Starbase site, where injury rates are higher than other SpaceX facilities."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## OSHA Probes SpaceX Starbase Worker Death
@@ -48,3 +50,7 @@ The incident at Starbase comes at a time when regulatory bodies are scrutinizing
 The OSHA investigation into the worker death at SpaceX's Starbase facility underscores the need for enhanced safety measures in the space industry. As companies push the boundaries of space exploration, they must prioritize worker safety. The outcome of this investigation will be crucial in determining the future of safety practices at SpaceX and beyond.
 
 The source material does not provide details about the deceased worker or the specific incident, nor quantify the facility's higher injury rate. OSHA's investigation continues.
+
+## Updates
+
+- **2026-06-03** — Trump plan to test AI models has a problem—US security teams were gutted by DOGE ([source](https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/))

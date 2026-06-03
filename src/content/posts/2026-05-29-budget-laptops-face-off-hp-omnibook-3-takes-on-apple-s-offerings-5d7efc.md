@@ -1,15 +1,17 @@
 ---
 title: "Budget Laptops Face-Off: HP Omnibook 3 Takes on Apple's Offerings"
 date: 2026-05-29T15:55:38.327Z
+modified_date: 2026-06-03T23:48:52.726Z
 tags: ["budget laptops","HP Omnibook 3","Apple"]
 hero_image: "/hero/2026-05-29-budget-laptops-face-off-hp-omnibook-3-takes-on-apple-s-offerings-5d7efc.jpg"
 hero_image_credit_name: "Usen Parmanov"
 hero_image_credit_url: "https://www.pexels.com/@usen-parmanov-442859060"
 visual_keyword: "laptop"
 description: "HP's Omnibook 3 delivers power and performance at $600, but how does it compare to Apple's budget options? Meanwhile, Acer announces a new budget laptop with Qualcomm's Snapdragon C chip."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 
 ## HP Omnibook 3 Review: A Budget Laptop with a Focus on Performance
@@ -71,3 +73,7 @@ However, the growth of the budget laptop market also poses challenges for other 
 The prevalence of fake reviews on Amazon also highlights the need for consumers to be vigilant and critically evaluate the reviews they read. By doing so, consumers can make informed purchasing decisions and avoid being misled by fake reviews.
 
 The downstream implications of the budget laptop market highlight the complex interplay between various stakeholders. By understanding these implications, manufacturers, consumers, and other stakeholders can navigate the market and make informed decisions.
+
+## Updates
+
+- **2026-06-03** — Autonomous vehicles were supposed to cut traffic—what if they don't? ([source](https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/))

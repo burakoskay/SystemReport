@@ -1,18 +1,20 @@
 ---
 title: "TechCrunch Disrupt 2026 Early Bird Deadline Sparks Frenzy"
 date: 2026-05-29T18:44:30.384Z
+modified_date: 2026-06-03T23:49:01.544Z
 tags: ["tech conferences","startup events","industry trends"]
 hero_image: "/hero/2026-05-29-techcrunch-disrupt-2026-early-bird-deadline-sparks-frenzy-81b944.jpg"
 hero_image_credit_name: "Atlantic Ambience"
 hero_image_credit_url: "https://www.pexels.com/@freestockpro"
 visual_keyword: "crowded conference hall with glowing nameplates"
 description: "Last‑minute discount ends tonight, forcing founders and engineers to decide fast amid a jam‑packed fall conference slate."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-29-techcrunch-disrupt-2026-early-bird-deadline-sparks-frenzy-81b944.mp3"
 audio_bytes: 556348
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Disrupt’s final price cut
 TechCrunch Disrupt 2026 drops its ticket price by up to $410 if you register before 11:59 p.m. PT tonight. The deadline forces anyone eyeing the event to act now or pay a premium later.
@@ -36,3 +38,7 @@ At the same time, the price cut highlights the price sensitivity of the communit
 
 ## What to watch
 Track registration numbers for Disrupt after the deadline; a sharp drop would indicate that the early‑bird incentive was the primary driver of attendance. Also monitor how Meta’s Connect and Vox’s Code shape the narrative around AI and hardware, which will influence the topics that dominate Disrupt’s stage. The next data point worth watching is the post‑event sponsor feedback, which will reveal whether the crowded calendar diluted or amplified the value of each gathering.
+
+## Updates
+
+- **2026-06-03** — The co-creator of Scavengers Reign is working on a new show for Netflix ([source](https://www.engadget.com/2187072/the-co-creator-of-scavengers-reign-is-working-on-a-new-show-for-netflix/))

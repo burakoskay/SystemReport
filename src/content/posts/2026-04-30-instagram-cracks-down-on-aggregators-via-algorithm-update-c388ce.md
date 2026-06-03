@@ -1,14 +1,16 @@
 ---
 title: "Instagram cracks down on aggregators via algorithm update"
 date: 2026-04-30T14:17:01.573Z
+modified_date: 2026-06-03T23:48:57.147Z
 tags: ["Instagram","Content Aggregation","Algorithm Update","Original Content","Meme Creators","Aggregator Accounts","Social Media","Regulatory Pressure","Content Ecosystem"]
 hero_image: "/hero/2026-04-30-instagram-cracks-down-on-aggregators-via-algorithm-update-c388ce.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Instagram algorithm update"
 description: "Instagram's algorithm update targets content aggregators re-uploading others' posts without original content, affecting meme creators and aggregator accounts."
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## The Update Targets Content Aggregators
 
@@ -57,3 +59,7 @@ Instagram's update reflects the growing regulatory pressure on social media plat
 ## Conclusion
 
 Instagram's algorithm update marks a significant shift in the platform's priorities, as it seeks to promote original content creators and reduce the influence of content aggregators. This move has significant implications for the content ecosystem, potentially forcing meme creators and aggregator accounts to adapt to the new algorithm. As the platform continues to evolve, users can expect to see a shift in the type of content that appears on their feeds, with original content creators likely to benefit from the new algorithmic priorities.
+
+## Updates
+
+- **2026-06-03** — Inside Meta's attempts to play catch-up with AI ([source](https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/))
