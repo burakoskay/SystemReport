@@ -1,16 +1,17 @@
 ---
 title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
-modified_date: 2026-05-23T11:20:57.497Z
+modified_date: 2026-06-03T16:59:59.741Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"
 description: "From NASA's lunar nuclear reactors to the search for life in alien caves and the shifting dynamics of commercial launches, humanity is charting an ambitious new course in space."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ is becoming a paramount factor. This competitive landscape is driving innovation
 
 ## Updates
 
+- **2026-06-03** — Deals: Early Prime Day AirPods discounts, 24GB MacBook Air, Apple Watch Ultra 3, Apple cables from $7.50, more ([source](https://9to5mac.com/2026/06/03/early-prime-day-deals-airpods-macbook-apple-watch-ultra/))
 - **2026-05-23** — The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026) ([source](https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/))
 - **2026-05-11** — Monday’s best Android app deals and freebies: Conquistadorio, Homo Machina, Lara Croft GO, more ([source](https://9to5toys.com/2026/05/11/monday-best-android-app-deals-conquistadorio-lara-croft-go/))
 - **2026-05-06** — The Best Bed Frames, Tested in Our Own Rooms (2026) ([source](https://www.wired.com/story/best-bed-frames/))

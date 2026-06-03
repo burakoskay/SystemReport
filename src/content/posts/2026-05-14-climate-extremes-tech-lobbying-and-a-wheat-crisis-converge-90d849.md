@@ -1,16 +1,17 @@
 ---
 title: "Climate Extremes, Tech Lobbying, and a Wheat Crisis Converge"
 date: 2026-05-14T14:38:46.166Z
-modified_date: 2026-05-20T18:22:39.053Z
+modified_date: 2026-06-03T16:59:51.010Z
 tags: ["climate-crisis","tech-lobbying","agricultural-decline","energy-policy"]
 hero_image: "/hero/2026-05-14-climate-extremes-tech-lobbying-and-a-wheat-crisis-converge-90d849.jpg"
 hero_image_credit_name: "Trotter"
 hero_image_credit_url: "https://www.pexels.com/@trotter-3434183"
 visual_keyword: "arid plains under cracked earth with distant smoke plumes"
 description: "El Niño, corporate energy lobbying, and a 50-year wheat low show climate crises intensifying."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Climate disasters and corporate inaction collide
@@ -46,4 +47,5 @@ The tech lobbying win shows how companies weaponize this uncertainty. By framing
 
 ## Updates
 
+- **2026-06-03** — The European Union reveals details of its tech sovereignty package ([source](https://www.engadget.com/2186709/the-european-union-reveals-details-of-its-tech-sovereignity-package/))
 - **2026-05-20** — This startup raised $43M to build a hive mind for ships ([source](https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/))

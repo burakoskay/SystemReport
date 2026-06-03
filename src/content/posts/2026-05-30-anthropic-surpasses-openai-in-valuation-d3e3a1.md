@@ -1,14 +1,16 @@
 ---
 title: "Anthropic Surpasses OpenAI in Valuation"
 date: 2026-05-30T15:13:56.924Z
+modified_date: 2026-06-03T16:59:29.082Z
 tags: ["AI","startups","valuation"]
 hero_image: "/hero/2026-05-30-anthropic-surpasses-openai-in-valuation-d3e3a1.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Anthropic now leads OpenAI in valuation"
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Valuation Shift
@@ -38,3 +40,6 @@ Looking ahead, Anthropic's position as the most valuable AI startup will likely 
 ## Sustaining Valuation and Growth
 To sustain its valuation and growth, Anthropic will need to continue delivering innovative AI solutions. The company's focus on research and development will be crucial in maintaining its competitive edge. Additionally, Anthropic's strategic decisions, such as partnerships and investments, will play a significant role in shaping its future prospects. By understanding the factors contributing to Anthropic's success, industry stakeholders can gain insights into the company's potential for long-term growth.
 
+## Updates
+
+- **2026-06-03** — SwitchBot’s acquisition of Nanoleaf is about more than lighting ([source](https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics))

@@ -1,15 +1,17 @@
 ---
 title: "Bungie Ends Active Development of Destiny 2"
 date: 2026-05-21T20:01:15.654Z
+modified_date: 2026-06-03T16:59:11.550Z
 tags: ["Bungie","Destiny 2","Marathon"]
 hero_image: "/hero/2026-05-21-bungie-ends-active-development-of-destiny-2-2e5103.jpg"
 hero_image_credit_name: "DΛVΞ GΛRCIΛ"
 hero_image_credit_url: "https://www.pexels.com/@davegarcia"
 visual_keyword: "Destiny 2"
 description: "Bungie will end active development of Destiny 2 on June 9, shifting focus to a new game. The game will remain playable with a final update."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## Bungie's Shift in Focus
 
@@ -54,3 +56,7 @@ The Marathon franchise has a rich history, dating back to the 1990s. The origina
 ## Impact on the Gaming Community
 
 The decision to end active development of Destiny 2 will have a significant impact on the gaming community. Fans of the game will need to adapt to a new reality, where the game will no longer receive regular updates. However, the game's playable state will ensure that players can continue to enjoy the game. The gaming community is eagerly anticipating Bungie's next moves, and the studio's future success will depend on its ability to deliver engaging and innovative games.
+
+## Updates
+
+- **2026-06-03** — Coralogix raises $200M on bet that someone needs to watch the AI agents ([source](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/))

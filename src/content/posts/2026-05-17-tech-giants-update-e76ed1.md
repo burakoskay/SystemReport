@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Update"
 date: 2026-05-17T20:59:57.706Z
-modified_date: 2026-06-01T17:51:19.292Z
+modified_date: 2026-06-03T16:58:58.333Z
 tags: ["Tech","Apple","Google"]
 hero_image: "/hero/2026-05-17-tech-giants-update-e76ed1.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "Siri"
 description: "Apple, Google, and WhatsApp unveil new features and updates, focusing on privacy, design, and AI integration."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## New Features and Updates
@@ -50,4 +51,5 @@ In the coming months, we can expect to see even more updates and developments fr
 
 ## Updates
 
+- **2026-06-03** — How to Block Spam Calls and Spam Texts on iPhone and Android (2026) ([source](https://www.wired.com/story/how-to-block-calls-and-spam-messages/))
 - **2026-06-01** — Xiaomi is the latest to add AirDrop support with Quick Share to its Android phones ([source](https://9to5google.com/2026/06/01/xiaomi-17t-pro-airdrop-support/))
