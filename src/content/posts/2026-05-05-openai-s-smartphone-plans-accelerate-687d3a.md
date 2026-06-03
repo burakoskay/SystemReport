@@ -1,15 +1,16 @@
 ---
 title: "OpenAI's Smartphone Plans Accelerate"
 date: 2026-05-05T19:32:33.712Z
-modified_date: 2026-06-01T21:38:40.967Z
+modified_date: 2026-06-03T11:09:13.141Z
 tags: ["OpenAI","Smartphone","AI-Powered Hardware"]
 hero_image: "/hero/2026-05-05-openai-s-smartphone-plans-accelerate-687d3a.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI phone"
 description: "OpenAI reportedly fast-tracks smartphone launch, potentially debuting early next year."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -70,5 +71,6 @@ Content: 企業での記事共有や会議資料への転載・複製、注文�
 
 ## Updates
 
+- **2026-06-03** — Trans teens have something to say ([source](https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing))
 - **2026-06-01** — Meta&#8217;s own AI was exploited to hijack Instagram accounts ([source](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked))
 - **2026-05-08** — Everybody wants to rule the AI world ([source](https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast))
