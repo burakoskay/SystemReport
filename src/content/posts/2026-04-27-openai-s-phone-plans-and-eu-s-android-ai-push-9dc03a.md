@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
-modified_date: 2026-05-26T15:50:05.882Z
+modified_date: 2026-06-03T21:21:25.704Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The development of AI-powered devices is also driving the need for more advanced
 
 ## Updates
 
+- **2026-06-03** — Mid-week Android app deals and freebies: FrogBoy, Deus Ex GO, Asdivine Menace, Rotaeno, more ([source](https://9to5toys.com/2026/06/03/mid-week-android-app-deals/))
 - **2026-05-26** — Nobody wants to tell me why they only listen to their own Suno slop ([source](https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop))
 - **2026-05-08** — InMusic will acquire Native Instruments, putting it under the same umbrella as Akai ([source](https://www.engadget.com/2168045/inmusic-will-acquire-native-instruments-putting-it-under-the-same-umbrella-as-akai/))
 - **2026-05-06** — The animated version of the iconic "Hello, world" image reveals striking new details ([source](https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/))

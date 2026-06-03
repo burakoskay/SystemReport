@@ -1,17 +1,19 @@
 ---
 title: "Imperagen Raises £5M for AI-Driven Enzyme Engineering"
 date: 2026-05-21T04:09:48.225Z
+modified_date: 2026-06-03T21:21:33.052Z
 tags: ["AI-driven biotech","enzyme engineering","quantum simulations","biotech funding"]
 hero_image: "/hero/2026-05-21-imperagen-raises-5m-for-ai-driven-enzyme-engineering-93c8fe.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "enzyme"
 description: "Imperagen secures £5 million seed funding for quantum-AI enzyme design"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-21-imperagen-raises-5m-for-ai-driven-enzyme-engineering-93c8fe.mp3"
 audio_bytes: 592920
 audio_mime: "audio/mpeg"
 ---
+
 
 Imperagen announced on Thursday a £5 million seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone. The funding will finance Imperagen's platform that couples quantum simulations with machine-learning models to accelerate enzyme engineering.
 
@@ -58,3 +60,7 @@ The use of machine learning algorithms is also critical to Imperagen's platform,
 The downstream implications of Imperagen's platform are significant, as it has the potential to accelerate the development of new treatments and therapies. The use of AI-driven enzyme engineering could enable the development of more efficient and effective enzymes, which can be used to treat a wide range of diseases and disorders.
 
 The success of Imperagen and other companies in the field of AI-driven biotech could also have a significant impact on the broader biotech industry. As the use of AI-driven technologies becomes more prevalent, we can expect to see new innovations and breakthroughs in the field, which could lead to the development of new treatments and therapies.
+
+## Updates
+
+- **2026-06-03** — Apple TV unveils new Anya Taylor-Joy series about a massive heist gone wrong ([source](https://9to5mac.com/2026/06/03/apple-tv-unveils-new-anya-taylor-joy-series-about-a-massive-heist-gone-wrong/))

@@ -1,15 +1,16 @@
 ---
 title: "Lucra Sports' $20M Raise: What We Know"
 date: 2026-05-25T15:33:39.402Z
-modified_date: 2026-05-26T15:49:55.527Z
+modified_date: 2026-06-03T21:20:55.855Z
 tags: ["eSports","fundraising","VCs"]
 hero_image: "/hero/2026-05-25-lucra-sports-20m-raise-what-we-know-e83e36.jpg"
 hero_image_credit_name: "Nathan b Caldeira"
 hero_image_credit_url: "https://www.pexels.com/@nathan-b-caldeira-2940485"
 visual_keyword: "eSports"
 description: "Lucra Sports founder Dylan Robbins reveals secrets on raising capital from VCs."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 
@@ -55,4 +56,5 @@ The success of Lucra Sports' fundraising efforts could mark a new era for eSport
 
 ## Updates
 
+- **2026-06-03** — Uber to put 500 data-collection vehicles on the road this year ([source](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/))
 - **2026-05-26** — Oppo’s Bubble is a thin round screen for taking rear camera selfies ([source](https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic))

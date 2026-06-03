@@ -1,18 +1,20 @@
 ---
 title: "TCL Tablet, Google Pixel"
 date: 2026-05-27T16:00:29.391Z
+modified_date: 2026-06-03T21:21:36.717Z
 tags: ["deals","tcl","google","amazon"]
 hero_image: "/hero/2026-05-27-tcl-tablet-google-pixel-ba9105.jpg"
 hero_image_credit_name: "Element5 Digital"
 hero_image_credit_url: "https://www.pexels.com/@element5"
 visual_keyword: "shopping cart overflowing with tablets, smartphones, and smartwatches on a spring background"
 description: "Deep discounts on TCL's NXTPAPER tablet, Google's Pixel Watch and phone, and Amazon's Spring Sale force shoppers to rethink premium tech purchases."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-27-tcl-tablet-google-pixel-ba9105.mp3"
 audio_bytes: 608593
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## TCL's NXTPAPER tablets finally hit a price that makes sense
 
@@ -49,3 +51,7 @@ The current landscape suggests that savvy shoppers will need to combine real‑t
 ## What to watch next
 
 Keep an eye on Google’s next hardware announcement slated for the fall; any new Pixel releases could further depress existing inventory prices. Monitor TCL’s quarterly earnings for signs that the NXTPAPER discount translated into volume growth or forced a price correction. Finally, track Amazon’s Spring Sale metrics—especially the percentage of deals that remain after the final day—to gauge whether price‑history verification becomes a standard part of the consumer decision‑making process.
+
+## Updates
+
+- **2026-06-03** — John Ternus scaled back Apple’s Vision products roadmap: report ([source](https://9to5mac.com/2026/06/03/john-ternus-scaled-back-apples-vision-products-roadmap-report/))
