@@ -1,14 +1,16 @@
 ---
 title: "Krutrim's AI Model Ambitions Hit Reality"
 date: 2026-05-05T17:44:33.288Z
+modified_date: 2026-06-02T23:50:47.056Z
 tags: ["AI","Krutrim","Cloud Services","India"]
 hero_image: "/hero/2026-05-05-krutrim-s-ai-model-ambitions-hit-reality-0d1625.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "cloud-services"
 description: "India's first GenAI unicorn shifts to cloud services amid economic challenges."
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## Krutrim's Reality Check
 
@@ -51,3 +53,7 @@ Krutrim's pivot to cloud services will have significant downstream implications.
 The Indian market will be closely watching Krutrim's progress. If the company is able to succeed in cloud services, it will provide a valuable example for other AI startups in the country.
 
 What to watch: Krutrim's cloud services offerings and their adoption by businesses. The company's ability to compete with established players will be crucial to its success.
+
+## Updates
+
+- **2026-06-02** — Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn ([source](https://www.wired.com/story/uk-government-palantir-warning-report/))

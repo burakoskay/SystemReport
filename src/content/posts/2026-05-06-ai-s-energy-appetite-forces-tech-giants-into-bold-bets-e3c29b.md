@@ -1,16 +1,17 @@
 ---
 title: "AI's Energy Appetite Forces Tech Giants Into Bold Bets"
 date: 2026-05-06T23:06:25.302Z
-modified_date: 2026-05-12T21:23:59.167Z
+modified_date: 2026-06-02T23:50:51.424Z
 tags: ["ai-infrastructure","semiconductor-energy","tech-regulation","startup-funding","climate-tech"]
 hero_image: "/hero/2026-05-06-ai-s-energy-appetite-forces-tech-giants-into-bold-bets-e3c29b.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "wind turbines with data center cooling towers in the distance"
 description: "From data centers to wind turbines, the AI boom is reshaping energy and regulatory landscapes."
-sources_count: 16
+sources_count: 17
 author: "elena-marchetti"
 ---
+
 
 
 ## A 20-Minute Pitch Captures a $18 Billion Market
@@ -43,4 +44,5 @@ The coming months will reveal whether current energy investments can sustain AI'
 
 ## Updates
 
+- **2026-06-02** — Until Dawn 2 looks like Cabin in the Woods, but in a jungle ([source](https://www.engadget.com/2186245/until-dawn-2-looks-like-cabin-in-the-woods-but-in-a-jungle/))
 - **2026-05-12** — DOJ extracts $30m settlement from PayPal over minority-owned business program ([source](https://www.engadget.com/2171401/doj-extracts-30m-settlement-from-paypal-over-minority-owned-business-program/))

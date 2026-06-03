@@ -1,14 +1,16 @@
 ---
 title: "iOS 26 spatial wallpapers and CarPlay upgrades refine"
 date: 2026-05-08T21:11:06.571Z
+modified_date: 2026-06-02T23:50:42.752Z
 tags: ["iOS 26","CarPlay","spatial wallpapers","personalization","Apple"]
 hero_image: "/hero/2026-05-08-ios-26-spatial-wallpapers-and-carplay-upgrades-refine-ac3a53.jpg"
 hero_image_credit_name: "Ale Conchillos"
 hero_image_credit_url: "https://www.pexels.com/@slendyalex"
 visual_keyword: "iOS 26, CarPlay, spatial wallpapers"
 description: "iOS 26 adds 3D spatial wallpapers and two new CarPlay features, further blurring the line between iPhone and in-car experience."
-sources_count: 6
+sources_count: 7
 ---
+
 
 # System Report — Editorial Voice
 
@@ -84,3 +86,7 @@ The next Apple event in June will reveal iOS 19’s design language and confirm 
 ## Technical mechanics behind spatial wallpapers and CarPlay integration
 
 Spatial wallpapers rely on a combination of Core Animation layers and motion-sensor data. When you select a supported image, the system creates a depth map or generates one algorithmically. The GPU then composites the foreground and background layers while applying a parallax offset derived from the device’s accelerometer.
+
+## Updates
+
+- **2026-06-02** — God of War Laufey is coming to the PS5 ([source](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer))

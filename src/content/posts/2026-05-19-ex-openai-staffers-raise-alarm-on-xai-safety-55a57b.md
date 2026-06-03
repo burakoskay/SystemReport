@@ -1,16 +1,17 @@
 ---
 title: "Ex-OpenAI Staffers Raise Alarm on xAI Safety"
 date: 2026-05-19T15:41:49.033Z
-modified_date: 2026-06-01T21:38:54.450Z
+modified_date: 2026-06-02T23:50:55.786Z
 tags: ["AI Safety","xAI","SpaceX","IPO"]
 hero_image: "/hero/2026-05-19-ex-openai-staffers-raise-alarm-on-xai-safety-55a57b.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI Safety"
 description: "Former OpenAI employees warn xAI's safety record could impact SpaceX's IPO, citing need for more transparency."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Safety Concerns Raised for xAI
@@ -69,4 +70,5 @@ Moreover, this incident highlights the need for more stringent regulations and s
 
 ## Updates
 
+- **2026-06-02** — 9to5Mac Daily: June 2, 2026 – iOS 26.5.1, new Apple Wallet rumors ([source](https://9to5mac.com/2026/06/02/daily-june-2-2026/))
 - **2026-06-01** — Meta reportedly has several new smart glasses in the works ([source](https://9to5google.com/2026/06/01/meta-new-smart-glasses-report/))
