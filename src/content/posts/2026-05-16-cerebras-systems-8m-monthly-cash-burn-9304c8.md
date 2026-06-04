@@ -1,14 +1,16 @@
 ---
 title: "Cerebras Systems' $8M Monthly Cash Burn"
 date: 2026-05-16T15:01:59.001Z
+modified_date: 2026-06-04T10:03:24.467Z
 tags: ["AI chips","Cerebras Systems","IPO"]
 hero_image: "/hero/2026-05-16-cerebras-systems-8m-monthly-cash-burn-9304c8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI chips"
 description: "Cerebras Systems burned $8M monthly before its 2026 IPO, revealing the massive costs of developing cutting-edge AI chips."
-sources_count: 4
+sources_count: 5
 ---
+
 
 
 ## Cerebras Systems' $8M Monthly Cash Burn
@@ -52,3 +54,7 @@ The company's success will also have implications for its investors, who have ta
 Cerebras Systems' successful IPO and $60 billion valuation demonstrate the potential rewards of investing in AI chip development. However, the company's journey also highlights the substantial risks involved in developing groundbreaking technology. Cerebras Systems' ability to navigate these challenges and deliver on its promises will be crucial to its long-term success.
 
 In the coming years, Cerebras Systems will face significant challenges as it seeks to establish itself as a major player in the AI chip market. The company will need to continue innovating and delivering high-quality products, while also navigating the complex and rapidly evolving landscape of the AI chip market. If it can succeed, it could become a leader in the AI chip market and deliver significant returns on investment for its investors.
+
+## Updates
+
+- **2026-06-04** — Google Wallet ID passes will be available in select EU states this summer ([source](https://www.engadget.com/2186977/google-wallet-id-passes-will-be-available-in-select-eu-states-this-summer/))

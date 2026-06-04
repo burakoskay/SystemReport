@@ -1,14 +1,16 @@
 ---
 title: "Cybercriminals Caught After Microsoft Teams Recording Mistake"
 date: 2026-05-16T11:06:38.013Z
+modified_date: 2026-06-04T10:03:11.174Z
 tags: ["cybercrime","Microsoft Teams","digital forensics"]
 hero_image: "/hero/2026-05-16-cybercriminals-caught-after-microsoft-teams-recording-mistake-8b7af4.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybercrime"
 description: "Two cybercriminals arrested due to a Microsoft Teams blunder"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Cybercriminals Caught After Microsoft Teams Recording Mistake
@@ -60,3 +62,6 @@ An alleged dark-net market kingpin was also arrested, according to reports.
 
 OpenAI, the organization behind ChatGPT, has been involved in a supply chain attack. The specifics of the attack are still emerging, but it underscores the growing concern over supply chain vulnerabilities in the tech industry.
 
+## Updates
+
+- **2026-06-04** — This Streamer Has Convinced the Internet Guy Fieri Never Swallows Food on TV ([source](https://www.wired.com/story/this-streamer-has-convinced-the-internet-guy-fieri-never-swallows-food-on-diners-driveins-dives/))

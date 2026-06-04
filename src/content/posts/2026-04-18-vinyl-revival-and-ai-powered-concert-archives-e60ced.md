@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-05-21T20:00:21.446Z
+modified_date: 2026-06-04T10:03:28.901Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-06-04** — Noble Audio debuts FoKus Artemis headphones with three drivers and ANC ([source](https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/))
 - **2026-05-21** — Deals: TCL’s Android TAB A1 Plus $220 Amazon low, Galaxy S26 Ultra up to $388 off, Sonos Memorial Day sale, more ([source](https://9to5google.com/2026/05/21/deals-tcl-android-tab-a1-plus-galaxy-s26-ultra-sonos/))
 - **2026-05-19** — Google and Samsung’s Android XR glasses will have multiple ‘disruptive’ and ‘timeless’ styles ([source](https://9to5google.com/2026/05/19/google-samsung-android-xr-glasses-styles-release-date/))
 - **2026-05-16** — Snap, YouTube, and TikTok settle suit over harm to students ([source](https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools))
