@@ -1,19 +1,20 @@
 ---
 title: "ShinyHunters Deface Instructure Logins"
 date: 2026-05-07T21:10:23.914Z
-modified_date: 2026-06-01T21:38:45.449Z
+modified_date: 2026-06-04T21:45:43.646Z
 tags: ["cybersecurity","education","infrastructure"]
 hero_image: "/hero/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "computer screen showing hacked school login page with warning banner"
 description: "ShinyHunters posted extortion notes on school Canvas portals while another group booted TeamPCP from compromised systems, raising fresh alarm for education IT teams."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.mp3"
 audio_bytes: 600234
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,5 +50,6 @@ What to watch: Instructure’s next security bulletin, any follow‑up ransom no
 
 ## Updates
 
+- **2026-06-04** — Elon Musk tries again to escape FTC audits of X data handling ([source](https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/))
 - **2026-06-01** — Randy Pitchford says his friend found an unannounced Pixel Watch 5 in the sea ([source](https://www.engadget.com/2185217/randy-pitchford-says-his-friend-found-an-unannounced-pixel-watch-5-in-the-sea/))
 - **2026-05-17** — Oddity is masterfully tense horror from the director of Hokum ([source](https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum))

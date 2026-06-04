@@ -1,14 +1,16 @@
 ---
 title: "Trott Organizes Social Media Videos with AI"
 date: 2026-05-03T13:24:53.611Z
+modified_date: 2026-06-04T21:45:52.852Z
 tags: ["AI","Social Media","Content Organization"]
 hero_image: "/hero/2026-05-03-trott-organizes-social-media-videos-with-ai-ae16d4.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Trott app screenshot"
 description: "Trott uses AI to search, sort, and extract details from social media videos on Instagram, YouTube, and TikTok."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Trott Takes on Social Media Video Chaos
@@ -67,3 +69,6 @@ Trott's innovative approach to social media organization and content analysis ha
 
 Early adopters of Trott have been impressed by the app's ability to organize and extract key details from their social media videos. As the app continues to grow and expand its user base, it will be interesting to see how users adapt to its AI-powered features and integrations. With its robust features and user-friendly interface, Trott is well-positioned to become a leading solution for social media organization and content analysis.
 
+## Updates
+
+- **2026-06-04** — iOS 27 bill splitting, new hardware waiting on new Siri, final WWDC expectations ([source](https://9to5mac.com/2026/06/04/happy-hour-593/))

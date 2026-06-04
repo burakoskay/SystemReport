@@ -1,16 +1,17 @@
 ---
 title: "Judge blocks Nashville pole rule, tightening grip for incumbents"
 date: 2026-05-08T03:43:50.785Z
-modified_date: 2026-05-13T21:28:49.525Z
+modified_date: 2026-06-04T21:45:34.458Z
 tags: ["broadband","regulation","fiber","pole-access"]
 hero_image: "/hero/2026-05-08-judge-blocks-nashville-pole-rule-tightening-grip-for-incumbents-64fb2f.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "city utility poles with fiber optic cables and legal documents"
 description: "A federal judge nullified Nashville's One Touch Make Ready ordinance, citing FCC preemption and raising new hurdles for Google Fiber's expansion."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 ## Court Decision and Immediate Impact
@@ -45,4 +46,5 @@ The next steps will hinge on whether NES files an official position and whether 
 
 ## Updates
 
+- **2026-06-04** — Not to Alarm Anyone, but Flesh-Eating Screwworms Have Entered the US ([source](https://www.wired.com/story/flesh-eating-screwworms-have-entered-the-us/))
 - **2026-05-13** — AMD&#8217;s best CPU tech for gamers is coming to workstations too ([source](https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache))

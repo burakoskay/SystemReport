@@ -1,18 +1,20 @@
 ---
 title: "Google AI Overviews stumble as chief steps down"
 date: 2026-05-22T20:06:01.128Z
+modified_date: 2026-06-04T21:45:29.888Z
 tags: ["google","search","ai"]
 hero_image: "/hero/2026-05-22-google-ai-overviews-stumble-as-chief-steps-down-5993b0.jpg"
 hero_image_credit_name: "Resume Genius"
 hero_image_credit_url: "https://www.pexels.com/@resumegenius"
 visual_keyword: "a frustrated user looking at a search results page with an AI answer box highlighted"
 description: "Google reshuffles its AI leadership while its AI Overviews keep tripping on simple queries, sparking user workarounds and questions about the future of search."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-22-google-ai-overviews-stumble-as-chief-steps-down-5993b0.mp3"
 audio_bytes: 570141
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Leadership shakeup and AI Overviews
 Google announced that John Giannandrea is leaving his dual role as head of AI and search. Giannandrea joined Google in 2010 and expanded his remit to include search last year. The company says he will stay to work directly on technology. Jeff Dean, who has led the Google Brain project since 1999, will inherit Giannandrea’s AI responsibilities. Ben Gomes, currently VP of search engineering, will become the new search chief.
@@ -36,3 +38,7 @@ Jeff Dean’s new oversight of AI could accelerate integration of LLMs into core
 
 ## What to watch
 Track how Jeff Dean’s AI team addresses the “disregard” bug and similar parsing failures. Monitor whether Google expands the “&udm=14” parameter into a user‑facing toggle. Watch Ben Gomes’s early moves as search chief, especially any changes to the placement of AI Overviews. The next quarterly earnings call should reveal whether Google plans to scale back the AI snippet or double down on its integration.
+
+## Updates
+
+- **2026-06-04** — Google is letting social media stars customize their search result page ([source](https://www.theverge.com/tech/943233/google-search-profiles-custom-page))
