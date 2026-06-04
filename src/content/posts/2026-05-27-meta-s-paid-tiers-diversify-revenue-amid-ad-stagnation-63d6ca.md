@@ -1,18 +1,20 @@
 ---
 title: "Meta's Paid Tiers Diversify Revenue Amid Ad Stagnation"
 date: 2026-05-27T18:36:14.439Z
+modified_date: 2026-06-04T04:28:00.269Z
 tags: ["meta","subscriptions","datacenters","private-equity","techpolicy"]
 hero_image: "/hero/2026-05-27-meta-s-paid-tiers-diversify-revenue-amid-ad-stagnation-63d6ca.jpg"
 hero_image_credit_name: "Der_ Hördt"
 hero_image_credit_url: "https://www.pexels.com/@der_-hordt-765451816"
 visual_keyword: "social media icons with price tags beside a data center surrounded by green fields"
 description: "Meta rolls out paid plans for its apps as Last.fm goes independent, Italy taxes green data centers, and private equity tightens its grip on U.S. services."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-27-meta-s-paid-tiers-diversify-revenue-amid-ad-stagnation-63d6ca.mp3"
 audio_bytes: 581844
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Meta pushes paid tiers across its flagship apps
 
@@ -49,3 +51,7 @@ Regulators have begun to flag the trend, but enforcement remains fragmented. Sta
 ## What to watch next
 
 Track Meta’s subscription pricing as the company publishes tier details and monitors churn rates among power users. Watch Last.fm’s roadmap for premium features or new revenue streams, especially any partnership announcements with streaming platforms. Keep an eye on Lombardy’s tax enforcement timeline and any legal challenges from data‑centre operators. Finally, monitor congressional hearings on private‑equity ownership of essential services and any forthcoming federal guidelines. These signals will reveal how the tech ecosystem balances monetization, independence, regulation, and ownership in the months ahead.
+
+## Updates
+
+- **2026-06-04** — Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU ([source](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu))
