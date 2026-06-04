@@ -1,16 +1,17 @@
 ---
 title: "Data center demand drives up natural gas power plant costs"
 date: 2026-04-27T21:22:04.184Z
-modified_date: 2026-05-20T23:24:22.318Z
+modified_date: 2026-06-04T18:24:19.521Z
 tags: ["data centers","energy costs","sustainability","regulation"]
 hero_image: "/hero/2026-04-27-data-center-demand-drives-up-natural-gas-power-plant-costs-7e95a4.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center expansion"
 description: "Natural gas power plant costs surge 66% as data center electricity demand skyrockets."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ The next critical decision will be how state regulators respond to the growing d
 
 ## Updates
 
+- **2026-06-04** — Deals: Nest Cam Indoor from $53, Outdoor model up to 47% off, Google TV Streamer 4K price drop, more ([source](https://9to5google.com/2026/06/04/deals-nest-cam-indoor-nest-outdoor-google-tv-streamer/))
 - **2026-05-20** — Google Declaring War on the Web ([source](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/))
 - **2026-05-12** — The Creators of ‘Hacks’ Really, Really, Really Hate AI ([source](https://www.wired.com/story/the-big-interview-podcast-hacks-cocreators-paul-w-downs-lucia-aniello/))

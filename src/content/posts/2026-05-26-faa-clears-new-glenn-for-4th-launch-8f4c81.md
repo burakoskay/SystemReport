@@ -1,19 +1,20 @@
 ---
 title: "FAA Clears New Glenn for 4th Launch"
 date: 2026-05-26T15:55:50.535Z
-modified_date: 2026-06-01T17:50:33.318Z
+modified_date: 2026-06-04T18:23:57.569Z
 tags: ["space","debris","launch","satellite-internet"]
 hero_image: "/hero/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "blue origin new glenn rocket on launch pad with satellite internet beams"
 description: "Blue Origin's New Glenn gets FAA clearance for its fourth flight as debris concerns grow and satellite internet readies to power more inflight Wi‑Fi by 2027."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.mp3"
 audio_bytes: 598980
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ Watch for the FAA’s next set of rules on upper‑stage disposal, which could r
 
 ## Updates
 
+- **2026-06-04** — Windows is back on the Microsoft menu ([source](https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad))
 - **2026-06-01** — Anthropic Confidentially Files for What Could Be the Largest IPO Ever ([source](https://www.wired.com/story/anthropic-files-s1-ipo-sec/))
 - **2026-05-29** — Microsoft teases new Surface hardware and ‘a new era of PC’ ([source](https://www.theverge.com/news/939960/microsoft-computex-teaser-surface-nvidia-windows-rumors))

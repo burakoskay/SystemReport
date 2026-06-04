@@ -1,15 +1,17 @@
 ---
 title: "Nintendo's Mobile Gambit: New Games, $1B Revenue, DeNA Deal"
 date: 2026-05-21T13:00:49.246Z
+modified_date: 2026-06-04T18:24:28.263Z
 tags: ["nintendo","mobile gaming","deNA","fire emblem heroes"]
 hero_image: "/hero/2026-05-21-nintendo-s-mobile-gambit-new-games-1b-revenue-dena-deal-4ed8bf.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Nintendo mobile game collage with cartoon characters and smartphone interface"
 description: "Nintendo's latest mobile releases, a $1 billion revenue haul, and a fresh DeNA partnership reveal how the company reshapes its IP for smartphones."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 ## A quirky selfie, a new minigame, and a $2.9 M opening day
 
@@ -40,3 +42,7 @@ All of Nintendo’s mobile releases so far are built on free‑to‑play framewo
 The result is a suite of games that feel unmistakably Nintendo—bright art, recognizable characters, tight controls—yet are stripped of the depth expected on a Switch or Switch Lite. That trade‑off is intentional: the goal is to capture casual attention on a device people carry everywhere, then funnel that attention back to Nintendo’s higher‑value ecosystem.
 
 What to watch next: DeNA’s cross‑platform service launch this fall will be the first test of Nintendo’s unified IP strategy across phones, tablets, PCs, and its own consoles. Simultaneously, the performance of upcoming mobile titles—particularly any that leverage the NX’s Tegra‑based architecture—will reveal whether Nintendo can sustain its $1 billion mobile revenue stream without cannibalizing its core hardware sales. Keep an eye on Sensor Tower’s day‑one metrics for any new releases and on Nintendo’s quarterly reports for shifts in mobile‑to‑console revenue ratios.
+
+## Updates
+
+- **2026-06-04** — 9to5Mac Daily: June 4, 2026 – iPhone Ultra rumors, Siri servers ([source](https://9to5mac.com/2026/06/04/daily-june-4-2026/))

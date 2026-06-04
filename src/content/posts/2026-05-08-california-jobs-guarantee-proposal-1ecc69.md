@@ -1,14 +1,16 @@
 ---
 title: "California Jobs Guarantee Proposal"
 date: 2026-05-08T17:31:49.620Z
+modified_date: 2026-06-04T18:23:53.152Z
 tags: ["AI","jobs","California"]
 hero_image: "/hero/2026-05-08-california-jobs-guarantee-proposal-1ecc69.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "California gubernatorial candidate Tom Steyer proposes jobs guarantee for workers displaced by AI."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## A New Proposal for California Workers
@@ -56,3 +58,7 @@ While Steyer's proposal has the potential to provide a safety net for workers di
 In conclusion, Steyer's proposal for a jobs guarantee for workers displaced by AI is an important step towards addressing the challenges posed by technological advancements. While there are potential challenges to consider, the program has the potential to provide a safety net for workers and help them adapt to the changing job market. As the discussion around AI and jobs continues, it is essential to consider the implications of Steyer's proposal and how it can be improved and implemented effectively.
 
 The discussion around AI and jobs is likely to continue in the coming years, and Steyer's proposal is just one example of the types of policies that are being considered. As the conversation continues, it is essential to prioritize the needs of workers who are displaced by AI and to develop effective solutions to address the challenges they face.
+
+## Updates
+
+- **2026-06-04** — Belkin’s new Joy-Con grips also boost the Switch 2’s battery life ([source](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller))

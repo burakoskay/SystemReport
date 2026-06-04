@@ -1,18 +1,20 @@
 ---
 title: "Shamir's Secret Sharing Explained"
 date: 2026-05-26T08:01:49.084Z
+modified_date: 2026-06-04T18:24:06.373Z
 tags: ["cryptography","secure data sharing","Shamir's Secret Sharing"]
 hero_image: "/hero/2026-05-26-shamir-s-secret-sharing-explained-07f0ec.jpg"
 hero_image_credit_name: "Jonathan Borba"
 hero_image_credit_url: "https://www.pexels.com/@jonathanborba"
 visual_keyword: "cryptography"
 description: "A deep dive into Shamir's Secret Sharing, a cryptographic technique for secure data sharing. Learn how it works and its applications."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-26-shamir-s-secret-sharing-explained-07f0ec.mp3"
 audio_bytes: 615489
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## What is Shamir's Secret Sharing?
@@ -66,3 +68,7 @@ Shamir's Secret Sharing is a powerful cryptographic technique for secure data sh
 ## What to Watch
 
 The development of new applications and use cases for Shamir's Secret Sharing, as well as potential vulnerabilities and improvements to the technique, will be important to watch in the coming years. As the field of cryptography continues to evolve, we can expect to see new techniques and applications emerge, and Shamir's Secret Sharing will likely remain a key player in the secure data sharing landscape.
+
+## Updates
+
+- **2026-06-04** — Today’s Android app deals and freebies: Is This Seat Taken?, Lia Hacking Destiny, Maneater, more ([source](https://9to5toys.com/2026/06/04/today-android-app-deals-is-this-seat-taken/))

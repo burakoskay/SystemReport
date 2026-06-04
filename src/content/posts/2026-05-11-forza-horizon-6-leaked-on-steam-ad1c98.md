@@ -1,14 +1,16 @@
 ---
 title: "Forza Horizon 6 Leaked on Steam"
 date: 2026-05-11T17:59:56.952Z
+modified_date: 2026-06-04T18:23:44.293Z
 tags: ["Gaming","Piracy","Digital Distribution"]
 hero_image: "/hero/2026-05-11-forza-horizon-6-leaked-on-steam-ad1c98.jpg"
 hero_image_credit_name: "ᛟᛞᚨᛚᚹ ᚨᚱᚲᛟᚾᛊᚲᛁ"
 hero_image_credit_url: "https://www.pexels.com/@odalv"
 visual_keyword: "Forza Horizon 6"
 description: "Forza Horizon 6 leaks on Steam 6 days before launch"
-sources_count: 2
+sources_count: 3
 ---
+
 
 # Forza Horizon 6 Leaks on Steam
 Forza Horizon 6 leaked on Steam six days before its scheduled launch. Unencrypted files briefly appeared on the platform, allowing crackers to download and share them.
@@ -26,3 +28,7 @@ The leak of Forza Horizon 6 was made possible by the fact that the game's files 
 The leak of Forza Horizon 6 may have significant downstream implications for the gaming industry. The leak may impact the game's sales, and may also raise concerns about the security of digital distribution platforms. Additionally, the leak may lead to increased scrutiny of the gaming industry's approach to piracy and digital distribution, and may result in changes to the way that games are distributed and protected. The leak may also lead to increased investment in security measures, such as encryption and anti-piracy technologies, in order to prevent similar leaks in the future.
 ## History of Leaks
 The leak of Forza Horizon 6 is not an isolated incident. There have been several high-profile game leaks on Steam in recent years, including Grand Theft Auto V and The Witcher 3. These leaks have resulted in significant financial losses for game developers and publishers, and have raised concerns about the security of digital distribution platforms. The history of leaks on Steam highlights the need for more secure distribution channels and the importance of robust encryption and security measures in preventing piracy and protecting intellectual property.
+
+## Updates
+
+- **2026-06-04** — Cash App launches a wand for tap-and-pay ([source](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/))

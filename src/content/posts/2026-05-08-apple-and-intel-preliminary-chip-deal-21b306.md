@@ -1,14 +1,16 @@
 ---
 title: "Apple and Intel Preliminary Chip Deal"
 date: 2026-05-08T21:08:14.731Z
+modified_date: 2026-06-04T18:24:32.619Z
 tags: ["Apple","Intel","chip production","tech industry"]
 hero_image: "/hero/2026-05-08-apple-and-intel-preliminary-chip-deal-21b306.jpg"
 hero_image_credit_name: "Valentin Ivantsov"
 hero_image_credit_url: "https://www.pexels.com/@valentin-ivantsov-2154772556"
 visual_keyword: "chip production"
 description: "Apple and Intel have a preliminary deal for chip production"
-sources_count: 2
+sources_count: 3
 ---
+
 
 ## Introduction
 
@@ -53,3 +55,7 @@ The downstream implications of the deal are not explicitly stated in the source 
 A partnership between Apple and Intel could lead to changes in the market dynamics, with other companies needing to reassess their strategies. The deal could also drive growth and innovation in the industry, leading to the development of new and innovative products.
 
 The Wall Street Journal's report is the basis for this information. The deal is preliminary, as noted in the Reuters article.
+
+## Updates
+
+- **2026-06-04** — LM Studio now lets you use your iPhone to talk to local models on your Mac ([source](https://9to5mac.com/2026/06/04/lm-studio-now-lets-you-use-your-iphone-to-talk-to-local-models-on-your-mac/))
