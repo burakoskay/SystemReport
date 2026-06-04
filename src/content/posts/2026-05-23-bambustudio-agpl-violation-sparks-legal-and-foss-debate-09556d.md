@@ -1,15 +1,17 @@
 ---
 title: "BambuStudio AGPL Violation Sparks Legal and FOSS Debate"
 date: 2026-05-23T13:56:41.536Z
+modified_date: 2026-06-04T15:25:25.307Z
 tags: ["foss","agpl","software licensing","gpl","open source"]
 hero_image: "/hero/2026-05-23-bambustudio-agpl-violation-sparks-legal-and-foss-debate-09556d.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AGPL license agreement document next to a computer monitor showing code diffs"
 description: "BambuStudio's fork of PrusaSlicer breaches AGPL terms. A Texas lawsuit could reshape open-source licensing."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Open-Source Law Enters the Real World
 
@@ -34,3 +36,7 @@ Prusa’s advocacy highlights a broader tension: open-source projects must enfor
 The BambuStudio case will likely hinge on whether a court accepts Prusa’s argument that SaaS constitutes distribution under the AGPL. If Prusa wins, it could become a template for other FOSS projects to enforce licenses against cloud vendors. Conversely, a loss might embolden companies to exploit AGPL’s ambiguity around service models.
 
 In parallel, the outcome of the Versata case could clarify how courts handle GPL violations in commercial software. Even if a court can’t compel a company to open-source its code, it could still levy damages or injunctions. Either result would reshape risk assessments for businesses using open-source components. The FOSS community needs clear rules—preferably from courts, not lawsuits—about where the line is drawn between compliance and exploitation.
+
+## Updates
+
+- **2026-06-04** — Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story ([source](https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/))

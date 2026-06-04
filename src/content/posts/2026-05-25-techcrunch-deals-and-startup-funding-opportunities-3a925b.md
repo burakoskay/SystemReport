@@ -1,15 +1,17 @@
 ---
 title: "TechCrunch Deals and Startup Funding Opportunities"
 date: 2026-05-25T15:21:08.125Z
+modified_date: 2026-06-04T15:25:29.858Z
 tags: ["startup funding","TechCrunch Disrupt","Apple deals"]
 hero_image: "/hero/2026-05-25-techcrunch-deals-and-startup-funding-opportunities-3a925b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "startup funding"
 description: "TechCrunch offers funding opportunities for startups and discounts on Disrupt 2026 passes. Meanwhile, Apple deals are live for Memorial Day."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Startup Funding Opportunities
@@ -68,3 +70,6 @@ In the coming weeks, keep an eye on the startup funding scene, as more opportuni
 
 The next few weeks will be critical for startups looking to secure funding, as well as for those looking to attend TechCrunch Disrupt 2026. With the industry continuing to evolve, it's essential to stay up-to-date on the latest trends and developments.
 
+## Updates
+
+- **2026-06-04** — TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217; ([source](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles))

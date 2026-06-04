@@ -1,14 +1,16 @@
 ---
 title: "Lovable Launches Mobile Vibe Coding"
 date: 2026-04-29T06:31:54.783Z
+modified_date: 2026-06-04T15:26:11.352Z
 tags: ["AI-assisted development","vibe coding","open-source"]
 hero_image: "/hero/2026-04-29-lovable-launches-mobile-vibe-coding-4272ec.jpg"
 hero_image_credit_name: "dumitru B"
 hero_image_credit_url: "https://www.pexels.com/@dumitru-b-742240889"
 visual_keyword: "mobile app"
 description: "Lovable's mobile app enables on-the-go web app creation from voice or text prompts. Open-source rival Dyad provides a lock-in-free alternative."
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 ## Lovable brings AI-assisted coding to mobile
@@ -47,3 +49,6 @@ As the AI-assisted development tool market continues to grow, the tension betwee
 
 In conclusion, the launch of Lovable's mobile app and Dyad's open-source alternative marks a significant milestone in the AI-assisted development tool market. As developers increasingly demand more flexibility and efficiency, these tools are poised to shape the future of software development.
 
+## Updates
+
+- **2026-06-04** — Journey to JPEG XL: open-source experiments shaped the future of image coding ([source](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html))

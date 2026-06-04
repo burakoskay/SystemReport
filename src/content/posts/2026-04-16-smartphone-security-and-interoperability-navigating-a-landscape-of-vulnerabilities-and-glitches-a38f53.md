@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-05-28T20:31:06.156Z
+modified_date: 2026-06-04T15:25:48.180Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-06-04** — Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’ ([source](https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/))
 - **2026-05-28** — A $2,000 AI-generated film will make its debut at Tribeca ([source](https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca))
 - **2026-05-28** — These new iOS 27 renders hint at Siri’s big redesign ([source](https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg))
 - **2026-05-17** — Report: Apple to upgrade Genmoji in iOS 27 with new automatic suggestions ([source](https://9to5mac.com/2026/05/17/report-apple-to-upgrade-genmoji-in-ios-27-with-new-automatic-suggestions/))
