@@ -1,17 +1,19 @@
 ---
 title: "Netflix Delays Greta Gerwig's 'Narnia' Movie"
 date: 2026-05-02T22:51:39.561Z
+modified_date: 2026-06-05T20:02:12.942Z
 tags: ["Netflix","Theatrical Releases","Streaming Services"]
 hero_image: "/hero/2026-05-02-netflix-delays-greta-gerwig-s-narnia-movie-edc511.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "Netflix"
 description: "Netflix delays 'Narnia' movie for theatrical push"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-02-netflix-delays-greta-gerwig-s-narnia-movie-edc511.mp3"
 audio_bytes: 618833
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Netflix's Shift
@@ -66,3 +68,6 @@ The company's ability to adapt to changing consumer habits and technological adv
 
 The delay of 'The Magician's Nephew' is just one example of Netflix's efforts to adapt to the changing film industry. As the company continues to experiment with new distribution strategies, it will be interesting to see how it balances its commitment to streaming with its growing interest in theatrical releases.
 
+## Updates
+
+- **2026-06-05** — Conventional Commits encourages focus on the wrong things ([source](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/))

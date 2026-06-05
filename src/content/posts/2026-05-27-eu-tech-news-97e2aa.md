@@ -1,15 +1,17 @@
 ---
 title: "EU Tech News"
 date: 2026-05-27T10:03:26.414Z
+modified_date: 2026-06-05T20:01:54.195Z
 tags: ["eu tech news","artificial intelligence","machine learning"]
 hero_image: "/hero/2026-05-27-eu-tech-news-97e2aa.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "European tech innovation"
 description: "European tech news and updates"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to EU Tech News
 The European tech scene is booming, with new startups and innovations emerging every day. In this article, we will explore some of the latest developments in the EU tech industry.
@@ -49,3 +51,7 @@ As we look to the future, there are several key developments to watch in the EU 
 Another key development is the growth of AI and ML in the EU. As these technologies continue to evolve and improve, we can expect to see significant innovations and breakthroughs in the EU tech industry.
 
 Finally, the EU's regulatory efforts will continue to play a major role in shaping the future of the tech industry. By promoting competition and innovation, the EU is creating a favorable environment for startups and entrepreneurs to thrive.
+
+## Updates
+
+- **2026-06-05** — New York lawmakers pass one-year ban on new data centers ([source](https://www.theverge.com/policy/944041/new-york-data-center-moratorium))

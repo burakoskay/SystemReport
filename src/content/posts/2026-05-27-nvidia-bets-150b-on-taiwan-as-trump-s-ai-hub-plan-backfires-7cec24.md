@@ -1,14 +1,16 @@
 ---
 title: "Nvidia Bets $150B on Taiwan as Trump's AI Hub Plan Backfires"
 date: 2026-05-27T22:08:09.238Z
+modified_date: 2026-06-05T20:01:49.535Z
 tags: ["AI","Nvidia","Taiwan","semiconductors"]
 hero_image: "/hero/2026-05-27-nvidia-bets-150b-on-taiwan-as-trump-s-ai-hub-plan-backfires-7cec24.jpg"
 hero_image_credit_name: "UMA media"
 hero_image_credit_url: "https://www.pexels.com/@uma-media-2149408028"
 visual_keyword: "Nvidia"
 description: "Nvidia commits $150B to Taiwan, a move seen as a setback to Trump's plans to make the US an AI hub."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## Nvidia's High-Stakes Bet on Taiwan
@@ -47,3 +49,6 @@ The next few quarters will determine the trajectory of AI development. Nvidia's 
 
 The global AI landscape is rapidly evolving, with various countries and companies investing heavily in AI research and development. The US, China, and Europe are among the leading players in the global AI industry, and they are expected to continue to play a significant role in shaping the future of AI. Nvidia's investment in Taiwan is likely to have implications for the global AI landscape, as it could drive innovation and adoption in the field. The investment may also lead to new partnerships and collaborations between companies and governments, which could further accelerate the development of AI.
 
+## Updates
+
+- **2026-06-05** — What happens when your phone is confiscated at the airport ([source](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists))

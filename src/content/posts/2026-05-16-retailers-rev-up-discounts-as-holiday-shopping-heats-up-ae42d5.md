@@ -1,14 +1,16 @@
 ---
 title: "Retailers Rev Up Discounts as Holiday Shopping Heats Up"
 date: 2026-05-16T06:28:58.495Z
+modified_date: 2026-06-05T20:01:26.195Z
 tags: ["retail","holiday shopping","discounts"]
 hero_image: "/hero/2026-05-16-retailers-rev-up-discounts-as-holiday-shopping-heats-up-ae42d5.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "shopping"
 description: "Major retailers offer significant discounts and promo codes for holiday shopping"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 ## Holiday Shopping Discounts Reach Up to 70% Off
@@ -71,3 +73,6 @@ The technical mechanics of discounts involve a complex interplay of pricing, inv
 
 The technical mechanics of discounts are also influenced by the use of data analytics. Retailers use data analytics to track consumer behavior and identify trends and patterns. This information is then used to inform pricing and marketing strategies, allowing retailers to target their discounts and promotions more effectively.
 
+## Updates
+
+- **2026-06-05** — The most interesting startups right now want to get you off your phone ([source](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/))
