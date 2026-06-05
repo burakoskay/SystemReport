@@ -1,17 +1,19 @@
 ---
 title: "Linux Foundation's Budget Misfires"
 date: 2026-05-09T09:25:48.385Z
+modified_date: 2026-06-05T16:33:30.038Z
 tags: ["Linux","Security","AI-native"]
 hero_image: "/hero/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.jpg"
 hero_image_credit_name: "RealToughCandy.com"
 hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "Most of the Linux Foundation's budget doesn't go to Linux. A new AI-native malware scanner for Linux aims to change security."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.mp3"
 audio_bytes: 624267
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Misfired Funding
@@ -80,3 +82,6 @@ The Linux community must continue to invest in innovative security solutions, su
 
 The future of Linux security is promising, with the development of AI-native security tools like SemanticsAV leading the way. However, continued investment and innovation are needed to ensure the long-term security and stability of Linux-based systems.
 
+## Updates
+
+- **2026-06-05** — Smart home diary: A fresh look as I start again in my new home ([source](https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/))

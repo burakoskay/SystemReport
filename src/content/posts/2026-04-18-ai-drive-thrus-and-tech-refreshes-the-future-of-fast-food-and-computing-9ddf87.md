@@ -1,16 +1,17 @@
 ---
 title: "AI Drive-Thrus and Tech Refreshes"
 date: 2026-04-18T01:05:01.683Z
-modified_date: 2026-04-22T02:56:55.667Z
+modified_date: 2026-06-05T16:32:48.445Z
 tags: ["ai","tech","fastfood","computing"]
 hero_image: "/hero/2026-04-18-ai-drive-thrus-and-tech-refreshes-the-future-of-fast-food-and-computing-9ddf87.jpg"
 hero_image_credit_name: "Jonathan Cooper"
 hero_image_credit_url: "https://www.pexels.com/@theshuttervision"
 visual_keyword: "ai drive-thru kiosk"
 description: "Dairy Queen introduces AI chatbots to drive-thrus, while Intel and Amazon make significant updates to their products"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -24,5 +25,6 @@ The fast food industry is undergoing a significant transformation with the intro
 
 ## Updates
 
+- **2026-06-05** — The DOGE Boys Get VC Funding to Support Their Latest Enterprise ([source](https://www.wired.com/story/the-doge-boys-get-vc-funding-to-support-their-latest-enterprise/))
 - **2026-04-22** — Mozilla says it patched 271 Firefox vulnerabilities thanks to Anthropic's Claude Mythos ([source](https://www.engadget.com/ai/mozilla-says-it-patched-271-firefox-vulnerabilities-thanks-to-anthropics-claude-mythos-224330023.html?src=rss))
 - **2026-04-21** — Dyson’s newest floor scrubber is already on sale for 20 percent off ([source](https://www.theverge.com/gadgets/915137/dyson-clean-wash-hygiene-wet-cleaner-hades-2-deal-nintendo-sale))

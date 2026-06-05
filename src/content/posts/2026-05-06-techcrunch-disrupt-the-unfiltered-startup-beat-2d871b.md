@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Disrupt: The Unfiltered Startup Beat"
 date: 2026-05-06T18:01:54.655Z
-modified_date: 2026-05-26T15:49:45.129Z
+modified_date: 2026-06-05T16:33:02.355Z
 tags: ["techcrunch","startups","m&a","dating-tech","wordpress"]
 hero_image: "/hero/2026-05-06-techcrunch-disrupt-the-unfiltered-startup-beat-2d871b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "young entrepreneurs presenting to investors in a tech conference hall"
 description: "From Gen Z dating apps to WordPress founder talks, here's what's shaping tech innovation at Disrupt."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The event’s ticket discounts (50% off second tickets until May 8) suggest a sh
 
 ## Updates
 
+- **2026-06-05** — Engadget Podcast: What does NVIDIA's RTX Spark mean for PCs? ([source](https://www.engadget.com/2188173/engadget-podcast-nvidia-rtx-spark/))
 - **2026-05-26** — TechCrunch Disrupt 2026 Early Bird ticket rates end May 29 ([source](https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/))
 - **2026-05-20** — Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds ([source](https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs))
 - **2026-05-11** — Here&#8217;s what Mira Murati&#8217;s AI company is up to ([source](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model))

@@ -1,15 +1,17 @@
 ---
 title: "Tech Under Siege"
 date: 2026-05-12T23:06:42.714Z
+modified_date: 2026-06-05T16:33:20.768Z
 tags: ["cybersecurity","tech industry","lawsuits"]
 hero_image: "/hero/2026-05-12-tech-under-siege-24f257.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "cyberattack"
 description: "Cyberattacks and lawsuits plague the tech industry"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## Recent Attacks on Tech Giants
 
@@ -58,3 +60,7 @@ The use of AI-powered chatbots also raises concerns about the potential risks as
 The recent attacks and lawsuits have significant implications for the downstream users of tech products and services. The use of AI-powered chatbots in healthcare and finance raises concerns about the potential risks associated with their use. The tech industry needs to work with other industries to develop guidelines and regulations for the use of AI-powered chatbots.
 
 The recent attacks and lawsuits also highlight the need for greater transparency and accountability in the tech industry. Tech companies need to be more open about their cybersecurity measures and their efforts to protect their users from online threats. They also need to be more accountable for their actions, and to take responsibility for any harm caused by their products or services.
+
+## Updates
+
+- **2026-06-05** — Deals: Pixel 10 from just over $500 (up to $600 off), Galaxy Tab S11, early Amazon Prime Day discounts, more ([source](https://9to5google.com/2026/06/05/deals-pixel-10-galaxy-tab-s11-early-prime-day-discounts/))

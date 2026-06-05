@@ -1,14 +1,16 @@
 ---
 title: "Asana Acquires StackAI to Bolster AI Workflow Tools"
 date: 2026-05-28T23:26:02.071Z
+modified_date: 2026-06-05T16:32:34.173Z
 tags: ["Asana","StackAI","AI Workflow Tools","Automation"]
 hero_image: "/hero/2026-05-28-asana-acquires-stackai-to-bolster-ai-workflow-tools-d555a8.jpg"
 hero_image_credit_name: "Freek Wolsink"
 hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "Automation"
 description: "Asana buys StackAI, a no-code agent-builder, to enhance automation capabilities."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Asana Expands AI Workflow Tools with StackAI Acquisition
@@ -46,3 +48,7 @@ The workflow management market is a rapidly growing industry, with an estimated 
 ## Conclusion
 
 The acquisition of StackAI by Asana is a strategic move to enhance its automation capabilities and stay competitive in the market. The deal highlights Asana's focus on AI-powered productivity solutions and demonstrates its commitment to staying ahead in the market. As the workflow management market continues to evolve, Asana's acquisition of StackAI positions it for success in a rapidly changing landscape.
+
+## Updates
+
+- **2026-06-05** — Logitech G512 X 98 Review: A Hybrid Mish-Mash ([source](https://www.wired.com/review/logitech-g512-x-98/))

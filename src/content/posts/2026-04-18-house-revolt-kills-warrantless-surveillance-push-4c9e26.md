@@ -1,15 +1,17 @@
 ---
 title: "House Revolt Kills Warrantless Surveillance Push"
 date: 2026-04-18T12:45:11.756Z
+modified_date: 2026-06-05T16:32:15.056Z
 tags: ["surveillance","Section 702","House revolt"]
 hero_image: "/hero/2026-04-18-house-revolt-kills-warrantless-surveillance-push-4c9e26.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "surveillance"
 description: "House revolt sinks White House bid to extend Section 702, a spy program criticized for targeting Congress members and protesters."
-sources_count: 2
+sources_count: 3
 author: "lena-volkov"
 ---
+
 
 ## Warrantless Surveillance Falls to Republican Mutiny
 
@@ -26,3 +28,7 @@ The revolt was sparked by years of surveillance scandals and abuses under succes
 ## What's Next for Surveillance Reform
 
 The expiration of Section 702 raises critical questions about US surveillance and civil liberties. The next move will signal whether there's a will to reform the current surveillance framework or maintain the status quo.
+
+## Updates
+
+- **2026-06-05** — The token bill comes due: Inside the industry scramble to manage AI’s runaway costs ([source](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/))

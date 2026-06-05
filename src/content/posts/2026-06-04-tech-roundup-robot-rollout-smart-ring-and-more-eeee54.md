@@ -1,18 +1,20 @@
 ---
 title: "Tech Roundup: Robot Rollout, Smart Ring, and More"
 date: 2026-06-04T15:27:33.612Z
+modified_date: 2026-06-05T16:33:39.422Z
 tags: ["robotics","wearable technology","Google Photos"]
 hero_image: "/hero/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "robot"
 description: "Silicon Valley's robot push, Oura's slimmer smart ring, and Google Photos update for digital frames."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.mp3"
 audio_bytes: 619251
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Robot Revolution Hits Home
@@ -75,3 +77,6 @@ As tech companies continue to innovate, keep an eye on the evolving wearable mar
 
 The future of the tech industry will be shaped by a number of trends, including the increasing use of AI and machine learning, the growth of the IoT, and the development of more wearable devices. As companies continue to innovate and push the boundaries of what is possible with technology, it will be interesting to see how these trends play out and what new opportunities and challenges arise.
 
+## Updates
+
+- **2026-06-05** — iOS 27 tidbits: Find My changes, new animations, more ([source](https://9to5mac.com/2026/06/05/ios-27-tidbits-find-my-changes-new-animations-more/))

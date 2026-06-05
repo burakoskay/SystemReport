@@ -1,16 +1,17 @@
 ---
 title: "Mobile App Deals and Scanner Tools Take Center Stage"
 date: 2026-04-19T05:56:45.151Z
-modified_date: 2026-06-01T21:38:18.085Z
+modified_date: 2026-06-05T16:33:25.437Z
 tags: ["mobile apps","app deals","scanner tools"]
 hero_image: "/hero/2026-04-19-mobile-app-deals-and-scanner-tools-take-center-stage-6b3bc5.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ As mobile app deals and discounts continue to make headlines, it's clear that th
 
 ## Updates
 
+- **2026-06-05** — Google shuts down Pixel Studio with the latest app update ([source](https://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/))
 - **2026-06-01** — A new app, The Mall, is building a universal feed for online shopping ([source](https://techcrunch.com/2026/06/01/a-new-app-the-mall-is-building-a-universal-feed-for-online-shopping/))
 - **2026-05-08** — Apple pushes back against Canadian bill that could force companies to weaken encryption ([source](https://9to5mac.com/2026/05/07/apple-pushes-back-against-canadian-bill-that-could-force-companies-to-weaken-encryption/))
 - **2026-04-27** — Mother’s Day Deals on Smart Bird Feeders (2026) ([source](https://www.wired.com/story/mothers-day-deals-on-smart-bird-feeders-2026/))

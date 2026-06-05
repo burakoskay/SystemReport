@@ -1,17 +1,19 @@
 ---
 title: "Meta Contractors Protest Layoff Terms"
 date: 2026-05-29T21:58:03.005Z
+modified_date: 2026-06-05T16:32:24.746Z
 tags: ["Meta","contractors","layoffs"]
 hero_image: "/hero/2026-05-29-meta-contractors-protest-layoff-terms-50979f.jpg"
 hero_image_credit_name: "Sides Imagery"
 hero_image_credit_url: "https://www.pexels.com/@sidesimagery"
 visual_keyword: "protest"
 description: "Meta contractors in Europe protest layoffs, citing unequal severance packages compared to full-time employees."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-29-meta-contractors-protest-layoff-terms-50979f.mp3"
 audio_bytes: 597099
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta Contractors Protest Layoff Terms
@@ -64,3 +66,6 @@ The dispute at Meta is part of a larger conversation about the future of work an
 
 The outcome of this dispute will have significant implications for workers' rights in the tech industry. It will be important to watch how Meta responds to the protests and whether it makes any changes to its labor practices. The dispute at Meta is a reminder of the need for greater transparency and accountability in the industry's labor practices.
 
+## Updates
+
+- **2026-06-05** — Can AI tell if your script will make a hit film? ([source](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood))

@@ -1,14 +1,16 @@
 ---
 title: "OpenAI Nears IPO as Altman Makes Bold YC Offer"
 date: 2026-05-20T22:04:45.707Z
+modified_date: 2026-06-05T16:32:57.771Z
 tags: ["OpenAI","IPO","AI","Sam Altman"]
 hero_image: "/hero/2026-05-20-openai-nears-ipo-as-altman-makes-bold-yc-offer-457a68.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI prepares for September IPO as Sam Altman offers investment to Y Combinator startups."
-sources_count: 2
+sources_count: 3
 ---
+
 
 
 ## OpenAI Prepares for September IPO
@@ -43,3 +45,6 @@ The implications of OpenAI's IPO and Altman's offer to YC startups are significa
 
 As OpenAI prepares for its IPO, the company is likely to face increased scrutiny from investors and regulators. The company will need to demonstrate its ability to generate revenue and grow its user base. Additionally, OpenAI will need to navigate the complex regulatory landscape surrounding AI technologies. The company's success will depend on its ability to balance innovation with responsibility and transparency.
 
+## Updates
+
+- **2026-06-05** — The University of Cambridge says it successfully tested a vaccine with an AI-designed antigen ([source](https://www.engadget.com/2188241/university-of-cambridge-successfully-tests-vaccine-with-ai-designed-antigen/))

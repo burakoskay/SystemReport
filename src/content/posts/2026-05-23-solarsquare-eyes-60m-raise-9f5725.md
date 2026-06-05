@@ -1,16 +1,17 @@
 ---
 title: "SolarSquare Eyes $60M Raise"
 date: 2026-05-23T20:59:44.993Z
-modified_date: 2026-05-24T17:08:32.768Z
+modified_date: 2026-06-05T16:33:34.780Z
 tags: ["renewable energy","solar power","Indian startups"]
 hero_image: "/hero/2026-05-23-solarsquare-eyes-60m-raise-9f5725.jpg"
 hero_image_credit_name: "Budget Bizar"
 hero_image_credit_url: "https://www.pexels.com/@budget-bizar-92378004"
 visual_keyword: "solar panels"
 description: "Indian rooftop solar firm SolarSquare in talks to raise up to $60M"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -88,4 +89,5 @@ The funding deal is a significant milestone for SolarSquare, and it could have f
 
 ## Updates
 
+- **2026-06-05** — iOS 27 beta release date: When you can install the new iPhone update ([source](https://9to5mac.com/2026/06/05/ios-27-beta-release-date-when-you-can-install-the-new-iphone-update/))
 - **2026-05-24** — On Trails is a wandering tale that blends hiking, science, and history ([source](https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review))
