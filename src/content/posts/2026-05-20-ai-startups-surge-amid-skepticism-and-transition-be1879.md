@@ -1,15 +1,17 @@
 ---
 title: "AI Startups Surge Amid Skepticism and Transition"
 date: 2026-05-20T15:51:53.386Z
+modified_date: 2026-06-05T10:01:01.261Z
 tags: ["ai","webassembly","rust","developer-tools","gen-z"]
 hero_image: "/hero/2026-05-20-ai-startups-surge-amid-skepticism-and-transition-be1879.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "abstract binary code with rust and webassembly icons on a dark background"
 description: "TechCrunch spotlights AI search growth, while Asm.js deprecation sparks developer debates."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 ## TechCrunch Spotlights AI Search Boom
 
@@ -44,3 +46,7 @@ Student reactions reveal a generational divide in AI perception. While 2026 vent
 ## What to Watch
 
 Three threads demand attention: First, the 2026 WebAssembly 3.0 spec may finalize Asm.js removal. Second, student-led AI boycotts in Europe could trigger regulatory attention. Third, 2027 Rust 2027 edition may formalize AI code generation guidelines. Track HN comment trends on these topics for early signals.
+
+## Updates
+
+- **2026-06-05** — C++: The Documentary ([source](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/))

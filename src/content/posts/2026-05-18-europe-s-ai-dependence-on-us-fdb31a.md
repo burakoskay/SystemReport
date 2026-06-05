@@ -1,17 +1,19 @@
 ---
 title: "Europe's AI Dependence on US"
 date: 2026-05-18T10:16:11.253Z
+modified_date: 2026-06-05T10:00:51.961Z
 tags: ["AI","Europe","US"]
 hero_image: "/hero/2026-05-18-europe-s-ai-dependence-on-us-fdb31a.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Mistral CEO warns Europe has 2 years to avoid US AI dominance"
-sources_count: 1
+sources_count: 2
 audio_path: "/audio/2026-05-18-europe-s-ai-dependence-on-us-fdb31a.mp3"
 audio_bytes: 576619
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Europe's AI Dependence on US
@@ -74,3 +76,6 @@ The EU has been working to develop its own AI capabilities for several years, bu
 
 In conclusion, Europe's dependence on US AI technology is a significant concern. The EU must take immediate action to develop its own AI capabilities, or risk being left behind in the global AI landscape. The stakes are high, but with the right approach, Europe can avoid becoming a vassal state to the US in AI.
 
+## Updates
+
+- **2026-06-05** — AI Has Come for Serif Fonts ([source](https://www.wired.com/story/ai-has-come-for-serif-fonts/))

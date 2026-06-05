@@ -1,17 +1,19 @@
 ---
 title: "Benchmark's $2B Fundraise Shakes Up VC"
 date: 2026-06-04T04:30:26.665Z
+modified_date: 2026-06-05T10:00:47.200Z
 tags: ["venture capital","growth funds","Benchmark"]
 hero_image: "/hero/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "growth funds"
 description: "Benchmark raises its first growth fund as part of $2B capital raise, deviating from its traditional $425M fund size."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.mp3"
 audio_bytes: 560946
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Benchmark Abandons Tradition
@@ -82,3 +84,6 @@ The success of Benchmark's growth fund will also be closely watched by other fir
 
 In conclusion, Benchmark's $2 billion growth fund is a significant development in the venture capital landscape. The firm's increased fund size and focus on growth-stage investments will likely have a major impact on the types of investments being made in the market. As the firm begins to deploy its new fund, it will be interesting to see how it performs and what implications it has for the broader venture capital industry.
 
+## Updates
+
+- **2026-06-05** — ‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers ([source](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/))
