@@ -1,16 +1,17 @@
 ---
 title: "Gemini Smart Speakers Revive Third-Party Options"
 date: 2026-05-04T03:42:18.341Z
-modified_date: 2026-05-19T15:35:12.918Z
+modified_date: 2026-06-05T23:15:23.244Z
 tags: ["Google","Smart Speakers","Gemini"]
 hero_image: "/hero/2026-05-04-gemini-smart-speakers-revive-third-party-options-3cc7fe.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "smart speaker"
 description: "Google's Gemini era may bring new third-party smart speakers, ending a drought in the market. The move could increase competition in the smart home sector."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ The future of the smart speaker market looks promising, with new technologies an
 
 ## Updates
 
+- **2026-06-05** — Nest Mini and Audio are out of stock ahead of Google Home Speaker ([source](https://9to5google.com/2026/06/05/nest-mini-audio-out-of-stock/))
 - **2026-05-19** — Google I/O 2026: Live updates as the company announces new features for Gemini, AI, Search and more ([source](https://www.engadget.com/2176173/google-io-live-blog-gemini-ai/))

@@ -1,18 +1,20 @@
 ---
 title: "US Regulators Turn to AI for Insider Trading Surveillance"
 date: 2026-05-15T10:32:39.928Z
+modified_date: 2026-06-05T23:15:18.534Z
 tags: ["CFTC","AI","insider trading","regulation"]
 hero_image: "/hero/2026-05-15-us-regulators-turn-to-ai-for-insider-trading-surveillance-52c5b6.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The US CFTC is using AI to monitor prediction markets like Polymarket for illegal activity, amid a complex regulatory landscape for cryptocurrencies and digital assets."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-05-15-us-regulators-turn-to-ai-for-insider-trading-surveillance-52c5b6.mp3"
 audio_bytes: 593547
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Regulators Go High-Tech to Catch Insider Trading
@@ -70,3 +72,7 @@ The CFTC's AI-powered surveillance is just one aspect of the regulatory landscap
 Regulators will need to continue to adapt and refine their approaches to ensure effective oversight. This may involve working with industry participants to develop clear guidelines and regulations, and to ensure that AI systems are transparent and accountable.
 
 Ultimately, the goal of regulatory oversight is to protect investors and to ensure the integrity of the markets. By using AI for surveillance, the CFTC can more effectively achieve this goal and promote a fair and transparent financial system.
+
+## Updates
+
+- **2026-06-05** — The saga of the International Space Station air leak took a worrying turn Friday ([source](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's camera‑enabled AirPods move toward 2026 launch"
 date: 2026-05-22T21:26:08.799Z
-modified_date: 2026-05-23T17:05:56.101Z
+modified_date: 2026-06-05T23:15:27.971Z
 tags: ["apple","airpods","ai","wearables","siri"]
 hero_image: "/hero/2026-05-22-apple-s-camera-enabled-airpods-move-toward-2026-launch-0e83eb.jpg"
 hero_image_credit_name: "Sonny Sixteen"
 hero_image_credit_url: "https://www.pexels.com/@sonny"
 visual_keyword: "close-up of sleek wireless earbuds with tiny camera lenses and LED indicator"
 description: "Apple's AirPods Pro with low‑resolution cameras enter advanced testing, with mass production slated for 2026 and integration into Siri and Vision Pro."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 ## Apple pushes camera‑enabled AirPods toward production
@@ -44,4 +45,5 @@ Stakeholders should monitor Apple’s developer events, Foxconn production repor
 
 ## Updates
 
+- **2026-06-05** — Pixelated 103: A smorgasbord of Google news ([source](https://9to5google.com/2026/06/05/pixelated-103-a-smorgasbord-of-google-news/))
 - **2026-05-23** — Ferrari is using IBM’s AI to create F1 superfans ([source](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/))
