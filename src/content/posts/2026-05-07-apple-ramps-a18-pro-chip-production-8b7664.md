@@ -1,18 +1,19 @@
 ---
 title: "Apple Ramps A18 Pro Chip Production"
 date: 2026-05-07T14:33:24.980Z
-modified_date: 2026-06-02T10:44:39.365Z
+modified_date: 2026-06-06T03:55:12.921Z
 tags: ["Apple","TSMC","Samsung","MacBook Neo"]
 hero_image: "/hero/2026-05-07-apple-ramps-a18-pro-chip-production-8b7664.jpg"
 hero_image_credit_name: "Mateusz Taciak"
 hero_image_credit_url: "https://www.pexels.com/@mateusz-taciak-41036954"
 visual_keyword: "Apple MacBook Neo"
 description: "Apple increases A18 Pro chip production for MacBook Neo, citing strong demand. The move impacts TSMC and potentially Samsung."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-07-apple-ramps-a18-pro-chip-production-8b7664.mp3"
 audio_bytes: 577873
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ The A18 Pro chip is a key component of the MacBook Neo, providing high-performan
 
 ## Updates
 
+- **2026-06-06** — iFixit tears down fake Apple Watch Ultra 3, AirPods Max 2, and AirPods Pro 3 ([source](https://9to5mac.com/2026/06/05/ifixit-tears-down-fake-apple-watch-ultra-3-airpods-max-2-and-airpods-pro-3/))
 - **2026-06-02** — The Manhattan Institute Helped Kill DEI. Now It’s Coming for Protests ([source](https://www.wired.com/story/the-manhattan-institute-helped-kill-dei-now-its-coming-for-protests/))

@@ -1,18 +1,20 @@
 ---
 title: "Tech Review Deception"
 date: 2026-06-05T16:35:57.035Z
+modified_date: 2026-06-06T03:54:54.093Z
 tags: ["Amazon","fake reviews","tech products","simplicity"]
 hero_image: "/hero/2026-06-05-tech-review-deception-75052a.jpg"
 hero_image_credit_name: "Nando Freitas"
 hero_image_credit_url: "https://www.pexels.com/@nandofreitasr"
 visual_keyword: "Amazon"
 description: "Fake reviews on Amazon, disappointing tech products, and the value of simplicity in meal kits and wearables."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-05-tech-review-deception-75052a.mp3"
 audio_bytes: 572858
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Dark Side of Online Reviews
@@ -71,3 +73,6 @@ The tech world is full of deception and disappointment, but also innovation and 
 
 As the online marketplace continues to evolve, it's likely that new challenges and opportunities will arise. One potential area of focus is the use of blockchain technology to create a more secure and transparent review system. Another area of focus is the development of more sophisticated AI-powered tools to detect and prevent fake reviews. By staying ahead of the curve and embracing new technologies and approaches, we can create a more trustworthy and reliable online marketplace.
 
+## Updates
+
+- **2026-06-06** — Stellar Blade's slick-looking sequel is officially called Blood Rain ([source](https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/))

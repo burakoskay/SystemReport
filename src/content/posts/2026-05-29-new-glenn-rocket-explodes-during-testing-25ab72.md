@@ -1,14 +1,16 @@
 ---
 title: "New Glenn Rocket Explodes During Testing"
 date: 2026-05-29T04:04:25.453Z
+modified_date: 2026-06-06T03:54:49.291Z
 tags: ["New Glenn Rocket","Blue Origin","SpaceX","NASA"]
 hero_image: "/hero/2026-05-29-new-glenn-rocket-explodes-during-testing-25ab72.jpg"
 hero_image_credit_name: "Karol D"
 hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "New Glenn Rocket Explosion"
 description: "Blue Origin's New Glenn rocket explodes during static-fire test"
-sources_count: 3
+sources_count: 4
 ---
+
 
 ## New Glenn Explosion
 Blue Origin's New Glenn rocket detonated during a static-fire rehearsal at a Florida launch complex. The blast halted the company's immediate schedule and raised questions about its ability to deliver hardware for NASA's Artemis program.
@@ -47,3 +49,7 @@ The incident may also lead to increased scrutiny of the private space industry, 
 
 ## What to Watch Next
 Blue Origin has pledged a comprehensive investigation, but the timeline for results remains unclear. NASA's response will be equally important; a formal statement from the agency regarding New Glenn's status in the Artemis schedule will signal whether the lunar program will stay on its current path or pivot to other launch providers. The investigation and subsequent actions will be closely watched by the space industry and the public, as they will have significant implications for the future of space exploration.
+
+## Updates
+
+- **2026-06-06** — More than a decade later, the team behind N++ is back with a multiplayer sequel ([source](https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel))

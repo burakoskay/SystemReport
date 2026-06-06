@@ -1,16 +1,17 @@
 ---
 title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our"
 date: 2026-04-15T19:47:05.150Z
-modified_date: 2026-05-28T16:11:45.857Z
+modified_date: 2026-06-06T03:54:58.851Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
 hero_image: "/hero/2026-04-15-the-hidden-cost-of-ai-why-assistance-may-be-eroding-our-cognitive-edge-35716a.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"
 description: "A new study reveals AI assistance, while boosting immediate performance, fosters dependency and reduces human persistence, raising alarms for innovation and education."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ As AI continues to embed itself into every facet of our lives, from classrooms t
 
 ## Updates
 
+- **2026-06-06** — Super Yooka-Laylee Kart looks like an old-school Mario Kart for the modern age ([source](https://www.engadget.com/2186860/super-yooka-laylee-kart-looks-like-an-old-school-mario-kart-for-the-modern-age/))
 - **2026-05-28** — Deals: Google Pixel 10 Pro up to $420 off, Pixel Buds from $109, TCL NXTPAPER 14 $120 off, more ([source](https://9to5google.com/2026/05/28/deals-google-pixel-10-pro-pixel-buds-tcl-nxtpaper/))
 - **2026-05-27** — Mojito for Mac is a new and free emoji picker with auto-complete ([source](https://9to5mac.com/2026/05/27/mojito-for-mac-is-a-new-and-free-emoji-picker-with-auto-complete/))
 - **2026-05-15** — X agrees to crack down on illegal hate and terror content in the UK ([source](https://www.theverge.com/tech/931147/x-illegal-hate-terror-content-ofcom-commitments))
