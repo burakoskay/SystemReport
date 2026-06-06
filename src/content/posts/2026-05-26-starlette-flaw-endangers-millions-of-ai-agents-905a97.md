@@ -1,15 +1,17 @@
 ---
 title: "Starlette flaw endangers millions of AI agents"
 date: 2026-05-26T22:04:59.963Z
+modified_date: 2026-06-06T10:09:56.884Z
 tags: ["ai","security","robotics","open-source"]
 hero_image: "/hero/2026-05-26-starlette-flaw-endangers-millions-of-ai-agents-905a97.jpg"
 hero_image_credit_name: "Darlene Alderson"
 hero_image_credit_url: "https://www.pexels.com/@darlene-alderson"
 visual_keyword: "abstract network of code and robot silhouettes with warning symbols"
 description: "A BadHost package in the Starlette framework can hijack AI agents, exposing a broader pattern of robot and AI software vulnerabilities."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## BadHost in Starlette puts AI agents at risk
 A malicious package named BadHost has been discovered in Starlette, the Python web framework that underpins more than 325 million weekly downloads. Security researchers say the code can hijack any AI agent that relies on Starlette’s routing layer, effectively giving an attacker control over millions of deployed models.
@@ -30,3 +32,7 @@ Industry response has been fragmented. Some projects now enforce signed releases
 
 ## What to watch
 Watch for an official CVE for BadHost and for the next Starlette release that removes the back‑door. Track ROS 2 security bulletins, especially patches to the DDS layer, and monitor whether major robot manufacturers adopt SROS2 tooling in production fleets. Finally, keep an eye on supply‑chain scanning services that integrate directly into CI pipelines; their coverage will determine whether the next wave of AI agents or robot platforms can avoid a similar hijack.
+
+## Updates
+
+- **2026-06-06** — The Moons of Uranus May Hold the Key to Finding Missing Planets ([source](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/))

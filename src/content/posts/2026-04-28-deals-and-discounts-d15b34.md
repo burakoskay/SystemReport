@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-06-05T20:02:22.349Z
+modified_date: 2026-06-06T10:09:52.238Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-06-06** — Velotric Nomad 2 Fat Tire Ebike, Tested and Reviewed (2026) ([source](https://www.wired.com/review/velotric-nomad-2-fat-tire-ebike/))
 - **2026-06-05** — HomeKit Weekly: SwitchBot launches a battery-powered standing fan with Apple Home integration ([source](https://9to5mac.com/2026/06/05/switchbot-standing-circulator-fan/))
 - **2026-05-30** — Mina the Hollower, a Sims alternative and other new indie games worth checking out ([source](https://www.engadget.com/2183989/mina-the-hollower-a-sims-alternative-and-other-new-indie-games-worth-checking-out/))
 - **2026-05-26** — Saving for a Switch 2 is easier with Newegg’s gift card deal ([source](https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale))

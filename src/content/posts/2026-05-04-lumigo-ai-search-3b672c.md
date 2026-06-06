@@ -1,18 +1,20 @@
 ---
 title: "Lumigo AI Search"
 date: 2026-05-04T10:19:32.254Z
+modified_date: 2026-06-06T10:10:01.543Z
 tags: ["Lumigo","AI Search Engine","Entertainment Discovery"]
 hero_image: "/hero/2026-05-04-lumigo-ai-search-3b672c.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "Lumigo"
 description: "Lumigo: AI-powered product search engine without sponsored results"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-04-lumigo-ai-search-3b672c.mp3"
 audio_bytes: 573902
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Lumigo
 Lumigo is a new AI-powered product search engine that is changing the entertainment landscape. With its powerful features for movie and TV series discovery, Lumigo is making it easier for users to find their next favorite show or movie. The platform allows users to browse thousands of titles, build their collections, exchange recommendations with friends, and find the right movie with AI search.
@@ -49,3 +51,7 @@ The use of AI in the entertainment industry is also becoming more prevalent. Com
 The concept of AI-powered search engines is not new, but it has gained significant traction in recent years. The use of AI in search engines has improved the overall user experience, providing users with more accurate and personalized results. Lumigo's launch is a significant development in this trend, as it provides users with a unique and innovative way to discover new entertainment content.
 
 The history of AI-powered search engines is marked by significant advancements in natural language processing and machine learning. These advancements have enabled search engines to provide users with more accurate and personalized results, improving the overall user experience. Lumigo's use of AI is a significant development in this trend, as it provides users with a unique and innovative way to discover new entertainment content.
+
+## Updates
+
+- **2026-06-06** — Ask HN: Why is the HN crowd so anti-AI? ([source](https://news.ycombinator.com/item?id=48420827))
