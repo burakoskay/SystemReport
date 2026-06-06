@@ -1,18 +1,19 @@
 ---
 title: "F-18 Jets Collide at Mountain Home Airshow"
 date: 2026-05-18T04:08:19.771Z
-modified_date: 2026-06-05T20:01:35.588Z
+modified_date: 2026-06-06T13:53:44.354Z
 tags: ["F-18","airshow","military aviation"]
 hero_image: "/hero/2026-05-18-f-18-jets-collide-at-mountain-home-airshow-f8c6f2.jpg"
 hero_image_credit_name: "Rafael Minguet Delgado"
 hero_image_credit_url: "https://www.pexels.com/@thales13"
 visual_keyword: "F-18"
 description: "Two EA-18 fighter jets collided during an airshow at Mountain Home Air Force Base, pilots ejected safely."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-18-f-18-jets-collide-at-mountain-home-airshow-f8c6f2.mp3"
 audio_bytes: 621968
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,5 +74,6 @@ Ultimately, the goal of any airshow is to entertain and educate the public while
 
 ## Updates
 
+- **2026-06-06** — The next YouTube phenomenon hitting the big screen ([source](https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer))
 - **2026-06-05** — Gone in 60 minutes ([source](https://www.theverge.com/entertainment/944337/gone-in-60-minutes))
 - **2026-05-21** — NYC Mayor Zohran Mamdani is launching a Twitch series ([source](https://www.theverge.com/tech/935191/zohran-mamdani-twitch-talk-to-the-people))

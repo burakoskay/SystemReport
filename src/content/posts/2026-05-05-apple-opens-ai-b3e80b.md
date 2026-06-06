@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-06-01T21:38:49.944Z
+modified_date: 2026-06-06T13:53:48.013Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-06-06** — The Best 3-in-1 Apple Charging Stations After Testing Top Models ([source](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/))
 - **2026-06-01** — The Sideload 035: Tech positivity ([source](https://9to5google.com/2026/06/01/the-sideload-035-tech-positivity/))
 - **2026-05-15** — Bose&#8217;s new Lifestyle Ultra speakers are now available ([source](https://www.theverge.com/gadgets/930471/bose-lifestyle-ultra-speaker-soundbar-subwoofer-price-release-date-availability))
 - **2026-05-11** — Apple just made it easier for Apple Card users to access Savings on the web ([source](https://9to5mac.com/2026/05/11/apple-just-made-it-easier-for-apple-card-users-to-access-savings-on-the-web/))

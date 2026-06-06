@@ -1,14 +1,16 @@
 ---
 title: "OpenAI adds voice API"
 date: 2026-05-07T23:04:48.702Z
+modified_date: 2026-06-06T13:53:59.031Z
 tags: ["OpenAI","Voice API","AI Safety"]
 hero_image: "/hero/2026-05-07-openai-adds-voice-api-bb8fe5.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "OpenAI"
 description: "OpenAI adds voice API, self-harm safeguard, and Chrome plugin"
-sources_count: 3
+sources_count: 4
 ---
+
 
 
 # OpenAI Expands API with Voice Intelligence
@@ -38,3 +40,6 @@ The release of OpenAI's voice API, safety safeguard, and Chrome Codex plugin has
 ## Future Developments
 As OpenAI continues to expand its API and safety features, it is likely that we will see further innovations in AI-driven customer service, education, and content creation. The company's commitment to responsible AI development and deployment is a positive step in this direction, and its efforts to address concerns around user safety and AI-driven chat platforms are noteworthy. As the tech industry continues to evolve, it will be interesting to see how OpenAI's voice API, safety safeguard, and Chrome Codex plugin shape the future of AI-driven technologies.
 
+## Updates
+
+- **2026-06-06** — Aging and Eye Problems ([source](https://ldstephens.net/posts/aging-and-eye-problems/))
