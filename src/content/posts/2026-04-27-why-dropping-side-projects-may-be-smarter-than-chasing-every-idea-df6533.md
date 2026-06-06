@@ -1,16 +1,17 @@
 ---
 title: "Why Dropping Side Projects May Be Smarter Than Chasing Every Idea"
 date: 2026-04-27T14:14:13.288Z
-modified_date: 2026-05-06T14:25:49.243Z
+modified_date: 2026-06-06T21:09:43.620Z
 tags: ["side-projects","developer-tools","ai-automation"]
 hero_image: "/hero/2026-04-27-why-dropping-side-projects-may-be-smarter-than-chasing-every-idea-df6533.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "engineer juggling multiple code repositories with AI agents and a terminal window"
 description: "A Hacker News debate, AI‑driven task tools, and a Neovim plugin reveal why engineers are rethinking side‑project culture."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 A Hacker News post titled *It’s OK to abandon your side‑project* racked up 131 points and 62 comments, sparking a rare consensus that quitting a personal codebase isn’t a failure.
@@ -51,4 +52,5 @@ Watch Fluxa’s upcoming release notes for any metrics on agent‑setup time ver
 
 ## Updates
 
+- **2026-06-06** — Viaim RecDots earbuds are the sleekest AI recording tool yet ([source](https://9to5google.com/2026/06/06/viaim-recdots-earbuds-sleekest-ai-recording-tool-yet/))
 - **2026-05-06** — The clippening ([source](https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast))
