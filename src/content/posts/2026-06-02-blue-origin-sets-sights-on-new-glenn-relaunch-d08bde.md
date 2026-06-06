@@ -1,17 +1,19 @@
 ---
 title: "Blue Origin Sets Sights on New Glenn Relaunch"
 date: 2026-06-02T16:44:23.361Z
+modified_date: 2026-06-06T17:19:36.245Z
 tags: ["Blue Origin","New Glenn","Launch Industry"]
 hero_image: "/hero/2026-06-02-blue-origin-sets-sights-on-new-glenn-relaunch-d08bde.jpg"
 hero_image_credit_name: "André Eusébio"
 hero_image_credit_url: "https://www.pexels.com/@andreeusebio"
 visual_keyword: "New Glenn"
 description: "New Glenn to launch again this year"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-02-blue-origin-sets-sights-on-new-glenn-relaunch-d08bde.mp3"
 audio_bytes: 563871
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Relaunch
 Blue Origin's New Glenn will launch again this year. CEO Dave Limp stated that the damage to the launchpad was not as bad as expected.
@@ -43,3 +45,7 @@ The New Glenn rocket's propulsion system is designed to provide a high level of 
 The successful relaunch of the New Glenn will have significant implications for the launch industry. It will demonstrate Blue Origin's ability to recover from setbacks and maintain its position in the market. The company's customers, including satellite operators and space agencies, will be watching the relaunch closely.
 
 A successful launch will also have implications for the company's competitors. SpaceX and Rocket Lab will be watching the launch closely, as it will provide insight into Blue Origin's capabilities and competitiveness in the market. The launch will also have implications for the broader space industry, as it will demonstrate the viability of private launch companies and the growing demand for launch services.
+
+## Updates
+
+- **2026-06-06** — The Trump administration might take an equity stake in OpenAI ([source](https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/))

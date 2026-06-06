@@ -1,18 +1,20 @@
 ---
 title: "Forget AAA, Indie Developers Steal the Show at Summer Game Fest"
 date: 2026-06-06T15:23:26.889Z
+modified_date: 2026-06-06T17:19:45.981Z
 tags: ["summer game fest","indie games","game development","innovation","experimentation"]
 hero_image: "/hero/2026-06-06-forget-aaa-indie-developers-steal-the-show-at-summer-game-fest-b990ac.jpg"
 hero_image_credit_name: "Michael Kessel"
 hero_image_credit_url: "https://www.pexels.com/@michael-kessel-112079563"
 visual_keyword: "indie game developers at Summer Game Fest"
 description: "As the gaming industry grapples with financial pressures and layoffs, independent game developers shine at Summer Game Fest with innovative and creative titles."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-06-forget-aaa-indie-developers-steal-the-show-at-summer-game-fest-b990ac.mp3"
 audio_bytes: 585396
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Game On: Indie Developers Take Center Stage
@@ -50,3 +52,7 @@ So, what makes indie games so innovative? For starters, they're not bound by the
 ## What to Watch
 
 As the gaming industry continues to evolve, one thing is clear: indie developers are leading the way. They're innovating, experimenting, and pushing the boundaries of what's possible in game design. So, what's next? Will big studios take note and follow suit, or will they continue to struggle to keep up? Keep an eye on the Summer Game Fest and other indie game showcases to see what's next.
+
+## Updates
+
+- **2026-06-06** — Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It ([source](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/))

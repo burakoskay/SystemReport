@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: SpaceX Chip Factory, Google AI Search"
 date: 2026-05-06T17:49:49.309Z
+modified_date: 2026-06-06T17:19:50.812Z
 tags: ["SpaceX","Google","AI","semiconductors"]
 hero_image: "/hero/2026-05-06-tech-roundup-spacex-chip-factory-google-ai-search-b8de4b.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "chip-factory"
 description: "SpaceX considers $55 billion chip factory in Texas, Google updates AI search with Reddit and forum advice."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## SpaceX Weighs $55 Billion Chip Factory Investment
@@ -77,3 +79,7 @@ The semiconductor industry is highly competitive, with major players like Intel,
 In conclusion, the development of 'Terafab' and Google's updated AI search feature are significant advancements in the tech industry. The investment in 'Terafab' reflects SpaceX's ambition to become a major player in the chip market, while Google's updated AI search feature aims to provide users with more nuanced answers to niche queries.
 
 As the tech industry continues to evolve, we can expect to see more innovative applications and investments in the field. The key will be to balance innovation with responsible development and deployment, ensuring that these technologies benefit society as a whole.
+
+## Updates
+
+- **2026-06-06** — The big budget Avatar: The Last Airbender RPG is no longer in production ([source](https://www.engadget.com/2188916/the-big-budget-avatar-the-last-airbender-rpg-is-no-longer-in-production/))
