@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-06-03T16:59:46.614Z
+modified_date: 2026-06-06T23:08:43.765Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-06-06** — Zeroserve: A zero-config web server you can script with eBPF ([source](https://su3.io/posts/introducing-zeroserve))
 - **2026-06-03** — These Android phones support AirDrop sharing with iPhone and Mac ([source](https://9to5google.com/2026/06/03/android-airdrop-list-of-supported-devices/))
 - **2026-06-01** — Apple releases iOS 26.5.1 for iPhone, here’s what’s new ([source](https://9to5mac.com/2026/06/01/apple-releases-ios-26-5-1-for-iphone-heres-whats-new/))
 - **2026-05-31** — What are you actually doing with Gemini? ([source](https://9to5google.com/2026/05/31/what-are-you-actually-doing-with-gemini/))
