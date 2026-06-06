@@ -1,17 +1,19 @@
 ---
 title: "Katie Haun Raises $1B for Crypto Venture Funds"
 date: 2026-05-04T19:48:30.545Z
+modified_date: 2026-06-06T19:39:17.776Z
 tags: ["crypto","blockchain","venture funds"]
 hero_image: "/hero/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "crypto"
 description: "Katie Haun's new venture funds raise $1B to back crypto and blockchain startups."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.mp3"
 audio_bytes: 588531
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Katie Haun Secures $1B for Crypto Venture Funds
@@ -64,3 +66,6 @@ The future of crypto and blockchain is exciting and rapidly evolving. With more 
 
 As the ecosystem continues to evolve, it will be important for investors and entrepreneurs to stay informed about the latest developments and trends. The growing interest in crypto and blockchain is a testament to the potential for blockchain technology to drive innovation and growth, and highlights the importance of staying ahead of the curve.
 
+## Updates
+
+- **2026-06-06** — Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac ([source](https://9to5mac.com/2026/06/06/benq-ma270s-hands-on-for-mac-studio-display-competitor-27-inch-5k-monitor/))

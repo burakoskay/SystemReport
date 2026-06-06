@@ -1,15 +1,16 @@
 ---
 title: "NanoClaw Secures $12M Seed Funding"
 date: 2026-05-20T15:38:51.647Z
-modified_date: 2026-06-05T16:33:11.521Z
+modified_date: 2026-06-06T19:39:03.340Z
 tags: ["NanoClaw","Quartermaster","Maritime Tech"]
 hero_image: "/hero/2026-05-20-nanoclaw-secures-12m-seed-funding-013428.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "Maritime Sensors"
 description: "NanoCo turns down buyout, raises $12M seed"
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -62,6 +63,7 @@ As the industry continues to evolve, we can expect to see more innovative soluti
 
 ## Updates
 
+- **2026-06-06** — The first Story-Rich showcase was packed with narrative-driven games ([source](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers))
 - **2026-06-05** — How to watch the Xbox Games Showcase ([source](https://www.engadget.com/2187783/how-to-watch-the-xbox-games-showcase/))
 - **2026-06-01** — 9to5Mac Daily: June 1, 2026 – Apple TV and AI glasses rumors ([source](https://9to5mac.com/2026/06/01/daily-june-1-2026/))
 - **2026-05-23** — The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers ([source](https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/))

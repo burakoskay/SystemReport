@@ -1,16 +1,17 @@
 ---
 title: "Tech's Tightrope: Power, Access, and the Pushback"
 date: 2026-05-21T20:14:37.348Z
-modified_date: 2026-06-04T21:45:11.598Z
+modified_date: 2026-06-06T19:39:08.161Z
 tags: ["privacy","ai-ethics","tech-regulation","data-security","internet-archival"]
 hero_image: "/hero/2026-05-21-tech-s-tightrope-power-access-and-the-pushback-85be7a.jpg"
 hero_image_credit_name: "Jan van der Wolf"
 hero_image_credit_url: "https://www.pexels.com/@jan-van-der-wolf-11680885"
 visual_keyword: "digital landscape with interconnected nodes and locked gates"
 description: "A week in tech: London blocks Palantir, news outlets cut Internet Archive, and AI's plagiarism crisis."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 ## London Mayor Blocks Palantir's Metropolitan Police Deal
@@ -49,4 +50,5 @@ The next three months will test tech’s accountability boundaries: Palantir’s
 
 ## Updates
 
+- **2026-06-06** — GOG apologizes for emailing people Nazi symbols ([source](https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun))
 - **2026-06-04** — Startup Battlefield is returning to Australia — here’s what happened the last time we came to Sydney ([source](https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/))
