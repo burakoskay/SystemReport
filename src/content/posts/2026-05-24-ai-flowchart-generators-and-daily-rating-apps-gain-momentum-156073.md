@@ -1,18 +1,19 @@
 ---
 title: "AI Flowchart Generators and Daily Rating Apps Gain Momentum"
 date: 2026-05-24T11:20:53.964Z
-modified_date: 2026-06-06T19:39:22.545Z
+modified_date: 2026-06-07T19:40:06.038Z
 tags: ["AI","Productivity","Tech Trends"]
 hero_image: "/hero/2026-05-24-ai-flowchart-generators-and-daily-rating-apps-gain-momentum-156073.jpg"
 hero_image_credit_name: "Startup Stock Photos"
 hero_image_credit_url: "https://www.pexels.com/@startup-stock-photos"
 visual_keyword: "Flowchart"
 description: "Free AI diagram tools and personal rating sites see rapid adoption"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-24-ai-flowchart-generators-and-daily-rating-apps-gain-momentum-156073.mp3"
 audio_bytes: 548407
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # AI Flowchart Generators Turn Text Into Diagrams
@@ -54,4 +55,5 @@ Similarly, the use of personal data rating platforms could lead to increased awa
 
 ## Updates
 
+- **2026-06-07** — Undead Labs finally shows off State of Decay 3 gameplay in new trailer ([source](https://www.engadget.com/2189069/undead-labs-finally-shows-off-state-of-decay-3-gameplay-in-new-trailer/))
 - **2026-06-06** — Police in England and Wales told to halt AI use in court statements ([source](https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241))
