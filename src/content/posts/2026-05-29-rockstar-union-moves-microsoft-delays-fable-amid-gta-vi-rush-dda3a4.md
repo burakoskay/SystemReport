@@ -1,18 +1,20 @@
 ---
 title: "Rockstar Union Moves, Microsoft Delays Fable Amid GTA VI Rush"
 date: 2026-05-29T18:46:32.153Z
+modified_date: 2026-06-07T11:52:34.232Z
 tags: ["gaming","labor","release-schedule","rockstar","microsoft"]
 hero_image: "/hero/2026-05-29-rockstar-union-moves-microsoft-delays-fable-amid-gta-vi-rush-dda3a4.jpg"
 hero_image_credit_name: "Mr IVBN"
 hero_image_credit_url: "https://www.pexels.com/@ivbn"
 visual_keyword: "gaming studio office with union posters and console launch timeline"
 description: "Rockstar's GTA VI team announces a union while Microsoft pushes Fable to 2027, highlighting shifting launch strategies in a crowded console calendar."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-29-rockstar-union-moves-microsoft-delays-fable-amid-gta-vi-rush-dda3a4.mp3"
 audio_bytes: 643911
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Union Drive Hits Rockstar's Flagship Project
 
@@ -41,3 +43,7 @@ The contrast is stark. While Rockstar's team fights for labor rights and Microso
 ## What to Watch
 
 Track the outcome of Rockstar's union drive through any collective‑bargaining filings with the National Labor Relations Board. Follow Microsoft’s Fable showcase on June 7 for concrete gameplay footage and any further schedule tweaks. Finally, monitor first‑quarter sales reports for GTA VI and Fable to gauge whether the staggered launch strategy reshapes revenue patterns for large‑scale and mid‑tier titles alike.
+
+## Updates
+
+- **2026-06-07** — Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals ([source](https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/))
