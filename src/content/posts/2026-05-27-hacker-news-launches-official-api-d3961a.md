@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Launches Official API"
 date: 2026-05-27T10:06:17.282Z
+modified_date: 2026-06-07T14:04:24.382Z
 tags: ["Hacker News","API","Firebase"]
 hero_image: "/hero/2026-05-27-hacker-news-launches-official-api-d3961a.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "Hacker News has launched an official API in partnership with Firebase, providing near real-time access to data and enabling developers to modernize their apps."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 ## Introduction
 
@@ -82,3 +84,7 @@ The growth of APIs has also led to the development of new business models. Compa
 The launch of the Hacker News API is a significant development for the tech community. With easy access to data, developers can build new apps and services that integrate with the platform. The partnership with Firebase highlights the increasing adoption of cloud-based technologies in the tech industry.
 
 As the API evolves, it will be interesting to see how developers use it to build new apps and services. The API's impact on the tech industry will also be worth monitoring, as it may lead to new innovations and use cases that we haven't seen yet.
+
+## Updates
+
+- **2026-06-07** — AI ‘content creators’ are getting harder to spot ([source](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators))

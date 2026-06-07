@@ -1,19 +1,20 @@
 ---
 title: "Visual DB Launches Web Front End for Database Management"
 date: 2026-05-06T14:28:17.325Z
-modified_date: 2026-06-01T04:44:25.666Z
+modified_date: 2026-06-07T14:04:09.849Z
 tags: ["no-code development","database management","Visual DB"]
 hero_image: "/hero/2026-05-06-visual-db-launches-web-front-end-for-database-management-aafbec.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "database"
 description: "Visual DB offers a drag-and-drop tool for creating professional databases, forms, sheets, and reports without coding."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-06-visual-db-launches-web-front-end-for-database-management-aafbec.mp3"
 audio_bytes: 624893
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,5 +73,6 @@ The competitive landscape for database management tools is complex, with many es
 
 ## Updates
 
+- **2026-06-07** — Hacked, leaked, and held for ransom: the worst breaches of 2026 so far ([source](https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/))
 - **2026-06-01** — Security Bite Q1 Review: May 2026 ([source](https://9to5mac.com/2026/05/31/security-bite-q1-review-may-2026/))
 - **2026-05-25** — Hopes for WWDC 2026: Health for Mac, Wallet everywhere, and other OS 27 dreams ([source](https://9to5mac.com/2026/05/25/hopes-for-wwdc-2026-health-for-mac-wallet-everywhere-and-other-os-27-dreams/))

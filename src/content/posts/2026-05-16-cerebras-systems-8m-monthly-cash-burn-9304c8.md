@@ -1,15 +1,16 @@
 ---
 title: "Cerebras Systems' $8M Monthly Cash Burn"
 date: 2026-05-16T15:01:59.001Z
-modified_date: 2026-06-04T10:03:24.467Z
+modified_date: 2026-06-07T14:04:29.354Z
 tags: ["AI chips","Cerebras Systems","IPO"]
 hero_image: "/hero/2026-05-16-cerebras-systems-8m-monthly-cash-burn-9304c8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI chips"
 description: "Cerebras Systems burned $8M monthly before its 2026 IPO, revealing the massive costs of developing cutting-edge AI chips."
-sources_count: 5
+sources_count: 6
 ---
+
 
 
 
@@ -57,4 +58,5 @@ In the coming years, Cerebras Systems will face significant challenges as it see
 
 ## Updates
 
+- **2026-06-07** — New dummy units give our closest look yet at the iPhone Fold ([source](https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/))
 - **2026-06-04** — Google Wallet ID passes will be available in select EU states this summer ([source](https://www.engadget.com/2186977/google-wallet-id-passes-will-be-available-in-select-eu-states-this-summer/))

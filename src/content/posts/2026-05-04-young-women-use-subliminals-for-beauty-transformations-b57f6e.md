@@ -1,19 +1,20 @@
 ---
 title: "Young Women Use Subliminals for Beauty Transformations"
 date: 2026-05-04T10:21:30.819Z
-modified_date: 2026-06-06T21:09:38.660Z
+modified_date: 2026-06-07T14:04:14.729Z
 tags: ["self-improvement","beauty standards","subliminals"]
 hero_image: "/hero/2026-05-04-young-women-use-subliminals-for-beauty-transformations-b57f6e.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "subliminal"
 description: "Young women are turning to YouTube and TikTok videos promising beauty transformations through ASMR affirmations, but is it just a fad or something more?"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-04-young-women-use-subliminals-for-beauty-transformations-b57f6e.mp3"
 audio_bytes: 592502
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,5 +79,6 @@ In recent years, social media has become a driving force behind the self-improve
 
 ## Updates
 
+- **2026-06-07** — Dell&#8217;s new XPS 14 is better in almost every way ([source](https://www.theverge.com/tech/944360/dell-xps-14-2026-review))
 - **2026-06-06** — OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks ([source](https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/))
 - **2026-05-07** — Inside Dreame’s wild launch event — packed with products no one can buy ([source](https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026))

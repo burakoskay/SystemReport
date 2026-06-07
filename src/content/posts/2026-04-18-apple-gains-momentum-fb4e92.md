@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-05-21T21:45:44.878Z
+modified_date: 2026-06-07T14:04:34.119Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-06-07** — LLMs are eroding my software engineering career and I don't know what to do ([source](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/))
 - **2026-05-21** — ‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says ([source](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/))
 - **2026-05-11** — Apple brings encrypted RCS chats to iPhone ([source](https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android))
 - **2026-04-23** — Titanium Court mashes together genres and cultural references to tell a strange, funny tale ([source](https://www.engadget.com/gaming/titanium-court-mashes-together-genres-and-cultural-references-to-tell-a-strange-funny-tale-184750797.html?src=rss))
