@@ -1,18 +1,19 @@
 ---
 title: "Legacy's NFT Collapse Exposes Developer Risks"
 date: 2026-04-27T12:19:09.718Z
-modified_date: 2026-05-10T14:58:24.013Z
+modified_date: 2026-06-07T17:23:58.642Z
 tags: ["NFT","software patents","play-to-earn games"]
 hero_image: "/hero/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ In conclusion, the collapse of Legacy serves as a reminder of the risks and chal
 
 ## Updates
 
+- **2026-06-07** — The OnlyFans Economy of American AI ([source](https://leoveanu.com/2026-06-06-qwen3.7max/))
 - **2026-05-10** — Report: macOS 27 to feature UI tweaks to address some Tahoe design complaints ([source](https://9to5mac.com/2026/05/10/report-macos-27-to-feature-ui-tweaks-to-address-some-tahoe-design-complaints/))
 - **2026-04-30** — This Summer, the American Water Crisis Becomes Real ([source](https://www.wired.com/story/the-summer-the-american-water-crisis-turned-real/))
 - **2026-04-29** — Which Automatic Litter Box Is Best? We Tested Litter-Robot’s Lineup ([source](https://www.wired.com/story/which-litter-robot-is-right-for-you/))
