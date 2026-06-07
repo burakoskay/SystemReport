@@ -1,15 +1,17 @@
 ---
 title: "Weather app revamp sparks user backlash"
 date: 2026-05-16T03:45:01.728Z
+modified_date: 2026-06-07T09:22:00.051Z
 tags: ["acurite","app changes","subscription model"]
 hero_image: "/hero/2026-05-16-weather-app-revamp-sparks-user-backlash-1e3b9c.jpg"
 hero_image_credit_name: "Viralyft"
 hero_image_credit_url: "https://www.pexels.com/@viralyft"
 visual_keyword: "weather app interface with subscription prompt"
 description: "AcuRite forces new app with missing features and subscription push"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Weather app revamp sparks user backlash
 
@@ -34,3 +36,7 @@ What makes this transition particularly contentious is the lack of alternative d
 AcuRite now faces pressure to address the growing discontent. The company has not commented on whether it will reverse course, pause the deprecation timeline, or offer migration incentives. However, the situation sets up a critical test for its customer trust. If the backlash persists, the company risks seeing a sharp drop in active users—a vulnerability exacerbated by its reliance on recurring payments.
 
 The most immediate watchpoint is the Federal Trade Commission's (FTC) ongoing review of app deprecation policies. While the agency hasn't targeted AcuRite specifically, recent cases in the consumer electronics space suggest regulators are paying closer attention to forced upgrades. If the FTC takes action, the company might be required to grandfather older features for existing users. Independent watchdog groups are already compiling data to support such claims.
+
+## Updates
+
+- **2026-06-07** — JMGO’s N3 Ultimate projector is the new portable 4K champ ([source](https://www.theverge.com/reviews/943732/best-portable-4k-projector-review))
