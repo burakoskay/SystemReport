@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Amazon Reviews"
 description: "Lesser-known brands use fake reviews to boost sales"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 ## Fake Reviews Inflate Sales

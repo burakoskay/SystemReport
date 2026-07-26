@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "TracesOfHumanity"
 description: "TracesOfHumanity debuts on Hacker News, sparking discussion among tech enthusiasts."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

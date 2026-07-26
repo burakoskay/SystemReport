@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI gaming"
 description: "Ayaneo's Konkr Pocket Block, Apple's AI subdomain"
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-23-ai-gaming-developments-938d04.mp3"
 audio_bytes: 643493
 audio_mime: "audio/mpeg"

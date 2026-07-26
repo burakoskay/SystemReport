@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "github"
 description: "TeamPCP carried out a large-scale supply-chain attack on GitHub, impacting hundreds of projects."
 sources_count: 4
+author: "priya-raman"
 audio_path: "/audio/2026-05-21-teampcp-s-open-source-poisoning-spree-hits-github-aeca08.mp3"
 audio_bytes: 596054
 audio_mime: "audio/mpeg"

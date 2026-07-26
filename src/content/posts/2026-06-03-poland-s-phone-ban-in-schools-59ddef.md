@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "school"
 description: "Poland's government approves bill to ban phones in classrooms, sparking debate on education and tech's role."
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-03-poland-s-phone-ban-in-schools-59ddef.mp3"
 audio_bytes: 545690
 audio_mime: "audio/mpeg"

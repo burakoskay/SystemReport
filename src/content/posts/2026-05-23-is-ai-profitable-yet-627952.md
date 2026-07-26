@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Model"
 description: "Tech news analysis on the profitability of AI, based on recent articles and discussions from Hacker News."
 sources_count: 12
+author: "maya-chen"
 ---
 
 # AI Profitability: Separating Fact from Hype

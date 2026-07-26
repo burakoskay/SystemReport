@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
 sources_count: 9
+author: "ryan-tanaka"
 ---
 
 

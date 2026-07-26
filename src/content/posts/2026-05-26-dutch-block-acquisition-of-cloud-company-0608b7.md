@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@darlene-alderson"
 visual_keyword: "Digital Identity"
 description: "Netherlands blocks US company from acquiring cloud company behind digital ID service"
 sources_count: 2
+author: "lena-volkov"
 audio_path: "/audio/2026-05-26-dutch-block-acquisition-of-cloud-company-0608b7.mp3"
 audio_bytes: 570350
 audio_mime: "audio/mpeg"

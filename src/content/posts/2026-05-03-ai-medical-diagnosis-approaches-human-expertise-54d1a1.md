@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Medical Imaging"
 description: "AI systems match human doctors in medical diagnosis accuracy"
 sources_count: 6
+author: "maya-chen"
 ---
 
 

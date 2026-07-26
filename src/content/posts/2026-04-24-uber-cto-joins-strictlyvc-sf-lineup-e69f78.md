@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@federicoabisphotography"
 visual_keyword: "Uber"
 description: "Uber CTO Praveen Neppalli Naga joins StrictlyVC San Francisco on April 30 to discuss operating at scale in the age of AI."
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.mp3"
 audio_bytes: 635760
 audio_mime: "audio/mpeg"

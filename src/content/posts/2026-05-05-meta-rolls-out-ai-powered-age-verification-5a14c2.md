@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@arshutter"
 visual_keyword: "AI-powered age verification"
 description: "Meta uses AI to analyze facial features to identify underage users in select countries."
 sources_count: 1
+author: "maya-chen"
 ---
 
 

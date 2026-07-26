@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi raises $1 billion, doubles valuation in 5 months"
 sources_count: 7
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-07-kalshi-valued-at-22b-0d4c7f.mp3"
 audio_bytes: 619042
 audio_mime: "audio/mpeg"

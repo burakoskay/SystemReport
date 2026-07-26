@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Powerhouse"
 description: "Cohere acquires Aleph Alpha to create transatlantic AI powerhouse"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-04-25-cohere-takes-over-aleph-alpha-1bcf97.mp3"
 audio_bytes: 597099
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic warns of AIs building successors"
 sources_count: 1
+author: "maya-chen"
 audio_path: "/audio/2026-06-05-anthropic-proposes-global-slowdown-of-ai-development-4da10e.mp3"
 audio_bytes: 585814
 audio_mime: "audio/mpeg"

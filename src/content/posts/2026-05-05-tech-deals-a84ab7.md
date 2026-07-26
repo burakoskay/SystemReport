@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
 sources_count: 9
+author: "ryan-tanaka"
 ---
 
 

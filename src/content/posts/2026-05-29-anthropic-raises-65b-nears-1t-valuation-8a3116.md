@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic closes $65 billion Series H round at $965 billion post-money valuation ahead of highly anticipated IPO."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

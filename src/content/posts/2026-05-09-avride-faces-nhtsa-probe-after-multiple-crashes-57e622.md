@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@daniel-andraski-197681005"
 visual_keyword: "self-driving"
 description: "NHTSA investigates Avride over self-driving crashes"
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-09-avride-faces-nhtsa-probe-after-multiple-crashes-57e622.mp3"
 audio_bytes: 618833
 audio_mime: "audio/mpeg"

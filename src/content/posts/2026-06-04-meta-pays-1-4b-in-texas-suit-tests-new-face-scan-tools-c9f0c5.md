@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Facial Recognition"
 description: "Meta settles lawsuit and introduces new face-scan features"
 sources_count: 4
+author: "lena-volkov"
 audio_path: "/audio/2026-06-04-meta-pays-1-4b-in-texas-suit-tests-new-face-scan-tools-c9f0c5.mp3"
 audio_bytes: 625311
 audio_mime: "audio/mpeg"

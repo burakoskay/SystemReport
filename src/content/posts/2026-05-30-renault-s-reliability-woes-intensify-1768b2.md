@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@adrien-gambet-537682496"
 visual_keyword: "Renault F1 engine"
 description: "Renault's 2019 F1 season marred by power unit and software issues"
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-30-renault-s-reliability-woes-intensify-1768b2.mp3"
 audio_bytes: 591039
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Instacart $15 off, HelloFresh 55% off, Shed Rain 15% off"
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-09-instacart-hellofresh-and-shed-rain-offer-deep-discounts-in-may-665698.mp3"
 audio_bytes: 660629
 audio_mime: "audio/mpeg"

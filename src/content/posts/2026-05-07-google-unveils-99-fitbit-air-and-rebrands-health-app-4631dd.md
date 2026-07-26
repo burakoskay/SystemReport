@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "Fitbit Air"
 description: "Google launches $99 screen-less Fitbit Air and rebrands Google Fit to Google Health, streamlining health and fitness tracking."
 sources_count: 6
+author: "david-okafor"
 audio_path: "/audio/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.mp3"
 audio_bytes: 594173
 audio_mime: "audio/mpeg"

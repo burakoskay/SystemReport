@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "venture capital"
 description: "Kompas VC invests in startups focused on physical world as geopolitical tensions rise. Founder of Scholly sues Sallie Mae."
 sources_count: 5
+author: "elena-marchetti"
 ---
 
 

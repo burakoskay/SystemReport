@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Banksy's London Flag Statue"
 description: "A new Banksy installation in central London depicts a suited man blinded by a flag, sparking debate and curiosity."
 sources_count: 1
+author: "elena-marchetti"
 ---
 
 # Banksy's London Flag Statue Raises Questions

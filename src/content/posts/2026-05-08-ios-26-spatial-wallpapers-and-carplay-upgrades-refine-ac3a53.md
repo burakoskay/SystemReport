@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@slendyalex"
 visual_keyword: "iOS 26, CarPlay, spatial wallpapers"
 description: "iOS 26 adds 3D spatial wallpapers and two new CarPlay features, further blurring the line between iPhone and in-car experience."
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 

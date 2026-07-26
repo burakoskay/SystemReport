@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@foysal-ahmed-2102283"
 visual_keyword: "Nvidia RTX Spark Laptop"
 description: "Nvidia pushes boundaries with RTX Spark laptops and automotive AI tech"
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-06-03-nvidia-s-ai-leap-rtx-spark-laptops-and-automotive-advances-a0d75d.mp3"
 audio_bytes: 621341
 audio_mime: "audio/mpeg"

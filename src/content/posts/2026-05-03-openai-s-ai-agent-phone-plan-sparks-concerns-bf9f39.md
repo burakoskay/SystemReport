@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "AI Agent Phone"
 description: "OpenAI considers launching AI agent phone, raising concerns about human interaction and efficiency."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

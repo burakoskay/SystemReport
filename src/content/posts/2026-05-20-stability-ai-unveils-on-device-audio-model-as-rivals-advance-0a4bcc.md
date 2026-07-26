@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Stability AI's Audio 3.0 generates short tracks on-device. The release joins Figma's AI assistant, Apple's Vision Pro video, and Qwen's new agent model."
 sources_count: 5
+author: "maya-chen"
 ---
 
 

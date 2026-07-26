@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@hson"
 visual_keyword: "Amazon bookstore"
 description: "Amazon expands physical presence with new stores and autonomous robots, signaling a shift in e-commerce strategy."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-amazon-s-brick-and-mortar-push-65f007.mp3"
 audio_bytes: 588113
 audio_mime: "audio/mpeg"

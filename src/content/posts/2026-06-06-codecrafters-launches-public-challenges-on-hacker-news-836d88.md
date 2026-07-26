@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@godiatima"
 visual_keyword: "code"
 description: "CodeCrafters, ntsc-rs, and Mathpad showcase experiential dev tools on Hacker News, highlighting a shift toward hands-on learning platforms."
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-codecrafters-launches-public-challenges-on-hacker-news-836d88.mp3"
 audio_bytes: 578291
 audio_mime: "audio/mpeg"

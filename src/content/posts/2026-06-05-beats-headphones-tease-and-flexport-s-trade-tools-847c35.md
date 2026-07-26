@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spal"
 visual_keyword: " headphones"
 description: "Lamine Yamal teases unreleased Beats headphones as Flexport rolls out new trade tools to cut costs and protect margins in a volatile trade environment."
 sources_count: 3
+author: "lena-volkov"
 audio_path: "/audio/2026-06-05-beats-headphones-tease-and-flexport-s-trade-tools-847c35.mp3"
 audio_bytes: 580590
 audio_mime: "audio/mpeg"

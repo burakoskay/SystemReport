@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated content detector"
 description: "YouTube's AI deepfake detection tool is now available to all creators 18 and older"
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 

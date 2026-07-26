@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Mars Reconnaissance Orbiter"
 description: "Two senators seek answers on NASA's Mars spacecraft performance."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ChatGPT"
 description: "OpenAI sued over ChatGPT's alleged role in violent incidents"
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-06-01-florida-sues-openai-over-chatgpt-s-role-in-violent-incidents-d3db05.mp3"
 audio_bytes: 617997
 audio_mime: "audio/mpeg"

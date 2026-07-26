@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "online safety"
 description: "Osprey 1.0, an open-source tool for online safety, helps platforms investigate and address priority threats at scale without sacrificing data privacy or performance."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

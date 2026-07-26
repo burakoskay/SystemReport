@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Thousands of Daemon Tools users infected with backdoor; Instructure suffers data breach."
 sources_count: 2
+author: "priya-raman"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "Funding"
 description: "New funding announcements and community discussions highlight open source development nuances"
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-03-open-source-funding-52a41d.mp3"
 audio_bytes: 617788
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@gustavo-fring"
 visual_keyword: "phishing"
 description: "Scammers exploit real hotel reservations to launch targeted spear-phishing attacks, compromising customer data from over 350 hotels worldwide."
 sources_count: 1
+author: "priya-raman"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Foldable"
 description: "Vertu launches AI foldable, Samsung tests Galaxy Watch"
 sources_count: 2
+author: "david-okafor"
 ---
 
 ## Introduction to Luxury AI Foldables

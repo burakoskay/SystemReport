@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ottovonrascon"
 visual_keyword: "Star Wars"
 description: "EA releases Star Wars: The Old Republic's Zero Company on August 27, with a gameplay trailer featuring Anakin Skywalker."
 sources_count: 1
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-06-ea-s-star-wars-zero-company-drops-august-27-014484.mp3"
 audio_bytes: 594800
 audio_mime: "audio/mpeg"

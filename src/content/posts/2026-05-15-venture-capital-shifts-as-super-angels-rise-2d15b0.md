@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "venture capital"
 description: "The venture capital industry faces competition from super angels, changing startup funding dynamics. Paul Graham discusses the shift."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-15-venture-capital-shifts-as-super-angels-rise-2d15b0.mp3"
 audio_bytes: 609847
 audio_mime: "audio/mpeg"

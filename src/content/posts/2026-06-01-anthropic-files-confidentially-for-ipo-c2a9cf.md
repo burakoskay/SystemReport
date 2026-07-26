@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "IPO Filing"
 description: "Anthropic files for IPO, submits draft S-1 to SEC"
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-06-01-anthropic-files-confidentially-for-ipo-c2a9cf.mp3"
 audio_bytes: 613818
 audio_mime: "audio/mpeg"

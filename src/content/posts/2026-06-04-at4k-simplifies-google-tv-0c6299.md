@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google TV"
 description: "AT4K app makes Google TV cleaner, more customizable, and less frustrating."
 sources_count: 1
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-04-at4k-simplifies-google-tv-0c6299.mp3"
 audio_bytes: 605249
 audio_mime: "audio/mpeg"

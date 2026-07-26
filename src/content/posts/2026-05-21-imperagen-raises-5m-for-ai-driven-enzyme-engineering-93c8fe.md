@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "enzyme"
 description: "Imperagen secures £5 million seed funding for quantum-AI enzyme design"
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-21-imperagen-raises-5m-for-ai-driven-enzyme-engineering-93c8fe.mp3"
 audio_bytes: 592920
 audio_mime: "audio/mpeg"

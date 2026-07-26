@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@uma-media-2149408028"
 visual_keyword: "Nvidia"
 description: "Nvidia commits $150B to Taiwan, a move seen as a setback to Trump's plans to make the US an AI hub."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

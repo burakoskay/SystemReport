@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google"
 description: "Google's new AI edge push and San Francisco tech firms' increased spending on police protection after the Altman attack."
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-27-google-spends-1-2m-on-san-francisco-police-protection-d92d16.mp3"
 audio_bytes: 628446
 audio_mime: "audio/mpeg"

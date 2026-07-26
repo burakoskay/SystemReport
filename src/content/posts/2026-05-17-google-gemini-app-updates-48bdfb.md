@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jeferson-santos-793315344"
 visual_keyword: "Gemini"
 description: "Google rolls out new Gemini app features"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

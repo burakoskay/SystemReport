@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@eftim-futekov-372778940"
 visual_keyword: "polymarket"
 description: "Google employee accused of insider trading on prediction market Polymarket using non-public search term data."
 sources_count: 4
+author: "lena-volkov"
 ---
 
 

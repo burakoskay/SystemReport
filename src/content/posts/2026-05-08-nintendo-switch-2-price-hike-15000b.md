@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@danieljschwarz"
 visual_keyword: "Nintendo Switch 2"
 description: "Nintendo raises Switch 2 prices amid chip crisis, sold 19.86 million units last year."
 sources_count: 1
+author: "david-okafor"
 ---
 
 

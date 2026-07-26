@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pok-rie-33563"
 visual_keyword: "disaster resilience"
 description: "Convective Capital raises $85 million to invest in disaster resilience"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

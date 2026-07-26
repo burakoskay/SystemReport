@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@murry"
 visual_keyword: "AI Workers"
 description: "Over 700 jobs at risk in Ireland"
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-04-28-meta-ai-workers-face-layoffs-7ab748.mp3"
 audio_bytes: 620923
 audio_mime: "audio/mpeg"

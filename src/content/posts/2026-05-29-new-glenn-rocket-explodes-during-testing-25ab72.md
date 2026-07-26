@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "New Glenn Rocket Explosion"
 description: "Blue Origin's New Glenn rocket explodes during static-fire test"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@idilcelikler"
 visual_keyword: "Wordle"
 description: "Wordle becomes a TV game show"
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 ## Wordle Takes the Leap to Television

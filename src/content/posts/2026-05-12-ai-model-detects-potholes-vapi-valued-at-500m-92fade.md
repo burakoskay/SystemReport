@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@mogilat"
 visual_keyword: "pothole"
 description: "Samsara develops AI to detect potholes, while Vapi reaches $500M valuation."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-12-ai-model-detects-potholes-vapi-valued-at-500m-92fade.mp3"
 audio_bytes: 597517
 audio_mime: "audio/mpeg"

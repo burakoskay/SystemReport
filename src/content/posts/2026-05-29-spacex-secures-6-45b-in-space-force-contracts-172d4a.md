@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "SpaceX awarded $6.45B in government deals"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-29-spacex-secures-6-45b-in-space-force-contracts-172d4a.mp3"
 audio_bytes: 615698
 audio_mime: "audio/mpeg"

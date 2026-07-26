@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "transcription"
 description: "Testing Wispr Flow to see if paid services are worth it"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Transcription Software

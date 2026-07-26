@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI data marketplace"
 description: "Origin Lab raises $8M to connect video game firms with AI labs, enabling data sales."
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.mp3"
 audio_bytes: 641194
 audio_mime: "audio/mpeg"

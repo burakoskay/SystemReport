@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "caching"
 description: "DeepSeek announces permanent discount and new native coding agent"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-24-deepseek-cuts-flagship-model-price-by-75-a90a4c.mp3"
 audio_bytes: 637432
 audio_mime: "audio/mpeg"

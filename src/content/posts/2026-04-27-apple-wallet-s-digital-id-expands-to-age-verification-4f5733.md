@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@emil-kalibradov-3013808"
 visual_keyword: "Apple Wallet"
 description: "Apple Wallet's Digital ID feature now supports age verification on iPhone, expanding its use beyond identification."
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.mp3"
 audio_bytes: 608802
 audio_mime: "audio/mpeg"

@@ -415,7 +415,12 @@ async function reviseDraft(draft, critique, cluster) {
       console.log(`    revision missing fields, keeping original draft`);
       return draft;
     }
+    // Carry internal metadata across the rewrite. The revision prompt returns
+    // a fresh object, so anything not copied here is silently lost — that is
+    // how 401 published articles ended up with no byline in their frontmatter,
+    // since every draft the critic flagged passed through this function.
     parsed._drafter = draft._drafter;
+    parsed._author = draft._author;
     parsed._revisor = `${res.provider}/${res.model}`;
     return parsed;
   } catch (e) {

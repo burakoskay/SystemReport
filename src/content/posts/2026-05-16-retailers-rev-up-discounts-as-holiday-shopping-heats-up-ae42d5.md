@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "shopping"
 description: "Major retailers offer significant discounts and promo codes for holiday shopping"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

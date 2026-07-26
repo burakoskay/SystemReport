@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
 audio_mime: "audio/mpeg"

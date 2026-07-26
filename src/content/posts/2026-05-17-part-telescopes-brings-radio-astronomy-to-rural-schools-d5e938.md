@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@raulling"
 visual_keyword: "radio telescope"
 description: "PART Telescopes provides low-cost radio astronomy tools to rural schools, expanding STEM opportunities."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

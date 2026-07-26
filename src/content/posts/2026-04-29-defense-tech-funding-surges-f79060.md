@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

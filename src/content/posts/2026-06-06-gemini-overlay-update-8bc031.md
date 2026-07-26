@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Google updates Gemini overlay on Android"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-gemini-overlay-update-8bc031.mp3"
 audio_bytes: 606921
 audio_mime: "audio/mpeg"

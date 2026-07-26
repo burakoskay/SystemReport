@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@deise-elen-2149983761"
 visual_keyword: "Apple Watch"
 description: "Apple's watchOS update to greatly improve heart-rate tracking; AI health coach delayed."
 sources_count: 2
+author: "david-okafor"
 ---
 
 

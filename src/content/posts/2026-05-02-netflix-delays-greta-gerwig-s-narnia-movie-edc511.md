@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "Netflix"
 description: "Netflix delays 'Narnia' movie for theatrical push"
 sources_count: 3
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-02-netflix-delays-greta-gerwig-s-narnia-movie-edc511.mp3"
 audio_bytes: 618833
 audio_mime: "audio/mpeg"

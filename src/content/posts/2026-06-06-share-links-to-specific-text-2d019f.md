@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "browser"
 description: "Modern browsers enable link sharing to specific text phrases"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-share-links-to-specific-text-2d019f.mp3"
 audio_bytes: 591457
 audio_mime: "audio/mpeg"

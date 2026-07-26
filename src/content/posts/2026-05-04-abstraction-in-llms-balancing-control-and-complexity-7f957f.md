@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

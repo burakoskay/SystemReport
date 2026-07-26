@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer"
 description: "Verified coupon codes offer significant discounts on engineering gear and a new book tackles soft skills in software careers."
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-21-chirp-offers-67-off-engineering-gear-d88165.mp3"
 audio_bytes: 601279
 audio_mime: "audio/mpeg"

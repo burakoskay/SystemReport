@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"
 description: "Russia starts building Rassvet, a satellite internet network to cover the country by 2030."
 sources_count: 1
+author: "elena-marchetti"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ulrick-t"
 visual_keyword: "sensor grid"
 description: "Uber to leverage driver network for self-driving data"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 ## Introduction

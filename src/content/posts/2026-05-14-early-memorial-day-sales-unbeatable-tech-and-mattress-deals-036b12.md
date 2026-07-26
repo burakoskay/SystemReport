@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Memorial Day Sales"
 description: "Memorial Day sales have started early on tech and mattresses from top brands like Helix, Saatva, Sony, and Apple."
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

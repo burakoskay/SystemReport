@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Mistral CEO warns Europe has 2 years to avoid US AI dominance"
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-05-18-europe-s-ai-dependence-on-us-fdb31a.mp3"
 audio_bytes: 576619
 audio_mime: "audio/mpeg"

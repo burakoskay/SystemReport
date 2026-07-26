@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ivo-brasil-335441"
 visual_keyword: "Amazon"
 description: "Amazon buys Bee AI, releases Alexa Mobile Accessory Kit for wearables"
 sources_count: 3
+author: "david-okafor"
 audio_path: "/audio/2026-05-24-amazon-acquires-bee-ai-expands-alexa-into-wearables-58665e.mp3"
 audio_bytes: 612564
 audio_mime: "audio/mpeg"

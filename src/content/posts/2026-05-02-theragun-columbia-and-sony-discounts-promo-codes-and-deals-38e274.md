@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Save on science-backed devices, outdoor gear, and electronics with Theragun, Columbia, and Sony promo codes"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

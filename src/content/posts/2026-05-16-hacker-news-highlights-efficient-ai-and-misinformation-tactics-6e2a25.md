@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Models"
 description: "New AI models and discussions on misinformation"
 sources_count: 4
+author: "maya-chen"
 ---
 
 # Efficient AI Models

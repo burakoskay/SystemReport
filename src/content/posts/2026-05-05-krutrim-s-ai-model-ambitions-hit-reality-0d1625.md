@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "cloud-services"
 description: "India's first GenAI unicorn shifts to cloud services amid economic challenges."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@finnkuhn"
 visual_keyword: "Ramp"
 description: "Ramp in talks for new funding at $40B+ valuation"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Ramp's Funding Round

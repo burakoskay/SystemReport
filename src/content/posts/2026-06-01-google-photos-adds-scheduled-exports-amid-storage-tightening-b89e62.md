@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Photos"
 description: "Google Photos introduces a scheduled export feature for new media, amid storage limit changes and upcoming UI and API updates."
 sources_count: 5
+author: "priya-raman"
 ---
 
 Google Photos now offers a built-in scheduler that automatically copies newly added photos and videos to a destination of your choice. This feature targets 'newly-added content' rather than the entire library.[^1]

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "ballot"
 description: "Authorities have seized or demanded ballots from elections in multiple US states, sparking concerns about midterms disruption."
 sources_count: 4
+author: "elena-marchetti"
 ---
 
 

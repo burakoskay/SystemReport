@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "Justice Department"
 description: "The Justice Department's recent actions signal a more aggressive, digitally-focused enforcement posture."
 sources_count: 4
+author: "lena-volkov"
 audio_path: "/audio/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.mp3"
 audio_bytes: 606294
 audio_mime: "audio/mpeg"

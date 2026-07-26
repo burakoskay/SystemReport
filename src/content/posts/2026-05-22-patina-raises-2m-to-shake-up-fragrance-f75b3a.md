@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sara-ertem-734725946"
 visual_keyword: "fragrance"
 description: "Patina, a fragrance tech startup, secures $2 million from Betaworks and True Ventures."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

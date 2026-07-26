@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@andreevaleksandar"
 visual_keyword: "Zak Brown"
 description: "McLaren CEO Zak Brown on rebuilding the brand, fan obsession, and the allure of racing."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 ## Zak Brown's Passion for Racing

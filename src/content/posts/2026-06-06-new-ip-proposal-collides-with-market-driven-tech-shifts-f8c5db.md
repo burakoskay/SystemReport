@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "network"
 description: "ITU's prescriptive New IP framework meets the reality of 5G cooperation, LEO convergence, and crypto-funded biotech, proving market forces win."
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-new-ip-proposal-collides-with-market-driven-tech-shifts-f8c5db.mp3"
 audio_bytes: 601697
 audio_mime: "audio/mpeg"

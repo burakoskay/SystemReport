@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Disney+"
 description: "Disney plans to retire Hulu app, merge live TV with Fubo, and write down $1.5 billion in content costs."
 sources_count: 5
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-28-disney-shuts-hulu-app-cuts-1-5b-costs-f8d8da.mp3"
 audio_bytes: 614653
 audio_mime: "audio/mpeg"

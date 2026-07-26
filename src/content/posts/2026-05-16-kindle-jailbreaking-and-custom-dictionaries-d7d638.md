@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@adrienne-andersen-1174503"
 visual_keyword: "Kindle"
 description: "Amazon ends support for older Kindles, users turn to jailbreaking and custom dictionaries like Runik."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

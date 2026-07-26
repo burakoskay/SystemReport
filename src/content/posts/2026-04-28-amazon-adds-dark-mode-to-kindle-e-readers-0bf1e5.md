@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "E-reader"
 description: "Amazon adds dark mode to Kindle Colorsoft and Scribe Colorsoft e-readers, hinting at a broader trend in consumer hardware design."
 sources_count: 6
+author: "ryan-tanaka"
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-e-readers-0bf1e5.mp3"
 audio_bytes: 601697
 audio_mime: "audio/mpeg"

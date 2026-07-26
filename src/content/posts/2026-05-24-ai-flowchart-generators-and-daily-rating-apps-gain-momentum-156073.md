@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@startup-stock-photos"
 visual_keyword: "Flowchart"
 description: "Free AI diagram tools and personal rating sites see rapid adoption"
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-05-24-ai-flowchart-generators-and-daily-rating-apps-gain-momentum-156073.mp3"
 audio_bytes: 548407
 audio_mime: "audio/mpeg"

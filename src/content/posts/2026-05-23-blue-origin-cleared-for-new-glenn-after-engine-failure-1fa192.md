@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "New Glenn rocket"
 description: "FAA approves New Glenn's return after April engine failure knocked AST SpaceMobile satellite out of orbit."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

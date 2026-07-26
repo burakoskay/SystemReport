@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

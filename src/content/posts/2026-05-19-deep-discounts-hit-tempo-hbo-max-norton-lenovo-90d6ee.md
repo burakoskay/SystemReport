@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "discounts"
 description: "WIRED finds steep discounts on meals, streaming, security, and hardware, changing how consumers budget essentials."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

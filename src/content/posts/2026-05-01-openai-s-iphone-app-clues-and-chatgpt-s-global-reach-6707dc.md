@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered chatbot"
 description: "OpenAI hints at new iPhone app launch, ChatGPT's popularity grows globally"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

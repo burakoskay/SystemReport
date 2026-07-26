@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@berkay-i-lhan-868415"
 visual_keyword: "AI Edge Gallery"
 description: "Google's AI Edge Gallery and Apple's 'Privacy on iPhone' campaign"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-06-04-google-releases-ai-edge-gallery-for-macos-7cceea.mp3"
 audio_bytes: 561991
 audio_mime: "audio/mpeg"

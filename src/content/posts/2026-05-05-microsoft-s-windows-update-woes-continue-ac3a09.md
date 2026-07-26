@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Windows Update, Microsoft, Tech News"
 description: "Microsoft pauses Windows 11 update due to infinite reboot issue, struggles with update bugs"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

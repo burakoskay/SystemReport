@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@luana-ribeiro-44057245"
 visual_keyword: "Kindle Colorsoft"
 description: "Amazon updates Kindle Colorsoft with dark mode, Apple introduces new subscription tier"
 sources_count: 17
+author: "maya-chen"
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.mp3"
 audio_bytes: 564289
 audio_mime: "audio/mpeg"

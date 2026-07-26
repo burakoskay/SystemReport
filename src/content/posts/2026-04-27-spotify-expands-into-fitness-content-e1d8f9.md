@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@niko-twisty"
 visual_keyword: "Fitness"
 description: "Spotify launches workout videos and playlists"
 sources_count: 3
+author: "sam-whitfield"
 audio_path: "/audio/2026-04-27-spotify-expands-into-fitness-content-e1d8f9.mp3"
 audio_bytes: 610265
 audio_mime: "audio/mpeg"

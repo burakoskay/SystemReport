@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zyuee"
 visual_keyword: "Cloudflare"
 description: "Cloudflare lays off 20% of workforce, details unclear."
 sources_count: 1
+author: "priya-raman"
 ---
 
 

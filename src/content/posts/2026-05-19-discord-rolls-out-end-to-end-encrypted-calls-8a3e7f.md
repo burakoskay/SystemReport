@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Discord adds end-to-end encryption to voice and video calls for all users"
 sources_count: 8
+author: "lena-volkov"
 audio_path: "/audio/2026-05-19-discord-rolls-out-end-to-end-encrypted-calls-8a3e7f.mp3"
 audio_bytes: 621341
 audio_mime: "audio/mpeg"

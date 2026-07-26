@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "OpenAI"
 description: "OpenAI adds voice API, self-harm safeguard, and Chrome plugin"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

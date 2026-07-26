@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@masoodaslami"
 visual_keyword: "Logitech MX Creative Console"
 description: "Logitech's MX accessories now support Microsoft Office apps, allowing users to control Word, Excel, and PowerPoint with custom shortcuts."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

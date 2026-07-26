@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Meta AI"
 description: "Meta's Reality Labs losses mount as AI investments increase spending."
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.mp3"
 audio_bytes: 598771
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "Department of Labor"
 description: "Kenneth Wolfe, who organized DOL prayer services, appointed to lead civil rights office."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-21-dol-faith-leader-takes-civil-rights-enforcement-reins-c60b91.mp3"
 audio_bytes: 552169
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Apple iPhone vs Android"
 description: "Apple's new ad makes Android phones look ancient and ugly"
 sources_count: 1
+author: "david-okafor"
 audio_path: "/audio/2026-06-04-apple-s-iphone-ad-takes-aimed-swipes-at-android-3445e1.mp3"
 audio_bytes: 577873
 audio_mime: "audio/mpeg"

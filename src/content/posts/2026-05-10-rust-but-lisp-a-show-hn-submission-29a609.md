@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@valentin-ivantsov-2154772556"
 visual_keyword: "Rust-but-Lisp"
 description: "Rust-but-Lisp on Hacker News"
 sources_count: 1
+author: "lena-volkov"
 ---
 
 ## Introduction to Rust-but-Lisp

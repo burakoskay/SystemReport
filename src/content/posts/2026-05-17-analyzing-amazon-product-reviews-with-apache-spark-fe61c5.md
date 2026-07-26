@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apache Spark"
 description: "Apache Spark analyzes 80M Amazon reviews"
 sources_count: 4
+author: "elena-marchetti"
 ---
 
 

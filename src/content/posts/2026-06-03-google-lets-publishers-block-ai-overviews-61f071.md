@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@shutter-speed"
 visual_keyword: "Google"
 description: "UK regulators order Google to let sites block AI Overviews and fine‑tuning, a move that coincides with a reshuffle of the company's AI leadership."
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-06-03-google-lets-publishers-block-ai-overviews-61f071.mp3"
 audio_bytes: 567424
 audio_mime: "audio/mpeg"

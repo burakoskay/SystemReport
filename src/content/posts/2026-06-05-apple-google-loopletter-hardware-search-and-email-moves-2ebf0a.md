@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kavin4666"
 visual_keyword: "AirPods"
 description: "Apple considers camera-enabled AirPods, Google tests AI-first Chrome search, and Loopletter launches open-source email platform."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-06-05-apple-google-loopletter-hardware-search-and-email-moves-2ebf0a.mp3"
 audio_bytes: 604413
 audio_mime: "audio/mpeg"

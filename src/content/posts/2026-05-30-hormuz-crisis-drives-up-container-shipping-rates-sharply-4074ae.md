@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@wolfgang-weiser-467045605"
 visual_keyword: "container ships"
 description: "Tensions in the Hormuz Strait lead to significant increase in container shipping rates."
 sources_count: 2
+author: "elena-marchetti"
 ---
 
 

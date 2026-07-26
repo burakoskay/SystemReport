@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Clio reaches $500M ARR milestone as Anthropic releases new AI model; Netflix expands ads across app"
 sources_count: 8
+author: "maya-chen"
 ---
 
 

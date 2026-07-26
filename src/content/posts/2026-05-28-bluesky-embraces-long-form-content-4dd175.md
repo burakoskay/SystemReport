@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@yhken0123"
 visual_keyword: "Bluesky"
 description: "Bluesky announces support for long-form content, challenging X's character limits."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

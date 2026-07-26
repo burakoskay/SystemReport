@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google Cloud"
 description: "Google Cloud posts $20B quarter driven by AI, hampered by capacity"
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-04-29-google-cloud-hits-20b-revenue-milestone-506646.mp3"
 audio_bytes: 621550
 audio_mime: "audio/mpeg"

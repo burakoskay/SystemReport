@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@eye4dtail"
 visual_keyword: "lock"
 description: "Apple releases iOS 26.5 with end-to-end encryption for RCS messaging, enhancing security for iPhone and Android users."
 sources_count: 8
+author: "ryan-tanaka"
 ---
 
 ## Encrypted Messaging Gets a Boost

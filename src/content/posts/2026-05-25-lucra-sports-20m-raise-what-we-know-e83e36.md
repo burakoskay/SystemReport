@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@nathan-b-caldeira-2940485"
 visual_keyword: "eSports"
 description: "Lucra Sports founder Dylan Robbins reveals secrets on raising capital from VCs."
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 

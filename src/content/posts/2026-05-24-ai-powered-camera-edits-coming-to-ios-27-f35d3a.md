@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tessacharles"
 visual_keyword: "iPhone"
 description: "iOS 27 rumors: AI camera edits, smarter keyboard, and new Siri app"
 sources_count: 4
+author: "david-okafor"
 audio_path: "/audio/2026-05-24-ai-powered-camera-edits-coming-to-ios-27-f35d3a.mp3"
 audio_bytes: 577037
 audio_mime: "audio/mpeg"

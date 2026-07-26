@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "Automation"
 description: "Asana buys StackAI, a no-code agent-builder, to enhance automation capabilities."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

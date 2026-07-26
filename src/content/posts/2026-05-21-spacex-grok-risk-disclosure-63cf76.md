@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@marta-dzedyshko-1042863"
 visual_keyword: "Grok"
 description: "SpaceX sets aside $500M for potential litigation losses related to Grok's 'spicy' mode in IPO filing."
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-05-21-spacex-grok-risk-disclosure-63cf76.mp3"
 audio_bytes: 611937
 audio_mime: "audio/mpeg"

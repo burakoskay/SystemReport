@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jan-van-der-wolf-11680885"
 visual_keyword: "Naphtha"
 description: "Japan's naphtha imports hit 3.44M tons in 2022, down 12.1%."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

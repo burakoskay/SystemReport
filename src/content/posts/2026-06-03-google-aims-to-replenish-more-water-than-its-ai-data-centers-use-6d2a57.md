@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@andreapamelahs"
 visual_keyword: "water"
 description: "Google's water replenishment pledge sparks debate"
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-03-google-aims-to-replenish-more-water-than-its-ai-data-centers-use-6d2a57.mp3"
 audio_bytes: 580172
 audio_mime: "audio/mpeg"

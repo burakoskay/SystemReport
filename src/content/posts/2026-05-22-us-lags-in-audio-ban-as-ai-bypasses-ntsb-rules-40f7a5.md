@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "law-enforcement"
 description: "A look at the NTSB's cockpit-audio crackdown, a police VPN bust, and a massive ad-tech settlement, and what they mean for digital privacy."
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-05-22-us-lags-in-audio-ban-as-ai-bypasses-ntsb-rules-40f7a5.mp3"
 audio_bytes: 577037
 audio_mime: "audio/mpeg"

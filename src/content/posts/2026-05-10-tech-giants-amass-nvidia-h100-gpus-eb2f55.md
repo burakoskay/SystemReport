@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@elias-gamez-2002621"
 visual_keyword: "Nvidia H100 GPU"
 description: "Meta, Tesla, and others stockpile expensive Nvidia H100 GPUs"
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-05-10-tech-giants-amass-nvidia-h100-gpus-eb2f55.mp3"
 audio_bytes: 680064
 audio_mime: "audio/mpeg"

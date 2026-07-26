@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@valdemarvan"
 visual_keyword: "Skyroot"
 description: "India's space tech sector sees a unicorn as Skyroot gears up for its first private orbital launch."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-07-skyroot-s-orbital-ambition-40e614.mp3"
 audio_bytes: 614653
 audio_mime: "audio/mpeg"

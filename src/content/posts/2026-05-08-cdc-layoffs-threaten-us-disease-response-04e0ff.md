@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "CDC"
 description: "CDC layoffs raise concerns about US ability to respond to infectious disease outbreaks"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

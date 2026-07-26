@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Airplane"
 description: "TikToker rallies $23M to buy Spirit Airlines"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Spotify Badge"
 description: "Spotify badges to distinguish human from AI-generated artists"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@filirovska"
 visual_keyword: "Cloud"
 description: "Amazon's cloud business is making more money than expected"
 sources_count: 2
+author: "priya-raman"
 audio_path: "/audio/2026-04-30-aws-surges-dda55d.mp3"
 audio_bytes: 606503
 audio_mime: "audio/mpeg"

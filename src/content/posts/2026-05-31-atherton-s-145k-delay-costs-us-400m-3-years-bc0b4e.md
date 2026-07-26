@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@wolfgang-weiser-467045605"
 visual_keyword: "caltrain logo, train, electrification, green-energy"
 description: "Atherton's decision to delay train electrification cost $145K, while the rest of us paid $400M and waited 3 extra years."
 sources_count: 3
+author: "lena-volkov"
 audio_path: "/audio/2026-05-31-atherton-s-145k-delay-costs-us-400m-3-years-bc0b4e.mp3"
 audio_bytes: 636387
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center"
 description: "Google agrees to pay SpaceX $920 million monthly for AI data center usage in a $30 billion deal."
 sources_count: 1
+author: "maya-chen"
 audio_path: "/audio/2026-06-06-google-signs-30-billion-ai-deal-with-spacex-09a85a.mp3"
 audio_bytes: 672332
 audio_mime: "audio/mpeg"

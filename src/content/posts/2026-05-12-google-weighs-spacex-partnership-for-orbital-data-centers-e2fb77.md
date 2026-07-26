@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Google considers partnering with SpaceX for data centers in orbit, a plan explored since late 2025."
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.mp3"
 audio_bytes: 637014
 audio_mime: "audio/mpeg"

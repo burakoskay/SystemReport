@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Digital Advertising"
 description: "UK competition watchdog investigates Google and Facebook"
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-30-google-and-facebook-face-uk-ad-market-probe-5fd448.mp3"
 audio_bytes: 607757
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ayyeee-ayyeee-434363205"
 visual_keyword: "robotaxi"
 description: "The robotaxi industry faces a harsh reality check as technical and regulatory hurdles mount. Investors and companies reassess strategies."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-24-robotaxi-reality-check-37b130.mp3"
 audio_bytes: 620087
 audio_mime: "audio/mpeg"

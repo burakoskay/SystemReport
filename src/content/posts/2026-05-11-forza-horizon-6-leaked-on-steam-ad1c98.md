@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@odalv"
 visual_keyword: "Forza Horizon 6"
 description: "Forza Horizon 6 leaks on Steam 6 days before launch"
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 

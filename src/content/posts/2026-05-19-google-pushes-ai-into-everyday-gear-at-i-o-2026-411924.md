@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sound-on"
 visual_keyword: "Google smart glasses"
 description: "Google unveiled AI-powered devices at I/O 2026"
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-05-19-google-pushes-ai-into-everyday-gear-at-i-o-2026-411924.mp3"
 audio_bytes: 559483
 audio_mime: "audio/mpeg"

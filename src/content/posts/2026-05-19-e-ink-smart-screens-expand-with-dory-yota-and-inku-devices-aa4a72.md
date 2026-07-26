@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "e-ink display"
 description: "New e-ink devices from Dory, Yota, and Inku showcase low-power displays moving beyond niche readers."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

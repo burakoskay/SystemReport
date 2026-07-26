@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Computing"
 description: "Quantinuum loses millions, SpaceX eyes $74.4B IPO"
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-quantum-computing-s-public-market-debut-5541ba.mp3"
 audio_bytes: 587277
 audio_mime: "audio/mpeg"

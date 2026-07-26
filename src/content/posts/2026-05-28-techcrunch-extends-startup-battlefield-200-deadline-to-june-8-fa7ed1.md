@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Startup"
 description: "TechCrunch pushes Startup Battlefield 200 deadline to June 8 as founders flood the competition, raising questions about event capacity and investor focus."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 ## Deadline Extension Signals a Flood of Early-Stage Ambition

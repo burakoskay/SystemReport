@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "gaming"
 description: "Valve's SteamOS faces a new challenge from Microsoft's strategy to leverage RAM requirements, but its impact is unclear"
 sources_count: 2
+author: "sam-whitfield"
 ---
 
 ## A New Hurdle for SteamOS

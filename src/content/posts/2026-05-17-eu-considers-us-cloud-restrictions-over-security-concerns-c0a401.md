@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "cloud"
 description: "EU weighs restricting US cloud platforms for government data"
 sources_count: 2
+author: "priya-raman"
 ---
 
 ## Introduction to the Issue

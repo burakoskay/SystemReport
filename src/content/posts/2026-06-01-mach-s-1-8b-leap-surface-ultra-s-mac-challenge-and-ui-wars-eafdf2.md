@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "tech_convergence"
 description: "Mach Industries reaches $1.8B valuation, Microsoft rolls out a MacBook Pro rival, Apple revives hashmoji on X, and WhatsApp extends its Liquid Glass UI to macOS."
 sources_count: 4
+author: "david-okafor"
 audio_path: "/audio/2026-06-01-mach-s-1-8b-leap-surface-ultra-s-mac-challenge-and-ui-wars-eafdf2.mp3"
 audio_bytes: 601279
 audio_mime: "audio/mpeg"

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Musk files new lawsuit against OpenAI and Sam Altman"
 sources_count: 6
+author: "maya-chen"
 ---
 
 

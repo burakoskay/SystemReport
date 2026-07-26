@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@nadezhda-moryak"
 visual_keyword: "sperm"
 description: "New study on paternal diet and sperm RNAs"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 ## Introduction

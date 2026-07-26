@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@alexfu"
 visual_keyword: "video editing"
 description: "Clouted, a video clipping startup, raises $7 million"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-20-clouted-raises-7m-27b014.mp3"
 audio_bytes: 638895
 audio_mime: "audio/mpeg"

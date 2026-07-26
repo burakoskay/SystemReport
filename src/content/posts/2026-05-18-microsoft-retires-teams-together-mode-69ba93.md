@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anhleephoto"
 visual_keyword: "Teams"
 description: "Microsoft drops virtual-room feature"
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-18-microsoft-retires-teams-together-mode-69ba93.mp3"
 audio_bytes: 578082
 audio_mime: "audio/mpeg"

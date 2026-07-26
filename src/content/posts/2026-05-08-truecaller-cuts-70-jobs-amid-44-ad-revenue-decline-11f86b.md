@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Job Cuts"
 description: "Truecaller lays off 70 employees due to ad revenue drop"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@truckrun"
 visual_keyword: "Porsche e-bike"
 description: "Porsche ends e-bike line"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

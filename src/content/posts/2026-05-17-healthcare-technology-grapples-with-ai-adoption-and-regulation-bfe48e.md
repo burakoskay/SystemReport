@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered robot ElliQ"
 description: "AI in healthcare faces regulatory and adoption challenges"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

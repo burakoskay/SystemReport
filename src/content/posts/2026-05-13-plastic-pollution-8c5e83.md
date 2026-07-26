@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@gaurav-ranjitkar-2476729"
 visual_keyword: "plastic"
 description: "Plastic products release microscopic particles into water"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

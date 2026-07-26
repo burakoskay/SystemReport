@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google signs deal with Pentagon for AI use, sparks employee opposition over military involvement"
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-04-28-google-s-pentagon-ai-deal-sparks-employee-outcry-9d4afe.mp3"
 audio_bytes: 575783
 audio_mime: "audio/mpeg"

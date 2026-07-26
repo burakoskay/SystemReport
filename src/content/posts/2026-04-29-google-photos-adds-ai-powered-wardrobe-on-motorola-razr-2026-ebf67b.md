@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jonast"
 visual_keyword: "Google Photos Wardrobe"
 description: "Google Photos adds Wardrobe tool to digitize closets and suggest outfits"
 sources_count: 7
+author: "ryan-tanaka"
 ---
 
 

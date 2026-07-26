@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "New tech updates: Venmo's discreet payments, Google Home's Gemini speed boost, and Apple's AI research."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

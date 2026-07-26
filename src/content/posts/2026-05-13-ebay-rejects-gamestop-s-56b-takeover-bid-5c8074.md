@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "ecommerce"
 description: "eBay's board rejects GameStop's $56 billion takeover offer, citing doubts about GameStop's ability to buy and operate the larger firm."
 sources_count: 4
+author: "sam-whitfield"
 ---
 
 

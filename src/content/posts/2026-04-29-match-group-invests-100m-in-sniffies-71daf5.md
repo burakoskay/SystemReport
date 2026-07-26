@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

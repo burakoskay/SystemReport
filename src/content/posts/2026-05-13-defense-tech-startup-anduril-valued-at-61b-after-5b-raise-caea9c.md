@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@osman"
 visual_keyword: "Defense Tech"
 description: "Anduril, a defense tech startup, raises $5B, doubling its valuation to $61B with $2.2B in revenue in 2025."
 sources_count: 7
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-13-defense-tech-startup-anduril-valued-at-61b-after-5b-raise-caea9c.mp3"
 audio_bytes: 626774
 audio_mime: "audio/mpeg"

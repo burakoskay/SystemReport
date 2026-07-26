@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Mercedes-Benz"
 description: "Mercedes-Benz to reintroduce physical buttons in vehicles, reversing touchscreen trend."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

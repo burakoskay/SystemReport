@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sidesimagery"
 visual_keyword: "protest"
 description: "Meta contractors in Europe protest layoffs, citing unequal severance packages compared to full-time employees."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-29-meta-contractors-protest-layoff-terms-50979f.mp3"
 audio_bytes: 597099
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "ChatGPT"
 description: "OpenAI revamps ChatGPT while updating macOS apps due to a third-party security flaw, sparking questions about its roadmap."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-06-07-openai-overhauls-chatgpt-amid-macos-security-push-ec776a.mp3"
 audio_bytes: 638895
 audio_mime: "audio/mpeg"

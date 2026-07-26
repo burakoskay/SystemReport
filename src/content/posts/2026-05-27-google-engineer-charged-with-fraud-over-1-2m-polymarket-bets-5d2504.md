@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Google"
 description: "Google security engineer charged with fraud"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

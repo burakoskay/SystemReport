@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered kids' toys"
 description: "Some lawmakers are calling for an outright ban on AI-powered kids' toys, citing concerns about children's safety and data protection."
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-05-09-lawmakers-want-to-ban-ai-powered-kids-toys-8f50ae.mp3"
 audio_bytes: 590621
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@filipe-alves-3413871"
 visual_keyword: "Apple Music logo"
 description: "Apple Music may introduce new subscription tiers based on strings found in the Android app beta."
 sources_count: 1
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-30-apple-music-tiers-may-soon-get-an-overhaul-1b96d0.mp3"
 audio_bytes: 576201
 audio_mime: "audio/mpeg"

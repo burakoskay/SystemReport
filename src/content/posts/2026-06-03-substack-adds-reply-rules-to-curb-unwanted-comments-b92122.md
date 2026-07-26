@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "comment section"
 description: "Substack's new Reply Rules give creators control over audience replies."
 sources_count: 10
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.mp3"
 audio_bytes: 582053
 audio_mime: "audio/mpeg"

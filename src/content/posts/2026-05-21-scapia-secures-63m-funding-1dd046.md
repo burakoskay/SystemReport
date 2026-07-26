@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rodolfoclix"
 visual_keyword: "Scapia"
 description: "Scapia raises $63M, doubles valuation"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-21-scapia-secures-63m-funding-1dd046.mp3"
 audio_bytes: 599816
 audio_mime: "audio/mpeg"

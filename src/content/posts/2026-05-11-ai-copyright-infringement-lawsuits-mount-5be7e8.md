@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Lawsuits against OpenAI, Meta, and others highlight concerns over AI training data and copyright infringement."
 sources_count: 5
+author: "maya-chen"
 ---
 
 

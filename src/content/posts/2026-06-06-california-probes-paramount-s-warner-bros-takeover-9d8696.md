@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@feliperpv"
 visual_keyword: "Paramount"
 description: "California's AG launches probe into Paramount's acquisition of Warner Bros."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-california-probes-paramount-s-warner-bros-takeover-9d8696.mp3"
 audio_bytes: 602742
 audio_mime: "audio/mpeg"

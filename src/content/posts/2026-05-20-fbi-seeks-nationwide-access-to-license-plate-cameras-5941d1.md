@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@will-freeman-2151994913"
 visual_keyword: "license plate camera"
 description: "FBI wants real-time access to license plate camera data to track vehicles across the US."
 sources_count: 1
+author: "david-okafor"
 ---
 
 

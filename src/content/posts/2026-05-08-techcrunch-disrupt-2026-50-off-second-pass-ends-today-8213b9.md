@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@thilina-alagiyawanna-3266092"
 visual_keyword: "TechCrunch Disrupt 2026"
 description: "Today's the last day to buy a second pass to TechCrunch Disrupt 2026 at 50% off."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

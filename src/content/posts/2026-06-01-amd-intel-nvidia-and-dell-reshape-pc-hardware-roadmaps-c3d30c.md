@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@anete-lusina"
 visual_keyword: "PC hardware"
 description: "AMD commits to AM5 support until 2029, Intel debuts low-cost AI chip, Nvidia enters PC silicon market, and Dell counters MacBook Neo."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-06-01-amd-intel-nvidia-and-dell-reshape-pc-hardware-roadmaps-c3d30c.mp3"
 audio_bytes: 709948
 audio_mime: "audio/mpeg"

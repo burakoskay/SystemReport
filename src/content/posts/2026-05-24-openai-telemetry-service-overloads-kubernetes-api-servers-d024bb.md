@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anna-hinckel-3008225"
 visual_keyword: "Kubernetes"
 description: "OpenAI's new telemetry service caused a Kubernetes control plane outage on Dec 11, 2024, due to excessive API calls from thousands of nodes."
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-05-24-openai-telemetry-service-overloads-kubernetes-api-servers-d024bb.mp3"
 audio_bytes: 641612
 audio_mime: "audio/mpeg"

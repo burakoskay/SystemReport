@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "medical research"
 description: "New therapies show promise in treating osteoarthritis and HIV, while a previously hindered treatment for PTSD gains traction."
 sources_count: 7
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.mp3"
 audio_bytes: 559065
 audio_mime: "audio/mpeg"

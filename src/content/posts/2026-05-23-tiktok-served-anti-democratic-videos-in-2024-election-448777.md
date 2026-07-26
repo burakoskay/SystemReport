@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@anastasia-shuraeva"
 visual_keyword: "TikTok"
 description: "Study finds TikTok's algorithm served more anti-Democratic videos during 2024 election."
 sources_count: 2
+author: "elena-marchetti"
 ---
 
 

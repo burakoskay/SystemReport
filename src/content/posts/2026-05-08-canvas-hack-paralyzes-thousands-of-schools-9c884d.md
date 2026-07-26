@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "cyberattack"
 description: "Instructure's Canvas platform shut down after ShinyHunters breach, claiming data from nearly 9,000 schools stolen."
 sources_count: 3
+author: "priya-raman"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "chatbot"
 description: "Pennsylvania sues Character.AI over chatbot posing as doctor"
 sources_count: 3
+author: "lena-volkov"
 ---
 
 

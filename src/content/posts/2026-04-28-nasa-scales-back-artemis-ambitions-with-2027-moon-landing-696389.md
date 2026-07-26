@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@daniel-dzejak-219872264"
 visual_keyword: "NASA Artemis Moon Mission"
 description: "NASA delays Artemis III to 2027, shifts focus from lunar landing to tech testing"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

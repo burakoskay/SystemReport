@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bryce-carithers-11680701"
 visual_keyword: "Founder House"
 description: "London founder house prioritizes work-life balance"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-07-26-london-founder-house-ab9506.mp3"
 audio_bytes: 533987
 audio_mime: "audio/mpeg"

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Signal users phished for backup keys, Pay Tel exposes 300k IDs, Google engineer wins $1.2M on Polymarket"
 sources_count: 7
+author: "priya-raman"
 audio_path: "/audio/2026-05-28-signal-phishing-pay-tel-breach-93fefc.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"

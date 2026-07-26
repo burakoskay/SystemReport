@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@polesietoys"
 visual_keyword: "theme builder"
 description: "Zed.dev introduces a theme builder for its code editor, sparking interest in the developer community."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

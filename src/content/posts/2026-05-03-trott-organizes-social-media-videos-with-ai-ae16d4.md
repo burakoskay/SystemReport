@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Trott app screenshot"
 description: "Trott uses AI to search, sort, and extract details from social media videos on Instagram, YouTube, and TikTok."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

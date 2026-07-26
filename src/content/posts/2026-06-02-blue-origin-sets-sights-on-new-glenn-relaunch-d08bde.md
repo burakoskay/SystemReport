@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@andreeusebio"
 visual_keyword: "New Glenn"
 description: "New Glenn to launch again this year"
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-02-blue-origin-sets-sights-on-new-glenn-relaunch-d08bde.mp3"
 audio_bytes: 563871
 audio_mime: "audio/mpeg"

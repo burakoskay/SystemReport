@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "Microsoft Office"
 description: "Microsoft altered Office 2019 and 2021 for Mac to limit files to view-only conversion, sparking backlash among perpetual-license customers."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

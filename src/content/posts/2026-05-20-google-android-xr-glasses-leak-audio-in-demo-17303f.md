@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Google Android XR glasses"
 description: "A live demo of Google's Android XR glasses showed audio leaking, highlighting privacy concerns, while Android 17 QPR1 Beta 3 and Android Auto updates roll out"
 sources_count: 8
+author: "ryan-tanaka"
 ---
 
 

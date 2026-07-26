@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jeshoots-com-147458"
 visual_keyword: "gaming"
 description: "Bungie lays off a significant number of employees, Silo season 3 reveals a major character change, and Vagon rolls out a no-code streaming platform."
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 

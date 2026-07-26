@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "AI Washing"
 description: "Firms face real-time security risks as they adopt AI-centric branding"
 sources_count: 3
+author: "maya-chen"
 ---
 
 The Guardian reported that companies across sectors are adopting AI-centric branding, a practice labeled 'AI washing.' This trend involves replacing legacy product names with AI buzzwords without changing underlying pipelines. 

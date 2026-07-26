@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "quantum computing"
 description: "A new quantum foundry partnership raises legal questions as US faces AI exploit growth and China's tech advancements."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

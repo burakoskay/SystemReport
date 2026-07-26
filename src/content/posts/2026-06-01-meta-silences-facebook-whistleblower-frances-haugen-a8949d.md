@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@vikkirillova"
 visual_keyword: "Frances Haugen"
 description: "Meta's injunction silences Facebook whistleblower Frances Haugen at Hay Festival. Malaysia bans new social media accounts for children under 16."
 sources_count: 2
+author: "lena-volkov"
 audio_path: "/audio/2026-06-01-meta-silences-facebook-whistleblower-frances-haugen-a8949d.mp3"
 audio_bytes: 562827
 audio_mime: "audio/mpeg"

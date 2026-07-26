@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@budget-bizar-92378004"
 visual_keyword: "Solar Panels"
 description: "Solar panels to drop 30% in cost by 2035"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Solar Dominance

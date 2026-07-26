@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "mobile entertainment"
 description: "Google buys mobile music platform"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

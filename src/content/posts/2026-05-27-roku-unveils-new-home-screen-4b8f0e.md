@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Home Screen"
 description: "Roku launches new Home Screen with AI and 'Top Picks'"
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-27-roku-unveils-new-home-screen-4b8f0e.mp3"
 audio_bytes: 574111
 audio_mime: "audio/mpeg"

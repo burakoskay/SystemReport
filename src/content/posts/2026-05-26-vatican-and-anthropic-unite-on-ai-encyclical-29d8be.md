@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Pope Leo XIV presents his first encyclical with Anthropic co-founder Christopher Olah, highlighting Vatican's foray into AI ethics."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

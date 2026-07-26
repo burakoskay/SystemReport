@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@2150381842"
 visual_keyword: "cloned polo horses"
 description: "Horse replicas have taken over polo, changing the sport with cloning technology."
 sources_count: 1
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-07-cloned-polo-horses-dominate-the-field-882243.mp3"
 audio_bytes: 593756
 audio_mime: "audio/mpeg"

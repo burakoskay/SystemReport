@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "age verification"
 description: "Apple verifies age for new Texas accounts"
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-03-apple-introduces-age-verification-in-texas-app-store-ec6ba9.mp3"
 audio_bytes: 592502
 audio_mime: "audio/mpeg"

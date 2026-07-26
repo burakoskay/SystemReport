@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Image AI models drive app growth"
 sources_count: 10
+author: "maya-chen"
 audio_path: "/audio/2026-05-04-visual-ai-models-outpace-chatbot-upgrades-7fd70e.mp3"
 audio_bytes: 605458
 audio_mime: "audio/mpeg"

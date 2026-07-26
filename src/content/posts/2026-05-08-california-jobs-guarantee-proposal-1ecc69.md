@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "California gubernatorial candidate Tom Steyer proposes jobs guarantee for workers displaced by AI."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

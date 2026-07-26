@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub Copilot"
 description: "GitHub moves Copilot to a usage-based model, prompting developers to exhaust monthly AI credits in a day and raising questions about cost predictability."
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-06-02-github-copilot-s-usage-based-pricing-sparks-developer-backlash-ee605d.mp3"
 audio_bytes: 565961
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated content"
 description: "Google's SynthID watermarking expands, Ocean fights AI phishing, and an open-source Sheets extension brings LLMs to spreadsheets."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-19-synthid-adoption-grows-28m-for-ocean-d062db.mp3"
 audio_bytes: 582053
 audio_mime: "audio/mpeg"

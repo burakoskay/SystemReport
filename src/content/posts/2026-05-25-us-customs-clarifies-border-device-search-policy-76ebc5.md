@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "border search"
 description: "CBP updates directive on searching electronic devices at borders, balancing traveler rights and security."
 sources_count: 2
+author: "priya-raman"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "SpaceXAI loses staff, Microsoft cancels AI licenses"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

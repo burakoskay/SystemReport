@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "MacBook Air"
 description: "Apple cuts prices on MacBook Air, iPad Air, and MacBook Pro for Memorial Day. Anker also offers deals."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

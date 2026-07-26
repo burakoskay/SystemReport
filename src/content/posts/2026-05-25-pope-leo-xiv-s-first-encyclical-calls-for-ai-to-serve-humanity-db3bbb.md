@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "AI"
 description: "The Vatican's new encyclical flags AI risks, demands a human-first approach"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "Chris Lehane, OpenAI's global affairs chief, aims to mitigate AI debate and pass laws supporting OpenAI's growth."
 sources_count: 1
+author: "maya-chen"
 ---
 
 

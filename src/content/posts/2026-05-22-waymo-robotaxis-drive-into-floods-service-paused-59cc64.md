@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Waymo pauses robotaxi service in four cities due to flooding issues"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

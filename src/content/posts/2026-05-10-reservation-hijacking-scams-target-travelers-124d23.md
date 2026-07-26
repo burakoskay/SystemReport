@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "hotel"
 description: "Scammers impersonate hotel staff to seize bookings"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

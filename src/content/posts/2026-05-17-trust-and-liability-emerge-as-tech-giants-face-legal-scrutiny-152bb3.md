@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "regulatory"
 description: "Regulatory bodies target OpenAI, Amazon, and Android over trust, refunds, and liability concerns."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

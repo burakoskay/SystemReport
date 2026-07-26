@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kovalskiolga"
 visual_keyword: "Notion"
 description: "Notion's new developer platform and ransomware hackers claim breach at Foxconn"
 sources_count: 18
+author: "maya-chen"
 audio_path: "/audio/2026-05-13-notion-expands-into-agentic-productivity-software-dda2ea.mp3"
 audio_bytes: 604622
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bank"
 visual_keyword: "Electric Vehicle"
 description: "Slate Auto to announce EV pricing on June 24"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Slate Auto's EV

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "Cisco"
 description: "Cisco cuts 4,000 jobs to invest in AI, reports record revenue"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

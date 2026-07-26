@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "supercomputer"
 description: "Labour government shelves £1.3B funding for technology and AI projects"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-16-uk-supercomputer-funding-cut-d54d0f.mp3"
 audio_bytes: 577873
 audio_mime: "audio/mpeg"

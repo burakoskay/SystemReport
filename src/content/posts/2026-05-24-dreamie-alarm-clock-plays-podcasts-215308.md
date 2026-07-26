@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sikunovruslan"
 visual_keyword: "Dreamie alarm clock"
 description: "Dreamie alarm clock plays podcasts, a unique feature"
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-24-dreamie-alarm-clock-plays-podcasts-215308.mp3"
 audio_bytes: 604831
 audio_mime: "audio/mpeg"

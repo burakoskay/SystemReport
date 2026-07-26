@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@didsss"
 visual_keyword: "methamphetamine"
 description: "LA mayoral candidate Spencer Pratt warns of 'super meth' threat, but experts say it's exaggerated."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

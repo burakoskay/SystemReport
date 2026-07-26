@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@holiday-extras-2159945971"
 visual_keyword: "electric vehicle"
 description: "Lucid Motors pulls 2024 EV production guidance amid inventory growth and cost-cutting, signaling challenges in the EV market."
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-06-lucid-motors-loses-ev-production-guidance-73f65f.mp3"
 audio_bytes: 639940
 audio_mime: "audio/mpeg"

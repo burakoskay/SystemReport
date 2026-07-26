@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI"
 description: "Meta reports 10 million weekly business-AI conversations as its family of apps sheds 20 million users, raising questions about its AI spend."
 sources_count: 6
+author: "maya-chen"
 ---
 
 

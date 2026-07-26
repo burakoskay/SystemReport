@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
 sources_count: 7
+author: "sam-whitfield"
 ---
 
 

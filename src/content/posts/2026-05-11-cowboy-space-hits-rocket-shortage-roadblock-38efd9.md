@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

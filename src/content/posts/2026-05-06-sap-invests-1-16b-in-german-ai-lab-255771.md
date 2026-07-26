@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "SAP bets big on 18-month-old German AI lab, Prior Labs, and restricts customer agents to select AI models like Nvidia's NemoClaw."
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-05-06-sap-invests-1-16b-in-german-ai-lab-255771.mp3"
 audio_bytes: 607130
 audio_mime: "audio/mpeg"

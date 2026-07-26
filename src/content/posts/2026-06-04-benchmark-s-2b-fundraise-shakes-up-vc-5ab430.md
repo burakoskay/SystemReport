@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "growth funds"
 description: "Benchmark raises its first growth fund as part of $2B capital raise, deviating from its traditional $425M fund size."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.mp3"
 audio_bytes: 560946
 audio_mime: "audio/mpeg"

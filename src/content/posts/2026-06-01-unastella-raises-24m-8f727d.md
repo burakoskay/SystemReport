@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "rocket"
 description: "Unastella raises $24M, Google opens Tokyo store, Apple's iPhone sports venture."
 sources_count: 3
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-01-unastella-raises-24m-8f727d.mp3"
 audio_bytes: 572440
 audio_mime: "audio/mpeg"

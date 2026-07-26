@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac mini"
 description: "Apple reports surprise AI-driven Mac demand"
 sources_count: 7
+author: "maya-chen"
 ---
 
 

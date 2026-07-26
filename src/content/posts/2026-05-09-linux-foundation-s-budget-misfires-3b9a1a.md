@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "Most of the Linux Foundation's budget doesn't go to Linux. A new AI-native malware scanner for Linux aims to change security."
 sources_count: 3
+author: "priya-raman"
 audio_path: "/audio/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.mp3"
 audio_bytes: 624267
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeng-jinwen-679366437"
 visual_keyword: "Security"
 description: "Discord encrypts calls, Android 17 introduces Continue On, Firefox adds AI guardrail"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 Discord now secures all voice calls with end-to-end encryption. This change brings a uniform security model to the platform. The move is a significant step towards protecting user data and addressing concerns over privacy. By encrypting all voice calls, Discord is providing users with an additional layer of security and control over their communications.

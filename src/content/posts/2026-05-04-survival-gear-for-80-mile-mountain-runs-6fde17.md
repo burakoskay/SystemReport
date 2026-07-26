@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@vanngo-ng-105653827"
 visual_keyword: "mountain run"
 description: "A 10-lb pack for running 80 miles across mountains. Essential gear for survival."
 sources_count: 10
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.mp3"
 audio_bytes: 576201
 audio_mime: "audio/mpeg"

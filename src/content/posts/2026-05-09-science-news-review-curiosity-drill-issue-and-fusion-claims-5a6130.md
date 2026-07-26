@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Curiosity rover"
 description: "NASA's Curiosity rover faces a drill jam, while LLNL's fusion claim sparks debate on science reporting."
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@merlin"
 visual_keyword: "fusion"
 description: "Helion's $465M raise fuels a 2028 fusion plant for Microsoft while AI tools from Canva to Anthropic reshape enterprise workflows; policy shifts add pressure."
 sources_count: 6
+author: "priya-raman"
 audio_path: "/audio/2026-06-04-fusion-funding-meets-ai-tooling-surge-as-microsoft-bets-on-helion-95794f.mp3"
 audio_bytes: 623222
 audio_mime: "audio/mpeg"

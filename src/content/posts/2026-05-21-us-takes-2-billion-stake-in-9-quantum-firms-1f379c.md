@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "quantum-computing"
 description: "US invests $2 billion in 9 quantum firms, including one linked to the Trump family."
 sources_count: 5
+author: "elena-marchetti"
 ---
 
 

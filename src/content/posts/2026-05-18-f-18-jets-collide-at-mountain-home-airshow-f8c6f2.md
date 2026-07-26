@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@thales13"
 visual_keyword: "F-18"
 description: "Two EA-18 fighter jets collided during an airshow at Mountain Home Air Force Base, pilots ejected safely."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-18-f-18-jets-collide-at-mountain-home-airshow-f8c6f2.mp3"
 audio_bytes: 621968
 audio_mime: "audio/mpeg"

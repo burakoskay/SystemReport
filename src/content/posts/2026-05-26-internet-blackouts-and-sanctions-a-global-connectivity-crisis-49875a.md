@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@helenalopes"
 visual_keyword: "internet"
 description: "Iran's 3-month internet blackout ends, but global sanctions threaten online access."
 sources_count: 3
+author: "elena-marchetti"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Waymo"
 description: "Waymo suspends rides due to robotaxis struggles"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Waymo's Setbacks

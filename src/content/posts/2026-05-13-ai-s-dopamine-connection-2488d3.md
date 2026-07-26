@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "brain"
 description: "New research links AI's temporal difference learning to brain's dopamine system"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

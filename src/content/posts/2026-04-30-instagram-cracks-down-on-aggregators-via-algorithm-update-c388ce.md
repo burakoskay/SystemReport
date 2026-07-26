@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Instagram algorithm update"
 description: "Instagram's algorithm update targets content aggregators re-uploading others' posts without original content, affecting meme creators and aggregator accounts."
 sources_count: 3
+author: "sam-whitfield"
 ---
 
 

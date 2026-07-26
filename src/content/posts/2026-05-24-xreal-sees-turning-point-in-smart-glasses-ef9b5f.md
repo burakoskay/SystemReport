@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@philip-justin-mamelic-1397651"
 visual_keyword: "smart glasses"
 description: "Xreal's CEO Chi Xu believes the smart glasses industry has reached a turning point."
 sources_count: 1
+author: "david-okafor"
 audio_path: "/audio/2026-05-24-xreal-sees-turning-point-in-smart-glasses-ef9b5f.mp3"
 audio_bytes: 616743
 audio_mime: "audio/mpeg"

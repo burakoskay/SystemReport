@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@stefan-coders-1019774"
 visual_keyword: "VPN"
 description: "EU regulators focus on VPNs and browsers"
 sources_count: 3
+author: "lena-volkov"
 audio_path: "/audio/2026-05-09-eu-targets-vpns-in-age-verification-push-fc69d9.mp3"
 audio_bytes: 612355
 audio_mime: "audio/mpeg"

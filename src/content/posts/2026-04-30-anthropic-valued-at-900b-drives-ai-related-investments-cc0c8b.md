@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "subsea cables"
 description: "Anthropic's $900B valuation and Meta's AI ambitions spark investments in subsea cables."
 sources_count: 7
+author: "maya-chen"
 audio_path: "/audio/2026-04-30-anthropic-valued-at-900b-drives-ai-related-investments-cc0c8b.mp3"
 audio_bytes: 607966
 audio_mime: "audio/mpeg"

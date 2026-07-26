@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@myburgh"
 visual_keyword: "Git Performance"
 description: "GTFOBins and High Performance Git discussions"
 sources_count: 3
+author: "priya-raman"
 ---
 
 

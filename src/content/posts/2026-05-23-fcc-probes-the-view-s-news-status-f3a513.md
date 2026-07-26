@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@akoonie"
 visual_keyword: "FCC"
 description: "FCC seeks public comment on ABC's The View as a news show, focusing on newsworthiness."
 sources_count: 2
+author: "lena-volkov"
 ---
 
 

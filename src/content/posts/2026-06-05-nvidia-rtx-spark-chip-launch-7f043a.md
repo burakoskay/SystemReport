@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "RTX Spark chip"
 description: "NVIDIA's new RTX Spark chip"
 sources_count: 2
+author: "maya-chen"
 audio_path: "/audio/2026-06-05-nvidia-rtx-spark-chip-launch-7f043a.mp3"
 audio_bytes: 631790
 audio_mime: "audio/mpeg"

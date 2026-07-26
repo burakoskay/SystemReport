@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@michaela-st-3448542"
 visual_keyword: "Infrastructure"
 description: "Ubuntu infrastructure outage hampers critical vulnerability communication"
 sources_count: 2
+author: "priya-raman"
 ---
 
 ## Outage Overview

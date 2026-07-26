@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@faizialiphotography"
 visual_keyword: "Gemini"
 description: "Google's Gemini AI and Australia's 100:80:100 workweek"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

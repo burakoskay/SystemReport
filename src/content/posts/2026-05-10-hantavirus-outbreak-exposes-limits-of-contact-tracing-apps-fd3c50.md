@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "contact-tracing apps"
 description: "Apps struggle with smaller outbreaks"
 sources_count: 1
+author: "priya-raman"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "VR gaming"
 description: "Vertigo Games, known for VR titles, closes Amsterdam studio, impacting the VR gaming industry."
 sources_count: 3
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.mp3"
 audio_bytes: 626565
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "reproducible packages"
 description: "Debian requires packages to be reproducible, ensuring binary code matches source code for security and trust."
 sources_count: 1
+author: "priya-raman"
 ---
 
 

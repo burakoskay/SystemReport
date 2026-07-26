@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@miguel-angel-lozano-baron-129304
 visual_keyword: "Amazon"
 description: "Fake reviews affect tech products"
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-07-fake-reviews-on-amazon-5dae1c.mp3"
 audio_bytes: 650598
 audio_mime: "audio/mpeg"

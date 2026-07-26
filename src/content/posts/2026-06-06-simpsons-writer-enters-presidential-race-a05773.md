@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@apunto-group-agencia-de-publicid
 visual_keyword: "Dan Greaney"
 description: "Dan Greaney, a Simpsons writer, holds first presidential campaign rally in LA, citing concerns over American democracy."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-simpsons-writer-enters-presidential-race-a05773.mp3"
 audio_bytes: 611310
 audio_mime: "audio/mpeg"

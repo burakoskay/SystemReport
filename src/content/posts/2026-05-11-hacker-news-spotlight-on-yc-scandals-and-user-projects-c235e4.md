@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "YC scandals and Hacker News users' projects discussed. What's new in tech?"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

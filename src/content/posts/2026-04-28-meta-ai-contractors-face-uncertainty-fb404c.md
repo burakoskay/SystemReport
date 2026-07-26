@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
 sources_count: 8
+author: "maya-chen"
 ---
 
 

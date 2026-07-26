@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI releases new voice models, raising questions about AI safety and trust."
 sources_count: 10
+author: "maya-chen"
 audio_path: "/audio/2026-05-07-openai-s-voice-models-spark-safety-debate-62e0fd.mp3"
 audio_bytes: 580799
 audio_mime: "audio/mpeg"

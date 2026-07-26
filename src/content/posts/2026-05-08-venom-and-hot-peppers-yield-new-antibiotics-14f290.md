@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@dbaler"
 visual_keyword: "Antibiotics from Scorpion Venom and Habanero Peppers"
 description: "New antibiotics from scorpion venom and habanero peppers target drug-resistant bacteria"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

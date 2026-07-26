@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@soc-nang-d-ng-2150345854"
 visual_keyword: "Laptop"
 description: "Dell launches XPS 13 at $599 for students"
 sources_count: 3
+author: "david-okafor"
 audio_path: "/audio/2026-05-31-dell-revives-xps-13-as-budget-friendly-option-for-students-2b2c18.mp3"
 audio_bytes: 663764
 audio_mime: "audio/mpeg"

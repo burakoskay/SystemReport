@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "on-demand home services"
 description: "Snabbit raises $56M as it processes 40,000 daily jobs in on-demand home services."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AirPods"
 description: "New Apple AirPods with cameras spark privacy concerns while users adapt with iOS 26 shortcuts, webcam lighting hacks, and Chromebook switches."
 sources_count: 5
+author: "lena-volkov"
 ---
 
 

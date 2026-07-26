@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Gemini AI"
 description: "Google's Gemini AI is increasingly appearing in Google apps, raising concerns about AI fatigue."
 sources_count: 1
+author: "maya-chen"
 ---
 
 

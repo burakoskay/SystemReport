@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "RTX Spark superchip"
 description: "Nvidia and Microsoft partner to bring AI agents to Windows PCs with new RTX Spark superchip"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "AI chips"
 description: "Meta signs deal for Amazon AI CPUs, Nothing introduces on-device AI dictation"
 sources_count: 12
+author: "maya-chen"
 audio_path: "/audio/2026-04-24-ai-chip-race-intensifies-0db41f.mp3"
 audio_bytes: 619251
 audio_mime: "audio/mpeg"

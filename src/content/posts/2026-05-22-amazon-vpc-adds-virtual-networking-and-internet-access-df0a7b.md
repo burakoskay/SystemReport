@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "network"
 description: "Amazon Virtual Private Cloud (VPC) now offers virtual networking and internet access without a VPN, allowing users to define their own virtual network topology."
 sources_count: 3
+author: "priya-raman"
 audio_path: "/audio/2026-05-22-amazon-vpc-adds-virtual-networking-and-internet-access-df0a7b.mp3"
 audio_bytes: 583725
 audio_mime: "audio/mpeg"

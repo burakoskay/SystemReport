@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@perfecto-capucine-515848"
 visual_keyword: "Googlebooks"
 description: "Google hints at a new product, potentially an Android-based Googlebooks"
 sources_count: 9
+author: "ryan-tanaka"
 ---
 
 

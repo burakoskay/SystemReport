@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Father's Day"
 description: "Get the best gifts for dad in 2026 with these handpicked ideas."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-29-handpicked-father-s-day-gifts-for-2026-08a056.mp3"
 audio_bytes: 609638
 audio_mime: "audio/mpeg"

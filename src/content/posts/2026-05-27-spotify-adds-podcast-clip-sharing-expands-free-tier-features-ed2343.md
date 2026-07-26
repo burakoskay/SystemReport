@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "Spotify"
 description: "Spotify rolls out a trimming tool for podcast clips, expands free-tier features"
 sources_count: 5
+author: "sam-whitfield"
 ---
 
 

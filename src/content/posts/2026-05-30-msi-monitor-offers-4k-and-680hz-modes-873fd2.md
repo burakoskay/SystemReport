@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@serhatturan"
 visual_keyword: "MSI Monitor"
 description: "MSI's new monitor switches between 4K and 680Hz modes"
 sources_count: 6
+author: "david-okafor"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV+"
 description: "Apple TV+ adds new series and films in May, including a John Travolta-directed movie, to expand its original content offerings."
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.mp3"
 audio_bytes: 567424
 audio_mime: "audio/mpeg"

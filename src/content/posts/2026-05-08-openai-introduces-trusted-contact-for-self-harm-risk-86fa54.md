@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "AI chatbot"
 description: "OpenAI introduces Trusted Contact for self-harm alerts while Senate pushes GUARD Act to age-gate companion chatbots."
 sources_count: 5
+author: "maya-chen"
 ---
 
 ## OpenAI introduces Trusted Contact for self-harm risk

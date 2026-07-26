@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@satheeshsankaran"
 visual_keyword: "gene editing"
 description: "Single dose of gene-editing drug reduces bad cholesterol by 62% in 35-person trial"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

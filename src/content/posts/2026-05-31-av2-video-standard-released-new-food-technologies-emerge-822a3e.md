@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "video streaming"
 description: "AV2 video standard finalized, new food tech"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Introduction to AV2

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@arthousestudio"
 visual_keyword: "Geothermal"
 description: "Geothermal startup Fervo Energy to raise up to $1.3B in IPO"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

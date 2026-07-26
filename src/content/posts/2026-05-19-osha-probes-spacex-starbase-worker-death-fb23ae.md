@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jeswin"
 visual_keyword: "SpaceX Starbase facility"
 description: "OSHA investigates worker death at SpaceX's Starbase site, where injury rates are higher than other SpaceX facilities."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

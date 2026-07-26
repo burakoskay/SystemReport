@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@alscre"
 visual_keyword: "Minecraft"
 description: "The Minecraft movie sequel is titled 'A Minecraft Movie Squared' with Kirsten Dunst set to star as Alex. Matt Berry will play a human character."
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-31-minecraft-movie-sequel-gets-title-cast-updates-f8d3d2.mp3"
 audio_bytes: 600025
 audio_mime: "audio/mpeg"

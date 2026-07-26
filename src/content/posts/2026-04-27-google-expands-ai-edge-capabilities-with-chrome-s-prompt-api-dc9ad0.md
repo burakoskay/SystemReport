@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@deepanker70"
 visual_keyword: "Chrome"
 description: "Google rolls out AI edge tools, including Chrome's Prompt API"
 sources_count: 6
+author: "maya-chen"
 audio_path: "/audio/2026-04-27-google-expands-ai-edge-capabilities-with-chrome-s-prompt-api-dc9ad0.mp3"
 audio_bytes: 567842
 audio_mime: "audio/mpeg"

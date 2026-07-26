@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "simulation"
 description: "An international team aims to build the Living Earth Simulator, a massive project to collect data from billions of sources and simulate global phenomena."
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-scientists-plan-simulator-to-replicate-everything-on-earth-88bef1.mp3"
 audio_bytes: 604622
 audio_mime: "audio/mpeg"

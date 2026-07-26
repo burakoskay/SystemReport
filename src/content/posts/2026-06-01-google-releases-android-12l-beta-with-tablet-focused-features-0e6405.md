@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zaktech90"
 visual_keyword: "Android 12L"
 description: "Google's Android 12L beta, Samsung's forced lockdown mode, and new Android tools illustrate shifting priorities in security and large-screen support."
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

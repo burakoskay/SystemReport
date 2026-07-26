@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Amazon reviews"
 description: "Amazon's review system is compromised"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 ## The Problem of Fake or Incentivised Reviews

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@valentin-ivantsov-2154772556"
 visual_keyword: "chip production"
 description: "Apple and Intel have a preliminary deal for chip production"
 sources_count: 3
+author: "david-okafor"
 ---
 
 

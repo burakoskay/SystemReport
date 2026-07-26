@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "public lands management"
 description: "The Recreation.gov platform intended to streamline access to public lands is plagued by bots and inequality."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 # Recreation.gov's Bumpy Launch

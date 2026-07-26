@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
 sources_count: 12
+author: "ryan-tanaka"
 ---
 
 

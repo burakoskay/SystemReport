@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Research"
 description: "Lowe's promo codes and Vector's AI research tool for investors"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Lowe's Offers Up to $300 Off Appliances

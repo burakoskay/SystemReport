@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "open-source"
 description: "OpenBSD team releases openrsync, an implementation of rsync."
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 

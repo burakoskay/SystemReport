@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ekaterina-bolovtsova"
 visual_keyword: "lawsuit"
 description: "Apple, Google, and Uber face lawsuits and settlements over AI features, app store fees, and driver classification."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

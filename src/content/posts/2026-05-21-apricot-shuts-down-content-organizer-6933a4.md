@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "content management"
 description: "Apricot, a web app for organizing content, shuts down. It helped users manage TV shows, podcasts, YouTube channels, and more in one place."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

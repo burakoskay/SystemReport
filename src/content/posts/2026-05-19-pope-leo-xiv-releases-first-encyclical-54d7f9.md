@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@ozgur-kaya-575422504"
 visual_keyword: "Vatican"
 description: "Pope Leo XIV's first encyclical, Magnifica humanitas, published on May 25."
 sources_count: 3
+author: "elena-marchetti"
 ---
 
 

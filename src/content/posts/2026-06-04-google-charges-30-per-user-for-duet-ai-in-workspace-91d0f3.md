@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google Workspace"
 description: "Google sets $30-per-user pricing for Duet AI in Workspace, matching Microsoft's 365 Copilot fee."
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-google-charges-30-per-user-for-duet-ai-in-workspace-91d0f3.mp3"
 audio_bytes: 642657
 audio_mime: "audio/mpeg"

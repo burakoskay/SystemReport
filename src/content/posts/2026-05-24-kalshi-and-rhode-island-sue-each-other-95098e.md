@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi and Rhode Island engage in legal battle"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

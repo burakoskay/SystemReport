@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "orbital maneuvering"
 description: "Impulse Space secures $500 million to advance orbital maneuvering, prioritizing human talent over AI."
 sources_count: 2
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-02-impulse-space-raises-500m-to-hire-not-ai-2d4e83.mp3"
 audio_bytes: 612773
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple aims to fit Gemini on iPhone for lower latency and privacy"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-28-apple-works-to-integrate-gemini-into-iphone-for-siri-875b17.mp3"
 audio_bytes: 633880
 audio_mime: "audio/mpeg"

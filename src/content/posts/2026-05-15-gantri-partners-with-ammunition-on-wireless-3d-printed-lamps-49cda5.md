@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@shottrotter"
 visual_keyword: "Wireless Lamps"
 description: "Gantri's 3D-printed lamps go wireless with Ammunition"
 sources_count: 6
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-15-gantri-partners-with-ammunition-on-wireless-3d-printed-lamps-49cda5.mp3"
 audio_bytes: 606503
 audio_mime: "audio/mpeg"

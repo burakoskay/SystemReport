@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "code review"
 description: "Alibaba's Open Code Review, Continue, and av bring AI-driven code checks to GitHub"
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-05-ai-powered-code-review-tools-gain-traction-32ddda.mp3"
 audio_bytes: 612982
 audio_mime: "audio/mpeg"

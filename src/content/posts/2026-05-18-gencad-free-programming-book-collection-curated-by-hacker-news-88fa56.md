@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@ashar-mirza-2148003869"
 visual_keyword: "books"
 description: "Hacker News users bookmark a community-driven list of sites offering legally free programming and tech books."
 sources_count: 5
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-18-gencad-free-programming-book-collection-curated-by-hacker-news-88fa56.mp3"
 audio_bytes: 592920
 audio_mime: "audio/mpeg"

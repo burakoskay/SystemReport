@@ -9,6 +9,7 @@ hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux
 visual_keyword: "cybersecurity"
 description: "New spyware app and quantum-safe ransomware family expose growing risks for engineers and security teams."
 sources_count: 5
+author: "priya-raman"
 audio_path: "/audio/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.mp3"
 audio_bytes: 622804
 audio_mime: "audio/mpeg"

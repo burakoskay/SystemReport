@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Apple Intelligence"
 description: "Apple revamps Siri and Apple Intelligence at WWDC 2026 as a key White House AI advisor departs and indie tools emerge."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-06-06-apple-s-siri-overhaul-and-white-house-ai-shake-up-0273cc.mp3"
 audio_bytes: 597517
 audio_mime: "audio/mpeg"

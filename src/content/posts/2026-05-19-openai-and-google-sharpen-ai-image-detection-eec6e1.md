@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@atypeek"
 visual_keyword: "AI image detection"
 description: "OpenAI joins C2PA and adds SynthID, while Google expands its Circle to Search detector"
 sources_count: 5
+author: "maya-chen"
 ---
 
 

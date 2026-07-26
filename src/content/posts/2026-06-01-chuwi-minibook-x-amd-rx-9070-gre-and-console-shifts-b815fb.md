@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@2874318"
 visual_keyword: "Netbook"
 description: "Chuwi's new netbook and AMD's GPU release signal change"
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-01-chuwi-minibook-x-amd-rx-9070-gre-and-console-shifts-b815fb.mp3"
 audio_bytes: 662510
 audio_mime: "audio/mpeg"

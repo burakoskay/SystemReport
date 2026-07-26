@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Humanoid Robotic Perception"
 description: "Meta's purchase of ARI signals continued AI acquisition trends seen in tech giants"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 Meta has acquired Assured Robot Intelligence (ARI), a robotics AI startup, to bolster its Superintelligence Labs division. The acquisition adds ARI staff to Meta's AI research infrastructure just as major tech companies intensify investments in embodied intelligence systems.

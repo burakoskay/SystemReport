@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI Hardware"
 description: "Meta expands open-hardware strategy"
 sources_count: 5
+author: "maya-chen"
 ---
 
 

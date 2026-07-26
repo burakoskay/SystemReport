@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@ketut-subiyanto"
 visual_keyword: "prepaid phone plans"
 description: "Prepaid plans offer significant savings but account for only 23% of US wireless subscriptions, with market dynamics limiting their visibility."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

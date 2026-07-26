@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@gasparclarence01"
 visual_keyword: "striking workers"
 description: "Reports on labor issues in the US, including a Department of Labor email and a national prison strike"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

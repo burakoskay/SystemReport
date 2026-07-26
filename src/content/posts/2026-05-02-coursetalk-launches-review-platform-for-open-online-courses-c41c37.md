@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@katerina-holmes"
 visual_keyword: "online learning"
 description: "CourseTalk helps learners find quality open online courses with a review and discovery platform."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-02-coursetalk-launches-review-platform-for-open-online-courses-c41c37.mp3"
 audio_bytes: 600234
 audio_mime: "audio/mpeg"

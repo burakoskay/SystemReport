@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@garrettmorrow"
 visual_keyword: "PlayStation Plus"
 description: "Sony raises PlayStation Plus subscription prices in select regions, citing market conditions."
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.mp3"
 audio_bytes: 631999
 audio_mime: "audio/mpeg"

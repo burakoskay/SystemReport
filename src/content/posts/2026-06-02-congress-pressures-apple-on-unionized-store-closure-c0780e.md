@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mahoneyfotos"
 visual_keyword: "Apple Store"
 description: "Dozens of lawmakers urge Apple to reconsider closing its first Unionized US store in Maryland, citing potential retaliation against workers."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "sustainable fashion"
 description: "Shein's purchase of Everlane signals a push into sustainable apparel, backed by big-data and AI search tools."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.mp3"
 audio_bytes: 598980
 audio_mime: "audio/mpeg"

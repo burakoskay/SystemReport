@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AMD launches $3,999 Ryzen AI Halo PC, targets Nvidia's DGX Spark, as Adobe rolls out on-device AI in Photoshop 27.7."
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-05-21-amd-prices-ryzen-ai-halo-pc-at-3-999-competes-with-nvidia-bc1d12.mp3"
 audio_bytes: 663346
 audio_mime: "audio/mpeg"

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Artificial Intelligence"
 description: "OpenAI prepares for IPO after lawsuit loss"
 sources_count: 2
+author: "maya-chen"
 ---
 
 

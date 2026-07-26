@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX Starship V3"
 description: "SpaceX halted the first Starship V3 launch on May 21"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 ## Starship V3 Scrubbed Due to Technical Issue

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@jorgeural"
 visual_keyword: "developer_tools"
 description: "New blog posts offer concrete solutions for Git complexity, language migration, and DSL development."
 sources_count: 5
+author: "lena-volkov"
 ---
 
 

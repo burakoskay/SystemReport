@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tezshekhawat"
 visual_keyword: "smart glasses"
 description: "Etsy and Meta integrate AI assistants into shopping and smart glasses, while Amazon enhances code development tools."
 sources_count: 8
+author: "ryan-tanaka"
 ---
 
 

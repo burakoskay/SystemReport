@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@chris-f-38966"
 visual_keyword: "Motorola Razr"
 description: "Motorola's 2026 Razr lineup arrives with higher prices and minor changes. Moto Buds 2 Plus add Bose sound for $149."
 sources_count: 6
+author: "david-okafor"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta"
 description: "Meta's ban process lacks transparency, and a hidden face-recognition module was found in its smart-glasses platform"
 sources_count: 3
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-meta-oversight-board-demands-ban-process-transparency-e1b1d7.mp3"
 audio_bytes: 617370
 audio_mime: "audio/mpeg"

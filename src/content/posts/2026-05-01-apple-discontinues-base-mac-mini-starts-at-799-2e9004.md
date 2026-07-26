@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tofros-com-83191"
 visual_keyword: "Laptop"
 description: "Apple discontinues base Mac mini, LG launches 2026 Gram laptops"
 sources_count: 9
+author: "ryan-tanaka"
 ---
 
 

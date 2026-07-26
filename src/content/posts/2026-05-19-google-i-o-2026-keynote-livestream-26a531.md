@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google I/O"
 description: "Google's annual developer conference starts today, May 19th. Watch the keynote livestream on YouTube and Google I/O site for updates on Gemini, Search, and more."
 sources_count: 1
+author: "maya-chen"
 ---
 
 

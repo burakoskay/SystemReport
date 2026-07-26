@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
 sources_count: 8
+author: "sam-whitfield"
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 audio_mime: "audio/mpeg"

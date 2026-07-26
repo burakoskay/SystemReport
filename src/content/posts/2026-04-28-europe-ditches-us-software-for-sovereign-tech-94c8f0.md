@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "European tech"
 description: "European governments seek to reduce dependence on American tech providers"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

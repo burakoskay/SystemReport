@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "AI Agents"
 description: "Claude Code and OpenClaw kicked off an unprecedented wave of AI agent deployment, disrupting tech workflows and prompting concerns over data harvesting, job displacement, and security risks."
 sources_count: 7
+author: "maya-chen"
 audio_path: "/audio/2026-05-26-ai-agents-spark-computing-s-biggest-transformation-3e0b11.mp3"
 audio_bytes: 616325
 audio_mime: "audio/mpeg"

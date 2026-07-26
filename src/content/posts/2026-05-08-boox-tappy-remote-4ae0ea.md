@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@anya-juarez-tenorio-227888521"
 visual_keyword: "Tappy"
 description: "Boox's new e-reader remote offers page-turning and more"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Tappy

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@anton-8100"
 visual_keyword: "Voice AI"
 description: "Wispr Flow sees growth after Hinglish rollout"
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

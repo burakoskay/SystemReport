@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data"
 description: "Wirestock secures $23M to provide AI labs with creative multi-modal data, including photos, videos, and 3D content."
 sources_count: 5
+author: "maya-chen"
 ---
 
 

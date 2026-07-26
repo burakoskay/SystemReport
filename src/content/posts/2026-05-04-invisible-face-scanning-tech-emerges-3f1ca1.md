@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "face scanning"
 description: "Metalenz unveils Polar ID face-scanning tech that works under display. Advances in cooling tech and virtual violin design also make headlines."
 sources_count: 4
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-04-invisible-face-scanning-tech-emerges-3f1ca1.mp3"
 audio_bytes: 574111
 audio_mime: "audio/mpeg"

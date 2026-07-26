@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Security"
 description: "OpenAI limits GPT-5.5 Cyber to critical cyber defenders and partners with Yubico"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

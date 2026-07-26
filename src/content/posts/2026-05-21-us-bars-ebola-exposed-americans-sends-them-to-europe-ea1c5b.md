@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@cdc-library"
 visual_keyword: "Ebola"
 description: "The Trump administration sent Americans exposed to Ebola to Berlin and Prague instead of allowing them to return to the US, sparking criticism."
 sources_count: 1
+author: "priya-raman"
 audio_path: "/audio/2026-05-21-us-bars-ebola-exposed-americans-sends-them-to-europe-ea1c5b.mp3"
 audio_bytes: 616952
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@michael-kessel-112079563"
 visual_keyword: "indie-games"
 description: "Apple adds a permanent Indie Game Showcase to the App Store, while Supermash, a genre-bending indie title, lands on Switch."
 sources_count: 3
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-06-apple-s-indie-push-puts-small-studios-front-center-edf252.mp3"
 audio_bytes: 554676
 audio_mime: "audio/mpeg"

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Social Media"
 description: "Snap alumni launch Ghost Angels fund"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Ghost Angels

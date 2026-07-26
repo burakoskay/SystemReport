@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "regulation"
 description: "New regulations loom for AI, Bitcoin, and online privacy, sparking debates on innovation and oversight."
 sources_count: 8
+author: "lena-volkov"
 ---
 
 

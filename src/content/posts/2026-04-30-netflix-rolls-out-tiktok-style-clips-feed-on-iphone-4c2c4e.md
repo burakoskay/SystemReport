@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "Netflix Clips"
 description: "Netflix redesigns its iPhone app with a vertical video feed called Clips, showcasing highlights from original programming."
 sources_count: 7
+author: "sam-whitfield"
 ---
 
 

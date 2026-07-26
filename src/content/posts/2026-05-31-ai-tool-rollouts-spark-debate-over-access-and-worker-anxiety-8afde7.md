@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "OpenAI's GPT-Rosalind rollout and survey data on AI productivity highlight a sector at odds with its tools"
 sources_count: 4
+author: "maya-chen"
 ---
 
 OpenAI expanded GPT-Rosalind access to vetted developers and U.S. government partners, sparking debate over who gets to shape AI's role in high-stakes domains. 

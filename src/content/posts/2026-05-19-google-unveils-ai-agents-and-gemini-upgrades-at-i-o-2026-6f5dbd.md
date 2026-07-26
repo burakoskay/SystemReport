@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI-powered"
 description: "Google's I/O 2026 introduces AI agents, Gemini upgrades, and audio-first glasses"
 sources_count: 12
+author: "maya-chen"
 audio_path: "/audio/2026-05-19-google-unveils-ai-agents-and-gemini-upgrades-at-i-o-2026-6f5dbd.mp3"
 audio_bytes: 597935
 audio_mime: "audio/mpeg"

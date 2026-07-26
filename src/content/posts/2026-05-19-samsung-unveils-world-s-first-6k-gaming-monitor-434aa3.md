@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Samsung 6K gaming monitor"
 description: "Samsung's 6K gaming monitor sets a new resolution benchmark, challenging GPU capabilities and monitor pricing."
 sources_count: 6
+author: "maya-chen"
 ---
 
 

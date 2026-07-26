@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "tech funding"
 description: "Lucra raised $20M without AI branding, Microsoft renewed carbon-removal purchases, and new political and legal moves reshape tech funding and regulation."
 sources_count: 5
+author: "lena-volkov"
 ---
 
 

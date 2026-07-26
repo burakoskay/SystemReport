@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Companies struggle to manage high AI costs, leading to rationing. Torrix offers a self-hosted observability platform to track and manage AI expenses."
 sources_count: 2
+author: "maya-chen"
 ---
 
 

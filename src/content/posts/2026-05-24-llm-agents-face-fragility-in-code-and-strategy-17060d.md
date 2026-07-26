@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@plato-terentev-3804555"
 visual_keyword: "constraint decay"
 description: "New research highlights instability in AI systems for code and strategy; startups push agentic solutions despite open challenges."
 sources_count: 3
+author: "maya-chen"
 ---
 
 ## New Research Exposes Limits of Agentic AI Code Generation

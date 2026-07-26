@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "GoPro"
 description: "GoPro considers defense applications, ArXiv bans AI-generated content"
 sources_count: 11
+author: "ryan-tanaka"
 ---
 
 

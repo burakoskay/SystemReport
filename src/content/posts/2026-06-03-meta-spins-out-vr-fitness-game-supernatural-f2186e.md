@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "VR Fitness Game"
 description: "Meta spins out Supernatural after user protests"
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-03-meta-spins-out-vr-fitness-game-supernatural-f2186e.mp3"
 audio_bytes: 617788
 audio_mime: "audio/mpeg"

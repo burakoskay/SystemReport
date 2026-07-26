@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Oura Ring 5"
 description: "Oura's Ring 5 is 40% smaller, with enhanced health features like hypertension detection and improved battery life, starting at $399."
 sources_count: 3
+author: "david-okafor"
 ---
 
 

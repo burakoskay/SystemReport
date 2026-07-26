@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

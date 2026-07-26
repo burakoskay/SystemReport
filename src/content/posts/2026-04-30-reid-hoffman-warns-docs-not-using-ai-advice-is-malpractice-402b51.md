@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI in healthcare"
 description: "Reid Hoffman says docs who don't seek AI second opinions risk malpractice. His AI drug discovery startup aims to integrate AI in healthcare."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

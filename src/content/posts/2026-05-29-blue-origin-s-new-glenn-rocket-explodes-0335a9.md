@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "Rocket Explosion"
 description: "Explosion in Florida may impact company plans"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 ## Introduction to Incident

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "network"
 description: "Accenture buys Downdetector and Speedtest for $1.2B, OpenRouter secures $113M Series B, and Playstack is acquired by Integrated Media Company."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

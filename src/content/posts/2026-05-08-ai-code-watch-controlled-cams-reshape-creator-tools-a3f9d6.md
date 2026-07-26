@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@zana-latif-2772032"
 visual_keyword: "AI-powered camera"
 description: "Airbnb's AI writes most new code, Blackmagic adds Apple Watch remote, and Zens launches a semi-solid-state powerbank."
 sources_count: 4
+author: "maya-chen"
 ---
 
 

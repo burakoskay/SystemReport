@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@leah-newhouse-50725"
 visual_keyword: "GitHub Copilot"
 description: "GitHub's Copilot faces criticism over token-based billing, with developers questioning its value and Microsoft's GitHub struggling to balance innovation with fair pricing."
 sources_count: 2
+author: "maya-chen"
 ---
 
 

@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "battery storage"
 description: "Ford and GM pivot to energy storage amid EV struggles, driven by AI-driven optimizations."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

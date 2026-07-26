@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI prepares for September IPO as Sam Altman offers investment to Y Combinator startups."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

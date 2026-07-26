@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "diabetes"
 description: "ADA conference ejects scientists for distributing journal reprints"
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-06-scientists-ejected-from-diabetes-conference-e8d0cb.mp3"
 audio_bytes: 523538
 audio_mime: "audio/mpeg"

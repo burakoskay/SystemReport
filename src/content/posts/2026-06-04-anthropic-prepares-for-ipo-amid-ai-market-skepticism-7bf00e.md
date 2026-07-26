@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic co-founder Daniela Amodei addresses AI return doubts"
 sources_count: 10
+author: "maya-chen"
 audio_path: "/audio/2026-06-04-anthropic-prepares-for-ipo-amid-ai-market-skepticism-7bf00e.mp3"
 audio_bytes: 591666
 audio_mime: "audio/mpeg"

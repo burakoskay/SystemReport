@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@garvin-st-villier-719266"
 visual_keyword: "Mercedes-AMG Electric GT 4-Door"
 description: "Mercedes-AMG's most powerful vehicle, a true GT-class four-door electric car with 1,153 HP and no internal-combustion engine."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

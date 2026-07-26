@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@dumitru-b-742240889"
 visual_keyword: "mobile app"
 description: "Lovable's mobile app enables on-the-go web app creation from voice or text prompts. Open-source rival Dyad provides a lock-in-free alternative."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Tech giants navigate AI partnerships and scrutiny"
 sources_count: 5
+author: "maya-chen"
 ---
 
 

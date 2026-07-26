@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "network"
 description: "Valve's peer-to-peer networking issue remains unresolved, affecting game developers."
 sources_count: 1
+author: "sam-whitfield"
 audio_path: "/audio/2026-06-07-valve-s-p2p-network-broken-for-2-months-af5259.mp3"
 audio_bytes: 649762
 audio_mime: "audio/mpeg"

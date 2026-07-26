@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Trump forced to admit Biden was right on AI safety testing"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

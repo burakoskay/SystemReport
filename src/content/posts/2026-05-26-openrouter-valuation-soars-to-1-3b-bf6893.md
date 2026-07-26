@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "OpenRouter raises $113M Series B, valuation jumps to $1.3B. Usage grows 5x in six months."
 sources_count: 1
+author: "maya-chen"
 ---
 
 

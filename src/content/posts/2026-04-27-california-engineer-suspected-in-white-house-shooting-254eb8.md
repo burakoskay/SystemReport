@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@star-zhang-3254790"
 visual_keyword: "security"
 description: "A 31-year-old California engineer and indie game developer is suspected of firing shots at the White House Correspondents' Dinner."
 sources_count: 7
+author: "priya-raman"
 audio_path: "/audio/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.mp3"
 audio_bytes: 548825
 audio_mime: "audio/mpeg"

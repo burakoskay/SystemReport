@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Enterprises face hidden risks with AI subscriptions"
 sources_count: 2
+author: "maya-chen"
 ---
 
 

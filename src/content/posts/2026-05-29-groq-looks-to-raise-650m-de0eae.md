@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Groq shifts focus to AI inference"
 sources_count: 7
+author: "maya-chen"
 audio_path: "/audio/2026-05-29-groq-looks-to-raise-650m-de0eae.mp3"
 audio_bytes: 602115
 audio_mime: "audio/mpeg"

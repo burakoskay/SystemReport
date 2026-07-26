@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@benjamin-dominguez-3363409"
 visual_keyword: "Twitch"
 description: "NYC Mayor Zohran Mamdani launches Twitch series to chat with New Yorkers"
 sources_count: 1
+author: "sam-whitfield"
 ---
 
 

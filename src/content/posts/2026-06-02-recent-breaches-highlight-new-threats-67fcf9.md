@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Data Breach"
 description: "Exploits of AI support tools, supply-chain channels, and OT systems"
 sources_count: 5
+author: "maya-chen"
 audio_path: "/audio/2026-06-02-recent-breaches-highlight-new-threats-67fcf9.mp3"
 audio_bytes: 562827
 audio_mime: "audio/mpeg"

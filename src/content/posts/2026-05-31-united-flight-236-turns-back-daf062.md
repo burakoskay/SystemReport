@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@peterfazekas"
 visual_keyword: "Bluetooth"
 description: "Security concerns over a Bluetooth speaker name"
 sources_count: 2
+author: "priya-raman"
 audio_path: "/audio/2026-05-31-united-flight-236-turns-back-daf062.mp3"
 audio_bytes: 630536
 audio_mime: "audio/mpeg"

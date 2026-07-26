@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@fox-58267"
 visual_keyword: "cyberdeck"
 description: "Young creators build purse-sized computers as AI accessories like SpeakON gain traction."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

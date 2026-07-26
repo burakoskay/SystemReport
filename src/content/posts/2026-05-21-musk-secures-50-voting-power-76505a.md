@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Elon Musk will hold over 50% voting power in SpaceX's IPO, while the company touts orbital data centers and faces political attacks and internal cash moves."
 sources_count: 8
+author: "ryan-tanaka"
 ---
 
 

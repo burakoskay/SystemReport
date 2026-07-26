@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "SpaceX alerts investors to possible significant equity issuance in future transactions, indicating potential dilution."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-01-spacex-warns-of-potential-equity-dilution-post-ipo-ce5949.mp3"
 audio_bytes: 572231
 audio_mime: "audio/mpeg"

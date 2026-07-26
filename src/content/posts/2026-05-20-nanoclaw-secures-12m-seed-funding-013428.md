@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "Maritime Sensors"
 description: "NanoCo turns down buyout, raises $12M seed"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

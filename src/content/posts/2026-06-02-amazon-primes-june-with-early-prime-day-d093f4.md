@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "Amazon Prime Day"
 description: "Amazon shifts Prime Day to June 23-26, while Whoop offers 20% off memberships"
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

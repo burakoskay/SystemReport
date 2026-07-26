@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Discounts"
 description: "Vimeo and HP discounts up to 60% off"
 sources_count: 5
+author: "ryan-tanaka"
 ---
 
 

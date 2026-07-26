@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Anthropic now leads OpenAI in valuation"
 sources_count: 2
+author: "maya-chen"
 ---
 
 

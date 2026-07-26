@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "microcode"
 description: "A rsync patch sparks debate, Intel 8087 microcode is analyzed, and Fluxa offers AI-driven task management for freelancers and small teams."
 sources_count: 3
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Spotify Party of the Year(s)"
 description: "Spotify launches feature to recap entire music streaming history"
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-12-spotify-s-party-of-the-year-s-recaps-your-music-history-db5e2b.mp3"
 audio_bytes: 566588
 audio_mime: "audio/mpeg"

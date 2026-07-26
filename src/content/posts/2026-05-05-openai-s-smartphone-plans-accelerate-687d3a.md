@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI phone"
 description: "OpenAI reportedly fast-tracks smartphone launch, potentially debuting early next year."
 sources_count: 6
+author: "maya-chen"
 ---
 
 

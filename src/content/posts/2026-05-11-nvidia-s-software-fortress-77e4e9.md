@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@nanadua11"
 visual_keyword: "Nvidia"
 description: "Nvidia's CUDA platform creates a deep, forbidding moat that's hard to replicate"
 sources_count: 2
+author: "maya-chen"
 ---
 
 

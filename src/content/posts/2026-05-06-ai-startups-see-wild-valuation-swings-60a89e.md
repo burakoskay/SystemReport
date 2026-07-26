@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "DeepSeek's valuation jumps to $45B, Samsung hits $1T on AI chip demand"
 sources_count: 4
+author: "maya-chen"
 ---
 
 

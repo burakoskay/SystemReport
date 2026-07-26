@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "cyberdeck"
 description: "TeamPCP's supply-chain assaults and a hijacked clothing-brand site signal a widening threat surface for developers."
 sources_count: 6
+author: "priya-raman"
 audio_path: "/audio/2026-05-22-supply-chain-attacks-surge-with-teampcp-s-github-injection-b73b7e.mp3"
 audio_bytes: 607548
 audio_mime: "audio/mpeg"

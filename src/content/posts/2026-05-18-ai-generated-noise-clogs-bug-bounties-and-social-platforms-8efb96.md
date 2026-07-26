@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated noise"
 description: "AI-spam overloads bug bounty programs, prompts LinkedIn bans, and triggers boos at graduation speeches."
 sources_count: 7
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-18-ai-generated-noise-clogs-bug-bounties-and-social-platforms-8efb96.mp3"
 audio_bytes: 604831
 audio_mime: "audio/mpeg"

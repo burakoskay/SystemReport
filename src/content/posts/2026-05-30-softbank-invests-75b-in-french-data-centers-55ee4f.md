@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "Data Centers"
 description: "SoftBank to invest up to €75B in French data centers"
 sources_count: 1
+author: "ryan-tanaka"
 ---
 
 ## Introduction to SoftBank's Investment

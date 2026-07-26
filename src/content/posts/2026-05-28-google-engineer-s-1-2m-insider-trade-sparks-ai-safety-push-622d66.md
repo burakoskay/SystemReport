@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Google engineer faces insider trading charges, coinciding with Illinois' AI safety bill"
 sources_count: 5
+author: "lena-volkov"
 ---
 
 A Google engineer made $1.2 million on insider bets tied to the company’s 2025 Year in Search campaign, using wagers placed on the Polymarket platform. The engineer risked over $2.7 million on these bets, leading to a federal indictment for misuse of non-public information. This case comes as Illinois lawmakers passed a bill requiring companies like OpenAI, Anthropic, and Google to submit their safety practices to independent reviewers. Governor JB Pritzker has endorsed the measure. 

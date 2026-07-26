@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@borishamer"
 visual_keyword: "SaaS"
 description: "Investors back SaaS startups with data-rich and workflow-focused offerings, highlighting a shift in funding priorities."
 sources_count: 5
+author: "priya-raman"
 ---
 
 

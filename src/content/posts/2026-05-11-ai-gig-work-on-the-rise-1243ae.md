@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI gig work increases"
 sources_count: 3
+author: "maya-chen"
 ---
 
 

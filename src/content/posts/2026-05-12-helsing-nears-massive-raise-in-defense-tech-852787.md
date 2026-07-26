@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "military_drone"
 description: "European military drone startup Helsing close to raising another monster round."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

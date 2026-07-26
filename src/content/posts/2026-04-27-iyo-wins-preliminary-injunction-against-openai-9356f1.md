@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "branding"
 description: "Court grants iyO preliminary injunction against OpenAI's io branding"
 sources_count: 3
+author: "maya-chen"
 audio_path: "/audio/2026-04-27-iyo-wins-preliminary-injunction-against-openai-9356f1.mp3"
 audio_bytes: 578291
 audio_mime: "audio/mpeg"

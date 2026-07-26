@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "surveillance"
 description: "Meta employees in US and UK protest corporate software tracking keystrokes and mouse activity"
 sources_count: 2
+author: "lena-volkov"
 ---
 
 

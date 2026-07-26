@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "smartphone"
 description: "The media landscape is transforming, driven by tech advancements and changing user behavior. Interactive experiences are replacing traditional passive media consumption."
 sources_count: 2
+author: "sam-whitfield"
 audio_path: "/audio/2026-05-18-the-shift-in-media-consumption-from-passive-to-interactive-ef3077.mp3"
 audio_bytes: 589367
 audio_mime: "audio/mpeg"

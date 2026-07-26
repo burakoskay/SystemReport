@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "gov tech"
 description: "Pursuit, backed by Bill Gurley and Jack Altman, raises $22M Series A led by OpenGov co-founder Mike Rosengarten to help companies sell to government."
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@andromeda99"
 visual_keyword: "Airbus A330-200"
 description: "French court convicts airline and manufacturer of manslaughter in 2009 Rio-Paris flight disaster."
 sources_count: 1
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-24-air-france-airbus-found-guilty-in-2009-crash-c55ef5.mp3"
 audio_bytes: 620505
 audio_mime: "audio/mpeg"

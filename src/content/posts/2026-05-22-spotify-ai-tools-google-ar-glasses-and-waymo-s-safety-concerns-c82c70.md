@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered AR glasses"
 description: "Spotify's AI rollout and Google's AR demo"
 sources_count: 10
+author: "maya-chen"
 audio_path: "/audio/2026-05-22-spotify-ai-tools-google-ar-glasses-and-waymo-s-safety-concerns-c82c70.mp3"
 audio_bytes: 583516
 audio_mime: "audio/mpeg"

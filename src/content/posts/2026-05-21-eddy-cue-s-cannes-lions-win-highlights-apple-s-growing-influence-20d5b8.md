@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@freestockpro"
 visual_keyword: "Apple"
 description: "Apple executive Eddy Cue earns Cannes Lions Entertainment Person of the Year as Apple captures top CVPR award"
 sources_count: 4
+author: "maya-chen"
 audio_path: "/audio/2026-05-21-eddy-cue-s-cannes-lions-win-highlights-apple-s-growing-influence-20d5b8.mp3"
 audio_bytes: 613818
 audio_mime: "audio/mpeg"

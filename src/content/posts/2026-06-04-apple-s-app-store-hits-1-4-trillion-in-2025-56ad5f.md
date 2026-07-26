@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "App Store"
 description: "Apple reports $1.4 trillion in App Store billings for 2025"
 sources_count: 6
+author: "ryan-tanaka"
 audio_path: "/audio/2026-06-04-apple-s-app-store-hits-1-4-trillion-in-2025-56ad5f.mp3"
 audio_bytes: 646836
 audio_mime: "audio/mpeg"

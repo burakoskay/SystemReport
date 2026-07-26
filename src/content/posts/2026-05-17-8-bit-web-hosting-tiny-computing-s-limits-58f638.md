@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "8-bit microcontroller web hosting"
 description: "Explore the feasibility of hosting a website on an 8-bit microcontroller with examples from MCP and other projects."
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 # 8-Bit Web Hosting: Tiny Computing's Limits

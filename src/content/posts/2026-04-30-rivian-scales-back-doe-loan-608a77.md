@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
 sources_count: 6
+author: "ryan-tanaka"
 ---
 
 

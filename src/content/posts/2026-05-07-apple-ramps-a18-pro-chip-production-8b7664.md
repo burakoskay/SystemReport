@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@mateusz-taciak-41036954"
 visual_keyword: "Apple MacBook Neo"
 description: "Apple increases A18 Pro chip production for MacBook Neo, citing strong demand. The move impacts TSMC and potentially Samsung."
 sources_count: 6
+author: "ryan-tanaka"
 audio_path: "/audio/2026-05-07-apple-ramps-a18-pro-chip-production-8b7664.mp3"
 audio_bytes: 577873
 audio_mime: "audio/mpeg"

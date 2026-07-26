@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@karola-g2"
 visual_keyword: "Pentagon"
 description: "Pentagon elevates threat level of Israeli spying on US"
 sources_count: 4
+author: "priya-raman"
 audio_path: "/audio/2026-06-06-pentagon-raises-threat-level-of-israeli-spying-to-highest-f656e7.mp3"
 audio_bytes: 575574
 audio_mime: "audio/mpeg"

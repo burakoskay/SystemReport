@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Cloudflare lays off 1,100 employees citing AI efficiency gains. The company reported a record high revenue."
 sources_count: 3
+author: "maya-chen"
 ---
 
 

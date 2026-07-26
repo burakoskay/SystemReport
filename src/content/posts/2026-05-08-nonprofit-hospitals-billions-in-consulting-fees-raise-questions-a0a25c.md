@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Healthcare"
 description: "Hospitals spend billions on consultants with unclear impact"
 sources_count: 2
+author: "ryan-tanaka"
 ---
 
 

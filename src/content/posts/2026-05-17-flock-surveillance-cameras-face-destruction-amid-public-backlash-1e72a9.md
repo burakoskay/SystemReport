@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@pppsdavid"
 visual_keyword: "Surveillance Camera"
 description: "Activists target ICE-linked cameras as privacy concerns escalate"
 sources_count: 3
+author: "lena-volkov"
 ---
 
 # Surveillance Cameras Under Attack

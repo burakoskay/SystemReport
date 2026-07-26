@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "AI-powered security"
 description: "OpenAI launches Daybreak, Google reports AI-aided hacking"
 sources_count: 6
+author: "maya-chen"
 ---
 
 ## OpenAI Takes on Cybersecurity with Daybreak

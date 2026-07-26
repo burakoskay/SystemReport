@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@buxteh"
 visual_keyword: "rural broadband"
 description: "The US Supreme Court considers the fate of an $8 billion program subsidizing phone and internet services in rural areas, challenged on constitutional grounds."
 sources_count: 3
+author: "lena-volkov"
 audio_path: "/audio/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.mp3"
 audio_bytes: 627610
 audio_mime: "audio/mpeg"

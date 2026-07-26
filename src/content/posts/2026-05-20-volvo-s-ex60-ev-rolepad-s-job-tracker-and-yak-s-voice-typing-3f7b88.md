@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@oli-liao-883836674"
 visual_keyword: "Volvo EX60"
 description: "New Volvo EX60 EV, Rolepad job tracker with company reviews, and Yak voice typing tool"
 sources_count: 4
+author: "ryan-tanaka"
 ---
 
 

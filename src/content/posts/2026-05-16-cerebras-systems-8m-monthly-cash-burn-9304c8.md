@@ -9,6 +9,7 @@ hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI chips"
 description: "Cerebras Systems burned $8M monthly before its 2026 IPO, revealing the massive costs of developing cutting-edge AI chips."
 sources_count: 6
+author: "david-okafor"
 ---
 
 

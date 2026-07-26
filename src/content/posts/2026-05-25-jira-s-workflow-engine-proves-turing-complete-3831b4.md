@@ -8,6 +8,7 @@ hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Jira"
 description: "A blog post shows Jira's built-in workflow engine can simulate a universal Turing machine, sparking debate on security and maintenance implications."
 sources_count: 5
+author: "priya-raman"
 ---
 
 
