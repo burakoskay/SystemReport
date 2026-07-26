@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { translationsByCanonicalSlug } from '../../../lib/content-cache';
 import Layout from '../../../layouts/Layout.astro';
 import TagPill from '../../../components/TagPill.astro';
 import { HREFLANG, type Locale } from '../../../i18n/tool-strings';
@@ -32,11 +33,10 @@ const siteBase = (Astro.site || 'https://www.systemreport.net').toString().repla
 const canonicalSlug = post.data.canonical_slug || post.id.split('/').slice(1).join('/');
 const articleUrl = `${siteBase}/${locale}/posts/${canonicalSlug}`;
 
-// hreflang alternates: English original + only locales that actually have translations.
-const allI18n = await getCollection('posts-i18n');
-const siblings = allI18n.filter(p =>
-  (p.data.canonical_slug || p.id.split('/').slice(1).join('/')) === canonicalSlug
-);
+// hreflang alternates: English original + only locales that actually have
+// translations. Looked up from a prebuilt index — filtering all 7,136 entries
+// here would run once per generated page.
+const siblings = (await translationsByCanonicalSlug()).get(canonicalSlug) ?? [];
 const alternates = [
   { hreflang: 'en', href: `${siteBase}/posts/${canonicalSlug}` },
   { hreflang: 'x-default', href: `${siteBase}/posts/${canonicalSlug}` },

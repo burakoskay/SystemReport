@@ -1,6 +1,6 @@
 ---
 import ArticleCard from './ArticleCard.astro';
-import { getCollection } from 'astro:content';
+import { postsByDateDesc } from '../lib/content-cache';
 
 interface Props {
   currentSlug: string;
@@ -9,21 +9,31 @@ interface Props {
 
 const { currentSlug, currentTags = [] } = Astro.props;
 
-const allPosts = await getCollection('posts');
+// This component renders on all 1,348 post pages. It previously loaded and
+// fully sorted the posts collection on each one; it now reads the shared
+// date-sorted index and selects the top 3 in a single linear pass.
+//
+// Because the source is already newest-first and ties keep the
+// earlier-encountered entry, recency remains the tie-break within a score.
+const candidates = await postsByDateDesc();
+const tagSet = new Set(currentTags);
 
-// Score each post by tag overlap, then by recency
-const scoredPosts = allPosts
-  .filter((post) => post.id !== currentSlug)
-  .map((post) => {
-    const postTags = post.data.tags || [];
-    const tagOverlap = postTags.filter((t) => currentTags.includes(t)).length;
-    return { post, score: tagOverlap };
-  })
-  .sort((a, b) => {
-    if (b.score !== a.score) return b.score - a.score;
-    return b.post.data.date.valueOf() - a.post.data.date.valueOf();
-  })
-  .slice(0, 3);
+const top: Array<{ post: (typeof candidates)[number]; score: number }> = [];
+for (const post of candidates) {
+  if (post.id === currentSlug) continue;
+  let score = 0;
+  for (const tag of post.data.tags || []) {
+    if (tagSet.has(tag)) score++;
+  }
+  if (top.length < 3) {
+    top.push({ post, score });
+    top.sort((a, b) => b.score - a.score);
+  } else if (score > top[2].score) {
+    top[2] = { post, score };
+    top.sort((a, b) => b.score - a.score);
+  }
+}
+const scoredPosts = top;
 ---
 
 {scoredPosts.length > 0 && (

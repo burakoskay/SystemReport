@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import { neighborsById, translationsByCanonicalSlug } from '../../lib/content-cache';
 import Layout from '../../layouts/Layout.astro';
 import TagPill from '../../components/TagPill.astro';
 import ShareButtons from '../../components/ShareButtons.astro';
@@ -40,12 +41,11 @@ if (audioDurationSec > 0) {
   audioDurationISO = 'PT' + (m > 0 ? m + 'M' : '') + s + 'S';
 }
 
-// Get prev/next posts
-const allPosts = await getCollection('posts');
-const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-const currentIndex = sortedPosts.findIndex((p) => p.id === post.id);
-const prevPost = currentIndex > 0 ? sortedPosts[currentIndex - 1] : null;
-const nextPost = currentIndex < sortedPosts.length - 1 ? sortedPosts[currentIndex + 1] : null;
+// Prev/next come from an index built once per build. Re-sorting the full
+// collection here cost O(pages x posts) and was a primary driver of the
+// build's runaway memory growth.
+const { prev: prevPost, next: nextPost } = (await neighborsById()).get(post.id)
+  ?? { prev: null, next: null };
 
 const formattedDate = post.data.date.toLocaleDateString('en-US', {
   year: 'numeric',
@@ -71,8 +71,7 @@ const wordCount = (post.body || '').split(/\s+/).filter(Boolean).length;
 const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 
 // Find translated versions of this post and emit hreflang alternates.
-const translations = await getCollection('posts-i18n').catch(() => []);
-const myTranslations = translations.filter(t => t.data.canonical_slug === post.id);
+const myTranslations = (await translationsByCanonicalSlug()).get(post.id) ?? [];
 const hreflangAlternates = [
   { hreflang: 'en', href: `${siteBase}/posts/${post.id}` },
   { hreflang: 'x-default', href: `${siteBase}/posts/${post.id}` },

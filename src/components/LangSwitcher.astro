@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { translatedLocales } from '../lib/content-cache';
 
 interface Props {
   hreflangAlternates?: Array<{ hreflang: string; href: string }>;
@@ -25,13 +25,13 @@ const perPage = hreflangAlternates
     return { ...a, href: relativeHref, label: NATIVE[a.hreflang] || a.hreflang.toUpperCase() };
   });
 
-// Fallback: list every locale that has translated content. Built once per
-// build via the content collection; links point to the locale homepage,
-// or to "/" for the English fallback.
+// Fallback: list every locale that has translated content. This component sits
+// in the shared Layout, so it renders on every page; the locale list is derived
+// once per build and cached rather than re-reading the 54 MB translation
+// collection for each of the ~4,500 pages that supply no alternates of their own.
 let links = perPage;
 if (links.length === 0 && hreflangAlternates.length === 0) {
-  const all = await getCollection('posts-i18n').catch(() => []);
-  const haveContent = new Set(all.map(p => p.id.split('/')[0]));
+  const haveContent = await translatedLocales();
   const fallback: Array<{ hreflang: string; href: string; label: string }> = [];
   if (currentLang !== 'en') fallback.push({ hreflang: 'en', href: '/', label: NATIVE.en });
   for (const l of haveContent) {

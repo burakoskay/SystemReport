@@ -2,24 +2,32 @@
 import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
+import { tagSlug } from '../../lib/tags';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
 
-  // Get unique tags
-  const tags = new Set<string>();
-  allPosts.forEach((post) => {
-    post.data.tags?.forEach((tag) => tags.add(tag));
-  });
+  // Group tags by URL slug. Distinct tags can share a slug once slashes are
+  // collapsed, so each page serves every tag that maps to it rather than
+  // emitting duplicate paths for the same URL.
+  const bySlug = new Map<string, { label: string; tags: Set<string> }>();
+  for (const post of allPosts) {
+    for (const tag of post.data.tags ?? []) {
+      const slug = tagSlug(tag);
+      const existing = bySlug.get(slug);
+      if (existing) existing.tags.add(tag);
+      else bySlug.set(slug, { label: tag, tags: new Set([tag]) });
+    }
+  }
 
-  return Array.from(tags).map((tag) => {
+  return Array.from(bySlug, ([slug, { label, tags }]) => {
     const filteredPosts = allPosts
-      .filter((post) => post.data.tags?.includes(tag))
+      .filter((post) => post.data.tags?.some((t) => tags.has(t)))
       .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
     return {
-      params: { tag },
-      props: { tag, posts: filteredPosts },
+      params: { tag: slug },
+      props: { tag: label, posts: filteredPosts },
     };
   });
 }

@@ -1,4 +1,6 @@
 ---
+import { tagSlug } from '../lib/tags';
+
 interface Props {
   tag: string;
   size?: 'sm' | 'md';
@@ -17,7 +19,7 @@ const colorClasses = 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-8
 
 {linked ? (
   <a
-    href={`/tags/${tag}`}
+    href={`/tags/${tagSlug(tag)}`}
     class:list={[baseClasses, colorClasses]}
   >
     {tag}

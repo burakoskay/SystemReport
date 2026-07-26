@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
+import { tagSlug } from '../../lib/tags';
 
 const allPosts = await getCollection('posts');
 
@@ -39,7 +40,7 @@ const maxCount = sortedTags.length > 0 ? sortedTags[0][1] : 1;
 
           return (
             <a
-              href={`/tags/${tag}`}
+              href={`/tags/${tagSlug(tag)}`}
               class:list={[
                 'inline-flex items-center gap-2 rounded-xl font-medium transition-all duration-200',
                 'bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300',
