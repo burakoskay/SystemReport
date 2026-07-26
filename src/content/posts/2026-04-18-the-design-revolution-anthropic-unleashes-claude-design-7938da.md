@@ -1,16 +1,17 @@
 ---
 title: "The Design Revolution: Anthropic Unleashes Claude Design"
 date: 2026-04-18T01:05:16.030Z
-modified_date: 2026-05-10T20:55:06.450Z
+modified_date: 2026-07-26T17:10:05.832Z
 tags: ["claude design","anthropic","ai-assisted design"]
 hero_image: "/hero/2026-04-18-the-design-revolution-anthropic-unleashes-claude-design-7938da.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "AI-generated design concept with colorful graphs and diagrams"
 description: "Anthropic introduces Claude Design, a game-changing research preview that empowers users to generate stunning designs, prototypes, and slides with the help of AI."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ The implications of Claude Design extend far beyond the world of design. As AI-p
 
 ## Updates
 
+- **2026-07-26** — TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between ([source](https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/))
 - **2026-05-10** — Google Health kills the Fitbit we knew, but maybe that’s not a bad thing ([source](https://9to5google.com/2026/05/10/google-health-kills-the-fitbit-we-knew-but-maybe-thats-not-a-bad-thing/))
 - **2026-04-30** — Claude.ai and API unavailable [fixed] ([source](https://status.claude.com/incidents/2gf1jpyty350))
 - **2026-04-28** — Claude.ai unavailable and elevated errors on the API ([source](https://status.claude.com/incidents/9l93x2ht4s5w))

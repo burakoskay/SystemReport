@@ -1,17 +1,19 @@
 ---
 title: "Renault's reliability woes intensify"
 date: 2026-05-30T06:52:04.418Z
+modified_date: 2026-07-26T17:12:21.899Z
 tags: ["F1","Renault","Reliability"]
 hero_image: "/hero/2026-05-30-renault-s-reliability-woes-intensify-1768b2.jpg"
 hero_image_credit_name: "Adrien  Gambet"
 hero_image_credit_url: "https://www.pexels.com/@adrien-gambet-537682496"
 visual_keyword: "Renault F1 engine"
 description: "Renault's 2019 F1 season marred by power unit and software issues"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-30-renault-s-reliability-woes-intensify-1768b2.mp3"
 audio_bytes: 591039
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Renault's power unit struggles
@@ -53,3 +55,7 @@ The struggles of Renault's power unit highlight the challenges faced by all F1 t
 ## Conclusion
 
 Renault's reliability woes have significant implications for the team and the sport as a whole. As the team looks to address its issues and improve its performance, the FIA will need to scrutinize the balance between performance and reliability. With the midfield battle heating up, Renault's struggles have created an opportunity for other teams to capitalize on their reliability. As F1 continues to evolve, engine development will play a critical role in determining the success of teams.
+
+## Updates
+
+- **2026-07-26** — Galaxy S27 series leaks with iPhone-like lineup, new cameras, silicon-carbon batteries ([source](https://9to5google.com/2026/07/24/samsung-galaxy-s27-cameras-models-silicon-carbon-battery-leaks/))

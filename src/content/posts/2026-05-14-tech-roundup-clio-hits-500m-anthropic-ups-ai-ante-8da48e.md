@@ -1,15 +1,16 @@
 ---
 title: "Tech Roundup: Clio Hits $500M, Anthropic Ups AI Ante"
 date: 2026-05-14T10:30:36.320Z
-modified_date: 2026-06-01T04:44:00.563Z
+modified_date: 2026-07-26T17:11:13.886Z
 tags: ["Clio","Anthropic","AI"]
 hero_image: "/hero/2026-05-14-tech-roundup-clio-hits-500m-anthropic-ups-ai-ante-8da48e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Clio reaches $500M ARR milestone as Anthropic releases new AI model; Netflix expands ads across app"
-sources_count: 7
+sources_count: 8
 ---
+
 
 
 
@@ -53,4 +54,5 @@ The tech industry is rapidly evolving, with new advancements and innovations eme
 
 ## Updates
 
+- **2026-07-26** — What Surrounds Us will make you think a lot about circles ([source](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam))
 - **2026-06-01** — AMD’s new pitch: our old tech is so good you should just keep using it ([source](https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d))

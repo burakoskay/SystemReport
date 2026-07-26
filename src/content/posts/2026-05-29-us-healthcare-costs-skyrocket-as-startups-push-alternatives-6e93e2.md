@@ -1,15 +1,17 @@
 ---
 title: "US Healthcare Costs Skyrocket as Startups Push Alternatives"
 date: 2026-05-29T04:21:13.534Z
+modified_date: 2026-07-26T17:10:35.015Z
 tags: ["healthcare","insurance startups","metabolic health","employers","costs"]
 hero_image: "/hero/2026-05-29-us-healthcare-costs-skyrocket-as-startups-push-alternatives-6e93e2.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "healthcare professionals working with tablets and medical devices in a modern clinic"
 description: "New health startups aim to simplify costs and care in a system marked by poor outcomes and high prices."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## The US healthcare system’s cost-outcome paradox remains unsolved
 
@@ -38,3 +40,7 @@ Three developments will determine if these startups can disrupt their markets:
 3. **Regulatory pushback**: Both companies operate in gray areas—Evry as an employer-based alternative insurer, Meto as a digital care platform. State-level Medicaid expansion efforts and the 2024 federal election could create new opportunities or obstacles.
 
 The broader lesson is that neither cost nor quality can be solved in isolation. As one Meto user put it: "I wasn’t missing a pill—I was missing a system that actually listened." For startups, the path forward lies in building those systems, not just selling access to them.
+
+## Updates
+
+- **2026-07-26** — 3 Clever Things You Can Do With an Old Amazon Kindle ([source](https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/))

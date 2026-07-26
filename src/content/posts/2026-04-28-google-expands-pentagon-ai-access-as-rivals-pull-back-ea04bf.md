@@ -1,15 +1,17 @@
 ---
 title: "Google expands Pentagon AI access as rivals pull back"
 date: 2026-04-28T23:03:50.000Z
+modified_date: 2026-07-26T17:11:57.625Z
 tags: ["google","ai","defense","openai","eu"]
 hero_image: "/hero/2026-04-28-google-expands-pentagon-ai-access-as-rivals-pull-back-ea04bf.jpg"
 hero_image_credit_name: "Sergei Starostin"
 hero_image_credit_url: "https://www.pexels.com/@sejio402"
 visual_keyword: "government data center with AI servers"
 description: "Google signs a new Pentagon AI contract after Anthropic refused, while OpenAI ends its Microsoft exclusivity and the EU pushes Google to open Android AI."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Google deepens Pentagon AI ties after Anthropic balks
 Google has signed a fresh contract that lets the Department of Defense run its Gemini models on classified networks. The deal follows Anthropic's public refusal to let the DoD employ its Claude models for domestic mass surveillance or autonomous weapons. The contrast is stark: one major AI firm opens a pipeline to the military, another draws a line.
@@ -40,3 +42,7 @@ The EU’s challenge to Google’s Android AI advantage may set a precedent for 
 
 ## What to watch
 Track the Pentagon’s procurement reports for any follow‑on contracts that expand Gemini’s role in defense analytics. Monitor Amazon’s Bedrock roadmap for the rollout schedule of OpenAI models and any pricing changes that could affect enterprise adoption. Finally, watch EU regulator filings for a formal decision on Google’s Android AI practices, which could trigger a broader antitrust review of AI platform favoritism.
+
+## Updates
+
+- **2026-07-26** — New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets ([source](https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/))

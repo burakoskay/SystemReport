@@ -1,18 +1,20 @@
 ---
 title: "New Social Apps Challenge Big Tech's Feeds"
 date: 2026-06-06T15:21:14.364Z
+modified_date: 2026-07-26T17:10:10.654Z
 tags: ["social media","new social apps","big tech","community-driven"]
 hero_image: "/hero/2026-06-06-new-social-apps-challenge-big-tech-s-feeds-fee532.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "social media"
 description: "Next-gen social apps focus on interests, creativity, and community, offering alternatives to traditional social media."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-06-new-social-apps-challenge-big-tech-s-feeds-fee532.mp3"
 audio_bytes: 622804
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Rise of New Social Apps
@@ -51,3 +53,6 @@ The future of social media is likely to be shaped by the interplay between tradi
 
 As the social media landscape continues to evolve, regulation is likely to play a larger role in shaping the industry. Governments and regulatory bodies are increasingly scrutinizing social media platforms, particularly with regards to data privacy and user protection. For instance, the European Union's General Data Protection Regulation (GDPR) has set a new standard for data protection and privacy. Similarly, in the United States, there are ongoing efforts to regulate social media platforms and protect users' data. As a result, social media platforms will need to adapt to these changing regulatory requirements and prioritize user protection and data privacy.
 
+## Updates
+
+- **2026-07-26** — Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same ([source](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/))

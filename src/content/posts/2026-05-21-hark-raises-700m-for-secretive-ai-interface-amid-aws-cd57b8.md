@@ -1,15 +1,17 @@
 ---
 title: "Hark Raises $700M for Secretive AI Interface Amid AWS"
 date: 2026-05-21T20:08:24.371Z
+modified_date: 2026-07-26T17:11:33.366Z
 tags: ["ai","aws","climate-risk","investments","hark"]
 hero_image: "/hero/2026-05-21-hark-raises-700m-for-secretive-ai-interface-amid-aws-cd57b8.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "abstract data flow with green energy nodes and digital interface patterns"
 description: "Hark secures $700M for AI platform, AWS expands in Spain with climate-linked investment."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## Hark’s $700M Series A Signals Shift in AI Interface Strategy
 
@@ -40,3 +42,7 @@ The startup’s hardware plans add complexity. Unlike smartphones, which offer c
 Hark’s summer model release will test its ability to deliver on a vague vision. AWS’s job creation claims depend on Spain’s ability to retain skilled labor in a region with historically high unemployment. Meanwhile, the SEC’s climate reporting framework—expected by year’s end—will shape AWS’s renewable energy claims and Hark’s carbon footprint disclosures.
 
 Investors should track three metrics: Hark’s model performance in third-party benchmarks, AWS’s Aragón data center energy procurement reports, and the SEC’s climate risk disclosure rules. Each will reveal whether these tech bets align with stated goals or remain aspirational.
+
+## Updates
+
+- **2026-07-26** — Meta walks back limits for its smart glasses' Conversation Focus feature, for now ([source](https://www.engadget.com/2223212/meta-walks-back-rate-limits-for-smart-glasses-conversation-focus/))

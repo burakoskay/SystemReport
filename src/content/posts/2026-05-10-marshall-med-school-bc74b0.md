@@ -1,18 +1,20 @@
 ---
 title: "Marshall Med School"
 date: 2026-05-10T19:12:46.317Z
+modified_date: 2026-07-26T17:11:09.054Z
 tags: ["Marshall University","Joan C. Edwards School of Medicine","Healthcare Infrastructure"]
 hero_image: "/hero/2026-05-10-marshall-med-school-bc74b0.jpg"
 hero_image_credit_name: "K"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Marshall University"
 description: "Marshall University plans to acquire Northcott Court property for the future Joan C. Edwards School of Medicine"
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-10-marshall-med-school-bc74b0.mp3"
 audio_bytes: 584769
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Plan
 
@@ -61,3 +63,7 @@ The development of the Joan C. Edwards School of Medicine will have significant 
 ## Long-term Consequences
 
 In the long term, the Joan C. Edwards School of Medicine is expected to have a profound impact on the region's healthcare landscape. By providing a steady stream of highly trained medical professionals, the school will help address the region's healthcare needs and improve access to quality care. Moreover, the school's focus on population health and analytics will enable it to stay at the forefront of medical education and research, driving innovation and excellence in the field. As the project progresses, it will be crucial for the university and the city to continue working together to ensure that the school's benefits are realized and its challenges are addressed.
+
+## Updates
+
+- **2026-07-26** — Is this e-reader case a gun? ([source](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun))

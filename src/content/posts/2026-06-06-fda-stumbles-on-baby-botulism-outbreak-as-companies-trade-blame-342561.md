@@ -1,18 +1,20 @@
 ---
 title: "FDA Stumbles on Baby Botulism Outbreak as Companies Trade Blame"
 date: 2026-06-06T03:59:30.340Z
+modified_date: 2026-07-26T17:11:04.227Z
 tags: ["health","regulation","mental-health","arts"]
 hero_image: "/hero/2026-06-06-fda-stumbles-on-baby-botulism-outbreak-as-companies-trade-blame-342561.jpg"
 hero_image_credit_name: "Nishess Shakya"
 hero_image_credit_url: "https://www.pexels.com/@nishess-shakya-401526881"
 visual_keyword: "Sydney festival art installation addressing anxiety"
 description: "The FDA admits it cannot pinpoint the cause of a recent baby botulism outbreak, while three firms blame each other, highlighting gaps in health response and the rise of misinformation."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-06-fda-stumbles-on-baby-botulism-outbreak-as-companies-trade-blame-342561.mp3"
 audio_bytes: 596890
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 The FDA still has no clue what sparked the recent baby botulism outbreak, and it can’t offer a prevention plan.
 
@@ -47,3 +49,7 @@ The festival’s ambition is to prove that art can do more than distract; it can
 ## What to watch
 
 The FDA’s next public statement will be the barometer for how quickly the agency can move from uncertainty to actionable guidance. Watch for any release of a traceability report, a recall notice, or a new safety protocol targeting infant food products. Simultaneously, monitor The Big Anxiety festival’s impact reports; early data on participant outcomes could influence how health agencies incorporate arts‑based interventions into future public‑health strategies.
+
+## Updates
+
+- **2026-07-26** — The vertical video takeover is here ([source](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook))

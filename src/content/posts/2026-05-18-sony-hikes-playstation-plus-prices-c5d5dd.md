@@ -1,17 +1,19 @@
 ---
 title: "Sony Hikes PlayStation Plus Prices"
 date: 2026-05-18T18:06:16.668Z
+modified_date: 2026-07-26T17:12:02.433Z
 tags: ["PlayStation Plus","Sony","gaming","subscription prices"]
 hero_image: "/hero/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.jpg"
 hero_image_credit_name: "Garrett Morrow"
 hero_image_credit_url: "https://www.pexels.com/@garrettmorrow"
 visual_keyword: "PlayStation Plus"
 description: "Sony raises PlayStation Plus subscription prices in select regions, citing market conditions."
-sources_count: 1
+sources_count: 2
 audio_path: "/audio/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.mp3"
 audio_bytes: 631999
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Sony Raises PlayStation Plus Prices in Select Regions
@@ -50,3 +52,6 @@ In the short term, Sony's price hike is likely to result in increased revenue. H
 
 The gaming industry is expected to continue growing, with new technologies and innovations emerging. Sony's price hike is just one example of how companies are adapting to changing market conditions. As the industry evolves, companies will need to balance revenue goals with subscriber retention, while also investing in new technologies and innovations. The future of gaming is likely to be shaped by subscription-based services, cloud gaming, and emerging technologies like virtual and augmented reality.
 
+## Updates
+
+- **2026-07-26** — Tapbots launches Pastebot 3 with improved organization and automation tools ([source](https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/))

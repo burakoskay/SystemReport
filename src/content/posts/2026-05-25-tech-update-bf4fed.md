@@ -1,15 +1,17 @@
 ---
 title: "Tech Update"
 date: 2026-05-25T17:48:41.236Z
+modified_date: 2026-07-26T17:10:25.283Z
 tags: ["AI","automation","tech industry"]
 hero_image: "/hero/2026-05-25-tech-update-bf4fed.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Recent tech news and updates, including ClickUp's mass layoff and Nvidia's ChatRTX update"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Recent Tech News
@@ -44,3 +46,7 @@ The future of work is likely to be shaped by automation and AI. As companies lik
 
 ## Conclusion
 In conclusion, the tech industry is undergoing significant changes, driven by innovation and a desire to improve efficiency. The update culture and the move towards automation are having far-reaching implications for users, employees, and the industry as a whole. As these developments unfold, it's crucial to track the specific decisions, product launches, and rulings that will shape the future of the tech industry.
+
+## Updates
+
+- **2026-07-26** — The Best Subscription-Free Home Security Cameras I’ve Tried ([source](https://www.wired.com/story/best-subscription-free-security-cameras/))

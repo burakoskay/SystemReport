@@ -1,15 +1,17 @@
 ---
 title: "AWS rolls out OpenAI models as Microsoft exclusivity ends"
 date: 2026-04-28T20:14:58.319Z
+modified_date: 2026-07-26T17:10:39.845Z
 tags: ["aws","openai","cloud","ai"]
 hero_image: "/hero/2026-04-28-aws-rolls-out-openai-models-as-microsoft-exclusivity-ends-182890.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract digital cloud infrastructure with AI symbols and e-commerce elements"
 description: "AWS adds OpenAI services, including an agent, while Amazon launches audio Q&A on product pages amid shifting OpenAI-Microsoft partnership."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 OpenAI models are now available on Amazon Web Services a day after the company ended its exclusive cloud deal with Microsoft. The move expands OpenAI's deployment options and gives Amazon a new AI product line to sell to enterprise customers.
 
@@ -56,3 +58,7 @@ The competitive pressure may also force Microsoft to revisit its pricing or add 
 ## What to watch
 
 Track the adoption rate of AWS’s OpenAI endpoints in the next quarter, especially among Fortune‑500 firms that already run workloads on SageMaker. Watch for any pricing announcements from Amazon that could undercut Azure’s current rates. Finally, monitor OpenAI’s SEC filings for clues about the timing of a potential IPO, which would lock in the financial stakes for both Microsoft and Amazon.
+
+## Updates
+
+- **2026-07-26** — The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days ([source](https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/))

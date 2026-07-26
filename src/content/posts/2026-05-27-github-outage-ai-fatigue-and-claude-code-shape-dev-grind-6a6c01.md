@@ -1,18 +1,20 @@
 ---
 title: "GitHub outage, AI fatigue and Claude code shape dev grind"
 date: 2026-05-27T16:04:24.975Z
+modified_date: 2026-07-26T17:10:00.905Z
 tags: ["github","ai","development","tooling"]
 hero_image: "/hero/2026-05-27-github-outage-ai-fatigue-and-claude-code-shape-dev-grind-6a6c01.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer workstation with code errors and AI chat overlay"
 description: "A GitHub incident, rising AI fatigue, a new cooking compression paper, and Claude's deeper code integration reveal the pressures on modern developers."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-27-github-outage-ai-fatigue-and-claude-code-shape-dev-grind-6a6c01.mp3"
 audio_bytes: 617370
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## GitHub outage shakes developer pipelines
 
@@ -49,3 +51,7 @@ Community feedback was split. Some praised the seamless integration and reduced 
 ## What to watch
 
 The next GitHub status update will reveal whether the platform has hardened its API redundancy. Tracking the adoption rate of Claude‑based tooling will show if developers accept AI as a daily driver despite fatigue signals. Finally, follow‑up research on ultra‑compact models will test whether 2 MB cooking knowledge can scale to other domains. These data points will shape the balance between speed, reliability, and trust in the developer stack.
+
+## Updates
+
+- **2026-07-26** — SpaceX launches new V3 Starlink satellites but suffers another booster failure ([source](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/))

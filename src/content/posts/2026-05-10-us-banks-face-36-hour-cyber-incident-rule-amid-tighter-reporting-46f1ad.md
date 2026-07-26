@@ -1,19 +1,20 @@
 ---
 title: "US banks face 36‑hour cyber‑incident rule amid tighter reporting"
 date: 2026-05-10T21:01:21.478Z
-modified_date: 2026-06-05T12:47:30.815Z
+modified_date: 2026-07-26T17:09:56.019Z
 tags: ["cybersecurity","regulation","incident reporting"]
 hero_image: "/hero/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "conference room with security analysts reviewing alert dashboards"
 description: "Regulators mandate US banks report significant cyber incidents within 36 hours, echoing tighter reporting moves at the ICC and Microsoft’s security overhaul."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.mp3"
 audio_bytes: 569723
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Track the first quarter of 2022 for banks’ compliance reports and any enforcem
 
 ## Updates
 
+- **2026-07-26** — Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech ([source](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/))
 - **2026-06-05** — Porsche’s Cayenne Coupe Turbo will even make 911 owners nervous ([source](https://www.theverge.com/transportation/943004/porsche-cayenne-coupe-turbo-review-specs-price))
 - **2026-05-29** — House of the Dragon S3 trailer revels in dragons, fire, and blood ([source](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/))
 - **2026-05-14** — We Now Know How Many People the CDC Is Monitoring for Hantavirus ([source](https://www.wired.com/story/how-many-people-cdc-is-monitoring-for-hantavirus/))

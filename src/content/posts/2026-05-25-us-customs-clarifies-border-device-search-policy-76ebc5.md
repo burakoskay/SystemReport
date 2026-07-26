@@ -1,14 +1,16 @@
 ---
 title: "US Customs Clarifies Border Device Search Policy"
 date: 2026-05-25T04:26:32.933Z
+modified_date: 2026-07-26T17:11:28.538Z
 tags: ["border security","device searches","CBP"]
 hero_image: "/hero/2026-05-25-us-customs-clarifies-border-device-search-policy-76ebc5.jpg"
 hero_image_credit_name: "Mark Stebnicki"
 hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "border search"
 description: "CBP updates directive on searching electronic devices at borders, balancing traveler rights and security."
-sources_count: 1
+sources_count: 2
 ---
+
 
 
 ## Device Searches at US Borders Get Clarified Guidelines
@@ -54,3 +56,7 @@ The directive also highlights the need for greater transparency and accountabili
 Moreover, the directive raises questions about the role of technology in border security. As technology continues to evolve, it is essential to consider the implications for individual rights and freedoms. The CBP's use of technology is subject to oversight by other government agencies, such as the Department of Homeland Security. However, more needs to be done to ensure that the use of technology at borders is transparent and accountable.
 
 Ultimately, the updated directive on border device searches is a complex issue with significant implications for travelers, companies, and the broader tech industry. The CBP must balance security concerns with individual rights protection, and the outcome will likely come in future court cases and policy updates. As technology continues to evolve, it is essential to consider the implications for individual rights and freedoms.
+
+## Updates
+
+- **2026-07-26** — The 20 percent rule for solar panels can help you save money in the long run ([source](https://www.engadget.com/2219828/20-percent-rule-for-solar-panels-help-save-money/))

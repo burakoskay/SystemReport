@@ -1,18 +1,20 @@
 ---
 title: "Moto Tag 2 Hits Shelves with UWB and Longer Battery Life"
 date: 2026-05-12T14:37:14.186Z
+modified_date: 2026-07-26T17:10:49.606Z
 tags: ["Motorola","Moto Tag 2","UWB","Android Find Hub"]
 hero_image: "/hero/2026-05-12-moto-tag-2-hits-shelves-with-uwb-and-longer-battery-life-5f77f4.jpg"
 hero_image_credit_name: "Karl Gerber"
 hero_image_credit_url: "https://www.pexels.com/@grunzibaer"
 visual_keyword: "Moto Tag 2"
 description: "Motorola's Moto Tag 2 is now available with UWB support in Android Find Hub and improved battery life. The device helps users locate their belongings."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-12-moto-tag-2-hits-shelves-with-uwb-and-longer-battery-life-5f77f4.mp3"
 audio_bytes: 617579
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Moto Tag 2 Launches with UWB Support
@@ -76,3 +78,7 @@ However, the device's success will also depend on Motorola's ability to market a
 The next thing to watch is how Motorola plans to market and support the Moto Tag 2. The company's success in promoting the device will play a significant role in its adoption. Additionally, users should keep an eye on reviews and comparisons with other tracking devices to determine if the Moto Tag 2 is the right choice for their needs.
 
 The Moto Tag 2's impact on the market will also be worth watching. The device's UWB support and improved battery life make it a competitive option in the market. However, it remains to be seen how it will perform against established players like Tile and Apple AirTag.
+
+## Updates
+
+- **2026-07-26** — Carrie is just trying to make a friend in the new trailer ([source](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con))

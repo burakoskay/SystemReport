@@ -1,16 +1,17 @@
 ---
 title: "Apple fights legal and privacy battles as Supreme Court looms"
 date: 2026-04-29T14:19:57.648Z
-modified_date: 2026-05-18T18:04:50.525Z
+modified_date: 2026-07-26T17:10:15.490Z
 tags: ["apple","privacy","app store"]
 hero_image: "/hero/2026-04-29-apple-fights-legal-and-privacy-battles-as-supreme-court-looms-198874.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "courtroom with Apple logo and app icons"
 description: "Apple lost a bid to pause App Store fee changes, faces scrutiny over ad personalization and AI‑nudify apps, while Brussels seeks to yank Uber from its stores."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ The Supreme Court’s ruling on the Epic Games case will set a precedent for all
 
 ## Updates
 
+- **2026-07-26** — All the Ways You Can Make Reading on Your Phone Easier ([source](https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/))
 - **2026-05-18** — Apple unveils 30+ Apple Design Award app finalists ([source](https://9to5mac.com/2026/05/18/apple-unveils-30-apple-design-award-app-finalists/))
 - **2026-05-14** — Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices ([source](https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale))
 - **2026-05-01** — Aurzen’s tiny trifold projector is almost 40 percent off right now ([source](https://www.theverge.com/gadgets/921686/aurzen-zip-mini-projector-garmin-venu-4-watch-deal-sale))
