@@ -18,23 +18,28 @@ const posts = allPosts
 
 const siteBase = (Astro.site || 'https://www.systemreport.net').toString().replace(/\/$/, '');
 
-// Person schema — this is the authoritative E-E-A-T lift. Every article
-// references this @id as the author, so the graph connects cleanly.
-const personSchema = {
+// This desk is an AI persona, so the page must not assert a schema.org Person
+// — that would be a machine-readable claim that a human wrote these articles.
+// Articles credit the publishing Organization as author instead; this page is
+// described as what it is, a profile of an automated editorial desk.
+const deskSchema = {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": `${siteBase}/authors/${author.slug}#person`,
-  "name": author.name,
-  "jobTitle": author.title,
+  "@type": "ProfilePage",
+  "@id": `${siteBase}/authors/${author.slug}`,
+  "name": `${author.name} — ${author.title}`,
   "description": author.bio,
   "url": `${siteBase}/authors/${author.slug}`,
-  "image": `${siteBase}${author.avatar}`,
-  "worksFor": {
-    "@type": "Organization",
-    "name": "System Report",
-    "url": siteBase,
+  "about": {
+    "@type": "SoftwareApplication",
+    "name": author.name,
+    "applicationCategory": "Automated editorial desk",
+    "description": author.bio,
+    "publisher": {
+      "@type": "Organization",
+      "name": "System Report",
+      "url": siteBase,
+    },
   },
-  "knowsAbout": author.tagHints,
 };
 ---
 
@@ -42,7 +47,7 @@ const personSchema = {
   title={`${author.name} — ${author.title} — System Report`}
   description={author.bio}
   url={`${siteBase}/authors/${author.slug}`}
-  schema={JSON.stringify(personSchema)}
+  schema={JSON.stringify(deskSchema)}
 >
   <div class="max-w-4xl mx-auto">
     <header class="mt-8 mb-10 flex flex-col sm:flex-row gap-6 items-start">
@@ -50,8 +55,17 @@ const personSchema = {
       <div class="flex-1 min-w-0">
         <div class="section-label mb-2">{author.beat}</div>
         <h1 class="font-serif text-3xl sm:text-4xl font-bold text-gray-900 dark:text-gray-50">{author.name}</h1>
-        <div class="mt-1 text-sm text-gray-500 dark:text-gray-400">{author.title} · {author.location}</div>
+        <div class="mt-1 text-sm text-gray-500 dark:text-gray-400">{author.title}</div>
+        <p class="mt-3 inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-medium bg-amber-50 text-amber-900 border border-amber-200 dark:bg-amber-950 dark:text-amber-200 dark:border-amber-900">
+          <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" />
+          </svg>
+          AI persona — not a real person
+        </p>
         <p class="mt-4 text-gray-700 dark:text-gray-300 leading-relaxed max-w-2xl">{author.bio}</p>
+        <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 max-w-2xl">
+          {author.name} is an automated editorial desk, not a journalist. The portrait is a synthetic image. Articles under this byline are generated and published without human review — see <a href="/ai-disclosure" class="underline hover:text-black dark:hover:text-white">how this site works</a>.
+        </p>
       </div>
     </header>
 

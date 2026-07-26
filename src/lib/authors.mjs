@@ -1,19 +1,24 @@
-// Reporter roster for System Report.
-// Each author has a beat, a short bio, and a voice signature — a small
-// prompt snippet injected into the draft so the generated copy picks up
-// the reporter's rhythm and angle. Routing goes keyword → beat → author.
+// Desk roster for System Report.
+//
+// These are AI personas, not people. Each one is a named editorial desk backed
+// by a voice profile — a prompt fragment injected into the draft so generated
+// copy for that beat carries consistent constraints and rhythm. Nothing here
+// describes a human being, and the portraits are synthetic images. The site
+// discloses this on every article and at /ai-disclosure.
+//
+// `bio` therefore documents what the desk is tuned to optimise for, derived
+// from the `voice` constraints below it, rather than inventing a career
+// history. Routing goes tag hint → category → deterministic hash fallback.
 
 /**
  * @typedef {Object} Author
  * @property {string} slug
- * @property {string} name
+ * @property {string} name         desk byline (an AI persona, not a person)
  * @property {string} title
  * @property {string} beat
- * @property {string} bio
- * @property {string} location
- * @property {string} joined
+ * @property {string} bio          what this desk is tuned to optimise for
  * @property {string} voice        injected into draft prompt
- * @property {string} avatar       /authors/<slug>.jpg
+ * @property {string} avatar       /authors/<slug>.jpg — synthetic portrait
  * @property {string[]} categorySlugs
  * @property {string[]} tagHints
  */
@@ -25,9 +30,7 @@ export const AUTHORS = {
     name: 'Maya Chen',
     title: 'AI & Machine Learning',
     beat: 'AI / ML',
-    bio: "Three years on an ML team before I got tired of shipping demos. I write about frontier models and the labs building them. Mostly I'm curious where the hype diverges from what the math supports.",
-    location: 'San Francisco, CA',
-    joined: '2024-11-01',
+    bio: "The AI desk. Tuned to separate what a model or lab has actually demonstrated from what it has announced: it leads with the result rather than the promise, surfaces the tradeoff or open question early, and is instructed to say \"we don't know yet\" instead of filling the gap. Marketing superlatives are filtered out.",
     avatar: '/authors/maya-chen.jpg',
     categorySlugs: ['ai'],
     tagHints: ['ai', 'llm', 'openai', 'anthropic', 'gemini', 'nvidia', 'model', 'neural', 'machine learning', 'copilot', 'agent', 'gpu', 'training'],
@@ -42,9 +45,7 @@ export const AUTHORS = {
     name: 'David Okafor',
     title: 'Hardware & Chips',
     beat: 'Hardware / semiconductors',
-    bio: "Seven years as a systems engineer before I started writing full-time. Silicon, displays, the devices everything else runs on. I still read datasheets for fun.",
-    location: 'Austin, TX',
-    joined: '2024-09-15',
+    bio: "The hardware desk. Specs-first and detail-dense: it uses concrete numbers wherever the source material provides them, and only draws a comparison when it can name both sides of it. Tuned away from \"breakthrough\" framing and toward describing what the silicon does differently.",
     avatar: '/authors/david-okafor.jpg',
     categorySlugs: ['hardware'],
     tagHints: ['chip', 'semiconductor', 'cpu', 'gpu', 'arm', 'qualcomm', 'smartphone', 'laptop', 'iphone', 'tablet', 'oled', 'display', 'battery', 'foldable', 'wearable', 'camera'],
@@ -59,9 +60,7 @@ export const AUTHORS = {
     name: 'Lena Volkov',
     title: 'Policy & Regulation',
     beat: 'Tech policy, antitrust, privacy',
-    bio: "A few years at a think tank before this. I cover how regulators, courts, and Congress shape the industry. I read every filing so you don't have to.",
-    location: 'Washington, D.C.',
-    joined: '2024-08-20',
+    bio: "The policy desk. Procedural and deliberately careful with verbs: it names the agency, statute or filing at issue, separates what a regulator has said from what it actually has the power to do, and is constrained from speculating beyond the record. Where an outcome is uncertain, it says so.",
     avatar: '/authors/lena-volkov.jpg',
     categorySlugs: [],
     tagHints: ['regulation', 'antitrust', 'privacy', 'congress', 'doj', 'ftc', 'eu', 'gdpr', 'law', 'court', 'lawsuit', 'ruling', 'policy', 'whistleblower', 'compliance', 'surveillance'],
@@ -76,9 +75,7 @@ export const AUTHORS = {
     name: 'Ryan Tanaka',
     title: 'Consumer Tech & Mobile',
     beat: 'Consumer devices, apps, mobile',
-    bio: "I've been buying gadgets I didn't need since I was twelve. Now I get to call it a job. Phones, apps, the small product decisions that actually matter. Reformed early adopter.",
-    location: 'Los Angeles, CA',
-    joined: '2024-10-05',
+    bio: "The consumer desk. Written from the angle of what a product is like to live with rather than what its spec sheet claims, and permitted to reach a plainly negative verdict — \"bad\" rather than \"may not appeal to every user.\"",
     avatar: '/authors/ryan-tanaka.jpg',
     categorySlugs: ['tech'],
     tagHints: ['consumer', 'review', 'app', 'mobile', 'ios', 'android', 'deal', 'shopping', 'launch', 'accessory', 'earbuds', 'smartwatch'],
@@ -93,9 +90,7 @@ export const AUTHORS = {
     name: 'Priya Raman',
     title: 'Enterprise & Security',
     beat: 'Cloud, enterprise software, security',
-    bio: "Five years on-call as an SRE before this. I cover the unglamorous layer that runs modern business — cloud, breaches, the enterprise buying cycle. If it pages someone at 3 a.m., I'm probably writing about it.",
-    location: 'Seattle, WA',
-    joined: '2024-07-12',
+    bio: "The enterprise and security desk. Assumes a technical reader: it uses product, vendor and protocol names without over-explaining them, and on a breach or outage it leads with scope and blast radius rather than the vendor's statement.",
     avatar: '/authors/priya-raman.jpg',
     categorySlugs: ['software'],
     tagHints: ['cloud', 'aws', 'azure', 'gcp', 'enterprise', 'saas', 'security', 'vulnerability', 'breach', 'cve', 'cisa', 'ransomware', 'zero-day', 'open source', 'infrastructure', 'devops'],
@@ -110,9 +105,7 @@ export const AUTHORS = {
     name: 'Elena Marchetti',
     title: 'Global Affairs',
     beat: 'Global affairs → tech industry consequences',
-    bio: "Italian, raised between Milan and London. A decade covering foreign ministries before I took an interest in what happens when diplomacy, conflict, and trade policy collide with the silicon industry. I write one long piece a day — the story the world woke up to, and what it means for the technology the rest of this site covers.",
-    location: 'London, UK',
-    joined: '2025-02-10',
+    bio: "The global affairs desk, and the only long-form column on the site. It opens on a dated, concrete event and argues a position rather than staying neutral, pivoting from a world development to the specific pressure it puts on an industry, company, supply line or policy regime. Historical parallels are encouraged; inventing dates or figures is forbidden.",
     avatar: '/authors/elena-marchetti.jpg',
     categorySlugs: [],
     tagHints: ['world', 'global', 'geopolitics', 'diplomacy', 'un', 'nato', 'eu', 'g20', 'g7', 'treaty', 'sanctions', 'ukraine', 'russia', 'china', 'israel', 'gaza', 'iran', 'taiwan', 'africa', 'trade war', 'tariff', 'foreign policy', 'elections', 'editorial', 'analysis'],
@@ -132,9 +125,7 @@ export const AUTHORS = {
     name: 'Sam Whitfield',
     title: 'Culture & Gaming',
     beat: 'Internet culture, gaming, creator economy',
-    bio: "I write about dope shit. Games, streams, the chaos online. Opinionated on purpose.",
-    location: 'Brooklyn, NY',
-    joined: '2024-12-01',
+    bio: "The culture and gaming desk. Short paragraphs, a specific game, stream or post inside the first hundred words rather than an abstract trend, and personality permitted — it is allowed to be funny but instructed not to be cute.",
     avatar: '/authors/sam-whitfield.jpg',
     categorySlugs: ['gaming'],
     tagHints: ['gaming', 'game', 'playstation', 'xbox', 'nintendo', 'steam', 'esports', 'streaming', 'twitch', 'youtube', 'creator', 'social media', 'culture', 'meme', 'reddit', 'tiktok'],

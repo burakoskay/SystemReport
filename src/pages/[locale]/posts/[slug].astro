@@ -3,7 +3,7 @@ import { getCollection, render } from 'astro:content';
 import { translationsByCanonicalSlug } from '../../../lib/content-cache';
 import Layout from '../../../layouts/Layout.astro';
 import TagPill from '../../../components/TagPill.astro';
-import { HREFLANG, type Locale } from '../../../i18n/tool-strings';
+import { HREFLANG, AI_NOTICE, type Locale } from '../../../i18n/tool-strings';
 
 // Locale code → BCP-47 for Intl.DateTimeFormat. Most codes pass through;
 // a few need region extension (e.g. "pt" → "pt-BR").
@@ -48,6 +48,10 @@ const alternates = [
     };
   }),
 ];
+
+// Provenance notice in the reader's language, falling back to English if a
+// translation is ever missing for a locale.
+const aiNotice = AI_NOTICE[rawLocale as Locale] || AI_NOTICE.en;
 
 const dateLocale = DATE_LOCALE[rawLocale] || rawLocale;
 let formattedDate;
@@ -116,6 +120,16 @@ const heroImageUrl = post.data.hero_image
         </audio>
       </div>
     )}
+
+    <aside class="mb-8 flex gap-3 p-4 rounded-xl border border-amber-200 bg-amber-50 dark:border-amber-900 dark:bg-amber-950" data-pagefind-ignore="all">
+      <svg class="w-5 h-5 flex-shrink-0 mt-0.5 text-amber-700 dark:text-amber-300" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9 3.75h.008v.008H12v-.008Z" />
+      </svg>
+      <p class="text-sm text-amber-900 dark:text-amber-100 leading-relaxed">
+        <strong class="font-semibold">{aiNotice.heading}</strong> {aiNotice.body}
+        <a href={`${siteBase}/ai-disclosure`} class="underline font-medium">{aiNotice.how}</a> · <a href={`${siteBase}/contact`} class="underline font-medium">{aiNotice.report}</a>
+      </p>
+    </aside>
 
     <div class="prose prose-lg prose-gray dark:prose-invert max-w-none
       prose-headings:font-serif prose-headings:tracking-tight
