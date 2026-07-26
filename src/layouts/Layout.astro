@@ -34,6 +34,20 @@ interface Props {
   lang?: string;
   hreflangAlternates?: Array<{ hreflang: string; href: string }>;
   ampUrl?: string;
+  /**
+   * Include this page in the Pagefind search index.
+   *
+   * Pagefind writes one fragment file per indexed page. With this flag on the
+   * shared layout every one of the ~12,760 generated pages was indexed, and the
+   * resulting fragments pushed the deployment past Cloudflare Pages' hard limit
+   * of 20,000 files, so nothing could publish at all.
+   *
+   * Only article pages opt in. Listing pages (tags, categories, pagination) and
+   * the AMP /stories/ duplicates carry no text a reader would search for that
+   * is not already on the article itself, so excluding them also removes
+   * duplicate hits from results.
+   */
+  searchable?: boolean;
 }
 
 const {
@@ -53,6 +67,7 @@ const {
   lang = 'en',
   hreflangAlternates = [],
   ampUrl,
+  searchable = false,
 } = Astro.props;
 
 const canonicalUrl = new URL(url, Astro.site);
@@ -255,7 +270,7 @@ const pubId = import.meta.env.PUBLIC_ADSENSE_PUB_ID;
     <SearchModal />
 
     <!-- Main content -->
-    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full" data-pagefind-body>
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full" data-pagefind-body={searchable ? true : undefined}>
       <slot />
     </main>
 
