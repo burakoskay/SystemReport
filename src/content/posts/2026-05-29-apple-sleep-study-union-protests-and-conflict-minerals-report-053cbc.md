@@ -1,15 +1,17 @@
 ---
 title: "Apple Sleep Study, Union Protests, and Conflict Minerals Report"
 date: 2026-05-29T10:08:48.534Z
+modified_date: 2026-07-26T20:51:20.979Z
 tags: ["apple","harvard-study","conflict-minerals","union-protest","age-of-empires"]
 hero_image: "/hero/2026-05-29-apple-sleep-study-union-protests-and-conflict-minerals-report-053cbc.jpg"
 hero_image_credit_name: "Ingo Joseph"
 hero_image_credit_url: "https://www.pexels.com/@ingo"
 visual_keyword: "apple watch on wrist with sleep data visualization"
 description: "Apple's Apple Watch sleep data study, conflict minerals findings, and Towson store closure protests."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Harvard Analyzes 94,000 Nights of Apple Watch Sleep Data to Study Menopause
 
@@ -44,3 +46,7 @@ Apple's conflict minerals reporting will intersect with new EU regulations requi
 Retail workers across the US will monitor how the Towson closure affects unionization efforts. The National Labor Relations Board is reviewing Apple's store closure policies under the National Labor Relations Act. Retail Workers United plans to file charges if they determine anti-union bias influenced the Towson decision.
 
 Finally, macOS gamers should track Microsoft's potential acquisition of Activision Blizzard. The transaction could accelerate or stall ports of classic PC games to Apple's platform, depending on regulatory outcomes in ongoing antitrust litigation.
+
+## Updates
+
+- **2026-07-26** — The Strongest El Niño Ever ([source](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever))

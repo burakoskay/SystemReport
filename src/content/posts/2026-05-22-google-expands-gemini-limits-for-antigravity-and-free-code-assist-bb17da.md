@@ -1,15 +1,17 @@
 ---
 title: "Google expands Gemini limits for Antigravity and free Code Assist"
 date: 2026-05-22T04:19:46.892Z
+modified_date: 2026-07-26T20:51:16.026Z
 tags: ["google","gemini","ai"]
 hero_image: "/hero/2026-05-22-google-expands-gemini-limits-for-antigravity-and-free-code-assist-bb17da.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer using AI coding assistant in a modern IDE"
 description: "Google triples Antigravity limits, clarifies Gemini tier caps, and opens Code Assist with 180k free completions, shaking up the AI coding market."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Google triples Antigravity limits, twice in a row
 Google responded to developer complaints by raising the Antigravity usage ceiling for Gemini models two times in quick succession. The exact multiplier is not disclosed, but the change is described as a three‑fold increase each time. The move follows a wave of feedback that the original caps throttled experimentation.
@@ -33,3 +35,7 @@ Dracula‑AI’s design focuses on developer ergonomics rather than raw performa
 
 ## What to watch
 Google has not disclosed how long the expanded Antigravity caps will stay in place. A future pricing tier could re‑introduce stricter limits if usage spikes. The free Code Assist tier will be monitored for abuse; any throttling policy could reshape the competitive balance with Copilot. Finally, the adoption rate of OpenGravity and Dracula‑AI will signal whether the community can build viable alternatives to Google’s proprietary UI. Tracking GitHub stars, issue volume, and any official response from Google will reveal whether these forks become lasting parts of the Gemini ecosystem.
+
+## Updates
+
+- **2026-07-26** — What Google has teased about Gemini 4 ([source](https://9to5google.com/2026/07/26/google-gemini-4-teases/))
