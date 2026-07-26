@@ -2,62 +2,73 @@
 // Avoids browser CORS issues with Stooq and reduces rate-limit exposure on
 // CoinGecko by fanning out from a single edge cache entry.
 
-// Binance spot pairs. CoinGecko blocks Cloudflare Worker IPs with 403/429,
-// so we use Binance's public ticker endpoint instead — no key, CF-friendly,
-// and returns both lastPrice and 24h % change in one call.
+// Crypto from Kraken's public ticker. CoinGecko blocks Cloudflare Worker IPs
+// with 403/429, and Binance geo-blocks the datacenter ranges Workers egress
+// from (it answers fine from a residential IP, which is what made this look
+// healthy in local testing while the deployed ticker showed no data at all).
+// Kraken is keyless, CORS-open and serves every pair we quote in one call.
+// `c` is the last trade and `o` today's opening price, so the 24h change is
+// derived rather than returned directly.
 const CRYPTO = [
-  { sym: 'BTC',  pair: 'BTCUSDT'  },
-  { sym: 'ETH',  pair: 'ETHUSDT'  },
-  { sym: 'SOL',  pair: 'SOLUSDT'  },
-  { sym: 'XRP',  pair: 'XRPUSDT'  },
-  { sym: 'DOGE', pair: 'DOGEUSDT' },
+  { sym: 'BTC',  pair: 'XBTUSD', result: 'XXBTZUSD' },
+  { sym: 'ETH',  pair: 'ETHUSD', result: 'XETHZUSD' },
+  { sym: 'SOL',  pair: 'SOLUSD', result: 'SOLUSD'   },
+  { sym: 'XRP',  pair: 'XRPUSD', result: 'XXRPZUSD' },
+  { sym: 'DOGE', pair: 'XDGUSD', result: 'XDGUSD'   },
 ];
 
-const STOOQ = [
-  { sym: '^SPX',   stooq: '%5Espx' },
-  { sym: '^NDX',   stooq: '%5Endx' },
-  { sym: '^DJI',   stooq: '%5Edji' },
-  { sym: 'EURUSD', stooq: 'eurusd' },
-  { sym: 'USDJPY', stooq: 'usdjpy' },
-  { sym: 'XAUUSD', stooq: 'xauusd' },
+// Indices, FX and gold from Yahoo's chart endpoint. Stooq's /q/l/ CSV quote
+// API now 404s for every symbol and parameter combination, including plain
+// ones and with a browser user-agent — it is gone, not misconfigured, which
+// is why all six of these read as "—" on the live ticker.
+const YAHOO = [
+  { sym: '^SPX',   y: '^GSPC'    },
+  { sym: '^NDX',   y: '^NDX'     },
+  { sym: '^DJI',   y: '^DJI'     },
+  { sym: 'EURUSD', y: 'EURUSD=X' },
+  { sym: 'USDJPY', y: 'USDJPY=X' },
+  { sym: 'XAUUSD', y: 'GC=F'     },
 ];
 
 async function fetchCrypto() {
-  const symbols = JSON.stringify(CRYPTO.map(c => c.pair));
-  const url = `https://api.binance.com/api/v3/ticker/24hr?symbols=${encodeURIComponent(symbols)}`;
-  try {
-    const r = await fetch(url, { cf: { cacheTtl: 60, cacheEverything: true } });
-    if (!r.ok) return {};
-    const data = await r.json();
-    const byPair = {};
-    for (const row of Array.isArray(data) ? data : []) byPair[row.symbol] = row;
-    const out = {};
-    for (const c of CRYPTO) {
-      const d = byPair[c.pair];
-      if (!d) continue;
-      const price = parseFloat(d.lastPrice);
-      const chg   = parseFloat(d.priceChangePercent);
-      if (isFinite(price)) out[c.sym] = { v: price, c: isFinite(chg) ? chg : null };
-    }
-    return out;
-  } catch { return {}; }
+  const pairs = CRYPTO.map(c => c.pair).join(',');
+  const url = `https://api.kraken.com/0/public/Ticker?pair=${pairs}`;
+  const r = await fetch(url, { cf: { cacheTtl: 60, cacheEverything: true } });
+  if (!r.ok) throw new Error(`Kraken HTTP ${r.status}`);
+  const data = await r.json();
+  if (data.error?.length) throw new Error(`Kraken: ${data.error.join(', ')}`);
+
+  const result = data.result || {};
+  const out = {};
+  for (const c of CRYPTO) {
+    // Kraken's response keys don't always match the requested pair name.
+    const d = result[c.result] || result[c.pair];
+    if (!d) continue;
+    const price = parseFloat(d.c?.[0]);
+    const open = parseFloat(d.o);
+    if (!isFinite(price)) continue;
+    const chg = isFinite(open) && open !== 0 ? ((price - open) / open) * 100 : null;
+    out[c.sym] = { v: price, c: chg };
+  }
+  return out;
 }
 
-async function fetchOneStooq(entry) {
-  try {
-    const r = await fetch(`https://stooq.com/q/l/?s=${entry.stooq}&f=sohlc&h&e=csv`, {
-      cf: { cacheTtl: 60, cacheEverything: true },
-    });
-    if (!r.ok) return null;
-    const text = await r.text();
-    const lines = text.trim().split('\n');
-    if (lines.length < 2) return null;
-    const p = lines[1].split(',');
-    const open  = parseFloat(p[1]);
-    const close = parseFloat(p[4]);
-    if (!isFinite(open) || !isFinite(close) || open === 0) return null;
-    return { sym: entry.sym, v: close, c: ((close - open) / open) * 100 };
-  } catch { return null; }
+async function fetchOneQuote(entry) {
+  const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(entry.y)}?interval=1d&range=1d`;
+  const r = await fetch(url, {
+    // Yahoo returns 403 to requests without a browser-shaped user-agent.
+    headers: { 'User-Agent': 'Mozilla/5.0', Accept: 'application/json' },
+    cf: { cacheTtl: 60, cacheEverything: true },
+  });
+  if (!r.ok) throw new Error(`${entry.sym}: HTTP ${r.status}`);
+  const meta = (await r.json())?.chart?.result?.[0]?.meta;
+  if (!meta) throw new Error(`${entry.sym}: no chart metadata`);
+
+  const price = Number(meta.regularMarketPrice);
+  const prev = Number(meta.chartPreviousClose ?? meta.previousClose);
+  if (!isFinite(price)) throw new Error(`${entry.sym}: no price`);
+  const chg = isFinite(prev) && prev !== 0 ? ((price - prev) / prev) * 100 : null;
+  return { sym: entry.sym, v: price, c: chg };
 }
 
 // FX rates from Frankfurter (ECB reference rates, keyless, CORS-open).
@@ -66,23 +77,41 @@ async function fetchOneStooq(entry) {
 const FX_TARGETS = ['EUR', 'GBP', 'JPY', 'TRY', 'CAD', 'AUD', 'INR', 'CNY', 'CHF', 'MXN', 'BRL'];
 
 async function fetchRates() {
-  try {
-    const url = `https://api.frankfurter.app/latest?from=USD&to=${FX_TARGETS.join(',')}`;
-    const r = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
-    if (!r.ok) return { USD: 1 };
-    const data = await r.json();
-    return { USD: 1, ...(data.rates || {}) };
-  } catch { return { USD: 1 }; }
+  const url = `https://api.frankfurter.app/latest?from=USD&to=${FX_TARGETS.join(',')}`;
+  const r = await fetch(url, { cf: { cacheTtl: 3600, cacheEverything: true } });
+  if (!r.ok) throw new Error(`Frankfurter HTTP ${r.status}`);
+  const data = await r.json();
+  return { USD: 1, ...(data.rates || {}) };
 }
 
 export async function onRequestGet(context) {
-  const [crypto, stooq, rates] = await Promise.all([
-    fetchCrypto(),
-    Promise.all(STOOQ.map(fetchOneStooq)),
-    fetchRates(),
+  // Each source is settled independently so one outage degrades a few rows
+  // rather than blanking the whole ticker. Failures are reported in `errors`
+  // instead of being swallowed — the previous bare `catch { return {} }` meant
+  // both upstreams could die and the endpoint would still answer 200 with an
+  // empty payload, which is exactly how this went unnoticed.
+  const [cryptoRes, quoteRes, ratesRes] = await Promise.all([
+    Promise.allSettled([fetchCrypto()]).then(r => r[0]),
+    Promise.allSettled(YAHOO.map(fetchOneQuote)),
+    Promise.allSettled([fetchRates()]).then(r => r[0]),
   ]);
-  const items = { ...crypto };
-  for (const s of stooq) if (s) items[s.sym] = { v: s.v, c: s.c };
+
+  const items = {};
+  const errors = [];
+
+  if (cryptoRes.status === 'fulfilled') Object.assign(items, cryptoRes.value);
+  else errors.push(String(cryptoRes.reason?.message || cryptoRes.reason));
+
+  for (const q of quoteRes) {
+    if (q.status === 'fulfilled') items[q.value.sym] = { v: q.value.v, c: q.value.c };
+    else errors.push(String(q.reason?.message || q.reason));
+  }
+
+  const rates = ratesRes.status === 'fulfilled' ? ratesRes.value : { USD: 1 };
+  if (ratesRes.status === 'rejected') {
+    errors.push(String(ratesRes.reason?.message || ratesRes.reason));
+  }
+  if (errors.length) console.error('markets: %s', errors.join(' | '));
 
   const origin = context.request.headers.get('Origin');
   const allowedOrigins = ['https://www.systemreport.net', 'http://localhost:4321', 'http://localhost:8788'];
@@ -92,7 +121,7 @@ export async function onRequestGet(context) {
     allowOrigin = origin;
   }
 
-  return new Response(JSON.stringify({ items, rates, ts: Date.now() }), {
+  return new Response(JSON.stringify({ items, rates, ts: Date.now(), ...(errors.length ? { errors } : {}) }), {
     headers: {
       'Content-Type': 'application/json; charset=utf-8',
       'Cache-Control': 'public, max-age=60, s-maxage=60',
