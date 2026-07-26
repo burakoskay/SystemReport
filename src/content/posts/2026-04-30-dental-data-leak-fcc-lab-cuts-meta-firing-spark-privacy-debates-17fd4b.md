@@ -1,16 +1,17 @@
 ---
 title: "Dental Data Leak, FCC Lab Cuts, Meta Firing Spark Privacy Debates"
 date: 2026-04-30T17:32:55.099Z
-modified_date: 2026-06-06T17:19:41.110Z
+modified_date: 2026-07-26T19:02:39.510Z
 tags: ["data privacy","federal regulations","ai ethics"]
 hero_image: "/hero/2026-04-30-dental-data-leak-fcc-lab-cuts-meta-firing-spark-privacy-debates-17fd4b.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "patient's medical records on a computer screen with security locks"
 description: "A dental software bug, FCC lab bans, and Meta layoffs reveal cracks in tech's privacy armor."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ These cases should serve as case studies for any organization deploying new tech
 
 ## Updates
 
+- **2026-07-26** — Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy ([source](https://swag.htmx.org/en-cad/products/htmx-4-the-game))
 - **2026-06-06** — 4K Blu-rays are three for $33 ahead of Father’s Day ([source](https://www.theverge.com/gadgets/944347/4k-bluray-gruv-fathers-day-deal-sale))
 - **2026-05-18** — The US space enterprise is desperately waiting for Starship—will it finally deliver? ([source](https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/))
 - **2026-05-08** — Govee’s new solar-powered string lights are on sale for 20 percent off ([source](https://www.theverge.com/gadgets/926434/govee-outdoor-solar-string-lights-star-fox-switch-2-deal-sale))
