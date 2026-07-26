@@ -1,18 +1,20 @@
 ---
 title: "Cloned Polo Horses Dominate the Field"
 date: 2026-06-07T14:08:28.481Z
+modified_date: 2026-07-26T22:55:29.491Z
 tags: ["cloning","polo","technology","sports"]
 hero_image: "/hero/2026-06-07-cloned-polo-horses-dominate-the-field-882243.jpg"
 hero_image_credit_name: "Жанна  Алимкулова"
 hero_image_credit_url: "https://www.pexels.com/@2150381842"
 visual_keyword: "cloned polo horses"
 description: "Horse replicas have taken over polo, changing the sport with cloning technology."
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-06-07-cloned-polo-horses-dominate-the-field-882243.mp3"
 audio_bytes: 593756
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Rise of Cloned Polo Horses
@@ -74,3 +76,7 @@ The future of polo will depend on the governing bodies' ability to balance the b
 The emergence of cloned horses in polo is a significant development. As the technology evolves, the sport will adapt and change. The use of cloned horses has raised questions about fairness, animal welfare, and the integrity of the sport. The governing bodies must make key decisions to ensure the sport remains competitive and safe.
 
 The use of cloned horses in polo is a complex issue that requires careful consideration. The governing bodies must balance the interests of teams using cloned horses with the need to ensure fair competition and animal welfare. The decisions made by governing bodies will have a lasting impact on the sport, and it is likely that we will see further innovations in the sport as the technology continues to evolve.
+
+## Updates
+
+- **2026-07-26** — Champagne and Bullets belongs on the Mount Rushmore of bad movies ([source](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review))
