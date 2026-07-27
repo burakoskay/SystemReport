@@ -1,18 +1,20 @@
 ---
 title: "Psyche Spacecraft"
 date: 2026-05-24T04:03:35.952Z
+modified_date: 2026-07-27T19:18:53.295Z
 tags: ["NASA","Psyche Spacecraft","Asteroid Exploration"]
 hero_image: "/hero/2026-05-24-psyche-spacecraft-8df8a8.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Psyche Spacecraft"
 description: "NASA's Psyche spacecraft is on a mission to explore a metal-rich asteroid, testing new technologies and expanding our understanding of the universe."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-24-psyche-spacecraft-8df8a8.mp3"
 audio_bytes: 596890
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Psyche Spacecraft
 The Psyche spacecraft, launched in October 2023, is on a six-year journey to explore a metal-rich asteroid of the same name. This asteroid, located in the main asteroid belt between Mars and Jupiter, is believed to be the partial core of a planetesimal, a building block of an early rocky planet.
@@ -51,3 +53,7 @@ The solar electric propulsion system used by the Psyche spacecraft is a critical
 
 ## Future Applications of Deep Space Optical Communications
 The successful test of the DSOC system on the Psyche spacecraft has significant implications for future deep space missions. The technology has the potential to greatly increase the speed of data transmission for future spacecraft, enabling more efficient and effective communication between spacecraft and Earth. This technology could be used in a variety of future missions, including asteroid exploration, planetary exploration, and even interstellar travel.
+
+## Updates
+
+- **2026-07-27** — MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3 ([source](https://9to5mac.com/2026/07/27/esr-flicklock/))

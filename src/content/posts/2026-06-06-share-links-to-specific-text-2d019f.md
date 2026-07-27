@@ -1,18 +1,20 @@
 ---
 title: "Share Links to Specific Text"
 date: 2026-06-06T10:10:26.850Z
+modified_date: 2026-07-27T19:18:37.998Z
 tags: ["text sharing","browser functionality","information sharing"]
 hero_image: "/hero/2026-06-06-share-links-to-specific-text-2d019f.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "browser"
 description: "Modern browsers enable link sharing to specific text phrases"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-06-share-links-to-specific-text-2d019f.mp3"
 audio_bytes: 591457
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Text Sharing
@@ -41,3 +43,7 @@ The concept of sharing links to specific text phrases is not new. In the past, u
 
 ## Broader Industry Context
 The ability to share links to specific text phrases is part of a broader trend towards more precise and efficient information sharing on the web. As the amount of online content continues to grow, users are looking for ways to quickly and easily share relevant information with others. This feature is particularly useful for researchers, students, and professionals who need to collaborate on documents or share specific information with colleagues. The web has evolved significantly over the years, and this feature is a testament to the ongoing efforts to improve the user experience. Other companies, such as Google and Microsoft, have also developed similar features, highlighting the importance of precise information sharing in today's digital landscape.
+
+## Updates
+
+- **2026-07-27** — Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX ([source](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/))

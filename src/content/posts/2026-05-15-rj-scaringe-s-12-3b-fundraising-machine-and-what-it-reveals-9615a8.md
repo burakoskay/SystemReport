@@ -1,16 +1,17 @@
 ---
 title: "RJ Scaringe’s $12.3B Fundraising Machine And What It Reveals"
 date: 2026-05-15T21:19:09.170Z
-modified_date: 2026-05-29T18:37:53.423Z
+modified_date: 2026-07-27T19:18:43.037Z
 tags: ["investor","startups","automotive","fundraising","profits"]
 hero_image: "/hero/2026-05-15-rj-scaringe-s-12-3b-fundraising-machine-and-what-it-reveals-9615a8.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "dashboard showing financial metrics with rising investment charts"
 description: "A closer look at how one founder’s repeated success has reshaped investor expectations"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ Scaringe’s next major round will test if investors still buy the story. Rivian
 
 ## Updates
 
+- **2026-07-27** — Antares raises $470M to build nuclear reactors for the US military ([source](https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/))
 - **2026-05-29** — The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame ([source](https://www.wired.com/story/best-pool-cleaning-robots/))
 - **2026-05-27** — Valve raises Steam Deck prices by more than $200 ([source](https://www.theverge.com/games/938340/valve-steam-deck-price-increase))
