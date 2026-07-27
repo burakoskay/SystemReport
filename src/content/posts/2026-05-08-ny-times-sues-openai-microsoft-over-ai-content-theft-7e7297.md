@@ -1,15 +1,17 @@
 ---
 title: "NY Times Sues OpenAI, Microsoft Over AI Content Theft"
 date: 2026-05-08T03:34:51.904Z
+modified_date: 2026-07-27T17:39:21.079Z
 tags: ["openai","microsoft","new york times","copyright infringement"]
 hero_image: "/hero/2026-05-08-ny-times-sues-openai-microsoft-over-ai-content-theft-7e7297.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "a newspaper with a computer screen in the background"
 description: "The New York Times is suing OpenAI and Microsoft for allegedly copying and using millions of its articles to train their AI models without permission."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## The New York Times Takes on OpenAI and Microsoft
@@ -65,3 +67,7 @@ The next step in the lawsuit will be for OpenAI and Microsoft to respond to the 
 The outcome of the case could have significant implications for the future of journalism and the use of AI in the media. It could lead to changes in the way that AI models are trained and the way that publishers are compensated for their work.
 
 The reader should track the decision on this case, as well as any potential appeals. The case could set a precedent for how AI companies use content from publishers in the future.
+
+## Updates
+
+- **2026-07-27** — Why China is giving away its best AI models ([source](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies))

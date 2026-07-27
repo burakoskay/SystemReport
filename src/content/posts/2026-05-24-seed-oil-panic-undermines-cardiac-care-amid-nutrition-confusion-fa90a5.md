@@ -1,18 +1,20 @@
 ---
 title: "Seed Oil Panic Undermines Cardiac Care Amid Nutrition Confusion"
 date: 2026-05-24T19:29:41.013Z
+modified_date: 2026-07-27T17:39:15.936Z
 tags: ["nutrition","cardiology","microbiome"]
 hero_image: "/hero/2026-05-24-seed-oil-panic-undermines-cardiac-care-amid-nutrition-confusion-fa90a5.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "doctor reviewing patient charts with oil bottles and microbiome graphics"
 description: "Clinicians warn that fear of seed oils is worsening heart health while new microbiome data highlights diet’s complex role."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-24-seed-oil-panic-undermines-cardiac-care-amid-nutrition-confusion-fa90a5.mp3"
 audio_bytes: 626356
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A doctor’s alarm turns into a broader warning
 The seed‑oil backlash is already hurting patients, writes a cardiologist in a May 22, 2026 Stat News story titled *The seed oil panic is hurting my cardiac patients*. The piece points out that patients who dump poly‑unsaturated oils for saturated fats are seeing lipid panels slide backward. The same clinician notes that the panic is fueled more by internet hype than by peer‑reviewed evidence.
@@ -43,3 +45,7 @@ When clinicians try to counteract misinformation, they face an uphill battle. Th
 The next few months will reveal whether professional societies issue clearer guidance on seed‑oil consumption, especially in light of the microbiome data that underscore diet’s systemic effects. Track statements from the American Heart Association and any updates to FDA health‑claim language. Equally important will be the results of ongoing interventional trials that test whole‑food plant diets against saturated‑fat‑heavy regimens while monitoring gut‑microbe shifts. Those outcomes will either validate the modest benefits of poly‑unsaturated oils or force a reevaluation of current recommendations.
 
 **Bottom line:** the seed‑oil panic is a symptom of a larger communication failure. Until the medical community, researchers, and media align on evidence‑based nuance, patients will continue to swing between extremes, and cardiovascular risk may rise as a byproduct of that volatility.
+
+## Updates
+
+- **2026-07-27** — Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago ([source](https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/))

@@ -1,15 +1,17 @@
 ---
 title: "Internet Blackouts and Sanctions: A Global Connectivity Crisis"
 date: 2026-05-26T18:41:37.200Z
+modified_date: 2026-07-27T17:39:51.286Z
 tags: ["internet","sanctions","connectivity"]
 hero_image: "/hero/2026-05-26-internet-blackouts-and-sanctions-a-global-connectivity-crisis-49875a.jpg"
 hero_image_credit_name: "Helena Lopes"
 hero_image_credit_url: "https://www.pexels.com/@helenalopes"
 visual_keyword: "internet"
 description: "Iran's 3-month internet blackout ends, but global sanctions threaten online access."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 
 ## Internet Returns to Iran After 3-Month Blackout
@@ -51,3 +53,7 @@ The answers to these questions will have significant implications for the future
 The intersection of internet connectivity, sanctions, and global politics will continue to be a complex and evolving issue. As governments and regulators navigate these complex issues, the decisions they make will have far-reaching consequences for global internet connectivity and access. The ongoing situation in Iran and the rollout of SpaceX's Starlink are just two examples of the complex issues at play. As the internet continues to play an increasingly important role in global communication and commerce, the impact of sanctions and restrictions on internet access will only continue to grow.
 
 The future of internet connectivity is uncertain, with many factors at play. However, one thing is clear: the decisions made by governments and regulators will have far-reaching consequences for global internet connectivity and access. As we move forward, it is essential to consider the complex issues surrounding internet connectivity, sanctions, and global politics, and to work towards a more open and accessible internet for all.
+
+## Updates
+
+- **2026-07-27** — Xbox is down, and users are even having trouble playing disc-based games ([source](https://www.engadget.com/2224081/xbox-is-down-and-users-are-even-having-trouble-playing-disc-based-games/))

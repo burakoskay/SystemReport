@@ -1,15 +1,17 @@
 ---
 title: "Sports, Streaming, and the New Era of Unregulated Competition"
 date: 2026-05-25T17:55:27.891Z
+modified_date: 2026-07-27T17:39:56.265Z
 tags: ["sports","streaming","media","technology"]
 hero_image: "/hero/2026-05-25-sports-streaming-and-the-new-era-of-unregulated-competition-8475aa.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Las Vegas arena with swimmers, wrestling ring, and streaming icons"
 description: "A Las Vegas world record, UFC-WWE ties, and Roku's free channel expansion signal a shift in how athletes, entertainment, and platforms intersect."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 ## A record in Las Vegas
 
@@ -42,3 +44,7 @@ Together, these developments pressure advertisers, regulators, and investors. Br
 ## What to watch
 
 The next quarter will reveal whether Roku’s ad‑supported sports model can sustain growth without a subscription cushion. Track ad‑revenue reports and any shifts in CPM rates for live‑event streams. In the combat‑entertainment arena, watch for a formal merger filing between UFC and WWE, and for any antitrust scrutiny from the FTC. Finally, monitor the International Olympic Committee’s response to the Enhanced Games; a policy shift or new testing protocol could reshape the economics of performance‑enhanced sport. The decisions made in these three arenas will determine whether the industry coalesces around a new, less‑regulated paradigm or reasserts traditional boundaries.
+
+## Updates
+
+- **2026-07-27** — How to Clear The Cache On Your Roku TV ([source](https://www.engadget.com/2218763/how-to-clear-cache-roku-tv/))

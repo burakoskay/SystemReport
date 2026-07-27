@@ -1,15 +1,17 @@
 ---
 title: "Apple Files Supreme Court Stay in Epic App Store Dispute"
 date: 2026-05-05T03:34:51.057Z
+modified_date: 2026-07-27T17:40:36.733Z
 tags: ["apple","epic-games","app-store","supreme-court","antitrust"]
 hero_image: "/hero/2026-05-05-apple-files-supreme-court-stay-in-epic-app-store-dispute-04b81b.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "foldable iPhone Ultra prototype on white surface"
 description: "Apple seeks Supreme Court stay to halt Epic case over App Store commission rules. Court battle continues over app distribution policies."
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 Apple filed a petition with the U.S. Supreme Court on April 3, 2026, requesting a stay of the Ninth Circuit’s mandate in its ongoing legal battle with Epic Games. The mandate would require the case to return to the District Court to determine whether Apple can charge higher fees for purchases made outside the App Store. Epic CEO Tim Sweeney confirmed Apple’s filing in a statement, calling it "a procedural delay tactic that avoids addressing the core antitrust issues." The case centers on Apple’s 30% commission on in-app purchases, which Epic argues monopolizes app distribution on iOS devices.
 
@@ -34,3 +36,7 @@ Apple’s filing is the latest in a series of legal maneuvers as it prepares for
 The company also announced six new features for the iPhone 18 Pro line in October 2026, including a 48MP main camera and a titanium chassis. A separate Unbox Therapy video revealed a foldable iPhone Ultra prototype with a 7.6-inch screen and a hinge tolerance of 0.02mm—critical for durability in a product expected to launch in 2027. These product moves, however, may be overshadowed if the App Store case forces Apple to concessions on developer pricing.
 
 What to watch: The Supreme Court’s April 20 stay decision, the District Court’s potential 2027 ruling, and the EU’s enforcement of sideloading compliance in Brazil via iOS 26.5. Each of these milestones will shape Apple’s ability to maintain its closed ecosystem while competing in increasingly regulated markets.
+
+## Updates
+
+- **2026-07-27** — Pocket Casts just released a brand-new Apple TV app ([source](https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/))

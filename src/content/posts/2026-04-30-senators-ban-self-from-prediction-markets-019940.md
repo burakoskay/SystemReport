@@ -1,16 +1,17 @@
 ---
 title: "Senators Ban Self from Prediction Markets"
 date: 2026-04-30T21:15:06.194Z
-modified_date: 2026-05-12T18:04:26.458Z
+modified_date: 2026-07-27T17:40:16.389Z
 tags: ["politics","tech-policy","ethics","prediction-markets","congress"]
 hero_image: "/hero/2026-04-30-senators-ban-self-from-prediction-markets-019940.jpg"
 hero_image_credit_name: "raksasok heng"
 hero_image_credit_url: "https://www.pexels.com/@raksasok-heng-10957066"
 visual_keyword: "senators voting in a chamber"
 description: "U.S. lawmakers restrict trading to avoid conflicts of interest in high-stakes forecasting platforms."
-sources_count: 12
+sources_count: 13
 author: "elena-marchetti"
 ---
+
 
 
 ## Senate Cuts Off Its Own Gamble
@@ -37,4 +38,5 @@ The true test of this policy will come in October 2025, when the Senate faces a 
 
 ## Updates
 
+- **2026-07-27** — Samsung won’t close the door on S Pen’s return to Galaxy Z Fold 9, but that doesn’t mean it’s happening ([source](https://9to5google.com/2026/07/27/samsung-will-not-discount-s-pen-return-to-galaxy-z-fold-9/))
 - **2026-05-12** — Bambu Lab is abusing the open source social contract ([source](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/))

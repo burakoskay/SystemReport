@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-07-26T17:11:48.001Z
+modified_date: 2026-07-27T17:40:31.644Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-07-27** — watchOS 26.6 available now for Apple Watch, here’s what’s new ([source](https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/))
 - **2026-07-26** — Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report ([source](https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/))
 - **2026-05-31** — I went looking for the AI weed vape that gives you Bitcoin for smoking ([source](https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape))

@@ -1,19 +1,20 @@
 ---
 title: "Katie Haun Raises $1B for Crypto Venture Funds"
 date: 2026-05-04T19:48:30.545Z
-modified_date: 2026-06-06T19:39:17.776Z
+modified_date: 2026-07-27T17:40:06.359Z
 tags: ["crypto","blockchain","venture funds"]
 hero_image: "/hero/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "crypto"
 description: "Katie Haun's new venture funds raise $1B to back crypto and blockchain startups."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.mp3"
 audio_bytes: 588531
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ As the ecosystem continues to evolve, it will be important for investors and ent
 
 ## Updates
 
+- **2026-07-27** — Deals: Fold 8/Galaxy Watch, Galaxy A57 at $425 low,  NXTPAPER 11 tab $160, Best Buy back to school sale, more ([source](https://9to5google.com/2026/07/27/deals-fold-8-galaxy-watch-galaxy-a57-nxtpaper-11/))
 - **2026-06-06** — Hands-on: BenQ’s new MA270S is a glossy 27-inch 5K display made for Mac ([source](https://9to5mac.com/2026/06/06/benq-ma270s-hands-on-for-mac-studio-display-competitor-27-inch-5k-monitor/))

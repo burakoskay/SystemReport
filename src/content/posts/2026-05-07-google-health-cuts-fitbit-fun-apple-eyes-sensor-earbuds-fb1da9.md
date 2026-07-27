@@ -1,15 +1,17 @@
 ---
 title: "Google Health Cuts Fitbit Fun, Apple Eyes Sensor Earbuds"
 date: 2026-05-07T23:23:32.321Z
+modified_date: 2026-07-27T17:40:11.361Z
 tags: ["google health","fitbit","apple","wearables","under armour"]
 hero_image: "/hero/2026-05-07-google-health-cuts-fitbit-fun-apple-eyes-sensor-earbuds-fb1da9.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "person reviewing health data on smartphone with fitness icons"
 description: "Google Health will drop popular Fitbit badges and sleep animals as Apple files a sensor‑laden headphone patent and Under Armour adds Endomondo and MyFitnessPal to its fitness platform."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Google Health is stripping away the playful Fitbit features that kept users scrolling for badges and sleep‑animal avatars. The move signals a sterner data‑first experience.
 
@@ -42,3 +44,7 @@ The purchases follow Under Armour’s 2013 MapMyFitness buy for $150 million, 
 ## What to Watch
 
 The next week will reveal how Google Health’s stripped‑down experience feels in practice and whether users migrate to alternative gamified apps. Apple’s headphone patent may surface as a prototype at a future hardware event, especially if iOS 8 health features gain traction. Under Armour’s integration roadmap will be evident in the next quarterly earnings call, where the company is likely to report on cross‑platform data syncing and international user growth. Tracking these moves will show whether the industry leans toward pure data aggregation or finds a way to make that data genuinely actionable for everyday users.
+
+## Updates
+
+- **2026-07-27** — Refurbished Pixel 7 deal includes a free Pixel Watch 2 in the ultimate budget-friendly bundle ([source](https://9to5google.com/2026/07/27/google-giving-away-pixel-watch-2/))

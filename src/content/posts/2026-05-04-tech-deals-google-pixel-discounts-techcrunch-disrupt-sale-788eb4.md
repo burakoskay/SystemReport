@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-07-26T17:11:43.149Z
+modified_date: 2026-07-27T17:40:51.827Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 21
+sources_count: 22
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,6 +86,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-07-27** — Deals: M5 Pro MacBook Pro 24GB $500 off, 48GB $400 off, Find My charger $40, AirPods, more ([source](https://9to5mac.com/2026/07/27/deals-macbook-pro-find-my-charger-airpods/))
 - **2026-07-26** — Apple weekend deals: MacBook Pro $500 off, AirPods Pro 3, AirTag 2, iPhone Air, Series 11, more ([source](https://9to5mac.com/2026/07/25/apple-weekend-deals-macbook-pro-airpods-airtag-2/))
 - **2026-05-29** — Deals: M5 MacBook Air up to $270 off, iPad from $299, Apple Solo Loops from $9, Beats 240W cable, more ([source](https://9to5mac.com/2026/05/29/deals-m5-macbook-air-ipad-apple-solo-loop/))
 - **2026-05-26** — Deals: 24GB M5 MacBook Air up to $320 off, iPhone Air MagSafe Battery 40% off, M5 MacBook Pro $1,499, more ([source](https://9to5mac.com/2026/05/26/deals-m5-macbook-air-iphone-air-magsafe-battery/))

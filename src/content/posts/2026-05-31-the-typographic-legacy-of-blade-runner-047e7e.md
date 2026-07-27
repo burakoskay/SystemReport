@@ -1,15 +1,17 @@
 ---
 title: "The Typographic Legacy of Blade Runner"
 date: 2026-05-31T04:25:44.027Z
+modified_date: 2026-07-27T17:39:31.153Z
 tags: ["typography","blade runner","design","sci-fi"]
 hero_image: "/hero/2026-05-31-the-typographic-legacy-of-blade-runner-047e7e.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "typography"
 description: "Exploring the iconic typography of Ridley Scott's sci-fi classic and its influence on design"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Typographic Legacy of Blade Runner
@@ -51,3 +53,7 @@ The use of typography in Blade Runner has also influenced the development of new
 As designers and filmmakers continue to push the boundaries of visual storytelling, it's clear that Blade Runner's typography will remain an important reference point. With the recent advancements in AI and virtual reality, it's likely that we'll see new and innovative uses of typography and visual effects in the near future. One thing to watch is how designers and filmmakers will use typography to create immersive and engaging experiences that draw audiences into their worlds.
 
 The legacy of Blade Runner's typography is a testament to the power of design to shape our perceptions of the world. By creating a cohesive and immersive visual aesthetic, Scott and his team were able to transport audiences to a new and imaginative world, one that continues to inspire and influence designers and filmmakers today. As we look to the future of design and technology, it's clear that Blade Runner's typography will remain an important part of our visual language, shaping the way we think about the intersection of technology and humanity.
+
+## Updates
+
+- **2026-07-27** — This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800 ([source](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review))

@@ -1,15 +1,17 @@
 ---
 title: "Volvo, Sony, and a Trump Phone: Three Tech Moves Under Scrutiny"
 date: 2026-05-26T23:17:44.097Z
+modified_date: 2026-07-27T17:39:26.121Z
 tags: ["volvo","sony","trump-phone","tech-regulation","gaming"]
 hero_image: "/hero/2026-05-26-volvo-sony-and-a-trump-phone-three-tech-moves-under-scrutiny-75b85a.jpg"
 hero_image_credit_name: "Athena Sandrini"
 hero_image_credit_url: "https://www.pexels.com/@athena"
 visual_keyword: "connected car dashboard, gaming console controller, gold smartphone on desk"
 description: "Volvo clears US connected‑car hurdle, Sony pulls Destruction AllStars, and a gold Trump phone ships amid design controversy."
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 Volvo cleared a regulatory hurdle that had threatened its U.S. connected‑car sales. The decision lets the Swedish‑Chinese automaker press ahead with a factory expansion that hinges on data‑linked services.
 
@@ -40,3 +42,7 @@ These three moves illustrate how regulatory, corporate, and political forces int
 Volvo's clearance shows that foreign‑owned manufacturers can still navigate U.S. policy if they satisfy data‑privacy expectations. Sony's rapid service termination demonstrates the precarious economics of multiplayer titles, especially when they fail to meet engagement targets. The Trump phone’s impending release reveals how branding can override traditional product development narratives.
 
 What to watch next: The Federal Trade Commission is expected to release guidance on foreign‑owned automotive software later this year, which could affect Volvo and peers. Sony has hinted at reallocating resources toward its upcoming cloud gaming venture, a shift that may reshape its multiplayer strategy. Finally, early sales figures for the Trump phone will indicate whether political branding alone can sustain a consumer electronics product.
+
+## Updates
+
+- **2026-07-27** — YouTube Premium will include Peacock starting next year ([source](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal))
