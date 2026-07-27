@@ -1,15 +1,17 @@
 ---
 title: "AI Deployments Expand in Automotive, Healthcare, and Logistics"
 date: 2026-04-29T10:14:27.603Z
+modified_date: 2026-07-27T11:15:08.588Z
 tags: ["Artificial Intelligence","Automotive","Healthcare","Logistics"]
 hero_image: "/hero/2026-04-29-ai-deployments-expand-in-automotive-healthcare-and-logistics-4dcffa.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Artificial intelligence is being integrated into various industries, including automotive, healthcare, and logistics, with significant deployments and investments."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## General Motors to Bring Gemini AI to Four Million Vehicles
@@ -90,3 +92,6 @@ In order to maximize the benefits of AI and minimize its risks, a collaborative 
 
 By working together, we can ensure that AI is developed and deployed in ways that promote human well-being, economic growth, and social progress.
 
+## Updates
+
+- **2026-07-27** — Measles Is Becoming So Common That Treatments May Soon Be Needed ([source](https://www.wired.com/story/measles-treatments-soon-needed/))

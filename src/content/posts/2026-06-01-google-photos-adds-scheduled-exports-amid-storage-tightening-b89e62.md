@@ -1,15 +1,17 @@
 ---
 title: "Google Photos adds scheduled exports amid storage tightening"
 date: 2026-06-01T21:43:38.439Z
+modified_date: 2026-07-27T11:15:12.704Z
 tags: ["Google Photos","cloud storage","scheduled exports"]
 hero_image: "/hero/2026-06-01-google-photos-adds-scheduled-exports-amid-storage-tightening-b89e62.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Photos"
 description: "Google Photos introduces a scheduled export feature for new media, amid storage limit changes and upcoming UI and API updates."
-sources_count: 5
+sources_count: 6
 author: "priya-raman"
 ---
+
 
 Google Photos now offers a built-in scheduler that automatically copies newly added photos and videos to a destination of your choice. This feature targets 'newly-added content' rather than the entire library.[^1]
 
@@ -86,6 +88,10 @@ The introduction of the scheduled export feature and the Collections view is exp
 The introduction of the scheduled export feature and the Collections view reflect Google's efforts to improve the Google Photos experience. As the storage landscape continues to evolve, users and developers must stay informed to ensure a seamless experience.
 
 The scheduled export feature and the Collections view are significant updates to Google Photos, and they are expected to have a major impact on users and developers. By providing more flexibility and control over their content, Google is making it easier for users to get the most out of Google Photos.
+
+## Updates
+
+- **2026-07-27** — Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls ([source](https://www.wired.com/review/soundcore-nebula-p1i-projector/))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW6IY1xK_WQzHrocCRBtJzcgROY3-feOR_VFKeOwfs0S7usi0F5YRS4z3rvUDMMny7kMu_avl5PhjQXx8pYKFbNNv3VycQWn1eC8pOWtnVMSlkGCU3SN0-4gsfP0zFKpAxwHc4T91PBqosFT0aSGVDuG8elUTFDnTquQ==)
 [^2]: [blog.google](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcDtpK3QPAfPFOFWbypH9151WbG3cAEHx_C9Cogo1I1OyMyRJQMHIj6yPfcKy8ivYtkCo-YbxfvhPUihna_YE_AYWkXM7eZUtWmHU7s4qLzR36DSYNd9Ujnc0ULN3U2Vf9djec5nQR5EeLEUr1P--DUjgr5mN9q_ZpflHTUdpBE4fgaZyLIFdS-ApWi5ktFlcu0aPtcpIimYm2lhNk7rTxzALj72-RaWczGhhEUA==)

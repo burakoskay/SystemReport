@@ -1,18 +1,20 @@
 ---
 title: "Amazon Acquires Bee AI, Expands Alexa into Wearables"
 date: 2026-05-24T15:09:38.224Z
+modified_date: 2026-07-27T11:14:56.514Z
 tags: ["Amazon","Wearable Technology","Artificial Intelligence"]
 hero_image: "/hero/2026-05-24-amazon-acquires-bee-ai-expands-alexa-into-wearables-58665e.jpg"
 hero_image_credit_name: "Ivo Brasil"
 hero_image_credit_url: "https://www.pexels.com/@ivo-brasil-335441"
 visual_keyword: "Amazon"
 description: "Amazon buys Bee AI, releases Alexa Mobile Accessory Kit for wearables"
-sources_count: 3
-author: "david-okafor"
+sources_count: 4
 audio_path: "/audio/2026-05-24-amazon-acquires-bee-ai-expands-alexa-into-wearables-58665e.mp3"
 audio_bytes: 612564
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Amazon Acquires Bee AI
@@ -45,3 +47,6 @@ The wearables market is expected to continue growing, with advancements in AI an
 ## Conclusion
 In conclusion, Amazon's acquisition of Bee AI and release of the Alexa Mobile Accessory Kit represents a strategic move to expand its presence in the wearables market. As the company continues to innovate and push the boundaries of wearable technology, it will need to address concerns around user privacy and ensure that its products prioritize user needs. The future of voice assistants and wearable technology is likely to be shaped by Amazon's actions in this space.
 
+## Updates
+
+- **2026-07-27** — Europe got its own TBPN-style live show, and everyone’s angling for a guest spot ([source](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/))

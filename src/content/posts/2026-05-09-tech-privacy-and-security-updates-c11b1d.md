@@ -1,16 +1,17 @@
 ---
 title: "Tech Privacy and Security Updates"
 date: 2026-05-09T19:13:32.980Z
-modified_date: 2026-05-21T21:45:39.431Z
+modified_date: 2026-07-27T11:15:04.598Z
 tags: ["tech privacy","security updates","regulatory actions"]
 hero_image: "/hero/2026-05-09-tech-privacy-and-security-updates-c11b1d.jpg"
 hero_image_credit_name: "Jessica Lewis 🦋 thepaintedsquare"
 hero_image_credit_url: "https://www.pexels.com/@thepaintedsquare"
 visual_keyword: "lock"
 description: "General Motors settles for $12.75M over driver privacy, while tech companies face scrutiny over data handling and surveillance."
-sources_count: 10
+sources_count: 11
 author: "lena-volkov"
 ---
+
 
 
 
@@ -84,4 +85,5 @@ The actions taken by tech companies and regulators will have significant downstr
 
 ## Updates
 
+- **2026-07-27** — Wellness Influencers Are Pushing ‘Natural’ and Unproven Alternatives to Adderall ([source](https://www.wired.com/story/wellness-influencers-are-pushing-natural-and-unproven-alternatives-to-adderall/))
 - **2026-05-21** — Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI ([source](https://www.theverge.com/tech/935631/firefox-project-nova-redesign))

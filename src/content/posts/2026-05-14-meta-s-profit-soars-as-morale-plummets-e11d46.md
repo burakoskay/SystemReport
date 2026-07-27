@@ -1,15 +1,17 @@
 ---
 title: "Meta's Profit Soars as Morale Plummets"
 date: 2026-05-14T10:25:03.146Z
+modified_date: 2026-07-27T11:15:00.538Z
 tags: ["Meta","Australian News Deal","Regulatory Scrutiny"]
 hero_image: "/hero/2026-05-14-meta-s-profit-soars-as-morale-plummets-e11d46.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Meta"
 description: "Meta reports record profits but faces criticism over staff cuts and low morale."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Meta's Record Profits and Low Morale
 
@@ -74,3 +76,7 @@ The implications of the dispute could also be felt beyond the media industry. Th
 ## Conclusion
 
 In conclusion, Meta's decision to pull out of Australian news deals has sparked a decisive response from the government. The company's move has significant implications for the industry, and could potentially lead to a more level playing field for all companies operating in the digital space. As the situation continues to unfold, it remains to be seen how Meta will respond to the ACCC's lawsuit and the government's actions.
+
+## Updates
+
+- **2026-07-27** — The 10 Best WIRED-Tested Handheld Vacuums of 2026 ([source](https://www.wired.com/gallery/the-best-handheld-vacuum/))
