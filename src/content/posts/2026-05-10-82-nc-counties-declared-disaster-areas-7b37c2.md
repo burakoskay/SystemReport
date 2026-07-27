@@ -1,16 +1,17 @@
 ---
 title: "82 NC Counties Declared Disaster Areas"
 date: 2026-05-10T13:42:51.288Z
-modified_date: 2026-07-26T17:11:23.661Z
+modified_date: 2026-07-27T22:56:38.658Z
 tags: ["natural disaster","drought","North Carolina"]
 hero_image: "/hero/2026-05-10-82-nc-counties-declared-disaster-areas-7b37c2.jpg"
 hero_image_credit_name: "James Frid"
 hero_image_credit_url: "https://www.pexels.com/@james-frid-81279"
 visual_keyword: "drought"
 description: "The US government designates 82 North Carolina counties as natural disaster areas due to severe drought conditions."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ As the drought continues to affect North Carolina and other parts of the country
 
 ## Updates
 
+- **2026-07-27** — Razer’s analog Huntsman V3 Pro is over 20 percent off ([source](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale))
 - **2026-07-26** — The reason why the MacBook Air doesn't need a fan ([source](https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/))
 - **2026-05-28** — Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved ([source](https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/))
 - **2026-05-15** — YouTube is expanding its AI deepfake detection tool to all adult users ([source](https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults))
