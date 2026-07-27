@@ -1,16 +1,17 @@
 ---
 title: "Zed Editor Launches Theme Builder"
 date: 2026-05-09T22:55:29.674Z
-modified_date: 2026-05-13T18:06:17.964Z
+modified_date: 2026-07-27T21:06:20.745Z
 tags: ["Zed Editor","Theme Builder","Code Editor"]
 hero_image: "/hero/2026-05-09-zed-editor-launches-theme-builder-f70cfc.jpg"
 hero_image_credit_name: "Polesie Toys"
 hero_image_credit_url: "https://www.pexels.com/@polesietoys"
 visual_keyword: "theme builder"
 description: "Zed.dev introduces a theme builder for its code editor, sparking interest in the developer community."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 Zed.dev's theme builder has garnered 128 points and 38 comments on Hacker News. The feature allows users to create custom themes.
@@ -40,4 +41,5 @@ The team at Zed.dev seems well-positioned to continue iterating on the theme bui
 
 ## Updates
 
+- **2026-07-27** — What's the difference between USB 3.0 & 2.0 and which should you use? ([source](https://www.engadget.com/2219836/difference-between-usb-3-0-and-2-0-which-to-use/))
 - **2026-05-13** — r/WallStreetBets really hates the SEC’s proposal to weaken quarterly reporting ([source](https://techcrunch.com/2026/05/13/r-wallstreetbets-really-hates-the-secs-proposal-to-weaken-quarterly-reporting/))
