@@ -1,18 +1,20 @@
 ---
 title: "Ubuntu Hit by DDoS"
 date: 2026-05-01T15:01:42.253Z
+modified_date: 2026-07-27T14:18:48.952Z
 tags: ["Ubuntu","DDoS","Cyber Attack"]
 hero_image: "/hero/2026-05-01-ubuntu-hit-by-ddos-e8e083.jpg"
 hero_image_credit_name: "Mustafa Akkuş"
 hero_image_credit_url: "https://www.pexels.com/@mustafaakkus"
 visual_keyword: "Ubuntu"
 description: "Ubuntu services are down due to a DDoS attack, affecting website and OS updates"
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-05-01-ubuntu-hit-by-ddos-e8e083.mp3"
 audio_bytes: 562200
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Immediate Impact
 
@@ -55,3 +57,7 @@ The attack on Ubuntu also highlights the need for users to be vigilant and to ta
 ## What to Watch
 
 As the situation with the Ubuntu DDoS attack continues to unfold, there are several things to watch. First, users should be cautious when attempting to update their systems, as the update mechanism may not be functioning correctly. Second, Canonical's response to the attack will be important, as it will help to determine the long-term impact of the attack on the company and its users. Finally, the attack serves as a reminder of the importance of ongoing security monitoring and maintenance, even for open-source systems. Users should stay vigilant and be aware of any potential security threats, and companies should prioritize security and transparency in their response to such threats.
+
+## Updates
+
+- **2026-07-27** — Enigma raises $70M to make controlling a robot as easy as adjusting the volume ([source](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/))

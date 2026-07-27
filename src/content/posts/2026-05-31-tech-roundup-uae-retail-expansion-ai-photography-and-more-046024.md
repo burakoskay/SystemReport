@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: UAE Retail Expansion, AI Photography, and More"
 date: 2026-05-31T08:59:05.079Z
-modified_date: 2026-06-02T04:23:15.106Z
+modified_date: 2026-07-27T14:18:53.387Z
 tags: ["UAE","AI photography","retail expansion"]
 hero_image: "/hero/2026-05-31-tech-roundup-uae-retail-expansion-ai-photography-and-more-046024.jpg"
 hero_image_credit_name: "Burst"
 hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "retail"
 description: "Speedex Tools expands in Abu Dhabi, HookPic launches AI-powered photography platform, and other tech news."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 
@@ -64,4 +65,5 @@ In conclusion, the tech industry is rapidly evolving, with companies like Speede
 
 ## Updates
 
+- **2026-07-27** — Apple Glasses just won’t be useful without video recording ([source](https://9to5mac.com/2026/07/27/apple-glasses-just-wont-be-useful-without-video-recording/))
 - **2026-06-02** — Can the stockmarket swallow Anthropic, SpaceX and OpenAI? ([source](https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai))

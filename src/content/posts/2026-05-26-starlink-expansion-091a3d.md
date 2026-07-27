@@ -1,15 +1,17 @@
 ---
 title: "Starlink Expansion"
 date: 2026-05-26T21:50:08.996Z
+modified_date: 2026-07-27T14:19:01.829Z
 tags: ["SpaceX","Starlink","satellite internet"]
 hero_image: "/hero/2026-05-26-starlink-expansion-091a3d.jpg"
 hero_image_credit_name: "Barnabas Davoti"
 hero_image_credit_url: "https://www.pexels.com/@barnabas-davoti-31615494"
 visual_keyword: "Starlink satellites"
 description: "SpaceX's Starlink satellite internet service expands with new partnerships and innovations, but also faces challenges and criticisms."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Starlink Expansion
 
@@ -52,3 +54,7 @@ The impact of Starlink on the aviation industry is also likely to be significant
 As Starlink continues to expand and innovate, it will be interesting to see how the company addresses the challenges and criticisms it faces. With its recent partnerships and innovations, SpaceX is well-positioned to make a significant impact on the satellite internet industry. The company's ability to provide fast and reliable internet access to remote communities, combined with its commitment to reducing the visibility of its satellites, makes it a major player in this space.
 
 In the coming months and years, it is likely that Starlink will continue to face significant challenges and criticisms. However, with its advanced technology and innovative approach, the company is well-positioned to overcome these challenges and achieve its goals. As the satellite internet industry continues to evolve, it will be interesting to see how Starlink fits into the larger landscape, and what the future holds for this ambitious project.
+
+## Updates
+
+- **2026-07-27** — How is the Bun Rewrite in Rust going? ([source](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html))
