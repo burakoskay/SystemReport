@@ -1,16 +1,17 @@
 ---
 title: "US-China tech rivalry escalates with new export controls"
 date: 2026-05-20T18:37:48.701Z
-modified_date: 2026-06-01T17:51:23.411Z
+modified_date: 2026-07-28T13:51:10.038Z
 tags: ["semiconductor exports","AI GPU restrictions","US-China trade war","national security controls","tech supply chain"]
 hero_image: "/hero/2026-05-20-us-china-tech-rivalry-escalates-with-new-export-controls-25a3bc.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "geopolitical conflict in tech industry"
 description: "New US export curbs on AI GPUs and China's material bans redefine semiconductor tensions."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Monitor these three developments: (1) How Chinese firms respond to GPU shortages
 
 ## Updates
 
+- **2026-07-28** — Pitaka’s Galaxy Z Fold 8 and Flip 8 cases deliver smart features without the bulk ([source](https://9to5google.com/2026/07/28/pitakas-galaxy-z-fold-8-and-flip-8-cases-deliver-smart-features-without-the-bulk/))
 - **2026-06-01** — Galaxy Z Fold 8’s wider new form factor just showed up in the wild ([source](https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/))
 - **2026-06-01** — Nvidia RTX Spark comes to Windows PCs with Arm CPU, RTX GPU, and unified memory ([source](https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/))

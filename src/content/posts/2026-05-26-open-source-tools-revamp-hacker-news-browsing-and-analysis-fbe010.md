@@ -1,15 +1,17 @@
 ---
 title: "Open‑source tools revamp Hacker News browsing and analysis"
 date: 2026-05-26T23:26:43.819Z
+modified_date: 2026-07-28T13:50:49.313Z
 tags: ["hackernews","open-source","llm"]
 hero_image: "/hero/2026-05-26-open-source-tools-revamp-hacker-news-browsing-and-analysis-fbe010.jpg"
 hero_image_credit_name: "Kevin Ku"
 hero_image_credit_url: "https://www.pexels.com/@kevin-ku-92347"
 visual_keyword: "terminal window showing a Hacker News text UI with Rust code snippets"
 description: "New Rust‑based clients and LLM retrospectives deepen engagement with Hacker News while critics spotlight tech labor tactics."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 A wave of open‑source utilities for Hacker News landed this week, giving power users programmatic access to the front page and its historic threads.
 
@@ -48,3 +50,7 @@ At the same time, the critical pieces on Wikipedia and subscription fatigue remi
 ## What to watch
 
 Track the next release cycle of **hackernews_tui** for added API hooks, especially any support for real‑time streaming of new stories. Monitor the GitHub repository for the Opus‑based HN time‑capsule project to see whether the author expands the analysis beyond 2015 or opens the scoring algorithm to community contributions. Finally, keep an eye on follow‑up commentary to the Medium anti‑labor article—any response from the Wikimedia Foundation or major tech firms could signal a shift in how open‑source communities defend themselves against corporate labor tactics.
+
+## Updates
+
+- **2026-07-28** — You don’t need to splurge on an expensive handheld fan to beat the heat ([source](https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan))

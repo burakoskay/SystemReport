@@ -1,16 +1,17 @@
 ---
 title: "Leadership Shake-Up: Doug Field Exits Ford Amidst EV Strategy"
 date: 2026-04-16T05:28:05.529Z
-modified_date: 2026-05-14T21:15:32.649Z
+modified_date: 2026-07-28T13:50:38.896Z
 tags: ["ford","electric vehicles","automotive tech","executive changes","software development"]
 hero_image: "/hero/2026-04-16-leadership-shake-up-doug-field-exits-ford-amidst-ev-strategy-reevaluation-37088b.jpg"
 hero_image_credit_name: "Jordan Rushton"
 hero_image_credit_url: "https://www.pexels.com/@jordanr93"
 visual_keyword: "Ford EV executive transition"
 description: "Doug Field, a veteran of Apple and Tesla, is departing Ford, signaling a significant leadership shift as the automaker navigates its multi-billion dollar electric vehicle bet."
-sources_count: 3
+sources_count: 4
 author: "priya-raman"
 ---
+
 
 
 Ford's ambitious plunge into electric vehicles and advanced software development is facing a pivotal moment, marked by the unexpected departure of its chief architect in these critical areas, Doug Field. The seasoned executive, known for his impactful stints at tech giants Apple and pioneering EV leader Tesla, is stepping down, leaving a significant void at the heart of Ford's future-facing initiatives.
@@ -25,4 +26,5 @@ Field's departure, alongside Clarke's elevation, suggests a strategic re-evaluat
 
 ## Updates
 
+- **2026-07-28** — Recursive Superintelligence signs $410 compute deal with Amazon ([source](https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/))
 - **2026-05-14** — Meta brings virtual writing to everyone with Meta Ray-Ban Display glasses ([source](https://www.theverge.com/tech/930941/meta-ray-ban-display-virtual-neural-handwriting-apps-developer))

@@ -1,18 +1,20 @@
 ---
 title: "Amazon Opens Logistics Network to All Businesses"
 date: 2026-05-04T17:47:17.229Z
+modified_date: 2026-07-28T13:51:20.356Z
 tags: ["Amazon","Logistics","E-commerce"]
 hero_image: "/hero/2026-05-04-amazon-opens-logistics-network-to-all-businesses-d768fc.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Amazon Supply Chain Services"
 description: "Amazon launches Amazon Supply Chain Services, a logistics network for businesses of all sizes, competing with UPS and FedEx."
-sources_count: 2
-author: "priya-raman"
+sources_count: 3
 audio_path: "/audio/2026-05-04-amazon-opens-logistics-network-to-all-businesses-d768fc.mp3"
 audio_bytes: 589994
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Amazon's Logistics Ambition
@@ -64,3 +66,7 @@ The launch of ASCS marks a significant milestone in Amazon's logistics ambitions
 In the coming months, businesses will be watching closely to see how ASCS evolves and how it impacts the logistics market. One thing is certain - Amazon's entry into the logistics market is a significant development, and it will be interesting to see how the market responds to this new player.
 
 As the logistics market continues to evolve, it is likely that Amazon will play a major role in shaping its future. With its vast resources and existing infrastructure, Amazon is well-positioned to succeed in the competitive logistics market. The company's ability to provide reliable, efficient, and cost-effective logistics services will be key to its success in this space.
+
+## Updates
+
+- **2026-07-28** — As US measles cases rise, biotech firms start developing new treatments ([source](https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/))

@@ -1,18 +1,20 @@
 ---
 title: "Google Wallet Expands Digital ID Support"
 date: 2026-06-04T15:29:49.583Z
+modified_date: 2026-07-28T13:51:04.855Z
 tags: ["Google Wallet","Digital ID","Apple Vision Air"]
 hero_image: "/hero/2026-06-04-google-wallet-expands-digital-id-support-27180a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google Wallet"
 description: "Google Wallet adds digital ID support in Europe and updates Google Pay checkout. Meanwhile, Apple's Vision Air may be delayed."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-04-google-wallet-expands-digital-id-support-27180a.mp3"
 audio_bytes: 589994
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google Wallet Adds Digital ID Support
@@ -71,3 +73,6 @@ For Apple, the delay of the Vision Air could give competitors an opportunity to 
 
 The expansion of digital ID support in Google Wallet and the potential delay of Apple's Vision Air also have implications for users. For example, users who value convenience and security may prefer to use Google Wallet for digital ID support, while users who are interested in AR and VR may be more interested in Apple's Vision headset.
 
+## Updates
+
+- **2026-07-28** — Smart rings are looking like my kind of AI gadget ([source](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index))

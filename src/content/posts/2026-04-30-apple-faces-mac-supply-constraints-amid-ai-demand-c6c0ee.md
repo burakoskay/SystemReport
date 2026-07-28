@@ -1,16 +1,17 @@
 ---
 title: "Apple Faces Mac Supply Constraints Amid AI Demand"
 date: 2026-04-30T22:57:10.211Z
-modified_date: 2026-05-28T16:11:51.654Z
+modified_date: 2026-07-28T13:50:59.678Z
 tags: ["Apple","AI","Mac"]
 hero_image: "/hero/2026-04-30-apple-faces-mac-supply-constraints-amid-ai-demand-c6c0ee.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac mini"
 description: "Apple reports surprise AI-driven Mac demand"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The broader industry trends are an important context for understanding the AI-dr
 
 ## Updates
 
+- **2026-07-28** — Apple launches ‘Upgrade’ program to lease new devices ([source](https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch))
 - **2026-05-28** — YouTube is making its app better for podcast playback, but only for Premium users ([source](https://9to5google.com/2026/05/28/youtube-podcast-playback-improvements-for-premium-users/))
 - **2026-05-19** — Apple @ Work Podcast: How NeXT built the foundation for Apple in the enterprise ([source](https://9to5mac.com/2026/05/19/steve-jobs-in-exile-the-untold-story-of-next-and-the-remaking-of-an-american-visionary/))
 - **2026-05-18** — PlayStation exclusives aren&#8217;t coming to PC anymore ([source](https://www.theverge.com/games/932817/playstation-exclusive-games-pc))
