@@ -1,18 +1,20 @@
 ---
 title: "Apple Works to Integrate Gemini into iPhone for Siri"
 date: 2026-05-28T20:32:32.458Z
+modified_date: 2026-07-28T11:54:20.709Z
 tags: ["Apple","Gemini","Siri","AI"]
 hero_image: "/hero/2026-05-28-apple-works-to-integrate-gemini-into-iphone-for-siri-875b17.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple aims to fit Gemini on iPhone for lower latency and privacy"
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-28-apple-works-to-integrate-gemini-into-iphone-for-siri-875b17.mp3"
 audio_bytes: 633880
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple Integrates Gemini into iPhone for Siri
 Apple is working to embed Gemini, a large language model, into the iPhone for Siri, according to reports. This effort targets the next generation of Siri, which currently relies on cloud inference.
@@ -61,3 +63,7 @@ The SEC and FTC have already begun to take steps in this direction, with guidanc
 The integration of Gemini into Siri has significant implications for the broader tech industry. It could lead to the creation of new business models, such as AI-as-a-service, and drive innovation in areas like edge computing, IoT, and autonomous systems.
 
 The development of on-device AI capabilities may also have significant implications for the future of cloud computing. As more companies develop on-device AI capabilities, the need for cloud-based AI may decrease, potentially disrupting the business models of cloud providers like Amazon and Microsoft.
+
+## Updates
+
+- **2026-07-28** — Touchscreen decision may push MacBook Ultra price even higher ([source](https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/))

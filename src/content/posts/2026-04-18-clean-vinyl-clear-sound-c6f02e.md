@@ -1,16 +1,17 @@
 ---
 title: "Clean Vinyl, Clear Sound"
 date: 2026-04-18T11:07:06.076Z
-modified_date: 2026-05-07T17:52:15.386Z
+modified_date: 2026-07-28T11:54:08.521Z
 tags: ["Vinyl Records","Record Cleaning","Sound Quality"]
 hero_image: "/hero/2026-04-18-clean-vinyl-clear-sound-c6f02e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Vinyl Record Player"
 description: "Methods to clean vinyl records"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ Proper cleaning reduces clicks and pops by 90%. Regular cleaning extends record 
 
 ## Updates
 
+- **2026-07-28** — 7-OH Users Are Stockpiling and Doing Reddit Detoxes to Prep for Ban ([source](https://www.wired.com/story/7-oh-users-brace-for-dea-ban/))
 - **2026-05-07** — Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K ([source](https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/))
 - **2026-04-30** — Where the goblins came from ([source](https://openai.com/index/where-the-goblins-came-from/))
 - **2026-04-24** — Norway Set to Become Latest Country to Ban Social Media for Under 16s ([source](https://www.bloomberg.com/news/articles/2026-04-24/norway-wants-kids-to-be-kids-with-social-media-ban-for-under-16s))

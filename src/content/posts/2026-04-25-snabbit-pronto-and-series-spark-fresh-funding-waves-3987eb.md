@@ -1,19 +1,20 @@
 ---
 title: "Snabbit, Pronto, and Series spark fresh funding waves"
 date: 2026-04-25T19:02:08.763Z
-modified_date: 2026-06-04T18:24:36.991Z
+modified_date: 2026-07-28T11:53:56.336Z
 tags: ["gig economy","AI social networking","funding rounds"]
 hero_image: "/hero/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.jpg"
 hero_image_credit_name: "El gringo photo"
 hero_image_credit_url: "https://www.pexels.com/@el-gringo-photo-116752370"
 visual_keyword: "gig economy"
 description: "Indian gig player Snabbit seeks $400M, house-help platform Pronto eyes $200M, and US AI social network Series lands $5.1M."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.mp3"
 audio_bytes: 632208
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The funding rounds for Snabbit, Pronto, and Series reflect the growing interest 
 
 ## Updates
 
+- **2026-07-28** — Best Apple Watch (2026): Series 11, SE 3, and Ultra 3 ([source](https://www.wired.com/gallery/best-apple-watch/))
 - **2026-06-04** — New MacBook Ultra report covers release timing, display, more ([source](https://9to5mac.com/2026/06/04/new-macbook-ultra-report-covers-release-timing-display-more/))
 - **2026-04-30** — Best Gifts for Hikers, Backpackers, Outdoorsy People (2026) ([source](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/))
 - **2026-04-29** — Best Walking Pads for Working From Home (2026) ([source](https://www.wired.com/story/best-walking-pads/))

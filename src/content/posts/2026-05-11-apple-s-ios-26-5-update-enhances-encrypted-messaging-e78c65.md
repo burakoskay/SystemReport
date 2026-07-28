@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Update Enhances Encrypted Messaging"
 date: 2026-05-11T18:02:45.927Z
-modified_date: 2026-07-27T21:06:30.574Z
+modified_date: 2026-07-28T11:54:04.500Z
 tags: ["Apple","iOS 26.5","Encrypted Messaging","RCS"]
 hero_image: "/hero/2026-05-11-apple-s-ios-26-5-update-enhances-encrypted-messaging-e78c65.jpg"
 hero_image_credit_name: "George Becker"
 hero_image_credit_url: "https://www.pexels.com/@eye4dtail"
 visual_keyword: "lock"
 description: "Apple releases iOS 26.5 with end-to-end encryption for RCS messaging, enhancing security for iPhone and Android users."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 ## Encrypted Messaging Gets a Boost
@@ -67,4 +68,5 @@ The enhancement of encrypted messaging is just one example of Apple's commitment
 
 ## Updates
 
+- **2026-07-28** — Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them ([source](https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/))
 - **2026-07-27** — Claude, Codex, and other AI tools credited in today’s Apple security releases ([source](https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/))

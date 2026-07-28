@@ -1,15 +1,17 @@
 ---
 title: "Cowboy Space Hits Rocket Shortage Roadblock"
 date: 2026-05-11T15:24:59.466Z
+modified_date: 2026-07-28T11:54:00.396Z
 tags: ["space","data centers","rockets"]
 hero_image: "/hero/2026-05-11-cowboy-space-hits-rocket-shortage-roadblock-38efd9.jpg"
 hero_image_credit_name: "Frank Cone"
 hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 ## Orbital Ambitions
@@ -68,3 +70,6 @@ In conclusion, Cowboy Space Corporation's orbital ambitions are ambitious and ch
 
 The future outlook for Cowboy Space Corporation is promising, but uncertain. The company's ability to overcome the technical challenges and secure reliable launch partners will be crucial to its success. If the company is able to achieve its goals, it could pave the way for other companies to follow in its footsteps and enable new applications and services in space.
 
+## Updates
+
+- **2026-07-28** — Can the New York Times Save Journalism From Our AI Overlords? ([source](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/))
