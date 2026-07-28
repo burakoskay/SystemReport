@@ -1,18 +1,20 @@
 ---
 title: "Musk v Altman"
 date: 2026-05-14T03:50:19.710Z
+modified_date: 2026-07-28T01:58:31.296Z
 tags: ["AI","OpenAI","Elon Musk","Sam Altman"]
 hero_image: "/hero/2026-05-14-musk-v-altman-f96fd5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI trial"
 description: "The trial exposes OpenAI's fractious corporate past and scrutiny of Sam Altman's leadership."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-14-musk-v-altman-f96fd5.mp3"
 audio_bytes: 597726
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Musk v Altman Trial Exposes OpenAI's Corporate Past
 The trial between Elon Musk and Sam Altman has entered its third week, with the plaintiffs and defense resting their cases. The trial has exposed details about OpenAI's corporate past, including a five-day saga in 2023 when Altman was effectively fired then rehired.
@@ -30,3 +32,7 @@ The outcome of the trial will have significant implications for OpenAI and the w
 The trial is expected to continue in the coming weeks, with Altman set to take the stand. The outcome of the case will depend on the jury's verdict, which could have significant implications for OpenAI's future. The company's plans to go public this year could be impacted by the trial's outcome, and the industry will be watching closely to see how the case unfolds.
 ## Broader Implications
 The trial has also raised questions about the role of AI in society and the need for greater transparency and accountability in the development of AI systems. As AI becomes increasingly integrated into our lives, it is likely that there will be more scrutiny of the companies that develop and deploy these systems. The outcome of the trial could have significant implications for the future of AI development and the companies that are driving this technology forward.
+
+## Updates
+
+- **2026-07-28** — The Artist Who Colored Ghibli ([source](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli))
