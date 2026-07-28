@@ -1,15 +1,17 @@
 ---
 title: "Porsche Discontinues Performance E-Bike Division"
 date: 2026-05-09T19:10:29.181Z
+modified_date: 2026-07-28T22:55:23.206Z
 tags: ["Porsche","e-bike","micromobility"]
 hero_image: "/hero/2026-05-09-porsche-discontinues-performance-e-bike-division-e1071a.jpg"
 hero_image_credit_name: "Motor TruckRun"
 hero_image_credit_url: "https://www.pexels.com/@truckrun"
 visual_keyword: "Porsche e-bike"
 description: "Porsche ends e-bike line"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Porsche Discontinues E-Bike Line
@@ -43,3 +45,6 @@ The future of micromobility is uncertain, but it is clear that the market will c
 
 The trend towards micromobility is driven by a number of factors, including growing concerns about climate change, urbanization, and air pollution. Many cities are investing in infrastructure to support micromobility, including bike lanes and charging stations. However, the market is also highly regulated, and companies will need to navigate complex regulatory frameworks in order to succeed.
 
+## Updates
+
+- **2026-07-28** — eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement ([source](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement))

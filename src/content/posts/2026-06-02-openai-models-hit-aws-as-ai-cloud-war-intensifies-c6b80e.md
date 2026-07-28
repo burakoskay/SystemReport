@@ -1,18 +1,20 @@
 ---
 title: "OpenAI models hit AWS as AI cloud war intensifies"
 date: 2026-06-02T04:29:33.275Z
+modified_date: 2026-07-28T22:55:19.279Z
 tags: ["ai","cloud","aws"]
 hero_image: "/hero/2026-06-02-openai-models-hit-aws-as-ai-cloud-war-intensifies-c6b80e.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center servers with glowing AI symbols"
 description: "OpenAI’s frontier models are now on AWS amid Alphabet’s $80B raise, IBM’s spin‑off, and Microsoft’s push for cloud‑first PCs."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-06-02-openai-models-hit-aws-as-ai-cloud-war-intensifies-c6b80e.mp3"
 audio_bytes: 589994
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## OpenAI models hit AWS
 OpenAI announced that its frontier models and Codex are now available on Amazon Web Services. The move puts the same large‑scale language models that power ChatGPT behind the same infrastructure that runs most of the internet’s workloads. Developers can call the models through standard AWS APIs. OpenAI did not disclose pricing or latency figures in the brief release.
@@ -42,3 +44,7 @@ AI features have been layered on top of the cloud PC, but industry voices remain
 
 ## What to watch
 The convergence of AI models, cloud compute, and subscription‑based desktops creates a competitive triangle. Track three data points over the next six months: (1) AWS pricing and latency metrics for OpenAI’s models, (2) Alphabet’s capital deployment milestones, especially new GPU‑focused data centers, and (3) the adoption rate of Microsoft’s Windows 365 Cloud PC among enterprise customers. Together these signals will reveal which cloud provider secures the most AI‑driven workloads and how the industry balances on‑premise control against cloud‑only convenience.
+
+## Updates
+
+- **2026-07-28** — The US is banning foreign robots ([source](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban))

@@ -1,18 +1,20 @@
 ---
 title: "SpaceX Grok Risk Disclosure"
 date: 2026-05-21T04:12:45.216Z
+modified_date: 2026-07-28T22:55:27.218Z
 tags: ["SpaceX","Grok","AI","Content Moderation"]
 hero_image: "/hero/2026-05-21-spacex-grok-risk-disclosure-63cf76.jpg"
 hero_image_credit_name: "Marta Dzedyshko"
 hero_image_credit_url: "https://www.pexels.com/@marta-dzedyshko-1042863"
 visual_keyword: "Grok"
 description: "SpaceX sets aside $500M for potential litigation losses related to Grok's 'spicy' mode in IPO filing."
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-05-21-spacex-grok-risk-disclosure-63cf76.mp3"
 audio_bytes: 611937
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## SpaceX Sets Aside $500M for Grok Litigation Risks
@@ -62,3 +64,7 @@ The coming months will be critical in determining the impact of Grok's 'spicy' m
 The situation highlights the need for greater transparency and accountability in AI development. As the industry continues to evolve, companies will need to prioritize effective content moderation and risk management.
 
 The outcome of this situation could have significant implications for the future of AI development, and investors will be watching closely to see how SpaceX navigates these complex issues.
+
+## Updates
+
+- **2026-07-28** — iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks ([source](https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/))
