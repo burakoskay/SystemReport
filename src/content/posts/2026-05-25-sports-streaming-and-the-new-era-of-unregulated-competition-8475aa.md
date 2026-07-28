@@ -1,16 +1,17 @@
 ---
 title: "Sports, Streaming, and the New Era of Unregulated Competition"
 date: 2026-05-25T17:55:27.891Z
-modified_date: 2026-07-27T17:39:56.265Z
+modified_date: 2026-07-28T19:15:43.362Z
 tags: ["sports","streaming","media","technology"]
 hero_image: "/hero/2026-05-25-sports-streaming-and-the-new-era-of-unregulated-competition-8475aa.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Las Vegas arena with swimmers, wrestling ring, and streaming icons"
 description: "A Las Vegas world record, UFC-WWE ties, and Roku's free channel expansion signal a shift in how athletes, entertainment, and platforms intersect."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 
 ## A record in Las Vegas
@@ -47,4 +48,5 @@ The next quarter will reveal whether Roku’s ad‑supported sports model can su
 
 ## Updates
 
+- **2026-07-28** — The CW's live sports programming is coming to ESPN on August 4 ([source](https://www.engadget.com/2225384/the-cws-live-sports-programming-is-coming-to-espn-on-august-4/))
 - **2026-07-27** — How to Clear The Cache On Your Roku TV ([source](https://www.engadget.com/2218763/how-to-clear-cache-roku-tv/))

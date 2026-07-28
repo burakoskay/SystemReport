@@ -1,18 +1,20 @@
 ---
 title: "Small Satellites Revolutionize Space Exploration"
 date: 2026-05-17T03:54:44.146Z
+modified_date: 2026-07-28T19:16:13.984Z
 tags: ["space exploration","small satellites","CubeSats"]
 hero_image: "/hero/2026-05-17-small-satellites-revolutionize-space-exploration-066c04.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "small satellite"
 description: "New technologies enable faster, low-cost space exploration with small satellites."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-17-small-satellites-revolutionize-space-exploration-066c04.mp3"
 audio_bytes: 581217
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Era in Space Exploration
@@ -63,3 +65,6 @@ The growing number of small satellites in orbit has raised concerns about the en
 
 The emergence of small satellites is revolutionizing the space exploration landscape. With the democratization of access to space, the potential for more countries, companies, and researchers to participate in space exploration is becoming a reality. As the technology continues to evolve, we can expect to see new breakthroughs and innovations in the space industry.
 
+## Updates
+
+- **2026-07-28** — Galaxy Z Fold 8’s wide new design is reportedly selling faster than Samsung expected ([source](https://9to5google.com/2026/07/28/galaxy-z-fold-8-selling-faster-than-samsung-expected/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple and Intel Preliminary Chip Deal"
 date: 2026-05-08T21:08:14.731Z
-modified_date: 2026-06-04T18:24:32.619Z
+modified_date: 2026-07-28T19:15:33.197Z
 tags: ["Apple","Intel","chip production","tech industry"]
 hero_image: "/hero/2026-05-08-apple-and-intel-preliminary-chip-deal-21b306.jpg"
 hero_image_credit_name: "Valentin Ivantsov"
 hero_image_credit_url: "https://www.pexels.com/@valentin-ivantsov-2154772556"
 visual_keyword: "chip production"
 description: "Apple and Intel have a preliminary deal for chip production"
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 
 ## Introduction
@@ -59,4 +60,5 @@ The Wall Street Journal's report is the basis for this information. The deal is 
 
 ## Updates
 
+- **2026-07-28** — Save $150 on this smart indoor bike trainer that can keep you riding during the off months ([source](https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale))
 - **2026-06-04** — LM Studio now lets you use your iPhone to talk to local models on your Mac ([source](https://9to5mac.com/2026/06/04/lm-studio-now-lets-you-use-your-iphone-to-talk-to-local-models-on-your-mac/))

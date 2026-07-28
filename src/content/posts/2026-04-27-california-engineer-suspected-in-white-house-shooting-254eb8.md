@@ -1,19 +1,20 @@
 ---
 title: "California Engineer Suspected in White House Shooting"
 date: 2026-04-27T06:33:49.275Z
-modified_date: 2026-06-02T16:42:08.673Z
+modified_date: 2026-07-28T19:16:19.080Z
 tags: ["security","White House","indie game developer"]
 hero_image: "/hero/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.jpg"
 hero_image_credit_name: "Star Zhang"
 hero_image_credit_url: "https://www.pexels.com/@star-zhang-3254790"
 visual_keyword: "security"
 description: "A 31-year-old California engineer and indie game developer is suspected of firing shots at the White House Correspondents' Dinner."
-sources_count: 7
-author: "priya-raman"
+sources_count: 8
 audio_path: "/audio/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.mp3"
 audio_bytes: 548825
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The incident also raises questions about the role of technology in facilitating 
 
 ## Updates
 
+- **2026-07-28** — iOS 27 includes smarter Find My location sharing for Apple Watch users ([source](https://9to5mac.com/2026/07/28/ios-27-smarter-find-my-location-sharing-apple-watch/))
 - **2026-06-02** — OpenAI launches new Codex tools for white-collar work ([source](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/))
 - **2026-05-23** — I have a new go-to browser ([source](https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer))
 - **2026-04-28** — Apple TV’s new horror series is scarier because it’s also hilarious ([source](https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview))

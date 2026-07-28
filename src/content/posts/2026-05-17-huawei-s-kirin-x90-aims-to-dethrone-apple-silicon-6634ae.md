@@ -1,15 +1,17 @@
 ---
 title: "Huawei's Kirin X90 Aims to Dethrone Apple Silicon"
 date: 2026-05-17T15:05:26.331Z
+modified_date: 2026-07-28T19:16:03.697Z
 tags: ["huawei","kirin-x90","apple-silicon","harmonyos","chip-design"]
 hero_image: "/hero/2026-05-17-huawei-s-kirin-x90-aims-to-dethrone-apple-silicon-6634ae.jpg"
 hero_image_credit_name: "Edward Jenner"
 hero_image_credit_url: "https://www.pexels.com/@edward-jenner"
 visual_keyword: "laptop with 7nm chip under microscope"
 description: "Huawei's new Kirin X90 chip targets Apple Silicon's dominance in a self-reliant ecosystem push."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Huawei's Kirin X90 is no accident
 
@@ -39,3 +41,7 @@ Huawei's May 19 launch of the Matebook Pro 2025 will reveal whether the Kirin X9
 4. Apple's response: Will the M4 chip redesign the prefetcher to address GoFetch, or will it rely on software mitigations?
 
 The Kirin X90 isn't a magic bullet. But if Huawei can bridge the app gap and prove its chips work as well as they look, this could be the first real crack in Apple's Silicon hegemony.
+
+## Updates
+
+- **2026-07-28** — What’s left to fix on the Google Health app roadmap ([source](https://9to5google.com/2026/07/28/google-health-roadmap-fixes-list/))
