@@ -1,19 +1,20 @@
 ---
 title: "Wearable Health Tech Advances with New Features and Partnerships"
 date: 2026-05-10T22:55:58.054Z
-modified_date: 2026-05-28T10:12:53.224Z
+modified_date: 2026-07-28T16:02:27.074Z
 tags: ["wearable technology","health and fitness","wearable health tech"]
 hero_image: "/hero/2026-05-10-wearable-health-tech-advances-with-new-features-and-partnerships-280f35.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "smartwatch"
 description: "The wearable technology market is growing rapidly, with new features and partnerships emerging in the health and fitness space."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-10-wearable-health-tech-advances-with-new-features-and-partnerships-280f35.mp3"
 audio_bytes: 558856
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,4 +60,5 @@ As the wearable technology market continues to evolve, we can expect to see new 
 
 ## Updates
 
+- **2026-07-28** — PayPal leaves the door open to a higher takeover offer following earnings beat ([source](https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/))
 - **2026-05-28** — Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent ([source](https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/))

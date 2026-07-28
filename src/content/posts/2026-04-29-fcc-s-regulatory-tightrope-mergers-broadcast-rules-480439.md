@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-06-03T11:09:08.729Z
+modified_date: 2026-07-28T16:03:14.648Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-07-28** — About the security content of macOS Tahoe 26.6 ([source](https://support.apple.com/en-us/128067))
 - **2026-06-03** — The world’s largest privately owned laser just turned on ([source](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/))
 - **2026-05-23** — On The <dl> ([source](https://benmyers.dev/blog/on-the-dl/))
 - **2026-05-23** — The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab ([source](https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech))

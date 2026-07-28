@@ -1,15 +1,17 @@
 ---
 title: "Flock Camera Access Sparks Privacy Concerns"
 date: 2026-05-02T09:22:04.370Z
+modified_date: 2026-07-28T16:02:21.645Z
 tags: ["privacy","surveillance","cybersecurity"]
 hero_image: "/hero/2026-05-02-flock-camera-access-sparks-privacy-concerns-94d078.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "children's gymnastics room with hidden camera hardware"
 description: "Flock accessed gymnastics room cameras during a sales demo despite privacy risks."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 ## Flock's Camera Access in Children's Gymnastics Room Raises Red Flags
 
@@ -38,3 +40,7 @@ The city's decision to renew the contract despite the incident raises questions 
 ## What to Watch
 
 Flock has not commented on requests for clarification about its data retention policies. The company is scheduled to present its Q2 2024 roadmap at the National Association of Security Professionals conference in October. Attendees should ask whether Flock plans to implement hardware-level access controls for demo systems. Meanwhile, the city council will vote on a proposed data privacy ordinance affecting vendor contracts in November.
+
+## Updates
+
+- **2026-07-28** — Data centers may face temporary power cuts to prevent blackouts on largest US grid ([source](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/))

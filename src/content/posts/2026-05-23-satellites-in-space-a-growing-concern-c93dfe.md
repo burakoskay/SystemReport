@@ -1,15 +1,17 @@
 ---
 title: "Satellites in Space: A Growing Concern"
 date: 2026-05-23T03:47:55.233Z
+modified_date: 2026-07-28T16:03:04.094Z
 tags: ["satellites","space debris","light pollution"]
 hero_image: "/hero/2026-05-23-satellites-in-space-a-growing-concern-c93dfe.jpg"
 hero_image_credit_name: "Juan Martin Gomez"
 hero_image_credit_url: "https://www.pexels.com/@juan-martin-gomez-2144462245"
 visual_keyword: "satellite"
 description: "The increasing number of satellites in space is causing concerns about space debris, light pollution, and the potential for catastrophic collisions."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 # The Dark Side of Satellites in Space
@@ -71,3 +73,7 @@ The issue of space debris and the growing number of satellites in space is a com
 The satellite industry is a rapidly growing market, driven by increasing demand for satellite-based services. However, this growth must be balanced with a commitment to sustainability and responsibility in space exploration.
 
 The next major milestone in this effort will be the launch of new regulations and guidelines for the operation of satellites in space. This will provide a framework for the responsible operation of satellites and the mitigation of space debris.
+
+## Updates
+
+- **2026-07-28** — WhatsApp launches web calling alongside new features: call transfer, waiting room ([source](https://9to5google.com/2026/07/28/whatsapp-web-calling-new-features/))

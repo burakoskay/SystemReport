@@ -1,15 +1,17 @@
 ---
 title: "Baidu CEO Warns AI Bubble to Crush 99% of Startups"
 date: 2026-05-30T13:58:43.155Z
+modified_date: 2026-07-28T16:02:53.690Z
 tags: ["ai","startups","regulation"]
 hero_image: "/hero/2026-05-30-baidu-ceo-warns-ai-bubble-to-crush-99-of-startups-a4bc4e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI bubble burst with 99% startups failing"
 description: "Baidu CEO Robin Li predicts an AI sector crash, leaving only 1% of companies. Payroll glitches spark riots in PNG, and Asia tightens content controls."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Baidu CEO Declares AI 'Bubble' Will Kill 99% of Startups
 
@@ -38,3 +40,7 @@ The DJI-Department of Defense dispute adds another layer. The Chinese drone make
 ## What to Watch
 
 Three developments will define AI’s near-term trajectory. First, whether Baidu’s Kunlunxin spin-off attracts enough investment to rival NVIDIA. Second, how PNG’s government resolves the payroll system overhaul to prevent future crises. Third, the resolution of DJI’s lawsuit against the U.S. Department of Defense—whose stance on Chinese tech could influence global supply chains. Each case reflects the dual-edged nature of AI: transformative potential, but fragile implementation.
+
+## Updates
+
+- **2026-07-28** — Here’s how to avoid being trapped in never-ending Apple Upgrade leases ([source](https://9to5mac.com/2026/07/28/heres-how-to-avoid-being-trapped-in-never-ending-apple-upgrade-leases/))
