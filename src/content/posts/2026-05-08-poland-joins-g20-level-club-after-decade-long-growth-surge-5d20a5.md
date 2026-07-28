@@ -1,15 +1,17 @@
 ---
 title: "Poland Joins G20‑Level Club After Decade‑Long Growth Surge"
 date: 2026-05-08T14:13:43.661Z
+modified_date: 2026-07-28T08:23:54.565Z
 tags: ["poland","economy","g20","growth"]
 hero_image: "/hero/2026-05-08-poland-joins-g20-level-club-after-decade-long-growth-surge-5d20a5.jpg"
 hero_image_credit_name: "Felix Haumann"
 hero_image_credit_url: "https://www.pexels.com/@felix-haumann-1938529"
 visual_keyword: "modern Warsaw skyline with construction cranes and data graphs overlay"
 description: "Poland cracks the world’s 20 largest economies, a shift driven by EU funds, tech adoption, and a resilient labor market."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Poland’s economy has slipped into the top‑20 list of global powerhouses, a milestone that reshapes the European growth map.
 
@@ -42,3 +44,7 @@ However, the upside is not without risk. Poland remains exposed to external shoc
 ## What to watch next
 
 The next data point that will confirm whether Poland can consolidate its top‑20 status is the upcoming quarterly GDP release from Statistics Poland, expected later this year. Analysts will also keep an eye on the European Commission’s assessment of fund absorption rates and any policy adjustments by the National Bank of Poland. A sustained uptick in productivity, coupled with stable inflation, will be the true test of the country’s new economic standing.
+
+## Updates
+
+- **2026-07-28** — Lyft and Baidu enter London’s robotaxi battleground as testing begins ([source](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/))
