@@ -1,18 +1,20 @@
 ---
 title: "GitHub to charge Copilot by usage as inference costs rise"
 date: 2026-04-28T19:47:25.322Z
+modified_date: 2026-07-28T21:04:04.061Z
 tags: ["github","copilot","ai","benchmarks","funding"]
 hero_image: "/hero/2026-04-28-github-to-charge-copilot-by-usage-as-inference-costs-rise-dc79a6.jpg"
 hero_image_credit_name: "Anna Shvets"
 hero_image_credit_url: "https://www.pexels.com/@shvetsa"
 visual_keyword: "developer using AI code assistant on laptop"
 description: "GitHub moves to usage‑based billing for Copilot, Anthropic backs Blender, and Snorkel funds open AI benchmarks, highlighting shifting economics in the AI stack."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-04-28-github-to-charge-copilot-by-usage-as-inference-costs-rise-dc79a6.mp3"
 audio_bytes: 614653
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 GitHub announced that Copilot will soon be billed according to actual AI usage. The change reflects a refusal to shoulder ever‑growing inference costs for its most demanding users.
 
@@ -56,3 +58,6 @@ These parallel tracks suggest a market where AI providers monetize raw compute w
 
 Watch GitHub’s billing dashboard for the first usage‑based invoices, which will reveal average token consumption per developer. Track Anthropic’s announcements for any AI‑centric plugins or services built on top of Blender. Monitor the Open Benchmarks Grants awardees and the first public benchmark releases they produce. Together, these signals will indicate how quickly the AI stack is moving from experimental freebies to a commoditized, usage‑priced infrastructure.
 
+## Updates
+
+- **2026-07-28** — MCP startup Runlayer accuses Rippling of stealing its product idea ([source](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/))

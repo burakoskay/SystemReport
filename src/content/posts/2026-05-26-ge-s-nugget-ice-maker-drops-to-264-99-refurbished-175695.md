@@ -1,15 +1,17 @@
 ---
 title: "GE's Nugget Ice Maker Drops to $264.99 Refurbished"
 date: 2026-05-26T23:14:36.666Z
+modified_date: 2026-07-28T21:04:24.216Z
 tags: ["GE Profile Opal 2.0 Ultra Nugget Ice Maker","refurbished deal","Woot","home appliances"]
 hero_image: "/hero/2026-05-26-ge-s-nugget-ice-maker-drops-to-264-99-refurbished-175695.jpg"
 hero_image_credit_name: "Sóc Năng Động"
 hero_image_credit_url: "https://www.pexels.com/@soc-nang-d-ng-2150345854"
 visual_keyword: "GE Profile Opal 2.0 Ultra Nugget Ice Maker"
 description: "Woot sells refurbished GE Profile Opal 2.0 Ultra Nugget Ice Maker for $264.99, a $184 discount. The countertop appliance makes chewable ice quickly."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## A Refreshing Deal on GE's Nugget Ice Maker
@@ -60,3 +62,6 @@ The first nugget ice makers were introduced in the early 2000s, but they were re
 
 Today, nugget ice makers are a popular choice for many consumers, and they are widely available from a variety of manufacturers. The GE Profile Opal 2.0 Ultra Nugget Ice Maker is one of the most popular models on the market, and its features and capabilities have set a new standard for the industry.
 
+## Updates
+
+- **2026-07-28** — This comfy gaming headset that can play audio from two sources is $25 ([source](https://www.theverge.com/gadgets/972021/epos-h3-hybrid-wired-gaming-headset-deal-sale))

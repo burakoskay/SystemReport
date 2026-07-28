@@ -1,16 +1,17 @@
 ---
 title: "Asteroid Flyby"
 date: 2026-05-16T09:45:50.594Z
-modified_date: 2026-06-03T21:21:11.052Z
+modified_date: 2026-07-28T21:04:29.265Z
 tags: ["asteroid","NASA","planetary defense"]
 hero_image: "/hero/2026-05-16-asteroid-flyby-8ac10e.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "asteroid"
 description: "Asteroid Apophis to fly by Earth in 2029, NASA's plans unclear"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Asteroid Apophis
@@ -67,4 +68,5 @@ The DART mission, launched by NASA in 2021, demonstrated the ability to make a m
 
 ## Updates
 
+- **2026-07-28** — Apple Upgrade is a great deal on paper, but make sure you read the fine print ([source](https://www.engadget.com/2225429/apple-upgrade-is-a-great-deal-on-paper-but-make-sure-you-read-the-fine-print/))
 - **2026-06-03** — You can make the hyper-violence in Marvel's Wolverine more PG-13, if you want to ([source](https://www.engadget.com/2186991/you-can-make-the-hyper-violence-in-marvel-s-wolverine-more-pg-13-if-you-want-to/))

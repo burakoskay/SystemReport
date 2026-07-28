@@ -1,16 +1,17 @@
 ---
 title: "AI Art Authenticity Sparks Legal and Ethical Debates"
 date: 2026-05-23T21:02:57.555Z
-modified_date: 2026-07-27T11:15:16.757Z
+modified_date: 2026-07-28T21:04:14.219Z
 tags: ["ai art","art authentication","generative ai","artistic authorship","digital humanities"]
 hero_image: "/hero/2026-05-23-ai-art-authenticity-sparks-legal-and-ethical-debates-78a88a.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract brushstroke pattern on canvas with AI-generated fractal overlay"
 description: "Generative AI disrupts art world as firms claim machine can outperform human experts in attribution."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 Ansel Adams' estate filed a formal complaint against an AI company for publicly exhibiting a colorized version of his iconic black-and-white photograph 'Moonrise, Hernandez, New Mexico' without authorization. The AI-generated work appeared alongside other pieces at AIPAD's photography showcase, raising legal questions about ownership and modification of archival works.
@@ -43,4 +44,5 @@ The core question remains unresolved: Can machine analysis ever replace human ju
 
 ## Updates
 
+- **2026-07-28** — Is it illegal to trick the US government into wiping your phone during a questionably legal search? ([source](https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password))
 - **2026-07-27** — AppleCare One insurance for multiple devices finally expands outside the US ([source](https://www.engadget.com/2223761/applecare-one-insurance-for-multiple-devices-finally-expands-outside-the-us/))
