@@ -1,18 +1,20 @@
 ---
 title: "GM cuts simulation time to a minute with AI"
 date: 2026-06-01T23:42:49.188Z
+modified_date: 2026-07-29T06:27:13.349Z
 tags: ["ai","automotive","hackernews","technology"]
 hero_image: "/hero/2026-06-01-gm-cuts-simulation-time-to-a-minute-with-ai-0e7285.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer reviewing a digital twin simulation on a screen"
 description: "General Motors shrank CFD and FEA runs from 15 hours to a minute using AI, sparking debate on hype versus impact across tech circles."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-01-gm-cuts-simulation-time-to-a-minute-with-ai-0e7285.mp3"
 audio_bytes: 591039
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## GM slashes simulation time with AI
 
@@ -47,3 +49,7 @@ While the cat‑vine story seems unrelated to automotive AI, the inclusion of di
 ## What to watch next
 
 Watch GM’s upcoming quarterly report for any mention of AI‑driven design cycles and whether the one‑minute simulation claim scales across vehicle platforms. Track the next wave of Hacker News discussions on AI safety and tooling, as community sentiment can influence corporate R&D priorities. Finally, keep an eye on Ars Technica’s future roundups; the breadth of topics may hint at emerging interdisciplinary trends that could shape the next generation of engineering tools.
+
+## Updates
+
+- **2026-07-29** — Audi has a new flagship designed with the US in mind: The 2027 Q9 ([source](https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/))
