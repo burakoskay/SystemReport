@@ -1,16 +1,17 @@
 ---
 title: "Rivian Scales Back DOE Loan"
 date: 2026-04-30T22:59:46.117Z
-modified_date: 2026-07-28T21:04:09.155Z
+modified_date: 2026-07-29T17:12:14.401Z
 tags: ["Rivian","DOE Loan","Electric Vehicle","Georgia Factory","Data Collection"]
 hero_image: "/hero/2026-04-30-rivian-scales-back-doe-loan-608a77.jpg"
 hero_image_credit_name: "smart-me AG"
 hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ As the industry continues to evolve, Rivian's progress will be closely monitored
 
 ## Updates
 
+- **2026-07-29** — iOS 27 adds three new iPhone features you’ll use all the time ([source](https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/))
 - **2026-07-28** — AI leaders sign statement asking the government to do something about automated AI ([source](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta))
 - **2026-06-05** — Cloudflare CEO is lying to you about the bot traffic jump ([source](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/))
 - **2026-06-03** — I built a ceiling projection mapping of the planes flying over my house ([source](https://old.reddit.com/r/nextfuckinglevel/comments/1tvmcin/i_live_in_the_take_off_path_of_sfo_and_built_a/))

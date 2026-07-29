@@ -1,16 +1,17 @@
 ---
 title: "CopilotKit Raises $27M to Deploy App-Native AI Agents"
 date: 2026-05-05T17:41:42.678Z
-modified_date: 2026-07-28T16:02:37.758Z
+modified_date: 2026-07-29T17:11:28.398Z
 tags: ["AI","machine learning","startups","funding"]
 hero_image: "/hero/2026-05-05-copilotkit-raises-27m-to-deploy-app-native-ai-agents-646443.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI agents"
 description: "Seattle-based CopilotKit secures $27M in Series A funding to help developers deploy app-native AI agents."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -64,5 +65,6 @@ As the startup ecosystem continues to evolve, it will be interesting to see how 
 
 ## Updates
 
+- **2026-07-29** — ‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation ([source](https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/))
 - **2026-07-28** — WhatsApp now lets you make calls using its web app ([source](https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/))
 - **2026-05-27** — Mid-week Android app deals and freebies: Poker, Ya Joker, Empire of the Gods, Dawncaster, more ([source](https://9to5toys.com/2026/05/27/mid-week-android-app-deals-and-freebies-poker-ya-joker-empire-of-the-gods-dawncaster-more/))

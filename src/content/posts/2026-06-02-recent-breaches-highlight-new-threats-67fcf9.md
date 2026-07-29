@@ -1,18 +1,20 @@
 ---
 title: "Recent Breaches Highlight New Threats"
 date: 2026-06-02T04:24:05.140Z
+modified_date: 2026-07-29T17:10:56.941Z
 tags: ["Cybersecurity","AI","Software Supply Chain"]
 hero_image: "/hero/2026-06-02-recent-breaches-highlight-new-threats-67fcf9.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Data Breach"
 description: "Exploits of AI support tools, supply-chain channels, and OT systems"
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-06-02-recent-breaches-highlight-new-threats-67fcf9.mp3"
 audio_bytes: 562827
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Meta’s AI Support Bot Incident
 Hackers hijacked Instagram accounts by tricking Meta's AI support chatbot into granting access.[^1][^2][^3][^4] Several users on social media reported having their Instagram accounts hacked over the weekend.[^1] This incident highlights the vulnerabilities of AI-powered support systems, which can be exploited by malicious actors to gain unauthorized access to sensitive information.
@@ -46,6 +48,10 @@ For instance, the European Union's General Data Protection Regulation (GDPR) imp
 ## Future Outlook
 The recent breaches of Meta's AI support bot, Red Hat packages, and fuel monitoring systems highlight the need for a proactive approach to cybersecurity. As technology continues to evolve, new vulnerabilities will emerge, and malicious actors will adapt their tactics to exploit them.
 It is essential for organizations to prioritize cybersecurity, implement robust security measures, and establish clear consequences for those who engage in malicious activities. By doing so, they can reduce the risk of a breach and protect their customers' sensitive information.
+
+## Updates
+
+- **2026-07-29** — Full school day cellphone bans are more popular than ever ([source](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever))
 
 [^1]: [theguardian.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpcnscDpphO_56cieGIRXn2fdecFho_XnLqH_ToP-wRdE0bopn7bisAvGf-LSRzOws00j64IvTkbNUDetKCGNeh7qH374W4ztVbz5zzt2JZ6U4CqfIfx6oPsHD4MONKVkenTpqsBMfA02TVaP86jzFE-pJwUkQyXakbxHTl-VaUaJgLRBPt9kPo9YPlAZ7CQPA)
 [^2]: [pcmag.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGyNV2OTB1irJIPxoU34W_T2YanDK8nib4nwH13SjCF1-VqsgwkIPQj0QQvAAhaXZeb0jSbZuMUP-Z9gUHK3O1v46UjqKgWG_cOi71Gqvkhs_ppyBHx0GbyQh_T39KLzPjNMq8W8DRUQwK5rIZv_BkJ9vSJpr8L2jYMBPTFs9QS-YXlqQxJ76Fbhzb6ayqTDXyXzXdxJ15Zw==)

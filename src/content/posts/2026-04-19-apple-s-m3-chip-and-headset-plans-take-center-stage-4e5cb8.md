@@ -1,16 +1,17 @@
 ---
 title: "Apple's M3 Chip and Headset Plans Take Center Stage"
 date: 2026-04-19T02:00:29.706Z
-modified_date: 2026-07-28T19:15:28.125Z
+modified_date: 2026-07-29T17:11:12.775Z
 tags: ["apple","m3 chip","mixed-reality headset","ar vr"]
 hero_image: "/hero/2026-04-19-apple-s-m3-chip-and-headset-plans-take-center-stage-4e5cb8.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple M3 chip"
 description: "Apple's latest M3 chip brings significant performance gains, while rumors of a mixed-reality headset continue to build anticipation."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ As Apple continues to push the boundaries of its technology, several key areas a
 
 ## Updates
 
+- **2026-07-29** — Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers ([source](https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/))
 - **2026-07-28** — Logitech will pull a Nintendo — only European mice will come with replaceable batteries ([source](https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe))
 - **2026-05-05** — Musk's Europe gamble: Will others follow the Dutch and approve FSD? ([source](https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/))
 - **2026-04-28** — Ted Lasso’s fourth season starts August 5 ([source](https://www.engadget.com/entertainment/streaming/ted-lassos-fourth-season-starts-august-5-150337209.html?src=rss))

@@ -1,16 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-06-03T16:59:20.318Z
+modified_date: 2026-07-29T17:11:07.533Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-07-29** — Remarkable’s refurbished bundle is an awesome deal that’s over $350 off ([source](https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale))
 - **2026-06-03** — Supernatural isn’t dead after all ([source](https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr))
 - **2026-06-01** — ‘Aviate,’ a Flighty-like app for Android, takes off with Play Store registration [Gallery] ([source](https://9to5google.com/2026/06/01/aviate-android-app-flighty-alternative/))
 - **2026-05-12** — Your iPhone just got a brand new colorful wallpaper, here’s how to customize it ([source](https://9to5mac.com/2026/05/12/your-iphone-just-got-a-brand-new-colorful-wallpaper-heres-how-to-customize-it/))

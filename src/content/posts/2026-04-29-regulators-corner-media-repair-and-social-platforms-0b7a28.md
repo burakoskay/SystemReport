@@ -1,19 +1,20 @@
 ---
 title: "Regulators Corner Media, Repair, and Social Platforms"
 date: 2026-04-29T23:02:47.971Z
-modified_date: 2026-06-07T19:39:55.884Z
+modified_date: 2026-07-29T17:11:38.812Z
 tags: ["regulation","media","technology"]
 hero_image: "/hero/2026-04-29-regulators-corner-media-repair-and-social-platforms-0b7a28.jpg"
 hero_image_credit_name: "Manuel Camacho-Navarro"
 hero_image_credit_url: "https://www.pexels.com/@himanuuu"
 visual_keyword: "corporate building with legal scales and digital icons"
 description: "ABC's FCC license risk, Colorado's right‑to‑repair law, and EU scrutiny of Meta illustrate mounting pressure on tech and media firms."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-29-regulators-corner-media-repair-and-social-platforms-0b7a28.mp3"
 audio_bytes: 584560
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ Watch for Disney's filing response to the FCC and any subsequent hearing dates t
 
 ## Updates
 
+- **2026-07-29** — X and an advertising trade group settle a legal dispute over an alleged 'boycott' ([source](https://www.engadget.com/2226171/x-and-an-advertising-trade-group-settle-a-legal-dispute-over-an-alleged-boycott/))
 - **2026-06-07** — Persona 6 exists, and that’s all we know ([source](https://www.theverge.com/entertainment/945256/persona-6-teaser))
 - **2026-05-08** — Poland says hackers breached water treatment plants, and the U.S. is facing the same threat ([source](https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/))

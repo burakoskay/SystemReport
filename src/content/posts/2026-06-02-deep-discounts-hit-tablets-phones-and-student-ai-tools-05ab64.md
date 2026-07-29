@@ -1,18 +1,20 @@
 ---
 title: "Deep discounts hit tablets, phones and student AI tools"
 date: 2026-06-02T16:46:13.398Z
+modified_date: 2026-07-29T17:11:02.216Z
 tags: ["deals","tablets","student-tools","ai","discounts"]
 hero_image: "/hero/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "stack of discounted tech devices and student laptop with AI icons"
 description: "Lenovo, Samsung and Apple slash prices while a flood of student AI bundles reshapes the developer toolkit market."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.mp3"
 audio_bytes: 684662
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Tablet and phone price cuts hit the sweet spot
 
@@ -51,3 +53,7 @@ For consumers, the immediate effect is a rare window to acquire premium devices 
 **What to watch**: Track Lenovo’s inventory levels and any follow‑up announcements about the Legion Tab Gen 5 launch schedule. Monitor Samsung’s pricing strategy for the S25 Ultra as the S26 approaches market. Keep an eye on Apple’s holiday discount patterns for AirPods and MacBooks. Finally, watch for enrollment spikes in the student AI bundles; a surge could prompt providers to tighten eligibility or introduce tiered pricing aimed at professional users.
 
 ---
+
+## Updates
+
+- **2026-07-29** — The Ferrari Luce has at least 500 fans ([source](https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales))

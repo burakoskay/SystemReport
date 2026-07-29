@@ -1,18 +1,20 @@
 ---
 title: "Roku Unveils New Home Screen"
 date: 2026-05-27T15:57:48.942Z
+modified_date: 2026-07-29T17:11:49.030Z
 tags: ["Roku","Smart TV","AI-Powered Features"]
 hero_image: "/hero/2026-05-27-roku-unveils-new-home-screen-4b8f0e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Home Screen"
 description: "Roku launches new Home Screen with AI and 'Top Picks'"
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-05-27-roku-unveils-new-home-screen-4b8f0e.mp3"
 audio_bytes: 574111
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # New Home Screen Design
 Roku unveiled its biggest Home Screen redesign in over a decade. The redesign features a 'Top Picks' row at the top, which suggests content based on the user's viewing history and preferences.
@@ -46,3 +48,7 @@ Roku has a history of innovating and improving its products. The company has con
 
 # Competitive Analysis
 The smart TV market is highly competitive, with several major players vying for market share. Google TV, Amazon Fire TV, and Apple TV are all significant competitors to Roku. However, Roku's focus on providing a user-friendly interface and personalized content recommendations has helped the company to differentiate itself from its competitors. The new Home Screen design is a key part of this strategy, and it will be important to see how users respond to the changes.
+
+## Updates
+
+- **2026-07-29** — Galaxy Z Fold 8 gives apps new scaling options for its large displays ([source](https://9to5google.com/2026/07/29/galaxy-z-fold-8-feature-changes-app-content-size/))

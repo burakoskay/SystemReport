@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Discussions Reveal Insights"
 date: 2026-05-07T10:32:28.206Z
-modified_date: 2026-05-15T17:45:05.807Z
+modified_date: 2026-07-29T17:11:23.214Z
 tags: ["Hacker News","tech industry trends","innovations"]
 hero_image: "/hero/2026-05-07-hacker-news-discussions-reveal-insights-9a4c62.jpg"
 hero_image_credit_name: "Lucas Andrade"
 hero_image_credit_url: "https://www.pexels.com/@lucasandrade"
 visual_keyword: "Hacker News"
 description: "Hacker News discussions provide valuable insights into tech industry trends and innovations."
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ The next significant development in the tech industry will likely be in the fiel
 
 ## Updates
 
+- **2026-07-29** — Encore AI raises $30M to build AI agents that learn from customer calls ([source](https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/))
 - **2026-05-15** — Rocket Report: Cowboy up for data centers in LEO; Russia's new ICBM actually works ([source](https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/))

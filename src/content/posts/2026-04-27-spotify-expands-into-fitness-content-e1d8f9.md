@@ -1,19 +1,20 @@
 ---
 title: "Spotify Expands into Fitness Content"
 date: 2026-04-27T12:18:01.347Z
-modified_date: 2026-06-02T16:43:11.861Z
+modified_date: 2026-07-29T17:11:43.890Z
 tags: ["Spotify","Fitness Content","Streaming Services"]
 hero_image: "/hero/2026-04-27-spotify-expands-into-fitness-content-e1d8f9.jpg"
 hero_image_credit_name: "Niko Twisty"
 hero_image_credit_url: "https://www.pexels.com/@niko-twisty"
 visual_keyword: "Fitness"
 description: "Spotify launches workout videos and playlists"
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-04-27-spotify-expands-into-fitness-content-e1d8f9.mp3"
 audio_bytes: 610265
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -58,5 +59,6 @@ As the market continues to evolve, Spotify's decision to enter the fitness space
 
 ## Updates
 
+- **2026-07-29** — Google will let Mac users talk to Gemini simply by pressing the 'fn' key ([source](https://www.engadget.com/2224915/google-lets-mad-users-talk-to-gemini-by-pressing-fn/))
 - **2026-06-02** — The Star Fox remake is a test for the franchise's future ([source](https://www.engadget.com/2185271/the-star-fox-remake-is-a-test-for-the-franchises-future/))
 - **2026-05-29** — Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout ([source](https://www.wired.com/story/streamers-like-clavicular-are-humiliating-onlyfans-girls-for-clout/))
