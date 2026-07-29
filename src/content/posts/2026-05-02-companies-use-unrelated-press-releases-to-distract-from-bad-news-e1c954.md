@@ -1,16 +1,17 @@
 ---
 title: "Companies Use Unrelated Press Releases to Distract from Bad News"
 date: 2026-05-02T09:18:51.381Z
-modified_date: 2026-07-28T05:16:39.858Z
+modified_date: 2026-07-29T10:34:30.061Z
 tags: ["SEC","8-K filings","investor relations"]
 hero_image: "/hero/2026-05-02-companies-use-unrelated-press-releases-to-distract-from-bad-news-e1c954.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "press release"
 description: "A study finds that companies strategically issue unrelated press releases on the same day they file negative news with the SEC via Form 8-K."
-sources_count: 15
+sources_count: 16
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ In conclusion, the study provides new insights into the use of unrelated press r
 
 ## Updates
 
+- **2026-07-29** — Pacing the frontier ([source](https://www.pacingthefrontier.com/))
 - **2026-07-28** — Show HN: FeyNoBg – Automatic background removal model and training library ([source](https://usefeyn.com/blog/feynobg/))
 - **2026-07-27** — OnePlus 16 sounds great; too bad you won’t be able to buy it ([source](https://9to5google.com/2026/07/27/oneplus-16-sounds-great-too-bad-you-wont-be-able-to-buy-it/))
 - **2026-06-03** — Meet Wander, a StumbleUpon-inspired tool for discovering the ‘small web’ ([source](https://techcrunch.com/2026/06/03/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web/))
