@@ -1,15 +1,17 @@
 ---
 title: "Brazil's Pix faces pressure from Visa, Mastercard"
 date: 2026-05-08T06:13:18.362Z
+modified_date: 2026-07-29T22:56:33.443Z
 tags: ["Brazil","Pix","Visa","Mastercard","payments","market"]
 hero_image: "/hero/2026-05-08-brazil-s-pix-faces-pressure-from-visa-mastercard-f354d3.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "payments"
 description: "Brazil's popular Pix payment system faces challenges from global giants Visa and Mastercard. The competition may change the country's payments landscape."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 **The Challenge to Pix**
 
@@ -48,3 +50,7 @@ The system's technical mechanics have been designed to ensure high availability 
 The competition between Pix and global payment giants like Visa and Mastercard is expected to intensify in the coming months. The Central Bank of Brazil will likely closely monitor the situation, ensuring that the market remains competitive and innovative. Users and merchants will benefit from the increased competition, but the long-term impact on the Brazilian payments market remains to be seen.
 
 The key decision to watch is how Pix responds to the challenge from Visa and Mastercard. Will it innovate and improve its services, or will it struggle to maintain its market share? The next few months will provide crucial insights into the future of the Brazilian payments market.
+
+## Updates
+
+- **2026-07-29** — Qualcomm is raising phone chip prices starting September 1st ([source](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings))

@@ -1,18 +1,20 @@
 ---
 title: "Hacker News Digest: AI Analysis, Terminal UIs, and Hiring Myths"
 date: 2026-05-24T08:37:20.568Z
+modified_date: 2026-07-29T22:56:18.153Z
 tags: ["Hacker News","AI Analysis","Terminal UIs"]
 hero_image: "/hero/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "A look at the latest Hacker News discussions on AI analysis, terminal UIs, and hiring myths."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.mp3"
 audio_bytes: 611101
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Power of AI Analysis on Hacker News Discussions
@@ -71,3 +73,6 @@ As AI analysis and terminal UIs continue to gain traction, it will be interestin
 
 For instance, LLMs could be used to identify areas of consensus or disagreement on certain topics, or to provide personalized recommendations for users based on their interests and preferences. By continuing to develop and refine these technologies, we can create more efficient and effective online communities that enable users to engage with each other in meaningful ways.
 
+## Updates
+
+- **2026-07-29** — Winamp aims for a comeback with a new music player powered by Deezer ([source](https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/))

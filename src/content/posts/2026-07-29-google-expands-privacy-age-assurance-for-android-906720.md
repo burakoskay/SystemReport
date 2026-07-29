@@ -1,15 +1,17 @@
 ---
 title: "Google expands privacy age assurance for Android"
 date: 2026-07-29T20:55:27.873Z
+modified_date: 2026-07-29T22:56:53.903Z
 tags: ["google","privacy","age-assurance","android","zkp"]
 hero_image: "/hero/2026-07-29-google-expands-privacy-age-assurance-for-android-906720.jpg"
 hero_image_credit_name: "Andrea Piacquadio"
 hero_image_credit_url: "https://www.pexels.com/@olly"
 visual_keyword: "developer using Android phone with age verification overlay"
 description: "Google opens its Play Age Signals API, pilots U.S. age assurance, and releases zero‑knowledge proof tools to help developers protect under‑18 users."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Play Age Signals API goes global
 Google rolled out the Play Age Signals API to every Android developer on the Play Store.[^1][^2][^3][^4][^5] The API lets apps request a user’s age range without collecting raw birth data.[^1][^2][^3][^4][^5][^6] Google positioned the rollout as a privacy‑preserving alternative to ad‑hoc age checks that developers have been stitching together for years.[^6]
@@ -34,6 +36,9 @@ Critics have warned that a single company controlling age signals could create a
 ## What to watch
 Watch for the next wave of Play Age Signals adoption reports from major app publishers. Google has said it will monitor the U.S. pilot closely before expanding, so any public metrics on false positives or user pushback will be telling. In Europe, the 2026 eIDAS deadline will drive Member States to embed ZKP into national digital wallets; the speed of those integrations will indicate how influential Google’s open‑source contribution becomes. Finally, keep an eye on antitrust filings that may question whether a single age‑verification pipeline gives Google undue market power.
 
+## Updates
+
+- **2026-07-29** — Google Play is expanding age confirmation tools for app developers ([source](https://www.engadget.com/2226632/google-play-is-expanding-age-confirmation-tools-for-app-developers/))
 
 [^1]: [androidheadlines.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi4F4zvj5GpDqYevLWty6RhuqgAXzEfbU9-vWHyvB0tsVWlQ5v11qIMBsOlYm5zYHfFwrLdS5Lz4PfA3zrQRmfaqLJVH7sjlxVJyBnQQH11IWjf6xOXPxwm5LLqsLgtT_Hp8GGq9wKCj16PrJ9folYVOPcA4BHc0s1uLJDpWnOTsNPjOQ8nvb42wOZ0aZWUapRXA3asAnWRJTeEQ==)
 [^2]: [androidauthority.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVbg2MO0QblW1V6MMKV-WwFhEErvIJWS-xXYld0DruRb0aqzL3JmVs4dZ0OYpiFcPn6XB_pnX8HqNxHzYv7A5WsYCbSyiSVNydwBz6ux3GSLYbXS-RV5BE1xUaX-yQOMLd_kEfiVNAxA6N0NwMQ-CM4BtF7094JqS7QvYw)

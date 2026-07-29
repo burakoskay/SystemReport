@@ -1,16 +1,17 @@
 ---
 title: "GitHub lists simplify CUDA learning"
 date: 2026-05-17T23:00:27.010Z
-modified_date: 2026-05-28T16:10:59.101Z
+modified_date: 2026-07-29T22:56:13.045Z
 tags: ["cuda","gpgpu","opensource","mlops","deep-learning"]
 hero_image: "/hero/2026-05-17-github-lists-simplify-cuda-learning-5e872a.jpg"
 hero_image_credit_name: "Rashed Paykary"
 hero_image_credit_url: "https://www.pexels.com/@peaky"
 visual_keyword: "developer coding on a GPU terminal with code snippets displayed"
 description: "New GitHub lists, Triton‑based PyTorch layers, and dynamic GPU sharing runtimes are making GPU development faster and more accessible."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## A wave of community‑curated CUDA resources
@@ -55,4 +56,5 @@ The next few months will reveal whether these tools gain traction beyond their i
 
 ## Updates
 
+- **2026-07-29** — Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/))
 - **2026-05-28** — The secret to Roku’s success: not being cool ([source](https://www.theverge.com/column/938879/roku-homescreen-redesign-not-cool))

@@ -1,15 +1,17 @@
 ---
 title: "Waymo leads Texas AV registrations; startups face lawsuits"
 date: 2026-05-29T10:05:35.391Z
+modified_date: 2026-07-29T22:56:23.278Z
 tags: ["autonomous vehicles","robotics","regulation"]
 hero_image: "/hero/2026-05-29-waymo-leads-texas-av-registrations-startups-face-lawsuits-1a790e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "autonomous vehicle"
 description: "Waymo dominates Texas autonomous vehicle registrations while a San Francisco startup battles a lawsuit over Airbnb robot testing, and new visualization and sensor tools reshape robotics."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 ## Waymo's Texas Lead Shows Market Consolidation
 
@@ -66,3 +68,7 @@ On the other hand, if the court rules in favor of the startup, it could provide 
 Waymo's registration advantage gives it a data moat that could reinforce its market position in Texas. Competitors will need to accelerate fleet growth or secure partnerships to compete on volume. The Airbnb robot lawsuit signals that regulators may soon demand clearer consent mechanisms for field trials in private spaces. Companies should monitor any legislative proposals that address autonomous service robots in short-term rentals.
 
 On the technology side, adoption of Foxglove, HDR cameras, and Truevision will likely increase as firms seek to streamline data handling and simulation. Watch for announcements of new integrations between these platforms and major autonomous stacks. The next quarterly Texas registration report will reveal whether other manufacturers can narrow the gap with Waymo. The resolution of the California lawsuit will indicate how quickly startups can resume consumer-space testing.
+
+## Updates
+
+- **2026-07-29** — Microsoft confirms Copilot ‘super app’ coming this year ([source](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed))

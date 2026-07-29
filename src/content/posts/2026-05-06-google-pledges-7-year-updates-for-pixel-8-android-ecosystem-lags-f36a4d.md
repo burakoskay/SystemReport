@@ -1,16 +1,17 @@
 ---
 title: "Google Pledges 7-Year Updates for Pixel 8, Android Ecosystem Lags"
 date: 2026-05-06T23:03:43.188Z
-modified_date: 2026-07-29T17:11:18.001Z
+modified_date: 2026-07-29T22:56:38.529Z
 tags: ["android-updates","pixel-8","obtainium"]
 hero_image: "/hero/2026-05-06-google-pledges-7-year-updates-for-pixel-8-android-ecosystem-lags-f36a4d.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract geometric shapes in blue and green tones"
 description: "Google extends software support for Pixel 8 to 2030, but Android’s update chaos persists. Samsung and Apple still dominate."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Google’s Pixel 8 update timeline will determine whether it can keep up with An
 
 ## Updates
 
+- **2026-07-29** — Cyberpunk 2077 packs a lot of fun into its discounted $20 price ([source](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale))
 - **2026-07-29** — Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners ([source](https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/))
 - **2026-06-02** — Google announces deepfake call detection for Android, new AirDrop device support ([source](https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/))
 - **2026-05-09** — Fintech startup Parker files for bankruptcy ([source](https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/))
