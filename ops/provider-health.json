@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 295,
+    "consecutive_failures": 325,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-07-29T10:37:07.185Z",
+    "last_failure": "2026-07-29T14:08:03.003Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-07-29T10:35:00.779Z",
+    "last_success": "2026-07-29T14:06:33.458Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7994, Requested 3486. Please try again in 26.1s. Need more tokens? Upgrade to Dev Tier today at htt",
     "last_failure": "2026-07-28T16:03:51.269Z"
@@ -20,16 +20,17 @@
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 900. Please try again in 12m57.599999999s. Need more tokens? Upgrade to Dev Ti",
-    "last_failure": "2026-07-29T10:35:34.930Z",
-    "last_success": "2026-07-29T10:35:13.200Z",
-    "cooldown_until": "2026-07-29T10:45:34.804Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98880, Requested 1733. Please try again in 8m49.631999999s. Need more tokens? Upgrade to Dev Tie",
+    "last_failure": "2026-07-29T13:58:50.160Z",
+    "last_success": "2026-07-29T13:58:42.051Z",
+    "cooldown_until": "2026-07-29T14:08:50.103Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 0,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (7b285f79-be5e-43fa-b381-19f4dd77def1)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-07-28T21:04:55.333Z",
-    "last_success": "2026-07-29T10:37:14.086Z"
+    "consecutive_failures": 1,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (7ede07e1-93bd-4eec-aa1c-705ab216643d)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-07-29T14:07:52.126Z",
+    "last_success": "2026-07-29T14:07:42.324Z",
+    "cooldown_until": "2026-07-29T14:17:51.736Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -39,11 +40,10 @@
     "cooldown_until": "2026-08-27T14:06:12.008Z"
   },
   "groq:llama-3.1-8b-instant": {
-    "last_success": "2026-07-28T21:05:22.240Z",
-    "consecutive_failures": 2,
+    "last_success": "2026-07-29T14:08:04.101Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 4468, Requested 1533. Please try again in 10ms. Need more tokens? Upgrade to Dev Tier today at htt",
-    "last_failure": "2026-07-28T21:08:05.140Z",
-    "cooldown_until": "2026-07-28T21:18:05.051Z"
+    "last_failure": "2026-07-28T21:08:05.140Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {
     "consecutive_failures": 1,

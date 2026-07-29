@@ -1,15 +1,17 @@
 ---
 title: "Plug‑in hybrids fall far short of official fuel claims"
 date: 2026-05-21T22:05:58.476Z
+modified_date: 2026-07-29T13:57:26.577Z
 tags: ["plug-in hybrids","europe","emissions"]
 hero_image: "/hero/2026-05-21-plug-in-hybrids-fall-far-short-of-official-fuel-claims-8f666b.jpg"
 hero_image_credit_name: "paul"
 hero_image_credit_url: "https://www.pexels.com/@paul-2332870"
 visual_keyword: "urban street with mixed electric and gasoline cars, blurred traffic, overcast sky"
 description: "European data shows real‑world PHEV fuel use is three to five times higher than lab tests, prompting new Euro 7G rules and tougher incentives."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Real‑world fuel use dwarfs lab numbers
 Plug‑in hybrids burn roughly three times more gasoline than the WLTP cycle suggests for private drivers, and up to five times more for company fleets. The gap is widening, not shrinking.
@@ -47,3 +49,7 @@ Regulators will soon finalize the Euro 7G specifications and the revised WLTP 
 If incentives become contingent on verified electric usage, manufacturers may redesign PHEVs with larger batteries or smarter charging reminders. Conversely, a failure to tighten the rules could cement PHEVs’ role as a stopgap that delivers little more than a tax break.
 
 Stakeholders—from fleet managers to climate policymakers—should track the upcoming EU rulemaking and the next wave of automaker data releases. The next quarter will likely decide whether plug‑in hybrids remain a viable bridge or become a regulatory dead end.
+
+## Updates
+
+- **2026-07-29** — Apple Upgrade Isn’t the Best Way to Buy an iPhone ([source](https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/))

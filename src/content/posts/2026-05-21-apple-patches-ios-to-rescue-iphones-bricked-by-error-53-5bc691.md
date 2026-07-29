@@ -1,15 +1,17 @@
 ---
 title: "Apple patches iOS to rescue iPhones bricked by Error 53"
 date: 2026-05-21T22:09:29.439Z
+modified_date: 2026-07-29T13:56:42.093Z
 tags: ["apple","ios","error53","security","repair"]
 hero_image: "/hero/2026-05-21-apple-patches-ios-to-rescue-iphones-bricked-by-error-53-5bc691.jpg"
 hero_image_credit_name: "Omar Gerardo"
 hero_image_credit_url: "https://www.pexels.com/@omale03"
 visual_keyword: "iPhone with cracked home button and iTunes cable"
 description: "Apple releases a patched iOS 9.2.1 update that restores iPhones disabled by the controversial Error 53, while keeping Touch ID disabled."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Error 53 has finally been unblocked: Apple pushed a patched iOS 9.2.1 that restores iPhones stuck on the "Connect to iTunes" screen after a home‑button repair.
 
@@ -42,3 +44,7 @@ From a security perspective, Apple’s decision to brick the phone rather than c
 ## What to watch
 
 The next flashpoint will be how the class‑action lawsuit resolves and whether regulators step in to enforce right‑to‑repair protections. Keep an eye on any follow‑up patches that might restore Touch ID functionality without weakening the Secure Enclave, and watch for Apple’s future statements on third‑party repair policies. The balance Apple strikes here could set a precedent for how other platforms handle hardware security versus consumer repair rights.
+
+## Updates
+
+- **2026-07-29** — Samsung’s Galaxy Z Fold 8 feels like the future ([source](https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review))

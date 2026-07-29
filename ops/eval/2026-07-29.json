@@ -1,47 +1,56 @@
 {
-  "generated_at": "2026-07-29T10:37:52.267Z",
+  "generated_at": "2026-07-29T14:08:48.094Z",
   "window_days": 7,
-  "total_records": 1144,
+  "total_records": 1317,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 413,
-      "success": 165,
-      "success_rate": 0.39951573849878935,
-      "latency_p50": 10315,
-      "latency_p95": 23676,
-      "response_chars_mean": 1883,
+      "calls": 445,
+      "success": 184,
+      "success_rate": 0.4134831460674157,
+      "latency_p50": 10030,
+      "latency_p95": 22156,
+      "response_chars_mean": 1963,
       "error_classes": {
-        "rate_limit": 10,
-        "unknown": 232,
+        "rate_limit": 11,
+        "unknown": 244,
         "timeout": 3,
         "server_error": 2,
         "spending_cap": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 38,
-      "success": 31,
-      "success_rate": 0.8157894736842105,
-      "latency_p50": 974,
-      "latency_p95": 1593,
-      "response_chars_mean": 1215,
+      "calls": 51,
+      "success": 39,
+      "success_rate": 0.7647058823529411,
+      "latency_p50": 1062,
+      "latency_p95": 12290,
+      "response_chars_mean": 1231,
       "error_classes": {
-        "unknown": 6,
+        "unknown": 11,
         "rate_limit": 1
       }
     },
     "lengthen:v1": {
-      "calls": 67,
-      "success": 52,
-      "success_rate": 0.7761194029850746,
-      "latency_p50": 1789,
-      "latency_p95": 2516,
-      "response_chars_mean": 3648,
+      "calls": 82,
+      "success": 60,
+      "success_rate": 0.7317073170731707,
+      "latency_p50": 1832,
+      "latency_p95": 9407,
+      "response_chars_mean": 3345,
       "error_classes": {
-        "rate_limit": 4,
-        "unknown": 10,
+        "rate_limit": 5,
+        "unknown": 16,
         "timeout": 1
       }
+    },
+    "rewrite-headline:v1": {
+      "calls": 2,
+      "success": 2,
+      "success_rate": 1,
+      "latency_p50": 181,
+      "latency_p95": 181,
+      "response_chars_mean": 59,
+      "error_classes": {}
     }
   }
 }

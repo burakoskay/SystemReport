@@ -1,19 +1,20 @@
 ---
 title: "Pentagon Inks AI Deals"
 date: 2026-05-01T17:02:53.498Z
-modified_date: 2026-06-05T16:32:29.478Z
+modified_date: 2026-07-29T13:57:16.736Z
 tags: ["AI","Pentagon","Google","Microsoft","AWS"]
 hero_image: "/hero/2026-05-01-pentagon-inks-ai-deals-85d5fc.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Google, Microsoft, and AWS partner with the Pentagon to deploy AI on classified networks, amid controversy and employee pushback"
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-01-pentagon-inks-ai-deals-85d5fc.mp3"
 audio_bytes: 623849
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ As the AI industry continues to evolve, it is likely that we will see significan
 
 ## Updates
 
+- **2026-07-29** — The 15 Best Pool Accessories to Upgrade Your Summer (2026) ([source](https://www.wired.com/story/the-best-pool-accessories/))
 - **2026-06-05** — This chunky little tablet got my kid to clean up his toys ([source](https://www.theverge.com/tech/943219/skylight-buddy-kids-calendar-chore-tracker-review))
 - **2026-06-05** — The Best Pool Accessories to Upgrade Your Summer (2026) ([source](https://www.wired.com/story/best-pool-accessories/))
 - **2026-05-17** — Standalone Siri app to offer auto-deleting chat history, launch with beta label: report ([source](https://9to5mac.com/2026/05/17/apple-launching-new-siri-app-next-month-with-auto-deleting-chat-history/))

@@ -1,19 +1,20 @@
 ---
 title: "Games Done Quick launches first European marathon at Gamescom"
 date: 2026-04-28T19:49:57.309Z
-modified_date: 2026-05-12T18:04:20.146Z
+modified_date: 2026-07-29T13:56:32.204Z
 tags: ["gamesdonequick","charity","gaming","events"]
 hero_image: "/hero/2026-04-28-games-done-quick-launches-first-european-marathon-at-gamescom-b225f4.jpg"
 hero_image_credit_name: "Matheus Amaral"
 hero_image_credit_url: "https://www.pexels.com/@eumatheusamaral"
 visual_keyword: "crowded convention hall with gamers watching a speedrun stage"
 description: "GDQ brings its charity speedrunning marathon to Cologne in August, expanding live audience reach and testing a new broadcast schedule."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-28-games-done-quick-launches-first-european-marathon-at-gamescom-b225f4.mp3"
 audio_bytes: 605458
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,5 +64,6 @@ If the event proves financially viable, GDQ may schedule additional live maratho
 
 ## Updates
 
+- **2026-07-29** — DoorDash is going airborne with new drone delivery division ([source](https://www.theverge.com/science/970731/doordash-air-drone-delivery-faa))
 - **2026-05-12** — Lord of the Rings: The Rings of Power returns to Prime Video in November ([source](https://www.engadget.com/2170934/lord-of-the-rings-the-rings-of-power-returns-to-prime-video-in-november/))
 - **2026-04-28** — Claude.ai unavailable and elevated errors on the API ([source](https://status.claude.com/incidents/9l93x2ht4s5w))

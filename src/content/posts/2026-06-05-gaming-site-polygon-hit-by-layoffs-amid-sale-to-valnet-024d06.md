@@ -1,18 +1,20 @@
 ---
 title: "Gaming Site Polygon Hit by Layoffs Amid Sale to Valnet"
 date: 2026-06-05T23:17:51.653Z
+modified_date: 2026-07-29T13:57:06.787Z
 tags: ["gaming","journalism","Polygon","Valnet","layoffs","sale"]
 hero_image: "/hero/2026-06-05-gaming-site-polygon-hit-by-layoffs-amid-sale-to-valnet-024d06.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "gaming-news-site-polygon-layoffs-valnet"
 description: "Polygon, a respected gaming news site, has been sold to Valnet amid significant layoffs, including co-founder Chris Plante and Senior Writer Michael McWhertor."
-sources_count: 12
-author: "ryan-tanaka"
+sources_count: 13
 audio_path: "/audio/2026-06-05-gaming-site-polygon-hit-by-layoffs-amid-sale-to-valnet-024d06.mp3"
 audio_bytes: 564498
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Gaming Site Polygon Hit by Layoffs Amid Sale to Valnet
 
@@ -57,3 +59,7 @@ In contrast to the turmoil at Polygon, one gaming site has managed to buck the t
 ## What's Next
 
 As the gaming journalism landscape continues to evolve, it's clear that Polygon's fate will be just one of many stories to watch in the months to come. With the site's editorial independence and content in question, readers and writers alike will be watching to see what happens next.
+
+## Updates
+
+- **2026-07-29** — Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation ([source](https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/))
