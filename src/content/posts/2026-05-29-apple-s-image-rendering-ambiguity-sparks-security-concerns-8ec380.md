@@ -1,19 +1,20 @@
 ---
 title: "Apple's Image Rendering Ambiguity Sparks Security Concerns"
 date: 2026-05-29T15:58:36.730Z
-modified_date: 2026-06-02T16:43:45.536Z
+modified_date: 2026-07-29T02:01:43.630Z
 tags: ["Apple","Security","Image Rendering"]
 hero_image: "/hero/2026-05-29-apple-s-image-rendering-ambiguity-sparks-security-concerns-8ec380.jpg"
 hero_image_credit_name: "Andréa Devillier"
 hero_image_credit_url: "https://www.pexels.com/@maisonlighthouse"
 visual_keyword: "Apple"
 description: "A security researcher discovered that Apple's image rendering implementation can display different images than other software, sparking concerns over potential security risks."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-29-apple-s-image-rendering-ambiguity-sparks-security-concerns-8ec380.mp3"
 audio_bytes: 594173
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ To mitigate the risks associated with image rendering vulnerabilities, users and
 
 ## Updates
 
+- **2026-07-29** — Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents ([source](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/))
 - **2026-06-02** — PSA: A security breach means you must update the ChatGPT Mac app [U] ([source](https://9to5mac.com/2026/06/02/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/))

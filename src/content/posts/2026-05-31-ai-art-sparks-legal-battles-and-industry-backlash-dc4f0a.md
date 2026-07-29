@@ -1,18 +1,20 @@
 ---
 title: "AI Art Sparks Legal Battles and Industry Backlash"
 date: 2026-05-31T23:08:42.276Z
+modified_date: 2026-07-29T02:01:48.667Z
 tags: ["ai","art","controversy","generative","pinball"]
 hero_image: "/hero/2026-05-31-ai-art-sparks-legal-battles-and-industry-backlash-dc4f0a.jpg"
 hero_image_credit_name: "ready made"
 hero_image_credit_url: "https://www.pexels.com/@readymade"
 visual_keyword: "collage of AI‑generated artwork showing meme, pinball cabinet, and video game poster"
 description: "Meme creator, pinball maker, and state‑fair winner confront AI‑generated art, exposing tradeoffs and looming regulatory questions."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-31-ai-art-sparks-legal-battles-and-industry-backlash-dc4f0a.mp3"
 audio_bytes: 609847
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Meme creator forces AI startup to pull ads
 
@@ -41,3 +43,7 @@ The power of GANs comes with limits. Training realistic outputs still demands la
 ## What to watch
 
 Watch for litigation that clarifies copyright liability for AI‑generated visuals, especially as platforms like Artisan and game studios expand usage. Track whether the U.S. Copyright Office updates its registration guidelines for works that blend human direction with machine output. Finally, monitor the response from licensing bodies and industry groups to the pinball controversy; their stance could set precedents for how licensed properties handle AI‑created assets.
+
+## Updates
+
+- **2026-07-29** — A Typo Landed an Innocent Gamer in Prison for 18 Months ([source](https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/))

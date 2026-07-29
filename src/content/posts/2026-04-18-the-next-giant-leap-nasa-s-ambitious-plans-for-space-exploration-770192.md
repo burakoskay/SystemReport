@@ -1,16 +1,17 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-06-05T23:15:13.841Z
+modified_date: 2026-07-29T02:02:03.665Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 20
+sources_count: 21
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-07-29** — Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript ([source](https://github.com/twalichiewicz/HNewhere))
 - **2026-06-05** — Congress still can’t decide what to do about warrantless surveillance ([source](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte))
 - **2026-05-29** — Notes from the Mistral AI Now Summit in Paris ([source](https://koenvangilst.nl/lab/mistral-ai-now-summit))
 - **2026-05-13** — Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs ([source](https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs))

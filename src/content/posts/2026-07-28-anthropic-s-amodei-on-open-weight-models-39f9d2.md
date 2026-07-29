@@ -1,18 +1,20 @@
 ---
 title: "Anthropic's Amodei on Open-Weight Models"
 date: 2026-07-28T01:59:26.827Z
+modified_date: 2026-07-29T02:01:58.668Z
 tags: ["AI","Anthropic","Dario Amodei"]
 hero_image: "/hero/2026-07-28-anthropic-s-amodei-on-open-weight-models-39f9d2.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI"
 description: "Amodei's stance on open-weight models and China's AI"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-07-28-anthropic-s-amodei-on-open-weight-models-39f9d2.mp3"
 audio_bytes: 596472
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Anthropic's Stance
 Anthropic's CEO, Dario Amodei, does not oppose open-weight models. He fears China's growing AI capabilities.
@@ -30,3 +32,7 @@ The development of open-weight models is a complex technical challenge. These mo
 The implications of Amodei's statement are far-reaching, with potential consequences for the global balance of power. As China's AI capabilities continue to grow, it is likely that the company will play an increasingly important role in the global AI landscape. This, in turn, will require other companies to adapt and respond to the changing competitive dynamics. The development of open-weight models will also require careful consideration of the potential risks and consequences, including the potential for job displacement and the need for new forms of regulation.
 ## History of AI Development
 The development of AI has a long and complex history, with multiple players and companies contributing to the growth of the industry. However, in recent years, China has emerged as a major player in the AI landscape, with significant investments in research and development. This growth has been driven by a combination of factors, including government support and private investment. As a result, China's AI capabilities are now among the most advanced in the world, and the company is likely to play an increasingly important role in the global AI landscape.
+
+## Updates
+
+- **2026-07-29** — The US is banning foreign-made humanoid robots and power inverters ([source](https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters/))
