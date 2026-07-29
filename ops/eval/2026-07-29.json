@@ -1,56 +1,58 @@
 {
-  "generated_at": "2026-07-29T17:14:33.289Z",
+  "generated_at": "2026-07-29T21:09:04.984Z",
   "window_days": 7,
-  "total_records": 1344,
+  "total_records": 1555,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 461,
-      "success": 186,
-      "success_rate": 0.403470715835141,
-      "latency_p50": 10022,
+      "calls": 541,
+      "success": 194,
+      "success_rate": 0.3585951940850277,
+      "latency_p50": 9901,
       "latency_p95": 22156,
-      "response_chars_mean": 1976,
+      "response_chars_mean": 2110,
       "error_classes": {
-        "rate_limit": 12,
-        "unknown": 257,
+        "rate_limit": 13,
+        "unknown": 328,
         "timeout": 3,
         "server_error": 2,
         "spending_cap": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 54,
-      "success": 40,
-      "success_rate": 0.7407407407407407,
-      "latency_p50": 1037,
+      "calls": 60,
+      "success": 41,
+      "success_rate": 0.6833333333333333,
+      "latency_p50": 1062,
       "latency_p95": 12290,
-      "response_chars_mean": 1259,
+      "response_chars_mean": 1305,
       "error_classes": {
-        "unknown": 12,
-        "rate_limit": 2
+        "unknown": 16,
+        "rate_limit": 3
       }
     },
     "lengthen:v1": {
-      "calls": 82,
-      "success": 60,
-      "success_rate": 0.7317073170731707,
+      "calls": 90,
+      "success": 61,
+      "success_rate": 0.6777777777777778,
       "latency_p50": 1832,
       "latency_p95": 9407,
-      "response_chars_mean": 3345,
+      "response_chars_mean": 3360,
       "error_classes": {
-        "rate_limit": 5,
-        "unknown": 16,
+        "rate_limit": 7,
+        "unknown": 21,
         "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 2,
+      "calls": 8,
       "success": 2,
-      "success_rate": 1,
+      "success_rate": 0.25,
       "latency_p50": 181,
       "latency_p95": 181,
       "response_chars_mean": 59,
-      "error_classes": {}
+      "error_classes": {
+        "unknown": 6
+      }
     }
   }
 }

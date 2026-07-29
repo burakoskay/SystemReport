@@ -1,18 +1,20 @@
 ---
 title: "Tech Elites Star in New Game Show"
 date: 2026-06-05T04:11:41.826Z
+modified_date: 2026-07-29T20:48:12.603Z
 tags: ["Tech","Entertainment","Founders Fund"]
 hero_image: "/hero/2026-06-05-tech-elites-star-in-new-game-show-76b3e7.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Game Show"
 description: "Founders Fund launches game show with Sam Altman and Palmer Luckey"
-sources_count: 5
-author: "sam-whitfield"
+sources_count: 6
 audio_path: "/audio/2026-06-05-tech-elites-star-in-new-game-show-76b3e7.mp3"
 audio_bytes: 546108
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Founders Fund Launches New Game Show
 The debut episode of Founders Fund's new game show, moderated by chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries, including Sam Altman and Palmer Luckey. This move by Founders Fund is notable because it brings together two influential figures in the tech industry. The game show's format and the selection of its participants reflect the fund's interest in showcasing the personalities and ideas of the tech elite.
@@ -40,3 +42,7 @@ The game show's format and production are also notable for their technical mecha
 
 ## Industry Impact
 The launch of Founders Fund's game show is also having an impact on the tech industry as a whole. The show's focus on the personalities and ideas of the tech elite is reflective of the industry's growing interest in showcasing its human side. The show is also providing a platform for tech companies and investors to connect with each other and with the broader public. The show's success is also likely to inspire other tech companies and investors to launch their own entertainment initiatives, further blurring the lines between tech and entertainment.
+
+## Updates
+
+- **2026-07-29** — Google teases the Pixel 11 Pro and hints at a new camera bar feature ([source](https://www.engadget.com/2226320/google-pixel-11-pro-camera-bar-tease/))

@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-05-23T03:40:51.511Z
+modified_date: 2026-07-29T20:48:27.457Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 15
+sources_count: 16
 author: "lena-volkov"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-07-29** — A.I. companies are recruiting electricians and carpenters by the thousands ([source](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html))
 - **2026-05-23** — Ebola outbreak now third largest recorded and "spreading rapidly" ([source](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/))
 - **2026-05-19** — Nintendo’s $500 Switch 2 bundle includes a game, and it&#8217;s available now ([source](https://www.theverge.com/gadgets/933792/nintendo-switch-2-choose-your-game-console-bundle-deal))
 - **2026-05-19** — Google’s Genie world model can now simulate real streets with Street View ([source](https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/))

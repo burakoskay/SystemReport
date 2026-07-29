@@ -1,18 +1,20 @@
 ---
 title: "Google Halts Chromecast Updates, 4K Devices Unstable"
 date: 2026-05-22T20:06:44.710Z
+modified_date: 2026-07-29T20:47:57.741Z
 tags: ["google","chromecast","android"]
 hero_image: "/hero/2026-05-22-google-halts-chromecast-updates-4k-devices-unstable-d25746.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "close-up of a Chromecast dongle plugged into a TV with a remote beside it"
 description: "Google stops software support for most Chromecast models and rolls out Android 12, while Android 14 brings new bugs, sparking concerns for power users."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-22-google-halts-chromecast-updates-4k-devices-unstable-d25746.mp3"
 audio_bytes: 684662
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google pulls the plug on Chromecast updates
 Google announced it will stop software and security updates for the first‑generation Chromecast and for virtually every other Chromecast model, leaving only a single device still receiving patches. The move ends a decade‑long support cycle for the $35 dongle that introduced cheap streaming to living rooms.
@@ -40,3 +42,7 @@ Google’s decision also reshapes the competitive landscape. Competing streaming
 
 ## What to watch next
 The next critical data point is Google’s response to the Android 14 connectivity bugs. If a patch lands within the next month, it could restore confidence in the 4K Chromecast as a viable streaming hub. Conversely, a prolonged silence would likely accelerate the shift of power users toward competing devices. Keep an eye on the official Chromecast firmware page for a new build number and on community forums for any announced security‑patch extensions for the first‑gen model.
+
+## Updates
+
+- **2026-07-29** — OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots ([source](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview))

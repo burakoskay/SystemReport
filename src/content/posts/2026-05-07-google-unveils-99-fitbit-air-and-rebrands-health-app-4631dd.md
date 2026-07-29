@@ -1,19 +1,20 @@
 ---
 title: "Google Unveils $99 Fitbit Air and Rebrands Health App"
 date: 2026-05-07T14:32:21.490Z
-modified_date: 2026-07-28T16:02:58.952Z
+modified_date: 2026-07-29T20:48:17.529Z
 tags: ["Google","Fitbit","Wearable Technology"]
 hero_image: "/hero/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.jpg"
 hero_image_credit_name: "Burst"
 hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "Fitbit Air"
 description: "Google launches $99 screen-less Fitbit Air and rebrands Google Fit to Google Health, streamlining health and fitness tracking."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.mp3"
 audio_bytes: 594173
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Looking ahead, Google's focus on health and fitness tracking is likely to contin
 
 ## Updates
 
+- **2026-07-29** — Samsung’s next pair of Galaxy Buds show off open-ear design in another leak [Gallery] ([source](https://9to5google.com/2026/07/29/samsung-galaxy-buds-open-ear-leak/))
 - **2026-07-28** — Nothing rumored to launch its own smartwatch for ‘under $300’ – I hope it has Wear OS ([source](https://9to5google.com/2026/07/28/nothing-smartwatch-rumors/))
 - **2026-06-05** — Programmers will document for Claude, but not for each other ([source](https://blog.plover.com/2026/03/09/#documentation-wins-2))
 - **2026-05-14** — Google’s Fitbit Air is super comfortable, but its AI coach is already hallucinating ([source](https://9to5google.com/2026/05/14/google-fitbit-air-initial-impressions/))
