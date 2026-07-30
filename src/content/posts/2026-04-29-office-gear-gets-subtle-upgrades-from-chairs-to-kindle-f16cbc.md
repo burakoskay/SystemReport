@@ -1,16 +1,17 @@
 ---
 title: "Office gear gets subtle upgrades, from chairs to Kindle"
 date: 2026-04-29T10:17:32.062Z
-modified_date: 2026-07-26T17:12:12.166Z
+modified_date: 2026-07-30T11:48:34.483Z
 tags: ["office","hardware","tech","updates"]
 hero_image: "/hero/2026-04-29-office-gear-gets-subtle-upgrades-from-chairs-to-kindle-f16cbc.jpg"
 hero_image_credit_name: "Alpha En"
 hero_image_credit_url: "https://www.pexels.com/@alphaen"
 visual_keyword: "modern office setup with ergonomic chair, earbuds, smart lighting, and e-reader"
 description: "New Vari Align chair, Galaxy Buds 4 stability patch, Philips Hue SpatialAware lighting, and Kindle dark mode roll out, reshaping the office tech mix."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Watch how quickly the Galaxy Buds stability patch expands beyond the initial reg
 
 ## Updates
 
+- **2026-07-30** — TCL Tab A1 Plus Review (2026): Cheap Tablet That Doesn’t Feel It ([source](https://www.wired.com/review/tcl-tab-a1-plus-tablet/))
 - **2026-07-26** — Claude Opus 5 launches with similar performance as Fable 5 for ‘half the price’ ([source](https://9to5google.com/2026/07/24/anthropic-launches-claude-opus-5/))
 - **2026-05-25** — All of the Best Memorial Day deals: Pixel 10 up to $300 off, Galaxy gear up to $375 off, e-Bikes, Switch 2, Anker, more ([source](https://9to5google.com/2026/05/25/all-best-memorial-day-deals-pixel-galaxy/))
 - **2026-05-14** — Netflix is building an AI animation studio ([source](https://www.theverge.com/column/930118/netflix-gen-ai-animation-inkubator))

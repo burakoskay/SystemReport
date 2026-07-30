@@ -1,18 +1,20 @@
 ---
 title: "TeamPCP's Open-Source Poisoning Spree Hits GitHub"
 date: 2026-05-21T09:54:18.765Z
+modified_date: 2026-07-30T11:48:39.806Z
 tags: ["open-source","software supply chain","cybersecurity"]
 hero_image: "/hero/2026-05-21-teampcp-s-open-source-poisoning-spree-hits-github-aeca08.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "github"
 description: "TeamPCP carried out a large-scale supply-chain attack on GitHub, impacting hundreds of projects."
-sources_count: 4
-author: "priya-raman"
+sources_count: 5
 audio_path: "/audio/2026-05-21-teampcp-s-open-source-poisoning-spree-hits-github-aeca08.mp3"
 audio_bytes: 596054
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## TeamPCP's Open-Source Poisoning Spree Hits GitHub
@@ -45,3 +47,6 @@ The TeamPCP attack highlights the vulnerability of the open-source software supp
 ## Conclusion
 The TeamPCP attack is a significant threat to the open-source community. It highlights the need for better security measures and improved collaboration between companies and the open-source community. The incident emphasizes the importance of securing the open-source supply chain and the need for increased awareness of the risks associated with software supply chain attacks.
 
+## Updates
+
+- **2026-07-30** — A Civilian Plane Crashed in New Mexico. Was the Military’s Tech to Blame? ([source](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/))

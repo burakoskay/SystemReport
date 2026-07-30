@@ -1,18 +1,20 @@
 ---
 title: "Skyroot's Orbital Ambition"
 date: 2026-05-07T17:55:37.700Z
+modified_date: 2026-07-30T11:48:50.297Z
 tags: ["space technology","Skyroot","orbital launch","Indian space sector"]
 hero_image: "/hero/2026-05-07-skyroot-s-orbital-ambition-40e614.jpg"
 hero_image_credit_name: "Văn Nguyễn Hoàng"
 hero_image_credit_url: "https://www.pexels.com/@valdemarvan"
 visual_keyword: "Skyroot"
 description: "India's space tech sector sees a unicorn as Skyroot gears up for its first private orbital launch."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-07-skyroot-s-orbital-ambition-40e614.mp3"
 audio_bytes: 614653
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Skyroot's Valuation Soars
@@ -64,3 +66,7 @@ In conclusion, Skyroot's upcoming orbital launch is a significant milestone for 
 The Indian government has been supportive of the growth of the space sector, with initiatives like the New Space Policy 2022 aimed at promoting private investment and innovation. Skyroot's success could be a significant step towards achieving the goals outlined in this policy.
 
 The success of Skyroot and other Indian space startups could lead to a more vibrant and diverse space industry in India, with potential spin-offs in areas like satellite-based services and space-based applications.
+
+## Updates
+
+- **2026-07-30** — Surprise: The global oil crisis is pushing people toward buying electrified cars ([source](https://www.engadget.com/2226837/electric-vehicle-sales-spike-in-wake-of-oil-crisis/))

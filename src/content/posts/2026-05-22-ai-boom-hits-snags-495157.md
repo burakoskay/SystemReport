@@ -1,15 +1,17 @@
 ---
 title: "AI Boom Hits Snags"
 date: 2026-05-22T09:37:25.674Z
+modified_date: 2026-07-30T11:48:45.103Z
 tags: ["AI","Gulf Region","Internet Infrastructure"]
 hero_image: "/hero/2026-05-22-ai-boom-hits-snags-495157.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "AI Boom"
 description: "Hyperscalers push Gulf to rethink internet infrastructure as AI raises stakes of cable disruptions. Trump delays AI oversight executive order."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Introduction to AI Boom
 The Gulf's AI boom is pushing the region to rethink its internet infrastructure. Hyperscalers are driving this change as AI raises the stakes of cable disruptions. The region's reliance on undersea cables for internet connectivity makes it vulnerable to disruptions, which can have significant economic implications.
@@ -37,3 +39,7 @@ The Gulf's AI boom has significant implications for the region's economy and inf
 
 ## Technical Challenges
 The implementation of AI systems is not without its challenges. The Gulf's undersea cable problem is a prime example of the infrastructure challenges that need to be addressed. As the region continues to invest in AI, it will be important to address the technical challenges of implementing AI systems, including the need for reliable internet infrastructure and the potential for disruptions to the region's internet connectivity. The industry will need to develop innovative solutions to address these challenges and ensure the safe and responsible development of AI.
+
+## Updates
+
+- **2026-07-30** — The spacecraft NASA sent to rescue the falling Swift observatory is in trouble ([source](https://www.engadget.com/2226863/nasa-swift-rescue-link-probe-in-trouble/))
