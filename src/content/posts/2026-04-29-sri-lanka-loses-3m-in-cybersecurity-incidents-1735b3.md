@@ -1,16 +1,17 @@
 ---
 title: "Sri Lanka Loses $3M in Cybersecurity Incidents"
 date: 2026-04-29T14:16:33.875Z
-modified_date: 2026-07-28T21:04:49.406Z
+modified_date: 2026-07-30T01:52:26.541Z
 tags: ["Cybersecurity","Data Protection","Privacy","Geofence Warrants"]
 hero_image: "/hero/2026-04-29-sri-lanka-loses-3m-in-cybersecurity-incidents-1735b3.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "lock"
 description: "Recent cybersecurity incidents cost Sri Lanka $3 million, while the US Supreme Court considers the legality of geofence warrants, highlighting growing concerns over data protection and privacy."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The growth of cybersecurity awareness training has led to an increase in the dem
 
 ## Updates
 
+- **2026-07-30** — Show HN: CheapFoodMap – A map of good meals under $10 ([source](https://cheapfoodmap.com/))
 - **2026-07-28** — Anthropeum – Where in the world, and when, does this human artifact belong? ([source](https://anthropeum.com/))
 - **2026-07-26** — You can get three months of Xbox Game Pass Ultimate for almost half off ([source](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale))
 - **2026-05-28** — Call of Duty: Warzone is dropping PS4 and Xbox One support later this year ([source](https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support))
