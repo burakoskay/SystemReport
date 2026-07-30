@@ -1,18 +1,20 @@
 ---
 title: "Fake Reviews on Amazon"
 date: 2026-06-07T11:52:59.092Z
+modified_date: 2026-07-30T15:49:07.291Z
 tags: ["Amazon","Fake Reviews","E-commerce"]
 hero_image: "/hero/2026-06-07-fake-reviews-on-amazon-5dae1c.jpg"
 hero_image_credit_name: "Miguel Angel Lozano Baron"
 hero_image_credit_url: "https://www.pexels.com/@miguel-angel-lozano-baron-1293045616"
 visual_keyword: "Amazon"
 description: "Fake reviews affect tech products"
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-07-fake-reviews-on-amazon-5dae1c.mp3"
 audio_bytes: 650598
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to the Problem
 Fake reviews are a significant issue on Amazon. A 2019 investigation by Which? found hundreds of tech products from lesser-known brands had fake reviews.
@@ -38,3 +40,7 @@ Amazon's large market share makes it a prime target for fake reviews. Other e-co
 Regulatory bodies, such as the Federal Trade Commission (FTC), have taken steps to address the issue of fake reviews. The FTC has issued guidelines for companies to follow when it comes to reviews, and has taken enforcement action against companies that violate these guidelines.
 ## Consumer Awareness
 Consumer awareness is key to combating fake reviews. Consumers must be aware of the signs of fake reviews, such as unverified purchases and overly positive language. By being aware of these signs, consumers can make more informed purchasing decisions and help to reduce the impact of fake reviews.
+
+## Updates
+
+- **2026-07-30** — Samsung has another brand-new Galaxy Buds design, and they just leaked [Gallery] ([source](https://9to5google.com/2026/07/30/samsung-galaxy-buds-ear-hook-design-leak/))

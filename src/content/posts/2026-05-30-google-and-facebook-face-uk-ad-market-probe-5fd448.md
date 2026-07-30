@@ -1,18 +1,20 @@
 ---
 title: "Google and Facebook Face UK Ad Market Probe"
 date: 2026-05-30T06:51:12.423Z
+modified_date: 2026-07-30T15:49:17.270Z
 tags: ["Google","Facebook","UK Ad Market","Competition Watchdog"]
 hero_image: "/hero/2026-05-30-google-and-facebook-face-uk-ad-market-probe-5fd448.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Digital Advertising"
 description: "UK competition watchdog investigates Google and Facebook"
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-05-30-google-and-facebook-face-uk-ad-market-probe-5fd448.mp3"
 audio_bytes: 607757
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to the Investigation
 Google and Facebook are under scrutiny by the UK competition watchdog for their dominance in the £13bn UK digital advertising market. The Competition and Markets Authority (CMA) has launched an investigation into the way these tech giants collect and exploit personal data.
@@ -32,3 +34,7 @@ The CMA's investigation may have significant downstream implications for the dig
 The investigation has been met with a mixed reaction from the industry. Some have welcomed the investigation, arguing that it is necessary to ensure that the digital ad market is operating fairly and transparently. Others have expressed concerns that the investigation could lead to over-regulation and stifle innovation in the industry.
 ## Consumer Impact
 The investigation may also have significant implications for consumers. If the investigation leads to changes in the way that Google and Facebook collect and use personal data, this could result in increased protection for consumers and greater control over their personal data. The investigation may also lead to increased awareness among consumers about the use of their personal data in the digital ad market.
+
+## Updates
+
+- **2026-07-30** — Google says Pixel battery drain should be fixed in July and September updates ([source](https://9to5google.com/2026/07/30/google-pixel-battery-drain-fix-update-problems/))

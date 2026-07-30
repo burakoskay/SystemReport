@@ -1,16 +1,17 @@
 ---
 title: "Pursuit Secures $22M to Streamline Gov Sales"
 date: 2026-04-30T10:14:17.698Z
-modified_date: 2026-05-14T18:02:42.057Z
+modified_date: 2026-07-30T15:48:47.215Z
 tags: ["gov tech","government technology","Pursuit"]
 hero_image: "/hero/2026-04-30-pursuit-secures-22m-to-streamline-gov-sales-f667dd.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "gov tech"
 description: "Pursuit, backed by Bill Gurley and Jack Altman, raises $22M Series A led by OpenGov co-founder Mike Rosengarten to help companies sell to government."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,4 +67,5 @@ As the gov tech space continues to evolve, Pursuit is well-positioned to play a 
 
 ## Updates
 
+- **2026-07-30** — Netflix lands global streaming deal for ‘The Walking Dead’ ([source](https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/))
 - **2026-05-14** — Americans really don't want AI data centers close to their homes ([source](https://www.engadget.com/2173078/americans-really-dont-want-ai-data-centers-close-to-their-homes/))
