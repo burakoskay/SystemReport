@@ -1,19 +1,20 @@
 ---
 title: "AI Chip Race Intensifies"
 date: 2026-04-24T17:20:52.352Z
-modified_date: 2026-05-25T15:17:50.422Z
+modified_date: 2026-07-30T04:54:53.178Z
 tags: ["AI","chips","Meta","Amazon"]
 hero_image: "/hero/2026-04-24-ai-chip-race-intensifies-0db41f.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI chips"
 description: "Meta signs deal for Amazon AI CPUs, Nothing introduces on-device AI dictation"
-sources_count: 12
-author: "maya-chen"
+sources_count: 13
 audio_path: "/audio/2026-04-24-ai-chip-race-intensifies-0db41f.mp3"
 audio_bytes: 619251
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ The AI chip race is intensifying, with companies like Meta, Amazon, and Apple co
 
 ## Updates
 
+- **2026-07-30** — The Productivity Mirage ([source](https://frantic.im/mirage/))
 - **2026-05-25** — ‘Galaxy Z Fold 8 Ultra’ leaks, but it’s probably not for the foldable you thought ([source](https://9to5google.com/2026/05/25/galaxy-z-fold-8-ultra-branding-leak/))
 - **2026-05-23** — The Art of Money Getting ([source](https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/))
 - **2026-04-30** — The ROG Xbox Ally X is getting some updates, including Automatic Super Resolution ([source](https://www.engadget.com/2160776/the-rog-xbox-ally-x-is-getting-some-updates-including-automatic-super-resolution/))

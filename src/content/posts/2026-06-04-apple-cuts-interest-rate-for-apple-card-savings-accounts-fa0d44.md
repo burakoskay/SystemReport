@@ -1,18 +1,20 @@
 ---
 title: "Apple Cuts Interest Rate for Apple Card Savings Accounts"
 date: 2026-06-04T15:30:46.312Z
+modified_date: 2026-07-30T04:54:48.081Z
 tags: ["Apple","Apple Card","Savings Accounts","Interest Rates"]
 hero_image: "/hero/2026-06-04-apple-cuts-interest-rate-for-apple-card-savings-accounts-fa0d44.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Card"
 description: "Apple has cut the interest rate for its Apple Card Savings accounts for the second time this year, from 3.5% to an unspecified lower rate."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-04-apple-cuts-interest-rate-for-apple-card-savings-accounts-fa0d44.mp3"
 audio_bytes: 589576
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple Cuts Interest Rate for Apple Card Savings Accounts
@@ -63,3 +65,6 @@ The Apple Card Savings account is not the only high-yield savings option availab
 
 The reduction in interest rates for the Apple Card Savings account may impact consumer behavior. Some users may choose to switch to alternative savings options, while others may adjust their spending habits. By understanding how consumers respond to changes in interest rates, financial institutions can better serve their customers' needs.
 
+## Updates
+
+- **2026-07-30** — PSA: App Store, iTunes Store and other Apple services are currently down for some users [U: Fixed] ([source](https://9to5mac.com/2026/07/29/psa-app-store-itunes-store-and-other-apple-services-are-currently-down-for-some-users/))
