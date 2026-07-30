@@ -1,18 +1,20 @@
 ---
 title: "LLM Steering Revival"
 date: 2026-05-16T19:13:36.715Z
+modified_date: 2026-07-30T13:46:23.525Z
 tags: ["LLM","AI","DeepSeek-V4-Flash"]
 hero_image: "/hero/2026-05-16-llm-steering-revival-dd693e.jpg"
 hero_image_credit_name: "Alin-Samuel  Carp"
 hero_image_credit_url: "https://www.pexels.com/@alin-samuel-carp-2150579639"
 visual_keyword: "LLM Steering"
 description: "DeepSeek-V4-Flash sparks interest in LLM control methods. Tech firms explore new AI approaches."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-16-llm-steering-revival-dd693e.mp3"
 audio_bytes: 613191
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Revival of LLM Steering
@@ -63,3 +65,6 @@ The revival of interest in LLM steering is a significant development in the AI l
 
 The next significant decision or product launch to track is the DoD's implementation of AI-driven technologies. Specifically, their approach to integrating LLM steering mechanisms into defense platforms could set a precedent for future developments.
 
+## Updates
+
+- **2026-07-30** — Dili raises $21.7M to bring AI compliance to the infrastructure boom ([source](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/))

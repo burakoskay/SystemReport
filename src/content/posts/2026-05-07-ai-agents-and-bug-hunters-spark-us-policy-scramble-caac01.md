@@ -1,16 +1,17 @@
 ---
 title: "AI agents and bug hunters spark US policy scramble"
 date: 2026-05-07T23:13:35.000Z
-modified_date: 2026-07-29T13:56:51.942Z
+modified_date: 2026-07-30T13:46:02.383Z
 tags: ["ai","security","policy","space","tech"]
 hero_image: "/hero/2026-05-07-ai-agents-and-bug-hunters-spark-us-policy-scramble-caac01.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI code analysis robot beside satellite network"
 description: "Mozilla's AI bug scanner, Meta's shopping AI, and a US report on China's tech push converge to reshape security, commerce, and regulation."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ What to watch: The next quarterly release from Mozilla should reveal Mythos' fal
 
 ## Updates
 
+- **2026-07-30** — Amazon’s short story collections are one of the best reasons to own a Kindle ([source](https://www.theverge.com/tech/972612/amazons-kindle-short-stories))
 - **2026-07-29** — We’re running out of reasons to ignore AI safety ([source](https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning))
 - **2026-06-01** — This could be Windows’ M1 moment — but expect it to cost a ton ([source](https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram))
 - **2026-05-19** — Democrats preview how they’d go after the Ticketmaster settlement if they regain power ([source](https://www.theverge.com/policy/934112/live-nation-ticketmaster-democrats-doj-settlement))

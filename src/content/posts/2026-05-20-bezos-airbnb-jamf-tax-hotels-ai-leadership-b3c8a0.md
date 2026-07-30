@@ -1,16 +1,17 @@
 ---
 title: "Bezos, Airbnb, Jamf: Tax, Hotels, AI Leadership"
 date: 2026-05-20T18:29:07.065Z
-modified_date: 2026-06-03T17:00:04.125Z
+modified_date: 2026-07-30T13:46:18.271Z
 tags: ["taxes","airbnb","jamf","ai","leadership"]
 hero_image: "/hero/2026-05-20-bezos-airbnb-jamf-tax-hotels-ai-leadership-b3c8a0.jpg"
 hero_image_credit_name: "Harun  UZ"
 hero_image_credit_url: "https://www.pexels.com/@harunuzphotography"
 visual_keyword: "modern cityscape with hotel and AI symbols"
 description: "Bezos critiques middle‑class taxes, Airbnb adds hotels and grocery delivery, and Jamf appoints its first female CEO to steer an AI push."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 Jeff Bezos blasted a $1,000‑plus monthly tax bill on a Queens nurse during a CNBC interview Wednesday. The criticism landed amid a broader debate over how the tax code treats middle‑income earners.
@@ -45,4 +46,5 @@ Jamf's AI focus puts it in direct competition with larger device‑management ve
 
 ## Updates
 
+- **2026-07-30** — Spotify for iOS adds new music feature that can improve your running game ([source](https://9to5mac.com/2026/07/30/spotify-ios-running-mode/))
 - **2026-06-03** — iOS 27 will reportedly add two major new features to Apple Wallet ([source](https://9to5mac.com/2026/06/03/ios-27-will-reportedly-add-two-major-new-features-to-apple-wallet/))
