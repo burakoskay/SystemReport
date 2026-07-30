@@ -1,16 +1,17 @@
 ---
 title: "Microsoft's Data Centers Threaten Clean Energy Goals"
 date: 2026-05-06T21:31:48.512Z
-modified_date: 2026-05-27T10:02:57.953Z
+modified_date: 2026-07-30T21:02:28.382Z
 tags: ["microsoft","data-centers","clean-energy","ai","sustainability"]
 hero_image: "/hero/2026-05-06-microsoft-s-data-centers-threaten-clean-energy-goals-a1cb21.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "modern data center with solar panels and wind turbines in the background"
 description: "Microsoft's AI-driven data center expansion risks undermining its 2030 clean energy targets as infrastructure demand grows."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Clean Energy Conflict
@@ -49,4 +50,5 @@ The company’s next quarterly sustainability report, due January 2025, will als
 
 ## Updates
 
+- **2026-07-30** — Apple pledges support for earthquake relief efforts in Japan ([source](https://9to5mac.com/2026/07/30/apple-pledges-support-for-earthquake-relief-efforts-in-japan/))
 - **2026-05-27** — Airbnb-backed WeRoad raises $58M to take its group travel platform to the US ([source](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/))

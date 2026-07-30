@@ -1,15 +1,17 @@
 ---
 title: "Discord, Android, and Firefox Update Security Features"
 date: 2026-05-20T04:00:21.586Z
+modified_date: 2026-07-30T21:02:18.375Z
 tags: ["Discord","Android","Firefox","Security Features"]
 hero_image: "/hero/2026-05-20-discord-android-and-firefox-update-security-features-976d72.jpg"
 hero_image_credit_name: "zeng jinwen"
 hero_image_credit_url: "https://www.pexels.com/@zeng-jinwen-679366437"
 visual_keyword: "Security"
 description: "Discord encrypts calls, Android 17 introduces Continue On, Firefox adds AI guardrail"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Discord now secures all voice calls with end-to-end encryption. This change brings a uniform security model to the platform. The move is a significant step towards protecting user data and addressing concerns over privacy. By encrypting all voice calls, Discord is providing users with an additional layer of security and control over their communications.
 ## Android 17’s Continue On
@@ -28,3 +30,7 @@ The updates from Discord, Android, and Firefox have significant implications for
 The trend towards greater user control over data is not limited to these three companies. Other tech companies, such as Apple and Microsoft, are also investing in features that prioritize user privacy and security. The rise of end-to-end encryption, AI guardrails, and seamless handoff features is a response to user demands for more control over their data. As the industry continues to evolve, it is likely that we will see new features and technologies emerge to address user concerns and provide even greater control over data.
 ## History of User Control
 The demand for greater user control over data is not a new phenomenon. In recent years, there have been several high-profile incidents that have highlighted the importance of user privacy and security. The Cambridge Analytica scandal, for example, showed how user data can be misused by third-party companies. The GDPR and CCPA regulations have also played a significant role in shaping the industry’s approach to user data. As users become more aware of the importance of data privacy and security, companies are being forced to adapt and provide features that meet these demands.
+
+## Updates
+
+- **2026-07-30** — Apple reports Q3 2026 earnings: $109.4 billion in revenue, up 16% [Charts] ([source](https://9to5mac.com/2026/07/30/apple-reports-q3-2026-earnings-109-4-billion-in-revenue-up-16/))

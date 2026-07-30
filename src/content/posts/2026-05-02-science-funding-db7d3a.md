@@ -1,15 +1,17 @@
 ---
 title: "Science Funding"
 date: 2026-05-02T16:56:26.547Z
+modified_date: 2026-07-30T21:02:13.364Z
 tags: ["science","crowdfunding","spacex"]
 hero_image: "/hero/2026-05-02-science-funding-db7d3a.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "science"
 description: "Petridish crowdfunds science projects, transforming research funding. SpaceX recovers Dragon capsule with scientific experiments."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Petridish
@@ -42,3 +44,6 @@ The next steps for Petridish and SpaceX will be important to watch, as they cont
 ## Broader Implications for Science Research
 The growth of crowdfunding platforms like Petridish and the increasing use of technology in research have broader implications for the field of science research. For instance, these developments could lead to a more democratization of science research, where researchers from all over the world can access funding and resources. Additionally, the use of crowdfunding and technology could lead to a more efficient and effective use of resources, as researchers can use data and analytics to inform their decisions. Overall, the future of science research looks promising, and it will be exciting to see how these developments play out.
 
+## Updates
+
+- **2026-07-30** — Apple just hit 1.5 billion paid subscriptions from its user base ([source](https://9to5mac.com/2026/07/30/apple-just-hit-1-5-billion-paid-subscriptions-from-its-user-base/))

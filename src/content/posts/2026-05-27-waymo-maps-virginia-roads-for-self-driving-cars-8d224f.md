@@ -1,18 +1,20 @@
 ---
 title: "Waymo Maps Virginia Roads for Self-Driving Cars"
 date: 2026-05-27T15:59:19.746Z
+modified_date: 2026-07-30T21:02:03.301Z
 tags: ["self-driving cars","Waymo","Virginia"]
 hero_image: "/hero/2026-05-27-waymo-maps-virginia-roads-for-self-driving-cars-8d224f.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "self-driving cars"
 description: "Waymo begins mapping Virginia roads for self-driving car tests in Alexandria and Arlington."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-27-waymo-maps-virginia-roads-for-self-driving-cars-8d224f.mp3"
 audio_bytes: 631999
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Waymo Expands Self-Driving Car Testing to Virginia
@@ -59,3 +61,6 @@ As Waymo and other companies continue to test and refine their self-driving car 
 
 Waymo's expansion to Virginia marks a significant milestone in the development of self-driving car technology. As the company continues to test and refine its technology, it is likely to have a major impact on the industry and society as a whole. With its commitment to safety and innovation, Waymo is leading the way in the development of self-driving cars, and its expansion to Virginia is just the beginning.
 
+## Updates
+
+- **2026-07-30** — Snap will show off its AR Specs at a September 16 event ([source](https://www.engadget.com/2227433/snap-ar-specs-launch-date-september-event/))
