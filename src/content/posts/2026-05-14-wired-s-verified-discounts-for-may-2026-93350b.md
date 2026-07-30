@@ -1,16 +1,17 @@
 ---
 title: "WIRED's Verified Discounts for May 2026"
 date: 2026-05-14T06:50:12.741Z
-modified_date: 2026-06-02T16:42:38.195Z
+modified_date: 2026-07-30T17:21:08.591Z
 tags: ["Retail","Discounts","Promotions","Sephora","Birdfy"]
 hero_image: "/hero/2026-05-14-wired-s-verified-discounts-for-may-2026-93350b.jpg"
 hero_image_credit_name: "David Kouakou"
 hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Consumer behavior and preferences are constantly evolving, and retailers must be
 
 ## Updates
 
+- **2026-07-30** — Deals: Galaxy Z Fold 8 trades – $600 back + $350 gift card, 2026 Surface Laptop at $600 off, charger deals, more ([source](https://9to5google.com/2026/07/30/deals-galaxy-z-fold-8-trade-deals-2026-surface-laptop/))
 - **2026-06-02** — Cricut&#8217;s Joy 2 helps you personalize Father&#8217;s Day gifts, and it&#8217;s at its lowest price yet ([source](https://www.theverge.com/gadgets/941696/cricut-joy-2-rainbow-essential-bundle-deal-sale))
 - **2026-06-01** — Deals: Galaxy Z Fold 7 $779+ off, Tab S10 Lite $300, M8 Smart Monitor 50% off, Pixelsnap cases, more ([source](https://9to5google.com/2026/06/01/deals-galaxy-z-fold-7-tab-s10-lite-m8-smart-monitor/))
 - **2026-05-19** — Barkbox Promo Codes and Discounts: Up to 50% Off ([source](https://www.wired.com/story/barkbox-promo-code/))

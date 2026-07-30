@@ -1,18 +1,20 @@
 ---
 title: "Hantavirus Misinformation Spreads Online"
 date: 2026-05-12T18:06:52.229Z
+modified_date: 2026-07-30T17:21:03.438Z
 tags: ["hantavirus","misinformation","public health"]
 hero_image: "/hero/2026-05-12-hantavirus-misinformation-spreads-online-e19d07.jpg"
 hero_image_credit_name: "Daniel Dan"
 hero_image_credit_url: "https://www.pexels.com/@daniel-dan-47825192"
 visual_keyword: "hantavirus"
 description: "Conspiracy theories about hantavirus are spreading online, echoing Covid-19 tactics. Influencers and grifters push baseless claims, sell unproven treatments."
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-05-12-hantavirus-misinformation-spreads-online-e19d07.mp3"
 audio_bytes: 553840
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Misinformation Takes Hold
@@ -70,3 +72,7 @@ Social media platforms have a critical role to play in combating the spread of m
 ## A Call to Action
 
 The spread of misinformation about hantavirus is a call to action for public health institutions, social media platforms, and the public. It's essential that we work together to combat the spread of misinformation and promote accurate information. By being aware of the tactics used by influencers and grifters, and by seeking out credible sources of information, we can take steps to stay informed and protect ourselves from misinformation.
+
+## Updates
+
+- **2026-07-30** — Samsung Galaxy owners report battery drain, overheating with latest updates ([source](https://9to5google.com/2026/07/30/samsung-galaxy-battery-drain-july-update-issues/))

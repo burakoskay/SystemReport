@@ -1,18 +1,20 @@
 ---
 title: "AMD Prices Ryzen AI Halo PC at $3,999, Competes with Nvidia"
 date: 2026-05-21T04:11:03.004Z
+modified_date: 2026-07-30T17:20:42.790Z
 tags: ["AI","AMD","Nvidia"]
 hero_image: "/hero/2026-05-21-amd-prices-ryzen-ai-halo-pc-at-3-999-competes-with-nvidia-bc1d12.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AMD launches $3,999 Ryzen AI Halo PC, targets Nvidia's DGX Spark, as Adobe rolls out on-device AI in Photoshop 27.7."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-21-amd-prices-ryzen-ai-halo-pc-at-3-999-competes-with-nvidia-bc1d12.mp3"
 audio_bytes: 663346
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AMD Challenges Nvidia with Ryzen AI Halo PC
@@ -71,3 +73,6 @@ The companies that can provide the most efficient and cost-effective solutions f
 
 The downstream implications of the Ryzen AI Halo PC and Adobe's on-device AI feature are significant. As more companies adopt AI and machine learning technologies, the demand for high-performance computing and AI processing capabilities will continue to grow.
 
+## Updates
+
+- **2026-07-30** — New MCP specification addresses the main barrier to enterprise adoption ([source](https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/))
