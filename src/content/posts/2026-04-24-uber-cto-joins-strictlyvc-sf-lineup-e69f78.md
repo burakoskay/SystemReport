@@ -1,18 +1,20 @@
 ---
 title: "Uber CTO joins StrictlyVC SF lineup"
 date: 2026-04-24T17:32:34.129Z
+modified_date: 2026-07-30T19:17:31.158Z
 tags: ["AI","Uber","StrictlyVC SF"]
 hero_image: "/hero/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.jpg"
 hero_image_credit_name: "Federico Abis"
 hero_image_credit_url: "https://www.pexels.com/@federicoabisphotography"
 visual_keyword: "Uber"
 description: "Uber CTO Praveen Neppalli Naga joins StrictlyVC San Francisco on April 30 to discuss operating at scale in the age of AI."
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.mp3"
 audio_bytes: 635760
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Surprise Addition to StrictlyVC SF Lineup
 
@@ -51,3 +53,7 @@ The event on April 30 will also provide a platform for attendees to network and 
 ## Conclusion
 
 In conclusion, the addition of Uber CTO Praveen Neppalli Naga to the StrictlyVC SF lineup is a significant development for the tech industry. As companies continue to invest in AI, understanding how to operate at scale will become increasingly important. Naga's experience in driving Uber's technology strategy will provide valuable insights into the technical challenges and opportunities associated with scaling AI solutions. The event on April 30 offers a unique opportunity for industry leaders to share their experiences and insights on this topic, and to learn from the successes and challenges of others.
+
+## Updates
+
+- **2026-07-30** — Upper stage impacting the moon on 2026 August 5 ([source](https://www.projectpluto.com/25010d.htm))

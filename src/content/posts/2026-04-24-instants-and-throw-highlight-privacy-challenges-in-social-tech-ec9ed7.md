@@ -1,19 +1,20 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-07-29T10:34:25.133Z
+modified_date: 2026-07-30T19:16:39.456Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-07-30** — Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI ([source](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/))
 - **2026-07-29** — Hubble: Open-source notetaking app for you and your agents ([source](https://www.hubble.md/))
 - **2026-07-27** — Monday’s Android app deals and freebies: Friend of a Slime, Forest Golf Planner, AVARIS3, more ([source](https://9to5toys.com/2026/07/27/monday-android-app-deals-slime/))
 - **2026-06-04** — Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal ([source](https://www.theverge.com/tech/943445/cyberdeck-tiktok))

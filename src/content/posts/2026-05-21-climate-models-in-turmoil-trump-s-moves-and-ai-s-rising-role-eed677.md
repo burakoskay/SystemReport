@@ -1,15 +1,17 @@
 ---
 title: "Climate Models in Turmoil: Trump's Moves and AI's Rising Role"
 date: 2026-05-21T20:11:33.545Z
+modified_date: 2026-07-30T19:17:05.402Z
 tags: ["climate-models","ai-weather","ncar-crisis","wmo-reports","supercomputing"]
 hero_image: "/hero/2026-05-21-climate-models-in-turmoil-trump-s-moves-and-ai-s-rising-role-eed677.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "abstract weather patterns with glowing data streams intersecting a fragmented globe"
 description: "The 2024 climate report, NCAR's dismantling, and IBM-NASA's open-source AI collide in a pivotal moment for weather science."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## The WMO's Stark Warning: 2024 as a Climate Tipping Point
 
@@ -38,3 +40,7 @@ The WMO report makes this clear: "Every fraction of a degree matters." Even as m
 ## What to Watch Next
 
 Three threads will define the next 12 months. First, NSF’s reorganization proposal for NCAR will determine whether U.S. weather modeling becomes a patchwork of private vendors or maintains public infrastructure. Second, NOAA’s "Modeling for Prediction Across Scales" deployment in 2025 will test if IBM/NASA’s AI tools can integrate with traditional NWP models. Third, the 2026 hurricane season will be the first under WMO’s 1.5°C+ baseline, offering real-world data on how climate change alters storm behavior. The world needs to track these developments closely—because the next major storm won’t wait for policy debates to resolve.
+
+## Updates
+
+- **2026-07-30** — This MacBook Pro just fell below its pre-price-hike MSRP (Save $500) ([source](https://9to5mac.com/2026/07/30/this-macbook-pro-just-fell-below-its-pre-price-hike-msrp-save-500/))
