@@ -1,18 +1,20 @@
 ---
 title: "Microsoft’s AI Stall Meets Edge Overhaul as Apple Floods Deals"
 date: 2026-06-05T16:37:10.314Z
+modified_date: 2026-07-31T17:45:51.800Z
 tags: ["microsoft","apple","technews"]
 hero_image: "/hero/2026-06-05-microsoft-s-ai-stall-meets-edge-overhaul-as-apple-floods-deals-b0b30e.jpg"
 hero_image_credit_name: "Adrian Regeci"
 hero_image_credit_url: "https://www.pexels.com/@regeci"
 visual_keyword: "side‑by‑side view of a sleek Apple laptop and a Microsoft Edge login screen requiring biometric authentication"
 description: "Microsoft’s AI products falter and Edge drops master passwords while Apple rolls out deep discounts, reshaping the tech buying landscape."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-05-microsoft-s-ai-stall-meets-edge-overhaul-as-apple-floods-deals-b0b30e.mp3"
 audio_bytes: 579545
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft’s AI Products Miss the Mark
 
@@ -51,3 +53,7 @@ Developers watching these moves must weigh where to allocate resources. A develo
 Next quarter, Microsoft is expected to release an earnings update that will reveal whether Azure AI revenue rebounds. Analysts will also look for any clarification from the company on the GitHub troubles mentioned by Hanselman. On the Edge front, user adoption metrics for Windows Hello‑only access will surface in telemetry reports, indicating whether the security trade‑off pays off.
 
 Apple’s discount window is slated to close by the end of the month, according to 9to5Mac. Tracking inventory levels and subsequent pricing moves will show if the company plans a repeat of the “Lunch Break” strategy during the holiday season. The interplay between Microsoft’s software challenges and Apple’s hardware incentives will shape the purchasing calculus for engineers and founders alike.
+
+## Updates
+
+- **2026-07-31** — Ted Lasso returns next week with two major changes in season 4 ([source](https://9to5mac.com/2026/07/31/ted-lasso-returns-next-week-with-two-major-changes-in-season-4/))

@@ -1,15 +1,17 @@
 ---
 title: "Analyzing Amazon Product Reviews with Apache Spark"
 date: 2026-05-17T11:12:52.337Z
+modified_date: 2026-07-31T17:45:36.521Z
 tags: ["Apache Spark","Amazon","Data Analysis"]
 hero_image: "/hero/2026-05-17-analyzing-amazon-product-reviews-with-apache-spark-fe61c5.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apache Spark"
 description: "Apache Spark analyzes 80M Amazon reviews"
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 
 ## Introduction to Amazon Reviews
@@ -42,3 +44,6 @@ The analysis of Amazon product reviews is just the beginning. As more companies 
 ## Conclusion
 In conclusion, the analysis of Amazon product reviews with Apache Spark provides valuable insights into customer behavior and product performance. The use of Apache Spark to analyze large datasets is becoming increasingly common, and it has opened up new possibilities for data analysis and research. As more companies begin to use data analytics to inform their business decisions, we can expect to see new and innovative uses of data analysis.
 
+## Updates
+
+- **2026-07-31** — This new drone spins so fast the human eye can barely see it ([source](https://www.engadget.com/2222974/phantom-twist-drone-spins-so-fast-human-eye-barely-see/))
