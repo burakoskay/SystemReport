@@ -1,19 +1,20 @@
 ---
 title: "Google Updates"
 date: 2026-05-12T21:24:45.219Z
-modified_date: 2026-05-27T15:56:52.319Z
+modified_date: 2026-07-31T16:00:04.296Z
 tags: ["Google","Android","Artificial Intelligence"]
 hero_image: "/hero/2026-05-12-google-updates-12b357.jpg"
 hero_image_credit_name: "Firmbee.com"
 hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google"
 description: "Google adds Gemini-powered dictation to Gboard and launches new Android security features"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-12-google-updates-12b357.mp3"
 audio_bytes: 612773
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's Latest Moves
@@ -56,4 +57,5 @@ As Google continues to update and expand its features, it's essential to keep an
 
 ## Updates
 
+- **2026-07-31** — Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon ([source](https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/))
 - **2026-05-27** — Spotify's latest feature makes it easier to share podcast clips ([source](https://www.engadget.com/2181929/spotifys-latest-feature-makes-it-easier-to-share-podcast-clips/))

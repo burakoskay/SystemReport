@@ -1,15 +1,17 @@
 ---
 title: "Peec Doubles Revenue"
 date: 2026-05-23T09:58:55.763Z
+modified_date: 2026-07-31T16:00:34.174Z
 tags: ["startups","growth","innovation","ai"]
 hero_image: "/hero/2026-05-23-peec-doubles-revenue-c983fb.jpg"
 hero_image_credit_name: "Sabine Otten"
 hero_image_credit_url: "https://www.pexels.com/@sabine-otten-2148835519"
 visual_keyword: "Berlin startup growth"
 description: "Peec, a Berlin startup, doubles annualized revenue to $10M, sources say. The company helps brands track their presence in AI searches."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Peec's Rapid Growth
 Peec, one of Berlin's rising startups, has more than doubled its annualized revenue in months to $10M, according to sources. This rapid growth is a testament to the company's innovative approach to helping brands track their presence in AI searches.
@@ -39,3 +41,7 @@ The regulatory environment also plays a crucial role in shaping the startup ecos
 
 ## What to Watch
 As the startup landscape continues to evolve, there are several key trends and developments to watch. The growth of AI search tracking and the increasing importance of innovation in the startup ecosystem are just a few examples. The outcome of the Apple-Epic Games case and the regulatory environment in India will also have significant implications for startups. As Peec and other startups continue to grow and expand their services, it will be exciting to see how they navigate the challenges of the startup landscape and achieve success in the years to come.
+
+## Updates
+
+- **2026-07-31** — The session you cannot take with you ([source](https://earendil.com/posts/session-portability/))

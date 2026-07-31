@@ -1,18 +1,20 @@
 ---
 title: "AI Startups' Inflated ARR"
 date: 2026-05-22T21:16:56.606Z
+modified_date: 2026-07-31T16:00:24.227Z
 tags: ["AI startups","inflated ARR","revenue metrics","transparency"]
 hero_image: "/hero/2026-05-22-ai-startups-inflated-arr-d1cbc2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Inflated ARR
@@ -51,3 +53,6 @@ The use of inflated ARR in the AI startup industry is a complex issue. It requir
 ## Future Outlook
 The future outlook for the AI startup industry is promising, but it requires a focus on transparency and accountability. The industry's ability to self-regulate and promote best practices in financial reporting will be essential in maintaining credibility and attracting investors. The next few months will be crucial in determining the trajectory of AI startups and the industry's ability to promote transparency and accountability.
 
+## Updates
+
+- **2026-07-31** — Nothing reportedly prioritizing AI devices like its leaked smartwatch over smartphones ([source](https://9to5google.com/2026/07/31/nothing-smartwatch-audio-devices-leak-with-ai-focus/))
