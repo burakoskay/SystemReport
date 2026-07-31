@@ -1,15 +1,17 @@
 ---
 title: "Anthropic files for IPO as AI cost tools gain traction"
 date: 2026-06-01T21:50:13.604Z
+modified_date: 2026-07-31T10:33:08.088Z
 tags: ["AI","IPO","Anthropic","OpenAI"]
 hero_image: "/hero/2026-06-01-anthropic-files-for-ipo-as-ai-cost-tools-gain-traction-b343ce.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic's SEC filing puts it ahead of OpenAI for a public debut while AI firms roll out cost-control and skill marketplaces."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Anthropic files for IPO, beats OpenAI
 
@@ -68,3 +70,7 @@ The growth of AI skill marketplaces is also expected to drive the adoption of AI
 ## What to watch
 
 Investors will track Anthropic’s SEC filing progress, the pricing of its shares, and any lock-up agreements that could affect supply. At the same time, adoption metrics for MarginDash and Agensi—such as the number of tracked customers or marketplace transactions—will indicate whether independent cost-control and skill-distribution tools can scale alongside the broader AI boom. The next quarter should reveal whether public market scrutiny reshapes funding strategies for AI infrastructure firms.
+
+## Updates
+
+- **2026-07-31** — The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key ([source](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/))

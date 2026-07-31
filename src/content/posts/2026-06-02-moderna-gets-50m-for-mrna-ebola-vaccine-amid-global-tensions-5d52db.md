@@ -1,18 +1,20 @@
 ---
 title: "Moderna Gets $50M for mRNA Ebola Vaccine Amid Global Tensions"
 date: 2026-06-02T04:26:38.915Z
+modified_date: 2026-07-31T10:33:13.376Z
 tags: ["vaccines","mRNA","cancer","public health"]
 hero_image: "/hero/2026-06-02-moderna-gets-50m-for-mrna-ebola-vaccine-amid-global-tensions-5d52db.jpg"
 hero_image_credit_name: "olia danilevich"
 hero_image_credit_url: "https://www.pexels.com/@olia-danilevich"
 visual_keyword: "lab researcher holding a vial of experimental vaccine"
 description: "Moderna secures $50M for an mRNA Ebola shot, the U.S. orders a dubious COVID‑19 vaccine, and Russia promises a free personalized cancer vaccine, sparking debate over science, policy, and urgency."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-02-moderna-gets-50m-for-mrna-ebola-vaccine-amid-global-tensions-5d52db.mp3"
 audio_bytes: 581426
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Moderna ramps up mRNA Ebola effort
 The $50 million grant announced this week will fund Moderna's work on a vaccine targeting the Bundibugyo strain of Ebola. The money comes as the Democratic Republic of Congo grapples with a fresh outbreak that health officials say requires an accelerated response.
@@ -48,3 +50,7 @@ The common denominator is a perception of urgency—whether driven by an active 
 
 ## What to watch next
 Track the Phase 1 safety readout for Moderna’s Bundibugyo Ebola candidate, expected in late 2025, to see whether the $50 million infusion translates into a viable product. Monitor any FDA filings or trial disclosures related to the controversial U.S. COVID‑19 order; a lack of data could trigger legal challenges or congressional hearings. Finally, keep an eye on Russian health ministry updates on the cancer vaccine’s target indications and any peer‑reviewed efficacy data before the early‑2025 launch. These data points will signal whether the current wave of vaccine enthusiasm is grounded in science or driven by political expediency.
+
+## Updates
+
+- **2026-07-31** — The World Is Too Hot. El Niño Is Partly to Blame ([source](https://www.wired.com/story/world-heat-wave-el-nino-to-blame/))
