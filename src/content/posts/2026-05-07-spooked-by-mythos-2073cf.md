@@ -1,16 +1,17 @@
 ---
 title: "Spooked by Mythos"
 date: 2026-05-07T06:45:35.253Z
-modified_date: 2026-05-27T04:14:07.875Z
+modified_date: 2026-07-31T22:57:10.314Z
 tags: ["AI","safety testing","Trump","Biden"]
 hero_image: "/hero/2026-05-07-spooked-by-mythos-2073cf.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Trump forced to admit Biden was right on AI safety testing"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In the future, we can expect to see more advanced AI detection solutions, such a
 
 ## Updates
 
+- **2026-07-31** — With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC ([source](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock))
 - **2026-05-27** — UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak ([source](https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/))
