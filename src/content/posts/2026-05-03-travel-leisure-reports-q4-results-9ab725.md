@@ -1,15 +1,17 @@
 ---
 title: "Travel + Leisure Reports Q4 Results"
 date: 2026-05-03T10:58:25.956Z
+modified_date: 2026-07-31T20:59:29.313Z
 tags: ["Travel + Leisure","Q4 results","geopolitical tensions"]
 hero_image: "/hero/2026-05-03-travel-leisure-reports-q4-results-9ab725.jpg"
 hero_image_credit_name: "Ketut Subiyanto"
 hero_image_credit_url: "https://www.pexels.com/@ketut-subiyanto"
 visual_keyword: "Travel"
 description: "Travel + Leisure reports Q4 results, beating revenue expectations. The company's stock jumps 4.8% after easing geopolitical tensions."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Travel + Leisure Reports Q4 Results
@@ -67,3 +69,7 @@ The awards are based on a survey of Global Traveler's readers, who were asked to
 Travel + Leisure's Q4 results were strong, beating revenue expectations. The company's stock jumped 4.8% after easing geopolitical tensions. Investors will be watching the company's performance closely in the coming months.
 
 The company's focus on experiential travel and its investments in digital have been key drivers of growth. However, the company faces challenges from competitors and changing consumer preferences. The company's ability to adapt to changing consumer behavior and technological advancements will be crucial in maintaining its competitive edge.
+
+## Updates
+
+- **2026-07-31** — Pixelated 110: Android’s past, present, and future ([source](https://9to5google.com/2026/07/31/pixelated-110-androids-past-present-and-future/))

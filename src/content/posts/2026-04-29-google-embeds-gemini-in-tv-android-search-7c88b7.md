@@ -1,16 +1,17 @@
 ---
 title: "Google embeds Gemini in TV, Android Search"
 date: 2026-04-29T17:46:40.728Z
-modified_date: 2026-05-20T18:23:15.993Z
+modified_date: 2026-07-31T20:59:23.901Z
 tags: ["Google Gemini","AI Integration","Consumer Devices"]
 hero_image: "/hero/2026-04-29-google-embeds-gemini-in-tv-android-search-7c88b7.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ What to watch: tracking adoption metrics for the TV transformers and file-genera
 
 ## Updates
 
+- **2026-07-31** — Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation ([source](https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/))
 - **2026-05-20** — Google Search’s AI evolution includes more ads ([source](https://www.theverge.com/tech/934585/google-ai-shopping-ads-search))
 - **2026-05-20** — Buckle up: Google is set to remake search with agentic AI in 2026 ([source](https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/))
 - **2026-05-18** — With iOS 27, Shortcuts is about to become what it was always meant to be ([source](https://9to5mac.com/2026/05/18/with-ios-27-shortcuts-is-about-to-become-what-it-was-always-meant-to-be/))
