@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Updates"
 date: 2026-04-29T10:11:35.903Z
-modified_date: 2026-06-04T15:26:02.107Z
+modified_date: 2026-07-31T13:51:09.399Z
 tags: ["Apple","iOS","privacy"]
 hero_image: "/hero/2026-04-29-apple-s-ios-updates-a3b135.jpg"
 hero_image_credit_name: "hartono subagio"
 hero_image_credit_url: "https://www.pexels.com/@hartonosbg"
 visual_keyword: "Apple"
 description: "Apple releases iOS updates with new features and security patches, while facing controversy over privacy features and lawsuits."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,5 +61,6 @@ In conclusion, Apple's latest iOS updates and features demonstrate the company's
 
 ## Updates
 
+- **2026-07-31** — Apple stock opens down roughly 10% following mixed Q3 2026 results ([source](https://9to5mac.com/2026/07/31/apple-stock-opens-down-roughly-10-following-mixed-q3-2026-results/))
 - **2026-06-04** — Privacy may still be Apple’s savior when it comes to delayed AI features ([source](https://9to5mac.com/2026/06/04/privacy-may-still-be-apples-savior-when-it-comes-to-delayed-ai-features/))
 - **2026-05-19** — Apple announces AI-powered accessibility features and eye-controlled wheelchair functionality ([source](https://9to5mac.com/2026/05/19/apple-announces-ai-powered-accessibility-features-and-eye-controlled-wheelchair-functionality/))

@@ -1,16 +1,17 @@
 ---
 title: "LLMs Prefer Self-Generated Resumes"
 date: 2026-05-02T17:03:02.424Z
-modified_date: 2026-05-29T15:51:17.842Z
+modified_date: 2026-07-31T13:51:19.533Z
 tags: ["ai research","llm bias","pytorch","audio extraction","nih workshop"]
 hero_image: "/hero/2026-05-02-llms-prefer-self-generated-resumes-43755a.jpg"
 hero_image_credit_name: "SilvaNeto"
 hero_image_credit_url: "https://www.pexels.com/@silvanetomkt"
 visual_keyword: "close-up of a microphone with AI-generated soundwaves"
 description: "Large language models consistently rank their own resume outputs higher than human or competing AI work. What this reveals about AI evaluation."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The next six months will clarify whether LLM self-preference is a fundamental bi
 
 ## Updates
 
+- **2026-07-31** — Show HN: Gander, an Android file viewer that asks for no permissions at all ([source](https://github.com/mokshablr/gander))
 - **2026-05-29** — 15 Best Wireless Chargers, All Tested and Reviewed (2026) ([source](https://www.wired.com/gallery/best-wireless-chargers/))
 - **2026-05-28** — Proton Mail aims to make it easier for you to transition away from Gmail and ditch Google ([source](https://www.engadget.com/2182918/proton-mail-aims-to-make-it-easier-for-you-to-transition-away-from-gmail-and-ditch-google/))
 - **2026-05-27** — Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts ([source](https://www.wired.com/story/lovehoney-discount-code/))

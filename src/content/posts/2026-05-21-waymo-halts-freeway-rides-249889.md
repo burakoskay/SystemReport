@@ -1,15 +1,17 @@
 ---
 title: "Waymo Halts Freeway Rides"
 date: 2026-05-21T21:46:17.747Z
+modified_date: 2026-07-31T13:50:44.104Z
 tags: ["Autonomous Vehicles","Waymo","Robotaxis"]
 hero_image: "/hero/2026-05-21-waymo-halts-freeway-rides-249889.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Waymo"
 description: "Waymo suspends rides due to robotaxis struggles"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Waymo's Setbacks
 Waymo's robotaxis struggled to navigate construction zones, prompting a freeway ride suspension. The company also paused operations in Atlanta and San Antonio after its vehicles drove into flooded streets.
@@ -34,3 +36,7 @@ The development of autonomous vehicles has been marked by significant milestones
 
 ## Downstream Implications
 The recall and suspension of freeway rides by Waymo will have downstream implications for the company and the broader industry. The incident may lead to increased regulatory scrutiny and slower adoption of autonomous vehicles, but it also highlights the importance of safety and reliability in the development of self-driving technology. As the industry continues to evolve, companies like Waymo will need to balance the need for innovation and growth with the need for safety and public trust.
+
+## Updates
+
+- **2026-07-31** — Sony pushes forward with ditching discs, despite backlash ([source](https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward))

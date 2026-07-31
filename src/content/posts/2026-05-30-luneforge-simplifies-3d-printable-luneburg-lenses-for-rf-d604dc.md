@@ -1,15 +1,17 @@
 ---
 title: "LuneForge Simplifies 3D-Printable Luneburg Lenses for RF"
 date: 2026-05-30T10:08:25.023Z
+modified_date: 2026-07-31T13:50:54.203Z
 tags: ["RF technology","Luneburg lenses","open-source software"]
 hero_image: "/hero/2026-05-30-luneforge-simplifies-3d-printable-luneburg-lenses-for-rf-d604dc.jpg"
 hero_image_credit_name: "David Guerrero"
 hero_image_credit_url: "https://www.pexels.com/@davidguerrero"
 visual_keyword: "Luneburg lens"
 description: "LuneForge simplifies creation of precise Luneburg lenses for RF applications, making lens design more accessible."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## LuneForge for Luneburg Lens Design
@@ -52,3 +54,6 @@ In conclusion, LuneForge is a significant development in the field of RF lens de
 
 Future developments of LuneForge may include the integration of machine learning algorithms to optimize lens design, as well as the development of new materials and fabrication techniques. These advancements can further improve the performance and accessibility of Luneburg lenses, enabling new applications and innovations in the RF industry.
 
+## Updates
+
+- **2026-07-31** — 6 Best Phones With Headphone Jacks (2026), Tested and Reviewed ([source](https://www.wired.com/gallery/best-headphone-jack-phones/))

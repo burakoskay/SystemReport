@@ -1,15 +1,17 @@
 ---
 title: "Osprey 1.0: Open-Source Rules Engine for Online Safety"
 date: 2026-05-25T04:23:40.400Z
+modified_date: 2026-07-31T13:50:59.246Z
 tags: ["online safety","open-source","rules engine"]
 hero_image: "/hero/2026-05-25-osprey-1-0-open-source-rules-engine-for-online-safety-2b6c47.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "online safety"
 description: "Osprey 1.0, an open-source tool for online safety, helps platforms investigate and address priority threats at scale without sacrificing data privacy or performance."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Online Safety Gets an Open-Source Boost
@@ -60,3 +62,6 @@ In conclusion, Osprey 1.0 is a significant development in the online safety spac
 
 The development of Osprey also highlights the importance of collaboration and knowledge-sharing in the tech industry. By working together and sharing knowledge, developers can create more effective solutions to complex problems like online safety.
 
+## Updates
+
+- **2026-07-31** — Super Mario Sunshine is the Switch 2's next GameCube addition ([source](https://www.engadget.com/2227724/super-mario-sunshine-switch-2-gamecube/))

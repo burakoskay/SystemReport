@@ -1,18 +1,20 @@
 ---
 title: "Designing with AI"
 date: 2026-06-07T09:22:37.576Z
+modified_date: 2026-07-31T13:51:04.333Z
 tags: ["AI","Design","Technology"]
 hero_image: "/hero/2026-06-07-designing-with-ai-f76f1d.jpg"
 hero_image_credit_name: "Sun God Apolo"
 hero_image_credit_url: "https://www.pexels.com/@sun-god-apolo-230380599"
 visual_keyword: "AI design"
 description: "AI is changing the design process, enabling faster and more efficient creation, but also raising questions about its limitations and potential biases."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-07-designing-with-ai-f76f1d.mp3"
 audio_bytes: 603787
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to AI-Driven Design
@@ -52,3 +54,6 @@ The impact of AI on design will be felt far beyond the design community. As AI-p
 
 However, it also raises important questions about the role of AI in design and how it can be used to augment human creativity. As designers, it is essential that we consider these questions and work to develop AI-powered design tools that can support and enhance human creativity, rather than replacing it. By doing so, we can harness the power of AI to create new and innovative designs that push the boundaries of what is possible.
 
+## Updates
+
+- **2026-07-31** — Review: The Galaxy Z Fold 8’s new shape isn’t for you – it’s for everyone ([source](https://9to5google.com/2026/07/31/samsung-galaxy-z-fold-8-review/))

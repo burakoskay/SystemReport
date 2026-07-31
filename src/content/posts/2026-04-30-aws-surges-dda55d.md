@@ -1,18 +1,20 @@
 ---
 title: "AWS Surges"
 date: 2026-04-30T06:32:18.489Z
+modified_date: 2026-07-31T13:50:23.940Z
 tags: ["AWS","Cloud Computing","Amazon"]
 hero_image: "/hero/2026-04-30-aws-surges-dda55d.jpg"
 hero_image_credit_name: "Julia Filirovska"
 hero_image_credit_url: "https://www.pexels.com/@filirovska"
 visual_keyword: "Cloud"
 description: "Amazon's cloud business is making more money than expected"
-sources_count: 2
-author: "priya-raman"
+sources_count: 3
 audio_path: "/audio/2026-04-30-aws-surges-dda55d.mp3"
 audio_bytes: 606503
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Cloud Business Boom
 Amazon's cloud business, AWS, is making more money than expected. This growth is driven by increased demand for cloud services. The surge in AWS revenue is a boost to Amazon's bottom line. According to the company's chief executive, spending will continue in the near term. However, this growth comes at a cost, with Amazon's capital spending also increasing significantly.
@@ -43,3 +45,7 @@ The cloud computing market is a highly competitive space, with several major pla
 
 ## Future Outlook
 The future of the cloud computing market looks bright, with several trends expected to drive growth in the coming years. The increasing adoption of cloud services by small and medium-sized businesses, the growing demand for cloud-based artificial intelligence and machine learning services, and the need for businesses to scale their operations quickly will all contribute to the growth of the market. As the market continues to evolve, Amazon will need to stay focused on innovation and customer satisfaction in order to maintain its leadership position.
+
+## Updates
+
+- **2026-07-31** — Anthropic says Claude accidentally hacked real companies too ([source](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests))

@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-07-29T20:47:52.829Z
+modified_date: 2026-07-31T13:50:34.032Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-07-31** — This tattoo is permanent, pain-free, and might soon come in the mail ([source](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches))
 - **2026-07-29** — What’s the catch with the Apple Upgrade program? ([source](https://www.theverge.com/tech/972583/apple-upgrade-program-deal))
 - **2026-07-28** — About the security content of macOS Tahoe 26.6 ([source](https://support.apple.com/en-us/128067))
 - **2026-06-03** — The world’s largest privately owned laser just turned on ([source](https://techcrunch.com/2026/06/03/the-worlds-largest-privately-owned-laser-just-turned-on/))
