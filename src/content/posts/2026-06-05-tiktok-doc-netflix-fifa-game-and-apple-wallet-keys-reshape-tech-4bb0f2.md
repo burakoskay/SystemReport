@@ -1,18 +1,20 @@
 ---
 title: "TikTok doc, Netflix FIFA game, and Apple Wallet keys reshape tech"
 date: 2026-06-05T04:14:34.157Z
+modified_date: 2026-07-31T19:16:36.803Z
 tags: ["tech","media","gaming","security","policy"]
 hero_image: "/hero/2026-06-05-tiktok-doc-netflix-fifa-game-and-apple-wallet-keys-reshape-tech-4bb0f2.jpg"
 hero_image_credit_name: "Anh Lee"
 hero_image_credit_url: "https://www.pexels.com/@anhleephoto"
 visual_keyword: "collage of TikTok logo, FIFA soccer ball, Apple Wallet with hotel key"
 description: "A documentary on TikTok's politicization, Netflix's FIFA Launch Edition, and Salto's Apple Wallet hotel keys illustrate shifting tech battles."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-05-tiktok-doc-netflix-fifa-game-and-apple-wallet-keys-reshape-tech-4bb0f2.mp3"
 audio_bytes: 577037
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A new documentary pulls back the curtain on the TikTok ban myth
 The film opens with a courtroom sketch of a senator demanding answers about a social app that never stopped growing. It then shows TikTok's logo flickering across headlines that link the platform to Chinese espionage, election meddling, and a generational cultural clash.
@@ -50,3 +52,7 @@ From a technical standpoint, the integration points are becoming standardized. A
 
 ## What to watch next
 Watch the congressional hearings slated for the fall as lawmakers reference the TikTok documentary’s findings while drafting new foreign‑tech legislation. Track Netflix’s subscriber growth after the FIFA game launch; a spike could prompt other streaming services to explore similar gaming tie‑ins. Monitor Salto’s security certifications and any third‑party audits of its Apple Wallet integration, especially if a high‑profile breach surfaces. These data points will indicate whether the convergence trend deepens or stalls under regulatory pressure.
+
+## Updates
+
+- **2026-07-31** — VC-backed startups commit more fraud, and researchers think they know why ([source](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/))

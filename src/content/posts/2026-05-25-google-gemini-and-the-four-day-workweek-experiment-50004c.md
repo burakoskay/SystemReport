@@ -1,16 +1,17 @@
 ---
 title: "Google Gemini and the Four-Day Workweek Experiment"
 date: 2026-05-25T04:15:02.705Z
-modified_date: 2026-05-29T21:55:02.549Z
+modified_date: 2026-07-31T19:16:31.460Z
 tags: ["Google Gemini","Four-Day Workweek","AI Applications"]
 hero_image: "/hero/2026-05-25-google-gemini-and-the-four-day-workweek-experiment-50004c.jpg"
 hero_image_credit_name: "Faizi Ali"
 hero_image_credit_url: "https://www.pexels.com/@faizialiphotography"
 visual_keyword: "Gemini"
 description: "Google's Gemini AI and Australia's 100:80:100 workweek"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to Gemini and the Four-Day Workweek
@@ -32,4 +33,5 @@ The concept of a condensed workweek is not new. In the past, companies have expe
 
 ## Updates
 
+- **2026-07-31** — Google might launch a ‘Pixel Tag’ ([source](https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker))
 - **2026-05-29** — Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend ([source](https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/))
