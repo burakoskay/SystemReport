@@ -1,19 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-04-30T03:37:44.124Z
-modified_date: 2026-05-21T20:00:06.253Z
+modified_date: 2026-07-31T06:40:53.440Z
 tags: ["AI","Elon Musk","OpenAI"]
 hero_image: "/hero/2026-04-30-musk-sues-openai-6427d9.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Elon Musk's lawsuit against OpenAI alleges breach of contract, seeking $134bn in damages"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-30-musk-sues-openai-6427d9.mp3"
 audio_bytes: 660420
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,5 +64,6 @@ The outcome of the lawsuit will have significant implications for the future of 
 
 ## Updates
 
+- **2026-07-31** — Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it ([source](https://www.ctgt.ai/research/distillation-censorship-transfer))
 - **2026-05-21** — Who gets to own the Luigi Mangione story? ([source](https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters))
 - **2026-05-01** — Fortnite returns to iPhone in Japan with Epic Games Store launch, still unavailable on Mac ([source](https://9to5mac.com/2026/05/01/fortnite-returns-to-iphone-in-japan-with-epic-games-store-launch-still-unavailable-on-mac/))

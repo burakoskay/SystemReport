@@ -1,15 +1,17 @@
 ---
 title: "OpenBSD Team Releases Openrsync"
 date: 2026-05-30T15:16:46.414Z
+modified_date: 2026-07-31T06:40:45.729Z
 tags: ["openbsd","openrsync","rsync"]
 hero_image: "/hero/2026-05-30-openbsd-team-releases-openrsync-ccd054.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "open-source"
 description: "OpenBSD team releases openrsync, an implementation of rsync."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 The OpenBSD team has released openrsync, an open-source implementation of the rsync algorithm.
@@ -45,3 +47,6 @@ As openrsync continues to evolve, it will be interesting to see how it competes 
 
 In conclusion, the release of openrsync is a significant development in the data synchronization market. Its open-source nature, compatibility with the rsync protocol, and high security standards make it an attractive option for organizations and individuals looking for an alternative to proprietary solutions.
 
+## Updates
+
+- **2026-07-31** — The bond market isn’t buying what Fed Chair Warsh is selling ([source](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/))
