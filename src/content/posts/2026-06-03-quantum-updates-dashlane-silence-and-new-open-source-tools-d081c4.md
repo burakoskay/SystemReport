@@ -1,18 +1,20 @@
 ---
 title: "Quantum Updates, Dashlane Silence, and New Open‑Source Tools"
 date: 2026-06-03T23:51:53.880Z
+modified_date: 2026-08-01T20:43:49.919Z
 tags: ["quantum","security","open-source","media","software"]
 hero_image: "/hero/2026-06-03-quantum-updates-dashlane-silence-and-new-open-source-tools-d081c4.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "abstract representation of quantum circuits alongside code snippets and streaming icons"
 description: "Microsoft, Atom Computing, and EeroQ share quantum progress; Dashlane’s advisory omits key facts; Plex adds social layers; new Zig UI framework and nutrition site launch."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-06-03-quantum-updates-dashlane-silence-and-new-open-source-tools-d081c4.mp3"
 audio_bytes: 591457
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Quantum Computing Progress from Three Players
 Microsoft, Atom Computing, and EeroQ each released an update on their quantum‑computing programs. The announcements came in a brief batch that Ars Technica noted as recent progress.
@@ -55,3 +57,7 @@ The convergence of these trends points to a market where depth of expertise matt
 
 ## What to Watch
 Track the next set of quantum‑progress releases from Microsoft, Atom Computing, and EeroQ for concrete metrics such as qubit counts or error rates. Monitor Dashlane for a follow‑up statement that clarifies the breach scope. Observe how Plex’s social feed affects user retention metrics in the coming quarters. Finally, watch the adoption curves of Gooey and Nutrepedia as they gather contributors and real‑world usage data.
+
+## Updates
+
+- **2026-08-01** — Angela Nissel faces down grief with a laugh ([source](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead))
