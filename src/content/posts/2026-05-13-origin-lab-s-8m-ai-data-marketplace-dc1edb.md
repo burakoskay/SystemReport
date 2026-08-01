@@ -1,18 +1,20 @@
 ---
 title: "Origin Lab's $8M AI Data Marketplace"
 date: 2026-05-13T21:32:21.739Z
+modified_date: 2026-08-01T16:55:04.846Z
 tags: ["AI","data marketplace","Origin Lab"]
 hero_image: "/hero/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI data marketplace"
 description: "Origin Lab raises $8M to connect video game firms with AI labs, enabling data sales."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.mp3"
 audio_bytes: 641194
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Origin Lab Secures $8M for AI Data Sales
@@ -71,3 +73,6 @@ In conclusion, Origin Lab's $8M AI data marketplace has the potential to play a 
 
 The future of AI development will depend on the creation of sustainable and transparent AI practices. Origin Lab's marketplace has the potential to be a key player in this effort, providing a platform for the secure and transparent exchange of data. As the AI data market continues to grow and evolve, it will be interesting to see how Origin Lab's platform adapts and responds to changing needs and challenges.
 
+## Updates
+
+- **2026-08-01** — Honda has a new partner for the advancement of solid-state battery technology ([source](https://www.engadget.com/2225030/honda-solid-state-battery-technology-new-partner-quantumscape/))

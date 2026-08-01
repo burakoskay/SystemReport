@@ -1,18 +1,20 @@
 ---
 title: "OpenAI Shakeup"
 date: 2026-05-15T17:46:06.155Z
+modified_date: 2026-08-01T16:54:43.573Z
 tags: ["OpenAI","ChatGPT","Artificial Intelligence"]
 hero_image: "/hero/2026-05-15-openai-shakeup-c0775a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI reorganizes executive ranks, unifies ChatGPT and Codex, and addresses security concerns"
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-15-openai-shakeup-c0775a.mp3"
 audio_bytes: 610474
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to OpenAI's Changes
 OpenAI is reorganizing its executive ranks, and Greg Brockman is taking control of the company's products. This change is part of OpenAI's effort to unify ChatGPT and Codex into one core product experience. The move comes as OpenAI is working to expand its product offerings, including the launch of ChatGPT for personal finance.
@@ -55,3 +57,7 @@ One key area to watch is how OpenAI addresses the potential risks and consequenc
 OpenAI's future developments will likely be shaped by its commitment to innovation and responsibility. As the company continues to push the boundaries of AI-powered tools, it must also ensure that its products are safe and beneficial for users. This will require ongoing investment in security, mental health features, and user education.
 
 The company's ability to balance innovation with responsibility will be crucial to its long-term success. As OpenAI continues to evolve, it's essential to monitor its progress and hold the company accountable for its actions. By doing so, we can ensure that OpenAI's products have a positive impact on users and society as a whole.
+
+## Updates
+
+- **2026-08-01** — Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it ([source](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/))

@@ -1,16 +1,17 @@
 ---
 title: "Nomad Goods Offers 25% Off"
 date: 2026-05-13T06:52:21.113Z
-modified_date: 2026-05-22T21:16:24.688Z
+modified_date: 2026-08-01T16:54:54.251Z
 tags: ["tech discounts","Nomad Goods","Corsair","H&R Block"]
 hero_image: "/hero/2026-05-13-nomad-goods-offers-25-off-7f2972.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Discounts Hit Nomad Goods, Corsair, and H&R Block
@@ -34,4 +35,5 @@ Consumers should track whether these discounts continue and if other brands foll
 
 ## Updates
 
+- **2026-08-01** — The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier ([source](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/))
 - **2026-05-22** — Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ ([source](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/))
