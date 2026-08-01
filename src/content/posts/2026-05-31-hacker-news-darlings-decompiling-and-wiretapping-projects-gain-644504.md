@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Darlings: Decompiling and Wiretapping Projects Gain"
 date: 2026-05-31T11:44:02.607Z
+modified_date: 2026-08-01T11:13:34.841Z
 tags: ["Hacker News","Decompilation","Reverse Engineering","Lawful Wiretapping"]
 hero_image: "/hero/2026-05-31-hacker-news-darlings-decompiling-and-wiretapping-projects-gain-644504.jpg"
 hero_image_credit_name: "Godfrey  Atima"
 hero_image_credit_url: "https://www.pexels.com/@godiatima"
 visual_keyword: "code"
 description: "New projects on decompiling and lawful wiretapping gain attention on Hacker News. Developers showcase their work on reverse engineering and TLS reconstruction."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 ## Decompiling and Reconstructing: New Projects on Hacker News
@@ -51,3 +53,7 @@ The implications of these projects extend beyond the tech industry, with potenti
 As these projects continue to evolve, it will be interesting to see how they develop and what new insights or applications arise from them. Developers and enthusiasts should keep an eye on these projects and the discussions surrounding them on Hacker News. The next significant update or release from these projects could provide further insights into the world of decompilation and lawful wiretapping.
 
 The ongoing development of decompilation and reverse engineering projects will likely lead to new breakthroughs and innovations in the tech industry. As the community continues to explore and push the boundaries of what is possible, we can expect to see new applications and use cases emerge.
+
+## Updates
+
+- **2026-08-01** — Ten advances in mathematics and theoretical computer science ([source](https://openai.com/index/ten-advances-in-mathematics/))

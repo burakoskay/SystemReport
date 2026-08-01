@@ -1,18 +1,20 @@
 ---
 title: "Meta Deletes 1M‑Follower Account After Kuwait Request"
 date: 2026-05-18T04:12:14.100Z
+modified_date: 2026-08-01T11:13:29.640Z
 tags: ["meta","censorship","section230","spain","social-media"]
 hero_image: "/hero/2026-05-18-meta-deletes-1m-follower-account-after-kuwait-request-c95300.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "digital globe with red warning symbol over social media icons"
 description: "Meta removed a popular account with about one million followers following a request from Kuwaiti authorities, sparking debate over platform moderation, legal protections, and emerging government restrictions on social media use."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-18-meta-deletes-1m-follower-account-after-kuwait-request-c95300.mp3"
 audio_bytes: 572440
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Meta yanked a 1‑million‑follower account at Kuwait’s behest.
 
@@ -45,3 +47,7 @@ The conversation on Hacker News reflects that split. Some users celebrate the re
 ## What to Watch Next
 
 The next flashpoint will likely be the implementation of Spain’s under‑16 ban and any legal challenges it spawns. Watch for court filings that test the intersection of child‑protection law and platform liability. At the same time, keep an eye on whether other governments follow Kuwait’s lead in requesting specific account removals. Each request will test the limits of Section 230 and could prompt a legislative push to tighten or rewrite the immunity that currently shields platforms. The balance between private moderation authority and public expectations of free expression is poised for a new round of scrutiny.
+
+## Updates
+
+- **2026-08-01** — AI doesn't generate working products, that's still your job ([source](https://weeraman.com/the-prototype-isnt-the-product/))
