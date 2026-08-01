@@ -1,18 +1,20 @@
 ---
 title: "apple launches 'upgrade' leasing program"
 date: 2026-07-28T19:21:38.122Z
+modified_date: 2026-08-01T22:49:03.850Z
 tags: ["apple","ramageddon","device leasing","klarna","upgrade program"]
 hero_image: "/hero/2026-07-28-apple-launches-upgrade-leasing-program-c44d32.jpg"
 hero_image_credit_name: "Sergei Starostin"
 hero_image_credit_url: "https://www.pexels.com/@sejio402"
 visual_keyword: "ram-chip-shortage"
 description: "apple teams up with klarna to offer device leasing, but is it a response to ramageddon?"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-28-apple-launches-upgrade-leasing-program-c44d32.mp3"
 audio_bytes: 575365
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple's Desperate Bid to Stay Relevant in a RAM-Scarce World
@@ -40,3 +42,7 @@ So what does this mean for Apple and its customers? In the short term, the Upgra
 As for what's next, look out for Apple's continued efforts to mitigate the effects of RAMageddon. With the company's stock price under pressure, it needs to find ways to reduce its exposure to the volatile memory chip market. Will the Upgrade program be enough to save the day? Only time will tell.
 
 **What to watch:** Apple's quarterly earnings release in October, which will provide a clearer picture of the company's performance in the face of RAMageddon.
+
+## Updates
+
+- **2026-08-01** — Apple Upgrade might’ve provided our first hint for what could change with Apple Card ([source](https://9to5mac.com/2026/08/01/apple-upgrade-will-it-replace-apple-card-monhtly-installments/))

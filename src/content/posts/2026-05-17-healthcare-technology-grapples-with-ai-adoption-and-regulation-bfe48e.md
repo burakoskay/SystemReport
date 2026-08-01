@@ -1,15 +1,17 @@
 ---
 title: "Healthcare Technology Grapples with AI Adoption and Regulation"
 date: 2026-05-17T13:41:17.565Z
+modified_date: 2026-08-01T22:48:58.420Z
 tags: ["AI in Healthcare","Regulatory Frameworks","Healthcare Technology"]
 hero_image: "/hero/2026-05-17-healthcare-technology-grapples-with-ai-adoption-and-regulation-bfe48e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered robot ElliQ"
 description: "AI in healthcare faces regulatory and adoption challenges"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## CAR T Cell Therapy and AI-Powered Robots
@@ -60,3 +62,6 @@ The future of AI in healthcare is promising, but it requires significant investm
 
 The use of AI in healthcare has the potential to transform the industry, but it requires significant investment in modernizing legacy systems and updating regulatory frameworks. The future of AI in healthcare is promising, and it is crucial that the healthcare industry continues to invest in research and development, as well as collaboration between healthcare providers, AI developers, and patient advocates.
 
+## Updates
+
+- **2026-08-01** — The Silicon Valley Founder Meat Grinder ([source](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/))
