@@ -1,19 +1,20 @@
 ---
 title: "Games Done Quick Expands to Europe Amid Tech Battles"
 date: 2026-04-28T17:55:28.606Z
-modified_date: 2026-07-29T17:11:54.100Z
+modified_date: 2026-08-01T19:01:04.355Z
 tags: ["games-done-quick","europe","repair-laws","android","wasm"]
 hero_image: "/hero/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "crowd at gamescom speedrunning event"
 description: "Games Done Quick debuts in Europe as repair laws and open-source debates reshape tech."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.mp3"
 audio_bytes: 565334
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Meanwhile, open-source tools like Lovable’s "vibe-coding" app (launching this 
 
 ## Updates
 
+- **2026-08-01** — Spider-Man: Brand New Day leak racks up millions of views ([source](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records))
 - **2026-07-29** — Gemini for macOS rolling out voice control and Gboard Rambler-level transcription ([source](https://9to5google.com/2026/07/29/gemini-mac-voice-control/))
 - **2026-05-27** — Sony’s DualSense controllers are almost 30 percent off ([source](https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale))
 - **2026-05-04** — Wholesome Direct returns June 6 with a slew of joyful games ([source](https://www.engadget.com/2164200/wholesome-direct-returns-june-6-with-a-slew-of-joyful-games/))

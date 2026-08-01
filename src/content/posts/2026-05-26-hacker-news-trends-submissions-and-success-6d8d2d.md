@@ -1,18 +1,20 @@
 ---
 title: "Hacker News Trends: Submissions and Success"
 date: 2026-05-26T04:00:58.790Z
+modified_date: 2026-08-01T19:00:58.846Z
 tags: ["Hacker News","Content Strategy","Online Communities"]
 hero_image: "/hero/2026-05-26-hacker-news-trends-submissions-and-success-6d8d2d.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "Discover trends in Hacker News submissions and success. Learn when to post and how to increase your article's visibility."
-sources_count: 13
-author: "maya-chen"
+sources_count: 14
 audio_path: "/audio/2026-05-26-hacker-news-trends-submissions-and-success-6d8d2d.mp3"
 audio_bytes: 584560
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Understanding Hacker News Trends
@@ -79,3 +81,6 @@ These findings suggest that there may be broader trends in online communities th
 
 The analysis of Hacker News trends provides valuable insights for content creators and marketers. By understanding when to submit and how to use buzzwords effectively, they can increase their chances of success on the platform. As the platform continues to evolve, it's essential to stay up-to-date with the latest trends and strategies.
 
+## Updates
+
+- **2026-08-01** — Is this Billboard Hot 100 hit AI slop? ([source](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop))
