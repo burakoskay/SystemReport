@@ -1,0 +1,36 @@
+---
+title: "Ford soutient Redwood pour clore la boucle sur les batteries de véhicules électriques"
+date: 2026-08-01T10:06:15.827Z
+tags: ["ev","recycling","ford","battery"]
+hero_image: "/hero/2026-08-01-ford-backs-redwood-to-close-the-loop-on-ev-batteries-09026e.jpg"
+hero_image_credit_name: "K"
+hero_image_credit_url: "https://www.pexels.com/@kelly"
+visual_keyword: "Ford factory with Redwood Materials recycling plant, industrial background"
+description: "Ford investit 50 millions de dollars dans Redwood Materials pour recycler les batteries de véhicules électriques, un mouvement qui pourrait remodeler la chaîne "
+sources_count: 4
+locale: "fr"
+canonical_slug: "2026-08-01-ford-backs-redwood-to-close-the-loop-on-ev-batteries-09026e"
+---
+
+## Une grande mise sur la réutilisation des batteries
+Ford a annoncé une investissement de 50 millions de dollars dans Redwood Materials, la société de recyclage fondée par JB Straubel, ancien CTO de Tesla, et a nommé Redwood comme son partenaire exclusif pour gérer les batteries de véhicules électriques à fin de vie. La transaction lie la gamme F-150 Lightning et Mustang Mach-E de l'automobiliste de Détroit à une chaîne d'approvisionnement circulaire naissante qui pourrait réduire la dépendance à l'égard des minéraux importés de lithium, de nickel, de cobalt et cuivre.
+
+Redwood, basée à Carson City, dans le Nevada, traite déjà les déchets de Nissan, de Specialized e-bikes, de Tesla et de Panasonic à la Gigafactory de Reno. L'accord élargit le rôle de Redwood du recyclage à la co-développement de processus qui récupèrent des matériaux exploitables, reprennent des cellules partiellement dégradées et alimentent finalement le lithium, le nickel, le cobalt et le cuivre recyclés dans de nouveaux coffrets de batterie. Cette mesure est alignée avec la campagne de l'administration Biden pour créer un écosystème de batterie domestique et est similaire à la récente convention de Li-Cycle avec General Motors pour ses coffrets de packs SK Innovation.
+
+## La bouteille en verre derrière la vague des véhicules électriques
+Les États-Unis assistent à la vague mondiale des véhicules électriques avec un mélange d'optimisme et d'anxiété. Le lancement du F-150 Lightning a attiré près de 45 000 pré-commandes en 48 heures, un volume représentant environ 20% de toutes les inscriptions de véhicules électriques dans le pays l'an dernier. Si le marché suit la projection de l'Agence internationale de l'énergie de 145 millions de véhicules électriques sur la route en 2030, la demande en minéraux de batterie explosera. Aujourd'hui, la plupart du lithium, du nickel, du cobalt et du cuivre proviennent de la Russie, de l'Indonésie et de la République démocratique du Congo - des régions où l'attention portée à l'environnement est faible et où l'exploitation minière a historiquement alimenté le conflit.
+
+Payal Sampat, directeur des programmes miniers de Earthworks, a averti que « la façon dont cela a été retourné est, ‘Nous devons faire face à ces problèmes climatiques, développons de nouveaux mines, extrayons ceci le plus rapidement possible,’” mettant en évidence le risque d'une ruée minière qui pourrait compromettre les bénéfices climatiques du transport électrique. La récupération offre un moyen de décrocher la croissance des véhicules électriques de l'extraction fraîche, mais la technologie et le cadre politique restent sous-développés.
+
+## Le plan de jeu technique de Redwood
+Au niveau de base, une batterie de véhicule électrique est une pile de milliers de cellules lithium-ion, chacune contenant un métal cathode, un graphite anode, un séparateur et un électrolyte liquide. Quand une batterie atteint la fin de sa durée de vie utile pour un véhicule, les cellules conservent encore une fraction significative de leur capacité. Le processus de Redwood vise à récolter cette capacité résiduelle, à reconditionner les cellules pour les marchés secondaires et à enlever le matériau cathode pour la réutilisation. Les opérations existantes de la société traitent déjà les déchets de l'usine d'origine où Tesla et Panasonic ont produit des cellules, prouvant que la récupération à grande échelle est techniquement possible.
+
+L'accord avec Ford pousse Redwood vers un modèle plus intégré. Au-delà de la simple démolition de coffrets, les deux entreprises exploreront des « chemins de boucle fermée » : convertir le lithium, le nickel, le cobalt et le cuivre recyclés en matières premières pour de nouvelles cellules, et identifier des applications de deuxième vie pour des modules qui répondent encore aux seuils de performance. Même si les détails restent sous le coude, l'effort conjoint pourrait fixer un modèle pour d'autres constructeurs automobiles cherchant à internaliser les boucles de matériaux plutôt que de dépendre des chaînes d'approvisionnement volatiles à l'étranger.
+
+## Leçons tirées de précédents changements industriels
+La stratégie de Ford ressemble à d'autres moments où une industrie dominante a remodelé sa chaîne d'approvisionnement en réponse à la pression géopolitique. La choc pétrolier de 1973 a poussé les constructeurs automobiles à accélérer la recherche d'efficacité énergétique et a stimulé la réserve stratégique de pétrole des États-Unis. L'Acte de télécoms de 1996 a obligé les opérateurs historiques à ouvrir leurs réseaux, donnant naissance à un marché concurrentiel de la large bande. Tous deux démontrent que la rareté extérieure peut catalyser le changement structurel quand les acteurs historiques s'engagent à de nouvelles infrastructures.
+
+De même, l'ère post-guerre a vu l'industrie sidérurgique américaine développer les boucles de recyclage des déchets pour répondre à la demande de défense, une pratique qui a plus tard migré vers les métaux de consommation. L'injection de 50 millions de dollars de Ford dans Redwood reflète ces anciens apports de capital visant à sécuriser l'indépendance des matières premières. La différence aujourd'hui est la vitesse d'adoption du marché ; la flotte de véhicules électriques s'accroît par millions d'unités chaque année, compressant le délai pour un écosystème de récupération fonctionnel.
+
+## Ce que regarder
+Le trimestre prochain révélera si Redwood peut amplifier ses processus de récupération pour répondre à la demande projetée de Ford pour la production croissante des Mustang Mach-E et la F-150 Lightning de 2024-2025. Les indicateurs clés incluent le volume de cellules lithium-ion recyclées signalé par Redwood, tout accord sur des jalons de développement conjoint, et les mouvements réglementaires du Département de l'Énergie sur les subventions de récupération. Si l'accord fournit une fournée fiable de matériel recyclé, d'autres constructeurs automobiles peuvent suivre, obligeant les mineurs du DRC, de l'Indonésie et de la Russie à négocier de nouveaux contrats ou à faire face à une demande réduite. Un échec à atteindre les objectifs pourrait renforcer la dépendance actuelle envers les minéraux importés et exposer la chaîne d'approvisionnement en véhicules électriques à de nouveaux chocs géopolitiques.

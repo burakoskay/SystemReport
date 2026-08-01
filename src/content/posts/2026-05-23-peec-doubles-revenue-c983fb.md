@@ -1,16 +1,17 @@
 ---
 title: "Peec Doubles Revenue"
 date: 2026-05-23T09:58:55.763Z
-modified_date: 2026-07-31T16:00:34.174Z
+modified_date: 2026-08-01T09:54:10.648Z
 tags: ["startups","growth","innovation","ai"]
 hero_image: "/hero/2026-05-23-peec-doubles-revenue-c983fb.jpg"
 hero_image_credit_name: "Sabine Otten"
 hero_image_credit_url: "https://www.pexels.com/@sabine-otten-2148835519"
 visual_keyword: "Berlin startup growth"
 description: "Peec, a Berlin startup, doubles annualized revenue to $10M, sources say. The company helps brands track their presence in AI searches."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Peec's Rapid Growth
@@ -44,4 +45,5 @@ As the startup landscape continues to evolve, there are several key trends and d
 
 ## Updates
 
+- **2026-08-01** — Flint: A Visualization Language for the AI Era ([source](https://microsoft.github.io/flint-chart/))
 - **2026-07-31** — The session you cannot take with you ([source](https://earendil.com/posts/session-portability/))

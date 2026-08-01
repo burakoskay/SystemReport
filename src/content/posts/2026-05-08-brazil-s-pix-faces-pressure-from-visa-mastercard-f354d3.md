@@ -1,16 +1,17 @@
 ---
 title: "Brazil's Pix faces pressure from Visa, Mastercard"
 date: 2026-05-08T06:13:18.362Z
-modified_date: 2026-07-29T22:56:33.443Z
+modified_date: 2026-08-01T09:54:05.376Z
 tags: ["Brazil","Pix","Visa","Mastercard","payments","market"]
 hero_image: "/hero/2026-05-08-brazil-s-pix-faces-pressure-from-visa-mastercard-f354d3.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "payments"
 description: "Brazil's popular Pix payment system faces challenges from global giants Visa and Mastercard. The competition may change the country's payments landscape."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 **The Challenge to Pix**
@@ -53,4 +54,5 @@ The key decision to watch is how Pix responds to the challenge from Visa and Mas
 
 ## Updates
 
+- **2026-08-01** — Astronomers Have Detected an Exomoon for the First Time ([source](https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/))
 - **2026-07-29** — Qualcomm is raising phone chip prices starting September 1st ([source](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings))

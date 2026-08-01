@@ -1,57 +1,57 @@
 {
-  "generated_at": "2026-08-01T06:30:22.077Z",
+  "generated_at": "2026-08-01T10:15:57.630Z",
   "window_days": 7,
-  "total_records": 3928,
+  "total_records": 4119,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1478,
-      "success": 353,
-      "success_rate": 0.2388362652232747,
-      "latency_p50": 7249,
+      "calls": 1565,
+      "success": 358,
+      "success_rate": 0.22875399361022364,
+      "latency_p50": 7205,
       "latency_p95": 19497,
-      "response_chars_mean": 2602,
+      "response_chars_mean": 2634,
       "error_classes": {
-        "rate_limit": 61,
-        "unknown": 1057,
+        "rate_limit": 66,
+        "unknown": 1134,
         "timeout": 4,
         "server_error": 2,
         "spending_cap": 1
       }
     },
     "revise:v2-800w": {
-      "calls": 134,
-      "success": 76,
-      "success_rate": 0.5671641791044776,
+      "calls": 140,
+      "success": 78,
+      "success_rate": 0.5571428571428572,
       "latency_p50": 1193,
       "latency_p95": 11992,
-      "response_chars_mean": 1343,
+      "response_chars_mean": 1351,
       "error_classes": {
-        "unknown": 53,
+        "unknown": 57,
         "rate_limit": 5
       }
     },
     "lengthen:v1": {
-      "calls": 198,
-      "success": 107,
-      "success_rate": 0.5404040404040404,
-      "latency_p50": 2037,
+      "calls": 204,
+      "success": 109,
+      "success_rate": 0.5343137254901961,
+      "latency_p50": 2035,
       "latency_p95": 9158,
-      "response_chars_mean": 3319,
+      "response_chars_mean": 3328,
       "error_classes": {
         "rate_limit": 15,
-        "unknown": 75,
+        "unknown": 79,
         "timeout": 1
       }
     },
     "rewrite-headline:v1": {
-      "calls": 41,
+      "calls": 44,
       "success": 8,
-      "success_rate": 0.1951219512195122,
+      "success_rate": 0.18181818181818182,
       "latency_p50": 270,
       "latency_p95": 356,
       "response_chars_mean": 57,
       "error_classes": {
-        "unknown": 33
+        "unknown": 36
       }
     }
   }
