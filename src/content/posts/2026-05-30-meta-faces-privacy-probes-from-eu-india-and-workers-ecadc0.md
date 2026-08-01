@@ -1,15 +1,17 @@
 ---
 title: "Meta faces privacy probes from EU, India and workers"
 date: 2026-05-30T13:52:42.607Z
+modified_date: 2026-08-01T14:56:15.266Z
 tags: ["meta","privacy","regulation","ai"]
 hero_image: "/hero/2026-05-30-meta-faces-privacy-probes-from-eu-india-and-workers-ecadc0.jpg"
 hero_image_credit_name: "DTSoft Official"
 hero_image_credit_url: "https://www.pexels.com/@dtsoft-official-798352825"
 visual_keyword: "Meta employee using mouse tracking software in office"
 description: "Meta’s employee tracking, AI glasses, and Android data practices spark regulatory scrutiny and a $27 million settlement."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 Meta’s internal mouse‑tracking system is under investigation for potentially breaching EU data‑protection rules, while courts in India and a settlement in Kentucky add fresh pressure on the company’s privacy practices.
 
@@ -60,3 +62,7 @@ The next quarter will reveal whether the European data‑protection authority op
 ---
 
 *All factual statements are drawn from the sources cited above.*
+
+## Updates
+
+- **2026-08-01** — What is a silicon carbon battery and is it the answer to smartphone battery life issues? ([source](https://www.engadget.com/2227986/silicon-carbon-battery-in-smartphone-explained/))
