@@ -1,15 +1,17 @@
 ---
 title: "Slate Auto EV Pricing Announcement"
 date: 2026-05-28T23:23:12.443Z
+modified_date: 2026-08-02T11:13:56.366Z
 tags: ["Electric Vehicles","Slate Auto","Bezos"]
 hero_image: "/hero/2026-05-28-slate-auto-ev-pricing-announcement-ea2d36.jpg"
 hero_image_credit_name: "Rathaphon Nanthapreecha"
 hero_image_credit_url: "https://www.pexels.com/@bank"
 visual_keyword: "Electric Vehicle"
 description: "Slate Auto to announce EV pricing on June 24"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Slate Auto's EV
 Slate Auto, a Bezos-backed electric vehicle startup, will announce pricing and begin taking preorders for its EV on June 24. The company's vehicle is set to start shipping by the end of this year.
@@ -34,3 +36,7 @@ Slate Auto was founded with the goal of developing and manufacturing electric ve
 
 ## Broader Industry Context
 The electric vehicle market is part of a broader trend towards sustainable and environmentally friendly transportation. Many countries are investing in infrastructure to support the adoption of electric vehicles, and there is a growing demand for vehicles that can reduce carbon emissions. Slate Auto's announcement comes at a time when the industry is experiencing significant growth and change, and the company's pricing strategy will be influenced by the need to stay competitive in this market.
+
+## Updates
+
+- **2026-08-02** — There Are 2 Eclipses This August. Here’s How to See Them ([source](https://www.wired.com/story/two-eclipses-august-how-to-see-them/))
