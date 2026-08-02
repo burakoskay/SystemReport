@@ -1,18 +1,20 @@
 ---
 title: "Shein Acquires Everlane in Strategic E-commerce Move"
 date: 2026-05-22T19:56:45.587Z
+modified_date: 2026-08-02T20:47:11.582Z
 tags: ["e-commerce","sustainable fashion","AI"]
 hero_image: "/hero/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "sustainable fashion"
 description: "Shein's purchase of Everlane signals a push into sustainable apparel, backed by big-data and AI search tools."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.mp3"
 audio_bytes: 598980
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Shein Acquires Everlane
@@ -41,3 +43,7 @@ As the e-commerce industry continues to evolve, it is likely that we will see mo
 
 ## Conclusion
 In conclusion, Shein's acquisition of Everlane is a strategic move that reflects the growing importance of sustainable and ethical fashion in the e-commerce landscape. The deal's success will depend on Shein's ability to integrate Everlane's catalog into its data stack, leveraging tools like Hadoop and Marqo's embeddings. As the e-commerce industry continues to evolve, companies that can effectively leverage data and AI will be well-positioned for success.
+
+## Updates
+
+- **2026-08-02** — Fender’s CEO seems to think your bandmates are just analog AI ([source](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music))

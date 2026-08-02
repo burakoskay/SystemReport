@@ -1,18 +1,20 @@
 ---
 title: "Apple's iPhone Ultra, CVPR AI Push, and macOS 26.6 Beta"
 date: 2026-05-28T20:41:27.764Z
+modified_date: 2026-08-02T20:47:05.904Z
 tags: ["apple","iphone","macos","cvpr","ai"]
 hero_image: "/hero/2026-05-28-apple-s-iphone-ultra-cvpr-ai-push-and-macos-26-6-beta-49e8c0.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "Apple devices and AI research"
 description: "Apple teases iPhone 18 Pro vs Ultra differences, previews computer‑vision research at CVPR, and opens macOS 26.6 public beta for early testing."
-sources_count: 5
-author: "david-okafor"
+sources_count: 6
 audio_path: "/audio/2026-05-28-apple-s-iphone-ultra-cvpr-ai-push-and-macos-26-6-beta-49e8c0.mp3"
 audio_bytes: 609847
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## iPhone 18 Pro vs iPhone Ultra: the rumored split
 Apple’s upcoming fall lineup pits the iPhone 18 Pro against a new iPhone Ultra, and analysts have isolated three feature gaps that could steer upgrade decisions. The comparison deliberately ignores price, focusing instead on hardware and capability.
@@ -44,3 +46,7 @@ The macOS beta, meanwhile, serves as a testing ground for the same AI primitives
 
 ## What to watch
 The next Apple fall event will confirm whether the iPhone Ultra’s rumored camera, display, and battery upgrades materialize, and it will reveal the pricing that separates it from the Pro. At CVPR, keep an eye on any published papers that reference Apple’s internal datasets or on‑device inference benchmarks; those will hint at the next wave of AI features on iPhone and Mac. Finally, the macOS 26.6 public beta will continue to evolve, and the final release notes will likely highlight which AI‑driven capabilities made the cut for the September operating‑system launch.
+
+## Updates
+
+- **2026-08-02** — Here’s how iPhone Ultra’s form factor could compare to other Apple products ([source](https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/))
