@@ -1,16 +1,17 @@
 ---
 title: "Google Unveils Gemini 3.5 Flash and Spark"
 date: 2026-05-19T18:10:45.206Z
-modified_date: 2026-05-30T17:14:04.855Z
+modified_date: 2026-08-02T16:54:24.955Z
 tags: ["Google","Gemini 3.5 Flash","Agentic AI"]
 hero_image: "/hero/2026-05-19-google-unveils-gemini-3-5-flash-and-spark-bfdee9.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Google bets on agentic AI"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet. Gemini 3.5 Flash is capable of autonomously executing complex tasks and building software from scratch. The model rivals large flagship models for coding and agentic tasks, completing tasks in a fraction of the time of other frontier models. Gemini 3.5 Flash extends the loop to coding, generating a repository skeleton, running a build, capturing compiler errors, and rewriting code until it compiles.
@@ -31,4 +32,5 @@ The launch of Gemini 3.5 Flash and Spark has significant implications for variou
 
 ## Updates
 
+- **2026-08-02** — Xbox prices are increasing by up to €200 or £170 ([source](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros))
 - **2026-05-30** — I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful ([source](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/))

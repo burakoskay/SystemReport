@@ -1,18 +1,20 @@
 ---
 title: "Walmart's $248 Google TV, AMD's $549 GPU, iPhone LATAM Rise"
 date: 2026-06-02T04:27:25.191Z
+modified_date: 2026-08-02T16:54:41.193Z
 tags: ["walmart","google tv","amd","gpu","iphone"]
 hero_image: "/hero/2026-06-02-walmart-s-248-google-tv-amd-s-549-gpu-iphone-latam-rise-ee71aa.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "affordable smart TV display with Google TV interface"
 description: "Walmart launches $248 Onn Google TVs, AMD rolls out a $549 Radeon 9070 GRE, and Apple sees iPhone shipments up 8% in Latin America Q1 2026."
-sources_count: 3
-author: "david-okafor"
+sources_count: 4
 audio_path: "/audio/2026-06-02-walmart-s-248-google-tv-amd-s-549-gpu-iphone-latam-rise-ee71aa.mp3"
 audio_bytes: 643702
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Walmart rolls out $248 Onn Google TVs
 
@@ -49,3 +51,7 @@ Analysts caution that the 8 % gain may be temporary. Economic volatility, curr
 ## What to watch next
 
 Walmart’s low‑priced Google TV lineup will be evaluated on unit sell‑through and the impact on Google’s active‑user metrics. AMD’s Radeon RX 9070 GRE will face its first test in the upcoming Q2 2026 GPU pricing data; a sustained sales lift could prompt AMD to expand the GRE family. In Latin America, the next Counterpoint quarterly report will reveal whether Apple can maintain its 8 % shipment momentum or if Android rivals will reclaim market share as new mid‑range devices launch. Tracking these three threads will illuminate how price‑driven strategies shape the broader consumer‑tech ecosystem.
+
+## Updates
+
+- **2026-08-02** — MacBook Air reportedly facing major supply shortages due to AI-driven memory crisis ([source](https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/))
