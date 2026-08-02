@@ -1,19 +1,20 @@
 ---
 title: "Amazon Sales"
 date: 2026-05-15T07:29:44.245Z
-modified_date: 2026-05-27T18:30:40.273Z
+modified_date: 2026-08-02T14:58:14.844Z
 tags: ["Amazon","Big Spring Sale","Prime Day"]
 hero_image: "/hero/2026-05-15-amazon-sales-f29dc6.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "shopping"
 description: "Shop now and save big on Amazon's Big Spring Sale and Prime Day"
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-15-amazon-sales-f29dc6.mp3"
 audio_bytes: 534405
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Amazon Sales
@@ -85,4 +86,5 @@ In order to compete with Amazon, other retailers must focus on offering unique p
 
 ## Updates
 
+- **2026-08-02** — Can using your phone while charging affect its battery life? ([source](https://www.engadget.com/2225319/how-using-phone-while-charging-affects-battery-life/))
 - **2026-05-27** — Sony is offering up to 50 percent off some of our favorite PS5 games ([source](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal))

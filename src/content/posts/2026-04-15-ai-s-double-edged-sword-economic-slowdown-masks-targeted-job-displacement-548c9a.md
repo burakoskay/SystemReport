@@ -1,16 +1,17 @@
 ---
 title: "AI's Double-Edged Sword: The Hidden Wave of Job Displacement"
 date: 2026-04-15T19:48:44.307Z
-modified_date: 2026-07-29T13:57:31.524Z
+modified_date: 2026-08-02T14:58:04.179Z
 tags: ["ai","layoffs","tech industry","employment","economy"]
 hero_image: "/hero/2026-04-15-ai-s-double-edged-sword-economic-slowdown-masks-targeted-job-displacement-548c9a.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI robot hand replacing human worker in an office"
 description: "While macroeconomic factors are broadly slowing tech hiring, companies like Snap are explicitly linking significant layoffs to AI-driven efficiency, revealing a nuanced employment crisis."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ The conflicting narratives present a critical juncture for the tech workforce. W
 
 ## Updates
 
+- **2026-08-02** — Is paying artists enough to convince them to embrace AI? ([source](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties))
 - **2026-07-29** — Are remote car starters still worth it in 2026? ([source](https://www.engadget.com/2222373/are-remote-car-starters-still-worth-it/))
 - **2026-06-06** — The intracies of modern camera lens repair (2024) ([source](https://salvagedcircuitry.com/sigma-45mm.html))
 - **2026-04-28** — Google Home makes it easier to understand why devices aren&#8217;t working ([source](https://www.theverge.com/tech/919787/google-home-instant-account-relinking-update))
