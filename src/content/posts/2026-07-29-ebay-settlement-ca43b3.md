@@ -1,18 +1,20 @@
 ---
 title: "eBay Settlement"
 date: 2026-07-29T02:03:14.355Z
+modified_date: 2026-08-02T19:02:18.321Z
 tags: ["eBay","Settlement","E-commerce"]
 hero_image: "/hero/2026-07-29-ebay-settlement-ca43b3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "eBay"
 description: "eBay settles with e-commerce newsletter writers for $56M"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-29-ebay-settlement-ca43b3.mp3"
 audio_bytes: 571604
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Settlement Details
 The plot orchestrated by eBay executives in 2019 to intimidate Ina and David Steiner, writers of an e-commerce newsletter, has resulted in a $56 million settlement.[^1][^2][^3][^4] This significant payout stems from the company's attempt to silence the Steiners after they published criticism of eBay.[^1][^5][^3][^6][^4][^7][^8]
@@ -36,6 +38,10 @@ The eBay case is not an isolated incident. There have been numerous instances of
 The settlement has significant technical implications for eBay and the broader e-commerce industry. The company must now re-evaluate its approach to criticism and ensure that it is respecting the rights of its critics. This may involve implementing new policies and procedures for responding to criticism, as well as providing training for employees on the importance of respecting critics' rights.
 ## Future Implications
 The settlement between eBay and the Steiners will have far-reaching implications for the company and the broader e-commerce industry. It sets a precedent for how companies should interact with their critics and the consequences of attempting to silence them. As the industry continues to evolve, it is crucial for companies to prioritize transparency, accountability, and respect for criticism.
+
+## Updates
+
+- **2026-08-02** — How the words we teach English language learners changed ([source](https://pudding.cool/2026/07/essential-words/))
 
 [^1]: [slashdot.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOOc7KPrfgta-wibN7ydlnt3sdiwBgmFm41FPhFnunZsr2o5tjh56NA-Qxw0vYPT_082wm9LnWjdNKIoXbZhYaCD57bmFcVeYhIZtUN9G2f7QqsOekbypjpjdOwjlLcoDtGV-2Qt7o006Zy6cmB77QKw1b1myZN0JV4hYYSiOGSY9GQc8CuyOq15VKmcCXaKvYX1sVyQW7pewrUvTSxrPSjxVAIavz1sPon3H92GQX-w8ROjEjilC2iz9zLmbpBdXJS5lccBSs_g==)
 [^2]: [techinasia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ3zMG9uJksK_TQRelAt0jDD06KwD5FcRc-SxzlakUxG3-thnYVdaGczS4ZyJC3v4EO4Drm_E8tWFAU3YwnlkdOfJ5pHr7XvxAA7CTCyLTmmGzPNx99S7-KQl1T0wXVNsVReKWR0jFLESyiipmzLsNj4ub5wI4WfBjFh-e7IVZ-kr7or0T1g==)
