@@ -1,15 +1,17 @@
 ---
 title: "FCC Waiver Delay and Hidden Water Costs in AI"
 date: 2026-05-12T03:49:34.346Z
+modified_date: 2026-08-02T22:51:04.298Z
 tags: ["fcc","ai-infrastructure","water-usage","cybersecurity","regulation"]
 hero_image: "/hero/2026-05-12-fcc-waiver-delay-and-hidden-water-costs-in-ai-ded625.jpg"
 hero_image_credit_name: "Elena Blessing"
 hero_image_credit_url: "https://www.pexels.com/@elena-blessing-355784"
 visual_keyword: "data center cooling towers under desert sky with power lines"
 description: "FCC delays foreign router bans until 2029; data centers guzzle water undetected. The infrastructure stakes."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 ## A Data Center’s Thirst and a Regulator’s Reluctance
 
@@ -34,3 +36,7 @@ The incident also exposed a regulatory gap. The data center operated under a 198
 Three decisions will determine whether these issues escalate into full-scale failures. First, the FCC must decide by mid-2025 whether to allocate $2.5 billion in emergency funding for router replacements. If it delays again, AI firms risk having no path to compliance by 2029. Second, the EPA will propose new guidelines for industrial water use by September 2025. A failure to close the non-domestic loophole could lead to more undetected overuse, as seen in California’s recent drought lawsuits. Third, the Department of Energy will release a report this quarter on how AI training centers can reduce water consumption without compromising output speeds. This is the industry’s last chance to prove it can manage multiple infrastructure constraints simultaneously. 
 
 The parallels to the 2008 financial crisis are striking: opaque systems, delayed regulatory action, and a belief that complexity could be managed rather than restructured. In 2025, the same overconfidence is evident in both the FCC’s timeline and the water board’s permitting rules. The difference this time is that the failures are physical: routers will stop routing, and aquifers will run dry. Neither problem admits to a software fix.
+
+## Updates
+
+- **2026-08-02** — The global memory shortage hits the MacBook Air ([source](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/))

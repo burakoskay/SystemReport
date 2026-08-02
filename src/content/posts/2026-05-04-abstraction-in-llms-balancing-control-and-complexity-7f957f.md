@@ -1,16 +1,17 @@
 ---
 title: "Abstraction in LLMs: Balancing Control and Complexity"
 date: 2026-05-04T06:44:35.355Z
-modified_date: 2026-05-23T15:06:05.950Z
+modified_date: 2026-08-02T22:51:09.762Z
 tags: ["LLMs","Abstraction","AI Development"]
 hero_image: "/hero/2026-05-04-abstraction-in-llms-balancing-control-and-complexity-7f957f.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 # The Limits of Abstraction in LLMs
@@ -36,4 +37,5 @@ In conclusion, the debate over abstraction in LLMs is a complex and multifaceted
 
 ## Updates
 
+- **2026-08-02** — Sam Altman and AI’s decel debate ([source](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/))
 - **2026-05-23** — Hands-on: Belkin’s new 5K MagSafe battery bank offers a kickstand in a slim design ([source](https://9to5mac.com/2026/05/23/belkin-5000mah-magsafe-slim-battery-bank-hands-on-kickstand/))
