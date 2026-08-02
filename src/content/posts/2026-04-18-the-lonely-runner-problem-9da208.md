@@ -1,16 +1,17 @@
 ---
 title: "The Lonely Runner Problem"
 date: 2026-04-18T12:46:00.914Z
-modified_date: 2026-06-05T10:00:56.617Z
+modified_date: 2026-08-02T13:07:31.486Z
 tags: ["mathematics","lonely runner problem","number theory"]
 hero_image: "/hero/2026-04-18-the-lonely-runner-problem-9da208.jpg"
 hero_image_credit_name: "Deepak Gautam"
 hero_image_credit_url: "https://www.pexels.com/@kuchbhigautam"
 visual_keyword: "mathematical track"
 description: "Mathematicians struggle to solve the 'lonely runner' problem, a decades-old question about runners circling a track at unique paces."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ The problem touches on concepts in number theory, algebra, and geometry.
 
 ## Updates
 
+- **2026-08-02** — I don't recommend Tailwind CSS ([source](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/))
 - **2026-06-05** — SpaceX won't get early access to the S&P 500 ([source](https://www.engadget.com/2188069/spacex-ipo-denied-early-access-to-sp-500/))
 - **2026-05-29** — CNN is the latest media company to sue Perplexity ([source](https://www.engadget.com/2183900/cnn-is-the-latest-media-company-to-sue-perplexity/))
 - **2026-05-14** — Dell and RAMageddon are watering down the Alienware brand ([source](https://www.theverge.com/tech/929160/dell-alienware-15-laptop-price-release-date-branding))

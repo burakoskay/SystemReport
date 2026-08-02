@@ -1,16 +1,17 @@
 ---
 title: "Tesla’s FSD Goes Global Amid Growing Scrutiny"
 date: 2026-05-21T12:57:24.266Z
-modified_date: 2026-05-24T11:20:20.558Z
+modified_date: 2026-08-02T13:07:35.241Z
 tags: ["tesla","autonomous-driving","regulation","china"]
 hero_image: "/hero/2026-05-21-tesla-s-fsd-goes-global-amid-growing-scrutiny-0b501a.jpg"
 hero_image_credit_name: "Nektarios Moutakis"
 hero_image_credit_url: "https://www.pexels.com/@nektarios-moutakis-266968888"
 visual_keyword: "Tesla Model 3 navigating Shanghai streets at night under bright neon lights"
 description: "Tesla launches Full Self‑Driving in China while Musk promises a feature‑complete version, sparking regulatory pushback and user‑level doubts."
-sources_count: 8
+sources_count: 9
 author: "elena-marchetti"
 ---
+
 
 
 ## Tesla unlocks Full Self‑Driving in China
@@ -57,4 +58,5 @@ The next few months will reveal whether the California DMV’s naming challenge 
 
 ## Updates
 
+- **2026-08-02** — The Pixel 11 will be a perfect storm of bad timing ([source](https://9to5google.com/2026/08/02/the-pixel-11-will-be-a-perfect-storm-of-bad-timing/))
 - **2026-05-24** — Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage ([source](https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo))
