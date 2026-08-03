@@ -1,19 +1,20 @@
 ---
 title: "AI Agent Harness Makers Push for Outside-the-Sandbox Execution"
 date: 2026-05-03T09:26:43.710Z
-modified_date: 2026-05-20T15:37:36.464Z
+modified_date: 2026-08-03T14:25:40.699Z
 tags: ["AI","machine learning","software development"]
 hero_image: "/hero/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.jpg"
 hero_image_credit_name: "Katya Wolf"
 hero_image_credit_url: "https://www.pexels.com/@katya-wolf"
 visual_keyword: "AI agent harnesses"
 description: "Developers of AI agent harnesses, like OmoiOS and Broccoli, argue that running agents outside the sandbox improves performance and reliability."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.mp3"
 audio_bytes: 621759
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -91,4 +92,5 @@ One thing is certain: AI agent harnesses are here to stay. As these systems beco
 
 ## Updates
 
+- **2026-08-03** — Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet ([source](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops))
 - **2026-05-20** — Customers say Trump Mobile is leaking their personal information ([source](https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/))
