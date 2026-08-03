@@ -1,16 +1,17 @@
 ---
 title: "Infrasound Waves Offer New Fire Suppression Method"
 date: 2026-05-02T13:26:22.717Z
-modified_date: 2026-07-28T19:16:24.230Z
+modified_date: 2026-08-03T19:24:52.383Z
 tags: ["fire safety","acoustic fire suppression","infrasound waves"]
 hero_image: "/hero/2026-05-02-infrasound-waves-offer-new-fire-suppression-method-b3893c.jpg"
 hero_image_credit_name: "𝑒𝑏𝑟𝑎𝑟"
 hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -84,6 +85,7 @@ Regulatory bodies will also play a critical role in the adoption of acoustic fir
 
 ## Updates
 
+- **2026-08-03** — 9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings ([source](https://9to5mac.com/2026/08/03/daily-august-3-2026/))
 - **2026-07-28** — 9to5Mac Daily: July 28, 2026 – Apple Upgrade is here ([source](https://9to5mac.com/2026/07/28/daily-july-28-2026/))
 - **2026-07-27** — 9to5Mac Daily: July 27, 2026 – Apple Glasses rumors, more ([source](https://9to5mac.com/2026/07/27/daily-july-27-2026/))
 - **2026-06-04** — Apple Arcade just got four new games, with more coming soon ([source](https://9to5mac.com/2026/06/04/apple-arcade-just-got-four-new-games-with-more-coming-soon/))

@@ -1,15 +1,17 @@
 ---
 title: "Lenovo's First Googlebooks Leak Shows Two Laptops and a 2-in-1"
 date: 2026-08-01T06:25:46.205Z
+modified_date: 2026-08-03T19:24:24.353Z
 tags: ["Googlebook","Lenovo","Chrome OS"]
 hero_image: "/hero/2026-08-01-lenovo-s-first-googlebooks-leak-shows-two-laptops-and-a-2-in-1-925aa1.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Googlebook"
 description: "Lenovo's first Googlebook devices leaked"
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 ## Lenovo's leaked Googlebook lineup
 A set of images confirms that Lenovo is ready to ship its first devices under Google’s new Googlebook brand. The leak displays three form factors: a traditional clamshell laptop, a larger-screen sibling, and a 2-in-1 tablet. Each device is designed to run Chrome OS, providing users with a lightweight operating system for web-based applications.
@@ -27,3 +29,7 @@ The launch of Lenovo's Googlebook devices is expected to have significant implic
 The Chrome OS market is part of a larger trend towards more affordable and accessible devices. The growth of this market is likely to be influenced by factors such as the increasing demand for online education and remote work solutions. As the market continues to evolve, it will be important to consider the role of Chrome OS devices in the broader technology landscape and how they will compete with other operating systems and device types.
 ## History of Chrome OS devices
 Chrome OS devices have been available for several years, with a range of manufacturers producing devices that run the operating system. The introduction of the Googlebook brand marks a significant development in the history of Chrome OS, as it provides a clear and recognizable identity for devices that run the operating system. As the market continues to grow and evolve, it will be interesting to see how the Googlebook brand is received by consumers and how it will influence the development of future Chrome OS devices.
+
+## Updates
+
+- **2026-08-03** — Apple finally fixed Siri. So why does it feel anticlimactic? ([source](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/))

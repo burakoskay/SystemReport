@@ -1,18 +1,20 @@
 ---
 title: "The Dark Side of AI Model Fine-Tuning"
 date: 2026-06-01T04:46:58.446Z
+modified_date: 2026-08-03T19:24:18.749Z
 tags: ["AI","Machine Learning","Cybersecurity"]
 hero_image: "/hero/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Model Fine-Tuning"
 description: "Researchers warn of vulnerabilities in AI model fine-tuning process. A new study highlights the risks of post-training manipulation."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.mp3"
 audio_bytes: 623013
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Unseen Threat in AI Fine-Tuning
@@ -80,3 +82,7 @@ The issue of post-training manipulation is a significant concern for the AI indu
 The study's findings are a wake-up call for the industry. It's time to take action to prevent post-training manipulation and ensure the integrity of AI models.
 
 The future of AI model security depends on the actions we take today. By prioritizing secure AI systems and taking concrete steps to prevent post-training manipulation, we can ensure that AI models are used for good and not for malicious purposes.
+
+## Updates
+
+- **2026-08-03** — Apple challenges UK government’s latest demand for iCloud backdoor: report ([source](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/))
