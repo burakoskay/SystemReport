@@ -1,18 +1,20 @@
 ---
 title: "Antares SMR test, coal revival, and AI energy push collide"
 date: 2026-06-05T23:19:05.780Z
+modified_date: 2026-08-03T17:47:18.142Z
 tags: ["nuclear","coal","ai","energy","policy"]
 hero_image: "/hero/2026-06-05-antares-smr-test-coal-revival-and-ai-energy-push-collide-305f55.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "small modular reactor test site with engineers, coal plant silhouette, AI data center servers"
 description: "Antares' SMR hits criticality as the Trump admin backs new coal plants and AI firms chase efficiency, exposing the tangled energy transition."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-05-antares-smr-test-coal-revival-and-ai-energy-push-collide-305f55.mp3"
 audio_bytes: 615698
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Antares' Small Modular Reactor Hits Criticality
 
@@ -47,3 +49,7 @@ Regulators are left to reconcile these competing pressures. Licensing bodies mus
 ## What to Watch
 
 Watch the Federal Energy Regulatory Commission’s upcoming SMR licensing rulemaking for clues on how quickly Antares and peers can move toward commercial operation. Track the Treasury’s disbursement schedule for the coal‑revival fund to see whether new plants actually break ground or stall under market pressure. Finally, monitor the adoption rate of EcoLogits’ impact‑assessment API in major AI services; its uptake will signal whether the industry is ready to let efficiency metrics drive product decisions.
+
+## Updates
+
+- **2026-08-03** — Base Power raises another $1B to save the grid using backyard batteries ([source](https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/))

@@ -1,15 +1,17 @@
 ---
 title: "Logitech MX Accessories Gain Microsoft Office Control"
 date: 2026-04-28T10:27:23.067Z
+modified_date: 2026-08-03T17:47:24.738Z
 tags: ["Logitech","Microsoft Office","Productivity","MX Accessories"]
 hero_image: "/hero/2026-04-28-logitech-mx-accessories-gain-microsoft-office-control-1fd950.jpg"
 hero_image_credit_name: "Masood Aslami"
 hero_image_credit_url: "https://www.pexels.com/@masoodaslami"
 visual_keyword: "Logitech MX Creative Console"
 description: "Logitech's MX accessories now support Microsoft Office apps, allowing users to control Word, Excel, and PowerPoint with custom shortcuts."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Logitech Brings Office Control to MX Accessories
@@ -44,3 +46,6 @@ Users should watch for upcoming plugin releases that could further enhance the c
 
 In the future, Logitech may explore integrating its MX accessories with other popular productivity applications, such as Google Workspace or Zoom. This could further enhance the value proposition of Logitech's MX accessories and increase their appeal to a wider range of users. Additionally, Logitech may also focus on developing more advanced features and functionalities for its MX accessories, such as AI-powered productivity tools or enhanced customization options.
 
+## Updates
+
+- **2026-08-03** — Congress’s favorite AI tool? ChatGPT ([source](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/))

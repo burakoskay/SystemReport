@@ -1,15 +1,17 @@
 ---
 title: "Tesla brings Full Self-Driving to Europe, sales near $1.5B"
 date: 2026-05-20T22:10:54.804Z
+modified_date: 2026-08-03T17:47:36.742Z
 tags: ["tesla","self-driving","software","europe"]
 hero_image: "/hero/2026-05-20-tesla-brings-full-self-driving-to-europe-sales-near-1-5b-8f8b10.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "Tesla car dashboard displaying autonomous driving interface"
 description: "Tesla expands its Full Self-Driving add‑on to the Netherlands and Lithuania, while its software business eyes $1.5 billion in revenue this year."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## European rollout gains traction
 Tesla's Full Self-Driving (FSD) software is now available in the Netherlands and Lithuania, marking the first two European markets to receive the feature. The rollout follows a pattern of incremental approvals rather than a continent‑wide launch. Drivers in both countries can purchase the $6,000 add‑on before vehicle delivery, unlocking lane changes, automatic parking and the summon function that brings a parked car to the driver.
@@ -41,3 +43,7 @@ However, the reliance on vision‑only perception has drawn scrutiny after sever
 
 ## What to watch next
 The next regulatory decision will likely come from either France or Germany, where authorities have signaled intent to evaluate the latest FSD version. Tracking the approval timeline will indicate whether Tesla can sustain its European push. On the revenue side, the quarterly earnings report will reveal whether the $1.5 billion software forecast holds up as new markets join the queue. Investors and engineers alike should watch for any policy shifts that could force Tesla to modify its pricing or feature set.
+
+## Updates
+
+- **2026-08-03** — Trump wants the power to stop the public from suing polluters ([source](https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/))

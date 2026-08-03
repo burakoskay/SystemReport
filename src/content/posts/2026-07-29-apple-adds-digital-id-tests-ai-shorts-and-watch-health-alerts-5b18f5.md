@@ -1,18 +1,20 @@
 ---
 title: "Apple adds digital ID, tests AI shorts, and watch health alerts"
 date: 2026-07-29T13:59:58.210Z
+modified_date: 2026-08-03T17:48:15.134Z
 tags: ["apple","ios","digital-id","ai","health"]
 hero_image: "/hero/2026-07-29-apple-adds-digital-id-tests-ai-shorts-and-watch-health-alerts-5b18f5.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "iPhone showing digital driver’s license next to Apple Watch alert"
 description: "Apple rolls digital driver’s licenses to a 15th state, trials AI‑powered HBO Max Shorts, upgrades Instapaper, and highlights watch fall detection as leadership shifts."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-07-29-apple-adds-digital-id-tests-ai-shorts-and-watch-health-alerts-5b18f5.mp3"
 audio_bytes: 582053
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Digital driver’s licenses go statewide, again
 
@@ -47,3 +49,7 @@ Ternus, who rose through the hardware engineering ranks, hinted at a tighter int
 ## What to watch next
 
 The next state to join the digital driver’s license program will reveal how quickly Apple can scale the feature nationally. Keep an eye on whether HBO Max Shorts graduates from a limited test to a permanent app slot, and watch for user sentiment on Instapaper’s new UI. Finally, monitor how Ternus’ tenure influences Apple’s health‑sensor roadmap and whether more life‑saving features roll out beyond fall detection.
+
+## Updates
+
+- **2026-08-03** — Google Health adds two-way Apple Health syncing on iPhone ([source](https://9to5mac.com/2026/08/03/google-health-adds-two-way-apple-health-syncing-on-iphone/))
