@@ -1,16 +1,17 @@
 ---
 title: "Zillow doubles down on rentals amid legal fight over hidden homes"
 date: 2026-05-21T22:03:09.147Z
-modified_date: 2026-06-02T16:42:33.967Z
+modified_date: 2026-08-03T11:17:22.086Z
 tags: ["zillow","real-estate","rentals","tech"]
 hero_image: "/hero/2026-05-21-zillow-doubles-down-on-rentals-amid-legal-fight-over-hidden-homes-ae10db.jpg"
 hero_image_credit_name: "Vlad Bagacian"
 hero_image_credit_url: "https://www.pexels.com/@vladbagacian"
 visual_keyword: "busy city apartment search on laptop"
 description: "Zillow buys HotPads for $16 million, pushes a unified rental platform while suing over hidden listings, highlighting the stubborn role of agents."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ What to watch: the court’s ruling on the preliminary injunction, HotPads’ in
 
 ## Updates
 
+- **2026-08-03** — The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them ([source](https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/))
 - **2026-06-02** — Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t ([source](https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability))
 - **2026-05-30** — Nike World Cup Uniforms Made of Recycled Textiles Won’t Solve Fashion Waste ([source](https://www.wired.com/story/nike-recycled-world-cup-uniforms/))

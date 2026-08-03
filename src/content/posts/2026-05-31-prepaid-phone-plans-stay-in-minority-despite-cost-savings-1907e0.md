@@ -1,15 +1,17 @@
 ---
 title: "Prepaid phone plans stay in minority despite cost savings"
 date: 2026-05-31T13:58:23.273Z
+modified_date: 2026-08-03T11:17:11.401Z
 tags: ["prepaid phone plans","wireless industry","cost savings"]
 hero_image: "/hero/2026-05-31-prepaid-phone-plans-stay-in-minority-despite-cost-savings-1907e0.jpg"
 hero_image_credit_name: "Ketut Subiyanto"
 hero_image_credit_url: "https://www.pexels.com/@ketut-subiyanto"
 visual_keyword: "prepaid phone plans"
 description: "Prepaid plans offer significant savings but account for only 23% of US wireless subscriptions, with market dynamics limiting their visibility."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Prepaid phone plans now cost roughly half of comparable post-paid contracts, yet they still hold under a quarter of U.S. wireless subscriptions. According to Ovum, contract-free plans account for 23 percent of U.S. wireless customers.
@@ -71,3 +73,7 @@ The growth of prepaid plans will also drive changes in the wireless industry, in
 In conclusion, prepaid phone plans offer significant savings and benefits, but their adoption is limited by market dynamics. As consumers become more cost-conscious and the wireless industry shifts towards more flexible and affordable plans, prepaid plans are expected to grow in popularity.
 
 The growth of prepaid plans has implications for the wireless industry, driving innovation and competition. As the industry continues to evolve, it is likely that prepaid plans will become an increasingly important part of the wireless market.
+
+## Updates
+
+- **2026-08-03** — A Marc Benioff-backed startup thinks AI can solve the AI deployment problem ([source](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/))
