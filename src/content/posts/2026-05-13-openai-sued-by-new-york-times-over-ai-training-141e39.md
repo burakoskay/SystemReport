@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Sued by New York Times Over AI Training"
 date: 2026-05-13T06:55:25.186Z
+modified_date: 2026-08-03T22:56:16.689Z
 tags: ["OpenAI","AI","copyright"]
 hero_image: "/hero/2026-05-13-openai-sued-by-new-york-times-over-ai-training-141e39.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI is facing multiple lawsuits over its use of copyrighted material to train its AI models, including cases brought by The New York Times, authors Mona Awad and Paul Tremblay, and Elon Musk."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI's Copyright Conundrum
@@ -94,3 +96,6 @@ The next step in the lawsuits against OpenAI will be the court's decision on whe
 
 The cases may also lead to changes in the way that AI companies approach the use of copyrighted material, and may ultimately shape the development of AI technology.
 
+## Updates
+
+- **2026-08-03** — Did an AI Music App Just Snitch on the Song of the Summer? ([source](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/))

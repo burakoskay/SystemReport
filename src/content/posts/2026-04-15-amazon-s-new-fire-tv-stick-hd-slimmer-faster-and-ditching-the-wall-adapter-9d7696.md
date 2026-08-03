@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-07-30T23:00:03.481Z
+modified_date: 2026-08-03T22:56:27.653Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-08-03** — Samsung’s discounted smart monitor is $349.99, its lowest price yet ([source](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale))
 - **2026-07-30** — Spotify's new feature lets you leave little notes on songs ([source](https://www.engadget.com/2227542/spotify-new-feature-lets-you-leave-little-user-notes-on-songs/))
 - **2026-07-30** — Here’s everything new for Apple Notes in iOS 27 ([source](https://9to5mac.com/2026/07/30/heres-everything-new-for-apple-notes-in-ios-27/))
 - **2026-07-30** — Yahoo Weather iOS app overhauled with new features  and enhanced radar and maps ([source](https://9to5mac.com/2026/07/30/yahoo-weather-ios-update/))
