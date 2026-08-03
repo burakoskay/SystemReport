@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-08-02T13:07:27.349Z
+modified_date: 2026-08-03T20:58:31.108Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-08-03** — Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated ([source](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/))
 - **2026-08-02** — 8 Best Password Managers (2026), Tested and Reviewed ([source](https://www.wired.com/story/best-password-managers/))
 - **2026-06-04** — Noble Audio debuts FoKus Artemis headphones with three drivers and ANC ([source](https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/))
 - **2026-05-21** — Deals: TCL’s Android TAB A1 Plus $220 Amazon low, Galaxy S26 Ultra up to $388 off, Sonos Memorial Day sale, more ([source](https://9to5google.com/2026/05/21/deals-tcl-android-tab-a1-plus-galaxy-s26-ultra-sonos/))

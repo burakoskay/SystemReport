@@ -1,19 +1,20 @@
 ---
 title: "AMD Prices Ryzen AI Halo PC at $3,999, Competes with Nvidia"
 date: 2026-05-21T04:11:03.004Z
-modified_date: 2026-07-30T17:20:42.790Z
+modified_date: 2026-08-03T20:58:36.607Z
 tags: ["AI","AMD","Nvidia"]
 hero_image: "/hero/2026-05-21-amd-prices-ryzen-ai-halo-pc-at-3-999-competes-with-nvidia-bc1d12.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AMD launches $3,999 Ryzen AI Halo PC, targets Nvidia's DGX Spark, as Adobe rolls out on-device AI in Photoshop 27.7."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-21-amd-prices-ryzen-ai-halo-pc-at-3-999-competes-with-nvidia-bc1d12.mp3"
 audio_bytes: 663346
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ The downstream implications of the Ryzen AI Halo PC and Adobe's on-device AI fea
 
 ## Updates
 
+- **2026-08-03** — The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases ([source](https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/))
 - **2026-07-30** — New MCP specification addresses the main barrier to enterprise adoption ([source](https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Beta 3: What's New and Why It Matters"
 date: 2026-04-20T20:41:02.988Z
-modified_date: 2026-07-29T22:56:43.638Z
+modified_date: 2026-08-03T20:58:47.566Z
 tags: ["apple","ios","ipados","security"]
 hero_image: "/hero/2026-04-20-apple-s-ios-26-5-beta-3-what-s-new-and-why-it-matters-5e8bee.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
-sources_count: 25
+sources_count: 26
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ For now, developers and users alike should keep a close eye on Apple's updates a
 
 ## Updates
 
+- **2026-08-03** — Apple Photos in iOS 27 gets camera roll feature it’s long needed ([source](https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/))
 - **2026-07-29** — Who wins and who loses after US bans foreign robots? ([source](https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/))
 - **2026-07-27** — iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27 ([source](https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/))
 - **2026-05-30** — Perry Compiles TypeScript directly to executables using SWC and LLVM ([source](https://www.perryts.com/))

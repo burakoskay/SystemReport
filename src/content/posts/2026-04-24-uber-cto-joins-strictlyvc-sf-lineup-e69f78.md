@@ -1,19 +1,20 @@
 ---
 title: "Uber CTO joins StrictlyVC SF lineup"
 date: 2026-04-24T17:32:34.129Z
-modified_date: 2026-07-30T19:17:31.158Z
+modified_date: 2026-08-03T20:58:25.659Z
 tags: ["AI","Uber","StrictlyVC SF"]
 hero_image: "/hero/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.jpg"
 hero_image_credit_name: "Federico Abis"
 hero_image_credit_url: "https://www.pexels.com/@federicoabisphotography"
 visual_keyword: "Uber"
 description: "Uber CTO Praveen Neppalli Naga joins StrictlyVC San Francisco on April 30 to discuss operating at scale in the age of AI."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.mp3"
 audio_bytes: 635760
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Surprise Addition to StrictlyVC SF Lineup
@@ -56,4 +57,5 @@ In conclusion, the addition of Uber CTO Praveen Neppalli Naga to the StrictlyVC 
 
 ## Updates
 
+- **2026-08-03** — AWS is helping vibe-coding startup Superblocks, and the implications are big ([source](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/))
 - **2026-07-30** — Upper stage impacting the moon on 2026 August 5 ([source](https://www.projectpluto.com/25010d.htm))
