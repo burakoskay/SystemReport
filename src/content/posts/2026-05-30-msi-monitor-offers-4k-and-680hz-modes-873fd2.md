@@ -1,16 +1,17 @@
 ---
 title: "MSI Monitor Offers 4K and 680Hz Modes"
 date: 2026-05-30T21:05:02.835Z
-modified_date: 2026-06-01T17:51:44.195Z
+modified_date: 2026-08-03T06:58:40.421Z
 tags: ["gaming","monitor","MSI","display technology"]
 hero_image: "/hero/2026-05-30-msi-monitor-offers-4k-and-680hz-modes-873fd2.jpg"
 hero_image_credit_name: "SERHAT TURAN"
 hero_image_credit_url: "https://www.pexels.com/@serhatturan"
 visual_keyword: "MSI Monitor"
 description: "MSI's new monitor switches between 4K and 680Hz modes"
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 
@@ -49,4 +50,5 @@ The gaming monitor market is highly competitive, with many manufacturers competi
 
 ## Updates
 
+- **2026-08-03** — Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours ([source](https://github.com/pg83/shitty))
 - **2026-06-01** — WWDC wallpaper released as free download alongside Apple Music playlist and more ([source](https://9to5mac.com/2026/06/01/wwdc-wallpaper-released-as-free-download-alongside-apple-music-playlist-and-more/))
