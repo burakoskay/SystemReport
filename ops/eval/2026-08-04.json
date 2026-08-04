@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-08-04T02:00:54.455Z",
+  "generated_at": "2026-08-04T05:08:50.882Z",
   "window_days": 7,
-  "total_records": 4645,
+  "total_records": 4743,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1615,
-      "success": 381,
-      "success_rate": 0.23591331269349844,
-      "latency_p50": 5549,
-      "latency_p95": 13438,
-      "response_chars_mean": 2846,
+      "calls": 1649,
+      "success": 390,
+      "success_rate": 0.23650697392359005,
+      "latency_p50": 5728,
+      "latency_p95": 13489,
+      "response_chars_mean": 2830,
       "error_classes": {
-        "unknown": 1153,
+        "unknown": 1178,
         "rate_limit": 79,
         "timeout": 2
       }
     },
     "revise:v2-800w": {
-      "calls": 177,
-      "success": 87,
-      "success_rate": 0.4915254237288136,
-      "latency_p50": 1360,
-      "latency_p95": 8438,
-      "response_chars_mean": 1393,
+      "calls": 185,
+      "success": 91,
+      "success_rate": 0.4918918918918919,
+      "latency_p50": 1374,
+      "latency_p95": 12268,
+      "response_chars_mean": 1382,
       "error_classes": {
-        "unknown": 80,
-        "rate_limit": 9,
+        "unknown": 83,
+        "rate_limit": 10,
         "permission": 1
       }
     },
     "lengthen:v1": {
-      "calls": 237,
-      "success": 120,
-      "success_rate": 0.5063291139240507,
+      "calls": 243,
+      "success": 124,
+      "success_rate": 0.5102880658436214,
       "latency_p50": 2148,
-      "latency_p95": 10605,
-      "response_chars_mean": 3135,
+      "latency_p95": 11055,
+      "response_chars_mean": 3094,
       "error_classes": {
         "rate_limit": 17,
-        "unknown": 100
+        "unknown": 102
       }
     },
     "rewrite-headline:v1": {
-      "calls": 61,
+      "calls": 64,
       "success": 10,
-      "success_rate": 0.16393442622950818,
+      "success_rate": 0.15625,
       "latency_p50": 270,
       "latency_p95": 361,
       "response_chars_mean": 56,
       "error_classes": {
-        "unknown": 51
+        "unknown": 54
       }
     }
   }

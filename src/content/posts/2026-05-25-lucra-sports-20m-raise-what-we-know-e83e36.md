@@ -1,16 +1,17 @@
 ---
 title: "Lucra Sports' $20M Raise: What We Know"
 date: 2026-05-25T15:33:39.402Z
-modified_date: 2026-06-03T21:20:55.855Z
+modified_date: 2026-08-04T05:00:20.860Z
 tags: ["eSports","fundraising","VCs"]
 hero_image: "/hero/2026-05-25-lucra-sports-20m-raise-what-we-know-e83e36.jpg"
 hero_image_credit_name: "Nathan b Caldeira"
 hero_image_credit_url: "https://www.pexels.com/@nathan-b-caldeira-2940485"
 visual_keyword: "eSports"
 description: "Lucra Sports founder Dylan Robbins reveals secrets on raising capital from VCs."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The success of Lucra Sports' fundraising efforts could mark a new era for eSport
 
 ## Updates
 
+- **2026-08-04** — Telegram briefly pulled from the App Store over child sexual abuse material availability [U: Apple statement ] ([source](https://9to5mac.com/2026/08/03/telegram-appears-to-have-been-pulled-from-the-app-store-worldwide/))
 - **2026-06-03** — Uber to put 500 data-collection vehicles on the road this year ([source](https://techcrunch.com/2026/06/03/uber-to-put-500-data-collection-vehicles-on-the-road-this-year/))
 - **2026-05-26** — Oppo’s Bubble is a thin round screen for taking rear camera selfies ([source](https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic))
