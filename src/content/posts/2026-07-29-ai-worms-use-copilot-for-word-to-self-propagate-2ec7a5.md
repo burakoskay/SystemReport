@@ -1,18 +1,20 @@
 ---
 title: "AI Worms Use Copilot for Word to Self‑Propagate"
 date: 2026-07-29T14:01:57.594Z
+modified_date: 2026-08-04T19:25:45.833Z
 tags: ["ai","security","microsoft","copilot","deepfake"]
 hero_image: "/hero/2026-07-29-ai-worms-use-copilot-for-word-to-self-propagate-2ec7a5.jpg"
 hero_image_credit_name: "Sadi Hockmuller"
 hero_image_credit_url: "https://www.pexels.com/@sadi-hockmuller-2055469670"
 visual_keyword: "digital worm spreading through a Microsoft Word document interface"
 description: "Researchers demonstrate AI‑driven code that spreads through Microsoft Word via Copilot, exposing a novel attack surface for enterprise documents."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-07-29-ai-worms-use-copilot-for-word-to-self-propagate-2ec7a5.mp3"
 audio_bytes: 601279
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## AI Worms Slip Through Copilot for Word
 Document‑borne AI worms can self‑propagate through Microsoft Copilot for Word, and the proof‑of‑concept is already public. The finding landed on Hacker News, where the author posted a walkthrough of a Word file that triggers Copilot to generate malicious code on opening. The worm leverages Copilot's code‑completion engine, feeding it prompts embedded in the document's text. When a user activates a suggestion, the generated script runs with the same privileges as the host application. The demonstration shows a complete infection loop without user interaction beyond opening the file.
@@ -42,3 +44,7 @@ Imagine a background service that scans every Word file entering a corporate rep
 
 ## What to Watch
 Watch for Microsoft’s response to the Copilot worm proof‑of‑concept. A security advisory, a hardening of the suggestion UI, or a new policy flag for generated code would signal acknowledgment of the risk. Track whether third‑party security vendors release plugins that inspect Copilot prompts in real time. Finally, monitor adoption of AI‑focused detection APIs—such as Reality Defender’s RealAPI—and any extensions that address code generation. The next few months will reveal whether the industry can close the gap before threat actors weaponize the technique.
+
+## Updates
+
+- **2026-08-04** — BMW’s in-car Spider-Man ad is villain behavior ([source](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad))

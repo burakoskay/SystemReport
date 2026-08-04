@@ -1,16 +1,17 @@
 ---
 title: "AI Job Screening"
 date: 2026-05-05T10:07:59.425Z
-modified_date: 2026-05-13T21:28:47.169Z
+modified_date: 2026-08-04T19:25:34.841Z
 tags: ["AI","Job Screening","Automation"]
 hero_image: "/hero/2026-05-05-ai-job-screening-adccfe.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Medical student investigates AI's role in trashing his job application."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,5 +59,6 @@ The intersection of AI and job hunting is a complex and rapidly evolving field, 
 
 ## Updates
 
+- **2026-08-04** — Lenovo&#8217;s Legion Go S with SteamOS is down to its lowest price ever ([source](https://www.theverge.com/gadgets/975113/lenovo-legion-go-s-steamos-deal-sale))
 - **2026-05-13** — DHS Plans Experiment Running ‘Reconnaissance’ Drones Along the US-Canada Border ([source](https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/))
 - **2026-05-05** — Valve releases design files for its out-of-stock Steam Controller ([source](https://www.engadget.com/2165638/valve-releases-design-files-for-its-out-of-stock-steam-controller/))
