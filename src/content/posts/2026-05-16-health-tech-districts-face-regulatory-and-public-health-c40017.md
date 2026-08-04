@@ -1,16 +1,17 @@
 ---
 title: "Health-Tech Districts Face Regulatory and Public Health"
 date: 2026-05-16T15:06:05.841Z
-modified_date: 2026-05-19T18:09:50.528Z
+modified_date: 2026-08-04T21:06:06.155Z
 tags: ["health-tech","regulation","public health","innovation"]
 hero_image: "/hero/2026-05-16-health-tech-districts-face-regulatory-and-public-health-c40017.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "health-tech collaboration hub with wireless devices and medical equipment"
 description: "Saint John’s health-tech district tackles regulatory hurdles and public health concerns"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Canada’s Saint John is building a health-tech district modeled after Surrey’s innovation hub, but the project highlights deeper tensions between rapid technological expansion and regulatory oversight. As Lark Group and partners prepare to break ground, the initiative intersects with ongoing debates about wireless health risks, FDA approval delays, and the pace of medical innovation.
@@ -41,4 +42,5 @@ The next six months will determine whether Saint John’s district becomes a mod
 
 ## Updates
 
+- **2026-08-04** — Open-weight AI models are catching up to the frontier. The safety gap remains. ([source](https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/))
 - **2026-05-19** — The 13 biggest announcements at Google I/O 2026 ([source](https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini))

@@ -1,16 +1,17 @@
 ---
 title: "Smart Gadgets 2026: When Features Miss the Mark"
 date: 2026-04-18T12:44:16.767Z
-modified_date: 2026-06-07T19:40:00.971Z
+modified_date: 2026-08-04T21:06:20.167Z
 tags: ["smart home","gaming laptop","portable speakers","camera accessories"]
 hero_image: "/hero/2026-04-18-smart-gadgets-2026-when-features-miss-the-mark-5fa118.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home"
 description: "Examining 2026's smart home locks, a GPU-less laptop, a flexible camera rig, and portable speakers that deliver on promise."
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ These product categories reveal a pattern. Manufacturers chase feature different
 
 ## Updates
 
+- **2026-08-04** — The Galaxy S26 FE sure does look like a Samsung phone in leaked images ([source](https://9to5google.com/2026/08/04/samsung-galaxy-s26-fe-color-image-leak/))
 - **2026-06-07** — Minecraft Dungeons 2 gets a September release date ([source](https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer))
 - **2026-06-05** — This is your laptop… on AI ([source](https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast))
 - **2026-05-15** — Build a Radio Wave Detector With Balls of Aluminum Foil! ([source](https://www.wired.com/story/build-a-radio-wave-detector-with-balls-of-aluminum-foil/))

@@ -1,16 +1,17 @@
 ---
 title: "Starship V3 flies, SpaceX battles explosions, suits"
 date: 2026-05-23T10:11:33.820Z
-modified_date: 2026-08-03T17:48:21.490Z
+modified_date: 2026-08-04T21:06:15.544Z
 tags: ["spacex","starship","aerospace"]
 hero_image: "/hero/2026-05-23-starship-v3-flies-spacex-battles-explosions-suits-9cbc43.jpg"
 hero_image_credit_name: "Israel Samaniego"
 hero_image_credit_url: "https://www.pexels.com/@israel-samaniego-53802335"
 visual_keyword: "Starship V3 lifting off over Boca Chica coastline at sunrise"
 description: "SpaceX’s latest Starship test hit most targets, yet recent pressure‑test blasts and a beach‑access suit keep the program on shaky ground."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 SpaceX’s Starship V3 completed its inaugural test flight, hitting most of its objectives.
@@ -41,4 +42,5 @@ The next milestone for Starship V3 is a full‑duration orbital flight, which wi
 
 ## Updates
 
+- **2026-08-04** — SpaceX has more neocloud revenue ([source](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud))
 - **2026-08-03** — Wind and solar overtake fossil fuels in Germany for the first time ([source](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/))

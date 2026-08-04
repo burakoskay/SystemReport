@@ -1,18 +1,20 @@
 ---
 title: "Scapia Secures $63M Funding"
 date: 2026-05-21T09:52:21.783Z
+modified_date: 2026-08-04T21:06:34.060Z
 tags: ["Travel Payments","Indian Market","Digital Payments"]
 hero_image: "/hero/2026-05-21-scapia-secures-63m-funding-1dd046.jpg"
 hero_image_credit_name: "Rodolfo Clix"
 hero_image_credit_url: "https://www.pexels.com/@rodolfoclix"
 visual_keyword: "Scapia"
 description: "Scapia raises $63M, doubles valuation"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-21-scapia-secures-63m-funding-1dd046.mp3"
 audio_bytes: 599816
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Scapia
 Scapia, an Indian startup, received a $63M investment led by General Catalyst, doubling its valuation. The funding round was led by General Catalyst. Scapia combines travel booking with co-branded credit cards and mobile payments.
@@ -37,3 +39,7 @@ The Indian travel payments market is part of a larger trend towards digital paym
 
 ## History of Travel Payments in India
 The Indian travel payments market has undergone significant changes in recent years. The introduction of digital payments has transformed the way people book travel and make transactions. Scapia's success is a result of its ability to adapt to these changes and provide a unique offering to customers. The company's focus on co-branded credit cards and mobile payments has enabled it to cater to a wide range of customers, from individuals to businesses. The history of travel payments in India is marked by the growth of digital payments, which has created new opportunities for startups like Scapia to emerge and thrive.
+
+## Updates
+
+- **2026-08-04** — All of Winona Police Department's Flock cameras cut down and stolen ([source](https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/))
