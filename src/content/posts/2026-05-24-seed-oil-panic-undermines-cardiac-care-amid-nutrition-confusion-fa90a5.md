@@ -1,19 +1,20 @@
 ---
 title: "Seed Oil Panic Undermines Cardiac Care Amid Nutrition Confusion"
 date: 2026-05-24T19:29:41.013Z
-modified_date: 2026-07-27T17:39:15.936Z
+modified_date: 2026-08-04T14:28:31.916Z
 tags: ["nutrition","cardiology","microbiome"]
 hero_image: "/hero/2026-05-24-seed-oil-panic-undermines-cardiac-care-amid-nutrition-confusion-fa90a5.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "doctor reviewing patient charts with oil bottles and microbiome graphics"
 description: "Clinicians warn that fear of seed oils is worsening heart health while new microbiome data highlights diet’s complex role."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-24-seed-oil-panic-undermines-cardiac-care-amid-nutrition-confusion-fa90a5.mp3"
 audio_bytes: 626356
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A doctor’s alarm turns into a broader warning
@@ -48,4 +49,5 @@ The next few months will reveal whether professional societies issue clearer gui
 
 ## Updates
 
+- **2026-08-04** — DJI's Mic Mini 2S is the first in its Mini lineup that can record your audio internally ([source](https://www.engadget.com/2229755/dji-mic-mini-2s-internal-recording/))
 - **2026-07-27** — Inside the Wild Rescue Mission That Took 4 Beluga Whales to Chicago ([source](https://www.wired.com/story/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/))

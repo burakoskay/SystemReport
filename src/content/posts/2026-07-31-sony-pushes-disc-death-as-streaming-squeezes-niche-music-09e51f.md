@@ -1,15 +1,17 @@
 ---
 title: "Sony pushes disc death as streaming squeezes niche music"
 date: 2026-07-31T21:13:34.958Z
+modified_date: 2026-08-04T14:28:26.661Z
 tags: ["sony","streaming","music","gaming","industry"]
 hero_image: "/hero/2026-07-31-sony-pushes-disc-death-as-streaming-squeezes-niche-music-09e51f.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "gaming console disc slot empty next to streaming waveform"
 description: "Sony moves forward without PlayStation discs while streaming services drive down earnings for jazz and classical artists, and Pandora rolls out a sub-$10 ad‑free tier."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 ## Sony ends PlayStation discs amid fan revolt
 Sony announced it will stop shipping physical discs for its next‑gen consoles, a move that ignited a wave of criticism on social media. The company framed the decision as a cost‑neutral shift, saying the loss of disc revenue will not dent its bottom line (Ars Technica).
@@ -31,3 +33,7 @@ Regulators have begun to probe streaming payout formulas, but concrete reforms r
 
 ## What to watch
 Track Sony’s quarterly earnings for any deviation from the projected neutral impact of disc removal. Monitor Pandora’s subscriber growth against its royalty disclosures to see if the sub‑$10 tier reshapes the market. Finally, keep an eye on legislative proposals targeting streaming payouts, especially any that address the chronic underpayment of jazz and classical musicians.
+
+## Updates
+
+- **2026-08-04** — Apple briefly yanked Telegram from the App Store over CSAM violations ([source](https://www.theverge.com/tech/974951/telegram-apple-app-store-removed))

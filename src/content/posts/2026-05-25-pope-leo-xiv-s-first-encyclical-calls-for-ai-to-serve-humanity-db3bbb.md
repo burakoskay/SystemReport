@@ -1,15 +1,17 @@
 ---
 title: "Pope Leo XIV's First Encyclical Calls for AI to Serve Humanity"
 date: 2026-05-25T15:18:18.081Z
+modified_date: 2026-08-04T14:28:10.844Z
 tags: ["AI","Vatican","Encyclical","Humanity"]
 hero_image: "/hero/2026-05-25-pope-leo-xiv-s-first-encyclical-calls-for-ai-to-serve-humanity-db3bbb.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "AI"
 description: "The Vatican's new encyclical flags AI risks, demands a human-first approach"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 Pope Leo XIV's first encyclical, *Magnifica Humanitas*, released on May 15, 2026, emphasizes that AI must serve humanity. The 42,300-word document highlights four key dangers: the manipulation of education, threats to child safety, the concentration of algorithmic control, and the development of autonomous weapons. Pope Leo XIV frames these risks as moral failures that could undermine human dignity.
@@ -40,3 +42,7 @@ The tech industry is likely to respond to the encyclical in a variety of ways. S
 
 ## Future directions
 The release of *Magnifica Humanitas* marks an important turning point in the development of AI. As the tech industry continues to evolve and grow, it will be important to prioritize human dignity and well-being. This will require ongoing commitment to transparency, accountability, and solidarity, as well as a willingness to adapt and evolve in response to changing circumstances. The Vatican's encyclical provides a powerful framework for thinking about the role of AI in society, and its emphasis on the need for AI to serve humanity provides a clear direction for future development.
+
+## Updates
+
+- **2026-08-04** — Is the future of data centers portable? Runware builds a pod to find out ([source](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/))

@@ -1,15 +1,17 @@
 ---
 title: "Apple blocks iOS downgrades, patches Error 53, delays privacy"
 date: 2026-05-20T18:34:41.681Z
+modified_date: 2026-08-04T14:28:47.708Z
 tags: ["apple","ios","privacy"]
 hero_image: "/hero/2026-05-20-apple-blocks-ios-downgrades-patches-error-53-delays-privacy-80ab7e.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone screen showing iOS update prompt with Apple logo"
 description: "Apple stops signing iOS 26.4.2, releases an iTunes‑only fix for Error 53, and pushes back its App Tracking Transparency rollout, tightening control over devices and repairs."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## iOS 26.5 ends downgrade path
 Apple shipped iOS 26.5 to every iPhone last week. Within 24 hours the company stopped signing iOS 26.4.2, so users can no longer roll back to the prior version. The signing window closed the moment the new build hit the air, a move that removes a safety valve for anyone who runs into bugs or compatibility issues.
@@ -48,3 +50,7 @@ The postponement also highlights a broader tension: Apple’s control over the i
 
 ## What to watch
 Watch for Apple’s next signing window. If a critical bug surfaces in iOS 26.5, the company may reopen signing for 26.4.2 or issue a new build. Also monitor the class‑action litigation around Error 53; a settlement could set precedent for how Apple handles third‑party repairs. Finally, track the ATT rollout schedule and any regulatory responses, especially from the FTC, as the feature reshapes the mobile ad market.
+
+## Updates
+
+- **2026-08-04** — No, Apple Photos face recognition is not a privacy threat – quite the opposite ([source](https://9to5mac.com/2026/08/04/no-apple-photos-face-recognition-is-not-a-privacy-threat-quite-the-opposite/))

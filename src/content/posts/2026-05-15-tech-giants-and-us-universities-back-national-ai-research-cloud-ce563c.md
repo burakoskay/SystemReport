@@ -1,18 +1,20 @@
 ---
 title: "Tech Giants and US Universities Back National AI Research Cloud"
 date: 2026-05-15T07:30:51.892Z
+modified_date: 2026-08-04T14:28:21.448Z
 tags: ["AI","National AI Research Cloud","US Competitiveness"]
 hero_image: "/hero/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Leading US universities and tech giants support legislation for a national AI research cloud to democratize AI R&D and maintain US competitiveness in AI."
-sources_count: 13
-author: "maya-chen"
+sources_count: 14
 audio_path: "/audio/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.mp3"
 audio_bytes: 561573
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Top US AI Research Institutes and Tech Giants Support National AI Research Cloud
@@ -66,3 +68,7 @@ The development of AI systems must prioritize these values, and the national AI 
 The national AI research cloud is an important initiative that has the potential to drive significant advancements in AI research and development. The support of leading US universities and tech giants is a testament to the importance of this initiative.
 
 As the initiative moves forward, it is essential to prioritize transparency, accountability, and fairness in the development of AI systems. The national AI research cloud has the potential to drive significant economic growth and improve the lives of citizens, and it is essential to ensure that it is implemented in a way that promotes these values.
+
+## Updates
+
+- **2026-08-04** — Peak Design’s latest bags have clever integrated hooks ([source](https://www.theverge.com/tech/973624/peak-design-city-line-details-price))
