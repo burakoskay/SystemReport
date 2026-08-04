@@ -1,18 +1,20 @@
 ---
 title: "Nadella on AI Dependence"
 date: 2026-07-27T22:57:47.742Z
+modified_date: 2026-08-04T22:57:33.011Z
 tags: ["AI","Microsoft","Satya Nadella"]
 hero_image: "/hero/2026-07-27-nadella-on-ai-dependence-b0bfb8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Gateway"
 description: "Microsoft CEO Satya Nadella on single AI reliance"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-07-27-nadella-on-ai-dependence-b0bfb8.mp3"
 audio_bytes: 592084
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to AI Dependence
 Microsoft CEO Satya Nadella stated that companies trusting one AI for everything may not survive. Nadella's statement highlights the risks of over-reliance on a single artificial intelligence system.
@@ -51,3 +53,7 @@ The technical mechanics of AI gateways also include the use of various security 
 The downstream implications of Nadella's statement are significant. Companies that fail to develop and implement robust AI strategies may struggle to stay competitive in the market. The use of AI gateways will be essential for companies looking to take advantage of the benefits of AI and to stay ahead of the competition.
 
 The downstream implications also include the potential impact on the broader economy. The increasing adoption of AI across various industries has the potential to create new job opportunities and to drive economic growth. However, the lack of standardization in the AI industry has created a challenge for companies looking to implement AI solutions. The use of AI gateways can help to address this challenge by providing a standardized way for companies to integrate AI systems into their operations.
+
+## Updates
+
+- **2026-08-04** — The White House Is Keeping Its AI Cybersecurity Framework Secret ([source](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/))

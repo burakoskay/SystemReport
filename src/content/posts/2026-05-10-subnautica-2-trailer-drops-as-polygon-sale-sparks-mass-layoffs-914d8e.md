@@ -1,19 +1,20 @@
 ---
 title: "Subnautica 2 Trailer Drops as Polygon Sale Sparks Mass Layoffs"
 date: 2026-05-10T20:58:47.036Z
-modified_date: 2026-07-29T10:34:05.163Z
+modified_date: 2026-08-04T22:57:44.238Z
 tags: ["gaming","media","industry","indie"]
 hero_image: "/hero/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "underwater alien landscape with diver beside chaotic newsroom"
 description: "A new Subnautica 2 trailer arrives just before early access, while Polygon's sale to Valnet triggers a wave of veteran journalist cuts."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-10-subnautica-2-trailer-drops-as-polygon-sale-sparks-mass-layoffs-914d8e.mp3"
 audio_bytes: 556766
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The next weeks will reveal whether Subnautica 2’s Early Access can sustain p
 
 ## Updates
 
+- **2026-08-04** — The Saudi-led $55 billion takeover of EA has closed ([source](https://www.engadget.com/2230492/the-saudi-led-55-billion-takeover-of-ea-has-closed/))
 - **2026-07-29** — How to Bring a Geothermal Well Back from the Dead ([source](https://www.wired.com/story/zanskar-geothermal-well-back-from-dead/))
 - **2026-06-02** — HP re-releases classic computer science calculator: The HP-16C ([source](https://hpcalcs.com/product/hp-16c-collectors-edition/))
 - **2026-05-15** — The Sideload 034: Your Google I/O 2026 primer ([source](https://9to5google.com/2026/05/15/the-sideload-034-your-google-i-o-2026-primer/))
