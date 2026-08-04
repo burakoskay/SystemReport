@@ -1,15 +1,17 @@
 ---
 title: "Kimi K3 on MI355X Beats B300 on Price‑Performance"
 date: 2026-08-02T11:21:16.721Z
+modified_date: 2026-08-04T12:01:11.427Z
 tags: ["ai hardware","gpu pricing","performance per dollar"]
 hero_image: "/hero/2026-08-02-kimi-k3-on-mi355x-beats-b300-on-price-performance-3adccc.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center server racks filled with diverse GPUs and AI accelerator cards"
 description: "Kimi K3 on the MI355X outperforms the B300 in dollars spent, a claim that reshapes cost‑efficiency debates amid misleading Apple‑Nvidia GPU comparisons and volatile cloud pricing."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Kimi K3 on MI355X shatters the B300 price‑performance myth
 The Wafer.ai blog reports that running Kimi K3 on the MI355X delivers better performance per dollar than the B300. The headline alone forces engineers to question the default assumption that higher‑end cards always win the cost‑efficiency battle.
@@ -33,3 +35,7 @@ Engineers who prioritize raw throughput still gravitate toward Nvidia’s flagsh
 
 ## What to watch next
 The next data point to track is the release of independent benchmarks for Kimi K3 on the MI355X, ideally measured against the B300 in identical cloud environments. Simultaneously, watch for updates to the cloud GPU pricing table as providers adjust rates in response to the latest silicon drops. Finally, monitor Apple’s next‑generation silicon announcements; if Apple continues to cherry‑pick comparison points, the industry will need clearer standards for reporting performance versus power versus cost.
+
+## Updates
+
+- **2026-08-04** — The Best Cordless Vacuums (2026): My Brand-New Top Pick ([source](https://www.wired.com/gallery/the-best-cordless-vacuum/))

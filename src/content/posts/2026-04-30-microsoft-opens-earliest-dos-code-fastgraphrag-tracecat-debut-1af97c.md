@@ -1,15 +1,17 @@
 ---
 title: "Microsoft Opens Earliest DOS Code; FastGraphRAG, Tracecat Debut"
 date: 2026-04-30T19:50:35.980Z
+modified_date: 2026-08-04T12:01:24.753Z
 tags: ["open-source","dos","retrieval-augmented-generation","security-automation"]
 hero_image: "/hero/2026-04-30-microsoft-opens-earliest-dos-code-fastgraphrag-tracecat-debut-1af97c.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "vintage computer code scroll beside modern AI graph visualization"
 description: "Microsoft releases the oldest known DOS source code as open source, while FastGraphRAG and Tracecat bring new open‑source tools for retrieval‑augmented generation and security automation."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Microsoft published the oldest known DOS source code on GitHub, making a piece of computing history freely available. The release gives researchers a rare look at the code that predated Microsoft's acquisition of 86‑DOS.
 
@@ -42,3 +44,7 @@ The contrast highlights a trade‑off between preserving history and delivering 
 ## What to watch
 
 Watch for Microsoft’s next archival release; additional pre‑acquisition software could appear on the same repository. Monitor FastGraphRAG adoption metrics as developers compare its cost profile against competing RAG stacks. Track Tracecat’s enterprise licensing rollout and any security audits prompted by its sandboxed design. These signals will indicate how open‑source strategies shape both legacy preservation and the emerging AI tooling market.
+
+## Updates
+
+- **2026-08-04** — How Data Centers Broke American Politics ([source](https://www.wired.com/story/how-data-centers-broke-american-politics/))

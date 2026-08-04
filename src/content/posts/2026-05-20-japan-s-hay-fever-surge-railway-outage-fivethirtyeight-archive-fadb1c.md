@@ -1,15 +1,17 @@
 ---
 title: "Japan’s hay‑fever surge, Railway outage, FiveThirtyEight archive"
 date: 2026-05-20T11:11:10.367Z
+modified_date: 2026-08-04T12:01:29.185Z
 tags: ["japan","allergy","cloud","outage","archiving"]
 hero_image: "/hero/2026-05-20-japan-s-hay-fever-surge-railway-outage-fivethirtyeight-archive-fadb1c.jpg"
 hero_image_credit_name: "Francesco Albanese"
 hero_image_credit_url: "https://www.pexels.com/@francesco-albanese-2150950215"
 visual_keyword: "Japanese city under pollen haze with cloud data center"
 description: "A 1950s Japanese project fuels a hay‑fever wave, Railway’s Google Cloud outage exposes platform risk, and FiveThirtyEight secures its archive."
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 ## Japan’s 1950s afforestation misfire fuels a nationwide hay‑fever wave
 
@@ -54,3 +56,7 @@ The $300 reduction also highlights the elasticity of the luxury sleep market. Ea
 ## What to watch next
 
 Japan’s allergy crisis will likely spur policy revisions on urban forestry, with the Ministry of Agriculture expected to release a pollen‑mitigation plan by the end of the fiscal year. Railway’s roadmap for multi‑cloud routing should surface in a Q3 engineering blog post, offering concrete timelines for redundancy upgrades. FiveThirtyEight’s archive will be tested when the Internet Archive announces its next preservation audit in early 2027, a milestone that could set new standards for journalistic data retention. Finally, Stearns & Foster’s discount program will be a bellwether for luxury‑goods pricing strategies ahead of the Q4 holiday season, especially as competitors roll out comparable offers.
+
+## Updates
+
+- **2026-08-04** — The Real Story Behind the 2018 Google Walkout ([source](https://www.wired.com/story/2018-google-walkout-dont-be-evil-claire-stapleton/))

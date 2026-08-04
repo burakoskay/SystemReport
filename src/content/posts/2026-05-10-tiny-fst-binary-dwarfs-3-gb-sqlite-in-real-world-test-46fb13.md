@@ -1,19 +1,20 @@
 ---
 title: "Tiny FST Binary Dwarfs 3 GB SQLite in Real‑World Test"
 date: 2026-05-10T19:15:04.361Z
-modified_date: 2026-05-15T03:53:00.930Z
+modified_date: 2026-08-04T12:01:20.280Z
 tags: ["opensource","databases","performance","hackernews"]
 hero_image: "/hero/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.jpg"
 hero_image_credit_name: "Muhammed Ensar"
 hero_image_credit_url: "https://www.pexels.com/@mecanbay"
 visual_keyword: "developer comparing massive database file to tiny binary on laptop screen"
 description: "A Hacker News post shows a 10 MB finite‑state transducer replacing a 3 GB SQLite DB, sparking debate on storage efficiency and platform fatigue."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.mp3"
 audio_bytes: 593338
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## FST Wins Over SQLite in One Developer’s Experiment
@@ -50,4 +51,5 @@ For teams wrestling with large static datasets, the FST experiment offers a data
 
 ## Updates
 
+- **2026-08-04** — ‘Everyone Is Doing It’: The Truth About AI in Hollywood ([source](https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/))
 - **2026-05-15** — The Real Losers of the Musk v. Altman Trial ([source](https://www.wired.com/story/musk-v-altman-trial-closing-arguments/))

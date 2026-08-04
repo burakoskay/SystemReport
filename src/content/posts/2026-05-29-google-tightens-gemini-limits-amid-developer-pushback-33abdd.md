@@ -1,15 +1,17 @@
 ---
 title: "Google tightens Gemini limits amid developer pushback"
 date: 2026-05-29T04:17:54.599Z
+modified_date: 2026-08-04T12:01:02.490Z
 tags: ["google","gemini","ai","developer-tools"]
 hero_image: "/hero/2026-05-29-google-tightens-gemini-limits-amid-developer-pushback-33abdd.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "developer using AI coding assistant on laptop"
 description: "Google revises Gemini's compute‑based usage caps, clarifies free‑tier prompts and images, and expands free Code Assist limits, reshaping AI tool competition."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Google revises Gemini usage caps after I/O backlash
 Google announced new Gemini limits on Monday, two days after developers complained about hitting caps too quickly at I/O 2026. The change replaces the compute‑based throttling introduced at the conference with a tiered prompt and image quota.
@@ -47,3 +49,7 @@ The next data point to track is whether Google revises the free‑tier prompt qu
 Watch for announcements about the eventual pricing of Code Assist’s preview features. If Google introduces a paid tier that restores enterprise‑only metrics, developers will need to weigh the cost against the convenience of a single‑vendor AI stack.
 
 Finally, monitor any updates to the compute‑based throttling policy. If Google re‑introduces hidden caps under the guise of “fair use,” the community’s trust in the quota system could erode, prompting a shift toward competing platforms.
+
+## Updates
+
+- **2026-08-04** — EON wants to move the data superhighway from ocean fiber to space lasers ([source](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/))

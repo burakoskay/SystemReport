@@ -1,15 +1,17 @@
 ---
 title: "Chinese Hacker Extradited, Critical Infrastructure Firm Breached"
 date: 2026-04-27T21:17:30.174Z
+modified_date: 2026-08-04T12:01:33.599Z
 tags: ["cybersecurity","hacking","extradition","critical infrastructure"]
 hero_image: "/hero/2026-04-27-chinese-hacker-extradited-critical-infrastructure-firm-breached-e70482.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity breach and extradition in critical infrastructure sector"
 description: "A Chinese national accused of state-backed cyberattacks is extradited to the US as Itron, a provider of energy/water meters, reveals a breach. What's next for cybersecurity?"
-sources_count: 6
+sources_count: 7
 author: "priya-raman"
 ---
+
 
 ## Extradition and Breach Unfold
 
@@ -38,3 +40,7 @@ In the private sector, companies are doubling down on zero-trust architectures. 
 ## What To Watch
 
 Congress will vote on the Cyber Incident Response Act by October 2024. A "no" vote would leave critical infrastructure vulnerable to delayed response times during attacks. Meanwhile, Itron faces potential class-action lawsuits from customers in California and Texas, with hearings scheduled for Q1 2025. The DOJ’s Xu trial, set for September 2025, will test the viability of extraditing hackers for economic sabotage under current U.S. law.
+
+## Updates
+
+- **2026-08-04** — Can Reddit fend off a new wave of AI SEO spam? ([source](https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam))
