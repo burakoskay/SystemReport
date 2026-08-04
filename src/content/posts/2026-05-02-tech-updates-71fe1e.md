@@ -1,16 +1,17 @@
 ---
 title: "Tech Updates"
 date: 2026-05-02T06:12:14.610Z
-modified_date: 2026-05-09T13:26:48.322Z
+modified_date: 2026-08-04T17:41:18.997Z
 tags: ["tech news","iOS 26","broadband network"]
 hero_image: "/hero/2026-05-02-tech-updates-71fe1e.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "iPhone"
 description: "Recent tech news and updates"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The development of focus-friendly apps is also driven by advancements in technol
 
 ## Updates
 
+- **2026-08-04** — Today’s Android app deals and freebies: Knight Bewitched, What Lies Underground, Northgard, more ([source](https://9to5toys.com/2026/08/04/today-android-app-deals-knight-lies-underground/))
 - **2026-05-09** — The game that makes me actually want to exercise ([source](https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer))
 - **2026-05-07** — Are you eligible for a share of Apple’s $250M new Siri settlement? ([source](https://9to5mac.com/2026/05/07/are-you-eligible-for-a-share-of-apples-250m-new-siri-settlement/))
 - **2026-05-02** — Tesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever ([source](https://www.engadget.com/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/))

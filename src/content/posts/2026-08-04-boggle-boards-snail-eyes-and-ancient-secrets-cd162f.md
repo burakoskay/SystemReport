@@ -1,18 +1,20 @@
 ---
 title: "Boggle Boards, Snail Eyes, and Ancient Secrets"
 date: 2026-08-04T05:06:41.437Z
+modified_date: 2026-08-04T17:41:46.296Z
 tags: ["science","research","oddities"]
 hero_image: "/hero/2026-08-04-boggle-boards-snail-eyes-and-ancient-secrets-cd162f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "scientist examining a Boggle board beside a glowing snail"
 description: "From a record‑setting Boggle board to snails that regrow eyes, new research reshapes quirky corners of science."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-08-04-boggle-boards-snail-eyes-and-ancient-secrets-cd162f.mp3"
 audio_bytes: 586441
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A Boggle Board That Beats All Odds
 
@@ -43,6 +45,10 @@ As the river channels shifted over millennia, the usable land expanded, allowing
 Vanderkam will release his code repository next month, inviting others to test the branch‑and‑bound approach on related word‑game puzzles. Snail‑eye researchers plan a CRISPR knockout study to pinpoint the genes responsible for lens regeneration, a trial slated for early 2026. Meanwhile, a multidisciplinary team aims to publish a high‑resolution 3‑D scan of the Shroud’s fibers later this year, which could finally settle the debate over its manufacturing technique. Finally, Egyptologists expect a follow‑up sediment analysis from Karnak’s southern precincts, a dataset that could refine the flood chronology even further.
 
 These disparate threads share a common thread: they turn curiosity‑driven questions into concrete data, forcing us to rewrite assumptions that have lingered for decades.
+
+## Updates
+
+- **2026-08-04** — TV Time co-founder launches Bingers to revive the beloved TV-tracking app ([source](https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/))
 
 [^1]: [sciencenews.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWpBRm_4NPFN26JfPA9mmnInuX_GJkUxMiwMEUdwRZKrSZdsnbUusVi-0x8Kfhhe8kYaU-eU0PqkKHA_1OLWyPwLLy2iMhXFB0sn1QcJJ336zxj2BqYR8XUpQPumTkYFGdl1U04cAFbJZiPIYnBKtTdad0IrysXBrd_A==)
 [^2]: [smithsonianmag.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQHmg-qLk_h5TfVSZI9KDntxaJxFvlyKjxyFcciqOT7SeZW7wxH7cP5ymNFtaIEbojhXG3dkzUl6rykhq_mDPUMpDMoBdFOXn8CVFnqRAFPJCZeDqvC63KkOqN1DcbXphcM0hs9pIY5OKVqN05MuN751Bn0xJLk7CvvyFXylyPDtCZ_A_hM9oSMPcq2j_67ejyhNEqWTxU_BuTXwpWSh_4MqGBmcb_yOBDHB-FVLlbRPv22HnkcN2LGME41nguqH7Pzvxyjo7hIFCC)

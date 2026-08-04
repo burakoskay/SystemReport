@@ -1,15 +1,17 @@
 ---
 title: "Iran Linked to Cyberattacks on Minnesota Water Utilities"
 date: 2026-07-30T23:00:48.887Z
+modified_date: 2026-08-04T17:42:02.744Z
 tags: ["Cybersecurity","Iran","Minnesota Water Utilities"]
 hero_image: "/hero/2026-07-30-iran-linked-to-cyberattacks-on-minnesota-water-utilities-e4598f.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Cyberattacks"
 description: "Iran tied to dozens of cyberattacks on Minnesota water utilities"
-sources_count: 1
+sources_count: 2
 author: "elena-marchetti"
 ---
+
 
 ## Introduction to the Attacks
 A memo obtained by WIRED, issued by WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran. The memo circulated among water utility companies and government agencies, attributes these attacks to a foreign state actor.
@@ -27,3 +29,7 @@ The exact technical mechanisms used in these attacks are not publicly known. How
 The implications of these attacks are far-reaching. The fact that Iran has been linked to these attacks suggests that the country is seeking to exploit vulnerabilities in critical infrastructure. The US government and private sector must work together to protect critical infrastructure and ensure national security. This involves navigating cybersecurity and diplomacy, as well as developing capabilities to monitor and respond to such threats. The international community must also work together to develop norms and standards for the use of cyberattacks as a tool of statecraft.
 ## Industry Response and Next Steps
 The attacks on Minnesota water utilities highlight the need for increased cooperation between the public and private sectors to protect critical infrastructure. The US government and private sector must work together to develop and implement effective cybersecurity measures to prevent such attacks in the future. This includes investing in cybersecurity research and development, as well as providing training and resources to cybersecurity professionals. The international community must also work together to develop a unified response to cyberattacks, including the development of international norms and standards for cybersecurity.
+
+## Updates
+
+- **2026-08-04** — Show HN: Simple algorithm and color space to generate diverse skin tones ([source](https://toneyalexander.github.io/inclusive-color-space/))

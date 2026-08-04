@@ -1,16 +1,17 @@
 ---
 title: "Instagram cracks down on aggregators via algorithm update"
 date: 2026-04-30T14:17:01.573Z
-modified_date: 2026-06-03T23:48:57.147Z
+modified_date: 2026-08-04T17:41:24.453Z
 tags: ["Instagram","Content Aggregation","Algorithm Update","Original Content","Meme Creators","Aggregator Accounts","Social Media","Regulatory Pressure","Content Ecosystem"]
 hero_image: "/hero/2026-04-30-instagram-cracks-down-on-aggregators-via-algorithm-update-c388ce.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Instagram algorithm update"
 description: "Instagram's algorithm update targets content aggregators re-uploading others' posts without original content, affecting meme creators and aggregator accounts."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 ## The Update Targets Content Aggregators
@@ -63,4 +64,5 @@ Instagram's algorithm update marks a significant shift in the platform's priorit
 
 ## Updates
 
+- **2026-08-04** — Google Password Manager passkeys could be at risk with new ‘Pass-ta-key’ attack ([source](https://9to5google.com/2026/08/04/google-password-manager-passkeys-could-be-at-risk/))
 - **2026-06-03** — Inside Meta's attempts to play catch-up with AI ([source](https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/))
