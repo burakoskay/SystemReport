@@ -1,18 +1,20 @@
 ---
 title: "Ancient lives unearthed by modern tech"
 date: 2026-05-18T21:22:07.121Z
+modified_date: 2026-08-05T21:02:39.052Z
 tags: ["archaeology","technology","history"]
 hero_image: "/hero/2026-05-18-ancient-lives-unearthed-by-modern-tech-f8ba69.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "archaeologist using X-ray scanner on ancient artifacts"
 description: "X‑rays, CT scans, and metal detectors turn hobbyists into discoverers, from a Pompeii doctor to a 5,000‑year‑old sword and Denmark’s Odin bracteate."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-18-ancient-lives-unearthed-by-modern-tech-f8ba69.mp3"
 audio_bytes: 600861
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A wave of new bodies and blades
 The latest batch of archaeological revelations reads like a tech‑savvy treasure hunt. A Roman‑era doctor, a Bronze Age sword, and a Viking‑age Odin amulet all emerged thanks to imaging tools and hobbyist detectors.
@@ -39,3 +41,7 @@ Denmark’s policy of deputizing private detectorists has turned hobbyists into 
 The model blurs the line between amateur and professional, but it also raises questions about provenance and curation. While the influx of finds overwhelms curators, it also democratizes heritage, giving citizens a stake in reconstructing their past.
 
 What to watch: Denmark plans to expand its detectorist program to coastal sites next spring, potentially exposing more Roman and early medieval trade goods. Meanwhile, the Pompeii team will publish a detailed report on the surgical kit later this year, and Dall’Armellina’s sword is slated for a museum exhibition in early 2027. Tracking those releases will show whether tech‑driven archaeology can keep pace with the flood of new data.
+
+## Updates
+
+- **2026-08-05** — Moove raises $250M to become the backbone of the robotaxi industry ([source](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/))

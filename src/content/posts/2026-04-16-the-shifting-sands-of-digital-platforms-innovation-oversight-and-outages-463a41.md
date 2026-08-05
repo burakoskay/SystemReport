@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-07-31T13:50:28.986Z
+modified_date: 2026-08-05T21:03:06.538Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-08-05** — UAG fixed my biggest Galaxy phone complaint with the Z Fold 8 ([source](https://9to5google.com/2026/08/05/uag-fixed-my-biggest-galaxy-phone-complaint/))
 - **2026-07-31** — D&#038;D is getting World of Warcraft and Star Wars crossovers ([source](https://www.theverge.com/games/973652/dnd-dungeons-dragons-world-of-warcraft-star-wars-universes-beyond))
 - **2026-06-03** — TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup ([source](https://techcrunch.com/2026/06/03/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup/))
 - **2026-05-26** — AI warfare is already here ([source](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines))

@@ -1,18 +1,20 @@
 ---
 title: "Meta Launches Instagram Plus, a Paid Subscription for Power Users"
 date: 2026-06-04T21:47:29.435Z
+modified_date: 2026-08-05T21:02:44.575Z
 tags: ["Meta","Instagram","paid subscription"]
 hero_image: "/hero/2026-06-04-meta-launches-instagram-plus-a-paid-subscription-for-power-users-77fd0e.jpg"
 hero_image_credit_name: "ready made"
 hero_image_credit_url: "https://www.pexels.com/@readymade"
 visual_keyword: "instagram"
 description: "Meta has launched Instagram Plus, a $3.99/month subscription offering extra features for power users, including profile customization and story insights."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-04-meta-launches-instagram-plus-a-paid-subscription-for-power-users-77fd0e.mp3"
 audio_bytes: 550288
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Tier for Power Users
@@ -72,3 +74,7 @@ In the coming months, it will be interesting to see how Meta continues to evolve
 ## Conclusion
 
 In conclusion, the launch of Instagram Plus is a significant development in the social media landscape. With its range of extra features and tools, it offers power users a new way to grow their following and understand their audience. As Meta continues to evolve its subscription business, it will be worth watching how users respond to the new offerings, and what implications this has for the wider social media landscape.
+
+## Updates
+
+- **2026-08-05** — How Lightspeed found their newest hire… via Instagram DM ([source](https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/))
