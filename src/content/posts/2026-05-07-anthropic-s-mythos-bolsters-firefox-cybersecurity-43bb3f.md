@@ -1,18 +1,20 @@
 ---
 title: "Anthropic's Mythos Bolsters Firefox Cybersecurity"
 date: 2026-05-07T17:54:40.495Z
+modified_date: 2026-08-05T01:56:21.365Z
 tags: ["AI-driven cybersecurity","Anthropic's Mythos","Firefox security"]
 hero_image: "/hero/2026-05-07-anthropic-s-mythos-bolsters-firefox-cybersecurity-43bb3f.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Anthropic's Mythos helps Mozilla security researchers find high-severity bugs in Firefox. This development showcases advancements in AI-driven cybersecurity."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-05-07-anthropic-s-mythos-bolsters-firefox-cybersecurity-43bb3f.mp3"
 audio_bytes: 629491
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Anthropic's Mythos Bolsters Firefox Cybersecurity
@@ -58,3 +60,7 @@ The impact of AI-driven cybersecurity tools like Mythos will be felt across the 
 ## Conclusion
 
 The integration of AI-driven tools like Mythos into the cybersecurity workflow has significant implications for the tech industry. As the number of apps and online services continues to grow, ensuring the security of these platforms is paramount. The collaboration between Mozilla and Anthropic demonstrates a proactive approach to addressing cybersecurity challenges. With the continued refinement of Mythos and the exploration of new ways to apply this technology to real-world cybersecurity challenges, we can expect to see further advancements in the field.
+
+## Updates
+
+- **2026-08-05** — I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel ([source](https://twitter.com/gwern/status/2084739205071343837))

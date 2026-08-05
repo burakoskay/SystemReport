@@ -1,16 +1,17 @@
 ---
 title: "Accenture buys Ookla, sparking fresh integration debate"
 date: 2026-05-31T04:32:06.248Z
-modified_date: 2026-06-03T21:21:29.364Z
+modified_date: 2026-08-05T01:56:15.965Z
 tags: ["acquisition","ookla","consulting"]
 hero_image: "/hero/2026-05-31-accenture-buys-ookla-sparking-fresh-integration-debate-6f17bc.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "office meeting with data dashboards"
 description: "Accenture's acquisition of Speedtest.net owner Ookla highlights the recurring challenges large firms face when absorbing startup assets."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,5 +40,6 @@ Accenture’s next moves will reveal how seriously it takes the integration chal
 
 ## Updates
 
+- **2026-08-05** — Ted Lasso’s season 4 premiere now available to stream on Apple TV ([source](https://9to5mac.com/2026/08/04/ted-lassos-season-4-premiere-now-available-to-stream-on-apple-tv/))
 - **2026-06-03** — WhatsApp’s revamped chat lists interface rolling out on iOS ([source](https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/))
 - **2026-06-02** — Apple TV reveals Silo season 3’s split-timeline plot, here’s the trailer ([source](https://9to5mac.com/2026/06/02/apple-tv-reveals-silo-season-3s-split-timeline-plot-heres-the-trailer/))
