@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Update Cycle: Balancing Security and Compatibility"
 date: 2026-05-26T18:38:40.765Z
-modified_date: 2026-07-27T21:06:40.382Z
+modified_date: 2026-08-05T05:10:39.885Z
 tags: ["Apple","iOS","security","privacy"]
 hero_image: "/hero/2026-05-26-apple-s-ios-update-cycle-balancing-security-and-compatibility-867a69.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple releases iOS updates to address security vulnerabilities and improve compatibility, but sometimes these updates cause issues for users."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -72,4 +73,5 @@ In conclusion, Apple's iOS update cycle is a complex and delicate process. The c
 
 ## Updates
 
+- **2026-08-05** — Dermstore Coupons: 25% Off for August 2026 ([source](https://www.wired.com/story/dermstore-promo-code/))
 - **2026-07-27** — Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now ([source](https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/))

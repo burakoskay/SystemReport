@@ -1,16 +1,17 @@
 ---
 title: "Google Halts Liquid Glass on Android"
 date: 2026-05-06T21:34:28.920Z
-modified_date: 2026-06-02T10:44:48.615Z
+modified_date: 2026-08-05T05:10:45.458Z
 tags: ["android","apple","liquid-glass","google","redesign"]
 hero_image: "/hero/2026-05-06-google-halts-liquid-glass-on-android-2c5049.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Pixel 8 Pro smartphone on a desk with Android 14 UI elements displayed on screen"
 description: "Google's Android President confirms Liquid Glass won't arrive on Pixels, Apple's divisive design remains iOS-exclusive."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Google’s next major Android update is scheduled for Q4 2024, with a focus on A
 
 ## Updates
 
+- **2026-08-05** — Google Assistant shutting down on Android and Wear OS in September ([source](https://9to5google.com/2026/08/04/google-assistant-september-2026-shutdown/))
 - **2026-06-02** — Apple @ Work Podcast: A new era for Jamf ([source](https://9to5mac.com/2026/06/02/apple-work-podcast-a-new-era-for-jamf/))
 - **2026-05-30** — Apple @ Work: How Apple Business solved the shadow IT problem of Apple Maps Connect ([source](https://9to5mac.com/2026/05/30/how-apple-business-solved-the-shadow-it-problem-of-apple-maps-connect/))
