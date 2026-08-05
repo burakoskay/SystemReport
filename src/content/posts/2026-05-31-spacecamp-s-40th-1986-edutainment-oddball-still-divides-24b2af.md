@@ -1,15 +1,17 @@
 ---
 title: "SpaceCamp's 40th: 1986 edutainment oddball still divides"
 date: 2026-05-31T14:01:48.643Z
+modified_date: 2026-08-05T19:23:09.157Z
 tags: ["gaming","retro","culture","technology"]
 hero_image: "/hero/2026-05-31-spacecamp-s-40th-1986-edutainment-oddball-still-divides-24b2af.jpg"
 hero_image_credit_name: "Marcelo Chagas"
 hero_image_credit_url: "https://www.pexels.com/@marcelochagas"
 visual_keyword: "retro computer game cover with space-themed graphics"
 description: "Ars Technica’s 40‑year retrospective forces a fresh look at SpaceCamp’s mixed legacy and its relevance to today’s game designers."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## The retrospective that sparked debate
 Ars Technica published a 40‑year retrospective on SpaceCamp, the 1986 educational game that still divides opinion. The piece opens by asking whether the title is a hidden gem, a cult classic, or hopelessly dumb, then bluntly votes "all of the above." 
@@ -33,3 +35,7 @@ Michio Kaku’s taxonomy of future technologies—Class I possibilities that b
 
 ## What to watch
 Watch for any official remaster or indie homage that cites SpaceCamp as inspiration. An announcement from a studio willing to modernize the resource‑allocation core could turn the "hopelessly dumb" label on its head. Keep an eye on trade shows where retro‑focused developers showcase updated edutainment prototypes; those demos will indicate whether the cult classic’s DNA is being revived for a new generation.
+
+## Updates
+
+- **2026-08-05** — Sure seems like Fenix Flexin used AI music generator Treblo ([source](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo))

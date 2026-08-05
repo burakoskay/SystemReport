@@ -1,19 +1,20 @@
 ---
 title: "Roku Unveils New Home Screen"
 date: 2026-05-27T15:57:48.942Z
-modified_date: 2026-07-29T17:11:49.030Z
+modified_date: 2026-08-05T19:23:13.602Z
 tags: ["Roku","Smart TV","AI-Powered Features"]
 hero_image: "/hero/2026-05-27-roku-unveils-new-home-screen-4b8f0e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Home Screen"
 description: "Roku launches new Home Screen with AI and 'Top Picks'"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-27-roku-unveils-new-home-screen-4b8f0e.mp3"
 audio_bytes: 574111
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # New Home Screen Design
@@ -51,4 +52,5 @@ The smart TV market is highly competitive, with several major players vying for 
 
 ## Updates
 
+- **2026-08-05** — Samsung insists the Galaxy Z Fold 8 is ‘perfect’ for ‘full-screen’ video – it’s not ([source](https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-video/))
 - **2026-07-29** — Galaxy Z Fold 8 gives apps new scaling options for its large displays ([source](https://9to5google.com/2026/07/29/galaxy-z-fold-8-feature-changes-app-content-size/))

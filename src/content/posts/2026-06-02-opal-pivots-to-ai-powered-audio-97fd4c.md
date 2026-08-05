@@ -1,18 +1,20 @@
 ---
 title: "Opal Pivots to AI-Powered Audio"
 date: 2026-06-02T21:03:52.398Z
+modified_date: 2026-08-05T19:23:22.435Z
 tags: ["AI","audio","Opal"]
 hero_image: "/hero/2026-06-02-opal-pivots-to-ai-powered-audio-97fd4c.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "audio"
 description: "Opal, known for its high-end webcam, shifts focus to AI-powered audio gadgets with investments from OpenAI and Samsung."
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-06-02-opal-pivots-to-ai-powered-audio-97fd4c.mp3"
 audio_bytes: 594591
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Opal Shifts Focus to AI-Powered Audio
@@ -54,6 +56,10 @@ The adoption of AI-powered audio devices is expected to continue growing in the 
 ## Conclusion
 
 In conclusion, Opal's pivot to AI-powered audio gadgets marks a significant shift in the company's strategy[^5][^6][^7]. With the backing of OpenAI and Samsung, Opal has the resources it needs to succeed. However, the company will need to navigate a crowded market and differentiate its product from competitors. The success of Opal's AI-powered audio gadget will depend on its ability to innovate and meet the evolving needs of consumers.
+
+## Updates
+
+- **2026-08-05** — Jeff Dean leaving Alphabet ([source](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html))
 
 [^1]: [tracxn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsZl9k3R7nI-xmN9lTGs63fYuyKl2SOzV-nuk-EqRqt4e7Xn84Io0k4jK56YZPIrU6mfaRuI8rr731841Qm8Ein9VV2VVyVxpjp7dNKhRB-uNNeLdF2g74SvksQYONTmSRpm-DvoXdNNW0Nv7r58jcw9XVSjZS5-F6g2QbTrEDoDht1zyvwvKcynoTnC7p73v8Pw==)
 [^2]: [niklasrosen.se](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxAMeVkFI5yOqHhf146nVozlJJ75CmLqAqyaMJwpGNXK8w4j4HHUvxJS553P_gaJwbRipLQXGbHB9-SBztlNaZu586kRWaew571OnMRr4ePJFhOl2VBk=)
