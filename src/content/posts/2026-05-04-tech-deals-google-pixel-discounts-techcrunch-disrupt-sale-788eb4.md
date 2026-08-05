@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-08-04T22:57:49.726Z
+modified_date: 2026-08-05T17:41:21.666Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 28
+sources_count: 29
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -92,6 +93,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-08-05** — Deals: MacBook Neo up to $120 off, MacBook Pro $500 off, Apple Watch SE 3/Ultra 3 $130 off, AirPods, more ([source](https://9to5mac.com/2026/08/05/deals-macbook-neo-macbook-pro-apple-watch-ultra-3/))
 - **2026-08-04** — Telegram CEO says 'takedown extortionist' was responsible for the app being briefly delisted by Apple ([source](https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/))
 - **2026-08-01** — Apple weekend deals: AirPods Pro 3, Apple Studio Display $540 off, M5 MacBook Air $240 off, AirTag 2, more ([source](https://9to5mac.com/2026/08/01/apple-weekend-deals-airpods-air-m5/))
 - **2026-07-31** — Deals: M5 MacBook Air $240 off straight from Apple, AirPods Pro 3, AirTag 2, transparent metal power bank, more ([source](https://9to5mac.com/2026/07/31/deals-m5-macbook-air-airpods-pro-3-airtag-2-power-bank/))

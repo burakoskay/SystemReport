@@ -1,18 +1,20 @@
 ---
 title: "Thea Energy Receives $20M Grant for Fusion Reactor Magnets"
 date: 2026-07-27T21:07:43.882Z
+modified_date: 2026-08-05T17:39:48.872Z
 tags: ["Fusion Energy","Thea Energy","ARPA-E"]
 hero_image: "/hero/2026-07-27-thea-energy-receives-20m-grant-for-fusion-reactor-magnets-ac6b5a.jpg"
 hero_image_credit_name: "Squared one"
 hero_image_credit_url: "https://www.pexels.com/@squared-one-361277527"
 visual_keyword: "Magnet"
 description: "Thea Energy gets $20M to scale magnet production"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-27-thea-energy-receives-20m-grant-for-fusion-reactor-magnets-ac6b5a.mp3"
 audio_bytes: 628864
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Thea Energy's Grant
 Thea Energy secured a $20 million federal grant from ARPA-E to scale up production of its high-temperature superconducting magnets for fusion reactors. This grant will be used to refine Thea Energy's magnet manufacturing process, increasing efficiency and reducing costs.
@@ -30,3 +32,7 @@ The grant awarded to Thea Energy has significant implications for the developmen
 Fusion energy has been a topic of research and development for decades, with scientists and engineers working to harness the power of nuclear fusion to generate electricity. The development of high-temperature superconducting magnets is a key component in the development of commercial fusion reactors, as they enable the creation of the high-temperature plasma needed to sustain a fusion reaction. Thea Energy's grant from ARPA-E is the latest development in this ongoing effort to commercialize fusion energy.
 ## Broader Industry Context
 The grant awarded to Thea Energy is also part of a broader trend of investment in advanced energy technologies. Governments and private investors are increasingly recognizing the importance of developing sustainable energy sources, and are providing funding and support to companies working on innovative technologies. Thea Energy's high-temperature superconducting magnets are just one example of the many advanced technologies being developed to support the transition to a more sustainable energy system.
+
+## Updates
+
+- **2026-08-05** — Meet the eight startups pitching at Startup Battlefield Australia ([source](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/))

@@ -1,15 +1,17 @@
 ---
 title: "California Court Rejects Tesla Bid to Dismiss Discrimination Suit"
 date: 2026-05-27T23:30:03.335Z
+modified_date: 2026-08-05T17:40:48.406Z
 tags: ["tesla","discrimination","california","lawsuit","labor"]
 hero_image: "/hero/2026-05-27-california-court-rejects-tesla-bid-to-dismiss-discrimination-suit-74dc0e.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "Tesla factory interior with protest signs against discrimination"
 description: "A California civil rights agency won its fight to keep a racial discrimination lawsuit against Tesla alive, setting a July trial date."
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 ## Court denies Tesla's motion to throw out suit
 The California Department of Fair Employment and Housing secured a ruling that keeps a racial discrimination case against Tesla active. The agency said the decision clears the way for a trial scheduled for July.
@@ -46,3 +48,7 @@ Investors and suppliers watch labor risk closely. A protracted trial may affect 
 
 ## What to watch
 The July trial date marks the first major courtroom test of the California agency’s claim that Tesla’s internal processes enable racial discrimination. Track the court docket for motions on evidence admissibility, particularly any attempts by Tesla to introduce contractor‑status arguments. Monitor statements from the Department of Fair Employment and Housing for updates on enforcement actions against other manufacturers. The verdict, expected later in the year, will likely shape litigation strategies for both plaintiffs and large employers across the state.
+
+## Updates
+
+- **2026-08-05** — The world's smallest USB drive has more storage than an iPhone 17 ([source](https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17/))

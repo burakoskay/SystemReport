@@ -1,18 +1,20 @@
 ---
 title: "Google Phone Gets Third-Party App Integration"
 date: 2026-05-15T03:56:13.468Z
+modified_date: 2026-08-05T17:41:27.250Z
 tags: ["Google","Spotify","Apple"]
 hero_image: "/hero/2026-05-15-google-phone-gets-third-party-app-integration-821c74.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Google Phone"
 description: "Google Phone gets third-party app integration, Spotify adopts Apple's HLS streaming tech for video podcasts, and more"
-sources_count: 12
-author: "david-okafor"
+sources_count: 13
 audio_path: "/audio/2026-05-15-google-phone-gets-third-party-app-integration-821c74.mp3"
 audio_bytes: 574529
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google Phone Gets Third-Party App Integration
@@ -93,3 +95,7 @@ In conclusion, the recent updates in the tech industry have significant implicat
 As the tech industry continues to evolve, it's clear that companies are working to create more integrated experiences for their users. Whether it's through third-party app integration or the adoption of new technologies like Apple's HLS tech, companies are looking for ways to capitalize on the latest trends.
 
 By staying informed about the latest developments in the tech industry, users and developers can stay ahead of the curve and take advantage of the latest innovations and features.
+
+## Updates
+
+- **2026-08-05** — Ted Lasso is back, and two more hit Apple shows are coming soon ([source](https://9to5mac.com/2026/08/05/ted-lasso-is-back-and-two-more-hit-apple-shows-are-coming-soon/))

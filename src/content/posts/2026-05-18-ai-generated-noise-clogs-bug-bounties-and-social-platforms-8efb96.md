@@ -1,19 +1,20 @@
 ---
 title: "AI-generated noise clogs bug bounties and social platforms"
 date: 2026-05-18T15:44:33.375Z
-modified_date: 2026-05-28T23:22:31.994Z
+modified_date: 2026-08-05T17:41:10.391Z
 tags: ["AI-generated content","bug bounty programs","social media platforms"]
 hero_image: "/hero/2026-05-18-ai-generated-noise-clogs-bug-bounties-and-social-platforms-8efb96.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated noise"
 description: "AI-spam overloads bug bounty programs, prompts LinkedIn bans, and triggers boos at graduation speeches."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-18-ai-generated-noise-clogs-bug-bounties-and-social-platforms-8efb96.mp3"
 audio_bytes: 604831
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ Ultimately, the goal should be to create a more sustainable and effective ecosys
 
 ## Updates
 
+- **2026-08-05** — Samsung confirms Galaxy Z Fold 8’s record-breaking sales numbers as pre-order deals are ending ([source](https://9to5google.com/2026/08/05/samsung-galaxy-z-fold-8-sales-numbers-pre-orders-ending/))
 - **2026-05-28** — The internet is being rebuilt for machines ([source](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/))
 - **2026-05-27** — YouTube adds ‘custom feed’ to home page, just in case the search bar is too boring for you ([source](https://9to5google.com/2026/05/27/youtube-adds-custom-feed-to-home-page/))
 - **2026-05-19** — Gmail is going to start talking to you ([source](https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026))

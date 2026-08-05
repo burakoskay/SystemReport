@@ -1,18 +1,20 @@
 ---
 title: "Apple's iPhone Ad Takes Aimed Swipes at Android"
 date: 2026-06-04T10:05:41.814Z
+modified_date: 2026-08-05T17:40:21.004Z
 tags: ["Apple","Android","Smartphone Wars","Privacy on iPhone"]
 hero_image: "/hero/2026-06-04-apple-s-iphone-ad-takes-aimed-swipes-at-android-3445e1.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Apple iPhone vs Android"
 description: "Apple's new ad makes Android phones look ancient and ugly"
-sources_count: 1
-author: "david-okafor"
+sources_count: 2
 audio_path: "/audio/2026-06-04-apple-s-iphone-ad-takes-aimed-swipes-at-android-3445e1.mp3"
 audio_bytes: 577873
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Salvo in the Smartphone Wars
@@ -59,3 +61,6 @@ Looking ahead, it will be interesting to see how Apple and Android manufacturers
 
 The global smartphone market is expected to continue growing, with both Apple and Android manufacturers vying for market share. According to recent market research, the global smartphone market is projected to reach $1.3 trillion by 2025. Apple's ability to effectively communicate its value proposition to consumers will be crucial in determining its success in this competitive market.
 
+## Updates
+
+- **2026-08-05** — Sunbird relaunched its iMessage app for Android users after three years away ([source](https://www.theverge.com/tech/975563/imessage-android-sunbird))

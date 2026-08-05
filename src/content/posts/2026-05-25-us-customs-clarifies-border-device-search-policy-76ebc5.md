@@ -1,16 +1,17 @@
 ---
 title: "US Customs Clarifies Border Device Search Policy"
 date: 2026-05-25T04:26:32.933Z
-modified_date: 2026-07-26T17:11:28.538Z
+modified_date: 2026-08-05T17:40:31.680Z
 tags: ["border security","device searches","CBP"]
 hero_image: "/hero/2026-05-25-us-customs-clarifies-border-device-search-policy-76ebc5.jpg"
 hero_image_credit_name: "Mark Stebnicki"
 hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "border search"
 description: "CBP updates directive on searching electronic devices at borders, balancing traveler rights and security."
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 
 
@@ -60,4 +61,5 @@ Ultimately, the updated directive on border device searches is a complex issue w
 
 ## Updates
 
+- **2026-08-05** — Traveling this summer? Don’t go without these essential gadgets ([source](https://www.theverge.com/gadgets/974436/summer-travel-tech-gadget-gift-guide))
 - **2026-07-26** — The 20 percent rule for solar panels can help you save money in the long run ([source](https://www.engadget.com/2219828/20-percent-rule-for-solar-panels-help-save-money/))

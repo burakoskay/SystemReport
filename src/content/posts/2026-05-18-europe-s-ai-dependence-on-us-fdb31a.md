@@ -1,19 +1,20 @@
 ---
 title: "Europe's AI Dependence on US"
 date: 2026-05-18T10:16:11.253Z
-modified_date: 2026-06-05T10:00:51.961Z
+modified_date: 2026-08-05T17:41:15.929Z
 tags: ["AI","Europe","US"]
 hero_image: "/hero/2026-05-18-europe-s-ai-dependence-on-us-fdb31a.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Mistral CEO warns Europe has 2 years to avoid US AI dominance"
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-05-18-europe-s-ai-dependence-on-us-fdb31a.mp3"
 audio_bytes: 576619
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,4 +80,5 @@ In conclusion, Europe's dependence on US AI technology is a significant concern.
 
 ## Updates
 
+- **2026-08-05** — iPhone Ultra sounds truly deserving of the ‘Ultra’ name ([source](https://9to5mac.com/2026/08/05/iphone-ultra-sounds-truly-deserving-of-the-ultra-name/))
 - **2026-06-05** — AI Has Come for Serif Fonts ([source](https://www.wired.com/story/ai-has-come-for-serif-fonts/))

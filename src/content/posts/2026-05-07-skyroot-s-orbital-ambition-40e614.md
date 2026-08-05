@@ -1,19 +1,20 @@
 ---
 title: "Skyroot's Orbital Ambition"
 date: 2026-05-07T17:55:37.700Z
-modified_date: 2026-07-30T11:48:50.297Z
+modified_date: 2026-08-05T17:40:04.933Z
 tags: ["space technology","Skyroot","orbital launch","Indian space sector"]
 hero_image: "/hero/2026-05-07-skyroot-s-orbital-ambition-40e614.jpg"
 hero_image_credit_name: "Văn Nguyễn Hoàng"
 hero_image_credit_url: "https://www.pexels.com/@valdemarvan"
 visual_keyword: "Skyroot"
 description: "India's space tech sector sees a unicorn as Skyroot gears up for its first private orbital launch."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-07-skyroot-s-orbital-ambition-40e614.mp3"
 audio_bytes: 614653
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ The success of Skyroot and other Indian space startups could lead to a more vibr
 
 ## Updates
 
+- **2026-08-05** — SpaceX is barely Space and mostly X ([source](https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space))
 - **2026-07-30** — Surprise: The global oil crisis is pushing people toward buying electrified cars ([source](https://www.engadget.com/2226837/electric-vehicle-sales-spike-in-wake-of-oil-crisis/))

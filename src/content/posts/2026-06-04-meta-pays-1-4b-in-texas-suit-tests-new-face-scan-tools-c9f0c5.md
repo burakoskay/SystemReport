@@ -1,18 +1,20 @@
 ---
 title: "Meta pays $1.4B in Texas suit, tests new face-scan tools"
 date: 2026-06-04T21:46:36.501Z
+modified_date: 2026-08-05T17:41:04.814Z
 tags: ["Meta","Facial Recognition","Texas Lawsuit"]
 hero_image: "/hero/2026-06-04-meta-pays-1-4b-in-texas-suit-tests-new-face-scan-tools-c9f0c5.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Facial Recognition"
 description: "Meta settles lawsuit and introduces new face-scan features"
-sources_count: 4
-author: "lena-volkov"
+sources_count: 5
 audio_path: "/audio/2026-06-04-meta-pays-1-4b-in-texas-suit-tests-new-face-scan-tools-c9f0c5.mp3"
 audio_bytes: 625311
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 Meta agreed to pay $1.4 billion to settle a Texas lawsuit over the 'Tag Suggestions' feature. The feature, introduced in 2011, automatically captured facial geometry from uploaded photos without consent. Meta is now testing face-scan utilities on Instagram and Facebook to block 'celeb-bait' ads and help users recover locked accounts. The company found a compiled library referencing facial-recognition routines in its AI app, contradicting its public claim to retire facial-recognition after a 2021 privacy backlash. 
 ## Industry Context 
@@ -27,3 +29,7 @@ Meta agreed to pay $1.4 billion to settle a Texas lawsuit over the 'Tag Suggesti
  The tech industry is seeing a growing trend towards the use of facial recognition technology, with many companies exploring its potential applications. However, this trend is not without its challenges, as companies must navigate complex regulatory landscapes and address concerns about privacy and data protection. The use of facial recognition technology is likely to continue to be a contentious issue in the tech industry, with companies like Meta facing scrutiny over their use of this technology. 
 ## Regulatory Environment 
  The regulatory environment surrounding facial recognition technology is complex and evolving. In the US, there are currently no federal laws regulating the use of facial recognition technology, although some states, such as Texas, have enacted their own laws. The European Union has implemented the General Data Protection Regulation (GDPR), which includes provisions related to the use of biometric data, including facial recognition technology. As the use of facial recognition technology continues to grow, it is likely that we will see more regulatory actions and laws governing its use.
+
+## Updates
+
+- **2026-08-05** — Google clearing out official Pixel 10 cases ahead of Pixel 11 launch ([source](https://9to5google.com/2026/08/05/pixel-10-cases-discount-clearout/))

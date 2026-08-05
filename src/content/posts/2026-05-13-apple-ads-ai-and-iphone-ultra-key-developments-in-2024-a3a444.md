@@ -1,19 +1,20 @@
 ---
 title: "Apple Ads, AI, and iPhone Ultra: Key Developments in 2024"
 date: 2026-05-13T21:39:06.868Z
-modified_date: 2026-07-31T16:00:14.258Z
+modified_date: 2026-08-05T17:40:37.104Z
 tags: ["apple","ai","iphone","ads","wwdc"]
 hero_image: "/hero/2026-05-13-apple-ads-ai-and-iphone-ultra-key-developments-in-2024-a3a444.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "foldable iphone on lab table with holographic interface"
 description: "Apple forms Emerging Team to boost ad spending, confirms iPhone Ultra features, and pushes AI integration—key 2024 developments analyzed."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-13-apple-ads-ai-and-iphone-ultra-key-developments-in-2024-a3a444.mp3"
 audio_bytes: 637641
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Apple's Emerging Team will report results at Q1 earnings in October. WWDC 2024's
 
 ## Updates
 
+- **2026-08-05** — SpaceX spooks investors with debut earnings report ([source](https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/))
 - **2026-07-31** — Is the Apple Watch waterproof? ([source](https://www.engadget.com/2222969/how-long-can-apple-watch-be-in-water/))
 - **2026-07-28** — Donate to GrapheneOS ([source](https://grapheneos.org/donate))
 - **2026-05-27** — Apple increases trade-in values for iPhone, iPad, more ([source](https://9to5mac.com/2026/05/27/apple-increases-trade-in-values-for-iphone-ipad-more/))
