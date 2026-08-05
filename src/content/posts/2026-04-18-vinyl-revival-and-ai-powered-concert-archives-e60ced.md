@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-08-03T20:58:31.108Z
+modified_date: 2026-08-05T13:53:19.254Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-08-05** — 13 Best Coolers for Sunshine and Nighttime (2026) ([source](https://www.wired.com/story/the-best-cooler/))
 - **2026-08-03** — Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated ([source](https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/))
 - **2026-08-02** — 8 Best Password Managers (2026), Tested and Reviewed ([source](https://www.wired.com/story/best-password-managers/))
 - **2026-06-04** — Noble Audio debuts FoKus Artemis headphones with three drivers and ANC ([source](https://www.engadget.com/2186595/noble-audio-debuts-fokus-artemis-headphones-with-three-drivers-and-anc/))

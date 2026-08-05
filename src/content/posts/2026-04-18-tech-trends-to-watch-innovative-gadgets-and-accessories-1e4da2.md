@@ -1,16 +1,17 @@
 ---
 title: "Tech Trends to Watch: Innovative Gadgets and Accessories"
 date: 2026-04-18T01:04:47.608Z
-modified_date: 2026-08-01T14:56:10.045Z
+modified_date: 2026-08-05T13:53:23.511Z
 tags: ["tech trends","gadgets","innovation"]
 hero_image: "/hero/2026-04-18-tech-trends-to-watch-innovative-gadgets-and-accessories-1e4da2.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "colorful smartphone accessories"
 description: "Discover the latest tech must-haves, from portable speakers to MagSafe accessories"
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ As we dive into the latest tech trends, it's clear that innovation is at an all-
 
 ## Updates
 
+- **2026-08-05** — Viral Mugshot Accounts Are Humiliating Women Years After Their Arrests ([source](https://www.wired.com/story/viral-mugshot-accounts-are-ruining-womens-lives/))
 - **2026-08-01** — The Verge’s 2026 back-to-school shopping guide ([source](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts))
 - **2026-07-31** — AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In ([source](https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/))
 - **2026-05-17** — These are the best new MacBook deals right now: May 2026 Buyer’s Guide ([source](https://9to5mac.com/2026/05/16/best-new-macbook-deals-available-may-2026/))
