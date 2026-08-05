@@ -1,19 +1,20 @@
 ---
 title: "Meta pays $1.4B in Texas suit, tests new face-scan tools"
 date: 2026-06-04T21:46:36.501Z
-modified_date: 2026-08-05T17:41:04.814Z
+modified_date: 2026-08-05T22:53:39.323Z
 tags: ["Meta","Facial Recognition","Texas Lawsuit"]
 hero_image: "/hero/2026-06-04-meta-pays-1-4b-in-texas-suit-tests-new-face-scan-tools-c9f0c5.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Facial Recognition"
 description: "Meta settles lawsuit and introduces new face-scan features"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-04-meta-pays-1-4b-in-texas-suit-tests-new-face-scan-tools-c9f0c5.mp3"
 audio_bytes: 625311
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Meta agreed to pay $1.4 billion to settle a Texas lawsuit over the 'Tag Suggestions' feature. The feature, introduced in 2011, automatically captured facial geometry from uploaded photos without consent. Meta is now testing face-scan utilities on Instagram and Facebook to block 'celeb-bait' ads and help users recover locked accounts. The company found a compiled library referencing facial-recognition routines in its AI app, contradicting its public claim to retire facial-recognition after a 2021 privacy backlash. 
@@ -32,4 +33,5 @@ Meta agreed to pay $1.4 billion to settle a Texas lawsuit over the 'Tag Suggesti
 
 ## Updates
 
+- **2026-08-05** — X's head of product is leaving the company one year after joining ([source](https://www.engadget.com/2231302/x-head-of-product-nikita-bier-leaving-the-company-one-year-after-joining/))
 - **2026-08-05** — Google clearing out official Pixel 10 cases ahead of Pixel 11 launch ([source](https://9to5google.com/2026/08/05/pixel-10-cases-discount-clearout/))

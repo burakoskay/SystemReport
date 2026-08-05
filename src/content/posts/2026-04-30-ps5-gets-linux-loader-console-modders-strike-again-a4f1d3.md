@@ -1,16 +1,17 @@
 ---
 title: "PS5 Gets Linux Loader, Console Modders Strike Again"
 date: 2026-04-30T21:12:32.866Z
-modified_date: 2026-06-04T21:45:48.246Z
+modified_date: 2026-08-05T22:53:28.577Z
 tags: ["ps5 mod","linux","gaming hardware"]
 hero_image: "/hero/2026-04-30-ps5-gets-linux-loader-console-modders-strike-again-a4f1d3.jpg"
 hero_image_credit_name: "Sirius Df"
 hero_image_credit_url: "https://www.pexels.com/@sirius-df-440758016"
 visual_keyword: "PS5 console with a Linux terminal displayed on screen"
 description: "A new open-source tool lets users run Linux on PlayStation 5 hardware."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 
 A modder has released a free tool that transforms the PlayStation 5 into a fully functional Linux workstation. The loader bypasses Sony's proprietary firmware to grant low-level hardware access, enabling users to run Linux distributions like Ubuntu or Arch. This isn't just a novelty — it's a direct challenge to console manufacturers' control over their platforms.
@@ -43,4 +44,5 @@ For now, the PS5 Linux project remains a testament to what happens when engineer
 
 ## Updates
 
+- **2026-08-05** — Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon ([source](https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/))
 - **2026-06-04** — ChatGPT's memory is getting better, especially if you're on the free tier ([source](https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/))
