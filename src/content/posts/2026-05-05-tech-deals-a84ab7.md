@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-08-03T14:25:36.383Z
+modified_date: 2026-08-06T05:19:54.535Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-08-06** — Home Chef Promo Codes for August 2026 ([source](https://www.wired.com/story/home-chef-promo-code/))
 - **2026-08-03** — Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced ([source](https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale))
 - **2026-06-01** — An affordable, long-lasting AirTag alternative is $15 right now ([source](https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale))
 - **2026-05-29** — So you’ve heard these AI terms and nodded along; let’s fix that ([source](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/))
