@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Offer Spyware Protection, But Risks Remain"
 date: 2026-05-23T17:06:31.858Z
-modified_date: 2026-05-26T18:31:56.854Z
+modified_date: 2026-08-06T14:25:04.170Z
 tags: ["spyware","data privacy","security"]
 hero_image: "/hero/2026-05-23-tech-giants-offer-spyware-protection-but-risks-remain-c22439.jpg"
 hero_image_credit_name: "Alex Koch"
 hero_image_credit_url: "https://www.pexels.com/@alexandra-koch"
 visual_keyword: "lockdown"
 description: "Apple, Meta, and Google offer security modes to protect against targeted spyware attacks, but users must take steps to enable them. Meanwhile, concerns about data privacy and security persist."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 
@@ -70,4 +71,5 @@ In conclusion, the need for spyware protection is clear, and tech giants are tak
 
 ## Updates
 
+- **2026-08-06** — Now you can chat with Google Maps to order food, reserve hotels and more ([source](https://www.engadget.com/2231441/google-maps-ask-maps-expansion/))
 - **2026-05-26** — 3D-printable humanoid legs let robotics experiments run wild ([source](https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/))

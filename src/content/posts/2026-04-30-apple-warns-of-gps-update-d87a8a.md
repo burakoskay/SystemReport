@@ -1,16 +1,17 @@
 ---
 title: "Apple Warns of GPS Update"
 date: 2026-04-30T17:26:40.434Z
-modified_date: 2026-07-27T21:06:15.820Z
+modified_date: 2026-08-06T14:24:53.350Z
 tags: ["Apple","GPS","Update"]
 hero_image: "/hero/2026-04-30-apple-warns-of-gps-update-d87a8a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "GPS"
 description: "Apple warns older iPhone and iPad users to update their devices"
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -37,5 +38,6 @@ The GPS time rollover issue has broader implications for the tech industry. As d
 
 ## Updates
 
+- **2026-08-06** — Nothing says it plans to release six smartphones next year, ‘wider range’ of devices ([source](https://9to5google.com/2026/08/06/nothing-2027-smartphone-release-plans-interview/))
 - **2026-07-27** — iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes ([source](https://www.engadget.com/2224488/ios26-6-macos26-6-and-the-rest-are-out-addressing-security-fixes/))
 - **2026-05-14** — Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing ([source](https://news.ycombinator.com/item?id=48128003))

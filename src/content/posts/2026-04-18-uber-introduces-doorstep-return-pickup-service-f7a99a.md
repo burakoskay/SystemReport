@@ -1,18 +1,19 @@
 ---
 title: "Uber Introduces Doorstep Return Pickup Service"
 date: 2026-04-18T12:45:34.715Z
-modified_date: 2026-07-29T17:11:59.148Z
+modified_date: 2026-08-06T14:25:20.472Z
 tags: ["Uber","delivery service","returns"]
 hero_image: "/hero/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Uber Doorstep Return Pickup"
 description: "Uber adds doorstep return pickup with a courier fee, expanding its 'everything app' push."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.wav"
 audio_bytes: 2165822
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The courier fee and service limitations are key factors. If executed well, this 
 
 ## Updates
 
+- **2026-08-06** — New AirPods are coming, but this is one of the best deals yet on AirPods Pro 3 ([source](https://9to5mac.com/2026/08/06/new-airpods-are-coming-but-this-is-one-of-the-best-deals-yet-on-airpods-pro-3/))
 - **2026-07-29** — The best Galaxy Z Fold 8 deal is at Amazon — boosted trade-in plus $350 gift card ([source](https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-amazon-pre-order-deal-boosted-trade-in-gift-card/))
 - **2026-05-08** — The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall ([source](https://www.wired.com/gallery/the-best-cat-water-fountains/))
 - **2026-05-07** — Amazon Luna's May lineup includes Guardians of the Galaxy and the Resident Evil 2 remake ([source](https://www.engadget.com/2167238/amazon-lunas-may-lineup-includes-guardians-of-the-galaxy-and-the-resident-evil-2-remake/))

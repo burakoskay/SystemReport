@@ -1,16 +1,17 @@
 ---
 title: "Apple Outages Push Plex Live TV to Apple TV"
 date: 2026-04-28T06:48:52.940Z
-modified_date: 2026-08-06T05:19:43.345Z
+modified_date: 2026-08-06T14:25:09.660Z
 tags: ["apple","tv","streaming","plex"]
 hero_image: "/hero/2026-04-28-apple-outages-push-plex-live-tv-to-apple-tv-dafdbe.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with glitch overlay and Plex live TV remote"
 description: "Apple's recent service outage and a new subscriber survey come as Plex launches its Live TV service on Apple TV, reshaping the streaming battleground."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Apple will unveil two new subscription services at its March event, one of which
 
 ## Updates
 
+- **2026-08-06** — Apple raises trade-in values for most iPhone, iPad, Mac, and Apple Watch models ([source](https://9to5mac.com/2026/08/06/apple-raises-trade-in-values-for-most-iphone-ipad-mac-and-apple-watch-models/))
 - **2026-08-06** — I'm switching my phone from Android to Linux ([source](https://runarcn.no/android-to-linux/))
 - **2026-08-04** — Meet Wrinkles, an app that uncovers the hidden stories of the places around you ([source](https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/))
 - **2026-08-01** — Apple @ Work: Apple says MacBook Neo is pulling schools away from Windows and Chromebooks ([source](https://9to5mac.com/2026/08/01/apple-says-macbook-neo-is-pulling-schools-away-from-windows-and-chromebooks/))

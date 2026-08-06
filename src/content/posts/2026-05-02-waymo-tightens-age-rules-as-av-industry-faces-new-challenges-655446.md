@@ -1,16 +1,17 @@
 ---
 title: "Waymo Tightens Age Rules as AV Industry Faces New Challenges"
 date: 2026-05-02T03:37:02.132Z
-modified_date: 2026-07-28T11:54:12.545Z
+modified_date: 2026-08-06T14:24:15.454Z
 tags: ["autonomous vehicles","Waymo","PTIO"]
 hero_image: "/hero/2026-05-02-waymo-tightens-age-rules-as-av-industry-faces-new-challenges-655446.jpg"
 hero_image_credit_name: "Ministar Samuel"
 hero_image_credit_url: "https://www.pexels.com/@ministar"
 visual_keyword: "self-driving car with LiDAR hub on a city street"
 description: "Waymo adds age verification checks to restrict solo minors in driverless cars while industry players form new partnerships and grapple with public safety concerns."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The next six months will test the AV industry's ability to balance innovation wi
 
 ## Updates
 
+- **2026-08-06** — The messy politics behind Google’s big AI shakeup ([source](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind))
 - **2026-07-28** — Hugging Face is being used to easily undress women and children ([source](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children))
 - **2026-06-02** — OpenAI putting Codex inside ChatGPT app everywhere, releasing 6 business plugins ([source](https://9to5mac.com/2026/06/02/openai-putting-codex-inside-chatgpt-app-everywhere-releasing-6-business-plugins/))
 - **2026-05-26** — AI Is Taking Over the Most Cursed Job in the World ([source](https://www.wired.com/story/ai-takes-over-debt-collection/))

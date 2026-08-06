@@ -1,15 +1,17 @@
 ---
 title: "Texas arrests over water-quality post"
 date: 2026-05-23T19:24:58.303Z
+modified_date: 2026-08-06T14:24:42.485Z
 tags: ["law","hardware","open-source","immigration","piracy"]
 hero_image: "/hero/2026-05-23-texas-arrests-over-water-quality-post-ddc572.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "digital collage of microcode dump, courtroom gavel, Ruby shell code, streaming app interface"
 description: "A roundup of recent tech‑law clashes, vintage microcode research, open‑source shell launch, and a major anti‑piracy sweep."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 ## Texas Arrest Over Water‑Quality Post
 
@@ -44,3 +46,7 @@ The operation, detailed in an Engadget report, involved coordinated raids in Mil
 ## What to Watch
 
 Watch for the Texas district attorney's decision on whether to file charges, which could set a precedent for online speech about public utilities. Track the DHS green‑card freeze as courts issue injunctions that may force a policy reversal. Follow the Rubish community for performance benchmarks that could push the shell toward broader adoption. Finally, monitor the Italian prosecutors' next steps in dismantling the Cinemagoal network, as similar piracy services often reappear under new domains.
+
+## Updates
+
+- **2026-08-06** — Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350 ([source](https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price))

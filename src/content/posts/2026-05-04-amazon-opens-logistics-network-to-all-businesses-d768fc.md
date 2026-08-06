@@ -1,19 +1,20 @@
 ---
 title: "Amazon Opens Logistics Network to All Businesses"
 date: 2026-05-04T17:47:17.229Z
-modified_date: 2026-07-28T13:51:20.356Z
+modified_date: 2026-08-06T14:24:10.012Z
 tags: ["Amazon","Logistics","E-commerce"]
 hero_image: "/hero/2026-05-04-amazon-opens-logistics-network-to-all-businesses-d768fc.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Amazon Supply Chain Services"
 description: "Amazon launches Amazon Supply Chain Services, a logistics network for businesses of all sizes, competing with UPS and FedEx."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-04-amazon-opens-logistics-network-to-all-businesses-d768fc.mp3"
 audio_bytes: 589994
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ As the logistics market continues to evolve, it is likely that Amazon will play 
 
 ## Updates
 
+- **2026-08-06** — Omilia raises $67M to scale its customer support platform ([source](https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/))
 - **2026-07-28** — As US measles cases rise, biotech firms start developing new treatments ([source](https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/))

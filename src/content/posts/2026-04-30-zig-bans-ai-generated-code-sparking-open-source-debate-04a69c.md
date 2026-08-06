@@ -1,16 +1,17 @@
 ---
 title: "Zig bans AI‑generated code, sparking open‑source debate"
 date: 2026-04-30T10:19:47.112Z
-modified_date: 2026-07-28T19:15:38.291Z
+modified_date: 2026-08-06T14:24:31.698Z
 tags: ["zig","ai","open-source","software"]
 hero_image: "/hero/2026-04-30-zig-bans-ai-generated-code-sparking-open-source-debate-04a69c.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "developer reviewing code policy document"
 description: "Zig’s new anti‑AI contribution policy draws sharp reactions on Hacker News and highlights broader tensions over machine‑written code."
-sources_count: 15
+sources_count: 16
 author: "lena-volkov"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The next milestone for Zig will be the enforcement of the policy in its upcoming
 
 ## Updates
 
+- **2026-08-06** — Bose’s upgraded QuietComfort headphones add head-tracking immersive audio ([source](https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio))
 - **2026-07-28** — 4GB graphics cards are back ([source](https://www.theverge.com/games/971868/asrock-amd-4gb-rx-9050-gpu))
 - **2026-05-14** — Amazon hurled its Lord of the Rings MMO back into the fires of Mount Doom ([source](https://www.engadget.com/2173272/amazon-has-hurled-its-lord-of-the-rings-mmo-back-into-the-fires-of-mount-doom/))
 - **2026-05-12** — Waymo recalls robotaxis for driving on flooded roads ([source](https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi))
