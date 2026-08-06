@@ -1,16 +1,17 @@
 ---
 title: "Samsung's New Galaxy Buds and Tablet Lineup"
 date: 2026-04-20T20:42:51.471Z
-modified_date: 2026-08-03T19:24:35.597Z
+modified_date: 2026-08-06T12:00:31.370Z
 tags: ["samsung","galaxy buds","tablet"]
 hero_image: "/hero/2026-04-20-samsung-s-new-galaxy-buds-and-tablet-lineup-665d33.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Samsung Galaxy Buds and Tablet"
 description: "Samsung is working on new Galaxy Buds with an open-ear design and a budget-friendly tablet, the Galaxy Tab A11+ Kids Edition."
-sources_count: 15
+sources_count: 16
 author: "priya-raman"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ In the meantime, consumers can look forward to the release of the Galaxy Tab S11
 
 ## Updates
 
+- **2026-08-06** — Shark PowerDetect Speed Review (2026): Light and Powerful ([source](https://www.wired.com/review/shark-powerdetect-speed/))
 - **2026-08-03** — 2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet ([source](https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/))
 - **2026-05-30** — TikTok’s road to becoming a super app ([source](https://techcrunch.com/2026/05/30/tiktoks-road-to-becoming-a-super-app/))
 - **2026-05-28** — Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach ([source](https://www.wired.com/story/oura-ring-5/))

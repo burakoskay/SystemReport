@@ -1,19 +1,20 @@
 ---
 title: "Linux Foundation's Budget Misfires"
 date: 2026-05-09T09:25:48.385Z
-modified_date: 2026-06-05T16:33:30.038Z
+modified_date: 2026-08-06T12:00:36.759Z
 tags: ["Linux","Security","AI-native"]
 hero_image: "/hero/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.jpg"
 hero_image_credit_name: "RealToughCandy.com"
 hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "Most of the Linux Foundation's budget doesn't go to Linux. A new AI-native malware scanner for Linux aims to change security."
-sources_count: 3
-author: "priya-raman"
+sources_count: 4
 audio_path: "/audio/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.mp3"
 audio_bytes: 624267
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,4 +86,5 @@ The future of Linux security is promising, with the development of AI-native sec
 
 ## Updates
 
+- **2026-08-06** — Nintendo beats earnings thanks to US tariff refunds it won&#8217;t share with gamers ([source](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund))
 - **2026-06-05** — Smart home diary: A fresh look as I start again in my new home ([source](https://9to5mac.com/2026/06/05/smart-home-diary-a-fresh-look-as-i-start-again-in-my-new-home/))

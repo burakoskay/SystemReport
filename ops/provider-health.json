@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 1702,
+    "consecutive_failures": 1711,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-06T08:27:49.291Z",
+    "last_failure": "2026-08-06T12:04:18.220Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-06T08:25:40.290Z",
+    "last_success": "2026-08-06T12:01:41.671Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7145, Requested 2705. Please try again in 13.875s. Need more tokens? Upgrade to Dev Tier today at h",
     "last_failure": "2026-08-02T13:14:48.424Z"
@@ -20,16 +20,16 @@
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98377, Requested 2378. Please try again in 10m52.32s. Need more tokens? Upgrade to Dev Tier toda",
-    "last_failure": "2026-08-06T08:25:40.315Z",
-    "last_success": "2026-08-06T08:25:38.203Z",
-    "cooldown_until": "2026-08-06T08:35:40.291Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 100000, Requested 1236. Please try again in 17m47.904s. Need more tokens? Upgrade to Dev Tier to",
+    "last_failure": "2026-08-06T12:02:20.436Z",
+    "last_success": "2026-08-06T12:01:55.948Z",
+    "cooldown_until": "2026-08-06T12:12:20.366Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (8511da00-ff1b-418c-990a-e04376990ebe)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-08-06T01:59:58.034Z",
-    "last_success": "2026-08-06T08:28:02.705Z"
+    "last_success": "2026-08-06T12:04:33.512Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

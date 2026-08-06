@@ -1,19 +1,20 @@
 ---
 title: "Google's Pentagon AI Deal Sparks Employee Outcry"
 date: 2026-04-28T17:52:59.626Z
-modified_date: 2026-05-06T14:25:45.171Z
+modified_date: 2026-08-06T12:00:47.497Z
 tags: ["Google","Pentagon","AI","military"]
 hero_image: "/hero/2026-04-28-google-s-pentagon-ai-deal-sparks-employee-outcry-9d4afe.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google signs deal with Pentagon for AI use, sparks employee opposition over military involvement"
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-04-28-google-s-pentagon-ai-deal-sparks-employee-outcry-9d4afe.mp3"
 audio_bytes: 575783
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,4 +60,5 @@ The updated deal with the Pentagon has reignited concerns about Google's involve
 
 ## Updates
 
+- **2026-08-06** — SpaceX's wandering Falcon 9 rocket has crashed into the moon ([source](https://www.engadget.com/2231420/space-x-falcon-9-rocket-moon-crash/))
 - **2026-05-06** — Google&#8217;s AI search summaries will now quote Reddit ([source](https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links))
