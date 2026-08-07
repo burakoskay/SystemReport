@@ -1,16 +1,17 @@
 ---
 title: "MSI Monitor Offers 4K and 680Hz Modes"
 date: 2026-05-30T21:05:02.835Z
-modified_date: 2026-08-05T17:40:59.353Z
+modified_date: 2026-08-07T12:49:01.245Z
 tags: ["gaming","monitor","MSI","display technology"]
 hero_image: "/hero/2026-05-30-msi-monitor-offers-4k-and-680hz-modes-873fd2.jpg"
 hero_image_credit_name: "SERHAT TURAN"
 hero_image_credit_url: "https://www.pexels.com/@serhatturan"
 visual_keyword: "MSI Monitor"
 description: "MSI's new monitor switches between 4K and 680Hz modes"
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ The gaming monitor market is highly competitive, with many manufacturers competi
 
 ## Updates
 
+- **2026-08-07** — Why does Apple keep banning Telegram, but never X? ([source](https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations))
 - **2026-08-05** — Deals: Best Galaxy Fold 8 pre-order offers still live, Galaxy phones from $345, Google Pixelsnap Charger 40% off, more ([source](https://9to5google.com/2026/08/05/deals-galaxy-fold-8-galaxy-a37-google-pixelsnap-charger/))
 - **2026-08-03** — Best wireless earbuds for 2026 ([source](https://www.engadget.com/2229067/best-wireless-earbuds-120058222/))
 - **2026-08-03** — Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours ([source](https://github.com/pg83/shitty))
