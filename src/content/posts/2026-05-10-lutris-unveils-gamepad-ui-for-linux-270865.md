@@ -1,16 +1,17 @@
 ---
 title: "Lutris Unveils Gamepad UI for Linux"
 date: 2026-05-10T13:45:41.332Z
-modified_date: 2026-06-02T20:55:20.093Z
+modified_date: 2026-08-07T22:29:57.416Z
 tags: ["Linux gaming","Lutris","Gamepad UI"]
 hero_image: "/hero/2026-05-10-lutris-unveils-gamepad-ui-for-linux-270865.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ In conclusion, the introduction of the gamepad UI by Lutris marks a significant 
 
 ## Updates
 
+- **2026-08-07** — Responding to the next frontier of critical cyber capabilities ([source](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/))
 - **2026-06-02** — Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI ([source](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/))
 - **2026-06-01** — Apple teases ‘All systems glow’ for WWDC as livestream link debuts on YouTube ([source](https://9to5mac.com/2026/06/01/apple-teases-all-systems-glow-for-wwdc-as-livestream-link-debuts-on-youtube/))
 - **2026-05-20** — The Herman Miller Coyl is a very handsome and modular gaming desk ([source](https://www.engadget.com/2177241/herman-miller-coyl-gaming-desk/))

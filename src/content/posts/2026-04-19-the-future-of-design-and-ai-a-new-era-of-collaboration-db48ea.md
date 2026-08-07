@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-06-05T16:32:38.898Z
+modified_date: 2026-08-07T22:29:45.931Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-08-07** — 9to5Mac Overtime 076: Native retro games on iPhone ([source](https://9to5mac.com/2026/08/07/9to5mac-overtime-076-native-retro-games-on-iphone/))
 - **2026-06-05** — 13 Environmentally Conscious Packing Tips for Your Next Vacation ([source](https://www.wired.com/story/environmentally-conscious-packing-tips/))
 - **2026-06-02** — How to Avoid Scams and Bad Gadgets on Amazon (2026) ([source](https://www.wired.com/story/how-shop-safe-amazon/))
 - **2026-05-30** — Pebblebee’s Halo watches my back and my belongings ([source](https://www.theverge.com/gadgets/938254/pebblebee-halo-bluetooth-tracker-personal-safety-hands-on-review))

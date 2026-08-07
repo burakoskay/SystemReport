@@ -1,18 +1,20 @@
 ---
 title: "White House touts ICE's 700 citizen arrests on Aliens.gov"
 date: 2026-05-29T22:02:00.476Z
+modified_date: 2026-08-07T22:29:40.144Z
 tags: ["immigration","gaming","music","technews","policy"]
 hero_image: "/hero/2026-05-29-white-house-touts-ice-s-700-citizen-arrests-on-aliens-gov-0c03bc.jpg"
 hero_image_credit_name: "thiago japyassu"
 hero_image_credit_url: "https://www.pexels.com/@japy"
 visual_keyword: "government website interface beside a gaming controller and a music note icon"
 description: "ICE arrests, a postponed fantasy RPG, and a cross‑border Apple Music glitch illustrate how policy, games and streaming collide."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-29-white-house-touts-ice-s-700-citizen-arrests-on-aliens-gov-0c03bc.mp3"
 audio_bytes: 551124
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## ICE arrests get a neon billboard on Aliens.gov
 
@@ -49,3 +51,7 @@ These dynamics illustrate a tension between control and chaos. Governments seek 
 ## What to watch next
 
 Watch for an official statement from the White House clarifying the source of the "more than 700" figure and any accompanying policy rationale. In the gaming arena, monitor Playground Games’ next communication for a concrete release window and whether the company will offer beta access to recoup lost hype. For Apple, track the post‑mortem release from the engineering team; the details will reveal whether the outage exposed a systemic vulnerability or a one‑off incident. Each of these signals will indicate how institutions adapt when their digital front‑lines are tested.
+
+## Updates
+
+- **2026-08-07** — The ultimate eclipse chase: A Concorde raced against the Moon's shadow ([source](https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/))
