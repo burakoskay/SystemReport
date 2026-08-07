@@ -1,18 +1,20 @@
 ---
 title: "Plex’s Social Leap and Enclayve’s Chat Letdown Reveal a Trend"
 date: 2026-06-03T17:04:04.423Z
+modified_date: 2026-08-06T23:55:23.505Z
 tags: ["tech","social","platforms"]
 hero_image: "/hero/2026-06-03-plex-s-social-leap-and-enclayve-s-chat-letdown-reveal-a-trend-914526.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "a sleek digital dashboard with chat bubbles and streaming icons"
 description: "Plex adds social tools as it hikes prices, while Enclayve’s private chat proves security isn’t enough."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-06-03-plex-s-social-leap-and-enclayve-s-chat-letdown-reveal-a-trend-914526.mp3"
 audio_bytes: 571395
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Plex rolled out a suite of social tools just as it announced a major price hike for its lifetime pass, and Enclayve delivered a private group‑chat experience that feels more like a locked box than a conversation hub. The moves expose a growing tension: platforms that chase community features often sacrifice usability, and security alone won’t keep users engaged.
 
@@ -51,3 +53,7 @@ Outside the chat arena, two launches merit attention. Pokémon Champions lands o
 Finally, the timeline for rebuilding Blue Origin’s launch pad remains murky. SpaceX veterans describe the situation as “no fun to be there,” hinting at logistical and regulatory hurdles that could delay the next wave of commercial launches. Tracking the pad’s progress will provide a barometer for how quickly the industry can recover from setbacks.
 
 In a market where every platform tries to add a social veneer, the real test will be whether those layers enhance the core experience or simply add another box to click through.
+
+## Updates
+
+- **2026-08-06** — Ro Khanna calls for the right to oppose data centers to be protected ([source](https://www.engadget.com/2232120/ro-khanna-calls-for-the-right-to-oppose-data-centers-to-be-protected/))

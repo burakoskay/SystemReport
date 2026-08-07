@@ -1,18 +1,20 @@
 ---
 title: "Ransomware Gang Sends Fake IT Workers to Hack Victims"
 date: 2026-06-05T20:04:33.750Z
+modified_date: 2026-08-06T23:55:12.449Z
 tags: ["cybersecurity","ransomware","Silent Ransom Group"]
 hero_image: "/hero/2026-06-05-ransomware-gang-sends-fake-it-workers-to-hack-victims-c45edc.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "cybersecurity"
 description: "Cybercriminals pose as IT support employees to steal data from law firms and other victims."
-sources_count: 5
-author: "priya-raman"
+sources_count: 6
 audio_path: "/audio/2026-06-05-ransomware-gang-sends-fake-it-workers-to-hack-victims-c45edc.mp3"
 audio_bytes: 529390
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Ransomware Gang's In-Person Attacks
@@ -70,3 +72,7 @@ As these incidents demonstrate, cybersecurity threats are becoming increasingly 
 The cybersecurity landscape is constantly evolving, and it's essential for organizations to stay ahead of the threats. By prioritizing cybersecurity and staying informed, organizations can protect themselves against these threats and minimize the risk of a successful cyberattack.
 
 In conclusion, the incidents described above highlight the importance of staying vigilant in the face of evolving cybersecurity threats. Organizations must prioritize cybersecurity and take steps to protect themselves against these threats.
+
+## Updates
+
+- **2026-08-06** — There’s No Good Way to Talk About Celebrities and Eating Disorders ([source](https://www.wired.com/story/theres-no-good-way-to-talk-about-celebrities-and-eating-disorders/))

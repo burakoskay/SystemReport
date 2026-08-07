@@ -1,15 +1,17 @@
 ---
 title: "Google Engineer Charged with Fraud Over $1.2M Polymarket Bets"
 date: 2026-05-27T23:26:36.806Z
+modified_date: 2026-08-06T23:55:06.940Z
 tags: ["Google","Polymarket","insider trading"]
 hero_image: "/hero/2026-05-27-google-engineer-charged-with-fraud-over-1-2m-polymarket-bets-5d2504.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Google"
 description: "Google security engineer charged with fraud"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 ## The arrest and charges
@@ -73,3 +75,7 @@ The incident also raises questions about the measures that companies can take to
 The use of prediction markets also raises questions about the potential for market manipulation. This includes the potential for users to use non-public information to gain a trading advantage.
 
 Overall, the incident involving Spagnuolo highlights the need for greater oversight and regulation of prediction markets. It also raises questions about the measures that companies can take to prevent similar incidents in the future.
+
+## Updates
+
+- **2026-08-06** — SoftBank donated $50 million to Trump’s library months before federal data center deal ([source](https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio))

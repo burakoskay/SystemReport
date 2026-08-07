@@ -1,15 +1,17 @@
 ---
 title: "AI videos banned from Spotlight; MongoClaw enables safe DB AI"
 date: 2026-07-31T19:20:35.404Z
+modified_date: 2026-08-06T23:54:17.707Z
 tags: ["snapchat","mongodb","ai","content-moderation","devops"]
 hero_image: "/hero/2026-07-31-ai-videos-banned-from-spotlight-mongoclaw-enables-safe-db-ai-3a1094.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "smartphone screen showing filtered video feed beside server rack with database icons"
 description: "Snapchat blocks AI‑generated videos from Spotlight while MongoClaw rolls out controls for running AI on MongoDB data."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Snapchat removes AI‑generated videos from Spotlight
 Snapchat changed its recommendation algorithm on Tuesday so that only human‑made videos qualify for Spotlight. The move follows internal testing that flagged AI‑produced clips as low‑quality and prone to spam. The company announced that any video identified as created by an AI model will be excluded from public recommendation feeds.
@@ -41,3 +43,7 @@ The trade‑off is latency. Real‑time video filtering adds processing overhead
 
 ## What to watch next
 Snapchat has not revealed whether it will reinstate AI videos under stricter quality thresholds, so the next policy tweak will be a key indicator of its long‑term stance. On the database side, the adoption rate of MongoClaw in production environments will reveal whether developers prefer built‑in safety layers over ad‑hoc monitoring. Track Snap Inc.’s quarterly reports for changes in Spotlight engagement metrics and watch the MongoDB community forums for feedback on MongoClaw’s operational impact.
+
+## Updates
+
+- **2026-08-06** — Vogue just gave another nod of approval to the tech world ([source](https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/))

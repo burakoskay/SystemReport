@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Kodiak AI Funding, Tesla Safety Benchmark, and More"
 date: 2026-05-07T23:07:42.990Z
-modified_date: 2026-08-04T17:41:02.413Z
+modified_date: 2026-08-06T23:54:50.484Z
 tags: ["Kodiak AI","Tesla","Google Health","Loopletter"]
 hero_image: "/hero/2026-05-07-tech-roundup-kodiak-ai-funding-tesla-safety-benchmark-and-more-cd1cd6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Kodiak AI raises $100M at a discount, Tesla Model Y meets new safety benchmark, and Google Health app drops Fitbit features."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The downstream implications of the developments in the tech industry are signifi
 
 ## Updates
 
+- **2026-08-06** — Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker ([source](https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor))
 - **2026-08-04** — Texas says data centers must pass an audit before connecting to the grid ([source](https://www.theverge.com/policy/975071/texas-data-center-audit))
 - **2026-06-01** — These are the first Nvidia RTX Spark laptops ([source](https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026))
 - **2026-06-01** — The Speed of Prototyping in the Age of AI ([source](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai))

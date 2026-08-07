@@ -1,16 +1,17 @@
 ---
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
-modified_date: 2026-06-03T21:21:22.090Z
+modified_date: 2026-08-06T23:54:12.079Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ As the tech world eagerly anticipates Apple's next major software releases, all 
 
 ## Updates
 
+- **2026-08-06** — Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands ([source](https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/))
 - **2026-06-03** — PUBG's creator is downsizing his studio and ending development of a game ([source](https://www.engadget.com/2186871/pubg-creator-is-downsizing-his-studio-and-ending-development-of-a-game/))
 - **2026-06-02** — X caters to creators with new ‘React with Video’ feature ([source](https://techcrunch.com/2026/06/02/x-caters-to-creators-with-new-react-with-video-feature/))
 - **2026-05-26** — iOS 27’s new Siri design will look like this, per report ([source](https://9to5mac.com/2026/05/26/ios-27s-new-siri-design-will-look-like-this-per-report/))

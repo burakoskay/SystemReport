@@ -1,15 +1,17 @@
 ---
 title: "Google AI Creates Realistic Deepfakes"
 date: 2026-05-23T15:06:42.132Z
+modified_date: 2026-08-06T23:54:39.627Z
 tags: ["AI","Deepfakes","Vulnerabilities"]
 hero_image: "/hero/2026-05-23-google-ai-creates-realistic-deepfakes-767158.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Google's new AI model can create realistic videos, raising concerns over deepfakes and vulnerabilities. Meanwhile, Anthropic's Mythos has found over 10,000 vulnerabilities."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Google's AI Model Raises Concerns Over Deepfakes
@@ -53,3 +55,7 @@ In the future, we can expect to see more advanced AI models that are capable of 
 ## Conclusion
 
 The release of Google's anything-to-anything AI model and Anthropic's Mythos highlights the need for more robust AI regulation and safeguards. As AI technology continues to advance, it's essential to consider the potential risks and consequences of its use. By working together, we can ensure that AI is developed and used responsibly, and that its benefits are realized while minimizing its risks.
+
+## Updates
+
+- **2026-08-06** — Naïve raises $28.5M to automate the grunt work of setting up and running a company ([source](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/))

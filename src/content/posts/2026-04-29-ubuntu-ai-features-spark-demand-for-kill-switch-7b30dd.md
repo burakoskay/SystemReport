@@ -1,19 +1,20 @@
 ---
 title: "Ubuntu AI features spark demand for kill switch"
 date: 2026-04-29T19:50:32.096Z
-modified_date: 2026-07-31T17:45:41.645Z
+modified_date: 2026-08-06T23:56:53.022Z
 tags: ["canonical","ubuntu","ai-integration","linux-community","open-source"]
 hero_image: "/hero/2026-04-29-ubuntu-ai-features-spark-demand-for-kill-switch-7b30dd.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Ubuntu desktop interface with neural network visualization overlays"
 description: "Canonical's AI integration in Ubuntu divides Linux users"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-29-ubuntu-ai-features-spark-demand-for-kill-switch-7b30dd.mp3"
 audio_bytes: 611728
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -45,5 +46,6 @@ Three key developments will shape the outcome. First, the Debian project's respo
 
 ## Updates
 
+- **2026-08-06** — Google Home update adds support for viewing third-party cameras from Wyze, Eufy, more ([source](https://9to5google.com/2026/08/06/google-home-third-party-cameras-update/))
 - **2026-07-31** — Can Republicans Actually Send Anthony Fauci to Jail? ([source](https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/))
 - **2026-04-30** — Amazon's AI-generated shopping experts now let you ask questions ([source](https://www.engadget.com/2161331/amazon-s-ai-generated-shopping-experts-now-let-you-ask-questions/))

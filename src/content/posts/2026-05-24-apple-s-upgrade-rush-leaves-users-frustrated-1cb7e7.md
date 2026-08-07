@@ -1,18 +1,20 @@
 ---
 title: "Apple’s Upgrade Rush Leaves Users Frustrated"
 date: 2026-05-24T15:12:25.612Z
+modified_date: 2026-08-06T23:55:51.329Z
 tags: ["apple","ios","software-updates","bugs"]
 hero_image: "/hero/2026-05-24-apple-s-upgrade-rush-leaves-users-frustrated-1cb7e7.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "iPhone screen displaying error messages with Apple logo"
 description: "Apple rolls out a visual AI boost in iOS 27 while recent iOS 18, 13.5, and Reminders updates spark freezes, bugs, and data loss for everyday users."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-24-apple-s-upgrade-rush-leaves-users-frustrated-1cb7e7.mp3"
 audio_bytes: 554676
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple pushed a visual‑AI upgrade for iOS 27 even as older iOS releases keep tripping up core apps, exposing a pattern of rushed software drops that hurt everyday workflows.
 
@@ -45,3 +47,7 @@ The problem compounds for users who create reminders via Siri on a newly updated
 ## What to Watch
 
 The next few weeks will reveal whether Apple can reconcile its aggressive feature cadence with reliability.  iOS 27’s visual‑AI upgrade will land later this year, but developers should monitor early beta feedback for regressions similar to the iOS 18 Notes freeze.  On the security front, watch for an iOS 13.5.1 patch that addresses the disclosed zero‑day; its timing will indicate how quickly Apple reacts to jailbreak‑induced threats.  Finally, keep an eye on the Reminders support bulletin updates – a missed fix could force users to postpone Catalina and remain on legacy reminder workflows longer than intended.
+
+## Updates
+
+- **2026-08-06** — Apple holds 65% of the premium smartphone market as segment reaches record high ([source](https://9to5mac.com/2026/08/06/apple-holds-65-of-the-premium-smartphone-market-as-segment-reaches-record-high/))

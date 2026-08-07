@@ -1,18 +1,20 @@
 ---
 title: "Valve hikes Steam Deck, Square Enix renames Dragon Quest 12"
 date: 2026-05-27T18:38:10.839Z
+modified_date: 2026-08-06T23:55:28.983Z
 tags: ["steam deck","square enix","apple tv","gaming","tech news"]
 hero_image: "/hero/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.jpg"
 hero_image_credit_name: "Diana ✨"
 hero_image_credit_url: "https://www.pexels.com/@didsss"
 visual_keyword: "handheld gaming console with price tag rising"
 description: "Valve raises Steam Deck prices by up to $300, Square Enix restarts Dragon Quest XII, and Apple TV adds a new thriller."
-sources_count: 6
-author: "sam-whitfield"
+sources_count: 7
 audio_path: "/audio/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.mp3"
 audio_bytes: 637014
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Steam Deck price hike shocks buyers
 
@@ -43,3 +45,7 @@ Apple’s foray into original thriller content underscores the streaming wars’
 ## What to watch next
 
 Track Valve’s quarterly earnings report for any indication of a price correction or new hardware iteration. Monitor Square Enix’s demo releases at the Tokyo Game Show for concrete gameplay signals. Keep an eye on Apple TV’s subscriber growth after *Last Seen* premieres, especially in markets where original drama drives retention. Each of these data points will reveal whether price hikes, franchise reboots, and niche streaming bets pay off in a volatile tech landscape.
+
+## Updates
+
+- **2026-08-06** — Quake celebrates its 30th anniversary with a new free episode ([source](https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/))

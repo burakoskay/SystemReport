@@ -1,15 +1,17 @@
 ---
 title: "Russia Launches Rassvet Satellite Internet Constellation"
 date: 2026-05-08T09:32:22.184Z
+modified_date: 2026-08-06T23:54:45.039Z
 tags: ["satellite internet","Russia","Rassvet","space technology"]
 hero_image: "/hero/2026-05-08-russia-launches-rassvet-satellite-internet-constellation-4a8a77.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"
 description: "Russia starts building Rassvet, a satellite internet network to cover the country by 2030."
-sources_count: 1
+sources_count: 2
 author: "elena-marchetti"
 ---
+
 
 
 ## Russia's Satellite Internet Ambitions Take Shape
@@ -47,3 +49,7 @@ The satellite internet market is part of a larger trend towards space-based conn
 ## Conclusion
 
 The launch of Rassvet marks a significant milestone in Russia's efforts to develop a homegrown satellite internet network. While the project faces significant technical and logistical challenges, it also presents opportunities for Russia to drive economic growth, improve education and healthcare outcomes, and increase connectivity in remote areas. As the project moves forward, observers will be watching to see if Russia can overcome the challenges and achieve its goal of providing satellite internet coverage across the country by 2030.
+
+## Updates
+
+- **2026-08-06** — Google Wallet now lets parents set up secure balances for their kids ([source](https://techcrunch.com/2026/08/06/google-wallet-now-lets-parents-set-up-secure-balances-for-their-kids/))

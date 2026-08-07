@@ -1,15 +1,17 @@
 ---
 title: "Lowe's Discounts and Vector's AI Research Tool"
 date: 2026-05-23T06:38:07.831Z
+modified_date: 2026-08-06T23:54:28.684Z
 tags: ["Lowe's","Vector","AI Research Tool","Investment Research"]
 hero_image: "/hero/2026-05-23-lowe-s-discounts-and-vector-s-ai-research-tool-50d0e2.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Research"
 description: "Lowe's promo codes and Vector's AI research tool for investors"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 ## Lowe's Offers Up to $300 Off Appliances
 Lowe's is offering up to $300 off select major appliances through promo codes and deals listed on WIRED. A $5 off $50 sign-up discount is also available. This offer provides customers with an opportunity to save on home appliances, which can be a significant expense for many households. The promo codes can be used to purchase a range of appliances, including refrigerators, washing machines, and dryers.
@@ -45,3 +47,7 @@ The development of AI-powered research tools is a significant trend in the inves
 Vector's AI agent uses a user-in-the-loop approach, which means that human researchers work alongside the AI system to provide input and validate its findings. This approach helps to ensure that the AI system is accurate and reliable, and it also allows human researchers to focus on higher-level decision-making. The Vector Pro system is designed to be scalable and flexible, allowing it to be used by a wide range of investors, from small firms to large institutions.
 
 The technical mechanics of Vector's AI agent are complex, but they are designed to provide investors with accurate and reliable insights. The AI agent is trained on large amounts of data, and it uses machine learning algorithms to identify patterns and trends in the data. The Vector Pro system is designed to be user-friendly, and it provides investors with a range of tools and features to help them to make informed decisions.
+
+## Updates
+
+- **2026-08-06** — Google says hackers are calling financial firm employees to hack and extort victims ([source](https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/))

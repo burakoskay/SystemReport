@@ -1,18 +1,20 @@
 ---
 title: "London Founder House"
 date: 2026-07-26T17:13:41.091Z
+modified_date: 2026-08-06T23:56:08.100Z
 tags: ["London Founder House","Work-Life Balance","Startup Ecosystem"]
 hero_image: "/hero/2026-07-26-london-founder-house-ab9506.jpg"
 hero_image_credit_name: "Bryce Carithers"
 hero_image_credit_url: "https://www.pexels.com/@bryce-carithers-11680701"
 visual_keyword: "Founder House"
 description: "London founder house prioritizes work-life balance"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-26-london-founder-house-ab9506.mp3"
 audio_bytes: 533987
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to London Founder House
 The London founder house, Groq, is creating a work environment that supports the mental and physical health of its residents. This approach differs from the typical founder house model, which often prioritizes intense work hours and sacrifices personal well-being for the sake of startup success. By focusing on work-life balance, Groq aims to create a more sustainable and healthy environment for its founders.
@@ -30,3 +32,7 @@ The success of Groq's approach will have significant implications for the startu
 The concept of founder houses has been around for several years, with many organizations attempting to create supportive communities for entrepreneurs. However, many of these founder houses have struggled to balance the needs of their residents with the demands of building a successful startup. Groq's approach is unique in that it prioritizes work-life balance, recognizing that a happy and healthy founder is more likely to build a successful startup.
 ## What's Next
 Groq will continue to experiment with its approach, refining its methods and gathering data on the effectiveness of its approach. Its success will depend on creating a sustainable environment that allows founders to thrive, both personally and professionally. As the startup ecosystem continues to evolve, it will be interesting to see how Groq's approach to work-life balance influences the way that founder houses and accelerators support their residents.
+
+## Updates
+
+- **2026-08-06** — Apple TV’s fall lineup reveals every new show and movie coming soon ([source](https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/))

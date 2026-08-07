@@ -1,15 +1,17 @@
 ---
 title: "YAML Specs and AI Psychosis: HN Debates Technical Rigor"
 date: 2026-05-03T13:27:58.832Z
+modified_date: 2026-08-06T23:56:30.554Z
 tags: ["yaml","hn","ai","specification","tech"]
 hero_image: "/hero/2026-05-03-yaml-specs-and-ai-psychosis-hn-debates-technical-rigor-a80c0c.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "developer writing code in yaml format with terminal open"
 description: "HN community debates structured specs, privacy tools, and rapid app development in three new submissions."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## The Specsmaxxing Argument
 
@@ -40,3 +42,7 @@ HN comment #142 on *Specsmaxxing* summarizes this tension: "We traded 6 weeks of
 The coming months will test these competing methodologies. The *Specsmaxxing* blog has scheduled a 90-day experiment comparing YAML-spec projects with equivalent markdown-based ones, though the sample size remains undisclosed. Meanwhile, *Clearly* faces its first real-world test with 1400 registered users, which may reveal practical limits of its clinical psychology framework implementation.
 
 The dating app's Cursor-based codebase offers another data point: will its lack of formal specification formats lead to scaling issues as user count exceeds 100,000? The Hacker News community has pledged to track these projects' maintenance costs over 12 months, with results expected by Q3 2024. For now, the debate continues over whether technical rigor or implementation velocity will dominate AI development practices.
+
+## Updates
+
+- **2026-08-06** — MacBook Ultra is coming, here’s the latest on release timing ([source](https://9to5mac.com/2026/08/06/macbook-ultra-is-coming-heres-the-latest-on-release-timing/))
