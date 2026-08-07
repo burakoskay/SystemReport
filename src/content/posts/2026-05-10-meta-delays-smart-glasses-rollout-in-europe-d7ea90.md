@@ -1,15 +1,17 @@
 ---
 title: "Meta Delays Smart Glasses Rollout in Europe"
 date: 2026-05-10T03:49:32.665Z
+modified_date: 2026-08-07T10:46:53.582Z
 tags: ["Meta","Smart Glasses","EU Regulations","Supply Constraints","Wearable Technology","AI-Powered Wearables"]
 hero_image: "/hero/2026-05-10-meta-delays-smart-glasses-rollout-in-europe-d7ea90.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "smart glasses"
 description: "Meta delays European launch of smart glasses due to EU regulations and supply constraints."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 ## Meta's Smart Glasses Hit Regulatory Roadblock in Europe
 
@@ -74,3 +76,7 @@ In conclusion, Meta's delay in launching its smart glasses in Europe highlights 
 ## Industry Context
 
 The wearable technology industry is expected to continue growing in the coming years, with smart glasses being one of the key segments driving this growth. Other companies, such as Google and Microsoft, are also investing in smart glasses technology, and the competition in this space is expected to intensify in the near future.
+
+## Updates
+
+- **2026-08-07** — Ranking the Best Smart Glasses: Meta, Viture, & More (2026) ([source](https://www.wired.com/gallery/best-smart-glasses/))

@@ -1,18 +1,20 @@
 ---
 title: "Apple rolls out iOS 27 with dark mode and native app upgrades"
 date: 2026-06-06T17:22:10.730Z
+modified_date: 2026-08-07T10:47:04.915Z
 tags: ["apple","ios","wwdc","software","nativeapps"]
 hero_image: "/hero/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "iPhone screen displaying dark mode interface"
 description: "Apple unveils iOS 27 at WWDC, adding dark mode, revamped Health, Maps, and watchOS App Store support while tightening its native app ecosystem."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.mp3"
 audio_bytes: 623013
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## iOS 27 hits the stage
 Apple launched iOS 27 on Monday, June 3, at the WWDC kickoff. The release marks the first major iOS version since iOS 26 and brings seven new iPhone features that touch the core user experience.
@@ -48,3 +50,7 @@ The watchOS App Store support mirrors Android Wear’s independent app model, gi
 
 ## What to watch
 Track the adoption rate of dark mode in the first iOS 27 update cycle; a low uptake could signal developer friction. Monitor Apple’s Maps traffic data releases in the next quarter; improvements will indicate how aggressively Apple is closing the gap with Google. Keep an eye on HomePod firmware updates that refine multi‑user voice recognition, especially in households with mixed language use. Finally, watch the App Store analytics for watchOS apps; a spike in new submissions will confirm whether Apple’s direct install model is gaining traction.
+
+## Updates
+
+- **2026-08-07** — Trying to explain One Night Only&#8217;s tech-enforced sex dystopia ([source](https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech))
