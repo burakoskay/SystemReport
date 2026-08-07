@@ -1,15 +1,17 @@
 ---
 title: "AI Reconstructs Cockpit Voices, Sparks Privacy Debate"
 date: 2026-05-22T23:10:05.868Z
+modified_date: 2026-08-07T18:46:19.598Z
 tags: ["ai","antitrust","cryptography","search","privacy"]
 hero_image: "/hero/2026-05-22-ai-reconstructs-cockpit-voices-sparks-privacy-debate-fdcf7b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "engineer reviewing AI‑generated audio waveform on a computer screen"
 description: "AI resurrects cockpit audio, Google overhauls search definitions, and Apple publishes post‑quantum cryptography code, raising privacy, antitrust, and security questions."
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 ## AI Recreates Voices from Cockpit Spectrograms
 TechCrunch reported that researchers applied a generative‑AI model to a spectrogram image of cockpit recordings and produced an intelligible audio reconstruction of the pilots’ voices. The NTSB responded by temporarily blocking public access to its docket system, citing concerns over the unintended release of sensitive audio.
@@ -41,3 +43,7 @@ By open‑sourcing the CoreCrypto modules, Apple invites external audit and coll
 
 ## What to Watch
 Regulators will likely revisit data‑access policies after the NTSB’s docket block, potentially issuing guidance on how agencies archive visual data that AI can reverse‑engineer. In the antitrust arena, the district court’s ruling on Google’s Safari appeal will set a precedent for how platform‑default contracts are evaluated under U.S. competition law. Meanwhile, the security community should monitor Apple’s PQC rollout schedule and any subsequent contributions to the NIST standardization track. Finally, Google’s AI Overview experiment will need independent verification to determine whether the generated definitions meet the accuracy standards expected of reference dictionaries.
+
+## Updates
+
+- **2026-08-07** — Korean lunar orbiter snaps first pics of the SpaceX Falcon 9 crash site on the moon ([source](https://www.engadget.com/2232601/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/))

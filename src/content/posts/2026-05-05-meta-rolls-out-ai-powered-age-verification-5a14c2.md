@@ -1,15 +1,17 @@
 ---
 title: "Meta Rolls Out AI-Powered Age Verification"
 date: 2026-05-05T17:38:47.933Z
+modified_date: 2026-08-07T18:46:02.384Z
 tags: ["Meta","AI","Age Verification","Social Media"]
 hero_image: "/hero/2026-05-05-meta-rolls-out-ai-powered-age-verification-5a14c2.jpg"
 hero_image_credit_name: "Abdelrahman  Ahmed"
 hero_image_credit_url: "https://www.pexels.com/@arshutter"
 visual_keyword: "AI-powered age verification"
 description: "Meta uses AI to analyze facial features to identify underage users in select countries."
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 
 ## Meta's AI-Powered Age Verification
@@ -43,3 +45,7 @@ The use of AI-powered age verification is likely to be influenced by evolving re
 ## Conclusion
 
 In conclusion, Meta's rollout of AI-powered age verification represents a significant step forward in the company's efforts to improve safety and compliance on its platform. While there are challenges to be addressed, the potential benefits of this technology are substantial. By enhancing age verification processes, Meta can help protect young users and reduce the risk of regulatory penalties. As the company continues to refine and expand its AI-powered age verification system, it will be important to consider the broader implications of this technology and work to mitigate any potential risks.
+
+## Updates
+
+- **2026-08-07** — Disney Plus tries a new AI-powered search ([source](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search))

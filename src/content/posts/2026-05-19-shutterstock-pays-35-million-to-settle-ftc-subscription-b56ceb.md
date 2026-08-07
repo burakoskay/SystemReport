@@ -1,15 +1,17 @@
 ---
 title: "Shutterstock pays $35 million to settle FTC subscription"
 date: 2026-05-19T04:14:49.315Z
+modified_date: 2026-08-07T18:46:31.149Z
 tags: ["shutterstock","ftc","subscriptions","consumer-protection","tech-regulation"]
 hero_image: "/hero/2026-05-19-shutterstock-pays-35-million-to-settle-ftc-subscription-b56ceb.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "computer screen showing a subscription cancellation page with FTC seal overlay"
 description: "FTC settlement forces Shutterstock to refund $35 million for hard‑to‑cancel subscriptions, spotlighting enforcement on SaaS billing practices."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 Shutterstock agreed to pay $35 million to settle Federal Trade Commission allegations that its subscription cancellation process was deliberately difficult.
 
@@ -46,3 +48,7 @@ Together, these developments suggest a landscape where tech companies must balan
 ## What to watch
 
 The FTC will release a compliance report on Shutterstock’s new cancellation system by the end of 2026. Analysts will track whether the company’s churn rate improves or whether the redesign triggers a surge in opt‑outs. Parallelly, the commission is drafting rules that could codify “one‑click cancellation” for all subscription services. The next set of enforcement actions, especially in the SaaS sector, will reveal how quickly the industry adapts to a more consumer‑friendly regulatory environment.
+
+## Updates
+
+- **2026-08-07** — The Gargantuan Lie That Is Collapsing the Climate ([source](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization))

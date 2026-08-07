@@ -1,19 +1,20 @@
 ---
 title: "Obsidian Plugin Abused to Deploy RAT"
 date: 2026-05-11T04:00:30.431Z
-modified_date: 2026-05-19T23:08:04.396Z
+modified_date: 2026-08-07T18:45:45.494Z
 tags: ["plugin security","malware","Obsidian"]
 hero_image: "/hero/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.jpg"
 hero_image_credit_name: "Techivation"
 hero_image_credit_url: "https://www.pexels.com/@techivation-76108219"
 visual_keyword: "Obsidian plugin"
 description: "Malicious actors exploit Obsidian plugin to spread Phantom Pulse remote access trojan, raising concerns about plugin security."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.mp3"
 audio_bytes: 582680
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Malicious Actors Exploit Obsidian Plugin
@@ -68,4 +69,5 @@ The incident serves as a reminder of the importance of robust security measures 
 
 ## Updates
 
+- **2026-08-07** — The 7 Best TV Shows to Stream This Month ([source](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/))
 - **2026-05-19** — Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal ([source](https://www.wired.com/story/commonwealth-short-story-prize-ai-allegations/))

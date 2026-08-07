@@ -1,16 +1,17 @@
 ---
 title: "Rust-but-Lisp: A Show HN Submission"
 date: 2026-05-10T06:37:53.071Z
-modified_date: 2026-08-06T01:59:51.683Z
+modified_date: 2026-08-07T18:46:25.428Z
 tags: ["Rust","Lisp","Programming Languages"]
 hero_image: "/hero/2026-05-10-rust-but-lisp-a-show-hn-submission-29a609.jpg"
 hero_image_credit_name: "Valentin Ivantsov"
 hero_image_credit_url: "https://www.pexels.com/@valentin-ivantsov-2154772556"
 visual_keyword: "Rust-but-Lisp"
 description: "Rust-but-Lisp on Hacker News"
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 
 
@@ -43,5 +44,6 @@ As Rust-but-Lisp continues to gain attention, it is likely that the project will
 
 ## Updates
 
+- **2026-08-07** — Show HN: Wyzer Programming Language ([source](https://github.com/Wyzer-Lang/wyzer))
 - **2026-08-06** — The title cards in Blade Runner are amazing ([source](https://randsinrepose.com/archives/blade-runner-title-cards/))
 - **2026-07-28** — The Boox Go 10.3 Gen II is as massive as it is minimal, and I love that for it ([source](https://9to5google.com/2026/07/28/boox-go-10-3-gen-ii-review/))
