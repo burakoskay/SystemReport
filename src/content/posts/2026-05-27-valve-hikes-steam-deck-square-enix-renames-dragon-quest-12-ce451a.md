@@ -1,19 +1,20 @@
 ---
 title: "Valve hikes Steam Deck, Square Enix renames Dragon Quest 12"
 date: 2026-05-27T18:38:10.839Z
-modified_date: 2026-08-06T23:55:28.983Z
+modified_date: 2026-08-07T20:35:15.314Z
 tags: ["steam deck","square enix","apple tv","gaming","tech news"]
 hero_image: "/hero/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.jpg"
 hero_image_credit_name: "Diana ✨"
 hero_image_credit_url: "https://www.pexels.com/@didsss"
 visual_keyword: "handheld gaming console with price tag rising"
 description: "Valve raises Steam Deck prices by up to $300, Square Enix restarts Dragon Quest XII, and Apple TV adds a new thriller."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.mp3"
 audio_bytes: 637014
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Steam Deck price hike shocks buyers
@@ -48,4 +49,5 @@ Track Valve’s quarterly earnings report for any indication of a price correcti
 
 ## Updates
 
+- **2026-08-07** — The Chinese Philosopher Americans Can’t Stop Fighting About ([source](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/))
 - **2026-08-06** — Quake celebrates its 30th anniversary with a new free episode ([source](https://www.engadget.com/2232022/quake-30th-anniversary-new-free-episode/))

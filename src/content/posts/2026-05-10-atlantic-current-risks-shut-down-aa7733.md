@@ -1,19 +1,20 @@
 ---
 title: "Atlantic Current Risks Shut Down"
 date: 2026-05-10T17:03:35.667Z
-modified_date: 2026-07-28T19:15:17.864Z
+modified_date: 2026-08-07T20:35:26.065Z
 tags: ["climate change","ocean currents","environmental science"]
 hero_image: "/hero/2026-05-10-atlantic-current-risks-shut-down-aa7733.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "ocean"
 description: "Scientists warn Atlantic current at risk of shutting down due to climate change. This could have severe environmental and economic impacts."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-10-atlantic-current-risks-shut-down-aa7733.mp3"
 audio_bytes: 564080
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,5 +75,6 @@ In the face of this potential crisis, international cooperation and collective a
 
 ## Updates
 
+- **2026-08-07** — Volkswagen plans to win America back with a pickup, report says ([source](https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/))
 - **2026-07-28** — Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy ([source](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/))
 - **2026-05-14** — Microsoft's unreleased cloud controller has been spotted in the wild and it's teeny ([source](https://www.engadget.com/2173164/microsofts-unreleased-cloud-controller-has-been-spotted-in-the-wild-and-its-teeny/))

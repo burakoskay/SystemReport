@@ -1,18 +1,20 @@
 ---
 title: "Motorola's Wallet-Friendly Android Smartphones"
 date: 2026-07-26T20:52:29.619Z
+modified_date: 2026-08-07T20:35:47.651Z
 tags: ["Motorola","Affordable Smartphones","Android"]
 hero_image: "/hero/2026-07-26-motorola-s-wallet-friendly-android-smartphones-242772.jpg"
 hero_image_credit_name: "Nic Wood"
 hero_image_credit_url: "https://www.pexels.com/@nic-scrollstoppingphotos"
 visual_keyword: "Motorola phones"
 description: "Motorola offers affordable Android phones with colorful designs and simple software"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-26-motorola-s-wallet-friendly-android-smartphones-242772.mp3"
 audio_bytes: 608175
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Motorola's Affordable Android Smartphones
 Motorola phones offer reasonable prices, colorful designs, and simple software, making them a wallet-friendly Android option.
@@ -56,6 +58,10 @@ The future of affordable smartphones is likely to be shaped by the ongoing compe
 
 ## Conclusion
 Motorola's affordable Android smartphones have made a significant impact on the market. The company's focus on simplicity and affordability has allowed it to stand out from the competition and appeal to a wide range of users. As the demand for affordable smartphones continues to grow, Motorola is likely to remain a major player in the market.
+
+## Updates
+
+- **2026-08-07** — These automakers still don’t support CarPlay, here’s why ([source](https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/))
 
 [^1]: [medium.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWm8O9P_Y8CBZhj128FR_Rx_pOnDTvnBpXYfCKOaF8tEEShpL_joSeCgpLU_NLKNe_UKwhdGSWahi4Lt1-zBwZaRqzRG3KK_PaY5ZaMBK_8xoKD56flGu08iv0u4rM5KGbJrvApXNcSYgvOh4ACuM8AofQC6Qff0yVI9n_ONKoZ618uUAKZjAYjiEelPK0h8UeiuCmUnCKs4sPm4zSsJmFGgXkoXQN7AKaDbn4-Q==)
 [^2]: [androidauthority.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJUnJR1X8Y8-z_pW2J2doL7Ej_FD-Wx9oR3pse1hlFxowkv3gHMyal5iRKn4q9W569lJyP6C7ytu4sLC1XoWFkpk58LtMdSTiQls1CHbyI4Tr37GXTy3yXqNDrhpxEDjXESHX9_R9YqSW-mwtM1rrA8VEk3MRkWFvG4zvQO1jUzeBQK1TEBOXfqY59Dn1yjgs=)

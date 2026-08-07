@@ -1,19 +1,20 @@
 ---
 title: "Zap Energy adds fission to its fusion roadmap"
 date: 2026-04-29T21:13:30.384Z
-modified_date: 2026-07-30T17:20:32.498Z
+modified_date: 2026-08-07T20:35:04.471Z
 tags: ["fusion","fission","energy","startup"]
 hero_image: "/hero/2026-04-29-zap-energy-adds-fission-to-its-fusion-roadmap-8e0ea9.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "fusion reactor prototype beside fission core schematic"
 description: "Zap Energy said it will develop fission reactors alongside its fusion devices, signaling a strategic shift for the startup amid a crowded deep‑tech energy market."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-04-29-zap-energy-adds-fission-to-its-fusion-roadmap-8e0ea9.mp3"
 audio_bytes: 580381
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ Stakeholders should track Zap Energy’s first fission prototype timeline, any d
 
 ## Updates
 
+- **2026-08-07** — Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore ([source](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo))
 - **2026-07-30** — ABC demands FCC drop its ‘punitive’ early license renewal of its stations ([source](https://www.theverge.com/policy/973289/abc-fcc-early-license-renewal-opposition))
 - **2026-05-15** — Pixelated 100: The Googlebook question ([source](https://9to5google.com/2026/05/15/pixelated-100-the-googlebook-question/))

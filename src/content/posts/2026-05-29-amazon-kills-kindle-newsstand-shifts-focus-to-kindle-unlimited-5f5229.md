@@ -1,18 +1,20 @@
 ---
 title: "Amazon kills Kindle Newsstand, shifts focus to Kindle Unlimited"
 date: 2026-05-29T16:00:46.974Z
+modified_date: 2026-08-07T20:35:42.272Z
 tags: ["Amazon","Kindle","digital publishing"]
 hero_image: "/hero/2026-05-29-amazon-kills-kindle-newsstand-shifts-focus-to-kindle-unlimited-5f5229.jpg"
 hero_image_credit_name: "Caio"
 hero_image_credit_url: "https://www.pexels.com/@caio"
 visual_keyword: "Kindle"
 description: "Amazon discontinues Kindle Newsstand, ending magazine and newspaper subscriptions, and pushes publishers to Kindle Unlimited."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-29-amazon-kills-kindle-newsstand-shifts-focus-to-kindle-unlimited-5f5229.mp3"
 audio_bytes: 596890
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The End of an Era for Kindle Newsstand
@@ -69,3 +71,6 @@ The digital publishing industry is undergoing a significant transformation, driv
 
 The discontinuation of Kindle Newsstand is just one example of the changes taking place in the industry. As the industry continues to evolve, it will be interesting to see how Amazon and other players respond to emerging trends and challenges.
 
+## Updates
+
+- **2026-08-07** — You may soon be able to create and export custom WhatsApp stickers straight from ChatGPT ([source](https://9to5mac.com/2026/08/07/you-may-soon-be-able-to-create-and-export-custom-whatsapp-stickers-straight-from-chatgpt/))

@@ -1,16 +1,17 @@
 ---
 title: "Git Performance Optimization"
 date: 2026-04-28T10:21:18.268Z
-modified_date: 2026-05-30T13:49:18.053Z
+modified_date: 2026-08-07T20:35:20.690Z
 tags: ["Git","Performance Optimization","Security"]
 hero_image: "/hero/2026-04-28-git-performance-optimization-78be1f.jpg"
 hero_image_credit_name: "Myburgh Roux"
 hero_image_credit_url: "https://www.pexels.com/@myburgh"
 visual_keyword: "Git Performance"
 description: "GTFOBins and High Performance Git discussions"
-sources_count: 3
+sources_count: 4
 author: "priya-raman"
 ---
+
 
 
 ## Introduction to Git Optimization
@@ -42,4 +43,5 @@ The community engagement around High Performance Git and GTFOBins is a clear ind
 
 ## Updates
 
+- **2026-08-07** — New official 30th anniversary Quake mission pack adds new maps and mechanics ([source](https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/))
 - **2026-05-30** — Pixel Watch fixes ‘Find My Phone’ app crash, ECG app still broken [Video] ([source](https://9to5google.com/2026/05/30/google-pixel-watch-find-my-phone-ecg-app-issues/))
