@@ -1,16 +1,17 @@
 ---
 title: "Early Memorial Day Sales: Unbeatable Tech and Mattress Deals"
 date: 2026-05-14T23:05:04.573Z
-modified_date: 2026-05-29T15:52:12.451Z
+modified_date: 2026-08-07T14:49:17.806Z
 tags: ["memorial day sales","tech deals","mattress deals","Samsung","Apple","Sony"]
 hero_image: "/hero/2026-05-14-early-memorial-day-sales-unbeatable-tech-and-mattress-deals-036b12.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Memorial Day Sales"
 description: "Memorial Day sales have started early on tech and mattresses from top brands like Helix, Saatva, Sony, and Apple."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 # System Report — Editorial Voice
@@ -74,4 +75,5 @@ As consumers continue to look for deals, companies will be forced to offer even 
 
 ## Updates
 
+- **2026-08-07** — Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026) ([source](https://www.wired.com/story/fan-deals-august-2026/))
 - **2026-05-29** — iOS 27 might convince a lot of people to upgrade to a new iPhone ([source](https://9to5mac.com/2026/05/29/ios-27-might-convince-a-lot-of-people-to-upgrade-to-a-new-iphone/))

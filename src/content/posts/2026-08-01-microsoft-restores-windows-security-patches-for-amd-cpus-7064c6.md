@@ -1,18 +1,20 @@
 ---
 title: "Microsoft Restores Windows Security Patches for AMD CPUs"
 date: 2026-08-01T22:54:31.032Z
+modified_date: 2026-08-07T14:49:23.499Z
 tags: ["windows","amd","security","updates"]
 hero_image: "/hero/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.jpg"
 hero_image_credit_name: "Erik G"
 hero_image_credit_url: "https://www.pexels.com/@erik-g-12654570"
 visual_keyword: "computer screen showing Windows update warning on AMD processor"
 description: "Microsoft resumes Windows updates on older AMD chips after fixing a block that risked bricking devices, citing Spectre and Meltdown mitigations."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.mp3"
 audio_bytes: 553422
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The unblock: Microsoft restores AMD updates
 
@@ -55,3 +57,7 @@ Microsoft’s decision signals that the partnership with AMD has matured enough 
 Enterprises should monitor upcoming Windows security releases for any repeat of the block pattern. Tracking AMD’s security advisory pages will reveal whether new processor families will need similar safeguards. In the longer term, the industry may see a shift toward deprecating support for chips that cannot receive timely micro‑code patches, forcing a faster hardware refresh cycle.
 
 **What to watch**: the next Windows cumulative update (expected in February) will include a refreshed Spectre/Meltdown mitigation package. Verify that the KB identifiers match your OS build, and confirm that your antivirus remains up to date. Keep an eye on AMD’s advisory releases for any new processor‑specific guidance.
+
+## Updates
+
+- **2026-08-07** — The world's biggest solar telescope caught vortexes on the Sun's surface ([source](https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/))
