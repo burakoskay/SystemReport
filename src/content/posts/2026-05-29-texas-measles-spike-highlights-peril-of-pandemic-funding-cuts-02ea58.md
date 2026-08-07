@@ -1,18 +1,20 @@
 ---
 title: "Texas Measles Spike Highlights Peril of Pandemic Funding Cuts"
 date: 2026-05-29T22:01:18.934Z
+modified_date: 2026-08-07T16:47:47.237Z
 tags: ["public health","funding","measles","research","policy"]
 hero_image: "/hero/2026-05-29-texas-measles-spike-highlights-peril-of-pandemic-funding-cuts-02ea58.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Austin school nurse guiding children to isolation during measles outbreak"
 description: "A Texas measles surge and a sea‑cucumber study expose the cost of slashing US disease‑research budgets."
-sources_count: 6
-author: "elena-marchetti"
+sources_count: 7
 audio_path: "/audio/2026-05-29-texas-measles-spike-highlights-peril-of-pandemic-funding-cuts-02ea58.mp3"
 audio_bytes: 580799
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Texas measles surge exposes a funding gap
 
@@ -59,3 +61,7 @@ Track the Texas health department’s weekly case counts. A rise in hospitalizat
 Monitor the next publication from the sea‑cucumber team. If they identify molecular pathways that can be replicated in human cells, the story may shift from curiosity to biomedical breakthrough.
 
 The decisions made in the next few months will determine whether the United States can respond swiftly to the next pathogen or repeat the mistakes of past policy retreats.
+
+## Updates
+
+- **2026-08-07** — Audeze is quietly becoming a dominant force in gaming audio ([source](https://9to5google.com/2026/08/07/audeze-is-quietly-becoming-a-dominant-force-in-gaming-audio-sponsored/))

@@ -1,16 +1,17 @@
 ---
 title: "Asana Acquires StackAI to Bolster AI Workflow Tools"
 date: 2026-05-28T23:26:02.071Z
-modified_date: 2026-08-04T01:56:35.800Z
+modified_date: 2026-08-07T16:47:41.809Z
 tags: ["Asana","StackAI","AI Workflow Tools","Automation"]
 hero_image: "/hero/2026-05-28-asana-acquires-stackai-to-bolster-ai-workflow-tools-d555a8.jpg"
 hero_image_credit_name: "Freek Wolsink"
 hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "Automation"
 description: "Asana buys StackAI, a no-code agent-builder, to enhance automation capabilities."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ The acquisition of StackAI by Asana is a strategic move to enhance its automatio
 
 ## Updates
 
+- **2026-08-07** — U.S. economy lost 23,000 jobs in July, a sudden reversal ([source](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138))
 - **2026-08-04** — Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years ([source](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase))
 - **2026-06-05** — Logitech G512 X 98 Review: A Hybrid Mish-Mash ([source](https://www.wired.com/review/logitech-g512-x-98/))

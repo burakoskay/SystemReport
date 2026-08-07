@@ -1,19 +1,20 @@
 ---
 title: "Feeble Little Horse's Digital Weirdness"
 date: 2026-05-31T19:24:53.818Z
-modified_date: 2026-08-03T06:58:51.137Z
+modified_date: 2026-08-07T16:47:20.177Z
 tags: ["indie rock","digital music","Feeble Little Horse"]
 hero_image: "/hero/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "digital weirdness"
 description: "Feeble Little Horse's new album bitknot leans into digital weirdness with a low-bit aesthetic and glitchy sound."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.mp3"
 audio_bytes: 559483
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Feeble Little Horse's latest album, bitknot, is a masterclass in digital weirdness. From the cover art to the music itself, the band has fully embracing a low-bit digital aesthetic that's both fascinating and unsettling. The album's sound is characterized by blown-out textures, modern edge distortion, and riffs that cut cleaner than their previous work. This new direction was previewed with their single "This Is Real," which dropped earlier in 2025 and quickly became one of the year's standout tracks.
@@ -52,4 +53,5 @@ The album's success could also lead to a renewed interest in digital music produ
 
 ## Updates
 
+- **2026-08-07** — Birdfy’s smart bird feeder is on sale for just $60 ([source](https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale))
 - **2026-08-03** — Rooting, firmware analysis and persistent credentials of TP-Link TL-841N ([source](https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/))

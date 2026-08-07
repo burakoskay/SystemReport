@@ -1,16 +1,17 @@
 ---
 title: "Colorado Leads on Right to Repair, As Federal Bills Stall"
 date: 2026-04-28T19:56:24.994Z
-modified_date: 2026-05-06T14:25:50.665Z
+modified_date: 2026-08-07T16:47:36.406Z
 tags: ["right to repair","colorado","sustainability","electronics"]
 hero_image: "/hero/2026-04-28-colorado-leads-on-right-to-repair-as-federal-bills-stall-4de731.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "a person repairing a smartphone"
 description: "Colorado passes landmark right to repair bill, bucking trend of tech industry opposition. The legislation ensures consumers and repair shops can fix their own devices."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ These are just a few of the questions that will be on the minds of consumers and
 
 ## Updates
 
+- **2026-08-07** — Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video] ([source](https://www.youtube.com/watch?v=UufMqwyO7pY))
 - **2026-05-06** — Google Home will try to make Nest Cam ‘Familiar Faces’ more reliable – the bar is low ([source](https://9to5google.com/2026/05/06/google-home-nest-cam-familiar-faces-improvements/))

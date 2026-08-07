@@ -1,16 +1,17 @@
 ---
 title: "Ford CEO: Chinese Auto Imports Threaten US Market and Jobs"
 date: 2026-04-16T05:31:26.392Z
-modified_date: 2026-08-04T01:56:41.144Z
+modified_date: 2026-08-07T16:47:30.942Z
 tags: ["automotive","us jobs","china trade","ford","ev market"]
 hero_image: "/hero/2026-04-16-the-coming-wave-ford-ceo-warns-chinese-auto-imports-threaten-us-market-jobs-e2b9ff.jpg"
 hero_image_credit_name: "Kelly"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "US auto industry under pressure from global competition"
 description: "Ford CEO Jim Farley warns China's vast auto production capacity could overwhelm the US market, posing a critical threat to American jobs and manufacturing."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ As the global automotive landscape shifts dramatically towards electrification a
 
 ## Updates
 
+- **2026-08-07** — Report: White House drafting executive order linking vaccines and autism ([source](https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/))
 - **2026-08-04** — Ask HN: Who is hiring? (August 2026) ([source](https://news.ycombinator.com/item?id=49156683))
 - **2026-06-01** — Ask HN: Who is hiring? (June 2026) ([source](https://news.ycombinator.com/item?id=48357725))
 - **2026-05-21** — The Best Home Security System Is Modular (2026) ([source](https://www.wired.com/story/simplisafe-rave-2026/))

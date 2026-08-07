@@ -1,18 +1,20 @@
 ---
 title: "Google Pixel 11 Pro Fold specs leak ahead of 2026 launch"
 date: 2026-06-07T04:23:14.409Z
+modified_date: 2026-08-07T16:47:52.653Z
 tags: ["google","foldable","smartphone"]
 hero_image: "/hero/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "close‑up of a futuristic foldable smartphone with dual displays on a sleek table"
 description: "Leaks detail the Pixel 11 Pro Fold’s screen, processor, camera and price as Google eyes the foldable market in late 2026."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.mp3"
 audio_bytes: 666062
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Leaked specs paint a high‑end picture for Google’s first foldable
 Google’s upcoming Pixel 11 Pro Fold is slated for an August‑September 2026 launch, according to multiple leakers. The device is positioned as the flagship of a four‑model Pixel 11 series that also includes a standard Pixel 11, a Pixel 11 Pro and a larger Pixel 11 Pro XL.
@@ -40,3 +42,7 @@ A weekly full shutdown clears RAM, forces the OS to reload drivers, and can flus
 
 ## What to watch as the foldable race heats up
 Google’s official announcement is expected before the end of Q3 2026. Track the exact launch date, the final pricing tier in India, and whether Google adds hardware‑level mitigations for CSI exposure. Samsung’s Z Fold 8 rollout and OnePlus’s Nord 6 release will provide immediate benchmarks for battery endurance and price competitiveness. Finally, monitor firmware updates from Google that address Wi‑Fi side‑channel leakage—those patches will be the litmus test for how seriously the company treats emerging security vectors in a foldable world.
+
+## Updates
+
+- **2026-08-07** — Deals: Giant 50% price drop on Google Pixelsnap Charger at $35, Galaxy A57 all-time low, Nothing Phone (4a) Pro, more ([source](https://9to5google.com/2026/08/07/deals-pixelsnap-charger-galaxy-a57-nothing-phone/))
