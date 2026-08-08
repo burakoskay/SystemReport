@@ -1,15 +1,17 @@
 ---
 title: "Ancient DNA reveals hidden lineages in Africa and Asia"
 date: 2026-08-01T10:01:48.118Z
+modified_date: 2026-08-08T14:27:03.792Z
 tags: ["ancient dna","human evolution","genetics","africa","asia"]
 hero_image: "/hero/2026-08-01-ancient-dna-reveals-hidden-lineages-in-africa-and-asia-9cf08c.jpg"
 hero_image_credit_name: "Jens Hackradt"
 hero_image_credit_url: "https://www.pexels.com/@jens-hackradt-275583232"
 visual_keyword: "ancient human skeletons in tropical cave"
 description: "New ancient DNA studies expose a ghost African population and a distinct Wallacea lineage, challenging models of human migration and disease risk."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 A teenage hunter‑gatherer from Sulawesi and a quartet of Stone‑Age children from western Cameroon have each yielded DNA that rewrites the map of early human dispersals.
 
@@ -53,3 +55,6 @@ Regulators at the World Health Organization are slated to review polygenic risk�
 
 The stakes are not academic alone: mis‑reading these lineages could skew medical research, misguide ancestry testing services, and perpetuate outdated migration myths. As the ancient DNA field matures, the pressure to integrate every newly uncovered branch into a coherent tree will only increase.
 
+## Updates
+
+- **2026-08-08** — The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon ([source](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/))

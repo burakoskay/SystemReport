@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Arrives on WhatsApp with Private 'Incognito Chat'"
 date: 2026-05-13T18:09:56.685Z
-modified_date: 2026-08-07T22:29:34.440Z
+modified_date: 2026-08-08T14:26:58.168Z
 tags: ["Meta AI","WhatsApp","AI chatbot","private conversations"]
 hero_image: "/hero/2026-05-13-meta-ai-arrives-on-whatsapp-with-private-incognito-chat-49105b.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Meta AI on WhatsApp"
 description: "Meta brings AI chatbot to WhatsApp with end-to-end encryption, allowing private conversations."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -69,5 +70,6 @@ However, the integration of Meta AI with WhatsApp also raises concerns about use
 
 ## Updates
 
+- **2026-08-08** — Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation ([source](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/))
 - **2026-08-07** — Judge rules Meta caused "public nuisance" and must fund mental health treatment ([source](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/))
 - **2026-05-13** — WhatsApp now lets you have incognito conversations with Meta AI ([source](https://9to5mac.com/2026/05/13/whatsapp-now-lets-you-have-incognito-conversations-with-meta-ai/))

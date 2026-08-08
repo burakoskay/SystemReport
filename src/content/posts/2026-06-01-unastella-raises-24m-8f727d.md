@@ -1,18 +1,20 @@
 ---
 title: "Unastella Raises $24M"
 date: 2026-06-01T11:46:30.970Z
+modified_date: 2026-08-08T14:27:15.101Z
 tags: ["tech","space","sports"]
 hero_image: "/hero/2026-06-01-unastella-raises-24m-8f727d.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "rocket"
 description: "Unastella raises $24M, Google opens Tokyo store, Apple's iPhone sports venture."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-01-unastella-raises-24m-8f727d.mp3"
 audio_bytes: 572440
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Unastella Rockets to New Heights with $24M Funding
@@ -67,3 +69,6 @@ In conclusion, the recent developments in the tech industry, including Unastella
 
 The success of these ventures will depend on various factors, including market demand, technological advancements, and competition. As the tech industry continues to grow and mature, it will be exciting to see what new developments and breakthroughs emerge in the coming years.
 
+## Updates
+
+- **2026-08-08** — Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise ([source](https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/))

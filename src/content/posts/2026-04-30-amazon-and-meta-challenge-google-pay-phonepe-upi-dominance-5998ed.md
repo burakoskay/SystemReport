@@ -1,16 +1,17 @@
 ---
 title: "Amazon and Meta Challenge Google Pay, PhonePe UPI Dominance"
 date: 2026-04-30T10:22:25.382Z
-modified_date: 2026-06-05T12:47:35.299Z
+modified_date: 2026-08-08T14:27:09.469Z
 tags: ["india","upi","tech","ai","regulation"]
 hero_image: "/hero/2026-04-30-amazon-and-meta-challenge-google-pay-phonepe-upi-dominance-5998ed.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "Indian digital payments hub with competing logos and a farmer using a smartphone"
 description: "Amazon and Meta lobby Indian regulators to curb Google Pay and PhonePe's 80% UPI share, while AI tools like KisanAI reshape Indian tech landscape."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Both stories converge on a single question: will India’s tech ecosystem evolve
 
 ## Updates
 
+- **2026-08-08** — Supernatural's head of fitness on rebooting the VR exercise app after leaving Meta ([source](https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/))
 - **2026-06-05** — OpenAI will let the US government review its AI models before release ([source](https://www.engadget.com/2188124/openai-will-let-us-government-review-its-models/))
 - **2026-05-28** — YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’ ([source](https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/))
 - **2026-05-27** — All the news about Ferrari&#8217;s polarizing Luce EV ([source](https://www.theverge.com/transportation/938513/ferrari-luce-ev))
