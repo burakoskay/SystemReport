@@ -1,15 +1,17 @@
 ---
 title: "Cloudflare Cuts 20% Workforce"
 date: 2026-05-08T06:10:30.929Z
+modified_date: 2026-08-08T18:28:19.391Z
 tags: ["Cloudflare","Layoffs","Tech Industry"]
 hero_image: "/hero/2026-05-08-cloudflare-cuts-20-workforce-0dc29e.jpg"
 hero_image_credit_name: "zhiyue Huang"
 hero_image_credit_url: "https://www.pexels.com/@zyuee"
 visual_keyword: "Cloudflare"
 description: "Cloudflare lays off 20% of workforce, details unclear."
-sources_count: 1
+sources_count: 2
 author: "priya-raman"
 ---
+
 
 
 ## Cloudflare Cuts 20% Workforce
@@ -48,3 +50,6 @@ The layoffs raise questions about Cloudflare's strategy. The company faces inves
 
 In conclusion, Cloudflare's decision to cut 20% of its workforce reflects a broader trend in the tech industry towards restructuring and refocusing on core competencies. While the move carries risks, it also presents opportunities for the company to streamline its operations and enhance its offerings. As the company navigates this transition, stakeholders will be closely watching its next moves and assessing the effectiveness of its strategic shift.
 
+## Updates
+
+- **2026-08-08** — An Amazon data center could have the worst polluting power plant in the country ([source](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant))
