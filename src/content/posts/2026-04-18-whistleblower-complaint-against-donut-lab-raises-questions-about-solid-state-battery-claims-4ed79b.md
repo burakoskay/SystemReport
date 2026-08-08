@@ -1,16 +1,17 @@
 ---
 title: "Whistleblower Challenges Donut Lab's Solid-State Battery Claims"
 date: 2026-04-18T01:10:34.548Z
-modified_date: 2026-07-30T17:21:18.842Z
+modified_date: 2026-08-08T08:33:54.265Z
 tags: ["Donut Lab","solid-state battery","whistleblower complaint","Nordic Nano"]
 hero_image: "/hero/2026-04-18-whistleblower-complaint-against-donut-lab-raises-questions-about-solid-state-battery-claims-4ed79b.jpg"
 hero_image_credit_name: "mohamed abdelghaffar"
 hero_image_credit_url: "https://www.pexels.com/@moh-adbelghaffar"
 visual_keyword: "battery"
 description: "A criminal whistleblower complaint filed against Donut Lab alleges the company's solid-state battery claims are exaggerated, raising concerns about production capacity and technology readiness."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The allegations against Donut Lab raise important questions about the company's 
 
 ## Updates
 
+- **2026-08-08** — Nitecore’s latest power bank is the lightest and most compact yet ([source](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery))
 - **2026-07-30** — Ron Gilbert started production on Thimbleweed Park 2 ([source](https://www.grumpygamer.com/twp2_announce/))
 - **2026-05-31** — Apple AI glasses launch pushed back to late 2027, Vision Air to arrive by 2029: report ([source](https://9to5mac.com/2026/05/31/apple-glasses-launching-late-2027-with-vision-air-to-follow-by-2029/))
 - **2026-05-13** — Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare ([source](https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare))
