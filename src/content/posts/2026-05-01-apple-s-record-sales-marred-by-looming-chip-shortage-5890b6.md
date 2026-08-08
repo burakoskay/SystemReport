@@ -1,19 +1,20 @@
 ---
 title: "Apple's Record Sales Marred by Looming Chip Shortage"
 date: 2026-05-01T09:54:20.561Z
-modified_date: 2026-08-04T19:25:01.848Z
+modified_date: 2026-08-08T04:51:01.207Z
 tags: ["Apple","chip shortage","tech industry"]
 hero_image: "/hero/2026-05-01-apple-s-record-sales-marred-by-looming-chip-shortage-5890b6.jpg"
 hero_image_credit_name: "Gustavo Denuncio"
 hero_image_credit_url: "https://www.pexels.com/@gustavodenuncio"
 visual_keyword: "Apple"
 description: "Apple reports record sales as Tim Cook steps down, but a chip shortage threatens the company's future. The tech giant's sales success may be short-lived."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-01-apple-s-record-sales-marred-by-looming-chip-shortage-5890b6.mp3"
 audio_bytes: 533569
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The next 48 hours will be crucial for Anthropic's valuation round, which could r
 
 ## Updates
 
+- **2026-08-08** — U.S. Department of Energy Launches the Genesis Open Models Initiative ([source](https://genesisopenmodels.anl.gov/))
 - **2026-08-04** — China is Tesla's cash cow, but for how much longer? ([source](https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/))
 - **2026-06-03** — Dreame&#8217;s L20 Ultra robovac is an unbeatable deal for $280 ([source](https://www.theverge.com/gadgets/942184/dreame-l20-ultra-audible-bose-soundlink-flex-deal-sale))
 - **2026-05-20** — Global EV market goes K-shaped as the U.S. gets left behind ([source](https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/))
