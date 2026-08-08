@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-08-05T21:03:12.063Z
+modified_date: 2026-08-08T12:35:44.701Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-08-08** — Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket ([source](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/))
 - **2026-08-05** — The Valley of Webhooks ([source](https://weli.dev/blog/the-valley-of-webhooks/))
 - **2026-08-05** — The AI Demand Bubble ([source](https://www.wheresyoured.at/the-ai-demand-bubble/))
 - **2026-08-02** — The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos ([source](https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/))
