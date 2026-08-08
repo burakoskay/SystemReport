@@ -1,18 +1,20 @@
 ---
 title: "Saudi Prince Invests in Lucid Motors"
 date: 2026-07-29T06:28:44.337Z
+modified_date: 2026-08-08T16:26:03.828Z
 tags: ["Electric Vehicles","Lucid Motors","Saudi Prince"]
 hero_image: "/hero/2026-07-29-saudi-prince-invests-in-lucid-motors-032c31.jpg"
 hero_image_credit_name: "I'm Zion"
 hero_image_credit_url: "https://www.pexels.com/@zion"
 visual_keyword: "Electric Car"
 description: "Saudi prince buys 5% stake in Lucid Motors"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-29-saudi-prince-invests-in-lucid-motors-032c31.mp3"
 audio_bytes: 585396
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Lucid Motors
 Lucid Motors has secured a 5% stake from a Saudi prince.[^1][^2][^3][^4][^5][^6][^7] This investment follows speculation that Saudi Arabia may consider taking Lucid Motors private, a claim the company has denied.[^1][^2][^8][^5][^7] The move is significant for the electric vehicle manufacturer, which has been gaining attention for its high-performance models.
@@ -40,6 +42,10 @@ The investment by the Saudi prince may have downstream implications for the elec
 
 ## Broader Industry Context
 The electric vehicle market is part of a larger trend towards sustainable transportation. As governments around the world implement regulations to reduce carbon emissions, the demand for electric vehicles is expected to increase. Companies like Lucid Motors, Tesla, and Rivian are well-positioned to take advantage of this trend. However, they will also face competition from established manufacturers, such as Volkswagen and Nissan, which are also investing in electric vehicle technology. The investment by the Saudi prince may provide Lucid Motors with the resources it needs to compete in this market and take advantage of the growing demand for electric vehicles.
+
+## Updates
+
+- **2026-08-08** — Buc-ee’s dodges John Oliver to sue another small business ([source](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart))
 
 [^1]: [whalesbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsXORu1aVFv9HKlBTeWIWza2eAnZkdOK1sWpFG7d4M7UzOUlDblSYjK4bC_j7fcAIuuDPThoyDz8Knimv5yIkllaRZoKvH96YEhMFemEHcgZo4RnqQh0bxDmvnMhC8ItN_uX8ZMW1xWZe0DDzonGw3S32JI1dZbI7wKOPNu1R4xC4i62I5LEW_PlUPftaP0IJB7f8N8f1vHsShW4Ro2RLHO_Ap2lfunrui04_3EOqwwt1dh5YD)
 [^2]: [biggo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwgv5YYjqJmo9E0RP5JsXOeu5BoD7xgpRhVSvWkUzjqpa0f4_XaLdhhq4f9o1yHV9LmD5K7v9AIscyZzON_bQqdfWel5JoI9a0Q7UYYe-p0XIl7fOj_9p9D1UG7IsH9vAE0JaGYDdQi4vELKp43-mxEL-w29en50JBqGFrbVo=)

@@ -1,18 +1,20 @@
 ---
 title: "Iran Shock Sped Asia-Europe Energy Shift"
 date: 2026-06-05T10:08:57.642Z
+modified_date: 2026-08-08T16:26:20.108Z
 tags: ["energy","ai","policy","environment"]
 hero_image: "/hero/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "oil refinery juxtaposed with wind turbines"
 description: "Iran's latest conflict has forced Asian and European leaders to rush renewable policies while U.S. energy education and AI tools reshape the sustainability narrative."
-sources_count: 4
-author: "elena-marchetti"
+sources_count: 5
 audio_path: "/audio/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.mp3"
 audio_bytes: 590203
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Iran's Conflict Triggers Policy Acceleration in Asia and Europe
 
@@ -37,3 +39,7 @@ Open‑source projects are amplifying this transparency push. EcoLogits, a suite
 The convergence of a Middle‑East security shock, domestic narrative engineering, and AI‑driven accounting forces the energy sector onto a tighter feedback loop. Asian and European leaders, motivated by supply risk, are likely to lock in renewable contracts that lock in demand for low‑carbon generation assets. In the United States, the EIA’s editorial adjustments may blunt the perceived urgency of coal phase‑out, potentially slowing legislative momentum at a time when AI‑derived data could have bolstered the case for stricter emissions standards.
 
 What to watch: the European Commission’s upcoming “Renewables Acceleration Package” slated for October, the U.S. Senate’s Energy and Natural Resources Committee hearing on AI‑related emissions slated for November, and the next release of EcoLogits’ benchmark dataset in early 2027. Each decision will either cement the momentum sparked by Iran’s shock or allow old narratives to reassert themselves, shaping whether the global energy transition gains irreversible traction or stalls under competing pressures.
+
+## Updates
+
+- **2026-08-08** — Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak ([source](https://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/))
