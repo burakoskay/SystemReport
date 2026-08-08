@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
-modified_date: 2026-06-03T04:42:39.891Z
+modified_date: 2026-08-08T03:20:22.256Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ In the near future, we can expect to see more devices like the Ulticam IQ V2 eme
 
 ## Updates
 
+- **2026-08-08** — Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list ([source](https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/))
 - **2026-06-03** — Microsoft plans Linux tools and an RTX Spark desktop for Windows developers ([source](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/))
 - **2026-06-02** — 4 Best Alexa Speakers (2026): Echo Dot Max, Echo Dot, Echo Show 11 ([source](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/))
 - **2026-04-26** — Skylight’s 15-inch smart calendar is down to its lowest price to date ([source](https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale))
