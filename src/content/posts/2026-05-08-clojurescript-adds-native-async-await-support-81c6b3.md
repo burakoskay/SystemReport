@@ -1,16 +1,17 @@
 ---
 title: "ClojureScript Adds Native Async/Await Support"
 date: 2026-05-08T14:16:34.187Z
-modified_date: 2026-06-05T10:00:37.901Z
+modified_date: 2026-08-09T04:59:26.614Z
 tags: ["clojurescript","async","javascript"]
 hero_image: "/hero/2026-05-08-clojurescript-adds-native-async-await-support-81c6b3.jpg"
 hero_image_credit_name: "Stanislav Kondratiev"
 hero_image_credit_url: "https://www.pexels.com/@technobulka"
 visual_keyword: "developer typing async await code in a modern code editor"
 description: "ClojureScript's May 7 release brings async/await syntax, tightening JavaScript interop and reshaping async code for Clojure fans."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The next milestone is the adoption curve. Watch the upcoming releases of major C
 
 ## Updates
 
+- **2026-08-09** — Open-source interactive map for the Aug 12 total solar eclipse ([source](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute))
 - **2026-06-05** — Mira Murati steps back into the spotlight, carefully ([source](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/))
 - **2026-05-15** — Mira Murati Wants Her AI to ‘Keep Humans in the Loop’ ([source](https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/))
 - **2026-05-10** — Get ready for the whisper-filled office of the future ([source](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/))
