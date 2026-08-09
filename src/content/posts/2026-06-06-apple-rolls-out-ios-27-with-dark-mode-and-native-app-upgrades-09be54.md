@@ -1,19 +1,20 @@
 ---
 title: "Apple rolls out iOS 27 with dark mode and native app upgrades"
 date: 2026-06-06T17:22:10.730Z
-modified_date: 2026-08-07T10:47:04.915Z
+modified_date: 2026-08-09T16:28:13.032Z
 tags: ["apple","ios","wwdc","software","nativeapps"]
 hero_image: "/hero/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "iPhone screen displaying dark mode interface"
 description: "Apple unveils iOS 27 at WWDC, adding dark mode, revamped Health, Maps, and watchOS App Store support while tightening its native app ecosystem."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.mp3"
 audio_bytes: 623013
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## iOS 27 hits the stage
@@ -53,4 +54,5 @@ Track the adoption rate of dark mode in the first iOS 27 update cycle; a low upt
 
 ## Updates
 
+- **2026-08-09** — A new ceramic Apple Watch could go on sale soon ([source](https://9to5mac.com/2026/08/09/a-new-ceramic-apple-watch-could-go-on-sale-soon/))
 - **2026-08-07** — Trying to explain One Night Only&#8217;s tech-enforced sex dystopia ([source](https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech))
