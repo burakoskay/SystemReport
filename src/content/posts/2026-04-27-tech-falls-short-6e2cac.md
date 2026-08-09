@@ -1,19 +1,20 @@
 ---
 title: "Tech Falls Short"
 date: 2026-04-27T06:32:41.905Z
-modified_date: 2026-05-15T21:09:26.441Z
+modified_date: 2026-08-09T14:29:42.141Z
 tags: ["science","innovation","sustainability"]
 hero_image: "/hero/2026-04-27-tech-falls-short-6e2cac.jpg"
 hero_image_credit_name: "Alex Knight"
 hero_image_credit_url: "https://www.pexels.com/@agk42"
 visual_keyword: "innovation"
 description: "Science and innovation aren't addressing the world's most pressing issues"
-sources_count: 30
+sources_count: 31
 audio_path: "/audio/2026-04-27-tech-falls-short-6e2cac.mp3"
 audio_bytes: 585187
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ In conclusion, the current system of science and innovation is not serving the n
 
 ## Updates
 
+- **2026-08-09** — The Pixel 11 won’t be exciting – what do you want next year? ([source](https://9to5google.com/2026/08/09/google-pixel-11-boring/))
 - **2026-05-15** — Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved ([source](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/))
 - **2026-05-14** — Cisco announces record revenue and 4,000 layoffs in the same day ([source](https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/))

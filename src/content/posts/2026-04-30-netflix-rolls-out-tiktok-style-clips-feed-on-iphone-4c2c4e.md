@@ -1,16 +1,17 @@
 ---
 title: "Netflix Rolls Out TikTok-Style 'Clips' Feed on iPhone"
 date: 2026-04-30T14:11:29.618Z
-modified_date: 2026-08-02T14:58:09.542Z
+modified_date: 2026-08-09T14:29:29.202Z
 tags: ["Netflix","Clips","TikTok","Streaming"]
 hero_image: "/hero/2026-04-30-netflix-rolls-out-tiktok-style-clips-feed-on-iphone-4c2c4e.jpg"
 hero_image_credit_name: "Cup of  Couple"
 hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "Netflix Clips"
 description: "Netflix redesigns its iPhone app with a vertical video feed called Clips, showcasing highlights from original programming."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ In conclusion, the introduction of Clips represents a significant shift in Netfl
 
 ## Updates
 
+- **2026-08-09** — This former notorious red-light district is now one of the world’s top AI hubs ([source](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/))
 - **2026-08-02** — Common problems with Bluetooth speakers and how to fix them ([source](https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/))
 - **2026-06-01** — OpenAI enhances ChatGPT app with this hidden feature ([source](https://9to5mac.com/2026/06/01/openai-enhances-chatgpt-app-with-this-hidden-feature/))
 - **2026-05-12** — Meta AI app enhanced with new features using Muse Spark, here’s what’s new ([source](https://9to5mac.com/2026/05/12/meta-ai-app-enhanced-with-new-features-using-muse-spark-heres-whats-new/))
