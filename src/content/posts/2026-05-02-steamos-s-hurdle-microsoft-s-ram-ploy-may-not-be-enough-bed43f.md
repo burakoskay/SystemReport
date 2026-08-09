@@ -1,15 +1,17 @@
 ---
 title: "SteamOS's Hurdle: Microsoft's RAM Ploy May Not Be Enough"
 date: 2026-05-02T03:33:45.114Z
+modified_date: 2026-08-09T18:32:09.358Z
 tags: ["SteamOS","Microsoft","RAM requirements","gaming industry","Linux kernel"]
 hero_image: "/hero/2026-05-02-steamos-s-hurdle-microsoft-s-ram-ploy-may-not-be-enough-bed43f.jpg"
 hero_image_credit_name: "Yan Krukau"
 hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "gaming"
 description: "Valve's SteamOS faces a new challenge from Microsoft's strategy to leverage RAM requirements, but its impact is unclear"
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 ## A New Hurdle for SteamOS
 
@@ -46,3 +48,7 @@ The battle for gaming dominance is far from over. SteamOS may still have a chanc
 ## Conclusion
 
 The future of SteamOS is uncertain, but one thing is clear: the company's OS is facing significant challenges in the market. Microsoft's RAM ploy may not be enough to give Windows a boost, but SteamOS still has a long way to go before it can become a serious competitor to Windows.
+
+## Updates
+
+- **2026-08-09** — How to use ChatGPT's new, more natural Voice Mode for conversations ([source](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/))
