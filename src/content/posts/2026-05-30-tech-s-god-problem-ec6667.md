@@ -1,15 +1,17 @@
 ---
 title: "Tech's God Problem"
 date: 2026-05-30T21:09:02.134Z
+modified_date: 2026-08-09T06:44:33.206Z
 tags: ["tech-ethics","religion","ai-impact","ufology","future-of-work"]
 hero_image: "/hero/2026-05-30-tech-s-god-problem-ec6667.jpg"
 hero_image_credit_name: "Alejandro De Roa"
 hero_image_credit_url: "https://www.pexels.com/@alejandro-de-roa-649065356"
 visual_keyword: "shadowy figure analyzing satellite telemetry in dimly lit underground research facility"
 description: "Religious institutions confront AI, longevity, and UFOs as tech challenges existential questions"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## The Vatican Meets the Singularity
 
@@ -38,3 +40,7 @@ The Invisible College offers a dark mirror to this progress. Their research into
 ## What Breaks Next
 
 Watch for three developments in 2026: the Vatican's proposed AI ethics council will meet for the first time in November, where they'll debate whether AI-generated art can qualify as sacramental. Meanwhile, the Invisible College is likely to publish its first peer-reviewed paper on anomalous energy patterns in March 2027. And don't be surprised if Tesla or SpaceX faces legal challenges over 'spiritual monopolization' of space exploration. The war over what counts as sacred — and who gets to define it — is only beginning.
+
+## Updates
+
+- **2026-08-09** — Os8088: A powerful Mac-like OS for the IBM XT, 286, 386 ([source](https://os8088.com/))
