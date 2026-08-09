@@ -1,18 +1,20 @@
 ---
 title: "OpenAI Acquires NextSlide"
 date: 2026-08-09T12:38:58.447Z
+modified_date: 2026-08-09T22:24:29.330Z
 tags: ["OpenAI","NextSlide","Acquisition"]
 hero_image: "/hero/2026-08-09-openai-acquires-nextslide-77081a.jpg"
 hero_image_credit_name: "Bia Limova"
 hero_image_credit_url: "https://www.pexels.com/@bia-limova-1908542654"
 visual_keyword: "Acquisition"
 description: "OpenAI buys presentation startup NextSlide"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-08-09-openai-acquires-nextslide-77081a.mp3"
 audio_bytes: 586232
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Acquisition
 OpenAI acquired NextSlide, a presentation startup. NextSlide's team members are now working on ChatGPT, a large language model.
@@ -37,3 +39,7 @@ The history of presentation technology is marked by significant advancements in 
 
 ## Broader Industry Trends
 The acquisition of NextSlide by OpenAI is also reflective of broader industry trends. The AI industry is experiencing rapid growth, with companies like Google, Microsoft, and Amazon investing heavily in AI research and development. The presentation technology market is also growing, with companies like PowerPoint and Google Slides dominating the space. However, the integration of AI into presentation technology is still in its early stages, and companies like OpenAI are well-positioned to capitalize on this trend.
+
+## Updates
+
+- **2026-08-09** — iPhone 17 set to break a record no flagship has touched in 15 years ([source](https://9to5mac.com/2026/08/09/iphone-17-availability/))

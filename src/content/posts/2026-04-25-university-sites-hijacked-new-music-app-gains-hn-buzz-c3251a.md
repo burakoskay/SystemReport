@@ -1,19 +1,20 @@
 ---
 title: "University Sites Hijacked, New Music App Gains HN Buzz"
 date: 2026-04-25T20:58:49.696Z
-modified_date: 2026-08-08T22:22:58.108Z
+modified_date: 2026-08-09T22:24:23.345Z
 tags: ["security","education","web","music","universities"]
 hero_image: "/hero/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.jpg"
 hero_image_credit_name: "Julien Bachelet"
 hero_image_credit_url: "https://www.pexels.com/@julienblt"
 visual_keyword: "computer screen showing hijacked university website with porn overlay and music app interface"
 description: "Hundreds of university subdomains now serve porn after hijacks, while a fresh web music tool draws attention on Hacker News, highlighting web hygiene gaps."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.mp3"
 audio_bytes: 618415
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ University IT departments should prioritize a DNS audit within the next quarter.
 
 ## Updates
 
+- **2026-08-09** — No Dogs in Space is a music history podcast for true obsessives ([source](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast))
 - **2026-08-08** — Planned Amazon data center could become the biggest climate polluter in the U.S. ([source](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/))
 - **2026-05-28** — Has the hunt for AI compute uncovered the next Cerebras? ([source](https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/))
 - **2026-05-11** — Papa Johns Is Getting Into Drone Delivery—but Not for Pizza ([source](https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Smart Home, Foldables, and API Innovations"
 date: 2026-05-14T14:32:36.606Z
-modified_date: 2026-05-22T16:29:09.127Z
+modified_date: 2026-08-09T22:24:40.906Z
 tags: ["smart home","foldable phones","API innovations"]
 hero_image: "/hero/2026-05-14-tech-roundup-smart-home-foldables-and-api-innovations-a6bc0b.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "This week's tech news covers smart home devices, foldable phone reviews, and API innovations in observability and job application tracking."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -81,5 +82,6 @@ The API space is also likely to have significant implications for the way we wor
 
 ## Updates
 
+- **2026-08-09** — John C. Lilly on solid state intelligence and the elimination of man (1978) ([source](https://kibotronics.net/unlisted/lilly-machines/))
 - **2026-05-22** — Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses ([source](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/))
 - **2026-05-18** — Volvo teases a new affordable EV to replace discontinued EX30 ([source](https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60))
