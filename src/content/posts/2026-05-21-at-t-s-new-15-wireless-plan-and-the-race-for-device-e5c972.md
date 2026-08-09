@@ -1,15 +1,17 @@
 ---
 title: "AT&T’s New $15 Wireless Plan and the Race for Device"
 date: 2026-05-21T13:06:58.015Z
+modified_date: 2026-08-09T08:35:16.303Z
 tags: ["Wireless plans","Jasper Wireless","Emerging devices","Device infrastructure","Telecom sector"]
 hero_image: "/hero/2026-05-21-at-t-s-new-15-wireless-plan-and-the-race-for-device-e5c972.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "wireless"
 description: "AT&T unveils a flexible $15/month wireless plan and partners with Jasper Wireless to scale support for emerging devices."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 # AT&T’s $15 Build-a-Plan Targets Price-Sensitive Users
 
@@ -46,3 +48,7 @@ The wireless market is undergoing a significant shift, with 35% of U.S. househol
 ## What to Watch
 
 Three data points will define AT&T’s 2024 success. First, whether Build-a-Plan’s $15 tier attracts enough users to justify the Jasper investment—current targets suggest 2 million sign-ups by Q4. Second, the actual upgrade rate under Next Up Anytime; early signs show a 40% drop-off compared to traditional 24-month contracts. Third, if Jasper can scale beyond consumer gadgets to enterprise IoT, a $200B market by 2027. Investors will also parse AT&T’s Q2 earnings call for hints on when the first Jasper-powered devices ship. Until then, the telecom sector’s ‘wild west’ experiment continues.
+
+## Updates
+
+- **2026-08-09** — The original URL for this prediction will no longer be available in 11 years (2011) ([source](http://longbets.org/601/))
