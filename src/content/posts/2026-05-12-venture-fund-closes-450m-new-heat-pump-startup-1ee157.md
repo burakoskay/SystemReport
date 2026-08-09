@@ -1,18 +1,20 @@
 ---
 title: "Venture Fund Closes $450M, New Heat Pump Startup"
 date: 2026-05-12T21:25:44.625Z
+modified_date: 2026-08-09T12:38:01.752Z
 tags: ["venture capital","infrastructure technology","AI-powered solutions"]
 hero_image: "/hero/2026-05-12-venture-fund-closes-450m-new-heat-pump-startup-1ee157.jpg"
 hero_image_credit_name: "Jimmy Liao"
 hero_image_credit_url: "https://www.pexels.com/@jimmy-liao-3615017"
 visual_keyword: "infrastructure"
 description: "A* Capital closes $450M fund, ex-Tesla exec starts heat pump startup, Samsara uses AI to detect potholes."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-12-venture-fund-closes-450m-new-heat-pump-startup-1ee157.mp3"
 audio_bytes: 658121
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A* Capital Secures $450 Million for Fund III
@@ -71,3 +73,6 @@ The deployment of Fund III will likely focus on investments in technology and he
 
 The future of infrastructure technology is expected to be shaped by increasing demand for efficient and sustainable solutions. A* Capital's Fund III and Samsara's AI-powered pothole detection technology will play a significant role in shaping the future of the sector.
 
+## Updates
+
+- **2026-08-09** — Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How ([source](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/))
