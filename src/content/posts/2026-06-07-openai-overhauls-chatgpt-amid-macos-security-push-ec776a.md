@@ -1,18 +1,20 @@
 ---
 title: "OpenAI Overhauls ChatGPT Amid macOS Security Push"
 date: 2026-06-07T19:41:55.097Z
+modified_date: 2026-08-09T10:27:43.477Z
 tags: ["OpenAI","ChatGPT","AI security"]
 hero_image: "/hero/2026-06-07-openai-overhauls-chatgpt-amid-macos-security-push-ec776a.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "ChatGPT"
 description: "OpenAI revamps ChatGPT while updating macOS apps due to a third-party security flaw, sparking questions about its roadmap."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-06-07-openai-overhauls-chatgpt-amid-macos-security-push-ec776a.mp3"
 audio_bytes: 638895
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 OpenAI posted a security notice requiring macOS users to update ChatGPT and Codex due to a third-party developer tool issue. The company emphasized 'out of an abundance of caution' and found no evidence of user data being accessed.
 
@@ -71,3 +73,7 @@ The ChatGPT revamp and security updates also highlight the importance of ongoing
 ## Future outlook
 
 As OpenAI continues to expand its offerings and push the boundaries of AI development, users and investors will be watching closely to see how it navigates the complex and rapidly changing AI landscape. The company's commitment to innovation, security, and user experience sets a high standard for the industry as a whole, and its future plans and roadmap will be closely watched by the AI community.
+
+## Updates
+
+- **2026-08-09** — TCL Note A1 Nxtpaper Review (2026): A Hybrid Tablet for Taking Notes and Watching Video ([source](https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/))
