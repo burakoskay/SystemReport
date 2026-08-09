@@ -1,18 +1,20 @@
 ---
 title: "Nuro Gets Permit for Driverless Testing on California Roads"
 date: 2026-05-06T10:25:38.452Z
+modified_date: 2026-08-09T20:25:06.573Z
 tags: ["autonomous vehicles","driverless testing","Nuro"]
 hero_image: "/hero/2026-05-06-nuro-gets-permit-for-driverless-testing-on-california-roads-8c0192.jpg"
 hero_image_credit_name: "Abhishek  Navlakha"
 hero_image_credit_url: "https://www.pexels.com/@navlakha"
 visual_keyword: "autonomous vehicle"
 description: "Nuro receives permit to test driverless robotaxis in California, ahead of Uber's planned launch."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-06-nuro-gets-permit-for-driverless-testing-on-california-roads-8c0192.mp3"
 audio_bytes: 563871
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Nuro Clears Hurdle for Driverless Testing
@@ -81,3 +83,6 @@ These advancements will be critical to the development of more sophisticated aut
 
 The future of autonomous vehicles is exciting and full of possibilities. As the industry continues to mature, we can expect to see more companies like Nuro and Uber deploying their technologies on public roads.
 
+## Updates
+
+- **2026-08-09** — HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026 ([source](https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/))
