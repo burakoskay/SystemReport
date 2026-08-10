@@ -1,18 +1,20 @@
 ---
 title: "Tech Giants Face Scrutiny"
 date: 2026-05-30T03:51:40.295Z
+modified_date: 2026-08-10T16:49:27.093Z
 tags: ["tech giants","competition","digital sector"]
 hero_image: "/hero/2026-05-30-tech-giants-face-scrutiny-1b99c8.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "regulation"
 description: "UK competition rules must be updated for the digital age, experts say."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-05-30-tech-giants-face-scrutiny-1b99c8.mp3"
 audio_bytes: 593129
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Issue
 Tech giants have become increasingly dominant in the digital sector, limiting competition and consumer choice. An independent panel of experts led by Harvard Professor Jason Furman has investigated the sector and made recommendations to address this international problem.
@@ -73,3 +75,7 @@ Education and training are critical in promoting digital literacy and entreprene
 This includes providing training in areas such as coding, data analysis, and digital marketing. It also includes providing resources and support for entrepreneurs and small businesses, such as mentorship programs and access to funding.
 
 By investing in education and training, the UK government can help to promote competition and innovation in the digital sector. It can also help to ensure that the benefits of the digital economy are shared by all, and that consumers have the skills they need to navigate the digital world.
+
+## Updates
+
+- **2026-08-10** — What's the difference between MagSafe and Qi wireless charging? ([source](https://www.engadget.com/2230986/difference-between-magsafe-qi-wireless-charging-explained/))

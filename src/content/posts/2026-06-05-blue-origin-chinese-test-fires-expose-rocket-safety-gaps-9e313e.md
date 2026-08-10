@@ -1,18 +1,20 @@
 ---
 title: "Blue Origin, Chinese test fires expose rocket safety gaps"
 date: 2026-06-05T16:38:46.150Z
+modified_date: 2026-08-10T16:49:23.154Z
 tags: ["rocketry","space","commercial-launch","safety"]
 hero_image: "/hero/2026-06-05-blue-origin-chinese-test-fires-expose-rocket-safety-gaps-9e313e.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "rocket explosion plume over launch pad with shattered windows"
 description: "Explosions at Blue Origin and Space Pioneer highlight how static‑fire failures can ripple through launch schedules and funding, forcing the industry to rethink safety protocols."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-05-blue-origin-chinese-test-fires-expose-rocket-safety-gaps-9e313e.mp3"
 audio_bytes: 591875
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A blast that still echoes
 The roar of a rocket that was supposed to stay glued to the ground still rattles engineers across two continents. Blue Origin’s New Glenn test on July 2 sent a shockwave that shattered windows in a hangar a mile from the pad, proving that overpressure can travel farther than anyone expected.
@@ -39,3 +41,7 @@ NASA’s SLS stacking will proceed this summer, but the agency will likely tight
 Space Pioneer has promised a root‑cause analysis and a restart of testing with new hardware. The next milestone to track is the company’s announcement of a revised test schedule and any changes to the hold‑down system. A successful static fire without lift‑off will be the first real indicator that the structural failure has been fixed.
 
 Finally, the broader commercial launch market will feel the aftershocks. Companies that rely on Chinese launch capacity may need to hedge against further delays, while U.S. providers could see renewed interest from satellite operators wary of safety uncertainties abroad. The next few months will reveal whether the industry can absorb these setbacks without a cascade of postponed missions.
+
+## Updates
+
+- **2026-08-10** — Apple will stream Friday Night Baseball live in Vision Pro ([source](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro))
