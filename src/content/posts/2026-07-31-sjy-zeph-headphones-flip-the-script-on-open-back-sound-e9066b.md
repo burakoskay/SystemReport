@@ -1,18 +1,20 @@
 ---
 title: "SJY Zeph headphones flip the script on open‑back sound"
 date: 2026-07-31T10:34:56.775Z
+modified_date: 2026-08-10T11:03:09.572Z
 tags: ["headphones","audio","review"]
 hero_image: "/hero/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.jpg"
 hero_image_credit_name: "Sogi ."
 hero_image_credit_url: "https://www.pexels.com/@sogi-495844134"
 visual_keyword: "a pair of sleek open-back headphones with flippable earcups on a minimalist desk"
 description: "SJY’s Zeph pair wired open‑back design with flippable earcups, challenging $200‑plus competitors on tone and usability."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.mp3"
 audio_bytes: 580799
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 SJY’s Zeph headphones deliver two distinct sound signatures in a single wired, open‑back package. The flip‑to‑change earcups let you swing between a relaxed, laid‑back vibe and a more detailed, airy presentation, making the listening experience feel like two headphones in one.
 
@@ -51,3 +53,7 @@ Because the Zeph are open‑back, they lack the isolation of the Beats Solo HD, 
 ## What to watch
 
 The Zeph’s unique mechanical dual‑mode may spur other manufacturers to explore hardware‑based sound‑profile switches instead of software presets. Keep an eye on whether SJY releases a closed‑back variant or adds a detachable cable with inline controls, which would address the portability complaints highlighted in the HN review. Also watch pricing trends; if the Zeph land near the $200 mark of the B&W P3 and Beats Solo, they could force a price‑performance shake‑up in the mid‑range market. Future firmware‑free, mechanically toggled headphones could become a niche but influential segment for listeners who value tactile control over digital menus.
+
+## Updates
+
+- **2026-08-10** — The Rise of the 1 am Job Interview ([source](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/))
