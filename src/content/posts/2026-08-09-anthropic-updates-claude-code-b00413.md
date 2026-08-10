@@ -1,18 +1,20 @@
 ---
 title: "Anthropic Updates Claude Code"
 date: 2026-08-09T20:26:11.896Z
+modified_date: 2026-08-10T07:19:59.794Z
 tags: ["Anthropic","Claude Code","Automation"]
 hero_image: "/hero/2026-08-09-anthropic-updates-claude-code-b00413.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Claude Code"
 description: "Anthropic turns on Claude Code's auto mode by default"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-08-09-anthropic-updates-claude-code-b00413.mp3"
 audio_bytes: 573067
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Claude Code Update
 Anthropic is turning Claude Code's auto mode on by default. This change reduces the need for human oversight in programming with Claude Code.
@@ -30,3 +32,7 @@ The technical mechanics behind Claude Code's auto mode are complex, involving ad
 The update to Claude Code will have downstream implications for the development community. As developers become more accustomed to working with automated tools, they will need to adapt to new workflows and processes. This may involve changes to project management, testing, and deployment, as well as new strategies for troubleshooting and debugging. The update may also lead to changes in the way developers collaborate and communicate with each other, with a greater emphasis on high-level tasks and strategic decision-making.
 ## History of Automation in Development
 The trend towards automation in development is not new, with companies like Anthropic and others investing heavily in automation technologies in recent years. However, the decision to turn on auto mode by default marks a significant shift in the industry, as it represents a major commitment to automation as a default paradigm. This shift is likely to have far-reaching implications for the development community, as developers and companies adapt to the new reality of automated programming.
+
+## Updates
+
+- **2026-08-10** — Auto mode is now the default in Claude Code ([source](https://claude.com/blog/auto-mode-default-in-claude-code))
