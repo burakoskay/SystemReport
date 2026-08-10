@@ -1,15 +1,17 @@
 ---
 title: "Remote's AI boost pushes ARR past $300M, cash flow positive"
 date: 2026-05-27T22:17:11.478Z
+modified_date: 2026-08-10T22:31:22.875Z
 tags: ["remote","payroll","ai","fintech"]
 hero_image: "/hero/2026-05-27-remote-s-ai-boost-pushes-arr-past-300m-cash-flow-positive-84469c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "modern office with AI data flow graphics"
 description: "Remote's AI-driven efficiency lifts ARR over $300M and turns cash‑flow positive, highlighting a new productivity model for payroll firms."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 ## Remote hits $300M ARR and cash‑flow positivity
 Remote announced it crossed the $300 million annual recurring revenue threshold while becoming cash‑flow positive, all without hiring a single new employee. The headline comes from a 50 percent jump in revenue per employee after the company layered AI into its core payroll workflows.
@@ -35,3 +37,7 @@ Regulators are watching the automation of tax filings closely. Errors that slip 
 Remote plans to roll out additional AI modules for benefits administration later this year. Investors and competitors will be tracking the uptake of those features and the resulting impact on the company’s revenue per employee metric. The next data point to watch is whether Remote can sustain its 50 percent lift as the AI models mature and as rivals catch up.
 
 ---
+
+## Updates
+
+- **2026-08-10** — Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI ([source](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/))

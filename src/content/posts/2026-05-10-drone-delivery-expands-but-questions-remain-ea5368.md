@@ -1,15 +1,17 @@
 ---
 title: "Drone Delivery Expands, But Questions Remain"
 date: 2026-05-10T11:06:34.649Z
+modified_date: 2026-08-10T22:31:28.540Z
 tags: ["drone delivery","walmart","amazon","wing"]
 hero_image: "/hero/2026-05-10-drone-delivery-expands-but-questions-remain-ea5368.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "drone delivery"
 description: "Walmart and Wing are bringing drone delivery to 100 new stores, while Amazon patents a beehive-like structure to house delivery drones in cities."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Drone Delivery Takes Flight
@@ -65,3 +67,7 @@ The next big milestone for drone delivery will be the rollout of Amazon's Prime 
 Regulatory developments will also be crucial to watch. As drone delivery becomes more widespread, governments will need to adapt their rules and regulations to accommodate this new technology. Expect to see more debate and discussion about issues like noise pollution, safety, and privacy.
 
 The coming months will be exciting for the drone delivery industry. With Walmart, Wing, and Amazon leading the charge, we can expect to see significant innovation and investment in this space.
+
+## Updates
+
+- **2026-08-10** — WhatsApp’s latest beta for iOS adds references to an in-chat search tool ([source](https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/))

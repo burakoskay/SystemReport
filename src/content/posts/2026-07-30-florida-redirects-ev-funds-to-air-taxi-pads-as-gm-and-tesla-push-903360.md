@@ -1,15 +1,17 @@
 ---
 title: "Florida redirects EV funds to air‑taxi pads as GM and Tesla push"
 date: 2026-07-30T19:24:42.833Z
+modified_date: 2026-08-10T22:31:50.551Z
 tags: ["electric-vehicles","autonomous-vehicles","infrastructure","gm","tesla"]
 hero_image: "/hero/2026-07-30-florida-redirects-ev-funds-to-air-taxi-pads-as-gm-and-tesla-push-903360.jpg"
 hero_image_credit_name: "04iraq"
 hero_image_credit_url: "https://www.pexels.com/@04iraq-1272398525"
 visual_keyword: "futuristic air taxi pad beside electric charging station"
 description: "Florida repurposes $200M EV‑charger money for air‑taxi pads while Tesla hits 10 million EVs and GM rolls out a new Ultium platform, reshaping the electric‑mobility landscape."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Florida will divert $200 million of federal electric‑vehicle‑charging money to build air‑taxi pads. The move reshapes how public funds support mobility, shifting from ground‑level chargers to vertical take‑off points for emerging eVTOL services.
 
@@ -72,3 +74,7 @@ Local jurisdictions, such as London’s ULEZ, illustrate how policy can accelera
 ## What to watch
 
 Florida’s air‑taxi pad program will be audited by the Department of Transportation later this year; the audit’s findings will indicate whether the reallocation complies with federal guidelines. GM’s first Ultium‑based models will report real‑world efficiency and cost figures, which analysts will compare against Tesla’s production cadence. Tesla’s upcoming autonomous ride‑sharing rollout will trigger scrutiny from the National Highway Traffic Safety Administration, especially after the HN post highlighted safety concerns with semi‑autonomous driver‑assist systems. Finally, municipalities expanding low‑emission zones or testing inductive bus charging will provide case studies on how policy and technology intersect in the next decade of electric mobility.
+
+## Updates
+
+- **2026-08-10** — Mark Zuckerberg doesn’t understand how to live ([source](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision))

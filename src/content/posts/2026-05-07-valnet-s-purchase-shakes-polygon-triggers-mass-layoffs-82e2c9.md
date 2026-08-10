@@ -1,15 +1,17 @@
 ---
 title: "Valnet’s Purchase Shakes Polygon, Triggers Mass Layoffs"
 date: 2026-05-07T23:20:13.343Z
+modified_date: 2026-08-10T22:31:17.309Z
 tags: ["gaming","journalism","layoffs","valnet"]
 hero_image: "/hero/2026-05-07-valnet-s-purchase-shakes-polygon-triggers-mass-layoffs-82e2c9.jpg"
 hero_image_credit_name: "Huy Phan"
 hero_image_credit_url: "https://www.pexels.com/@huy-phan-316220"
 visual_keyword: "empty office desks with gaming memorabilia"
 description: "Vox Media sold Polygon to Valnet, sparking unexpected cuts that threaten independent gaming journalism."
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 ## The Sale and Immediate Fallout
 
@@ -44,3 +46,7 @@ The immediate fallout will be measured in how quickly former Polygon staff find 
 ## What to Watch
 
 Track Valnet’s first quarterly earnings report for any line‑item shifts tied to Polygon’s traffic and ad revenue. Watch for announcements of editorial restructuring—particularly whether former Polygon editors are reinstated under a new brand or folded into Valnet’s existing sites. Finally, monitor the emergence of any new independent gaming newsletters or podcasts that capture the displaced talent; their growth will signal whether the industry can sustain quality journalism outside the Valnet orbit.
+
+## Updates
+
+- **2026-08-10** — Now Rippling is counter suing tiny startup Runlayer ([source](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/))

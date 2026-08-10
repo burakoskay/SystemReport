@@ -1,15 +1,17 @@
 ---
 title: "TracesOfHumanity Launches on Hacker News"
 date: 2026-05-11T07:58:03.071Z
+modified_date: 2026-08-10T22:31:45.050Z
 tags: ["TracesOfHumanity","Hacker News","tech startups"]
 hero_image: "/hero/2026-05-11-tracesofhumanity-launches-on-hacker-news-f436d6.jpg"
 hero_image_credit_name: "Emre Koşak"
 hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "TracesOfHumanity"
 description: "TracesOfHumanity debuts on Hacker News, sparking discussion among tech enthusiasts."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## TracesOfHumanity Makes a Splash on Hacker News
@@ -75,3 +77,7 @@ The platform's future success will depend on its ability to adapt to changing us
 ## Conclusion
 
 The launch of TracesOfHumanity on Hacker News marks an important milestone in the platform's development. As the platform continues to evolve, it will be essential to monitor its progress and assess its implications for the broader tech industry. By prioritizing technical stability, community engagement, and feature development, TracesOfHumanity can position itself for long-term success.
+
+## Updates
+
+- **2026-08-10** — Defending my own brain against enshittification ([source](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/))
