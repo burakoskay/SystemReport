@@ -1,16 +1,17 @@
 ---
 title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
-modified_date: 2026-07-26T17:12:07.304Z
+modified_date: 2026-08-10T14:53:51.266Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The B-52 star tracker computer's design era and specific gear ratios demonstrate
 
 ## Updates
 
+- **2026-08-10** — Next year’s iPhone redesign with all-glass look might be canceled: report ([source](https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/))
 - **2026-07-26** — Pebblebee launches bag tags and pet collar IDs to go with your Find Hub trackers ([source](https://9to5google.com/2026/07/24/pebblebee-launches-bag-tags-and-pet-collar-ids-to-go-with-your-find-hub-trackers/))
 - **2026-06-04** — iPhone 18 Pro getting new display upgrade with two benefits, per rumors ([source](https://9to5mac.com/2026/06/04/iphone-18-pro-getting-new-display-upgrade-with-two-benefits-per-rumors/))
 - **2026-05-19** — The latest Xbox thumbstick topper looks like a goal post ([source](https://www.engadget.com/2176671/the-latest-xbox-thumbstick-topper-looks-like-a-goal-post/))

@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-08-06T23:55:17.967Z
+modified_date: 2026-08-10T14:54:02.920Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 22
+sources_count: 23
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-08-10** — Google Play adds Venmo as a payment method for apps, games, and more ([source](https://9to5google.com/2026/08/10/google-play-adds-venmo-as-a-payment-method-for-apps-games-and-more/))
 - **2026-08-06** — Ford picks "Fathom" for its affordable truck name, starts at $28,350 ([source](https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/))
 - **2026-08-02** — TechCrunch Mobility: Two roads diverged — for robotaxis ([source](https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/))
 - **2026-05-27** — Google updates Gemini for Home with AI-powered camera automations ([source](https://www.engadget.com/2182342/google-updates-gemini-for-home-with-ai-powered-camera-automations/))

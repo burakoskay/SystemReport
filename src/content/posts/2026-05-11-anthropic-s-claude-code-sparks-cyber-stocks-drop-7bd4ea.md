@@ -1,16 +1,17 @@
 ---
 title: "Anthropic's Claude Code Sparks Cyber Stocks Drop"
 date: 2026-05-11T11:42:37.615Z
-modified_date: 2026-08-06T23:56:47.487Z
+modified_date: 2026-08-10T14:53:57.063Z
 tags: ["cybersecurity","anthropic","ai-security","stock-market","software-vulnerabilities"]
 hero_image: "/hero/2026-05-11-anthropic-s-claude-code-sparks-cyber-stocks-drop-7bd4ea.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "ai security tool interface next to code"
 description: "Anthropic's new AI tool triggers market panic as cybersecurity stocks drop. Explore the implications for AI-driven security."
-sources_count: 13
+sources_count: 14
 author: "priya-raman"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Anthropic plans to expand Claude Code Security’s capabilities: integration wit
 
 ## Updates
 
+- **2026-08-10** — Apple has eight new products to unveil at September event: report ([source](https://9to5mac.com/2026/08/10/apple-has-eight-new-products-to-unveil-at-september-event-report/))
 - **2026-08-06** — I hope Galaxy Z Flip 8 isn’t the last of its kind, but I can see why it might ([source](https://9to5google.com/2026/08/06/samsung-galaxy-z-flip-8/))
 - **2026-07-31** — I flagged two research papers for fake authors and both were accepted as orals ([source](https://geospatialml.com/posts/reviewing-ai-slop/))
 - **2026-05-22** — Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year ([source](https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus))

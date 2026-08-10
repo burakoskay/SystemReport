@@ -1,16 +1,17 @@
 ---
 title: "Samsung Shifts Galaxy Buds to Clip‑Style Open‑Ear Design"
 date: 2026-05-22T04:25:42.517Z
-modified_date: 2026-08-09T06:44:27.526Z
+modified_date: 2026-08-10T14:53:45.315Z
 tags: ["samsung","earbuds","ai"]
 hero_image: "/hero/2026-05-22-samsung-shifts-galaxy-buds-to-clip-style-open-ear-design-1817ed.jpg"
 hero_image_credit_name: "SpotwizardLee"
 hero_image_credit_url: "https://www.pexels.com/@spotwizardlee-35777904"
 visual_keyword: "close-up of sleek clip-on wireless earbuds on a white background"
 description: "Samsung's upcoming Galaxy Buds adopt a clip‑on form factor and on‑device AI translation, while safety concerns and market pressure shape the earbuds race."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 Samsung’s next Galaxy Buds will ditch the in‑ear design for a clip‑style open‑ear form factor, a move that could reshape how we think about true wireless audio.
@@ -47,4 +48,5 @@ The next few months will reveal whether Samsung can translate hype into hardware
 
 ## Updates
 
+- **2026-08-10** — Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch ([source](https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/))
 - **2026-08-09** — Retraction: The App Store Rejection of the Week That Was a Correct Rejection ([source](https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week))
