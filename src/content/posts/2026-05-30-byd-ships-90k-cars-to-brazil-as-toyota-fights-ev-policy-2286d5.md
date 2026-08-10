@@ -1,18 +1,20 @@
 ---
 title: "BYD ships 90K cars to Brazil as Toyota fights EV policy"
 date: 2026-05-30T06:54:58.310Z
+modified_date: 2026-08-10T18:49:01.322Z
 tags: ["ev","byd","toyota","usps"]
 hero_image: "/hero/2026-05-30-byd-ships-90k-cars-to-brazil-as-toyota-fights-ev-policy-2286d5.jpg"
 hero_image_credit_name: "Nizar Firmansyah"
 hero_image_credit_url: "https://www.pexels.com/@rfniza"
 visual_keyword: "electric delivery trucks charging at a depot"
 description: "BYD's Brazil boom, Toyota's anti‑EV lobbying, and the USPS's new electric fleet reveal the clash shaping the EV market."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-30-byd-ships-90k-cars-to-brazil-as-toyota-fights-ev-policy-2286d5.mp3"
 audio_bytes: 667525
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 BYD shipped 89,637 vehicles to Brazil in the first quarter of 2026 while Toyota quietly lobbies Congress to slow the United States' electric‑vehicle push, and the U.S. Postal Service awarded contracts for 9,250 battery‑electric delivery trucks. The three moves expose a market split between aggressive export growth, entrenched legacy interests, and a public agency scrambling to meet federal clean‑vehicle mandates.
 
@@ -61,3 +63,7 @@ Consumers and fleets alike are forced to navigate these contradictions. A Brazil
 ## What to watch next
 
 Track the next round of Toyota‑led lobbying meetings as Congress debates the Biden administration's EV incentive package. Watch BYD's Q2 export report for signs of whether the Brazil surge sustains momentum or plateaus. Follow USPS's delivery of the first Ford E‑Transits in December and the rollout of charging stations to gauge how quickly a federal fleet can transition to full electrification.
+
+## Updates
+
+- **2026-08-10** — Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak ([source](https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/))

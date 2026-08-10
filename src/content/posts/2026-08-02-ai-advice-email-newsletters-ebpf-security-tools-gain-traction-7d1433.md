@@ -1,15 +1,17 @@
 ---
 title: "AI advice, email newsletters, eBPF security tools gain traction"
 date: 2026-08-02T06:33:13.904Z
+modified_date: 2026-08-10T18:48:39.774Z
 tags: ["ai","security","saas","email"]
 hero_image: "/hero/2026-08-02-ai-advice-email-newsletters-ebpf-security-tools-gain-traction-7d1433.jpg"
 hero_image_credit_name: "Rodrigo Santos"
 hero_image_credit_url: "https://www.pexels.com/@rsantos1232"
 visual_keyword: "laptop screen showing code, an email newsletter preview, and a financial graph"
 description: "A look at MIT's AI finance findings, the TogetherLetters newsletter service, and Jibril's eBPF security platform, and why lightweight tools matter."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## AI advice shows promise when users ask the right questions
 
@@ -45,6 +47,9 @@ All three cases illustrate a market appetite for solutions that sit on top of ex
 
 Track the adoption metrics of TogetherLetters as it expands beyond the free‑tier limit; a surge in paid subscriptions would signal enterprise interest in email‑centric newsletters. Monitor Jibril’s open‑source contributions and any benchmark releases that compare its CPU usage to competing agents. Finally, watch for follow‑up studies from MIT or other institutions that quantify how prompt engineering improves AI‑driven financial advice. These data points will reveal whether the early enthusiasm translates into sustained usage.
 
+## Updates
+
+- **2026-08-10** — The new iOS 27 beta further expands Siri voice customization options ([source](https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/))
 
 [^1]: [mit.edu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9gmTlKzt3uSZ1bkOLIpV6kpQ83qzpEDWshseis-mnOZroF1yhsPANfX539qGExdJieq7FC95EGke-mkrRNJTrsEm20MYNHQVoIDGRstywFHJzRfSloHYcJn_TQhJbnAgNB3rg8NUbyAXKCyF_W5ILkWfUmr6f9I5x55ZPdtXlPFo2kSE7iqojknQCXUycb82VVF7dRBp0p3SQ14x6Bsmt8KQBbr3WLi83pAC4MGZZ-VP-uPo=)
 [^2]: [mit.edu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAF1To34X-0XAGTSDDKbNBd47lGTeqwdWXz6VzQ3-HjwTX1Vdho7T_lw2FjZ64hGwKAzX3KoE9Dvku4qmh5e0K6lL7NCdUHOiAFHF71CukLQFuDletrPlKYvYyIaqn_JIUIRhD-8b1S8Z3swfT8m5N_V4ldl7fUot9o7d1nxD02e6496X7lsIoGvBv4qb9t80=)

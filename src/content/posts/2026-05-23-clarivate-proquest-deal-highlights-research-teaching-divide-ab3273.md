@@ -1,15 +1,17 @@
 ---
 title: "Clarivate‑ProQuest Deal Highlights Research‑Teaching Divide"
 date: 2026-05-23T19:27:50.532Z
+modified_date: 2026-08-10T18:48:28.823Z
 tags: ["research","higher-education","acquisition","science-policy"]
 hero_image: "/hero/2026-05-23-clarivate-proquest-deal-highlights-research-teaching-divide-ab3273.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "conference room with data servers and university lecture hall juxtaposed"
 description: "Clarivate's $5.3 billion acquisition of ProQuest underscores the growing clout of research data firms while a new study shows universities still treat research and teaching as a zero‑sum game."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Clarivate's $5.3 B Bet on Research Data
 Clarivate announced a definitive agreement to acquire ProQuest for $5.3 billion on May 17, 2021. The deal combines a $4 billion cash payment with $1.3 billion of equity, and it is expected to close in Q3 2021 pending regulatory approval. Clarivate expects the transaction to add more than $875 million in revenue and over $350 million of adjusted EBITDA after cost synergies, making the deal accretive to its diluted earnings for 2022.
@@ -33,3 +35,7 @@ The stakes become clearer when you consider that the United States spends a disp
 
 ## What to Watch
 Track Clarivate’s integration roadmap over the next twelve months, especially any pricing changes for university licences. Simultaneously, monitor whether faculty‑governance bodies respond to the NPG findings by revising hiring policies or workload models. A shift toward balanced evaluation metrics could temper the research‑first bias that the Clarivate‑ProQuest deal appears to reinforce. The next round of university budget allocations and tenure‑track criteria will reveal whether the industry’s push for data dominance will finally translate into better classroom outcomes.
+
+## Updates
+
+- **2026-08-10** — What to expect from Google’s 2026 Pixel hardware launch event ([source](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event))

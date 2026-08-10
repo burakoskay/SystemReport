@@ -1,18 +1,20 @@
 ---
 title: "Grafana Labs Hit by Hackers, Refuses to Pay Ransom"
 date: 2026-05-18T15:45:34.138Z
+modified_date: 2026-08-10T18:48:23.323Z
 tags: ["cybersecurity","open-source software","hacking incident"]
 hero_image: "/hero/2026-05-18-grafana-labs-hit-by-hackers-refuses-to-pay-ransom-7330d1.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Grafana Labs, an open-source tool maker, says hackers stole its codebase and threatened to publish it unless a ransom was paid. The company refused to pay."
-sources_count: 10
-author: "priya-raman"
+sources_count: 11
 audio_path: "/audio/2026-05-18-grafana-labs-hit-by-hackers-refuses-to-pay-ransom-7330d1.mp3"
 audio_bytes: 581635
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Hackers Strike Grafana Labs
@@ -63,3 +65,6 @@ In the future, it is likely that companies will need to prioritize cybersecurity
 
 Companies such as Toyota and BMW have shown that even with strong sales and profits, cybersecurity threats can still be a major concern. The incident at Grafana Labs highlights the need for all companies to prioritize cybersecurity and take proactive steps to protect their code and users. By learning from incidents like this, companies can better prepare themselves for the potential risks and consequences of a cyber attack.
 
+## Updates
+
+- **2026-08-10** — YouTube now requires creators to have twice as many watch hours to start earning money ([source](https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/))
