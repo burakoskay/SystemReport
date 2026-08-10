@@ -1,15 +1,17 @@
 ---
 title: "SpaceX Shifts Launch Focus to Vandenberg Space Force Base"
 date: 2026-05-06T23:00:52.638Z
+modified_date: 2026-08-10T03:48:39.037Z
 tags: ["spacex","elon-musk","ipo","tesla","mars-colonization"]
 hero_image: "/hero/2026-05-06-spacex-shifts-launch-focus-to-vandenberg-space-force-base-008102.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "rocket launch at Vandenberg Space Force Base"
 description: "SpaceX's strategic pivot to Vandenberg marks a new phase in its launch cadence."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 ## SpaceX's Strategic Shift to Vandenberg
 
@@ -38,3 +40,7 @@ The Mars colonization vision driving SpaceX remains as ambitious as Tesla's clea
 ## What to Watch
 
 The next critical inflection point will be SpaceX's first crewed Starship mission, currently slated for late 2025. This will determine whether the company can maintain its 95% mission success rate while scaling to human-rated spacecraft. Meanwhile, Tesla's Cybertruck production timeline remains a wildcard, with Musk having delayed the vehicle by five years. Both ventures will test whether the IPO's concentrated power structure can sustain long-term innovation without the checks of traditional corporate governance.
+
+## Updates
+
+- **2026-08-10** — Cool URIs Don't Change (1998) ([source](https://www.w3.org/Provider/Style/URI))
