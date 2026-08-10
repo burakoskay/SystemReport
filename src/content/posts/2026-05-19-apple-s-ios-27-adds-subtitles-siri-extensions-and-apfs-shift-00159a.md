@@ -1,15 +1,17 @@
 ---
 title: "Apple's iOS 27 adds subtitles, Siri extensions, and APFS shift"
 date: 2026-05-19T18:29:02.804Z
+modified_date: 2026-08-10T12:55:34.407Z
 tags: ["apple","ios27","siri","apfs"]
 hero_image: "/hero/2026-05-19-apple-s-ios-27-adds-subtitles-siri-extensions-and-apfs-shift-00159a.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "iPhone screen showing generated subtitles and Siri interface"
 description: "iOS 27 brings generated subtitles, a Siri app with third‑party extensions, and a rollout of APFS across iPhones and iPads, while Siri’s AI rollout stalls."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Apple slipped a handful of under‑the‑radar upgrades into iOS 27 that could matter more than any headline feature. Generated subtitles, a Siri app that talks to third‑party chatbots, and a silent migration to APFS all land in September.
 
@@ -42,3 +44,7 @@ Beta testers reported a modest bump in available storage because APFS calculates
 ## What to Watch
 
 Keep an eye on the first iOS 27 beta in June. If the generated subtitles work reliably on a range of video codecs, Apple could set a new baseline for on‑device accessibility. The Siri Extensions marketplace will reveal how quickly third‑party AI agents can gain traction; a surge of high‑quality bots would force Apple to tighten its curation policies. Finally, monitor the iOS 26.5 rollout—any regression in personalization or fallback behavior will shape the narrative around Apple’s AI ambitions ahead of the September launch.
+
+## Updates
+
+- **2026-08-10** — Peer review is overwhelmed—can it survive in the AI era? ([source](https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/))

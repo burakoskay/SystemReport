@@ -1,19 +1,20 @@
 ---
 title: "KOReader Gains 236 Votes on Hacker News"
 date: 2026-07-29T14:03:34.693Z
-modified_date: 2026-07-30T21:01:58.261Z
+modified_date: 2026-08-10T12:55:11.944Z
 tags: ["opensource","performance","linux","ai","security"]
 hero_image: "/hero/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "open-source project logos arranged on a code editor background"
 description: "KOReader, SQLite tuning, Wayland multi‑cursor, Kimi K3 on M1 Max, and Codex Security each drew major attention on Hacker News, sparking deep technical discussion."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.mp3"
 audio_bytes: 719979
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Five distinct projects—KOReader, a SQLite performance guide, a Wayland multi‑cursor demo, a Kimi K3 port to M1 Max, and OpenAI’s Codex Security repository—surfaced on Hacker News this week, drawing hundreds of votes and igniting technical debate.
@@ -56,4 +57,5 @@ Watch for a stable Wayland compositor release that ships multi‑cursor support 
 
 ## Updates
 
+- **2026-08-10** — This great retro-inspired keyboard now comes preassembled ([source](https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review))
 - **2026-07-30** — The loss of Situational Awareness ([source](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks))
