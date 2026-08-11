@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's iPhone App Clues and ChatGPT's Global Reach"
 date: 2026-05-01T03:52:53.015Z
-modified_date: 2026-08-07T07:06:29.051Z
+modified_date: 2026-08-11T22:36:12.948Z
 tags: ["OpenAI","ChatGPT","AI-powered chatbots","iPhone app","tech industry"]
 hero_image: "/hero/2026-05-01-openai-s-iphone-app-clues-and-chatgpt-s-global-reach-6707dc.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered chatbot"
 description: "OpenAI hints at new iPhone app launch, ChatGPT's popularity grows globally"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The success of ChatGPT and OpenAI's iPhone app launch sets the stage for a highl
 
 ## Updates
 
+- **2026-08-11** — ChatGPT and Gemini both just passed 1 billion users ([source](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users))
 - **2026-08-07** — Welcoming the Nepalese Government to Have I Been Pwned ([source](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/))
 - **2026-08-03** — Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark ([source](https://github.com/graham33/nixos-dgx-spark))
 - **2026-05-14** — OpenAI’s Codex is now in the ChatGPT mobile app ([source](https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview))

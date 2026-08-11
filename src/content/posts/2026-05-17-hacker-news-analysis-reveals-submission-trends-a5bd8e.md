@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Analysis Reveals Submission Trends"
 date: 2026-05-17T06:52:30.954Z
+modified_date: 2026-08-11T22:36:24.848Z
 tags: ["Hacker News","Statistical Analysis","Tech Industry"]
 hero_image: "/hero/2026-05-17-hacker-news-analysis-reveals-submission-trends-a5bd8e.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "A statistical analysis of Hacker News submissions reveals trends in user engagement and content popularity."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 ## Hacker News Submissions: A Statistical Analysis
@@ -57,3 +59,7 @@ The statistical analysis of Hacker News submissions provides valuable insights i
 ## What's Next
 
 As Hacker News continues to evolve, it will be interesting to see how the platform adapts to changes in user behavior and technological advancements. Will the platform continue to be a valuable resource for the tech community, or will new platforms emerge to challenge its dominance? One thing is certain: Hacker News remains a significant player in the tech industry, and its influence should not be underestimated.
+
+## Updates
+
+- **2026-08-11** — Government workers can officially waste time scrolling TikTok again ([source](https://www.engadget.com/2235010/government-workers-can-officially-waste-time-scrolling-tiktok-again/))
