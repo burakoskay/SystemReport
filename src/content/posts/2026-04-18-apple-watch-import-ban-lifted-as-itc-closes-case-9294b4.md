@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-08-03T19:24:41.187Z
+modified_date: 2026-08-11T18:56:37.860Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-08-11** — Apple Pay and Wallet leader retiring after two decades at Apple ([source](https://9to5mac.com/2026/08/11/apple-pay-and-wallet-leader-retiring-after-two-decades-at-apple/))
 - **2026-08-03** — The Anbernic RG SP will be available on August 5 ([source](https://www.engadget.com/2229272/anbernic-rg-sp-will-be-available-on-august-5/))
 - **2026-07-30** — Apple spent a record $11.73 billion in R&D during Q3 2026 ([source](https://9to5mac.com/2026/07/30/apple-spent-a-record-11-73-billion-in-rd-during-q3-2026/))
 - **2026-05-30** — Meta is reportedly working on an AI pendant and more smart glasses ([source](https://www.engadget.com/2184224/meta-developing-ai-pendant-more-smart-glass-models/))

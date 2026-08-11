@@ -1,19 +1,20 @@
 ---
 title: "Survival Gear for 80-Mile Mountain Runs"
 date: 2026-05-04T14:15:18.305Z
-modified_date: 2026-06-02T20:55:42.402Z
+modified_date: 2026-08-11T18:56:15.358Z
 tags: ["endurance sports","environmental sustainability","human interaction"]
 hero_image: "/hero/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.jpg"
 hero_image_credit_name: "VANNGO Ng"
 hero_image_credit_url: "https://www.pexels.com/@vanngo-ng-105653827"
 visual_keyword: "mountain run"
 description: "A 10-lb pack for running 80 miles across mountains. Essential gear for survival."
-sources_count: 10
-author: "sam-whitfield"
+sources_count: 11
 audio_path: "/audio/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.mp3"
 audio_bytes: 576201
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ For example, advances in technology could lead to new and innovative products fo
 
 ## Updates
 
+- **2026-08-11** — The budget-friendly Pixel Buds 2a are even cheaper right now ([source](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale))
 - **2026-06-02** — The durable, floatable UE Wonderboom 4 speaker is cheaper than ever ([source](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale))
 - **2026-05-31** — The Mercedes CLA offers great EV specs for an average price ([source](https://www.theverge.com/transportation/940387/mercedes-cla-350-ev-review-price-specs))
 - **2026-05-22** — Gemini app for Mac adding ‘Spark’ agent and voice control this summer ([source](https://9to5google.com/2026/05/22/gemini-mac-spark-control-summer/))

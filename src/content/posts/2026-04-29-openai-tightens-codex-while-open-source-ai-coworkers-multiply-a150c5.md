@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Tightens Codex, While Open‑Source AI Coworkers Multiply"
 date: 2026-04-29T06:37:23.176Z
-modified_date: 2026-07-26T17:11:52.800Z
+modified_date: 2026-08-11T18:56:09.674Z
 tags: ["ai","open-source","devops","coding-tools"]
 hero_image: "/hero/2026-04-29-openai-tightens-codex-while-open-source-ai-coworkers-multiply-a150c5.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "developer using AI coworker on laptop with code and knowledge graph"
 description: "OpenAI bans fantasy references in Codex as a wave of open‑source AI coworkers, skill catalogs, and CI agents reshape developer workflows."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,5 +61,6 @@ Watch for OpenAI’s next prompt update and any public rationale for the creatur
 
 ## Updates
 
+- **2026-08-11** — Another OpenAI executive takes off ([source](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure))
 - **2026-07-26** — Report: Apple and Micron clash before Trump over Chinese memory chips ([source](https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/))
 - **2026-05-06** — Expedia Coupons: 75% Off ([source](https://www.wired.com/story/expedia-coupon/))

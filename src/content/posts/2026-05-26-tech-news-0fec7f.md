@@ -1,16 +1,17 @@
 ---
 title: "Tech News"
 date: 2026-05-26T18:32:45.581Z
-modified_date: 2026-08-04T14:28:37.179Z
+modified_date: 2026-08-11T18:56:04.077Z
 tags: ["Tech News","Audi","Electric Vehicles"]
 hero_image: "/hero/2026-05-26-tech-news-0fec7f.jpg"
 hero_image_credit_name: "Daniel Andraski"
 hero_image_credit_url: "https://www.pexels.com/@daniel-andraski-197681005"
 visual_keyword: "Audi e-tron"
 description: "Recent tech news and updates"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Recent Tech News
@@ -65,4 +66,5 @@ Companies like Tesla and BMW are also investing heavily in electric vehicle tech
 
 ## Updates
 
+- **2026-08-11** — Google’s free streaming service now lets you pick shows and movies to watch ([source](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand))
 - **2026-08-04** — Galaxy Z Fold 8 destroys pre-order record set by the late Note 10, and it isn’t over yet ([source](https://9to5google.com/2026/08/04/galaxy-z-fold-8-series-breaks-pre-order-record/))

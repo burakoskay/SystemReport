@@ -1,18 +1,20 @@
 ---
 title: "NASA's Roman Space Telescope Set for August 30 Launch"
 date: 2026-06-06T15:22:27.784Z
+modified_date: 2026-08-11T18:56:26.640Z
 tags: ["NASA","Roman Space Telescope","Space Exploration"]
 hero_image: "/hero/2026-06-06-nasa-s-roman-space-telescope-set-for-august-30-launch-51c26b.jpg"
 hero_image_credit_name: "Michael Goddard"
 hero_image_credit_url: "https://www.pexels.com/@michael-goddard-213769109"
 visual_keyword: "Roman Space Telescope"
 description: "NASA targets August 30 for launching the Nancy Grace Roman Space Telescope, with 100 times Hubble's field of view."
-sources_count: 12
-author: "ryan-tanaka"
+sources_count: 13
 audio_path: "/audio/2026-06-06-nasa-s-roman-space-telescope-set-for-august-30-launch-51c26b.mp3"
 audio_bytes: 608384
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A New Era in Space Exploration
 
@@ -53,3 +55,7 @@ The Roman Space Telescope is part of a larger effort by NASA to advance our unde
 The Roman Space Telescope's capabilities will complement those of other NASA space telescopes, such as the Hubble Space Telescope and the James Webb Space Telescope. Together, these telescopes will provide scientists with a comprehensive view of the universe, from the formation of the first stars and galaxies to the present day.
 
 The launch of the Roman Space Telescope also highlights the importance of international cooperation in space exploration. The telescope's development and launch were made possible through the collaboration of scientists and engineers from around the world, and it marks a significant achievement in the field of space astronomy.
+
+## Updates
+
+- **2026-08-11** — How the iPhone has changed in the last five years ([source](https://www.engadget.com/2230998/how-iphone-changed-last-five-years/))

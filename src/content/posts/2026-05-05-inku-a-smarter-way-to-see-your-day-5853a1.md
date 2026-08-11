@@ -1,16 +1,17 @@
 ---
 title: "Inku: A Smarter Way to See Your Day"
 date: 2026-05-05T17:56:08.830Z
-modified_date: 2026-08-05T19:22:51.680Z
+modified_date: 2026-08-11T18:56:32.276Z
 tags: ["smart calendar","e-ink","ai companion","productivity","hardware"]
 hero_image: "/hero/2026-05-05-inku-a-smarter-way-to-see-your-day-5853a1.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "e-ink desk calendar with cat avatar"
 description: "E-ink desk calendar with AI insights and a customizable companion avatar hits $249, ships mid-2026"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Inku's success will depend on three things: the quality of its AI companion, the
 
 ## Updates
 
+- **2026-08-11** — 9to5Mac Daily: August 11, 2026 – iOS 27 beta 5, glass iPhone rumors ([source](https://9to5mac.com/2026/08/11/daily-august-11-2026-ios-27/))
 - **2026-08-05** — Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools ([source](https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/))
 - **2026-05-27** — Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes ([source](https://www.wired.com/story/xreal-expands-xbx-its-extra-light-smart-specs/))
 - **2026-05-08** — Apple TV announces new docuseries on UConn women’s basketball team ([source](https://9to5mac.com/2026/05/07/apple-tv-announces-new-docuseries-on-uconn-womens-basketball-team/))

@@ -1,18 +1,20 @@
 ---
 title: "iOS 26.4 Adds Missing Apple Watch Alarm Feature"
 date: 2026-04-28T18:03:40.124Z
+modified_date: 2026-08-11T18:56:21.009Z
 tags: ["ios","apple","security","touch-id","apple-watch"]
 hero_image: "/hero/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone with iOS interface showing Touch ID settings"
 description: "iOS 26.4 introduces an alarm tailored for Apple Watch users, alongside security updates and UI overhauls."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.mp3"
 audio_bytes: 610265
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple Watch owners have waited years for a dedicated alarm feature in iOS — now it’s here. iOS 26.4 quietly ships with a long-missing tool: an alarm system designed specifically for Apple Watch users, while also upgrading security and interface design across the board. The update doesn’t just patch bugs; it reconfigures how Apple thinks about user control and privacy in an era of surveillance and coercion.
 
@@ -35,3 +37,7 @@ The Apple Watch alarm integration is part of this broader design shift. On the w
 Apple’s roadmap shows no immediate slowdown. iOS 19, set for 2025, will supposedly include the biggest UI overhaul since 2013’s iOS 7. Bloomberg’s report hints at a unified design language across iPhone, iPad, and Mac, but also mentions a "Camera app overhaul" — a curious focus given iOS 16’s recent video stabilization improvements. The delay of Apple Intelligence (Siri’s AI rebuild) raises questions about timing: will iOS 19 release with half-baked AI features, or wait until 2025? The answer will shape how users perceive Apple’s ability to compete with Google and OpenAI.
 
 For now, iOS 26.4 is a mixed bag. The Apple Watch alarm fills a glaring gap, but the Touch ID shortcut remains a niche tool. The design changes feel more like a stopgap than a vision. If Apple’s 2024 updates struggle to balance innovation with usability, the real test will be whether iOS 19 can deliver a holistic redesign — or just another patchwork of borrowed ideas.
+
+## Updates
+
+- **2026-08-11** — Apple could help you prove your iPhone photos aren’t deepfakes ([source](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata))
