@@ -1,18 +1,20 @@
 ---
 title: "Kansas City goes all‑Apple as it swaps 30,000 PCs for MacBooks"
 date: 2026-05-21T04:15:21.113Z
+modified_date: 2026-08-11T14:54:07.051Z
 tags: ["kansas city","edtech","apple","education"]
 hero_image: "/hero/2026-05-21-kansas-city-goes-all-apple-as-it-swaps-30-000-pcs-for-macbooks-78e079.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "classroom of students using MacBook laptops in a modern school"
 description: "Kansas City will replace 30,000 Windows and Chromebooks with over 4,500 MacBook Neos, betting on Apple hardware amid a mixed record of ed‑tech experiments."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-21-kansas-city-goes-all-apple-as-it-swaps-30-000-pcs-for-macbooks-78e079.mp3"
 audio_bytes: 625938
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Kansas City’s Apple push
 
@@ -46,3 +48,6 @@ Collectively, these startups highlight a pattern: bold ideas meet stubborn reali
 
 Kansas City’s district will need to track device health, app adoption rates, and teacher feedback throughout the first semester. The next data point to watch is whether the district pairs the MacBooks with a vetted suite of apps that address real classroom pain points. If adoption stalls, the district may reconsider its all‑Apple stance or look for alternative software partners. Future reports on usage statistics and support costs will reveal whether the hardware investment translates into measurable learning gains.
 
+## Updates
+
+- **2026-08-11** — Why your Amazon order confirmation emails have become so unhelpful ([source](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data))

@@ -1,15 +1,17 @@
 ---
 title: "Anthropic Raises $65B, Nears $1T Valuation"
 date: 2026-05-29T04:07:23.512Z
+modified_date: 2026-08-11T14:54:11.636Z
 tags: ["AI","Anthropic","funding"]
 hero_image: "/hero/2026-05-29-anthropic-raises-65b-nears-1t-valuation-8a3116.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic closes $65 billion Series H round at $965 billion post-money valuation ahead of highly anticipated IPO."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Anthropic Closes $65B Series H Round
@@ -44,3 +46,6 @@ The company's future plans will likely have a significant impact on the AI secto
 
 As Anthropic continues to develop its AI technology, it is likely to have a significant impact on various industries. For example, in the healthcare sector, Anthropic's AI technology has the potential to enable more accurate diagnoses and personalized treatment plans. In the finance sector, Anthropic's AI technology has the potential to enable more efficient and effective risk management and portfolio optimization. However, as Anthropic's AI technology continues to evolve, it will be important to consider the potential risks and challenges associated with its development and deployment.
 
+## Updates
+
+- **2026-08-11** — Bumble now lets men make the first move ([source](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update))

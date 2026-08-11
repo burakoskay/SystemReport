@@ -1,18 +1,20 @@
 ---
 title: "Snapchat Integrates Spotify for Real-Time Music Sharing"
 date: 2026-07-27T14:20:13.324Z
+modified_date: 2026-08-11T14:53:53.445Z
 tags: ["Snapchat","Spotify","Music Streaming"]
 hero_image: "/hero/2026-07-27-snapchat-integrates-spotify-for-real-time-music-sharing-52bcdd.jpg"
 hero_image_credit_name: "Narin Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@narin-chauhan-295714705"
 visual_keyword: "Music Sharing"
 description: "Share Spotify listening activity with friends"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-27-snapchat-integrates-spotify-for-real-time-music-sharing-52bcdd.mp3"
 audio_bytes: 575992
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Real-Time Music Sharing
 Snapchat users can share their Spotify listening activity in real time. Users link their Spotify accounts, choose who can see their activity, and start sharing. This feature allows for a new level of social interaction, enabling friends to discover new music and discuss their listening habits.
@@ -34,3 +36,7 @@ Prior to this integration, music sharing on social media platforms was limited. 
 
 ## What's Next
 Snapchat users can now share their Spotify listening activity in real time. The company has not announced a rollout timeline or discussed beta testing status. As the feature becomes more widely available, it is likely to have a significant impact on the music streaming industry and social media landscape. The success of this integration will depend on user adoption and the company's ability to maintain user trust and provide a seamless experience.
+
+## Updates
+
+- **2026-08-11** — Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations ([source](https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/))

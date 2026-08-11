@@ -1,7 +1,7 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-modified_date: 2026-06-02T20:56:17.790Z
+modified_date: 2026-08-11T14:54:16.137Z
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
@@ -10,6 +10,7 @@ visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ The tech industry is witnessing significant changes, with major players like Sam
 
 ## Updates
 
+- **2026-08-11** — Samsung says a hearing aid feature is coming to Galaxy Buds later this year ([source](https://www.engadget.com/2234489/samsung-says-a-hearing-aid-feature-is-coming-to-galaxy-buds-later-this-year/))
 - **2026-06-02** — Today’s Android app deals and freebies: LIMBO, Armed Emeth, Thronefall, more ([source](https://9to5toys.com/2026/06/02/today-android-app-deals-armed-emeth-thronefall/))
 - **2026-06-01** — Monday’s Android app deals and freebies: House of Da Vinci 2, Deus Ex GO, Hitman GO, Thronefall, more ([source](https://9to5toys.com/2026/06/01/monday-android-app-deals-free-house-vinci-deus-ex-go-hitman/))
 - **2026-05-29** — Friday’s Android app deals and freebies: LEGO Bricktales, Boxville, House of Da Vinci, more ([source](https://9to5toys.com/2026/05/29/friday-android-app-deals-lego-house-da-vinci/))
