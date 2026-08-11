@@ -1,18 +1,20 @@
 ---
 title: "Spotify adds narrated magazines while wearables and Macs shift"
 date: 2026-05-26T15:54:00.375Z
+modified_date: 2026-08-11T20:38:40.631Z
 tags: ["spotify","wearable","gogopro","macbook","technews"]
 hero_image: "https://images.pexels.com/photos/6749963/pexels-photo-6749963.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
 hero_image_credit_name: "Oladimeji Ajegbile"
 hero_image_credit_url: "https://www.pexels.com/@diimejii"
 visual_keyword: "person listening to narrated magazine on headphones beside a sleek laptop"
 description: "Spotify now streams narrated magazine articles, while Google, GoPro, and Apple unveil new hardware that could reshape how we consume media."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-26-spotify-adds-narrated-magazines-while-wearables-and-macs-shift-be782f.mp3"
 audio_bytes: 585396
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Spotify is turning magazine reading into a hands‑free habit by adding narrated articles to its app. The move deepens its push beyond music into a broader audio ecosystem.
 
@@ -45,3 +47,7 @@ The March refresh introduced incremental performance gains, but the rumored over
 ## What to watch
 
 Track Spotify’s partnership announcements with magazine publishers to gauge how quickly the catalog expands. Keep an eye on Fitbit Air’s pricing rollout and adoption metrics, especially in markets where low‑cost health tracking is gaining traction. Watch GoPro’s release schedule and pricing tiers to see if the premium sensor justifies the cost for mainstream creators. Finally, mark Apple’s anticipated launch event later this year for concrete specs on the MacBook Pro overhaul, which could set the performance baseline for professional laptops in 2027.
+
+## Updates
+
+- **2026-08-11** — Uber surprised robotics company Serve by selling its entire stake ([source](https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/))

@@ -1,18 +1,20 @@
 ---
 title: "Privacy, Data, and Tech Fatigue in 2026"
 date: 2026-05-29T16:02:42.170Z
+modified_date: 2026-08-11T20:38:50.109Z
 tags: ["privacy","automotive","data-ethics","tech-retirement"]
 hero_image: "/hero/2026-05-29-privacy-data-and-tech-fatigue-in-2026-ee0cad.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "abstract network nodes with privacy shield overlay"
 description: "Tech innovations and privacy concerns collide as users retreat from digital ecosystems."
-sources_count: 15
-author: "david-okafor"
+sources_count: 16
 audio_path: "/audio/2026-05-29-privacy-data-and-tech-fatigue-in-2026-ee0cad.mp3"
 audio_bytes: 675676
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Hackers and Privacy Screens
 
@@ -37,3 +39,7 @@ This trend mirrors the 2025-2026 "Digital Sabbatical" movement, where 12% of U.S
 The 2026-05 FTC hearing on vehicle data privacy will test whether regulators can enforce data deletion. The hearing centers on General Motors’ Onstar 2.0, which stores 24 months of location history. Meanwhile, the 2026-06 launch of Apple’s rumored "Privacy Compute Engine" could shift mobile security from encryption to hardware-level isolation. If the chip blocks cross-app data access, it might push Android to adopt similar architecture by Q4. Developers should track the EU’s proposed 2026-07 "Right to Digital Amnesia" bill, which would let users erase their digital footprints from 82% of major platforms.
 
 The 2026-07 Hugging Face AI Summit will present a new open-source tool for generating synthetic datasets. This could reduce the need for real user data in training models, addressing 34% of current privacy concerns in machine learning. For now, tech’s privacy solutions remain a tug-of-war between innovation speed and user trust, with 2026’s offline migration showing that disconnection is no longer a fringe option.
+
+## Updates
+
+- **2026-08-11** — Apple in talks to acquire streaming rights for golf’s Open Championship: report ([source](https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/))
