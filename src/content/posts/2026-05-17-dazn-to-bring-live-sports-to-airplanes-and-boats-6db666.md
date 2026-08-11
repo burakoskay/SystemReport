@@ -1,16 +1,17 @@
 ---
 title: "DAZN to Bring Live Sports to Airplanes and Boats"
 date: 2026-05-17T13:44:07.643Z
-modified_date: 2026-05-29T15:51:37.470Z
+modified_date: 2026-08-11T01:13:21.735Z
 tags: ["DAZN","Live Sports Streaming","In-Flight Entertainment"]
 hero_image: "/hero/2026-05-17-dazn-to-bring-live-sports-to-airplanes-and-boats-6db666.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "airplane"
 description: "DAZN plans to launch live sports streaming for travelers on airplanes and boats in 2027, addressing a pain point for sports fans."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ DAZN's move into live sports streaming on airplanes and boats is a bold step tha
 
 ## Updates
 
+- **2026-08-11** — Ars Live: Ross Scott discusses the Stop Killing Games movement ([source](https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/))
 - **2026-05-29** — Trump’s mass deportations are only possible with racial profiling ([source](https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations))

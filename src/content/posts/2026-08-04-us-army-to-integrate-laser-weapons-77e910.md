@@ -1,18 +1,20 @@
 ---
 title: "US Army to Integrate Laser Weapons"
 date: 2026-08-04T17:43:01.941Z
+modified_date: 2026-08-11T01:13:16.022Z
 tags: ["US Army","Laser Weapons","Directed Energy"]
 hero_image: "/hero/2026-08-04-us-army-to-integrate-laser-weapons-77e910.jpg"
 hero_image_credit_name: "Opt Lasers from Poland"
 hero_image_credit_url: "https://www.pexels.com/@optlasers"
 visual_keyword: "Laser"
 description: "Pentagon signs contract for Enduring High Energy Lasers"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-04-us-army-to-integrate-laser-weapons-77e910.mp3"
 audio_bytes: 615489
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Directed Energy Weapons
 The Pentagon is poised to sign a contract for 'Enduring High Energy Lasers', making directed energy weapons an official part of the US Army's arsenal. This move is a response to the growing drone threat.
@@ -30,3 +32,7 @@ The Enduring High Energy Lasers contract is focused on the development of high-e
 The concept of directed energy weapons has been around for decades, with the US military first experimenting with laser technology in the 1960s. However, it wasn't until recent years that the technology had advanced enough to make it a viable option for military use. The development of directed energy weapons has been driven by the need for more precise and efficient means of engaging targets, as well as the increasing threat posed by drones and other unmanned aerial vehicles.
 ## Downstream Implications
 The integration of laser weapons into the US Army's arsenal is likely to have significant downstream implications. The use of directed energy weapons has the potential to change the way that military forces approach combat, offering a more precise and efficient means of engaging targets. The development of laser weapons is also likely to have implications for the defense industry, as companies work to develop and market new directed energy systems. The contract is also likely to accelerate the development of counter-drone technologies, as the US Army works to stay ahead of the evolving threat.
+
+## Updates
+
+- **2026-08-11** — Itadakimasu: A word you say to the food, not the cook ([source](https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the))
