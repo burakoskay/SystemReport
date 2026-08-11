@@ -1,16 +1,17 @@
 ---
 title: "Nvidia Bets $150B on Taiwan as Trump's AI Hub Plan Backfires"
 date: 2026-05-27T22:08:09.238Z
-modified_date: 2026-06-05T20:01:49.535Z
+modified_date: 2026-08-11T10:46:17.050Z
 tags: ["AI","Nvidia","Taiwan","semiconductors"]
 hero_image: "/hero/2026-05-27-nvidia-bets-150b-on-taiwan-as-trump-s-ai-hub-plan-backfires-7cec24.jpg"
 hero_image_credit_name: "UMA media"
 hero_image_credit_url: "https://www.pexels.com/@uma-media-2149408028"
 visual_keyword: "Nvidia"
 description: "Nvidia commits $150B to Taiwan, a move seen as a setback to Trump's plans to make the US an AI hub."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ The global AI landscape is rapidly evolving, with various countries and companie
 
 ## Updates
 
+- **2026-08-11** — Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food ([source](https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/))
 - **2026-06-05** — What happens when your phone is confiscated at the airport ([source](https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists))
