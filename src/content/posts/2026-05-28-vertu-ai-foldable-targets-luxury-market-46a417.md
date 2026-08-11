@@ -1,16 +1,17 @@
 ---
 title: "Vertu AI Foldable Targets Luxury Market"
 date: 2026-05-28T10:13:21.697Z
-modified_date: 2026-08-02T16:54:19.445Z
+modified_date: 2026-08-11T16:53:34.735Z
 tags: ["Vertu","Samsung","Wearable Technology"]
 hero_image: "/hero/2026-05-28-vertu-ai-foldable-targets-luxury-market-46a417.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Foldable"
 description: "Vertu launches AI foldable, Samsung tests Galaxy Watch"
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ The future of wearable technology is likely to be shaped by advancements in sens
 
 ## Updates
 
+- **2026-08-11** — England and Wales ban Meta Glasses from courtrooms ([source](https://www.engadget.com/2234606/england-and-wales-ban-meta-glasses-from-courtrooms/))
 - **2026-08-02** — These App Store hidden gems prove there’s still room for great software in the AI era ([source](https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/))
 - **2026-07-30** — The Cold Email ([source](https://zachholman.com/posts/cold-email))
