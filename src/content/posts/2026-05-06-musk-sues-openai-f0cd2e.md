@@ -1,18 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-05-06T03:37:00.843Z
+modified_date: 2026-08-11T12:51:04.583Z
 tags: ["AI","OpenAI","Elon Musk","Lawsuit"]
 hero_image: "/hero/2026-05-06-musk-sues-openai-f0cd2e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Artificial Intelligence"
 description: "Elon Musk sues OpenAI over alleged breach of nonprofit mission"
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-06-musk-sues-openai-f0cd2e.mp3"
 audio_bytes: 613818
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Lawsuit
 Elon Musk is suing OpenAI, its co-founders Sam Altman and Greg Brockman, alleging the company has breached its original nonprofit mission. Musk claims OpenAI has shifted its focus to commercializing its AI research, rather than making it freely available to the public.
@@ -51,3 +53,7 @@ The shift in OpenAI's focus has been driven by the company's partnership with Mi
 
 ## What to Watch
 The outcome of the lawsuit will be closely watched by the AI industry and the wider public. The case has the potential to set a precedent for the development of AI and the role of nonprofit organizations in the field. As the trial progresses, it will be important to monitor the developments and consider the implications for the future of AI. The key decision to watch will be the court's ruling on the alleged breach of OpenAI's nonprofit mission and the potential damages to be awarded. The outcome will likely have significant implications for the AI industry and the future of OpenAI.
+
+## Updates
+
+- **2026-08-11** — Joby flexes military muscle with $500 million defense acquisition ([source](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol))

@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-08-04T17:41:40.810Z
+modified_date: 2026-08-11T12:50:47.510Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-08-11** — Ranking the Best Red-Light Therapy Masks and LED Devices of 2026 ([source](https://www.wired.com/story/led-face-masks-and-red-light-therapy/))
 - **2026-08-04** — iOS 27 gives FaceTime huge upgrade with this powerful new feature ([source](https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/))
 - **2026-05-29** — ChatGPT for iOS and Android can now start Codex work on Windows ([source](https://9to5mac.com/2026/05/29/chatgpt-for-ios-can-now-start-codex-work-on-windows/))
 - **2026-05-18** — Sony raises PS Plus prices for one- and three-month subscriptions ([source](https://www.engadget.com/2175751/sony-raises-ps-plus-prices-for-one-and-three-month-subscriptions/))

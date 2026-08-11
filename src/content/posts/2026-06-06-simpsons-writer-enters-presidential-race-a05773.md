@@ -1,18 +1,20 @@
 ---
 title: "Simpsons Writer Enters Presidential Race"
 date: 2026-06-06T10:11:06.549Z
+modified_date: 2026-08-11T12:50:41.854Z
 tags: ["US Politics","Presidential Election","Celebrity Politics"]
 hero_image: "/hero/2026-06-06-simpsons-writer-enters-presidential-race-a05773.jpg"
 hero_image_credit_name: "Apunto Group Agencia de publicidad"
 hero_image_credit_url: "https://www.pexels.com/@apunto-group-agencia-de-publicidad-53086916"
 visual_keyword: "Dan Greaney"
 description: "Dan Greaney, a Simpsons writer, holds first presidential campaign rally in LA, citing concerns over American democracy."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-06-simpsons-writer-enters-presidential-race-a05773.mp3"
 audio_bytes: 611310
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Dan Greaney Launches Presidential Campaign
@@ -57,3 +59,6 @@ In the past, there have been instances where candidates have faced challenges re
 
 The rise of non-traditional candidates like Greaney could have broader implications for American democracy. It could signal a shift towards a more participatory and inclusive political system, where individuals from diverse backgrounds feel empowered to run for office. Conversely, it could also lead to increased polarization and fragmentation, as candidates with unconventional backgrounds challenge traditional power structures.
 
+## Updates
+
+- **2026-08-11** — What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/))
