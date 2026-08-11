@@ -1,19 +1,20 @@
 ---
 title: "Internet Archive Hit by Catastrophic Security Breach"
 date: 2026-05-09T14:57:27.864Z
-modified_date: 2026-08-07T20:35:09.945Z
+modified_date: 2026-08-11T08:47:53.566Z
 tags: ["cybersecurity","Internet Archive","DDoS attack"]
 hero_image: "/hero/2026-05-09-internet-archive-hit-by-catastrophic-security-breach-9f0735.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "The Internet Archive has suffered a catastrophic security breach, with a DDoS attack and defacement of its website via a JavaScript library."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-09-internet-archive-hit-by-catastrophic-security-breach-9f0735.mp3"
 audio_bytes: 597308
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ In conclusion, the Internet Archive's security breach is a reminder of the impor
 
 ## Updates
 
+- **2026-08-11** — As AI eats the web, the internet’s collective memory is disappearing ([source](https://thewalrus.ca/google-search-is-dying/))
 - **2026-08-07** — Watching Roku’s AI channel is like eating from a trough ([source](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel))
 - **2026-06-06** — 82-0 is the best basketball game, to hell with NBA 2K ([source](https://www.theverge.com/games/944975/82-0-perfect-basketball-stats-game))
 - **2026-06-05** — How the Internet Crosses Oceans Without You Noticing ([source](https://www.engadget.com/2187834/how-transatlantic-internet-cables-work/))
