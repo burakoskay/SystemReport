@@ -1,19 +1,20 @@
 ---
 title: "Meta faces lawsuits and DMA push as WhatsApp opens to rivals"
 date: 2026-05-22T20:00:06.108Z
-modified_date: 2026-06-03T16:58:53.911Z
+modified_date: 2026-08-12T20:38:23.316Z
 tags: ["meta","whatsapp","digital markets act","privacy lawsuits"]
 hero_image: "/hero/2026-05-22-meta-faces-lawsuits-and-dma-push-as-whatsapp-opens-to-rivals-a605c1.jpg"
 hero_image_credit_name: "Anton"
 hero_image_credit_url: "https://www.pexels.com/@anton-8100"
 visual_keyword: "WhatsApp and Messenger chat bubbles merging with third-party app icons"
 description: "Meta battles Texas and Indian courts while gearing up for EU interoperability, reshaping WhatsApp and Messenger for third‑party chats."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-22-meta-faces-lawsuits-and-dma-push-as-whatsapp-opens-to-rivals-a605c1.mp3"
 audio_bytes: 602115
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Meta is fighting lawsuits in Texas and India even as it rewrites how WhatsApp and Messenger talk to rival apps. The clash shows how regulators are forcing the company to choose between legal risk and product change.
@@ -58,4 +59,5 @@ The next few months will reveal whether Meta can turn its interoperability roadm
 
 ## Updates
 
+- **2026-08-12** — The next big indie game publisher is taking some exciting swings ([source](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition))
 - **2026-06-03** — Greg Bovino Was the Star at a European Remigration Conference ([source](https://www.wired.com/story/greg-bovino-was-the-star-at-a-european-remigration-conference/))

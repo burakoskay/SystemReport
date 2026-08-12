@@ -1,16 +1,17 @@
 ---
 title: "Code, History, and Reality Converge"
 date: 2026-04-18T01:10:43.528Z
-modified_date: 2026-08-06T14:24:20.872Z
+modified_date: 2026-08-12T20:38:17.423Z
 tags: ["coding","history","cybersecurity"]
 hero_image: "/hero/2026-04-18-code-history-and-reality-converge-d35300.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Exploring connections between coding, history, and current events"
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ These stories, though disparate, share a common thread – a pursuit of understa
 
 ## Updates
 
+- **2026-08-12** — Eddy Cue said the thing we wanted to hear on future Ted Lasso seasons ([source](https://9to5mac.com/2026/08/12/eddy-cue-said-the-thing-we-wanted-to-hear-on-future-ted-lasso-seasons/))
 - **2026-08-06** — Dolby Vision 2 will be available first on some 2026 Hisense TVs ([source](https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs))
 - **2026-05-07** — Tome, another Goodreads book-tracker rival, shuts down ([source](https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/))
 - **2026-04-26** — The Stanford freshmen who want to rule the world . . . will probably read this book and try even harder ([source](https://techcrunch.com/2026/04/26/the-stanford-freshmen-who-want-to-rule-the-world-will-probably-read-this-book-and-try-even-harder/))

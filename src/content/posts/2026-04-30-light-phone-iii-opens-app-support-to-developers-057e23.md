@@ -1,16 +1,17 @@
 ---
 title: "Light Phone III opens app support to developers"
 date: 2026-04-30T19:56:14.657Z
-modified_date: 2026-08-04T17:41:35.334Z
+modified_date: 2026-08-12T20:38:35.343Z
 tags: ["minimalism","retro-gaming","gaming-monitors"]
 hero_image: "/hero/2026-04-30-light-phone-iii-opens-app-support-to-developers-057e23.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "A swiveling retro handheld gaming device displayed beside a minimalist smartphone and a large curved monitor with LED backlighting"
 description: "Minimalist phones, retro handhelds, and AI-upscaling monitors target niche markets."
-sources_count: 13
+sources_count: 14
 author: "david-okafor"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Track Light Phone’s SDK adoption rate—will developers build tools that enhan
 
 ## Updates
 
+- **2026-08-12** — Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index ([source](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis))
 - **2026-08-04** — iPhone 18 Pro will have three upgrades that have been rumored for years ([source](https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/))
 - **2026-06-04** — The LLM warnings Google fired Timnit Gebru over have all come true ([source](https://www.tumblr.com/dreaminginthedeepsouth/817865966907228160/darren-oconnor-timnit-gebru-was-fired-from))
 - **2026-05-27** — AI tried to bury this politician — now people have actually heard of him ([source](https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12))

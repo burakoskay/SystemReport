@@ -1,16 +1,17 @@
 ---
 title: "Plug‑in hybrids fall far short of official fuel claims"
 date: 2026-05-21T22:05:58.476Z
-modified_date: 2026-07-29T13:57:26.577Z
+modified_date: 2026-08-12T20:38:05.598Z
 tags: ["plug-in hybrids","europe","emissions"]
 hero_image: "/hero/2026-05-21-plug-in-hybrids-fall-far-short-of-official-fuel-claims-8f666b.jpg"
 hero_image_credit_name: "paul"
 hero_image_credit_url: "https://www.pexels.com/@paul-2332870"
 visual_keyword: "urban street with mixed electric and gasoline cars, blurred traffic, overcast sky"
 description: "European data shows real‑world PHEV fuel use is three to five times higher than lab tests, prompting new Euro 7G rules and tougher incentives."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Real‑world fuel use dwarfs lab numbers
@@ -52,4 +53,5 @@ Stakeholders—from fleet managers to climate policymakers—should track the up
 
 ## Updates
 
+- **2026-08-12** — I can’t unsee the reason Pixel 11 Pro Fold is thinner, but it’s for the best [Gallery] ([source](https://9to5google.com/2026/08/12/google-pixel-11-pro-fold-thinner/))
 - **2026-07-29** — Apple Upgrade Isn’t the Best Way to Buy an iPhone ([source](https://www.wired.com/story/apple-products-are-all-just-subscription-services-now/))

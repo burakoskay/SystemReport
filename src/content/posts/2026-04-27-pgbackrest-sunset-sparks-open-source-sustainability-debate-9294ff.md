@@ -1,16 +1,17 @@
 ---
 title: "pgBackRest sunset sparks open‑source sustainability debate"
 date: 2026-04-27T14:11:16.430Z
-modified_date: 2026-05-01T17:01:55.161Z
+modified_date: 2026-08-12T20:37:59.538Z
 tags: ["open-source","maintenance","community","postgres","telemetry"]
 hero_image: "/hero/2026-04-27-pgbackrest-sunset-sparks-open-source-sustainability-debate-9294ff.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "developer reviewing code on laptop with open-source project logos"
 description: "The pgBackRest backup tool is now unmaintained, prompting a wider look at how niche open‑source projects survive."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Operators running pgBackRest should audit their backup pipelines this quarter an
 
 ## Updates
 
+- **2026-08-12** — The Pixel 11 series is still eSIM-only in the US, just in case you forgot ([source](https://9to5google.com/2026/08/12/the-pixel-11-series-is-still-esim-only-in-the-us-just-in-case-you-forgot/))
 - **2026-05-01** — Players from the NBA, NFL, and MLB call for a ban on betting &#8216;unders&#8217; ([source](https://www.theverge.com/entertainment/922244/nba-nfl-mlb-prediction-market-unders-bets))
 - **2026-04-28** — A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform ([source](https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/))
