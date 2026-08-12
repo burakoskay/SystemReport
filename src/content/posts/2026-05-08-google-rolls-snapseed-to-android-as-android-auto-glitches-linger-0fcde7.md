@@ -1,15 +1,17 @@
 ---
 title: "Google rolls Snapseed to Android as Android Auto glitches linger"
 date: 2026-05-08T19:42:41.097Z
+modified_date: 2026-08-12T18:54:46.298Z
 tags: ["google","android","snapseed"]
 hero_image: "/hero/2026-05-08-google-rolls-snapseed-to-android-as-android-auto-glitches-linger-0fcde7.jpg"
 hero_image_credit_name: "Mike Bird"
 hero_image_credit_url: "https://www.pexels.com/@mikebirdy"
 visual_keyword: "a smartphone screen displaying the Snapseed app alongside a car dashboard showing the Android Auto interface"
 description: "Snapseed 4.0 arrives on Android after iOS exclusivity ends, while Android Auto users report connectivity failures that Google has yet to fix."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 Snapseed 4.0 is rolling out to Android devices, ending a year‑long iOS‑only stretch, just as Android Auto users continue to battle launch failures that Google has not yet resolved.
 
@@ -30,3 +32,7 @@ The twin stories reveal a tension in Google’s ecosystem strategy. On the one h
 Google’s mobile portfolio depends on seamless cross‑device experiences. Snapseed’s arrival expands the app ecosystem, but Android Auto’s instability threatens the perception that Google can reliably ship automotive software at scale. Past episodes—such as the rushed rollout of Android 12 and the delayed rollout of Android 13 security patches—show that Google’s update cadence can sometimes outpace its quality‑control processes.
 
 What to watch next: the Android Auto 5.9 release in late 2025, which should reveal whether Google has fixed the head‑unit launch issue. Snapseed adoption metrics on the Play Store will indicate how quickly Android users embrace the new version. Finally, any announcements at the upcoming Google I/O event could signal whether Google will double down on automotive software or shift resources toward other Android experiences.
+
+## Updates
+
+- **2026-08-12** — ICE wants to give agents electrified gloves that shock people into compliance ([source](https://www.theverge.com/policy/979010/ice-agents-electric-shock-gloves))

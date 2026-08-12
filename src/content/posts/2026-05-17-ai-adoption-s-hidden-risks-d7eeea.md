@@ -1,15 +1,17 @@
 ---
 title: "AI Adoption's Hidden Risks"
 date: 2026-05-17T15:02:10.511Z
+modified_date: 2026-08-12T18:55:20.843Z
 tags: ["AI","Enterprise","Technology"]
 hero_image: "/hero/2026-05-17-ai-adoption-s-hidden-risks-d7eeea.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Enterprises face hidden risks with AI subscriptions"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to AI Efficiency
@@ -47,3 +49,7 @@ As AI adoption continues to grow, it is likely that we will see increased invest
 ## Conclusion
 
 The adoption of AI is a complex and multifaceted issue, with significant implications for companies and society as a whole. While AI has the potential to drive efficiency and competitiveness gains, it also poses significant risks and challenges. To navigate these challenges, companies will need to prioritize transparency, accountability, and ethics in their AI adoption efforts. By doing so, they can ensure that the benefits of AI are realized, while minimizing the risks.
+
+## Updates
+
+- **2026-08-12** — Apple hires American Airlines exec to lead government affairs ([source](https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/))

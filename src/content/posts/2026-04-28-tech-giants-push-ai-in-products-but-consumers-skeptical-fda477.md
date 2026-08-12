@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Push AI in Products, But Consumers Skeptical"
 date: 2026-04-28T21:12:19.887Z
-modified_date: 2026-08-03T17:47:30.713Z
+modified_date: 2026-08-12T18:54:52.122Z
 tags: ["AI","Apple","Google","Microsoft","Consumer Products"]
 hero_image: "/hero/2026-04-28-tech-giants-push-ai-in-products-but-consumers-skeptical-fda477.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-Powered Features"
 description: "Tech companies like Apple, Google, and Microsoft are pushing AI features in their products, but consumers are not as excited."
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -93,6 +94,7 @@ The next thing to watch is how consumers respond to AI-powered features in produ
 
 ## Updates
 
+- **2026-08-12** — ChatGPT: What's free in 2026 and what isn't? ([source](https://www.engadget.com/2234173/chatgpt-free-features-2026/))
 - **2026-08-03** — The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished ([source](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale))
 - **2026-05-15** — Review: Good Omens finale sticks the landing ([source](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/))
 - **2026-05-13** — Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are ([source](https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/))

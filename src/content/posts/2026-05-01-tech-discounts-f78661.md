@@ -1,19 +1,20 @@
 ---
 title: "Tech Discounts"
 date: 2026-05-01T09:51:32.747Z
-modified_date: 2026-07-30T19:17:00.250Z
+modified_date: 2026-08-12T18:54:40.534Z
 tags: ["tech discounts","promo codes","online shopping"]
 hero_image: "/hero/2026-05-01-tech-discounts-f78661.jpg"
 hero_image_credit_name: "Nataliya Vaitkevich"
 hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "promo codes"
 description: "Exclusive promo codes for Dell, Google Workspace, and more. Save up to 20% on laptops, software, and services."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-01-tech-discounts-f78661.mp3"
 audio_bytes: 628655
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ The use of promo codes can have a significant impact on consumer behavior. As pe
 
 ## Updates
 
+- **2026-08-12** — Google’s Pixel 11 phone preorders come with up to $350 in gift cards ([source](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date))
 - **2026-07-30** — Pixel Watch 5 leaks in official-looking images with same charging system ([source](https://9to5google.com/2026/07/30/pixel-watch-5-angles-leak/))
 - **2026-05-31** — 007 First Light is already discounted for the PS5 and Steam ([source](https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale))
 - **2026-05-30** — Shift will clean homes for free to train future robots ([source](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning))
