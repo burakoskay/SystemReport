@@ -1,18 +1,20 @@
 ---
 title: "AI Gaming Developments"
 date: 2026-05-23T22:57:33.930Z
+modified_date: 2026-08-12T01:20:57.258Z
 tags: ["AI Gaming","Ayaneo","Apple"]
 hero_image: "/hero/2026-05-23-ai-gaming-developments-938d04.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI gaming"
 description: "Ayaneo's Konkr Pocket Block, Apple's AI subdomain"
-sources_count: 2
-author: "sam-whitfield"
+sources_count: 3
 audio_path: "/audio/2026-05-23-ai-gaming-developments-938d04.mp3"
 audio_bytes: 643493
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to New Gaming Devices
@@ -41,3 +43,7 @@ As the gaming industry continues to evolve, we can expect to see more AI-powered
 
 ## Conclusion
 In conclusion, the integration of AI in gaming devices like Ayaneo's Konkr Pocket Block and Apple's upcoming WWDC 2026 announcements are significant developments in the gaming industry. As AI technology continues to advance, it will be essential to consider the implications of AI on game development, player engagement, and the overall gaming ecosystem. The future of AI in gaming is exciting and full of possibilities, and it will be interesting to see how the industry evolves in the coming years.
+
+## Updates
+
+- **2026-08-12** — An FCC filing points to new Sonos headphones coming soon ([source](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing))

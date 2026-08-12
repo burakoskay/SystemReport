@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup"
 date: 2026-05-18T15:43:36.643Z
-modified_date: 2026-06-04T18:23:48.757Z
+modified_date: 2026-08-12T01:20:51.550Z
 tags: ["Tech News","AI","Machine Learning"]
 hero_image: "/hero/2026-05-18-tech-roundup-a3bf23.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Amazon's Alexa+ generates custom AI podcasts, Starlink raises prices, and Google updates Find Hub app"
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-18-tech-roundup-a3bf23.mp3"
 audio_bytes: 677138
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Recent Tech Developments
@@ -66,4 +67,5 @@ The use of Matter support in smart home devices like the Govee TV Backlight 3 is
 
 ## Updates
 
+- **2026-08-12** — Xbox Elite 3 prototype pad leaks with tiny built-in screen ([source](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen))
 - **2026-06-04** — Amazon’s new plan for games: James Bond and AI Snoop Dogg ([source](https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna))

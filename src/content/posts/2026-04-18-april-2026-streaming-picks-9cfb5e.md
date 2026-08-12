@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Streaming Picks"
 date: 2026-04-18T11:07:25.223Z
-modified_date: 2026-07-28T19:15:58.561Z
+modified_date: 2026-08-12T01:21:09.046Z
 tags: ["streaming","movies","April 2026"]
 hero_image: "/hero/2026-04-18-april-2026-streaming-picks-9cfb5e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "streaming-picks"
 description: "Discover movies to stream this month, including 28 Years Later and more."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ Viewers will have to decide for themselves if these films live up to their expec
 
 ## Updates
 
+- **2026-08-12** — Making holograms with a pen plotter ([source](https://blog.jordan.matelsky.com/Penplotter-holography/))
 - **2026-07-28** — You Could Have Come Up with Kimi Delta Attention ([source](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention))
 - **2026-07-28** — Judge Rejects Google's Attempt to DMCA Its Way Out of Being Scraped ([source](https://www.techdirt.com/2026/07/27/judge-rejects-googles-attempt-to-dmca-its-way-out-of-being-scraped/))
 - **2026-05-12** — Some Women Are Obsessively Testing Their Vaginas to Optimize Them ([source](https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/))

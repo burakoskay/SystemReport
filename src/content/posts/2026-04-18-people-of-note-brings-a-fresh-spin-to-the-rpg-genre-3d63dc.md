@@ -1,16 +1,17 @@
 ---
 title: "People of Note Brings a Fresh Spin to the RPG Genre"
 date: 2026-04-18T12:46:19.998Z
-modified_date: 2026-05-28T16:11:42.983Z
+modified_date: 2026-08-12T01:20:45.697Z
 tags: ["RPG","Music","Vacation","Relaxing","Engaging"]
 hero_image: "/hero/2026-04-18-people-of-note-brings-a-fresh-spin-to-the-rpg-genre-3d63dc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ In conclusion, People of Note is a game that brings a fresh spin to the RPG genr
 
 ## Updates
 
+- **2026-08-12** — Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT ([source](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive))
 - **2026-05-28** — New details on Apple-Google AI deal revealed, including Nvidia chips: report ([source](https://9to5mac.com/2026/05/28/new-details-on-apple-google-ai-deal-revealed-including-nvidia-chips-report/))
 - **2026-05-12** — TikTok now wants to be the place you book the trip you just saw on TikTok ([source](https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/))
 - **2026-05-11** — There’s an Unhinged New Video Game About Trump and the Iran War ([source](https://www.wired.com/story/video-game-trump-iran-war/))
