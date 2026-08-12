@@ -1,19 +1,20 @@
 ---
 title: "eBay Settlement"
 date: 2026-07-29T02:03:14.355Z
-modified_date: 2026-08-02T19:02:18.321Z
+modified_date: 2026-08-12T12:55:52.042Z
 tags: ["eBay","Settlement","E-commerce"]
 hero_image: "/hero/2026-07-29-ebay-settlement-ca43b3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "eBay"
 description: "eBay settles with e-commerce newsletter writers for $56M"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-29-ebay-settlement-ca43b3.mp3"
 audio_bytes: 571604
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Settlement Details
@@ -41,6 +42,7 @@ The settlement between eBay and the Steiners will have far-reaching implications
 
 ## Updates
 
+- **2026-08-12** — Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation ([source](https://woxi.ad-si.com))
 - **2026-08-02** — How the words we teach English language learners changed ([source](https://pudding.cool/2026/07/essential-words/))
 
 [^1]: [slashdot.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOOc7KPrfgta-wibN7ydlnt3sdiwBgmFm41FPhFnunZsr2o5tjh56NA-Qxw0vYPT_082wm9LnWjdNKIoXbZhYaCD57bmFcVeYhIZtUN9G2f7QqsOekbypjpjdOwjlLcoDtGV-2Qt7o006Zy6cmB77QKw1b1myZN0JV4hYYSiOGSY9GQc8CuyOq15VKmcCXaKvYX1sVyQW7pewrUvTSxrPSjxVAIavz1sPon3H92GQX-w8ROjEjilC2iz9zLmbpBdXJS5lccBSs_g==)

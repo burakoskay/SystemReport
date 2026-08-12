@@ -1,18 +1,20 @@
 ---
 title: "Gigascale’s $250M Climate Fund and Other Tech Shifts"
 date: 2026-06-01T17:58:59.086Z
+modified_date: 2026-08-12T12:55:37.912Z
 tags: ["climate","fintech","gaming","ai","security"]
 hero_image: "/hero/2026-06-01-gigascale-s-250m-climate-fund-and-other-tech-shifts-536010.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "tech newsroom collage with climate fund, fintech app, gaming console, AI model diagram"
 description: "Mike Schroepfer’s new climate fund, Revolut’s India rollout, ROG’s Xbox refresh, and security alerts reshape the tech landscape."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-06-01-gigascale-s-250m-climate-fund-and-other-tech-shifts-536010.mp3"
 audio_bytes: 637014
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Mike Schroepfer’s Gigascale Capital closed a $250 million climate fund, signaling a surge of deep‑tech capital into energy‑scarcity solutions. The fund targets founders tackling the twin crises of power shortages and raw‑material constraints.
 
@@ -64,6 +66,9 @@ Each of these developments reflects a broader theme: the open‑source and hardw
 
 Track Gigascale Capital’s first deployment rounds; the performance of its portfolio will signal whether deep‑tech climate funding can move beyond hype. Keep an eye on Revolut’s regulatory filings with the RBI as the fintech scales across India. Monitor consumer reaction to the Xbox Ally X20‑AR bundle to see if premium accessories become a standard expectation. Finally, watch Red Hat’s next security bulletin for any follow‑up on supply‑chain hardening, and watch Nvidia’s developer roadmap for Cosmos 3 extensions.
 
+## Updates
+
+- **2026-08-12** — Of course the ChatGPT dog cancer vaccine spawned a startup ([source](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee))
 
 [^1]: [impactloop.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhHJ8-Bk_scVA-vj7FELYoR-O5k8E8ax7ARLCoPDfI_aYto3OzvE_Onm5Fj3usc5ftfW9b79zvXdH_nQbvo9qV4DvPf6aTpxiXHrQo80Gt2La45OOxRgnA3Gbg9b9XWE1o2b51AdT4FAD_PhuE1Z-zDhKlK5XEJ9hXGhIscS9QoxgXYJE-vmy65vMq3PgikCgQ-y28a83VmZtnAcvlA9JElfE2GQ==)
 [^2]: [techfundingnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKbvyJz2yl-jJ5BU0VPKTvUW8TwYVBRkqzg0fmwcB_2xaXy7D_LeORn-wsxTPIwoKO2yUz_I4BrTji6oXx5XIfgG4g0_kZ97ThB1yn1HhJeYx3iv-bCKwcUdsvtKN7RrggCpOK8RJcGcAPy8XiHlvTis1TwKXLYDaDaHIw68v_h03bWlMZ0tTIlsY8uSTxsV6wLd2fqAP3pVZagEnliJUbW-EmhGaPMbFBHYE4OA==)
