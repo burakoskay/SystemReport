@@ -1,18 +1,20 @@
 ---
 title: "Tech Updates"
 date: 2026-06-06T03:55:51.390Z
+modified_date: 2026-08-12T14:53:03.424Z
 tags: ["Google Messages","Instagram","WhatsApp","Snapchat","Apple Watch"]
 hero_image: "/hero/2026-06-06-tech-updates-8ae75b.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "smartphone"
 description: "Google Messages introduces 'Tap to draft' for Smart Replies, Instagram's feed update sparks outrage"
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-06-06-tech-updates-8ae75b.mp3"
 audio_bytes: 625102
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Recent Tech Updates
 
@@ -49,3 +51,7 @@ The technical mechanics behind the recent updates are complex and varied. For ex
 ## Downstream Implications
 
 The recent updates in the tech industry will have significant downstream implications. For example, the introduction of disappearing messages in WhatsApp will likely change the way users interact with the platform. Similarly, the shift towards more interactive and immersive experiences, like Instagram's side-to-side scrolling, will likely change the way users consume content. The downstream implications of these updates will be far-reaching and will likely have a significant impact on the tech industry as a whole. As users adapt to these changes, companies will need to continue to innovate and improve their platforms to stay ahead of the competition.
+
+## Updates
+
+- **2026-08-12** — The Pixel Tag is Google’s answer to the AirTag ([source](https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news))

@@ -1,18 +1,20 @@
 ---
 title: "Tech Turmoil and Market Shifts"
 date: 2026-04-24T17:22:09.257Z
+modified_date: 2026-08-12T14:53:20.186Z
 tags: ["tech","automotive","market shifts"]
 hero_image: "/hero/2026-04-24-tech-turmoil-and-market-shifts-f91105.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric vehicles"
 description: "Companies in tech and automotive face turmoil and change, from designer baby startups shutting down to Porsche selling its stake in Bugatti."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-04-24-tech-turmoil-and-market-shifts-f91105.mp3"
 audio_bytes: 615489
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Designer Baby Startups Shut Down
@@ -74,3 +76,7 @@ The developments in the tech and automotive industries will have significant dow
 As companies adapt to these changes, they must navigate a range of challenges and opportunities. The shutdown of designer baby startups highlights the complexities of operating in highly regulated fields, while the surge in demand for nuclear power reflects the growing interest in alternative energy sources.
 
 The future of these industries will be shaped by a range of factors, including technological advancements, shifting consumer demand, and regulatory developments. As companies navigate these changes, they must remain focused on innovation and customer needs.
+
+## Updates
+
+- **2026-08-12** — Google Pixel 11 Pro and Pro XL hands-on: Business in the front, party in the back ([source](https://www.engadget.com/2235298/google-pixel-11-pro-and-pro-xl-hands-on/))

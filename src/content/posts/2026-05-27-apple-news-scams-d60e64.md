@@ -1,15 +1,17 @@
 ---
 title: "Apple News Scams"
 date: 2026-05-27T04:14:56.979Z
+modified_date: 2026-08-12T14:52:57.827Z
 tags: ["Apple News","scam ads","RSS support"]
 hero_image: "/hero/2026-05-27-apple-news-scams-d60e64.jpg"
 hero_image_credit_name: "webber Amir"
 hero_image_credit_url: "https://www.pexels.com/@webber-amir-1551084"
 visual_keyword: "Apple News"
 description: "Apple News struggles with scam ads and limited RSS support"
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 ## Introduction to Apple's News Platform
 
@@ -62,3 +64,7 @@ One potential solution is for Apple News to implement more effective measures to
 Another potential solution is for Apple News to revisit its approach to RSS support. By providing users with more flexibility and control over their RSS feeds, Apple News can improve the user experience and increase engagement.
 
 Ultimately, the future success of Apple News will depend on its ability to adapt to the changing needs of users and the evolving tech industry. By prioritizing trustworthy and reliable news sources, and implementing effective measures to prevent online fraud, Apple News can remain a leading online news platform.
+
+## Updates
+
+- **2026-08-12** — Android now has a tap-to-share feature ([source](https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung))

@@ -1,19 +1,20 @@
 ---
 title: "UK Supercomputer Funding Cut"
 date: 2026-05-16T20:56:35.046Z
-modified_date: 2026-08-05T21:02:33.363Z
+modified_date: 2026-08-12T14:53:08.989Z
 tags: ["UK","supercomputer","AI","funding"]
 hero_image: "/hero/2026-05-16-uk-supercomputer-funding-cut-d54d0f.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "supercomputer"
 description: "Labour government shelves £1.3B funding for technology and AI projects"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-16-uk-supercomputer-funding-cut-d54d0f.mp3"
 audio_bytes: 577873
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## UK Supercomputer Funding Cut
@@ -42,4 +43,5 @@ The UK government says it is committed to building technology infrastructure tha
 
 ## Updates
 
+- **2026-08-12** — Jaguar offers a first look inside the all-electric Type 01 ([source](https://www.theverge.com/transportation/978793/jaguar-type-01-interior))
 - **2026-08-05** — The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop ([source](https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/))

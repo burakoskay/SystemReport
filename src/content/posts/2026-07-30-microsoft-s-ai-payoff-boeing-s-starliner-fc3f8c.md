@@ -1,15 +1,17 @@
 ---
 title: "Microsoft’s AI Payoff, Boeing’s Starliner"
 date: 2026-07-30T01:56:14.341Z
+modified_date: 2026-08-12T14:53:37.008Z
 tags: ["microsoft","ai","boeing","mining","automation"]
 hero_image: "/hero/2026-07-30-microsoft-s-ai-payoff-boeing-s-starliner-fc3f8c.jpg"
 hero_image_credit_name: "Julia Volk"
 hero_image_credit_url: "https://www.pexels.com/@julia-volk"
 visual_keyword: "underground mine with digital twin overlay and AI interface"
 description: "Microsoft reports a $3.2 B return from Anthropic, Boeing eyes a Starliner launch, and Hivekit launches an AI‑driven mining platform."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Microsoft’s AI cash flow shows a split
 
@@ -38,3 +40,7 @@ The common thread is risk. Microsoft’s mixed OpenAI results warn that even dee
 ## What to watch
 
 Investors should track Microsoft’s next earnings call for any shift in its OpenAI revenue reporting. Boeing’s upcoming uncrewed Starliner flight will be a litmus test for its ability to meet NASA’s schedule and cost targets. In the mining sector, the first commercial deployment of Hivekit’s platform—expected in late 2024—will reveal whether AI‑driven planning can deliver measurable productivity gains in a real‑world operation. These data points will clarify whether the divergent strategies are paying off or simply postponing inevitable market corrections.
+
+## Updates
+
+- **2026-08-12** — Researchers found a way to hijack devices through Zoom screen sharing ([source](https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/))

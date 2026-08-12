@@ -1,18 +1,20 @@
 ---
 title: "Everand Challenges Amazon with Bundled Reading Service"
 date: 2026-06-02T21:00:33.260Z
+modified_date: 2026-08-12T14:53:25.796Z
 tags: ["Everand","Amazon","digital reading","subscription services"]
 hero_image: "/hero/2026-06-02-everand-challenges-amazon-with-bundled-reading-service-93e351.jpg"
 hero_image_credit_name: "Marta Branco"
 hero_image_credit_url: "https://www.pexels.com/@martabranco"
 visual_keyword: "book"
 description: "Everand launches a reading subscription service bundling e-books, audiobooks, and book clubs, challenging Amazon's dominance."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-02-everand-challenges-amazon-with-bundled-reading-service-93e351.mp3"
 audio_bytes: 598144
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Player in the Reading Subscription Market
@@ -71,3 +73,6 @@ The upcoming months will see Everand facing several key milestones. The startup 
 
 One specific data point to watch is the number of subscribers Everand attracts in the next quarter. This will provide a clear indication of the service's traction and whether its community-driven approach is resonating with readers. Additionally, the competition may drive innovation in areas such as content curation, discovery features, and user experience.
 
+## Updates
+
+- **2026-08-12** — Google's Pixel 11 has a 30-hour battery life and a slimmer camera bar ([source](https://www.engadget.com/2234844/google-pixel-11-announced-specs-availability/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple’s October Mac mini and iPhone reveal reshape dev focus"
 date: 2026-04-28T10:30:54.128Z
-modified_date: 2026-08-05T13:53:27.889Z
+modified_date: 2026-08-12T14:52:52.222Z
 tags: ["apple","macos","iphone","hardware"]
 hero_image: "/hero/2026-04-28-apple-s-october-mac-mini-and-iphone-reveal-reshape-dev-focus-789e55.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Apple Mac mini with multiple USB-C ports on a desk"
 description: "Apple’s upcoming iPhone launch, WWDC community events, and a redesigned Mac mini with five USB‑C ports signal a shift for developers and hardware buyers."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The next weeks will reveal whether Apple’s AI‑focused Siri delivers measurab
 
 ## Updates
 
+- **2026-08-12** — Google is making the Pixel cameras better by making them worse ([source](https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography))
 - **2026-08-05** — MacPaw is building an on-device AI layer that will work across your Mac apps ([source](https://9to5mac.com/2026/08/05/macpaw-is-building-an-on-device-ai-layer-that-will-work-across-your-mac-apps/))
 - **2026-07-27** — ChatGPT starts blocking direct requests to copy an author's style ([source](https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/))
 - **2026-05-15** — The Chinese App That Puts Instagram to Shame ([source](https://www.wired.com/story/rednote-beats-instagram-tourism-infrastructure-china/))
