@@ -1,16 +1,17 @@
 ---
 title: "Microsoft hikes Xbox controller price as new model drops Chatpad"
 date: 2026-05-21T21:59:39.648Z
-modified_date: 2026-05-22T16:29:18.161Z
+modified_date: 2026-08-12T16:53:11.193Z
 tags: ["xbox","microsoft","gaming","accessibility","pricing"]
 hero_image: "/hero/2026-05-21-microsoft-hikes-xbox-controller-price-as-new-model-drops-chatpad-42d1f8.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "modern game controller on a sleek surface with price tags"
 description: "Microsoft raises Xbox controller cost to $64.99, removes the Chatpad port, and pushes its $99.99 Adaptive Controller amid broader price hikes and Apple’s new sales channel."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 ## New Xbox controller strips away Chatpad port and climbs to $64.99
@@ -38,4 +39,5 @@ The next quarter will reveal whether gamers accept the higher price tags or shif
 
 ## Updates
 
+- **2026-08-12** — How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8 ([source](https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison))
 - **2026-05-22** — PSA: The Steam Controller’s magnetic charger can be a fire hazard ([source](https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/))

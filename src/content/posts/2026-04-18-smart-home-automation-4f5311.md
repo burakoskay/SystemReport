@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-08-12T14:52:46.558Z
+modified_date: 2026-08-12T16:53:56.160Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-08-12** — Deals: Pixel 11/Pro pre-orders live at up to $600 off, FREE $200 credits, 50% off new Pixel Watch 5, more ([source](https://9to5google.com/2026/08/12/best-pixel-11-preorder-deals/))
 - **2026-08-12** — Google’s new Pixel 11 Pro Fold offers a stronger build and brighter screens ([source](https://techcrunch.com/2026/08/12/google-launches-the-pixel-11-pro-fold-with-a-stronger-build-and-brighter-screens/))
 - **2026-08-11** — 6 Best Dehumidifiers to Fight Mold and Muggy Summers (2026) ([source](https://www.wired.com/gallery/best-dehumidifier/))
 - **2026-08-03** — Deals: Even better Galaxy Fold 8/Buds 4 Pro bundle deal, Pixel 10a from $385, Lenovo Android tablet $150, more ([source](https://9to5google.com/2026/08/03/deals-fold-8-buds-4-pro-bundle-pixel-10a-lenovo-tablet/))

@@ -1,15 +1,17 @@
 ---
 title: "London's Hacker House Tackles Burnout"
 date: 2026-08-02T02:09:31.660Z
+modified_date: 2026-08-12T16:53:50.550Z
 tags: ["founder burnout","hacker house","work-life balance"]
 hero_image: "/hero/2026-08-02-london-s-hacker-house-tackles-burnout-262d3e.jpg"
 hero_image_credit_name: "Jabez Cutamora"
 hero_image_credit_url: "https://www.pexels.com/@jabzee"
 visual_keyword: "London"
 description: "Founder house prioritizes work-life balance"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction
 Groq's founder, Jonathan Ross, opened a hacker house in London to prioritize founder well-being. This community focuses on work-life balance.
@@ -49,3 +51,7 @@ The house may also serve as a model for other hacker houses and coworking spaces
 The success of the London hacker house could also lead to increased investment in similar initiatives. As the tech industry continues to grow and evolve, the need for supportive communities that prioritize founder well-being will only continue to increase.
 
 In the future, we can expect to see more hacker houses and coworking spaces that prioritize work-life balance. The London hacker house is just the beginning of a larger movement towards a more sustainable and healthy approach to entrepreneurship.
+
+## Updates
+
+- **2026-08-12** — Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones ([source](https://9to5google.com/2026/08/12/google-pixel-11-trade-in-offers-values/))
