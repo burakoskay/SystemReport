@@ -1,16 +1,17 @@
 ---
 title: "Gemini's creep problem sparks concerns of AI over-saturation"
 date: 2026-05-19T11:34:30.100Z
-modified_date: 2026-08-11T18:55:58.533Z
+modified_date: 2026-08-12T10:57:46.971Z
 tags: ["AI","Google","Gemini"]
 hero_image: "/hero/2026-05-19-gemini-s-creep-problem-sparks-concerns-of-ai-over-saturation-0a4fd5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Gemini AI"
 description: "Google's Gemini AI is increasingly appearing in Google apps, raising concerns about AI fatigue."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 
@@ -64,4 +65,5 @@ The debate around AI over-saturation is likely to continue in the coming months,
 
 ## Updates
 
+- **2026-08-12** — Google Pixel 11 launch: Live updates as the company unveils new devices, AI features and more ([source](https://www.engadget.com/2235161/google-pixel-11-launch-2026-live-blog-updates/))
 - **2026-08-11** — A Google insider spills the tea on how the company forsook its founding ideals ([source](https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/))

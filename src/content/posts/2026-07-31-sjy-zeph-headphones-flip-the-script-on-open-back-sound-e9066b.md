@@ -1,19 +1,20 @@
 ---
 title: "SJY Zeph headphones flip the script on open‑back sound"
 date: 2026-07-31T10:34:56.775Z
-modified_date: 2026-08-10T11:03:09.572Z
+modified_date: 2026-08-12T10:57:58.355Z
 tags: ["headphones","audio","review"]
 hero_image: "/hero/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.jpg"
 hero_image_credit_name: "Sogi ."
 hero_image_credit_url: "https://www.pexels.com/@sogi-495844134"
 visual_keyword: "a pair of sleek open-back headphones with flippable earcups on a minimalist desk"
 description: "SJY’s Zeph pair wired open‑back design with flippable earcups, challenging $200‑plus competitors on tone and usability."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.mp3"
 audio_bytes: 580799
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 SJY’s Zeph headphones deliver two distinct sound signatures in a single wired, open‑back package. The flip‑to‑change earcups let you swing between a relaxed, laid‑back vibe and a more detailed, airy presentation, making the listening experience feel like two headphones in one.
@@ -56,4 +57,5 @@ The Zeph’s unique mechanical dual‑mode may spur other manufacturers to explo
 
 ## Updates
 
+- **2026-08-12** — The Human Is the Loop ([source](https://brentfitzgerald.com/posts/the-human-is-the-loop/))
 - **2026-08-10** — The Rise of the 1 am Job Interview ([source](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/))

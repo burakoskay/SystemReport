@@ -1,15 +1,17 @@
 ---
 title: "GuliKit launches $49.99 ES Max with anti‑drift thumbsticks"
 date: 2026-08-11T15:00:58.734Z
+modified_date: 2026-08-12T10:57:41.329Z
 tags: ["gaming","hardware","switch","controllers"]
 hero_image: "/hero/2026-08-11-gulikit-launches-49-99-es-max-with-anti-drift-thumbsticks-b70b01.jpg"
 hero_image_credit_name: "Kevin  Malik"
 hero_image_credit_url: "https://www.pexels.com/@kevin-malik"
 visual_keyword: "close-up of a gaming controller thumbstick with magnetic sensor"
 description: "GuliKit's new ES Max controller uses tweaked TMR thumbsticks to curb Switch stick drift, priced at $49.99, undercutting Nintendo's Pro model."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## GuliKit ES Max hits the market
 GuliKit released the ES Max, a $49.99 wireless controller for Nintendo Switch that claims to eliminate stick drift. The device arrives as the company's first controller to ship with an upgraded version of the tunneling magnetoresistance (TMR) thumbsticks that debuted in the budget‑friendly ES Pro nearly a year ago. The ES Max costs $20 more than the $29.99 ES Pro, but it remains cheaper than Nintendo's Switch 2 Pro Controller, which sits at a higher price tier. GuliKit markets the price gap as a value proposition for players who want a drift‑free experience without paying a premium.
@@ -33,3 +35,7 @@ Because the ES Max does not introduce a brand‑new sensor architecture, its man
 
 ## What to watch
 The next few months will reveal whether the ES Max gains traction among the Switch community. Key signals include user‑reported drift rates on forums, third‑party benchmark videos, and any response from Nintendo regarding third‑party sensor standards. If GuliKit can demonstrate a statistically lower drift incidence, larger console manufacturers may adopt similar TMR tweaks in future revisions. Watch for firmware updates that could further refine the sensor algorithm, and keep an eye on price movements as competitors react to the ES Max's market entry.
+
+## Updates
+
+- **2026-08-12** — ‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware ([source](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/))

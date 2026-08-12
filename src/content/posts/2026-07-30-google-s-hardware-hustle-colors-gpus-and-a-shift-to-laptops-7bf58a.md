@@ -1,15 +1,17 @@
 ---
 title: "Google’s hardware hustle: colors, GPUs, and a shift to laptops"
 date: 2026-07-30T08:23:12.202Z
+modified_date: 2026-08-12T10:57:35.638Z
 tags: ["google","pixel","hardware"]
 hero_image: "/hero/2026-07-30-google-s-hardware-hustle-colors-gpus-and-a-shift-to-laptops-7bf58a.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "green pixel phone beside matching earbuds on a sleek tabletop"
 description: "Leaks, retail friction, and a cancelled tablet reveal how Google’s hardware strategy is evolving amid new Pixel launches."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Pixel 11’s green tease and the Buds Pro 2 reveal
 
@@ -52,3 +54,7 @@ The Pixel 7’s modest upgrades contrast with the bold hardware shift away fro
 ## What to watch
 
 The next few months will reveal whether the Mali‑G78 lands in the Pixel 6 and how it performs against Samsung’s Exynos‑based GPUs. Retailers’ handling of the Pixel 2 suggests that staff training will be crucial for the upcoming Pixel 11 launch, especially as green color variants hit shelves. Finally, keep an eye on Google’s laptop roadmap; the first post‑Slate device could set the tone for Chrome OS hardware’s future.
+
+## Updates
+
+- **2026-08-12** — The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself ([source](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/))

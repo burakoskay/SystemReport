@@ -1,19 +1,20 @@
 ---
 title: "Anthropic's Amodei on Open-Weight Models"
 date: 2026-07-28T01:59:26.827Z
-modified_date: 2026-07-29T02:01:58.668Z
+modified_date: 2026-08-12T10:57:29.919Z
 tags: ["AI","Anthropic","Dario Amodei"]
 hero_image: "/hero/2026-07-28-anthropic-s-amodei-on-open-weight-models-39f9d2.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI"
 description: "Amodei's stance on open-weight models and China's AI"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-28-anthropic-s-amodei-on-open-weight-models-39f9d2.mp3"
 audio_bytes: 596472
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction to Anthropic's Stance
@@ -35,4 +36,5 @@ The development of AI has a long and complex history, with multiple players and 
 
 ## Updates
 
+- **2026-08-12** — Reservoir raises $8M to make water heaters that people — and the grid — will actually want ([source](https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/))
 - **2026-07-29** — The US is banning foreign-made humanoid robots and power inverters ([source](https://www.engadget.com/2225693/the-us-is-banning-foreign-made-humanoid-robots-and-power-inverters/))
