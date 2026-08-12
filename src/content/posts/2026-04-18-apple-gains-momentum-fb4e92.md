@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-08-03T11:17:27.404Z
+modified_date: 2026-08-12T22:35:08.702Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-08-12** — Cats and dogs are missing meals after a popular smart feeder went down ([source](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders))
 - **2026-08-03** — Apple engineer says he was fired after refusing to send cust. device IDs to AT&T ([source](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic))
 - **2026-06-07** — LLMs are eroding my software engineering career and I don't know what to do ([source](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/))
 - **2026-05-21** — ‘Creepy’ Listening Tool for Targeted Ads Didn’t Actually Work, FTC Says ([source](https://www.wired.com/story/creepy-listening-tool-for-targeted-ads-didnt-actually-work-ftc-says/))
