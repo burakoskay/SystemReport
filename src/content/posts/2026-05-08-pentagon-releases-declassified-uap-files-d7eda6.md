@@ -1,16 +1,17 @@
 ---
 title: "Pentagon Releases Declassified UAP Files"
 date: 2026-05-08T19:30:41.524Z
-modified_date: 2026-07-31T17:45:21.145Z
+modified_date: 2026-08-13T12:56:50.594Z
 tags: ["UAP","Pentagon","UFO"]
 hero_image: "/hero/2026-05-08-pentagon-releases-declassified-uap-files-d7eda6.jpg"
 hero_image_credit_name: "Galib Rahman Nadim"
 hero_image_credit_url: "https://www.pexels.com/@capturedbynadim"
 visual_keyword: "UAP"
 description: "Declassified UFO files offer little new evidence"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,5 +65,6 @@ In conclusion, the release of declassified UAP documents and videos by the Penta
 
 ## Updates
 
+- **2026-08-13** — Pixel 11 moves the NFC antenna to the top of the phone for easier payments, Tap to Share ([source](https://9to5google.com/2026/08/13/google-pixel-11-nfc-improvement/))
 - **2026-07-31** — Sam Altman isn’t the only one who wants to pump the brakes on AI ([source](https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/))
 - **2026-05-26** — What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline ([source](https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/))

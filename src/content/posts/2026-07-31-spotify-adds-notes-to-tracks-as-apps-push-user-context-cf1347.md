@@ -1,15 +1,17 @@
 ---
 title: "Spotify adds notes to tracks as apps push user context"
 date: 2026-07-31T21:06:24.387Z
+modified_date: 2026-08-13T12:57:02.078Z
 tags: ["spotify","shazam","apple","android","technews"]
 hero_image: "/hero/2026-07-31-spotify-adds-notes-to-tracks-as-apps-push-user-context-cf1347.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "person editing music playlist on smartphone"
 description: "Spotify rolls out track‑level notes, Shazam drops an Ariana Grande sticker pack, and Apple TV releases full Comic‑Con panels, signaling a shift toward richer user‑generated content."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Spotify’s new **User Notes** feature lets anyone tack a short caption onto a single track inside a playlist. The move blurs the line between personal curation and social commentary, giving listeners a way to annotate moods, reminders, or inside jokes without leaving the app.[^1][^2][^3][^4][^5] (Source: 9to5Mac)
 
@@ -44,6 +46,10 @@ While the numbers look attractive, the sheer volume of promotions risks desensit
 Spotify’s notes, Shazam’s stickers, and Apple TV’s panel archives all point to a quiet arms race: platforms are layering user‑generated context onto core experiences. The next test will be whether these layers translate into measurable engagement. Track‑level notes could become a new metric for playlist virality. Sticker packs might evolve into branded AR experiences. Full‑panel archives could feed AI‑driven recommendation engines.
 
 Keep an eye on Spotify’s usage statistics over the next quarter, and watch how Apple and Google respond with their own annotation tools. If the data shows a lift in time‑spent or sharing rates, we’ll likely see a cascade of similar features across the streaming and media landscape.
+
+## Updates
+
+- **2026-08-13** — Happy 45th Birthday to the IBM PC and Model F/XT ([source](https://sharktastica.co.uk/articles/pc-fxt-45))
 
 [^1]: [9to5mac.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEViDQEwFElVgJC2neizgmiSKT8dS5FB4nH1yiM1sLwiy_eERTUSNgchDOQ2pTul1bl5EtDejbQejEbrZsrjxGuYgppRUIqxZstIZgCmA6uzYgedL_jRNP70kxyIvjgSOwlmOVLvC14Bwil1qxpeaEvh7y9Wqc9wXpJSYGldesX-3tYFw-THoBdSydhTPvMee47AUr46niqv5kNN-brTHxTsSDM8A==)
 [^2]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRBzg0FQpzZX8Z9QNi3KjUFRSM0nDraxNz2huXTCZXPBo94UVPFNOhilMUF969OeY8KCEs8d1a9glZ2BSkpSh2VwLrA9GIVoqLz8ONqDSfQoEzjQhtZY3XjfgFFnmOl3y4vbEdVYbSDzNlUImBq4VF79QGrMhhj74y2POUqSal5CAs6js793_bNuhFqAyQr8cv5VWzbnrotwF7FROBAV48rFHl3meTruJO)

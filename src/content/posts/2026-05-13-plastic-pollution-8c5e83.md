@@ -1,16 +1,17 @@
 ---
 title: "Plastic Pollution"
 date: 2026-05-13T10:35:16.594Z
-modified_date: 2026-05-31T23:04:57.038Z
+modified_date: 2026-08-13T12:56:44.858Z
 tags: ["Plastic Pollution","Microplastics","Nanoparticles"]
 hero_image: "/hero/2026-05-13-plastic-pollution-8c5e83.jpg"
 hero_image_credit_name: "Gaurav Ranjitkar"
 hero_image_credit_url: "https://www.pexels.com/@gaurav-ranjitkar-2476729"
 visual_keyword: "plastic"
 description: "Plastic products release microscopic particles into water"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Plastic Pollution
@@ -38,4 +39,5 @@ Consumer awareness of the risks associated with plastic pollution is growing, wi
 
 ## Updates
 
+- **2026-08-13** — The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now ([source](https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/))
 - **2026-05-31** — The Alienware AW3926QW is the world's first 39-inch 5K OLED monitor with an RGB stripe panel ([source](https://www.engadget.com/2184082/the-alienware-aw3926qw-is-the-world-s-first-39-inch-5k-oled-monitor-with-an-rgb-stripe-panel/))
