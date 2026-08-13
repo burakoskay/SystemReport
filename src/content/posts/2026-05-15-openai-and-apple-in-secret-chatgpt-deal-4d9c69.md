@@ -1,15 +1,17 @@
 ---
 title: "OpenAI and Apple in Secret ChatGPT Deal"
 date: 2026-05-15T21:10:03.113Z
+modified_date: 2026-08-13T04:06:04.445Z
 tags: ["OpenAI","Apple","ChatGPT","AI Chips"]
 hero_image: "/hero/2026-05-15-openai-and-apple-in-secret-chatgpt-deal-4d9c69.jpg"
 hero_image_credit_name: "Ivan Chumak"
 hero_image_credit_url: "https://www.pexels.com/@iohichu"
 visual_keyword: "AI Chips"
 description: "A court has ordered Apple to provide internal messages about its ChatGPT deal with OpenAI. The move comes amid growing tensions between the two companies."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 ## Court Orders Apple to Disclose ChatGPT Deal Details
@@ -69,3 +71,7 @@ The court order is a significant development in the ongoing lawsuit between xAI 
 In the meantime, tech enthusiasts should keep an eye on the AI chip market and the growing tensions between major players. The next significant development in this space could come from a major AI breakthrough or a shift in the balance of power between companies controlling the chip supply.
 
 The AI industry is rapidly evolving, and the stakes are high. As companies continue to invest in AI research and development, the demand for AI chips will only continue to grow.
+
+## Updates
+
+- **2026-08-13** — Apple TV publishes the trailer for Stillwater’s fifth season ([source](https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/))

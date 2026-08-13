@@ -1,15 +1,17 @@
 ---
 title: "US Contractor Wins $10 Million Judgment After Exec Sold Hacking"
 date: 2026-05-08T17:41:22.173Z
+modified_date: 2026-08-13T04:06:10.157Z
 tags: ["cybersecurity","defense","espionage"]
 hero_image: "/hero/2026-05-08-us-contractor-wins-10-million-judgment-after-exec-sold-hacking-003cef.jpg"
 hero_image_credit_name: "Sora Shimazaki"
 hero_image_credit_url: "https://www.pexels.com/@sora-shimazaki"
 visual_keyword: "courtroom gavel beside a laptop displaying code"
 description: "A former cyber executive stole surveillance software and sold it for $1.3 million to a Russian broker, prompting a $10 million court award to his former defense contractor."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 A U.S. defense contractor secured a $10 million judgment after a former cybersecurity executive sold stolen surveillance tools to a Russian broker.
 
@@ -44,3 +46,7 @@ Smaller firms that lack the resources of large primes may struggle to implement 
 ## What to watch
 
 The next step will be the enforcement of the $10 million award. The contractor can seek a garnishment of Williams’ assets, and the Department of Justice may add criminal charges for violating export‑control statutes. Watch for a possible indictment in the coming weeks, which would set a precedent for coordinated civil‑criminal action in cyber‑theft cases. Additionally, monitor the Pentagon’s upcoming directive on DLP standards; its final language will dictate how quickly the defense industrial base can harden against insider‑driven espionage. The outcome will shape both legal strategy and technical safeguards for the sector.
+
+## Updates
+
+- **2026-08-13** — Glaciers on the Climate Dashboard ([source](https://climate.metoffice.cloud/glaciers.html))
