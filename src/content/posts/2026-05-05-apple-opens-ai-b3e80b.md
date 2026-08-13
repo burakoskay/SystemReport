@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-08-10T20:36:27.073Z
+modified_date: 2026-08-13T10:57:45.341Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-08-13** — You can now watch classic movies like The Martian, E.T. and Zodiac on Apple TV ([source](https://www.engadget.com/2236063/apple-tv-adds-classic-movie-selection/))
 - **2026-08-10** — Apple official refurb store: Save hundreds on our top picks of the week ([source](https://9to5mac.com/2026/08/10/apple-official-refurb-store-top-picks/))
 - **2026-06-06** — The Best 3-in-1 Apple Charging Stations After Testing Top Models ([source](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/))
 - **2026-06-01** — The Sideload 035: Tech positivity ([source](https://9to5google.com/2026/06/01/the-sideload-035-tech-positivity/))
