@@ -1,16 +1,17 @@
 ---
 title: "Clarivate‑ProQuest Deal Highlights Research‑Teaching Divide"
 date: 2026-05-23T19:27:50.532Z
-modified_date: 2026-08-10T18:48:28.823Z
+modified_date: 2026-08-13T14:53:37.804Z
 tags: ["research","higher-education","acquisition","science-policy"]
 hero_image: "/hero/2026-05-23-clarivate-proquest-deal-highlights-research-teaching-divide-ab3273.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "conference room with data servers and university lecture hall juxtaposed"
 description: "Clarivate's $5.3 billion acquisition of ProQuest underscores the growing clout of research data firms while a new study shows universities still treat research and teaching as a zero‑sum game."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Clarivate's $5.3 B Bet on Research Data
@@ -38,4 +39,5 @@ Track Clarivate’s integration roadmap over the next twelve months, especially 
 
 ## Updates
 
+- **2026-08-13** — Nintendo’s next Fire Emblem has a bold new structure ([source](https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2))
 - **2026-08-10** — What to expect from Google’s 2026 Pixel hardware launch event ([source](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event))

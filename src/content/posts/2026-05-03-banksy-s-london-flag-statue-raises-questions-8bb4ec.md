@@ -1,15 +1,17 @@
 ---
 title: "Banksy's London Flag Statue Raises Questions"
 date: 2026-05-03T22:54:28.255Z
+modified_date: 2026-08-13T14:53:43.412Z
 tags: ["Banksy","Street Art","London","Art","Culture","Politics"]
 hero_image: "/hero/2026-05-03-banksy-s-london-flag-statue-raises-questions-8bb4ec.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Banksy's London Flag Statue"
 description: "A new Banksy installation in central London depicts a suited man blinded by a flag, sparking debate and curiosity."
-sources_count: 1
+sources_count: 2
 author: "elena-marchetti"
 ---
+
 
 # Banksy's London Flag Statue Raises Questions
 
@@ -54,3 +56,7 @@ Regardless of what happens next, one thing is certain – Banksy's latest instal
 ## Sources
 
 https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
+
+## Updates
+
+- **2026-08-13** — Flock CEO: ‘We got this one wrong’ ([source](https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention))

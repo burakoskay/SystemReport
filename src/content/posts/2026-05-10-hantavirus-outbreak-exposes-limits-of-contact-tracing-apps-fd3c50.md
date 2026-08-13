@@ -1,15 +1,17 @@
 ---
 title: "Hantavirus Outbreak Exposes Limits of Contact-Tracing Apps"
 date: 2026-05-10T11:03:41.331Z
+modified_date: 2026-08-13T14:53:26.588Z
 tags: ["contact-tracing apps","hantavirus outbreak","public health infrastructure"]
 hero_image: "/hero/2026-05-10-hantavirus-outbreak-exposes-limits-of-contact-tracing-apps-fd3c50.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "contact-tracing apps"
 description: "Apps struggle with smaller outbreaks"
-sources_count: 1
+sources_count: 2
 author: "priya-raman"
 ---
+
 
 
 ## Introduction to Contact-Tracing Apps
@@ -38,3 +40,7 @@ The limitations of contact-tracing apps in smaller outbreaks have significant im
 
 ## Future Directions
 The hantavirus outbreak serves as a reminder that contact-tracing apps are not a silver bullet for public health crises. A more nuanced approach, one that takes into account the limitations of these apps, is necessary. This includes investing in robust public health infrastructure, developing more effective contact-tracing technologies, and improving data collection and analysis capabilities. By doing so, we can develop more effective solutions for responding to outbreaks of varying sizes and ultimately improve public health outcomes.
+
+## Updates
+
+- **2026-08-13** — Rivian is finally getting a long-requested feature — and no, it’s not CarPlay ([source](https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs))

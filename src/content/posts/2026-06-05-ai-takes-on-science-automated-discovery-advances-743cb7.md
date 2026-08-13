@@ -1,18 +1,20 @@
 ---
 title: "AI Takes on Science: Automated Discovery Advances"
 date: 2026-06-05T04:13:51.122Z
+modified_date: 2026-08-13T14:54:00.404Z
 tags: ["AI","Scientific Discovery","Automation"]
 hero_image: "/hero/2026-06-05-ai-takes-on-science-automated-discovery-advances-743cb7.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-powered scientific discovery"
 description: "Researchers develop AI systems to automate scientific discovery, generating papers and solving problems independently."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-05-ai-takes-on-science-automated-discovery-advances-743cb7.mp3"
 audio_bytes: 558438
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # AI-Powered Scientific Discovery Hits Milestones
 
@@ -61,3 +63,7 @@ The integration of AI in scientific research marks the beginning of a new era in
 ## The Road Ahead
 
 As the AI Scientist and similar systems become more prevalent, it is crucial to consider the implications of AI-generated research. The scientific community must develop guidelines and standards for the use of AI in research, ensuring that the output is reliable, valid, and transparent. The future of scientific discovery is exciting, and the role of AI will undoubtedly be a critical component of this journey.
+
+## Updates
+
+- **2026-08-13** — iPhone Ultra could launch in US only at first, per report ([source](https://9to5mac.com/2026/08/13/iphone-ultra-could-launch-in-us-only-at-first-per-report/))

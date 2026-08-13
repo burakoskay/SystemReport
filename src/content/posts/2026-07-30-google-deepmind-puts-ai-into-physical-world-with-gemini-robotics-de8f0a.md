@@ -1,15 +1,17 @@
 ---
 title: "Google DeepMind Puts AI Into Physical World With Gemini Robotics"
 date: 2026-07-30T21:02:59.537Z
+modified_date: 2026-08-13T14:53:54.672Z
 tags: ["AI","Robotics","Gemini Robotics 2","Google DeepMind","Artificial General Intelligence"]
 hero_image: "/hero/2026-07-30-google-deepmind-puts-ai-into-physical-world-with-gemini-robotics-de8f0a.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "robots"
 description: "Google DeepMind's latest AI model, Gemini Robotics 2, enables entire humanoid robots to perform a wide range of actions, but raises risks of plopping AI into the real world."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 # Google DeepMind's Ambitious Leap into Physical AGI
 
@@ -46,3 +48,7 @@ The development of Gemini Robotics 2 will have far-reaching implications for var
 ## Conclusion
 
 Google DeepMind's Gemini Robotics 2 represents a significant leap forward in physical AGI. While the potential benefits are substantial, the risks and uncertainties surrounding this technology cannot be overstated. The industry will be closely watching the progress and potential applications of Gemini Robotics 2, and it is essential to consider the regulatory, social, and ethical implications of this technology.
+
+## Updates
+
+- **2026-08-13** — Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/))
