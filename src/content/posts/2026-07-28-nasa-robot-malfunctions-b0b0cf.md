@@ -1,18 +1,20 @@
 ---
 title: "NASA Robot Malfunctions"
 date: 2026-07-28T19:17:39.026Z
+modified_date: 2026-08-13T20:36:25.627Z
 tags: ["NASA","Space Exploration","Robotics"]
 hero_image: "/hero/2026-07-28-nasa-robot-malfunctions-b0b0cf.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "Spacecraft"
 description: "Katalyst's LINK spacecraft tumbles out of control"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-28-nasa-robot-malfunctions-b0b0cf.mp3"
 audio_bytes: 610056
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Failure
 Katalyst's LINK spacecraft, hired by NASA to lift an orbital telescope, is tumbling out of control after suffering key component failures.
@@ -61,3 +63,7 @@ The incident may also impact the development of new spacecraft and components, w
 
 ## Conclusion
 The failure of the LINK spacecraft is a significant setback for NASA and Katalyst. However, it also presents an opportunity for growth and improvement. By understanding the root cause of the failure and implementing changes to prevent similar incidents, NASA and Katalyst can ensure the success of future collaborations and advance our understanding of the universe.
+
+## Updates
+
+- **2026-08-13** — The new Instagram logo is the perfect embodiment of AI slop ([source](https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/))
