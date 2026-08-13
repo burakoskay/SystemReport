@@ -1,15 +1,17 @@
 ---
 title: "Flock's Rideshare Dashcams"
 date: 2026-08-09T06:45:31.827Z
+modified_date: 2026-08-13T22:35:50.883Z
 tags: ["Flock","Rideshare","Dashcams"]
 hero_image: "/hero/2026-08-09-flock-s-rideshare-dashcams-453ba8.jpg"
 hero_image_credit_name: "Thought Catalog"
 hero_image_credit_url: "https://www.pexels.com/@thought-catalog-317580"
 visual_keyword: "Rideshare Safety"
 description: "Flock's plans spark controversy"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Flock's Plans
 Flock plans to implement dashcams in rideshare vehicles. The company's decision is a response to growing safety concerns in the ridesharing industry. The use of dashcams is expected to enhance the safety of both drivers and passengers. However, the implementation of such technology also raises concerns about privacy and data protection.
@@ -37,3 +39,7 @@ The implementation of dashcams in rideshare vehicles will have significant downs
 
 ## Future Developments
 As the ridesharing industry continues to evolve, it is likely that the use of dashcams will become more widespread. Companies like Flock will need to balance the need for safety with concerns about privacy and data protection. The development of new technologies, such as AI-powered monitoring systems, could also play a key role in enhancing the safety of rideshare vehicles. Ultimately, the success of Flock's dashcam initiative will depend on its ability to address the concerns of drivers, passengers, and law enforcement agencies, while also providing a safe and secure experience for all users.
+
+## Updates
+
+- **2026-08-13** — Microsoft’s Clippy-like Mico character is no longer the face of Copilot ([source](https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired))

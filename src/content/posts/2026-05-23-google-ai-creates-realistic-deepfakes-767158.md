@@ -1,16 +1,17 @@
 ---
 title: "Google AI Creates Realistic Deepfakes"
 date: 2026-05-23T15:06:42.132Z
-modified_date: 2026-08-12T18:55:03.628Z
+modified_date: 2026-08-13T22:35:33.165Z
 tags: ["AI","Deepfakes","Vulnerabilities"]
 hero_image: "/hero/2026-05-23-google-ai-creates-realistic-deepfakes-767158.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Google's new AI model can create realistic videos, raising concerns over deepfakes and vulnerabilities. Meanwhile, Anthropic's Mythos has found over 10,000 vulnerabilities."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The release of Google's anything-to-anything AI model and Anthropic's Mythos hig
 
 ## Updates
 
+- **2026-08-13** — Writer introduces new AI model and upgraded harness to contain token costs ([source](https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/))
 - **2026-08-12** — Mid-week Android app deals and freebies: Kingdom Rush 5, Iron Marines 2, 9th Dawn III, more ([source](https://9to5toys.com/2026/08/12/mid-week-android-app-deals-7/))
 - **2026-08-06** — Naïve raises $28.5M to automate the grunt work of setting up and running a company ([source](https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/))
