@@ -1,16 +1,17 @@
 ---
 title: "Infrasound Waves Offer New Fire Suppression Method"
 date: 2026-05-02T13:26:22.717Z
-modified_date: 2026-08-11T01:13:33.147Z
+modified_date: 2026-08-13T01:23:35.483Z
 tags: ["fire safety","acoustic fire suppression","infrasound waves"]
 hero_image: "/hero/2026-05-02-infrasound-waves-offer-new-fire-suppression-method-b3893c.jpg"
 hero_image_credit_name: "𝑒𝑏𝑟𝑎𝑟"
 hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ Regulatory bodies will also play a critical role in the adoption of acoustic fir
 
 ## Updates
 
+- **2026-08-13** — 9to5Mac Daily: August 12, 2026 – Apple exec changes, more ([source](https://9to5mac.com/2026/08/12/daily-august-12-2026/))
 - **2026-08-11** — 9to5Mac Daily: August 10, 2026 – Apple Watch rumors, more ([source](https://9to5mac.com/2026/08/10/daily-august-10-2026/))
 - **2026-08-04** — 9to5Mac Daily: August 4, 2026 – The latest Apple vs OpenAI drama ([source](https://9to5mac.com/2026/08/04/daily-august-4-2026/))
 - **2026-08-03** — 9to5Mac Daily: August 3, 2026 – Apple’s Q3 earnings ([source](https://9to5mac.com/2026/08/03/daily-august-3-2026/))

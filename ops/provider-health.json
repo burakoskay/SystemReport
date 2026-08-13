@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 2904,
+    "consecutive_failures": 2911,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-12T22:41:07.963Z",
+    "last_failure": "2026-08-13T01:26:31.879Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-12T22:35:56.376Z",
+    "last_success": "2026-08-13T01:24:51.704Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5310, Requested 4580. Please try again in 14.174999999s. Need more tokens? Upgrade to Dev Tier toda",
     "last_failure": "2026-08-12T16:55:10.790Z"
@@ -20,16 +20,16 @@
   },
   "groq:llama-3.3-70b-versatile": {
     "consecutive_failures": 1,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99629, Requested 1674. Please try again in 18m45.792s. Need more tokens? Upgrade to Dev Tier tod",
-    "last_failure": "2026-08-12T22:38:38.493Z",
-    "last_success": "2026-08-12T22:36:09.520Z",
-    "cooldown_until": "2026-08-12T22:48:38.405Z"
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98764, Requested 1419. Please try again in 2m38.112s. Need more tokens? Upgrade to Dev Tier toda",
+    "last_failure": "2026-08-13T01:25:00.459Z",
+    "last_success": "2026-08-13T01:24:52.363Z",
+    "cooldown_until": "2026-08-13T01:35:00.366Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 0,
     "last_error": "timeout after 60000ms",
     "last_failure": "2026-08-12T19:00:14.461Z",
-    "last_success": "2026-08-12T22:41:23.171Z"
+    "last_success": "2026-08-13T01:26:41.360Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

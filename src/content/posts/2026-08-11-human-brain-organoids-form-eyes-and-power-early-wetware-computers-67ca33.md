@@ -1,15 +1,17 @@
 ---
 title: "Human Brain Organoids Form Eyes and Power Early Wetware Computers"
 date: 2026-08-11T12:56:16.775Z
+modified_date: 2026-08-13T01:23:18.371Z
 tags: ["organoids","biocomputing","neuroscience"]
 hero_image: "/hero/2026-08-11-human-brain-organoids-form-eyes-and-power-early-wetware-computers-67ca33.jpg"
 hero_image_credit_name: "turek"
 hero_image_credit_url: "https://www.pexels.com/@turek3024"
 visual_keyword: "microscopic view of human brain organoids with tiny eye structures and electrode wires"
 description: "Lab-grown mini-brains now grow rudimentary eyes and serve as living processors, sparking technical hurdles and ethical debate."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 ## Mini-brains grow eyes in a dish
 
@@ -51,6 +53,9 @@ The eye‑cup breakthrough adds a potential biomedical application: patient‑sp
 
 The next milestones will be public. Watch for a peer‑reviewed report on extending organoid viability beyond the 80‑day limit, likely involving microfluidic perfusion or engineered vasculature.[^6][^7][^8] Track FinalSpark’s next demonstration of learning in a wetware system – a repeatable change in neural response after repeated stimulation would signal a shift from passive sensing to adaptive computation. Finally, monitor regulatory filings related to chimeric organoid implants, as any move toward clinical trials will trigger new ethical guidelines.
 
+## Updates
+
+- **2026-08-13** — The web’s newest weapon against AI scrapers is a font ([source](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/))
 
 [^1]: [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgisw3PP5yLnKfiaPuoPHqmkughzpiS6YLdCSfmoEFm7PUkuPLnD5m1k_8b2QAdh3hkJ7mYYkwDlTVdcqzrw5ANtdFzBxDuYzrE7-gaipJ3TJ_RjKH1aTO50aNNqjsMTljbsjG4zkXo5mVtH3mjlS6Czfzn0pv_atMvCmtYYWH5IBALDMkntnZ1ohixJwhu1UWWeNJgTfcDauSTkwl4eobKG3lEpCsT-EJ7Fiw3oB1206H6QYv0JpIaaVJl9GKyutp8ToVaWn70zgX5VJo_UA1q8l5HLo=)
 [^2]: [ophthalmologytimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELUjL3sSAHsxiFKy3NAmnQu_-PvJdb_klj1mFJzRTNC5uo4Uu8nUdkH7PW7BhlLtHGoxrOPlb7u-KbbdC7V4UBxK55P_pLT9E-weffG8R6W06ifpJFhyUV0_oefN4D21oCO1vBxRqyR3GS-6wLqwKwmOaCRAlDTUgwleRBQWLSngYkr8TVzt83GhaTunM4-oyJH8VOqjL1E8pML8zSdj2sQ_TMf1--dfIup6fseg==)
