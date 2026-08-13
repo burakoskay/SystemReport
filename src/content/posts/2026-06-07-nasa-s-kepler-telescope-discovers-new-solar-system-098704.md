@@ -1,18 +1,20 @@
 ---
 title: "NASA's Kepler Telescope Discovers New Solar System"
 date: 2026-06-07T17:25:03.634Z
+modified_date: 2026-08-13T16:51:46.640Z
 tags: ["exoplanets","NASA","Kepler space telescope"]
 hero_image: "/hero/2026-06-07-nasa-s-kepler-telescope-discovers-new-solar-system-098704.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "solar system"
 description: "NASA's Kepler telescope discovers a new solar system with eight planets, similar to our own solar system, using Google's machine learning technology."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-06-07-nasa-s-kepler-telescope-discovers-new-solar-system-098704.mp3"
 audio_bytes: 579754
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # NASA's Kepler Telescope Discovers New Solar System
 
@@ -61,3 +63,7 @@ Future research directions in the field of exoplanetary science include the stud
 ## Conclusion
 
 The discovery of the Kepler-90 system is a significant milestone in the search for life beyond our solar system. The use of machine learning algorithms to analyze data from the Kepler space telescope has opened up new avenues for research and has the potential to lead to even more groundbreaking discoveries. As the search for exoplanets continues, we are likely to learn more about the universe and the possibility of life existing elsewhere.
+
+## Updates
+
+- **2026-08-13** — This is Instagram&#8217;s new logo ([source](https://www.theverge.com/tech/979583/this-is-instagrams-new-logo))

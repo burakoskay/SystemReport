@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Promo Codes: Hoka, Verizon, Dermstore Slash Prices"
 date: 2026-04-23T17:42:55.310Z
-modified_date: 2026-08-11T14:54:02.569Z
+modified_date: 2026-08-13T16:51:28.696Z
 tags: ["promo codes","e-commerce","discounts"]
 hero_image: "/hero/2026-04-23-april-2026-promo-codes-hoka-verizon-dermstore-slash-prices-3c3d05.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "shopping cart with discount tags and tech brand logos"
 description: "Hoka, Verizon and Dermstore roll out April 2026 coupon codes offering up to 30% off, $200 gift cards, and 25% savings, reshaping e‑commerce discounts."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The next quarter will reveal whether the Hoka, Verizon and Dermstore coupons tra
 
 ## Updates
 
+- **2026-08-13** — Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul ([source](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant))
 - **2026-08-11** — ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts ([source](https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack))
 - **2026-05-31** — Apple’s strategy for smart glasses is the same as smart watches ([source](https://www.theverge.com/tech/940572/apples-strategy-smart-glasses-smart-watches))
 - **2026-05-31** — A meteor exploded off the coast of Boston ([source](https://www.theverge.com/science/940467/meteor-exploded-new-england))

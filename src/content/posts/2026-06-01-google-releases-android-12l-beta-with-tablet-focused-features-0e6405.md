@@ -1,15 +1,17 @@
 ---
 title: "Google Releases Android 12L Beta with Tablet-Focused Features"
 date: 2026-06-01T21:46:50.886Z
+modified_date: 2026-08-13T16:51:40.749Z
 tags: ["Android","Security","Tablets"]
 hero_image: "/hero/2026-06-01-google-releases-android-12l-beta-with-tablet-focused-features-0e6405.jpg"
 hero_image_credit_name: "Zain Ali"
 hero_image_credit_url: "https://www.pexels.com/@zaktech90"
 visual_keyword: "Android 12L"
 description: "Google's Android 12L beta, Samsung's forced lockdown mode, and new Android tools illustrate shifting priorities in security and large-screen support."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Android 12L beta brings tablet-first features to a limited hardware set
@@ -82,3 +84,6 @@ The development of Android 12L and other recent updates to the platform highligh
 
 The Android ecosystem is complex and multifaceted, with many different stakeholders and interests at play. As the platform continues to grow and mature, it will be interesting to see how these different stakeholders navigate the changing landscape.
 
+## Updates
+
+- **2026-08-13** — I looked inside an AI generated movie, and the best parts were all human ([source](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list))

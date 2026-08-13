@@ -1,15 +1,17 @@
 ---
 title: "Flip Turns Shopping Into a Full‑Time Side Hustle"
 date: 2026-05-23T11:21:59.557Z
+modified_date: 2026-08-13T16:51:22.522Z
 tags: ["social commerce","affiliate marketing","TikTok"]
 hero_image: "/hero/2026-05-23-flip-turns-shopping-into-a-full-time-side-hustle-157e2d.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "social commerce"
 description: "Flip's TikTok‑style video feed lets users earn affiliate cash while buying, raising questions about the future of social commerce."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 ## Flip's Referral Blitz Turns Shoppers Into Sellers
@@ -73,3 +75,7 @@ According to recent reports, the social commerce market is expected to grow sign
 In conclusion, Flip's innovative approach to social commerce has the potential to disrupt traditional e-commerce models and create new opportunities for users to earn affiliate revenue. However, the platform's success will depend on its ability to balance growth with the need to maintain a high-quality user experience, as well as its ability to adapt to changing consumer behaviors and regulatory requirements.
 
 As the social commerce market continues to evolve, it will be interesting to see how Flip and other platforms adapt and innovate to meet the changing needs of users and consumers.
+
+## Updates
+
+- **2026-08-13** — The Painful Truth of Exactly How ICE’s New Shock Gloves Work ([source](https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/))

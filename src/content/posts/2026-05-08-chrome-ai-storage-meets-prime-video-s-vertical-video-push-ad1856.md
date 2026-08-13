@@ -1,16 +1,17 @@
 ---
 title: "Chrome AI storage meets Prime Video's vertical video push"
 date: 2026-05-08T19:36:44.082Z
-modified_date: 2026-08-06T14:24:37.084Z
+modified_date: 2026-08-13T16:52:04.446Z
 tags: ["chrome","prime video","vertical video","ai","mobile"]
 hero_image: "/hero/2026-05-08-chrome-ai-storage-meets-prime-video-s-vertical-video-push-ad1856.jpg"
 hero_image_credit_name: "Bastian Riccardi"
 hero_image_credit_url: "https://www.pexels.com/@shutter-speed"
 visual_keyword: "smartphone displaying vertical video carousel beside browser storage settings"
 description: "Chrome's 4 GB AI model storage sparks confusion as Prime Video rolls out a TikTok‑style vertical feed, highlighting the clash between desktop AI bloat and mobile video trends."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Watch for Chrome's next configuration update: Google has hinted at a smaller, mo
 
 ## Updates
 
+- **2026-08-13** — The most popular GameCube emulator is no longer the only one ([source](https://www.engadget.com/2233858/most-popular-gamecube-emulator-dolphin-not-only-one/))
 - **2026-08-06** — Viture’s cheapest AR glasses have the sharpest image clarity I’ve seen yet ([source](https://www.theverge.com/tech/975870/viture-pro-2-video-ar-smart-glasses-hands-on))
 - **2026-08-05** — Cougars Lower the Risks of Car Crashes by Hunting Deer ([source](https://www.wired.com/story/cougars-lower-risks-car-crashes-by-hunting-deer/))
 - **2026-07-29** — The US government's robot ban also includes vacuums ([source](https://www.engadget.com/2226533/the-us-government-robot-ban-also-includes-vacuums/))
