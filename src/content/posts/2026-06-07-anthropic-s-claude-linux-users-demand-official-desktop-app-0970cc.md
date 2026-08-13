@@ -1,18 +1,20 @@
 ---
 title: "Anthropic's Claude Linux Users Demand Official Desktop App"
 date: 2026-06-07T17:25:48.296Z
+modified_date: 2026-08-13T18:56:01.457Z
 tags: ["Anthropic","Claude","Linux","AI"]
 hero_image: "/hero/2026-06-07-anthropic-s-claude-linux-users-demand-official-desktop-app-0970cc.jpg"
 hero_image_credit_name: "Alberlan  Barros"
 hero_image_credit_url: "https://www.pexels.com/@alberlan"
 visual_keyword: "Claude on Linux"
 description: "Anthropic's Claude users on Linux are calling for an official desktop app, citing workflow disruptions. The demand comes as the company faces growing competition."
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-06-07-anthropic-s-claude-linux-users-demand-official-desktop-app-0970cc.mp3"
 audio_bytes: 590621
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Demand for Official Linux Desktop App Grows
@@ -67,3 +69,6 @@ The GitHub issue has received significant attention from users, with many expres
 
 The demand for a Linux desktop app for Claude comes as Anthropic faces growing competition in the AI market. Companies like OpenAI and Google are pushing the boundaries of AI capabilities, making it essential for Anthropic to provide a seamless user experience. A native desktop app could improve Claude's usability and appeal, particularly among power users who rely on Linux for their daily work.
 
+## Updates
+
+- **2026-08-13** — Codex in ChatGPT desktop app for Linux is now in preview ([source](https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027))

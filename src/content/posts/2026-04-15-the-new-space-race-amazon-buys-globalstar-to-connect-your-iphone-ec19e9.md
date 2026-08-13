@@ -1,16 +1,17 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
-modified_date: 2026-08-13T14:53:49.016Z
+modified_date: 2026-08-13T18:55:49.820Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The convergence of consumer electronics and satellite technology marks a new fro
 
 ## Updates
 
+- **2026-08-13** — The Best Spotify Alternatives to Ease Your Conscience ([source](https://www.engadget.com/2234678/best-spotify-alternatives-2026/))
 - **2026-08-13** — Why This Prediction Market Banned Teens ([source](https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/))
 - **2026-07-27** — The Sideload 040: Finding digital peace with Light Phone ([source](https://9to5google.com/2026/07/27/the-sideload-040-finding-digital-peace-with-light-phone/))
 - **2026-05-12** — You can preview the new, new Digg after its takeover by bots ([source](https://9to5mac.com/2026/05/12/you-can-preview-the-new-new-digg-after-its-takeover-by-bots/))
