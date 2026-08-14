@@ -1,16 +1,17 @@
 ---
 title: "AI-Led Turnaround"
 date: 2026-05-05T17:30:09.931Z
-modified_date: 2026-05-26T18:32:03.687Z
+modified_date: 2026-08-14T16:50:30.673Z
 tags: ["AI","Tech Industry","Innovation"]
 hero_image: "/hero/2026-05-05-ai-led-turnaround-a47897.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "PayPal cuts jobs, modernizes tech stack with AI-led turnaround"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,5 +61,6 @@ Additionally, the use of machine learning models in AI-powered trading platforms
 
 ## Updates
 
+- **2026-08-14** — Deals: Pixel 11 Pro XL extra $150 off + $200 credit, FREE Google Home Speaker offer,  Legion Tab all-time low, more ([source](https://9to5google.com/2026/08/14/deals-pixel-11-free-google-home-speaker-legion-tab/))
 - **2026-05-26** — Google on why it redesigned the Gmail and Workspace icons ([source](https://9to5google.com/2026/05/26/google-workspace-icons-redesign/))
 - **2026-05-05** — When everyone has AI and the company still learns nothing ([source](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple Files Supreme Court Stay in Epic App Store Dispute"
 date: 2026-05-05T03:34:51.057Z
-modified_date: 2026-08-14T01:22:35.185Z
+modified_date: 2026-08-14T16:50:07.689Z
 tags: ["apple","epic-games","app-store","supreme-court","antitrust"]
 hero_image: "/hero/2026-05-05-apple-files-supreme-court-stay-in-epic-app-store-dispute-04b81b.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "foldable iPhone Ultra prototype on white surface"
 description: "Apple seeks Supreme Court stay to halt Epic case over App Store commission rules. Court battle continues over app distribution policies."
-sources_count: 13
+sources_count: 14
 author: "david-okafor"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ What to watch: The Supreme Court’s April 20 stay decision, the District Court�
 
 ## Updates
 
+- **2026-08-14** — Tech Visionary Says the Big AI Labs Don’t Get What People Want ([source](https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/))
 - **2026-08-14** — Apple and Epic argue over how much Apple should get from purchases made outside the App Store ([source](https://www.theverge.com/tech/979967/apple-epic-games-external-links-fees-filing))
 - **2026-07-27** — Pocket Casts just released a brand-new Apple TV app ([source](https://9to5mac.com/2026/07/27/pocket-casts-just-released-a-brand-new-apple-tv-app/))

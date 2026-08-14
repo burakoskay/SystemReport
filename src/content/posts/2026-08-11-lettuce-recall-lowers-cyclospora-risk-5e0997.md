@@ -1,18 +1,20 @@
 ---
 title: "Lettuce Recall Lowers Cyclospora Risk"
 date: 2026-08-11T20:39:44.794Z
+modified_date: 2026-08-14T16:50:13.425Z
 tags: ["food safety","cyclospora","lettuce recall"]
 hero_image: "/hero/2026-08-11-lettuce-recall-lowers-cyclospora-risk-5e0997.jpg"
 hero_image_credit_name: "Victoria Bowers"
 hero_image_credit_url: "https://www.pexels.com/@victoria-bowers-148548814"
 visual_keyword: "lettuce"
 description: "Cyclospora risk reduced after product recall"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-11-lettuce-recall-lowers-cyclospora-risk-5e0997.mp3"
 audio_bytes: 600234
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Lettuce Safety Update
 A professor of food safety says the removal of a contaminated product from the market has reduced the risk of cyclospora infection from eating lettuce. "That product is off the market, so I think there’s absolutely lower risk for cyclospora in terms of eating lettuce," the professor tells WIRED.
@@ -32,3 +34,7 @@ The produce industry has a history of contamination incidents, including outbrea
 The produce industry is a complex and global network of farmers, distributors, and retailers. The industry is subject to a range of factors that can impact food safety, including weather conditions, soil quality, and handling practices. The recall of the contaminated lettuce product is a reminder of the need for effective food safety measures throughout the entire supply chain.
 ## Next Steps
 The situation will likely continue to unfold, with food safety authorities monitoring and providing updates on any developments. Consumers should check for any recalls or warnings and take necessary precautions to ensure their safety. The recall of the contaminated lettuce product serves as a reminder of the importance of food safety and the need for continued vigilance in protecting public health.
+
+## Updates
+
+- **2026-08-14** — When Genius Fails: The Intellectual Arrogance of the AI Labs ([source](https://weightythoughts.com/p/when-genius-failsthe-intellectual))

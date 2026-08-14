@@ -1,18 +1,20 @@
 ---
 title: "Google Unveils Gemini Robotics 2 with AI-Powered Robots"
 date: 2026-07-30T19:19:19.435Z
+modified_date: 2026-08-14T16:49:56.257Z
 tags: ["google","robotics","android","chrome","voice"]
 hero_image: "/hero/2026-07-30-google-unveils-gemini-robotics-2-with-ai-powered-robots-63bfa0.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "robotic arm sorting trash and lifting a watering can in a garden"
 description: "Google unveiled Gemini Robotics 2, patched Pixel battery drain, expanded Voice subscriptions, and added Chrome tweaks, signaling a broader AI rollout."
-sources_count: 7
-author: "david-okafor"
+sources_count: 8
 audio_path: "/audio/2026-07-30-google-unveils-gemini-robotics-2-with-ai-powered-robots-63bfa0.mp3"
 audio_bytes: 619669
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google released three distinct updates this week, spanning robotics, mobile hardware, and its Chrome browser. The moves reveal how the company is weaving AI into everyday tools while still wrestling with legacy bugs.
 
@@ -49,3 +51,7 @@ The simultaneous rollout of robotics, mobile, and browser updates underscores a 
 Industry analysts note that Google’s AI push is not limited to its cloud services. By distributing AI capabilities across consumer products, the company reduces the friction of adopting new models. The trade‑off is increased complexity in debugging, as seen in the lingering Pixel battery complaints.
 
 **What to watch**: The next Chrome release promises deeper AI integration for phishing detection, while the Gemini Robotics team hints at a commercial kit later this year. Pixel users should monitor battery‑life telemetry after the September patch, and Google Voice subscribers will likely see additional collaboration tools in the next billing cycle. Tracking these signals will reveal whether Google can harmonize AI ambition with product stability.
+
+## Updates
+
+- **2026-08-14** — You can now turn off Google Gemini&#8217;s visible watermarks ([source](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal))
