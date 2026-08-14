@@ -1,16 +1,17 @@
 ---
 title: "NASA’s Moon Base Plans Clash With Selection Bias and Crew Strain"
 date: 2026-05-26T22:02:09.808Z
-modified_date: 2026-06-03T23:49:05.941Z
+modified_date: 2026-08-14T20:26:32.068Z
 tags: ["lunar-base","nasa","space-policy","mission-selection"]
 hero_image: "/hero/2026-05-26-nasa-s-moon-base-plans-clash-with-selection-bias-and-crew-strain-252914.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "NASA lunar habitat concept under a starry sky"
 description: "NASA’s lunar perimeter talks expose legal hurdles while mission picks and crew rotations reveal deeper systemic pressures."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## NASA’s Moon Base Perimeter Talk
@@ -49,4 +50,5 @@ Finally, the ISS crew schedule will be a barometer for NASA’s resilience. The 
 
 ## Updates
 
+- **2026-08-14** — Samsung has new Galaxy headphones in the works ([source](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones))
 - **2026-06-03** — The Hisense L9Q short-throw projector perfectly nails the low-profile theater room feel ([source](https://9to5google.com/2026/06/03/the-hisense-l9q-short-throw-projector-perfectly-nails-the-low-profile-theater-room-feel/))
