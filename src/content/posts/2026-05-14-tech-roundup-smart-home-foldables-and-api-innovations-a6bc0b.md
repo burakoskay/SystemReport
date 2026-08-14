@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Smart Home, Foldables, and API Innovations"
 date: 2026-05-14T14:32:36.606Z
-modified_date: 2026-08-10T22:31:34.008Z
+modified_date: 2026-08-14T18:45:44.077Z
 tags: ["smart home","foldable phones","API innovations"]
 hero_image: "/hero/2026-05-14-tech-roundup-smart-home-foldables-and-api-innovations-a6bc0b.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "This week's tech news covers smart home devices, foldable phone reviews, and API innovations in observability and job application tracking."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The API space is also likely to have significant implications for the way we wor
 
 ## Updates
 
+- **2026-08-14** — Apple TV has 15+ new movies and it’s just the start of a big fall ahead ([source](https://9to5mac.com/2026/08/14/apple-tv-has-15-new-movies-and-its-just-the-start-of-a-big-fall-ahead/))
 - **2026-08-10** — MagSafe Monday: The TESSAN AERO 5000 brings a titanium finish to an ultra thin battery ([source](https://9to5mac.com/2026/08/10/tessan-aero-5000/))
 - **2026-08-09** — John C. Lilly on solid state intelligence and the elimination of man (1978) ([source](https://kibotronics.net/unlisted/lilly-machines/))
 - **2026-05-22** — Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses ([source](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/))

@@ -1,18 +1,20 @@
 ---
 title: "Minecraft Movie Sequel Gets Title, Cast Updates"
 date: 2026-05-31T23:06:10.765Z
+modified_date: 2026-08-14T18:45:32.191Z
 tags: ["Minecraft","Movie Sequel","Gaming"]
 hero_image: "/hero/2026-05-31-minecraft-movie-sequel-gets-title-cast-updates-f8d3d2.jpg"
 hero_image_credit_name: "Alexander Kovalev"
 hero_image_credit_url: "https://www.pexels.com/@alscre"
 visual_keyword: "Minecraft"
 description: "The Minecraft movie sequel is titled 'A Minecraft Movie Squared' with Kirsten Dunst set to star as Alex. Matt Berry will play a human character."
-sources_count: 2
-author: "sam-whitfield"
+sources_count: 3
 audio_path: "/audio/2026-05-31-minecraft-movie-sequel-gets-title-cast-updates-f8d3d2.mp3"
 audio_bytes: 600025
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Minecraft Movie Squared
@@ -50,3 +52,7 @@ As the production of 'A Minecraft Movie Squared' continues, fans and industry ob
 ## Future Prospects
 
 The success of 'A Minecraft Movie Squared' could pave the way for future Minecraft-related projects, including sequels, spin-offs, and merchandise. As the gaming and film industries continue to evolve, it will be interesting to see how the Minecraft franchise adapts and grows. With its dedicated fanbase and proven track record, Minecraft is well-positioned to remain a major player in the gaming and entertainment industries for years to come.
+
+## Updates
+
+- **2026-08-14** — Policy experts: Europe stuck between "rock and a hard place" on launch ([source](https://arstechnica.com/space/2026/08/policy-experts-europe-stuck-between-rock-and-a-hard-place-on-launch/))

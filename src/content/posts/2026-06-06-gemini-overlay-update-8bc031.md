@@ -1,18 +1,20 @@
 ---
 title: "Gemini Overlay Update"
 date: 2026-06-06T21:10:34.710Z
+modified_date: 2026-08-14T18:45:26.251Z
 tags: ["Google","Android","Gemini Overlay"]
 hero_image: "/hero/2026-06-06-gemini-overlay-update-8bc031.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Google updates Gemini overlay on Android"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-06-gemini-overlay-update-8bc031.mp3"
 audio_bytes: 606921
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Gemini Overlay Update
 Google is rolling out updates to the Gemini overlay on Android, following the Neural Expressive redesign at I/O 2026. The update includes Dynamic Color and integration of 'Screen content'. This change signifies Google's continued effort to refine the Android interface, building on the foundation laid by the Neural Expressive redesign.
@@ -37,3 +39,7 @@ The update to the Gemini overlay reflects the broader trend in the tech industry
 
 ## Next Steps
 The source quotes Google on the Neural Expressive redesign but does not provide direct quotes on the Gemini overlay updates. Users will have to wait for further information on the rollout and eligibility. As the update becomes available to more users, it will be interesting to see how the community reacts to the new features and whether they enhance the overall user experience. Developers will need to monitor user feedback and adjust their apps accordingly, ensuring that they take full advantage of the updated interface. Additionally, Google may need to address any issues that arise during the rollout, such as compatibility problems with certain devices or apps.
+
+## Updates
+
+- **2026-08-14** — Mark Zuckerberg has an Instagzam ([source](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast))

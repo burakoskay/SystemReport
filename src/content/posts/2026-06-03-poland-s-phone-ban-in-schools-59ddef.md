@@ -1,18 +1,20 @@
 ---
 title: "Poland's Phone Ban in Schools"
 date: 2026-06-03T11:11:33.235Z
+modified_date: 2026-08-14T18:45:38.153Z
 tags: ["education","technology","Poland"]
 hero_image: "/hero/2026-06-03-poland-s-phone-ban-in-schools-59ddef.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "school"
 description: "Poland's government approves bill to ban phones in classrooms, sparking debate on education and tech's role."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-03-poland-s-phone-ban-in-schools-59ddef.mp3"
 audio_bytes: 545690
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Poland's Phone Ban
@@ -62,3 +64,7 @@ The Polish government's ban on phones in schools is a bold move that will be clo
 ## What to Watch
 
 The impact of the ban on student performance and the potential for other countries to follow suit. Will the ban lead to improved academic performance, or will it have unintended consequences? Only time will tell.
+
+## Updates
+
+- **2026-08-14** — The Mandalorian and Grogu will hit Disney+ on September 2 ([source](https://www.engadget.com/2237227/the-mandalorian-and-grogu-streaming-release-date/))

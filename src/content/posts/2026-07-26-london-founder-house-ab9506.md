@@ -1,19 +1,20 @@
 ---
 title: "London Founder House"
 date: 2026-07-26T17:13:41.091Z
-modified_date: 2026-08-06T23:56:08.100Z
+modified_date: 2026-08-14T18:45:55.840Z
 tags: ["London Founder House","Work-Life Balance","Startup Ecosystem"]
 hero_image: "/hero/2026-07-26-london-founder-house-ab9506.jpg"
 hero_image_credit_name: "Bryce Carithers"
 hero_image_credit_url: "https://www.pexels.com/@bryce-carithers-11680701"
 visual_keyword: "Founder House"
 description: "London founder house prioritizes work-life balance"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-26-london-founder-house-ab9506.mp3"
 audio_bytes: 533987
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to London Founder House
@@ -35,4 +36,5 @@ Groq will continue to experiment with its approach, refining its methods and gat
 
 ## Updates
 
+- **2026-08-14** — Seven books I keep close because I love them ([source](https://blog.plover.com/2026/08/02/))
 - **2026-08-06** — Apple TV’s fall lineup reveals every new show and movie coming soon ([source](https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/))
