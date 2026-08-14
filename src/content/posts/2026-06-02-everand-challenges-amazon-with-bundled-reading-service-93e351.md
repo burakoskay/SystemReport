@@ -1,19 +1,20 @@
 ---
 title: "Everand Challenges Amazon with Bundled Reading Service"
 date: 2026-06-02T21:00:33.260Z
-modified_date: 2026-08-12T14:53:25.796Z
+modified_date: 2026-08-14T14:47:10.996Z
 tags: ["Everand","Amazon","digital reading","subscription services"]
 hero_image: "/hero/2026-06-02-everand-challenges-amazon-with-bundled-reading-service-93e351.jpg"
 hero_image_credit_name: "Marta Branco"
 hero_image_credit_url: "https://www.pexels.com/@martabranco"
 visual_keyword: "book"
 description: "Everand launches a reading subscription service bundling e-books, audiobooks, and book clubs, challenging Amazon's dominance."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-02-everand-challenges-amazon-with-bundled-reading-service-93e351.mp3"
 audio_bytes: 598144
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ One specific data point to watch is the number of subscribers Everand attracts i
 
 ## Updates
 
+- **2026-08-14** — SpaceXAI completes its Cursor acquisition following Grok Bot and Grok 4.6 release ([source](https://9to5mac.com/2026/08/14/spacex-lands-deal-to-likely-purchase-claude-code-and-openai-codex-competitor/))
 - **2026-08-12** — Google's Pixel 11 has a 30-hour battery life and a slimmer camera bar ([source](https://www.engadget.com/2234844/google-pixel-11-announced-specs-availability/))

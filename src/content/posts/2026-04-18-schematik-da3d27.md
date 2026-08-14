@@ -1,16 +1,17 @@
 ---
 title: "Schematik"
 date: 2026-04-18T11:07:18.841Z
-modified_date: 2026-05-13T06:51:59.250Z
+modified_date: 2026-08-14T14:47:23.564Z
 tags: ["hardware","coding","Anthropic"]
 hero_image: "/hero/2026-04-18-schematik-da3d27.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "hardware"
 description: "Schematik helps code physical devices with 'vibe code'"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -22,5 +23,6 @@ The company's vision contrasts with concerns about its development.
 
 ## Updates
 
+- **2026-08-14** — Apple One gets even better in iOS 27, here’s what’s new ([source](https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/))
 - **2026-05-13** — EFF to 4th Circuit: Electronic Device Searches at the Border Require a Warrant ([source](https://www.eff.org/deeplinks/2026/05/eff-fourth-circuit-electronic-device-searches-border-require-warrant))
 - **2026-05-01** — Virgin Galactic reveals new ship, but it's running out of time and cash ([source](https://arstechnica.com/space/2026/05/the-suborbital-space-tourism-industry-is-on-life-support/))

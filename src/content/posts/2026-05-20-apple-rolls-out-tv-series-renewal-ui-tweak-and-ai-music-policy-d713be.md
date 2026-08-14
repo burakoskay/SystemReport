@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-07-29T22:56:48.822Z
+modified_date: 2026-08-14T14:47:04.714Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-08-14** — tvOS 27 could push you to upgrade to new Apple TV 4K ([source](https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/))
 - **2026-07-29** — Keychron announces first open-source firmware for gaming mice ([source](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice))
 - **2026-07-29** — Apple Upgrade is a really great deal for one reason ([source](https://9to5mac.com/2026/07/29/apple-upgrade-is-a-really-great-deal-for-one-reason/))
 - **2026-07-27** — watchOS 26.6 available now for Apple Watch, here’s what’s new ([source](https://9to5mac.com/2026/07/27/watchos-26-6-available-now-for-apple-watch-heres-whats-new/))

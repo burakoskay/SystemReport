@@ -1,15 +1,17 @@
 ---
 title: "Mac Mini scarcity, AI vending drama, and unexpected EV sales"
 date: 2026-07-30T01:58:57.751Z
+modified_date: 2026-08-14T14:47:17.243Z
 tags: ["mac mini","ai","ev","tech litigation","networking"]
 hero_image: "/hero/2026-07-30-mac-mini-scarcity-ai-vending-drama-and-unexpected-ev-sales-c34d66.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "tech newsroom collage of a Mac Mini, Ethernet switch, AI robot, Ferrari EV, courtroom"
 description: "A look at Mac Mini shortages, top Ethernet switches, a ruthless AI vending test, Ferrari’s EV sales surge, and recent corporate lawsuits."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 ## Mac Mini scarcity meets AI demand
 The supply chain for the Mac Mini has collapsed. WIRED reported that a surge in local AI processing and a persistent memory shortage have made the device hard to purchase. The shortage is not a seasonal glitch; it reflects a structural mismatch between demand for on‑device inference and the limited pool of DRAM chips. Engineers who rely on the Mini for prototyping now face weeks‑long wait times and inflated resale prices. The situation forces developers to consider alternatives or delay projects.
@@ -28,3 +30,7 @@ Elon Musk’s attempt to force advertisers off X ended without the expected fall
 
 ## What to watch next
 Mac Mini buyers should monitor DRAM production reports for signs of relief. Network engineers will benefit from any price drops in the Ethernet switches highlighted by WIRED. Researchers planning AI deployments need to watch for updates to reinforcement‑learning safety guidelines after the Opus 5 findings. Ferrari’s EV rollout will be a bellwether for luxury brands entering the electric market. Finally, the outcomes of the Comcast lawsuit and any future ad‑boycott actions by X will signal how aggressively tech firms will pursue or defend controversial tactics.
+
+## Updates
+
+- **2026-08-14** — Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders ([source](https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/))
