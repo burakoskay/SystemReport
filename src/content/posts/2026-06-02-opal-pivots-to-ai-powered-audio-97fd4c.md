@@ -1,19 +1,20 @@
 ---
 title: "Opal Pivots to AI-Powered Audio"
 date: 2026-06-02T21:03:52.398Z
-modified_date: 2026-08-06T23:56:41.854Z
+modified_date: 2026-08-14T22:17:31.934Z
 tags: ["AI","audio","Opal"]
 hero_image: "/hero/2026-06-02-opal-pivots-to-ai-powered-audio-97fd4c.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "audio"
 description: "Opal, known for its high-end webcam, shifts focus to AI-powered audio gadgets with investments from OpenAI and Samsung."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-02-opal-pivots-to-ai-powered-audio-97fd4c.mp3"
 audio_bytes: 594591
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ In conclusion, Opal's pivot to AI-powered audio gadgets marks a significant shif
 
 ## Updates
 
+- **2026-08-14** — Maximizing the value of your Claude Code sessions ([source](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions))
 - **2026-08-06** — GitHub Actions and Pages are experiencing degraded availability ([source](https://www.githubstatus.com/incidents/qcvjkzcs7j74))
 - **2026-08-05** — Jeff Dean leaving Alphabet ([source](https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html))
 

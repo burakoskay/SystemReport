@@ -1,19 +1,20 @@
 ---
 title: "Legacy's NFT Collapse Exposes Developer Risks"
 date: 2026-04-27T12:19:09.718Z
-modified_date: 2026-08-12T09:08:14.351Z
+modified_date: 2026-08-14T22:17:25.705Z
 tags: ["NFT","software patents","play-to-earn games"]
 hero_image: "/hero/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ In conclusion, the collapse of Legacy serves as a reminder of the risks and chal
 
 ## Updates
 
+- **2026-08-14** — ChatGPT subscribers can now open and edit Google Drive files from inside the chat ([source](https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/))
 - **2026-08-12** — Google is now sending out emails with discount codes for the Pixel 11 ([source](https://www.engadget.com/2235193/google-sending-out-emails-discount-codes-pixel-11/))
 - **2026-06-07** — The OnlyFans Economy of American AI ([source](https://leoveanu.com/2026-06-06-qwen3.7max/))
 - **2026-05-10** — Report: macOS 27 to feature UI tweaks to address some Tahoe design complaints ([source](https://9to5mac.com/2026/05/10/report-macos-27-to-feature-ui-tweaks-to-address-some-tahoe-design-complaints/))

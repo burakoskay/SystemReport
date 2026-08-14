@@ -1,15 +1,17 @@
 ---
 title: "Zak Brown's Enduring Passion for Racing"
 date: 2026-06-02T10:48:39.030Z
+modified_date: 2026-08-14T22:17:00.799Z
 tags: ["McLaren","Zak Brown","Formula One"]
 hero_image: "/hero/2026-06-02-zak-brown-s-enduring-passion-for-racing-96b38c.jpg"
 hero_image_credit_name: "Aleksandar Andreev"
 hero_image_credit_url: "https://www.pexels.com/@andreevaleksandar"
 visual_keyword: "Zak Brown"
 description: "McLaren CEO Zak Brown on rebuilding the brand, fan obsession, and the allure of racing."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Zak Brown's Passion for Racing
 
@@ -50,3 +52,7 @@ The success of McLaren will have implications for the broader racing community. 
 ## Conclusion
 
 In conclusion, Zak Brown's passion for racing is a key aspect of his leadership style and his approach to rebuilding McLaren. With his experience as a driver and his commitment to excellence, Brown is well-positioned to lead the team to success in the world of Formula One. The next chapter in McLaren's history promises to be as thrilling as the races that have defined its legacy, and fans will be watching closely to see how Brown's leadership style and passion for racing translate into success on the track.
+
+## Updates
+
+- **2026-08-14** — Kia's EV3 will start under $31,000 in the US ([source](https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/))

@@ -1,18 +1,20 @@
 ---
 title: "Waymo’s robotaxi woes spill from theft to battery reuse"
 date: 2026-06-04T18:28:15.824Z
+modified_date: 2026-08-14T22:16:54.464Z
 tags: ["waymo","autonomous-vehicles","hyundai"]
 hero_image: "/hero/2026-06-04-waymo-s-robotaxi-woes-spill-from-theft-to-battery-reuse-55a6c1.jpg"
 hero_image_credit_name: "David McElwee"
 hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "san francisco street with robotaxi and police tape"
 description: "Waymo grapples with a burglary, street‑level safety glitches, a battery‑to‑grid deal, and a $2.5 billion Hyundai order as regulators stare down the AV boom."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-04-waymo-s-robotaxi-woes-spill-from-theft-to-battery-reuse-55a6c1.mp3"
 audio_bytes: 554676
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Waymo’s robotaxis get robbed, exposing data gaps
 A burglar lifted a pair of yoga pants from a Waymo robotaxi cruising through San Francisco and walked away with the loot. The theft forced Waymo to reveal how its fleet records video from every ride and where that footage lives. The incident shows that the company treats raw sensor streams as a valuable asset, yet it also raises questions about who can access those files and how quickly they can be reviewed when a crime occurs.
@@ -33,3 +35,7 @@ The partnership also gives Hyundai a high‑profile validation of its EV line‑
 
 ## What to watch: regulatory pressure and fleet rollout
 California lawmakers are drafting tighter AV‑reporting bills after the string of San Francisco incidents, and the CPUC is expected to review its robotaxi permitting process before the next election cycle. Observers will track whether Waymo’s battery‑reuse program scales fast enough to offset the environmental impact of a 50,000‑vehicle fleet, and whether Hyundai can meet Waymo’s delivery cadence without compromising quality. The next data point to watch is the first batch of IONIQ 5s hitting Waymo streets in 2025; its performance will shape the competitive dynamics among the handful of firms likely to dominate autonomous mobility.
+
+## Updates
+
+- **2026-08-14** — The Next Big Influencer Is This 4-Foot-Tall Robot From China ([source](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/))
