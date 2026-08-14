@@ -1,16 +1,17 @@
 ---
 title: "GitHub Investigates Breach, Thousands of Repositories Compromised"
 date: 2026-05-20T15:44:48.943Z
-modified_date: 2026-06-04T18:24:10.756Z
+modified_date: 2026-08-14T10:54:04.298Z
 tags: ["GitHub","cybersecurity","breach"]
 hero_image: "/hero/2026-05-20-github-investigates-breach-thousands-of-repositories-compromised-a295b3.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub"
 description: "GitHub investigates a breach where hackers stole data from thousands of internal repositories. No evidence of customer data theft."
-sources_count: 9
+sources_count: 10
 author: "elena-marchetti"
 ---
+
 
 
 ## Breach at GitHub
@@ -73,4 +74,5 @@ Users must remain vigilant and take necessary precautions to protect their data.
 
 ## Updates
 
+- **2026-08-14** — 5 Weird Tricks for Having a Brain ([source](https://www.wired.com/galaxy-brain/))
 - **2026-06-04** — The Googlebook might not be for you, and that’s okay [Video] ([source](https://9to5google.com/2026/06/04/the-googlebook-might-not-be-for-you-and-thats-okay-video/))

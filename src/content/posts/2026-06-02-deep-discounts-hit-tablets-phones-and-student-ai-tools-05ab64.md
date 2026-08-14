@@ -1,19 +1,20 @@
 ---
 title: "Deep discounts hit tablets, phones and student AI tools"
 date: 2026-06-02T16:46:13.398Z
-modified_date: 2026-07-29T17:11:02.216Z
+modified_date: 2026-08-14T10:54:08.789Z
 tags: ["deals","tablets","student-tools","ai","discounts"]
 hero_image: "/hero/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "stack of discounted tech devices and student laptop with AI icons"
 description: "Lenovo, Samsung and Apple slash prices while a flood of student AI bundles reshapes the developer toolkit market."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.mp3"
 audio_bytes: 684662
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Tablet and phone price cuts hit the sweet spot
@@ -56,4 +57,5 @@ For consumers, the immediate effect is a rare window to acquire premium devices 
 
 ## Updates
 
+- **2026-08-14** — Apple trained its own AI model for China with help from Alibaba ([source](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba))
 - **2026-07-29** — The Ferrari Luce has at least 500 fans ([source](https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales))
