@@ -1,16 +1,17 @@
 ---
 title: "Golden Child's $37M Launch Targets Luxury Pet Market"
 date: 2026-04-28T06:46:04.633Z
-modified_date: 2026-06-04T15:26:06.747Z
+modified_date: 2026-08-14T12:53:12.449Z
 tags: ["pet food","hardware","ai assistants","tech industry","consumer tech"]
 hero_image: "/hero/2026-04-28-golden-child-s-37m-launch-targets-luxury-pet-market-eb65ef.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "premium dog food with drizzle beside high‑end gaming controller"
 description: "Golden Child raises $37M to debut premium frozen meals and a novel ‘drizzle’ for affluent pet owners, highlighting a move toward high‑end pet nutrition."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Premium pet food goes boutique
@@ -46,4 +47,5 @@ Golden Child’s next pricing announcement will reveal whether the market accept
 
 ## Updates
 
+- **2026-08-14** — CMF hit the balance between cheap and good clip earbuds ([source](https://www.theverge.com/tech/979928/cmf-clip-pro-review))
 - **2026-06-04** — The SpaceX IPO Will Be the Theft of the Century ([source](https://montanaskeptic.substack.com/p/the-spacex-ipo-will-be-the-theft))

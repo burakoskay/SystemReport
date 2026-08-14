@@ -1,16 +1,17 @@
 ---
 title: "Google Expands Preferred Sources and Tightens Search Policies"
 date: 2026-04-30T21:21:32.057Z
-modified_date: 2026-06-06T03:55:03.545Z
+modified_date: 2026-08-14T12:52:54.029Z
 tags: ["google","search","ai"]
 hero_image: "/hero/2026-04-30-google-expands-preferred-sources-and-tightens-search-policies-cd75ba.jpg"
 hero_image_credit_name: "Sarah Blocksidge"
 hero_image_credit_url: "https://www.pexels.com/@sarah-blocksidge-69426152"
 visual_keyword: "Google search interface with highlighted Preferred Sources and updated spam policy notices"
 description: "Google rolls out global Preferred Sources and March 2024 spam policies to enhance search quality."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Google’s next moves will determine if these updates are evolutionary or revolu
 
 ## Updates
 
+- **2026-08-14** — Why does Opus 5 feel worse to work with? ([source](https://mun-logadan.github.io/why-does-opus-5-feel-worse/))
 - **2026-06-06** — Ithaca is a mysterious road-trip RPG from Bury Me, My Love studio Pixel Hunt ([source](https://www.engadget.com/2188360/ithaca-is-a-mysterious-road-trip-rpg-from-bury-me-my-love-studio-pixel-hunt/))
 - **2026-05-19** — The future of Google is a search box that does everything ([source](https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026))
 - **2026-05-19** — Google Search as you know it is over ([source](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/))

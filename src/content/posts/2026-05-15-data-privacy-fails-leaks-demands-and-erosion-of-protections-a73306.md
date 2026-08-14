@@ -1,16 +1,17 @@
 ---
 title: "Data Privacy Fails: Leaks, Demands, and Erosion of Protections"
 date: 2026-05-15T21:15:59.532Z
-modified_date: 2026-08-06T23:55:45.722Z
+modified_date: 2026-08-14T12:52:47.573Z
 tags: ["data privacy","cybersecurity","data breaches","surveillance","legislation"]
 hero_image: "/hero/2026-05-15-data-privacy-fails-leaks-demands-and-erosion-of-protections-a73306.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "data breach timeline with exposed documents"
 description: "Hotel systems, travel platforms, and government actions expose sensitive data, highlighting security gaps."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ Congressional hearings on the 2015 bill will determine whether protections for c
 
 ## Updates
 
+- **2026-08-14** — Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price ([source](https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/))
 - **2026-08-06** — Report shares new pricing and design details about OpenAI’s first device ([source](https://9to5mac.com/2026/08/06/report-shares-new-pricing-and-design-details-about-openais-first-device/))
 - **2026-07-29** — X Says Australia’s Under-16s Social Media Ban Risks Interfering With Foreign Law ([source](https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/))
 - **2026-06-02** — Motorola Edge (2026) is coming to the US for $599 with a smaller 6.3-inch display ([source](https://9to5google.com/2026/06/02/motorola-edge-2026-specs-price-release-date/))
