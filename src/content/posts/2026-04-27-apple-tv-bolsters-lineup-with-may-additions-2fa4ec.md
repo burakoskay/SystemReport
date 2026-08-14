@@ -1,19 +1,20 @@
 ---
 title: "Apple TV+ Bolsters Lineup with May Additions"
 date: 2026-04-27T03:35:18.610Z
-modified_date: 2026-05-16T15:01:25.822Z
+modified_date: 2026-08-14T01:22:46.737Z
 tags: ["Apple TV+","Streaming","Original Content"]
 hero_image: "/hero/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV+"
 description: "Apple TV+ adds new series and films in May, including a John Travolta-directed movie, to expand its original content offerings."
-sources_count: 2
-author: "sam-whitfield"
+sources_count: 3
 audio_path: "/audio/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.mp3"
 audio_bytes: 567424
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple TV+'s May Lineup
@@ -58,4 +59,5 @@ In the coming months, Apple TV+ is expected to continue investing in original co
 
 ## Updates
 
+- **2026-08-14** — Where did the old web go? We followed 657,607 links to find out ([source](https://0.mk/blog/link-rot))
 - **2026-05-16** — Apple @ Work: How AI is going to change cybersecurity training for Mac admins ([source](https://9to5mac.com/2026/05/16/apple-work-how-ai-is-going-to-change-cybersecurity-training-for-mac-admins/))

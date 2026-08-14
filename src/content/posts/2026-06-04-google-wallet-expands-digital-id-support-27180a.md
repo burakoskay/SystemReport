@@ -1,19 +1,20 @@
 ---
 title: "Google Wallet Expands Digital ID Support"
 date: 2026-06-04T15:29:49.583Z
-modified_date: 2026-07-30T15:49:12.272Z
+modified_date: 2026-08-14T01:22:29.465Z
 tags: ["Google Wallet","Digital ID","Apple Vision Air"]
 hero_image: "/hero/2026-06-04-google-wallet-expands-digital-id-support-27180a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google Wallet"
 description: "Google Wallet adds digital ID support in Europe and updates Google Pay checkout. Meanwhile, Apple's Vision Air may be delayed."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-04-google-wallet-expands-digital-id-support-27180a.mp3"
 audio_bytes: 589994
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,5 +77,6 @@ The expansion of digital ID support in Google Wallet and the potential delay of 
 
 ## Updates
 
+- **2026-08-14** — Trump declares 100 percent tariffs on many drones and all aircraft parts ([source](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts))
 - **2026-07-30** — Samsung teases Android XR glasses, Galaxy Tab S12, S26 FE, and more ([source](https://9to5google.com/2026/07/30/samsung-teases-android-xr-glasses-galaxy-tab-s12-s26-fe-and-more/))
 - **2026-07-28** — Smart rings are looking like my kind of AI gadget ([source](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index))
