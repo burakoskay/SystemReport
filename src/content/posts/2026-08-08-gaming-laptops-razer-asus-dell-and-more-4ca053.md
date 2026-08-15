@@ -1,18 +1,20 @@
 ---
 title: "Gaming Laptops: Razer, Asus, Dell, and More"
 date: 2026-08-08T22:23:58.383Z
+modified_date: 2026-08-15T20:16:28.169Z
 tags: ["gaming laptops","Razer","Asus","Dell"]
 hero_image: "/hero/2026-08-08-gaming-laptops-razer-asus-dell-and-more-4ca053.jpg"
 hero_image_credit_name: "Rafael Minguet Delgado"
 hero_image_credit_url: "https://www.pexels.com/@thales13"
 visual_keyword: "gaming laptop"
 description: "Expert reviews of top gaming laptops"
-sources_count: 1
-author: "david-okafor"
+sources_count: 2
 audio_path: "/audio/2026-08-08-gaming-laptops-razer-asus-dell-and-more-4ca053.mp3"
 audio_bytes: 684244
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Gaming Laptops
 Razer, Asus, and Dell are top contenders for the best gaming laptops. 
@@ -52,3 +54,7 @@ As technology continues to advance, we can expect to see even more powerful and 
 The rise of gaming laptops has also had a significant impact on the gaming industry as a whole. 
 With more powerful and portable devices available, gamers are no longer limited to playing on desktops or consoles. 
 This has led to new opportunities for game developers, as well as changes in the way games are designed and marketed.
+
+## Updates
+
+- **2026-08-15** — Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac ([source](https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/))

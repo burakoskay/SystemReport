@@ -1,19 +1,20 @@
 ---
 title: "eBay Settlement"
 date: 2026-07-29T02:03:14.355Z
-modified_date: 2026-08-12T12:55:52.042Z
+modified_date: 2026-08-15T20:16:22.321Z
 tags: ["eBay","Settlement","E-commerce"]
 hero_image: "/hero/2026-07-29-ebay-settlement-ca43b3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "eBay"
 description: "eBay settles with e-commerce newsletter writers for $56M"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-29-ebay-settlement-ca43b3.mp3"
 audio_bytes: 571604
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The settlement between eBay and the Steiners will have far-reaching implications
 
 ## Updates
 
+- **2026-08-15** — Anthropic shares more details about how Claude’s new watermarks will work ([source](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/))
 - **2026-08-12** — Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation ([source](https://woxi.ad-si.com))
 - **2026-08-02** — How the words we teach English language learners changed ([source](https://pudding.cool/2026/07/essential-words/))
 
