@@ -1,16 +1,17 @@
 ---
 title: "SpaceCamp's 40th: 1986 edutainment oddball still divides"
 date: 2026-05-31T14:01:48.643Z
-modified_date: 2026-08-05T19:23:09.157Z
+modified_date: 2026-08-15T14:16:57.023Z
 tags: ["gaming","retro","culture","technology"]
 hero_image: "/hero/2026-05-31-spacecamp-s-40th-1986-edutainment-oddball-still-divides-24b2af.jpg"
 hero_image_credit_name: "Marcelo Chagas"
 hero_image_credit_url: "https://www.pexels.com/@marcelochagas"
 visual_keyword: "retro computer game cover with space-themed graphics"
 description: "Ars Technica’s 40‑year retrospective forces a fresh look at SpaceCamp’s mixed legacy and its relevance to today’s game designers."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## The retrospective that sparked debate
@@ -38,4 +39,5 @@ Watch for any official remaster or indie homage that cites SpaceCamp as inspirat
 
 ## Updates
 
+- **2026-08-15** — Pixel 11 ads show a mysterious screen-equipped tracker that’s not Pixel Watch 5 or Fitbit Air [Gallery] ([source](https://9to5google.com/2026/08/15/google-pixel-11-ad-unknown-fitbit-tracker/))
 - **2026-08-05** — Sure seems like Fenix Flexin used AI music generator Treblo ([source](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo))

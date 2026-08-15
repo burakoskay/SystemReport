@@ -1,15 +1,17 @@
 ---
 title: "Twitch Streamers Can Opt Out of Training Amazon's AI"
 date: 2026-08-13T04:07:14.228Z
+modified_date: 2026-08-15T14:16:52.327Z
 tags: ["Twitch","Amazon","AI","Data Privacy"]
 hero_image: "/hero/2026-08-13-twitch-streamers-can-opt-out-of-training-amazon-s-ai-3d94f1.jpg"
 hero_image_credit_name: "Florenz Mendoza"
 hero_image_credit_url: "https://www.pexels.com/@florenz-mendoza-3667096"
 visual_keyword: "Twitch Streamers"
 description: "Twitch introduces opt-out for AI model training"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Twitch Streamers Can Opt Out of Training Amazon's AI
 Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. This opt-out option applies to streams, VODs, clips, stream chats, and pictures and text on the channel, according to a Twitch support page.
@@ -31,3 +33,7 @@ The introduction of the opt-out option may have significant implications for Ama
 The opt-out option introduced by Twitch may also have broader implications for the live streaming industry as a whole. As other companies in the industry take note of Twitch's move, they may also consider introducing similar opt-out options for their users. This could lead to a shift towards greater transparency and control over data usage across the industry.
 ## Future Developments
 As the use of AI models continues to grow, it is likely that we will see further developments in the area of data usage and transparency. Companies like Amazon and Twitch will need to continue to balance the need for data to train their AI models with the need to respect the privacy and concerns of their users. The introduction of the opt-out option by Twitch is an important step in this process, and it will be interesting to see how the company and the broader industry continue to evolve in this area.
+
+## Updates
+
+- **2026-08-15** — Xteink’s tiny e-readers are getting access to free books through Libby ([source](https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader))
