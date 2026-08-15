@@ -1,18 +1,20 @@
 ---
 title: "Rachika Nayar's Unexpected Turn"
 date: 2026-08-03T06:59:33.474Z
+modified_date: 2026-08-15T18:20:33.871Z
 tags: ["Rachika Nayar","Heaven Come Crashing","Instrumental Music","Experimental Sound"]
 hero_image: "/hero/2026-08-03-rachika-nayar-s-unexpected-turn-094b66.jpg"
 hero_image_credit_name: "Thirdman"
 hero_image_credit_url: "https://www.pexels.com/@thirdman"
 visual_keyword: "drum"
 description: "Heaven Come Crashing brings a surprise"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-03-rachika-nayar-s-unexpected-turn-094b66.mp3"
 audio_bytes: 609011
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Heaven Come Crashing
 Rachika Nayar's Heaven Come Crashing drops a massive drum and bass beat two minutes and thirty seconds into the title track. This album is almost entirely drum-free, aside from brief moments like the rapid-fire mechanical hi-hats on the second track, 'Tetramorph'.
@@ -32,3 +34,7 @@ The release of Heaven Come Crashing marks a new chapter in Rachika Nayar's music
 The music industry is constantly evolving, with new sounds and styles emerging all the time. Nayar's experimentation with percussion in Heaven Come Crashing is part of this larger trend. Other artists are also pushing the boundaries of what is possible with instrumental music, incorporating new sounds and techniques into their work.
 ## Broader Impact
 The impact of Heaven Come Crashing extends beyond the music industry. The album's themes of desperate longing and experimentation with new sounds resonate with listeners on a deeper level. As Nayar continues to evolve as an artist, her music is likely to continue to inspire and influence others, both within and outside of the music industry.
+
+## Updates
+
+- **2026-08-15** — Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments ([source](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review))
