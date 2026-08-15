@@ -1,18 +1,20 @@
 ---
 title: "Amazon VPC gets direct internet access"
 date: 2026-07-31T17:52:48.769Z
+modified_date: 2026-08-15T00:53:13.618Z
 tags: ["cloud","regulation","networking"]
 hero_image: "/hero/2026-07-31-amazon-vpc-gets-direct-internet-access-f0d333.jpg"
 hero_image_credit_name: "Field Engineer"
 hero_image_credit_url: "https://www.pexels.com/@field-engineer-147254"
 visual_keyword: "data center with cloud icons and router"
 description: "Amazon expands VPC networking while the EU Right to Repair directive launches, and Engadget reminds users simple Wi‑Fi fixes still matter."
-sources_count: 4
-author: "lena-volkov"
+sources_count: 5
 audio_path: "/audio/2026-07-31-amazon-vpc-gets-direct-internet-access-f0d333.mp3"
 audio_bytes: 586232
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Amazon expands VPC connectivity
 
@@ -41,3 +43,7 @@ The advice also includes checking physical placement and ensuring that neighbori
 ## What to watch
 
 The industry will monitor how quickly AWS customers adopt the direct‑Internet VPC feature and whether security incidents rise as public subnets proliferate. In Europe, enforcement actions and compliance reports from the European Commission will reveal how the Right to Repair directive reshapes hardware design cycles. Finally, Engadget’s checklist will likely see renewed traffic as consumers test whether simple configuration changes can stave off new router purchases. Tracking AWS usage metrics, EU compliance audits, and consumer Wi‑Fi performance surveys will indicate whether these three developments converge into a more open, repairable, and efficient networking ecosystem.
+
+## Updates
+
+- **2026-08-15** — Talks to sell PayPal to Stripe and Advent are heating up ([source](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/))

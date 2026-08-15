@@ -1,15 +1,17 @@
 ---
 title: "AI funding spikes as trust tools spark legal and platform"
 date: 2026-07-31T21:03:29.177Z
+modified_date: 2026-08-15T00:53:31.298Z
 tags: ["ai","funding","regulation","privacy"]
 hero_image: "/hero/2026-07-31-ai-funding-spikes-as-trust-tools-spark-legal-and-platform-4fc0e7.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "digital network of AI symbols overlaying a globe"
 description: "Ellis AI lands $10M seed while AI‑generated trust fuels scams, a federal lawsuit, and Google’s quick feature rollback."
-sources_count: 10
+sources_count: 11
 author: "lena-volkov"
 ---
+
 
 Ellis AI secured $10 million in seed funding as AI tools for finance and deception clash across the tech sector.
 
@@ -40,6 +42,10 @@ Within hours of launch, the company pulled the tool, citing concerns that the ea
 **What to watch**
 
 Investors will likely monitor how funding flows to AI startups that serve regulated markets, especially as legal challenges like the Yale lawsuit test the boundaries of AI‑based detection. Regulators may issue guidance on AI‑generated trust mechanisms, while platforms such as Google could adopt stricter rollout protocols for experimental features. The next data point to track is the U.S. Federal Trade Commission’s stance on AI‑driven deception, which could shape both venture decisions and compliance requirements for firms like Ellis AI.
+
+## Updates
+
+- **2026-08-15** — Firefox is now the last major browser that still supports uBlock Origin ([source](https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html))
 
 [^1]: [alternativecreditinvestor.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZjLNS8uIvpzJLesDH7PdiIr3r9dgxR0nW467S5O9FhbNjV7svOzxKRBaZ6qrTsdJeI4G75p2F7F3pIFiKG7sz3eQTw8OZS1n1KX8sWkOeEIuJgTCvK3VawsVlfP8W4ZyQXVQ9EK2H7a2iJBeZWh8AFGnJuulgYgvhdeRTi7TQA7SRl8TSnXO4bCvsX6M1QDiBmbzcIGJHs7pooS9WroRj08qpbE0Gha2HSgpC)
 [^2]: [zamin.uz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAoayLvVuHOQznB5tz9MItvHaoDvVY3cP5_Uj6H0LuqhCT76xTYiGPJD2q5q6scy-d3xqErMY_VeSjjDeScoVS3Ifvkf7kRvearyMhYm0B2waLEKMElp86KqZ3MhEYeP8wLRBBsi6xVCGUjhKPCbDTBmkS0TsJHcp9ybesimjyg8jO9PM5ibbnSxK6U8pdHiQYiyEI8Z4GE2v2tFz1b0jTGONuTEfqMmHQU29v5ddeHV_H8g==)
