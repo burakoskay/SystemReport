@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-15T06:32:54.156Z",
+  "generated_at": "2026-08-15T08:24:51.895Z",
   "window_days": 7,
-  "total_records": 4117,
+  "total_records": 4138,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1485,
-      "success": 372,
-      "success_rate": 0.2505050505050505,
+      "calls": 1496,
+      "success": 378,
+      "success_rate": 0.25267379679144386,
       "latency_p50": 10580,
       "latency_p95": 23497,
-      "response_chars_mean": 2323,
+      "response_chars_mean": 2317,
       "error_classes": {
         "rate_limit": 45,
-        "unknown": 1065,
+        "unknown": 1070,
         "timeout": 3
       }
     },
     "revise:v2-800w": {
-      "calls": 129,
-      "success": 85,
-      "success_rate": 0.6589147286821705,
-      "latency_p50": 978,
+      "calls": 131,
+      "success": 87,
+      "success_rate": 0.6641221374045801,
+      "latency_p50": 966,
       "latency_p95": 1946,
-      "response_chars_mean": 1268,
+      "response_chars_mean": 1264,
       "error_classes": {
         "rate_limit": 6,
         "unknown": 37,
@@ -30,15 +30,15 @@
       }
     },
     "lengthen:v1": {
-      "calls": 223,
-      "success": 142,
-      "success_rate": 0.6367713004484304,
-      "latency_p50": 1941,
+      "calls": 226,
+      "success": 143,
+      "success_rate": 0.6327433628318584,
+      "latency_p50": 1948,
       "latency_p95": 11532,
-      "response_chars_mean": 3390,
+      "response_chars_mean": 3375,
       "error_classes": {
-        "unknown": 59,
-        "rate_limit": 22
+        "unknown": 60,
+        "rate_limit": 23
       }
     },
     "rewrite-headline:v1": {
