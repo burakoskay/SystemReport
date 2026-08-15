@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-08-15T14:17:06.216Z
+modified_date: 2026-08-15T16:18:22.917Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-08-15** — Delete your family’s personal data from the internet with a 55% discount on Incogni ([source](https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/))
 - **2026-08-15** — Riffs on GoldenEye 007, Star Fox and Kingdom Hearts, and other new indie games worth checking out ([source](https://www.engadget.com/2237397/riffs-on-goldeneye-007-star-fox-and-kingdom-hearts-and-other-new-indie-games/))
 - **2026-08-12** — Find your perfect accessories with Spigen’s Pixel 11 collection ([source](https://9to5google.com/2026/08/12/find-your-perfect-accessories-with-spigens-pixel-11-collection/))
 - **2026-08-05** — UAG fixed my biggest Galaxy phone complaint with the Z Fold 8 ([source](https://9to5google.com/2026/08/05/uag-fixed-my-biggest-galaxy-phone-complaint/))

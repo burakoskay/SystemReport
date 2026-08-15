@@ -1,16 +1,17 @@
 ---
 title: "E-ink smart screens expand with Dory, Yota, and Inku devices"
 date: 2026-05-19T04:05:59.636Z
-modified_date: 2026-08-03T19:24:57.971Z
+modified_date: 2026-08-15T16:17:59.370Z
 tags: ["e-ink","smart screens","Dory","Yota","Inku"]
 hero_image: "/hero/2026-05-19-e-ink-smart-screens-expand-with-dory-yota-and-inku-devices-aa4a72.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "e-ink display"
 description: "New e-ink devices from Dory, Yota, and Inku showcase low-power displays moving beyond niche readers."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -86,6 +87,7 @@ In conclusion, the e-ink devices from Dory, Yota, and Inku showcase the versatil
 
 ## Updates
 
+- **2026-08-15** — I finally found a magnetic phone grip I never want to remove ([source](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review))
 - **2026-08-03** — OnePlus 15 and more have fully sold out in the US following shutdown ([source](https://9to5google.com/2026/08/03/oneplus-15-sold-out-us-shutdown/))
 - **2026-06-03** — Pixel 11 wallpapers have leaked with very muted colors [Gallery] ([source](https://9to5google.com/2026/06/03/pixel-11-wallpapers-have-leaked-with-very-muted-colors-gallery/))
 - **2026-05-20** — I’ve tested the latest Switch 2 controllers, and this one is the best ([source](https://www.theverge.com/tech/791574/best-switch-2-controllers))

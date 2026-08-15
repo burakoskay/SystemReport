@@ -1,15 +1,17 @@
 ---
 title: "Google, Apple Tweak Interfaces Amid Upcoming Rebrands"
 date: 2026-05-15T21:13:04.107Z
+modified_date: 2026-08-15T16:18:11.094Z
 tags: ["google","apple","ios-26","fitbit","smart-home"]
 hero_image: "/hero/2026-05-15-google-apple-tweak-interfaces-amid-upcoming-rebrands-0cfeaf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "vibrant app icons on smartphone screen"
 description: "Google and Apple roll out subtle updates across apps and hardware, signaling shifts ahead of major events and rebrands."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## The Quiet Polish of Tech Giants
 
@@ -34,3 +36,7 @@ These moves reflect a broader pattern: tech companies aren’t just iterating on
 The most interesting pieces to watch aren’t the updates themselves but the systems they’re signaling. Google’s reworked Gemini interface could serve as a testbed for multimodal AI interactions before I/O. Fitbit’s final update suggests the Google Health rebrand might arrive this summer, possibly bundled with new Wear OS features. And Apple’s AirPods promo is a reminder that hardware incentives still drive Apple Card adoption faster than any ecosystem argument ever could.
 
 For end users, the takeaway is clear: these subtle changes often precede more disruptive shifts. The CarPlay tweaks might be limited to iOS 26, but they set the stage for deeper automotive partnerships. The Matter-enabled SwitchBot locks show how Apple is quietly winning the smart home wars without flashy events. The real action won’t be in the updates we see today, but in the ones we’re not yet expecting.
+
+## Updates
+
+- **2026-08-15** — What's the USB trident symbol for? How to know what kind of port you have ([source](https://www.engadget.com/2234239/what-usb-trident-symbol-for-how-to-know-port-type/))

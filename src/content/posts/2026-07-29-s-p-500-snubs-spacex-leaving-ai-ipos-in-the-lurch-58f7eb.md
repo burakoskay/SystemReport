@@ -1,15 +1,17 @@
 ---
 title: "S&P 500 Snubs SpaceX, Leaving AI IPOs in the Lurch"
 date: 2026-07-29T22:58:45.054Z
+modified_date: 2026-08-15T16:18:05.191Z
 tags: ["ai","finance","stock-market"]
 hero_image: "/hero/2026-07-29-s-p-500-snubs-spacex-leaving-ai-ipos-in-the-lurch-58f7eb.jpg"
 hero_image_credit_name: "bryan nguyen"
 hero_image_credit_url: "https://www.pexels.com/@bryannguyen2212"
 visual_keyword: "high‑rise office building with glowing stock ticker and rockets in the background"
 description: "The index refuses to bend its rules for SpaceX, denying billions in passive inflows and keeping OpenAI and Anthropic out of the S&P 500."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 ## S&P 500 blocks SpaceX entry
 SpaceX’s request to fast‑track into the S&P 500 was denied on June 4.[^1][^2][^3][^4][^5][^6][^7][^8] The index’s manager, S&P Dow Jones Indices, kept the standard eligibility criteria intact.[^1][^2][^3][^4][^5][^6][^7] That decision bars SpaceX, OpenAI and Anthropic from the automatic $14 billion, $8 billion and $4.6 billion passive‑fund inflows that Bloomberg Intelligence estimated would follow a fast‑track inclusion.[^6]
@@ -38,6 +40,10 @@ AMD’s recent Linux patch for the Steam Deck shows that performance gains can s
 
 ## What to watch
 Track the next S&P Dow Jones Indices consultation on MegaCap eligibility—any softening could reopen the door for SpaceX, OpenAI or Anthropic. Also monitor the quarterly earnings reports of Anthropic and OpenAI; a profitable quarter would validate the new pricing strategy and could reignite calls for index inclusion. Finally, keep an eye on compute‑cost benchmarks from hyperscalers, as any shift in H100 pricing or MoE efficiency will directly affect the economics outlined above.
+
+## Updates
+
+- **2026-08-15** — Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver ([source](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast))
 
 [^1]: [biggo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4C1d5d3aKCuF7j9bJjBBv0O2mrbRC2o-8g14q8qJ6xB8uBKYTE_36mOe0wg4rLLxr2jxdCI_rbmOUrILpL7yB8yHqja1gu2qE0WWDpqbDgS_yGrKHzfxX0iL2eQxjH2WGlLBSZllIzGJ92ycv)
 [^2]: [moomoo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt2WAd99lDJetMdYJfsDbe0F3QhGyJMkRAQkYKWOejZfx14GhmhdQ1i6ii2M4WP8qJ1vCV1Jj8_Ks6o9pXd8uGwWp54K6kbGMgBDumqWUzvo59JdfVKcwpACaaqCuq8FRoNAh4NZAoOwtX2ClSaaxkcrneptHIuf8epjld2A2tTRU7GrjG35x8yFxBCCcrzYjJ)

@@ -1,15 +1,17 @@
 ---
 title: "GitHub Copilot's Token-Based Billing Sparks Developer Backlash"
 date: 2026-05-30T17:17:43.485Z
+modified_date: 2026-08-15T16:18:17.077Z
 tags: ["GitHub","Copilot","AI-powered coding assistant","token-based billing"]
 hero_image: "/hero/2026-05-30-github-copilot-s-token-based-billing-sparks-developer-backlash-25bd4f.jpg"
 hero_image_credit_name: "Leah Newhouse"
 hero_image_credit_url: "https://www.pexels.com/@leah-newhouse-50725"
 visual_keyword: "GitHub Copilot"
 description: "GitHub's Copilot faces criticism over token-based billing, with developers questioning its value and Microsoft's GitHub struggling to balance innovation with fair pricing."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## GitHub Copilot's Token-Based Billing Model Sparks Developer Ire
@@ -48,3 +50,6 @@ Some developers have raised concerns about Copilot generating code that is ident
 
 In conclusion, the token-based billing model for GitHub Copilot has sparked significant controversy among developers. While some have praised the model's flexibility and scalability, others have raised concerns about its accessibility and value. As the market continues to evolve, it remains to be seen how GitHub will adapt to changing developer needs and preferences.
 
+## Updates
+
+- **2026-08-15** — Apple has a huge product roadmap for the smart home: Here’s what’s coming ([source](https://9to5mac.com/2026/08/15/apple-home-product-roadmap-tv-homepod-smart-display/))
