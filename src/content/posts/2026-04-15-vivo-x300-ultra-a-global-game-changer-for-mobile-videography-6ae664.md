@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-08-12T14:53:48.304Z
+modified_date: 2026-08-15T12:25:06.416Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-08-15** — Engadget review recap: Samsung Galaxy Z Fold 8 Ultra, Dell XPS 13 and more ([source](https://www.engadget.com/2237224/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-more/))
 - **2026-08-12** — Every Pixel 11 gets Qi2 25W wireless charging on Google’s Pixelsnap charger this year ([source](https://9to5google.com/2026/08/12/pixel-11-qi2-25w-wireless-charging-upgrade/))
 - **2026-08-11** — Deals: Nothing Phone $200 off, Pixel Buds from just $70, Galaxy Book 6 up to $650 off, Pixelsnap Charger 50% off, more ([source](https://9to5google.com/2026/08/11/deals-nothing-phone-pixel-buds-galaxy-book-6-pixelsnap/))
 - **2026-08-10** — Costco&#8217;s great Switch 2 console bundle includes over $100 in free stuff ([source](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale))

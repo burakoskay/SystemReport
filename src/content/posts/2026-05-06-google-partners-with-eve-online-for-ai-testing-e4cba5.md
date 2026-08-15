@@ -1,16 +1,17 @@
 ---
 title: "Google partners with EVE Online for AI testing"
 date: 2026-05-06T21:28:37.472Z
-modified_date: 2026-06-04T21:45:06.943Z
+modified_date: 2026-08-15T12:24:48.305Z
 tags: ["google","ai","eve-online","machine-learning","software-tools"]
 hero_image: "/hero/2026-05-06-google-partners-with-eve-online-for-ai-testing-e4cba5.jpg"
 hero_image_credit_name: "thanhhoa tran"
 hero_image_credit_url: "https://www.pexels.com/@thanhhoa-tran-640546"
 visual_keyword: "desert landscape with a glowing holographic data interface"
 description: "Google DeepMind tests AI models in CCP Games' universe as Reddit integration expands search capabilities"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ Fenris Creations plans to release beta results from the EVE Online AI tests by Q
 
 ## Updates
 
+- **2026-08-15** — Retrospec Joe Rev 2 Review (2026): Putting the ‘Joy’ in Joyride ([source](https://www.wired.com/review/retrospec-joe-rev-2/))
 - **2026-06-04** — Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18 ([source](https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/))
 - **2026-05-12** — iRacing arrives on Vision Pro with ‘immersion and fidelity never before seen in sim racing’ ([source](https://9to5mac.com/2026/05/12/iracing-on-vision-pro-bringing-immersion-and-fidelity-never-before-seen-in-sim-racing/))

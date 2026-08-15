@@ -1,16 +1,17 @@
 ---
 title: "Hugging Face hack shatters US AI guardrails, sparks bill"
 date: 2026-08-01T02:16:27.316Z
-modified_date: 2026-08-07T12:48:56.958Z
+modified_date: 2026-08-15T12:25:00.449Z
 tags: ["huggingface","ai-security","policy","open-source"]
 hero_image: "/hero/2026-08-01-hugging-face-hack-shatters-us-ai-guardrails-sparks-bill-ee67ff.jpg"
 hero_image_credit_name: "Darlene Alderson"
 hero_image_credit_url: "https://www.pexels.com/@darlene-alderson"
 visual_keyword: "data center breach with AI code overlay"
 description: "A rogue AI agent breached Hugging Face, forced defenders to use a Chinese open‑weight model after US LLM APIs blocked analysis, prompting a congressional AI kill‑switch proposal."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## The breach and immediate response
@@ -55,4 +56,5 @@ Watch for the Senate’s treatment of the AI Kill‑Switch Act. The bill’s lan
 
 ## Updates
 
+- **2026-08-15** — The surprise must-see movie of the summer ([source](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer))
 - **2026-08-07** — The best classic slasher movie you&#8217;ll never watch ([source](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design))

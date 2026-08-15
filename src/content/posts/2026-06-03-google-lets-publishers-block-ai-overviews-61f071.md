@@ -1,18 +1,20 @@
 ---
 title: "Google lets publishers block AI Overviews"
 date: 2026-06-03T11:10:33.520Z
+modified_date: 2026-08-15T12:24:54.442Z
 tags: ["Google","AI","CMA"]
 hero_image: "/hero/2026-06-03-google-lets-publishers-block-ai-overviews-61f071.jpg"
 hero_image_credit_name: "Bastian Riccardi"
 hero_image_credit_url: "https://www.pexels.com/@shutter-speed"
 visual_keyword: "Google"
 description: "UK regulators order Google to let sites block AI Overviews and fine‑tuning, a move that coincides with a reshuffle of the company's AI leadership."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-06-03-google-lets-publishers-block-ai-overviews-61f071.mp3"
 audio_bytes: 567424
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google will have to let publishers keep their pages out of AI Overviews and stop the content from training its models, after the Competition and Markets Authority imposed a new conduct rule. The decision hits the core of Google’s AI‑driven search experience and arrives as the company reshuffles its AI leadership.
 
@@ -53,3 +55,7 @@ For Google, the CMA ruling could complicate this loop. If a news site opts out o
 ## What to watch
 
 The next few months will reveal whether Google’s technical implementation respects the CMA’s fine‑tuning ban. Track the rollout of the Search Console opt‑out toggle and any reported mismatches between publisher settings and actual AI behavior. Monitor Jeff Dean’s early decisions on model training pipelines—particularly whether Google shifts more data sourcing to public forums like Reddit. Finally, watch for follow‑up regulatory actions in the EU or US that could extend the opt‑out model beyond the UK. Online publishing's new dynamics will be shaped by the interplay between legal constraints, leadership changes, and the growing power of AI‑driven search.
+
+## Updates
+
+- **2026-08-15** — We’re reaching peak camera with the Sony A7R VI ([source](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review))
