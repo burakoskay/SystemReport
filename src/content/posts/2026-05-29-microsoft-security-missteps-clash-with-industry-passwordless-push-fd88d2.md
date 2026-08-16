@@ -1,18 +1,20 @@
 ---
 title: "Microsoft security missteps clash with industry passwordless push"
 date: 2026-05-29T18:42:19.418Z
+modified_date: 2026-08-16T10:17:22.209Z
 tags: ["microsoft","security","passwordless","edge","researcher"]
 hero_image: "/hero/2026-05-29-microsoft-security-missteps-clash-with-industry-passwordless-push-fd88d2.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "security researcher confronting a browser vulnerability on multiple screens"
 description: "Microsoft faces backlash over a threatened criminal probe of a researcher, unpatched Edge bugs, and a CSP refusal, even as it joins Apple and Google on passwordless passkeys."
-sources_count: 5
-author: "priya-raman"
+sources_count: 6
 audio_path: "/audio/2026-05-29-microsoft-security-missteps-clash-with-industry-passwordless-push-fd88d2.mp3"
 audio_bytes: 544436
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft’s latest security confrontations
 
@@ -47,3 +49,7 @@ Enterprises that rely heavily on Edge for internal web apps must weigh the conve
 ## What to watch
 
 Track Microsoft’s March 15 Patch Tuesday for a definitive fix to CVE‑2017‑0037 and any statement on the Edge CSP bypass. Monitor the rollout schedule for passkey support across Windows, iOS, and Android, especially any telemetry on adoption rates and incident reports. Finally, keep an eye on the response from the security research community—further disclosures could pressure Microsoft to align its patch cadence with the broader industry’s rapid‑fix expectations.
+
+## Updates
+
+- **2026-08-16** — Inside the Experimental Traps Scientists Set for Ghostly Neutrinos ([source](https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/))

@@ -1,18 +1,19 @@
 ---
 title: "Uber Introduces Doorstep Return Pickup Service"
 date: 2026-04-18T12:45:34.715Z
-modified_date: 2026-08-06T14:25:20.472Z
+modified_date: 2026-08-16T10:17:28.008Z
 tags: ["Uber","delivery service","returns"]
 hero_image: "/hero/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Uber Doorstep Return Pickup"
 description: "Uber adds doorstep return pickup with a courier fee, expanding its 'everything app' push."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-18-uber-introduces-doorstep-return-pickup-service-f7a99a.wav"
 audio_bytes: 2165822
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ The courier fee and service limitations are key factors. If executed well, this 
 
 ## Updates
 
+- **2026-08-16** — The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall ([source](https://www.wired.com/gallery/best-cat-water-fountains/))
 - **2026-08-06** — New AirPods are coming, but this is one of the best deals yet on AirPods Pro 3 ([source](https://9to5mac.com/2026/08/06/new-airpods-are-coming-but-this-is-one-of-the-best-deals-yet-on-airpods-pro-3/))
 - **2026-07-29** — The best Galaxy Z Fold 8 deal is at Amazon — boosted trade-in plus $350 gift card ([source](https://9to5google.com/2026/07/29/samsung-galaxy-z-fold-8-amazon-pre-order-deal-boosted-trade-in-gift-card/))
 - **2026-05-08** — The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall ([source](https://www.wired.com/gallery/the-best-cat-water-fountains/))
