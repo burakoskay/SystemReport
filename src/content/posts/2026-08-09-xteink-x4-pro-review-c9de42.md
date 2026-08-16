@@ -1,15 +1,17 @@
 ---
 title: "Xteink X4 Pro Review"
 date: 2026-08-09T01:13:45.583Z
+modified_date: 2026-08-16T22:15:40.313Z
 tags: ["E-reader","Xteink X4 Pro","Tech Review"]
 hero_image: "/hero/2026-08-09-xteink-x4-pro-review-c9de42.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "E-reader"
 description: "Xteink's X4 Pro e-reader excels but lacks an ebook store"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Xteink X4 Pro
 The Xteink X4 Pro is the company's latest e-reader. It is described as 'fun but limited' due to its lack of a native ebook store.
@@ -27,3 +29,7 @@ Xteink's next steps will determine the X4 Pro's appeal. The company's response t
 The X4 Pro's limitations may have implications for Xteink's relationships with ebook retailers and publishers. If the device is not capable of seamlessly integrating with ebook stores, Xteink may need to establish partnerships with these companies in order to provide a more comprehensive reading experience for its users. This could lead to new opportunities for Xteink, such as the ability to offer exclusive content or promotions to X4 Pro users.
 ## Market Analysis
 The e-reader market is a niche but growing segment of the consumer electronics industry. The X4 Pro's entry into this market may be impacted by its lack of an ebook store. However, Xteink may be able to capitalize on its device's technical specifications and user experience to attract a dedicated user base. The company's ability to adapt to the changing market landscape will be crucial in determining the X4 Pro's long-term success.
+
+## Updates
+
+- **2026-08-16** — OpenAI reportedly disbanded its preparedness team ([source](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team))

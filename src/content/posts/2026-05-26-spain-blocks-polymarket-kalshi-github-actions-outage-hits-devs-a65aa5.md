@@ -1,15 +1,17 @@
 ---
 title: "Spain blocks Polymarket, Kalshi; GitHub Actions outage hits devs"
 date: 2026-05-26T15:57:41.034Z
+modified_date: 2026-08-16T22:15:34.332Z
 tags: ["spain","prediction-markets","github-actions","dynamic-dns"]
 hero_image: "/hero/2026-05-26-spain-blocks-polymarket-kalshi-github-actions-outage-hits-devs-a65aa5.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "a frustrated developer staring at a laptop error screen"
 description: "Spain's regulator forces Polymarket and Kalshi offline for lacking gambling licences while GitHub Actions suffers another outage, highlighting reliability and compliance pressures on online services."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Spain forced two major prediction‑market platforms offline on May 26, 2026, citing a missing gambling licence. The move underscores a tightening regulatory grip on speculative finance tools.
 
@@ -46,3 +48,7 @@ The three stories share a common thread: the tension between convenience and con
 Enterprises will need to audit their third‑party dependencies more rigorously. Legal teams should track regulatory changes in every jurisdiction where a service is offered. Engineering teams must map critical pipelines to backup solutions, whether that means self‑hosted runners or a local DNS server.
 
 **What to watch**: Spain’s regulator is expected to publish detailed guidelines for speculative platforms later this quarter. GitHub will release a post‑mortem for the Actions incident within the next week. Finally, the DynIP project plans a v1.2 release that adds multi‑zone support, a feature that could attract larger organisations seeking DNS resilience.
+
+## Updates
+
+- **2026-08-16** — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ ([source](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/))

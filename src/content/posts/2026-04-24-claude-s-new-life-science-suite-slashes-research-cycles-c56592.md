@@ -1,19 +1,20 @@
 ---
 title: "Claude’s new life‑science suite slashes research cycles"
 date: 2026-04-24T17:34:00.568Z
-modified_date: 2026-07-31T22:57:15.778Z
+modified_date: 2026-08-16T22:15:57.904Z
 tags: ["ai","life sciences","research tools","anthropic","biotech"]
 hero_image: "/hero/2026-04-24-claude-s-new-life-science-suite-slashes-research-cycles-c56592.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "laboratory desk with holographic AI interface and scientific equipment"
 description: "Anthropic upgrades Claude with Opus 4.5 and a dedicated life‑science toolkit, letting labs compress months‑long projects into hours."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-24-claude-s-new-life-science-suite-slashes-research-cycles-c56592.mp3"
 audio_bytes: 612982
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Track the adoption rate of Claude‑for‑Life‑Sciences across university labs
 
 ## Updates
 
+- **2026-08-16** — Claude: System Prompts ([source](https://platform.claude.com/docs/en/release-notes/system-prompts))
 - **2026-07-31** — Claude published malicious code to the Internet and attacked 3 real companies ([source](https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/))
 - **2026-05-23** — Electrobun 2.0 will be decoupled from Bun due to the Rust rewrite ([source](https://twitter.com/YoavCodes/status/2058064720553222567))
 - **2026-05-18** — The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable ([source](https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/))

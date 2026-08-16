@@ -1,16 +1,17 @@
 ---
 title: "Starlink Expansion"
 date: 2026-05-26T21:50:08.996Z
-modified_date: 2026-07-27T14:19:01.829Z
+modified_date: 2026-08-16T22:15:46.116Z
 tags: ["SpaceX","Starlink","satellite internet"]
 hero_image: "/hero/2026-05-26-starlink-expansion-091a3d.jpg"
 hero_image_credit_name: "Barnabas Davoti"
 hero_image_credit_url: "https://www.pexels.com/@barnabas-davoti-31615494"
 visual_keyword: "Starlink satellites"
 description: "SpaceX's Starlink satellite internet service expands with new partnerships and innovations, but also faces challenges and criticisms."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Starlink Expansion
@@ -57,4 +58,5 @@ In the coming months and years, it is likely that Starlink will continue to face
 
 ## Updates
 
+- **2026-08-16** — Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece ([source](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review))
 - **2026-07-27** — How is the Bun Rewrite in Rust going? ([source](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html))
