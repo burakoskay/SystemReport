@@ -1,16 +1,17 @@
 ---
 title: "The Next Giant Leap: NASA's Ambitious Plans for Space Exploration"
 date: 2026-04-18T01:05:17.583Z
-modified_date: 2026-08-01T19:00:53.343Z
+modified_date: 2026-08-16T16:18:24.246Z
 tags: ["nasa","space exploration","mars"]
 hero_image: "/hero/2026-04-18-the-next-giant-leap-nasa-s-ambitious-plans-for-space-exploration-770192.jpg"
 hero_image_credit_name: "T Leish"
 hero_image_credit_url: "https://www.pexels.com/@leish"
 visual_keyword: "NASA astronaut in space suit looking up at the Moon"
 description: "From returning to the Moon to exploring Mars, NASA is pushing the boundaries of space travel. But with budget cuts looming, can the agency achieve its ambitious goals?"
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ As Senator Mark Kelly noted, 'Last week's launch showed our country and world wh
 
 ## Updates
 
+- **2026-08-16** — Is the MacBook Pro M5 still worth buying after the price hike? ([source](https://www.engadget.com/2234244/is-macbook-pro-m5-still-worth-after-price-hike/))
 - **2026-08-01** — Sam Altman is still making the case for parenting via ChatGPT ([source](https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/))
 - **2026-07-29** — Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript ([source](https://github.com/twalichiewicz/HNewhere))
 - **2026-06-05** — Congress still can’t decide what to do about warrantless surveillance ([source](https://www.theverge.com/policy/944615/section-702-senate-vote-fails-pulte))
