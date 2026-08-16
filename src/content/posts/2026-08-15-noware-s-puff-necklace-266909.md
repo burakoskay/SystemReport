@@ -1,15 +1,17 @@
 ---
 title: "Noware's Puff Necklace"
 date: 2026-08-15T16:19:49.464Z
+modified_date: 2026-08-16T14:17:02.331Z
 tags: ["wearable technology","Noware","Puff necklace","USB drive"]
 hero_image: "/hero/2026-08-15-noware-s-puff-necklace-266909.jpg"
 hero_image_credit_name: "sarayu P"
 hero_image_credit_url: "https://www.pexels.com/@sarayu-p-371879973"
 visual_keyword: "jewelry"
 description: "USB drive as jewelry"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 # Introduction to Noware's Puff Necklace
 Noware's Puff necklace is a USB drive that doubles as jewelry.[^1][^2][^3][^4]
@@ -52,6 +54,10 @@ The Puff necklace is a USB drive that can be worn as a necklace.[^1][^2][^3][^4]
 The use of a USB drive as a necklace component highlights the evolving relationship between technology and fashion. As technology becomes increasingly integrated into daily life, it is likely that we will see more innovative examples of functional jewelry.
 
 The technical specifics of the Puff necklace are not publicly available, but its existence highlights the potential for wearable technology to be used in a variety of contexts, from personal data storage to secure communication. As the technology behind wearable devices continues to evolve, we can expect to see more innovative and practical applications of devices like the Puff necklace.
+
+## Updates
+
+- **2026-08-16** — Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions ([source](https://9to5google.com/2026/08/16/google-pixel-11-hilight/))
 
 [^1]: [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdy2gDc-vFkebiScxd-7kDYLmb3UzLG5Ity-O7DaJe1truSUz074k9CKtG75ylGZItL1l-Lr0lWyNnFOyo_N5rKB3iFa-zAfsffFx4G65zF808eZp2gn7nqhiqAo2WUoVsyk9jxT9H4zndzByqLWoTJGpMpAoByMjc4O9bHw5xKTb513PMO4idossypH3zcajEgSyIE-ZV5TyxLNC7G3auofEm0tLGiLUBMw_cwp9tIDVFbPLasoMpCG7xo4yh7qen6I=)
 [^2]: [bsky.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9NXn2tTnc5bo8LF8fanOcgJh2VBuf9KF_o7MnntCjgaFAeNCCwojkFCZXWiNn10UKW1YrPfM8yorlLmxPmVl8irOaVoIa26WSDr01FFOEEHKTNja2irI5MI_PZ5w1Xg1BTY_qMCqfgROc7M8lBAcI)
