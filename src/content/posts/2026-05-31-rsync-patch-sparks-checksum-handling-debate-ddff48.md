@@ -1,16 +1,17 @@
 ---
 title: "Rsync patch sparks checksum handling debate"
 date: 2026-05-31T08:56:15.531Z
-modified_date: 2026-08-01T13:05:43.116Z
+modified_date: 2026-08-16T12:27:17.984Z
 tags: ["rsync","microcode","task management"]
 hero_image: "/hero/2026-05-31-rsync-patch-sparks-checksum-handling-debate-ddff48.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "microcode"
 description: "A rsync patch sparks debate, Intel 8087 microcode is analyzed, and Fluxa offers AI-driven task management for freelancers and small teams."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -70,4 +71,5 @@ As these technologies continue to evolve, it's essential to track their progress
 
 ## Updates
 
+- **2026-08-16** — Astronomers Discover the Existence of a Black Hole Star ([source](https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/))
 - **2026-08-01** — The Mermaid Mask is a perfect vacation murder mystery ([source](https://www.theverge.com/games/971660/the-mermaid-mask-review))

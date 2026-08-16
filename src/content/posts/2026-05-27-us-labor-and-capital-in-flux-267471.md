@@ -1,15 +1,17 @@
 ---
 title: "US Labor and Capital in Flux"
 date: 2026-05-27T10:12:24.640Z
+modified_date: 2026-08-16T12:27:23.986Z
 tags: ["labor","US","economy"]
 hero_image: "/hero/2026-05-27-us-labor-and-capital-in-flux-267471.jpg"
 hero_image_credit_name: "Clarence Gaspar"
 hero_image_credit_url: "https://www.pexels.com/@gasparclarence01"
 visual_keyword: "striking workers"
 description: "Reports on labor issues in the US, including a Department of Labor email and a national prison strike"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Department of Labor's DEI Directive
@@ -75,3 +77,7 @@ The labor landscape continues to shift. The Amazon union drive and the prison st
 As the labor movement continues to evolve, it is clear that workers are demanding better treatment and greater equality. Policymakers must listen to these demands and work to create a more just and equitable labor market for all.
 
 The future of labor in the US is uncertain, but it is clear that workers will continue to organize and demand better treatment. The labor movement will likely continue to evolve, and it will be shaped by a range of historical and contemporary factors.
+
+## Updates
+
+- **2026-08-16** — It’s Never Too Early to Start Planning for the Next Two Solar Eclipses ([source](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/))

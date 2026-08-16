@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-08-06T05:19:54.535Z
+modified_date: 2026-08-16T12:27:36.139Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-08-16** — Apple weekend deals: MacBooks up to $540 off, AirPods up to $100 off, Apple Watch, more ([source](https://9to5mac.com/2026/08/15/apple-weekend-deals-macbooks-airpods/))
 - **2026-08-06** — Home Chef Promo Codes for August 2026 ([source](https://www.wired.com/story/home-chef-promo-code/))
 - **2026-08-03** — Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced ([source](https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale))
 - **2026-06-01** — An affordable, long-lasting AirTag alternative is $15 right now ([source](https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale))
