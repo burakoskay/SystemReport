@@ -1,18 +1,20 @@
 ---
 title: "Anthropic Proposes Global Slowdown of AI Development"
 date: 2026-06-05T10:01:31.891Z
+modified_date: 2026-08-17T22:19:53.328Z
 tags: ["AI Development","Anthropic","Global Slowdown"]
 hero_image: "/hero/2026-06-05-anthropic-proposes-global-slowdown-of-ai-development-4da10e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic warns of AIs building successors"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-06-05-anthropic-proposes-global-slowdown-of-ai-development-4da10e.mp3"
 audio_bytes: 585814
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction
 Anthropic warns that AIs will soon be able to build their own successor. This warning is based on the rapid advancements in AI technology, which have led to significant improvements in recent years.
@@ -32,3 +34,7 @@ The development of advanced AI systems is a complex and challenging task, requir
 A global slowdown in AI development could have significant consequences for a wide range of industries, from healthcare to finance. It could also have important implications for policymakers and regulators, who will need to consider the potential risks and benefits of advanced AI systems. In the short term, a slowdown could lead to delays in the development of new technologies, but it could also provide an opportunity for more careful consideration and planning.
 ## Potential Next Steps
 The proposal by Anthropic is likely to spark a wider debate about the development of advanced AI systems. As the industry moves forward, it will be important to consider the potential risks and benefits of these systems, and to develop strategies for mitigating any potential risks. This could involve the development of new regulatory frameworks, or the establishment of industry-wide standards for safety and control. Ultimately, the goal should be to ensure that the development of advanced AI systems is done in a responsible and sustainable way, with careful consideration of the potential consequences.
+
+## Updates
+
+- **2026-08-17** — The Moon's shadow raced across the heart of Spain, and I was there to see it ([source](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/))

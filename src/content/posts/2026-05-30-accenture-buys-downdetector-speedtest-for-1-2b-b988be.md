@@ -1,15 +1,17 @@
 ---
 title: "Accenture buys Downdetector, Speedtest for $1.2B"
 date: 2026-05-30T19:27:48.659Z
+modified_date: 2026-08-17T22:19:59.282Z
 tags: ["Accenture","OpenRouter","Downdetector","Speedtest"]
 hero_image: "/hero/2026-05-30-accenture-buys-downdetector-speedtest-for-1-2b-b988be.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "network"
 description: "Accenture buys Downdetector and Speedtest for $1.2B, OpenRouter secures $113M Series B, and Playstack is acquired by Integrated Media Company."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 Accenture acquired Downdetector and Speedtest for $1.2 billion, valuing the two internet-health tools at a premium price. The deal puts these services under Accenture's umbrella, streamlining incident-response workflows for clients.
@@ -53,3 +55,7 @@ The market for internet performance monitoring tools has a long history, dating 
 ## Conclusion
 
 In conclusion, the acquisitions of Downdetector and Speedtest by Accenture, and Playstack by Integrated Media Company, as well as the funding round by OpenRouter, have significant implications for the market. They demonstrate the growing demand for digital infrastructure and data analytics, as well as the willingness of investors to fund companies that offer specialized services. As the market continues to evolve, we can expect to see more consolidation and investment in companies that offer innovative solutions.
+
+## Updates
+
+- **2026-08-17** — What are your retro game consoles worth? ([source](https://www.engadget.com/2237553/what-are-retro-game-consoles-worth/))
