@@ -1,19 +1,20 @@
 ---
 title: "Feeble Little Horse's Digital Weirdness"
 date: 2026-05-31T19:24:53.818Z
-modified_date: 2026-08-12T22:34:57.290Z
+modified_date: 2026-08-17T18:30:06.559Z
 tags: ["indie rock","digital music","Feeble Little Horse"]
 hero_image: "/hero/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "digital weirdness"
 description: "Feeble Little Horse's new album bitknot leans into digital weirdness with a low-bit aesthetic and glitchy sound."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.mp3"
 audio_bytes: 559483
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The album's success could also lead to a renewed interest in digital music produ
 
 ## Updates
 
+- **2026-08-17** — Pixel Recorder update brings new Pixel 11 app icon ([source](https://9to5google.com/2026/08/17/pixel-recorder-new-icon/))
 - **2026-08-12** — Pixel 11 event live blog: Let&#8217;s watch Trevor Noah introduce Google&#8217;s new phones ([source](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah))
 - **2026-08-09** — AI detectors are creating a new era of distrust ([source](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion))
 - **2026-08-07** — Birdfy’s smart bird feeder is on sale for just $60 ([source](https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale))

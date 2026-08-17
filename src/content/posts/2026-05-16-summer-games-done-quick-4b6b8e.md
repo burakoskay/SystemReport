@@ -1,16 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
-modified_date: 2026-06-03T11:09:21.857Z
+modified_date: 2026-08-17T18:30:12.532Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ Overall, the Summer Games Done Quick event is a great opportunity for gamers and
 
 ## Updates
 
+- **2026-08-17** — Apple releases beta 6 for iPadOS 27, tvOS 27, and more ([source](https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/))
 - **2026-06-03** — PSA: Those using older Macs and iPhones won’t be able to create or edit Office docs ([source](https://9to5mac.com/2026/06/03/psa-those-using-older-macs-and-iphones-wont-be-able-to-create-or-edit-office-docs/))
 - **2026-06-02** — ASUS's ExpertBook B5 Flip G2 is a 2.9 pound 360 touchscreen laptop ([source](https://www.engadget.com/2184801/asuss-expertbook-b5-flip-g2-is-a-29-pound-360-touchscreen-laptop/))
 - **2026-05-27** — Samsung Galaxy flagships to see price hikes in June for some regions, report claims ([source](https://9to5google.com/2026/05/27/samsung-galaxy-flagship-price-hikes-report/))

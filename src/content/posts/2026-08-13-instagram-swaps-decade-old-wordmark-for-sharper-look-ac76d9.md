@@ -1,15 +1,17 @@
 ---
 title: "Instagram Swaps Decade‑Old Wordmark for Sharper Look"
 date: 2026-08-13T19:01:30.998Z
+modified_date: 2026-08-17T18:29:54.414Z
 tags: ["instagram","design","socialmedia"]
 hero_image: "/hero/2026-08-13-instagram-swaps-decade-old-wordmark-for-sharper-look-ac76d9.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "modern Instagram wordmark on white background"
 description: "Instagram rolls out a new wordmark and UI tweaks, signaling a push for cleaner readability amid broader Meta redesigns."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Scrolling through Instagram now feels like the app finally trimmed its own excess. The new wordmark replaces a ten‑year‑old logotype with a cleaner, sharper typeface that aims to sit more comfortably alongside the familiar camera icon.
 
@@ -44,3 +46,7 @@ Early reactions on social media range from mild approval to outright mockery. On
 For power users, the threaded comment reels may feel like a productivity boost. For casual browsers, the change is barely noticeable. The real test will be whether the cleaner look translates into longer session times or higher ad impressions, metrics that Meta tracks closely.
 
 **What to watch**: Meta will monitor engagement metrics over the next quarter to gauge the redesign’s impact. Pay attention to any statements from the company about tweaking the wordmark or UI based on user data. Additionally, watch for third‑party research on how the new comment threading influences conversation depth and user fatigue. Those signals will indicate whether the redesign is a cosmetic refresh or a stepping stone toward a more immersive, and potentially more addictive, Instagram experience.
+
+## Updates
+
+- **2026-08-17** — Apple ordered to stop scaring iPhone and iPad users away from third-party apps ([source](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany))

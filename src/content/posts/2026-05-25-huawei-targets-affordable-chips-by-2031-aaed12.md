@@ -1,18 +1,20 @@
 ---
 title: "Huawei targets affordable chips by 2031"
 date: 2026-05-25T19:54:51.723Z
+modified_date: 2026-08-17T18:30:00.563Z
 tags: ["hardware","compilers","semiconductors","android","open-source"]
 hero_image: "/hero/2026-05-25-huawei-targets-affordable-chips-by-2031-aaed12.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "conference room with engineers discussing chips and code"
 description: "Huawei says its next‑gen semiconductors will be feasible and affordable by 2031, while Hacker News debates C‑extension portability and Android device longevity."
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-05-25-huawei-targets-affordable-chips-by-2031-aaed12.mp3"
 audio_bytes: 595009
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 Huawei announced that its next‑generation chips will be "feasible and affordable" with a target rollout in 2031. The claim arrived in an Engadget piece that quoted the company's own roadmap.
 
@@ -51,3 +53,7 @@ Conversely, the community pressure seen on Hacker News pushes hardware vendors t
 ## What to watch
 
 Track Huawei's quarterly reports for any concrete milestones on its 2031 chip program, especially any partnership announcements with foundries or IP providers. Monitor the next round of discussions on Hacker News about compiler ABI stability, as a consensus could drive upstream changes in GCC, Clang, and Rust tooling. Finally, keep an eye on Android OEM update policies, which will reveal whether the industry heeds the "Leave Me Behind" warning or continues to phase out older hardware without support.
+
+## Updates
+
+- **2026-08-17** — Find Hub for Wear OS adds very basic ‘Find people’ app ([source](https://9to5google.com/2026/08/17/find-hub-people-wear-os/))

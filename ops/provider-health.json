@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 3772,
+    "consecutive_failures": 3793,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-17T16:23:23.097Z",
+    "last_failure": "2026-08-17T18:42:17.580Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-17T08:38:28.683Z",
+    "last_success": "2026-08-17T18:39:01.530Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7601, Requested 2922. Please try again in 18.9225s. Need more tokens? Upgrade to Dev Tier today at ",
     "last_failure": "2026-08-13T19:01:10.728Z"
@@ -19,17 +19,17 @@
     "last_failure": "2026-08-17T16:22:17.364Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 66,
+    "consecutive_failures": 84,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-17T16:23:23.057Z",
+    "last_failure": "2026-08-17T18:42:17.493Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-17T08:48:40.903Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
     "consecutive_failures": 0,
-    "last_error": "timeout after 45000ms",
-    "last_failure": "2026-08-17T16:22:07.637Z",
-    "last_success": "2026-08-17T16:23:35.516Z"
+    "last_error": "timeout after 60000ms",
+    "last_failure": "2026-08-17T18:35:56.581Z",
+    "last_success": "2026-08-17T18:42:41.024Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
