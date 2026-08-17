@@ -1,16 +1,17 @@
 ---
 title: "AI's Infrastructure Boom: Cables, Chips, and Capital"
 date: 2026-04-27T21:14:42.893Z
-modified_date: 2026-08-05T21:03:01.042Z
+modified_date: 2026-08-17T20:20:35.108Z
 tags: ["ai-infrastructure","subsea-cables","deepmind","ai-startups","tech-investment"]
 hero_image: "/hero/2026-04-27-ai-s-infrastructure-boom-cables-chips-and-capital-b41784.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "underwater fiber optic cable with data centers visible in the ocean above"
 description: "From subsea cables to startup funding, AI's next phase demands infrastructure — and the money is flowing."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Three developments will define AI’s infrastructure era in 2025: First, whether
 
 ## Updates
 
+- **2026-08-17** — Apple official refurb store: Save a ton of cash with our top picks of the week ([source](https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/))
 - **2026-08-05** — These are my favorite Apple Watch accessories of 2026 (so far) ([source](https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/))
 - **2026-07-28** — Elon Musk’s X Money app is rolling out in the U.S. ([source](https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/))
 - **2026-05-21** — Apple seeks Supreme Court review of contempt finding and injunction scope in Epic Games case ([source](https://9to5mac.com/2026/05/21/apple-seeks-supreme-court-review-of-contempt-finding-and-injunction-scope-in-epic-games-case/))

@@ -1,19 +1,20 @@
 ---
 title: "White House touts ICE's 700 citizen arrests on Aliens.gov"
 date: 2026-05-29T22:02:00.476Z
-modified_date: 2026-08-07T22:29:40.144Z
+modified_date: 2026-08-17T20:20:41.076Z
 tags: ["immigration","gaming","music","technews","policy"]
 hero_image: "/hero/2026-05-29-white-house-touts-ice-s-700-citizen-arrests-on-aliens-gov-0c03bc.jpg"
 hero_image_credit_name: "thiago japyassu"
 hero_image_credit_url: "https://www.pexels.com/@japy"
 visual_keyword: "government website interface beside a gaming controller and a music note icon"
 description: "ICE arrests, a postponed fantasy RPG, and a cross‑border Apple Music glitch illustrate how policy, games and streaming collide."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-29-white-house-touts-ice-s-700-citizen-arrests-on-aliens-gov-0c03bc.mp3"
 audio_bytes: 551124
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## ICE arrests get a neon billboard on Aliens.gov
@@ -54,4 +55,5 @@ Watch for an official statement from the White House clarifying the source of th
 
 ## Updates
 
+- **2026-08-17** — MagSafe Monday: The Urban Fit is my favorite budget alternative to Apple’s wallet ([source](https://9to5mac.com/2026/08/17/magsafe-monday-the-urban-fit-i-my-favorite-budget-alternative-to-apples-wallet/))
 - **2026-08-07** — The ultimate eclipse chase: A Concorde raced against the Moon's shadow ([source](https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/))
