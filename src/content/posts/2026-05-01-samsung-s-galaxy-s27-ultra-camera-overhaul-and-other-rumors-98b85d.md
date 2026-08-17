@@ -1,19 +1,20 @@
 ---
 title: "Samsung's Galaxy S27 Ultra Camera Overhaul and Other Rumors"
 date: 2026-05-01T09:52:32.145Z
-modified_date: 2026-05-16T19:12:04.039Z
+modified_date: 2026-08-17T14:22:36.335Z
 tags: ["samsung","galaxy s27 ultra","galaxy book","galaxy a27"]
 hero_image: "/hero/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.jpg"
 hero_image_credit_name: "Themba Mtegha"
 hero_image_credit_url: "https://www.pexels.com/@thembaforfun"
 visual_keyword: "Samsung Galaxy S27 Ultra camera"
 description: "Samsung's upcoming Galaxy S27 Ultra may feature a camera overhaul, ditching its 3x telephoto lens. Other rumors include new Galaxy Book laptops running Android and details on the Galaxy A27 and Z Flip 8."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.mp3"
 audio_bytes: 671705
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,4 +58,5 @@ The next few months will be crucial for Samsung as it unveils its new products a
 
 ## Updates
 
+- **2026-08-17** — Samsung is reportedly building an even wider Galaxy Z Fold 9 for video viewing ([source](https://9to5google.com/2026/08/17/samsung-galaxy-z-fold-9-wider-design-video-report/))
 - **2026-05-16** — Engadget review recap: Razr Fold, Bose Lifestyle Ultra Speaker, Ultrahuman Ring Pro and more ([source](https://www.engadget.com/2174499/engadget-review-recap-razr-fold-bose-lifestyle-ultra-speaker-ultrahuman-ring-pro/))

@@ -1,19 +1,20 @@
 ---
 title: "Walmart's Google TV Streamers Launch"
 date: 2026-04-26T23:01:41.608Z
-modified_date: 2026-06-05T16:33:16.138Z
+modified_date: 2026-08-17T14:22:30.396Z
 tags: ["google","walmart","pixel","android","smart home"]
 hero_image: "/hero/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "google tv streaming device on a modern coffee table"
 description: "Google refines voice typing, overhauls app designs, and partners with Walmart as smart home updates spark mixed reactions."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.mp3"
 audio_bytes: 638059
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Three threads will define Google’s near-term impact: First, whether the Onn st
 
 ## Updates
 
+- **2026-08-17** — HP Omnibook X  (2026) review: Nailing the basics ([source](https://www.engadget.com/2236997/hp-omnibook-x-2026-review/))
 - **2026-06-05** — My favorite alternative to Google’s Pixelsnap Ring Stand is better in every way ([source](https://9to5google.com/2026/06/05/my-favorite-alternative-to-googles-pixelsnap-ring-stand-is-better-in-every-way/))
 - **2026-05-27** — Gradient Google icon redesign rolls out on iPhone and web [U] ([source](https://9to5google.com/2026/05/27/gradient-google-icon-redesign-web/))
 - **2026-05-19** — Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave ([source](https://www.wired.com/story/the-big-interview-podcast-tom-steyer/))
