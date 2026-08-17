@@ -1,19 +1,20 @@
 ---
 title: "Moto Tag 2 Hits Shelves with UWB and Longer Battery Life"
 date: 2026-05-12T14:37:14.186Z
-modified_date: 2026-08-06T12:00:52.838Z
+modified_date: 2026-08-17T04:36:19.482Z
 tags: ["Motorola","Moto Tag 2","UWB","Android Find Hub"]
 hero_image: "/hero/2026-05-12-moto-tag-2-hits-shelves-with-uwb-and-longer-battery-life-5f77f4.jpg"
 hero_image_credit_name: "Karl Gerber"
 hero_image_credit_url: "https://www.pexels.com/@grunzibaer"
 visual_keyword: "Moto Tag 2"
 description: "Motorola's Moto Tag 2 is now available with UWB support in Android Find Hub and improved battery life. The device helps users locate their belongings."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-12-moto-tag-2-hits-shelves-with-uwb-and-longer-battery-life-5f77f4.mp3"
 audio_bytes: 617579
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -82,5 +83,6 @@ The Moto Tag 2's impact on the market will also be worth watching. The device's 
 
 ## Updates
 
+- **2026-08-17** — The Life and Death of Direct File [pdf] ([source](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf))
 - **2026-08-06** — Hey Google, Assistant isn’t going away quietly ([source](https://9to5google.com/2026/08/06/inbox-newsletter-8/))
 - **2026-07-26** — Carrie is just trying to make a friend in the new trailer ([source](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con))
