@@ -1,16 +1,17 @@
 ---
 title: "Mobile App Deals and Scanner Tools Take Center Stage"
 date: 2026-04-19T05:56:45.151Z
-modified_date: 2026-08-10T18:48:45.149Z
+modified_date: 2026-08-17T10:26:46.462Z
 tags: ["mobile apps","app deals","scanner tools"]
 hero_image: "/hero/2026-04-19-mobile-app-deals-and-scanner-tools-take-center-stage-6b3bc5.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ As mobile app deals and discounts continue to make headlines, it's clear that th
 
 ## Updates
 
+- **2026-08-17** — There’s a New Link Between Gut Health and Alzheimer’s Disease ([source](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/))
 - **2026-08-10** — iOS 27 beta 5 adds new app icons for Siri, Safari, and more ([source](https://9to5mac.com/2026/08/10/ios-27-beta-5-adds-new-app-icons-for-siri-safari-and-more/))
 - **2026-06-06** — iOS 27 is coming Monday: New features, compatibility, more ([source](https://9to5mac.com/2026/06/06/ios-27-new-features/))
 - **2026-06-05** — Google shuts down Pixel Studio with the latest app update ([source](https://9to5google.com/2026/06/05/google-shuts-down-pixel-studio-with-the-latest-app-update/))

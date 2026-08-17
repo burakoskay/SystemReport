@@ -1,15 +1,17 @@
 ---
 title: "OpenBSD 7.9 Arrives as BSD Community Mourns Peter Neumann"
 date: 2026-05-19T15:47:16.900Z
+modified_date: 2026-08-17T10:26:37.119Z
 tags: ["openbsd","security","graphics"]
 hero_image: "/hero/2026-05-19-openbsd-7-9-arrives-as-bsd-community-mourns-peter-neumann-33fd22.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "openbsd terminal with code overlay"
 description: "OpenBSD 7.9 ships with fresh updates while the BSD world reflects on Peter Neumann's legacy and the rise of novel graphics demos."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## OpenBSD 7.9 lands on the front line of security
 OpenBSD 7.9 hit the mirrors this week, and the first thing users notice is the same relentless focus on hardening that defines the project. The release page (https://www.openbsd.org/79.html) lists the usual checksum files, a changelog, and a terse list of platform updates. The Hacker News post that announced it earned 187 points and sparked 95 comments, a modest buzz that reflects the project's niche but passionate audience.
@@ -33,3 +35,7 @@ The strawberry rendered in the demo looks almost tactile; light scatters through
 
 ## What to watch next
 OpenBSD 7.9 will be the baseline for the next round of security audits, and the project’s roadmap hints at a major overhaul of the packet filter in the coming months. Keep an eye on the OpenBSD mailing list for the upcoming release candidate that will introduce the new PF rewrite. On the graphics side, the Gaussian splatting community is preparing a benchmark suite that will compare the technique against traditional rasterization on modern GPUs. The suite’s first results are expected at the SIGGRAPH conference in August. Finally, watch how the BSD community honors Peter Neumann’s legacy—particularly any formal tributes or code contributions that embed his security models into future releases.
+
+## Updates
+
+- **2026-08-17** — I’m hooked on Peak Design’s new City bags ([source](https://www.theverge.com/tech/980137/peak-design-city-line-review))

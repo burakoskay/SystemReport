@@ -1,16 +1,17 @@
 ---
 title: "Rivian Scales Back DOE Loan"
 date: 2026-04-30T22:59:46.117Z
-modified_date: 2026-07-29T17:12:14.401Z
+modified_date: 2026-08-17T10:26:51.133Z
 tags: ["Rivian","DOE Loan","Electric Vehicle","Georgia Factory","Data Collection"]
 hero_image: "/hero/2026-04-30-rivian-scales-back-doe-loan-608a77.jpg"
 hero_image_credit_name: "smart-me AG"
 hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ As the industry continues to evolve, Rivian's progress will be closely monitored
 
 ## Updates
 
+- **2026-08-17** — LineageOS support finally comes to the Galaxy S22 series ([source](https://9to5google.com/2026/08/17/lineageos-support-finally-comes-to-the-galaxy-s22-series/))
 - **2026-07-29** — iOS 27 adds three new iPhone features you’ll use all the time ([source](https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/))
 - **2026-07-28** — AI leaders sign statement asking the government to do something about automated AI ([source](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta))
 - **2026-06-05** — Cloudflare CEO is lying to you about the bot traffic jump ([source](https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/))
