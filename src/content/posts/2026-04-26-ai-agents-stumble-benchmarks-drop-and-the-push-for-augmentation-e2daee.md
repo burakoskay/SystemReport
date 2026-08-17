@@ -1,19 +1,20 @@
 ---
 title: "AI agents stumble, benchmarks drop, and the push for augmentation"
 date: 2026-04-26T22:47:45.733Z
-modified_date: 2026-08-03T14:25:44.984Z
+modified_date: 2026-08-17T12:32:10.918Z
 tags: ["ai","devops","benchmark","openai"]
 hero_image: "/hero/2026-04-26-ai-agents-stumble-benchmarks-drop-and-the-push-for-augmentation-e2daee.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "server rack with red warning overlay and AI code snippets"
 description: "Recent AI mishaps and OpenAI's benchmark shift highlight the tension between automation and human oversight."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-26-ai-agents-stumble-benchmarks-drop-and-the-push-for-augmentation-e2daee.mp3"
 audio_bytes: 589994
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Track OpenAI's next blog post for a replacement to SWE‑bench Verified, especia
 
 ## Updates
 
+- **2026-08-17** — Anthropic explains how Claude&#8217;s invisible text watermarks will work ([source](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system))
 - **2026-08-03** — Big Walk is like co-op Breath of the Wild ([source](https://www.theverge.com/games/973166/big-walk-review))
 - **2026-06-05** — Lil Finder Guy pet was the gateway to building my own Mac apps with Codex ([source](https://9to5mac.com/2026/06/05/lil-finder-guy-pet-was-the-gateway-to-building-my-own-mac-apps-with-codex/))
 - **2026-05-21** — The EU Is Going Through a Trump-Fueled Breakup With Big Tech ([source](https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/))

@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-08-14T22:17:07.053Z
+modified_date: 2026-08-17T12:31:47.320Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-08-17** — 7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid) ([source](https://www.wired.com/gallery/best-cheap-laptops/))
 - **2026-08-14** — Android 17 QPR2 Beta 3 for Pixel rolling out ([source](https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/))
 - **2026-08-14** — Best Pixel 10 Cases and Accessories (2026): Mous, dbrand, Bellroy ([source](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/))
 - **2026-08-12** — Deals: Pixel 11/Pro pre-orders live at up to $600 off, FREE $200 credits, 50% off new Pixel Watch 5, more ([source](https://9to5google.com/2026/08/12/best-pixel-11-preorder-deals/))
