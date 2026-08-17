@@ -1,18 +1,20 @@
 ---
 title: "Tech Roundup: Universal Audio, Microsoft, and Photonic Chips"
 date: 2026-06-01T11:49:17.990Z
+modified_date: 2026-08-17T16:21:16.443Z
 tags: ["Universal Audio","Microsoft","Photonic Chips","NVIDIA"]
 hero_image: "/hero/2026-06-01-tech-roundup-universal-audio-microsoft-and-photonic-chips-ba06b6.jpg"
 hero_image_credit_name: "Jakub Pabis"
 hero_image_credit_url: "https://www.pexels.com/@jakub-pabis-147246622"
 visual_keyword: "photonic chips"
 description: "Universal Audio's Volt 876 impresses with plug-and-play support and excellent sound. Microsoft's Surface Laptop Ultra boasts NVIDIA's RTX Spark. Researchers develop a tiny beamsplitter for photonic chips."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-01-tech-roundup-universal-audio-microsoft-and-photonic-chips-ba06b6.mp3"
 audio_bytes: 678392
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Universal Audio's Volt 876 Shines
@@ -63,6 +65,9 @@ In conclusion, the tech world is abuzz with exciting developments, from Universa
 
 The development of photonic chips is a significant milestone in the history of computing, and it has the potential to enable a wide range of new applications and use cases. As researchers continue to make progress in this area, we can expect to see new innovations emerge that take advantage of these advancements. Additionally, the development of photonic chips could have significant implications for industries such as healthcare, finance, and education.
 
+## Updates
+
+- **2026-08-17** — iPhone 18 Pro: Six new features are coming next month ([source](https://9to5mac.com/2026/08/17/iphone-18-pro-six-new-features-are-coming-this-fall/))
 
 [^1]: [audiotechnology.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL00MA5IlBP1Y5Q5Gi7RcXjxMcQOEHxwVUCU85_xFUHKwN2oesIEFtfyL_r7Y_fp7pKQ_6HTRGddQzpRVi8iXD8tak2FlOcRzeAIPc3-Q00XtDHLbZAIPHOdnQdGnbmoc-maLUIIMvysKfxoYojK4iGQs1CEIeYvSlrzo=)
 [^2]: [producelikeapro.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ8Xt_-TCBSwYHI80S111JbQcViDfuNo7mvfEebSuDjWrUcagJb4EXrR4LveELN3_1CUxg-muP5_N5r7hRHM6fU6jnZFHn2qoGux7X_JITvVcU3mLFagKuk_ED1qrYkvRS7gDSg_CcvoDDqUJZw0crvpcQ8nnNwp2F9OcN)

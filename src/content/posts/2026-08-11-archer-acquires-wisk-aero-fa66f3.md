@@ -1,15 +1,17 @@
 ---
 title: "Archer Acquires Wisk Aero"
 date: 2026-08-11T10:46:59.371Z
+modified_date: 2026-08-17T16:20:52.376Z
 tags: ["eVTOL","Archer","Wisk Aero"]
 hero_image: "/hero/2026-08-11-archer-acquires-wisk-aero-fa66f3.jpg"
 hero_image_credit_name: "Joerg Mangelsen"
 hero_image_credit_url: "https://www.pexels.com/@joerg-mangelsen-337913024"
 visual_keyword: "eVTOL aircraft"
 description: "Archer buys former rival Wisk Aero"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Acquisition
 Archer has acquired Wisk Aero, a move that combines two former rivals in the eVTOL industry. The acquisition marks a significant shift in the competitive landscape of electric vertical takeoff and landing (eVTOL) aircraft manufacturing. The two companies were once embroiled in a trade secret theft lawsuit, which highlights the intense competition in the eVTOL market.
@@ -25,3 +27,7 @@ The acquisition of Wisk by Archer will have significant implications for the eVT
 The acquisition's impact on the eVTOL industry will be significant. Wisk is now being absorbed into Archer, which could lead to a consolidation of resources and talent. The acquisition could also lead to the development of new eVTOL aircraft, as the combined company will have access to a broader range of expertise and technology. However, the acquisition's financial terms and purchase price have not been disclosed, making it difficult to assess the deal's value.
 ## History of the Companies
 Archer and Wisk have a complex history, with the two companies once embroiled in a trade secret theft lawsuit. The lawsuit highlighted the intense competition in the eVTOL market, with companies fighting for market share and intellectual property. The acquisition of Wisk by Archer marks a significant shift in this dynamic, as the two companies will now be working together to develop eVTOL aircraft.
+
+## Updates
+
+- **2026-08-17** — WordPress.com targets the next generation of web creators with a free student plan ([source](https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/))
