@@ -1,19 +1,20 @@
 ---
 title: "Apple Wallet's Digital ID Expands to Age Verification"
 date: 2026-04-27T03:36:39.716Z
-modified_date: 2026-08-05T19:23:26.916Z
+modified_date: 2026-08-18T10:22:18.418Z
 tags: ["Apple","Digital ID","Financial Inclusion"]
 hero_image: "/hero/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.jpg"
 hero_image_credit_name: "Emil Kalibradov"
 hero_image_credit_url: "https://www.pexels.com/@emil-kalibradov-3013808"
 visual_keyword: "Apple Wallet"
 description: "Apple Wallet's Digital ID feature now supports age verification on iPhone, expanding its use beyond identification."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-27-apple-wallet-s-digital-id-expands-to-age-verification-4f5733.mp3"
 audio_bytes: 608802
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In conclusion, the expansion of Apple's Digital ID feature to include age verifi
 
 ## Updates
 
+- **2026-08-18** — The Powerful Chinese Model Experts Warned About—and Waited for—Is Here ([source](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/))
 - **2026-08-05** — Siri AI is coming to newer Apple devices only, here’s the full list ([source](https://9to5mac.com/2026/08/05/siri-ai-is-coming-to-newer-apple-devices-only-heres-the-full-list/))
 - **2026-05-27** — You can print, slice, and engrave using this desktop crafting machine ([source](https://www.theverge.com/tech/938031/xtool-m2-craft-machine-cmyk-inkjet-printing-laser-diode-cutter))
 - **2026-05-18** — Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day ([source](https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale))

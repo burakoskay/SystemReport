@@ -1,18 +1,20 @@
 ---
 title: "Data Centers Under Fire: Power, Hackers, and War"
 date: 2026-07-31T17:49:46.455Z
+modified_date: 2026-08-18T10:22:30.130Z
 tags: ["cloud","cybersecurity","geopolitics","data-centers"]
 hero_image: "/hero/2026-07-31-data-centers-under-fire-power-hackers-and-war-f5980e.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite view of burning data center roof with desert horizon"
 description: "SpaceX’s new plant, a Kremlin‑backed Exchange hack, and Iranian strikes expose the fragile foundations of today’s cloud infrastructure."
-sources_count: 4
-author: "elena-marchetti"
+sources_count: 5
 audio_path: "/audio/2026-07-31-data-centers-under-fire-power-hackers-and-war-f5980e.mp3"
 audio_bytes: 614027
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A Night of Flames Over the Desert
 
@@ -47,3 +49,7 @@ The pattern mirrors the AT&T breakup of the 1980s, where local opposition to mon
 ## What to Watch
 
 Regulators in the jurisdictions hosting xAI’s Colossus plant will soon decide whether to enforce the removal of the unpermitted turbines. A ruling that mandates immediate dismantling could force SpaceX to accelerate the new plant’s commissioning or face penalties. Meanwhile, security teams must verify whether their Exchange servers have been compromised by the Kremlin‑linked exploit; detection tools that surface persistent kernel hooks will be essential. Finally, satellite monitoring of AWS facilities will likely become a standard intelligence feed for both insurers and nation‑state analysts, as physical strikes on cloud assets move from speculation to documented reality. The convergence of power‑grid compliance, cyber persistence, and geopolitical targeting will shape the next wave of risk assessments for any organisation that relies on cloud infrastructure.
+
+## Updates
+
+- **2026-08-18** — The Benchmarkpocalypse ([source](https://danluu.com/benchpocalypse/))
