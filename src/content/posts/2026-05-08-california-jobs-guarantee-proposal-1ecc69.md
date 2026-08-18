@@ -1,16 +1,17 @@
 ---
 title: "California Jobs Guarantee Proposal"
 date: 2026-05-08T17:31:49.620Z
-modified_date: 2026-08-05T19:23:04.816Z
+modified_date: 2026-08-18T16:25:25.292Z
 tags: ["AI","jobs","California"]
 hero_image: "/hero/2026-05-08-california-jobs-guarantee-proposal-1ecc69.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "California gubernatorial candidate Tom Steyer proposes jobs guarantee for workers displaced by AI."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -63,5 +64,6 @@ The discussion around AI and jobs is likely to continue in the coming years, and
 
 ## Updates
 
+- **2026-08-18** — Anthro Energy breaks ground on factory that could pave the road to solid-state batteries ([source](https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/))
 - **2026-08-05** — Uber CEO brushes off reports of a Waymo break-up ([source](https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership))
 - **2026-06-04** — Belkin’s new Joy-Con grips also boost the Switch 2’s battery life ([source](https://www.theverge.com/tech/942617/belkin-gaming-charging-grip-nintendo-switch-2-joy-con-controller))

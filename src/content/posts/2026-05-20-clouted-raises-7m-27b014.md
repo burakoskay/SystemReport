@@ -1,18 +1,20 @@
 ---
 title: "Clouted Raises $7M"
 date: 2026-05-20T23:24:53.860Z
+modified_date: 2026-08-18T16:26:25.032Z
 tags: ["video clipping","content creation","short-form video"]
 hero_image: "/hero/2026-05-20-clouted-raises-7m-27b014.jpg"
 hero_image_credit_name: "Alex Fu"
 hero_image_credit_url: "https://www.pexels.com/@alexfu"
 visual_keyword: "video editing"
 description: "Clouted, a video clipping startup, raises $7 million"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-05-20-clouted-raises-7m-27b014.mp3"
 audio_bytes: 638895
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Clouted
@@ -42,3 +44,6 @@ With the funding, Clouted is poised to enhance its product offerings and expand 
 ## Future Developments
 As Clouted continues to grow and expand its offerings, it is likely to face new challenges and opportunities. The company may need to adapt to changing trends and technologies in the video editing and content creation tool market. However, with its focus on making viral short videos accessible to a broader audience, Clouted is well-positioned to remain a key player in the industry.
 
+## Updates
+
+- **2026-08-18** — Fairphone officially starts selling its new repairable Android phone in the US for $649 ([source](https://9to5google.com/2026/08/18/fairphone-gen-6-plus-us-launch-price-specs/))

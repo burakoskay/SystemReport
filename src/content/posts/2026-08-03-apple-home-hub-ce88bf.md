@@ -1,18 +1,20 @@
 ---
 title: "Apple Home Hub"
 date: 2026-08-03T02:12:09.671Z
+modified_date: 2026-08-18T16:26:30.978Z
 tags: ["Apple Home","Smart Home","HomeKit"]
 hero_image: "/hero/2026-08-03-apple-home-hub-ce88bf.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Smart Home Devices"
 description: "Apple Home requires a dedicated hub"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-03-apple-home-hub-ce88bf.mp3"
 audio_bytes: 587277
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Apple Home
 A dedicated Apple Home hub, such as an Apple TV 4K or a HomePod, is necessary for remote access to devices. This is because the hub enables control and updates on device status, allowing users to monitor and manage their smart home setup from anywhere.
@@ -30,3 +32,7 @@ Apple has been developing its HomeKit platform for several years, with the goal 
 The dedicated Apple Home hub uses a combination of hardware and software to provide a secure and reliable connection to the user's smart home devices. The hub uses a proprietary protocol to communicate with the devices, ensuring that the connection is secure and that the devices are protected from unauthorized access. The hub also uses a cloud-based service to provide remote access to the devices, allowing users to monitor and control their devices from anywhere.
 ## Downstream Implications
 The requirement for a dedicated Apple Home hub has significant implications for users and the industry as a whole. For users, it provides a secure and reliable way to control and monitor their smart home devices, even when they are away from home. For the industry, it sets a standard for the importance of security and reliability in smart home devices, and highlights the need for convenient and easy-to-use solutions for users.
+
+## Updates
+
+- **2026-08-18** — Security Bite: Apple’s camera AirPods are going to make Meta glasses look reckless ([source](https://9to5mac.com/2026/08/18/security-bite-apples-camera-airpods-are-going-to-make-meta-glasses-look-reckless/))

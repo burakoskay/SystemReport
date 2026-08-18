@@ -1,15 +1,17 @@
 ---
 title: "Recreation.gov Fails to Deliver on Promise of Public Lands Access"
 date: 2026-05-19T11:37:16.048Z
+modified_date: 2026-08-18T16:25:55.189Z
 tags: ["Recreation.gov","Public lands","Equity","Accessibility","Government contractor","Outdoor recreation industry"]
 hero_image: "/hero/2026-05-19-recreation-gov-fails-to-deliver-on-promise-of-public-lands-access-7fed94.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "public lands management"
 description: "The Recreation.gov platform intended to streamline access to public lands is plagued by bots and inequality."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 # Recreation.gov's Bumpy Launch
 
@@ -50,3 +52,7 @@ The flaws in the Recreation.gov platform have far-reaching implications for marg
 ## What to Watch
 
 As the government continues to struggle with the platform's inequities, it's essential to keep an eye on the developments surrounding Recreation.gov. The platform's future will have far-reaching implications for marginalized communities and the future of public lands management.
+
+## Updates
+
+- **2026-08-18** — ABC sues the FCC over Trump and Carr&#8217;s campaign of threats ([source](https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit))

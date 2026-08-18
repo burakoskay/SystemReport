@@ -1,19 +1,20 @@
 ---
 title: "Gaming Laptops: Razer, Asus, Dell, and More"
 date: 2026-08-08T22:23:58.383Z
-modified_date: 2026-08-15T20:16:28.169Z
+modified_date: 2026-08-18T16:26:19.094Z
 tags: ["gaming laptops","Razer","Asus","Dell"]
 hero_image: "/hero/2026-08-08-gaming-laptops-razer-asus-dell-and-more-4ca053.jpg"
 hero_image_credit_name: "Rafael Minguet Delgado"
 hero_image_credit_url: "https://www.pexels.com/@thales13"
 visual_keyword: "gaming laptop"
 description: "Expert reviews of top gaming laptops"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-08-gaming-laptops-razer-asus-dell-and-more-4ca053.mp3"
 audio_bytes: 684244
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Gaming Laptops
@@ -57,4 +58,5 @@ This has led to new opportunities for game developers, as well as changes in the
 
 ## Updates
 
+- **2026-08-18** — Deals: 1-day Galaxy sale – Tabs from $215, S26 cases 60% off, Olive Pixel Buds Pro 2, Galaxy Book $750 off, more ([source](https://9to5google.com/2026/08/18/deals-galaxy-tabs-s26-accessories-olive-pixel-buds-pro-2/))
 - **2026-08-15** — Indie App Spotlight: ‘Notepad.exe’ is an ultra-fast, lightweight code editor for your Mac ([source](https://9to5mac.com/2026/08/15/indie-app-spotlight-notepad-exe-is-an-ultra-fast-lightweight-code-editor-for-your-mac/))

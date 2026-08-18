@@ -1,16 +1,17 @@
 ---
 title: "New Co‑op Shooter, Horror Mode, and Classic Remaster Hit Summer"
 date: 2026-05-08T19:39:29.080Z
-modified_date: 2026-08-13T18:55:32.401Z
+modified_date: 2026-08-18T16:25:31.262Z
 tags: ["gaming","releases","remaster"]
 hero_image: "/hero/2026-05-08-new-co-op-shooter-horror-mode-and-classic-remaster-hit-summer-71408e.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "gaming controllers and retro game box art on a sleek table"
 description: "Aliens: Fireteam Elite 2 adds four‑player co‑op and new classes, Resident Evil Requiem launches a Leon‑only mode, and Sony upgrades Ico and Shadow of the Colossus."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Track the server performance metrics for Aliens: Fireteam Elite 2 once it launch
 
 ## Updates
 
+- **2026-08-18** — Warp’s new system is an out-of-the-box software factory for AI development ([source](https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/))
 - **2026-08-13** — I finally found a robot lawnmower I’d trust with my yard ([source](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame))
 - **2026-05-18** — Volvo reveals $58,400 starting price for the EX60 ([source](https://www.engadget.com/2175462/volvo-reveals-58400-starting-price-for-the-ex60/))
 - **2026-05-11** — Astronomers use the Webb telescope to improve our map of the cosmic web ([source](https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/))

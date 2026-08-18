@@ -1,16 +1,17 @@
 ---
 title: "Sony pushes disc death as streaming squeezes niche music"
 date: 2026-07-31T21:13:34.958Z
-modified_date: 2026-08-04T19:25:23.929Z
+modified_date: 2026-08-18T16:25:49.251Z
 tags: ["sony","streaming","music","gaming","industry"]
 hero_image: "/hero/2026-07-31-sony-pushes-disc-death-as-streaming-squeezes-niche-music-09e51f.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "gaming console disc slot empty next to streaming waveform"
 description: "Sony moves forward without PlayStation discs while streaming services drive down earnings for jazz and classical artists, and Pandora rolls out a sub-$10 ad‑free tier."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -37,5 +38,6 @@ Track Sony’s quarterly earnings for any deviation from the projected neutral i
 
 ## Updates
 
+- **2026-08-18** — Comcast is turning millions of its routers into motion detectors ([source](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing))
 - **2026-08-04** — Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store ([source](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov))
 - **2026-08-04** — Apple briefly yanked Telegram from the App Store over CSAM violations ([source](https://www.theverge.com/tech/974951/telegram-apple-app-store-removed))

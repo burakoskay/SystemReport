@@ -1,18 +1,20 @@
 ---
 title: "xAI's Data Center Sparks Environmental and Regulatory Controversy"
 date: 2026-05-13T21:35:59.487Z
+modified_date: 2026-08-18T16:25:13.224Z
 tags: ["xai","data centers","environmental impact","ai infrastructure","energy policy"]
 hero_image: "/hero/2026-05-13-xai-s-data-center-sparks-environmental-and-regulatory-controversy-0f248b.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "industrial turbines emitting smoke near a data center"
 description: "xAI's Memphis data center uses gas turbines without permits, raising environmental and regulatory concerns as it scales AI infrastructure."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-13-xai-s-data-center-sparks-environmental-and-regulatory-controversy-0f248b.mp3"
 audio_bytes: 631581
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 xAI’s Memphis data center, Colossus, has become a flashpoint in the AI industry’s race for compute power. The facility, now operating 100,000 Nvidia H100 GPUs, relies on unpermitted mobile gas turbines to meet its energy demands—a setup drawing legal and environmental scrutiny. The choice underscores a broader tension in AI infrastructure: the need for rapid scale versus the cost of regulatory and ecological compromise.
 
@@ -33,3 +35,7 @@ This pattern is global. In China, state-backed orbital data-center projects are 
 ## What to Watch
 
 Three developments will shape how this plays out. First, Shelby County’s response to xAI’s permit application will test how strictly local regulators enforce environmental rules for big tech. Second, GE Vernova’s plan to double stationary turbine production in 2026 could ease the energy bottleneck—if the company follows through. Third, the U.S. and China’s competing visions for orbital data centers will determine whether space becomes a regulated commons or a deregulated frontier. For engineers and investors, these choices will dictate the next decade’s energy and AI landscape.
+
+## Updates
+
+- **2026-08-18** — Can the Upcoming ‘Expanse’ Game Avoid the Biggest Mistake of ‘Mass Effect’? ([source](https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/))

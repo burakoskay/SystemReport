@@ -1,16 +1,17 @@
 ---
 title: "Amazon primes June with early Prime Day"
 date: 2026-06-02T10:51:41.265Z
-modified_date: 2026-08-16T16:18:28.789Z
+modified_date: 2026-08-18T16:26:42.827Z
 tags: ["Amazon","Prime Day","e-commerce","Whoop"]
 hero_image: "/hero/2026-06-02-amazon-primes-june-with-early-prime-day-d093f4.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "Amazon Prime Day"
 description: "Amazon shifts Prime Day to June 23-26, while Whoop offers 20% off memberships"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The e-commerce landscape is expected to continue growing, with more consumers tu
 
 ## Updates
 
+- **2026-08-18** — The Amazon Tax ([source](https://seths.blog/2026/08/the-amazon-tax/))
 - **2026-08-16** — Nintendo GameCube discs were small for a reason ([source](https://www.engadget.com/2234243/nintendo-gamecube-small-discs-reason/))
 - **2026-07-26** — With help from data, art museums are reframing the visitor experience ([source](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/))
 - **2026-06-02** — Focused Energy raises whopping $240M Series A for laser-powered fusion tech ([source](https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/))
