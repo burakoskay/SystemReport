@@ -1,18 +1,19 @@
 ---
 title: "Sharks and Humans"
 date: 2026-04-18T16:31:34.633Z
-modified_date: 2026-07-31T13:50:49.176Z
+modified_date: 2026-08-18T08:29:33.564Z
 tags: ["Climate Change","Evolution","Sharks"]
 hero_image: "/hero/2026-04-18-sharks-and-humans-3e6ed5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Sharks"
 description: "Sharks overheating, human evolution accelerates"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-18-sharks-and-humans-3e6ed5.wav"
 audio_bytes: 3152694
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ Great white sharks face extinction due to warming waters. Humans must take actio
 
 ## Updates
 
+- **2026-08-18** — Apple appears to have leaked its camera-equipped AirPods ([source](https://www.engadget.com/2238891/apple-appears-to-have-leaked-its-camera-equipped-airpods/))
 - **2026-07-31** — Steelseries Arctis Nova Pro Omni Review: For Multisystem Gamers ([source](https://www.wired.com/review/steelseries-arctis-nova-pro-omni/))
 - **2026-06-05** — GroWell Cap Review: I Have Hair for the First Time in 15 Years ([source](https://www.wired.com/story/growell-cap-rave/))
 - **2026-05-27** — Roku updates its UI for the first time in a decade ([source](https://www.engadget.com/2182099/roku-updates-its-ui-for-the-first-time-in-a-decade/))
