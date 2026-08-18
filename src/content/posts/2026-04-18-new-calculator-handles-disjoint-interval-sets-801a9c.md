@@ -1,16 +1,17 @@
 ---
 title: "New Calculator Handles Disjoint Interval Sets"
 date: 2026-04-18T11:07:34.761Z
-modified_date: 2026-05-18T15:42:30.278Z
+modified_date: 2026-08-18T18:38:30.375Z
 tags: ["interval arithmetic","open-source","calculator"]
 hero_image: "/hero/2026-04-18-new-calculator-handles-disjoint-interval-sets-801a9c.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "calculator"
 description: "An open-source calculator accurately computes expressions over disjoint interval sets."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 The creator of a new calculator, who has been studying interval arithmetic for weeks, has built a tool that accurately handles division by intervals containing zero. Computing 1 / [-1, 2] yields [-∞, -1] U [0.5, +∞], a union of two disjoint intervals.
@@ -21,4 +22,5 @@ The calculator's implementation ensures accuracy using IEEE 754 double precision
 
 ## Updates
 
+- **2026-08-18** — Apple overhauls its EU App Store fees, loosens rules for alternative app stores ([source](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/))
 - **2026-05-18** — Kin Health raises $9M to build an AI notetaker for patients ([source](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/))

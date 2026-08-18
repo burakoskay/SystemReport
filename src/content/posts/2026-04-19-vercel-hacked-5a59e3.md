@@ -1,16 +1,17 @@
 ---
 title: "Vercel Hacked"
 date: 2026-04-19T23:08:53.080Z
-modified_date: 2026-05-02T19:07:37.387Z
+modified_date: 2026-08-18T18:38:20.348Z
 tags: ["vercel","cloud security","data breach"]
 hero_image: "/hero/2026-04-19-vercel-hacked-5a59e3.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cloud security breach"
 description: "Vercel, a major cloud development platform, was compromised and hackers are selling stolen data. The breach was caused by a compromised third-party AI tool."
-sources_count: 6
+sources_count: 7
 author: "priya-raman"
 ---
+
 
 
 
@@ -35,5 +36,6 @@ As the investigation into the Vercel breach continues, customers and industry ob
 
 ## Updates
 
+- **2026-08-18** — OpenAI institutes new safeguards after Hugging Face breach ([source](https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/))
 - **2026-05-02** — Meta&#8217;s historic loss in court could cost a lot more than $375 million ([source](https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety))
 - **2026-04-21** — Wearable health tech might be Tim Cook’s greatest legacy ([source](https://www.theverge.com/tech/915976/tim-cook-john-ternus-apple-watch-health-tech-wearables))

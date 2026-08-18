@@ -1,19 +1,20 @@
 ---
 title: "AI Startups' Inflated ARR"
 date: 2026-05-22T21:16:56.606Z
-modified_date: 2026-08-06T23:56:19.335Z
+modified_date: 2026-08-18T18:38:40.463Z
 tags: ["AI startups","inflated ARR","revenue metrics","transparency"]
 hero_image: "/hero/2026-05-22-ai-startups-inflated-arr-d1cbc2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The future outlook for the AI startup industry is promising, but it requires a f
 
 ## Updates
 
+- **2026-08-18** — PlayStation&#8217;s wireless gaming speakers launch in November ([source](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder))
 - **2026-08-06** — Apple earnings, universal clipboard interoperability, iPhone event chatter ([source](https://9to5mac.com/2026/08/06/happy-hour-602/))
 - **2026-08-06** — The AirPods Pro are $60 off, their best price since late June ([source](https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale))
 - **2026-07-31** — Nothing reportedly prioritizing AI devices like its leaked smartwatch over smartphones ([source](https://9to5google.com/2026/07/31/nothing-smartwatch-audio-devices-leak-with-ai-focus/))

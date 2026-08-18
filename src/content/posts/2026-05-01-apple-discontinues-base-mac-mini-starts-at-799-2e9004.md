@@ -1,16 +1,17 @@
 ---
 title: "Apple Discontinues Base Mac Mini, Starts at $799"
 date: 2026-05-01T19:19:16.066Z
-modified_date: 2026-05-06T17:46:19.632Z
+modified_date: 2026-08-18T18:38:35.487Z
 tags: ["Tech News","Apple","LG"]
 hero_image: "/hero/2026-05-01-apple-discontinues-base-mac-mini-starts-at-799-2e9004.jpg"
 hero_image_credit_name: "Tofros.com"
 hero_image_credit_url: "https://www.pexels.com/@tofros-com-83191"
 visual_keyword: "Laptop"
 description: "Apple discontinues base Mac mini, LG launches 2026 Gram laptops"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 ## Apple Discontinues Base Mac Mini Model
@@ -38,6 +39,7 @@ The Aqara Camera Hub G350's Matter certification sets it apart from other smart 
 
 ## Updates
 
+- **2026-08-18** — Samsung’s Galaxy Buds 3 Pro are almost half off today ([source](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale))
 - **2026-05-06** — Google DeepMind is partnering with EVE Online to research ‘player-driven systems’ ([source](https://9to5google.com/2026/05/06/google-deepmind-is-partnering-with-eve-online-to-research-player-driven-systems/))
 
 [^1]: [macrumors.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFanPWxEE4Qw_k8ztAnyD9zmvNXCrk_6H58-r_15XwQDvR2MTFtdPb8QZUqVkk0K6rfK07NzDX0IR0dCvvL4YjPINiplFfck-uTKDfOw6MG3sq1AOoOl9Zy0bRConLlR3X-yk33rFRjWZX4I5M3hdWcYp6IPw8r0rdPGg==)

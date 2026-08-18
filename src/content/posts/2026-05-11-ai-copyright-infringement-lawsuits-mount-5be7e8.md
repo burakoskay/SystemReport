@@ -1,16 +1,17 @@
 ---
 title: "AI Copyright Infringement Lawsuits Mount"
 date: 2026-05-11T15:27:54.619Z
-modified_date: 2026-07-31T06:40:41.947Z
+modified_date: 2026-08-18T18:39:05.698Z
 tags: ["AI","copyright infringement","lawsuits"]
 hero_image: "/hero/2026-05-11-ai-copyright-infringement-lawsuits-mount-5be7e8.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Lawsuits against OpenAI, Meta, and others highlight concerns over AI training data and copyright infringement."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -75,5 +76,6 @@ Ultimately, the goal is to create a future where AI models are trained on ethica
 
 ## Updates
 
+- **2026-08-18** — Here's why you should think twice before storing your electronics in the garage ([source](https://www.engadget.com/2238788/heres-why-think-twice-storing-electronics-in-garage/))
 - **2026-07-31** — The AI trade now runs on borrowed money, and the lenders are repricing it ([source](https://greyswansignals.com/?theme=dark))
 - **2026-06-03** — Amazon now generates images of fake products in one of the dumbest uses of AI yet [Video] ([source](https://9to5google.com/2026/06/03/amazon-search-ai-images-fake-products/))

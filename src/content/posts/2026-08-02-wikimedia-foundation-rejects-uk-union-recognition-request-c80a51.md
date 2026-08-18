@@ -1,15 +1,17 @@
 ---
 title: "Wikimedia Foundation rejects UK union recognition request"
 date: 2026-08-02T13:11:31.356Z
+modified_date: 2026-08-18T18:39:00.624Z
 tags: ["wikimedia","labor","union","nonprofit"]
 hero_image: "/hero/2026-08-02-wikimedia-foundation-rejects-uk-union-recognition-request-c80a51.jpg"
 hero_image_credit_name: "Lara Jameson"
 hero_image_credit_url: "https://www.pexels.com/@lara-jameson"
 visual_keyword: "Wikipedia office building with protest signs"
 description: "British Wikimedia staff asked for CWU representation; the foundation refused and hired anti‑union counsel, sparking debate over nonprofit labor rights."
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 ## Union request filed
 
@@ -42,3 +44,7 @@ The next milestone will be WMF’s response to the CWU’s formal grievance unde
 In parallel, the CWU plans to mobilize its broader tech membership and may seek solidarity actions from other Wikimedia volunteers worldwide. Observers should track petition signatures, public statements from WMF leadership, and any regulatory commentary from the UK’s Department for Business and Trade, which oversees union recognition disputes.
 
 The dispute will test whether a global knowledge nonprofit can reconcile its open‑source ethos with traditional labor protections. The resolution will likely influence how other mission‑driven tech organizations approach staff organizing in the coming years.
+
+## Updates
+
+- **2026-08-18** — Ford hopes this Hypercar will be its next Le Mans winner ([source](https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/))
