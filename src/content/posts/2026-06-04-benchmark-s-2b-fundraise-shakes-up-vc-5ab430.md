@@ -1,19 +1,20 @@
 ---
 title: "Benchmark's $2B Fundraise Shakes Up VC"
 date: 2026-06-04T04:30:26.665Z
-modified_date: 2026-06-05T10:00:47.200Z
+modified_date: 2026-08-18T20:17:18.661Z
 tags: ["venture capital","growth funds","Benchmark"]
 hero_image: "/hero/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "growth funds"
 description: "Benchmark raises its first growth fund as part of $2B capital raise, deviating from its traditional $425M fund size."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.mp3"
 audio_bytes: 560946
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,4 +88,5 @@ In conclusion, Benchmark's $2 billion growth fund is a significant development i
 
 ## Updates
 
+- **2026-08-18** — Fairphone is now officially available in the United States ([source](https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more))
 - **2026-06-05** — ‘Doo Doo Water and a Few Needles’: Inside the Mystery of the New York City Manhole Prowlers ([source](https://www.wired.com/story/new-york-city-manhole-mole-people-urban-explorers/))

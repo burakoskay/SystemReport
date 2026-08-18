@@ -1,16 +1,17 @@
 ---
 title: "Apple's Strategic Moves: From Patent Battles to AI Innovations"
 date: 2026-04-18T01:10:54.654Z
-modified_date: 2026-08-15T10:17:08.023Z
+modified_date: 2026-08-18T20:17:01.237Z
 tags: ["apple","technology","ai","iphone"]
 hero_image: "/hero/2026-04-18-apple-s-strategic-moves-from-patent-battles-to-ai-innovations-472f15.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Watch blood oxygen feature"
 description: "Apple navigates patent disputes, boosts stock targets, and showcases AI research, while new iPhone colors and Macs may be on the horizon."
-sources_count: 33
+sources_count: 34
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ With these strategic moves, Apple is poised to maintain its position in the tech
 
 ## Updates
 
+- **2026-08-18** — Here’s everything new for Apple Calendar in iOS 27 ([source](https://9to5mac.com/2026/08/18/heres-everything-new-for-apple-calendar-in-ios-27/))
 - **2026-08-15** — 5 Best Apple Watch Bands: Nike, Nomad, and Hermés (2026) ([source](https://www.wired.com/story/best-apple-watch-bands/))
 - **2026-08-13** — New Apple TV 4K: Everything we know about Apple’s 2026 upgrade ([source](https://9to5mac.com/2026/08/13/new-apple-tv-4k-2026-release-date-features-price/))
 - **2026-08-07** — Today’s the last day to get up to $400 off your TechCrunch Disrupt 2026 ticket ([source](https://techcrunch.com/2026/08/07/todays-the-last-day-to-get-up-to-400-off-your-techcrunch-disrupt-2026-ticket/))
