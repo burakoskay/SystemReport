@@ -1,16 +1,17 @@
 ---
 title: "Google Acquires PushLife for $25 Million"
 date: 2026-05-08T11:23:28.900Z
-modified_date: 2026-06-01T04:44:08.946Z
+modified_date: 2026-08-18T22:17:58.204Z
 tags: ["Google","PushLife","mobile entertainment"]
 hero_image: "/hero/2026-05-08-google-acquires-pushlife-for-25-million-296052.jpg"
 hero_image_credit_name: "Yan Krukau"
 hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "mobile entertainment"
 description: "Google buys mobile music platform"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,4 +44,5 @@ In conclusion, Google's acquisition of PushLife is a strategic move that highlig
 
 ## Updates
 
+- **2026-08-18** — Turbovec – Google's TurboQuant for vector search in Rust ([source](https://github.com/RyanCodrai/turbovec))
 - **2026-06-01** — Google Home Speaker gets June release date from one retailer ([source](https://9to5google.com/2026/05/31/google-home-speaker-release-date-june/))

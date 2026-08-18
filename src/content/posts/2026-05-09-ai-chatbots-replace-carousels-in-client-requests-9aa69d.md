@@ -1,19 +1,20 @@
 ---
 title: "AI Chatbots Replace Carousels in Client Requests"
 date: 2026-05-09T11:02:15.067Z
-modified_date: 2026-05-11T11:30:09.663Z
+modified_date: 2026-08-18T22:17:53.515Z
 tags: ["AI","Chatbots","Conversational AI"]
 hero_image: "/hero/2026-05-09-ai-chatbots-replace-carousels-in-client-requests-9aa69d.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Chatbots"
 description: "A growing trend sees clients opting for AI chatbots over traditional carousels, driven by advancements in conversational AI and changing user expectations."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-09-ai-chatbots-replace-carousels-in-client-requests-9aa69d.mp3"
 audio_bytes: 606712
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The industry response to the shift towards AI chatbots has been varied. Some com
 
 ## Updates
 
+- **2026-08-18** — Firefox Smart Window adds AI web search, automatic tab groups, and more ([source](https://9to5mac.com/2026/08/18/firefox-smart-window-adds-ai-web-search-automatic-tab-groups-and-more/))
 - **2026-05-11** — Windows 11 is getting a macOS-like speed boost ([source](https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost))
