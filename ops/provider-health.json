@@ -1,9 +1,9 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 3882,
+    "consecutive_failures": 3906,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-18T04:32:00.098Z",
+    "last_failure": "2026-08-18T06:34:25.190Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
@@ -14,23 +14,23 @@
   },
   "groq:qwen/qwen3-32b": {
     "last_success": "2026-06-07T19:41:40.806Z",
-    "consecutive_failures": 499,
+    "consecutive_failures": 505,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `qwen/qwen3-32b` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-18T04:30:50.423Z"
+    "last_failure": "2026-08-18T06:33:17.529Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 157,
+    "consecutive_failures": 175,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-18T04:32:00.019Z",
+    "last_failure": "2026-08-18T06:34:25.150Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-17T08:48:40.903Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 3,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (0cbbbd27-dc3e-4111-8bd3-ee36818c5c7e)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-08-18T04:30:29.361Z",
+    "consecutive_failures": 4,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (c2331c67-1eab-4912-b095-13f543c433c2)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-08-18T06:32:56.980Z",
     "last_success": "2026-08-18T03:03:06.312Z",
-    "cooldown_until": "2026-08-18T04:40:28.189Z"
+    "cooldown_until": "2026-08-18T06:42:56.671Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
