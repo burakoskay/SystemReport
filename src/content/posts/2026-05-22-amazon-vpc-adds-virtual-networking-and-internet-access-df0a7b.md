@@ -1,19 +1,20 @@
 ---
 title: "Amazon VPC Adds Virtual Networking and Internet Access"
 date: 2026-05-22T19:57:34.188Z
-modified_date: 2026-06-02T20:56:13.383Z
+modified_date: 2026-08-18T02:52:08.038Z
 tags: ["Amazon VPC","Virtual Networking","Cloud Computing"]
 hero_image: "/hero/2026-05-22-amazon-vpc-adds-virtual-networking-and-internet-access-df0a7b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "network"
 description: "Amazon Virtual Private Cloud (VPC) now offers virtual networking and internet access without a VPN, allowing users to define their own virtual network topology."
-sources_count: 3
-author: "priya-raman"
+sources_count: 4
 audio_path: "/audio/2026-05-22-amazon-vpc-adds-virtual-networking-and-internet-access-df0a7b.mp3"
 audio_bytes: 583725
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,4 +60,5 @@ The future of cloud networking is likely to be shaped by the increasing demand f
 
 ## Updates
 
+- **2026-08-18** — AirPods with cameras get their clearest leak yet ([source](https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/))
 - **2026-06-02** — Google Home update adds ‘Pet Memory’ for Nest Cam, expands ‘Ask Home’ ([source](https://9to5google.com/2026/06/02/google-home-pet-memory-nest-cam/))

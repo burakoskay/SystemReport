@@ -1,19 +1,20 @@
 ---
 title: "SpaceX Grok Risk Disclosure"
 date: 2026-05-21T04:12:45.216Z
-modified_date: 2026-07-28T22:55:27.218Z
+modified_date: 2026-08-18T02:52:12.865Z
 tags: ["SpaceX","Grok","AI","Content Moderation"]
 hero_image: "/hero/2026-05-21-spacex-grok-risk-disclosure-63cf76.jpg"
 hero_image_credit_name: "Marta Dzedyshko"
 hero_image_credit_url: "https://www.pexels.com/@marta-dzedyshko-1042863"
 visual_keyword: "Grok"
 description: "SpaceX sets aside $500M for potential litigation losses related to Grok's 'spicy' mode in IPO filing."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-21-spacex-grok-risk-disclosure-63cf76.mp3"
 audio_bytes: 611937
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The outcome of this situation could have significant implications for the future
 
 ## Updates
 
+- **2026-08-18** — Los Puesteros, solitary men who look after ranches and livestock in Patagonia ([source](https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world))
 - **2026-07-28** — iyO’s trademark lawsuit against OpenAI and Jony Ive paused over settlement talks ([source](https://9to5mac.com/2026/07/28/iyos-trademark-lawsuit-against-openai-and-jony-ive-paused-over-settlement-talks/))
