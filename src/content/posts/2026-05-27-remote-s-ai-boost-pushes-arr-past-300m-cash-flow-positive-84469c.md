@@ -1,16 +1,17 @@
 ---
 title: "Remote's AI boost pushes ARR past $300M, cash flow positive"
 date: 2026-05-27T22:17:11.478Z
-modified_date: 2026-08-10T22:31:22.875Z
+modified_date: 2026-08-18T12:33:43.314Z
 tags: ["remote","payroll","ai","fintech"]
 hero_image: "/hero/2026-05-27-remote-s-ai-boost-pushes-arr-past-300m-cash-flow-positive-84469c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "modern office with AI data flow graphics"
 description: "Remote's AI-driven efficiency lifts ARR over $300M and turns cash‑flow positive, highlighting a new productivity model for payroll firms."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 ## Remote hits $300M ARR and cash‑flow positivity
@@ -40,4 +41,5 @@ Remote plans to roll out additional AI modules for benefits administration later
 
 ## Updates
 
+- **2026-08-18** — Elon Musk made flying even worse so Palantir could profit ([source](https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir))
 - **2026-08-10** — Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI ([source](https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/))

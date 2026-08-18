@@ -1,19 +1,20 @@
 ---
 title: "The Dark Side of AI Model Fine-Tuning"
 date: 2026-06-01T04:46:58.446Z
-modified_date: 2026-08-03T19:24:18.749Z
+modified_date: 2026-08-18T12:33:24.502Z
 tags: ["AI","Machine Learning","Cybersecurity"]
 hero_image: "/hero/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Model Fine-Tuning"
 description: "Researchers warn of vulnerabilities in AI model fine-tuning process. A new study highlights the risks of post-training manipulation."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.mp3"
 audio_bytes: 623013
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,4 +86,5 @@ The future of AI model security depends on the actions we take today. By priorit
 
 ## Updates
 
+- **2026-08-18** — Fairphone is launching its latest repairable phone in the US too ([source](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/))
 - **2026-08-03** — Apple challenges UK government’s latest demand for iCloud backdoor: report ([source](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/))
