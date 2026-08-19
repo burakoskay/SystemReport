@@ -1,18 +1,20 @@
 ---
 title: "Microsoft AI"
 date: 2026-06-02T20:57:10.144Z
+modified_date: 2026-08-19T18:43:54.452Z
 tags: ["Microsoft","AI","NVIDIA"]
 hero_image: "/hero/2026-06-02-microsoft-ai-1b50e9.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "AI"
 description: "Microsoft launches new AI tools and services, expanding its AI development capabilities"
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-06-02-microsoft-ai-1b50e9.mp3"
 audio_bytes: 620505
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft Expands AI Capabilities
 Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations. The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.
@@ -44,3 +46,7 @@ The expansion of Microsoft’s AI capabilities will also have a broader impact o
 
 ## Historical Context
 Microsoft’s acquisition of AI development companies, including Semantic Machines, Bonsai, and Lobe, has been a key factor in the company’s AI development efforts. The company’s investment in OpenAI has also been a significant factor in the development of Azure OpenAI Service. The launch of Microsoft Scout and the expansion of Azure AI services is a continuation of the company’s efforts to drive innovation in AI development and deployment.
+
+## Updates
+
+- **2026-08-19** — Rivian spinout Also raises another $150M ([source](https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/))

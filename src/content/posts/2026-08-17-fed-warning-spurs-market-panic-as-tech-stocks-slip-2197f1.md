@@ -1,15 +1,17 @@
 ---
 title: "Fed Warning Spurs Market Panic as Tech Stocks Slip"
 date: 2026-08-17T18:36:33.153Z
+modified_date: 2026-08-19T18:43:42.800Z
 tags: ["economy","tech","labor"]
 hero_image: "/hero/2026-08-17-fed-warning-spurs-market-panic-as-tech-stocks-slip-2197f1.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "stock market floor with traders reacting to Fed announcement"
 description: "Fed's \"significant downside risks\" cue a global sell‑off, dragging internet giants and local wage policies into a fiscal storm."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Fed’s Grim Phrase Sends Markets Tumbling
 The Federal Reserve’s three‑word statement—"significant downside risks"—triggered a wave of sell orders that erased a recent rally across equities, bonds and commodities. Within hours, the Dow slipped more than 7 percent and the Nasdaq dropped over 5 percent, while most asset classes fell between 3 and 10 percent. Treasury yields and the dollar were the only safe‑havens that held firm.
@@ -31,3 +33,7 @@ The confluence of a tightening monetary stance, a volatile equity market, and lo
 
 ## What to Watch Next
 Watch the Fed’s next policy briefing for any shift in language about inflation or growth, as even a softened tone could stabilize the sell‑off. Track Google’s Oct. 16 earnings and Yahoo’s Oct. 21 results for concrete evidence of ad‑revenue pressure. In Baltimore, monitor whether Council President Bernard Young moves to override the veto; a successful override would force the city to absorb the $116 million cost estimate and could set a precedent for other municipalities. Finally, keep an eye on the Treasury’s debt‑issuance schedule—any surprise increase in borrowing to cover deficits could reignite solvency concerns and feed back into market volatility.
+
+## Updates
+
+- **2026-08-19** — Meet the startup helping Wall Street put a price on AI compute ([source](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/))

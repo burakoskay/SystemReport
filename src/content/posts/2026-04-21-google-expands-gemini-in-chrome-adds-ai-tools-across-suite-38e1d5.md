@@ -1,19 +1,20 @@
 ---
 title: "Google expands Gemini in Chrome, adds AI tools across suite"
 date: 2026-04-21T09:45:11.730Z
-modified_date: 2026-08-14T01:22:41.015Z
+modified_date: 2026-08-19T18:44:00.299Z
 tags: ["google","chrome","ai","accessibility","productivity"]
 hero_image: "/hero/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Chrome browser window with AI assistant overlay"
 description: "Google rolls Gemini AI to Chrome in seven Asian markets while upgrading security, Assistant, Docs and accessibility features."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.mp3"
 audio_bytes: 23819972
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Watch for Gemini’s expansion beyond the initial seven markets. Google has hint
 
 ## Updates
 
+- **2026-08-19** — Google Pixel 11 series review: Is the magic fading? ([source](https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/))
 - **2026-08-14** — Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS ([source](https://9to5google.com/2026/08/13/google-meet-take-notes-in-person/))
 - **2026-06-02** — Google delivering on Gemini promises means Apple Intelligence can do the same ([source](https://9to5mac.com/2026/06/02/google-delivering-on-gemini-promises-means-apple-intelligence-can-do-the-same/))
 - **2026-06-01** — Gemini’s new AI agent is about as good as Google’s demo ([source](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on))

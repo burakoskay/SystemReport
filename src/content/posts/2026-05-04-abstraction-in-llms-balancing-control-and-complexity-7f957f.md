@@ -1,16 +1,17 @@
 ---
 title: "Abstraction in LLMs: Balancing Control and Complexity"
 date: 2026-05-04T06:44:35.355Z
-modified_date: 2026-08-02T22:51:09.762Z
+modified_date: 2026-08-19T18:44:29.433Z
 tags: ["LLMs","Abstraction","AI Development"]
 hero_image: "/hero/2026-05-04-abstraction-in-llms-balancing-control-and-complexity-7f957f.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,5 +38,6 @@ In conclusion, the debate over abstraction in LLMs is a complex and multifaceted
 
 ## Updates
 
+- **2026-08-19** — What's the difference between Android's Qi2 And Qi2.2 wireless charging? ([source](https://www.engadget.com/2237260/android-qi2-vs-25w-wireless-charging-differences/))
 - **2026-08-02** — Sam Altman and AI’s decel debate ([source](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/))
 - **2026-05-23** — Hands-on: Belkin’s new 5K MagSafe battery bank offers a kickstand in a slim design ([source](https://9to5mac.com/2026/05/23/belkin-5000mah-magsafe-slim-battery-bank-hands-on-kickstand/))
