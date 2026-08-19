@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Contractors Face Uncertainty"
 date: 2026-04-28T20:11:53.107Z
-modified_date: 2026-07-28T11:54:16.591Z
+modified_date: 2026-08-19T14:27:36.238Z
 tags: ["Meta","AI","Layoffs","Tech Industry","Contractors"]
 hero_image: "/hero/2026-04-28-meta-ai-contractors-face-uncertainty-fb404c.jpg"
 hero_image_credit_name: "ANTONI SHKRABA production"
 hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The outcome of the potential layoffs and the response from Meta and Accenture. T
 
 ## Updates
 
+- **2026-08-19** — Show HN: Automatically detect and patch walking-dead states in Sierra games ([source](https://github.com/katiahayati/lucasartsifier/))
 - **2026-07-28** — 2027 Mercedes-Benz C-Class Electric first drive: A long-range triumph with a few cabin quirks ([source](https://www.engadget.com/2220206/2027-mercedes-benz-c-class-electric-first-drive/))
 - **2026-06-04** — Let us filter AI slop, you cowards ([source](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok))
 - **2026-05-31** — Sihoo’s ergonmic office chair moves with you, and it’s the best option under $500 ([source](https://9to5google.com/2026/05/30/sihoos-ergonmic-office-chair-moves-with-you-best-option-under-500/))

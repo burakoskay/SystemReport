@@ -1,16 +1,17 @@
 ---
 title: "PS5 Gets Linux Loader, Console Modders Strike Again"
 date: 2026-04-30T21:12:32.866Z
-modified_date: 2026-08-12T12:55:47.388Z
+modified_date: 2026-08-19T14:27:48.233Z
 tags: ["ps5 mod","linux","gaming hardware"]
 hero_image: "/hero/2026-04-30-ps5-gets-linux-loader-console-modders-strike-again-a4f1d3.jpg"
 hero_image_credit_name: "Sirius Df"
 hero_image_credit_url: "https://www.pexels.com/@sirius-df-440758016"
 visual_keyword: "PS5 console with a Linux terminal displayed on screen"
 description: "A new open-source tool lets users run Linux on PlayStation 5 hardware."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ For now, the PS5 Linux project remains a testament to what happens when engineer
 
 ## Updates
 
+- **2026-08-19** — This robot vacuum solves my kitchen stool problem ([source](https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review))
 - **2026-08-12** — Apple authenticating iPhone photos is just the start ([source](https://9to5mac.com/2026/08/12/apple-authenticating-iphone-photos-is-just-the-start/))
 - **2026-08-05** — Welp, Nobody Saw SpaceX’s Falcon 9 Rocket Crash Into the Moon ([source](https://www.wired.com/story/nobody-saw-spacex-rocket-moon-crash/))
 - **2026-06-04** — ChatGPT's memory is getting better, especially if you're on the free tier ([source](https://www.engadget.com/2187811/chatgpt-s-memory-is-getting-better-especially-if-you-re-on-the-free-tier/))
