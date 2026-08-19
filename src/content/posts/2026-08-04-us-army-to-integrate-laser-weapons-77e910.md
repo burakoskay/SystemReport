@@ -1,19 +1,20 @@
 ---
 title: "US Army to Integrate Laser Weapons"
 date: 2026-08-04T17:43:01.941Z
-modified_date: 2026-08-11T01:13:16.022Z
+modified_date: 2026-08-19T10:27:31.247Z
 tags: ["US Army","Laser Weapons","Directed Energy"]
 hero_image: "/hero/2026-08-04-us-army-to-integrate-laser-weapons-77e910.jpg"
 hero_image_credit_name: "Opt Lasers from Poland"
 hero_image_credit_url: "https://www.pexels.com/@optlasers"
 visual_keyword: "Laser"
 description: "Pentagon signs contract for Enduring High Energy Lasers"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-04-us-army-to-integrate-laser-weapons-77e910.mp3"
 audio_bytes: 615489
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction to Directed Energy Weapons
@@ -35,4 +36,5 @@ The integration of laser weapons into the US Army's arsenal is likely to have si
 
 ## Updates
 
+- **2026-08-19** — Hot or Not Built the Internet We’re Still Swiping Through ([source](https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/))
 - **2026-08-11** — Itadakimasu: A word you say to the food, not the cook ([source](https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the))
