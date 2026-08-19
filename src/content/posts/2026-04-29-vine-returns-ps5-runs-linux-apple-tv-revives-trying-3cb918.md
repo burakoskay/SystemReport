@@ -1,16 +1,17 @@
 ---
 title: "Vine Returns, PS5 Runs Linux, Apple TV Revives “Trying”"
 date: 2026-04-29T14:23:13.991Z
-modified_date: 2026-08-18T22:17:30.325Z
+modified_date: 2026-08-19T20:21:10.264Z
 tags: ["vine","ps5","linux","apple tv","tech news"]
 hero_image: "/hero/2026-04-29-vine-returns-ps5-runs-linux-apple-tv-revives-trying-3cb918.jpg"
 hero_image_credit_name: "Ravi Roshan"
 hero_image_credit_url: "https://www.pexels.com/@ravi-roshan-2875998"
 visual_keyword: "six-second looping video interface on a smartphone"
 description: "Divine launches a six‑second video platform, a developer gets Linux on the PS5, and Apple TV announces a new season of the comedy Trying."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Divine’s user growth will reveal whether six‑second loops can survive in a T
 
 ## Updates
 
+- **2026-08-19** — Sony’s 2020 over-ear headphones to return for around $250 in new colors, leaks reveal [U] ([source](https://9to5google.com/2026/08/19/sony-wh-1000xm4-re-release-leak/))
 - **2026-08-18** — Spotify rolling out ‘User Notes’ and ‘Running Mode’ features on Android – here’s what they do ([source](https://9to5google.com/2026/08/18/spotify-rolling-out-user-notes-and-running-mode-features-heres-what-they-do/))
 - **2026-05-19** — A first (and second) look at the Android XR glasses launching this year ([source](https://www.theverge.com/tech/933125/android-xr-samsung-warby-parker-gentle-monster-project-aura-xreal-google-io-2026))
 - **2026-05-18** — PSA: The first F1 race on Netflix is this weekend ([source](https://www.engadget.com/2176061/psa-the-first-f1-race-on-netflix-is-this-weekend/))

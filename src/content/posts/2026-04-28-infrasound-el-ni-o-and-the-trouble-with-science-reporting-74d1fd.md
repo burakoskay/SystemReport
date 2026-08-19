@@ -1,16 +1,17 @@
 ---
 title: "Infrasound, El Niño, and the Trouble with Science Reporting"
 date: 2026-04-28T06:43:16.341Z
-modified_date: 2026-05-18T15:42:47.922Z
+modified_date: 2026-08-19T20:21:16.440Z
 tags: ["science","media","climate","research"]
 hero_image: "/hero/2026-04-28-infrasound-el-ni-o-and-the-trouble-with-science-reporting-74d1fd.jpg"
 hero_image_credit_name: "Shivansh  Sharma"
 hero_image_credit_url: "https://www.pexels.com/@sincegameon"
 visual_keyword: "a scientist measuring low-frequency sound in a dimly lit room"
 description: "A look at how a new infrasound study, El Niño forecasts, and media missteps reveal the fragility of public trust in science."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Track the peer‑reviewed follow‑up to the infrasound study; if replication co
 
 ## Updates
 
+- **2026-08-19** — Pixel 11 introduces unified ‘Pixel search,’ hides it in the drawer ([source](https://9to5google.com/2026/08/19/pixel-11-search/))
 - **2026-05-18** — Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports ([source](https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs))
 - **2026-05-14** — Linux devs are fighting the new age-gated internet ([source](https://www.theverge.com/tech/930573/age-verification-bills-linux-open-source))
 - **2026-05-10** — Netflix may have finally figured out games ([source](https://www.theverge.com/column/926250/netflix-tv-games-strategy))

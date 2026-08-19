@@ -1,15 +1,17 @@
 ---
 title: "Reddit's solid quarter meets AI uncertainty as cloud spend soars"
 date: 2026-07-31T06:44:55.158Z
+modified_date: 2026-08-19T20:21:22.681Z
 tags: ["reddit","ai","cloud","startups"]
 hero_image: "/hero/2026-07-31-reddit-s-solid-quarter-meets-ai-uncertainty-as-cloud-spend-soars-727fda.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "busy data center with AI servers and social media icons"
 description: "Reddit posts a solid quarter while AI pressures loom; Amazon ramps data‑center spend and Simile lands $200 M, highlighting AI’s shifting capital flow."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Reddit posts a solid quarter amid AI‑driven market jitters
 
@@ -38,3 +40,7 @@ Historically, platform revenue spikes have followed infrastructure upgrades—th
 ## What to watch next
 
 Reddit’s next earnings release will reveal whether the AI‑related traffic risk has materialized in its ad revenue. Amazon’s quarterly capex report will show if the data‑center build‑out stays on schedule and how pricing for AI‑optimized instances evolves. Finally, Simile’s product rollout and any regulatory response to synthetic users will indicate whether the market can sustain another AI unicorn. Track these data points to gauge how AI continues to reallocate capital across the internet ecosystem.
+
+## Updates
+
+- **2026-08-19** — Gemini Live adds Deep Research as Notebooks come to AI Mode ([source](https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/))

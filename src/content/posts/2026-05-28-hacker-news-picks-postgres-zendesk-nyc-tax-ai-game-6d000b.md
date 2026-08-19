@@ -1,19 +1,20 @@
 ---
 title: "Hacker News Picks: Postgres, Zendesk, NYC Tax, AI Game"
 date: 2026-05-28T20:45:00.941Z
-modified_date: 2026-08-12T22:34:51.506Z
+modified_date: 2026-08-19T20:20:57.992Z
 tags: ["hackernews","postgres","zendesk","nyc tax","ai"]
 hero_image: "/hero/2026-05-28-hacker-news-picks-postgres-zendesk-nyc-tax-ai-game-6d000b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "engineer reviewing multiple laptop screens with code and headlines"
 description: "A look at four high‑scoring Hacker News posts—Postgres durability, a rapid Zendesk replacement, a cryptic art piece, NYC’s new pied‑a‑terre tax, and an AI permission‑fatigue game."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-28-hacker-news-picks-postgres-zendesk-nyc-tax-ai-game-6d000b.mp3"
 audio_bytes: 689468
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Hacker News users voted three infrastructure posts, a municipal tax proposal, and an AI‑focused game into the top spots on the front page today. The votes signal where engineers and founders are spending mental bandwidth: data durability, support tooling, regulatory risk, and human‑in‑the‑loop AI.
@@ -56,4 +57,5 @@ The mix of posts suggests three near‑term signals for the tech community. Firs
 
 ## Updates
 
+- **2026-08-19** — A robot could eventually conduct your blood draw at the doctor's office ([source](https://www.engadget.com/2240357/a-robot-could-eventually-conduct-your-blood-draw-at-the-doctors-office/))
 - **2026-08-12** — Northrop’s robot space mechanic is a new way to keep satellites at work longer ([source](https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/))

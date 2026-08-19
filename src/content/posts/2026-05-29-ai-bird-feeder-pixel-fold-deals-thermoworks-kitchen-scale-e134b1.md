@@ -1,19 +1,20 @@
 ---
 title: "AI bird feeder, Pixel fold deals, ThermoWorks kitchen scale"
 date: 2026-05-29T22:03:22.243Z
-modified_date: 2026-08-03T17:48:08.839Z
+modified_date: 2026-08-19T20:20:51.766Z
 tags: ["ai","consumer hardware","pricing"]
 hero_image: "/hero/2026-05-29-ai-bird-feeder-pixel-fold-deals-thermoworks-kitchen-scale-e134b1.jpg"
 hero_image_credit_name: "David Kanigan"
 hero_image_credit_url: "https://www.pexels.com/@david-kanigan-239927285"
 visual_keyword: "backyard bird feeder with camera and smartphone interface"
 description: "Examines Kiwibit's AI-powered bird feeder, deep discounts on Pixel 10 Pro Fold, and ThermoWorks' first kitchen scale, probing their impact on pricing and AI adoption."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-29-ai-bird-feeder-pixel-fold-deals-thermoworks-kitchen-scale-e134b1.mp3"
 audio_bytes: 583933
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AI bird feeder turns backyard into data playground
@@ -54,4 +55,5 @@ Track the adoption rate of Kiwibit’s feeder over the next six months; a surge 
 
 ## Updates
 
+- **2026-08-19** — Nielsen is leaning more on wearables to hear what people are watching ([source](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data))
 - **2026-08-03** — Matte black Pixel 11 Pro shown off in detailed images [Gallery] ([source](https://9to5google.com/2026/08/03/pixel-11-pro-matte-black/))
