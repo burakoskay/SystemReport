@@ -1,16 +1,17 @@
 ---
 title: "Defense Tech Funding Surges"
 date: 2026-04-29T14:13:29.160Z
-modified_date: 2026-08-07T20:35:31.505Z
+modified_date: 2026-08-19T00:53:45.220Z
 tags: ["Defense Tech","AI","Industrial Tech"]
 hero_image: "/hero/2026-04-29-defense-tech-funding-surges-f79060.jpg"
 hero_image_credit_name: "Aleson Padilha"
 hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ The investment in defense technology is likely to continue, driven by the increa
 
 ## Updates
 
+- **2026-08-19** — And then the men with guns tell you to do it anyway ([source](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/))
 - **2026-08-07** — Nothing Ear (3a) Review: Simply the best earbuds – and they’re only $99 ([source](https://9to5google.com/2026/08/07/nothing-ear-3a-review/))
 - **2026-05-21** — In desperate times, graduates find hope in humiliating tech CEOs ([source](https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos))

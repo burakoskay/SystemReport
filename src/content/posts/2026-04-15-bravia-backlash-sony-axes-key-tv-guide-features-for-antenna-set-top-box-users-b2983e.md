@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-05-25T04:14:11.877Z
+modified_date: 2026-08-19T00:53:35.849Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-08-19** — Ukrainian drones overwhelm Russian tanks’ new active protection system—for now ([source](https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/))
 - **2026-05-25** — Anker’s 25W MagSafe 3-in-1 packs active cooling in a travel-sized design [Hands-on] ([source](https://9to5mac.com/2026/05/24/anker-magsafe-travel-sized-3-in-1-charger-qi2/))
 - **2026-05-18** — Australian Aboriginals cared for a dingo's grave for decades ([source](https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/))
 - **2026-05-02** — Apple AirPods Max 2 Review: The Best Over-Ears for iOS ([source](https://www.wired.com/review/apple-airpods-max-2/))
