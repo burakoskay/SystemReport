@@ -1,19 +1,20 @@
 ---
 title: "Palantir's IRS Contract Draws Scrutiny Amid Internal Chaos"
 date: 2026-04-25T20:51:34.728Z
-modified_date: 2026-05-21T20:00:12.321Z
+modified_date: 2026-08-19T22:19:27.064Z
 tags: ["palantir","irs","nuclear-energy","speculative-betting","corporate-culture"]
 hero_image: "/hero/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.jpg"
 hero_image_credit_name: "Dan  Nelson"
 hero_image_credit_url: "https://www.pexels.com/@dan-nelson-1667453"
 visual_keyword: "Palantir office with encrypted screens"
 description: "Palantir's IRS contract faces scrutiny as internal messages reveal corporate strife."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.mp3"
 audio_bytes: 631790
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Palantir's government contracts are drawing fresh scrutiny as employees document the company's culture in leaked Slack messages. The software firm's decade-long IRS contract, now under public microscope, contrasts sharply with its internal chaos.
@@ -44,4 +45,5 @@ The coming months will test Palantir's ability to sustain its government partner
 
 ## Updates
 
+- **2026-08-19** — Remote workers report the highest well-being in study of 7,700 employees ([source](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees))
 - **2026-05-21** — This mechanical bird drops dead when your home’s air quality worsens ([source](https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding))

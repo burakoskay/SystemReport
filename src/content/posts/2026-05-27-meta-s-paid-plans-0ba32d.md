@@ -1,16 +1,17 @@
 ---
 title: "Meta's Paid Plans"
 date: 2026-05-27T22:02:19.643Z
-modified_date: 2026-08-13T14:53:20.912Z
+modified_date: 2026-08-19T22:19:03.427Z
 tags: ["Meta","Paid Plans","EU Privacy Laws"]
 hero_image: "/hero/2026-05-27-meta-s-paid-plans-0ba32d.jpg"
 hero_image_credit_name: "Nataliya Vaitkevich"
 hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "Meta Paid Plans"
 description: "Meta launches paid subscription plans for Facebook, Instagram, and WhatsApp, offering extra features and ad-free options, but raises concerns over EU privacy laws."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ As Meta's paid plans roll out, there are several things to watch. One key area o
 
 ## Updates
 
+- **2026-08-19** — macOS Golden Gate adds a new app to your Mac; here’s what it can do ([source](https://9to5mac.com/2026/08/19/macos-27-new-siri-app-features/))
 - **2026-08-13** — Does Google even want to win at AI? ([source](https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis))
 - **2026-08-01** — Trump blames Tim Walz for water hacks even though it’s probably Iran ([source](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran))
