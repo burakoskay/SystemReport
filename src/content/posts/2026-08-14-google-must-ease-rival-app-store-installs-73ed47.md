@@ -1,15 +1,17 @@
 ---
 title: "Google Must Ease Rival App Store Installs"
 date: 2026-08-14T07:18:27.197Z
+modified_date: 2026-08-19T12:35:20.213Z
 tags: ["Google","Epic Games","App Store","Android"]
 hero_image: "/hero/2026-08-14-google-must-ease-rival-app-store-installs-73ed47.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Play Store"
 description: "Judge orders Google to simplify rival app store installs"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Ruling
 Google must make it easier for users to install rival app stores on Android devices, Judge James Donato ruled. This decision follows a jury's verdict that Google had an illegal monopoly over Android apps.
@@ -51,3 +53,7 @@ The ruling could also have implications for other industries, such as gaming and
 
 ## Future Developments
 As the situation unfolds, it will be crucial to watch how Google and Epic Games respond to the ruling. The outcome will have significant implications for the tech industry, and it will be important to see how other companies, such as Apple, Amazon, and Samsung, adapt to the new competitive landscape. The ruling could lead to significant changes in the app store market, and it will be important to closely watch the developments in this area.
+
+## Updates
+
+- **2026-08-19** — Hidden AirTag appears to confirm suspicions about illicit AI book scanning ([source](https://9to5mac.com/2026/08/19/hidden-airtag-appears-to-confirm-suspicions-about-illicit-ai-book-scanning/))

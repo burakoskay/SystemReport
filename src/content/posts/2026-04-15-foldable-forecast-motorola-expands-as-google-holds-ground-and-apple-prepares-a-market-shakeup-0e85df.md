@@ -1,16 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-08-18T18:39:15.734Z
+modified_date: 2026-08-19T12:35:10.761Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-08-19** — There’s a Very Simple Reason Why You Love the Slate Truck ([source](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/))
 - **2026-08-18** — Degraded performance for multiple models ([source](https://status.claude.com/incidents/q7txxvbsftgq))
 - **2026-08-18** — Passkey vs. password: What's the difference and which is better? ([source](https://www.engadget.com/2238783/passkey-vs-password-differences-which-better/))
 - **2026-07-29** — Remarkable’s refurbished bundle is an awesome deal that’s over $350 off ([source](https://www.theverge.com/gadgets/972219/remarkable-paper-pro-twelve-south-airfly-2-pro-deluxe-deal-sale))

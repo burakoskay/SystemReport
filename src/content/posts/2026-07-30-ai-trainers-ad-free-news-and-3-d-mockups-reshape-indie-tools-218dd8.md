@@ -1,15 +1,17 @@
 ---
 title: "AI trainers, ad‑free news and 3‑D mockups reshape indie tools"
 date: 2026-07-30T08:26:58.524Z
+modified_date: 2026-08-19T12:34:56.676Z
 tags: ["ai","subscription","design","fitness","software"]
 hero_image: "/hero/2026-07-30-ai-trainers-ad-free-news-and-3-d-mockups-reshape-indie-tools-218dd8.jpg"
 hero_image_credit_name: "Leonid Altman"
 hero_image_credit_url: "https://www.pexels.com/@altman"
 visual_keyword: "person reviewing workout form on phone while 3D device mockup renders on screen"
 description: "New AI personal trainer, ad‑free Ars Pro, and a 3‑D mockup generator illustrate how indie apps are betting on subscriptions and real‑time feedback."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Ars Technica rolled out an Ars Pro tier that strips ads, blocks trackers, and lets subscribers rearrange the site layout. The move signals a growing willingness among niche tech audiences to pay for a cleaner, more personal reading experience.
 
@@ -52,6 +54,10 @@ However, the model also raises the bar for value delivery. Subscribers expect ta
 ## What to watch
 
 Ars Technica will publish subscriber growth numbers in its next earnings call, offering a benchmark for ad‑free news models. Firefly plans to roll out a desktop version that leverages larger cameras, a move that could pressure other fitness apps to add real‑time feedback.[^2] The mockup generator’s roadmap mentions AI‑driven lighting adjustments, which may set a new standard for automated device rendering.[^5] Tracking adoption rates, pricing adjustments, and feature rollouts will reveal whether the subscription‑first approach can sustain niche tech products in a crowded market.
+
+## Updates
+
+- **2026-08-19** — The women’s soccer league trying to fix fantasy sports ([source](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app))
 
 [^1]: [apple.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjsJiNLxLS6JwscDlatGiv5Lfeue8xDnT9rkwWO0awKyXBHr1PwAg_pmhHYcZc6HaZuTSsKhqf42Lz9Zs479reigqbcRzGMdODcgf5Zcd6Ak-PkQD8mi8Qxexb07eyyAcvckHGkqzfj9u3lrmWxxpww55QbFWXfUEIdrrjxwPeBjLf)
 [^2]: [firefly.fitness](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMjkqFjiYFJCLknASb5kbdJzH3Pt3CeC-b0CMzzcPbrbatCw8cYRkYfoVUhR2r6skgkIkMV-I1b0YEX7jpKAA3Kd4oAma70aitYHZgd8pdD4nFbXuF0A==)

@@ -1,18 +1,20 @@
 ---
 title: "UK Considers Seizing Kitchen Knives in Crackdown on Crime"
 date: 2026-06-07T14:05:26.805Z
+modified_date: 2026-08-19T12:35:15.528Z
 tags: ["UK","knife crime","crime prevention"]
 hero_image: "/hero/2026-06-07-uk-considers-seizing-kitchen-knives-in-crackdown-on-crime-401254.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "kitchen knife"
 description: "The UK government is exploring measures to seize kitchen knives from suspected criminals and is considering dulling knife points to curb violence."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-07-uk-considers-seizing-kitchen-knives-in-crackdown-on-crime-401254.mp3"
 audio_bytes: 573276
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## UK Plans to Seize Kitchen Knives from Suspected Criminals
@@ -64,3 +66,7 @@ The debate around kitchen knives and crime highlights the need for a nuanced app
 Furthermore, the government should consider the potential impact on community relationships and the importance of building trust between law enforcement and the public. The proposal to seize kitchen knives from suspected criminals may have unintended consequences, such as driving the use of knives underground or increasing tensions between law enforcement and certain communities.
 
 Ultimately, the success of the government's plans will depend on careful consideration of the complex issues involved and a nuanced approach to addressing the root causes of knife crime.
+
+## Updates
+
+- **2026-08-19** — NASA images show crater on the moon caused by SpaceX Falcon 9 crash ([source](https://www.engadget.com/2239823/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/))

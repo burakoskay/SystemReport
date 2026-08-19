@@ -1,19 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-05-06T03:37:00.843Z
-modified_date: 2026-08-11T12:51:04.583Z
+modified_date: 2026-08-19T12:35:24.916Z
 tags: ["AI","OpenAI","Elon Musk","Lawsuit"]
 hero_image: "/hero/2026-05-06-musk-sues-openai-f0cd2e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Artificial Intelligence"
 description: "Elon Musk sues OpenAI over alleged breach of nonprofit mission"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-06-musk-sues-openai-f0cd2e.mp3"
 audio_bytes: 613818
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Lawsuit
@@ -56,4 +57,5 @@ The outcome of the lawsuit will be closely watched by the AI industry and the wi
 
 ## Updates
 
+- **2026-08-19** — Otterbox and Astropad think iPhone 17 Pro cases will fit iPhone 18 Pro ([source](https://9to5mac.com/2026/08/19/otterbox-and-astropad-think-iphone-17-pro-cases-will-fit-iphone-18-pro/))
 - **2026-08-11** — Joby flexes military muscle with $500 million defense acquisition ([source](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol))

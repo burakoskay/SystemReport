@@ -1,15 +1,17 @@
 ---
 title: "Nintendo lifts Switch 2 prices, sparking consumer backlash"
 date: 2026-05-08T14:19:54.407Z
+modified_date: 2026-08-19T12:34:51.930Z
 tags: ["nintendo","gaming","pricing"]
 hero_image: "/hero/2026-05-08-nintendo-lifts-switch-2-prices-sparking-consumer-backlash-1c3756.jpg"
 hero_image_credit_name: "Daniel J. Schwarz"
 hero_image_credit_url: "https://www.pexels.com/@danieljschwarz"
 visual_keyword: "Nintendo Switch 2 console with a price tag"
 description: "Nintendo announced higher launch prices for the Switch 2 on May 8, 2026, raising questions about affordability and competition."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 Nintendo announced higher launch prices for the Switch 2 on May 8, 2026, and the move has already ignited debate among fans and analysts. The price hike threatens to narrow the console’s appeal at a time when rivals are tightening their own price bands.
 
@@ -38,3 +40,7 @@ The broader market also feels the pressure of a global chip shortage that began 
 ## What to watch next
 
 All eyes will be on Nintendo’s next quarterly earnings report, where the company will reveal whether the Switch 2 price hike translates into sustained revenue growth or a dip in unit sales. Analysts will also monitor the rollout of the upcoming indie RPG that leverages the new hardware; its performance could signal whether developers can successfully monetize the upgraded platform. Finally, any further statements from Sony or Microsoft about price adjustments will help gauge whether the console market is entering a new era of premium pricing across the board.
+
+## Updates
+
+- **2026-08-19** — Nvidia’s new financial strategy does not compute ([source](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset))
