@@ -1,18 +1,20 @@
 ---
 title: "Florida Sues OpenAI Over ChatGPT's Role in Violent Incidents"
 date: 2026-06-01T23:39:56.324Z
+modified_date: 2026-08-20T22:20:50.853Z
 tags: ["OpenAI","ChatGPT","AI Regulation"]
 hero_image: "/hero/2026-06-01-florida-sues-openai-over-chatgpt-s-role-in-violent-incidents-d3db05.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ChatGPT"
 description: "OpenAI sued over ChatGPT's alleged role in violent incidents"
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-06-01-florida-sues-openai-over-chatgpt-s-role-in-violent-incidents-d3db05.mp3"
 audio_bytes: 617997
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Florida Sues OpenAI Over ChatGPT's Alleged Role in Violent Incidents
@@ -73,3 +75,7 @@ OpenAI's business model relies on the development and deployment of generative A
 The lawsuit against OpenAI is a stark reminder of the potential risks associated with generative AI. The company's commitment to safety and responsibility will be under scrutiny, and the outcome of this lawsuit could set a precedent for how AI companies are regulated in the future.
 
 As the AI industry continues to evolve, it will be crucial for companies to prioritize safety and responsibility in their developments. The future of AI regulation will depend on the ability of companies like OpenAI to balance innovation with safety and responsibility.
+
+## Updates
+
+- **2026-08-20** — The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole ([source](https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/))

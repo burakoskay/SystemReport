@@ -1,18 +1,20 @@
 ---
 title: "California Exempts Linux"
 date: 2026-05-25T19:48:35.095Z
+modified_date: 2026-08-20T22:21:33.607Z
 tags: ["Linux","age-verification law","open-source software"]
 hero_image: "/hero/2026-05-25-california-exempts-linux-7e9719.jpg"
 hero_image_credit_name: "RealToughCandy.com"
 hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "California moves to exempt Linux from its age-verification law after backlash, with a proposed amendment by the same lawmaker who wrote the original law."
-sources_count: 8
-author: "lena-volkov"
+sources_count: 9
 audio_path: "/audio/2026-05-25-california-exempts-linux-7e9719.mp3"
 audio_bytes: 575156
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## California Moves to Exempt Linux
 
@@ -80,3 +82,6 @@ The outcome of this exemption could have far-reaching implications for the tech 
 
 The exemption of Linux from the age-verification law is also significant in the context of the ongoing debate about the role of government in regulating online content. The exemption recognizes that open-source software is a vital part of the tech ecosystem and that it should be treated with care and consideration.
 
+## Updates
+
+- **2026-08-20** — Show HN: Huzzah – a novel approach to coding with AI ([source](https://www.danielvaughn.dev/posts/huzzah/))

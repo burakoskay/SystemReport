@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants' AI Ambitions Spark Concerns Over Control"
 date: 2026-04-20T13:13:15.934Z
-modified_date: 2026-08-20T20:22:03.394Z
+modified_date: 2026-08-20T22:21:15.280Z
 tags: ["ai","control","tech giants","society"]
 hero_image: "/hero/2026-04-20-tech-giants-ai-ambitions-spark-concerns-over-control-0f881d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
-sources_count: 25
+sources_count: 26
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ The next few months will be critical in determining the future of AI control. Po
 
 ## Updates
 
+- **2026-08-20** — Riot is ending active development of 2XKO in December ([source](https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/))
 - **2026-08-20** — Riot is ending development on its League of Legends fighting game ([source](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development))
 - **2026-08-10** — Deals: Z Fold 8 re-stock, Pixel 10a nearly $120 off, Nothing Headphone (a) $159, Anker back to school sale, more ([source](https://9to5google.com/2026/08/10/deals-fold-8-pixel-10a-nothing-headphone-a-anker/))
 - **2026-07-27** — “Google and Reddit do not own the Internet," web scraper says after court win ([source](https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/))

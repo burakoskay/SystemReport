@@ -1,16 +1,17 @@
 ---
 title: "Inkscape 1.4.4 Released"
 date: 2026-05-07T03:46:09.517Z
-modified_date: 2026-05-30T03:51:04.146Z
+modified_date: 2026-08-20T22:21:21.443Z
 tags: ["Inkscape","open-source","vector graphics editor"]
 hero_image: "/hero/2026-05-07-inkscape-1-4-4-released-851faf.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Inkscape 1.4.4"
 description: "Inkscape 1.4.4 has been released, offering bug fixes and performance improvements to the popular open-source vector graphics editor."
-sources_count: 16
+sources_count: 17
 author: "maya-chen"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The release of Inkscape 1.4.4 also highlights the importance of open-source soft
 
 ## Updates
 
+- **2026-08-20** — WhatsApp is working on even more Liquid Glass interface changes on iOS ([source](https://9to5mac.com/2026/08/20/whatsapp-is-working-on-even-more-liquid-glass-interface-changes-on-ios/))
 - **2026-05-30** — I went to the so-called ‘steroid Olympics,’ to understand why Silicon Valley is obsessed with peptides ([source](https://techcrunch.com/2026/05/29/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/))
 - **2026-05-19** — Kickstarter just killed its new mature content rules ([source](https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules))
 - **2026-05-15** — The old world of tech is dying and the new cannot be born ([source](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/))

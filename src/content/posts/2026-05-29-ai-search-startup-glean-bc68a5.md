@@ -1,15 +1,17 @@
 ---
 title: "AI Search Startup Glean"
 date: 2026-05-29T10:02:36.380Z
+modified_date: 2026-08-20T22:21:39.663Z
 tags: ["AI","Search","Glean"]
 hero_image: "/hero/2026-05-29-ai-search-startup-glean-bc68a5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Search"
 description: "Glean's revenue triples to $300M as AI budget-cutting becomes key selling point"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Glean's Revenue Surge
 Glean's annual revenue has tripled to over $300M. This growth is notable as tech giants have entered the enterprise AI search category.
@@ -55,3 +57,7 @@ The growth of the AI search market is also driven by the increasing availability
 As the enterprise AI search market continues to evolve, it will be important to watch how Glean and its competitors respond to the growing demand for AI budget-cutting solutions. Additionally, the development of more robust fact-checking measures for LLMs will be crucial in ensuring the accuracy and reliability of AI-driven decision-making.
 
 The upcoming quarter will be key for Glean, as the company looks to build on its revenue growth and expand its customer base. With the rise of AI budget-cutting as a major selling point, Glean is well-positioned to continue its success in the enterprise AI search market.
+
+## Updates
+
+- **2026-08-20** — Vomit: Clean up Claude 5's token output with a separate LLM ([source](https://github.com/zachahn/vomit))
