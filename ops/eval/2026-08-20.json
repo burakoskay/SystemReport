@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-20T08:32:54.549Z",
+  "generated_at": "2026-08-20T10:25:31.094Z",
   "window_days": 7,
-  "total_records": 4223,
+  "total_records": 4272,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1799,
+      "calls": 1835,
       "success": 287,
-      "success_rate": 0.15953307392996108,
+      "success_rate": 0.1564032697547684,
       "latency_p50": 9478,
       "latency_p95": 26545,
       "response_chars_mean": 2293,
       "error_classes": {
-        "unknown": 1488,
+        "unknown": 1524,
         "timeout": 11,
         "rate_limit": 13
       }
