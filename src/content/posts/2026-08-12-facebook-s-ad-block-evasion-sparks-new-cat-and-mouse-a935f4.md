@@ -1,15 +1,17 @@
 ---
 title: "Facebook’s ad‑block evasion sparks new cat‑and‑mouse"
 date: 2026-08-12T15:21:15.446Z
+modified_date: 2026-08-20T16:27:23.458Z
 tags: ["facebook","adblocking","privacy","browsers"]
 hero_image: "/hero/2026-08-12-facebook-s-ad-block-evasion-sparks-new-cat-and-mouse-a935f4.jpg"
 hero_image_credit_name: "icon0 com"
 hero_image_credit_url: "https://www.pexels.com/@icon0"
 visual_keyword: "browser window with ad blocker icon and Facebook feed"
 description: "Facebook tried to hide ads from blockers, but uBlock and AdBlock Plus quickly restored protection, exposing a fresh round in the ad‑blocking arms race."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## The unblockable ads that weren’t
 
@@ -46,3 +48,7 @@ From a user‑privacy perspective, the fight matters. Facebook ads can track int
 ## What to watch
 
 The next flashpoint will be Facebook’s next code push. If the company introduces a new indicator set, we can expect another quick filter release from the Easylist maintainers. Monitoring the Easylist changelog and the AdBlock Plus blog will give the earliest clue. A second round of collateral damage—legitimate posts being hidden—could force Facebook to redesign its ad‑delivery pipeline rather than continue the cat‑and‑mouse game.
+
+## Updates
+
+- **2026-08-20** — The 2026 Startup Battlefield 200 is here — see who made the cut ([source](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/))

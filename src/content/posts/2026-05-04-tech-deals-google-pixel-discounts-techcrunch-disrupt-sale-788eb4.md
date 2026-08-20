@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-08-13T20:36:31.515Z
+modified_date: 2026-08-20T16:28:12.688Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 33
+sources_count: 34
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -97,6 +98,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-08-20** — Deals: M5 MacBook Air $1,099, M5 Pro MacBook Pro 48GB $400 off, Series 11 from $254, AirTag 2, more ([source](https://9to5mac.com/2026/08/20/deals-m5-macbook-air-macbook-pro-airtag-2/))
 - **2026-08-13** — Apple adds iPhone X and 2018 MacBook Pro to obsolete products list ([source](https://9to5mac.com/2026/08/13/apple-adds-iphone-x-and-2018-macbook-pro-to-obsolete-products-list/))
 - **2026-08-12** — Deals: M5 Pro MacBook Pro up to $540 off, M5 MacBook Air from $1,099, Apple Watch Ultra 3, MagSafe chargers, more ([source](https://9to5mac.com/2026/08/12/deals-m5-pro-macbook-airpods-pro-3-apple-watch-ultra-3/))
 - **2026-08-10** — Deals: M5 MacBook Pro $300 off, AirPods Pro 3, Apple Sport Bands, Anker 3-in-1 Qi2 25W MagSafe charger, more ([source](https://9to5mac.com/2026/08/10/deals-m5-macbook-pro-airpods-pro-3-sport-band-charger/))

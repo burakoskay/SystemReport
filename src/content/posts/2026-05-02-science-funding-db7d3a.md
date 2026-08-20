@@ -1,16 +1,17 @@
 ---
 title: "Science Funding"
 date: 2026-05-02T16:56:26.547Z
-modified_date: 2026-07-30T21:02:13.364Z
+modified_date: 2026-08-20T16:27:54.260Z
 tags: ["science","crowdfunding","spacex"]
 hero_image: "/hero/2026-05-02-science-funding-db7d3a.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "science"
 description: "Petridish crowdfunds science projects, transforming research funding. SpaceX recovers Dragon capsule with scientific experiments."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,4 +47,5 @@ The growth of crowdfunding platforms like Petridish and the increasing use of te
 
 ## Updates
 
+- **2026-08-20** — Someone already figured out how to fully control Pixel 11 Pro’s ‘HiLight’ and make it useful [Gallery] ([source](https://9to5google.com/2026/08/20/google-pixel-11-pro-hilight-third-party-control-feature/))
 - **2026-07-30** — Apple just hit 1.5 billion paid subscriptions from its user base ([source](https://9to5mac.com/2026/07/30/apple-just-hit-1-5-billion-paid-subscriptions-from-its-user-base/))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Updates"
 date: 2026-05-02T06:12:14.610Z
-modified_date: 2026-08-13T16:51:52.586Z
+modified_date: 2026-08-20T16:27:35.836Z
 tags: ["tech news","iOS 26","broadband network"]
 hero_image: "/hero/2026-05-02-tech-updates-71fe1e.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "iPhone"
 description: "Recent tech news and updates"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The development of focus-friendly apps is also driven by advancements in technol
 
 ## Updates
 
+- **2026-08-20** — This app makes the Pixel 11&#8217;s HiLight feature actually useful ([source](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful))
 - **2026-08-13** — We've flown a radiation-blocking vest to the Moon and back, and it worked ([source](https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/))
 - **2026-08-08** — Spokane Shows What the New Era of Wildfires Looks Like ([source](https://www.wired.com/story/spokane-shows-new-era-of-wildfires/))
 - **2026-08-04** — Today’s Android app deals and freebies: Knight Bewitched, What Lies Underground, Northgard, more ([source](https://9to5toys.com/2026/08/04/today-android-app-deals-knight-lies-underground/))

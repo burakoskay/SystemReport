@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's iPhone App Clues and ChatGPT's Global Reach"
 date: 2026-05-01T03:52:53.015Z
-modified_date: 2026-08-11T22:36:12.948Z
+modified_date: 2026-08-20T16:27:42.009Z
 tags: ["OpenAI","ChatGPT","AI-powered chatbots","iPhone app","tech industry"]
 hero_image: "/hero/2026-05-01-openai-s-iphone-app-clues-and-chatgpt-s-global-reach-6707dc.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered chatbot"
 description: "OpenAI hints at new iPhone app launch, ChatGPT's popularity grows globally"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The success of ChatGPT and OpenAI's iPhone app launch sets the stage for a highl
 
 ## Updates
 
+- **2026-08-20** — LG’s 65-inch B6 OLED is $300 lower than its previous best price ([source](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale))
 - **2026-08-11** — ChatGPT and Gemini both just passed 1 billion users ([source](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users))
 - **2026-08-07** — Welcoming the Nepalese Government to Have I Been Pwned ([source](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/))
 - **2026-08-03** — Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark ([source](https://github.com/graham33/nixos-dgx-spark))

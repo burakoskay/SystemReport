@@ -1,16 +1,17 @@
 ---
 title: "Apple Sleep Study, Union Protests, and Conflict Minerals Report"
 date: 2026-05-29T10:08:48.534Z
-modified_date: 2026-07-26T20:51:20.979Z
+modified_date: 2026-08-20T16:28:00.368Z
 tags: ["apple","harvard-study","conflict-minerals","union-protest","age-of-empires"]
 hero_image: "/hero/2026-05-29-apple-sleep-study-union-protests-and-conflict-minerals-report-053cbc.jpg"
 hero_image_credit_name: "Ingo Joseph"
 hero_image_credit_url: "https://www.pexels.com/@ingo"
 visual_keyword: "apple watch on wrist with sleep data visualization"
 description: "Apple's Apple Watch sleep data study, conflict minerals findings, and Towson store closure protests."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 ## Harvard Analyzes 94,000 Nights of Apple Watch Sleep Data to Study Menopause
@@ -49,4 +50,5 @@ Finally, macOS gamers should track Microsoft's potential acquisition of Activisi
 
 ## Updates
 
+- **2026-08-20** — Book-style foldables are taking over, with Samsung fighting for second place ([source](https://9to5google.com/2026/08/20/book-style-foldables-growth-report-1h26/))
 - **2026-07-26** — The Strongest El Niño Ever ([source](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever))
