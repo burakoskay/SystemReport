@@ -1,16 +1,17 @@
 ---
 title: "Playdate, Linux Kernels, EC2 Rigs Reshape Indie Gaming"
 date: 2026-05-23T17:11:05.879Z
-modified_date: 2026-07-30T15:48:42.248Z
+modified_date: 2026-08-20T18:29:54.594Z
 tags: ["gaming","linux","indie"]
 hero_image: "/hero/2026-05-23-playdate-linux-kernels-ec2-rigs-reshape-indie-gaming-89607d.jpg"
 hero_image_credit_name: "Click Jeth"
 hero_image_credit_url: "https://www.pexels.com/@click-jeth-703137695"
 visual_keyword: "handheld console with crank beside a laptop running Linux terminal"
 description: "Playdate’s crank, Linux kernel sync, GOG’s Linux client, and cheap EC2 rigs reshape how indie games reach players."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 Playdate’s crank, Linux kernels, and cheap EC2 rigs are reshaping the indie gaming landscape.  Developers no longer need a Windows‑only pipeline to reach a growing audience that spans handhelds, ARM Macs, and cloud servers.
@@ -45,4 +46,5 @@ The convergence of quirky hardware, kernel‑level Windows compatibility, and af
 
 ## Updates
 
+- **2026-08-20** — Australia says Roblox hasn&#8217;t fixed its child predator problem ([source](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety))
 - **2026-07-30** — Microsoft’s latest Surface Laptop is hundreds off at Best Buy ([source](https://www.theverge.com/gadgets/973056/surface-laptop-16gb-ram-microsd-express-switch-2-lego-game-boy-deal-sale))

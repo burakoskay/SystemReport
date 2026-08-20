@@ -1,16 +1,17 @@
 ---
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
-modified_date: 2026-08-18T02:52:03.230Z
+modified_date: 2026-08-20T18:30:48.388Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
 hero_image: "/hero/2026-04-15-from-sneakers-to-servers-allbirds-daring-leap-into-ai-compute-545a5c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Allbirds' transformation is not an isolated incident but rather a striking sympt
 
 ## Updates
 
+- **2026-08-20** — ChatGPT update adds Apple Messages integration on Mac ([source](https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/))
 - **2026-08-18** — Reddit’s AI is turning posts into podcasts and short videos ([source](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts))
 - **2026-08-04** — Apple is working on iPhone-to-Windows copy-paste ([source](https://www.theverge.com/tech/975020/apple-windows-pc-copy-paste-eu))
 - **2026-08-01** — Mac Studio: Here’s what Apple has in store for this fall and beyond ([source](https://9to5mac.com/2026/08/01/heres-what-to-come-with-the-next-apple-mac-studio-refresh/))

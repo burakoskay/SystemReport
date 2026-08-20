@@ -1,18 +1,20 @@
 ---
 title: "Nvidia Updates ChatRTX"
 date: 2026-05-11T03:57:43.625Z
+modified_date: 2026-08-20T18:30:06.519Z
 tags: ["Nvidia","ChatRTX","AI"]
 hero_image: "/hero/2026-05-11-nvidia-updates-chatrtx-4b76d9.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "ChatRTX"
 description: "Nvidia's ChatRTX app gets photo search and AI speech recognition."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-11-nvidia-updates-chatrtx-4b76d9.mp3"
 audio_bytes: 601906
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction
 Nvidia's ChatRTX app has released its anticipated version 0.3 update, introducing new features such as photo search capabilities and AI-powered speech recognition. This update opens up a host of new possibilities for AI use cases.
@@ -32,3 +34,7 @@ The update to the ChatRTX app has significant implications for the future of AI-
 As the ChatRTX app continues to grow in functionality before an eventual 1.0 release, it's likely that we'll see the return of its YouTube link scrubbing capabilities that were removed recently. Additionally, the app's compatibility with even more LLMs will be an important factor to watch, as different LLMs may perform the same tasks entirely differently. The next major update to the app will likely be a significant indicator of the app's long-term potential and its ability to compete in the AI market.
 ## Conclusion
 The update to Nvidia's ChatRTX app is a significant step forward for AI use cases, particularly in the context of consumer RTX graphics cards. As the app continues to grow in functionality, it's likely that we'll see new and innovative uses for AI. The ability to choose your own LLM and the app's compatibility with even more LLMs will be important factors to watch in the coming months.
+
+## Updates
+
+- **2026-08-20** — Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops ([source](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty))

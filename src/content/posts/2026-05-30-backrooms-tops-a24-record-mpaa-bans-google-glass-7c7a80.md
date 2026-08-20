@@ -1,15 +1,17 @@
 ---
 title: "Backrooms tops A24 record; MPAA bans Google Glass"
 date: 2026-05-30T17:21:05.857Z
+modified_date: 2026-08-20T18:30:30.470Z
 tags: ["box office","mpaa","google glass","film history","vr camera"]
 hero_image: "/hero/2026-05-30-backrooms-tops-a24-record-mpaa-bans-google-glass-7c7a80.jpg"
 hero_image_credit_name: "Sami TÜRK"
 hero_image_credit_url: "https://www.pexels.com/@trksami"
 visual_keyword: "cinema interior with glowing projector and VR camera rig"
 description: "Backrooms' $38 M opening day shatters A24's record as the MPAA moves to bar Google Glass in theaters, echoing century‑old battles over film control."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Backrooms smashed A24's opening‑day record with a $38 million haul on Friday, setting the stage for a $90 million weekend. The same day the MPAA and the National Association of Theatre Owners announced that Google Glass and other wearables are now prohibited in cinemas.
 
@@ -50,3 +52,7 @@ The convergence of a record‑breaking opening, a renewed anti‑piracy stance, 
 Track how theaters enforce the wearable ban during the upcoming holiday season, when attendance spikes and the temptation to record rises. Monitor whether any lawsuits challenge the MPAA/NATO policy on First Amendment grounds. On the production side, watch for early adopters of Nokia’s Ozo on upcoming releases; its performance could dictate whether VR capture becomes a standard part of the filmmaking toolkit. Finally, keep an eye on box‑office trends after *Backrooms*—if other low‑budget titles replicate its opening, studios may recalibrate their green‑light criteria.
 
 ---
+
+## Updates
+
+- **2026-08-20** — Pixel 11’s Magic Capture perfectly solves a very modern parenting dilemma ([source](https://9to5google.com/2026/08/20/pixel-11s-magic-capture-perfectly-solves-a-very-modern-parenting-dilemma/))
