@@ -1,15 +1,17 @@
 ---
 title: "Zuckerberg's AI Vision Faces Skepticism"
 date: 2026-08-17T08:38:45.034Z
+modified_date: 2026-08-20T14:31:06.694Z
 tags: ["AI","TechCrunch","Zuckerberg"]
 hero_image: "/hero/2026-08-17-zuckerberg-s-ai-vision-faces-skepticism-b3b3e6.jpg"
 hero_image_credit_name: "Alex Knight"
 hero_image_credit_url: "https://www.pexels.com/@agk42"
 visual_keyword: "Artificial Intelligence"
 description: "Zuckerberg's AI vision sparks skepticism"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 # Introduction to Skepticism
 Mark Zuckerberg's AI vision is not convincing everyone, according to the latest episode of TechCrunch's Equity podcast. The podcast episode discusses concerns about the feasibility of his vision, highlighting that many are questioning whether his promises can be fulfilled.
@@ -43,3 +45,7 @@ The downstream implications of AI development are far-reaching. AI has the poten
 
 # What to Watch
 Companies must address AI challenges and concerns, as discussed on the Equity podcast, to shape AI's future. The AI industry is at a crossroads, and it is unclear which direction it will take. However, one thing is certain: the industry must deliver on its promises if it is to survive and thrive.
+
+## Updates
+
+- **2026-08-20** — Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part ([source](https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/))

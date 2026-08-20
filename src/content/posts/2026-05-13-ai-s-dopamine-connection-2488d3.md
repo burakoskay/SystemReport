@@ -1,15 +1,17 @@
 ---
 title: "AI's Dopamine Connection"
 date: 2026-05-13T10:38:05.330Z
+modified_date: 2026-08-20T14:31:12.647Z
 tags: ["AI","neuroscience","reinforcement learning"]
 hero_image: "/hero/2026-05-13-ai-s-dopamine-connection-2488d3.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "brain"
 description: "New research links AI's temporal difference learning to brain's dopamine system"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## AI's Dopamine Connection
@@ -55,3 +57,7 @@ The study of dopamine has a long history that dates back to the early 20th centu
 ## Conclusion
 
 The study's findings have significant implications for our understanding of learning and motivation. By understanding how AI systems learn and adapt, researchers can gain insights into the neural mechanisms that drive human behavior. The study's findings also highlight the importance of interdisciplinary research, which brings together experts from computer science, neuroscience, and psychology to tackle complex problems.
+
+## Updates
+
+- **2026-08-20** — For a16z, AI gives foreign founders an advantage ([source](https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/))

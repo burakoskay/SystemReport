@@ -1,19 +1,20 @@
 ---
 title: "Tech Giants Face Scrutiny"
 date: 2026-05-30T03:51:40.295Z
-modified_date: 2026-08-10T16:49:27.093Z
+modified_date: 2026-08-20T14:31:18.578Z
 tags: ["tech giants","competition","digital sector"]
 hero_image: "/hero/2026-05-30-tech-giants-face-scrutiny-1b99c8.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "regulation"
 description: "UK competition rules must be updated for the digital age, experts say."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-30-tech-giants-face-scrutiny-1b99c8.mp3"
 audio_bytes: 593129
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Issue
@@ -78,4 +79,5 @@ By investing in education and training, the UK government can help to promote co
 
 ## Updates
 
+- **2026-08-20** — US says hackers are targeting vulnerable water systems with the help of AI ([source](https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/))
 - **2026-08-10** — What's the difference between MagSafe and Qi wireless charging? ([source](https://www.engadget.com/2230986/difference-between-magsafe-qi-wireless-charging-explained/))

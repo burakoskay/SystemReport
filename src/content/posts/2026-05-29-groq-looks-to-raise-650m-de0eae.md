@@ -1,18 +1,20 @@
 ---
 title: "Groq Looks to Raise $650M"
 date: 2026-05-29T21:56:07.993Z
+modified_date: 2026-08-20T14:30:48.794Z
 tags: ["Groq","AI Inference","Chipmaking","Nvidia"]
 hero_image: "/hero/2026-05-29-groq-looks-to-raise-650m-de0eae.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Groq shifts focus to AI inference"
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-05-29-groq-looks-to-raise-650m-de0eae.mp3"
 audio_bytes: 602115
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction
 Groq is looking to raise $650 million in internal funding as it pivots from hardware to AI inference, the process of refining the way AI models respond to prompted requests, according to Axios. This move follows Nvidia's $20B not-acqui-hire.
@@ -30,3 +32,7 @@ The implications of Groq's pivot to AI inference are significant. The company's 
 Groq's pivot to AI inference is not the company's first foray into the AI space. The company has previously developed AI-related hardware and software, and has a strong track record of innovation in this area. The company's decision to raise funds and pivot to AI inference is a natural progression of its existing work in the AI space. Groq's experience in developing AI-related hardware and software will provide a solid foundation for its pivot to AI inference.
 ## Market Analysis
 The market for AI inference is highly competitive, with several companies already established in the space. However, Groq's expertise in chipmaking and its strong track record of innovation in the AI space position the company for success. The company's pivot to AI inference is a strategic move, driven by the rapidly evolving AI landscape and the increasing demand for specialized AI hardware. As the AI industry continues to evolve, Groq's focus on AI inference will enable the company to capitalize on emerging trends and drive growth.
+
+## Updates
+
+- **2026-08-20** — FromSoftware can do anything ([source](https://www.theverge.com/entertainment/981970/fromsoftware-duskbloods-nintendo-hidetaka-miyazaki))

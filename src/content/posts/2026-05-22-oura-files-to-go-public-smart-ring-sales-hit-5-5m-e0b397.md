@@ -1,18 +1,20 @@
 ---
 title: "Oura Files to Go Public, Smart Ring Sales Hit 5.5M"
 date: 2026-05-22T16:31:07.699Z
+modified_date: 2026-08-20T14:31:24.624Z
 tags: ["Oura","wearable technology","smart rings"]
 hero_image: "/hero/2026-05-22-oura-files-to-go-public-smart-ring-sales-hit-5-5m-e0b397.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Oura smart ring"
 description: "Finnish smart ring maker Oura files for IPO, reveals 5.5 million rings sold. The company is known for its wearable technology."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-22-oura-files-to-go-public-smart-ring-sales-hit-5-5m-e0b397.mp3"
 audio_bytes: 547780
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Oura's IPO Filing Reveals Strong Sales
@@ -69,3 +71,6 @@ In the broader context of the wearable technology market, Oura's smart rings are
 
 The company's focus on smart rings rather than smartwatches has allowed it to differentiate its products and appeal to a specific niche within the market. Oura's success will depend on its ability to continue innovating and expanding its market reach.
 
+## Updates
+
+- **2026-08-20** — Grok exfiltrates user data when malicious instructions are encrypted ([source](https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/))
