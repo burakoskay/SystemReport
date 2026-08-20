@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-08-19T20:21:04.166Z
+modified_date: 2026-08-20T20:22:28.197Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-08-20** — Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers ([source](https://9to5google.com/2026/08/20/google-messages-rcs-3100-error/))
 - **2026-08-19** — Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers ([source](https://9to5google.com/2026/08/19/google-messages-rcs-3100-error/))
 - **2026-08-12** — This is the best deal you can get on Google Pixel 11, with gift cards, free watches, and more ([source](https://9to5google.com/2026/08/12/google-pixel-11-series-amazon-preorder-bonus-gift-card-watch/))
 - **2026-08-04** — Samsung’s HDR10 Plus Advanced is launching this month on Prime Video ([source](https://www.theverge.com/gadgets/975085/samsung-hdr-10-plus-advanced-prime-video))
