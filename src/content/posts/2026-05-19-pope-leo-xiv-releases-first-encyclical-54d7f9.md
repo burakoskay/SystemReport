@@ -1,16 +1,17 @@
 ---
 title: "Pope Leo XIV Releases First Encyclical"
 date: 2026-05-19T04:08:56.245Z
-modified_date: 2026-08-07T16:47:25.556Z
+modified_date: 2026-08-20T00:53:12.299Z
 tags: ["Pope Leo XIV","Catholic Church","Encyclical","Vatican","Global Affairs"]
 hero_image: "/hero/2026-05-19-pope-leo-xiv-releases-first-encyclical-54d7f9.jpg"
 hero_image_credit_name: "Özgür KAYA"
 hero_image_credit_url: "https://www.pexels.com/@ozgur-kaya-575422504"
 visual_keyword: "Vatican"
 description: "Pope Leo XIV's first encyclical, Magnifica humanitas, published on May 25."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -96,6 +97,7 @@ The encyclical's release is a significant event for the Catholic Church and the 
 
 ## Updates
 
+- **2026-08-20** — Does giving a camera wings dodge the FCC’s drone ban? ([source](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo))
 - **2026-08-07** — Samsung’s Z Fold 8 Ultra is more of the same, but better than ever ([source](https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review))
 - **2026-05-27** — MLB: The Show officially brings the best baseball game to iPhone ([source](https://9to5mac.com/2026/05/27/mlb-the-show-is-officially-bringing-the-best-baseball-game-to-iphone/))
 - **2026-05-22** — Tell HN: I'm tired of AI-generated answers ([source](https://news.ycombinator.com/item?id=48230104))

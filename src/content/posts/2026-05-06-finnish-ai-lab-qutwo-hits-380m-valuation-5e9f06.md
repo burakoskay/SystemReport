@@ -1,18 +1,20 @@
 ---
 title: "Finnish AI Lab QuTwo Hits $380M Valuation"
 date: 2026-05-06T10:24:31.987Z
+modified_date: 2026-08-20T00:53:31.167Z
 tags: ["AI","Quantum Computing","Finland","Funding"]
 hero_image: "/hero/2026-05-06-finnish-ai-lab-qutwo-hits-380m-valuation-5e9f06.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Computing"
 description: "QuTwo, a Finnish AI lab, reaches $380M valuation after raising $29M in angel funding, signaling growth in AI and quantum computing."
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-05-06-finnish-ai-lab-qutwo-hits-380m-valuation-5e9f06.mp3"
 audio_bytes: 663555
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## QuTwo's Big Raise
@@ -77,3 +79,6 @@ QuTwo is well-positioned to make a meaningful impact in the industry. The compan
 
 The company's focus on developing native foundation models for multimodal agents is a key area of research and development. This approach has the potential to enable more efficient and effective processing of complex data, leading to breakthroughs in areas like healthcare and finance.
 
+## Updates
+
+- **2026-08-20** — Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak ([source](https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/))

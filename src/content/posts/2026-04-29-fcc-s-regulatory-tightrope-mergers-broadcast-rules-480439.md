@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-08-18T18:38:50.466Z
+modified_date: 2026-08-20T00:53:37.570Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 25
+sources_count: 26
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-08-20** — Mathematics in the age of AI ([source](https://arxiv.org/abs/2608.16753))
 - **2026-08-18** — The United States is about to wake up to the threat from China's space program ([source](https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/))
 - **2026-08-13** — The Best Photos of the Big August Solar Eclipse ([source](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/))
 - **2026-08-09** — Zuckerberg&#8217;s yacht was closer, but someone else saved a stranded boat ([source](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat))
