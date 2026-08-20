@@ -1,19 +1,20 @@
 ---
 title: "Origin Lab's $8M AI Data Marketplace"
 date: 2026-05-13T21:32:21.739Z
-modified_date: 2026-08-13T01:23:12.689Z
+modified_date: 2026-08-20T12:35:33.679Z
 tags: ["AI","data marketplace","Origin Lab"]
 hero_image: "/hero/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI data marketplace"
 description: "Origin Lab raises $8M to connect video game firms with AI labs, enabling data sales."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.mp3"
 audio_bytes: 641194
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ The future of AI development will depend on the creation of sustainable and tran
 
 ## Updates
 
+- **2026-08-20** — The Audi S6 Sportback E-tron proves that sedans still matter ([source](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review))
 - **2026-08-13** — Toddler's tragic death from brain-destroying amoeba offers lessons for doctors ([source](https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/))
 - **2026-08-09** — Dropbox is a PC builder’s best friend ([source](https://www.theverge.com/tech/976092/pc-building-dropbox-backup))
 - **2026-08-01** — Honda has a new partner for the advancement of solid-state battery technology ([source](https://www.engadget.com/2225030/honda-solid-state-battery-technology-new-partner-quantumscape/))

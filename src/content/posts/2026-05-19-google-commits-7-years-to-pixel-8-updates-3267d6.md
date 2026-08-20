@@ -1,18 +1,20 @@
 ---
 title: "Google commits 7 years to Pixel 8 updates"
 date: 2026-05-19T23:10:09.780Z
+modified_date: 2026-08-20T12:35:58.539Z
 tags: ["android","updates","pixel","samsung"]
 hero_image: "/hero/2026-05-19-google-commits-7-years-to-pixel-8-updates-3267d6.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "smartphone update timeline illustration"
 description: "Google pledges seven years of updates for Pixel 8, while Samsung offers four years of security patches across 130 models, reshaping Android's update landscape."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-19-google-commits-7-years-to-pixel-8-updates-3267d6.mp3"
 audio_bytes: 603787
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google promises seven years for Pixel 8
 
@@ -47,3 +49,7 @@ For power users, Obtainium fills a gap left by the fragmented Android update eco
 The next few months will reveal whether Google can stick to its seven‑year promise. Developers will track the rollout cadence for Android 20 and Android 21, the likely successors to the 2029 release schedule. Samsung’s four‑year security plan will be tested as older models age out of the quarterly‑patch window.
 
 If Google extends its security window beyond four years, it could force other OEMs to follow suit. If Samsung accelerates its OS rollout or adopts the Android beta program, the gap between flagship and mid‑range devices could shrink. Power users and enterprise IT teams should monitor the update calendars, the frequency of Feature Drops, and any shifts in Google’s source‑code update policy. Those signals will dictate how long a device stays secure and functional in an ecosystem that still struggles with timely upgrades.
+
+## Updates
+
+- **2026-08-20** — Bought Logitech kit during the Trump tariff mess? You may be due a refund … ([source](https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/))

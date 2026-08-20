@@ -1,19 +1,20 @@
 ---
 title: "Alphabet Raises $85B for Google AI"
 date: 2026-06-03T21:22:42.230Z
-modified_date: 2026-07-27T17:39:05.641Z
+modified_date: 2026-08-20T12:36:10.837Z
 tags: ["Google","AI","Alphabet"]
 hero_image: "/hero/2026-06-03-alphabet-raises-85b-for-google-ai-b1fcc4.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google AI"
 description: "Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-03-alphabet-raises-85b-for-google-ai-b1fcc4.mp3"
 audio_bytes: 611101
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Alphabet's $85B Raise for Google AI
@@ -70,4 +71,5 @@ Ultimately, the future of AI will depend on the ability of companies like Google
 
 ## Updates
 
+- **2026-08-20** — Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a ([source](https://os8088.com/spotlight/))
 - **2026-07-27** — Google’s AI search is rapidly becoming the default, new data shows ([source](https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/))

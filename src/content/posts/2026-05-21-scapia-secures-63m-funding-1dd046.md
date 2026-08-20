@@ -1,19 +1,20 @@
 ---
 title: "Scapia Secures $63M Funding"
 date: 2026-05-21T09:52:21.783Z
-modified_date: 2026-08-04T21:06:34.060Z
+modified_date: 2026-08-20T12:35:21.372Z
 tags: ["Travel Payments","Indian Market","Digital Payments"]
 hero_image: "/hero/2026-05-21-scapia-secures-63m-funding-1dd046.jpg"
 hero_image_credit_name: "Rodolfo Clix"
 hero_image_credit_url: "https://www.pexels.com/@rodolfoclix"
 visual_keyword: "Scapia"
 description: "Scapia raises $63M, doubles valuation"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-21-scapia-secures-63m-funding-1dd046.mp3"
 audio_bytes: 599816
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Scapia
@@ -42,4 +43,5 @@ The Indian travel payments market has undergone significant changes in recent ye
 
 ## Updates
 
+- **2026-08-20** — Slack is launching collaborative vibe coding channels ([source](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch))
 - **2026-08-04** — All of Winona Police Department's Flock cameras cut down and stolen ([source](https://www.valleynewslive.com/2026/08/04/every-flock-camera-winona-minnesota-cut-down-stolen-coordinated-theft/))

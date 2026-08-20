@@ -1,19 +1,20 @@
 ---
 title: "Ubuntu Hit by DDoS"
 date: 2026-05-01T15:01:42.253Z
-modified_date: 2026-08-14T20:26:37.918Z
+modified_date: 2026-08-20T12:35:15.149Z
 tags: ["Ubuntu","DDoS","Cyber Attack"]
 hero_image: "/hero/2026-05-01-ubuntu-hit-by-ddos-e8e083.jpg"
 hero_image_credit_name: "Mustafa Akkuş"
 hero_image_credit_url: "https://www.pexels.com/@mustafaakkus"
 visual_keyword: "Ubuntu"
 description: "Ubuntu services are down due to a DDoS attack, affecting website and OS updates"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-01-ubuntu-hit-by-ddos-e8e083.mp3"
 audio_bytes: 562200
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ As the situation with the Ubuntu DDoS attack continues to unfold, there are seve
 
 ## Updates
 
+- **2026-08-20** — Meta glasses are a workplace menace ([source](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security))
 - **2026-08-14** — These AI tools make my life much easier on the Mac ([source](https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/))
 - **2026-07-27** — Enigma raises $70M to make controlling a robot as easy as adjusting the volume ([source](https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/))
