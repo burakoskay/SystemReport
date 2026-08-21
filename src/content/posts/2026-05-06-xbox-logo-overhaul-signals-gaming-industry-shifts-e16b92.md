@@ -1,16 +1,17 @@
 ---
 title: "Xbox Logo Overhaul Signals Gaming Industry Shifts"
 date: 2026-05-06T18:04:48.375Z
-modified_date: 2026-08-17T12:31:59.152Z
+modified_date: 2026-08-21T14:29:14.826Z
 tags: ["xbox","gaming","ai","casino","layoffs"]
 hero_image: "/hero/2026-05-06-xbox-logo-overhaul-signals-gaming-industry-shifts-e16b92.jpg"
 hero_image_credit_name: "Anthony 🙂"
 hero_image_credit_url: "https://www.pexels.com/@inspiredimages"
 visual_keyword: "Xbox console showing new glassy logo animation against dark background"
 description: "Microsoft's new Xbox boot animation and layoffs at Build a Rocket Boy reveal deeper tech and entertainment trends"
-sources_count: 11
+sources_count: 12
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ What to watch: Project Helix's public demo in Q3 2025, Build a Rocket Boy's Mind
 
 ## Updates
 
+- **2026-08-21** — Major YouTube creators are facing backlash for accepting AI money ([source](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash))
 - **2026-08-17** — How to take better photos of your pets ([source](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos))
 - **2026-08-07** — Security Bite Podcast: Why scammers love FaceTime now ([source](https://9to5mac.com/2026/08/07/security-bite-podcast-why-scammers-love-facetime-now/))
 - **2026-05-29** — We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well ([source](https://www.wired.com/story/future-of-truth-ai-interview/))

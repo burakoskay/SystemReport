@@ -1,16 +1,17 @@
 ---
 title: "Budget Smartwatch Showdown: 4 Top Picks Under $250"
 date: 2026-07-30T13:47:35.876Z
-modified_date: 2026-08-09T10:27:48.263Z
+modified_date: 2026-08-21T14:29:26.098Z
 tags: ["smartwatches","budget-friendly","wearable devices","fitness tracking","health monitoring"]
 hero_image: "/hero/2026-07-30-budget-smartwatch-showdown-4-top-picks-under-250-90bd82.jpg"
 hero_image_credit_name: "Burst"
 hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "smartwatch"
 description: "Discover the best budget-friendly smartwatches under $250 for fitness tracking, notifications, and more."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 # Budget Smartwatch Showdown: 4 Top Picks Under $250
@@ -58,4 +59,5 @@ When it comes to budget smartwatches, there are several options available. The A
 
 ## Updates
 
+- **2026-08-21** — Pixel’s ‘Flip to Shhh’ notification feature is broken for some ([source](https://9to5google.com/2026/08/21/pixel-flip-to-shhh-broken/))
 - **2026-08-09** — Incentives are for losers ([source](https://www.experimental-history.com/p/incentives-are-for-losers))

@@ -1,18 +1,20 @@
 ---
 title: "Dreamie alarm clock plays podcasts"
 date: 2026-05-24T13:46:16.395Z
+modified_date: 2026-08-21T14:29:29.752Z
 tags: ["Dreamie alarm clock","podcast playback","smart home devices"]
 hero_image: "/hero/2026-05-24-dreamie-alarm-clock-plays-podcasts-215308.jpg"
 hero_image_credit_name: "Ruslan Sikunov"
 hero_image_credit_url: "https://www.pexels.com/@sikunovruslan"
 visual_keyword: "Dreamie alarm clock"
 description: "Dreamie alarm clock plays podcasts, a unique feature"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-24-dreamie-alarm-clock-plays-podcasts-215308.mp3"
 audio_bytes: 604831
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Dreamie alarm clock
 Dreamie ships a bedside alarm that streams podcasts directly from the user's library. The device lets users wake to a familiar voice instead of a generic tone. No other mainstream alarm clock on the market offers native podcast playback.
@@ -30,3 +32,7 @@ The technical mechanics behind Dreamie's podcast playback feature are noteworthy
 The launch of Dreamie's alarm clock will have significant implications for the broader tech industry. As more companies focus on smart home devices and voice assistants, the demand for innovative alarm clocks will continue to grow. Dreamie's success will likely inspire other companies to explore similar approaches, leading to increased competition and innovation in the market. Additionally, the company's focus on podcast playback may lead to new partnerships and collaborations with podcast providers, further expanding the device's capabilities and user base.
 ## What to watch
 Dreamie's launch will show how niche hardware survives in a review environment fraught with bias and fake feedback. Monitor Amazon's enforcement metrics and independent, long-term usage reports on forums where power users share sleep-tracking data. The company's ability to navigate this challenging review landscape will be crucial to its success, and its strategy will likely involve a combination of traditional marketing efforts and community engagement. The presence of fake reviews on Amazon, as highlighted by Which?, poses a significant challenge for Dreamie and other tech companies. To mitigate this, Dreamie may need to focus on building a strong community of users who can provide authentic feedback and support.
+
+## Updates
+
+- **2026-08-21** — John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst ([source](https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/))

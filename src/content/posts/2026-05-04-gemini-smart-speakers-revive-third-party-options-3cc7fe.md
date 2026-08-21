@@ -1,16 +1,17 @@
 ---
 title: "Gemini Smart Speakers Revive Third-Party Options"
 date: 2026-05-04T03:42:18.341Z
-modified_date: 2026-08-18T12:33:29.211Z
+modified_date: 2026-08-21T14:29:18.572Z
 tags: ["Google","Smart Speakers","Gemini"]
 hero_image: "/hero/2026-05-04-gemini-smart-speakers-revive-third-party-options-3cc7fe.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "smart speaker"
 description: "Google's Gemini era may bring new third-party smart speakers, ending a drought in the market. The move could increase competition in the smart home sector."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The future of the smart speaker market looks promising, with new technologies an
 
 ## Updates
 
+- **2026-08-21** — Blue Eye Samurai’s second season will hit Netflix in January ([source](https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal))
 - **2026-08-18** — Google&#8217;s Pet Memory forgot who my cats are ([source](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review))
 - **2026-07-26** — The US is charging an American citizen for wiping his phone at the border ([source](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password))
 - **2026-06-05** — Nest Mini and Audio are out of stock ahead of Google Home Speaker ([source](https://9to5google.com/2026/06/05/nest-mini-audio-out-of-stock/))

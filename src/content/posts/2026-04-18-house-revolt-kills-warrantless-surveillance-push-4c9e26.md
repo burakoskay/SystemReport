@@ -1,16 +1,17 @@
 ---
 title: "House Revolt Kills Warrantless Surveillance Push"
 date: 2026-04-18T12:45:11.756Z
-modified_date: 2026-08-16T18:20:10.360Z
+modified_date: 2026-08-21T14:29:33.374Z
 tags: ["surveillance","Section 702","House revolt"]
 hero_image: "/hero/2026-04-18-house-revolt-kills-warrantless-surveillance-push-4c9e26.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "surveillance"
 description: "House revolt sinks White House bid to extend Section 702, a spy program criticized for targeting Congress members and protesters."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ The expiration of Section 702 raises critical questions about US surveillance an
 
 ## Updates
 
+- **2026-08-21** — Walmart finally launching Apple Pay support next week ([source](https://9to5mac.com/2026/08/21/walmart-finally-launching-apple-pay-support-next-week/))
 - **2026-08-16** — The AI Credit Resale Economy ([source](https://vectoral.com/blog/who-are-the-token-brokers))
 - **2026-08-10** — Has Ford got cheap car fever? A $25K crossover is supposedly on the way. ([source](https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/))
 - **2026-06-05** — The token bill comes due: Inside the industry scramble to manage AI’s runaway costs ([source](https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/))
