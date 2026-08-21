@@ -1,18 +1,20 @@
 ---
 title: "Apple Sued Over App Store Crypto Scam"
 date: 2026-07-28T08:28:40.935Z
+modified_date: 2026-08-21T10:23:31.608Z
 tags: ["Apple","App Store","Crypto Scam","Lawsuit","Tech Industry"]
 hero_image: "/hero/2026-07-28-apple-sued-over-app-store-crypto-scam-df86ac.jpg"
 hero_image_credit_name: "Athena Sandrini"
 hero_image_credit_url: "https://www.pexels.com/@athena"
 visual_keyword: "Apple logo with a red X marked through it"
 description: "Three users sue Apple for $1.8M in losses due to a fraudulent crypto wallet on the App Store"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-28-apple-sued-over-app-store-crypto-scam-df86ac.mp3"
 audio_bytes: 573067
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## $1.8M in Crypto Lost, Apple Sued Over App Store Scam
 Three users have filed a lawsuit against Apple, claiming they lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store.
@@ -42,3 +44,7 @@ The outcome of this lawsuit will be closely watched by the tech industry. Apple'
 A US court has filed the lawsuit against Apple, but the exact court and docket number are not specified in the source material. Apple has not commented on the lawsuit, and it remains to be seen how the company will respond to the allegations.
 
 Source material does not provide information about the filing date of the lawsuit. Users should be aware of the potential risks when downloading apps from the App Store and be cautious of any apps that seem too good to be true.
+
+## Updates
+
+- **2026-08-21** — Japan tried to build an operating system for the world, the US intervened ([source](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/))
