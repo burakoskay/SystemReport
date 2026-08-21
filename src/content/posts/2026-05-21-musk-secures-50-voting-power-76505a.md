@@ -1,16 +1,17 @@
 ---
 title: "Musk Secures 50% Voting Power"
 date: 2026-05-21T23:07:35.498Z
-modified_date: 2026-05-29T18:38:28.925Z
+modified_date: 2026-08-21T12:34:32.242Z
 tags: ["SpaceX","Elon Musk","Orbital Data Centers"]
 hero_image: "/hero/2026-05-21-musk-secures-50-voting-power-76505a.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Elon Musk will hold over 50% voting power in SpaceX's IPO, while the company touts orbital data centers and faces political attacks and internal cash moves."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -95,5 +96,6 @@ Overall, the success of SpaceX's orbital data centers will depend on its ability
 
 ## Updates
 
+- **2026-08-21** — Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss ([source](https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/))
 - **2026-05-29** — Apple has five new products coming that could launch at WWDC ([source](https://9to5mac.com/2026/05/29/apple-has-five-new-products-coming-that-could-launch-at-wwdc/))
 - **2026-05-28** — Claude’s new model is more ‘honest’ when it messes up ([source](https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort))

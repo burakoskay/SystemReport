@@ -1,16 +1,17 @@
 ---
 title: "California Court Rejects Tesla Bid to Dismiss Discrimination Suit"
 date: 2026-05-27T23:30:03.335Z
-modified_date: 2026-08-05T17:40:48.406Z
+modified_date: 2026-08-21T12:34:25.179Z
 tags: ["tesla","discrimination","california","lawsuit","labor"]
 hero_image: "/hero/2026-05-27-california-court-rejects-tesla-bid-to-dismiss-discrimination-suit-74dc0e.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "Tesla factory interior with protest signs against discrimination"
 description: "A California civil rights agency won its fight to keep a racial discrimination lawsuit against Tesla alive, setting a July trial date."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 ## Court denies Tesla's motion to throw out suit
@@ -51,4 +52,5 @@ The July trial date marks the first major courtroom test of the California agenc
 
 ## Updates
 
+- **2026-08-21** — The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood ([source](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/))
 - **2026-08-05** — The world's smallest USB drive has more storage than an iPhone 17 ([source](https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17/))
