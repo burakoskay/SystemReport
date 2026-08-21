@@ -1,16 +1,17 @@
 ---
 title: "Apple Files Supreme Court Stay in Epic App Store Dispute"
 date: 2026-05-05T03:34:51.057Z
-modified_date: 2026-08-20T14:31:00.724Z
+modified_date: 2026-08-21T22:17:51.359Z
 tags: ["apple","epic-games","app-store","supreme-court","antitrust"]
 hero_image: "/hero/2026-05-05-apple-files-supreme-court-stay-in-epic-app-store-dispute-04b81b.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "foldable iPhone Ultra prototype on white surface"
 description: "Apple seeks Supreme Court stay to halt Epic case over App Store commission rules. Court battle continues over app distribution policies."
-sources_count: 16
+sources_count: 17
 author: "david-okafor"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ What to watch: The Supreme Court’s April 20 stay decision, the District Court�
 
 ## Updates
 
+- **2026-08-21** — When is Apple Pay coming to your Walmart? Here’s the full schedule ([source](https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/))
 - **2026-08-20** — I bought DJI’s banned camera — it was cheap and easy ([source](https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market))
 - **2026-08-20** — Windows brings out the Rorschach test in everyone ([source](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803))
 - **2026-08-14** — Tech Visionary Says the Big AI Labs Don’t Get What People Want ([source](https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/))

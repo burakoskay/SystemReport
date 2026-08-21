@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Unveils Surface Laptop Ultra and RTX Spark Dev Box"
 date: 2026-06-03T17:01:44.923Z
-modified_date: 2026-06-05T20:02:08.181Z
+modified_date: 2026-08-21T22:17:57.369Z
 tags: ["Microsoft","Surface Laptop Ultra","RTX Spark Dev Box","Nvidia"]
 hero_image: "/hero/2026-06-03-microsoft-unveils-surface-laptop-ultra-and-rtx-spark-dev-box-bfe8e0.jpg"
 hero_image_credit_name: "Josh Sorenson"
 hero_image_credit_url: "https://www.pexels.com/@joshsorenson"
 visual_keyword: "Surface Laptop Ultra"
 description: "Microsoft debuts two new Surface devices powered by Nvidia's RTX Spark chips, targeting performance and development needs."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-03-microsoft-unveils-surface-laptop-ultra-and-rtx-spark-dev-box-bfe8e0.mp3"
 audio_bytes: 625311
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Microsoft Unveils Surface Laptop Ultra and RTX Spark Dev Box
@@ -72,4 +73,5 @@ Overall, the Surface Laptop Ultra and RTX Spark Dev Box represent a significant 
 
 ## Updates
 
+- **2026-08-21** — Take-Two subpoenas Discord and Microsoft in hunt for GTA VI leaker ([source](https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/))
 - **2026-06-05** — Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency ([source](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/))
