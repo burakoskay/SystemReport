@@ -1,18 +1,20 @@
 ---
 title: "Meta Oversight Board Demands Ban Process Transparency"
 date: 2026-06-04T18:25:07.533Z
+modified_date: 2026-08-21T06:35:39.955Z
 tags: ["Meta","Oversight Board","Face-Recognition Code"]
 hero_image: "/hero/2026-06-04-meta-oversight-board-demands-ban-process-transparency-e1b1d7.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta"
 description: "Meta's ban process lacks transparency, and a hidden face-recognition module was found in its smart-glasses platform"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-04-meta-oversight-board-demands-ban-process-transparency-e1b1d7.mp3"
 audio_bytes: 617370
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Oversight board slams ban process
@@ -51,3 +53,7 @@ If Meta is found to have violated user consent or data privacy laws, it could fa
 Additionally, the presence of this code may exacerbate existing concerns about Meta's handling of facial recognition technology, potentially leading to further regulatory scrutiny and backlash from users. 
 The incident may also lead to increased calls for greater regulation of the tech industry, particularly with regards to facial recognition technology and data privacy. 
 As the use of facial recognition technology becomes more widespread, it is essential to consider the potential implications for society as a whole, and to ensure that companies like Meta are held accountable for their actions.
+
+## Updates
+
+- **2026-08-21** — Genesis' GV90 NeoLun is a luxury electric SUV with heated floors and coach doors ([source](https://www.engadget.com/2241354/genesis-gv90-neolun-luxury-suv-heated-floors-coach-doors/))
