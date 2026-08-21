@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 4589,
+    "consecutive_failures": 4596,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-21T01:02:03.915Z",
+    "last_failure": "2026-08-21T03:00:17.111Z",
     "cooldown_until": "2026-06-07T19:52:40.941Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-21T00:59:08.277Z",
+    "last_success": "2026-08-21T02:58:05.861Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4839, Requested 4025. Please try again in 6.48s. Need more tokens? Upgrade to Dev Tier today at htt",
     "last_failure": "2026-08-19T10:40:21.648Z"
@@ -19,9 +19,9 @@
     "last_failure": "2026-08-21T00:59:42.606Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 704,
+    "consecutive_failures": 708,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-08-21T01:02:03.889Z",
+    "last_failure": "2026-08-21T03:00:16.912Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-17T08:48:40.903Z"
   },
@@ -29,7 +29,7 @@
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (c6008222-e6b0-4e80-80b3-f7a57f1b6a34)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-08-20T22:21:45.965Z",
-    "last_success": "2026-08-21T01:02:12.847Z"
+    "last_success": "2026-08-21T03:00:31.269Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

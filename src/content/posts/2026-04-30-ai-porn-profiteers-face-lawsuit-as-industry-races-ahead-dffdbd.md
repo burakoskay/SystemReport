@@ -1,16 +1,17 @@
 ---
 title: "AI Porn Profiteers Face Lawsuit as Industry Races Ahead"
 date: 2026-04-30T14:22:22.520Z
-modified_date: 2026-07-26T17:12:26.763Z
+modified_date: 2026-08-21T02:57:37.326Z
 tags: ["ai","pornography","law","ethics","technology"]
 hero_image: "/hero/2026-04-30-ai-porn-profiteers-face-lawsuit-as-industry-races-ahead-dffdbd.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "dark office with computer screens displaying AI-generated adult images"
 description: "Arizona women sue men who turned their photos into AI porn and sold tutorials, highlighting ethical and labor fallout as AI-generated erotica expands."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The lawsuit will test how courts handle deepfake porn and the sale of creation t
 
 ## Updates
 
+- **2026-08-21** — ‘The Dynasty: UConn Huskies’ now available to stream on Apple TV ([source](https://9to5mac.com/2026/08/20/the-dynasty-uconn-huskies-now-available-to-stream-on-apple-tv/))
 - **2026-07-26** — Show HN: I mapped every US golf course ([source](https://golfcoursebrowser.com/))
 - **2026-05-21** — States ask judge to break up Live Nation-Ticketmaster ([source](https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up))
 - **2026-05-07** — Apple&#8217;s AirPods with cameras for AI are apparently close to production ([source](https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production))
