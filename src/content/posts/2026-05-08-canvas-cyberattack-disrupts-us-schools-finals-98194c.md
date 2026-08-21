@@ -1,19 +1,20 @@
 ---
 title: "Canvas cyberattack disrupts US schools' finals"
 date: 2026-05-08T23:04:47.009Z
-modified_date: 2026-08-12T20:38:29.267Z
+modified_date: 2026-08-21T20:18:39.684Z
 tags: ["cybersecurity","infrastructure","retrocomputing"]
 hero_image: "/hero/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "a server room with red alert lights and a vintage gaming console on a desk"
 description: "Schools scramble after Canvas outage, Let’s Encrypt stops issuing certs, and a retro CPU analysis highlights lasting security challenges."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-08-canvas-cyberattack-disrupts-us-schools-finals-98194c.mp3"
 audio_bytes: 541511
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Canvas’s parent company, Instructure, is expected to release a post‑mortem w
 
 ## Updates
 
+- **2026-08-21** — The $225 Pebble Time 2 is a refreshingly fun smartwatch ([source](https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/))
 - **2026-08-12** — It looks like Apple&#8217;s iPhone 18 really will skip the fall launch this year ([source](https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed))
 - **2026-06-04** — Heading to Apple Park for WWDC? There is new merch waiting for you at the Visitor Center store ([source](https://9to5mac.com/2026/06/04/heading-to-apple-park-for-wwdc-there-is-new-merch-waiting-for-you-at-the-visitor-center-store/))
 - **2026-05-29** — The Acer Swift Air 14 looks like a cute and breezy Windows alternative to the MacBook Air ([source](https://www.engadget.com/2183276/the-acer-swift-air-14-looks-like-a-cute-and-breezy-windows-alternative-to-the-macbook-air/))

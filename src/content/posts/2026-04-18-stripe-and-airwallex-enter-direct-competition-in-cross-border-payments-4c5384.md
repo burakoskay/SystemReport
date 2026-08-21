@@ -1,18 +1,19 @@
 ---
 title: "Stripe and Airwallex Enter Direct Competition in Cross-Border Payments"
 date: 2026-04-18T12:44:39.856Z
-modified_date: 2026-05-20T18:22:50.528Z
+modified_date: 2026-08-21T20:18:58.717Z
 tags: ["fintech","cross-border payments","Stripe"]
 hero_image: "/hero/2026-04-18-stripe-and-airwallex-enter-direct-competition-in-cross-border-payments-4c5384.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "payments"
 description: "Stripe and Airwallex, once close acquisition targets, now compete directly in cross-border payments amid fintech valuation surge."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-04-18-stripe-and-airwallex-enter-direct-competition-in-cross-border-payments-4c5384.wav"
 audio_bytes: 3913006
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,4 +35,5 @@ The direct competition between Stripe and Airwallex will likely drive innovation
 
 ## Updates
 
+- **2026-08-21** — iPadOS 27 adds three features to make iPad more like the Mac ([source](https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/))
 - **2026-05-20** — Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings ([source](https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/))
