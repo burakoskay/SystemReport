@@ -1,15 +1,17 @@
 ---
 title: "Atom Beats RSS on Reliability and Standards"
 date: 2026-08-02T13:15:03.421Z
+modified_date: 2026-08-21T18:28:16.818Z
 tags: ["atom","rss","webfeeds","specifications","openweb"]
 hero_image: "/hero/2026-08-02-atom-beats-rss-on-reliability-and-standards-077398.jpg"
 hero_image_credit_name: "anshul kumar"
 hero_image_credit_url: "https://www.pexels.com/@anshul-kumar-495857555"
 visual_keyword: "side-by-side comparison of Atom and RSS XML feed snippets"
 description: "Atom’s required ID element fixes RSS’s broken GUID handling, delivering cleaner feeds for developers and users alike."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Atom’s required `id` element eliminates the guesswork that plagues RSS’s optional `guid`, making web feeds more reliable for both clients and publishers.
 
@@ -42,3 +44,7 @@ If you must support RSS, be prepared to handle the variability. Expect to see fe
 ## What to Watch
 
 Keep an eye on the RSS Board’s activity under Cadenhead’s chairmanship; any move to make `guid` required would narrow the gap with Atom. Also watch the adoption rate of JSON Feed in open‑source readers—if it gains traction, it could finally provide a clean, modern alternative to both XML formats. Until then, the industry’s safest bet remains Atom’s disciplined approach to feed identification.
+
+## Updates
+
+- **2026-08-21** — Moto Tag 2’s ‘limited time’ discount to $20 is still live, on Amazon right now too ([source](https://9to5google.com/2026/08/21/moto-tag-2-discount-amazon/))

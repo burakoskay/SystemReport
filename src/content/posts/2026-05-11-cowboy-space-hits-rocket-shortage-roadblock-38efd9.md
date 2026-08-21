@@ -1,16 +1,17 @@
 ---
 title: "Cowboy Space Hits Rocket Shortage Roadblock"
 date: 2026-05-11T15:24:59.466Z
-modified_date: 2026-08-10T12:55:20.965Z
+modified_date: 2026-08-21T18:28:34.672Z
 tags: ["space","data centers","rockets"]
 hero_image: "/hero/2026-05-11-cowboy-space-hits-rocket-shortage-roadblock-38efd9.jpg"
 hero_image_credit_name: "Frank Cone"
 hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -73,5 +74,6 @@ The future outlook for Cowboy Space Corporation is promising, but uncertain. The
 
 ## Updates
 
+- **2026-08-21** — Another disguised Russian banking app has topped the US iPhone App Store ([source](https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/))
 - **2026-08-10** — The Outlaw Chemist Teaching People How to Make Drugs From Scratch ([source](https://www.wired.com/story/the-outlaw-chemist-teaching-people-how-to-make-drugs-from-scratch/))
 - **2026-07-28** — Can the New York Times Save Journalism From Our AI Overlords? ([source](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/))

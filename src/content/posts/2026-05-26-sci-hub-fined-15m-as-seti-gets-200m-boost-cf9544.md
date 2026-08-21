@@ -1,15 +1,17 @@
 ---
 title: "Sci-Hub fined $15M as SETI gets $200M boost"
 date: 2026-05-26T23:23:24.747Z
+modified_date: 2026-08-21T18:28:04.795Z
 tags: ["science","funding","legal","space","research"]
 hero_image: "/hero/2026-05-26-sci-hub-fined-15m-as-seti-gets-200m-boost-cf9544.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "scientist looking at telescope with legal documents in background"
 description: "A US court slapped Sci-Hub with a $15 million judgment while the SETI Institute secured a $200 million endowment, highlighting divergent paths in scientific funding."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Sci-Hub’s $15 Million Default Judgment
 
@@ -46,3 +48,7 @@ The same funding challenges that drive Sci‑Hub’s illicit distribution also c
 ## What to Watch
 
 The next steps for Sci‑Hub will likely involve appeals and possible enforcement actions aimed at seizing domain registrars. Keep an eye on whether the $15 million judgment spurs stricter anti‑piracy measures or prompts legislative proposals to protect open‑access advocates. For SETI, track the rollout of new missions funded by Antonio’s endowment, especially any upgrades to the Allen Telescope Array and collaborations with NASA, the Department of Energy, and the National Science Foundation. The juxtaposition of a courtroom‑driven penalty and a philanthropic windfall will continue to shape the debate over how science is funded and shared.
+
+## Updates
+
+- **2026-08-21** — Pixel 11 gets in on the digicam trend ([source](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend))
