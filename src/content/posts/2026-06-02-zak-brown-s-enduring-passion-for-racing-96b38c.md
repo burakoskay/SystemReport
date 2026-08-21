@@ -1,16 +1,17 @@
 ---
 title: "Zak Brown's Enduring Passion for Racing"
 date: 2026-06-02T10:48:39.030Z
-modified_date: 2026-08-14T22:17:00.799Z
+modified_date: 2026-08-21T00:56:50.001Z
 tags: ["McLaren","Zak Brown","Formula One"]
 hero_image: "/hero/2026-06-02-zak-brown-s-enduring-passion-for-racing-96b38c.jpg"
 hero_image_credit_name: "Aleksandar Andreev"
 hero_image_credit_url: "https://www.pexels.com/@andreevaleksandar"
 visual_keyword: "Zak Brown"
 description: "McLaren CEO Zak Brown on rebuilding the brand, fan obsession, and the allure of racing."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Zak Brown's Passion for Racing
@@ -55,4 +56,5 @@ In conclusion, Zak Brown's passion for racing is a key aspect of his leadership 
 
 ## Updates
 
+- **2026-08-21** — GitHub says commits have doubled in the last four months ([source](https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/))
 - **2026-08-14** — Kia's EV3 will start under $31,000 in the US ([source](https://www.engadget.com/2237429/kia-ev3-will-start-under-31-000-in-the-us/))
