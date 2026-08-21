@@ -1,16 +1,17 @@
 ---
 title: "Visual DB: No-Code Database Frontend"
 date: 2026-05-21T12:51:12.070Z
-modified_date: 2026-08-04T17:41:51.750Z
+modified_date: 2026-08-21T16:25:28.094Z
 tags: ["no-code","low-code","database frontend"]
 hero_image: "/hero/2026-05-21-visual-db-no-code-database-frontend-c45e0a.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "database"
 description: "Visual DB offers a web frontend for databases with drag-and-drop tools, AI assistance, and no coding required."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -79,5 +80,6 @@ As Visual DB continues to develop its platform, it will be interesting to see ho
 
 ## Updates
 
+- **2026-08-21** — We have more details on Apple's camera-equipped AirPods and they are pretty dang weird ([source](https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/))
 - **2026-08-04** — Spotify expands AI remix and covers project with Merlin partnership ([source](https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/))
 - **2026-05-22** — WhatsApp is working on a centralized interface showing which contacts are online ([source](https://9to5mac.com/2026/05/22/whatsapp-is-working-on-a-centralized-interface-showing-which-contacts-are-online/))

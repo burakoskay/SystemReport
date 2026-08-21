@@ -1,19 +1,20 @@
 ---
 title: "ArXiv Cracks Down"
 date: 2026-05-16T19:12:42.920Z
-modified_date: 2026-05-29T18:38:01.314Z
+modified_date: 2026-08-21T16:25:08.696Z
 tags: ["ArXiv","AI-Generated Research","Academic Integrity"]
 hero_image: "/hero/2026-05-16-arxiv-cracks-down-2d05b9.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "ArXiv"
 description: "ArXiv bans authors for AI-generated papers, a move to maintain research integrity"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-16-arxiv-cracks-down-2d05b9.mp3"
 audio_bytes: 597308
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to ArXiv's New Policy
@@ -56,4 +57,5 @@ In the coming months, it will be interesting to see how ArXiv's new policy is im
 
 ## Updates
 
+- **2026-08-21** — US government lab is probing Chinese lidar for security vulnerabilities ([source](https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/))
 - **2026-05-29** — Startup offers free home cleaning—if it can record it all for robot training ([source](https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/))

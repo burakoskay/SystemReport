@@ -1,16 +1,17 @@
 ---
 title: "Tech's God Problem"
 date: 2026-05-30T21:09:02.134Z
-modified_date: 2026-08-09T06:44:33.206Z
+modified_date: 2026-08-21T16:26:00.209Z
 tags: ["tech-ethics","religion","ai-impact","ufology","future-of-work"]
 hero_image: "/hero/2026-05-30-tech-s-god-problem-ec6667.jpg"
 hero_image_credit_name: "Alejandro De Roa"
 hero_image_credit_url: "https://www.pexels.com/@alejandro-de-roa-649065356"
 visual_keyword: "shadowy figure analyzing satellite telemetry in dimly lit underground research facility"
 description: "Religious institutions confront AI, longevity, and UFOs as tech challenges existential questions"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Vatican Meets the Singularity
@@ -43,4 +44,5 @@ Watch for three developments in 2026: the Vatican's proposed AI ethics council w
 
 ## Updates
 
+- **2026-08-21** — GrapheneOS phone from Motorola arrives next year, ‘higher end’ compared to Pixel with a price to match ([source](https://9to5google.com/2026/08/21/motorola-grapheneos-phone-2027-spec-tease/))
 - **2026-08-09** — Os8088: A powerful Mac-like OS for the IBM XT, 286, 386 ([source](https://os8088.com/))
