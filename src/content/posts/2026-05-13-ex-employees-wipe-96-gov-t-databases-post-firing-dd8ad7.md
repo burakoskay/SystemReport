@@ -1,16 +1,17 @@
 ---
 title: "Ex-Employees Wipe 96 Gov't Databases Post-Firing"
 date: 2026-05-13T03:57:10.361Z
-modified_date: 2026-05-15T19:44:46.649Z
+modified_date: 2026-08-22T18:20:19.577Z
 tags: ["cybersecurity","gov't security","data breach","access control","IT policies"]
 hero_image: "/hero/2026-05-13-ex-employees-wipe-96-gov-t-databases-post-firing-dd8ad7.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "government server room with blinking lights and access badges on the floor"
 description: "Twin brothers erased 96 government databases minutes after termination, highlighting credential management failures."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Twin brothers deleted 96 government databases minutes after their firing became official. The incident, detailed in a recent case study, reveals systemic gaps in access control protocols across public-sector IT systems.
@@ -41,4 +42,5 @@ The Office of Management and Budget will issue revised access control guidelines
 
 ## Updates
 
+- **2026-08-22** — Doodle generative compositions in your browser with Musical Spirograph ([source](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition))
 - **2026-05-15** — One of Intel’s fastest desktop CPUs is $50 off ([source](https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale))
