@@ -1,15 +1,17 @@
 ---
 title: "Aptoide Returns to Google Play"
 date: 2026-08-10T18:50:12.763Z
+modified_date: 2026-08-22T16:16:24.627Z
 tags: ["Aptoide","Google Play","Mobile App Store"]
 hero_image: "/hero/2026-08-10-aptoide-returns-to-google-play-1d651e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Aptoide"
 description: "Aptoide's games store is back on Google Play"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Aptoide's Return
 Aptoide has brought its games store back to Google Play after more than a decade, following court-ordered changes to open Android to competing app stores. This change is the result of a specific court case that required Google to make its platform more open. The return of Aptoide marks a significant shift in the mobile app ecosystem, as it sets a precedent for other third-party app stores to potentially follow suit.
@@ -29,3 +31,7 @@ Aptoide's return to Google Play may have significant consequences for the future
 The return of Aptoide to Google Play is also likely to have a broader impact on the mobile app industry. With the rise of alternative app stores, developers may need to consider multiple platforms when creating and distributing their apps. This could lead to increased innovation and competition in the app store market, as developers strive to create apps that are compatible with multiple platforms. Additionally, the return of Aptoide may also lead to changes in the way users discover and download apps, as they may have more options available to them.
 ## Historical Context
 The return of Aptoide to Google Play is not an isolated incident, but rather part of a larger trend towards increased competition in the app store market. In recent years, there have been several regulatory actions aimed at increasing competition in the app store market, including the court case that led to Aptoide's return. This trend is likely to continue, as regulatory bodies and industry observers push for greater competition and innovation in the app store market.
+
+## Updates
+
+- **2026-08-22** — What is the ‘Android Pulse’ app that just appeared in Google Play Store updates? ([source](https://9to5google.com/2026/08/22/android-pulse-app-google-play/))
