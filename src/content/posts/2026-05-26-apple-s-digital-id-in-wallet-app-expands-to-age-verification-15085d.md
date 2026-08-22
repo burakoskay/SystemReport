@@ -1,15 +1,17 @@
 ---
 title: "Apple's Digital ID in Wallet App Expands to Age Verification"
 date: 2026-05-26T21:55:58.185Z
+modified_date: 2026-08-22T14:15:44.088Z
 tags: ["Apple","Digital ID","Age Verification","Mobile Wallet"]
 hero_image: "/hero/2026-05-26-apple-s-digital-id-in-wallet-app-expands-to-age-verification-15085d.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Apple Wallet"
 description: "Apple's Wallet app now allows users to use their Digital ID as an age verification method in several cases on iPhone."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Apple's Digital ID Expansion
@@ -68,3 +70,6 @@ In conclusion, Apple's expansion of its Digital ID feature into age verification
 
 The use of digital identity verification has significant implications for various industries and can help reduce the risk of identity theft. As digital IDs become more widespread, we can expect to see more innovative applications of this technology.
 
+## Updates
+
+- **2026-08-22** — Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade ([source](https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/))

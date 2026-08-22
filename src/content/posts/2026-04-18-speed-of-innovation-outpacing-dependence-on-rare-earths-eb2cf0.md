@@ -1,16 +1,17 @@
 ---
 title: "Speed of Innovation: Outpacing Dependence on Rare Earths"
 date: 2026-04-18T01:04:55.535Z
-modified_date: 2026-08-05T19:23:00.470Z
+modified_date: 2026-08-22T14:15:31.709Z
 tags: ["space exploration","rare earths","innovation"]
 hero_image: "/hero/2026-04-18-speed-of-innovation-outpacing-dependence-on-rare-earths-eb2cf0.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "astronauts in space with earth in background"
 description: "Astronauts and nations alike are breaking free from limitations, harnessing physics and underwater discoveries to propel forward."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -22,6 +23,7 @@ As astronauts soar through the cosmos, a peculiar challenge arises: measuring th
 
 ## Updates
 
+- **2026-08-22** — An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it ([source](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review))
 - **2026-08-05** — Two of Ring&#8217;s latest video doorbells are a lot cheaper than usual ([source](https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale))
 - **2026-05-27** — In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips ([source](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/))
 - **2026-05-20** — OpenAI claims it solved an 80-year-old math problem — for real this time ([source](https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/))

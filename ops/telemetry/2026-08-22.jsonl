@@ -119,3 +119,9 @@
 {"t":"2026-08-22T12:30:05.432Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":7969,"prompt_chars":6648,"response_chars":873}
 {"t":"2026-08-22T12:30:05.454Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":7983,"prompt_chars":6650,"response_chars":913}
 {"t":"2026-08-22T12:30:06.249Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":8779,"prompt_chars":6648,"response_chars":666}
+{"t":"2026-08-22T14:15:57.312Z","task":"cluster","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":6947,"prompt_chars":6716,"response_chars":862}
+{"t":"2026-08-22T14:15:59.977Z","task":"cluster","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":2661,"prompt_chars":1694,"response_chars":325}
+{"t":"2026-08-22T14:16:15.085Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":7103,"prompt_chars":6042,"response_chars":1252,"prompt_id":"draft","prompt_variant":"v4-1100w"}
+{"t":"2026-08-22T14:16:30.132Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":7043,"prompt_chars":6027,"response_chars":1306,"prompt_id":"draft","prompt_variant":"v4-1100w"}
+{"t":"2026-08-22T14:16:45.094Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":6958,"prompt_chars":6413,"response_chars":1163,"prompt_id":"draft","prompt_variant":"v4-1100w"}
+{"t":"2026-08-22T14:16:59.942Z","task":"draft","provider":"cloudflare","model":"@cf/meta/llama-3.3-70b-instruct-fp8-fast","ok":true,"latency_ms":6845,"prompt_chars":6056,"response_chars":1318,"prompt_id":"draft","prompt_variant":"v4-1100w"}
