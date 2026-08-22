@@ -1,18 +1,20 @@
 ---
 title: "YouTube hike, GM adapter, and Canada bill tighten user experience"
 date: 2026-06-05T16:39:53.795Z
+modified_date: 2026-08-22T22:16:16.452Z
 tags: ["youtube","gm","regulation","canada","nepal"]
 hero_image: "/hero/2026-06-05-youtube-hike-gm-adapter-and-canada-bill-tighten-user-experience-e35abc.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "busy commuter using smartphone in car with overlay of social media icons and news headlines"
 description: "YouTube raises Premium fees, a DIY adapter revives Android Auto in GM EVs, and new regulations in Canada and Nepal reshape how platforms reach users."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-05-youtube-hike-gm-adapter-and-canada-bill-tighten-user-experience-e35abc.mp3"
 audio_bytes: 571813
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Premium price bump hits YouTube users
 YouTube Premium users see their subscription cost rise this month. The increase follows a prior announcement that the service would become more expensive.
@@ -36,3 +38,7 @@ Rights groups denounce the bill as a censorship tool. They argue it punishes opp
 
 ## What to watch next
 In the United States, YouTube will likely monitor churn rates after the Premium hike and may adjust pricing or features to retain subscribers. In the automotive space, GM’s stance on smartphone integration could prompt other OEMs to either double down on proprietary systems or adopt third‑party adapters at scale. In Canada, the CRTC is expected to draft the detailed rules that will enforce the Bill C‑10 amendment; watch for the first set of compliance notices to streaming services. In Nepal, the pending registration bill will move through parliament; its final language will determine whether the current block expands or eases. Tracking these developments will reveal how platform owners balance revenue, user experience, and regulatory compliance.
+
+## Updates
+
+- **2026-08-22** — Will the DOJ’s investigation into a16z spook other VCs? ([source](https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/))
