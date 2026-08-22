@@ -1,15 +1,17 @@
 ---
 title: "Puerto Rico Water Crisis"
 date: 2026-08-17T06:42:31.687Z
+modified_date: 2026-08-22T10:17:05.790Z
 tags: ["Water Crisis","Puerto Rico","Rainwater Harvesting"]
 hero_image: "/hero/2026-08-17-puerto-rico-water-crisis-9c763e.jpg"
 hero_image_credit_name: "Jackson Howes"
 hero_image_credit_url: "https://www.pexels.com/@jackson-howes-692559003"
 visual_keyword: "rainwater"
 description: "Puerto Rico faces water rationing"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Crisis
 Puerto Rico could capture billions of gallons of water a year by implementing systems to catch rainwater as it falls. The island's geography, with its frequent rainfall, makes it an ideal location for rainwater harvesting. This method of collecting and storing rainwater could significantly reduce the island's reliance on traditional water supply systems.
@@ -29,3 +31,7 @@ The water management industry is evolving, with a growing focus on sustainable a
 The regulatory framework governing water management in Puerto Rico is complex and often inadequate. The island's water management laws and regulations are in need of reform, to encourage the adoption of innovative solutions such as rainwater harvesting. A revised regulatory framework could provide incentives for the implementation of rainwater harvesting systems, and help address the island's water crisis.
 ## Future Prospects
 The future prospects for Puerto Rico's water management sector look promising, with a growing focus on sustainable and innovative solutions. The implementation of rainwater harvesting systems and decentralized water management approaches can help mitigate the island's water crisis, and create a more sustainable future for its residents. However, this will require significant investment in infrastructure, as well as a revised regulatory framework that encourages the adoption of innovative solutions.
+
+## Updates
+
+- **2026-08-22** — NASA Cancels Its Rescue Mission for the Aging Swift Telescope ([source](https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/))
