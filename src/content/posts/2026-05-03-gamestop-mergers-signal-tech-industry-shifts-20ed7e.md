@@ -1,16 +1,17 @@
 ---
 title: "GameStop Mergers Signal Tech Industry Shifts"
 date: 2026-05-03T19:13:15.185Z
-modified_date: 2026-07-29T13:57:36.526Z
+modified_date: 2026-08-22T12:26:48.960Z
 tags: ["gamestop","mergers","ebay","tech-industry","m-a"]
 hero_image: "/hero/2026-05-03-gamestop-mergers-signal-tech-industry-shifts-20ed7e.jpg"
 hero_image_credit_name: "SiljeAO -"
 hero_image_credit_url: "https://www.pexels.com/@siljeao-264851155"
 visual_keyword: "contrast between a retro video game store and a modern e-commerce website"
 description: "GameStop reportedly seeks eBay as tech giants scramble for scale"
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ For investors, the key question remains: in a market where every tech stock is e
 
 ## Updates
 
+- **2026-08-22** — Canada suspends trade negotiations with USA and match tariffs dollar for dollar ([source](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations))
 - **2026-07-29** — Online scams cost Americans almost $150B last year – 7x more than reported ([source](https://9to5mac.com/2026/07/29/online-scams-cost-americans-almost-150b-last-year-7x-more-than-reported/))
 - **2026-05-12** — eBay rejects GameStop’s $56 billion acquisition bid ([source](https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid))
