@@ -1,15 +1,17 @@
 ---
 title: "Fake Reviews Inflate Amazon Tech Products"
 date: 2026-05-03T13:22:13.317Z
+modified_date: 2026-08-23T20:15:26.334Z
 tags: ["Fake Reviews","Amazon","E-commerce"]
 hero_image: "/hero/2026-05-03-fake-reviews-inflate-amazon-tech-products-c6b729.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Amazon Reviews"
 description: "Lesser-known brands use fake reviews to boost sales"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Fake Reviews Inflate Sales
 Amazon tech products from unknown brands are being artificially inflated with fake reviews, a Which? investigation found. The group discovered hundreds of tech products with top reviews, largely from unverified purchasers, on popular accessories like smartwatches and headphones.
@@ -51,3 +53,7 @@ The regulatory environment for e-commerce platforms is evolving, with many count
 
 ## Future Developments
 To combat fake reviews, Amazon and other e-commerce platforms may need to develop new technologies and strategies. For example, they could use artificial intelligence to detect fake reviews, or implement new policies to prevent companies from manipulating reviews. Consumers can also play a role by being cautious when reading reviews and reporting suspicious activity.
+
+## Updates
+
+- **2026-08-23** — Why are there so many fast charging standards, and what's the difference between them? ([source](https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/))

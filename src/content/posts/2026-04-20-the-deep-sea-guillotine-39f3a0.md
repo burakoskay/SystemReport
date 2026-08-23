@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-06-02T20:55:33.554Z
+modified_date: 2026-08-23T20:15:19.431Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 36
+sources_count: 37
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -106,6 +107,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-08-23** — GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series ([source](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games))
 - **2026-06-02** — Trump signs executive order to review AI models before they’re released ([source](https://www.theverge.com/policy/941775/trump-ai-executive-order))
 - **2026-06-02** — The screenless Camp Snap 2 is slimmer and comes with more filters ([source](https://www.theverge.com/tech/941427/camp-snap-2-digital-screenless-camera-filters-kid-lock))
 - **2026-05-29** — Rothko for your current weather conditions ([source](https://rothko.joonas.wtf/))
