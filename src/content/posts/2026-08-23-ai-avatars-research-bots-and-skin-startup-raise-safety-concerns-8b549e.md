@@ -1,15 +1,17 @@
 ---
 title: "AI avatars, research bots and skin startup raise safety concerns"
 date: 2026-08-23T04:31:43.825Z
+modified_date: 2026-08-23T22:16:05.249Z
 tags: ["ai","safety","startup","research"]
 hero_image: "/hero/2026-08-23-ai-avatars-research-bots-and-skin-startup-raise-safety-concerns-8b549e.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI avatar delivering feedback in a virtual classroom"
 description: "Harvard’s $699 bootcamp uses AI avatars, Inherent’s Faraday beats top labs at paper replication, OpenAI pushes stronger California safety law, and a skin‑AI unicorn emerges, highlighting gaps in AI containment."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 AI avatars are now grading practice pitches at Harvard’s startup bootcamp, while an AI research bot outperformed Anthropic and OpenAI in reproducing scientific papers. The moves expose a clash between rapid productization and thin safety scaffolding.
 
@@ -58,3 +60,7 @@ Skeptics note the ethical gray area of keeping human tissue alive ex‑vivo for 
 ## What to watch
 
 Track California’s response to OpenAI’s brief on SB 53. A tightened bill could set a precedent for other states. Monitor whether Inherent publishes open‑source details of Faraday’s pipeline, which would affect reproducibility standards. Watch for any formal containment protocols released by the surveyed AI labs. Finally, follow SkinAI’s clinical trial pipeline to see if the living‑tissue model scales beyond cosmetics.
+
+## Updates
+
+- **2026-08-23** — What is a VESA mount and how to know what type your TV has ([source](https://www.engadget.com/2240255/vesa-tv-mount-how-to-know-type-guide/))

@@ -1,16 +1,17 @@
 ---
 title: "Bezos, Airbnb, Jamf: Tax, Hotels, AI Leadership"
 date: 2026-05-20T18:29:07.065Z
-modified_date: 2026-07-30T21:02:23.379Z
+modified_date: 2026-08-23T22:16:10.898Z
 tags: ["taxes","airbnb","jamf","ai","leadership"]
 hero_image: "/hero/2026-05-20-bezos-airbnb-jamf-tax-hotels-ai-leadership-b3c8a0.jpg"
 hero_image_credit_name: "Harun  UZ"
 hero_image_credit_url: "https://www.pexels.com/@harunuzphotography"
 visual_keyword: "modern cityscape with hotel and AI symbols"
 description: "Bezos critiques middle‑class taxes, Airbnb adds hotels and grocery delivery, and Jamf appoints its first female CEO to steer an AI push."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Jamf's AI focus puts it in direct competition with larger device‑management ve
 
 ## Updates
 
+- **2026-08-23** — Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery] ([source](https://9to5google.com/2026/08/23/samsung-galaxy-s27-redesign-leaks/))
 - **2026-07-30** — Apple Upgrade program launches, foldable iPhone hype, Apple smart glasses release date ([source](https://9to5mac.com/2026/07/30/happy-hour-601/))
 - **2026-07-30** — Spotify for iOS adds new music feature that can improve your running game ([source](https://9to5mac.com/2026/07/30/spotify-ios-running-mode/))
 - **2026-06-03** — iOS 27 will reportedly add two major new features to Apple Wallet ([source](https://9to5mac.com/2026/06/03/ios-27-will-reportedly-add-two-major-new-features-to-apple-wallet/))

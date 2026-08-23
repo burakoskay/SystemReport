@@ -1,18 +1,20 @@
 ---
 title: "Cursor Enters India"
 date: 2026-07-28T05:17:34.033Z
+modified_date: 2026-08-23T22:16:16.481Z
 tags: ["Cursor","India","Expansion","Tech"]
 hero_image: "/hero/2026-07-28-cursor-enters-india-50bf0d.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Cursor"
 description: "Cursor expands into India with new pricing"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-28-cursor-enters-india-50bf0d.mp3"
 audio_bytes: 560110
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Cursor's India Expansion
 Cursor is expanding into India with localized pricing. The move comes ahead of a pending acquisition by SpaceX. India is now Cursor's third-largest market globally.
@@ -43,3 +45,7 @@ The Indian market is highly competitive, with many local companies offering simi
 
 ## Regulatory Environment
 The regulatory environment in India is complex and constantly evolving. Companies must be able to navigate this environment in order to succeed. Cursor will need to be able to comply with local regulations and adapt to changing regulatory conditions in order to succeed in the Indian market.
+
+## Updates
+
+- **2026-08-23** — Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air ([source](https://9to5google.com/2026/08/23/google-pixel-watch-ultra-ideas/))
