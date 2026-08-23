@@ -1,16 +1,17 @@
 ---
 title: "NY Times Sues OpenAI, Microsoft Over AI Content Theft"
 date: 2026-05-08T03:34:51.904Z
-modified_date: 2026-07-27T17:39:21.079Z
+modified_date: 2026-08-23T16:18:27.279Z
 tags: ["openai","microsoft","new york times","copyright infringement"]
 hero_image: "/hero/2026-05-08-ny-times-sues-openai-microsoft-over-ai-content-theft-7e7297.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "a newspaper with a computer screen in the background"
 description: "The New York Times is suing OpenAI and Microsoft for allegedly copying and using millions of its articles to train their AI models without permission."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -70,4 +71,5 @@ The reader should track the decision on this case, as well as any potential appe
 
 ## Updates
 
+- **2026-08-23** — Wi-Fi 6 vs Wi-Fi 7: What's the difference wnd which is better for home internet? ([source](https://www.engadget.com/2240148/wi-fi-6-vs-wi-fi-7-whats-the-difference-and-which-is-better-for-home-internet/))
 - **2026-07-27** — Why China is giving away its best AI models ([source](https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies))

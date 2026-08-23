@@ -1,15 +1,17 @@
 ---
 title: "Uber and Pony.ai Expand to Europe with 2,000 Robotaxis"
 date: 2026-08-14T12:54:18.971Z
+modified_date: 2026-08-23T16:18:21.224Z
 tags: ["autonomous vehicles","Uber","Pony.ai","Europe"]
 hero_image: "/hero/2026-08-14-uber-and-pony-ai-expand-to-europe-with-2-000-robotaxis-6ad81c.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxis"
 description: "Uber and Pony.ai launch 2,000 robotaxis in Europe"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Uber and Pony.ai are expanding their partnership to bring 2,000 robotaxis to Europe, building on their initial market in Zagreb, Croatia. This move marks a significant step in the companies' efforts to establish a strong presence in the European autonomous vehicle market.
@@ -27,3 +29,7 @@ The expansion of Uber and Pony.ai's robotaxis to Europe is likely to have far-re
 The regulatory environment for autonomous vehicles in Europe is complex and varies by country. Uber and Pony.ai will need to navigate these regulations and work with local authorities to ensure compliance and public safety. The success of their robotaxis will depend on their ability to adapt to these regulatory requirements and build trust with local communities.
 ## Market Potential
 The potential market for autonomous vehicles in Europe is significant, with millions of people relying on transportation services every day. Uber and Pony.ai's expansion into this market could capture a substantial share of this demand, particularly if their robotaxis can demonstrate safety, efficiency, and reliability. The companies' ability to scale their operations and expand their services to meet this demand will be critical to their success in the European market.
+
+## Updates
+
+- **2026-08-23** — Is it legal to train AI models on copyrighted books? It’s complicated ([source](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/))
