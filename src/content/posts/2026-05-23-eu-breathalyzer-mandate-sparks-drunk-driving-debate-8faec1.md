@@ -1,16 +1,17 @@
 ---
 title: "EU Breathalyzer Mandate Sparks Drunk-Driving Debate"
 date: 2026-05-23T13:50:40.659Z
-modified_date: 2026-05-26T15:50:16.168Z
+modified_date: 2026-08-23T14:17:59.951Z
 tags: ["EU","breathalyzer","drunk-driving","road safety"]
 hero_image: "/hero/2026-05-23-eu-breathalyzer-mandate-sparks-drunk-driving-debate-8faec1.jpg"
 hero_image_credit_name: "Łukasz Promiler"
 hero_image_credit_url: "https://www.pexels.com/@lukasz-promiler-2150473657"
 visual_keyword: "breathalyzer"
 description: "The EU aims to eliminate drunk-driving deaths by 2050 with a new breathalyzer mandate. But will it work?"
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 # EU Breathalyzer Mandate Sparks Drunk-Driving Debate
@@ -77,4 +78,5 @@ The EU's breathalyzer mandate is a significant step towards reducing drunk-drivi
 
 ## Updates
 
+- **2026-08-23** — Grand Theft Auto VI exists in its own universe ([source](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe))
 - **2026-05-26** — The US Can Put People on the Moon. Why Can’t It Get Iranians Online? ([source](https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/))
