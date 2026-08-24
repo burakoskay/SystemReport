@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-08-20T10:23:02.490Z
+modified_date: 2026-08-24T14:36:24.466Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-08-24** — Apple’s four-pack of second-gen AirTags is $20 off ([source](https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale))
 - **2026-08-20** — Don't Paste the AI, please ([source](https://dontpastetheai.com/))
 - **2026-08-19** — Amazon seemingly leaked Jason Statham’s entire Mutiny movie ([source](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak))
 - **2026-08-13** — You can now watch classic movies like The Martian, E.T. and Zodiac on Apple TV ([source](https://www.engadget.com/2236063/apple-tv-adds-classic-movie-selection/))

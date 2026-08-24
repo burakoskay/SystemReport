@@ -1,16 +1,17 @@
 ---
 title: "Hormuz Crisis Drives Up Container Shipping Rates Sharply"
 date: 2026-05-30T23:06:48.825Z
-modified_date: 2026-06-02T20:55:15.573Z
+modified_date: 2026-08-24T14:36:39.624Z
 tags: ["Hormuz Strait","Container Shipping","Global Trade"]
 hero_image: "/hero/2026-05-30-hormuz-crisis-drives-up-container-shipping-rates-sharply-4074ae.jpg"
 hero_image_credit_name: "Wolfgang Weiser"
 hero_image_credit_url: "https://www.pexels.com/@wolfgang-weiser-467045605"
 visual_keyword: "container ships"
 description: "Tensions in the Hormuz Strait lead to significant increase in container shipping rates."
-sources_count: 2
+sources_count: 3
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In conclusion, the crisis in the Hormuz Strait has significant implications for 
 
 ## Updates
 
+- **2026-08-24** — The best way to test your Dolby Atmos sound system ([source](https://www.engadget.com/2240264/best-way-test-dolby-atmos-sound/))
 - **2026-06-02** — Cyberdecks are having a moment, rejecting big tech surveillance with style and substance ([source](https://techcrunch.com/2026/06/02/cyberdeck-tiktok-trend-reject-big-tech/))

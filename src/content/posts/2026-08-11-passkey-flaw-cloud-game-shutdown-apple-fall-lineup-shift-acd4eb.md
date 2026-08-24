@@ -1,15 +1,17 @@
 ---
 title: "Passkey Flaw, Cloud Game Shutdown, Apple Fall Lineup Shift"
 date: 2026-08-11T15:07:15.626Z
+modified_date: 2026-08-24T14:36:34.574Z
 tags: ["security","gaming","apple","digital-ownership","passkeys"]
 hero_image: "/hero/2026-08-11-passkey-flaw-cloud-game-shutdown-apple-fall-lineup-shift-acd4eb.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "abstract digital lock cracking on Windows screen"
 description: "A new Pass‑ta‑key attack exposes Windows passkey gaps, Cold Iron Studios ends a $60 cloud game without refunds, and Apple rolls out a fall thriller and new puzzlers."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 A Pass‑ta‑key attack has exposed inconsistencies in Windows passkey handling, while Cold Iron Studios pulled a $60 cloud‑based game without refunds, and Apple announced a fall thriller and new puzzle titles for its subscription services. The three moves highlight how security, ownership and content strategy intersect in today’s platform economy.
 
@@ -40,3 +42,7 @@ The addition arrives as puzzle games experience a resurgence on mobile devices, 
 ## What to Watch
 
 Watch how Microsoft responds to the Pass‑ta‑key disclosure; a patch or mitigation plan will set a benchmark for OS‑level passkey security. Track Cold Iron Studios’ next move—whether the studio will offer a refund window or shift to a purely local‑only model could influence future cloud‑gaming contracts. Monitor Apple TV’s subscriber metrics after "Last Seen" premieres; early viewership will indicate whether the thriller can anchor the fall slate. Finally, keep an eye on Apple Arcade’s September launch numbers; strong uptake of the new puzzles may prompt the platform to double down on classic indie acquisitions for the next quarter.
+
+## Updates
+
+- **2026-08-24** — The biggest downsides to using a digital car key ([source](https://www.engadget.com/2240284/biggest-downsides-using-digital-car-key/))

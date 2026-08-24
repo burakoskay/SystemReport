@@ -1,15 +1,17 @@
 ---
 title: "Google and Qualcomm Team Up for 8 Years of Android Updates"
 date: 2026-05-12T03:43:29.412Z
+modified_date: 2026-08-24T14:36:14.092Z
 tags: ["Android","Google","Qualcomm"]
 hero_image: "/hero/2026-05-12-google-and-qualcomm-team-up-for-8-years-of-android-updates-5be3c7.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Android"
 description: "Google and Qualcomm partner to support 4 Android versions, extending software updates on Android devices to 8 years."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 ## Google and Qualcomm's Big Push for Android Updates
@@ -68,3 +70,6 @@ As the Android ecosystem continues to evolve, device manufacturers will need to 
 
 The collaboration between Google and Qualcomm is a welcome development for the Android ecosystem. By extending software updates to 8 years, this partnership aims to provide a more secure and long-lasting Android experience for users. As the industry continues to shift, one thing is clear: the future of Android devices looks brighter than ever.
 
+## Updates
+
+- **2026-08-24** — Hugging Face reportedly in talks to be acquired for $13B ([source](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/))
