@@ -1,19 +1,20 @@
 ---
 title: "Google's Pixel 10 Update Locks Down Android Versions"
 date: 2026-05-06T03:39:59.472Z
-modified_date: 2026-08-14T10:54:13.120Z
+modified_date: 2026-08-24T18:32:21.826Z
 tags: ["Google","Pixel 10","Android","Security"]
 hero_image: "/hero/2026-05-06-google-s-pixel-10-update-locks-down-android-versions-f80d3a.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Pixel 10"
 description: "Google's May 2026 update for Pixel 10 series devices introduces an anti-rollback measure, preventing installation of older Android versions. This move enhances security but limits user control."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-06-google-s-pixel-10-update-locks-down-android-versions-f80d3a.mp3"
 audio_bytes: 599189
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The anti-rollback measure on Pixel devices is a significant change that reflects
 
 ## Updates
 
+- **2026-08-24** — Apple releases beta 7 for iPadOS 27, watchOS 27, and more ([source](https://9to5mac.com/2026/08/24/apple-releases-beta-7-for-ipados-27-tvos-27-and-more/))
 - **2026-08-14** — US conducted mass spying campaign against leftwing and anti-ICE protesters ([source](https://www.theguardian.com/us-news/2026/aug/13/us-government-spied-anti-ice-protesters))
 - **2026-08-06** — Apple increases trade-in offers and adds new Android devices ([source](https://www.theverge.com/tech/976210/apple-trade-in-values-increased))
 - **2026-05-28** — Apple releases public beta for iPadOS 26.6, tvOS 26.6, and watchOS 26.6 ([source](https://9to5mac.com/2026/05/28/apple-releases-public-beta-for-ipados-26-6-tvos-26-6-and-watchos-26-6/))

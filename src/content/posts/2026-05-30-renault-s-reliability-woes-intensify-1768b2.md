@@ -1,19 +1,20 @@
 ---
 title: "Renault's reliability woes intensify"
 date: 2026-05-30T06:52:04.418Z
-modified_date: 2026-07-26T17:12:21.899Z
+modified_date: 2026-08-24T18:31:49.927Z
 tags: ["F1","Renault","Reliability"]
 hero_image: "/hero/2026-05-30-renault-s-reliability-woes-intensify-1768b2.jpg"
 hero_image_credit_name: "Adrien  Gambet"
 hero_image_credit_url: "https://www.pexels.com/@adrien-gambet-537682496"
 visual_keyword: "Renault F1 engine"
 description: "Renault's 2019 F1 season marred by power unit and software issues"
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-30-renault-s-reliability-woes-intensify-1768b2.mp3"
 audio_bytes: 591039
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,4 +60,5 @@ Renault's reliability woes have significant implications for the team and the sp
 
 ## Updates
 
+- **2026-08-24** — Robotaxis are real now — so is the pushback ([source](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa))
 - **2026-07-26** — Galaxy S27 series leaks with iPhone-like lineup, new cameras, silicon-carbon batteries ([source](https://9to5google.com/2026/07/24/samsung-galaxy-s27-cameras-models-silicon-carbon-battery-leaks/))

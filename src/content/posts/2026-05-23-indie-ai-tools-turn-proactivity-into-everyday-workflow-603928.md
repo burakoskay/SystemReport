@@ -1,19 +1,20 @@
 ---
 title: "Indie AI tools turn proactivity into everyday workflow"
 date: 2026-05-23T22:59:34.943Z
-modified_date: 2026-05-29T23:18:26.072Z
+modified_date: 2026-08-24T18:32:27.217Z
 tags: ["ai","indie apps","productivity"]
 hero_image: "/hero/2026-05-23-indie-ai-tools-turn-proactivity-into-everyday-workflow-603928.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "a collage of AI-powered smartphone apps on a sleek interface"
 description: "Four new indie AI services—assistant Poppy, audio converter SongShift, image enhancer SupaRes, and moderation HippoMod—show how niche apps are reshaping daily tech work."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-23-indie-ai-tools-turn-proactivity-into-everyday-workflow-603928.mp3"
 audio_bytes: 613818
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Indie AI tools are moving from novelty to workflow staples, with four recent launches showing how assistants, audio, image, and moderation services are becoming proactive, production‑ready alternatives to big‑tech offerings.
@@ -50,4 +51,5 @@ All four tools illustrate a shift toward AI that acts before a user asks, rather
 
 ## Updates
 
+- **2026-08-24** — CDPR is aiming to release The Witcher 4 in 2028 ([source](https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/))
 - **2026-05-29** — Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors ([source](https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser))

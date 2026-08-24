@@ -28,11 +28,11 @@
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 3,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (c6d57892-8a11-4ea3-a29a-bc7a0120750d)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-08-24T16:29:43.784Z",
+    "consecutive_failures": 4,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (83ec0772-288a-4c26-b4bd-aa32863f77b5)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-08-24T18:32:38.538Z",
     "last_success": "2026-08-24T14:48:25.092Z",
-    "cooldown_until": "2026-08-24T16:39:43.546Z"
+    "cooldown_until": "2026-08-24T18:42:38.295Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

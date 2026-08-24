@@ -1,19 +1,20 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
-modified_date: 2026-06-03T17:00:08.467Z
+modified_date: 2026-08-24T18:32:11.279Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The success of Bumble's overhaul will depend on its ability to attract and retai
 
 ## Updates
 
+- **2026-08-24** — iPhone 18 Pro’s new price might be better than expected ([source](https://9to5mac.com/2026/08/24/iphone-18-pros-new-price-might-be-better-than-expected/))
 - **2026-06-03** — New Apple TV thriller sounds like the first must-watch of summer, reviews here ([source](https://9to5mac.com/2026/06/03/new-apple-tv-thriller-sounds-like-the-first-must-watch-of-summer-reviews-here/))
 - **2026-06-01** — Sony’s new fight stick and gaming monitor launch in August ([source](https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price))
 - **2026-05-27** — The new Halide camera app launches with film looks and an upgraded photo editor ([source](https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available))
