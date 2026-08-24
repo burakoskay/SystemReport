@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Spotlight on YC Scandals and User Projects"
 date: 2026-05-11T07:54:56.811Z
-modified_date: 2026-08-15T16:17:47.652Z
+modified_date: 2026-08-24T22:20:08.478Z
 tags: ["YC","Hacker News","startup ecosystem"]
 hero_image: "/hero/2026-05-11-hacker-news-spotlight-on-yc-scandals-and-user-projects-c235e4.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "YC scandals and Hacker News users' projects discussed. What's new in tech?"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The response of YC and other stakeholders will be crucial in shaping the future 
 
 ## Updates
 
+- **2026-08-24** — The cat-and-mouse game over 3D-printed guns has begun ([source](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul))
 - **2026-08-15** — Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals ([source](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview))
 - **2026-05-31** — Jef Raskin, the Visionary Behind the Mac (2013) ([source](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/))
 - **2026-05-22** — HomeKit Weekly: Why the Aqara G5 Pro remains one of the best outdoor HomeKit cameras ([source](https://9to5mac.com/2026/05/22/why-the-aqara-g5-pro-remains-one-of-the-best-outdoor-homekit-camera-in-2026/))
