@@ -1,19 +1,20 @@
 ---
 title: "A Visualization Tool for Neural Networks"
 date: 2026-04-28T14:31:28.953Z
-modified_date: 2026-05-27T15:56:18.151Z
+modified_date: 2026-08-24T16:28:47.988Z
 tags: ["AI","Neural Networks","Visualization","Machine Learning","Artificial Intelligence"]
 hero_image: "/hero/2026-04-28-a-visualization-tool-for-neural-networks-06fce9.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Neural Network"
 description: "A developer shares an interactive visualization to help understand how neural networks work."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-28-a-visualization-tool-for-neural-networks-06fce9.mp3"
 audio_bytes: 580381
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Neural Network Visualization Tool
@@ -63,4 +64,5 @@ The future of neural networks and artificial intelligence is uncertain. As more 
 
 ## Updates
 
+- **2026-08-24** — The Witcher 4 developers target a 2028 release ([source](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom))
 - **2026-05-27** — The Osprey Farpoint 40 Has Been My Go-To Travel Bag for 8 Years ([source](https://www.wired.com/story/osprey-farpoint-40-rave/))

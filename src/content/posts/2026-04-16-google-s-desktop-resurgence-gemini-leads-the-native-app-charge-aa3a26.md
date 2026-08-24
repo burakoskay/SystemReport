@@ -1,16 +1,18 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-06-03T21:21:18.399Z
+modified_date: 2026-08-24T16:29:37.369Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 14
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -34,6 +36,8 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-08-24** — ESPN streaming prices are going up, including Disney+ and Hulu bundles ([source](https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/))
+- **2026-08-24** — ESPN streaming plans are getting more expensive ([source](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase))
 - **2026-06-03** — A British MP is suing to see if xAI is legally responsible for the images Grok produces ([source](https://www.engadget.com/2186883/british-mp-is-suing-to-see-if-xai-is-legally-responsible-for-the-images-grok-produces/))
 - **2026-05-21** — SpaceX Is Spending $2.8 Billion to Buy Gas Turbines for Its AI Data Centers ([source](https://www.wired.com/story/elon-musk-spacex-spending-gas-turbines-grok/))
 - **2026-05-07** — Valve is fighting Steam Controller scalpers with a new reservations system ([source](https://www.theverge.com/games/926286/valve-steam-controller-reservations-queue-scalpers))
