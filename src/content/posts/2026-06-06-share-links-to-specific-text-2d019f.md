@@ -1,19 +1,20 @@
 ---
 title: "Share Links to Specific Text"
 date: 2026-06-06T10:10:26.850Z
-modified_date: 2026-08-22T22:16:32.712Z
+modified_date: 2026-08-24T12:36:21.759Z
 tags: ["text sharing","browser functionality","information sharing"]
 hero_image: "/hero/2026-06-06-share-links-to-specific-text-2d019f.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "browser"
 description: "Modern browsers enable link sharing to specific text phrases"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-06-share-links-to-specific-text-2d019f.mp3"
 audio_bytes: 591457
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ The ability to share links to specific text phrases is part of a broader trend t
 
 ## Updates
 
+- **2026-08-24** — The Kindle Accessories I Never Want to Read Without (2026) ([source](https://www.wired.com/story/best-kindle-accessories/))
 - **2026-08-22** — New MCP Roadmap ([source](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/))
 - **2026-07-27** — Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX ([source](https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/))

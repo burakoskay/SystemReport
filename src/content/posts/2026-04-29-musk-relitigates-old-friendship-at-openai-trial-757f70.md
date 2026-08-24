@@ -1,16 +1,17 @@
 ---
 title: "Musk Relitigates Old Friendship at OpenAI Trial"
 date: 2026-04-29T03:45:29.981Z
-modified_date: 2026-07-27T22:56:33.874Z
+modified_date: 2026-08-24T12:36:28.060Z
 tags: ["OpenAI","Elon Musk","AI development","Regulatory implications","AI industry"]
 hero_image: "/hero/2026-04-29-musk-relitigates-old-friendship-at-openai-trial-757f70.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Artificial Intelligence, AI"
 description: "Elon Musk testified at his OpenAI trial, relitigating an old friendship. The trial marks a new chapter in the ongoing saga of Musk's relationship with OpenAI."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -66,5 +67,6 @@ As AI systems become increasingly powerful, the stakes are higher than ever.
 
 ## Updates
 
+- **2026-08-24** — The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation ([source](https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/))
 - **2026-07-27** — X Money is launching in the US starting today ([source](https://www.theverge.com/tech/971649/x-money-launch-elon-musk))
 - **2026-05-12** — Sam Altman says Elon Musk’s mind games were damaging OpenAI ([source](https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage))

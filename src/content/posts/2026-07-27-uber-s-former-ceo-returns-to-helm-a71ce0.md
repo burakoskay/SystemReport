@@ -1,18 +1,20 @@
 ---
 title: "Uber's Former CEO Returns to Helm"
 date: 2026-07-27T06:59:43.159Z
+modified_date: 2026-08-24T12:36:34.333Z
 tags: ["Uber","AI","Transportation"]
 hero_image: "/hero/2026-07-27-uber-s-former-ceo-returns-to-helm-a71ce0.jpg"
 hero_image_credit_name: "Silvere Meya"
 hero_image_credit_url: "https://www.pexels.com/@silveremeya"
 visual_keyword: "Autonomous Vehicles"
 description: "Uber's former CEO is back"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-27-uber-s-former-ceo-returns-to-helm-a71ce0.mp3"
 audio_bytes: 610683
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Uber's New Bet
 Uber bets on its former CEO, a move that impacts the company.
@@ -64,3 +66,7 @@ This could involve partnering with other companies or investing in research and 
 The future of transportation is likely to be shaped by AI and other emerging technologies.
 Companies like Uber will need to stay ahead of the curve in order to remain competitive.
 This could involve investing in new technologies, such as autonomous vehicles, or expanding into new markets.
+
+## Updates
+
+- **2026-08-24** — iOS 27 fixes three of the most annoying Messages bugs ([source](https://9to5mac.com/2026/08/24/ios-27-fixes-three-of-the-most-annoying-messages-bugs/))
