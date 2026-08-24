@@ -1,16 +1,17 @@
 ---
 title: "Theragun, Columbia, and Sony Discounts: Promo Codes and Deals"
 date: 2026-05-02T09:15:58.674Z
-modified_date: 2026-08-13T22:35:45.064Z
+modified_date: 2026-08-24T02:58:14.412Z
 tags: ["Theragun","Columbia","Sony","Promo Codes"]
 hero_image: "/hero/2026-05-02-theragun-columbia-and-sony-discounts-promo-codes-and-deals-38e274.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Save on science-backed devices, outdoor gear, and electronics with Theragun, Columbia, and Sony promo codes"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In conclusion, the promo codes and discounts offered by Theragun, Columbia, and 
 
 ## Updates
 
+- **2026-08-24** — These are the best MacBook deals right now: August 2026 Buyer’s Guide ([source](https://9to5mac.com/2026/08/23/best-apple-macbook-deals-right-now-august/))
 - **2026-08-13** — The fight over Flock and other ALPRs ([source](https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy))
