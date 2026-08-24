@@ -1,16 +1,17 @@
 ---
 title: "Companies Use Unrelated Press Releases to Distract from Bad News"
 date: 2026-05-02T09:18:51.381Z
-modified_date: 2026-07-29T10:34:30.061Z
+modified_date: 2026-08-24T10:31:44.251Z
 tags: ["SEC","8-K filings","investor relations"]
 hero_image: "/hero/2026-05-02-companies-use-unrelated-press-releases-to-distract-from-bad-news-e1c954.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "press release"
 description: "A study finds that companies strategically issue unrelated press releases on the same day they file negative news with the SEC via Form 8-K."
-sources_count: 16
+sources_count: 17
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -84,6 +85,7 @@ In conclusion, the study provides new insights into the use of unrelated press r
 
 ## Updates
 
+- **2026-08-24** — The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame ([source](https://www.wired.com/story/best-multi-use-air-purifiers/))
 - **2026-07-29** — Pacing the frontier ([source](https://www.pacingthefrontier.com/))
 - **2026-07-28** — Show HN: FeyNoBg – Automatic background removal model and training library ([source](https://usefeyn.com/blog/feynobg/))
 - **2026-07-27** — OnePlus 16 sounds great; too bad you won’t be able to buy it ([source](https://9to5google.com/2026/07/27/oneplus-16-sounds-great-too-bad-you-wont-be-able-to-buy-it/))

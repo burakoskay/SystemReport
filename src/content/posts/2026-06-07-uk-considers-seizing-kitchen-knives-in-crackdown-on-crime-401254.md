@@ -1,19 +1,20 @@
 ---
 title: "UK Considers Seizing Kitchen Knives in Crackdown on Crime"
 date: 2026-06-07T14:05:26.805Z
-modified_date: 2026-08-19T12:35:15.528Z
+modified_date: 2026-08-24T10:31:50.469Z
 tags: ["UK","knife crime","crime prevention"]
 hero_image: "/hero/2026-06-07-uk-considers-seizing-kitchen-knives-in-crackdown-on-crime-401254.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "kitchen knife"
 description: "The UK government is exploring measures to seize kitchen knives from suspected criminals and is considering dulling knife points to curb violence."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-07-uk-considers-seizing-kitchen-knives-in-crackdown-on-crime-401254.mp3"
 audio_bytes: 573276
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ Ultimately, the success of the government's plans will depend on careful conside
 
 ## Updates
 
+- **2026-08-24** — NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe ([source](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/))
 - **2026-08-19** — NASA images show crater on the moon caused by SpaceX Falcon 9 crash ([source](https://www.engadget.com/2239823/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/))

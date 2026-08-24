@@ -1,18 +1,20 @@
 ---
 title: "Chinese AI Model Outperforms Rivals in Coding Challenge"
 date: 2026-05-03T06:32:25.344Z
+modified_date: 2026-08-24T10:31:56.665Z
 tags: ["AI","Chinese AI","Kimi K2.6"]
 hero_image: "/hero/2026-05-03-chinese-ai-model-outperforms-rivals-in-coding-challenge-d6eabc.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Kimi K2.6 beats Claude, GPT-5.5, and Gemini in programming test"
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-05-03-chinese-ai-model-outperforms-rivals-in-coding-challenge-d6eabc.mp3"
 audio_bytes: 614236
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Kimi K2.6 Takes Top Spot in Coding Challenge
@@ -83,3 +85,6 @@ As AI models like Kimi K2.6 continue to improve, we can expect to see more wides
 
 The next step for Kimi K2.6 and other AI models will be to continue to demonstrate their capabilities in real-world settings. As AI continues to evolve and improve, we can expect to see more significant advancements in these areas.
 
+## Updates
+
+- **2026-08-24** — Humanoid robots smash Usain Bolt&#8217;s 100-meter record ([source](https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026))
