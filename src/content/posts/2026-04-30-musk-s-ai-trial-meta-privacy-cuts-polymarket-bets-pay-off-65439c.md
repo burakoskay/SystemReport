@@ -1,16 +1,17 @@
 ---
 title: "Musk's AI Trial, Meta Privacy Cuts, Polymarket Bets Pay Off"
 date: 2026-04-30T23:02:48.544Z
-modified_date: 2026-08-18T22:17:44.274Z
+modified_date: 2026-08-24T20:22:59.773Z
 tags: ["elon musk","openai trial","meta contractors","polymarket bets","privacy concerns"]
 hero_image: "/hero/2026-04-30-musk-s-ai-trial-meta-privacy-cuts-polymarket-bets-pay-off-65439c.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "elon musk in courtroom with meta and polymarket logos in background"
 description: "Elon Musk's OpenAI trial, Meta's contractor cuts over privacy, and Polymarket's successful military action bets highlight ongoing tech controversies."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ The OpenAI trial verdict is scheduled for July 15. A ruling against OpenAI could
 
 ## Updates
 
+- **2026-08-24** — How Europe is killing makers and micro-entrepreneurs ([source](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs))
 - **2026-08-18** — Apple Wallet driver’s licenses coming to these states next ([source](https://9to5mac.com/2026/08/18/apple-wallet-drivers-licenses-states-coming-soon/))
 - **2026-06-02** — iPhone Ultra might have tech innovation over 15 years in the making ([source](https://9to5mac.com/2026/06/02/iphone-ultra-might-have-tech-innovation-over-15-years-in-the-making/))

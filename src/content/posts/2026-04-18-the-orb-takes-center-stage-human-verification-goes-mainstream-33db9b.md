@@ -1,15 +1,17 @@
 ---
 title: "The Orb Takes Center Stage: Human Verification Goes Mainstream"
 date: 2026-04-18T01:04:45.900Z
+modified_date: 2026-08-24T20:22:53.456Z
 tags: ["human verification","ai ethics","online security"]
 hero_image: "/hero/2026-04-18-the-orb-takes-center-stage-human-verification-goes-mainstream-33db9b.jpg"
 hero_image_credit_name: "iJoxi  Studios"
 hero_image_credit_url: "https://www.pexels.com/@ijoxi-studios-274852259"
 visual_keyword: "glowing blue orb"
 description: "Meet the tech proving you're human, from Tinder to Zoom meetings"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 In a bid to combat the rising tide of AI-generated imposters, Sam Altman's project World is revolutionizing the way we verify human identity online. 
       With its innovative Orb-centered approach, World is making waves in the tech industry, partnering with major players like Tinder and Zoom to bring human verification to the masses. 
@@ -19,3 +21,7 @@ In a bid to combat the rising tide of AI-generated imposters, Sam Altman's proje
       With the Orb at its core, World is poised to scale its human verification empire, bringing a new level of authenticity to the digital world. 
       As we navigate the increasingly complex landscape of online interactions, one question remains: what does it mean to be human in the digital age? 
       The answer, it seems, lies in the Orb.
+
+## Updates
+
+- **2026-08-24** — The entire city of San Francisco as a video game ([source](https://sf.thijs.gg/))

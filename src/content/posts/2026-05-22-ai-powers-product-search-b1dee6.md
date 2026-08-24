@@ -1,15 +1,17 @@
 ---
 title: "AI Powers Product Search"
 date: 2026-05-22T23:06:58.182Z
+modified_date: 2026-08-24T20:23:24.771Z
 tags: ["AI-powered product search","Lumigo","PerfectRec","e-commerce"]
 hero_image: "/hero/2026-05-22-ai-powers-product-search-b1dee6.jpg"
 hero_image_credit_name: "Caio"
 hero_image_credit_url: "https://www.pexels.com/@caio"
 visual_keyword: "AI-powered product search engine"
 description: "New AI-powered product search engines emerge, changing how we discover products. Lumigo and PerfectRec lead the way."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to AI-Powered Search
@@ -48,3 +50,6 @@ The impact of AI-powered product search engines will also be felt in the broader
 
 In the end, the success of AI-powered product search engines will depend on their ability to provide accurate and reliable recommendations, while also addressing the concerns around transparency and trust. By working towards these goals, we can ensure that these engines are used in a way that benefits both consumers and companies, and that they continue to drive innovation and growth in the e-commerce industry.
 
+## Updates
+
+- **2026-08-24** — The only GameCube that could play CDs and DVDs is rarely found below $1,000 today ([source](https://www.engadget.com/2241156/only-gamecube-could-play-cds-dvds-rarely-found-below-1000-dollars-panasonic-q/))

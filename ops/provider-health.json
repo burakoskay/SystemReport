@@ -7,11 +7,10 @@
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-24T14:59:15.623Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-08-24T20:25:29.797Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5153, Requested 3251. Please try again in 3.03s. Need more tokens? Upgrade to Dev Tier today at htt",
-    "last_failure": "2026-08-24T14:59:15.667Z",
-    "cooldown_until": "2026-08-24T15:09:15.624Z"
+    "last_failure": "2026-08-24T14:59:15.667Z"
   },
   "groq:qwen/qwen3-32b": {
     "last_success": "2026-06-07T19:41:40.806Z",
@@ -28,11 +27,10 @@
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 4,
+    "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (83ec0772-288a-4c26-b4bd-aa32863f77b5)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-08-24T18:32:38.538Z",
-    "last_success": "2026-08-24T14:48:25.092Z",
-    "cooldown_until": "2026-08-24T18:42:38.295Z"
+    "last_success": "2026-08-24T20:25:27.327Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

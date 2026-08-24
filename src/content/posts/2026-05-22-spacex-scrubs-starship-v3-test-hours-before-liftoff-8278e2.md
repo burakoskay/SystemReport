@@ -1,15 +1,17 @@
 ---
 title: "SpaceX Scrubs Starship V3 Test Hours Before Liftoff"
 date: 2026-05-22T04:04:57.096Z
+modified_date: 2026-08-24T20:23:18.500Z
 tags: ["SpaceX","Starship V3","Space Exploration"]
 hero_image: "/hero/2026-05-22-spacex-scrubs-starship-v3-test-hours-before-liftoff-8278e2.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX Starship V3"
 description: "SpaceX halted the first Starship V3 launch on May 21"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Starship V3 Scrubbed Due to Technical Issue
 SpaceX called off the first flight of its Starship Version 3 on Thursday, May 21, just moments after fueling the vehicle. The launch team announced a technical issue at the last second and shifted the window to Friday evening, May 22, at 6:30 p.m. EDT.
@@ -33,3 +35,7 @@ The Starship program is subject to various regulatory requirements, including th
 The success of the Starship program could have a significant impact on the space industry, with potential applications in satellite launches, space tourism, and deep space exploration. The program could also drive innovation and investment in the industry, leading to the development of new technologies and products.
 ## International Cooperation
 The Starship program has the potential to facilitate international cooperation in space exploration, with SpaceX working with partners from around the world to develop and launch the vehicle. The program could also provide opportunities for international collaboration on space-related projects, including joint missions to the moon and Mars.
+
+## Updates
+
+- **2026-08-24** — F1 in the Netherlands: The driver you most want to beat is your teammate ([source](https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/))
