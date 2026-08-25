@@ -1,16 +1,17 @@
 ---
 title: "Tech Titans on the Brink: Quantum Computing and Hyperscale Spending"
 date: 2026-04-18T01:05:12.695Z
-modified_date: 2026-05-05T06:21:33.303Z
+modified_date: 2026-08-25T00:55:04.795Z
 tags: ["quantum computing","hyperscale","postquantum crypto"]
 hero_image: "/hero/2026-04-18-tech-titans-on-the-brink-quantum-computing-and-hyperscale-spending-11c256.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"
 description: "Big Tech's pursuit of post-quantum crypto and hyperscale infrastructure"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -23,6 +24,7 @@ The tech landscape is undergoing a seismic shift, driven by two major forces: th
 
 ## Updates
 
+- **2026-08-25** — Ads and tracking infiltrated TVs. Now they're coming for monitors. ([source](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/))
 - **2026-05-05** — Babbel Promo Code: Up to 65% Off in May 2026 ([source](https://www.wired.com/story/babbel-promo-code/))
 - **2026-04-29** — Taylor Swift deepfakes are pushing scams on TikTok ([source](https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks))
 - **2026-04-27** — The Tech Bros Are All In on Zyn ([source](https://www.wired.com/story/tech-bros-are-all-in-on-zyn/))
