@@ -1,15 +1,17 @@
 ---
 title: "Google rolls out Linux Terminal"
 date: 2026-08-25T08:55:48.989Z
+modified_date: 2026-08-25T16:31:50.347Z
 tags: ["google","pixel","android"]
 hero_image: "/hero/2026-08-25-google-rolls-out-linux-terminal-0fbbdc.jpg"
 hero_image_credit_name: "Rahul Pandit"
 hero_image_credit_url: "https://www.pexels.com/@rahulp9800"
 visual_keyword: "Pixel smartphone displaying new Clock icon beside a terminal window running Debian"
 description: "Google adds a native Linux Terminal to Pixel, refreshes Clock and Magnifier icons, but a January 2026 update breaks Wi‑Fi and Bluetooth on flagship devices."
-sources_count: 8
+sources_count: 9
 author: "david-okafor"
 ---
+
 
 ## Icon refresh rides on Pixel 11 launch
 Google refreshed the Clock app icon across all Android devices as part of the Pixel 11 rollout. The same visual overhaul touched the Pixel Magnifier app, giving both utilities a cleaner silhouette that matches the new material design language.
@@ -41,3 +43,7 @@ The Fold’s launch marks Google’s first foray into the foldable market, posit
 
 ## What to watch next
 Developers should monitor the upcoming Android 16 beta for any expansion of the Linux Terminal beyond Pixel hardware; broader availability could reshape mobile development workflows. Pixel owners must keep an eye on Google’s patch cadence for the January 2026 radio bug, especially any OTA that restores Wi‑Fi and Bluetooth without a manual sideload. Finally, the market’s response to the Pixel Fold’s pricing and carrier support will indicate whether Google can sustain a premium foldable line or will need to adjust its strategy.
+
+## Updates
+
+- **2026-08-25** — Apple releases new Magic Keyboards with one notable change ([source](https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/))

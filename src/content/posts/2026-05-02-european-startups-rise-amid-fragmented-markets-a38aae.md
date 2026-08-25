@@ -1,16 +1,17 @@
 ---
 title: "European Startups Rise Amid Fragmented Markets"
 date: 2026-05-02T14:57:52.561Z
-modified_date: 2026-06-07T19:40:26.375Z
+modified_date: 2026-08-25T16:31:13.895Z
 tags: ["european startups","tech ecosystem","venture capital","digital markets act"]
 hero_image: "/hero/2026-05-02-european-startups-rise-amid-fragmented-markets-a38aae.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "european startup workspace with laptops, coffee cups, and whiteboard sketches"
 description: "European startups are gaining traction despite higher sales costs and fragmented markets, with regions like Slovakia and the Nordics leading the charge."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ The coming months will test Europe’s startup resilience. In Q3, the EU’s Dig
 
 ## Updates
 
+- **2026-08-25** — Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power ([source](https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/))
 - **2026-06-07** — Show HN: Lathe – Use LLMs to learn a new domain, not skip past it ([source](https://github.com/devenjarvis/lathe))
 - **2026-05-30** — Millions of Bees Have Thrived Under a New York Cemetery for More Than a Century ([source](https://www.wired.com/story/millions-of-bees-have-thrived-under-a-new-york-cemetery-for-more-than-a-century/))
 - **2026-05-08** — Asus chases Elgato with its own secondary touchscreen display ([source](https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display))
