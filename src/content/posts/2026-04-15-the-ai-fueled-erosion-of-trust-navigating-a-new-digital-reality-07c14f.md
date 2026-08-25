@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-08-05T22:53:23.147Z
+modified_date: 2026-08-25T12:36:22.492Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 18
+sources_count: 19
 author: "lena-volkov"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-08-25** — DuckDuckGo survey highlights how much personal information users share with AI ([source](https://9to5mac.com/2026/08/25/duckduckgo-survey-highlights-how-much-personal-information-users-share-with-ai/))
 - **2026-08-05** — X product chief Nikita Bier is leaving after one year ([source](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving))
 - **2026-08-05** — Corsair just introduced new gaming keyboards with a control dial and a mouse with great battery life ([source](https://www.engadget.com/2231021/corsair-just-introduced-new-gaming-keyboards-with-a-control-dial/))
 - **2026-07-29** — A.I. companies are recruiting electricians and carpenters by the thousands ([source](https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html))
