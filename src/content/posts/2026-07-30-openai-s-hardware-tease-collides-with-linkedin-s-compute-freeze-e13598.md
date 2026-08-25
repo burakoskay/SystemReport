@@ -1,15 +1,17 @@
 ---
 title: "OpenAI’s hardware tease collides with LinkedIn’s compute freeze"
 date: 2026-07-30T12:06:04.382Z
+modified_date: 2026-08-25T14:39:05.664Z
 tags: ["ai","hardware","security","cloud","compute"]
 hero_image: "/hero/2026-07-30-openai-s-hardware-tease-collides-with-linkedin-s-compute-freeze-e13598.jpg"
 hero_image_credit_name: "Anete Lusina"
 hero_image_credit_url: "https://www.pexels.com/@anete-lusina"
 visual_keyword: "sleek tabletop AI device resembling a HomePad with subtle lighting"
 description: "OpenAI hints at a HomePad‑like device while LinkedIn stalls data‑center growth; new research shows AI chatbots out‑trust humans, raising security stakes."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 OpenAI’s first consumer‑grade AI device will not appear until next year, and LinkedIn is already tightening its compute budget. The timing creates a clash between hardware ambition and cloud‑spending restraint, and it sharpens a security problem that recent research says AI chatbots can exploit better than people.
 
@@ -40,3 +42,7 @@ At the same time, LinkedIn’s compute restraint may limit the frequency of mode
 Watch for OpenAI’s official product announcement, which should clarify the HomePad’s processing power, OS, and pricing. The details will indicate whether the device can run full‑scale models or will rely on hybrid cloud‑edge inference. Also monitor LinkedIn’s internal GPU utilization reports; any shift toward more aggressive optimization could signal broader industry pressure on cloud spend.
 
 Finally, track follow‑up studies on AI‑driven social engineering. If additional experiments confirm that chatbots consistently out‑trust humans, regulators and security teams will likely demand new standards for consent and disclosure on edge AI devices. The next six months could define whether edge AI expands responsibly or becomes a conduit for more sophisticated scams.
+
+## Updates
+
+- **2026-08-25** — Accel-backed Keenable is indexing the web for AI agents ([source](https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/))

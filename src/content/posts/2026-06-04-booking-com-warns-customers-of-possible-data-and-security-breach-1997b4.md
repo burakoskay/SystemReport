@@ -1,18 +1,20 @@
 ---
 title: "Booking.com Warns Customers of Possible Data and Security Breach"
 date: 2026-06-04T21:49:15.027Z
+modified_date: 2026-08-25T14:38:59.398Z
 tags: ["Booking.com","Data Breach","Travel Industry","Cyber Security","Online Transactions"]
 hero_image: "/hero/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "data breach"
 description: "Booking.com has alerted some customers to a potential data breach, where unauthorized parties may have accessed personal information, including names, emails, and addresses."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.mp3"
 audio_bytes: 600443
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ### Booking.com Warns of Possible Data and Security Breach
@@ -56,3 +58,7 @@ Booking.com was founded in 1996 and has since grown to become one of the largest
 ### Conclusion
 
 The news of the potential data breach at Booking.com highlights the vulnerability of institutions to cyber attacks. The company has assured customers that financial information was not accessed from its systems, but the incident raises concerns about the security of travelers' data. To mitigate the impact of a breach, companies must prioritize the security of their customers' data and have robust measures in place to prevent breaches.
+
+## Updates
+
+- **2026-08-25** — WhatsApp tightens account security with stronger two-step verification and more ([source](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/))

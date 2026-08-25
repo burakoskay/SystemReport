@@ -1,19 +1,20 @@
 ---
 title: "Signal phishing, Pay Tel breach"
 date: 2026-05-28T20:34:13.136Z
-modified_date: 2026-06-03T21:21:07.328Z
+modified_date: 2026-08-25T14:40:02.298Z
 tags: ["data security","phishing attacks","insider trading"]
 hero_image: "/hero/2026-05-28-signal-phishing-pay-tel-breach-93fefc.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Signal users phished for backup keys, Pay Tel exposes 300k IDs, Google engineer wins $1.2M on Polymarket"
-sources_count: 7
-author: "priya-raman"
+sources_count: 8
 audio_path: "/audio/2026-05-28-signal-phishing-pay-tel-breach-93fefc.mp3"
 audio_bytes: 587068
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ The Department of Justice is expected to release a detailed indictment in the Go
 
 ## Updates
 
+- **2026-08-25** — Nintendo reveals its latest Switch 2 bundles just ahead of the console's price increase ([source](https://www.engadget.com/2243642/nintendo-reveals-its-latest-switch-2-bundles-just-ahead-of-the-consoles-price-increase/))
 - **2026-06-03** — Persona 5 Royal is one of many additions to Xbox Game Pass for June ([source](https://www.engadget.com/2187006/persona-5-royal-is-one-of-many-additions-to-xbox-game-pass-for-june/))
 - **2026-06-03** — The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain ([source](https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/))
 - **2026-06-01** — MagSafe Monday: Why the PISEN 5000mAh battery pack is great for everyday carry ([source](https://9to5mac.com/2026/06/01/magsafe-monday-why-the-pisen-5000mah-battery-pack-is-great-for-everyday-carry/))

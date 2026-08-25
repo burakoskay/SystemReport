@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-08-21T18:28:28.695Z
+modified_date: 2026-08-25T14:39:55.915Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-08-25** — Apple Mac Mini M6 and Mac Studio M5 Ultra: Specs, Price, Release Date ([source](https://www.wired.com/story/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/))
 - **2026-08-21** — iPhone 18 Pro release date: Here’s when Apple’s new flagship is coming ([source](https://9to5mac.com/2026/08/21/iphone-18-release-date-when-apples-new-model-is-coming/))
 - **2026-08-03** — Apple announces Ted Lasso look-alike contest happening in NYC ([source](https://9to5mac.com/2026/08/03/apple-announces-ted-lasso-look-alike-contest-happening-in-nyc/))
 - **2026-05-28** — Visa invests in Replit to power agentic payments for developers ([source](https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/))

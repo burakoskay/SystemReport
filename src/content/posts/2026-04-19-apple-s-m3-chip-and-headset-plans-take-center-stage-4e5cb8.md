@@ -1,16 +1,17 @@
 ---
 title: "Apple's M3 Chip and Headset Plans Take Center Stage"
 date: 2026-04-19T02:00:29.706Z
-modified_date: 2026-07-30T17:20:37.657Z
+modified_date: 2026-08-25T14:39:49.616Z
 tags: ["apple","m3 chip","mixed-reality headset","ar vr"]
 hero_image: "/hero/2026-04-19-apple-s-m3-chip-and-headset-plans-take-center-stage-4e5cb8.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple M3 chip"
 description: "Apple's latest M3 chip brings significant performance gains, while rumors of a mixed-reality headset continue to build anticipation."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ As Apple continues to push the boundaries of its technology, several key areas a
 
 ## Updates
 
+- **2026-08-25** — Apple launches new Mac Studios with its ‘most powerful chip ever’ — the M5 Ultra ([source](https://www.theverge.com/tech/984207/apple-mac-studio-m5-max-ultra-price-specs-launch))
 - **2026-07-30** — Friend re-launches its AI pendant with a speaker that talks to you, for twice the price ([source](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price))
 - **2026-07-29** — Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers ([source](https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/))
 - **2026-07-28** — Logitech will pull a Nintendo — only European mice will come with replaceable batteries ([source](https://www.theverge.com/tech/971963/logitech-user-replacable-batteries-europe))

@@ -1,15 +1,17 @@
 ---
 title: "Ramp Seeks $750M at $40B Valuation"
 date: 2026-05-08T03:31:58.129Z
+modified_date: 2026-08-25T14:40:33.822Z
 tags: ["Ramp","Funding Round","Financial Technology"]
 hero_image: "/hero/2026-05-08-ramp-seeks-750m-at-40b-valuation-0f7aa6.jpg"
 hero_image_credit_name: "Finn Kuhn"
 hero_image_credit_url: "https://www.pexels.com/@finnkuhn"
 visual_keyword: "Ramp"
 description: "Ramp in talks for new funding at $40B+ valuation"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Ramp's Funding Round
 Ramp is in talks to raise $750 million at a pre-money valuation of over $40 billion, just six months after reaching a $32 billion valuation in November.
@@ -47,3 +49,7 @@ Ramp's attempt to raise $750 million at a $40B valuation will be closely watched
 The company's ability to secure funding and execute on its plans will be key indicators of its future success.
 If successful, this funding round could provide Ramp with the capital it needs to drive further growth and expansion, potentially leading to increased competition in the financial technology sector.
 The outcome of this funding round will have significant implications for the company and the broader industry, and will be closely watched by investors and industry observers.
+
+## Updates
+
+- **2026-08-25** — Apple outlines 50 ways to make devices easier to use as we age ([source](https://9to5mac.com/2026/08/25/apple-outlines-50-ways-to-make-devices-easier-to-use-as-we-age/))
