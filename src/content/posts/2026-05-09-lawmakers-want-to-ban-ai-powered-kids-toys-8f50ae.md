@@ -1,19 +1,20 @@
 ---
 title: "Lawmakers Want to Ban AI-Powered Kids' Toys"
 date: 2026-05-09T13:28:34.301Z
-modified_date: 2026-05-26T23:14:06.333Z
+modified_date: 2026-08-25T10:25:54.410Z
 tags: ["AI","Kids' Toys","Regulation"]
 hero_image: "/hero/2026-05-09-lawmakers-want-to-ban-ai-powered-kids-toys-8f50ae.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered kids' toys"
 description: "Some lawmakers are calling for an outright ban on AI-powered kids' toys, citing concerns about children's safety and data protection."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-09-lawmakers-want-to-ban-ai-powered-kids-toys-8f50ae.mp3"
 audio_bytes: 590621
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,4 +56,5 @@ In conclusion, the development of AI-powered toys raises important questions abo
 
 ## Updates
 
+- **2026-08-25** — OpenAI subpoenaed by Alabama AG over Hugging Face hack ([source](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack))
 - **2026-05-26** — Google rolling out new settings for Search Services History & Personalized Recommendations ([source](https://9to5google.com/2026/05/26/google-search-services-history-settings/))

@@ -1,16 +1,17 @@
 ---
 title: "Human Brain Organoids Form Eyes and Power Early Wetware Computers"
 date: 2026-08-11T12:56:16.775Z
-modified_date: 2026-08-13T01:23:18.371Z
+modified_date: 2026-08-25T10:25:49.484Z
 tags: ["organoids","biocomputing","neuroscience"]
 hero_image: "/hero/2026-08-11-human-brain-organoids-form-eyes-and-power-early-wetware-computers-67ca33.jpg"
 hero_image_credit_name: "turek"
 hero_image_credit_url: "https://www.pexels.com/@turek3024"
 visual_keyword: "microscopic view of human brain organoids with tiny eye structures and electrode wires"
 description: "Lab-grown mini-brains now grow rudimentary eyes and serve as living processors, sparking technical hurdles and ethical debate."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## Mini-brains grow eyes in a dish
@@ -55,6 +56,7 @@ The next milestones will be public. Watch for a peer‑reviewed report on extend
 
 ## Updates
 
+- **2026-08-25** — Border Wall Construction Threatens 6,000 Years of History on Private Lands ([source](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/))
 - **2026-08-13** — The web’s newest weapon against AI scrapers is a font ([source](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/))
 
 [^1]: [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgisw3PP5yLnKfiaPuoPHqmkughzpiS6YLdCSfmoEFm7PUkuPLnD5m1k_8b2QAdh3hkJ7mYYkwDlTVdcqzrw5ANtdFzBxDuYzrE7-gaipJ3TJ_RjKH1aTO50aNNqjsMTljbsjG4zkXo5mVtH3mjlS6Czfzn0pv_atMvCmtYYWH5IBALDMkntnZ1ohixJwhu1UWWeNJgTfcDauSTkwl4eobKG3lEpCsT-EJ7Fiw3oB1206H6QYv0JpIaaVJl9GKyutp8ToVaWn70zgX5VJo_UA1q8l5HLo=)
