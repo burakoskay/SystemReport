@@ -1,16 +1,17 @@
 ---
 title: "82 NC Counties Declared Disaster Areas"
 date: 2026-05-10T13:42:51.288Z
-modified_date: 2026-08-05T08:26:37.959Z
+modified_date: 2026-08-25T18:31:08.222Z
 tags: ["natural disaster","drought","North Carolina"]
 hero_image: "/hero/2026-05-10-82-nc-counties-declared-disaster-areas-7b37c2.jpg"
 hero_image_credit_name: "James Frid"
 hero_image_credit_url: "https://www.pexels.com/@james-frid-81279"
 visual_keyword: "drought"
 description: "The US government designates 82 North Carolina counties as natural disaster areas due to severe drought conditions."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ As the drought continues to affect North Carolina and other parts of the country
 
 ## Updates
 
+- **2026-08-25** — Claude Cowork finally remembers what you told the app in chat ([source](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/))
 - **2026-08-05** — The AI Notetaker Has Been Invited to All the Meetings ([source](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/))
 - **2026-07-27** — Razer’s analog Huntsman V3 Pro is over 20 percent off ([source](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale))
 - **2026-07-26** — The reason why the MacBook Air doesn't need a fan ([source](https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/))

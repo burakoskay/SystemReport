@@ -1,15 +1,17 @@
 ---
 title: "Mercedes-Benz Commits to Bringing Back Physical Buttons"
 date: 2026-05-03T17:00:47.876Z
+modified_date: 2026-08-25T18:31:59.721Z
 tags: ["Mercedes-Benz","Physical Buttons","In-Car Controls"]
 hero_image: "/hero/2026-05-03-mercedes-benz-commits-to-bringing-back-physical-buttons-6ac09d.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Mercedes-Benz"
 description: "Mercedes-Benz to reintroduce physical buttons in vehicles, reversing touchscreen trend."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## A Shift in Design Philosophy
@@ -53,3 +55,7 @@ The next Mercedes-Benz models featuring the updated controls are expected to arr
 As the automotive industry continues to evolve, it is likely that we will see further innovations in in-car controls. The integration of advanced technologies like artificial intelligence and machine learning may lead to the development of more sophisticated and intuitive interfaces. However, Mercedes-Benz's decision to bring back physical buttons serves as a reminder that sometimes, the simplest solutions can be the most effective.
 
 The reintroduction of physical buttons by Mercedes-Benz is a significant development in the automotive industry. By prioritizing usability and safety, Mercedes-Benz is setting a new standard for the industry. As the industry continues to evolve, it will be interesting to see how other manufacturers respond to this shift, and what implications it has for the future of in-car controls.
+
+## Updates
+
+- **2026-08-25** — Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories ([source](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories))

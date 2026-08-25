@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: Last.fm Goes Solo, Rivian Rolls Out AI Assistant"
 date: 2026-05-28T04:04:55.504Z
+modified_date: 2026-08-25T18:31:46.736Z
 tags: ["Last.fm","Rivian","Amazon"]
 hero_image: "/hero/2026-05-28-tech-roundup-last-fm-goes-solo-rivian-rolls-out-ai-assistant-d7e1b3.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "Rivian"
 description: "Last.fm becomes independent, Rivian launches AI voice assistant, and Amazon expands delivery options."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Last.fm Breaks Free from Paramount Skydance
@@ -67,3 +69,7 @@ As the tech industry continues to evolve, several key developments are worth wat
 The competition in the e-commerce market is expected to intensify, with Amazon's expanded delivery options facing challenges from other players. Rivian's AI-powered voice assistant is likely to be a major player in the automotive industry, while Last.fm's independence will be closely watched by industry analysts.
 
 In the coming months, we can expect to see further developments from these companies, as well as other players in the industry. The tech industry is known for its rapid pace of innovation, and it will be interesting to see how these companies adapt and evolve in response to changing market conditions.
+
+## Updates
+
+- **2026-08-25** — How Xbox controllers have changed in the last 25 years ([source](https://www.engadget.com/2240787/how-xbox-controllers-changed-25-years/))

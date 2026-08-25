@@ -1,16 +1,17 @@
 ---
 title: "China Blocks Meta's $2B AI Startup Acquisition"
 date: 2026-04-27T14:06:42.659Z
-modified_date: 2026-07-30T23:00:08.555Z
+modified_date: 2026-08-25T18:32:12.682Z
 tags: ["Meta","AI","China"]
 hero_image: "/hero/2026-04-27-china-blocks-meta-s-2b-ai-startup-acquisition-ec119d.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "China has blocked Meta's $2 billion acquisition of AI startup Manus, citing laws and regulations. The move is a setback to Meta's AI ambitions and reflects growing tensions between the US and China over AI technology."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The global AI market is expected to continue growing rapidly in the coming years
 
 ## Updates
 
+- **2026-08-25** — Instagram’s ‘First Draft’ trims your Reels clips for you ([source](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels))
 - **2026-07-30** — That AI wearable you don't like just got worse ([source](https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/))
 - **2026-06-02** — Nintendo Music adds Android Auto support to bring your Mario Kart dreams to life ([source](https://9to5google.com/2026/06/02/nintendo-music-adds-android-auto-support-to-bring-your-mario-kart-dreams-to-life/))
 - **2026-05-26** — NASA&#8217;s permanent Moon base plans start with three missions this year ([source](https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates))

@@ -1,19 +1,20 @@
 ---
 title: "GitHub outage, AI fatigue and Claude code shape dev grind"
 date: 2026-05-27T16:04:24.975Z
-modified_date: 2026-07-31T16:00:09.282Z
+modified_date: 2026-08-25T18:31:33.745Z
 tags: ["github","ai","development","tooling"]
 hero_image: "/hero/2026-05-27-github-outage-ai-fatigue-and-claude-code-shape-dev-grind-6a6c01.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer workstation with code errors and AI chat overlay"
 description: "A GitHub incident, rising AI fatigue, a new cooking compression paper, and Claude's deeper code integration reveal the pressures on modern developers."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-27-github-outage-ai-fatigue-and-claude-code-shape-dev-grind-6a6c01.mp3"
 audio_bytes: 617370
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,5 +56,6 @@ The next GitHub status update will reveal whether the platform has hardened its 
 
 ## Updates
 
+- **2026-08-25** — The Nokia 300 Charge doubles as a 10W powerbank ([source](https://www.engadget.com/2243869/the-nokia-300-charge-doubles-as-a-10w-powerbank/))
 - **2026-07-31** — Just because a game is on disc doesn’t mean it will work in the future ([source](https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/))
 - **2026-07-26** — SpaceX launches new V3 Starlink satellites but suffers another booster failure ([source](https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/))

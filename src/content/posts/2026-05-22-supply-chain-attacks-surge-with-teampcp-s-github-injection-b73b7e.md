@@ -1,18 +1,20 @@
 ---
 title: "Supply chain attacks surge with TeamPCP's GitHub injection"
 date: 2026-05-22T16:32:38.446Z
+modified_date: 2026-08-25T18:31:40.287Z
 tags: ["supply chain attacks","cybersecurity","open-source software"]
 hero_image: "/hero/2026-05-22-supply-chain-attacks-surge-with-teampcp-s-github-injection-b73b7e.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "cyberdeck"
 description: "TeamPCP's supply-chain assaults and a hijacked clothing-brand site signal a widening threat surface for developers."
-sources_count: 6
-author: "priya-raman"
+sources_count: 7
 audio_path: "/audio/2026-05-22-supply-chain-attacks-surge-with-teampcp-s-github-injection-b73b7e.mp3"
 audio_bytes: 607548
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Malicious code injected into open-source projects
@@ -57,3 +59,6 @@ The podcast Smashing Security frames the problem as a mismatch between rapid too
 
 To bridge this gap, the industry needs to adopt more robust security measures, such as rigorous vetting of open-source contributions and more efficient patching processes. Additionally, developers must prioritize security and invest in tools and training to stay ahead of the threats.
 
+## Updates
+
+- **2026-08-25** — Xbox has a bunch of translucent green accessories for the console's 25th birthday ([source](https://www.engadget.com/2243848/xbox-has-a-bunch-of-translucent-green-accessories-for-the-consoles-25th-birthday/))

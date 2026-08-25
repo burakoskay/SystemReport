@@ -1,18 +1,20 @@
 ---
 title: "Samsung Mobile Division Posts First Loss"
 date: 2026-07-30T08:15:34.667Z
+modified_date: 2026-08-25T18:31:53.169Z
 tags: ["Samsung","Memory Prices","Smartphone Market"]
 hero_image: "/hero/2026-07-30-samsung-mobile-division-posts-first-loss-c84289.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Samsung Smartphone"
 description: "Samsung's smartphone arm records its first quarterly loss"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-07-30-samsung-mobile-division-posts-first-loss-c84289.mp3"
 audio_bytes: 594382
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Samsung's Mobile Division Posts First Loss
 Samsung's mobile division reported a loss, its first ever, despite solid smartphone sales. The company's earnings call attributed the loss to soaring memory component prices linked to AI-driven demand for RAM. This loss marks a significant shift in the company's financial performance, as its mobile division has historically been a profitable segment.
@@ -32,3 +34,7 @@ The memory market is complex, with multiple factors influencing prices. The grow
 The impact of the memory price surge will be felt throughout the supply chain. Competitors that rely on third-party memory suppliers will face similar cost headwinds, potentially affecting their profitability. Samsung's ability to navigate this challenging environment will be critical to its long-term success. The company must balance its own memory supply needs with the demands of its competitors, all while managing the volatility of the memory market.
 ## Future Outlook
 The future of the memory market is uncertain, with many factors influencing prices. The growth of AI applications is likely to continue, driving up demand for high-bandwidth memory. However, the development of new memory technologies, such as phase-change memory, could potentially alleviate some of the supply constraints. As the memory market continues to evolve, Samsung and other manufacturers will need to adapt to changing market conditions in order to remain competitive.
+
+## Updates
+
+- **2026-08-25** — Anthropic update unifies memory feature across Claude Cowork and chat ([source](https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/))

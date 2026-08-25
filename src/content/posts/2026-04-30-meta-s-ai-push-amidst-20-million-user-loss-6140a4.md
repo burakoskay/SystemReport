@@ -1,16 +1,17 @@
 ---
 title: "Meta's AI Push Amidst 20 Million User Loss"
 date: 2026-04-30T14:14:17.175Z
-modified_date: 2026-05-01T03:49:51.576Z
+modified_date: 2026-08-25T18:31:20.926Z
 tags: ["Meta","AI","user loss"]
 hero_image: "/hero/2026-04-30-meta-s-ai-push-amidst-20-million-user-loss-6140a4.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI"
 description: "Meta reports 10 million weekly business-AI conversations as its family of apps sheds 20 million users, raising questions about its AI spend."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -72,4 +73,5 @@ Meta's AI push is a strategic move to drive revenue growth and increase competit
 
 ## Updates
 
+- **2026-08-25** — Life360 expands pet tracking with new $8 scannable tags and zoomie alerts ([source](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/))
 - **2026-05-01** — Apple’s R&D spending hits new record as AI investment ramps up ([source](https://9to5mac.com/2026/04/30/apples-rd-spending-hits-new-record-as-ai-investment-ramps-up/))
