@@ -1,16 +1,17 @@
 ---
 title: "Drone Delivery Expands, But Questions Remain"
 date: 2026-05-10T11:06:34.649Z
-modified_date: 2026-08-19T14:28:00.109Z
+modified_date: 2026-08-25T22:21:40.180Z
 tags: ["drone delivery","walmart","amazon","wing"]
 hero_image: "/hero/2026-05-10-drone-delivery-expands-but-questions-remain-ea5368.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "drone delivery"
 description: "Walmart and Wing are bringing drone delivery to 100 new stores, while Amazon patents a beehive-like structure to house delivery drones in cities."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ The coming months will be exciting for the drone delivery industry. With Walmart
 
 ## Updates
 
+- **2026-08-25** — Here are all the Apple devices with full Wi-Fi 7 support ([source](https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/))
 - **2026-08-19** — Amazon announces huge drone delivery expansion, here’s where it’s coming next ([source](https://9to5mac.com/2026/08/19/amazon-announces-huge-drone-delivery-expansion-heres-where-its-coming-next/))
 - **2026-08-11** — Claude will apply invisible watermarks to AI text and images ([source](https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images))
 - **2026-08-10** — WhatsApp’s latest beta for iOS adds references to an in-chat search tool ([source](https://9to5mac.com/2026/08/10/whatsapps-latest-beta-for-ios-adds-references-to-an-in-chat-search-tool/))

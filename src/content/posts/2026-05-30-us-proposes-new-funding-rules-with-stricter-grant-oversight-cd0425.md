@@ -1,19 +1,20 @@
 ---
 title: "US Proposes New Funding Rules with Stricter Grant Oversight"
 date: 2026-05-30T03:53:04.386Z
-modified_date: 2026-06-02T20:55:29.123Z
+modified_date: 2026-08-25T22:21:21.453Z
 tags: ["US government","grant funding","research"]
 hero_image: "/hero/2026-05-30-us-proposes-new-funding-rules-with-stricter-grant-oversight-cd0425.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "grant funding"
 description: "The US government proposes new funding rules allowing for the cancellation of grants at any time and making peer review optional."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-30-us-proposes-new-funding-rules-with-stricter-grant-oversight-cd0425.mp3"
 audio_bytes: 550079
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ The proposed rules are a significant development in the grant-making process, an
 
 ## Updates
 
+- **2026-08-25** — At just $8, you owe it to yourself to grab Inscryption ([source](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale))
 - **2026-06-02** — I held the next-gen handheld ([source](https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview))

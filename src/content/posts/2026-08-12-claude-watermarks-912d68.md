@@ -1,15 +1,17 @@
 ---
 title: "Claude Watermarks"
 date: 2026-08-12T22:36:13.607Z
+modified_date: 2026-08-25T22:21:52.554Z
 tags: ["AI","Watermarking","Intellectual Property"]
 hero_image: "/hero/2026-08-12-claude-watermarks-912d68.jpg"
 hero_image_credit_name: "Abdul SANNI"
 hero_image_credit_url: "https://www.pexels.com/@abdul-sanni-1913416598"
 visual_keyword: "Claude"
 description: "Anthropic's new watermarking system sparks controversy"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Anthropic has introduced a new watermarking system for its Claude AI model, a move that has sparked controversy among some users. The system is designed to embed a signal into the model's output, allowing Anthropic to track the use of the model. This development highlights the tension between protecting intellectual property and allowing fair use of AI models.
@@ -31,3 +33,7 @@ The technical mechanics of the watermarking system are complex, and involve the 
 
 ## Downstream Implications
 The introduction of the watermarking system by Anthropic has significant downstream implications. The system may limit the ability of users to use the model for legitimate purposes, and may raise important questions about privacy and surveillance. The use of watermarking systems may also have implications for the future of AI, and may raise important questions about the balance between protecting intellectual property and allowing fair use. As the AI industry continues to evolve, it is likely that the use of watermarking systems will become increasingly common, and will have significant implications for users and companies alike. The downstream implications of the watermarking system will depend on various factors, including the development of new AI models and the evolving needs of users.
+
+## Updates
+
+- **2026-08-25** — A remastered The Witcher 3 will be released September 29 ([source](https://www.engadget.com/2244195/a-remastered-the-witcher-3-will-be-released-september-29/))

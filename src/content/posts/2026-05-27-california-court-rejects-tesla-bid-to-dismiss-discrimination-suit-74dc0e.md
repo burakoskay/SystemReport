@@ -1,16 +1,17 @@
 ---
 title: "California Court Rejects Tesla Bid to Dismiss Discrimination Suit"
 date: 2026-05-27T23:30:03.335Z
-modified_date: 2026-08-25T16:31:26.099Z
+modified_date: 2026-08-25T22:21:15.245Z
 tags: ["tesla","discrimination","california","lawsuit","labor"]
 hero_image: "/hero/2026-05-27-california-court-rejects-tesla-bid-to-dismiss-discrimination-suit-74dc0e.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "Tesla factory interior with protest signs against discrimination"
 description: "A California civil rights agency won its fight to keep a racial discrimination lawsuit against Tesla alive, setting a July trial date."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The July trial date marks the first major courtroom test of the California agenc
 
 ## Updates
 
+- **2026-08-25** — Trump is upping the price of Big Tech’s favorite visa ([source](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration))
 - **2026-08-25** — The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms ([source](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/))
 - **2026-08-21** — The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood ([source](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/))
 - **2026-08-05** — The world's smallest USB drive has more storage than an iPhone 17 ([source](https://www.engadget.com/2226447/worlds-smallest-usb-drive-more-storage-than-iphone-17/))

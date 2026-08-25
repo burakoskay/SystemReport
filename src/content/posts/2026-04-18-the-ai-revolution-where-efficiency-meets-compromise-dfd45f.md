@@ -1,16 +1,17 @@
 ---
 title: "The AI Revolution: Where Efficiency Meets Compromise"
 date: 2026-04-18T01:04:49.528Z
-modified_date: 2026-05-05T21:08:45.125Z
+modified_date: 2026-08-25T22:21:08.973Z
 tags: ["ai","tech","cybersecurity","design"]
 hero_image: "/hero/2026-04-18-the-ai-revolution-where-efficiency-meets-compromise-dfd45f.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotic newsroom"
 description: "AI is transforming newsrooms and tech, but at what cost?"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The rise of AI-assisted writing in newsrooms has sparked a heated debate about t
 
 ## Updates
 
+- **2026-08-25** — Garmin’s new Fenix 9 adds brighter screens and smoother map panning ([source](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch))
 - **2026-05-05** — Apple plans to make iOS 27 a Choose Your Own Adventure of AI models ([source](https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/))
 - **2026-05-01** — 50% Off Home Depot Promo Codes | May 2026 ([source](https://www.wired.com/story/home-depot-promo-code/))
 - **2026-04-24** — The Men Behind Your Favorite AI Gay Thirst Traps ([source](https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/))

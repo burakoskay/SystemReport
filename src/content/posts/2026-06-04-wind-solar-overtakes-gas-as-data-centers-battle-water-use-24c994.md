@@ -1,18 +1,20 @@
 ---
 title: "Wind‑Solar Overtakes Gas as Data Centers Battle Water Use"
 date: 2026-06-04T18:29:09.874Z
+modified_date: 2026-08-25T22:21:33.912Z
 tags: ["data centers","renewable energy","water sustainability","climate policy"]
 hero_image: "/hero/2026-06-04-wind-solar-overtakes-gas-as-data-centers-battle-water-use-24c994.jpg"
 hero_image_credit_name: "Sean P. Twomey"
 hero_image_credit_url: "https://www.pexels.com/@2mephoto"
 visual_keyword: "solar farm beside cooling towers at sunrise"
 description: "April 2026 saw renewables outpace gas globally while hyperscalers confront growing water‑scarcity criticism, exposing a sustainability gap."
-sources_count: 5
-author: "elena-marchetti"
+sources_count: 6
 audio_path: "/audio/2026-06-04-wind-solar-overtakes-gas-as-data-centers-battle-water-use-24c994.mp3"
 audio_bytes: 595009
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Wind and Solar Top Gas for the First Time
 
@@ -47,3 +49,7 @@ These insights reinforce the urgency of coupling carbon‑free power with water�
 Regulators in the U.S. Southwest are drafting a unified water‑intensity metric for large‑scale compute facilities, slated for a public comment period in Q3 2026. Simultaneously, major cloud providers have hinted at pilot projects using liquid‑immersion cooling in Nordic data centers, where ambient temperatures reduce the need for active water circulation. The coming months will reveal whether policy and technology converge fast enough to keep the water footprint from eroding the climate gains celebrated by April’s wind‑solar milestone.
 
 ---
+
+## Updates
+
+- **2026-08-25** — The Fitbit Air would be S-tier if anyone made a band half as decent as Whoop’s ([source](https://9to5google.com/2026/08/25/fitbit-air-would-be-s-tier-good-bands-existed/))
