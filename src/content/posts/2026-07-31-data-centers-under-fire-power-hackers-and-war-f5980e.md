@@ -1,19 +1,20 @@
 ---
 title: "Data Centers Under Fire: Power, Hackers, and War"
 date: 2026-07-31T17:49:46.455Z
-modified_date: 2026-08-18T10:22:30.130Z
+modified_date: 2026-08-25T04:33:01.428Z
 tags: ["cloud","cybersecurity","geopolitics","data-centers"]
 hero_image: "/hero/2026-07-31-data-centers-under-fire-power-hackers-and-war-f5980e.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite view of burning data center roof with desert horizon"
 description: "SpaceX’s new plant, a Kremlin‑backed Exchange hack, and Iranian strikes expose the fragile foundations of today’s cloud infrastructure."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-07-31-data-centers-under-fire-power-hackers-and-war-f5980e.mp3"
 audio_bytes: 614027
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Night of Flames Over the Desert
@@ -52,4 +53,5 @@ Regulators in the jurisdictions hosting xAI’s Colossus plant will soon decide 
 
 ## Updates
 
+- **2026-08-25** — Data Centers Are Driving an Alarming Gas Power Expansion in the US ([source](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/))
 - **2026-08-18** — The Benchmarkpocalypse ([source](https://danluu.com/benchpocalypse/))
