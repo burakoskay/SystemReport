@@ -1,16 +1,17 @@
 ---
 title: "Valnet’s Purchase Shakes Polygon, Triggers Mass Layoffs"
 date: 2026-05-07T23:20:13.343Z
-modified_date: 2026-08-25T14:39:11.958Z
+modified_date: 2026-08-26T12:39:17.644Z
 tags: ["gaming","journalism","layoffs","valnet"]
 hero_image: "/hero/2026-05-07-valnet-s-purchase-shakes-polygon-triggers-mass-layoffs-82e2c9.jpg"
 hero_image_credit_name: "Huy Phan"
 hero_image_credit_url: "https://www.pexels.com/@huy-phan-316220"
 visual_keyword: "empty office desks with gaming memorabilia"
 description: "Vox Media sold Polygon to Valnet, sparking unexpected cuts that threaten independent gaming journalism."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ Track Valnet’s first quarterly earnings report for any line‑item shifts tied
 
 ## Updates
 
+- **2026-08-26** — AI Slop Is Ruining Cute Animals on the Internet ([source](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/))
 - **2026-08-25** — Uber launches live video streaming for teen accounts ([source](https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/))
 - **2026-08-10** — Now Rippling is counter suing tiny startup Runlayer ([source](https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/))

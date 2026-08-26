@@ -1,16 +1,17 @@
 ---
 title: "Europe ditches US software for sovereign tech"
 date: 2026-04-28T03:45:22.840Z
-modified_date: 2026-08-05T11:55:57.986Z
+modified_date: 2026-08-26T12:40:02.551Z
 tags: ["European tech","sovereign tech","US tech providers"]
 hero_image: "/hero/2026-04-28-europe-ditches-us-software-for-sovereign-tech-94c8f0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "European tech"
 description: "European governments seek to reduce dependence on American tech providers"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ As European governments continue to invest in sovereign tech, they will need to 
 
 ## Updates
 
+- **2026-08-26** — IBM's new Granite 4.2 models ride the wave of interest in local LLMs ([source](https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/))
 - **2026-08-05** — Google Assistant will disappear from your phone next month ([source](https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown))
 - **2026-07-28** — Apple says iOS 27 ‘Restricted Mode’ isn’t for new Upgrade program leases ([source](https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/))
 - **2026-05-31** — Wi-Fi Router vs. Mesh System: Which Is Best for You? ([source](https://www.wired.com/story/mesh-system-vs-wi-fi-router/))

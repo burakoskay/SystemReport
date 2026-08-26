@@ -1,16 +1,17 @@
 ---
 title: "OpenBSD Team Releases Openrsync"
 date: 2026-05-30T15:16:46.414Z
-modified_date: 2026-08-19T06:34:40.241Z
+modified_date: 2026-08-26T12:39:43.449Z
 tags: ["openbsd","openrsync","rsync"]
 hero_image: "/hero/2026-05-30-openbsd-team-releases-openrsync-ccd054.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "open-source"
 description: "OpenBSD team releases openrsync, an implementation of rsync."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ In conclusion, the release of openrsync is a significant development in the data
 
 ## Updates
 
+- **2026-08-26** — The second-generation Bose QuietComfort Headphones are good, but don’t stand out ([source](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review))
 - **2026-08-19** — Sticky wage norms and the real wage cost of unexpected inflation ([source](https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf))
 - **2026-07-31** — The bond market isn’t buying what Fed Chair Warsh is selling ([source](https://www.reuters.com/commentary/reuters-open-interest/bond-market-isnt-buying-what-fed-chair-warsh-is-selling-2026-07-30/))

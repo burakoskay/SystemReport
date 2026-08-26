@@ -1,19 +1,20 @@
 ---
 title: "Samsung Mobile Division Posts First Loss"
 date: 2026-07-30T08:15:34.667Z
-modified_date: 2026-08-25T18:31:53.169Z
+modified_date: 2026-08-26T12:39:56.183Z
 tags: ["Samsung","Memory Prices","Smartphone Market"]
 hero_image: "/hero/2026-07-30-samsung-mobile-division-posts-first-loss-c84289.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Samsung Smartphone"
 description: "Samsung's smartphone arm records its first quarterly loss"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-07-30-samsung-mobile-division-posts-first-loss-c84289.mp3"
 audio_bytes: 594382
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Samsung's Mobile Division Posts First Loss
@@ -37,4 +38,5 @@ The future of the memory market is uncertain, with many factors influencing pric
 
 ## Updates
 
+- **2026-08-26** — Ikea’s Xbox collection includes a giant thumbstick stool ([source](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool))
 - **2026-08-25** — Anthropic update unifies memory feature across Claude Cowork and chat ([source](https://9to5mac.com/2026/08/25/anthropic-update-unifies-memory-feature-across-claude-cowork-and-chat/))

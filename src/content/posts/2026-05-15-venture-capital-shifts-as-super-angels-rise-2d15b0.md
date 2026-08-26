@@ -1,18 +1,20 @@
 ---
 title: "Venture Capital Shifts as Super Angels Rise"
 date: 2026-05-15T14:22:03.297Z
+modified_date: 2026-08-26T12:39:49.814Z
 tags: ["venture capital","super angels","startup funding"]
 hero_image: "/hero/2026-05-15-venture-capital-shifts-as-super-angels-rise-2d15b0.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "venture capital"
 description: "The venture capital industry faces competition from super angels, changing startup funding dynamics. Paul Graham discusses the shift."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-15-venture-capital-shifts-as-super-angels-rise-2d15b0.mp3"
 audio_bytes: 609847
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Rise of Super Angels
@@ -74,3 +76,7 @@ The lines between super angels and venture capitalists are blurring. As super an
 ## Conclusion
 
 The rise of super angels has transformed the venture capital industry. As the landscape continues to evolve, it's essential to track the developments in this space. The intersection of super angels, VCs, and startup funding will remain a critical area of focus for entrepreneurs, investors, and industry observers alike.
+
+## Updates
+
+- **2026-08-26** — Bill Gates is deeply worried about AI, and he’s no longer staying quiet ([source](https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet))
