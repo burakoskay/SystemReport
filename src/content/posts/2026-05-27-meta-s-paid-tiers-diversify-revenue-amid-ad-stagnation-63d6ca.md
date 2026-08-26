@@ -1,19 +1,20 @@
 ---
 title: "Meta's Paid Tiers Diversify Revenue Amid Ad Stagnation"
 date: 2026-05-27T18:36:14.439Z
-modified_date: 2026-06-04T04:28:00.269Z
+modified_date: 2026-08-26T22:40:31.063Z
 tags: ["meta","subscriptions","datacenters","private-equity","techpolicy"]
 hero_image: "/hero/2026-05-27-meta-s-paid-tiers-diversify-revenue-amid-ad-stagnation-63d6ca.jpg"
 hero_image_credit_name: "Der_ Hördt"
 hero_image_credit_url: "https://www.pexels.com/@der_-hordt-765451816"
 visual_keyword: "social media icons with price tags beside a data center surrounded by green fields"
 description: "Meta rolls out paid plans for its apps as Last.fm goes independent, Italy taxes green data centers, and private equity tightens its grip on U.S. services."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-27-meta-s-paid-tiers-diversify-revenue-amid-ad-stagnation-63d6ca.mp3"
 audio_bytes: 581844
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta pushes paid tiers across its flagship apps
@@ -54,4 +55,5 @@ Track Meta’s subscription pricing as the company publishes tier details and mo
 
 ## Updates
 
+- **2026-08-26** — The Hugging Face incident and the road ahead ([source](https://openai.com/index/hugging-face-incident-and-the-road-ahead/))
 - **2026-06-04** — Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU ([source](https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu))

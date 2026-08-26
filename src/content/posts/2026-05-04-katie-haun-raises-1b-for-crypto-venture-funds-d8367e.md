@@ -1,19 +1,20 @@
 ---
 title: "Katie Haun Raises $1B for Crypto Venture Funds"
 date: 2026-05-04T19:48:30.545Z
-modified_date: 2026-08-25T18:32:19.045Z
+modified_date: 2026-08-26T22:39:52.908Z
 tags: ["crypto","blockchain","venture funds"]
 hero_image: "/hero/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "crypto"
 description: "Katie Haun's new venture funds raise $1B to back crypto and blockchain startups."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.mp3"
 audio_bytes: 588531
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ As the ecosystem continues to evolve, it will be important for investors and ent
 
 ## Updates
 
+- **2026-08-26** — All the ways Instagram and Facebook are changing for teens ([source](https://www.theverge.com/tech/985329/instagram-facebook-meta-settlement-changes))
 - **2026-08-25** — Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen ([source](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17))
 - **2026-07-29** — The Nothing Ear 3A look great… and sound good enough ([source](https://www.theverge.com/tech/972254/nothing-ear-3a-earbuds-review))
 - **2026-07-27** — Deals: Fold 8/Galaxy Watch, Galaxy A57 at $425 low,  NXTPAPER 11 tab $160, Best Buy back to school sale, more ([source](https://9to5google.com/2026/07/27/deals-fold-8-galaxy-watch-galaxy-a57-nxtpaper-11/))

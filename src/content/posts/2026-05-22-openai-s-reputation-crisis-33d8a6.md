@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Reputation Crisis"
 date: 2026-05-22T04:16:21.509Z
-modified_date: 2026-07-30T19:17:15.700Z
+modified_date: 2026-08-26T22:39:46.696Z
 tags: ["OpenAI","AI regulation","Chris Lehane"]
 hero_image: "/hero/2026-05-22-openai-s-reputation-crisis-33d8a6.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "Chris Lehane, OpenAI's global affairs chief, aims to mitigate AI debate and pass laws supporting OpenAI's growth."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ In the short term, OpenAI is likely to face continued scrutiny over its approach
 
 ## Updates
 
+- **2026-08-26** — OpenAI’s rogue AI model incident was worse than we thought ([source](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr))
 - **2026-07-30** — OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT ([source](https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/))

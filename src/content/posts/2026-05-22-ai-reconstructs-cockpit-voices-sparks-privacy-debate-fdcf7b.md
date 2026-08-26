@@ -1,16 +1,17 @@
 ---
 title: "AI Reconstructs Cockpit Voices, Sparks Privacy Debate"
 date: 2026-05-22T23:10:05.868Z
-modified_date: 2026-08-13T10:57:57.089Z
+modified_date: 2026-08-26T22:39:15.526Z
 tags: ["ai","antitrust","cryptography","search","privacy"]
 hero_image: "/hero/2026-05-22-ai-reconstructs-cockpit-voices-sparks-privacy-debate-fdcf7b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "engineer reviewing AI‑generated audio waveform on a computer screen"
 description: "AI resurrects cockpit audio, Google overhauls search definitions, and Apple publishes post‑quantum cryptography code, raising privacy, antitrust, and security questions."
-sources_count: 11
+sources_count: 12
 author: "lena-volkov"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ Regulators will likely revisit data‑access policies after the NTSB’s docket 
 
 ## Updates
 
+- **2026-08-26** — Democrats Just Might Win the Senate ([source](https://www.wired.com/story/democrats-just-might-win-the-senate/))
 - **2026-08-13** — HTML over WebSockets: real-time SPAs with barely any JavaScript ([source](https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/))
 - **2026-08-07** — Korean lunar orbiter snaps first pics of the SpaceX Falcon 9 crash site on the moon ([source](https://www.engadget.com/2232601/korean-lunar-orbiter-snaps-first-pics-of-the-spacex-falcon-9-crash-site-on-the-moon/))

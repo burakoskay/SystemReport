@@ -1,15 +1,17 @@
 ---
 title: "FDA warns against Fullerton Wellness compounded GLP‑1 injections"
 date: 2026-08-20T01:18:19.909Z
+modified_date: 2026-08-26T22:40:18.296Z
 tags: ["fda","compounding","pharma","patient-safety"]
 hero_image: "/hero/2026-08-20-fda-warns-against-fullerton-wellness-compounded-glp-1-injections-f01627.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "laboratory vial with visible contamination under sterile hood"
 description: "The agency flags sterility failures at Fullerton Wellness, urging clinicians to quarantine the drugs and patients to stop use."
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 The Food and Drug Administration issued a nationwide alert on November 1, 2024 that patients and health‑care providers must stop using injectable drugs compounded by Fullerton Wellness LLC. The warning targets semaglutide and tirzepatide products that the firm marketed as sterile but were produced with non‑sterile ingredients, raising the risk of infection and sepsis.[^1][^2][^3][^5]
 
@@ -34,6 +36,10 @@ The warning also raises questions about the broader market for compounded weight
 Industry observers note that the FDA’s public alert could prompt legislative scrutiny.[^7][^8] Lawmakers have previously introduced bills to strengthen federal oversight of compounding pharmacies, but bipartisan consensus has been elusive. The Fullerton Wellness episode provides a concrete case study that could influence future policy debates.[^7][^8]
 
 What to watch: The FDA is expected to release a final enforcement action against Fullerton Wellness in the coming weeks, which may include civil penalties or a permanent injunction.[^7] Stakeholders should monitor the agency’s MedWatch reports for any emerging adverse event data linked to compounded GLP‑1 products.[^1][^8] Additionally, watch for any congressional hearings or legislative proposals aimed at expanding federal jurisdiction over non‑registered compounding facilities, as those could reshape the regulatory landscape for specialty injectables.[^7][^8]
+
+## Updates
+
+- **2026-08-26** — The ‘cheap smartphone era is over’ and price hikes are ‘permanent,’ bleak forecast reveals ([source](https://9to5google.com/2026/08/26/smartphone-price-hikes-forecast/))
 
 [^1]: [fda.gov](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQOJLrT57fpua1Uw4ytVlhJbIrbIwRDAghnxBHGUejQZu145OUCeHRYv_LbuWqirNujer5B_2YqXlew8bbCyOS95vLsAcDHRI9srbu-7xQ1xp0opO756sfTQkOo_CnFoyssyI_688eLAufHmNzP8ais0MnHihCFN5hYlGP0X7mwuTmt7EKR63Xg97YvZ5zRC1oN10nd3KGgmnMu72XVgIO1r2ety9mO5cmkLty2tTVmog_GboOvLqtvTXaf8Sr4y7KQtlF2zd7EEQXbYU=)
 [^2]: [epocrates.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLRLMcTVrfmPVOa9aPNxf-rlFyvbcmXBuuYrhivf8HXwtAJ2W0gFvgxxv6MXSFAR7rWDeUCKazPeCuQdOsbLOo68foZBq0XZUZJayqnheG4jKSNtaUIMsnUM5wgelPtEtZZgu7RZ9qkRVCUSJR-nI9o7wISh9EmAZ8klPZ8QQqafLIOTl-EEwOfW2Is2HJhouEqwpVhZMA7SY_5TG3oTuNme4oe9U=)

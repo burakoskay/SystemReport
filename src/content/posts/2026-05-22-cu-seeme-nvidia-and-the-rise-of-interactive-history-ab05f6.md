@@ -1,18 +1,20 @@
 ---
 title: "CU-SeeMe, Nvidia and the Rise of Interactive History"
 date: 2026-05-22T20:13:08.698Z
+modified_date: 2026-08-26T22:39:40.521Z
 tags: ["history","videoconferencing","nvidia","visualization","techculture"]
 hero_image: "/hero/2026-05-22-cu-seeme-nvidia-and-the-rise-of-interactive-history-ab05f6.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "animated world map overlayed with early webcam interface"
 description: "An animated map of Christianity, the early CU-SeeMe video chat, and Nvidia's culture converge to show how retro tech fuels today’s interactive storytelling."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-22-cu-seeme-nvidia-and-the-rise-of-interactive-history-ab05f6.mp3"
 audio_bytes: 583725
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Open Culture released an animated map that charts Christianity’s spread from antiquity to the present. The map, highlighted on Hacker News with 107 points, visualizes centuries of missionary routes, empire borders, and modern demographics in a single looping video.
 
@@ -49,3 +51,7 @@ This repurposing is not merely nostalgic; it solves concrete problems. Low‑cos
 ## What to watch
 
 Keep an eye on the next release from Open Culture: a series of interactive, map‑based visualizations that let users toggle between religious, political, and economic layers in real time. At the same time, Nvidia’s upcoming developer conference (scheduled for early 2027) is expected to showcase new SDKs for low‑latency video streaming, a direct nod to the CU‑SeeMe architecture. Finally, watch the GitHub activity around the “CU‑SeeMe‑Revival” fork, which aims to integrate modern WebRTC codecs while preserving the original’s minimalist UDP core. These signals will indicate how retro‑inspired tools continue to shape the future of interactive storytelling.
+
+## Updates
+
+- **2026-08-26** — Nvidia is about to be a hundred-billion-dollar-a-quarter company ([source](https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue))

@@ -1,16 +1,17 @@
 ---
 title: "FCC Waiver Delay and Hidden Water Costs in AI"
 date: 2026-05-12T03:49:34.346Z
-modified_date: 2026-08-21T22:17:33.361Z
+modified_date: 2026-08-26T22:39:34.226Z
 tags: ["fcc","ai-infrastructure","water-usage","cybersecurity","regulation"]
 hero_image: "/hero/2026-05-12-fcc-waiver-delay-and-hidden-water-costs-in-ai-ded625.jpg"
 hero_image_credit_name: "Elena Blessing"
 hero_image_credit_url: "https://www.pexels.com/@elena-blessing-355784"
 visual_keyword: "data center cooling towers under desert sky with power lines"
 description: "FCC delays foreign router bans until 2029; data centers guzzle water undetected. The infrastructure stakes."
-sources_count: 5
+sources_count: 6
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ The parallels to the 2008 financial crisis are striking: opaque systems, delayed
 
 ## Updates
 
+- **2026-08-26** — US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate ([source](https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/))
 - **2026-08-21** — HoverAir’s transforming modular drone has already been halted in the US ([source](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo))
 - **2026-08-02** — The global memory shortage hits the MacBook Air ([source](https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/))
