@@ -1,18 +1,20 @@
 ---
 title: "Apple's Beats Pill Ad Highlights 24-Hour Battery Life"
 date: 2026-06-03T23:50:59.294Z
+modified_date: 2026-08-26T16:45:07.189Z
 tags: ["Apple","Beats Pill","portable speakers"]
 hero_image: "/hero/2026-06-03-apple-s-beats-pill-ad-highlights-24-hour-battery-life-103731.jpg"
 hero_image_credit_name: "Darcy Lawrey"
 hero_image_credit_url: "https://www.pexels.com/@d123x"
 visual_keyword: "Beats Pill"
 description: "Apple's new Beats Pill ad promotes 24-hour battery life. The ad features the 'Pill People' in a villa setting."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-06-03-apple-s-beats-pill-ad-highlights-24-hour-battery-life-103731.mp3"
 audio_bytes: 579963
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple's Beats Pill Ad Highlights 24-Hour Battery Life
@@ -69,3 +71,6 @@ Apple's next move in the audio space is expected to be closely watched by consum
 
 The success of the Beats Pill speaker will likely play a significant role in shaping Apple's future product decisions, and could have a lasting impact on the portable speaker market as a whole.
 
+## Updates
+
+- **2026-08-26** — Volvo’s cars will warn one another about hazards in the road ([source](https://www.theverge.com/transportation/985070/volvo-connected-safety-hazard-alert-animal-cyclist))

@@ -1,19 +1,20 @@
 ---
 title: "GitHub to charge Copilot by usage as inference costs rise"
 date: 2026-04-28T19:47:25.322Z
-modified_date: 2026-08-21T00:56:37.924Z
+modified_date: 2026-08-26T16:44:22.629Z
 tags: ["github","copilot","ai","benchmarks","funding"]
 hero_image: "/hero/2026-04-28-github-to-charge-copilot-by-usage-as-inference-costs-rise-dc79a6.jpg"
 hero_image_credit_name: "Anna Shvets"
 hero_image_credit_url: "https://www.pexels.com/@shvetsa"
 visual_keyword: "developer using AI code assistant on laptop"
 description: "GitHub moves to usage‑based billing for Copilot, Anthropic backs Blender, and Snorkel funds open AI benchmarks, highlighting shifting economics in the AI stack."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-04-28-github-to-charge-copilot-by-usage-as-inference-costs-rise-dc79a6.mp3"
 audio_bytes: 614653
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Watch GitHub’s billing dashboard for the first usage‑based invoices, which w
 
 ## Updates
 
+- **2026-08-26** — Xiaomi’s version of the wider Galaxy Z Fold 8 shows up in hands-on leak ahead of launch ([source](https://9to5google.com/2026/08/26/xiaomi-18-fold-leak-galaxy-z-fold-8-wide/))
 - **2026-08-21** — Europe cancels planned upgrades for Ariane 6 rocket ([source](https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/))
 - **2026-08-03** — Galaxy Z Fold 8 is a smash hit; shipping dates slip, 3x higher pre-orders than Fold 7 ([source](https://9to5google.com/2026/08/03/samsung-galaxy-z-fold-8-pre-order-delays-demand/))
 - **2026-07-28** — MCP startup Runlayer accuses Rippling of stealing its product idea ([source](https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/))
