@@ -1,16 +1,17 @@
 ---
 title: "Helsing Nears Massive Raise in Defense Tech"
 date: 2026-05-12T03:46:14.918Z
-modified_date: 2026-08-06T14:24:26.299Z
+modified_date: 2026-08-26T19:43:57.104Z
 tags: ["Defense Tech","Military Drones","Startup Funding"]
 hero_image: "/hero/2026-05-12-helsing-nears-massive-raise-in-defense-tech-852787.jpg"
 hero_image_credit_name: "Emre Koşak"
 hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "military_drone"
 description: "European military drone startup Helsing close to raising another monster round."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The global military drone market size is projected to reach $15B by 2025, with a
 
 ## Updates
 
+- **2026-08-26** — The turbulent AI era is here ([source](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make))
 - **2026-08-06** — AI bots started a religion — humans immediately followed ([source](https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement))
 - **2026-05-18** — Disco Elysium’s spiritual successor can&#8217;t escape its phantoms ([source](https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium))

@@ -1,19 +1,20 @@
 ---
 title: "US Lags in Audio Ban as AI Bypasses NTSB Rules"
 date: 2026-05-22T21:21:27.986Z
-modified_date: 2026-05-26T15:50:29.916Z
+modified_date: 2026-08-26T19:44:03.439Z
 tags: ["NTSB","AI","VPN","Ad-Tech","Digital Privacy"]
 hero_image: "/hero/2026-05-22-us-lags-in-audio-ban-as-ai-bypasses-ntsb-rules-40f7a5.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "law-enforcement"
 description: "A look at the NTSB's cockpit-audio crackdown, a police VPN bust, and a massive ad-tech settlement, and what they mean for digital privacy."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-22-us-lags-in-audio-ban-as-ai-bypasses-ntsb-rules-40f7a5.mp3"
 audio_bytes: 577037
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The NTSB Audio Ban and Online Reenactments
@@ -46,4 +47,5 @@ Watch for legislative proposals that address AI-generated media, especially any 
 
 ## Updates
 
+- **2026-08-26** — Apple’s ‘Surprise and shine’ hashmoji is already live on X ([source](https://9to5mac.com/2026/08/26/apples-surprise-and-shine-hashmoji-is-already-live-on-x/))
 - **2026-05-26** — I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy ([source](https://www.wired.com/story/finally-a-laptop-sleeve-for-me/))

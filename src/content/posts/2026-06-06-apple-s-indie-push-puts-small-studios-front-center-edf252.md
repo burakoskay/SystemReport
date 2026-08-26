@@ -1,18 +1,20 @@
 ---
 title: "Apple's Indie Push Puts Small Studios Front-Center"
 date: 2026-06-06T17:21:35.755Z
+modified_date: 2026-08-26T19:43:50.664Z
 tags: ["Apple","Indie Games","Simogo","Device 6","Supermash","Nintendo","Game Development"]
 hero_image: "/hero/2026-06-06-apple-s-indie-push-puts-small-studios-front-center-edf252.jpg"
 hero_image_credit_name: "Michael Kessel"
 hero_image_credit_url: "https://www.pexels.com/@michael-kessel-112079563"
 visual_keyword: "indie-games"
 description: "Apple adds a permanent Indie Game Showcase to the App Store, while Supermash, a genre-bending indie title, lands on Switch."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-06-apple-s-indie-push-puts-small-studios-front-center-edf252.mp3"
 audio_bytes: 554676
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Apple's Indie Push Puts Small Studios Front-Center
 
@@ -49,3 +51,7 @@ Apple's permanent indie banner and Nintendo's genre-mash experiments illustrate 
 ## Industry Reaction and Future Outlook
 
 The gaming industry has responded positively to Apple's indie-focused initiatives, with many developers expressing their gratitude for the added visibility and support. As the gaming landscape continues to evolve, it will be interesting to see how indie developers adapt and innovate, pushing the boundaries of what is possible in the industry.
+
+## Updates
+
+- **2026-08-26** — Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety ([source](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/))

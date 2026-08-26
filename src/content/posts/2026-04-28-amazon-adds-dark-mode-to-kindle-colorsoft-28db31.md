@@ -1,19 +1,20 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T19:39:50.843Z
-modified_date: 2026-07-29T13:57:41.479Z
+modified_date: 2026-08-26T19:43:19.023Z
 tags: ["amazon","kindle","ai-commerce","eks","e-reader"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.jpg"
 hero_image_credit_name: "Valeria Palesska"
 hero_image_credit_url: "https://www.pexels.com/@palesska"
 visual_keyword: "Amazon Kindle Colorsoft e-reader with dark mode interface displayed on a wooden table"
 description: "Amazon introduces dark mode for its color e-reader and AI-powered product Q&A"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.mp3"
 audio_bytes: 547571
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Amazon released two product updates this week, one addressing user demand for e-reader accessibility and the other expanding its AI commerce tools. The Kindle Colorsoft now supports dark mode, while Amazon launched an audio-based Q&A feature for product pages. Both changes arrive amid intensified competition in digital reading and shopping technologies.
@@ -50,4 +51,5 @@ The next six months will test the viability of Amazon's dual updates. Key metric
 
 ## Updates
 
+- **2026-08-26** — Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards ([source](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale))
 - **2026-07-29** — Prototype smart ring cracks the holy grail of non-invasive blood sugar measurement ([source](https://9to5mac.com/2026/07/29/prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement/))

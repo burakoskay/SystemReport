@@ -1,16 +1,17 @@
 ---
 title: "Google Engineer Charged with Fraud Over $1.2M Polymarket Bets"
 date: 2026-05-27T23:26:36.806Z
-modified_date: 2026-08-06T23:55:06.940Z
+modified_date: 2026-08-26T19:44:09.722Z
 tags: ["Google","Polymarket","insider trading"]
 hero_image: "/hero/2026-05-27-google-engineer-charged-with-fraud-over-1-2m-polymarket-bets-5d2504.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Google"
 description: "Google security engineer charged with fraud"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -78,4 +79,5 @@ Overall, the incident involving Spagnuolo highlights the need for greater oversi
 
 ## Updates
 
+- **2026-08-26** — OpenAI expands free ChatGPT for Teachers to 55 school systems across 20 states ([source](https://9to5mac.com/2026/08/26/free-chatgpt-for-teachers-expansion/))
 - **2026-08-06** — SoftBank donated $50 million to Trump’s library months before federal data center deal ([source](https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio))
