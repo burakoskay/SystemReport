@@ -1,16 +1,17 @@
 ---
 title: "Aptoide Returns to Google Play"
 date: 2026-08-10T18:50:12.763Z
-modified_date: 2026-08-22T16:16:24.627Z
+modified_date: 2026-08-26T04:33:52.502Z
 tags: ["Aptoide","Google Play","Mobile App Store"]
 hero_image: "/hero/2026-08-10-aptoide-returns-to-google-play-1d651e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Aptoide"
 description: "Aptoide's games store is back on Google Play"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Aptoide's Return
@@ -34,4 +35,5 @@ The return of Aptoide to Google Play is not an isolated incident, but rather par
 
 ## Updates
 
+- **2026-08-26** — What is the ‘Android Pulse’ app that just appeared in Google Play Store updates? [U] ([source](https://9to5google.com/2026/08/25/android-pulse-app-google-play/))
 - **2026-08-22** — What is the ‘Android Pulse’ app that just appeared in Google Play Store updates? ([source](https://9to5google.com/2026/08/22/android-pulse-app-google-play/))
