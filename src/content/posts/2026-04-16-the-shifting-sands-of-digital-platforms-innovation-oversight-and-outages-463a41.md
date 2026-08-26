@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-08-21T14:29:40.644Z
+modified_date: 2026-08-26T00:56:15.723Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-08-26** — 9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled ([source](https://9to5mac.com/2026/08/25/daily-august-25-2026/))
 - **2026-08-21** — 9to5Mac Daily: August 21, 2026 – AirPods with cameras, more ([source](https://9to5mac.com/2026/08/21/daily-august-21-2026/))
 - **2026-08-18** — 9to5Mac Daily: August 18, 2026 – iOS 27 beta 6, AirPods leak ([source](https://9to5mac.com/2026/08/18/daily-august-18-2026/))
 - **2026-08-15** — Delete your family’s personal data from the internet with a 55% discount on Incogni ([source](https://9to5mac.com/2026/08/15/delete-your-familys-personal-data-from-internet-55-discount-incogni/))

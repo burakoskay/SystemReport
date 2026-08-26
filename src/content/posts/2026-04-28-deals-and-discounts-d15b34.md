@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-08-06T23:56:02.561Z
+modified_date: 2026-08-26T00:56:28.176Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 26
+sources_count: 27
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-08-26** — Run OpenBSD on DigitalOcean for $4/month ([source](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/))
 - **2026-08-06** — X Money FAQ: Account suspensions, 6% APY, physical cards, and more ([source](https://9to5mac.com/2026/08/06/x-money-faq-account-suspensions-6-apy-physical-cards-and-more/))
 - **2026-08-05** — Mid-week Android game and app deals: Exile, Last Survivor, Summer Catchers, Thronefall, more ([source](https://9to5toys.com/2026/08/05/week-android-game-app-deals-exile-last/))
 - **2026-07-29** — Mid-week Android game and app deals: Aeon’s End, Runic Curse, Quest of Wizard, HOOK, more ([source](https://9to5toys.com/2026/07/29/mid-week-android-game-app-deals-aeons-end/))
