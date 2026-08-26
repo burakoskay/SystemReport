@@ -1,19 +1,20 @@
 ---
 title: "AI Art Sparks Legal Battles and Industry Backlash"
 date: 2026-05-31T23:08:42.276Z
-modified_date: 2026-07-29T02:01:48.667Z
+modified_date: 2026-08-26T14:40:08.098Z
 tags: ["ai","art","controversy","generative","pinball"]
 hero_image: "/hero/2026-05-31-ai-art-sparks-legal-battles-and-industry-backlash-dc4f0a.jpg"
 hero_image_credit_name: "ready made"
 hero_image_credit_url: "https://www.pexels.com/@readymade"
 visual_keyword: "collage of AI‑generated artwork showing meme, pinball cabinet, and video game poster"
 description: "Meme creator, pinball maker, and state‑fair winner confront AI‑generated art, exposing tradeoffs and looming regulatory questions."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-31-ai-art-sparks-legal-battles-and-industry-backlash-dc4f0a.mp3"
 audio_bytes: 609847
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meme creator forces AI startup to pull ads
@@ -46,4 +47,5 @@ Watch for litigation that clarifies copyright liability for AI‑generated visua
 
 ## Updates
 
+- **2026-08-26** — Elden Ring on the Switch 2 isn&#8217;t tarnished ([source](https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review))
 - **2026-07-29** — A Typo Landed an Innocent Gamer in Prison for 18 Months ([source](https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/))

@@ -1,19 +1,20 @@
 ---
 title: "Google Chrome's AI Feature Takes Up 4GB of Storage"
 date: 2026-05-06T14:27:28.204Z
-modified_date: 2026-07-31T15:59:59.295Z
+modified_date: 2026-08-26T14:40:13.005Z
 tags: ["Google Chrome","AI features","storage space"]
 hero_image: "/hero/2026-05-06-google-chrome-s-ai-feature-takes-up-4gb-of-storage-098471.jpg"
 hero_image_credit_name: "Caio"
 hero_image_credit_url: "https://www.pexels.com/@caio"
 visual_keyword: "Google Chrome"
 description: "Google Chrome's AI features, powered by Gemini Nano, are taking up significant storage space on users' computers, with some users reporting a 4GB weights.bin file."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-06-google-chrome-s-ai-feature-takes-up-4gb-of-storage-098471.mp3"
 audio_bytes: 589158
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -84,4 +85,5 @@ As the market for AI-powered browsers continues to grow, we can expect to see mo
 
 ## Updates
 
+- **2026-08-26** — Meta agrees to heavy restrictions on teen users in major lawsuit settlement ([source](https://www.theverge.com/policy/985032/meta-state-ag-kids-online-safety-settlement))
 - **2026-07-31** — It’s time to panic about AI safety ([source](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast))

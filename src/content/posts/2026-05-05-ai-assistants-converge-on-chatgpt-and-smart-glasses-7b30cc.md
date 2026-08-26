@@ -1,16 +1,17 @@
 ---
 title: "AI Assistants Converge on ChatGPT and Smart Glasses"
 date: 2026-05-05T17:33:06.426Z
-modified_date: 2026-06-02T16:42:59.270Z
+modified_date: 2026-08-26T14:40:52.579Z
 tags: ["AI Assistants","ChatGPT","Smart Glasses","Conversational Commerce"]
 hero_image: "/hero/2026-05-05-ai-assistants-converge-on-chatgpt-and-smart-glasses-7b30cc.jpg"
 hero_image_credit_name: "Krewr Studio"
 hero_image_credit_url: "https://www.pexels.com/@tezshekhawat"
 visual_keyword: "smart glasses"
 description: "Etsy and Meta integrate AI assistants into shopping and smart glasses, while Amazon enhances code development tools."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,5 +63,6 @@ The increasing adoption of AI assistants will have significant implications for 
 
 ## Updates
 
+- **2026-08-26** — XCancel and Nitter are receiving C&D letters from XCorp ([source](https://news.ycombinator.com/item?id=49446210))
 - **2026-06-02** — Thermacell&#8217;s latest smart mosquito system is bigger and more expensive ([source](https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell))
 - **2026-05-19** — Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen ([source](https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/))
