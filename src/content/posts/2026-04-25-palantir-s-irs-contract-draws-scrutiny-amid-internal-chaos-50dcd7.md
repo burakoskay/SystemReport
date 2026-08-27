@@ -1,19 +1,20 @@
 ---
 title: "Palantir's IRS Contract Draws Scrutiny Amid Internal Chaos"
 date: 2026-04-25T20:51:34.728Z
-modified_date: 2026-08-26T16:44:35.462Z
+modified_date: 2026-08-27T06:39:35.305Z
 tags: ["palantir","irs","nuclear-energy","speculative-betting","corporate-culture"]
 hero_image: "/hero/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.jpg"
 hero_image_credit_name: "Dan  Nelson"
 hero_image_credit_url: "https://www.pexels.com/@dan-nelson-1667453"
 visual_keyword: "Palantir office with encrypted screens"
 description: "Palantir's IRS contract faces scrutiny as internal messages reveal corporate strife."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-25-palantir-s-irs-contract-draws-scrutiny-amid-internal-chaos-50dcd7.mp3"
 audio_bytes: 631790
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The coming months will test Palantir's ability to sustain its government partner
 
 ## Updates
 
+- **2026-08-27** — Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation ([source](https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/))
 - **2026-08-26** — Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’ ([source](https://9to5mac.com/2026/08/26/apple-officially-announces-iphone-18-pro-foldable-event/))
 - **2026-08-19** — Remote workers report the highest well-being in study of 7,700 employees ([source](https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees))
 - **2026-05-21** — This mechanical bird drops dead when your home’s air quality worsens ([source](https://www.theverge.com/tech/935292/birdie-pro-smart-air-monitor-kickstarter-crowdfunding))

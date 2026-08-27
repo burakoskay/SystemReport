@@ -1,19 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
-modified_date: 2026-08-13T12:56:56.323Z
+modified_date: 2026-08-27T06:39:48.045Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 
 ## Updates
 
+- **2026-08-27** — The best displays to pair with your new Mac mini or Mac Studio ([source](https://9to5mac.com/2026/08/26/best-new-mac-displays/))
 - **2026-08-13** — Live from New York, it’s another awkward Pixel keynote ([source](https://9to5google.com/2026/08/13/inbox-newsletter-10/))
 - **2026-08-11** — Threads has a VR app now ([source](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app))
 - **2026-05-15** — OpenAI now wants ChatGPT to access your bank accounts ([source](https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection))

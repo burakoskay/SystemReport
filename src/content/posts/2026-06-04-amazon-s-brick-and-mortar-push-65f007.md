@@ -1,18 +1,20 @@
 ---
 title: "Amazon's Brick-and-Mortar Push"
 date: 2026-06-04T15:28:38.918Z
+modified_date: 2026-08-27T06:40:00.822Z
 tags: ["Amazon","brick-and-mortar","retail","e-commerce"]
 hero_image: "/hero/2026-06-04-amazon-s-brick-and-mortar-push-65f007.jpg"
 hero_image_credit_name: "HONG SON"
 hero_image_credit_url: "https://www.pexels.com/@hson"
 visual_keyword: "Amazon bookstore"
 description: "Amazon expands physical presence with new stores and autonomous robots, signaling a shift in e-commerce strategy."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-04-amazon-s-brick-and-mortar-push-65f007.mp3"
 audio_bytes: 588113
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Amazon's Brick-and-Mortar Push
@@ -60,3 +62,7 @@ The retail industry has undergone significant changes in recent years, with the 
 ## Conclusion
 
 In conclusion, Amazon's brick-and-mortar push is a significant development in the company's evolution, marking a shift away from its early focus on online-only sales. The company's use of autonomous robots and integration of online and offline data positions it for continued growth and success. As the retail landscape continues to evolve, it will be interesting to see how Amazon's investments in physical retail and autonomous technology pay off.
+
+## Updates
+
+- **2026-08-27** — PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed] ([source](https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/))
