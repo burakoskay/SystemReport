@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Updates"
 date: 2026-04-29T10:11:35.903Z
-modified_date: 2026-08-24T22:20:17.724Z
+modified_date: 2026-08-27T18:47:47.797Z
 tags: ["Apple","iOS","privacy"]
 hero_image: "/hero/2026-04-29-apple-s-ios-updates-a3b135.jpg"
 hero_image_credit_name: "hartono subagio"
 hero_image_credit_url: "https://www.pexels.com/@hartonosbg"
 visual_keyword: "Apple"
 description: "Apple releases iOS updates with new features and security patches, while facing controversy over privacy features and lawsuits."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ In conclusion, Apple's latest iOS updates and features demonstrate the company's
 
 ## Updates
 
+- **2026-08-27** — Deals: Last day Pixel 11 offers – $350 gift cards, FREE watch, smart display power bank $110 off, Echo displays, more ([source](https://9to5google.com/2026/08/27/deals-last-day-pixel-11-offers-power-banks-echo-display/))
 - **2026-08-24** — ChatGPT now lets users create custom iMessage and WhatsApp stickers ([source](https://9to5mac.com/2026/08/24/chatgpt-now-lets-users-create-custom-imessage-and-whatsapp-stickers/))
 - **2026-08-12** — Where to pre-order Pixel 11 series: $350 gift cards, $1,000 trade-in, more ([source](https://9to5google.com/2026/08/12/where-to-buy-the-pixel-11-pixel-11-pro/))
 - **2026-07-31** — Apple stock opens down roughly 10% following mixed Q3 2026 results ([source](https://9to5mac.com/2026/07/31/apple-stock-opens-down-roughly-10-following-mixed-q3-2026-results/))

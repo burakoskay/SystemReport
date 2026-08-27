@@ -1,15 +1,17 @@
 ---
 title: "Async Rust Stalls in MVP Limbo"
 date: 2026-05-05T10:20:25.064Z
+modified_date: 2026-08-27T18:48:20.188Z
 tags: ["rust","machine-learning","security","containers","open-source"]
 hero_image: "/hero/2026-05-05-async-rust-stalls-in-mvp-limbo-d94d36.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "async rust code on terminal screen with error messages"
 description: "Async Rust remains a minimal design with unresolved tradeoffs. Training LLMs from scratch gains traction. A container security flaw emerges."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 ## Async Rust's MVP Dead End
 
@@ -44,3 +46,7 @@ Watch three developments in the coming months:
 2. The 'llm-from-scratch' project will likely face competition from commercial training platforms offering consumer-grade GPU access. Look for a fork that adds internet-scale training capabilities.
 
 3. A patch for CVE-2026-31431 will be backported to major distributions, but widespread adoption will take at least six months. Expect cloud providers to implement workarounds until full patch adoption.
+
+## Updates
+
+- **2026-08-27** — Four advantages iPhone 18 Pro will have over the iPhone Ultra ([source](https://9to5mac.com/2026/08/27/four-advantages-iphone-18-pro-will-have-over-the-iphone-ultra/))

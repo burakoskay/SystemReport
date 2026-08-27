@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Nears IPO as Altman Makes Bold YC Offer"
 date: 2026-05-20T22:04:45.707Z
-modified_date: 2026-08-20T16:27:29.662Z
+modified_date: 2026-08-27T18:48:26.652Z
 tags: ["OpenAI","IPO","AI","Sam Altman"]
 hero_image: "/hero/2026-05-20-openai-nears-ipo-as-altman-makes-bold-yc-offer-457a68.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI prepares for September IPO as Sam Altman offers investment to Y Combinator startups."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -49,5 +50,6 @@ As OpenAI prepares for its IPO, the company is likely to face increased scrutiny
 
 ## Updates
 
+- **2026-08-27** — Apple has announced 11 new products in 2026 so far, with more coming soon ([source](https://9to5mac.com/2026/08/27/apple-has-announced-11-new-products-in-2026-so-far-with-more-coming-soon/))
 - **2026-08-20** — It’s Greg Brockman’s OpenAI now ([source](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion))
 - **2026-06-05** — The University of Cambridge says it successfully tested a vaccine with an AI-designed antigen ([source](https://www.engadget.com/2188241/university-of-cambridge-successfully-tests-vaccine-with-ai-designed-antigen/))

@@ -1,19 +1,20 @@
 ---
 title: "Tech Giants and US Universities Back National AI Research Cloud"
 date: 2026-05-15T07:30:51.892Z
-modified_date: 2026-08-04T14:28:21.448Z
+modified_date: 2026-08-27T18:48:39.734Z
 tags: ["AI","National AI Research Cloud","US Competitiveness"]
 hero_image: "/hero/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Leading US universities and tech giants support legislation for a national AI research cloud to democratize AI R&D and maintain US competitiveness in AI."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.mp3"
 audio_bytes: 561573
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ As the initiative moves forward, it is essential to prioritize transparency, acc
 
 ## Updates
 
+- **2026-08-27** — How to adjust the custom EQ settings for your AirPods in iOS 27 ([source](https://www.engadget.com/2245470/how-to-adjust-custom-eq-settings-airpods-ios-27/))
 - **2026-08-04** — Peak Design’s latest bags have clever integrated hooks ([source](https://www.theverge.com/tech/973624/peak-design-city-line-details-price))

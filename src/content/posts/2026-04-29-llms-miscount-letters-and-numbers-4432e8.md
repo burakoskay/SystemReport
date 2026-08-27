@@ -1,16 +1,17 @@
 ---
 title: "LLMs Miscount Letters and Numbers"
 date: 2026-04-29T14:10:32.882Z
-modified_date: 2026-07-28T16:02:42.987Z
+modified_date: 2026-08-27T18:49:11.725Z
 tags: ["LLMs","AI","ChatGPT"]
 hero_image: "/hero/2026-04-29-llms-miscount-letters-and-numbers-4432e8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "LLMs"
 description: "ChatGPT and other LLMs struggle with basic facts"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ Developers must prioritize accuracy and consistency in their models. The communi
 
 ## Updates
 
+- **2026-08-27** — Meta's latest teen safety commitments are US-only (for now) ([source](https://www.engadget.com/2245418/meta-teen-safety-commitments-are-us-only-for-now/))
 - **2026-07-28** — Fish Audio raises $52M seed to build AI voice models for creators and enterprises ([source](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/))
 - **2026-05-23** — China’s shark finning could lead to US seafood sanctions ([source](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/))
 - **2026-05-13** — OnlyFans’ First-Gen Creators Are Retiring—and Some Are Begging You to Forget They Exist ([source](https://www.wired.com/story/onlyfans-creators-retiring-right-to-be-forgotten/))

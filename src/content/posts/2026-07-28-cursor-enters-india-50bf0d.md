@@ -1,19 +1,20 @@
 ---
 title: "Cursor Enters India"
 date: 2026-07-28T05:17:34.033Z
-modified_date: 2026-08-23T22:16:16.481Z
+modified_date: 2026-08-27T18:46:23.753Z
 tags: ["Cursor","India","Expansion","Tech"]
 hero_image: "/hero/2026-07-28-cursor-enters-india-50bf0d.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Cursor"
 description: "Cursor expands into India with new pricing"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-28-cursor-enters-india-50bf0d.mp3"
 audio_bytes: 560110
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Cursor's India Expansion
@@ -48,4 +49,5 @@ The regulatory environment in India is complex and constantly evolving. Companie
 
 ## Updates
 
+- **2026-08-27** — Australian police arrest two over TeamPCP hacks targeting Mercor, OpenAI, and others ([source](https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/))
 - **2026-08-23** — Google’s inevitable ‘Pixel Watch Ultra’ should copy the Fitbit Air ([source](https://9to5google.com/2026/08/23/google-pixel-watch-ultra-ideas/))

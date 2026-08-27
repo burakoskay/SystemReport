@@ -1,16 +1,17 @@
 ---
 title: "LuneForge Simplifies 3D-Printable Luneburg Lenses for RF"
 date: 2026-05-30T10:08:25.023Z
-modified_date: 2026-08-16T18:19:58.601Z
+modified_date: 2026-08-27T18:49:18.085Z
 tags: ["RF technology","Luneburg lenses","open-source software"]
 hero_image: "/hero/2026-05-30-luneforge-simplifies-3d-printable-luneburg-lenses-for-rf-d604dc.jpg"
 hero_image_credit_name: "David Guerrero"
 hero_image_credit_url: "https://www.pexels.com/@davidguerrero"
 visual_keyword: "Luneburg lens"
 description: "LuneForge simplifies creation of precise Luneburg lenses for RF applications, making lens design more accessible."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ Future developments of LuneForge may include the integration of machine learning
 
 ## Updates
 
+- **2026-08-27** — Plaud made earbuds for people who want to record every meeting and call ([source](https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/))
 - **2026-08-16** — Amazon is trying to crush class-action suits before they get started ([source](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions))
 - **2026-08-07** — Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks ([source](https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/))
 - **2026-07-31** — 6 Best Phones With Headphone Jacks (2026), Tested and Reviewed ([source](https://www.wired.com/gallery/best-headphone-jack-phones/))

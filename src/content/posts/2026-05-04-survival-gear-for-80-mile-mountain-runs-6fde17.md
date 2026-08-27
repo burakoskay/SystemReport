@@ -1,19 +1,20 @@
 ---
 title: "Survival Gear for 80-Mile Mountain Runs"
 date: 2026-05-04T14:15:18.305Z
-modified_date: 2026-08-19T18:44:11.995Z
+modified_date: 2026-08-27T18:46:17.367Z
 tags: ["endurance sports","environmental sustainability","human interaction"]
 hero_image: "/hero/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.jpg"
 hero_image_credit_name: "VANNGO Ng"
 hero_image_credit_url: "https://www.pexels.com/@vanngo-ng-105653827"
 visual_keyword: "mountain run"
 description: "A 10-lb pack for running 80 miles across mountains. Essential gear for survival."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.mp3"
 audio_bytes: 576201
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ For example, advances in technology could lead to new and innovative products fo
 
 ## Updates
 
+- **2026-08-27** — Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale ([source](https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/))
 - **2026-08-19** — OpenAI hit the brakes. Now what? ([source](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai))
 - **2026-08-11** — The budget-friendly Pixel Buds 2a are even cheaper right now ([source](https://www.theverge.com/gadgets/977929/pixel-buds-2a-starfox-switch-deal-sale))
 - **2026-06-02** — The durable, floatable UE Wonderboom 4 speaker is cheaper than ever ([source](https://www.theverge.com/gadgets/941763/ultimate-ears-wonderboom-fractal-design-scape-deal-sale))

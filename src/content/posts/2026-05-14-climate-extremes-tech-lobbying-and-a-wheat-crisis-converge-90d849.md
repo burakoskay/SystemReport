@@ -1,16 +1,17 @@
 ---
 title: "Climate Extremes, Tech Lobbying, and a Wheat Crisis Converge"
 date: 2026-05-14T14:38:46.166Z
-modified_date: 2026-07-26T17:10:59.321Z
+modified_date: 2026-08-27T18:46:11.008Z
 tags: ["climate-crisis","tech-lobbying","agricultural-decline","energy-policy"]
 hero_image: "/hero/2026-05-14-climate-extremes-tech-lobbying-and-a-wheat-crisis-converge-90d849.jpg"
 hero_image_credit_name: "Trotter"
 hero_image_credit_url: "https://www.pexels.com/@trotter-3434183"
 visual_keyword: "arid plains under cracked earth with distant smoke plumes"
 description: "El Niño, corporate energy lobbying, and a 50-year wheat low show climate crises intensifying."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The tech lobbying win shows how companies weaponize this uncertainty. By framing
 
 ## Updates
 
+- **2026-08-27** — This former PG&E engineer is building a ‘Google Maps for the underground’ ([source](https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/))
 - **2026-07-26** — Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more ([source](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con))
 - **2026-06-03** — The European Union reveals details of its tech sovereignty package ([source](https://www.engadget.com/2186709/the-european-union-reveals-details-of-its-tech-sovereignity-package/))
 - **2026-05-20** — This startup raised $43M to build a hive mind for ships ([source](https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/))

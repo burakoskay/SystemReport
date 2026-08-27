@@ -1,19 +1,20 @@
 ---
 title: "Hacker News Digest: AI Analysis, Terminal UIs, and Hiring Myths"
 date: 2026-05-24T08:37:20.568Z
-modified_date: 2026-08-22T18:20:29.886Z
+modified_date: 2026-08-27T18:46:30.136Z
 tags: ["Hacker News","AI Analysis","Terminal UIs"]
 hero_image: "/hero/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "A look at the latest Hacker News discussions on AI analysis, terminal UIs, and hiring myths."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.mp3"
 audio_bytes: 611101
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ For instance, LLMs could be used to identify areas of consensus or disagreement 
 
 ## Updates
 
+- **2026-08-27** — AI’s memory crunch is coming for Android apps ([source](https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/))
 - **2026-08-22** — You might want to skip using a Bluetooth headset for a better gaming experience ([source](https://www.engadget.com/2240120/bluetooth-headset-skip-for-better-gaming-experience/))
 - **2026-08-17** — iOS 26.6.1 has fixes for 20+ security issues on iPhone, details here ([source](https://9to5mac.com/2026/08/17/ios-26-6-1-has-fixes-for-20-security-issues-on-iphone-details-here/))
 - **2026-08-16** — ChatGPT’s Computer History tracks your clicks and keystrokes ([source](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes))

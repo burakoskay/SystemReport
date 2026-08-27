@@ -1,18 +1,20 @@
 ---
 title: "Google Updates Hacking Group Naming Conventions"
 date: 2026-08-09T14:31:05.310Z
+modified_date: 2026-08-27T18:46:49.639Z
 tags: ["Google","Cybersecurity","Hacking Groups"]
 hero_image: "/hero/2026-08-09-google-updates-hacking-group-naming-conventions-8f5b60.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google"
 description: "Google changes naming approach for hacking groups"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-09-google-updates-hacking-group-naming-conventions-8f5b60.mp3"
 audio_bytes: 538585
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Google's Naming Change
 Google changed its approach to naming hacking groups. This change is part of Google's effort to track and analyze hacking groups. The company's decision to update its naming conventions reflects the evolving nature of cybersecurity threats and the need for more precise identification and analysis of hacking groups.
@@ -34,3 +36,7 @@ The use of codenames for hacking groups is based on a detailed analysis of the g
 
 ## Downstream Implications
 The change in naming conventions may have significant implications for Google's cybersecurity operations. With a more standardized and precise naming system, Google may be able to improve its ability to track and analyze hacking groups, allowing the company to respond more effectively to emerging threats. This, in turn, may have downstream implications for Google's customers and partners, who may benefit from improved cybersecurity measures and more effective threat response.
+
+## Updates
+
+- **2026-08-27** — Why did 1,000 world citizens bury their underpants? ([source](https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/))
