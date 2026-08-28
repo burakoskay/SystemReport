@@ -1,16 +1,17 @@
 ---
 title: "Apple News Scams"
 date: 2026-05-27T04:14:56.979Z
-modified_date: 2026-08-12T14:52:57.827Z
+modified_date: 2026-08-28T15:58:14.632Z
 tags: ["Apple News","scam ads","RSS support"]
 hero_image: "/hero/2026-05-27-apple-news-scams-d60e64.jpg"
 hero_image_credit_name: "webber Amir"
 hero_image_credit_url: "https://www.pexels.com/@webber-amir-1551084"
 visual_keyword: "Apple News"
 description: "Apple News struggles with scam ads and limited RSS support"
-sources_count: 8
+sources_count: 9
 author: "david-okafor"
 ---
+
 
 
 ## Introduction to Apple's News Platform
@@ -67,4 +68,5 @@ Ultimately, the future success of Apple News will depend on its ability to adapt
 
 ## Updates
 
+- **2026-08-28** — Price increases suddenly hit Apple TV and Apple One ([source](https://www.engadget.com/2246336/price-increases-suddenly-hit-apple-tv-and-apple-one/))
 - **2026-08-12** — Android now has a tap-to-share feature ([source](https://www.theverge.com/tech/978613/android-quick-share-tap-update-pixels-samsung))

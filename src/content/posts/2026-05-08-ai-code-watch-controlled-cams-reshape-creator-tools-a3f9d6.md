@@ -1,15 +1,17 @@
 ---
 title: "AI code, watch‑controlled cams reshape creator tools"
 date: 2026-05-08T14:04:50.422Z
+modified_date: 2026-08-28T15:58:52.246Z
 tags: ["AI","creator tools","wearable technology"]
 hero_image: "/hero/2026-05-08-ai-code-watch-controlled-cams-reshape-creator-tools-a3f9d6.jpg"
 hero_image_credit_name: "Zana Latif"
 hero_image_credit_url: "https://www.pexels.com/@zana-latif-2772032"
 visual_keyword: "AI-powered camera"
 description: "Airbnb's AI writes most new code, Blackmagic adds Apple Watch remote, and Zens launches a semi-solid-state powerbank."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Airbnb's AI writes most new code
@@ -59,3 +61,7 @@ These developments illustrate how AI, specialized silicon converge on the creato
 The increasing demand for high-quality content and the need for more efficient development processes are driving innovation in this space. As the market continues to evolve, we can expect to see new and innovative applications of AI, specialized silicon, and creator tools.
 
 The future of creator tools is likely to be shaped by the intersection of AI, specialized silicon, and wearable technology. As these technologies continue to advance, we can expect to see new and innovative applications in a wide range of industries.
+
+## Updates
+
+- **2026-08-28** — Hilariously Fast Volume Computation with the Divergence Theorem ([source](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html))

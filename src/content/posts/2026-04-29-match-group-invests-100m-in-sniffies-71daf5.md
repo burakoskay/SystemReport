@@ -1,16 +1,17 @@
 ---
 title: "Match Group Invests $100M in Sniffies"
 date: 2026-04-29T06:28:58.657Z
-modified_date: 2026-08-18T16:26:07.081Z
+modified_date: 2026-08-28T15:58:45.997Z
 tags: ["Match Group","Sniffies","Online Dating"]
 hero_image: "/hero/2026-04-29-match-group-invests-100m-in-sniffies-71daf5.jpg"
 hero_image_credit_name: "Italo Crespi"
 hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The investment in Sniffies is a significant development in this trend, as it hig
 
 ## Updates
 
+- **2026-08-28** — "IT WoRKs BeTter in the App " ([source](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/))
 - **2026-08-18** — Firefox&#8217;s Smart Window promises a better AI browser ([source](https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features))
 - **2026-05-28** — Sesame, the conversational AI startup from Oculus founders, launches its iOS app ([source](https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/))
 - **2026-05-18** — Today’s Android app deals and freebies: Greak Memories of Azur, Bloons TD 6, more ([source](https://9to5toys.com/2026/05/18/android-app-deals-free-greak-azur-bloons/))

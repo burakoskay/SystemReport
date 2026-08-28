@@ -1,16 +1,17 @@
 ---
 title: "EU Tech News"
 date: 2026-05-27T10:03:26.414Z
-modified_date: 2026-08-01T09:54:15.878Z
+modified_date: 2026-08-28T15:58:20.929Z
 tags: ["eu tech news","artificial intelligence","machine learning"]
 hero_image: "/hero/2026-05-27-eu-tech-news-97e2aa.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "European tech innovation"
 description: "European tech news and updates"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Finally, the EU's regulatory efforts will continue to play a major role in shapi
 
 ## Updates
 
+- **2026-08-28** — The pros and cons of flash memory ([source](https://www.engadget.com/2245475/flash-memory-pros-and-cons/))
 - **2026-08-01** — Show HN: I worked on a new browser for 2 years, today it passed Acid 3 ([source](https://code.intellios.ai/cwbrowser/))
 - **2026-07-30** — Gemini in your living room on wheels ([source](https://9to5google.com/2026/07/30/inbox-newsletter-6/))
 - **2026-06-05** — New York lawmakers pass one-year ban on new data centers ([source](https://www.theverge.com/policy/944041/new-york-data-center-moratorium))

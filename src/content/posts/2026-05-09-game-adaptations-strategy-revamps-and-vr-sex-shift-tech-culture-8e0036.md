@@ -1,16 +1,17 @@
 ---
 title: "Game Adaptations, Strategy Revamps, and VR Sex Shift Tech Culture"
 date: 2026-05-09T17:07:52.074Z
-modified_date: 2026-08-21T18:28:10.861Z
+modified_date: 2026-08-28T15:57:12.014Z
 tags: ["gaming","virtual-reality","science","culture"]
 hero_image: "/hero/2026-05-09-game-adaptations-strategy-revamps-and-vr-sex-shift-tech-culture-8e0036.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "a futuristic gaming console beside a classic board game and a VR headset"
 description: "A look at the Mortal Kombat II film, Civilization V's polish, Black Mirror's VR sex episode, and Michio Kaku's physics of the impossible."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,5 +67,6 @@ Tracking these trends will reveal whether the industry can balance fan service, 
 
 ## Updates
 
+- **2026-08-28** — a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’ ([source](https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/))
 - **2026-08-21** — Friday’s Android app deals and freebies: Blacksmith of the Sand Kingdom, Little to the Left, Onigo Hunter, more ([source](https://9to5toys.com/2026/08/21/fridaysandroid-app-deals/))
 - **2026-06-05** — Not the next R8? Audi reveals mid-engined plug-in hybrid V8 Nuvolari. ([source](https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/))

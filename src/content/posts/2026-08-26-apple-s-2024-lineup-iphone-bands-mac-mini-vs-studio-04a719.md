@@ -1,15 +1,17 @@
 ---
 title: "Apple’s 2024 lineup: iPhone bands, Mac mini vs Studio"
 date: 2026-08-26T19:55:28.463Z
+modified_date: 2026-08-28T15:57:55.679Z
 tags: ["apple","hardware","cellular","mac","ipad"]
 hero_image: "/hero/2026-08-26-apple-s-2024-lineup-iphone-bands-mac-mini-vs-studio-04a719.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Apple devices on a desk with iPhone, Mac mini, and iPad"
 description: "Apple rolls out iPhone 16 with region‑specific cellular bands, a new Mac mini with M6, and iPad Pro upgrades, forcing buyers to weigh trade‑offs."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## iPhone 16 regional band fragmentation
 Apple launched four iPhone 16 models—16, 16 Plus, 16 Pro, and 16 Pro Max—each with four region‑specific variants. The variants differ in eSIM support, physical‑SIM slots, and the set of 5G and LTE bands they can use. All models support eSIM except the Greater China versions, which retain dual‑SIM slots. The United States version is the only one that includes mmWave hardware; every other market ships with sub‑6 GHz only. In the 5G arena, the Greater China model supports the fewest bands, while the U.S. model carries the full suite of bands present across the other regions. LTE coverage shows a similar split: the Canada/Mexico/UAE variant tops the list with 32 LTE bands, covering every band found in the other models and adding several niche frequencies. The Greater China variant trails by missing six LTE bands that the Canadian model includes. A Hacker News user noted that the fragmentation forces travelers to purchase a region‑specific handset or risk weak service when crossing borders.
@@ -25,3 +27,7 @@ The 2024 iPad Pro upgrades to an M5 chip, adds Apple Intelligence, Wi‑Fi 7
 
 ## What to watch
 The next few months will reveal whether Apple consolidates cellular bands in a future iPhone or Watch revision, a move that could simplify global logistics. Watch for FCC filings that might hint at a unified antenna design for mmWave across more regions. On the Mac side, Apple’s supply‑chain disclosures may indicate whether the M6‑based mini will expand into a higher‑performance variant, potentially narrowing the Studio’s advantage. Finally, iPadOS 27 is expected later this year and may unlock more AI features on the M5 Pro iPad Pro, shaping the tablet market’s competitive dynamics.
+
+## Updates
+
+- **2026-08-28** — There Are So Many Conspiracy Theories About Dolly Parton and Vaccines ([source](https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple Unveils Enterprise Fixes, Intel Chips"
 date: 2026-05-14T21:23:02.634Z
-modified_date: 2026-08-24T20:23:43.523Z
+modified_date: 2026-08-28T15:58:27.247Z
 tags: ["macos","apple-card","intel","carplay","apple-wallet"]
 hero_image: "/hero/2026-05-14-apple-unveils-enterprise-fixes-intel-chips-c7c2bd.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "technical scene with Apple products and Intel chips in a modern workspace"
 description: "Apple addresses enterprise macOS issues, partners with Intel for iPhone chips, and expands CarPlay audio features as part of ongoing product updates."
-sources_count: 19
+sources_count: 20
 author: "david-okafor"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The macOS 26.5 fixes will roll out to enterprise users in mid-September. Intel�
 
 ## Updates
 
+- **2026-08-28** — Apple will launch 15+ new products this fall, here’s what’s coming ([source](https://9to5mac.com/2026/08/28/apple-will-launch-15-new-products-this-fall-heres-whats-coming/))
 - **2026-08-24** — Here’s everything new Apple TV has coming in September ([source](https://9to5mac.com/2026/08/24/heres-everything-new-apple-tv-has-coming-in-september-2026/))
 - **2026-08-12** — BowFlex T6 review: Apple GymKit comes home at a normal treadmill price ([source](https://9to5mac.com/2026/08/12/bowflex-t6-review-apple-gymkit-comes-home-at-a-normal-treadmill-price/))
 - **2026-08-11** — watchOS 27 will upgrade popular Apple Watch face with new options, per leak ([source](https://9to5mac.com/2026/08/11/watchos-27-will-upgrade-popular-apple-watch-face-with-new-options-per-leak/))
