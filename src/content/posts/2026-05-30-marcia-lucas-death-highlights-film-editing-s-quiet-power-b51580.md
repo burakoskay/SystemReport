@@ -1,15 +1,17 @@
 ---
 title: "Marcia Lucas' Death Highlights Film Editing's Quiet Power"
 date: 2026-05-30T19:33:49.631Z
+modified_date: 2026-08-28T03:59:08.562Z
 tags: ["film","editing","technology"]
 hero_image: "/hero/2026-05-30-marcia-lucas-death-highlights-film-editing-s-quiet-power-b51580.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "vintage film editing suite with flatbed splicer and modern digital workstation"
 description: "The passing of Star Wars editor Marcia Lucas at 80 underscores the enduring technical craft behind blockbuster storytelling and its evolving tools."
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 ## A legend of the cutting room dies
 Marcia Lucas, the editor behind *Star Wars* and *Return of the Jedi*, died at 80. Her work helped shape the visual language of modern blockbusters, and her loss forces a look at the tools that make cinematic magic possible.
@@ -33,3 +35,7 @@ Historical parallels reinforce this continuity. The 1973 oil shock forced manufa
 
 ## What to watch
 The next generation of editing suites will be judged on how well they preserve the editorial judgment that Lucas embodied while offering AI‑driven efficiency. Watch for major NLE vendors to announce features that claim to “suggest cuts” or “auto‑match beats.” Their adoption will signal whether the industry embraces automation or doubles down on the human eye that defined a generation of cinema.
+
+## Updates
+
+- **2026-08-28** — Google tells Android app developers to cool it on memory use, or else ([source](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit))

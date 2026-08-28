@@ -1,19 +1,20 @@
 ---
 title: "Quantum Updates, Dashlane Silence, and New Open‑Source Tools"
 date: 2026-06-03T23:51:53.880Z
-modified_date: 2026-08-26T00:56:03.280Z
+modified_date: 2026-08-28T03:58:37.003Z
 tags: ["quantum","security","open-source","media","software"]
 hero_image: "/hero/2026-06-03-quantum-updates-dashlane-silence-and-new-open-source-tools-d081c4.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "abstract representation of quantum circuits alongside code snippets and streaming icons"
 description: "Microsoft, Atom Computing, and EeroQ share quantum progress; Dashlane’s advisory omits key facts; Plex adds social layers; new Zig UI framework and nutrition site launch."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-03-quantum-updates-dashlane-silence-and-new-open-source-tools-d081c4.mp3"
 audio_bytes: 591457
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ Track the next set of quantum‑progress releases from Microsoft, Atom Computing
 
 ## Updates
 
+- **2026-08-28** — Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/))
 - **2026-08-26** — Lego Skylines is a cozy city builder from the studio that's repairing Cities: Skylines II ([source](https://www.engadget.com/2244251/lego-skylines-is-a-cozy-city-builder-from-the-studio-that-s-repairing-cities-skylines-ii/))
 - **2026-08-01** — Angela Nissel faces down grief with a laugh ([source](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead))

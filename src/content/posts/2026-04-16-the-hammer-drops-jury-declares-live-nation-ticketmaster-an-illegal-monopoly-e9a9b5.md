@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-08-12T16:53:05.494Z
+modified_date: 2026-08-28T03:58:49.672Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 24
+sources_count: 25
 author: "lena-volkov"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-08-28** — Anthropic was illegally blacklisted by the Trump administration, court rules ([source](https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling))
 - **2026-08-12** — Amazon gets out of the MMO game ([source](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations))
 - **2026-07-27** — Chinese RAM company CXMT makes a $484 billion stock market debut ([source](https://www.theverge.com/tech/971358/cxmt-china-ram-stock-market-debut))
 - **2026-06-02** — Microsoft’s first advanced reasoning AI is here ([source](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026))

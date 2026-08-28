@@ -7,7 +7,7 @@
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-08-27T06:46:55.875Z",
+    "last_success": "2026-08-28T04:12:33.184Z",
     "consecutive_failures": 0,
     "last_error": "Groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\",\"type\":\"invalid_request_error\",\"code\":\"json_validate_failed\",\"failed_generation\":\"max completion tokens reached before generating a valid document\"}}\n",
     "last_failure": "2026-08-26T19:44:36.983Z"
@@ -30,7 +30,7 @@
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (d1892952-9b87-4682-b336-56780e375d62)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-08-27T06:46:38.793Z",
-    "last_success": "2026-08-27T18:51:08.135Z"
+    "last_success": "2026-08-28T04:15:24.928Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -59,15 +59,15 @@
     "last_failure": "2026-08-24T14:59:18.264Z"
   },
   "cloudflare:@cf/meta/llama-3.1-8b-instruct": {
-    "consecutive_failures": 151,
-    "last_error": "Cloudflare 410: {\"errors\":[{\"message\":\"AiError: Model has been deprecated: @cf/meta/infire-llama-3.1-8b-instruct was deprecated on 2026-05-30. See the model catalog for alternatives: https://developers.cloudflare.com/workers-ai/models/ (56a528aa-74ac-48b9-a9b4-06b3a12f9c23)\",\"code\":5028}],\"success\":",
-    "last_failure": "2026-08-26T20:01:01.305Z",
+    "consecutive_failures": 153,
+    "last_error": "Cloudflare 410: {\"errors\":[{\"message\":\"AiError: Model has been deprecated: @cf/meta/infire-llama-3.1-8b-instruct was deprecated on 2026-05-30. See the model catalog for alternatives: https://developers.cloudflare.com/workers-ai/models/ (0991cef0-b310-45a9-b0e6-bae8563a0a8b)\",\"code\":5028}],\"success\":",
+    "last_failure": "2026-08-28T04:04:41.239Z",
     "cooldown_until": "2026-05-31T14:11:44.894Z"
   },
   "gemini:gemini-2.5-flash-lite": {
-    "consecutive_failures": 51,
-    "last_error": "{\"error\":{\"code\":404,\"message\":\"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements.\",\"status\":\"NOT_FOUND\"}}",
-    "last_failure": "2026-08-26T20:01:01.436Z",
+    "consecutive_failures": 53,
+    "last_error": "{\"error\":{\"code\":404,\"message\":\"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API.\",\"status\":\"NOT_FOUND\"}}",
+    "last_failure": "2026-08-28T04:04:41.344Z",
     "cooldown_until": "2026-06-30T04:22:41.273Z"
   }
 }

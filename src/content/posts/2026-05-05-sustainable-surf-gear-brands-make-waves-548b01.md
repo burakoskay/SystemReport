@@ -1,16 +1,17 @@
 ---
 title: "Sustainable Surf Gear Brands Make Waves"
 date: 2026-05-05T10:10:52.660Z
-modified_date: 2026-06-07T14:04:43.738Z
+modified_date: 2026-08-28T03:59:33.877Z
 tags: ["sustainable surf gear","eco-friendly surfing","surfing industry trends"]
 hero_image: "/hero/2026-05-05-sustainable-surf-gear-brands-make-waves-548b01.jpg"
 hero_image_credit_name: "Harold Granados"
 hero_image_credit_url: "https://www.pexels.com/@harold-granados-115813190"
 visual_keyword: "sustainable surfboard"
 description: "Eco-friendly surf gear brands like Patagonia, Billabong, and Outerknown are making sustainable waves in the surfing industry."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 ## Riding the Sustainable Wave
@@ -71,4 +72,5 @@ The sustainable surf gear movement is not just about surfing; it's about promoti
 
 ## Updates
 
+- **2026-08-28** — Guns, cars and chihuahuas: Breaking down the GTA 6 extended look ([source](https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/))
 - **2026-06-07** — How Liminalism Became the Defining Aesthetic of Our Time ([source](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/))

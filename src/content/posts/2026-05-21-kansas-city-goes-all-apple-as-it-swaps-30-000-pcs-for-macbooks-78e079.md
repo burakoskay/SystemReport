@@ -1,19 +1,20 @@
 ---
 title: "Kansas City goes all‑Apple as it swaps 30,000 PCs for MacBooks"
 date: 2026-05-21T04:15:21.113Z
-modified_date: 2026-08-20T14:30:42.836Z
+modified_date: 2026-08-28T03:59:14.901Z
 tags: ["kansas city","edtech","apple","education"]
 hero_image: "/hero/2026-05-21-kansas-city-goes-all-apple-as-it-swaps-30-000-pcs-for-macbooks-78e079.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "classroom of students using MacBook laptops in a modern school"
 description: "Kansas City will replace 30,000 Windows and Chromebooks with over 4,500 MacBook Neos, betting on Apple hardware amid a mixed record of ed‑tech experiments."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-21-kansas-city-goes-all-apple-as-it-swaps-30-000-pcs-for-macbooks-78e079.mp3"
 audio_bytes: 625938
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Kansas City’s district will need to track device health, app adoption rates, a
 
 ## Updates
 
+- **2026-08-28** — Anthropic's new hardware standard lets AI agents control the physical world ([source](https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/))
 - **2026-08-20** — Here’s what data Comcast says its motion-detecting routers collect ([source](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response))
 - **2026-08-15** — Star Wars: Ahsoka season 2 and Starfighter get teased at D23 ([source](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23))
 - **2026-08-14** — Hoto’s new cordless soldering iron heats up in three seconds ([source](https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable))

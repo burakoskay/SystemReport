@@ -1,19 +1,20 @@
 ---
 title: "Google Phone Gets Third-Party App Integration"
 date: 2026-05-15T03:56:13.468Z
-modified_date: 2026-08-05T17:41:27.250Z
+modified_date: 2026-08-28T03:59:27.568Z
 tags: ["Google","Spotify","Apple"]
 hero_image: "/hero/2026-05-15-google-phone-gets-third-party-app-integration-821c74.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Google Phone"
 description: "Google Phone gets third-party app integration, Spotify adopts Apple's HLS streaming tech for video podcasts, and more"
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-15-google-phone-gets-third-party-app-integration-821c74.mp3"
 audio_bytes: 574529
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -98,4 +99,5 @@ By staying informed about the latest developments in the tech industry, users an
 
 ## Updates
 
+- **2026-08-28** — The most popular Android phone brands rarely sold in the US ([source](https://www.engadget.com/2245473/most-popular-android-phone-brands-rarely-sold-usa/))
 - **2026-08-05** — Ted Lasso is back, and two more hit Apple shows are coming soon ([source](https://9to5mac.com/2026/08/05/ted-lasso-is-back-and-two-more-hit-apple-shows-are-coming-soon/))

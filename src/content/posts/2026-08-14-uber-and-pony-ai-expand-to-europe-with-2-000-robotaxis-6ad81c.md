@@ -1,16 +1,17 @@
 ---
 title: "Uber and Pony.ai Expand to Europe with 2,000 Robotaxis"
 date: 2026-08-14T12:54:18.971Z
-modified_date: 2026-08-23T16:18:21.224Z
+modified_date: 2026-08-28T03:59:40.214Z
 tags: ["autonomous vehicles","Uber","Pony.ai","Europe"]
 hero_image: "/hero/2026-08-14-uber-and-pony-ai-expand-to-europe-with-2-000-robotaxis-6ad81c.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxis"
 description: "Uber and Pony.ai launch 2,000 robotaxis in Europe"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Introduction
@@ -32,4 +33,5 @@ The potential market for autonomous vehicles in Europe is significant, with mill
 
 ## Updates
 
+- **2026-08-28** — Meta is closing a loophole that allowed people to record with their smart glasses' light covered ([source](https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/))
 - **2026-08-23** — Is it legal to train AI models on copyrighted books? It’s complicated ([source](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/))
