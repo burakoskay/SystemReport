@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Heart Rate Tracking Set for Major Upgrade"
 date: 2026-05-24T21:05:33.654Z
-modified_date: 2026-08-27T18:47:02.522Z
+modified_date: 2026-08-29T22:11:24.418Z
 tags: ["Apple Watch","health and fitness","wearable technology"]
 hero_image: "/hero/2026-05-24-apple-watch-heart-rate-tracking-set-for-major-upgrade-299301.jpg"
 hero_image_credit_name: "Deise Elen"
 hero_image_credit_url: "https://www.pexels.com/@deise-elen-2149983761"
 visual_keyword: "Apple Watch"
 description: "Apple's watchOS update to greatly improve heart-rate tracking; AI health coach delayed."
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 
 
@@ -55,5 +56,6 @@ In conclusion, the upcoming watchOS 27 update is set to greatly improve heart ra
 
 ## Updates
 
+- **2026-08-29** — Alt-right troll Milo Yiannopoulos has been deported ([source](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice))
 - **2026-08-27** — Speedo’s new smart goggles module can track all four swim strokes ([source](https://www.theverge.com/gadgets/985650/speedo-iq-vanquisher-goggles-module))
 - **2026-05-29** — Today is the last day to apply to speak at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/))

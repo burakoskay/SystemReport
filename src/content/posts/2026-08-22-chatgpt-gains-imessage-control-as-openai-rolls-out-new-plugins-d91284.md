@@ -1,15 +1,17 @@
 ---
 title: "ChatGPT gains iMessage control as OpenAI rolls out new plugins"
 date: 2026-08-22T02:56:20.142Z
+modified_date: 2026-08-29T22:11:18.122Z
 tags: ["openai","chatgpt","apple","ai","productivity"]
 hero_image: "/hero/2026-08-22-chatgpt-gains-imessage-control-as-openai-rolls-out-new-plugins-d91284.jpg"
 hero_image_credit_name: "Hatice Baran"
 hero_image_credit_url: "https://www.pexels.com/@hatice-baran-153179658"
 visual_keyword: "person using laptop with chatgpt window and imessage bubbles"
 description: "OpenAI's new iMessage plugin lets ChatGPT send messages, while a faster photo shortcut lands on iPhone and leaked conference plans hint at custom bots and enterprise plans."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ChatGPT can now type into Apple Messages, turning the chatbot into a personal messenger. The move pushes AI deeper into everyday communication and raises questions about privacy and workflow friction.
 
@@ -52,3 +54,7 @@ The November 6 conference will be the first public stage for Gizmo, the Team Pla
 ---
 
 *Ryan Tanaka covers AI product releases and their impact on developers and power users.*
+
+## Updates
+
+- **2026-08-29** — Vicariously hike the Appalachian in the gorgeous A Trail Tale ([source](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale))

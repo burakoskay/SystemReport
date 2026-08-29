@@ -1,15 +1,17 @@
 ---
 title: "Ring upgrades default encryption, pledges post-use cloud deletion"
 date: 2026-08-26T20:03:56.594Z
+modified_date: 2026-08-29T22:11:36.982Z
 tags: ["ring","encryption","privacy","smart-home"]
 hero_image: "/hero/2026-08-26-ring-upgrades-default-encryption-pledges-post-use-cloud-deletion-2883e7.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "Ring security camera with lock icon and data flow arrows"
 description: "Ring now encrypts video by default and deletes cloud copies after powering smart‑home actions, aiming to tighten privacy."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## Ring's encryption upgrade
 Ring announced that its video doorbells and cameras will now use stronger encryption as the default setting. The change arrives after years of criticism that Ring streams footage to Amazon‑owned servers without sufficient protection.
@@ -33,3 +35,7 @@ Legislators in the United States and Europe are also drafting rules that could f
 
 ## What to watch
 The next quarter will reveal whether Ring's encryption defaults reduce the volume of support tickets related to privacy complaints. Watch for any follow‑up statements from Amazon about key management, and monitor regulatory filings that reference Ring's policy as a case study. If the deletion window proves too short for third‑party developers, we may see a push for optional longer retention periods, which could reignite the privacy debate.
+
+## Updates
+
+- **2026-08-29** — What new Google Messages features are rolling out [August 2026] ([source](https://9to5google.com/2026/08/29/new-google-messages-features/))

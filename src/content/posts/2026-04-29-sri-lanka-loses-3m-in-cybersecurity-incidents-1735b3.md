@@ -1,16 +1,17 @@
 ---
 title: "Sri Lanka Loses $3M in Cybersecurity Incidents"
 date: 2026-04-29T14:16:33.875Z
-modified_date: 2026-08-18T12:33:33.905Z
+modified_date: 2026-08-29T22:11:49.533Z
 tags: ["Cybersecurity","Data Protection","Privacy","Geofence Warrants"]
 hero_image: "/hero/2026-04-29-sri-lanka-loses-3m-in-cybersecurity-incidents-1735b3.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "lock"
 description: "Recent cybersecurity incidents cost Sri Lanka $3 million, while the US Supreme Court considers the legality of geofence warrants, highlighting growing concerns over data protection and privacy."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ The growth of cybersecurity awareness training has led to an increase in the dem
 
 ## Updates
 
+- **2026-08-29** — Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later ([source](https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/))
 - **2026-08-18** — My parrot ate my keyboard ([source](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect))
 - **2026-07-30** — Show HN: CheapFoodMap – A map of good meals under $10 ([source](https://cheapfoodmap.com/))
 - **2026-07-28** — Anthropeum – Where in the world, and when, does this human artifact belong? ([source](https://anthropeum.com/))

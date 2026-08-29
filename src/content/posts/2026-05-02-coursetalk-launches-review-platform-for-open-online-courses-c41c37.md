@@ -1,19 +1,20 @@
 ---
 title: "CourseTalk Launches Review Platform for Open Online Courses"
 date: 2026-05-02T17:09:58.118Z
-modified_date: 2026-05-05T19:29:18.197Z
+modified_date: 2026-08-29T22:11:55.808Z
 tags: ["MOOCs","online learning","CourseTalk"]
 hero_image: "/hero/2026-05-02-coursetalk-launches-review-platform-for-open-online-courses-c41c37.jpg"
 hero_image_credit_name: "Katerina Holmes"
 hero_image_credit_url: "https://www.pexels.com/@katerina-holmes"
 visual_keyword: "online learning"
 description: "CourseTalk helps learners find quality open online courses with a review and discovery platform."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-02-coursetalk-launches-review-platform-for-open-online-courses-c41c37.mp3"
 audio_bytes: 600234
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ It will be interesting to see how CourseTalk continues to evolve in response to 
 
 ## Updates
 
+- **2026-08-29** — Good Culture Is the Biggest Productivity Hack, Not AI ([source](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity))
 - **2026-05-05** — Threads finally brings messaging to the web ([source](https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/))

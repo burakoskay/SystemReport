@@ -1,16 +1,17 @@
 ---
 title: "The Dark Side of Devotion: Unpacking the World of Conspiracy"
 date: 2026-04-18T01:04:51.470Z
-modified_date: 2026-08-27T18:48:46.096Z
+modified_date: 2026-08-29T22:11:30.715Z
 tags: ["conspiracy theories","surveillance state","social media influencers"]
 hero_image: "/hero/2026-04-18-the-dark-side-of-devotion-unpacking-the-world-of-conspiracy-theories-and-surveillance-979329.jpg"
 hero_image_credit_name: "Rahime Gül"
 hero_image_credit_url: "https://www.pexels.com/@rahimegul"
 visual_keyword: "shattered mirror reflection"
 description: "Exploring the intersection of conspiracy, surveillance, and the erosion of trust in institutions"
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ In recent weeks, the world of politics has been rocked by conspiracy theories su
 
 ## Updates
 
+- **2026-08-29** — How to watch the 2026 US Open Tennis Championships ([source](https://www.engadget.com/2246659/how-to-watch-2026-us-open-streaming-tv-options/))
 - **2026-08-27** — IMAX or LieMax? How to tell the difference ([source](https://www.engadget.com/2244674/how-to-tell-difference-imax-liemax/))
 - **2026-08-04** — How an OpenAI influencer trip backfired ([source](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing))
 - **2026-06-04** — Shokz upgraded its open earbuds with better sound and a lighter design ([source](https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones))
