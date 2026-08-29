@@ -1,15 +1,17 @@
 ---
 title: "Apple Seeks Up to 15% Commission on External iOS App Purchases"
 date: 2026-08-14T18:46:52.371Z
+modified_date: 2026-08-29T00:25:30.160Z
 tags: ["Apple","App Store","Commissions"]
 hero_image: "/hero/2026-08-14-apple-seeks-up-to-15-commission-on-external-ios-app-purchases-68c597.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Apple"
 description: "Apple proposes commission on external iOS app purchases"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Proposal
 Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps.
@@ -50,3 +52,7 @@ If approved, the proposal could have significant implications for the app ecosys
 Consumers may also be affected, as the proposed commission could lead to higher prices for apps and in-app purchases. The outcome of the proposal will depend on a variety of factors, including the court's decision and the response of developers and consumers.
 
 The proposed commission could also have implications for the wider tech industry. Other companies may be watching the outcome of the proposal to see if they can implement similar commissions on their own platforms.
+
+## Updates
+
+- **2026-08-29** — WhatsApp rolls out new chat themes on iOS, including animated wallpapers ([source](https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/))

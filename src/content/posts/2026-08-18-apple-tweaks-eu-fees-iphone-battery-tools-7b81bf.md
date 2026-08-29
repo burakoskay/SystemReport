@@ -1,15 +1,17 @@
 ---
 title: "Apple tweaks EU fees, iPhone battery tools"
 date: 2026-08-18T22:31:41.924Z
+modified_date: 2026-08-29T00:24:34.229Z
 tags: ["apple","eu","battery","homepod"]
 hero_image: "/hero/2026-08-18-apple-tweaks-eu-fees-iphone-battery-tools-7b81bf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone screen showing battery health metrics with percentage and cycle count"
 description: "Apple rolls out new EU commission rates, clarifies iPhone battery health access, and leaks a HomePod display via macOS beta code."
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 ## New EU commission rates for developers
 Apple rolled out a new commission structure for EU app developers. The change arrives after the Digital Markets Act forced the company to revisit its pricing model in the bloc.
@@ -41,3 +43,7 @@ The HomePod rumor, if realized, could open a new UI surface for both developers 
 
 ## What to watch
 Track the European Commission's next enforcement notice; any deviation from the announced commission tiers will signal how aggressively Apple is adapting to regulatory pressure. Monitor iOS updates for refinements to the Battery Health page, especially if Apple introduces cycle‑count alerts or predictive degradation warnings. Finally, keep an eye on HomePod announcements at Apple's upcoming hardware event; a prototype display or a software demo would confirm the macOS "Faces" clues and set the stage for a new product category.
+
+## Updates
+
+- **2026-08-29** — Xbox CEO calls Project Helix a ‘family of devices’ ([source](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices))

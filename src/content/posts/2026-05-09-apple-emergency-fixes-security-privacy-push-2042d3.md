@@ -1,16 +1,17 @@
 ---
 title: "Apple Emergency Fixes, Security, Privacy Push"
 date: 2026-05-09T17:10:46.410Z
-modified_date: 2026-08-18T16:26:36.907Z
+modified_date: 2026-08-29T00:26:07.521Z
 tags: ["apple","ios","privacy"]
 hero_image: "/hero/2026-05-09-apple-emergency-fixes-security-privacy-push-2042d3.jpg"
 hero_image_credit_name: "dumitru B"
 hero_image_credit_url: "https://www.pexels.com/@dumitru-b-742240889"
 visual_keyword: "iPhone screen showing software update notification"
 description: "Apple rolls out emergency iOS fixes, tightens security, and doubles down on privacy, while hinting at a stability‑first iOS 27."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The next iOS 27 release, rumored to prioritize a code cleanup and stability ov
 
 ## Updates
 
+- **2026-08-29** — State of the Map 2026 ([source](https://2026.stateofthemap.org/))
 - **2026-08-18** — The eight changes Apple is making to App Tracking Transparency in Europe ([source](https://9to5mac.com/2026/08/18/the-eight-changes-apple-is-making-to-app-tracking-transparency-in-europe/))
 - **2026-05-20** — Xbox hires game industry analyst Matthew Ball to lead strategy ([source](https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire))
 - **2026-05-11** — Security Bite Podcast: Why ClickFix is now the top way Macs get infected ([source](https://9to5mac.com/2026/05/11/security-bite-podcast-why-clickfix-is-now-the-top-way-macs-get-infected/))

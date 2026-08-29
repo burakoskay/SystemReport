@@ -1,16 +1,17 @@
 ---
 title: "Patina Raises $2M to Shake Up Fragrance"
 date: 2026-05-22T04:13:32.058Z
-modified_date: 2026-05-29T10:02:02.804Z
+modified_date: 2026-08-29T00:24:21.633Z
 tags: ["fragrance tech","patina","betaworks"]
 hero_image: "/hero/2026-05-22-patina-raises-2m-to-shake-up-fragrance-f75b3a.jpg"
 hero_image_credit_name: "Sara Ertem"
 hero_image_credit_url: "https://www.pexels.com/@sara-ertem-734725946"
 visual_keyword: "fragrance"
 description: "Patina, a fragrance tech startup, secures $2 million from Betaworks and True Ventures."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,4 +61,5 @@ The company's future plans and progress will be closely watched by investors, in
 
 ## Updates
 
+- **2026-08-29** — More Americans oppose police license plate cameras than support them: survey ([source](https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/))
 - **2026-05-29** — Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor ([source](https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays))

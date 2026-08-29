@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Analysis Reveals Submission Trends"
 date: 2026-05-17T06:52:30.954Z
-modified_date: 2026-08-11T22:36:24.848Z
+modified_date: 2026-08-29T00:24:46.654Z
 tags: ["Hacker News","Statistical Analysis","Tech Industry"]
 hero_image: "/hero/2026-05-17-hacker-news-analysis-reveals-submission-trends-a5bd8e.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "A statistical analysis of Hacker News submissions reveals trends in user engagement and content popularity."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -62,4 +63,5 @@ As Hacker News continues to evolve, it will be interesting to see how the platfo
 
 ## Updates
 
+- **2026-08-29** — Trump’s EPA wants to let data centers hide their air pollution ([source](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit))
 - **2026-08-11** — Government workers can officially waste time scrolling TikTok again ([source](https://www.engadget.com/2235010/government-workers-can-officially-waste-time-scrolling-tiktok-again/))

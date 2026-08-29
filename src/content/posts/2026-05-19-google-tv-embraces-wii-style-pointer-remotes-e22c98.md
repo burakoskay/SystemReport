@@ -1,18 +1,20 @@
 ---
 title: "Google TV Embraces Wii‑Style Pointer Remotes"
 date: 2026-05-19T21:31:43.564Z
+modified_date: 2026-08-29T00:24:52.894Z
 tags: ["google tv","pointer remote","i/o 2026"]
 hero_image: "/hero/2026-05-19-google-tv-embraces-wii-style-pointer-remotes-e22c98.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "hand holding a Wii-like remote pointing at a TV screen with Google TV interface"
 description: "Google I/O 2026 adds Wii‑like pointer support to Google TV, forcing apps and the homescreen to adapt to a new navigation style."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-19-google-tv-embraces-wii-style-pointer-remotes-e22c98.mp3"
 audio_bytes: 592920
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google TV Gets Wii‑Style Pointer Remotes
 
@@ -47,3 +49,7 @@ Developers expressed mixed feelings in the comments. Some praised the fresh inte
 ## What to Watch
 
 Google will ship the homescreen update later this year, and third‑party remote manufacturers have hinted at prototypes. Track the rollout of the new input SDK on the Google Developer site and watch for the first apps that announce pointer support. The next I/O keynote will likely reveal whether Google expects the pointer to become the default remote or remain an optional accessory.
+
+## Updates
+
+- **2026-08-29** — "RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster ([source](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/))

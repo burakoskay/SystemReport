@@ -1,19 +1,20 @@
 ---
 title: "SpaceX's 12th Starship Test Flight Takes Off"
 date: 2026-05-21T04:14:02.221Z
-modified_date: 2026-08-24T18:32:16.575Z
+modified_date: 2026-08-29T00:25:55.005Z
 tags: ["space","regulation","environment","open-source","software"]
 hero_image: "/hero/2026-05-21-spacex-s-12th-starship-test-flight-takes-off-65fbe2.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "rocket launch pad with legal documents and coffee cup recycling symbol"
 description: "A look at SpaceX's twelfth Starship flight, Colorado's open‑source age‑verification bill, Starbucks cup recycling data, and a stalled developer tool."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-21-spacex-s-12th-starship-test-flight-takes-off-65fbe2.mp3"
 audio_bytes: 623222
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 SpaceX lifted off its twelfth Starship test flight, a milestone that keeps the company on schedule for orbital operations. At the same time, lawmakers, retailers, and developers face fresh friction points that could reshape how technology moves forward.
@@ -54,4 +55,5 @@ Track SpaceX’s next flight window on the launch page for any changes to the ve
 
 ## Updates
 
+- **2026-08-29** — Just the rumour of a bug is enough to find an exploit these days ([source](https://anil.recoil.org/notes/rumour-is-the-exploit))
 - **2026-08-24** — MagSafe Monday: The TUCCH Mag Wallet feels like a real wallet, not just a slot to stick cards in ([source](https://9to5mac.com/2026/08/24/tucch-mag-wallet/))

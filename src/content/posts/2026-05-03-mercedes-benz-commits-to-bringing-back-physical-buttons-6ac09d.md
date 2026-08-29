@@ -1,16 +1,17 @@
 ---
 title: "Mercedes-Benz Commits to Bringing Back Physical Buttons"
 date: 2026-05-03T17:00:47.876Z
-modified_date: 2026-08-25T18:31:59.721Z
+modified_date: 2026-08-29T00:25:48.757Z
 tags: ["Mercedes-Benz","Physical Buttons","In-Car Controls"]
 hero_image: "/hero/2026-05-03-mercedes-benz-commits-to-bringing-back-physical-buttons-6ac09d.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Mercedes-Benz"
 description: "Mercedes-Benz to reintroduce physical buttons in vehicles, reversing touchscreen trend."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ The reintroduction of physical buttons by Mercedes-Benz is a significant develop
 
 ## Updates
 
+- **2026-08-29** — Pixel 11 vs. Pixel 11 Pro: More similar than ever before [Video] ([source](https://9to5google.com/2026/08/28/pixel-11-vs-pixel-11-pro-more-similar-than-ever-before-video/))
 - **2026-08-25** — Take a look at Microsoft&#8217;s new 25th anniversary Halo accessories ([source](https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories))

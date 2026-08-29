@@ -1,16 +1,17 @@
 ---
 title: "SME Tech Rescue"
 date: 2026-04-19T16:31:39.767Z
-modified_date: 2026-07-26T17:12:17.060Z
+modified_date: 2026-08-29T00:25:42.561Z
 tags: ["smetech","backofficetech","consultancy"]
 hero_image: "/hero/2026-04-19-sme-tech-rescue-00a0d1.jpg"
 hero_image_credit_name: "Juan Moccagatta"
 hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ What to watch: As the consultancy continues to grow and expand its services, it 
 
 ## Updates
 
+- **2026-08-29** — Friday’s Android app deals and freebies: 20 Minutes Till Dawn, Botanicula, Samorost 3, more ([source](https://9to5toys.com/2026/08/28/friday-android-app-deals-2/))
 - **2026-07-26** — Deals: Black Friday in July – Galaxy Z Fold 8/Ultra $1,230 off, Chromebooks, Anker gear from $8, Pixel 10 Pro $300 off, more ([source](https://9to5google.com/2026/07/24/deals-black-friday-july-galaxy-z-fold-8-anker/))
 - **2026-05-08** — Court rules Trump's 10% tariff is just as illegal as the tariff it replaced ([source](https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/))
 - **2026-05-01** — AI uses less water than the public thinks ([source](https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/))
