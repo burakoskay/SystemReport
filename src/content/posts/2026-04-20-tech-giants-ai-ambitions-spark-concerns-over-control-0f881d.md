@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants' AI Ambitions Spark Concerns Over Control"
 date: 2026-04-20T13:13:15.934Z
-modified_date: 2026-08-27T18:46:56.115Z
+modified_date: 2026-08-29T19:05:12.246Z
 tags: ["ai","control","tech giants","society"]
 hero_image: "/hero/2026-04-20-tech-giants-ai-ambitions-spark-concerns-over-control-0f881d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
-sources_count: 27
+sources_count: 28
 author: "maya-chen"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ The next few months will be critical in determining the future of AI control. Po
 
 ## Updates
 
+- **2026-08-29** — At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control? ([source](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/))
 - **2026-08-27** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face ([source](https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/))
 - **2026-08-20** — Riot is ending active development of 2XKO in December ([source](https://www.engadget.com/2241224/riot-is-ending-active-development-of-2xko-in-december/))
 - **2026-08-20** — Riot is ending development on its League of Legends fighting game ([source](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development))

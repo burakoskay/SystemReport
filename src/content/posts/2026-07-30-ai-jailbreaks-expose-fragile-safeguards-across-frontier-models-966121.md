@@ -1,15 +1,17 @@
 ---
 title: "AI jailbreaks expose fragile safeguards across frontier models"
 date: 2026-07-30T02:01:40.850Z
+modified_date: 2026-08-29T19:05:36.358Z
 tags: ["ai","security","jailbreak","cryptography","tech"]
 hero_image: "/hero/2026-07-30-ai-jailbreaks-expose-fragile-safeguards-across-frontier-models-966121.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI model code with lock being broken"
 description: "A new tool bypassed safety filters on four leading AI models, raising doubts about current defenses and prompting broader security concerns."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 ## AI safeguards cracked in minutes
 A new open‑source tool broke the safety filters of four frontier AI models. The test showed that the models let the tool generate disallowed content with only a few prompt tweaks.
@@ -48,3 +50,7 @@ We don’t know yet how quickly providers can patch the jailbreak vector. The te
 
 ## What to watch
 Track the next security patch releases from the four AI providers mentioned by WIRED. Monitor whether the patches address token‑level prompt injection or add external moderation layers. Follow the NIST post‑quantum standardization process for updates on HAWK‑type candidates. Keep an eye on Xbox’s firmware update timeline and Runna’s feature stability reports. These data points will indicate whether the industry learns from the recent failures or repeats them.
+
+## Updates
+
+- **2026-08-29** — Why would you pay $359 for the most expensive Whoop membership? ([source](https://www.engadget.com/2242774/most-expensive-whoop-membership-life-why-pay/))

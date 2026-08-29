@@ -1,16 +1,17 @@
 ---
 title: "Hope in a Broken World: Exploring Post-Apocalyptic Stories"
 date: 2026-04-18T01:05:11.111Z
-modified_date: 2026-08-18T16:26:01.131Z
+modified_date: 2026-08-29T19:05:48.291Z
 tags: ["postapocalyptic","sciencefiction","resilience"]
 hero_image: "/hero/2026-04-18-hope-in-a-broken-world-exploring-post-apocalyptic-stories-1b69cf.jpg"
 hero_image_credit_name: "Alec Doualetas"
 hero_image_credit_url: "https://www.pexels.com/@alecdoua"
 visual_keyword: "desolate landscape with survivors"
 description: "Discover the power of resilience in a world gone mad"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -23,6 +24,7 @@ In a world where the rules have changed and the familiar has been lost, stories 
 
 ## Updates
 
+- **2026-08-29** — What's the difference between TPU vs. GPU? ([source](https://www.engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/))
 - **2026-08-18** — Polaroid’s new Pokémon collection captures memories, not Pikachus ([source](https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film))
 - **2026-04-30** — The most severe Linux threat to surface in years catches the world flat-footed ([source](https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/))
 - **2026-04-21** — Homeland Security reportedly wants to develop smart glasses for ICE ([source](https://www.engadget.com/wearables/homeland-security-reportedly-wants-to-develop-smart-glasses-for-ice-093449347.html?src=rss))

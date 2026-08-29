@@ -1,15 +1,17 @@
 ---
 title: "Apricot Shuts Down: Content Organizer"
 date: 2026-05-21T12:54:01.840Z
+modified_date: 2026-08-29T19:05:54.212Z
 tags: ["content management","Apricot","shutdown","AI-powered curation"]
 hero_image: "/hero/2026-05-21-apricot-shuts-down-content-organizer-6933a4.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "content management"
 description: "Apricot, a web app for organizing content, shuts down. It helped users manage TV shows, podcasts, YouTube channels, and more in one place."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Apricot's Demise
@@ -48,3 +50,6 @@ The concept of content aggregation has been around for many years, with early se
 
 Apricot's technology was based on AI-powered algorithms that sorted and summarized content to help users decide what to spend time on. The service used natural language processing and machine learning techniques to analyze content and prioritize high-quality items. The use of AI-powered technology allowed Apricot to provide a more personalized and effective content management experience for users.
 
+## Updates
+
+- **2026-08-29** — Anbernic's reimagining of the Switch Lite goes on sale August 31 ([source](https://www.engadget.com/2246977/anbernic-reimagining-of-switch-lite-goes-on-sale-august-31/))
