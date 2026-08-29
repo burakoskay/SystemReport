@@ -1,16 +1,17 @@
 ---
 title: "AI's Double Edge: National Security and Consumer Costs"
 date: 2026-04-18T01:05:03.130Z
-modified_date: 2026-06-02T23:50:38.392Z
+modified_date: 2026-08-29T14:54:35.098Z
 tags: ["ai","cybersecurity","national security","consumer tech"]
 hero_image: "/hero/2026-04-18-ai-s-double-edge-national-security-and-consumer-costs-cb9546.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "AI circuit board"
 description: "AI advancements impact national security and consumer prices"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -21,5 +22,6 @@ The world of artificial intelligence (AI) is at a crossroads, with recent develo
 
 ## Updates
 
+- **2026-08-29** — I asked 100 companies for my data. Some deleted it instead. ([source](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/))
 - **2026-06-02** — Squishmallows, dentures, and an ‘I Heart Hot Dads’ bag: Uber has found thousands of items left in robotaxis ([source](https://techcrunch.com/2026/06/02/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis/))
 - **2026-04-24** — Google plans to invest even more money into Anthropic ([source](https://www.engadget.com/ai/google-plans-to-invest-even-more-money-into-anthropic-185000776.html?src=rss))

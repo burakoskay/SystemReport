@@ -1,16 +1,17 @@
 ---
 title: "Slate Auto EV Pricing Announcement"
 date: 2026-05-28T23:23:12.443Z
-modified_date: 2026-08-16T16:18:19.718Z
+modified_date: 2026-08-29T14:54:48.316Z
 tags: ["Electric Vehicles","Slate Auto","Bezos"]
 hero_image: "/hero/2026-05-28-slate-auto-ev-pricing-announcement-ea2d36.jpg"
 hero_image_credit_name: "Rathaphon Nanthapreecha"
 hero_image_credit_url: "https://www.pexels.com/@bank"
 visual_keyword: "Electric Vehicle"
 description: "Slate Auto to announce EV pricing on June 24"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ The electric vehicle market is part of a broader trend towards sustainable and e
 
 ## Updates
 
+- **2026-08-29** — How to use the new Siri app in iOS 27 ([source](https://www.engadget.com/2242748/how-to-use-the-new-siri-app-in-ios-27/))
 - **2026-08-16** — What is the Retro app for and how do you use it? ([source](https://www.engadget.com/2234246/retro-app-what-is-it-how-to-use/))
 - **2026-08-02** — There Are 2 Eclipses This August. Here’s How to See Them ([source](https://www.wired.com/story/two-eclipses-august-how-to-see-them/))
