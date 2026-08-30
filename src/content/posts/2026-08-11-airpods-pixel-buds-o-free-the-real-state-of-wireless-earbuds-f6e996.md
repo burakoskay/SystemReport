@@ -1,15 +1,17 @@
 ---
 title: "AirPods, Pixel Buds, O-Free: The Real State of Wireless Earbuds"
 date: 2026-08-11T01:18:02.325Z
+modified_date: 2026-08-30T19:00:04.484Z
 tags: ["wireless earbuds","audio","security"]
 hero_image: "/hero/2026-08-11-airpods-pixel-buds-o-free-the-real-state-of-wireless-earbuds-f6e996.jpg"
 hero_image_credit_name: "Dario Fernandez Ruz"
 hero_image_credit_url: "https://www.pexels.com/@dario-fernandez-ruz"
 visual_keyword: "close-up of true wireless earbuds in a modern office setting"
 description: "A hard look at Apple, Google, and Oppo’s true‑wireless earbuds, from fit woes to security flaws, and what the crowded market means for users."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Apple's $159 AirPods finally arrived after a series of delays, and the first impression is that they feel like a draft of the wireless future. They sound solid, but the design still drops the ball on staying in the ear.
 
@@ -51,6 +53,9 @@ The security disclosures add another layer to the competition. Manufacturers tha
 
 The next firmware cycles from Apple, Google, and Sony will reveal how quickly the WhisperPair fix propagates. Keep an eye on the price‑performance balance as newer models—like Google's Pixel Buds Pro 2 and upcoming Sony releases—enter the market. Finally, watch whether any major player abandons the hard‑plastic, one‑size‑fits‑most design in favor of more customizable fits, a shift that could finally resolve the long‑standing slip‑out problem.
 
+## Updates
+
+- **2026-08-30** — Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario ([source](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/))
 
 [^1]: [digitaltrends.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6rI5rnLz7Ii_2TD9EKkBH3KCBhteZKGpr8OxbE7wUyFLTRbW4sVeMAup_y5Q6cyiFIiOXJ_nqHkyx23SSxcOLlTgxIzJ2QOPlP2M3t6uKcu6tpiP2DRYKHjl9B3lcQ5skT0l6HMZ1nMTSkU98OPsslWEcVfUpqNC-atoEROP5OgNoMlPOCXOQwtaaN5A0IClO)
 [^2]: [bgr.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYCf3nnxPx7nOKtT_azgvTF5JVcHxL6Zv3mUGz16fNCg5kt85GUhvfmG97SZ58kRpZ1FeWSwQM66UoufTUdYaIZQvZ5wFfg5o3Ba1Id7oViUm52wiYQcuVtLHFffuKzhDBaqkMG0LlV1EDva38J669Am3QgCnT9Kcz9UWSWE1dvR6AKsKzMahlosXKnl_G)

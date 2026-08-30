@@ -1,18 +1,20 @@
 ---
 title: "Gaming Media Shifts"
 date: 2026-06-07T19:41:06.312Z
+modified_date: 2026-08-30T19:00:22.710Z
 tags: ["gaming","media","polygon"]
 hero_image: "/hero/2026-06-07-gaming-media-shifts-b52fa1.jpg"
 hero_image_credit_name: "lance he"
 hero_image_credit_url: "https://www.pexels.com/@lancehe"
 visual_keyword: "Xbox Series X"
 description: "Layoffs at Polygon, a 30-year-old gaming news site perseveres"
-sources_count: 7
-author: "elena-marchetti"
+sources_count: 8
 audio_path: "/audio/2026-06-07-gaming-media-shifts-b52fa1.mp3"
 audio_bytes: 619878
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Shift
 
@@ -59,3 +61,7 @@ However, sites like Blue's News demonstrate that it is possible to maintain inte
 The future of Polygon under Valnet's ownership will be closely watched, as will the impact of the layoffs on the gaming media industry as a whole. The perseverance of Blue's News serves as a reminder that it is possible to maintain integrity and provide quality content, even in the face of significant challenges. As the industry continues to evolve, it will be interesting to see how other outlets respond to the pressure to conform to the norms of the attention economy.
 
 The impact of the layoffs at Polygon on the gaming media industry will be significant, with many outlets likely to be affected by the changes in the industry. The rise of new technologies and new business models will continue to shape the industry, and it will be interesting to see how outlets adapt to these changes.
+
+## Updates
+
+- **2026-08-30** — Is 4K just marketing? Here's where the name really came from ([source](https://www.engadget.com/2242779/how-4k-tv-got-its-name/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-08-20T02:51:52.386Z
+modified_date: 2026-08-30T19:00:16.657Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-08-30** — Apple prototyped a stylus for the foldable iPhone that we may never see ([source](https://www.engadget.com/2247093/apple-prototyped-stylus-for-foldable-iphone-that-we-may-never-see/))
 - **2026-08-20** — Google Pixel 11 gets dbrand’s full case lineup, including Tank for the first time [Gallery] ([source](https://9to5google.com/2026/08/19/google-pixel-11-dbrand-cases/))
 - **2026-08-14** — tvOS 27 could push you to upgrade to new Apple TV 4K ([source](https://9to5mac.com/2026/08/14/tvos-27-could-push-you-to-upgrade-to-new-apple-tv-4k/))
 - **2026-07-29** — Keychron announces first open-source firmware for gaming mice ([source](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice))

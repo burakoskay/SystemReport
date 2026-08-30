@@ -1,19 +1,20 @@
 ---
 title: "Fortnite's The End"
 date: 2026-05-18T04:07:20.871Z
-modified_date: 2026-05-21T20:00:03.264Z
+modified_date: 2026-08-30T18:59:58.371Z
 tags: ["Fortnite","Gaming","The End"]
 hero_image: "/hero/2026-05-18-fortnite-s-the-end-147350.jpg"
 hero_image_credit_name: "Alena Darmel"
 hero_image_credit_url: "https://www.pexels.com/@a-darmel"
 visual_keyword: "Fortnite"
 description: "Fortnite's Season 10 event, The End, has concluded with a massive 6 million concurrent viewers"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-18-fortnite-s-the-end-147350.mp3"
 audio_bytes: 580381
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The End of Fortnite as We Know It
@@ -64,4 +65,5 @@ The game has also been used as a platform for social commentary and awareness, w
 
 ## Updates
 
+- **2026-08-30** — Texas Governor Abbott blocks funding for more Flock cameras ([source](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras))
 - **2026-05-21** — The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy ([source](https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/))

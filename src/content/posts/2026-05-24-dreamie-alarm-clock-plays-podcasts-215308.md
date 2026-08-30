@@ -1,19 +1,20 @@
 ---
 title: "Dreamie alarm clock plays podcasts"
 date: 2026-05-24T13:46:16.395Z
-modified_date: 2026-08-21T14:29:29.752Z
+modified_date: 2026-08-30T18:59:46.058Z
 tags: ["Dreamie alarm clock","podcast playback","smart home devices"]
 hero_image: "/hero/2026-05-24-dreamie-alarm-clock-plays-podcasts-215308.jpg"
 hero_image_credit_name: "Ruslan Sikunov"
 hero_image_credit_url: "https://www.pexels.com/@sikunovruslan"
 visual_keyword: "Dreamie alarm clock"
 description: "Dreamie alarm clock plays podcasts, a unique feature"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-24-dreamie-alarm-clock-plays-podcasts-215308.mp3"
 audio_bytes: 604831
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Dreamie alarm clock
@@ -35,4 +36,5 @@ Dreamie's launch will show how niche hardware survives in a review environment f
 
 ## Updates
 
+- **2026-08-30** — Liux’s Big microcar bets on sustainability to take on Chinese rivals ([source](https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/))
 - **2026-08-21** — John Ternus as CEO could bring ‘bigger acquisitions,’ new product categories: analyst ([source](https://9to5mac.com/2026/08/21/john-ternus-as-ceo-could-bring-bigger-acquisitions-new-product-categories-analyst/))
