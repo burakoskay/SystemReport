@@ -1,16 +1,17 @@
 ---
 title: "Marcia Lucas' Death Highlights Film Editing's Quiet Power"
 date: 2026-05-30T19:33:49.631Z
-modified_date: 2026-08-30T09:39:37.521Z
+modified_date: 2026-08-30T22:18:31.471Z
 tags: ["film","editing","technology"]
 hero_image: "/hero/2026-05-30-marcia-lucas-death-highlights-film-editing-s-quiet-power-b51580.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "vintage film editing suite with flatbed splicer and modern digital workstation"
 description: "The passing of Star Wars editor Marcia Lucas at 80 underscores the enduring technical craft behind blockbuster storytelling and its evolving tools."
-sources_count: 8
+sources_count: 9
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -39,5 +40,6 @@ The next generation of editing suites will be judged on how well they preserve t
 
 ## Updates
 
+- **2026-08-30** — Professor Murder Rides the Subway is a forgotten slice of dance punk perfection ([source](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review))
 - **2026-08-30** — Scientists Create the Littlest Big Bang to Study the Universe's Origins ([source](https://www.wired.com/story/scientists-create-littlest-big-bang-to-study-universe-origins/))
 - **2026-08-28** — Google tells Android app developers to cool it on memory use, or else ([source](https://www.theverge.com/tech/985679/google-play-android-17-memory-limit))
