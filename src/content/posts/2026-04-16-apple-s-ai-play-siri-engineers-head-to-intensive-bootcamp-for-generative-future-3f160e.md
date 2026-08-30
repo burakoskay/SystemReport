@@ -1,16 +1,17 @@
 ---
 title: "Apple's AI Play: Siri Engineers Head to Intensive Bootcamp for"
 date: 2026-04-16T05:32:12.504Z
-modified_date: 2026-08-25T04:33:07.624Z
+modified_date: 2026-08-30T03:00:05.042Z
 tags: ["apple","siri","artificial intelligence","generative ai","tech innovation"]
 hero_image: "/hero/2026-04-16-apple-s-ai-play-siri-engineers-head-to-intensive-bootcamp-for-generative-future-3f160e.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Siri AI upgrade"
 description: "Apple is reportedly sending Siri engineers to an intensive multi-week AI coding bootcamp, signaling a major strategic push to integrate advanced AI into its virtual assistant."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ As the tech world eagerly anticipates Apple's next major software releases, all 
 
 ## Updates
 
+- **2026-08-30** — How to save money on your phone bill with an MVNO ([source](https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/))
 - **2026-08-25** — India’s Airbound bags $37M to take on trucks with rocket-like drones ([source](https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/))
 - **2026-08-24** — How does converting a video to 4K actually work? ([source](https://www.engadget.com/2240352/how-converting-video-to-4k-works/))
 - **2026-08-22** — Initial focus for our partnership with Motorola is a regular non-folding device ([source](https://grapheneos.social/@GrapheneOS/117136278553665985))

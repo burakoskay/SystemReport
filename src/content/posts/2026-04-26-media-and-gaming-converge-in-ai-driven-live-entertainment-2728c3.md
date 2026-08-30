@@ -1,19 +1,20 @@
 ---
 title: "Media and Gaming Converge in AI-Driven Live Entertainment"
 date: 2026-04-26T22:56:45.034Z
-modified_date: 2026-08-17T20:20:10.833Z
+modified_date: 2026-08-30T03:00:11.703Z
 tags: ["AI-driven live entertainment","media and gaming convergence","interactive media"]
 hero_image: "/hero/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered live casino"
 description: "VCs and developers are redefining interactive media through AI and real-time gaming innovations."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.mp3"
 audio_bytes: 597099
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ Each represents a hinge point. Fail to regulate live game RNGs, and you risk a n
 
 ## Updates
 
+- **2026-08-30** — The wildest video game budgets can't hold a candle to GTA 6 ([source](https://www.engadget.com/2246918/video-games-rival-gta-6-budget/))
 - **2026-08-17** — Spotify’s new Playlist Notes let users and editors explain their song picks ([source](https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/))
 - **2026-08-10** — The first rival Android app store just arrived in the US Play Store ([source](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games))
 - **2026-05-22** — Soaring solar and a surge in hydro push more coal off the US grid ([source](https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/))
