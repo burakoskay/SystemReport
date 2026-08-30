@@ -1,15 +1,17 @@
 ---
 title: "Google speeds Chrome patches with AI, adds mute and link shields"
 date: 2026-07-30T21:08:48.450Z
+modified_date: 2026-08-30T14:37:50.609Z
 tags: ["chrome","security","ai","privacy"]
 hero_image: "/hero/2026-07-30-google-speeds-chrome-patches-with-ai-adds-mute-and-link-shields-512fb4.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "browser window with muted video icon and security shield"
 description: "Google ramps up Chrome bug fixes using AI and rolls out permanent mute and link‑shield features, while a health‑tech breach highlights the stakes."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Google deployed AI‑driven vulnerability hunting to double its Chrome patch cadence in June. The move shrinks the window for attackers to exploit newly discovered flaws.
 
@@ -40,3 +42,7 @@ The industry is watching how AI will reshape vulnerability management. If Google
 What to watch: the first full‑cycle of AI‑driven Chrome patches scheduled for Q4, the adoption rate of Chrome 64’s mute and link‑shield features, and any follow‑up disclosures from CareCloud about remediation steps. Tracking the Coalition for Better Ads enforcement rollout on February 15 will also indicate how browsers balance user experience with ad revenue.
 
 Future updates may reveal whether AI can keep pace with the growing complexity of web standards. For now, Google’s dual push—hardening the code base and improving user‑facing controls—offers a clearer picture of where the browser wars are heading.
+
+## Updates
+
+- **2026-08-30** — Two new small, powerful Macs ([source](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera))

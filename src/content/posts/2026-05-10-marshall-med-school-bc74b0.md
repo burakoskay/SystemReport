@@ -1,19 +1,20 @@
 ---
 title: "Marshall Med School"
 date: 2026-05-10T19:12:46.317Z
-modified_date: 2026-08-20T14:30:36.890Z
+modified_date: 2026-08-30T14:37:44.269Z
 tags: ["Marshall University","Joan C. Edwards School of Medicine","Healthcare Infrastructure"]
 hero_image: "/hero/2026-05-10-marshall-med-school-bc74b0.jpg"
 hero_image_credit_name: "K"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Marshall University"
 description: "Marshall University plans to acquire Northcott Court property for the future Joan C. Edwards School of Medicine"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-10-marshall-med-school-bc74b0.mp3"
 audio_bytes: 584769
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,5 +68,6 @@ In the long term, the Joan C. Edwards School of Medicine is expected to have a p
 
 ## Updates
 
+- **2026-08-30** — China’s robots race ahead ([source](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race))
 - **2026-08-20** — Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch ([source](https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker))
 - **2026-07-26** — Is this e-reader case a gun? ([source](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun))

@@ -1,15 +1,17 @@
 ---
 title: "AI tool rollouts spark debate over access and worker anxiety"
 date: 2026-05-31T04:16:46.659Z
+modified_date: 2026-08-30T14:38:22.335Z
 tags: ["AI tooling","access models","worker anxiety"]
 hero_image: "/hero/2026-05-31-ai-tool-rollouts-spark-debate-over-access-and-worker-anxiety-8afde7.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "OpenAI's GPT-Rosalind rollout and survey data on AI productivity highlight a sector at odds with its tools"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 OpenAI expanded GPT-Rosalind access to vetted developers and U.S. government partners, sparking debate over who gets to shape AI's role in high-stakes domains. 
 
@@ -54,3 +56,7 @@ The increasing use of AI tools in various industries will have far-reaching impl
 
 ## Future developments 
 The AI tooling market is likely to continue evolving, with new developments and innovations emerging in the coming years. As the sector continues to grow, it is essential to stay informed about the latest developments and to consider the potential implications of these changes for the industry and society as a whole.
+
+## Updates
+
+- **2026-08-30** — Longest Straight Line Paths on Water or Land on the Earth (2018) ([source](https://arxiv.org/abs/1804.07389))
