@@ -1,19 +1,20 @@
 ---
 title: "Ransomware Gang Sends Fake IT Workers to Hack Victims"
 date: 2026-06-05T20:04:33.750Z
-modified_date: 2026-08-06T23:55:12.449Z
+modified_date: 2026-08-31T18:38:34.789Z
 tags: ["cybersecurity","ransomware","Silent Ransom Group"]
 hero_image: "/hero/2026-06-05-ransomware-gang-sends-fake-it-workers-to-hack-victims-c45edc.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "cybersecurity"
 description: "Cybercriminals pose as IT support employees to steal data from law firms and other victims."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-05-ransomware-gang-sends-fake-it-workers-to-hack-victims-c45edc.mp3"
 audio_bytes: 529390
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ In conclusion, the incidents described above highlight the importance of staying
 
 ## Updates
 
+- **2026-08-31** — Apple pundits say Vision Pro is by far the best way to watch baseball ([source](https://9to5mac.com/2026/08/31/apple-pundits-say-vision-pro-is-by-far-the-best-way-to-watch-baseball/))
 - **2026-08-06** — There’s No Good Way to Talk About Celebrities and Eating Disorders ([source](https://www.wired.com/story/theres-no-good-way-to-talk-about-celebrities-and-eating-disorders/))

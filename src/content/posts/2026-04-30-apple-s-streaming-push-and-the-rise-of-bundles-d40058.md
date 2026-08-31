@@ -1,15 +1,17 @@
 ---
 title: "Apple's Streaming Push and the Rise of Bundles"
 date: 2026-04-30T19:59:10.317Z
+modified_date: 2026-08-31T18:38:48.077Z
 tags: ["apple tv","streaming services","comcast","tv bundling"]
 hero_image: "/hero/2026-04-30-apple-s-streaming-push-and-the-rise-of-bundles-d40058.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "modern living room with Apple TV interface displayed on a smart TV"
 description: "Apple expands streaming ambitions as Comcast bundles challenge industry norms"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Apple Reimagines TV Subscriptions Through Integration
 
@@ -38,3 +40,7 @@ Apple faces a unique challenge. Its software-centric approach avoids the hardwar
 ## What to Watch Next
 
 Apple's streaming strategy hinges on three factors: how quickly partners adopt its interface, whether original programming breaks through, and the pricing of its upcoming ad-supported tiers. Meanwhile, the success of Comcast's StreamSaver bundle could pressure other broadband providers to create competing packages. Key dates to track include Peacock's July price hike, Disney's summer bundling launch, and regulatory responses to WBD's sports bundle. The ultimate test will be if consumers view these packages as value-adds or just another form of cable in disguise.
+
+## Updates
+
+- **2026-08-31** — How to add and remove cards from Apple Wallet ([source](https://www.engadget.com/2246404/how-to-add-remove-cards-from-apple-wallet/))

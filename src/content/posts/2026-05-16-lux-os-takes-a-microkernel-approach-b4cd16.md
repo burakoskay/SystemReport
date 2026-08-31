@@ -1,16 +1,17 @@
 ---
 title: "Lux OS Takes a Microkernel Approach"
 date: 2026-05-16T09:58:59.945Z
-modified_date: 2026-08-18T04:30:16.162Z
+modified_date: 2026-08-31T18:38:14.745Z
 tags: ["microkernel-os","ssd-issues","indie-software","operating-systems","blogging-tools"]
 hero_image: "/hero/2026-05-16-lux-os-takes-a-microkernel-approach-b4cd16.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "microkernel architecture diagram with user-space servers connected via Unix sockets"
 description: "A 5,000-line microkernel OS and Spotify’s SSD problem intersect with indie blog tools."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The product caters to writers frustrated by ad-supported models. For 50 free pos
 
 ## Updates
 
+- **2026-08-31** — Apple releases beta 8 for iPadOS 27, watchOS 27, and more ([source](https://9to5mac.com/2026/08/31/apple-releases-beta-8-for-ipados-27-watchos-27-and-more/))
 - **2026-08-18** — Fairphone 6 and PostmarketOS working main camera ([source](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera))
 - **2026-05-25** — Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery ([source](https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth))
 - **2026-05-22** — Elon, stop trying to make Grok happen ([source](https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen))

@@ -1,15 +1,17 @@
 ---
 title: "Dyson's Handheld Fan, Amazon's Vega OS, and MagSafe Batteries"
 date: 2026-04-18T16:32:13.201Z
+modified_date: 2026-08-31T18:36:29.263Z
 tags: ["Dyson","Amazon","MagSafe"]
 hero_image: "/hero/2026-04-18-dyson-s-handheld-fan-amazon-s-vega-os-and-magsafe-batteries-056ce3.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "handheld fan"
 description: "Dyson's $99.99 fan, Amazon's Vega OS, and ultra-slim MagSafe batteries"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Dyson's Handheld Fan
 
@@ -32,3 +34,7 @@ The market's demand for genuine battery endurance keeps larger packs viable for 
 ## Consumer Hardware
 
 The trade-offs between performance, silence, ecosystem openness, and form factor will shape the next wave of consumer hardware. Manufacturers must find a balance between these factors to succeed. Dyson could improve its fan's design, Amazon must supply robust developer tools, and MagSafe producers should explore hybrid designs.
+
+## Updates
+
+- **2026-08-31** — Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson ([source](https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/))

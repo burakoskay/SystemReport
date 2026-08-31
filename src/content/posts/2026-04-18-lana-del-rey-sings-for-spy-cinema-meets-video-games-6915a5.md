@@ -1,16 +1,17 @@
 ---
 title: "Lana Del Rey Sings for Spy, Cinema Meets Video Games"
 date: 2026-04-18T01:10:30.460Z
-modified_date: 2026-08-21T00:56:44.003Z
+modified_date: 2026-08-31T18:36:55.732Z
 tags: ["video games","cinema","Lana Del Rey"]
 hero_image: "/hero/2026-04-18-lana-del-rey-sings-for-spy-cinema-meets-video-games-6915a5.jpg"
 hero_image_credit_name: "Tito Zzzz"
 hero_image_credit_url: "https://www.pexels.com/@tizzy"
 visual_keyword: "Exit 8"
 description: "Lana Del Rey's new song for James Bond game and Exit 8 film adaptation explore video game and cinema intersections."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -26,6 +27,7 @@ The film Exit 8 is described as 'cinema for the livestreaming era.' The intersec
 
 ## Updates
 
+- **2026-08-31** — You Know Who Really Hates AI? Insurance Claims Adjusters ([source](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/))
 - **2026-08-21** — Learn what VCs actually want, from a founder who’s raised $1B ([source](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/))
 - **2026-08-02** — Which USB adapters should you actually keep in 2026? ([source](https://www.engadget.com/2225779/which-usb-adapter-to-keep/))
 - **2026-07-29** — Which of Dyson’s 2026 Vacuum Models Is the Best? ([source](https://www.wired.com/story/dyson-vacuum-comparison-2026/))

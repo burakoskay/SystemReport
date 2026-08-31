@@ -1,19 +1,20 @@
 ---
 title: "NASA's Roman Space Telescope Set for August 30 Launch"
 date: 2026-06-06T15:22:27.784Z
-modified_date: 2026-08-11T18:56:26.640Z
+modified_date: 2026-08-31T18:37:54.878Z
 tags: ["NASA","Roman Space Telescope","Space Exploration"]
 hero_image: "/hero/2026-06-06-nasa-s-roman-space-telescope-set-for-august-30-launch-51c26b.jpg"
 hero_image_credit_name: "Michael Goddard"
 hero_image_credit_url: "https://www.pexels.com/@michael-goddard-213769109"
 visual_keyword: "Roman Space Telescope"
 description: "NASA targets August 30 for launching the Nancy Grace Roman Space Telescope, with 100 times Hubble's field of view."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-06-06-nasa-s-roman-space-telescope-set-for-august-30-launch-51c26b.mp3"
 audio_bytes: 608384
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Era in Space Exploration
@@ -58,4 +59,5 @@ The launch of the Roman Space Telescope also highlights the importance of intern
 
 ## Updates
 
+- **2026-08-31** — NASA's next "great observatory" begins mission to widen our view of the Universe ([source](https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/))
 - **2026-08-11** — How the iPhone has changed in the last five years ([source](https://www.engadget.com/2230998/how-iphone-changed-last-five-years/))

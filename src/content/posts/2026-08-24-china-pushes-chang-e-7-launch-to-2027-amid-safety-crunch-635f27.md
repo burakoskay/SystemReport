@@ -1,15 +1,17 @@
 ---
 title: "China pushes Chang’e 7 launch to 2027 amid safety crunch"
 date: 2026-08-24T14:56:35.826Z
+modified_date: 2026-08-31T18:36:49.216Z
 tags: ["china","moon","radiation","space"]
 hero_image: "/hero/2026-08-24-china-pushes-chang-e-7-launch-to-2027-amid-safety-crunch-635f27.jpg"
 hero_image_credit_name: "Min An"
 hero_image_credit_url: "https://www.pexels.com/@minan1398"
 visual_keyword: "lunar lander with fungal shield under starry sky"
 description: "China delays its Chang’e 7 lunar mission to 2027, citing unmet launch conditions and a push for flawless execution."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## China stalls Chang’e 7 until 2027
 China announced that the Chang’e 7 mission will not fly this year. The agency said the spacecraft does not meet the conditions for launch. The delay pushes the launch to 2027, a timeline the program calls "absolute success".
@@ -38,3 +40,7 @@ The game’s community‑driven model reflects the collaborative spirit needed f
 
 ## What to watch
 Track the Chinese space agency’s next technical bulletin for a revised Chang’e 7 flight‑readiness review. Follow the ISS fungal experiment’s follow‑up papers for scaling data. And keep an eye on laser‑communication demonstrators slated for launch in the next two years—they will test the very link Asimov imagined between Earth and the Moon.
+
+## Updates
+
+- **2026-08-31** — Why Food Keeps Making Everybody Sick This Summer ([source](https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/))

@@ -1,19 +1,20 @@
 ---
 title: "Ace Ping-Pong Robot Outplays Humans"
 date: 2026-04-25T20:56:26.756Z
-modified_date: 2026-07-26T17:10:30.174Z
+modified_date: 2026-08-31T18:38:01.386Z
 tags: ["robotics","aerospace","biotech","tech-innovation"]
 hero_image: "/hero/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.jpg"
 hero_image_credit_name: "dp singh Bhullar"
 hero_image_credit_url: "https://www.pexels.com/@dpsinghbhullar"
 visual_keyword: "robotic arm playing ping-pong against a human"
 description: "Ace, a ping-pong robot with advanced tracking, joins a landscape of orbital interceptors and regulatory shifts in biotech."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.mp3"
 audio_bytes: 599398
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The bigger question is how these systems will cascade into daily life. When robo
 
 ## Updates
 
+- **2026-08-31** — I think the military commissary's freezers were hacked ([source](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary))
 - **2026-07-26** — Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026) ([source](https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/))
 - **2026-05-14** — Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026 ([source](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/))
 - **2026-04-29** — Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained ([source](https://read.thecoder.cafe/p/linux-broke-postgresql))

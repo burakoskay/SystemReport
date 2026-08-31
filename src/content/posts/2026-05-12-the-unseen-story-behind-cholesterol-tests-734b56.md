@@ -1,19 +1,20 @@
 ---
 title: "The Unseen Story Behind Cholesterol Tests"
 date: 2026-05-12T06:49:58.723Z
-modified_date: 2026-08-03T19:24:30.003Z
+modified_date: 2026-08-31T18:36:22.409Z
 tags: ["cholesterol","cardiovascular health","apoB testing"]
 hero_image: "/hero/2026-05-12-the-unseen-story-behind-cholesterol-tests-734b56.jpg"
 hero_image_credit_name: "Supplements On Demand"
 hero_image_credit_url: "https://www.pexels.com/@supliful"
 visual_keyword: "cholesterol"
 description: "Doctors still rely on outdated cholesterol tests despite a more accurate method being available, posing high stakes for those at risk of cholesterol-related health issues."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-12-the-unseen-story-behind-cholesterol-tests-734b56.mp3"
 audio_bytes: 610892
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ The use of apoB testing represents a significant advancement in the field of car
 
 ## Updates
 
+- **2026-08-31** — Harvard Law dropout raises $6M for Blue Voice to build a “Harvey for police officers” ([source](https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/))
 - **2026-08-03** — Europe’s AI labeling and transparency rules are now in effect ([source](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes))

@@ -1,15 +1,17 @@
 ---
 title: "Investigative journalism faces crackdown at home and abroad"
 date: 2026-05-19T08:03:01.748Z
+modified_date: 2026-08-31T18:37:34.953Z
 tags: ["investigative-journalism","press-freedom","japan","us"]
 hero_image: "/hero/2026-05-19-investigative-journalism-faces-crackdown-at-home-and-abroad-d23698.jpg"
 hero_image_credit_name: "Charles Criscuolo"
 hero_image_credit_url: "https://www.pexels.com/@onetrillionpixels"
 visual_keyword: "stormy newsroom with protest signs"
 description: "New Japanese secrecy law, US ties to the OCCRP, and veteran reporters warn of growing risks for investigative journalism."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Japan tightens the leash on leaks
 The lower house passed the Designated Secrets Bill on Dec 7, forcing a vote before midnight. The measure criminalizes the disclosure of state secrets with up to ten years behind bars for journalists and five years for anyone who "instigates leaks."
@@ -32,3 +34,7 @@ Baker’s departure underscores a broader trend: investigative projects now requ
 
 ## What to watch
 Track the enforcement of Japan’s Designated Secrets Bill as the first prosecutions are announced. Monitor any legal challenges brought by journalists’ unions or human‑rights groups. In the United States, watch for congressional hearings on foreign funding of NGOs like OCCRP and for any policy shifts that could alter the current funding formula. Finally, keep an eye on the release of Baker’s Stanford findings; the report could become a flashpoint for debates about university accountability and the future of student‑led investigations.
+
+## Updates
+
+- **2026-08-31** — New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217; ([source](https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response))

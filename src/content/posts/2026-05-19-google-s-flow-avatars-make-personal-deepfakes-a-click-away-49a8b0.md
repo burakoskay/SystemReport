@@ -1,15 +1,17 @@
 ---
 title: "Google’s Flow avatars make personal deepfakes a click away"
 date: 2026-05-19T18:22:34.853Z
+modified_date: 2026-08-31T18:37:28.448Z
 tags: ["google","ai","deepfakes","image-editing"]
 hero_image: "/hero/2026-05-19-google-s-flow-avatars-make-personal-deepfakes-a-click-away-49a8b0.jpg"
 hero_image_credit_name: "Annushka  Ahuja"
 hero_image_credit_url: "https://www.pexels.com/@annushka-ahuja"
 visual_keyword: "person using AI video avatar on laptop screen"
 description: "Google adds video avatars to its Flow suite, blurring the line between creative tools and easy deepfake production."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Google’s new Flow avatars
 
@@ -38,3 +40,7 @@ The move also aligns with a broader trend: AI‑generated content is shifting fr
 ## What to watch
 
 The next few months will reveal whether Google layers any verification or watermarking into Flow avatars. Watch for updates to the platform’s terms of service, especially clauses that address misuse. Additionally, monitor policy statements from regulators and industry groups that may propose standards for synthetic media attribution. The balance between creative freedom and security will shape how tools like Flow and Pics evolve, and the decisions Google makes now will set a precedent for the rest of the AI‑generated content market.
+
+## Updates
+
+- **2026-08-31** — Debian won&#8217;t ban AI code from its Linux distribution ([source](https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy))

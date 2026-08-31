@@ -1,19 +1,20 @@
 ---
 title: "Booking.com Warns Customers of Possible Data and Security Breach"
 date: 2026-06-04T21:49:15.027Z
-modified_date: 2026-08-25T14:38:59.398Z
+modified_date: 2026-08-31T18:37:15.492Z
 tags: ["Booking.com","Data Breach","Travel Industry","Cyber Security","Online Transactions"]
 hero_image: "/hero/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "data breach"
 description: "Booking.com has alerted some customers to a potential data breach, where unauthorized parties may have accessed personal information, including names, emails, and addresses."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.mp3"
 audio_bytes: 600443
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,4 +62,5 @@ The news of the potential data breach at Booking.com highlights the vulnerabilit
 
 ## Updates
 
+- **2026-08-31** — Markiplier is now GoPro’s biggest shareholder ([source](https://www.theverge.com/tech/986847/markiplier-gopro-investor))
 - **2026-08-25** — WhatsApp tightens account security with stronger two-step verification and more ([source](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/))
