@@ -1,15 +1,17 @@
 ---
 title: "Nvidia Invests $40B in AI"
 date: 2026-05-09T17:01:27.432Z
+modified_date: 2026-08-31T23:34:45.511Z
 tags: ["AI","Nvidia","Underwater Cables"]
 hero_image: "/hero/2026-05-09-nvidia-invests-40b-in-ai-957918.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Nvidia invests heavily in AI ecosystem, big tech companies invest in underwater cables for AI development"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Introduction to Nvidia's AI Investments
 
@@ -60,3 +62,7 @@ The development of underwater cables is also expected to have significant implic
 ## What to Watch
 
 In the coming months, we can expect to see more investments in AI development from big tech companies. We can also expect to see the development of new underwater cables to support AI development. The key thing to watch will be how these investments pay off in terms of AI development. Will we see significant improvements in AI models and applications? Will the investment in underwater cables pay off in terms of faster and more reliable connectivity?
+
+## Updates
+
+- **2026-08-31** — The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes ([source](https://www.wired.com/story/labor-day-mattress-deals-2026/))

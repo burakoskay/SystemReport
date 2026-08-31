@@ -1,15 +1,17 @@
 ---
 title: "Legal Crossroads: Data Rights, Betting Rules"
 date: 2026-08-29T00:42:10.439Z
+modified_date: 2026-08-31T23:34:12.534Z
 tags: ["legal","regulation","privacy","politics","gambling"]
 hero_image: "/hero/2026-08-29-legal-crossroads-data-rights-betting-rules-71bf6a.jpg"
 hero_image_credit_name: "Sora Shimazaki"
 hero_image_credit_url: "https://www.pexels.com/@sora-shimazaki"
 visual_keyword: "courtroom with gavel and digital data streams"
 description: "Recent court rulings and ICE action expose how regulators are tightening tech‑related legal boundaries across data access, gambling, and political advertising."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 ## ICE detains Milo Yiannopoulos in Louisiana
 Milo Yiannopoulos landed in ICE custody on Wednesday. The UK‑born far‑right commentator was arrested in Lafayette, Louisiana, and placed in federal detention pending removal.
@@ -43,3 +45,7 @@ If the Supreme Court grants relief, the parties could resume ad purchases under 
 Track the ICE removal hearing for Yiannopoulos to gauge how high‑profile cases are handled under current immigration policy. Monitor California’s data‑access enforcement actions for any regulatory guidance that could streamline compliance. Follow the appellate docket for Kalshi to see whether the company pursues a higher‑court challenge to the gambling classification. Watch the Supreme Court docket for the GOP ad‑pricing petition; a decision before the November election would reshape political advertising economics.
 
 ---
+
+## Updates
+
+- **2026-08-31** — Kalshi bans George Santos for life over State of the Union bets ([source](https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/))

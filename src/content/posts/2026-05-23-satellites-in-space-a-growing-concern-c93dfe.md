@@ -1,16 +1,17 @@
 ---
 title: "Satellites in Space: A Growing Concern"
 date: 2026-05-23T03:47:55.233Z
-modified_date: 2026-08-29T19:05:30.319Z
+modified_date: 2026-08-31T23:35:05.243Z
 tags: ["satellites","space debris","light pollution"]
 hero_image: "/hero/2026-05-23-satellites-in-space-a-growing-concern-c93dfe.jpg"
 hero_image_credit_name: "Juan Martin Gomez"
 hero_image_credit_url: "https://www.pexels.com/@juan-martin-gomez-2144462245"
 visual_keyword: "satellite"
 description: "The increasing number of satellites in space is causing concerns about space debris, light pollution, and the potential for catastrophic collisions."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -77,5 +78,6 @@ The next major milestone in this effort will be the launch of new regulations an
 
 ## Updates
 
+- **2026-08-31** — Monday’s Android game and app deals: Cubasis 3, Seoul Exorcist 1111, Halls of Torment, more ([source](https://9to5toys.com/2026/08/31/monday-android-game-app-deals-cubasis/))
 - **2026-08-29** — Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ([source](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango))
 - **2026-07-28** — WhatsApp launches web calling alongside new features: call transfer, waiting room ([source](https://9to5google.com/2026/07/28/whatsapp-web-calling-new-features/))

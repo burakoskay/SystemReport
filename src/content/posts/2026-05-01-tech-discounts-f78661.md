@@ -1,19 +1,20 @@
 ---
 title: "Tech Discounts"
 date: 2026-05-01T09:51:32.747Z
-modified_date: 2026-08-14T07:16:38.610Z
+modified_date: 2026-08-31T23:34:32.379Z
 tags: ["tech discounts","promo codes","online shopping"]
 hero_image: "/hero/2026-05-01-tech-discounts-f78661.jpg"
 hero_image_credit_name: "Nataliya Vaitkevich"
 hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "promo codes"
 description: "Exclusive promo codes for Dell, Google Workspace, and more. Save up to 20% on laptops, software, and services."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-01-tech-discounts-f78661.mp3"
 audio_bytes: 628655
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The use of promo codes can have a significant impact on consumer behavior. As pe
 
 ## Updates
 
+- **2026-08-31** — FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads ([source](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit))
 - **2026-08-14** — Pura Promo Codes: $20 Off August 2026 ([source](https://www.wired.com/story/pura-promo-code/))
 - **2026-08-12** — Google’s Pixel 11 phone preorders come with up to $350 in gift cards ([source](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date))
 - **2026-07-30** — Pixel Watch 5 leaks in official-looking images with same charging system ([source](https://9to5google.com/2026/07/30/pixel-watch-5-angles-leak/))

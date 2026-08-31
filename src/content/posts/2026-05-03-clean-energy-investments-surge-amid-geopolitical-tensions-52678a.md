@@ -1,16 +1,17 @@
 ---
 title: "Clean Energy Investments Surge Amid Geopolitical Tensions"
 date: 2026-05-03T20:55:25.968Z
-modified_date: 2026-05-22T19:54:34.609Z
+modified_date: 2026-08-31T23:34:58.609Z
 tags: ["clean-energy","geopolitics","vc-strategy","grid-infrastructure","energy-security"]
 hero_image: "/hero/2026-05-03-clean-energy-investments-surge-amid-geopolitical-tensions-52678a.jpg"
 hero_image_credit_name: "Hazily Light"
 hero_image_credit_url: "https://www.pexels.com/@hazily-light-672092024"
 visual_keyword: "solar farm silhouetted against stormy horizon with transmission lines"
 description: "Investors are prioritizing energy security as Iran war fears drive capital toward renewables. Key projects, risks, and lessons from VC-led strategies."
-sources_count: 9
+sources_count: 10
 author: "priya-raman"
 ---
+
 
 
 ## $2.3B in New Clean Energy Deals as Geopolitical Risks Intensify
@@ -45,4 +46,5 @@ Investors should monitor two data points: the P5+1 diplomatic track with Iran (r
 
 ## Updates
 
+- **2026-08-31** — Google Maps renames "Lake Ontario" to "Lake America" even faster than US government ([source](https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/))
 - **2026-05-22** — Before it comes down, what should be saved from the International Space Station? ([source](https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/))

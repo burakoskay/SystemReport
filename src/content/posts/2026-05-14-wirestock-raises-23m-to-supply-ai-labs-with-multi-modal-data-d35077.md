@@ -1,16 +1,17 @@
 ---
 title: "Wirestock Raises $23M to Supply AI Labs with Multi-Modal Data"
 date: 2026-05-14T14:29:44.681Z
-modified_date: 2026-08-30T18:59:52.256Z
+modified_date: 2026-08-31T23:34:52.130Z
 tags: ["AI","data","investment"]
 hero_image: "/hero/2026-05-14-wirestock-raises-23m-to-supply-ai-labs-with-multi-modal-data-d35077.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data"
 description: "Wirestock secures $23M to provide AI labs with creative multi-modal data, including photos, videos, and 3D content."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,4 +61,5 @@ The future of AI data supply is rapidly evolving, with new companies and platfor
 
 ## Updates
 
+- **2026-08-31** — Think twice before installing this device promising free movies ([source](https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/))
 - **2026-08-30** — The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy ([source](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Last.fm Goes Solo, Rivian Rolls Out AI Assistant"
 date: 2026-05-28T04:04:55.504Z
-modified_date: 2026-08-25T18:31:46.736Z
+modified_date: 2026-08-31T23:33:59.348Z
 tags: ["Last.fm","Rivian","Amazon"]
 hero_image: "/hero/2026-05-28-tech-roundup-last-fm-goes-solo-rivian-rolls-out-ai-assistant-d7e1b3.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "Rivian"
 description: "Last.fm becomes independent, Rivian launches AI voice assistant, and Amazon expands delivery options."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -72,4 +73,5 @@ In the coming months, we can expect to see further developments from these compa
 
 ## Updates
 
+- **2026-08-31** — The Pentagon now has its own version of ChatGPT and Grok ([source](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/))
 - **2026-08-25** — How Xbox controllers have changed in the last 25 years ([source](https://www.engadget.com/2240787/how-xbox-controllers-changed-25-years/))

@@ -1,19 +1,20 @@
 ---
 title: "Venture Fund Closes $450M, New Heat Pump Startup"
 date: 2026-05-12T21:25:44.625Z
-modified_date: 2026-08-09T12:38:01.752Z
+modified_date: 2026-08-31T23:34:25.710Z
 tags: ["venture capital","infrastructure technology","AI-powered solutions"]
 hero_image: "/hero/2026-05-12-venture-fund-closes-450m-new-heat-pump-startup-1ee157.jpg"
 hero_image_credit_name: "Jimmy Liao"
 hero_image_credit_url: "https://www.pexels.com/@jimmy-liao-3615017"
 visual_keyword: "infrastructure"
 description: "A* Capital closes $450M fund, ex-Tesla exec starts heat pump startup, Samsara uses AI to detect potholes."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-12-venture-fund-closes-450m-new-heat-pump-startup-1ee157.mp3"
 audio_bytes: 658121
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ The future of infrastructure technology is expected to be shaped by increasing d
 
 ## Updates
 
+- **2026-08-31** — JMGO’s very bright all-in-one projector looks ideal for gamers and sports ([source](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs))
 - **2026-08-09** — Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How ([source](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/))
