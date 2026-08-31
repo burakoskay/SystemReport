@@ -1,16 +1,17 @@
 ---
 title: "Abstraction in LLMs: Balancing Control and Complexity"
 date: 2026-05-04T06:44:35.355Z
-modified_date: 2026-08-27T18:47:41.305Z
+modified_date: 2026-08-31T10:22:07.554Z
 tags: ["LLMs","Abstraction","AI Development"]
 hero_image: "/hero/2026-05-04-abstraction-in-llms-balancing-control-and-complexity-7f957f.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ In conclusion, the debate over abstraction in LLMs is a complex and multifaceted
 
 ## Updates
 
+- **2026-08-31** — The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026) ([source](https://www.wired.com/gallery/best-magsafe-grips/))
 - **2026-08-27** — Today’s Android game and app deals: Exolotl, Box Head Roguelike, Tiny Terraces, more ([source](https://9to5toys.com/2026/08/27/today-android-game-app-deals-exolotl/))
 - **2026-08-19** — What's the difference between Android's Qi2 And Qi2.2 wireless charging? ([source](https://www.engadget.com/2237260/android-qi2-vs-25w-wireless-charging-differences/))
 - **2026-08-02** — Sam Altman and AI’s decel debate ([source](https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/))
