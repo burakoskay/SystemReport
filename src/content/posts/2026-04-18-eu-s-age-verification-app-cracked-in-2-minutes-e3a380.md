@@ -1,16 +1,17 @@
 ---
 title: "EU's Age-Verification App Cracked in 2 Minutes"
 date: 2026-04-18T11:07:22.545Z
-modified_date: 2026-05-23T13:46:45.078Z
+modified_date: 2026-08-31T02:54:58.862Z
 tags: ["cybersecurity","EU","age-verification"]
 hero_image: "/hero/2026-04-18-eu-s-age-verification-app-cracked-in-2-minutes-e3a380.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "lock"
 description: "Researchers expose a glaring vulnerability in the EU's new age-verification app, hackable in minutes."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 The EU's age-verification app can be hacked in as little as 2 minutes, researchers found, exposing a gaping security flaw. This weakness raises significant concerns about the app's ability to protect user data.
@@ -23,4 +24,5 @@ The US Immigration and Customs Enforcement (ICE) faced scrutiny over dubious hir
 
 ## Updates
 
+- **2026-08-31** — Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off ([source](https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/))
 - **2026-05-23** — Hanging out in my favorite virtual coffee shop in Tokyo ([source](https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam))

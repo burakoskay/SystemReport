@@ -1,19 +1,20 @@
 ---
 title: "Google Home Updates"
 date: 2026-05-05T22:59:59.679Z
-modified_date: 2026-08-29T00:24:59.178Z
+modified_date: 2026-08-31T02:54:52.516Z
 tags: ["Google Home","Gemini","Smart Home","Automation"]
 hero_image: "/hero/2026-05-05-google-home-updates-2c5242.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Home"
 description: "Google Home gains Gemini-powered camera features and automation expansion"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-05-google-home-updates-2c5242.mp3"
 audio_bytes: 588531
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -95,6 +96,7 @@ As the smart home market continues to grow, we can expect to see more innovation
 
 ## Updates
 
+- **2026-08-31** — The U.S. is building barriers around drones and robots, but China has scale to get around them ([source](https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/))
 - **2026-08-29** — What's the difference between Dolby Atmos and lossless audio? ([source](https://www.engadget.com/2244161/dolby-atmos-and-lossless-audio-differences/))
 - **2026-08-27** — OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI ([source](https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/))
 - **2026-08-18** — The Sideload 041: A vision of Pixels to come ([source](https://9to5google.com/2026/08/18/the-sideload-041-a-vision-of-pixels-to-come/))
