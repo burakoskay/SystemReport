@@ -1,16 +1,17 @@
 ---
 title: "Framework refreshes Laptop 16 with RTX 5070 module and Ryzen AI"
 date: 2026-04-21T20:59:29.753Z
-modified_date: 2026-08-07T16:47:14.746Z
+modified_date: 2026-09-01T22:19:17.646Z
 tags: ["framework","laptop","hardware","gpu","production"]
 hero_image: "/hero/2026-04-21-framework-refreshes-laptop-16-with-rtx-5070-module-and-ryzen-ai-1ed2c8.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "open modular laptop with RTX 5070 graphics card and removable panels"
 description: "Framework launches a $1,499 DIY Laptop 16 refresh with an Nvidia RTX 5070 module, Ryzen AI CPUs and a 240 W supply, while production ramps toward a mid‑year fulfillment target."
-sources_count: 23
+sources_count: 24
 author: "david-okafor"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Another variable is the relationship with Nvidia. Framework has secured a mobile
 
 ## Updates
 
+- **2026-09-01** — Apple Maps follows Google in renaming Lake Ontario ([source](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming))
 - **2026-08-07** — What&#8217;s behind the Google AI shakeup ([source](https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast))
 - **2026-05-27** — Roids were all the rage at the Enhanced Games ([source](https://www.theverge.com/features/937620/enhanced-games-performance-enhancing-drugs-science-health-sports))
 - **2026-05-27** — Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app ([source](https://www.theverge.com/tech/938179/google-health-fitbit-roadmap))

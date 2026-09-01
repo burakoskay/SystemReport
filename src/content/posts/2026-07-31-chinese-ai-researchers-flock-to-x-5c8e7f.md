@@ -1,15 +1,17 @@
 ---
 title: "Chinese AI Researchers Flock to X"
 date: 2026-07-31T19:17:16.568Z
+modified_date: 2026-09-01T22:19:24.012Z
 tags: ["AI Research","X Platform","Global Collaboration"]
 hero_image: "/hero/2026-07-31-chinese-ai-researchers-flock-to-x-5c8e7f.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI"
 description: "Chinese AI researchers use X to share work and recruit talent"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction to the Shift
 Chinese AI researchers are using X to explain their work, recruit talent, and influence the global AI conversation. OpenAI and Anthropic employees have become less vocal online.
@@ -37,3 +39,7 @@ The increasing prominence of Chinese AI researchers on X is likely to have a las
 
 ## Global Collaboration
 The use of X by Chinese AI researchers is also reflective of the growing trend towards global collaboration in the field. As researchers from different countries and backgrounds come together to share their work and ideas, the potential for innovation and breakthroughs increases. This trend is likely to continue, with X and other platforms playing a major role in facilitating collaboration and knowledge sharing.
+
+## Updates
+
+- **2026-09-01** — Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750 ([source](https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale))

@@ -1,18 +1,20 @@
 ---
 title: "Google Releases AI Edge Gallery for macOS"
 date: 2026-06-04T04:28:28.655Z
+modified_date: 2026-09-01T22:19:11.168Z
 tags: ["AI","Edge AI","Google","Apple"]
 hero_image: "/hero/2026-06-04-google-releases-ai-edge-gallery-for-macos-7cceea.jpg"
 hero_image_credit_name: "Berkay  İlhan"
 hero_image_credit_url: "https://www.pexels.com/@berkay-i-lhan-868415"
 visual_keyword: "AI Edge Gallery"
 description: "Google's AI Edge Gallery and Apple's 'Privacy on iPhone' campaign"
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-06-04-google-releases-ai-edge-gallery-for-macos-7cceea.mp3"
 audio_bytes: 561991
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google brings Gemma models to macOS
 Google released the AI Edge Gallery for macOS, enabling local execution of Gemma models on Mac hardware. The rollout includes the Gemma 4 12B model and the AI Edge Eloquent dictation app.
@@ -50,3 +52,7 @@ The concept of edge AI has been around for several years, with companies like Go
 The launch of the AI Edge Gallery and Apple's 'Privacy on iPhone' campaign also have significant implications for the market. As companies like Google and Apple invest in edge AI and data privacy, they are likely to drive growth in the market for local AI models and privacy-focused products.
 
 The market for edge AI is expected to grow significantly in the coming years, driven by increasing demand for local AI models and privacy-focused products. The launch of the AI Edge Gallery is likely to accelerate this growth, as it provides developers with a range of tools and resources to build and deploy edge AI models.
+
+## Updates
+
+- **2026-09-01** — Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work ([source](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1))

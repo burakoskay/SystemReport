@@ -1,15 +1,17 @@
 ---
 title: "Apple TV+ climbs to $14.99 in fourth hike in four years"
 date: 2026-08-29T00:27:14.485Z
+modified_date: 2026-09-01T22:19:56.022Z
 tags: ["apple","streaming","pricing"]
 hero_image: "/hero/2026-08-29-apple-tv-climbs-to-14-99-in-fourth-hike-in-four-years-0a6adc.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV+ app interface with price tag overlay"
 description: "Apple raises Apple TV+ to $14.99 monthly and $119 yearly, the latest in a series of price hikes, and nudges Apple One bundles higher."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Apple TV+ now costs $14.99 per month, a $2 jump that pushes the service into the $15‑plus tier for the first time. The increase arrives alongside a $20 rise in the annual plan and a $2 bump for Apple One bundles that include the streaming service.
 
@@ -36,3 +38,7 @@ The price adjustment may also influence how Apple markets its original titles. W
 ## What to watch next
 
 Apple will likely monitor churn rates over the next quarter to gauge subscriber tolerance. The next data point to track is whether the company rolls out additional original content that can offset price sensitivity. A further adjustment to Apple One pricing could appear if the bundle’s cost advantage erodes further. Keep an eye on Apple’s earnings calls for hints about future pricing strategy and on competitor moves that could reshape the mid‑tier streaming segment.
+
+## Updates
+
+- **2026-09-01** — Are expensive HDMI cables worth it? ([source](https://www.engadget.com/2246414/are-expensive-hdmi-cables-worth-buying/))

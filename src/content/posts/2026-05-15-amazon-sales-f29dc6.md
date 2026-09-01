@@ -1,19 +1,20 @@
 ---
 title: "Amazon Sales"
 date: 2026-05-15T07:29:44.245Z
-modified_date: 2026-08-12T14:53:53.947Z
+modified_date: 2026-09-01T22:19:43.220Z
 tags: ["Amazon","Big Spring Sale","Prime Day"]
 hero_image: "/hero/2026-05-15-amazon-sales-f29dc6.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "shopping"
 description: "Shop now and save big on Amazon's Big Spring Sale and Prime Day"
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-05-15-amazon-sales-f29dc6.mp3"
 audio_bytes: 534405
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ In order to compete with Amazon, other retailers must focus on offering unique p
 
 ## Updates
 
+- **2026-09-01** — Best Amazon Labor Day Deals (2026): Sony, Shark, Anker ([source](https://www.wired.com/story/amazon-labor-day-deals-2026/))
 - **2026-08-12** — Pixel 11 videography improves with Pro Stable Video, Creator Suite, plus more ([source](https://9to5google.com/2026/08/12/pixel-11-videography/))
 - **2026-08-02** — Can using your phone while charging affect its battery life? ([source](https://www.engadget.com/2225319/how-using-phone-while-charging-affects-battery-life/))
 - **2026-05-27** — Sony is offering up to 50 percent off some of our favorite PS5 games ([source](https://www.theverge.com/gadgets/937711/cheap-ps5-games-sony-state-of-play-2026-sale-govee-lightwall-deal))
