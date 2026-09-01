@@ -1,16 +1,17 @@
 ---
 title: "Prepaid phone plans stay in minority despite cost savings"
 date: 2026-05-31T13:58:23.273Z
-modified_date: 2026-08-10T18:48:34.240Z
+modified_date: 2026-09-01T19:10:07.455Z
 tags: ["prepaid phone plans","wireless industry","cost savings"]
 hero_image: "/hero/2026-05-31-prepaid-phone-plans-stay-in-minority-despite-cost-savings-1907e0.jpg"
 hero_image_credit_name: "Ketut Subiyanto"
 hero_image_credit_url: "https://www.pexels.com/@ketut-subiyanto"
 visual_keyword: "prepaid phone plans"
 description: "Prepaid plans offer significant savings but account for only 23% of US wireless subscriptions, with market dynamics limiting their visibility."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -77,5 +78,6 @@ The growth of prepaid plans has implications for the wireless industry, driving 
 
 ## Updates
 
+- **2026-09-01** — Deals: Best Buy Labor Day sale, Pixel 11 series up to $320 off, Z Fold 8 Ultra up to $600 off, more ([source](https://9to5google.com/2026/09/01/deals-best-buy-labor-day-sale-pixel-11-fold-8-ultra/))
 - **2026-08-10** — YouTube is making it harder to earn money on YouTube ([source](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements))
 - **2026-08-03** — A Marc Benioff-backed startup thinks AI can solve the AI deployment problem ([source](https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/))

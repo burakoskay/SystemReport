@@ -1,16 +1,17 @@
 ---
 title: "Why New Software Installs Are Riskier Than You Think"
 date: 2026-05-08T03:49:14.704Z
-modified_date: 2026-05-19T15:34:59.935Z
+modified_date: 2026-09-01T19:09:21.770Z
 tags: ["security","software","open-source","ai"]
 hero_image: "/hero/2026-05-08-why-new-software-installs-are-riskier-than-you-think-90ad96.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "software engineer hesitating before clicking install button on laptop"
 description: "Fresh installs expose systems to zero‑day flaws, data theft claims, and a security talent gap that big‑tech funding alone can’t fix."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ Watch for a patched release of IPsec‑tools from the upstream maintainers and a
 
 ## Updates
 
+- **2026-09-01** — The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility ([source](https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack))
 - **2026-05-19** — Anker fixes the two worst things about power stations ([source](https://www.theverge.com/tech/928420/anker-solix-s2000-power-station))
 - **2026-05-18** — Elon Musk lost his case against Sam Altman ([source](https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial))

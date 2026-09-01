@@ -1,19 +1,20 @@
 ---
 title: "Supreme Court Weighs $8B Rural Phone and Internet Subsidy"
 date: 2026-05-18T04:10:25.006Z
-modified_date: 2026-05-21T20:00:27.545Z
+modified_date: 2026-09-01T19:09:41.324Z
 tags: ["rural broadband","universal service fund","supreme court"]
 hero_image: "/hero/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.jpg"
 hero_image_credit_name: "Sascha Weber"
 hero_image_credit_url: "https://www.pexels.com/@buxteh"
 visual_keyword: "rural broadband"
 description: "The US Supreme Court considers the fate of an $8 billion program subsidizing phone and internet services in rural areas, challenged on constitutional grounds."
-sources_count: 3
-author: "lena-volkov"
+sources_count: 4
 audio_path: "/audio/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.mp3"
 audio_bytes: 627610
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The Supreme Court's decision will have far-reaching implications for the future 
 
 ## Updates
 
+- **2026-09-01** — The TV vs projector value debate isn't close — here's why ([source](https://www.engadget.com/2244158/why-projector-better-than-tv/))
 - **2026-05-21** — BBEdit 16 out now with in-image text search, deeper Shortcuts integration, notebook filtering, more ([source](https://9to5mac.com/2026/05/21/bbedit-16-out-now-with-in-image-text-search-deeper-shortcuts-integration-notebook-filtering-more/))

@@ -1,16 +1,17 @@
 ---
 title: "College Instructor Turns to Typewriters to Curb AI-Written Work"
 date: 2026-04-19T01:57:45.436Z
-modified_date: 2026-07-31T19:16:20.715Z
+modified_date: 2026-09-01T19:09:47.813Z
 tags: ["ai in education","academic integrity","typewriters"]
 hero_image: "/hero/2026-04-19-college-instructor-turns-to-typewriters-to-curb-ai-written-work-e106cc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "typewriter on a desk"
 description: "A college instructor uses typewriters to teach life lessons and prevent AI-generated essays. The move sparks debate on AI's role in education."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The debate surrounding AI in education is far from over. As AI tools continue to
 
 ## Updates
 
+- **2026-09-01** — 'Reasonable' consumers know they don't own digital downloads, Sony says ([source](https://www.engadget.com/2248777/reasonable-consumers-know-they-dont-own-digital-downloads-sony-says/))
 - **2026-07-31** — Google Earth&#8217;s AI deepfake tool only lasted one day ([source](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool))
 - **2026-06-03** — This Is How Trump Finally Signed the AI Executive Order ([source](https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/))
 - **2026-05-05** — .de TLD offline due to DNSSEC? ([source](https://dnssec-analyzer.verisignlabs.com/nic.de))
