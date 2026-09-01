@@ -1,19 +1,20 @@
 ---
 title: "Medical Breakthroughs: Osteoarthritis, HIV, and PTSD Treatments"
 date: 2026-05-01T11:13:13.013Z
-modified_date: 2026-06-04T10:03:33.322Z
+modified_date: 2026-09-01T03:03:17.595Z
 tags: ["medical breakthroughs","osteoporosis","HIV prevention","PTSD treatment"]
 hero_image: "/hero/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "medical research"
 description: "New therapies show promise in treating osteoarthritis and HIV, while a previously hindered treatment for PTSD gains traction."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-01-medical-breakthroughs-osteoarthritis-hiv-and-ptsd-treatments-f83358.mp3"
 audio_bytes: 559065
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ By working together, we can ensure that these breakthroughs have a lasting and m
 
 ## Updates
 
+- **2026-09-01** — How I’m using Codex and ChatGPT on my Mac ([source](https://9to5mac.com/2026/08/31/codex-report-four-months-of-building-joy-on-my-mac-with-chatgpt/))
 - **2026-06-04** — Nintendo will launch a Switch 2 with replaceable batteries in the EU ([source](https://www.engadget.com/2187237/nintendo-switch-2-replaceable-batteries-eu/))
 - **2026-06-01** — The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands ([source](https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands))
 - **2026-05-08** — The unprecedented and deadly cruise ship hantavirus outbreak, explained ([source](https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/))
