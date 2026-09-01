@@ -1,16 +1,17 @@
 ---
 title: "Tech Tips and Tricks for Efficient Workflow"
 date: 2026-05-11T11:36:30.208Z
-modified_date: 2026-08-29T14:55:01.633Z
+modified_date: 2026-09-01T09:05:03.810Z
 tags: ["productivity","workflow","tech tips"]
 hero_image: "/hero/2026-05-11-tech-tips-and-tricks-for-efficient-workflow-014860.jpg"
 hero_image_credit_name: "Jolo Diaz"
 hero_image_credit_url: "https://www.pexels.com/@jolodiazr"
 visual_keyword: "keyboard shortcuts"
 description: "Discover practical tech tips and tricks for efficient workflow, from keyboard shortcuts to handy tools and strategies."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -91,6 +92,7 @@ In conclusion, tech tips and tricks are essential for efficient workflow and pro
 
 ## Updates
 
+- **2026-09-01** — Nike Promo Codes and Discounts: 30% for September 2026 ([source](https://www.wired.com/story/nike-promo-code/))
 - **2026-08-29** — Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon ([source](https://9to5mac.com/2026/08/29/parallels-desktop-27/))
 - **2026-08-25** — Apple @ Work: Parallels Desktop 27 brings OpenGL 4.3 and AI acceleration to Apple Silicon ([source](https://9to5mac.com/2026/08/25/parallels-desktop-27/))
 - **2026-08-15** — Apple @ Work: Understanding Apple Business Manager roles and permissions ([source](https://9to5mac.com/2026/08/15/apple-work-understanding-apple-business-manager-roles-and-permissions/))
