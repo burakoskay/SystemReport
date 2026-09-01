@@ -1,19 +1,20 @@
 ---
 title: "Apple CEO Shift"
 date: 2026-04-21T06:05:51.664Z
-modified_date: 2026-08-31T23:34:19.112Z
+modified_date: 2026-09-01T14:28:26.843Z
 tags: ["apple","ceo transition","john ternus"]
 hero_image: "/hero/2026-04-21-apple-ceo-shift-69091b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Transition"
 description: "Tim Cook steps down, John Ternus takes over as Apple's eighth CEO. What it means for the company's future."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-04-21-apple-ceo-shift-69091b.mp3"
 audio_bytes: 25934846
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ In the immediate future, investors and followers of Apple will be watching for a
 
 ## Updates
 
+- **2026-09-01** — John Ternus takes over as Apple&#8217;s new CEO ([source](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook))
 - **2026-08-31** — The Google TV Streamer now costs $50 more ([source](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase))
 - **2026-08-09** — This ‘adversarial’ pattern can prevent surveillance cameras from detecting you ([source](https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/))
 - **2026-07-30** — A second lens makes DJI’s Osmo Pocket 4P my new favorite video camera ([source](https://www.theverge.com/gadgets/972456/dji-osmo-pocket-4p-review))

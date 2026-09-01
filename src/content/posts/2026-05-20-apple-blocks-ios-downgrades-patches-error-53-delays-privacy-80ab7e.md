@@ -1,16 +1,17 @@
 ---
 title: "Apple blocks iOS downgrades, patches Error 53, delays privacy"
 date: 2026-05-20T18:34:41.681Z
-modified_date: 2026-08-04T14:28:47.708Z
+modified_date: 2026-09-01T14:29:18.666Z
 tags: ["apple","ios","privacy"]
 hero_image: "/hero/2026-05-20-apple-blocks-ios-downgrades-patches-error-53-delays-privacy-80ab7e.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone screen showing iOS update prompt with Apple logo"
 description: "Apple stops signing iOS 26.4.2, releases an iTunes‑only fix for Error 53, and pushes back its App Tracking Transparency rollout, tightening control over devices and repairs."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## iOS 26.5 ends downgrade path
@@ -53,4 +54,5 @@ Watch for Apple’s next signing window. If a critical bug surfaces in iOS 26.
 
 ## Updates
 
+- **2026-09-01** — Atlas' brain-monitoring wearable tells you how much you're in the moment ([source](https://www.engadget.com/2248372/atlas-wearable-eeg/))
 - **2026-08-04** — No, Apple Photos face recognition is not a privacy threat – quite the opposite ([source](https://9to5mac.com/2026/08/04/no-apple-photos-face-recognition-is-not-a-privacy-threat-quite-the-opposite/))

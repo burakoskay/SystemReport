@@ -1,16 +1,17 @@
 ---
 title: "Hantavirus Outbreak Exposes Limits of Contact-Tracing Apps"
 date: 2026-05-10T11:03:41.331Z
-modified_date: 2026-08-13T14:53:26.588Z
+modified_date: 2026-09-01T14:28:52.705Z
 tags: ["contact-tracing apps","hantavirus outbreak","public health infrastructure"]
 hero_image: "/hero/2026-05-10-hantavirus-outbreak-exposes-limits-of-contact-tracing-apps-fd3c50.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "contact-tracing apps"
 description: "Apps struggle with smaller outbreaks"
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 
 
@@ -43,4 +44,5 @@ The hantavirus outbreak serves as a reminder that contact-tracing apps are not a
 
 ## Updates
 
+- **2026-09-01** — Mozilla launches ad blocking for Firefox on iOS ([source](https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch))
 - **2026-08-13** — Rivian is finally getting a long-requested feature — and no, it’s not CarPlay ([source](https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's MacBook Neo Chip Shortage"
 date: 2026-04-19T01:59:33.704Z
-modified_date: 2026-08-20T18:30:12.487Z
+modified_date: 2026-09-01T14:29:12.160Z
 tags: ["apple","macbook neo","chip shortage","supply chain"]
 hero_image: "/hero/2026-04-19-apple-s-macbook-neo-chip-shortage-71dcbc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "MacBook Neo production line"
 description: "Apple faces a chip supply shortage for its MacBook Neo, which is selling better than expected. The company may need to adjust its production strategy."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ As Apple navigates its chip supply shortage, the company's next moves will be cl
 
 ## Updates
 
+- **2026-09-01** — OpenAI calls trade secret dispute ‘a mess of Apple’s own making’ ([source](https://9to5mac.com/2026/09/01/openai-calls-trade-secret-dispute-a-mess-of-apples-own-making/))
 - **2026-08-20** — Ramp launches its own AI model router, called Router ([source](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/))
 - **2026-04-21** — Samsung brings SmartThings integration to IKEA's Matter devices ([source](https://www.engadget.com/home/smart-home/samsung-brings-smartthings-integration-to-ikeas-matter-devices-151819629.html?src=rss))
 - **2026-04-20** — Mercedes’ first all-electric C-Class is its sportiest one yet ([source](https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs))

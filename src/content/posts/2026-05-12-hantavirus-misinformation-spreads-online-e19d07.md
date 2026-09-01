@@ -1,19 +1,20 @@
 ---
 title: "Hantavirus Misinformation Spreads Online"
 date: 2026-05-12T18:06:52.229Z
-modified_date: 2026-07-30T17:21:03.438Z
+modified_date: 2026-09-01T14:28:13.775Z
 tags: ["hantavirus","misinformation","public health"]
 hero_image: "/hero/2026-05-12-hantavirus-misinformation-spreads-online-e19d07.jpg"
 hero_image_credit_name: "Daniel Dan"
 hero_image_credit_url: "https://www.pexels.com/@daniel-dan-47825192"
 visual_keyword: "hantavirus"
 description: "Conspiracy theories about hantavirus are spreading online, echoing Covid-19 tactics. Influencers and grifters push baseless claims, sell unproven treatments."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-12-hantavirus-misinformation-spreads-online-e19d07.mp3"
 audio_bytes: 553840
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ The spread of misinformation about hantavirus is a call to action for public hea
 
 ## Updates
 
+- **2026-09-01** — Sonos introduces new headphones, soundbar, and software in its biggest announcement in years ([source](https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement))
 - **2026-07-30** — Samsung Galaxy owners report battery drain, overheating with latest updates ([source](https://9to5google.com/2026/07/30/samsung-galaxy-battery-drain-july-update-issues/))

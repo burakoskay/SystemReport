@@ -1,19 +1,20 @@
 ---
 title: "Apple's macOS 27 Drops Support for 4 Older Macs"
 date: 2026-05-18T21:18:11.068Z
-modified_date: 2026-08-30T14:38:09.642Z
+modified_date: 2026-09-01T14:29:31.583Z
 tags: ["Apple","macOS 27","iOS 27"]
 hero_image: "/hero/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.jpg"
 hero_image_credit_name: "Lex Photography"
 hero_image_credit_url: "https://www.pexels.com/@lexovertoom"
 visual_keyword: "macOS"
 description: "Apple's upcoming macOS 27 will no longer support four older Mac models. The company also introduces new security features, including AI-powered vulnerability detection."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.mp3"
 audio_bytes: 647463
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ In conclusion, Apple's macOS 27 and iOS 27 represent a significant step forward 
 
 ## Updates
 
+- **2026-09-01** — You can use your phone as a Roku remote (and it's free) ([source](https://www.engadget.com/2244167/use-phone-as-roku-remote-free-app/))
 - **2026-08-30** — Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app ([source](https://9to5mac.com/2026/08/30/apple-watch-series-12-last-minute-leaks-new-fitness-app-heart-rate/))
 - **2026-07-27** — Samsung’s 27-inch QD-OLED gaming monitor is priced right at $299.99 ([source](https://www.theverge.com/gadgets/971332/samsung-qdoled-gaming-monitor-find-my-tracker-ps5-logitech-deal-sale))
 - **2026-06-07** — A limited edition translucent green Xbox Series X and controller are coming this fall ([source](https://www.engadget.com/2189056/a-limited-edition-translucent-green-xbox-series-x-and-controller-are-coming-this-fall/))

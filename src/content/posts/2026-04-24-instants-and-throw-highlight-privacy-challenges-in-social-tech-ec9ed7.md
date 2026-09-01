@@ -1,19 +1,20 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-08-23T16:18:33.312Z
+modified_date: 2026-09-01T14:29:25.094Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-09-01** — The pros and cons of using a TV as your computer monitor ([source](https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/))
 - **2026-08-23** — Report: Apple launching updated iMac with M6 chip and new colors later this year ([source](https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/))
 - **2026-07-30** — Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI ([source](https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/))
 - **2026-07-29** — Hubble: Open-source notetaking app for you and your agents ([source](https://www.hubble.md/))

@@ -1,18 +1,20 @@
 ---
 title: "CodeCrafters Launches Public Challenges on Hacker News"
 date: 2026-06-06T23:09:43.117Z
+modified_date: 2026-09-01T14:28:39.796Z
 tags: ["experiential learning","software development","hands-on learning"]
 hero_image: "/hero/2026-06-06-codecrafters-launches-public-challenges-on-hacker-news-836d88.jpg"
 hero_image_credit_name: "Godfrey  Atima"
 hero_image_credit_url: "https://www.pexels.com/@godiatima"
 visual_keyword: "code"
 description: "CodeCrafters, ntsc-rs, and Mathpad showcase experiential dev tools on Hacker News, highlighting a shift toward hands-on learning platforms."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-06-codecrafters-launches-public-challenges-on-hacker-news-836d88.mp3"
 audio_bytes: 578291
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 # CodeCrafters launches public challenges on Hacker News
 
@@ -69,3 +71,7 @@ ntsc-rs uses a combination of Rust and C to emulate the analog TV and VHS artifa
 ## Conclusion
 
 The launches of CodeCrafters, ntsc-rs, and Mathpad on Hacker News demonstrate the growing appetite for experiential learning tools in the software development industry. These tools provide hands-on learning experiences that can help engineers acquire new skills and improve their productivity. As the market for experiential learning tools continues to grow, it's likely that we'll see new innovations and applications emerge.
+
+## Updates
+
+- **2026-09-01** — Get ready for a really busy month of smartphones ([source](https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi))

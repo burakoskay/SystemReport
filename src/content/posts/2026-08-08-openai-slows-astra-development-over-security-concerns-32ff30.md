@@ -1,18 +1,20 @@
 ---
 title: "OpenAI Slows Astra Development Over Security Concerns"
 date: 2026-08-08T01:08:53.144Z
+modified_date: 2026-09-01T14:28:59.220Z
 tags: ["AI Development","Security Concerns","Astra Model"]
 hero_image: "/hero/2026-08-08-openai-slows-astra-development-over-security-concerns-32ff30.jpg"
 hero_image_credit_name: "Michał Robak"
 hero_image_credit_url: "https://www.pexels.com/@michalrobak"
 visual_keyword: "Astra"
 description: "OpenAI slows Astra model development"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-08-08-openai-slows-astra-development-over-security-concerns-32ff30.mp3"
 audio_bytes: 610683
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Astra Development
 OpenAI slowed Astra model development. The model reached its critical cybersecurity threshold, meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.
@@ -32,3 +34,7 @@ The implications of OpenAI's decision to slow Astra's development will be felt a
 The Astra model's ability to identify and carry out cyberattacks against well-protected systems is a result of its advanced architecture. The model's critical cybersecurity threshold is a measure of its ability to operate independently and make decisions without human oversight. This threshold is a key milestone in the development of AI models, as it marks the point at which the model becomes capable of operating autonomously.
 ## Regulatory Implications
 The slowdown of Astra's development may have implications for regulatory bodies. As AI models become more sophisticated, there is a growing need for clear guidelines and regulations governing their development and deployment. The incident highlights the need for regulatory bodies to stay ahead of the curve and develop frameworks that prioritize security and responsibility in AI development.
+
+## Updates
+
+- **2026-09-01** — Be the MapQuest you want to see in the world ([source](https://9to5google.com/2026/09/01/be-the-mapquest-you-want-to-see-in-the-world/))
