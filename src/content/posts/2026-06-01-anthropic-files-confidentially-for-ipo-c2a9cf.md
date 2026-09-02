@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Files Confidentially for IPO"
 date: 2026-06-01T17:52:23.594Z
-modified_date: 2026-08-20T22:21:09.208Z
+modified_date: 2026-09-02T17:50:50.801Z
 tags: ["IPO","Artificial Intelligence","Anthropic"]
 hero_image: "/hero/2026-06-01-anthropic-files-confidentially-for-ipo-c2a9cf.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "IPO Filing"
 description: "Anthropic files for IPO, submits draft S-1 to SEC"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-01-anthropic-files-confidentially-for-ipo-c2a9cf.mp3"
 audio_bytes: 613818
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Anthropic's IPO Filing
@@ -34,4 +35,5 @@ The next steps for Anthropic involve the IPO process. The company will need to d
 
 ## Updates
 
+- **2026-09-02** — Google dodges another breakup attempt ([source](https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision))
 - **2026-08-20** — HyperX's first open-back gaming headset brings the bass ([source](https://www.engadget.com/2241185/hyperx-first-open-back-gaming-headset-brings-the-bass/))

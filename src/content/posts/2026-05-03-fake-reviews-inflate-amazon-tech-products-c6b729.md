@@ -1,16 +1,17 @@
 ---
 title: "Fake Reviews Inflate Amazon Tech Products"
 date: 2026-05-03T13:22:13.317Z
-modified_date: 2026-08-25T20:22:56.493Z
+modified_date: 2026-09-02T17:50:14.360Z
 tags: ["Fake Reviews","Amazon","E-commerce"]
 hero_image: "/hero/2026-05-03-fake-reviews-inflate-amazon-tech-products-c6b729.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Amazon Reviews"
 description: "Lesser-known brands use fake reviews to boost sales"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ To combat fake reviews, Amazon and other e-commerce platforms may need to develo
 
 ## Updates
 
+- **2026-09-02** — Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’ ([source](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/))
 - **2026-08-25** — Pixel 11 post-launch deals: Amazon now lets you stack trade-in bonus with $100+ gift cards ([source](https://9to5google.com/2026/08/25/pixel-11-post-launch-deals/))
 - **2026-08-23** — Why are there so many fast charging standards, and what's the difference between them? ([source](https://www.engadget.com/2241124/fast-charging-differenent-standards-explained/))

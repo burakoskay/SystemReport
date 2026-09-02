@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Retires Teams 'Together' Mode"
 date: 2026-05-18T10:14:51.248Z
-modified_date: 2026-06-01T17:50:54.397Z
+modified_date: 2026-09-02T17:51:50.943Z
 tags: ["Microsoft","Teams","Virtual Meetings"]
 hero_image: "/hero/2026-05-18-microsoft-retires-teams-together-mode-69ba93.jpg"
 hero_image_credit_name: "Anh Lee"
 hero_image_credit_url: "https://www.pexels.com/@anhleephoto"
 visual_keyword: "Teams"
 description: "Microsoft drops virtual-room feature"
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-18-microsoft-retires-teams-together-mode-69ba93.mp3"
 audio_bytes: 578082
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Microsoft Retires Teams 'Together' Mode
@@ -39,4 +40,5 @@ The retirement of 'Together' mode is likely to have significant implications for
 
 ## Updates
 
+- **2026-09-02** — FBI investigates as hackers sell digital scans of 153M drivers licenses ([source](https://9to5mac.com/2026/09/02/fbi-investigates-as-hackers-sell-digital-scans-of-153m-drivers-licenses/))
 - **2026-06-01** — Summer Game Fest 2026: All the news from gaming&#8217;s busiest week ([source](https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026))

@@ -1,15 +1,17 @@
 ---
 title: "Anthropic CEO Dario Amodei on AI Trust Crisis"
 date: 2026-08-16T18:21:25.327Z
+modified_date: 2026-09-02T17:50:56.773Z
 tags: ["AI","Trust","Transparency"]
 hero_image: "/hero/2026-08-16-anthropic-ceo-dario-amodei-on-ai-trust-crisis-ac7ddf.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Amodei on AI trust crisis"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Dario Amodei, Anthropic's CEO, says the current AI backlash is fundamentally a crisis of trust. Amodei made this statement in response to claims that he has been painting an overly pessimistic picture of AI. The notion that AI development has reached a critical juncture where trust is paramount underscores the complexities of integrating AI systems into daily life.
@@ -27,3 +29,7 @@ The implications of Amodei's statement extend beyond the tech industry. As AI be
 The AI industry is not isolated; it is part of a larger ecosystem that includes hardware manufacturers, software developers, and service providers. The development of AI systems is deeply intertwined with advancements in fields like data storage, computing power, and network connectivity. As AI continues to evolve, it is likely to have a profound impact on various sectors, including healthcare, finance, and education. Companies that can navigate this complex landscape and prioritize trust and transparency are likely to emerge as leaders in the AI space.
 ## What's Next
 Dario Amodei's statement emphasizes the need for trust in AI development. Companies must address concerns and build trust with the public to move forward. This involves not only developing more transparent AI systems but also engaging in open and honest communication about the capabilities and limitations of AI. As the AI landscape continues to evolve, the ability to navigate these challenges will be essential for the long-term success of companies like Anthropic.
+
+## Updates
+
+- **2026-09-02** — Continuous glucose monitors are about to get more complicated ([source](https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis))

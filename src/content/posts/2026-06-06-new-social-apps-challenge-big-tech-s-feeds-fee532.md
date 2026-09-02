@@ -1,19 +1,20 @@
 ---
 title: "New Social Apps Challenge Big Tech's Feeds"
 date: 2026-06-06T15:21:14.364Z
-modified_date: 2026-07-26T17:10:10.654Z
+modified_date: 2026-09-02T17:51:56.926Z
 tags: ["social media","new social apps","big tech","community-driven"]
 hero_image: "/hero/2026-06-06-new-social-apps-challenge-big-tech-s-feeds-fee532.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "social media"
 description: "Next-gen social apps focus on interests, creativity, and community, offering alternatives to traditional social media."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-06-new-social-apps-challenge-big-tech-s-feeds-fee532.mp3"
 audio_bytes: 622804
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,4 +56,5 @@ As the social media landscape continues to evolve, regulation is likely to play 
 
 ## Updates
 
+- **2026-09-02** — Rare, working Apple I computer heads to auction ([source](https://www.engadget.com/2249655/rare-working-apple-1-computer-heads-to-auction/))
 - **2026-07-26** — Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same ([source](https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/))

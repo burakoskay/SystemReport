@@ -1,16 +1,17 @@
 ---
 title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our"
 date: 2026-04-15T19:47:05.150Z
-modified_date: 2026-08-29T00:24:40.475Z
+modified_date: 2026-09-02T17:51:08.845Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
 hero_image: "/hero/2026-04-15-the-hidden-cost-of-ai-why-assistance-may-be-eroding-our-cognitive-edge-35716a.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"
 description: "A new study reveals AI assistance, while boosting immediate performance, fosters dependency and reduces human persistence, raising alarms for innovation and education."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ As AI continues to embed itself into every facet of our lives, from classrooms t
 
 ## Updates
 
+- **2026-09-02** — Deals: Nothing Ear (3a) from $67, Galaxy Flip 8 $320 off, 2026 IdeaPad $620 off, Sony Google Gemini TV $800 off, more ([source](https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/))
 - **2026-08-29** — Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate ([source](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale))
 - **2026-08-24** — Deals: TCL Android tablets from $150, Chipolo Google Find Hub wallet CARD $33, LG C6 OLED $1,000 off + $50 credit, more ([source](https://9to5google.com/2026/08/24/deals-tcl-android-tablet-chipolo-find-card-lg-c6-oled/))
 - **2026-08-14** — Google has another Pixel 11 discount for up to $175 off, here’s where to find it ([source](https://9to5google.com/2026/08/14/google-play-pixel-11-discount/))

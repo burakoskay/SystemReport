@@ -1,15 +1,17 @@
 ---
 title: "Android August Update, Gemini Help, Snapchat Fixes"
 date: 2026-08-25T08:44:06.263Z
+modified_date: 2026-09-02T17:52:02.928Z
 tags: ["android","gemini","snapchat"]
 hero_image: "/hero/2026-08-25-android-august-update-gemini-help-snapchat-fixes-f650d3.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "smartphone screen showing AI assistant chat and privacy settings"
 description: "Google’s August 2026 system notes add Play updates, Gemini’s new Device help on Pixel 11 Pro, and Snapchat’s breach‑response opt‑out, reshaping user‑developer dynamics."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Android’s August 2026 System Update Rollout
 The August 2026 Google System Release Notes landed on Android devices this week. The notes bundle changes to Play services, the Play Store, and the Play system update that affect phones, tablets, Wear OS watches, Android TV boxes, Auto head units, and ChromeOS PCs.
@@ -33,3 +35,7 @@ Both stories converge on a question of stewardship. When a platform ships silent
 
 ## What to Watch
 Track the September 2026 Google System Release Notes for any follow‑up to the Gemini Device help rollout. Watch whether the opt‑out toggle in Snapchat’s Find Friends survives a potential audit by the FTC or EU data‑protection bodies. The next few months will reveal whether AI integration proceeds faster than privacy remediation, or whether platform owners finally align the two.
+
+## Updates
+
+- **2026-09-02** — Digital scans of more than 153 million driver's licenses leaked to the dark web ([source](https://www.engadget.com/2249522/digital-scans-of-153-million-drivers-licenses-leaked-to-the-dark-web/))

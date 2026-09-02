@@ -1,16 +1,17 @@
 ---
 title: "Tesla brings Full Self-Driving to Europe, sales near $1.5B"
 date: 2026-05-20T22:10:54.804Z
-modified_date: 2026-08-03T17:47:36.742Z
+modified_date: 2026-09-02T17:50:38.835Z
 tags: ["tesla","self-driving","software","europe"]
 hero_image: "/hero/2026-05-20-tesla-brings-full-self-driving-to-europe-sales-near-1-5b-8f8b10.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "Tesla car dashboard displaying autonomous driving interface"
 description: "Tesla expands its Full Self-Driving add‑on to the Netherlands and Lithuania, while its software business eyes $1.5 billion in revenue this year."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## European rollout gains traction
@@ -46,4 +47,5 @@ The next regulatory decision will likely come from either France or Germany, whe
 
 ## Updates
 
+- **2026-09-02** — Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing ([source](https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs))
 - **2026-08-03** — Trump wants the power to stop the public from suing polluters ([source](https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/))

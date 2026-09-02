@@ -1,19 +1,20 @@
 ---
 title: "Meta's AI Ambitions Hit Financial Snags"
 date: 2026-04-30T06:33:49.140Z
-modified_date: 2026-08-01T02:12:03.196Z
+modified_date: 2026-09-02T17:52:14.940Z
 tags: ["Meta","AI","Reality Labs"]
 hero_image: "/hero/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Meta AI"
 description: "Meta's Reality Labs losses mount as AI investments increase spending."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.mp3"
 audio_bytes: 598771
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ As the AI landscape continues to evolve, it will be interesting to see how Meta'
 
 ## Updates
 
+- **2026-09-02** — Star Wars Zero Company is a great game that's busted and may never be fixed ([source](https://www.engadget.com/2248910/star-wars-zero-company-is-a-great-game-that-s-busted-and-may-never-be-fixed/))
 - **2026-08-01** — Gemini will create mobile & desktop apps in the future as AI Studio for Android, iOS is canceled ([source](https://9to5google.com/2026/07/31/gemini-ai-studio-app/))
 - **2026-05-28** — Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more ([source](https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/))
 - **2026-05-20** — Ask HN: Shouldn't Google need to give a public statement about Railway incident? ([source](https://news.ycombinator.com/item?id=48210590))

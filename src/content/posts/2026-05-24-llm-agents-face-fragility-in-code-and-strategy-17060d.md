@@ -1,15 +1,17 @@
 ---
 title: "LLM Agents Face Fragility in Code and Strategy"
 date: 2026-05-24T19:31:07.446Z
+modified_date: 2026-09-02T17:52:20.954Z
 tags: ["agentic ai","constraint decay","code generation","business strategy","military modeling"]
 hero_image: "/hero/2026-05-24-llm-agents-face-fragility-in-code-and-strategy-17060d.jpg"
 hero_image_credit_name: "Plato Terentev"
 hero_image_credit_url: "https://www.pexels.com/@plato-terentev-3804555"
 visual_keyword: "constraint decay"
 description: "New research highlights instability in AI systems for code and strategy; startups push agentic solutions despite open challenges."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## New Research Exposes Limits of Agentic AI Code Generation
 
@@ -38,3 +40,7 @@ For developers using these tools, the question becomes: how to balance the flexi
 ## What to Watch
 
 Researchers should monitor whether the constraint decay phenomenon persists when agents are trained on domain-specific corpuses (e.g., military simulations or code repositories). For startups like Brainterms.ai and Panopticon, the next six months will reveal whether they can implement validation pipelines that detect and correct constraint violations in real time. Investors should track whether these companies integrate external verification systems or continue relying solely on internal agent coordination. The open-source community may also see forks of the Panopticon codebase that explicitly address constraint enforcement in military modeling scenarios.
+
+## Updates
+
+- **2026-09-02** — Acer shows off its AI desktop future with the RTX Spark design ([source](https://www.engadget.com/2248794/acer-shows-off-its-ai-desktop-future-with-the-rtx-spark-design/))

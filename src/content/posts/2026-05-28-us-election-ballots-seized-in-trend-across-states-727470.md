@@ -1,15 +1,17 @@
 ---
 title: "US Election Ballots Seized in Trend Across States"
 date: 2026-05-28T10:19:09.148Z
+modified_date: 2026-09-02T17:50:20.661Z
 tags: ["US Elections","Voter Suppression","Election Integrity"]
 hero_image: "/hero/2026-05-28-us-election-ballots-seized-in-trend-across-states-727470.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "ballot"
 description: "Authorities have seized or demanded ballots from elections in multiple US states, sparking concerns about midterms disruption."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 
 ## Ballot seizures spark fears of midterms chaos
@@ -59,3 +61,7 @@ The integrity of the electoral process is at stake. If authorities continue to s
 The ballot seizures have sparked concerns about the potential for voter suppression or manipulation. The lack of transparency and unclear motivations have raised concerns about the potential for widespread disruption of the electoral process. The incident has highlighted the need for robust security measures to protect the electoral process from potential threats.
 
 The seizures have significant implications for the midterms and the overall health of democracy. It is essential that authorities, election officials, and lawmakers take urgent action to protect the electoral process and ensure its integrity.
+
+## Updates
+
+- **2026-09-02** — The Cybercab Is Almost Here. Now Comes the Hard Part ([source](https://www.wired.com/story/here-comes-the-tesla-cybercab/))

@@ -1,19 +1,20 @@
 ---
 title: "NSA tool leak and state-backed hacks expose systemic cyber risk"
 date: 2026-05-26T15:52:43.663Z
-modified_date: 2026-06-07T17:23:33.832Z
+modified_date: 2026-09-02T17:51:44.947Z
 tags: ["cybersecurity","state-backed hacking","NSA tool leak"]
 hero_image: "/hero/2026-05-26-nsa-tool-leak-and-state-backed-hacks-expose-systemic-cyber-risk-44e916.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "cyber risk"
 description: "Recent breaches highlight the impact of attribution gaps on corporate risk."
-sources_count: 4
-author: "priya-raman"
+sources_count: 5
 audio_path: "/audio/2026-05-26-nsa-tool-leak-and-state-backed-hacks-expose-systemic-cyber-risk-44e916.mp3"
 audio_bytes: 518105
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,4 +86,5 @@ The consequence of inaction is clear: organizations that fail to prioritize cybe
 
 ## Updates
 
+- **2026-09-02** — AI will be the defining test of Apple’s environmental commitments, says Greenpeace ([source](https://9to5mac.com/2026/09/02/ai-will-be-the-defining-test-of-apples-environmental-commitments-says-greenpeace/))
 - **2026-06-07** — Halo: Campaign Evolved arrives July 28th ([source](https://www.theverge.com/games/939564/halo-campaign-evolved-xbox-games-showcase-2026))
