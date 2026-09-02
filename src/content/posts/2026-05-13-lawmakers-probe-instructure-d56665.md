@@ -1,19 +1,20 @@
 ---
 title: "Lawmakers Probe Instructure"
 date: 2026-05-13T21:29:38.522Z
-modified_date: 2026-08-12T07:16:03.250Z
+modified_date: 2026-09-02T20:24:28.411Z
 tags: ["Data Breaches","Employee Protests","Regulatory Implications"]
 hero_image: "/hero/2026-05-13-lawmakers-probe-instructure-d56665.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Data Security"
 description: "US lawmakers demand answers from Instructure after Canvas data breaches, Meta employees protest mouse tracking program"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-13-lawmakers-probe-instructure-d56665.mp3"
 audio_bytes: 554885
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Data Breaches Under Scrutiny
@@ -49,4 +50,5 @@ As the US House lawmakers' inquiry into the Instructure breaches continues, it w
 
 ## Updates
 
+- **2026-09-02** — How to watch the PlayStation State of Play double header ([source](https://www.engadget.com/2249884/how-to-watch-the-playstation-state-of-play-double-header/))
 - **2026-08-12** — Zoro Coupon Codes: 55% Off August ([source](https://www.wired.com/story/zoro-promo-code/))

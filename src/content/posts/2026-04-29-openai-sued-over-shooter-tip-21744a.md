@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-08-26T14:40:22.827Z
+modified_date: 2026-09-02T20:24:33.838Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-09-02** — A third of Perplexity's citations don't contain the number they're cited for ([source](https://hausresearch.com/reports/perplexity-citation-audit/))
 - **2026-08-26** — PeopleFinders’ New Website Runs Background Checks on Your Dates ([source](https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/))
 - **2026-08-25** — Apple&#8217;s ‘new’ polishing cloth is the same except $10 cheaper ([source](https://www.theverge.com/tech/984353/apple-polishing-cloth-cheaper))
 - **2026-08-20** — PSA: ChatGPT outage is blocking users from logging in or creating new accounts [U] ([source](https://9to5mac.com/2026/08/19/psa-chatgpt-outage-is-blocking-users-from-logging-in-or-creating-new-accounts/))

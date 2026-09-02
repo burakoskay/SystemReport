@@ -1,18 +1,20 @@
 ---
 title: "AT4K Simplifies Google TV"
 date: 2026-06-04T10:04:58.764Z
+modified_date: 2026-09-02T20:24:17.450Z
 tags: ["Google TV","AT4K","Streaming"]
 hero_image: "/hero/2026-06-04-at4k-simplifies-google-tv-0c6299.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google TV"
 description: "AT4K app makes Google TV cleaner, more customizable, and less frustrating."
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-06-04-at4k-simplifies-google-tv-0c6299.mp3"
 audio_bytes: 605249
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Cleaner Google TV Experience
@@ -50,3 +52,7 @@ Google must now decide how to respond to the demand for a better TV streaming ex
 ## Conclusion
 
 The success of AT4K demonstrates that users are looking for a more streamlined and user-friendly TV streaming experience. Google TV's complex interface has hindered its adoption, and the company must now respond to user demands for a better experience. By prioritizing user experience and adapting to changing user needs and preferences, Google can regain its footing in the market and become a major player in the TV streaming space.
+
+## Updates
+
+- **2026-09-02** — Amazon’s AI assistant can now spot fake emails from the company ([source](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails))
