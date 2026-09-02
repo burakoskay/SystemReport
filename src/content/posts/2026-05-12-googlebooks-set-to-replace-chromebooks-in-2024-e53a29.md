@@ -1,15 +1,17 @@
 ---
 title: "Googlebooks Set to Replace Chromebooks in 2024"
 date: 2026-05-12T23:09:59.347Z
+modified_date: 2026-09-02T02:23:48.067Z
 tags: ["googlebooks","android-desktop","chromebook-replacement","pause-point","digital-wellbeing-upgrade"]
 hero_image: "/hero/2026-05-12-googlebooks-set-to-replace-chromebooks-in-2024-e53a29.jpg"
 hero_image_credit_name: "Kenji Ogami"
 hero_image_credit_url: "https://www.pexels.com/@kenji-ogami-6696404"
 visual_keyword: "Android desktop OS interface with virtual folders and terminal window"
 description: "Google reveals Googlebooks: Chromebook successors with Android desktop OS and advanced features."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 ## Googlebooks: The End of Chromebooks
 
@@ -44,3 +46,7 @@ What to watch
 The first Googlebooks should arrive by Q3 2024, but early adopters may face driver issues. Key benchmarks include: whether Android apps will run at full desktop resolution, how well the new OS handles 4K displays, and if local AI features (rumored but unconfirmed) materialize. Developers should track Android’s SDK updates—support for split-screen multitasking may arrive as late as August.
 
 For now, Googlebooks remain a mystery. The company’s teaser video ends with a black screen and a single word: "More." Until then, the only certainty is that Chrome OS is dead. Long live the Android desktop.
+
+## Updates
+
+- **2026-09-02** — The creator of Jujutsu has joined ERSC ([source](https://ersc.io/blog/martin-joins-ersc))

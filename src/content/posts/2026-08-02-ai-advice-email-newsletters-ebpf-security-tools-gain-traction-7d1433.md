@@ -1,16 +1,17 @@
 ---
 title: "AI advice, email newsletters, eBPF security tools gain traction"
 date: 2026-08-02T06:33:13.904Z
-modified_date: 2026-08-10T18:48:39.774Z
+modified_date: 2026-09-02T02:23:41.472Z
 tags: ["ai","security","saas","email"]
 hero_image: "/hero/2026-08-02-ai-advice-email-newsletters-ebpf-security-tools-gain-traction-7d1433.jpg"
 hero_image_credit_name: "Rodrigo Santos"
 hero_image_credit_url: "https://www.pexels.com/@rsantos1232"
 visual_keyword: "laptop screen showing code, an email newsletter preview, and a financial graph"
 description: "A look at MIT's AI finance findings, the TogetherLetters newsletter service, and Jibril's eBPF security platform, and why lightweight tools matter."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## AI advice shows promise when users ask the right questions
@@ -49,6 +50,7 @@ Track the adoption metrics of TogetherLetters as it expands beyond the free‑ti
 
 ## Updates
 
+- **2026-09-02** — Ford explains why it chose Apple Maps over Google for its new EVs ([source](https://9to5mac.com/2026/09/01/ford-explains-why-it-chose-apple-maps-over-google-for-its-new-evs/))
 - **2026-08-10** — The new iOS 27 beta further expands Siri voice customization options ([source](https://9to5mac.com/2026/08/10/the-new-ios-27-beta-further-expands-siri-voice-customization-options/))
 
 [^1]: [mit.edu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9gmTlKzt3uSZ1bkOLIpV6kpQ83qzpEDWshseis-mnOZroF1yhsPANfX539qGExdJieq7FC95EGke-mkrRNJTrsEm20MYNHQVoIDGRstywFHJzRfSloHYcJn_TQhJbnAgNB3rg8NUbyAXKCyF_W5ILkWfUmr6f9I5x55ZPdtXlPFo2kSE7iqojknQCXUycb82VVF7dRBp0p3SQ14x6Bsmt8KQBbr3WLi83pAC4MGZZ-VP-uPo=)

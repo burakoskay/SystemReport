@@ -1,19 +1,20 @@
 ---
 title: "TechCrunch Disrupt 2026 Early Bird Deadline Sparks Frenzy"
 date: 2026-05-29T18:44:30.384Z
-modified_date: 2026-06-03T23:49:01.544Z
+modified_date: 2026-09-02T02:23:28.353Z
 tags: ["tech conferences","startup events","industry trends"]
 hero_image: "/hero/2026-05-29-techcrunch-disrupt-2026-early-bird-deadline-sparks-frenzy-81b944.jpg"
 hero_image_credit_name: "Atlantic Ambience"
 hero_image_credit_url: "https://www.pexels.com/@freestockpro"
 visual_keyword: "crowded conference hall with glowing nameplates"
 description: "Last‑minute discount ends tonight, forcing founders and engineers to decide fast amid a jam‑packed fall conference slate."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-29-techcrunch-disrupt-2026-early-bird-deadline-sparks-frenzy-81b944.mp3"
 audio_bytes: 556348
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Disrupt’s final price cut
@@ -41,4 +42,5 @@ Track registration numbers for Disrupt after the deadline; a sharp drop would in
 
 ## Updates
 
+- **2026-09-02** — Are all TVs at risk from burn-in? Here's how to avoid the problem altogether ([source](https://www.engadget.com/2246417/tvs-at-risk-of-burn-in/))
 - **2026-06-03** — The co-creator of Scavengers Reign is working on a new show for Netflix ([source](https://www.engadget.com/2187072/the-co-creator-of-scavengers-reign-is-working-on-a-new-show-for-netflix/))

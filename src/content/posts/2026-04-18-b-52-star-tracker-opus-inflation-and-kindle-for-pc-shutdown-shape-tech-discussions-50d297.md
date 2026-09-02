@@ -1,16 +1,17 @@
 ---
 title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
-modified_date: 2026-08-30T19:00:10.574Z
+modified_date: 2026-09-02T02:23:54.573Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The B-52 star tracker computer's design era and specific gear ratios demonstrate
 
 ## Updates
 
+- **2026-09-02** — Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development ([source](https://www.norirobotics.com/))
 - **2026-08-30** — How to adjust the audio settings for your AirPods (and why you should) ([source](https://www.engadget.com/2242791/how-to-adjust-audio-settings-on-airpods/))
 - **2026-08-19** — Galaxy Tab S12 Ultra leaks in the worst ‘spot the difference’ game ever ([source](https://9to5google.com/2026/08/19/samsung-galaxy-tab-s12-ultra-leak/))
 - **2026-08-10** — Next year’s iPhone redesign with all-glass look might be canceled: report ([source](https://9to5mac.com/2026/08/10/next-years-iphone-redesign-with-all-glass-look-might-be-canceled-report/))

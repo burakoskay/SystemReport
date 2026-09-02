@@ -1,16 +1,17 @@
 ---
 title: "Ghostty Exits GitHub, Developers Seek Alternatives"
 date: 2026-04-29T14:32:04.847Z
-modified_date: 2026-08-10T12:55:25.397Z
+modified_date: 2026-09-02T02:23:08.623Z
 tags: ["github","alternatives","tooling","open-source","dev-ops"]
 hero_image: "/hero/2026-04-29-ghostty-exits-github-developers-seek-alternatives-93bf5f.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "developers using terminal-based tools with minimal interface elements"
 description: "Ghostty's departure from GitHub sparks interest in alternatives like AgentKit and Gottp as developers seek new tools for collaboration and API management."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Key observables include: Ghostty's migration timeline (current estimates: 4-6 we
 
 ## Updates
 
+- **2026-09-02** — The Range Rover Electric: Specs, Price, Availability ([source](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/))
 - **2026-08-10** — The AI Slop Backlash Is Actually Having an Impact ([source](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/))
 - **2026-08-01** — Pixel 11 specs and price leak with no surprises ([source](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak))
 - **2026-06-04** — iPhone 18 Pro Max may not be thicker after all ([source](https://9to5mac.com/2026/06/04/iphone-18-pro-max-may-not-be-thicker-after-all/))

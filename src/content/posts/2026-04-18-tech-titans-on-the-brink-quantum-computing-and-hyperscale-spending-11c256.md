@@ -1,16 +1,17 @@
 ---
 title: "Tech Titans on the Brink: Quantum Computing and Hyperscale Spending"
 date: 2026-04-18T01:05:12.695Z
-modified_date: 2026-08-25T22:21:46.353Z
+modified_date: 2026-09-02T02:23:34.896Z
 tags: ["quantum computing","hyperscale","postquantum crypto"]
 hero_image: "/hero/2026-04-18-tech-titans-on-the-brink-quantum-computing-and-hyperscale-spending-11c256.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"
 description: "Big Tech's pursuit of post-quantum crypto and hyperscale infrastructure"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The tech landscape is undergoing a seismic shift, driven by two major forces: th
 
 ## Updates
 
+- **2026-09-02** — Android stuck in Safe Mode? Here's how to turn it off ([source](https://www.engadget.com/2244182/how-to-turn-off-safe-mode-on-android-phone/))
 - **2026-08-25** — OpenAI announces the Admin plugin for ChatGPT Work and Codex ([source](https://9to5mac.com/2026/08/25/openai-announces-the-admin-plugin-for-chatgpt-work-and-codex/))
 - **2026-08-25** — Ads and tracking infiltrated TVs. Now they're coming for monitors. ([source](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/))
 - **2026-05-05** — Babbel Promo Code: Up to 65% Off in May 2026 ([source](https://www.wired.com/story/babbel-promo-code/))
