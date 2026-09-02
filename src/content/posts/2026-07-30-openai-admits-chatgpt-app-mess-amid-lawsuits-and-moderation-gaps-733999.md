@@ -1,15 +1,17 @@
 ---
 title: "OpenAI admits ChatGPT app mess amid lawsuits and moderation gaps"
 date: 2026-07-30T11:53:15.133Z
+modified_date: 2026-09-02T23:47:01.141Z
 tags: ["openai","lawsuits","llm","moderation","ai"]
 hero_image: "/hero/2026-07-30-openai-admits-chatgpt-app-mess-amid-lawsuits-and-moderation-gaps-733999.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "tech office with laptop displaying chat interface and legal documents"
 description: "OpenAI's desktop app falters, Claude suffers errors, and copyright suits against generative AI rise, while moderation workarounds surface."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## OpenAI's Desktop App Stumbles
 
@@ -38,3 +40,7 @@ The finding suggests that moderation investments remain heavily focused on Engli
 ## What to Watch
 
 OpenAI’s next desktop release will reveal whether the tab‑free redesign resolves the current mess and how it integrates with the broader ecosystem of AI tools. Anthropic’s response to the Claude outage will be a barometer for its incident‑response maturity. Meanwhile, the outcomes of high‑profile copyright suits—especially the Martin case—could reshape data‑use policies for all LLM developers. Finally, monitoring how moderation teams address multilingual bypasses will indicate whether the industry can close the most obvious gaps before they become vectors for larger abuses.
+
+## Updates
+
+- **2026-09-02** — Exit the Cave ([source](https://turtlespace.blog/p/exit-the-cave))

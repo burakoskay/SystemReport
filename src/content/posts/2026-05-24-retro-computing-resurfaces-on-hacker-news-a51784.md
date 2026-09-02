@@ -1,18 +1,20 @@
 ---
 title: "Retro computing resurfaces on Hacker News"
 date: 2026-05-24T19:27:00.141Z
+modified_date: 2026-09-02T23:46:46.840Z
 tags: ["retro computing","hacker news","vintage software"]
 hero_image: "/hero/2026-05-24-retro-computing-resurfaces-on-hacker-news-a51784.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "engineer reading a 1980s computer manual beside a Commodore 64"
 description: "Hacker News users revive 1980s computer books, nostalgic essays, and a deep dive into the C64 dead test font, sparking fresh debate."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-24-retro-computing-resurfaces-on-hacker-news-a51784.mp3"
 audio_bytes: 622177
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 The Hacker News front page lit up with three retro‑computing threads that pulled engineers back to the 1980s.
 
@@ -55,3 +57,7 @@ The resurgence also fuels community building. Forums, Discord channels, and sub�
 Track upcoming reprints of classic computing books from publishers like Usborne. A new edition could signal commercial confidence in the market and bring these resources to a wider audience.
 
 Watch for announcements of C64 preservation events or firmware releases that incorporate the dead test font methodology. Such developments will reveal whether the hobbyist community can translate niche technical work into broader hardware‑maintenance standards.
+
+## Updates
+
+- **2026-09-02** — Uber beats Waymo as first to launch robotaxis in London ([source](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch))
