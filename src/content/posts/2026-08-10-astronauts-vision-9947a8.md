@@ -1,15 +1,17 @@
 ---
 title: "Astronauts' Vision"
 date: 2026-08-10T09:14:14.199Z
+modified_date: 2026-09-02T08:28:25.048Z
 tags: ["Space Travel","Astronaut Health","Eye Care"]
 hero_image: "/hero/2026-08-10-astronauts-vision-9947a8.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Astronauts in Space"
 description: "Space agencies consider a device for monitoring astronauts' eye health"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Space Vision Problems
 A device for self-administered eye exams, originally designed for octogenarians, is being considered for use in monitoring astronauts' ocular health. The device's potential to provide regular monitoring of astronauts' eye health could be crucial in space missions where the effects of microgravity can cause vision problems.
@@ -29,3 +31,7 @@ The use of a device for self-administered eye exams in space missions could have
 The space industry is rapidly evolving, with several private companies, such as SpaceX and Blue Origin, working towards establishing a human presence in space. The use of a device for self-administered eye exams could be an important step in this direction, as it would enable space agencies to monitor the health of astronauts in real-time and develop more effective countermeasures to mitigate the effects of microgravity.
 ## Regulatory Framework
 The use of a device for self-administered eye exams in space missions would also require a regulatory framework to ensure its safe and effective use. This could involve developing guidelines for the use of the device, as well as establishing protocols for the interpretation of the data it provides. The regulatory framework would need to take into account the unique challenges of space travel, including the effects of microgravity on the human body.
+
+## Updates
+
+- **2026-09-02** — This is the best setting and placement for your Dolby Atmos soundbar ([source](https://www.engadget.com/2245484/dolby-atmos-soundbar-best-setting-and-placement/))

@@ -1,16 +1,17 @@
 ---
 title: "Samsung workers plan massive May 21 strike"
 date: 2026-05-20T11:05:54.108Z
-modified_date: 2026-05-28T23:22:39.658Z
+modified_date: 2026-09-02T08:28:13.628Z
 tags: ["labor","samsung","tech industry","unions"]
 hero_image: "/hero/2026-05-20-samsung-workers-plan-massive-may-21-strike-04bb2d.jpg"
 hero_image_credit_name: "EqualStock IN"
 hero_image_credit_url: "https://www.pexels.com/@equalstock"
 visual_keyword: "crowd of factory workers holding signs outside a Samsung plant"
 description: "Nearly 48,000 Samsung union members in Korea will walk out on May 21 after talks stalled, raising fresh concerns for the tech supply chain."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Samsung workers set to walk off on May 21
@@ -37,4 +38,5 @@ Beyond the strike, the industry should watch how other tech‑related labor batt
 
 ## Updates
 
+- **2026-09-02** — Dell’s newest laptop sounds a lot like a MacBook Neo ([source](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs))
 - **2026-05-28** — Rockstar developers go public with first union ([source](https://www.engadget.com/2183358/rockstar-developers-go-public-with-first-union/))
