@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup: Robot Rollout, Smart Ring, and More"
 date: 2026-06-04T15:27:33.612Z
-modified_date: 2026-08-22T14:15:37.937Z
+modified_date: 2026-09-03T19:02:10.986Z
 tags: ["robotics","wearable technology","Google Photos"]
 hero_image: "/hero/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "robot"
 description: "Silicon Valley's robot push, Oura's slimmer smart ring, and Google Photos update for digital frames."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.mp3"
 audio_bytes: 619251
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The future of the tech industry will be shaped by a number of trends, including 
 
 ## Updates
 
+- **2026-09-03** — Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day ([source](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale))
 - **2026-08-22** — Two great new repairable gadgets ([source](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2))
 - **2026-08-14** — A RAMageddon guide to back-to-school laptop shopping ([source](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school))
 - **2026-06-05** — iOS 27 tidbits: Find My changes, new animations, more ([source](https://9to5mac.com/2026/06/05/ios-27-tidbits-find-my-changes-new-animations-more/))

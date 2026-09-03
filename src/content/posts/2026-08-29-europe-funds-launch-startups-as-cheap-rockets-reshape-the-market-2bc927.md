@@ -1,15 +1,17 @@
 ---
 title: "Europe funds launch startups as cheap rockets reshape the market"
 date: 2026-08-29T00:44:54.921Z
+modified_date: 2026-09-03T19:01:57.911Z
 tags: ["space","launch","satellite","technology"]
 hero_image: "/hero/2026-08-29-europe-funds-launch-startups-as-cheap-rockets-reshape-the-market-2bc927.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "European launch pad with small rockets and a futuristic spaceplane"
 description: "European cash and new launch vehicles push costs down while the US tests quantum navigation on the X‑37B, and hobbyists chase PocketQube flights."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Europe pumps money into launch startups
 
@@ -46,3 +48,7 @@ Walkinshaw dreams of a dedicated Scottish launch site that could fire PocketQube
 ## What to watch
 
 The next few months will reveal whether Europe’s modest funding translates into a repeatable launch cadence for Pallas‑1 and its peers. In the United States, the X‑37B’s quantum inertial sensor results, expected later this year, will indicate if GPS‑independent navigation is ready for operational use. Finally, the PocketQube ecosystem will hinge on the emergence of a dedicated launch service—watch for any partnership announcements between Scottish launch firms and emerging small‑satellite ride‑share providers. Each of these data points will shape the trajectory of a market that finally seems to be breaking the $10 000‑per‑kilogram barrier.
+
+## Updates
+
+- **2026-09-03** — Ollie is betting its focus on privacy can help it win the AI assistant race ([source](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/))

@@ -1,16 +1,17 @@
 ---
 title: "Google Unveils Gemini 3.5 Flash and Spark"
 date: 2026-05-19T18:10:45.206Z
-modified_date: 2026-09-01T19:09:54.349Z
+modified_date: 2026-09-03T19:02:04.444Z
 tags: ["Google","Gemini 3.5 Flash","Agentic AI"]
 hero_image: "/hero/2026-05-19-google-unveils-gemini-3-5-flash-and-spark-bfdee9.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Google bets on agentic AI"
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The launch of Gemini 3.5 Flash and Spark has significant implications for variou
 
 ## Updates
 
+- **2026-09-03** — Google launches AI voice features in Gmail, Docs, and Keep ([source](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/))
 - **2026-09-01** — Razer just released a cute and teensy mobile game controller ([source](https://www.engadget.com/2248729/razer-just-released-a-cute-and-teensy-mobile-game-controller/))
 - **2026-08-19** — PostgreSQL for Everything ([source](https://www.raphaelbauer.com:443/posts/postgresql-everything/))
 - **2026-08-08** — How to Disable Gemini in Gmail and Google Docs ([source](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/))

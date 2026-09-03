@@ -1,19 +1,20 @@
 ---
 title: "Amazon VPC gets direct internet access"
 date: 2026-07-31T17:52:48.769Z
-modified_date: 2026-08-15T00:53:13.618Z
+modified_date: 2026-09-03T19:01:51.316Z
 tags: ["cloud","regulation","networking"]
 hero_image: "/hero/2026-07-31-amazon-vpc-gets-direct-internet-access-f0d333.jpg"
 hero_image_credit_name: "Field Engineer"
 hero_image_credit_url: "https://www.pexels.com/@field-engineer-147254"
 visual_keyword: "data center with cloud icons and router"
 description: "Amazon expands VPC networking while the EU Right to Repair directive launches, and Engadget reminds users simple Wi‑Fi fixes still matter."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-07-31-amazon-vpc-gets-direct-internet-access-f0d333.mp3"
 audio_bytes: 586232
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Amazon expands VPC connectivity
@@ -46,4 +47,5 @@ The industry will monitor how quickly AWS customers adopt the direct‑Internet 
 
 ## Updates
 
+- **2026-09-03** — Meta is paying to peek at how you use their latest AI model ([source](https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/))
 - **2026-08-15** — Talks to sell PayPal to Stripe and Advent are heating up ([source](https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/))

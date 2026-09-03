@@ -1,16 +1,17 @@
 ---
 title: "Indie Hits, Open-Source AI Plugins Redefine Music Tech"
 date: 2026-05-21T13:03:49.883Z
-modified_date: 2026-08-18T20:16:49.527Z
+modified_date: 2026-09-03T19:04:03.238Z
 tags: ["music production","open-source software","ai audio tools","apple music","indie artists"]
 hero_image: "/hero/2026-05-21-indie-hits-open-source-ai-plugins-redefine-music-tech-04f5a4.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "vintage vinyl records on a digital interface with glowing AI-generated waveforms"
 description: "From GarageBand hits to AI-powered DAW tools, independent creators are reshaping music production and consumption."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ What to watch: Track The Infinite Crate’s JUCE license adoption rate, Wax Crat
 
 ## Updates
 
+- **2026-09-03** — Apple faces yet another lawsuit over App Tracking Transparency, with a twist [U] ([source](https://9to5mac.com/2026/09/03/apple-faces-yet-another-lawsuit-over-app-tracking-transparency-with-a-twist/))
 - **2026-08-18** — Robin Williams’ Instagram account brought back to fight ‘AI abuse’ ([source](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai))
 - **2026-05-26** — 9to5Mac Daily: May 26, 2026 – watchOS 27 rumors, more ([source](https://9to5mac.com/2026/05/26/daily-may-26-2026/))

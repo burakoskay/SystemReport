@@ -1,16 +1,17 @@
 ---
 title: "US-China tech rivalry escalates with new export controls"
 date: 2026-05-20T18:37:48.701Z
-modified_date: 2026-08-18T16:25:37.256Z
+modified_date: 2026-09-03T19:02:37.367Z
 tags: ["semiconductor exports","AI GPU restrictions","US-China trade war","national security controls","tech supply chain"]
 hero_image: "/hero/2026-05-20-us-china-tech-rivalry-escalates-with-new-export-controls-25a3bc.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "geopolitical conflict in tech industry"
 description: "New US export curbs on AI GPUs and China's material bans redefine semiconductor tensions."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Monitor these three developments: (1) How Chinese firms respond to GPU shortages
 
 ## Updates
 
+- **2026-09-03** — Circular’s new smart rings add contactless payments and vibrating alerts ([source](https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts))
 - **2026-08-18** — Apple’s new macOS update reportedly contains a video of AirPods with a camera ([source](https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/))
 - **2026-07-28** — Pitaka’s Galaxy Z Fold 8 and Flip 8 cases deliver smart features without the bulk ([source](https://9to5google.com/2026/07/28/pitakas-galaxy-z-fold-8-and-flip-8-cases-deliver-smart-features-without-the-bulk/))
 - **2026-06-01** — Galaxy Z Fold 8’s wider new form factor just showed up in the wild ([source](https://9to5google.com/2026/06/01/galaxy-z-fold-8s-wider-new-form-factor-just-showed-up-in-the-wild/))

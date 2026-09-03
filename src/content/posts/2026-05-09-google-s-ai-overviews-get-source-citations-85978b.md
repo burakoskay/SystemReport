@@ -1,18 +1,20 @@
 ---
 title: "Google's AI Overviews Get Source Citations"
 date: 2026-05-09T03:32:01.343Z
+modified_date: 2026-09-03T19:02:24.083Z
 tags: ["Google","AI","Transparency","Accountability"]
 hero_image: "/hero/2026-05-09-google-s-ai-overviews-get-source-citations-85978b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google AI Overviews"
 description: "Google's AI search will now cite sources in several new ways. The update aims to improve transparency and credibility."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-09-google-s-ai-overviews-get-source-citations-85978b.mp3"
 audio_bytes: 592502
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's AI Overviews Get Source Citations
@@ -51,3 +53,6 @@ In the short term, users can expect to see more transparent and credible AI-gene
 
 As the AI industry continues to evolve, we can expect to see further innovations in transparency and accountability. Companies like Google, Meta, and Microsoft will likely continue to invest in developing more transparent and explainable AI systems. This may involve the development of new technologies, such as blockchain-based systems for tracking AI-generated content. Ultimately, the goal is to create AI systems that are transparent, accountable, and fair, and that provide users with the information they need to make informed decisions.
 
+## Updates
+
+- **2026-09-03** — Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option ([source](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option))

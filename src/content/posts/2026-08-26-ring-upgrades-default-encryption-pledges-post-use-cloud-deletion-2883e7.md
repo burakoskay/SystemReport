@@ -1,16 +1,17 @@
 ---
 title: "Ring upgrades default encryption, pledges post-use cloud deletion"
 date: 2026-08-26T20:03:56.594Z
-modified_date: 2026-08-29T22:11:36.982Z
+modified_date: 2026-09-03T19:03:23.689Z
 tags: ["ring","encryption","privacy","smart-home"]
 hero_image: "/hero/2026-08-26-ring-upgrades-default-encryption-pledges-post-use-cloud-deletion-2883e7.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "Ring security camera with lock icon and data flow arrows"
 description: "Ring now encrypts video by default and deletes cloud copies after powering smart‑home actions, aiming to tighten privacy."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 ## Ring's encryption upgrade
@@ -38,4 +39,5 @@ The next quarter will reveal whether Ring's encryption defaults reduce the volum
 
 ## Updates
 
+- **2026-09-03** — It’s not just you; ChatGPT, Claude, and Grok are all down in confirmed outages ([source](https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/))
 - **2026-08-29** — What new Google Messages features are rolling out [August 2026] ([source](https://9to5google.com/2026/08/29/new-google-messages-features/))

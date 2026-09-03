@@ -1,15 +1,17 @@
 ---
 title: "Google Removes AI Watermark"
 date: 2026-08-14T16:52:32.561Z
+modified_date: 2026-09-03T19:02:57.390Z
 tags: ["AI","Google","Watermark"]
 hero_image: "/hero/2026-08-14-google-removes-ai-watermark-bd05f8.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Watermark"
 description: "Google allows users to opt out of visible watermarks on AI-generated content"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Google lets users remove visible watermarks from its AI-generated content. This change is part of Google's ongoing effort to refine its AI generation tools. The visible watermark was initially added to distinguish AI-generated content from human-created work. Users can now opt out of displaying this watermark. Turning off this setting won't affect the invisible benchmarks used to identify AI-generated files.
@@ -29,3 +31,7 @@ From a technical perspective, the removal of visible watermarks may require adju
 The AI-generated content industry is rapidly evolving, with new tools and technologies being developed all the time. The removal of visible watermarks is just one part of this broader trend. As AI generation tools become more sophisticated, we can expect to see more companies exploring the use of AI-generated content. This may lead to new opportunities for creators and developers, but it also raises important questions about authenticity and transparency.
 ## Regulatory Implications
 The removal of visible watermarks may also have regulatory implications. As AI-generated content becomes more widespread, regulators may need to consider new rules and guidelines to ensure that users are aware of the origin of the content they are using. This could involve the development of new laws or regulations, or the refinement of existing ones. The regulatory implications of this change will be important to watch, as they may have significant effects on the use and detection of AI-generated content.
+
+## Updates
+
+- **2026-09-03** — Xbox Cloud Gaming will limit players to 15 hours per month before they have to pay more ([source](https://9to5google.com/2026/09/03/xbox-cloud-gaming-play-time-limits/))

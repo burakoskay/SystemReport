@@ -1,16 +1,17 @@
 ---
 title: "Google's Complexity Takes Its Toll"
 date: 2026-05-22T09:44:19.615Z
-modified_date: 2026-08-28T15:57:43.157Z
+modified_date: 2026-09-03T19:04:29.721Z
 tags: ["Google","complexity","innovation"]
 hero_image: "/hero/2026-05-22-google-s-complexity-takes-its-toll-ee9aff.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google"
 description: "Google's sprawling product lineup and complex software ecosystem may be hindering its ability to innovate and compete with more focused tech companies."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -65,5 +66,6 @@ In conclusion, Google's complexity may be taking a toll on its ability to innova
 
 ## Updates
 
+- **2026-09-03** — New York Times and The Athletic workers demand company scrap Kalshi deal ([source](https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/))
 - **2026-08-28** — The Easiest Ways to Share Anything Between Android and iOS ([source](https://www.wired.com/story/how-to-share-anything-between-android-and-ios/))
 - **2026-07-27** — Private Claude Chats Exposed in Google and Bing Search Results ([source](https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/))

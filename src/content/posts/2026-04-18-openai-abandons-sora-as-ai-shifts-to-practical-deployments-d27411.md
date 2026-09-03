@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Abandons Sora as AI Shifts to Practical Deployments"
 date: 2026-04-18T12:46:26.729Z
+modified_date: 2026-09-03T19:03:03.957Z
 tags: ["ai","openai","ai-implementation","tech-verification","consumer-tech"]
 hero_image: "/hero/2026-04-18-openai-abandons-sora-as-ai-shifts-to-practical-deployments-d27411.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "ai chatbot at fast food drive-thru"
 description: "OpenAI's Sora team disbands as AI moves toward drive-thru chatbots and face-scanning verification orbs."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 ## OpenAI's Strategic Pivot and Sora's Demise
 
@@ -26,3 +28,7 @@ The Poetry Camera, a $130 thermal-printing AI gadget, exemplifies the gap betwee
 ## Consequences for AI Development
 
 The Sora shutdown reflects a maturing industry prioritizing measurable outcomes over speculative projects. However, physical verification systems and AI-assisted fast food reveal persistent friction between digital convenience and real-world implementation. As OpenAI consolidates, competitors like Intel and Meta continue silicon and data center investments, suggesting consolidation is temporary rather than terminal.
+
+## Updates
+
+- **2026-09-03** — Google’s WeatherNext 3 AI model in Search, Gemini has ’50% more accurate precipitation forecasts’ ([source](https://9to5google.com/2026/09/03/google-weathernext-3/))

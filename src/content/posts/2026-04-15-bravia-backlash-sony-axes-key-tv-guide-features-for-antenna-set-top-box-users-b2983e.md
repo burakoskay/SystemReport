@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-09-03T14:04:33.389Z
+modified_date: 2026-09-03T19:04:16.512Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 12
+sources_count: 13
 author: "lena-volkov"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-09-03** — Lenovo's $700 IdeaPad Vibe is ready to take on the MacBook Neo ([source](https://www.engadget.com/2250279/lenovo-ideapad-vibe-hands-on-ifa-2026-macbook-neo/))
 - **2026-09-03** — Face Recognition Is Becoming the Norm for Dating Apps ([source](https://www.wired.com/story/face-recognition-is-becoming-the-norm-for-dating-apps/))
 - **2026-08-28** — AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10 ([source](https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/))
 - **2026-08-19** — Ukrainian drones overwhelm Russian tanks’ new active protection system—for now ([source](https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/))
