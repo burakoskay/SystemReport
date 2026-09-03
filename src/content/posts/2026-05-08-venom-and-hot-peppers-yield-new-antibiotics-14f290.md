@@ -1,16 +1,17 @@
 ---
 title: "Venom and Hot Peppers Yield New Antibiotics"
 date: 2026-05-08T09:29:28.168Z
-modified_date: 2026-06-05T23:15:42.058Z
+modified_date: 2026-09-03T22:11:02.054Z
 tags: ["Antibiotics","Scorpion Venom","Habanero Peppers","Drug-Resistant Bacteria"]
 hero_image: "/hero/2026-05-08-venom-and-hot-peppers-yield-new-antibiotics-14f290.jpg"
 hero_image_credit_name: "Deane Bayas"
 hero_image_credit_url: "https://www.pexels.com/@dbaler"
 visual_keyword: "Antibiotics from Scorpion Venom and Habanero Peppers"
 description: "New antibiotics from scorpion venom and habanero peppers target drug-resistant bacteria"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,5 +32,6 @@ The discovery of new antibiotics from scorpion venom and habanero peppers also h
 
 ## Updates
 
+- **2026-09-03** — Prediction Market Betting Is Getting People Banned and Arrested ([source](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/))
 - **2026-06-05** — Alien Isolation 2's first trailer takes the horror to a colony planet ([source](https://www.engadget.com/2188687/alien-isolation-2-s-first-trailer-takes-the-horror-to-a-colony-planet/))
 - **2026-05-16** — Frontier AI has broken the open CTF format ([source](https://kabir.au/blog/the-ctf-scene-is-dead))

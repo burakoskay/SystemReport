@@ -1,16 +1,17 @@
 ---
 title: "Kalshi and Rhode Island Sue Each Other"
 date: 2026-05-24T21:02:44.262Z
-modified_date: 2026-05-26T15:49:41.619Z
+modified_date: 2026-09-03T22:11:39.542Z
 tags: ["prediction markets","regulatory scrutiny","online betting"]
 hero_image: "/hero/2026-05-24-kalshi-and-rhode-island-sue-each-other-95098e.jpg"
 hero_image_credit_name: "Hanna Pad"
 hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi and Rhode Island engage in legal battle"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,4 +46,5 @@ The evolving legal landscape for prediction markets underscores the need for cle
 
 ## Updates
 
+- **2026-09-03** — John Ternus is now Apple CEO, last-minute iPhone event rumors, Apple TV price increase ([source](https://9to5mac.com/2026/09/03/happy-hour-606/))
 - **2026-05-26** — Ferrari’s first EV is not for you ([source](https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/))

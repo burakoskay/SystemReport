@@ -1,16 +1,17 @@
 ---
 title: "AUO Unveils 800Hz 24-Inch Monitor, Gaming Tech Shakes Up"
 date: 2026-05-05T17:53:04.695Z
-modified_date: 2026-08-25T10:25:59.003Z
+modified_date: 2026-09-03T22:11:34.181Z
 tags: ["auo","xbox","gaming-hardware"]
 hero_image: "/hero/2026-05-05-auo-unveils-800hz-24-inch-monitor-gaming-tech-shakes-up-38a325.jpg"
 hero_image_credit_name: "Lynde"
 hero_image_credit_url: "https://www.pexels.com/@lynde-2123295"
 visual_keyword: "800Hz gaming monitor with RGB lighting on desk"
 description: "AUO's 800Hz monitor, Microsoft-NVIDIA update woes, Xbox exec shakeup, and new games define tech's turbulent week."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ AUO’s 800Hz monitor needs a 2027 launch date and real-world latency tests. Xbo
 
 ## Updates
 
+- **2026-09-03** — Google Home update fixes alarms, improves media & smart home voice controls ([source](https://9to5google.com/2026/09/03/google-home-update-fixes-alarms-improves-media-smart-home-voice-controls/))
 - **2026-08-25** — Android is getting its own weird dots to cure car sickness ([source](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure))
 - **2026-08-19** — Flock is testing a new AI tool that tracks and identifies people based on their driving habits ([source](https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/))
 - **2026-05-28** — Spotify adds playlist folders, bulk editing and background downloads ([source](https://www.engadget.com/2183106/spotify-adds-playlist-folders-bulk-editing-and-background-downloads/))

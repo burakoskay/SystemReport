@@ -1,16 +1,17 @@
 ---
 title: "Lutris Unveils Gamepad UI for Linux"
 date: 2026-05-10T13:45:41.332Z
-modified_date: 2026-09-01T19:09:34.778Z
+modified_date: 2026-09-03T22:11:28.840Z
 tags: ["Linux gaming","Lutris","Gamepad UI"]
 hero_image: "/hero/2026-05-10-lutris-unveils-gamepad-ui-for-linux-270865.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
-sources_count: 9
+sources_count: 10
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ In conclusion, the introduction of the gamepad UI by Lutris marks a significant 
 
 ## Updates
 
+- **2026-09-03** — Ugreen’s ‘HomeAgent’ is a local AI smart home ecosystem for its new line of cameras, more ([source](https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/))
 - **2026-09-01** — Sony’s new party speakers have more bass, more LEDs, and more connectivity ([source](https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds))
 - **2026-08-07** — Responding to the next frontier of critical cyber capabilities ([source](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/))
 - **2026-06-02** — Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI ([source](https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/))
