@@ -1,15 +1,17 @@
 ---
 title: "Nvidia Unveils RTX Spark Superchip for AI-Powered PCs"
 date: 2026-06-01T21:40:25.334Z
+modified_date: 2026-09-03T14:03:48.020Z
 tags: ["AI","Nvidia","Microsoft","Windows PCs"]
 hero_image: "/hero/2026-06-01-nvidia-unveils-rtx-spark-superchip-for-ai-powered-pcs-c3b2d6.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "RTX Spark superchip"
 description: "Nvidia and Microsoft partner to bring AI agents to Windows PCs with new RTX Spark superchip"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Nvidia and Microsoft Unveil RTX Spark Superchip for AI-Powered Windows PCs
@@ -51,3 +53,7 @@ The introduction of the RTX Spark superchip marks a significant shift in the way
 The future of AI-powered PCs is exciting and full of possibilities. As technology continues to advance, we can expect to see new and innovative applications of AI agents in various industries. With the RTX Spark superchip, Nvidia and Microsoft are leading the way in the development of AI-powered PCs, and it will be interesting to see how the market responds to this new technology.
 
 In conclusion, the RTX Spark superchip has the potential to revolutionize the way we interact with computers. With its powerful combination of Nvidia innovation and Microsoft's Windows platform, the superchip enables users to interact with their computers in a more natural and intuitive way. As the market for AI-powered PCs continues to grow, we can expect to see new and innovative applications of this technology across various industries.
+
+## Updates
+
+- **2026-09-03** — Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here ([source](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/))

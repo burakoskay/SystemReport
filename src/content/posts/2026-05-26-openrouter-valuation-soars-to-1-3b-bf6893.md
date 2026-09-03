@@ -1,16 +1,17 @@
 ---
 title: "OpenRouter Valuation Soars to $1.3B"
 date: 2026-05-26T21:58:45.111Z
-modified_date: 2026-08-30T22:18:50.493Z
+modified_date: 2026-09-03T14:05:18.902Z
 tags: ["AI","OpenRouter","Funding"]
 hero_image: "/hero/2026-05-26-openrouter-valuation-soars-to-1-3b-bf6893.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "OpenRouter raises $113M Series B, valuation jumps to $1.3B. Usage grows 5x in six months."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,4 +57,5 @@ As OpenRouter continues to grow and expand its offerings, it is likely to encoun
 
 ## Updates
 
+- **2026-09-03** — Stop replacing the batteries in your Xbox controller – Do this instead ([source](https://www.engadget.com/2246223/stop-replacing-batteries-xbox-controller-rechargeable-alternative/))
 - **2026-08-30** — Algorithmic rent-pricing litigation expands under new state and local laws ([source](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws))

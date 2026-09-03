@@ -1,15 +1,17 @@
 ---
 title: "Matter expands: Homey, Siram, IKEA push smart home integration"
 date: 2026-08-22T03:01:43.150Z
+modified_date: 2026-09-03T14:04:13.997Z
 tags: ["smart-home","matter","homekit","iot"]
 hero_image: "/hero/2026-08-22-matter-expands-homey-siram-ikea-push-smart-home-integration-c4a787.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home with connected bulbs and automated plant watering"
 description: "Homey adds Matter 1.5, Siram automates plant watering, and IKEA rolls out 21 new Matter devices, tightening the Apple HomeKit ecosystem."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Homey’s Matter 1.5 certification
 
@@ -50,3 +52,7 @@ Adoption is still uneven. Some manufacturers ship Matter‑only devices, leaving
 Track how quickly Homey users migrate to the Self‑Hosted Server. Early adoption rates will indicate whether local hosting beats cloud‑only solutions. Siram’s sales figures and user reviews will reveal if automated watering can scale beyond hobbyists.
 
 Watch IKEA’s January launch. Pricing and stock levels will show whether the company can move Matter devices at scale. Finally, monitor Apple’s next HomePod firmware update for Thread improvements. Those three signals will shape the next wave of HomeKit‑centric smart homes.
+
+## Updates
+
+- **2026-09-03** — The Best Air Quality Monitor for Outdoors and Indoors in 2026 ([source](https://www.wired.com/story/best-air-quality-monitors/))

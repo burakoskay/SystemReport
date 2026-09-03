@@ -1,16 +1,17 @@
 ---
 title: "Accenture buys Downdetector, Speedtest for $1.2B"
 date: 2026-05-30T19:27:48.659Z
-modified_date: 2026-08-17T22:19:59.282Z
+modified_date: 2026-09-03T14:04:59.373Z
 tags: ["Accenture","OpenRouter","Downdetector","Speedtest"]
 hero_image: "/hero/2026-05-30-accenture-buys-downdetector-speedtest-for-1-2b-b988be.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "network"
 description: "Accenture buys Downdetector and Speedtest for $1.2B, OpenRouter secures $113M Series B, and Playstack is acquired by Integrated Media Company."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ In conclusion, the acquisitions of Downdetector and Speedtest by Accenture, and 
 
 ## Updates
 
+- **2026-09-03** — These new robot lawnmowers trim your edges ([source](https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026))
 - **2026-08-17** — What are your retro game consoles worth? ([source](https://www.engadget.com/2237553/what-are-retro-game-consoles-worth/))

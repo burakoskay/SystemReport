@@ -1,19 +1,20 @@
 ---
 title: "University Sites Hijacked, New Music App Gains HN Buzz"
 date: 2026-04-25T20:58:49.696Z
-modified_date: 2026-08-22T00:53:03.079Z
+modified_date: 2026-09-03T14:04:07.538Z
 tags: ["security","education","web","music","universities"]
 hero_image: "/hero/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.jpg"
 hero_image_credit_name: "Julien Bachelet"
 hero_image_credit_url: "https://www.pexels.com/@julienblt"
 visual_keyword: "computer screen showing hijacked university website with porn overlay and music app interface"
 description: "Hundreds of university subdomains now serve porn after hijacks, while a fresh web music tool draws attention on Hacker News, highlighting web hygiene gaps."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.mp3"
 audio_bytes: 618415
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ University IT departments should prioritize a DNS audit within the next quarter.
 
 ## Updates
 
+- **2026-09-03** — ‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism ([source](https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/))
 - **2026-08-22** — The Unlikely Place at the Center of China’s AI Boom ([source](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/))
 - **2026-08-09** — No Dogs in Space is a music history podcast for true obsessives ([source](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast))
 - **2026-08-08** — Planned Amazon data center could become the biggest climate polluter in the U.S. ([source](https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/))

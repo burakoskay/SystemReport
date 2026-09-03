@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Face Lawsuits and Settlements"
 date: 2026-05-06T17:52:49.962Z
+modified_date: 2026-09-03T14:05:25.398Z
 tags: ["Apple","Google","Uber"]
 hero_image: "/hero/2026-05-06-tech-giants-face-lawsuits-and-settlements-8dd7c2.jpg"
 hero_image_credit_name: "KATRIN  BOLOVTSOVA"
 hero_image_credit_url: "https://www.pexels.com/@ekaterina-bolovtsova"
 visual_keyword: "lawsuit"
 description: "Apple, Google, and Uber face lawsuits and settlements over AI features, app store fees, and driver classification."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Apple Settles Lawsuit Over Siri's AI Features
@@ -62,3 +64,6 @@ The court's approval of Google's proposed changes to its app store could have ma
 
 In conclusion, the recent lawsuits and settlements faced by tech giants like Apple, Google, and Uber highlight the growing scrutiny of their business practices. As these companies continue to grow and influence more aspects of our lives, they are facing increased pressure to be transparent and accountable.
 
+## Updates
+
+- **2026-09-03** — Sennheiser Momentum True Wireless 5 review: A significant upgrade at the same price ([source](https://www.engadget.com/2249856/sennheiser-momentum-true-wireless-5-review/))

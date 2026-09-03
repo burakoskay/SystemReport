@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-08-27T18:48:00.701Z
+modified_date: 2026-09-03T14:04:39.875Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 29
+sources_count: 30
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-09-03** — Hohem’s tiny steadycam has a removable action cam ([source](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam))
 - **2026-08-27** — Everyone’s talking to their phones again ([source](https://9to5google.com/2026/08/27/everyones-talking-to-their-phones-again/))
 - **2026-08-26** — The world's busiest spaceport is about to get a lot quieter, at least for now ([source](https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/))
 - **2026-08-22** — Amazon devices are the latest casualties of the memory shortage price hikes ([source](https://www.engadget.com/2242185/amazon-devices-kindle-echo-eero-price-hikes/))

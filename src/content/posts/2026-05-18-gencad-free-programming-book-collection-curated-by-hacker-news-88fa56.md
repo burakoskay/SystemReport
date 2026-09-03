@@ -1,19 +1,20 @@
 ---
 title: "GenCAD: Free Programming Book Collection Curated by Hacker News"
 date: 2026-05-18T04:09:26.855Z
-modified_date: 2026-05-27T23:26:16.647Z
+modified_date: 2026-09-03T14:05:05.911Z
 tags: ["Hacker News","GenCAD","free programming books"]
 hero_image: "/hero/2026-05-18-gencad-free-programming-book-collection-curated-by-hacker-news-88fa56.jpg"
 hero_image_credit_name: "Ashar Mirza"
 hero_image_credit_url: "https://www.pexels.com/@ashar-mirza-2148003869"
 visual_keyword: "books"
 description: "Hacker News users bookmark a community-driven list of sites offering legally free programming and tech books."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-05-18-gencad-free-programming-book-collection-curated-by-hacker-news-88fa56.mp3"
 audio_bytes: 592920
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,4 +56,5 @@ As the GenCAD list continues to grow and evolve, it is likely that we will see n
 
 ## Updates
 
+- **2026-09-03** — Microsoft discloses Azure revenue as part of major financial reporting changes ([source](https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue))
 - **2026-05-27** — I found a second vote.gov – and it's registered to the White House ([source](https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its))

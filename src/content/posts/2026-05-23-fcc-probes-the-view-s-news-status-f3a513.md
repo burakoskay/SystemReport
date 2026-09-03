@@ -1,16 +1,17 @@
 ---
 title: "FCC Probes The View's News Status"
 date: 2026-05-23T10:02:06.230Z
-modified_date: 2026-08-13T10:57:51.241Z
+modified_date: 2026-09-03T14:03:54.550Z
 tags: ["FCC","The View","media regulation","news"]
 hero_image: "/hero/2026-05-23-fcc-probes-the-view-s-news-status-f3a513.jpg"
 hero_image_credit_name: "Mukhtar Shuaib Mukhtar"
 hero_image_credit_url: "https://www.pexels.com/@akoonie"
 visual_keyword: "FCC"
 description: "FCC seeks public comment on ABC's The View as a news show, focusing on newsworthiness."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Ultimately, the FCC's decision on The View's status will have significant implic
 
 ## Updates
 
+- **2026-09-03** — Scientists Have Found the Most Convincing Evidence Yet of a Dark Matter Particle ([source](https://www.wired.com/story/scientists-find-most-convincing-evidence-yet-dark-matter-particle/))
 - **2026-08-13** — ChatGPT Desktop (Codex Desktop) for Linux ([source](https://openai.com/codex/))
 - **2026-07-31** — Big Food vs. the People ([source](https://www.lighthousereports.com/investigation/big-food-vs-the-people/))
 - **2026-05-26** — The User Is Visibly Frustrated ([source](https://pscanf.com/s/354/))
