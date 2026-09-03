@@ -1,16 +1,17 @@
 ---
 title: "Uber and Pony.ai Expand to Europe with 2,000 Robotaxis"
 date: 2026-08-14T12:54:18.971Z
-modified_date: 2026-08-29T00:25:11.572Z
+modified_date: 2026-09-03T02:30:28.056Z
 tags: ["autonomous vehicles","Uber","Pony.ai","Europe"]
 hero_image: "/hero/2026-08-14-uber-and-pony-ai-expand-to-europe-with-2-000-robotaxis-6ad81c.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxis"
 description: "Uber and Pony.ai launch 2,000 robotaxis in Europe"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The potential market for autonomous vehicles in Europe is significant, with mill
 
 ## Updates
 
+- **2026-09-03** — Adobe brings 70+ tools from Photoshop, Illustrator and more to Slack ([source](https://www.engadget.com/2250051/adobe-slack-over-70-tools-added/))
 - **2026-08-29** — Most people overpay for their phone plan – Tello Mobile maxes out at $25/month ([source](https://9to5mac.com/2026/08/28/most-people-overpay-phone-plan-tello-mobile-maxes-out-at-25-month/))
 - **2026-08-28** — Meta is closing a loophole that allowed people to record with their smart glasses' light covered ([source](https://www.engadget.com/2245776/meta-closing-loophole-that-allowed-people-to-record-with-smart-glasses-light-covered/))
 - **2026-08-23** — Is it legal to train AI models on copyrighted books? It’s complicated ([source](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/))
