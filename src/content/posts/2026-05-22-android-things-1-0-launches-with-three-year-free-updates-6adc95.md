@@ -1,15 +1,18 @@
 ---
 title: "Android Things 1.0 launches with three-year free updates"
 date: 2026-05-22T04:22:35.509Z
+modified_date: 2026-09-03T08:28:47.032Z
 tags: ["android","iot","updates"]
 hero_image: "/hero/2026-05-22-android-things-1-0-launches-with-three-year-free-updates-6adc95.jpg"
 hero_image_credit_name: "Tanha Tamanna  Syed"
 hero_image_credit_url: "https://www.pexels.com/@tanhatamannasyed"
 visual_keyword: "industrial IoT board with Google logo and modules"
 description: "Google releases Android Things 1.0, a closed-source IoT OS with three years of free updates and certified System-on-Modules for manufacturers."
-sources_count: 5
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
+
 
 ## Android Things 1.0 hits the market
 
@@ -38,3 +41,8 @@ The closed‑source stance also sidesteps the complexities introduced by Dynamic
 ## What to watch
 
 The first wave of Android Things devices will likely appear in smart home appliances and industrial edge gateways. Adoption hinges on whether OEMs trust a closed‑source OS that they cannot tweak. Keep an eye on the “extended support” options Google hints at after the three‑year window—if they become a paid service, smaller manufacturers may reconsider. Finally, watch how the certified SoM list evolves; a broader hardware portfolio could unlock new categories such as automotive telematics or medical wearables, and force competitors to rethink their own update strategies.
+
+## Updates
+
+- **2026-09-03** — Anker’s new printer works directly on fabrics ([source](https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa))
+- **2026-09-03** — Belkin’s first trackers come ready to attach to your gear. ([source](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag))

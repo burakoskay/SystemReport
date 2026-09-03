@@ -1,15 +1,17 @@
 ---
 title: "AI Hype vs. Reality: A Skeptical Look"
 date: 2026-05-17T17:02:54.899Z
+modified_date: 2026-09-03T08:29:00.010Z
 tags: ["AI","Technology","Innovation"]
 hero_image: "/hero/2026-05-17-ai-hype-vs-reality-a-skeptical-look-991bf8.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "The AI landscape is shifting, with some experts downplaying its potential. What's behind the hype and what's the reality?"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## The AI Bubble?
@@ -64,3 +66,6 @@ The AI bubble may be bursting, but the technology itself is here to stay. As we 
 
 As AI continues to evolve, we can expect to see new developments and new applications. However, it's essential to approach these developments with a critical eye and to evaluate the technology based on its actual capabilities. By doing so, we can ensure that AI is developed and used in a responsible and sustainable way.
 
+## Updates
+
+- **2026-09-03** — Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module ([source](https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module))

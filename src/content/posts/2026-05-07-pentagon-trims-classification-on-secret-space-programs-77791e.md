@@ -1,19 +1,21 @@
 ---
 title: "Pentagon trims classification on secret space programs"
 date: 2026-05-07T21:15:17.848Z
-modified_date: 2026-05-19T15:35:05.125Z
+modified_date: 2026-09-03T08:29:19.650Z
 tags: ["defense","space","classification","policy","technology"]
 hero_image: "/hero/2026-05-07-pentagon-trims-classification-on-secret-space-programs-77791e.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite orbit with classified documents overlay"
 description: "DoD policy lowers secrecy on key space projects, opening tech to allies and industry as the US seeks an edge over China and Russia."
-sources_count: 9
+sources_count: 11
 audio_path: "/audio/2026-05-07-pentagon-trims-classification-on-secret-space-programs-77791e.mp3"
 audio_bytes: 605249
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
+
 
 
 
@@ -44,5 +46,7 @@ China’s People’s Liberation Army Rocket Force and Russia’s Aerospace Force
 
 ## Updates
 
+- **2026-09-03** — Belkin says its new ‘BoostSolid’ Qi2 batteries last 3x longer than your other magnetic power banks ([source](https://9to5google.com/2026/09/03/belkin-launches-new-solid-state-qi-2-batteries/))
+- **2026-09-03** — Anker put a display on the case of its new sleepbuds ([source](https://www.theverge.com/tech/988265/anker-sleep-earbuds-4-pro-price-date-specs))
 - **2026-05-19** — Marshall brings ANC back to its smaller on-ear wireless headphones ([source](https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones))
 - **2026-05-13** — Could this be the moment that drug manufacturing takes off in orbit? ([source](https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/))

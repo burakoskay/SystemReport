@@ -1,16 +1,17 @@
 ---
 title: "Asus TUF Gaming A14 (2026) Review: Missed Opportunity"
 date: 2026-04-18T11:07:04.735Z
-modified_date: 2026-05-08T17:25:20.208Z
+modified_date: 2026-09-03T08:29:13.159Z
 tags: ["Asus","TUF Gaming A14","AMD Ryzen 7 7840U"]
 hero_image: "/hero/2026-04-18-asus-tuf-gaming-a14-2026-review-missed-opportunity-78d099.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "GPU-less"
 description: "Asus TUF Gaming A14 lacks punch with AMD's Ryzen 7 7840U"
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 
 ## Introduction
@@ -22,4 +23,5 @@ The TUF Gaming A14's inability to capitalize on AMD's innovation is a missed opp
 
 ## Updates
 
+- **2026-09-03** — Anker's MindBase is a smart home hub, NAS and security guard ([source](https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/))
 - **2026-05-08** — Teenage Engineering’s KO Sidekick is a mixer with fun performance effects ([source](https://www.theverge.com/tech/926898/teenage-engineerings-ko-sidekick-is-a-mixer-with-fun-performance-effects))
