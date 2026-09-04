@@ -1,15 +1,17 @@
 ---
 title: "OpenAI introduces Trusted Contact for self-harm risk"
 date: 2026-05-08T14:07:46.704Z
+modified_date: 2026-09-04T02:33:00.540Z
 tags: ["AI","Chatbots","Regulation","Safety","Mental Health","Technology"]
 hero_image: "/hero/2026-05-08-openai-introduces-trusted-contact-for-self-harm-risk-86fa54.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "AI chatbot"
 description: "OpenAI introduces Trusted Contact for self-harm alerts while Senate pushes GUARD Act to age-gate companion chatbots."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## OpenAI introduces Trusted Contact for self-harm risk
 
@@ -114,3 +116,7 @@ Moreover, the success or failure of OpenAI's Trusted Contact feature will influe
 * Show HN: Stonks-CLI – track your investment portfolio from your terminal
 * Politicians can’t tell the difference between AI chatbots and human constituents
 * Senate Advances Guard Act Targeting AI Chatbots and Minors – Let's Data Science
+
+## Updates
+
+- **2026-09-04** — The Cybercab is Tesla’s ‘fork in the road’ moment ([source](https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/))

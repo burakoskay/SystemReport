@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Insights"
 date: 2026-05-13T06:58:24.476Z
-modified_date: 2026-08-09T18:32:15.026Z
+modified_date: 2026-09-04T02:33:26.680Z
 tags: ["Hacker News","Starship V3","Rust"]
 hero_image: "/hero/2026-05-13-hacker-news-insights-48d331.jpg"
 hero_image_credit_name: "Lucas Andrade"
 hero_image_credit_url: "https://www.pexels.com/@lucasandrade"
 visual_keyword: "Hacker News"
 description: "Analysis of trending topics on Hacker News, including Starship V3, Rust, and article success prediction"
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ As Hacker News and similar platforms continue to grow, understanding the dynamic
 
 ## Updates
 
+- **2026-09-04** — Wikipedia Workers Unionize for the First Time ([source](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/))
 - **2026-08-09** — Criminal Deception in Silicon Valley ([source](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981))
 - **2026-05-30** — Domain expertise has always been the real moat ([source](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/))
 - **2026-05-20** — You can now remix other people’s YouTube Shorts with AI ([source](https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai))

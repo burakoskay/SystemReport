@@ -1,16 +1,17 @@
 ---
 title: "Programming in the AI Age: Language Wars and Ethical Gaps"
 date: 2026-05-12T03:55:01.264Z
-modified_date: 2026-07-30T19:16:49.888Z
+modified_date: 2026-09-04T02:33:13.628Z
 tags: ["ai-ethics","language-design","memory-safety"]
 hero_image: "/hero/2026-05-12-programming-in-the-ai-age-language-wars-and-ethical-gaps-c258a2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "binary code flowing through neural network connections"
 description: "Python's future, memory-safe Java tools, and AI model architecture shifts collide with corporate accountability gaps."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ The Python community will vote on PEP 722 next month, which could enable AI-assi
 
 ## Updates
 
+- **2026-09-04** — Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control ([source](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40))
 - **2026-07-30** — Should you avoid TP-Link routers? Here's what to know ([source](https://www.engadget.com/2222997/should-you-stay-away-from-tp-link-routers-what-to-know/))
 - **2026-05-14** — Metroid Prime 4: Beyond got its first big discount ([source](https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale))

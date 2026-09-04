@@ -1,19 +1,20 @@
 ---
 title: "AI YouTube Show Hits Theaters"
 date: 2026-06-02T21:04:49.048Z
-modified_date: 2026-08-22T12:26:30.055Z
+modified_date: 2026-09-04T02:33:20.124Z
 tags: ["AI","YouTube","Theaters"]
 hero_image: "/hero/2026-06-02-ai-youtube-show-hits-theaters-505655.jpg"
 hero_image_credit_name: "Denys Gromov"
 hero_image_credit_url: "https://www.pexels.com/@jdgromov"
 visual_keyword: "The Amazing Digital Circus"
 description: "The Amazing Digital Circus finale expands to 4,000 theaters before YouTube release."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-02-ai-youtube-show-hits-theaters-505655.mp3"
 audio_bytes: 590412
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,4 +60,5 @@ The Amazing Digital Circus's leap to theaters is a significant test of the power
 
 ## Updates
 
+- **2026-09-04** — Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal ([source](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out))
 - **2026-08-22** — Dismantling the Roadless Rule threatens to disrupt wildlife and water in US ([source](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/))
