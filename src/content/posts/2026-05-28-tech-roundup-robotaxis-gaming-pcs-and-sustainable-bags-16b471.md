@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup: Robotaxis, Gaming PCs, and Sustainable Bags"
 date: 2026-05-28T20:35:24.722Z
-modified_date: 2026-08-29T14:54:01.333Z
+modified_date: 2026-09-04T17:20:32.241Z
 tags: ["robotaxi","gaming PCs","sustainable design"]
 hero_image: "/hero/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Waymo's new robotaxi, Intel's handheld gaming PCs, and a sustainable travel bag make headlines in the tech world."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.mp3"
 audio_bytes: 612982
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ The impact of sustainable design is likely to be felt across the tech industry, 
 
 ## Updates
 
+- **2026-09-04** — Nintendo&#8217;s next two Direct events are both happening next week ([source](https://www.theverge.com/games/990207/nintendo-direct-zelda-40th))
 - **2026-08-29** — The Theragun Sense makes everyday recovery surprisingly easy ([source](https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/))
 - **2026-08-24** — Zillow and Redfin settle FTC antitrust case over their rental listings partnership ([source](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement))
 - **2026-05-30** — AI grifters are creating fake Black people to sell Shein junk ([source](https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping))

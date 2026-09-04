@@ -1,18 +1,20 @@
 ---
 title: "AI Model Outages Reveal Shared Compute Fragility"
 date: 2026-09-03T22:12:50.877Z
+modified_date: 2026-09-04T17:20:45.200Z
 tags: ["ai","outage","compute","cloud"]
 hero_image: "/hero/2026-09-03-ai-model-outages-reveal-shared-compute-fragility-b915ca.jpg"
 hero_image_credit_name: "Sylvain Cls"
 hero_image_credit_url: "https://www.pexels.com/@sylvain-cls-3918566"
 visual_keyword: "dimmed data center with glowing AI model icons"
 description: "ChatGPT, Claude, Grok, and Gemini all went down together, highlighting reliance on shared compute infrastructure and prompting questions about reliability."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-09-03-ai-model-outages-reveal-shared-compute-fragility-b915ca.mp3"
 audio_bytes: 602115
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ChatGPT, Claude, Grok, and Gemini all went offline within minutes of each other today, exposing a thin spot in the AI service stack. The simultaneous loss of four flagship models forces engineers to ask how many providers depend on the same underlying hardware.
 
@@ -49,3 +51,7 @@ The fact that Gemini, which largely runs on Google's own infrastructure, also ex
 ## What to Watch
 
 The next week will likely bring post‑mortem reports from OpenAI, Anthropic, xAI, and Google. Those documents should reveal whether the outage stemmed from a shared compute provider, a network‑level incident, or independent hardware failures. Watch for any changes in compute contracts, especially whether providers announce new redundancy layers or diversify away from single partners like SpaceXAI. Finally, keep an eye on regulatory filings that may require AI firms to disclose compute‑related risk metrics. The industry’s response will indicate how seriously the sector treats systemic reliability after a near‑simultaneous blackout.
+
+## Updates
+
+- **2026-09-04** — Who Cares if AI Is Conscious—It’s Basically Alive ([source](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/))

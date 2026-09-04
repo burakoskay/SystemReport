@@ -1,16 +1,17 @@
 ---
 title: "Hope in a Broken World: Exploring Post-Apocalyptic Stories"
 date: 2026-04-18T01:05:11.111Z
-modified_date: 2026-08-31T02:55:11.571Z
+modified_date: 2026-09-04T17:20:12.881Z
 tags: ["postapocalyptic","sciencefiction","resilience"]
 hero_image: "/hero/2026-04-18-hope-in-a-broken-world-exploring-post-apocalyptic-stories-1b69cf.jpg"
 hero_image_credit_name: "Alec Doualetas"
 hero_image_credit_url: "https://www.pexels.com/@alecdoua"
 visual_keyword: "desolate landscape with survivors"
 description: "Discover the power of resilience in a world gone mad"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ In a world where the rules have changed and the familiar has been lost, stories 
 
 ## Updates
 
+- **2026-09-04** — Microsoft says virtually nobody was grabbing NYT articles through its chatbot ([source](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit))
 - **2026-08-31** — The world may have less time than it thinks on climate change ([source](https://economist.com/by-invitation/2026/08/30/the-world-may-have-less-time-than-it-thinks-on-climate-change))
 - **2026-08-29** — What's the difference between TPU vs. GPU? ([source](https://www.engadget.com/2242759/tpu-vs-gpu-difference-between-processsors/))
 - **2026-08-18** — Polaroid’s new Pokémon collection captures memories, not Pikachus ([source](https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film))

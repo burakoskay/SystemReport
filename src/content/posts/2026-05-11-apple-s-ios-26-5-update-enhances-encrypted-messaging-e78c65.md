@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Update Enhances Encrypted Messaging"
 date: 2026-05-11T18:02:45.927Z
-modified_date: 2026-08-26T14:40:17.887Z
+modified_date: 2026-09-04T17:21:30.829Z
 tags: ["Apple","iOS 26.5","Encrypted Messaging","RCS"]
 hero_image: "/hero/2026-05-11-apple-s-ios-26-5-update-enhances-encrypted-messaging-e78c65.jpg"
 hero_image_credit_name: "George Becker"
 hero_image_credit_url: "https://www.pexels.com/@eye4dtail"
 visual_keyword: "lock"
 description: "Apple releases iOS 26.5 with end-to-end encryption for RCS messaging, enhancing security for iPhone and Android users."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The enhancement of encrypted messaging is just one example of Apple's commitment
 
 ## Updates
 
+- **2026-09-04** — Pixel 11 lets you make any Camera Look default with this buried setting ([source](https://9to5google.com/2026/09/04/pixel-11-lets-you-make-any-camera-look-default-with-this-buried-setting/))
 - **2026-08-26** — Ring says its new encryption limits what it can give police ([source](https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement))
 - **2026-07-28** — Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them ([source](https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/))
 - **2026-07-27** — Claude, Codex, and other AI tools credited in today’s Apple security releases ([source](https://9to5mac.com/2026/07/27/claude-codex-and-other-ai-tools-credited-in-todays-apple-security-releases/))

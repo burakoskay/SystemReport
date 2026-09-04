@@ -1,16 +1,17 @@
 ---
 title: "AI Security Risks"
 date: 2026-07-30T11:49:54.035Z
-modified_date: 2026-08-04T19:25:12.920Z
+modified_date: 2026-09-04T17:21:50.288Z
 tags: ["AI Security Risks","Generative AI","Data Security"]
 hero_image: "/hero/2026-07-30-ai-security-risks-a1d523.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "AI Security"
 description: "Generative AI models pose significant data security risks"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to AI Security Risks
@@ -49,6 +50,7 @@ The hiring of researchers and developers to work on foundation models, including
 
 ## Updates
 
+- **2026-09-04** — 9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors ([source](https://9to5mac.com/2026/09/04/daily-september-4-2026/))
 - **2026-08-04** — AirPods Pro 3 just got new firmware release in beta, more models too ([source](https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/))
 
 [^1]: [winzheng.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt19Z-DKTO0iATxNl5erCa5mZzpOdw8kJcuqbcC5X9c-BhBXZ-TSAqBuk4CF_wJui2-nmqI8ApqBo_Q22PFxq2xJ8abkJEFIGcLspsIB-WqJlWkuLrTs7AOH2-XHEmXD-shrZsxvL--351q7gNHRHRa2zsqvx6xwM3oAaIuBG2l8gqqqs1)

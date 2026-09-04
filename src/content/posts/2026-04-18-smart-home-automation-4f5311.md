@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-08-19T18:44:46.843Z
+modified_date: 2026-09-04T17:21:17.832Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-09-04** — What’s new in Android’s September 2026 Google System Updates ([source](https://9to5google.com/2026/09/04/september-2026-google-system-updates/))
 - **2026-08-19** — Google rolling out new gradient ring for subscribers on Android, web ([source](https://9to5google.com/2026/08/19/google-account-gradient-ring/))
 - **2026-08-17** — 7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid) ([source](https://www.wired.com/gallery/best-cheap-laptops/))
 - **2026-08-14** — Android 17 QPR2 Beta 3 for Pixel rolling out ([source](https://9to5google.com/2026/08/14/android-17-qpr2-beta-3-pixel/))

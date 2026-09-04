@@ -1,16 +1,17 @@
 ---
 title: "Apple tweaks EU fees, iPhone battery tools"
 date: 2026-08-18T22:31:41.924Z
-modified_date: 2026-08-29T00:24:34.229Z
+modified_date: 2026-09-04T17:20:19.355Z
 tags: ["apple","eu","battery","homepod"]
 hero_image: "/hero/2026-08-18-apple-tweaks-eu-fees-iphone-battery-tools-7b81bf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone screen showing battery health metrics with percentage and cycle count"
 description: "Apple rolls out new EU commission rates, clarifies iPhone battery health access, and leaks a HomePod display via macOS beta code."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 ## New EU commission rates for developers
@@ -46,4 +47,5 @@ Track the European Commission's next enforcement notice; any deviation from the 
 
 ## Updates
 
+- **2026-09-04** — Alienware’s refurbished 16 Aurora is almost $200 off at Woot ([source](https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale))
 - **2026-08-29** — Xbox CEO calls Project Helix a ‘family of devices’ ([source](https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices))

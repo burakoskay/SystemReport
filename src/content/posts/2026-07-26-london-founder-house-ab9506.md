@@ -1,19 +1,20 @@
 ---
 title: "London Founder House"
 date: 2026-07-26T17:13:41.091Z
-modified_date: 2026-09-01T22:19:30.421Z
+modified_date: 2026-09-04T17:21:43.862Z
 tags: ["London Founder House","Work-Life Balance","Startup Ecosystem"]
 hero_image: "/hero/2026-07-26-london-founder-house-ab9506.jpg"
 hero_image_credit_name: "Bryce Carithers"
 hero_image_credit_url: "https://www.pexels.com/@bryce-carithers-11680701"
 visual_keyword: "Founder House"
 description: "London founder house prioritizes work-life balance"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-07-26-london-founder-house-ab9506.mp3"
 audio_bytes: 533987
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ Groq will continue to experiment with its approach, refining its methods and gat
 
 ## Updates
 
+- **2026-09-04** — Apple TV’s big fall lineup: Here’s every new show and movie coming soon ([source](https://9to5mac.com/2026/09/04/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/))
 - **2026-09-01** — Google’s Android update tackles motion sickness, accessibility, and more ([source](https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/))
 - **2026-08-14** — Seven books I keep close because I love them ([source](https://blog.plover.com/2026/08/02/))
 - **2026-08-06** — Apple TV’s fall lineup reveals every new show and movie coming soon ([source](https://9to5mac.com/2026/08/06/apple-tvs-fall-lineup-reveals-every-new-show-and-movie-coming-soon/))

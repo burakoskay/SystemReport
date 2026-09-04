@@ -1,19 +1,20 @@
 ---
 title: "Space Exploration's New Frontiers"
 date: 2026-04-24T17:31:07.057Z
-modified_date: 2026-08-23T12:26:40.683Z
+modified_date: 2026-09-04T17:21:04.767Z
 tags: ["space exploration","NASA","SpaceX"]
 hero_image: "/hero/2026-04-24-space-exploration-s-new-frontiers-b8d8d7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "space"
 description: "NASA and private companies push the boundaries of space travel and exploration."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-24-space-exploration-s-new-frontiers-b8d8d7.mp3"
 audio_bytes: 597517
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The future of space exploration is exciting and uncertain. With NASA's Artemis p
 
 ## Updates
 
+- **2026-09-04** — Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge ([source](https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/))
 - **2026-08-23** — The Art and Beauty of Blade Runner (2015) ([source](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/))
 - **2026-08-22** — The 4 Best Monitor Arms to Clear Up Your Desk Space (2026) ([source](https://www.wired.com/gallery/best-monitor-arms/))
 - **2026-04-24** — This free iPhone app from Cornell answers nature’s greatest springtime mystery ([source](https://9to5mac.com/2026/04/24/this-free-iphone-app-from-cornell-answers-natures-greatest-springtime-mystery/))

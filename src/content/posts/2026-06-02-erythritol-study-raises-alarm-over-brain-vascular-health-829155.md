@@ -1,18 +1,20 @@
 ---
 title: "Erythritol Study Raises Alarm Over Brain Vascular Health"
 date: 2026-06-02T23:56:49.433Z
+modified_date: 2026-09-04T17:21:11.345Z
 tags: ["health","science","nutrition"]
 hero_image: "/hero/2026-06-02-erythritol-study-raises-alarm-over-brain-vascular-health-829155.jpg"
 hero_image_credit_name: "turek"
 hero_image_credit_url: "https://www.pexels.com/@turek3024"
 visual_keyword: "close‑up of brain blood vessel cells under microscope with oxidative stress markers"
 description: "A new cell study links a single serving of erythritol to oxidative stress and reduced nitric oxide, echoing broader concerns about sugar substitutes and health misinformation."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-02-erythritol-study-raises-alarm-over-brain-vascular-health-829155.mp3"
 audio_bytes: 619460
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A single sweetener may sabotage brain vessels
 The University of Colorado Boulder team showed that erythritol, the sugar‑free sweetener found in many diet drinks, spikes oxidative stress in brain blood‑vessel cells. The researchers exposed human cerebral vascular cells to a solution containing roughly the amount of erythritol in one typical soda can – about 30 grams – for three hours. After exposure the cells produced nearly twice the reactive oxygen species of untreated cells and secreted far less nitric oxide, a molecule that keeps vessels relaxed.
@@ -41,3 +43,7 @@ Both cases reveal a common thread: data quality shapes policy. Whether measuring
 
 ## What to watch next
 Track the upcoming FDA review of erythritol’s acceptable daily intake, slated for the next quarter. Also monitor longitudinal studies that assess cardiovascular outcomes in populations with high erythritol consumption. Finally, watch how media outlets frame the findings; credible reporting will hinge on quoting the original cell data and contextualizing it within the broader evidence base.
+
+## Updates
+
+- **2026-09-04** — Tesla's Cybercab is under federal investigation almost immediately after hitting the streets ([source](https://www.engadget.com/2251066/tesla-cybercab-under-federal-investigation-almost-immediately-after-hitting-streets/))
