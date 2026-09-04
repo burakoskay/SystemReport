@@ -1,18 +1,20 @@
 ---
 title: "Ohio Valley FM Signal Severed in Daylight"
 date: 2026-06-07T14:09:07.731Z
+modified_date: 2026-09-04T20:09:51.518Z
 tags: ["cybersecurity","broadcasting","infrastructure"]
 hero_image: "/hero/2026-06-07-ohio-valley-fm-signal-severed-in-daylight-35428f.jpg"
 hero_image_credit_name: "Sergio Scandroglio"
 hero_image_credit_url: "https://www.pexels.com/@563ska"
 visual_keyword: "radio-tower"
 description: "A 100k-watt FM signal in Ohio Valley was severed in broad daylight. The incident has raised concerns about the vulnerability of broadcasting infrastructure."
-sources_count: 1
-author: "elena-marchetti"
+sources_count: 2
 audio_path: "/audio/2026-06-07-ohio-valley-fm-signal-severed-in-daylight-35428f.mp3"
 audio_bytes: 613191
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A Signal Silenced
@@ -79,3 +81,6 @@ As the investigation into the incident continues, industry experts and regulator
 
 The broadcasting industry must remain vigilant in the face of evolving threats and take proactive steps to ensure the security and resilience of its infrastructure. The incident serves as a reminder of the importance of prioritizing security and investing in infrastructure protection.
 
+## Updates
+
+- **2026-09-04** — The White House is making arcade games racist ([source](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright))

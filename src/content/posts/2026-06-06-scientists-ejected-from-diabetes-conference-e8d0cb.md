@@ -1,18 +1,20 @@
 ---
 title: "Scientists Ejected from Diabetes Conference"
 date: 2026-06-06T23:09:01.900Z
+modified_date: 2026-09-04T20:10:40.999Z
 tags: ["Diabetes Research","Scientific Freedom","ADA Conference"]
 hero_image: "/hero/2026-06-06-scientists-ejected-from-diabetes-conference-e8d0cb.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "diabetes"
 description: "ADA conference ejects scientists for distributing journal reprints"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-06-scientists-ejected-from-diabetes-conference-e8d0cb.mp3"
 audio_bytes: 523538
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Incident
 The American Diabetes Association (ADA) conference ejected several scientists, including ADA journal editor-in-chief Steven Kahn and former ADA president Desmond Schatz, for distributing journal reprints.
@@ -47,3 +49,7 @@ The incident at the ADA conference has sparked a broader conversation about the 
 
 ## Conclusion
 The ejection of scientists from the ADA conference has significant implications for the future of diabetes research and the broader scientific community. The incident highlights the need for organizations to prioritize scientific freedom and integrity, and to protect the rights of researchers to share their findings and engage in open and honest discussion.
+
+## Updates
+
+- **2026-09-04** — Will the iPhone 18 Pro’s biggest upgrade really deliver? ([source](https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/))

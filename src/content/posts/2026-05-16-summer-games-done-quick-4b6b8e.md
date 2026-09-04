@@ -1,16 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
-modified_date: 2026-08-31T18:38:54.686Z
+modified_date: 2026-09-04T20:10:27.220Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ Overall, the Summer Games Done Quick event is a great opportunity for gamers and
 
 ## Updates
 
+- **2026-09-04** — HomeKit Weekly: ULTRALOQ’s Bolt Fingerprint has everything you’d want except Home Key ([source](https://9to5mac.com/2026/09/04/ultraloq-bolt-fingerprint/))
 - **2026-08-31** — How to disable absolute Bluetooth volume on Android (and why you might want to) ([source](https://www.engadget.com/2240704/android-disable-absolute-bluetooth-volume-how-to-guide/))
 - **2026-08-17** — Apple releases beta 6 for iPadOS 27, tvOS 27, and more ([source](https://9to5mac.com/2026/08/17/apple-releases-beta-6-for-ipados-27-tvos-27-and-more/))
 - **2026-06-03** — PSA: Those using older Macs and iPhones won’t be able to create or edit Office docs ([source](https://9to5mac.com/2026/06/03/psa-those-using-older-macs-and-iphones-wont-be-able-to-create-or-edit-office-docs/))

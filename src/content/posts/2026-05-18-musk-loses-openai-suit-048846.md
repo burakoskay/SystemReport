@@ -1,18 +1,20 @@
 ---
 title: "Musk Loses OpenAI Suit"
 date: 2026-05-18T18:05:27.828Z
+modified_date: 2026-09-04T20:10:34.122Z
 tags: ["OpenAI","Elon Musk","Artificial Intelligence"]
 hero_image: "/hero/2026-05-18-musk-loses-openai-suit-048846.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "Elon Musk's lawsuit against OpenAI and its CEO Sam Altman has been tossed out by a California jury"
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-18-musk-loses-openai-suit-048846.mp3"
 audio_bytes: 614027
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Musk's Lawsuit Against OpenAI Dismissed
@@ -54,3 +56,7 @@ As AI technology continues to advance, the need for clear guidelines and oversig
 ## Conclusion
 
 In conclusion, the dismissal of Elon Musk's lawsuit against OpenAI and its CEO Sam Altman has significant implications for the development of AI and the relationships between tech companies. As the industry continues to evolve, it will be important to monitor the actions of companies like OpenAI and Microsoft, and to advocate for transparency and accountability in AI development.
+
+## Updates
+
+- **2026-09-04** — SpaceXAI expands Grok Bot to iPad as access expands to cheaper plans ([source](https://9to5mac.com/2026/09/04/spacexai-expands-grok-bot-to-ipad-as-access-expands-to-cheaper-plans/))

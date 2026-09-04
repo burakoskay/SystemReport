@@ -1,15 +1,17 @@
 ---
 title: "Google Cloud Fraud Defence accused of repackaging WEI"
 date: 2026-05-08T17:44:16.950Z
+modified_date: 2026-09-04T20:10:12.865Z
 tags: ["cloud","programming","networking","data-format","language"]
 hero_image: "/hero/2026-05-08-google-cloud-fraud-defence-accused-of-repackaging-wei-e054b6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract collage of cloud security icons, Go logo, mesh nodes, geographic map pins, and AI code symbols"
 description: "A deep dive into the latest Hacker News discussions on Google Cloud Fraud Defence, Go language, Meshtastic, GeoJSON and the Mojo 1.0 beta."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 ## Google Cloud Fraud Defence under fire
 
@@ -54,3 +56,7 @@ Mojo’s beta launch illustrates the industry’s appetite for domain‑specific
 ## What to watch
 
 Watch Google’s response to the WEI allegations; a formal statement or licensing clarification could reshape enterprise adoption of its fraud‑defence service. Track Go’s ecosystem as the language adds generics and continues to replace legacy runtimes in cloud‑native stacks. Monitor Meshtastic’s security roadmap and any partnerships with emergency‑response agencies. Follow GeoJSON’s evolution, especially proposals for compression or streaming extensions. Finally, keep an eye on Mojo’s transition from beta to production, noting library maturity and vendor endorsements. Each of these signals will influence tooling decisions across cloud, AI, and edge computing domains.
+
+## Updates
+
+- **2026-09-04** — New profile of John Ternus offers insight into life and reputation of Apple CEO ([source](https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/))
