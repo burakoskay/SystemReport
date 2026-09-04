@@ -1,19 +1,20 @@
 ---
 title: "MIT pushes arXiv to pull AI‑science preprint over data doubts"
 date: 2026-05-28T20:38:38.473Z
-modified_date: 2026-08-02T14:57:58.806Z
+modified_date: 2026-09-04T13:57:30.389Z
 tags: ["ai","research-integrity","preprints","arxiv","mit"]
 hero_image: "/hero/2026-05-28-mit-pushes-arxiv-to-pull-ai-science-preprint-over-data-doubts-64e3e3.jpg"
 hero_image_credit_name: "Berke  Can"
 hero_image_credit_url: "https://www.pexels.com/@berkecanavci"
 visual_keyword: "academic office with red withdrawal notice on a digital preprint repository"
 description: "MIT’s confidential review found no confidence in the data behind a high‑profile AI‑science preprint, prompting a formal request for its removal from arXiv."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-28-mit-pushes-arxiv-to-pull-ai-science-preprint-over-data-doubts-64e3e3.mp3"
 audio_bytes: 617788
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 MIT asked arXiv to flag a November 2024 preprint on AI‑driven scientific discovery as withdrawn after an internal review deemed its data unreliable. The move spotlights the friction between rapid preprint dissemination and research integrity safeguards.
@@ -52,4 +53,5 @@ Watch for arXiv’s response to MIT’s request and any subsequent policy revisi
 
 ## Updates
 
+- **2026-09-04** — ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years ([source](https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/))
 - **2026-08-02** — HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was ([source](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review))

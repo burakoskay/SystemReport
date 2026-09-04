@@ -1,16 +1,17 @@
 ---
 title: "Waymo Tightens Age Rules as AV Industry Faces New Challenges"
 date: 2026-05-02T03:37:02.132Z
-modified_date: 2026-08-19T14:27:29.966Z
+modified_date: 2026-09-04T13:56:24.535Z
 tags: ["autonomous vehicles","Waymo","PTIO"]
 hero_image: "/hero/2026-05-02-waymo-tightens-age-rules-as-av-industry-faces-new-challenges-655446.jpg"
 hero_image_credit_name: "Ministar Samuel"
 hero_image_credit_url: "https://www.pexels.com/@ministar"
 visual_keyword: "self-driving car with LiDAR hub on a city street"
 description: "Waymo adds age verification checks to restrict solo minors in driverless cars while industry players form new partnerships and grapple with public safety concerns."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The next six months will test the AV industry's ability to balance innovation wi
 
 ## Updates
 
+- **2026-09-04** — Oh good, looks like yet another swarm of rogue AI agents from OpenAI ([source](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki))
 - **2026-08-19** — Home batteries are suddenly cheap and everywhere. Here’s why. ([source](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/))
 - **2026-08-06** — The messy politics behind Google’s big AI shakeup ([source](https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind))
 - **2026-07-28** — Hugging Face is being used to easily undress women and children ([source](https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children))

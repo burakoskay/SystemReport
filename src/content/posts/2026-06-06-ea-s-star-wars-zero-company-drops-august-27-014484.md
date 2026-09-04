@@ -1,19 +1,20 @@
 ---
 title: "EA's Star Wars Zero Company Drops August 27"
 date: 2026-06-06T06:57:52.571Z
-modified_date: 2026-08-13T14:53:32.182Z
+modified_date: 2026-09-04T13:56:37.709Z
 tags: ["Star Wars: The Old Republic","MMORPG","Gaming"]
 hero_image: "/hero/2026-06-06-ea-s-star-wars-zero-company-drops-august-27-014484.jpg"
 hero_image_credit_name: "Otto Rascon"
 hero_image_credit_url: "https://www.pexels.com/@ottovonrascon"
 visual_keyword: "Star Wars"
 description: "EA releases Star Wars: The Old Republic's Zero Company on August 27, with a gameplay trailer featuring Anakin Skywalker."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-06-ea-s-star-wars-zero-company-drops-august-27-014484.mp3"
 audio_bytes: 594800
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,4 +58,5 @@ The 'Zero Company' expansion is a significant step forward for Star Wars: The Ol
 
 ## Updates
 
+- **2026-09-04** — Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming ([source](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs))
 - **2026-08-13** — Microsoft is combining its Copilot apps ahead of a ‘super app’ ([source](https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience))

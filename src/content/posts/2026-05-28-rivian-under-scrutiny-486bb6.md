@@ -1,15 +1,17 @@
 ---
 title: "Rivian Under Scrutiny"
 date: 2026-05-28T16:12:43.837Z
+modified_date: 2026-09-04T13:57:50.235Z
 tags: ["Rivian","Electric Vehicles","Autonomous Features"]
 hero_image: "/hero/2026-05-28-rivian-under-scrutiny-486bb6.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "Rivian R1T"
 description: "Rivian faces investigations and criticism over rear suspension failures, while expanding its charging network and planning new autonomous features."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 ## Rivian's Rear Suspension Failures Under Investigation
@@ -82,3 +84,6 @@ Rivian faces significant challenges, but the company is taking steps to address 
 
 The future of the electric vehicle market is uncertain, but one thing is clear: companies like Rivian must prioritize safety, innovation, and execution to succeed. The company's ability to navigate the challenges ahead will be critical to its long-term success.
 
+## Updates
+
+- **2026-09-04** — How to edit Claude's memory ([source](https://www.engadget.com/2246397/how-to-edit-claude-memory/))

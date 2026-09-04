@@ -1,18 +1,20 @@
 ---
 title: "Google Aims to Replenish More Water Than Its AI Data Centers Use"
 date: 2026-06-03T11:09:47.492Z
+modified_date: 2026-09-04T13:56:50.840Z
 tags: ["Google","Data Centers","Water Usage"]
 hero_image: "/hero/2026-06-03-google-aims-to-replenish-more-water-than-its-ai-data-centers-use-6d2a57.jpg"
 hero_image_credit_name: "Andrea Pamela"
 hero_image_credit_url: "https://www.pexels.com/@andreapamelahs"
 visual_keyword: "water"
 description: "Google's water replenishment pledge sparks debate"
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-03-google-aims-to-replenish-more-water-than-its-ai-data-centers-use-6d2a57.mp3"
 audio_bytes: 580172
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Water Usage in AI Data Centers
 Google will aim to return more water than its AI data centers consume by 2030. The pledge includes investments in local water infrastructure and a promise to disclose usage metrics. Data center operators face scrutiny for their impact on water quality and availability. Google's commitments include a goal to replenish more water than it uses at its data centers by 2030.
@@ -40,3 +42,7 @@ The impact of data centers on local water supplies can be significant. As the de
 
 ## Future Developments
 The development of more efficient and sustainable technologies will be crucial in reducing the environmental impact of data centers. Companies like Google and Microsoft are already investing in research and development of new technologies, such as immersive cooling and renewable energy sources. As the demand for data storage and processing continues to grow, the industry will need to continue to innovate and find new solutions to reduce its environmental footprint.
+
+## Updates
+
+- **2026-09-04** — Bluetti launches ‘e-generator’ to take on noisy, stinky, polluting gas generators ([source](https://www.theverge.com/tech/986123/bluetti-pioneer-5000-solar-generator))

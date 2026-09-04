@@ -1,15 +1,17 @@
 ---
 title: "Israel’s Fake Think Tank Targets AI Chatbots"
 date: 2026-08-18T10:28:06.264Z
+modified_date: 2026-09-04T13:56:17.896Z
 tags: ["ai","disinformation","policy"]
 hero_image: "/hero/2026-08-18-israel-s-fake-think-tank-targets-ai-chatbots-73a209.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "computer screen displaying a fake think tank website with Israeli flag overlay"
 description: "A covert Israeli operation created a bogus think tank to feed favorable narratives into AI chatbots, exposing new vectors for state influence."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Israel Deploys a Fabricated Think Tank to Manipulate AI Chatbots
 
@@ -48,3 +50,7 @@ The next test will be whether major LLM providers adopt real‑time provenance f
 ---
 
 *This article is based on publicly available analysis of the ISA operation and statements from AI developers and watchdog groups. Specific details about the shell company and registration date are drawn from the investigative report linked in the source material.*
+
+## Updates
+
+- **2026-09-04** — Feds launch investigation into Tesla’s Cybercab deployment ([source](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/))

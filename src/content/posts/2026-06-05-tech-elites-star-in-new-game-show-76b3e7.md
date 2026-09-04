@@ -1,19 +1,20 @@
 ---
 title: "Tech Elites Star in New Game Show"
 date: 2026-06-05T04:11:41.826Z
-modified_date: 2026-08-12T16:53:39.366Z
+modified_date: 2026-09-04T13:56:31.150Z
 tags: ["Tech","Entertainment","Founders Fund"]
 hero_image: "/hero/2026-06-05-tech-elites-star-in-new-game-show-76b3e7.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Game Show"
 description: "Founders Fund launches game show with Sam Altman and Palmer Luckey"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-05-tech-elites-star-in-new-game-show-76b3e7.mp3"
 audio_bytes: 546108
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ The launch of Founders Fund's game show is also having an impact on the tech ind
 
 ## Updates
 
+- **2026-09-04** — Tesla Cybercab is barely real and it’s already under investigation ([source](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify))
 - **2026-08-12** — The pros and cons of using a digital wallet ([source](https://www.engadget.com/2231530/digital-wallet-biggest-disadvantages/))
 - **2026-07-29** — Google teases the Pixel 11 Pro and hints at a new camera bar feature ([source](https://www.engadget.com/2226320/google-pixel-11-pro-camera-bar-tease/))

@@ -1,19 +1,20 @@
 ---
 title: "Google Weighs SpaceX Partnership for Orbital Data Centers"
 date: 2026-05-12T21:26:53.287Z
-modified_date: 2026-08-31T23:33:52.652Z
+modified_date: 2026-09-04T13:57:43.649Z
 tags: ["Google","SpaceX","Orbital Data Centers","Space Technology"]
 hero_image: "/hero/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Google considers partnering with SpaceX for data centers in orbit, a plan explored since late 2025."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.mp3"
 audio_bytes: 637014
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,5 +53,6 @@ In conclusion, the proposed partnership between Google and SpaceX represents a s
 
 ## Updates
 
+- **2026-09-04** — Apple plans to launch home security and monitoring service: report ([source](https://9to5mac.com/2026/09/04/apple-plans-to-launch-home-security-and-monitoring-service-report/))
 - **2026-08-31** — A group funded by Andreessen, Horowitz, and Brockman plans data center ads to sway midterms ([source](https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/))
 - **2026-05-18** — Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep ([source](https://github.com/MinishLab/semble))
