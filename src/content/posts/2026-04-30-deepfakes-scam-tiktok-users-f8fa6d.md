@@ -1,18 +1,20 @@
 ---
 title: "Deepfakes Scam TikTok Users"
 date: 2026-04-30T06:35:25.857Z
+modified_date: 2026-09-04T08:25:19.312Z
 tags: ["ai governance","deepfakes","china policy","llm safety"]
 hero_image: "/hero/2026-04-30-deepfakes-scam-tiktok-users-f8fa6d.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "collage of celebrity deepfake video, code snippet, and Chinese flag"
 description: "Deepfake scams, opaque LLM prompts, and China's AI strategy reveal growing governance gaps and new threat vectors."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-04-30-deepfakes-scam-tiktok-users-f8fa6d.mp3"
 audio_bytes: 613400
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Deepfakes Targeting Consumers
 Researchers at WIRED uncovered a wave of TikTok ads that splice AI‑generated footage of celebrity interviews into fake product pitches. The videos show well‑known stars endorsing services that never existed. Viewers are prompted to click a link, enter personal data, and often end up with spam or financial loss. The manipulation relies on recent advances in video synthesis, but the core scam—phishing through trusted faces—remains unchanged.
@@ -41,3 +43,7 @@ Chinese firms, meanwhile, operate under the AIDP’s umbrella, which does not ye
 
 ## What to Watch
 Track the FTC’s upcoming rulemaking on deepfake disclosures and any amendments to the EU AI Act that address model prompt transparency. In parallel, monitor whether OpenAI publishes the full set of system‑level directives for Codex or its successors, and whether Chinese regulators issue guidelines for synthetic‑media labeling under the AIDP. These signals will indicate whether the industry can close the current governance gaps before the next wave of AI‑driven threats materializes.
+
+## Updates
+
+- **2026-09-04** — The asteroid currently hitting front end web development ([source](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/))

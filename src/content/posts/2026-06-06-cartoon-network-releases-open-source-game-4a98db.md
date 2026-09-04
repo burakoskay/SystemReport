@@ -1,18 +1,20 @@
 ---
 title: "Cartoon Network Releases Open-Source Game"
 date: 2026-06-06T17:20:27.566Z
+modified_date: 2026-09-04T08:25:00.031Z
 tags: ["gaming","open-source","cartoon-network"]
 hero_image: "/hero/2026-06-06-cartoon-network-releases-open-source-game-4a98db.jpg"
 hero_image_credit_name: "Eren Li"
 hero_image_credit_url: "https://www.pexels.com/@eren-li"
 visual_keyword: "gaming"
 description: "Cartoon Network releases OK K.O.! Lakewood Plaza Turbo, a mobile game that invites hackers and developers to improve and alter the game."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-06-cartoon-network-releases-open-source-game-4a98db.mp3"
 audio_bytes: 548198
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Cartoon Network's New Mobile Game
@@ -65,3 +67,6 @@ The open-source approach taken by Cartoon Network is not unique to the gaming in
 
 The release of OK K.O.! Lakewood Plaza Turbo is also part of a larger trend in the entertainment industry, with companies like Cartoon Network and Zynga exploring new ways to create and distribute content. The success of these efforts will depend on the companies' ability to create engaging and interactive content that appeals to their audience.
 
+## Updates
+
+- **2026-09-04** — This rugged phone’s removable camera can survive and capture your extreme adventures ([source](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof))

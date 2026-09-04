@@ -1,15 +1,17 @@
 ---
 title: "California exempts Linux from age‑verification law"
 date: 2026-08-30T14:45:03.839Z
+modified_date: 2026-09-04T08:24:47.195Z
 tags: ["california","open-source","age-verification","linux"]
 hero_image: "/hero/2026-08-30-california-exempts-linux-from-age-verification-law-2824c1.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "silhouette of a penguin against a capitol dome"
 description: "California lawmakers unanimously exempt GPL, MIT, BSD and Apache licensed software from the state's new age‑verification requirement."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 ## California exempts Linux from age‑verification mandate
 
@@ -56,3 +58,7 @@ On the corporate front, Aiven plans to release a quarterly follow‑up report on
 Finally, the Linux Foundation will publish enrollment numbers for its 2024‑2025 training cycle in early Q2. Observing growth trends in certification uptake will indicate whether the talent pipeline keeps pace with the escalating demand for open‑source engineers.
 
 Stakeholders across policy, corporate, and education sectors should keep these data points on their radar to gauge the evolving balance between regulation, corporate stewardship, and workforce development in the open‑source landscape.
+
+## Updates
+
+- **2026-09-04** — Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick ([source](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable))
