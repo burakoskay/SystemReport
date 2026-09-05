@@ -1,16 +1,17 @@
 ---
 title: "NanoClaw Secures $12M Seed Funding"
 date: 2026-05-20T15:38:51.647Z
-modified_date: 2026-06-06T19:39:03.340Z
+modified_date: 2026-09-04T23:38:56.475Z
 tags: ["NanoClaw","Quartermaster","Maritime Tech"]
 hero_image: "/hero/2026-05-20-nanoclaw-secures-12m-seed-funding-013428.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "Maritime Sensors"
 description: "NanoCo turns down buyout, raises $12M seed"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ As the industry continues to evolve, we can expect to see more innovative soluti
 
 ## Updates
 
+- **2026-09-04** — Pixelated 115: All wallets are designed badly ([source](https://9to5google.com/2026/09/04/pixelated-115-all-wallets-are-designed-badly/))
 - **2026-06-06** — The first Story-Rich showcase was packed with narrative-driven games ([source](https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers))
 - **2026-06-05** — How to watch the Xbox Games Showcase ([source](https://www.engadget.com/2187783/how-to-watch-the-xbox-games-showcase/))
 - **2026-06-01** — 9to5Mac Daily: June 1, 2026 – Apple TV and AI glasses rumors ([source](https://9to5mac.com/2026/06/01/daily-june-1-2026/))

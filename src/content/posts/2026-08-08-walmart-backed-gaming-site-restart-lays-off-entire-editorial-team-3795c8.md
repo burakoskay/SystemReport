@@ -1,18 +1,20 @@
 ---
 title: "Walmart-Backed Gaming Site Restart Lays Off Entire Editorial Team"
 date: 2026-08-08T10:27:01.468Z
+modified_date: 2026-09-04T23:38:30.573Z
 tags: ["gaming media","sponsored content","Walmart","Restart"]
 hero_image: "/hero/2026-08-08-walmart-backed-gaming-site-restart-lays-off-entire-editorial-team-3795c8.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "gaming website"
 description: "Restart's editorial team cut due to financial issues"
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-08-08-walmart-backed-gaming-site-restart-lays-off-entire-editorial-team-3795c8.mp3"
 audio_bytes: 573276
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Layoffs Hit Restart
 Restart, a gaming site sponsored by Walmart, laid off its entire editorial team on Friday, according to a post by Brandy Berthelson, the site's former editor-in-chief. Other staffers also confirmed being let go.
@@ -37,3 +39,7 @@ The gaming media landscape is becoming increasingly complex, with the rise of ne
 
 ## Regulatory Environment
 The regulatory environment surrounding sponsored content in gaming media is still evolving. There is a need for clearer guidelines on disclosure and transparency, to ensure that readers are aware of the potential biases and influences behind the content. The Federal Trade Commission (FTC) has issued guidelines on sponsored content, but more needs to be done to ensure compliance and enforcement. The failure of Restart's model may lead to increased scrutiny of the regulatory environment and a push for more stringent guidelines.
+
+## Updates
+
+- **2026-09-04** — OpenAI’s rogue agents keep escaping, with no formal process to investigate them ([source](https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/))

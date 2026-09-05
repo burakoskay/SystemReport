@@ -1,19 +1,20 @@
 ---
 title: "GM cuts simulation time to a minute with AI"
 date: 2026-06-01T23:42:49.188Z
-modified_date: 2026-07-29T06:27:13.349Z
+modified_date: 2026-09-04T23:38:40.915Z
 tags: ["ai","automotive","hackernews","technology"]
 hero_image: "/hero/2026-06-01-gm-cuts-simulation-time-to-a-minute-with-ai-0e7285.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer reviewing a digital twin simulation on a screen"
 description: "General Motors shrank CFD and FEA runs from 15 hours to a minute using AI, sparking debate on hype versus impact across tech circles."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-01-gm-cuts-simulation-time-to-a-minute-with-ai-0e7285.mp3"
 audio_bytes: 591039
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## GM slashes simulation time with AI
@@ -52,4 +53,5 @@ Watch GM’s upcoming quarterly report for any mention of AI‑driven design cyc
 
 ## Updates
 
+- **2026-09-04** — Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor ([source](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing))
 - **2026-07-29** — Audi has a new flagship designed with the US in mind: The 2027 Q9 ([source](https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/))

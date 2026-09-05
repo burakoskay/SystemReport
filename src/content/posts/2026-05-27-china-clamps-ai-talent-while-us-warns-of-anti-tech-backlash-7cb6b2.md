@@ -1,18 +1,20 @@
 ---
 title: "China clamps AI talent while US warns of anti‑tech backlash"
 date: 2026-05-27T16:02:44.236Z
+modified_date: 2026-09-04T23:38:35.737Z
 tags: ["ai","talent","security","policy","industry"]
 hero_image: "/hero/2026-05-27-china-clamps-ai-talent-while-us-warns-of-anti-tech-backlash-7cb6b2.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "silhouette of a scientist in a lab with a Chinese flag backdrop and a US police badge overlay"
 description: "China tightens AI talent flows as U.S. law enforcement flags rising anti‑tech extremism and CEOs overstate AI gains."
-sources_count: 9
-author: "lena-volkov"
+sources_count: 10
 audio_path: "/audio/2026-05-27-china-clamps-ai-talent-while-us-warns-of-anti-tech-backlash-7cb6b2.mp3"
 audio_bytes: 592293
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Chinese AI talent retention intensifies
 
@@ -47,3 +49,7 @@ At the same time, the hype cycle described by Levie can exacerbate policy fricti
 ## What to watch
 
 Track whether Beijing issues formal restrictions on outbound AI visas or research collaborations, as such moves would crystallize the talent‑retention trend. Monitor U.S. federal statements for concrete policy proposals addressing anti‑tech extremism, especially any guidance for AI firms on threat mitigation. Finally, watch corporate earnings calls for shifts in AI investment rhetoric that might reflect a recalibration of the optimism Levie flagged.
+
+## Updates
+
+- **2026-09-04** — AI compute provider Nscale is looking for $3.5B in pre-IPO financing ([source](https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/))
