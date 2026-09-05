@@ -1,16 +1,17 @@
 ---
 title: "Meta's AI Push Takes a Toll on Employees"
 date: 2026-05-09T22:52:54.489Z
-modified_date: 2026-05-20T23:24:16.416Z
+modified_date: 2026-09-05T11:44:14.941Z
 tags: ["AI adoption","Meta","tech industry","employee morale"]
 hero_image: "/hero/2026-05-09-meta-s-ai-push-takes-a-toll-on-employees-5ea825.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Meta's AI adoption impacts employee morale"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 # Introduction to the Issue
@@ -32,4 +33,5 @@ The future of AI adoption in the tech industry is likely to be shaped by a combi
 
 ## Updates
 
+- **2026-09-05** — OpenAI admits to German wiki ‘incident’ ([source](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident))
 - **2026-05-20** — The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center ([source](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/))

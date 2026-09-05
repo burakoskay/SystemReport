@@ -1,15 +1,17 @@
 ---
 title: "AI Safety Tools"
 date: 2026-05-19T04:00:13.141Z
+modified_date: 2026-09-05T11:44:07.690Z
 tags: ["AI","Character AI","safety tools","teen safety"]
 hero_image: "/hero/2026-05-19-ai-safety-tools-e21dde.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Character AI unveils new safety tools for teens amid lawsuits"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Introduction to Character AI
 
@@ -50,3 +52,7 @@ Character AI has faced criticism in the past for its handling of sensitive topic
 ## What to Watch
 
 Character AI is going to launch its first set of parental controls that will provide in-depth monitoring and management of a child’s interactions with the app. The company will continue to develop and refine its safety features to better protect its users, particularly minors. As the AI industry continues to evolve, it is crucial for companies to prioritize user safety and well-being.
+
+## Updates
+
+- **2026-09-05** — Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’ ([source](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/))
