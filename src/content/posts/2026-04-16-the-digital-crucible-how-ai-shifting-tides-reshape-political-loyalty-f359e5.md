@@ -1,16 +1,17 @@
 ---
 title: "The Digital Crucible: How AI & Shifting Tides Reshape Political"
 date: 2026-04-16T05:30:04.105Z
-modified_date: 2026-08-20T18:30:42.447Z
+modified_date: 2026-09-05T17:52:23.866Z
 tags: ["ai in politics","political shifts","trump","digital propaganda","maga movement"]
 hero_image: "/hero/2026-04-16-the-digital-crucible-how-ai-shifting-tides-reshape-political-loyalty-f359e5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI generated political art with a digital landscape overlay"
 description: "As Donald Trump faces growing criticism from former allies, his campaign's embrace of AI-generated art signals a new era in political messaging. We explore how technology is transforming allegiances."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Concurrently, Trump's digital outreach has embraced the cutting edge, albeit con
 
 ## Updates
 
+- **2026-09-05** — How does Ottocast CarPlay work and how much does it cost? ([source](https://www.engadget.com/2247790/ottocast-carplay-price-what-cost-how-adapter-works/))
 - **2026-08-20** — AirPods with camera leak, iOS 27 beta 6, iPhone 18 Pro cases ([source](https://9to5mac.com/2026/08/20/happy-hour-604/))
 - **2026-08-19** — Google replaced Git tags for certain source code with obtaining via Google Drive ([source](https://grapheneos.social/@GrapheneOS/117057099753905023))
 - **2026-08-19** — Amazon's Alexa+ AI assistant is now free for anyone with a Fire TV device ([source](https://www.engadget.com/2239785/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/))

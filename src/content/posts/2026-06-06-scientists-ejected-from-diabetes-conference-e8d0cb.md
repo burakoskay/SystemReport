@@ -1,19 +1,20 @@
 ---
 title: "Scientists Ejected from Diabetes Conference"
 date: 2026-06-06T23:09:01.900Z
-modified_date: 2026-09-04T20:10:40.999Z
+modified_date: 2026-09-05T17:52:02.163Z
 tags: ["Diabetes Research","Scientific Freedom","ADA Conference"]
 hero_image: "/hero/2026-06-06-scientists-ejected-from-diabetes-conference-e8d0cb.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "diabetes"
 description: "ADA conference ejects scientists for distributing journal reprints"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-06-scientists-ejected-from-diabetes-conference-e8d0cb.mp3"
 audio_bytes: 523538
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Incident
@@ -52,4 +53,5 @@ The ejection of scientists from the ADA conference has significant implications 
 
 ## Updates
 
+- **2026-09-05** — Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy ([source](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview))
 - **2026-09-04** — Will the iPhone 18 Pro’s biggest upgrade really deliver? ([source](https://9to5mac.com/2026/09/04/will-the-iphone-18-pros-biggest-upgrade-really-deliver/))

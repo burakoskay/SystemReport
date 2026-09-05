@@ -1,19 +1,20 @@
 ---
 title: "Pcons, a Modern Python Build Tool"
 date: 2026-05-01T15:05:29.637Z
-modified_date: 2026-09-02T17:52:08.944Z
+modified_date: 2026-09-05T17:52:13.141Z
 tags: ["pcons","python","build tool","scons","cmake"]
 hero_image: "/hero/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "modern software build tool"
 description: "Pcons aims to fill a real need for a general-purpose broadly applicable extensible software build tool using a modern well-known language to describe builds and tools."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.mp3"
 audio_bytes: 550497
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,6 +74,7 @@ Pcons is a modern Python build tool inspired by SCons and CMake. It's designed t
 
 ## Updates
 
+- **2026-09-05** — Tesla’s Cybercab has been deployed, and it’s already under investigation ([source](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/))
 - **2026-09-02** — Nintendo's surprise free update for Mario Kart 8 Deluxe on Switch 2 includes eight-player split-screen ([source](https://www.engadget.com/2249394/nintendo-free-update-mario-kart-8-deluxe-switch-2-includes-eight-player-split-screen/))
 - **2026-07-29** — College lab class ends with 32 people on antibiotics for deadly germ exposure ([source](https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/))
 - **2026-05-26** — 15 Best Travel Toiletry Bags, Tested Over Many Miles (2026) ([source](https://www.wired.com/gallery/best-toiletry-bags/))
