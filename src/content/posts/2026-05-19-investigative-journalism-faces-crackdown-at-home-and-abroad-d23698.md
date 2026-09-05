@@ -1,16 +1,17 @@
 ---
 title: "Investigative journalism faces crackdown at home and abroad"
 date: 2026-05-19T08:03:01.748Z
-modified_date: 2026-08-31T18:37:34.953Z
+modified_date: 2026-09-05T14:23:26.262Z
 tags: ["investigative-journalism","press-freedom","japan","us"]
 hero_image: "/hero/2026-05-19-investigative-journalism-faces-crackdown-at-home-and-abroad-d23698.jpg"
 hero_image_credit_name: "Charles Criscuolo"
 hero_image_credit_url: "https://www.pexels.com/@onetrillionpixels"
 visual_keyword: "stormy newsroom with protest signs"
 description: "New Japanese secrecy law, US ties to the OCCRP, and veteran reporters warn of growing risks for investigative journalism."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Japan tightens the leash on leaks
@@ -37,4 +38,5 @@ Track the enforcement of Japan’s Designated Secrets Bill as the first prosecut
 
 ## Updates
 
+- **2026-09-05** — Content creators drop the ball ([source](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad))
 - **2026-08-31** — New York governor to 3D-printed gun leader: &#8216;tell Cody I will get ahead of him&#8217; ([source](https://www.theverge.com/policy/986733/kathy-hochul-3d-printed-guns-cody-wilson-response))

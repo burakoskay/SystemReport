@@ -1,16 +1,17 @@
 ---
 title: "Tech Watch: OpenAI, FCC, Disney+, Gaming, and More"
 date: 2026-05-07T03:48:57.418Z
-modified_date: 2026-08-16T04:30:53.488Z
+modified_date: 2026-09-05T14:24:12.708Z
 tags: ["OpenAI","FCC","Disney+"]
 hero_image: "/hero/2026-05-07-tech-watch-openai-fcc-disney-gaming-and-more-988ffd.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Latest tech news on OpenAI, FCC, Disney+, gaming, and innovative products."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -109,5 +110,6 @@ The tech industry is not an isolated incident. It reflects a broader trend in th
 
 ## Updates
 
+- **2026-09-05** — Netherlands pulls gold out of the US for fears of 'geopolitical unrest' ([source](https://www.abc.net.au/news/2026-09-04/why-the-netherlands-moved-its-gold-from-us-and-canada/107111990))
 - **2026-08-16** — Polaroid’s tiny instant camera is $72 and includes a free pack of film ([source](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale))
 - **2026-05-10** — Liquid Glass tweaks are reportedly coming in the next macOS ([source](https://www.engadget.com/2169037/liquid-glass-tweaks-are-reportedly-coming-in-the-next-macos/))

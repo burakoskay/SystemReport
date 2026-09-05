@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-08-29T14:54:28.488Z
+modified_date: 2026-09-05T14:23:39.547Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-09-05** — Does your Android Auto keep lowering the volume? This might be why ([source](https://www.engadget.com/2244675/android-auto-lowering-volume-reason-why/))
 - **2026-08-29** — Does the Sumerian King List Align with Paleoclimate Events? ([source](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/))
 - **2026-08-20** — Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers ([source](https://9to5google.com/2026/08/20/google-messages-rcs-3100-error/))
 - **2026-08-19** — Google Messages RCS breaks with ‘3100’ error for some, especially Galaxy switchers ([source](https://9to5google.com/2026/08/19/google-messages-rcs-3100-error/))

@@ -1,15 +1,17 @@
 ---
 title: "Google Android XR glasses leak audio in demo"
 date: 2026-05-20T18:26:19.200Z
+modified_date: 2026-09-05T14:23:59.412Z
 tags: ["Google","Android XR","AR glasses","audio privacy"]
 hero_image: "/hero/2026-05-20-google-android-xr-glasses-leak-audio-in-demo-17303f.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Google Android XR glasses"
 description: "A live demo of Google's Android XR glasses showed audio leaking, highlighting privacy concerns, while Android 17 QPR1 Beta 3 and Android Auto updates roll out"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## Android XR glasses demo fails to seal audio
@@ -63,3 +65,7 @@ The widespread adoption of AR glasses will likely have a significant impact on u
 ## Conclusion
 
 The Android XR glasses demo slip-up highlights the importance of audio privacy in AR devices. As the tech industry continues to evolve, companies must prioritize audio privacy and develop products that are designed with discretion in mind. The future of AR glasses is promising, but it is essential to address the challenges and concerns associated with this technology.
+
+## Updates
+
+- **2026-09-05** — Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats ([source](https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/))
