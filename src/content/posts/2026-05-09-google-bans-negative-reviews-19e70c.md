@@ -1,19 +1,20 @@
 ---
 title: "Google Bans Negative Reviews"
 date: 2026-05-09T13:27:28.154Z
-modified_date: 2026-08-14T22:17:19.530Z
+modified_date: 2026-09-05T19:48:59.078Z
 tags: ["Google","Online Reviews","Review Policy"]
 hero_image: "/hero/2026-05-09-google-bans-negative-reviews-19e70c.jpg"
 hero_image_credit_name: "ubeyonroad"
 hero_image_credit_url: "https://www.pexels.com/@ubeyonroad-926249862"
 visual_keyword: "Google My Business"
 description: "Google updates review policies, bans people from posting negative reviews of former employers, aiming to make reviews more accurate and unbiased."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-09-google-bans-negative-reviews-19e70c.mp3"
 audio_bytes: 577664
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Google's Review Policy Update
@@ -66,4 +67,5 @@ In conclusion, Google's updated review policy is a significant step towards main
 
 ## Updates
 
+- **2026-09-05** — Where Google Wallet state IDs are available on Android ([source](https://9to5google.com/2026/09/05/google-wallet-state-ids/))
 - **2026-08-14** — WhatsApp working on customizable emoji reaction sets on iOS ([source](https://9to5mac.com/2026/08/14/whatsapp-working-on-customizable-emoji-reaction-sets-on-ios/))

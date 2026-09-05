@@ -1,18 +1,20 @@
 ---
 title: "AI Fuels Subsea Cable Boom"
 date: 2026-06-05T20:03:27.217Z
+modified_date: 2026-09-05T19:48:45.862Z
 tags: ["AI","subsea cables","tech industry"]
 hero_image: "/hero/2026-06-05-ai-fuels-subsea-cable-boom-2e083f.jpg"
 hero_image_credit_name: "Nic Wood"
 hero_image_credit_url: "https://www.pexels.com/@nic-scrollstoppingphotos"
 visual_keyword: "subsea cables"
 description: "Tech giants invest in subsea cables to support AI models, with $13 billion expected between 2025-2027"
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-06-05-ai-fuels-subsea-cable-boom-2e083f.mp3"
 audio_bytes: 679228
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Subsea Cables
 
@@ -61,3 +63,7 @@ The development of subsea cables also raises environmental concerns. The cables 
 ## Conclusion
 
 In conclusion, the growth of subsea cables is driven by the increasing demand for data and the need for reliable and fast internet connectivity. Tech giants are investing heavily in subsea cables to support their computation-intensive AI models. The development of subsea cables will continue to play a crucial role in supporting AI models and the growth of the tech industry. As the demand for data continues to grow, the investment in subsea cables will be essential to support the development of AI models and the growth of the tech industry.
+
+## Updates
+
+- **2026-09-05** — Hikers rescued after using Google Gemini for planning ([source](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/))
