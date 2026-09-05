@@ -1,16 +1,17 @@
 ---
 title: "Apple unveils iOS 27 Photos upgrades, Ultra 4 leaks, M6 debut"
 date: 2026-08-29T15:02:22.869Z
-modified_date: 2026-09-01T22:20:08.814Z
+modified_date: 2026-09-05T23:30:14.492Z
 tags: ["apple","ios","macos","hardware","rumors"]
 hero_image: "/hero/2026-08-29-apple-unveils-ios-27-photos-upgrades-ultra-4-leaks-m6-debut-77c1b3.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "collage of iPhone, Apple Watch Ultra, Mac mini, and Photos app interface"
 description: "iOS 27 revamps iCloud Shared Albums, rumors detail Apple Watch Ultra 4, iPhone 18 Pro features, and the M6 chip arrives in a new Mac mini."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 Apple's latest software and hardware moves tighten its grip on the premium ecosystem. The upgrades touch everyday workflows – from family photo sharing to the tools engineers use to prototype the next Mac.
@@ -47,4 +48,5 @@ All four announcements converge on September 9, when Apple is expected to host
 
 ## Updates
 
+- **2026-09-05** — The "$60 Gaming PC" – AMD BC-250 (2025) ([source](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/))
 - **2026-09-01** — The ChatGPT/Codex app bundles a full copy of LibreOffice ([source](https://simonwillison.net/2026/Sep/1/codex-libreoffice/))
