@@ -1,19 +1,20 @@
 ---
 title: "Apple MacBook Pro Redesign, SpaceX IPO Plans"
 date: 2026-05-16T22:54:08.549Z
-modified_date: 2026-05-19T15:35:23.305Z
+modified_date: 2026-09-06T08:17:13.361Z
 tags: ["Apple","MacBook Pro","SpaceX","IPO"]
 hero_image: "/hero/2026-05-16-apple-macbook-pro-redesign-spacex-ipo-plans-1c713a.jpg"
 hero_image_credit_name: "Jourdan Wee"
 hero_image_credit_url: "https://www.pexels.com/@jourdan-wee-2023410"
 visual_keyword: "MacBook Pro"
 description: "Apple's MacBook Pro redesign and SpaceX's potential IPO plans are making headlines. Read about the expected upgrades and the space company's possible public debut."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-16-apple-macbook-pro-redesign-spacex-ipo-plans-1c713a.mp3"
 audio_bytes: 636387
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,4 +88,5 @@ The impact of these events will be felt for years to come, and it's essential to
 
 ## Updates
 
+- **2026-09-06** — This new reveal suggests MacBook Ultra might cost more than we think ([source](https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor/))
 - **2026-05-19** — Plex increasing Lifetime Plex Pass cost to whopping $750 ([source](https://9to5mac.com/2026/05/19/plex-increasing-lifetime-plex-pass-cost-to-whopping-750/))
