@@ -1,18 +1,20 @@
 ---
 title: "US bars Ebola-exposed Americans, sends them to Europe"
 date: 2026-05-21T09:56:17.515Z
+modified_date: 2026-09-06T13:21:17.208Z
 tags: ["Ebola","US Government","Health Security"]
 hero_image: "/hero/2026-05-21-us-bars-ebola-exposed-americans-sends-them-to-europe-ea1c5b.jpg"
 hero_image_credit_name: "CDC"
 hero_image_credit_url: "https://www.pexels.com/@cdc-library"
 visual_keyword: "Ebola"
 description: "The Trump administration sent Americans exposed to Ebola to Berlin and Prague instead of allowing them to return to the US, sparking criticism."
-sources_count: 1
-author: "priya-raman"
+sources_count: 2
 audio_path: "/audio/2026-05-21-us-bars-ebola-exposed-americans-sends-them-to-europe-ea1c5b.mp3"
 audio_bytes: 616952
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Americans Exposed to Ebola Were Sent Abroad
@@ -55,3 +57,6 @@ The incident has significant implications for the individuals affected, as well 
 
 The US must also consider the potential consequences of its actions on the global community. The incident may damage the country's reputation and relationships with other countries, particularly if it is perceived as not prioritizing citizen safety. The administration must take a proactive approach to addressing these concerns and establishing clear guidelines for handling infectious diseases.
 
+## Updates
+
+- **2026-09-06** — DIY plug-in solar gains momentum in the US ([source](https://www.theverge.com/column/990183/diy-plug-in-solar-us))

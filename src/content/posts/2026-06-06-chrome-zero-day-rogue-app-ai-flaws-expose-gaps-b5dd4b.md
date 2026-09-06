@@ -1,18 +1,20 @@
 ---
 title: "Chrome Zero-Day, Rogue App, AI Flaws Expose Gaps"
 date: 2026-06-06T03:58:41.610Z
+modified_date: 2026-09-06T13:21:38.320Z
 tags: ["security","vulnerabilities","ai"]
 hero_image: "/hero/2026-06-06-chrome-zero-day-rogue-app-ai-flaws-expose-gaps-b5dd4b.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "concerned engineer examining code on multiple screens"
 description: "From a Chrome use‑after‑free bug to a Russian app topping US charts, new attacks expose thin spots in software, hardware, and AI toolchains."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-06-chrome-zero-day-rogue-app-ai-flaws-expose-gaps-b5dd4b.mp3"
 audio_bytes: 644120
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Chrome’s New Zero‑Day Forces an Urgent Patch Marathon
 
@@ -51,3 +53,7 @@ If the platform delivers on its promise, organizations could shift from a reacti
 ## What to Watch
 
 Track the rollout of Chrome’s twenty‑patch update across enterprise fleets; delayed deployment will leave millions vulnerable to CVE‑2026‑5281. Monitor app‑store analytics for sudden spikes in foreign‑language apps that climb U.S. rankings, as they often precede removal. Keep an eye on the adoption of MCP in commercial AI products and demand transparent authentication and sanitization practices. Finally, watch Qevlar’s Fall 2026 launch and early customer feedback to see if AI‑driven correlation can truly shrink the exploit window that Mandiant flagged as negative.
+
+## Updates
+
+- **2026-09-06** — Farmed salmon may not be as nutritious as it once was, new research suggests ([source](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/))

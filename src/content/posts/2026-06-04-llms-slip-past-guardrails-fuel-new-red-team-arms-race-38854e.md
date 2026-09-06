@@ -1,18 +1,20 @@
 ---
 title: "LLMs Slip Past Guardrails, Fuel New Red‑Team Arms Race"
 date: 2026-06-04T10:07:49.303Z
+modified_date: 2026-09-06T13:21:27.755Z
 tags: ["llm security","red teaming","agentic automation"]
 hero_image: "/hero/2026-06-04-llms-slip-past-guardrails-fuel-new-red-team-arms-race-38854e.jpg"
 hero_image_credit_name: "Rahul Pandit"
 hero_image_credit_url: "https://www.pexels.com/@rahulp9800"
 visual_keyword: "computer screen showing AI model generating malicious code"
 description: "A $1,500 experiment shows popular LLMs block attacks, while unrestricted models like Pingu give red teams the raw answers they need."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-04-llms-slip-past-guardrails-fuel-new-red-team-arms-race-38854e.mp3"
 audio_bytes: 633671
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 A $1,500 test proved that mainstream LLMs still refuse to hand over exploit code, but a new class of unrestricted models is giving security teams the unfiltered answers they crave.
 
@@ -51,3 +53,7 @@ Market dynamics also shift. Vendors that continue to lock down their models may 
 ## What to Watch
 
 Watch for the first public audit reports that reference Pingu‑generated evidence. Those documents will reveal whether regulators accept raw LLM output as a valid security artifact. Also keep an eye on Xcelerator’s roadmap: if it adds native support for threat‑intel feeds, it could become the de‑facto orchestration layer for AI‑driven red‑team operations. Finally, monitor pricing trends for commercial LLM API calls; a spike could push more teams toward open‑source, unrestricted models, accelerating the arms race.
+
+## Updates
+
+- **2026-09-06** — Why China Is the Bogeyman Data Center Enthusiasts Just Can't Quit ([source](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/))

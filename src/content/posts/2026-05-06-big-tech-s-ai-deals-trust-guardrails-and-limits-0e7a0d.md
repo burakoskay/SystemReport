@@ -1,15 +1,17 @@
 ---
 title: "Big Tech's AI Deals: Trust, Guardrails, and Limits"
 date: 2026-05-06T22:57:21.536Z
+modified_date: 2026-09-06T13:21:43.657Z
 tags: ["AI","Big Tech","Regulation"]
 hero_image: "/hero/2026-05-06-big-tech-s-ai-deals-trust-guardrails-and-limits-0e7a0d.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Tech giants navigate AI partnerships and scrutiny"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Trust and Guardrails in AI
@@ -66,3 +68,6 @@ The AI industry is also driving innovation in related fields, such as natural la
 
 The broader industry context highlights the need for a more comprehensive and integrated approach to AI development. Companies must consider not only the technical challenges associated with AI development but also the regulatory, social, and economic implications of their efforts.
 
+## Updates
+
+- **2026-09-06** — A pile of MacBook Neo clones gives Googlebook all the more of an uphill battle ([source](https://9to5google.com/2026/09/06/googlebook-macbook-neo-competitors/))
