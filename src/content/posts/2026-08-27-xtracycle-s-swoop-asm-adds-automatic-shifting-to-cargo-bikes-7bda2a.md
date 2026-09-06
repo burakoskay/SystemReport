@@ -1,18 +1,20 @@
 ---
 title: "Xtracycle’s Swoop ASM adds automatic shifting to cargo bikes"
 date: 2026-08-27T06:41:22.983Z
+modified_date: 2026-09-06T23:25:35.660Z
 tags: ["e-bike","cargo-bike","urban-mobility","automatic-transmission"]
 hero_image: "/hero/2026-08-27-xtracycle-s-swoop-asm-adds-automatic-shifting-to-cargo-bikes-7bda2a.jpg"
 hero_image_credit_name: "Alexis B"
 hero_image_credit_url: "https://www.pexels.com/@alexis-b-1699196"
 visual_keyword: "steel cargo bike with automatic gear shifting on city street"
 description: "The new Swoop ASM lets riders rely on an automatic gearbox, a rare move in the cargo‑bike market, as cities push for more e‑bike adoption."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-08-27-xtracycle-s-swoop-asm-adds-automatic-shifting-to-cargo-bikes-7bda2a.mp3"
 audio_bytes: 582262
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Xtracycle’s Swoop ASM lets a cargo bike shift gears without a rider’s hand. The move puts automatic transmission into a segment that has long relied on manual shifting.
 
@@ -51,3 +53,7 @@ The next few months will reveal whether the automatic transmission gains tractio
 **Tags**: e-bike, cargo-bike, urban-mobility, automatic-transmission
 
 **Visual keyword**: steel cargo bike with automatic gear shifting on city street
+
+## Updates
+
+- **2026-09-06** — Common problems with Apple Wallet and how to fix them ([source](https://www.engadget.com/2248762/how-to-fix-common-apple-wallet-problems/))
