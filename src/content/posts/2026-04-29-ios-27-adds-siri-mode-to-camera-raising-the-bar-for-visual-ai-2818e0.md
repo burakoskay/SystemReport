@@ -1,16 +1,17 @@
 ---
 title: "iOS 27 adds Siri mode to Camera, raising the bar for visual AI"
 date: 2026-04-29T17:52:48.067Z
-modified_date: 2026-08-28T03:59:02.270Z
+modified_date: 2026-09-06T19:52:37.807Z
 tags: ["apple","ios","camera","siri","magSafe"]
 hero_image: "/hero/2026-04-29-ios-27-adds-siri-mode-to-camera-raising-the-bar-for-visual-ai-2818e0.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "iPhone camera interface with Siri voice overlay"
 description: "Apple’s iOS 27 will embed Siri into the Camera app, promising deeper visual intelligence while rumors swirl about MagSafe and upcoming iPhone models."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The June iOS 27 unveiling will be the first public test of Siri‑enabled visual
 
 ## Updates
 
+- **2026-09-06** — Travis Kalanick’s Atoms might be getting into the robotaxi business ([source](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/))
 - **2026-08-28** — Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign ([source](https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign))
 - **2026-08-21** — Nvidia just showed that the harness, not the AI model, is now the real hero ([source](https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/))
 - **2026-05-27** — Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217; ([source](https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack))

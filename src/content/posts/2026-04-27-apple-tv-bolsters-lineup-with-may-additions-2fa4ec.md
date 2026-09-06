@@ -1,19 +1,20 @@
 ---
 title: "Apple TV+ Bolsters Lineup with May Additions"
 date: 2026-04-27T03:35:18.610Z
-modified_date: 2026-08-20T18:30:18.497Z
+modified_date: 2026-09-06T19:52:51.195Z
 tags: ["Apple TV+","Streaming","Original Content"]
 hero_image: "/hero/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV+"
 description: "Apple TV+ adds new series and films in May, including a John Travolta-directed movie, to expand its original content offerings."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.mp3"
 audio_bytes: 567424
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ In the coming months, Apple TV+ is expected to continue investing in original co
 
 ## Updates
 
+- **2026-09-06** — The pros and cons of using an iPad as a laptop ([source](https://www.engadget.com/2247481/using-ipad-as-laptop-pros-and-cons/))
 - **2026-08-20** — A recent Windows 11 update is causing game crashes and all kinds of other problems ([source](https://www.engadget.com/2240999/recent-windows-11-update-causing-game-crashes-and-other-problems/))
 - **2026-08-15** — USB4 Vs USB-C: What's the difference between them? ([source](https://www.engadget.com/2234235/usb4-vs-usbc-differences-between-explained/))
 - **2026-08-14** — Where did the old web go? We followed 657,607 links to find out ([source](https://0.mk/blog/link-rot))
