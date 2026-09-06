@@ -1,18 +1,20 @@
 ---
 title: "Google Updates AI Offerings with New Plans"
 date: 2026-05-25T21:15:32.892Z
+modified_date: 2026-09-06T16:40:04.473Z
 tags: ["Google","AI","Machine Learning"]
 hero_image: "/hero/2026-05-25-google-updates-ai-offerings-with-new-plans-b5d132.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "Google AI"
 description: "Google introduces new AI subscription plans, including AI Plus, AI Pro, and AI Ultra, with updated usage limits for Gemini-powered features."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-05-25-google-updates-ai-offerings-with-new-plans-b5d132.mp3"
 audio_bytes: 608802
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google has introduced new subscription plans for its AI offerings, including AI Plus, AI Pro, and AI Ultra. These plans provide access to Gemini-powered features in first-party apps with updated usage limits. The new plans were announced at I/O 2026 in May.
 
@@ -49,3 +51,7 @@ As Google continues to evolve its AI offerings, users can expect to see more adv
 The new AI subscription plans are a significant step forward for Google's AI offerings. As the company continues to invest in AI research and development, users can expect to see more advanced features and capabilities in the future. With its focus on providing personalized and interactive experiences, Google is well-positioned to remain a leader in the AI market.
 
 In conclusion, Google's new AI subscription plans represent a major expansion of the company's AI offerings. With its focus on providing advanced AI capabilities to users and businesses, Google is poised to remain a leader in the AI market. As the company continues to evolve its AI offerings, users can expect to see more advanced features and capabilities in the future.
+
+## Updates
+
+- **2026-09-06** — How long can you expect a PlayStation 5 DualSense controller to last? ([source](https://www.engadget.com/2248626/how-long-playstation-dualsense-wireless-controllers-last/))
