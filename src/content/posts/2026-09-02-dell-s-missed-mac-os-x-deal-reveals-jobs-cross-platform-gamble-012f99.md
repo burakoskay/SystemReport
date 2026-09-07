@@ -1,15 +1,17 @@
 ---
 title: "Dell’s missed Mac OS X deal reveals Jobs’ cross‑platform gamble"
 date: 2026-09-02T02:34:20.656Z
+modified_date: 2026-09-07T19:32:58.974Z
 tags: ["apple","dell","history","software","tech"]
 hero_image: "/hero/2026-09-02-dell-s-missed-mac-os-x-deal-reveals-jobs-cross-platform-gamble-012f99.jpg"
 hero_image_credit_name: "Derek Xing"
 hero_image_credit_url: "https://www.pexels.com/@derek-xing-345263431"
 visual_keyword: "Steve Jobs and Michael Dell shaking hands over a vintage computer"
 description: "Michael Dell recounts a failed 1990s pitch by Steve Jobs to ship Mac OS X on Dell PCs, exposing the strategic stakes behind the missed partnership."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## The deal that never happened
 Steve Jobs once tried to put Mac OS X on Dell’s low‑priced Intel PCs, but the partnership fell apart before a single unit shipped. 
@@ -35,3 +37,7 @@ The negotiation also occurred at a time when Intel‑based Macs were still a few
 
 ## What to watch
 Dell’s memoir will likely spark renewed interest in Apple’s missed cross‑platform opportunities. Investors should monitor whether Apple revisits licensing strategies for macOS on non‑Apple silicon, especially as the company’s own ARM transition gains momentum. At the same time, Dell’s resurgence in the high‑performance workstation market could create a new opening for a mutually beneficial software partnership. The next quarterly earnings call from either company may contain hints about whether the old idea is being reconsidered.
+
+## Updates
+
+- **2026-09-07** — The Huawei Mate XT2 is the world's first tri-panel foldable with a built-in privacy display ([source](https://www.engadget.com/2252175/huawei-mate-xt2-worlds-first-foldable-with-built-in-privacy-display/))

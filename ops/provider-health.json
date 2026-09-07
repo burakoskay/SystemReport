@@ -1,13 +1,13 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 6028,
+    "consecutive_failures": 6036,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-07T15:31:04.226Z",
+    "last_failure": "2026-09-07T19:35:07.546Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-09-07T08:51:24.900Z",
+    "last_success": "2026-09-07T19:33:48.264Z",
     "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7219, Requested 1143. Please try again in 2.715s. Need more tokens? Upgrade to Dev Tier today at ht",
     "last_failure": "2026-09-04T14:09:53.736Z"
@@ -20,18 +20,17 @@
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 1903,
+    "consecutive_failures": 1909,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-07T15:31:04.163Z",
+    "last_failure": "2026-09-07T19:35:07.485Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 2,
+    "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (8116abe8-5f8e-4201-b585-412c85408ad7)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-09-07T15:29:35.188Z",
-    "last_success": "2026-09-07T02:27:45.797Z",
-    "cooldown_until": "2026-09-07T15:39:34.840Z"
+    "last_success": "2026-09-07T19:35:14.878Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,

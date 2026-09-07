@@ -1,19 +1,20 @@
 ---
 title: "Apple Weather App Outage: Users Report Widespread Issues"
 date: 2026-04-28T17:58:50.244Z
-modified_date: 2026-09-03T19:03:50.084Z
+modified_date: 2026-09-07T19:33:12.696Z
 tags: ["apple","weather","ios","outage","app"]
 hero_image: "/hero/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.jpg"
 hero_image_credit_name: "JÉSHOOTS"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots"
 visual_keyword: "iPhone user looking at a frozen Weather app screen"
 description: "Apple's Weather app is down for iOS and macOS users, with intermittent outages reported across regions."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.mp3"
 audio_bytes: 603160
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ What to watch: The next major iOS update, likely in September, could include a f
 
 ## Updates
 
+- **2026-09-07** — Apparently CodePen 2.0 sends data to their servers as you type ([source](https://news.ycombinator.com/item?id=49596976))
 - **2026-09-03** — Apple will launch six major new products next week, here’s what’s coming ([source](https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/))
 - **2026-08-13** — I built a 500k-domain search engine for makers in a weekend for $10 ([source](https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html))
 - **2026-08-10** — The iPhone 18 Pro will cost Apple 38% more in parts – but there’s some good news ([source](https://9to5mac.com/2026/08/10/the-iphone-18-pro-will-cost-apple-38-more-in-parts-but-theres-some-good-news/))
