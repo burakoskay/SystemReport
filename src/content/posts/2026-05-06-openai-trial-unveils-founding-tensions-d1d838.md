@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Trial Unveils Founding Tensions"
 date: 2026-05-06T21:19:36.854Z
-modified_date: 2026-05-08T19:30:03.315Z
+modified_date: 2026-09-07T15:29:20.910Z
 tags: ["openai","elonmusk","ai-governance","corporate-lawsuits"]
 hero_image: "/hero/2026-05-06-openai-trial-unveils-founding-tensions-d1d838.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "openai trial courtroom with attorneys in focus"
 description: "Legal battle between Elon Musk and Sam Altman exposes OpenAI's mission conflicts."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 ## OpenAI Trial Reveals Fractured Visions
@@ -43,4 +44,5 @@ The trial will resume with testimony from OpenAI's legal team and Microsoft repr
 
 ## Updates
 
+- **2026-09-07** — Google Messages slowly rolling out fix for bug that randomly sends old texts to other people ([source](https://9to5google.com/2026/09/07/google-messages-old-texts-bug-fix/))
 - **2026-05-08** — Here is Yarbo’s promise to fix the robot mower that ran me over ([source](https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise))

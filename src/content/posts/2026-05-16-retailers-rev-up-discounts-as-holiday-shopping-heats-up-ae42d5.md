@@ -1,16 +1,17 @@
 ---
 title: "Retailers Rev Up Discounts as Holiday Shopping Heats Up"
 date: 2026-05-16T06:28:58.495Z
-modified_date: 2026-08-05T19:22:56.112Z
+modified_date: 2026-09-07T15:28:53.164Z
 tags: ["retail","holiday shopping","discounts"]
 hero_image: "/hero/2026-05-16-retailers-rev-up-discounts-as-holiday-shopping-heats-up-ae42d5.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "shopping"
 description: "Major retailers offer significant discounts and promo codes for holiday shopping"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -77,5 +78,6 @@ The technical mechanics of discounts are also influenced by the use of data anal
 
 ## Updates
 
+- **2026-09-07** — All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more ([source](https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/))
 - **2026-08-05** — AI Worms and Viruses Are Coming ([source](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/))
 - **2026-06-05** — The most interesting startups right now want to get you off your phone ([source](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/))

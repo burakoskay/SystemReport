@@ -1,19 +1,20 @@
 ---
 title: "Walmart's $248 Google TV, AMD's $549 GPU, iPhone LATAM Rise"
 date: 2026-06-02T04:27:25.191Z
-modified_date: 2026-08-02T16:54:41.193Z
+modified_date: 2026-09-07T15:29:13.986Z
 tags: ["walmart","google tv","amd","gpu","iphone"]
 hero_image: "/hero/2026-06-02-walmart-s-248-google-tv-amd-s-549-gpu-iphone-latam-rise-ee71aa.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "affordable smart TV display with Google TV interface"
 description: "Walmart launches $248 Onn Google TVs, AMD rolls out a $549 Radeon 9070 GRE, and Apple sees iPhone shipments up 8% in Latin America Q1 2026."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-02-walmart-s-248-google-tv-amd-s-549-gpu-iphone-latam-rise-ee71aa.mp3"
 audio_bytes: 643702
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Walmart rolls out $248 Onn Google TVs
@@ -54,4 +55,5 @@ Walmart’s low‑priced Google TV lineup will be evaluated on unit sell‑throu
 
 ## Updates
 
+- **2026-09-07** — The first Galaxy Z Fold 8 discount ever drops the wider foldable to $1,650 ([source](https://9to5google.com/2026/09/07/samsung-galaxy-z-fold-8-first-ever-discount/))
 - **2026-08-02** — MacBook Air reportedly facing major supply shortages due to AI-driven memory crisis ([source](https://9to5mac.com/2026/08/02/macbook-air-reportedly-facing-major-supply-shortages-due-to-ai-driven-memory-crisis/))

@@ -1,19 +1,20 @@
 ---
 title: "SAP Invests $1.16B in German AI Lab"
 date: 2026-05-06T03:38:51.609Z
-modified_date: 2026-08-25T14:40:14.917Z
+modified_date: 2026-09-07T15:29:07.079Z
 tags: ["SAP","AI","Prior Labs"]
 hero_image: "/hero/2026-05-06-sap-invests-1-16b-in-german-ai-lab-255771.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "SAP bets big on 18-month-old German AI lab, Prior Labs, and restricts customer agents to select AI models like Nvidia's NemoClaw."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-06-sap-invests-1-16b-in-german-ai-lab-255771.mp3"
 audio_bytes: 607130
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -84,5 +85,6 @@ As the AI industry continues to evolve, it's essential to examine the implicatio
 
 ## Updates
 
+- **2026-09-07** — Reports describe two ways for Apple to make more money; only one is good ([source](https://9to5mac.com/2026/09/07/reports-describe-two-ways-for-apple-to-make-more-money-only-one-is-good/))
 - **2026-08-25** — Pebble Time 2 review: The perfect smartwatch for a select group of people ([source](https://www.engadget.com/2243490/pebble-time-2-review/))
 - **2026-08-18** — Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it ([source](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery))

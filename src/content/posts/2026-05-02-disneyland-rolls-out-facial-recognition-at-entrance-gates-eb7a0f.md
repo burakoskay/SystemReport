@@ -1,16 +1,17 @@
 ---
 title: "Disneyland Rolls Out Facial Recognition at Entrance Gates"
 date: 2026-05-02T10:57:16.771Z
-modified_date: 2026-05-11T22:59:56.139Z
+modified_date: 2026-09-07T15:27:37.635Z
 tags: ["Disneyland","Facial Recognition","Technology"]
 hero_image: "/hero/2026-05-02-disneyland-rolls-out-facial-recognition-at-entrance-gates-eb7a0f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial recognition"
 description: "Disneyland now uses facial recognition technology at some entrance lanes to prevent ticket fraud and streamline re-entry."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 # Disneyland Rolls Out Facial Recognition at Entrance Gates
@@ -61,4 +62,5 @@ The use of facial recognition technology at Disneyland is likely to be closely w
 
 ## Updates
 
+- **2026-09-07** — How to Watch the Apple September Event (2026) ([source](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/))
 - **2026-05-11** — Apple Maps expands Detailed City Experience to Rome and Naples ([source](https://9to5mac.com/2026/05/11/apple-maps-expands-detailed-city-experience-to-rome-and-naples/))

@@ -1,15 +1,17 @@
 ---
 title: "Haiku R1 beta6 released, the next step for BeOS’s heir"
 date: 2026-08-31T10:30:44.830Z
+modified_date: 2026-09-07T15:28:18.193Z
 tags: ["haiku","os","beta6"]
 hero_image: "/hero/2026-08-31-haiku-r1-beta6-released-the-next-step-for-beos-s-heir-12df77.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "desktop computer screen running Haiku OS with Tracker UI"
 description: "Haiku OS ships R1/beta6 with updated ISO images, upgrade path from beta5, and continued work on its BeOS‑inspired desktop."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Haiku R1/beta6 lands
 
@@ -40,3 +42,7 @@ The architecture still honors BeOS’s original vision of a unified desktop expe
 The next checkpoint will be the community’s feedback on beta6’s stability across real‑world hardware. Watch the Haiku mailing list and the bug tracker for regression reports, especially those related to the new HaikuPorts repository layout. The project has hinted at an R1 final later this year; the timing of that release will depend on whether beta6 can close the remaining gaps in driver support and installer polish. Keeping an eye on the torrent seed health and mirror availability will also be crucial, as a smooth distribution chain is essential for broader adoption.
 
 ---
+
+## Updates
+
+- **2026-09-07** — The complex corporate web behind a $3.2 billion AI data center ([source](https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/))

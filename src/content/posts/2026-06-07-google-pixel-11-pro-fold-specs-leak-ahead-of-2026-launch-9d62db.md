@@ -1,19 +1,20 @@
 ---
 title: "Google Pixel 11 Pro Fold specs leak ahead of 2026 launch"
 date: 2026-06-07T04:23:14.409Z
-modified_date: 2026-08-07T16:47:52.653Z
+modified_date: 2026-09-07T15:28:39.203Z
 tags: ["google","foldable","smartphone"]
 hero_image: "/hero/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "close‑up of a futuristic foldable smartphone with dual displays on a sleek table"
 description: "Leaks detail the Pixel 11 Pro Fold’s screen, processor, camera and price as Google eyes the foldable market in late 2026."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.mp3"
 audio_bytes: 666062
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Leaked specs paint a high‑end picture for Google’s first foldable
@@ -45,4 +46,5 @@ Google’s official announcement is expected before the end of Q3 2026. Track 
 
 ## Updates
 
+- **2026-09-07** — A foldable Mac is years away, but Apple is still working on it ([source](https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/))
 - **2026-08-07** — Deals: Giant 50% price drop on Google Pixelsnap Charger at $35, Galaxy A57 all-time low, Nothing Phone (4a) Pro, more ([source](https://9to5google.com/2026/08/07/deals-pixelsnap-charger-galaxy-a57-nothing-phone/))
