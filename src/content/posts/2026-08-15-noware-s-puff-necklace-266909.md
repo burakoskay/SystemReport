@@ -1,16 +1,17 @@
 ---
 title: "Noware's Puff Necklace"
 date: 2026-08-15T16:19:49.464Z
-modified_date: 2026-08-16T14:17:02.331Z
+modified_date: 2026-09-07T22:27:31.944Z
 tags: ["wearable technology","Noware","Puff necklace","USB drive"]
 hero_image: "/hero/2026-08-15-noware-s-puff-necklace-266909.jpg"
 hero_image_credit_name: "sarayu P"
 hero_image_credit_url: "https://www.pexels.com/@sarayu-p-371879973"
 visual_keyword: "jewelry"
 description: "USB drive as jewelry"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 # Introduction to Noware's Puff Necklace
@@ -57,6 +58,7 @@ The technical specifics of the Puff necklace are not publicly available, but its
 
 ## Updates
 
+- **2026-09-07** — Sony WH-1000XM4C launch for $299 alongside two more affordable headphones ([source](https://9to5google.com/2026/09/07/sony-wh-1000xm4c-launch-for-299-alongside-two-more-affordable-headphones/))
 - **2026-08-16** — Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions ([source](https://9to5google.com/2026/08/16/google-pixel-11-hilight/))
 
 [^1]: [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdy2gDc-vFkebiScxd-7kDYLmb3UzLG5Ity-O7DaJe1truSUz074k9CKtG75ylGZItL1l-Lr0lWyNnFOyo_N5rKB3iFa-zAfsffFx4G65zF808eZp2gn7nqhiqAo2WUoVsyk9jxT9H4zndzByqLWoTJGpMpAoByMjc4O9bHw5xKTb513PMO4idossypH3zcajEgSyIE-ZV5TyxLNC7G3auofEm0tLGiLUBMw_cwp9tIDVFbPLasoMpCG7xo4yh7qen6I=)
