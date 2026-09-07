@@ -1,15 +1,17 @@
 ---
 title: "Google’s Android Moves: Deals, Bugs, and a Platform Pivot"
 date: 2026-09-01T19:11:48.081Z
+modified_date: 2026-09-07T02:20:22.127Z
 tags: ["android","google","pixel","apps"]
 hero_image: "/hero/2026-09-01-google-s-android-moves-deals-bugs-and-a-platform-pivot-ac2689.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "Android smartphone with app icons and code overlay"
 description: "A rundown of fresh Android app discounts, Pixel 11 beta rollout, Meet hardware shift to Android, and new AI tools amid a Play Store crackdown."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Android app discounts heat up the holiday crawl
 
@@ -45,3 +47,6 @@ The juxtaposition of a new AI creation suite and a crackdown on alternative app 
 
 Keep an eye on the next Pixel 11 patch that should silence the static‑audio bug; a clean fix will be a litmus test for Google’s beta‑to‑release pipeline. Monitor the rollout of Android Auto’s quick‑settings UI, as driver adoption will dictate whether Google ships the feature to production fleets. Finally, watch for any official statement from Google regarding the AuroraStore block, especially if GrapheneOS adoption grows, because regulatory scrutiny could force a policy reversal.
 
+## Updates
+
+- **2026-09-07** — The pros and cons of using wireless Android Auto ([source](https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/))

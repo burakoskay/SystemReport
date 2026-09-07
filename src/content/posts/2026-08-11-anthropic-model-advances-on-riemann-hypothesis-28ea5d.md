@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Model Advances on Riemann Hypothesis"
 date: 2026-08-11T16:55:26.132Z
-modified_date: 2026-08-19T00:53:40.583Z
+modified_date: 2026-09-07T02:20:15.506Z
 tags: ["Mathematics","Machine Learning","Riemann Hypothesis"]
 hero_image: "/hero/2026-08-11-anthropic-model-advances-on-riemann-hypothesis-28ea5d.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "Riemann Hypothesis"
 description: "Anthropic model makes unexpected progress"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-11-anthropic-model-advances-on-riemann-hypothesis-28ea5d.mp3"
 audio_bytes: 616116
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction
@@ -50,4 +51,5 @@ The future of Anthropic's model and its potential to contribute to the field of 
 
 ## Updates
 
+- **2026-09-07** — Seattle Times and Newsday sue OpenAI and Microsoft for infringement ([source](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft))
 - **2026-08-19** — Claude Code Teaching macOS to Natively Print to the HP Laser 1008a ([source](https://cdn.kuber.studio/chat/hp-laser-1008a-driver))
