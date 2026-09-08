@@ -1,18 +1,20 @@
 ---
 title: "Apple services growth slows due to gaming dip"
 date: 2026-07-31T10:33:57.366Z
+modified_date: 2026-09-08T22:17:10.033Z
 tags: ["Apple","Services","Gaming"]
 hero_image: "/hero/2026-07-31-apple-services-growth-slows-due-to-gaming-dip-eade6b.jpg"
 hero_image_credit_name: "Andréa Devillier"
 hero_image_credit_url: "https://www.pexels.com/@maisonlighthouse"
 visual_keyword: "Apple"
 description: "Apple services revenue growth slows"
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-07-31-apple-services-growth-slows-due-to-gaming-dip-eade6b.mp3"
 audio_bytes: 573067
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple's services segment grew slower this quarter because mobile gaming revenue fell and recent App Store payment-rule changes cut into earnings. The slowdown matters because services now account for a growing share of Apple's profit and the company just crossed 1.5 billion paid subscriptions. 
 ## Court-ordered App Store payment changes 
@@ -29,3 +31,7 @@ This is not the first time that Apple has faced challenges to its App Store busi
 The changes to the App Store's payment structure will likely have significant technical implications for developers. They will need to update their apps to comply with the new rules, which could be a time-consuming and costly process. Additionally, the changes may lead to a decrease in the number of apps available on the App Store, as some developers may choose not to comply with the new rules. 
 ## Downstream Implications 
 The slowdown in Apple's services segment could have significant implications for the company's investors and customers. If the company is unable to reverse the trend, it could lead to a decrease in the company's stock price and a loss of customer loyalty. On the other hand, if Apple is able to successfully navigate the challenges facing its services segment, it could lead to increased revenue and profits for the company. Furthermore, the changes to the App Store's payment structure could also have implications for the broader tech industry, as other companies may be forced to re-examine their own payment structures in response to the court's ruling.
+
+## Updates
+
+- **2026-09-08** — Muse, Meta’s New Personal AI Agent, Needs You to Trust It ([source](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/))

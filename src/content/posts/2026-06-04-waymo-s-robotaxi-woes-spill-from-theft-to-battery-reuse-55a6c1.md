@@ -1,19 +1,20 @@
 ---
 title: "Waymo’s robotaxi woes spill from theft to battery reuse"
 date: 2026-06-04T18:28:15.824Z
-modified_date: 2026-08-25T18:31:14.597Z
+modified_date: 2026-09-08T22:17:30.401Z
 tags: ["waymo","autonomous-vehicles","hyundai"]
 hero_image: "/hero/2026-06-04-waymo-s-robotaxi-woes-spill-from-theft-to-battery-reuse-55a6c1.jpg"
 hero_image_credit_name: "David McElwee"
 hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "san francisco street with robotaxi and police tape"
 description: "Waymo grapples with a burglary, street‑level safety glitches, a battery‑to‑grid deal, and a $2.5 billion Hyundai order as regulators stare down the AV boom."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-04-waymo-s-robotaxi-woes-spill-from-theft-to-battery-reuse-55a6c1.mp3"
 audio_bytes: 554676
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -39,5 +40,6 @@ California lawmakers are drafting tighter AV‑reporting bills after the string 
 
 ## Updates
 
+- **2026-09-08** — ChatGPT Sketch turns your bad drawings into detailed AI images ([source](https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch))
 - **2026-08-25** — Waymo robotaxis are headed to Munich ([source](https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/))
 - **2026-08-14** — The Next Big Influencer Is This 4-Foot-Tall Robot From China ([source](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/))

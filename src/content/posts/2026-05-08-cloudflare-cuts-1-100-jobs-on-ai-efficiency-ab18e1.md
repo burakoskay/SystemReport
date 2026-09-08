@@ -1,16 +1,17 @@
 ---
 title: "Cloudflare Cuts 1,100 Jobs on AI Efficiency"
 date: 2026-05-08T19:33:33.174Z
-modified_date: 2026-06-04T10:03:15.600Z
+modified_date: 2026-09-08T22:16:56.432Z
 tags: ["AI","automation","layoffs","tech industry"]
 hero_image: "/hero/2026-05-08-cloudflare-cuts-1-100-jobs-on-ai-efficiency-ab18e1.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Cloudflare lays off 1,100 employees citing AI efficiency gains. The company reported a record high revenue."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ The economic implications of AI-driven layoffs are significant, with potential e
 
 ## Updates
 
+- **2026-09-08** — The Exploration Company nabs $450 million to challenge SpaceX ([source](https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/))
 - **2026-06-04** — Amazon develops a warehouse robot workers can speak to ([source](https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus))

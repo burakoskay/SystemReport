@@ -1,16 +1,17 @@
 ---
 title: "Bay Area Dominates AI Funding, Europe Navigates Tech Shifts"
 date: 2026-05-06T21:22:23.119Z
-modified_date: 2026-08-21T22:17:39.324Z
+modified_date: 2026-09-08T22:17:16.807Z
 tags: ["ai","funding","eu","startups","quantum"]
 hero_image: "/hero/2026-05-06-bay-area-dominates-ai-funding-europe-navigates-tech-shifts-3fdca0.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "San Francisco skyline with glowing data streams and office towers"
 description: "San Francisco leads global AI investment 2023, while European startups and policies reshape tech landscape."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ On the Bay Area front, track the next OpenAI funding milestone. The company’s 
 
 ## Updates
 
+- **2026-09-08** — Drama swirls around OpenAI’s legendary mathematical milestone ([source](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution))
 - **2026-08-21** — Over 1 million people have clicked LinkedIn’s AI slop button ([source](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message))
 - **2026-05-20** — WhatsApp working on messages that disappear once you’ve read them ([source](https://9to5mac.com/2026/05/19/whatsapp-working-on-messages-that-disappear-once-youve-read-them/))
 - **2026-05-07** — RGG's Stranger Than Heaven game arrives this winter ([source](https://www.engadget.com/2166765/rgg-stranger-than-heaven-winter-release/))
