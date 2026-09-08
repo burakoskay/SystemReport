@@ -1,15 +1,17 @@
 ---
 title: "Google Cast woes, Xbox Game Pass on TV"
 date: 2026-09-05T14:30:45.677Z
+modified_date: 2026-09-08T02:33:07.226Z
 tags: ["streaming","gaming","foldables"]
 hero_image: "/hero/2026-09-05-google-cast-woes-xbox-game-pass-on-tv-d59b50.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "tech newsroom with streaming devices and foldable phone on desk"
 description: "Disney+ loses Cast, Xbox Game Pass heads to Google TV, and Samsung restocks the Fold 8 while slashing Ultra pricing."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 ## Indie games that bite back
 
@@ -51,6 +53,9 @@ For developers, the indie game roundup underscores that discovery still relies o
 
 Track Disney+’s legal filings for any settlement that could restore Cast in the affected regions. Keep an eye on Microsoft’s rollout schedule; a broader Google TV launch would signal a shift in how Microsoft approaches living‑room gaming. Monitor Samsung’s inventory levels and pricing through the next quarter to see if the Fold 8 Ultra’s discount stabilizes demand or triggers a deeper price war in the foldable segment.
 
+## Updates
+
+- **2026-09-08** — How Long Should A Laptop Battery Last On A Single Charge? ([source](https://www.engadget.com/2249568/how-long-laptop-battery-should-last-without-recharging/))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgxM_cDMFHsvnupVmEAa0wUU5CmsA6xXdsylBt-m7CYuF0jMT3nH9VwiqAvx4aE8gr-INI0Tj6ECT95Sepe96OmfJnsZRFOoQlbHqJIf3cAszyhGc7opOOkIIe9439EUskuSF2dsDyqS4uh61-OHOx9wtz_uHQcXDyN1a5obdPCebb5kFGRM17up3KOQrSOT5MtqS4o4KPAvXkhvjnx4RhU6SVJa_kyeVAXkj7gNO6cboe--o=)
 [^2]: [newstral.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeIfM4ELMWGO15pCiXhaY29rcRjmAizkCNPaGi34ECN4e1FEL0MHTFTFJ4CLSSGivOW_a5htZyPXacPynYkoeVHsizNNkLIeFLOctPR02mpqEHi6V3KLJWYMVdJTYg-zVE8TIAEl5d8LgMe-jgeVvGsZTYN9qQ5XQig6ljlLotCE8Qu0l1MboWSpZk2VTuhQX9EMuEjPvwzTeKK6TxSwHGjcBxMt_L9e9mL2WyJERQSCGn4KUlWtJccjsTT8GxVkNa)

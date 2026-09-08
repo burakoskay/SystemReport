@@ -1,15 +1,17 @@
 ---
 title: "Apple Negotiates Nine‑Figure Publisher Deals for Siri News Feed"
 date: 2026-08-13T16:57:14.282Z
+modified_date: 2026-09-08T02:32:33.278Z
 tags: ["apple","siri","ai","news"]
 hero_image: "/hero/2026-08-13-apple-negotiates-nine-figure-publisher-deals-for-siri-news-feed-1cd0d2.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "Apple executive shaking hands with newspaper publisher in a modern office"
 description: "Apple is courting news publishers with multiyear, usage‑based payments to feed current headlines into its upcoming Siri AI, slated for release this fall."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Apple is in talks with major news publishers to pay for real‑time content that will power the next version of Siri. The move aims to fix the headline‑generation errors that forced Apple to pull news summaries from iOS 18.
 
@@ -50,3 +52,7 @@ Competitors will watch Siri’s performance closely. If Apple’s model yields h
 ## What to Watch
 
 The first test will be the Siri AI debut in iOS 27, scheduled for the fall. Track how often the assistant cites partner publishers and whether Apple releases usage metrics. Also monitor any public statements from participating newsrooms about revenue impact. The next quarterly earnings report may reveal whether the nine‑figure outlay translates into measurable user engagement or subscription growth. Those data points will indicate whether Apple’s usage‑based licensing gains traction across the AI assistant market.
+
+## Updates
+
+- **2026-09-08** — First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost ([source](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3))
