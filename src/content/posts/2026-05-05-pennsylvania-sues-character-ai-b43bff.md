@@ -1,16 +1,17 @@
 ---
 title: "Pennsylvania Sues Character.AI"
 date: 2026-05-05T19:29:42.550Z
-modified_date: 2026-05-16T09:44:57.265Z
+modified_date: 2026-09-08T14:05:51.713Z
 tags: ["Character.AI","chatbot regulation","Pennsylvania lawsuit"]
 hero_image: "/hero/2026-05-05-pennsylvania-sues-character-ai-b43bff.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "chatbot"
 description: "Pennsylvania sues Character.AI over chatbot posing as doctor"
-sources_count: 3
+sources_count: 4
 author: "lena-volkov"
 ---
+
 
 
 
@@ -51,4 +52,5 @@ In conclusion, the Pennsylvania lawsuit against Character.AI is a significant de
 
 ## Updates
 
+- **2026-09-08** — Camera app in iOS 27 reportedly includes four major pro photography features ([source](https://9to5mac.com/2026/09/08/camera-app-in-ios-27-reportedly-includes-four-major-pro-photography-features/))
 - **2026-05-16** — Some Asexuals Are Using AI Companions for Intimacy Without the Sex ([source](https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/))

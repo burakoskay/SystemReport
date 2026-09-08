@@ -1,15 +1,17 @@
 ---
 title: "Devolver's Mascot Platformer Challenges GTA 6 Release Day"
 date: 2026-08-26T19:58:29.389Z
+modified_date: 2026-09-08T14:04:43.864Z
 tags: ["gaming","hardware","indie","xbox","esports"]
 hero_image: "/hero/2026-08-26-devolver-s-mascot-platformer-challenges-gta-6-release-day-321cfd.jpg"
 hero_image_credit_name: "Kevin  Malik"
 hero_image_credit_url: "https://www.pexels.com/@kevin-malik"
 visual_keyword: "green thumbstick-shaped stool beside a gaming console"
 description: "Devolver Digital drops a mascot platformer on GTA 6's launch day, while ASUS, Xbox and IKEA roll out new hardware and furniture for gamers."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 Devolver Digital is launching a mascot‑driven platformer on the same day Rockstar ships *Grand Theft Auto VI*. The coincidence forces indie fans to choose between a cheeky side‑scroll and a sprawling open world.
 
@@ -50,3 +52,7 @@ The collaboration also hints at a future where furniture manufacturers embed sma
 ## What to Watch
 
 Devolver’s platformer will be the litmus test for indie titles released alongside blockbuster launches. Track first‑week sales and community sentiment on platforms like Reddit and Discord to gauge whether the strategy pays off. On the hardware front, monitor reviews will reveal whether OLED truly delivers a competitive edge without inflating costs. Xbox’s disc‑to‑digital rollout will be measured by adoption rates and any legal pushback from publishers. Finally, keep an eye on IKEA’s next product drop; if the thumb‑stick stool sells out quickly, it could signal a lucrative new revenue stream for gaming‑focused furniture. The next quarter will reveal which of these moves reshapes the gamer’s ecosystem.
+
+## Updates
+
+- **2026-09-08** — Google’s AI also cheats, but a little more honestly ([source](https://9to5google.com/2026/09/08/googles-ai-also-cheats-but-a-little-more-honestly/))

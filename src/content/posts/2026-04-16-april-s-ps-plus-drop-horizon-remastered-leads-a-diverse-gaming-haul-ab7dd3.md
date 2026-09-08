@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-08-19T18:44:52.656Z
+modified_date: 2026-09-08T14:04:57.389Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 14
+sources_count: 15
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-09-08** — What is considered good speed for home internet and how can you test it? ([source](https://www.engadget.com/2250412/what-is-good-speed-home-internet-how-to-test/))
 - **2026-08-19** — Pixel 11 Initial Review: This probably could have been a software update [Video] ([source](https://9to5google.com/2026/08/19/pixel-11-initial-review/))
 - **2026-08-11** — Ranking the Best Red-Light Therapy Masks and LED Devices of 2026 ([source](https://www.wired.com/story/led-face-masks-and-red-light-therapy/))
 - **2026-08-04** — iOS 27 gives FaceTime huge upgrade with this powerful new feature ([source](https://9to5mac.com/2026/08/04/ios-27-gives-facetime-huge-upgrade-with-this-powerful-new-feature/))

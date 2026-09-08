@@ -1,19 +1,20 @@
 ---
 title: "CISA leak, EV fee, CDC charter, Minnesota ban expose policy clash"
 date: 2026-05-19T21:28:37.070Z
-modified_date: 2026-05-29T15:51:45.241Z
+modified_date: 2026-09-08T14:05:58.443Z
 tags: ["cisa","ev","policy","prediction-markets"]
 hero_image: "/hero/2026-05-19-cisa-leak-ev-fee-cdc-charter-minnesota-ban-expose-policy-clash-a41c8d.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "collage of breached code repository, electric car charging station, CDC panel meeting, gavel"
 description: "Recent CISA credential exposure, a new EV road-use fee, a withdrawn CDC panel charter, and Minnesota's prediction market ban illustrate growing tech-policy tensions."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-19-cisa-leak-ev-fee-cdc-charter-minnesota-ban-expose-policy-clash-a41c8d.mp3"
 audio_bytes: 626565
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 A public GitHub repository hosted secret CISA SSH keys and plaintext passwords for months. The breach shows how basic hygiene failures can endanger national‑level cyber defenses.
@@ -54,4 +55,5 @@ Together, the incidents suggest that 2026 will be a testing ground for how quick
 
 ## Updates
 
+- **2026-09-08** — Apple @ Work: The printer is the least secure piece of equipment you have ([source](https://9to5mac.com/2026/09/08/the-printer-is-the-least-secure-piece-of-equipment-you-have/))
 - **2026-05-29** — What would you be willing to put in your body? ([source](https://www.theverge.com/column/939462/enhanced-games-biohacking-fda-health-wellness))

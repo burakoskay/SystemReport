@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Restricts GPT-5.5 Cyber to Key Users"
 date: 2026-04-30T19:41:39.822Z
-modified_date: 2026-05-12T10:37:12.043Z
+modified_date: 2026-09-08T14:05:44.969Z
 tags: ["AI Security","OpenAI","Yubico"]
 hero_image: "/hero/2026-04-30-openai-restricts-gpt-5-5-cyber-to-key-users-f750cd.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Security"
 description: "OpenAI limits GPT-5.5 Cyber to critical cyber defenders and partners with Yubico"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI Limits GPT-5.5 Cyber Access
@@ -48,4 +49,5 @@ As the AI industry continues to evolve, it is likely that we will see a growing 
 
 ## Updates
 
+- **2026-09-08** — Apple will quickly become a dominant player in folding phones – Counterpoint ([source](https://9to5mac.com/2026/09/08/apple-will-quickly-become-a-dominant-player-in-folding-phones-counterpoint/))
 - **2026-05-12** — Amazon launches 30-minute delivery across the U.S. ([source](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/))

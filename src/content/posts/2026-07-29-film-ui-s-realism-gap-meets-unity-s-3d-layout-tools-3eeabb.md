@@ -1,18 +1,20 @@
 ---
 title: "Film UI's Realism Gap Meets Unity's 3D Layout Tools"
 date: 2026-07-29T14:05:37.087Z
+modified_date: 2026-09-08T14:03:56.437Z
 tags: ["film-ui","unity","flexalon"]
 hero_image: "/hero/2026-07-29-film-ui-s-realism-gap-meets-unity-s-3d-layout-tools-3eeabb.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cinematic computer screen with holographic interface overlay"
 description: "A look at how Hollywood screen graphics fall short of real interfaces and how Unity's Flexalon is giving developers a practical alternative."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-07-29-film-ui-s-realism-gap-meets-unity-s-3d-layout-tools-3eeabb.mp3"
 audio_bytes: 608593
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Realism vs. Drama in Film Screens
 
@@ -42,6 +44,9 @@ Flexalon’s approach flips that script. By exposing a concrete, scriptable layo
 
 Keep an eye on Unity’s roadmap for further Flexalon integration, especially any updates that tighten XR gesture handling. Also watch how upcoming releases—whether a new blockbuster or a Unity‑powered demo—choose between stylized screen graphics and functional UI. The next major film that hires a Flexalon‑trained artist could signal a shift toward realism in cinematic interfaces.
 
+## Updates
+
+- **2026-09-08** — How NASA Testing Changed US Food Inspection Forever ([source](https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/))
 
 [^1]: [flexalon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELsBtn9a1amteBvzIDQF5sUhRX7arjomDtitoFDfPUAiNRUJgTo-m5riEkXsN1g984_88idaD0cDShpZW4R4Enl-qtgvs1nk5A-QPNqofSIGxQrXtJ_vNaiwZ1)
 [^2]: [unity.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiQ55c9ICjwnf9MDctnKBUvuddq1KcheWw526PYJodwKqisApD0KkfC5q71jrJt6rZu5tHFD4iS7fB019_b3u6b16hLm_RRuSvYTOOMOb2rnMhL0EoIEqCE8Ja9Vfx-uVpBtDALWHdbWVqyFc0oxmgiOqF_jv0uZlSyMV7LHRkl3K4MnHZo46STzxJgDtJ4AwDQtEr-VeiTu6UCVX52RljA-VbSrtOmDjqHiCJ_ooZNBnYDEUslx76-aI=)

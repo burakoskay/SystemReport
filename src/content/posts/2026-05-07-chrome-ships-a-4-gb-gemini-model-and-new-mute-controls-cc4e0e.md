@@ -1,16 +1,17 @@
 ---
 title: "Chrome ships a 4 GB Gemini model and new mute controls"
 date: 2026-05-07T23:10:47.802Z
-modified_date: 2026-07-29T10:34:15.152Z
+modified_date: 2026-09-08T14:05:38.198Z
 tags: ["chrome","ai","privacy","extensions"]
 hero_image: "/hero/2026-05-07-chrome-ships-a-4-gb-gemini-model-and-new-mute-controls-cc4e0e.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "browser settings window showing AI model toggle and mute site option"
 description: "Google embeds a 4‑GB Gemini AI in Chrome, offers a way to uninstall it, and rolls out mute and link‑blocking features in version 64."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Chrome users should track the adoption rate of the Gemini uninstall toggle and t
 
 ## Updates
 
+- **2026-09-08** — How Tim Cook shaped Apple’s foldable iPhone, and what it may cost ([source](https://9to5mac.com/2026/09/08/how-tim-cook-shaped-apples-foldable-iphone-and-what-it-may-cost/))
 - **2026-07-29** — NASA’s New 3D Model Shows the Earth Is a Lumpy Mess ([source](https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/))
 - **2026-07-28** — Logitech’s handheld plans are on ice — don’t expect a G Cloud 2 soon ([source](https://www.theverge.com/games/971651/logitech-handheld-business-g-cloud-robin-piispanen-interview))
 - **2026-06-05** — Grand Theft Auto VI is warping the video game release calendar ([source](https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest))

@@ -1,16 +1,17 @@
 ---
 title: "Blue Origin cleared for New Glenn after engine failure"
 date: 2026-05-23T03:44:38.130Z
-modified_date: 2026-05-29T18:38:05.241Z
+modified_date: 2026-09-08T14:04:16.837Z
 tags: ["Blue Origin","New Glenn","FAA"]
 hero_image: "/hero/2026-05-23-blue-origin-cleared-for-new-glenn-after-engine-failure-1fa192.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "New Glenn rocket"
 description: "FAA approves New Glenn's return after April engine failure knocked AST SpaceMobile satellite out of orbit."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -74,4 +75,5 @@ The growth of the satellite launch market presents significant opportunities for
 
 ## Updates
 
+- **2026-09-08** — Intel CPUs are reportedly getting a 10 percent price hike in October ([source](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october))
 - **2026-05-29** — Galaxy Z Fold 8 series may ‘significantly’ improve the display crease ([source](https://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/))
