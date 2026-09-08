@@ -1,18 +1,20 @@
 ---
 title: "AI Security Risks"
 date: 2026-06-07T04:21:27.829Z
+modified_date: 2026-09-08T19:13:41.130Z
 tags: ["AI","Security","Energy Consumption","Job Displacement"]
 hero_image: "/hero/2026-06-07-ai-security-risks-721fcb.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "AI poses risks to secure messaging, energy consumption and job displacement"
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-06-07-ai-security-risks-721fcb.mp3"
 audio_bytes: 570350
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to AI Risks
 
@@ -47,3 +49,7 @@ The development of AI is likely to continue rapidly in the coming years, with si
 The downstream implications of AI development are far-reaching and complex. As AI becomes increasingly ubiquitous, it is likely to have a significant impact on a range of industries, including healthcare, finance, and education. However, this also creates a range of challenges, including the need to develop secure and efficient AI systems, and to mitigate the potential risks associated with AI.
 
 In conclusion, the development of AI poses a range of risks and benefits, including security risks, energy consumption, and job displacement. It is essential to consider the potential risks and benefits of AI and to develop strategies to mitigate its negative impacts. This includes investing in education and retraining programs to help workers develop the skills they need to work with AI, and to develop secure and efficient AI systems.
+
+## Updates
+
+- **2026-09-08** — A word with a woman who’s trying to pull off a crossbody phone strap ([source](https://www.theverge.com/tech/990849/crossbody-phone-strap-style))

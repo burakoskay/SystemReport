@@ -1,19 +1,20 @@
 ---
 title: "Google Updates Hacking Group Naming Conventions"
 date: 2026-08-09T14:31:05.310Z
-modified_date: 2026-08-27T18:46:49.639Z
+modified_date: 2026-09-08T19:14:34.920Z
 tags: ["Google","Cybersecurity","Hacking Groups"]
 hero_image: "/hero/2026-08-09-google-updates-hacking-group-naming-conventions-8f5b60.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google"
 description: "Google changes naming approach for hacking groups"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-09-google-updates-hacking-group-naming-conventions-8f5b60.mp3"
 audio_bytes: 538585
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction to Google's Naming Change
@@ -39,4 +40,5 @@ The change in naming conventions may have significant implications for Google's 
 
 ## Updates
 
+- **2026-09-08** — Google DeepMind Releases AlphaGenome Atlas ([source](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/))
 - **2026-08-27** — Why did 1,000 world citizens bury their underpants? ([source](https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/))

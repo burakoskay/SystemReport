@@ -1,18 +1,20 @@
 ---
 title: "Samsung's Shuffle: Edge Panel, Privacy Display, Foldables"
 date: 2026-09-07T22:30:17.368Z
+modified_date: 2026-09-08T19:13:00.608Z
 tags: ["samsung","android","foldables","privacy","ar"]
 hero_image: "/hero/2026-09-07-samsung-s-shuffle-edge-panel-privacy-display-foldables-87a323.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "Samsung Galaxy phone edge panel interface on screen"
 description: "Samsung makes Edge Panel standard, licenses privacy display to Huawei, sees Z Fold 8 hype iPhone Fold rumors, and retires Quick Measure and AR Doodle apps."
-sources_count: 12
-author: "david-okafor"
+sources_count: 13
 audio_path: "/audio/2026-09-07-samsung-s-shuffle-edge-panel-privacy-display-foldables-87a323.mp3"
 audio_bytes: 629909
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Edge Panel becomes a default on every Galaxy phone
 
@@ -55,3 +57,7 @@ Huawei’s Mate XT2 will be the first real‑world test of Samsung’s privacy�
 Finally, the market reaction to the Z Fold 8’s indirect boost to iPhone Fold speculation will be a barometer for Apple’s timeline. Should Apple announce a foldable, Samsung may need to double‑down on its AR suite to maintain a differentiated ecosystem.
 
 Stakeholders should monitor Samsung’s upcoming One UI release notes, Huawei’s Mate XT2 sales figures, and any Apple supply‑chain leaks related to foldable components. These data points will shape the next phase of the high‑end smartphone arms race.
+
+## Updates
+
+- **2026-09-08** — The White House made a "Tetris" clone. The Tetris Company was not amused. ([source](https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/))

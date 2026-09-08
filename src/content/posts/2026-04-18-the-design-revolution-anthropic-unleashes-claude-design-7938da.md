@@ -1,16 +1,17 @@
 ---
 title: "The Design Revolution: Anthropic Unleashes Claude Design"
 date: 2026-04-18T01:05:16.030Z
-modified_date: 2026-08-19T18:43:36.902Z
+modified_date: 2026-09-08T19:13:53.544Z
 tags: ["claude design","anthropic","ai-assisted design"]
 hero_image: "/hero/2026-04-18-the-design-revolution-anthropic-unleashes-claude-design-7938da.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "AI-generated design concept with colorful graphs and diagrams"
 description: "Anthropic introduces Claude Design, a game-changing research preview that empowers users to generate stunning designs, prototypes, and slides with the help of AI."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The implications of Claude Design extend far beyond the world of design. As AI-p
 
 ## Updates
 
+- **2026-09-08** — Threads is overhauling its in-app analytics with more details, except for link clicks ([source](https://www.engadget.com/2251592/threads-is-overhauling-its-in-app-analytics-with-more-details-except-for-link-clicks/))
 - **2026-08-19** — Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade ([source](https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/))
 - **2026-08-12** — Pixel 11 camera upgrades include Instant Night Sight and bigger sensors ([source](https://www.engadget.com/2235261/pixel-11-camera-upgardes-include-instant-night-sight-and-bigger-sensors/))
 - **2026-08-01** — Meta, TikTok, Snap and Google face wrongful death lawsuit from four US families ([source](https://www.engadget.com/2228490/meta-tiktok-snap-google-wrongful-death-lawsuit-us/))

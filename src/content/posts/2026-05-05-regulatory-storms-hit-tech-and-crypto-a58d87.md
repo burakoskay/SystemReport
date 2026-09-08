@@ -1,16 +1,17 @@
 ---
 title: "Regulatory Storms Hit Tech and Crypto"
 date: 2026-05-05T03:31:39.386Z
-modified_date: 2026-08-05T11:56:01.857Z
+modified_date: 2026-09-08T19:13:08.673Z
 tags: ["AI regulation","cryptocurrency","online privacy"]
 hero_image: "/hero/2026-05-05-regulatory-storms-hit-tech-and-crypto-a58d87.jpg"
 hero_image_credit_name: "David McElwee"
 hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "regulation"
 description: "New regulations loom for AI, Bitcoin, and online privacy, sparking debates on innovation and oversight."
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 
 
@@ -78,5 +79,6 @@ The regulatory landscape for tech and crypto is evolving rapidly. As the White H
 
 ## Updates
 
+- **2026-09-08** — The combat demo for Free Stars: Children of Infinity is out, and it's free ([source](https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/))
 - **2026-08-05** — Trump’s AI testing plan is limited and vague ([source](https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded))
 - **2026-05-07** — Trump set to invite Tim Cook and other CEOs to upcoming China trip ([source](https://9to5mac.com/2026/05/07/trump-set-to-invite-tim-cook-and-other-ceos-to-upcoming-china-trip/))

@@ -1,16 +1,17 @@
 ---
 title: "Europe's Mars Rover Mission Secures New Launch Vehicle"
 date: 2026-04-18T20:30:07.758Z
-modified_date: 2026-05-11T11:30:13.469Z
+modified_date: 2026-09-08T19:13:12.683Z
 tags: ["ESA","ExoMars","SpaceX","Falcon Heavy"]
 hero_image: "/hero/2026-04-18-europe-s-mars-rover-mission-secures-new-launch-vehicle-9e2b48.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Mars Rover"
 description: "Europe's first Mars rover mission finds a new ride on SpaceX's Falcon Heavy after multiple launch delays."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ The Falcon Heavy launch is expected to propel the rover to Mars. Once on the Mar
 
 ## Updates
 
+- **2026-09-08** — With another huge infusion of cash, Stoke Space goes even bigger ([source](https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/))
 - **2026-05-11** — Korea’s biggest manufacturers back Config, the TSMC of robot data ([source](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/))
 - **2026-04-27** — Trump demands ABC fire Jimmy Kimmel ([source](https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc))
 - **2026-04-22** — Former MrBeast exec sues over ‘years’ of alleged harassment ([source](https://www.theverge.com/tech/916903/mrbeast-sexual-harassment-lawsuit))

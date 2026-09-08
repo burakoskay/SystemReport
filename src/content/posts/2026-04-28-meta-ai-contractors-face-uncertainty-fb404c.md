@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Contractors Face Uncertainty"
 date: 2026-04-28T20:11:53.107Z
-modified_date: 2026-08-19T14:27:36.238Z
+modified_date: 2026-09-08T19:14:22.808Z
 tags: ["Meta","AI","Layoffs","Tech Industry","Contractors"]
 hero_image: "/hero/2026-04-28-meta-ai-contractors-face-uncertainty-fb404c.jpg"
 hero_image_credit_name: "ANTONI SHKRABA production"
 hero_image_credit_url: "https://www.pexels.com/@anthonyshkraba-production"
 visual_keyword: "tech layoffs"
 description: "Hundreds of Meta AI contractors in Ireland at risk of layoff"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The outcome of the potential layoffs and the response from Meta and Accenture. T
 
 ## Updates
 
+- **2026-09-08** — OpenAI releases ChatGPT Images 2.5 with ‘sharper details’ and ‘more precise editing’ ([source](https://9to5mac.com/2026/09/08/openai-releases-chatgpt-images-2-5-with-sharper-details-and-more-precise-editing/))
 - **2026-08-19** — Show HN: Automatically detect and patch walking-dead states in Sierra games ([source](https://github.com/katiahayati/lucasartsifier/))
 - **2026-07-28** — 2027 Mercedes-Benz C-Class Electric first drive: A long-range triumph with a few cabin quirks ([source](https://www.engadget.com/2220206/2027-mercedes-benz-c-class-electric-first-drive/))
 - **2026-06-04** — Let us filter AI slop, you cowards ([source](https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok))

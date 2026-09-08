@@ -1,16 +1,17 @@
 ---
 title: "Google expands Pentagon AI access as rivals pull back"
 date: 2026-04-28T23:03:50.000Z
-modified_date: 2026-07-26T17:11:57.625Z
+modified_date: 2026-09-08T19:12:52.340Z
 tags: ["google","ai","defense","openai","eu"]
 hero_image: "/hero/2026-04-28-google-expands-pentagon-ai-access-as-rivals-pull-back-ea04bf.jpg"
 hero_image_credit_name: "Sergei Starostin"
 hero_image_credit_url: "https://www.pexels.com/@sejio402"
 visual_keyword: "government data center with AI servers"
 description: "Google signs a new Pentagon AI contract after Anthropic refused, while OpenAI ends its Microsoft exclusivity and the EU pushes Google to open Android AI."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Google deepens Pentagon AI ties after Anthropic balks
@@ -45,4 +46,5 @@ Track the Pentagon’s procurement reports for any follow‑on contracts that ex
 
 ## Updates
 
+- **2026-09-08** — Google’s revived nuclear power plant gets $1.9B loan from US government ([source](https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/))
 - **2026-07-26** — New lawsuit alleges unpatchable Apple chip exploit was developed using stolen trade secrets ([source](https://9to5mac.com/2026/07/24/new-lawsuit-alleges-unpatchable-apple-chip-exploit-was-developed-using-stolen-trade-secrets/))

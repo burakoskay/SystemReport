@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-08-24T20:22:47.130Z
+modified_date: 2026-09-08T19:14:14.391Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 16
+sources_count: 17
 author: "david-okafor"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-09-08** — Today’s Android app deals and freebies: MO Astray, Old Man’s Journey, ELOH, more ([source](https://9to5toys.com/2026/09/08/todays-highlight-google-play-deals-2/))
 - **2026-08-24** — Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/))
 - **2026-08-15** — Engadget review recap: Samsung Galaxy Z Fold 8 Ultra, Dell XPS 13 and more ([source](https://www.engadget.com/2237224/engadget-review-recap-samsung-galaxy-z-fold-8-ultra-dell-xps-13-and-more/))
 - **2026-08-12** — Every Pixel 11 gets Qi2 25W wireless charging on Google’s Pixelsnap charger this year ([source](https://9to5google.com/2026/08/12/pixel-11-qi2-25w-wireless-charging-upgrade/))

@@ -1,18 +1,20 @@
 ---
 title: "Shimmer rolls out web ADHD coaching platform"
 date: 2026-06-04T10:08:40.931Z
+modified_date: 2026-09-08T19:13:49.298Z
 tags: ["adhd","coaching","web","startup"]
 hero_image: "/hero/2026-06-04-shimmer-rolls-out-web-adhd-coaching-platform-ace5cf.jpg"
 hero_image_credit_name: "Danik Prihodko"
 hero_image_credit_url: "https://www.pexels.com/@danikprihodko"
 visual_keyword: "person using laptop with ADHD coaching interface"
 description: "Shimmer launches a web‑based ADHD coaching platform, promising deeper focus and less phone distraction for its 60K‑plus community."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-04-shimmer-rolls-out-web-adhd-coaching-platform-ace5cf.mp3"
 audio_bytes: 604205
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Shimmer released a web‑based ADHD coaching platform that moves the core experience from phone screens to laptops.
 
@@ -45,3 +47,7 @@ However, the shift is not without friction. Some members who rely on on‑the‑
 ## What to watch next
 
 The next milestone will be the platform’s adoption rate after the initial launch window. Shimmer plans to publish monthly active user numbers and coach‑to‑member ratios. Watch for any moves toward a hybrid model that blends the web’s depth with mobile’s immediacy, and for how rival coaching services respond to the same user‑experience pain points. The data will reveal whether the web can become a durable complement to mobile in the ADHD coaching space.
+
+## Updates
+
+- **2026-09-08** — The first trailer for the Sam Altman biopic is damn creepy ([source](https://www.engadget.com/2253048/the-first-trailer-for-the-sam-altman-biopic-is-damn-creepy/))

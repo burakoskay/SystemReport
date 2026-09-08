@@ -1,15 +1,17 @@
 ---
 title: "AliExpress caught using inaudible audio to fingerprint browsers"
 date: 2026-08-25T08:46:57.040Z
+modified_date: 2026-09-08T19:13:24.759Z
 tags: ["privacy","browser-fingerprinting","cloud-security"]
 hero_image: "/hero/2026-08-25-aliexpress-caught-using-inaudible-audio-to-fingerprint-browsers-4ff29a.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "close-up of a computer speaker emitting invisible sound waves"
 description: "AliExpress employed inaudible audio signals to uniquely identify browsers, reviving a dismissed tracking method and raising fresh privacy alarms."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 AliExpress slipped inaudible audio into web pages to tag browsers without user consent. The move resurrects a tracking method many thought dead, and it forces engineers to rethink the assumptions behind web privacy.
 
@@ -46,3 +48,7 @@ From a server perspective, logging audio hashes without a clear purpose breaches
 ## What to watch
 
 Regulators in the EU and several US states are drafting rules that could classify audio‑based fingerprints as biometric data. Watch for any formal complaint filed against AliExpress under the GDPR or the California Consumer Privacy Act. Also monitor browser release notes for changes to the Web Audio API permissions model. If major browsers start throttling or sandboxing inaudible audio, the technique may lose its commercial appeal. Until then, engineers should assume that any web‑delivered sound, audible or not, can be weaponized for tracking.
+
+## Updates
+
+- **2026-09-08** — Nintendo isn’t scared of GTA VI ([source](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6))

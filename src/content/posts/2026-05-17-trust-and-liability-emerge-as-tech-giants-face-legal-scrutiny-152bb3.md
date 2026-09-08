@@ -1,16 +1,17 @@
 ---
 title: "Trust and Liability Emerge as Tech Giants Face Legal Scrutiny"
 date: 2026-05-17T21:03:08.847Z
-modified_date: 2026-05-22T16:29:53.762Z
+modified_date: 2026-09-08T19:14:43.127Z
 tags: ["regulatory scrutiny","trust and liability","Amazon","Android","OpenAI"]
 hero_image: "/hero/2026-05-17-trust-and-liability-emerge-as-tech-giants-face-legal-scrutiny-152bb3.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "regulatory"
 description: "Regulatory bodies target OpenAI, Amazon, and Android over trust, refunds, and liability concerns."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 # System Report — Editorial Voice
@@ -81,4 +82,5 @@ Stakeholders should monitor the Musk-OpenAI trial’s final judgment for languag
 
 ## Updates
 
+- **2026-09-08** — I-have-ADHD: A skill to stop coding agents from burying the answer ([source](https://github.com/ayghri/i-have-adhd))
 - **2026-05-22** — The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't ([source](https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt))

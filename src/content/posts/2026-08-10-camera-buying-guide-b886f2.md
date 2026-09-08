@@ -1,15 +1,17 @@
 ---
 title: "Camera Buying Guide"
 date: 2026-08-10T11:04:22.652Z
+modified_date: 2026-09-08T19:13:57.612Z
 tags: ["Camera Buying Guide","Photography","Camera Features"]
 hero_image: "/hero/2026-08-10-camera-buying-guide-b886f2.jpg"
 hero_image_credit_name: "Bruno Scramgnon"
 hero_image_credit_url: "https://www.pexels.com/@brunoscramgnon"
 visual_keyword: "Camera Lens"
 description: "Find the best camera for your needs"
-sources_count: 1
+sources_count: 2
 author: "david-okafor"
 ---
+
 
 ## Introduction to Camera Buying
 Shopping for a camera can be confusing. Understanding the terms is crucial in making an informed decision when choosing a camera.
@@ -35,3 +37,7 @@ The technical mechanics of a camera are what make it work. The sensor, lens, and
 
 ## Downstream Implications
 The choice of camera can have a significant impact on the type of photography you can do and the quality of the images you produce. Choosing the right camera can help you take your photography to the next level, while choosing the wrong camera can limit your options and hinder your creativity. Considering the downstream implications of your camera choice can help you make a more informed decision and ensure that you get the most out of your photography.
+
+## Updates
+
+- **2026-09-08** — What is the purpose of LiDAR on your iPhone and how do you use it? ([source](https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use/))

@@ -1,15 +1,17 @@
 ---
 title: "Microsoft's Project Zenith Requires 64 GB RAM"
 date: 2026-09-04T20:17:56.347Z
+modified_date: 2026-09-08T19:13:28.778Z
 tags: ["microsoft","windows","developers","operating-systems"]
 hero_image: "/hero/2026-09-04-microsoft-s-project-zenith-requires-64-gb-ram-d894ec.jpg"
 hero_image_credit_name: "Startup Stock Photos"
 hero_image_credit_url: "https://www.pexels.com/@startup-stock-photos"
 visual_keyword: "clean minimalist desktop on a high‑end workstation"
 description: "Microsoft unveiled Project Zenith, a stripped-down Windows build aimed at developers, but it only runs on PCs with 64 GB of RAM."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Project Zenith lands as a bare‑bones Windows variant that strips away consumer‑grade UI fluff to give developers a faster, more predictable environment. The trade‑off is a steep hardware floor: Microsoft says the build needs at least 64 GB of RAM to run.[^1][^2][^3][^4][^5][^6][^7][^8]
 
@@ -49,7 +51,9 @@ The move also parallels Apple’s recent push with macOS “Developer Beta” re
 
 The next data point to track is Microsoft’s rollout timeline. If the company releases a public ISO or a Windows Insider channel for Zenith, the community will quickly test whether the 64 GB requirement is a hard floor or a recommendation. Watch for any updates to the hardware spec, especially if Microsoft announces a “light” variant that lowers the memory bar. The decision will signal whether Zenith is meant for a handful of elite dev shops or if it could become a mainstream alternative for cloud‑first development teams.
 
+## Updates
 
+- **2026-09-08** — Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick ([source](https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWBxm9R70-OumLc7FVOrKJ7HDlXdj6_nvRzmStxYBgk_aMc3Rbg6u9eHXSzsxk4f5aPSPcVvmWnQQk1HNIFMW0bl1mjMflt47r-oy8n2_NFheG6nUtzaHyW0diLXw1Z90kiiQ4gP7nIkeVfz4uB_nQXrSvxm-pNrXMVDLjJ-_71kIh6OKeUd-hvovQSzDOp0CubXkjCJXlr8MeXX9ws9M=)
 [^2]: [notebookcheck.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElz80qVaptgllIhM4B4oeRCFNp1e9XGRo_gojrXLK4bQoFPA5_03CaDU7hSH-y2xX3G1faBXYQl_mGhaKgi-F-11U-5PVsWpw5xwSDBXNbVYrUPjfXlGYPdKyz190EucA3sKDWoMnGLtUMmutIZXZ4nu_MgnUQ4MAiaHIhfys7B1kEAR2rxgW8iatPCyG2qvDENyhiLKi3pivJSk49FB5qcVVdcEhC0VxuO0hJtwpIYwYwYtKsC5tGeBTCWqENTRw8F7YyR75oasPPA7qnVA==)

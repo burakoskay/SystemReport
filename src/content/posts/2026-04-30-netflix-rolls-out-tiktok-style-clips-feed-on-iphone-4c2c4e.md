@@ -1,16 +1,17 @@
 ---
 title: "Netflix Rolls Out TikTok-Style 'Clips' Feed on iPhone"
 date: 2026-04-30T14:11:29.618Z
-modified_date: 2026-09-08T14:04:03.267Z
+modified_date: 2026-09-08T19:12:48.100Z
 tags: ["Netflix","Clips","TikTok","Streaming"]
 hero_image: "/hero/2026-04-30-netflix-rolls-out-tiktok-style-clips-feed-on-iphone-4c2c4e.jpg"
 hero_image_credit_name: "Cup of  Couple"
 hero_image_credit_url: "https://www.pexels.com/@cup-of-couple"
 visual_keyword: "Netflix Clips"
 description: "Netflix redesigns its iPhone app with a vertical video feed called Clips, showcasing highlights from original programming."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ In conclusion, the introduction of Clips represents a significant shift in Netfl
 
 ## Updates
 
+- **2026-09-08** — Meta debuts its Muse AI agent. Will consumers trust it? ([source](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/))
 - **2026-09-08** — Gen AI Tools Are Now Being Used to Push ‘Slop Jihad’ ([source](https://www.wired.com/story/gen-ai-tools-are-now-being-used-to-push-slop-jihad/))
 - **2026-08-09** — This former notorious red-light district is now one of the world’s top AI hubs ([source](https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/))
 - **2026-08-02** — Common problems with Bluetooth speakers and how to fix them ([source](https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/))
