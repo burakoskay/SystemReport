@@ -1,15 +1,17 @@
 ---
 title: "US Courts to Publish Spyware Authorization Counts"
 date: 2026-08-14T14:48:50.714Z
+modified_date: 2026-09-08T08:30:20.952Z
 tags: ["US Courts","Spyware","Transparency"]
 hero_image: "/hero/2026-08-14-us-courts-to-publish-spyware-authorization-counts-f3ccec.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "spyware"
 description: "US courts disclose judge-authorized spyware use"
-sources_count: 1
+sources_count: 2
 author: "lena-volkov"
 ---
+
 
 ## Introduction to Transparency
 The Administrative Office of the U.S. Courts announced it will disclose the number of times judges authorized spyware use for wiretapping, as reported to TechCrunch. This decision marks a significant step towards transparency in the use of spyware by law enforcement agencies. By releasing aggregate counts of judge authorizations, the US courts aim to provide insight into the frequency of such authorizations.
@@ -29,3 +31,7 @@ The US courts' decision to disclose spyware authorization counts is likely to ha
 The use of spyware by law enforcement agencies is part of a larger trend towards increased use of technology in law enforcement. Other technologies, such as facial recognition and predictive policing, are also being used to support law enforcement efforts. However, these technologies also raise concerns about privacy and bias, and the need for transparency and oversight is essential to ensure that they are used responsibly.
 ## Implications for Privacy and Security
 The use of spyware raises significant concerns about privacy and security. The installation of malicious software on a target's device can be used to intercept communications, track the target's location, and even activate the device's camera and microphone. This raises concerns about the potential for misuse of this technology, and the need for transparency and oversight is essential to ensure that it is used responsibly.
+
+## Updates
+
+- **2026-09-08** — Xiaomi’s wide foldable promises more power than Samsung’s ([source](https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide))

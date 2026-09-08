@@ -1,19 +1,20 @@
 ---
 title: "ChatGPT 5.5 Pro Falls Short on Expectations"
 date: 2026-05-09T06:22:01.118Z
-modified_date: 2026-08-14T20:26:26.311Z
+modified_date: 2026-09-08T08:30:42.400Z
 tags: ["AI","ChatGPT","OpenAI"]
 hero_image: "/hero/2026-05-09-chatgpt-5-5-pro-falls-short-on-expectations-acb3ca.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "ChatGPT"
 description: "OpenAI's latest model release sparks skepticism among tech enthusiasts. ChatGPT 5.5 Pro fails to impress in real-world testing."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-09-chatgpt-5-5-pro-falls-short-on-expectations-acb3ca.mp3"
 audio_bytes: 621132
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The release of ChatGPT 5.5 Pro has sparked skepticism among tech enthusiasts. Wh
 
 ## Updates
 
+- **2026-09-08** — I've factored the RSA keys of a Certificate Authority from the 90s ([source](https://mcpherrin.ca/2026/09/07/rsa.html))
 - **2026-08-14** — What we know about the alleged Iranian hacks on US water utilities ([source](https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/))
