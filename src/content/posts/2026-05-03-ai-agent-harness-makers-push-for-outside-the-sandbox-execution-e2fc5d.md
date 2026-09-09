@@ -1,19 +1,20 @@
 ---
 title: "AI Agent Harness Makers Push for Outside-the-Sandbox Execution"
 date: 2026-05-03T09:26:43.710Z
-modified_date: 2026-09-06T13:21:33.064Z
+modified_date: 2026-09-09T19:01:19.604Z
 tags: ["AI","machine learning","software development"]
 hero_image: "/hero/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.jpg"
 hero_image_credit_name: "Katya Wolf"
 hero_image_credit_url: "https://www.pexels.com/@katya-wolf"
 visual_keyword: "AI agent harnesses"
 description: "Developers of AI agent harnesses, like OmoiOS and Broccoli, argue that running agents outside the sandbox improves performance and reliability."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.mp3"
 audio_bytes: 621759
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -94,6 +95,7 @@ One thing is certain: AI agent harnesses are here to stay. As these systems beco
 
 ## Updates
 
+- **2026-09-09** — Mid-week Android app deals and freebies: Loads of Final Fantasy games, Secret of Mana, more ([source](https://9to5toys.com/2026/09/09/todays-highlight-google-play-deals-3/))
 - **2026-09-06** — The Best Gaming Chairs (2026): Are They Worth It? ([source](https://www.wired.com/gallery/best-gaming-chairs/))
 - **2026-08-29** — Will Apple’s ‘revamped’ Health app with AI health coach debut next month? ([source](https://9to5mac.com/2026/08/29/apple-health-revamp-ai-coach-new-apple-watch-next-month/))
 - **2026-08-03** — Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet ([source](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops))

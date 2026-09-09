@@ -1,16 +1,17 @@
 ---
 title: "Solar Energy Lead"
 date: 2026-05-19T11:26:00.654Z
-modified_date: 2026-08-26T16:44:54.548Z
+modified_date: 2026-09-09T19:01:03.432Z
 tags: ["Solar Energy","Renewable Energy","Energy Market"]
 hero_image: "/hero/2026-05-19-solar-energy-lead-706147.jpg"
 hero_image_credit_name: "Budget Bizar"
 hero_image_credit_url: "https://www.pexels.com/@budget-bizar-92378004"
 visual_keyword: "Solar Panels"
 description: "Solar panels to drop 30% in cost by 2035"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Solar Dominance
@@ -55,4 +56,5 @@ However, the regulatory environment can also pose challenges for the solar indus
 
 ## Updates
 
+- **2026-09-09** — Shipt becomes the latest delivery app with an AI shopping assistant ([source](https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/))
 - **2026-08-26** — Rockstar calls GTA 6 leaks 'heartbreaking for our team' and says the game is nearly finished ([source](https://www.engadget.com/2244659/rockstar-calls-gta-6-leaks-heartbreaking-says-game-is-nearly-finished/))

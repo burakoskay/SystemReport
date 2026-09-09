@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-08-27T18:48:33.129Z
+modified_date: 2026-09-09T19:01:51.815Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 14
+sources_count: 15
 author: "lena-volkov"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-09-09** — Apple releases iPadOS 27 RC, plus watchOS 27 and more ([source](https://9to5mac.com/2026/09/09/apple-releases-ipados-27-rc-plus-watchos-27-and-more/))
 - **2026-08-27** — Apple expands educational program for its supply-chain workers in Vietnam ([source](https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/))
 - **2026-08-10** — Apple releases iOS 26.6.1 beta for iPhone, plus more ([source](https://9to5mac.com/2026/08/10/apple-releases-ios-26-6-1-beta-for-iphone/))
 - **2026-08-04** — Apple just revealed a clue about its September iPhone event date ([source](https://9to5mac.com/2026/08/04/apple-just-revealed-a-clue-about-its-september-iphone-event-date/))

@@ -1,18 +1,20 @@
 ---
 title: "Meta adds ADB support to legacy Portal devices"
 date: 2026-06-05T04:15:26.413Z
+modified_date: 2026-09-09T19:02:02.470Z
 tags: ["meta","portal","adb","vr"]
 hero_image: "/hero/2026-06-05-meta-adds-adb-support-to-legacy-portal-devices-da6207.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer using Android Debug Bridge on a Meta Portal device"
 description: "Meta now lets developers use Android Debug Bridge on older Portal hardware, opening new debugging paths for VR creators."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-05-meta-adds-adb-support-to-legacy-portal-devices-da6207.mp3"
 audio_bytes: 581217
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Meta opens ADB on legacy Portal hardware
 Meta announced that Android Debug Bridge (ADB) works on Portal devices that the company stopped supporting years ago. The move flips a long‑standing limitation for developers who built apps for the Horizon platform. The blog post on developers.meta.com walks through the new steps, shows a short video, and links to the updated firmware package.
@@ -33,3 +35,7 @@ Meta’s move aligns the Portal line with the broader Android development model.
 ## What to watch: future tooling and device support
 The next update to Meta’s Horizon SDK promises tighter integration with ADB, including automated crash‑dump collection. Watch for a release note that mentions a new "adb‑portal" command line helper. If Meta extends the toggle to newer Quest devices, the debugging workflow could become uniform across its entire headset portfolio.
 Developers should also monitor community forums for any security reports tied to the new ADB access. A spike in exploit disclosures could force Meta to roll back or add extra authentication layers. The balance between openness and safety will shape how quickly the VR dev ecosystem embraces the change.
+
+## Updates
+
+- **2026-09-09** — iPadOS 27 launches on September 14, here are the compatible devices ([source](https://9to5mac.com/2026/09/09/ipados-27-will-be-launched-on-september-14/))

@@ -1,18 +1,20 @@
 ---
 title: "Synrix Unveils Local-First Memory Engine for AI Agents"
 date: 2026-06-01T11:47:30.203Z
+modified_date: 2026-09-09T19:00:52.709Z
 tags: ["AI Agents","Memory Engines","Local-First Approach"]
 hero_image: "/hero/2026-06-01-synrix-unveils-local-first-memory-engine-for-ai-agents-f7291c.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "AI Agents"
 description: "Synrix introduces a local-first memory engine for AI agents, offering O(k) retrieval and no cloud dependency."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-01-synrix-unveils-local-first-memory-engine-for-ai-agents-f7291c.mp3"
 audio_bytes: 627192
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## High-Speed Memory for AI Agents
@@ -70,6 +72,10 @@ The future of AI agent development is likely to be shaped by the availability of
 ## Conclusion
 
 In conclusion, Synrix's local-first memory engine is a significant development in the field of AI agent memory solutions. The engine's high-speed, durable design makes it an ideal solution for edge deployments and other applications where reliability and performance are critical. As AI continues to advance and become more integrated into various applications, the importance of optimized infrastructure like Synrix's memory engine will only increase.
+
+## Updates
+
+- **2026-09-09** — DOJ wants more answers on Fox’s $22B Roku deal ([source](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/))
 
 [^1]: [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rlD-OZrIvXYtNf03Bg7FnBg2h2J5McSG-yXPiWNLCfknAnm0LJnTi2-tYZfhwzFj0cgvtQumZFRSZ2UqhXd4LFb9NUa9-RWRd8pCQkrHeTcPDsBjl2xd7CZYdNcqztRIwMHuYS9Tf5SF5rNf9aGxuVeLvyqqmAOtmKK1mPF6qM-2JpFMZ3oTml4szTK1sLj8E_ctt8GmJdcCRTn9)
 [^2]: [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiwb5cQCaU-UCRjpN0L7PO8-rhMm2rWP2Gf_gkXDGIo9Ht0f0dYY062B5T2amEw1Y7ZrSV8rMZYsCHdqxeQ2M2I6ap1x36PWSbDMYAVVvcszm7IwBQ-4J3MX-Q9mIbhtophRSQxFPxvM-DJOq2T2PVdJlT9w==)

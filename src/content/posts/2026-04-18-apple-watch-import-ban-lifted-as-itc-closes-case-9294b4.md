@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-09-08T22:18:04.331Z
+modified_date: 2026-09-09T19:00:36.714Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-09-09** — Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day ([source](https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/))
 - **2026-09-08** — Apple faces new UK rules over nude images on children’s iPhones ([source](https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/))
 - **2026-09-03** — Apple paying 400% more for iPhone 18 Pro memory, says TrendForce ([source](https://9to5mac.com/2026/09/03/apple-paying-400-more-for-iphone-18-pro-memory-says-trendforce/))
 - **2026-08-20** — 9to5Mac Daily: August 20, 2026 – Apple RAM suppliers, iPhone Ultra rumors ([source](https://9to5mac.com/2026/08/20/daily-august-20-2026/))

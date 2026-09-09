@@ -1,19 +1,20 @@
 ---
 title: "Lenovo Expands Legion"
 date: 2026-05-22T12:26:38.927Z
-modified_date: 2026-08-07T10:46:59.221Z
+modified_date: 2026-09-09T19:01:14.158Z
 tags: ["Lenovo","Gaming","Tablets"]
 hero_image: "/hero/2026-05-22-lenovo-expands-legion-fca4df.jpg"
 hero_image_credit_name: "Vlad Bagacian"
 hero_image_credit_url: "https://www.pexels.com/@vladbagacian"
 visual_keyword: "Lenovo Legion"
 description: "Lenovo launches new Legion gaming tablets and phone, expands market reach"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-22-lenovo-expands-legion-fca4df.mp3"
 audio_bytes: 618206
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,4 +58,5 @@ The launch of Lenovo's new Legion series is expected to be a significant event i
 
 ## Updates
 
+- **2026-09-09** — Apple brought ceramic back for the Series 12 ([source](https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition))
 - **2026-08-07** — The Hottest New AI Chatbot Is Just a Guy Answering Your Questions ([source](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/))
