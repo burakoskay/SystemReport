@@ -1,16 +1,17 @@
 ---
 title: "AT&T’s New $15 Wireless Plan and the Race for Device"
 date: 2026-05-21T13:06:58.015Z
-modified_date: 2026-08-09T08:35:16.303Z
+modified_date: 2026-09-09T22:11:12.387Z
 tags: ["Wireless plans","Jasper Wireless","Emerging devices","Device infrastructure","Telecom sector"]
 hero_image: "/hero/2026-05-21-at-t-s-new-15-wireless-plan-and-the-race-for-device-e5c972.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "wireless"
 description: "AT&T unveils a flexible $15/month wireless plan and partners with Jasper Wireless to scale support for emerging devices."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 # AT&T’s $15 Build-a-Plan Targets Price-Sensitive Users
@@ -51,4 +52,5 @@ Three data points will define AT&T’s 2024 success. First, whether Build-a-Plan
 
 ## Updates
 
+- **2026-09-09** — Apple’s new iPhone camera mode promises to prove your photo isn’t AI ([source](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image))
 - **2026-08-09** — The original URL for this prediction will no longer be available in 11 years (2011) ([source](http://longbets.org/601/))

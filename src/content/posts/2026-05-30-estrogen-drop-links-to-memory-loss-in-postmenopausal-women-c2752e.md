@@ -1,15 +1,17 @@
 ---
 title: "Estrogen drop links to memory loss in postmenopausal women"
 date: 2026-05-30T19:37:01.874Z
+modified_date: 2026-09-09T22:10:59.144Z
 tags: ["science","law","funding","health"]
 hero_image: "/hero/2026-05-30-estrogen-drop-links-to-memory-loss-in-postmenopausal-women-c2752e.jpg"
 hero_image_credit_name: "Gustavo Fring"
 hero_image_credit_url: "https://www.pexels.com/@gustavo-fring"
 visual_keyword: "researcher examining brain tissue under microscope with scientific data overlay"
 description: "New research ties menopause memory loss to brain estrogen, a US court hits Sci‑Hub with a $15M judgment, and a $200M gift supercharges SETI’s hunt for life."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Brain estrogen and post‑menopausal memory loss
 
@@ -48,3 +50,7 @@ Together, these developments suggest that scientific progress now hinges on thre
 ## What to watch next
 
 Watch for an appeal from Sci‑Hub’s legal team; a higher court could reshape how copyright law applies to digital libraries. Monitor the SETI Institute’s allocation of its new endowment, especially any announced missions that leverage machine‑learning for signal detection. Finally, follow the peer‑reviewed follow‑up studies to Northwestern’s estrogen work, which may trigger clinical trials targeting brain‑specific hormone pathways. Each of these moves will signal how the scientific ecosystem adapts to legal pressure, funding shifts, and emerging biology.
+
+## Updates
+
+- **2026-09-09** — Suno releases its first AI music model made with record industry help ([source](https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help))

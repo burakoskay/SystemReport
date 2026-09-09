@@ -1,16 +1,17 @@
 ---
 title: "Mini Shai-Hulud Hits npm"
 date: 2026-05-19T15:36:03.151Z
-modified_date: 2026-05-27T04:14:15.247Z
+modified_date: 2026-09-09T22:11:51.026Z
 tags: ["npm","supply chain attack","open source software"]
 hero_image: "/hero/2026-05-19-mini-shai-hulud-hits-npm-5e19cc.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "npm"
 description: "Hackers compromise dozens of popular open source packages in ongoing supply chain attack"
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 
 ## Introduction
@@ -58,4 +59,5 @@ The Mini Shai-Hulud campaign is a significant threat to the security of open sou
 
 ## Updates
 
+- **2026-09-09** — Understanding the recent DDoS attack against Read the Docs ([source](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/))
 - **2026-05-27** — Did the Pope use AI to write about the dangers of AI? ([source](https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram))

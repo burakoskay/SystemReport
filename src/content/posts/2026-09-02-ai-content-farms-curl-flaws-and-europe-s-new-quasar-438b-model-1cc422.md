@@ -1,15 +1,17 @@
 ---
 title: "AI content farms, curl flaws, and Europe's new Quasar 438B model"
 date: 2026-09-02T17:53:38.150Z
+modified_date: 2026-09-09T22:11:38.239Z
 tags: ["ai","security","europe","models","curl"]
 hero_image: "/hero/2026-09-02-ai-content-farms-curl-flaws-and-europe-s-new-quasar-438b-model-1cc422.jpg"
 hero_image_credit_name: "Adam spinos"
 hero_image_credit_url: "https://www.pexels.com/@adam-spinos-205786"
 visual_keyword: "abstract digital network with European flag motif"
 description: "Three sites generated over 215k AI recommendation pages, curl disclosed six CVEs, and Europe unveiled the Quasar 438B model, reshaping the AI ecosystem."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 ## AI recommendation farms flood search results
 
@@ -46,3 +48,7 @@ These three developments intersect on a single axis: the tension between opennes
 ## What to watch
 
 Track the adoption rate of Quasar 438B across European enterprises. Monitor whether major AI platforms adjust their ranking algorithms to demote content‑farm pages. Keep an eye on curl’s vulnerability tracker for follow‑up patches and any exploitation attempts in the wild. The next quarter will reveal whether these signals converge into a more secure and less noisy AI ecosystem.
+
+## Updates
+
+- **2026-09-09** — iPhone Duo vs Samsung Galaxy Z Fold 8: here's how they stack up ([source](https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/))

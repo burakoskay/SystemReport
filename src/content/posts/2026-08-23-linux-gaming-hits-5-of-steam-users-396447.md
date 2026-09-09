@@ -1,15 +1,17 @@
 ---
 title: "Linux Gaming Hits 5% of Steam Users"
 date: 2026-08-23T12:31:35.966Z
+modified_date: 2026-09-09T22:11:25.453Z
 tags: ["linux","gaming","cloud-gaming","hardware"]
 hero_image: "/hero/2026-08-23-linux-gaming-hits-5-of-steam-users-396447.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "handheld console with reflective black-and-white screen and side crank"
 description: "Linux reaches a 5% share of Steam users in March 2026, prompting new kernel drivers, cloud rigs, and niche hardware to rethink value and competition."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 Linux now accounts for over five percent of Steam’s active user base, a milestone that reshapes the economics of PC and console gaming.
 
@@ -51,6 +53,9 @@ The next six months will reveal whether kernel‑level features like NTSYNC beco
 
 ---
 
+## Updates
+
+- **2026-09-09** — The quick guide to fall vaccines and when you should get them ([source](https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/))
 
 [^1]: [slashdot.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuP_zt2ntb-2ttP4wV14d-Gfn7epfgzuwgFZ2gLS6uvBno5go78yS1IFjGIiORnb8282RtqeGSp9JXmOA00Qt3ksLBab_tq5y0te_Pghs4RjQGx2g-OxKtwRXbnmWX4ZlgLbgXQbcD9cfmmKgc5bTlY6e5OO6pnJ3OJ4lZt446Zz_NJ-kvzIly_LOYvpHW4LAHzHDbEYjPrZLePcT7w8yJpdec5A==)
 [^2]: [howtogeek.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlY6cwnXKZQMvkhQSUj-gpkkywC4wi31pDbDLxw2DVDi5ck47DT_NN85v2X_AdXtQuumGCNRzwFszdwHytuWH6oDuLDVOT66SkeuI9YRZcxL6n3pGvFRUrSAEG8dYvlPFFz5xIe5U8iMYOFOReSYzuTr7l-c9wwmM=)

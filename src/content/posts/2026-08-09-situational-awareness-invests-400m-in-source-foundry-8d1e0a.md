@@ -1,15 +1,17 @@
 ---
 title: "Situational Awareness Invests $400M in Source Foundry"
 date: 2026-08-09T22:25:36.776Z
+modified_date: 2026-09-09T22:11:55.115Z
 tags: ["AI","Chip Development","Hedge Fund"]
 hero_image: "/hero/2026-08-09-situational-awareness-invests-400m-in-source-foundry-8d1e0a.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Chip Startup"
 description: "Embattled hedge fund invests in chip startup"
-sources_count: 1
+sources_count: 2
 author: "david-okafor"
 ---
+
 
 ## Introduction
 Situational Awareness, an embattled AI-focused hedge fund, has invested $400 million in Source Foundry, a chip startup. This move indicates the hedge fund is still making significant investments in the tech sector.
@@ -29,3 +31,7 @@ The development of AI-focused chips requires significant expertise in areas like
 The investment in Source Foundry has significant implications for the broader tech industry. As AI technology continues to advance, the demand for specialized chips will grow, creating new opportunities for companies like Source Foundry. The investment also highlights the importance of strategic partnerships and collaborations in the tech sector, as companies seek to stay ahead of the curve in emerging technologies.
 ## Future Outlook
 The future of AI-focused chip development looks promising, with significant growth potential in the coming years. As companies continue to invest in this space, we can expect to see new innovations and advancements in chip design. The investment in Source Foundry is a significant step forward for Situational Awareness and the broader tech industry, and it will be interesting to see how this investment pays off in the long run.
+
+## Updates
+
+- **2026-09-09** — GNU Radio in the browser ([source](https://gnuradioworld.com/))

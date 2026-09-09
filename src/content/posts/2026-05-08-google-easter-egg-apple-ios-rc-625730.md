@@ -1,15 +1,17 @@
 ---
 title: "Google Easter Egg, Apple iOS RC"
 date: 2026-05-08T17:38:30.396Z
+modified_date: 2026-09-09T22:10:54.691Z
 tags: ["google","apple","ios"]
 hero_image: "/hero/2026-05-08-google-easter-egg-apple-ios-rc-625730.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "a collage of iconic wildlife and a smartphone displaying a software update screen"
 description: "Google honors Attenborough, Apple rolls out iOS 26.5 RC 2, and iPhone 18 Pro’s A20 chip rumors fuel speculation on upcoming features."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Sir David Attenborough’s centennial is now a searchable surprise, Apple’s latest iOS release candidate is live, and the iPhone 18 Pro’s next‑gen chip is already a hot rumor. The convergence of these moves shows how tech giants leverage milestones and speculation to keep developers and consumers tuned in.
 
@@ -48,3 +50,7 @@ The combination of an imminent iOS 26.5 RC 2, a summer of fresh Apple TV c
 ## What to watch
 
 Track the public beta feedback on iOS 26.5 RC 2 as it often surfaces performance quirks that could affect app releases. Keep an eye on Apple’s official iPhone 18 Pro announcement for confirmation of the A20 Pro’s spec sheet and the concrete upgrades it brings. Finally, mark the iOS 27 launch event for the final details on Camera and Photos enhancements, which will likely influence the next generation of mobile photography workflows.
+
+## Updates
+
+- **2026-09-09** — It’s the year of smartphone price hikes ([source](https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro))

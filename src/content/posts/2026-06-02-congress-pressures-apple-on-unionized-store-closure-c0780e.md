@@ -1,15 +1,17 @@
 ---
 title: "Congress Pressures Apple on Unionized Store Closure"
 date: 2026-06-02T10:54:30.590Z
+modified_date: 2026-09-09T22:11:46.779Z
 tags: ["Apple","Unionization","Labor Disputes"]
 hero_image: "/hero/2026-06-02-congress-pressures-apple-on-unionized-store-closure-c0780e.jpg"
 hero_image_credit_name: "Mahoney Fotos"
 hero_image_credit_url: "https://www.pexels.com/@mahoneyfotos"
 visual_keyword: "Apple Store"
 description: "Dozens of lawmakers urge Apple to reconsider closing its first Unionized US store in Maryland, citing potential retaliation against workers."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Congressional Pushback
@@ -66,3 +68,6 @@ The outcome of this dispute could also affect Apple's relationships with its emp
 
 The technical mechanics of Apple's labor practices will also be closely watched. What actually happens under the hood of Apple's labor practices will be crucial in determining the outcome of this dispute.
 
+## Updates
+
+- **2026-09-09** — Download the new iPhone 18 Pro wallpapers here ([source](https://9to5mac.com/2026/09/09/download-the-new-iphone-18-pro-wallpapers-here/))
