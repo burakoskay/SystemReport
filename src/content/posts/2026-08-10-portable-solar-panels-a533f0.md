@@ -1,15 +1,17 @@
 ---
 title: "Portable Solar Panels"
 date: 2026-08-10T20:37:27.185Z
+modified_date: 2026-09-09T02:34:19.642Z
 tags: ["Portable Solar Panels","Renewable Energy","Outdoor Gear"]
 hero_image: "/hero/2026-08-10-portable-solar-panels-a533f0.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "Solar Panels"
 description: "Capture solar energy on the go"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Portable Solar
 The best portable solar panels make it easy to harness solar energy anywhere. According to hands-on testing, these panels are a must-have for outdoor enthusiasts.
@@ -40,3 +42,7 @@ The top panels are those that strike a balance between efficiency, size, and cos
 The portable solar panel market is driven by demand for renewable energy and advancements in technology. As the market evolves, we can expect to see more efficient solar cells and innovative products that cater to diverse needs and preferences.
 
 The future of portable solar panels looks promising, with potential applications in a wide range of fields, from outdoor recreation to emergency response and disaster relief. As the technology continues to improve, we can expect to see more affordable and efficient portable solar panels that make it easier for people to harness the power of the sun.
+
+## Updates
+
+- **2026-09-09** — Sony isn’t phasing out discs quite as quickly as we thought ([source](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent))

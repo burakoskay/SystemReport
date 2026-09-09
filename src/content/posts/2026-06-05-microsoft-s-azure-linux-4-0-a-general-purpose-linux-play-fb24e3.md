@@ -1,18 +1,20 @@
 ---
 title: "Microsoft's Azure Linux 4.0: A General-Purpose Linux Play"
 date: 2026-06-05T10:04:22.248Z
+modified_date: 2026-09-09T02:34:26.846Z
 tags: ["Microsoft","Linux","Open-Source Software"]
 hero_image: "/hero/2026-06-05-microsoft-s-azure-linux-4-0-a-general-purpose-linux-play-fb24e3.jpg"
 hero_image_credit_name: "seppe machielsen"
 hero_image_credit_url: "https://www.pexels.com/@semac"
 visual_keyword: "Linux"
 description: "Microsoft releases Azure Linux 4.0, its first general-purpose Linux distribution, signaling a deeper commitment to open-source software."
-sources_count: 5
-author: "priya-raman"
+sources_count: 6
 audio_path: "/audio/2026-06-05-microsoft-s-azure-linux-4-0-a-general-purpose-linux-play-fb24e3.mp3"
 audio_bytes: 612146
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Microsoft's Linux Gambit
@@ -67,3 +69,6 @@ The release of Azure Linux 4.0 is likely to have a significant impact on the mar
 
 The competitive landscape for Linux-based products and services is likely to change significantly in the coming years. As Microsoft and other companies adopt open-source software, the market is likely to become more crowded and competitive. Companies that are able to adapt to this changing landscape and provide innovative solutions are likely to thrive, while those that are slow to adapt may find themselves left behind.
 
+## Updates
+
+- **2026-09-09** — The universal language of space is... Star Trek? Mais oui. ([source](https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/))
