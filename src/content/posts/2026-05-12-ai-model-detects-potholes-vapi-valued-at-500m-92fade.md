@@ -1,19 +1,20 @@
 ---
 title: "AI Model Detects Potholes, Vapi Valued at $500M"
 date: 2026-05-12T14:38:08.303Z
-modified_date: 2026-05-20T15:38:19.505Z
+modified_date: 2026-09-09T08:33:45.259Z
 tags: ["AI","road maintenance","customer support"]
 hero_image: "https://images.pexels.com/photos/3977241/pexels-photo-3977241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
 hero_image_credit_name: "Viktor Mogilat"
 hero_image_credit_url: "https://www.pexels.com/@mogilat"
 visual_keyword: "pothole"
 description: "Samsara develops AI to detect potholes, while Vapi reaches $500M valuation."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-12-ai-model-detects-potholes-vapi-valued-at-500m-92fade.mp3"
 audio_bytes: 597517
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,4 +62,5 @@ In the near future, we can expect to see more companies adopting AI-powered road
 
 ## Updates
 
+- **2026-09-09** — Sony Coupons: 45% Off Sony Headphones and Sony Cameras September 2026 ([source](https://www.wired.com/story/sony-promo-code/))
 - **2026-05-20** — AI companies and data brokers even resort to fake forms to keep selling our data ([source](https://9to5mac.com/2026/05/20/ai-companies-and-data-brokers-even-resort-to-fake-forms-to-keep-selling-our-data/))
