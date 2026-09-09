@@ -1,19 +1,20 @@
 ---
 title: "Blue Origin, Chinese test fires expose rocket safety gaps"
 date: 2026-06-05T16:38:46.150Z
-modified_date: 2026-08-10T16:49:23.154Z
+modified_date: 2026-09-09T14:07:11.228Z
 tags: ["rocketry","space","commercial-launch","safety"]
 hero_image: "/hero/2026-06-05-blue-origin-chinese-test-fires-expose-rocket-safety-gaps-9e313e.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "rocket explosion plume over launch pad with shattered windows"
 description: "Explosions at Blue Origin and Space Pioneer highlight how static‑fire failures can ripple through launch schedules and funding, forcing the industry to rethink safety protocols."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-05-blue-origin-chinese-test-fires-expose-rocket-safety-gaps-9e313e.mp3"
 audio_bytes: 591875
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A blast that still echoes
@@ -44,4 +45,5 @@ Finally, the broader commercial launch market will feel the aftershocks. Compani
 
 ## Updates
 
+- **2026-09-09** — A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions ([source](https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/))
 - **2026-08-10** — Apple will stream Friday Night Baseball live in Vision Pro ([source](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro))

@@ -1,16 +1,17 @@
 ---
 title: "Human Archive's Gig Work for AI Training Data Sparks Debate"
 date: 2026-05-26T18:44:51.781Z
-modified_date: 2026-09-01T03:03:24.239Z
+modified_date: 2026-09-09T14:06:43.023Z
 tags: ["ai-training-data","robotics","gig-economy","ethics","ai-economics"]
 hero_image: "https://images.pexels.com/photos/31321047/pexels-photo-31321047.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
 hero_image_credit_name: "EqualStock IN"
 hero_image_credit_url: "https://www.pexels.com/@equalstock"
 visual_keyword: "indian gig worker wearing camera headset for ai data collection"
 description: "A startup leverages India's gig economy to collect robotics training data as AI economics shift"
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ Regulatory scrutiny appears inevitable as the scale of physical data collection 
 
 ## Updates
 
+- **2026-09-09** — The first and latest Star Wars films are coming to IMAX 70mm in 2027 ([source](https://www.engadget.com/2253591/the-first-and-latest-star-wars-films-are-coming-to-imax-70mm-in-2027/))
 - **2026-09-01** — The safest job from AI may be writing ([source](http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html))
 - **2026-08-18** — How I turned my fish tank high tech ([source](https://www.theverge.com/tech/978229/fish-tank-tech))

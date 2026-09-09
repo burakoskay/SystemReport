@@ -1,16 +1,17 @@
 ---
 title: "iOS 26.4: Navigating Innovation, Control, and Legal Intrigue"
 date: 2026-04-16T05:28:54.116Z
-modified_date: 2026-08-22T16:16:28.877Z
+modified_date: 2026-09-09T14:06:50.034Z
 tags: ["ios26","apple","widgets","softwareupdates","techlaw"]
 hero_image: "/hero/2026-04-16-ios-26-4-navigating-innovation-control-and-legal-intrigue-dcc862.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "futuristic iOS interface and legal document"
 description: "iOS 26.4 brings new widgets and App Store changes, but Apple's strict control is evident with no downgrades and an ongoing leak lawsuit. Explore the latest."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ In essence, iOS 26.4 and its subsequent developments paint a comprehensive pictu
 
 ## Updates
 
+- **2026-09-09** — Apple event 2026 live: Will we see the foldable iPhone Ultra or Duo at today's 'Surprise and shine' keynote? ([source](https://www.engadget.com/2253512/apple-iphone-ultra-event-live-blog-updates-iphone-18-pro-apple-watch/))
 - **2026-08-22** — Apple @ Work: Most IT leaders want AI to help manage their Macs, but few are ready for it ([source](https://9to5mac.com/2026/08/22/apple-work-most-it-leaders-want-ai-to-manage-their-macs-but-few-are-ready-for-it/))
 - **2026-08-05** — Ted Lasso returns at an important time for Apple TV ([source](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv))
 - **2026-05-12** — Dessn raises $6M for its production focused design tool ([source](https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/))

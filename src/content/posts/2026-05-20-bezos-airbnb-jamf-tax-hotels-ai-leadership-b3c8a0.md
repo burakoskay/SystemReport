@@ -1,16 +1,17 @@
 ---
 title: "Bezos, Airbnb, Jamf: Tax, Hotels, AI Leadership"
 date: 2026-05-20T18:29:07.065Z
-modified_date: 2026-08-28T03:59:52.844Z
+modified_date: 2026-09-09T14:07:18.232Z
 tags: ["taxes","airbnb","jamf","ai","leadership"]
 hero_image: "/hero/2026-05-20-bezos-airbnb-jamf-tax-hotels-ai-leadership-b3c8a0.jpg"
 hero_image_credit_name: "Harun  UZ"
 hero_image_credit_url: "https://www.pexels.com/@harunuzphotography"
 visual_keyword: "modern cityscape with hotel and AI symbols"
 description: "Bezos critiques middle‑class taxes, Airbnb adds hotels and grocery delivery, and Jamf appoints its first female CEO to steer an AI push."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Jamf's AI focus puts it in direct competition with larger device‑management ve
 
 ## Updates
 
+- **2026-09-09** — Apple reportedly offering trade-in incentive to encourage iPhone upgrades ([source](https://9to5mac.com/2026/09/09/apple-reportedly-offering-trade-in-incentive-to-encourage-iphone-upgrades/))
 - **2026-08-28** — ‘Dark Matter’ season 2 premieres on Apple TV ([source](https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/))
 - **2026-08-26** — Apple Wallet driver’s license support just launched in a new state ([source](https://9to5mac.com/2026/08/26/apple-wallet-drivers-license-support-launches-in-virginia/))
 - **2026-08-23** — Samsung reportedly bringing this major redesign back from the dead with Galaxy S27 [Gallery] ([source](https://9to5google.com/2026/08/23/samsung-galaxy-s27-redesign-leaks/))

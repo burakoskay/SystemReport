@@ -1,19 +1,20 @@
 ---
 title: "Meta Introduces Glimmer AI Model"
 date: 2026-08-10T16:51:10.044Z
-modified_date: 2026-08-28T15:57:49.402Z
+modified_date: 2026-09-09T14:06:07.169Z
 tags: ["AI","Glimmer AI","Meta"]
 hero_image: "/hero/2026-08-10-meta-introduces-glimmer-ai-model-d0c844.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Glimmer AI"
 description: "Meta's Glimmer AI model"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-10-meta-introduces-glimmer-ai-model-d0c844.mp3"
 audio_bytes: 547571
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Glimmer AI
@@ -36,4 +37,5 @@ The launch of the Glimmer model is likely to have significant downstream implica
 
 ## Updates
 
+- **2026-09-09** — Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms ([source](https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/))
 - **2026-08-28** — XGIMI Vibe One Battery-Powered Projector Review (2026) ([source](https://www.wired.com/review/xgimi-vibe-one-battery-powered-projector/))
