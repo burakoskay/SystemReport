@@ -1,19 +1,20 @@
 ---
 title: "Samsung's Galaxy S27 Ultra Camera Overhaul and Other Rumors"
 date: 2026-05-01T09:52:32.145Z
-modified_date: 2026-09-09T19:01:30.445Z
+modified_date: 2026-09-10T20:20:26.785Z
 tags: ["samsung","galaxy s27 ultra","galaxy book","galaxy a27"]
 hero_image: "/hero/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.jpg"
 hero_image_credit_name: "Themba Mtegha"
 hero_image_credit_url: "https://www.pexels.com/@thembaforfun"
 visual_keyword: "Samsung Galaxy S27 Ultra camera"
 description: "Samsung's upcoming Galaxy S27 Ultra may feature a camera overhaul, ditching its 3x telephoto lens. Other rumors include new Galaxy Book laptops running Android and details on the Galaxy A27 and Z Flip 8."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.mp3"
 audio_bytes: 671705
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The next few months will be crucial for Samsung as it unveils its new products a
 
 ## Updates
 
+- **2026-09-10** — Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats ([source](https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/))
 - **2026-09-09** — Two Galaxy S27 models will get Samsung’s Privacy Display, not just the Ultra ([source](https://9to5google.com/2026/09/09/galxy-s27-pro-might-get-privacy-display/))
 - **2026-08-24** — De-Googled GrapheneOS is coming to Motorola’s foldables next year ([source](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11))
 - **2026-08-19** — China reportedly allows ByteDance and Tencent to import 10,000 H200 chips ([source](https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/))

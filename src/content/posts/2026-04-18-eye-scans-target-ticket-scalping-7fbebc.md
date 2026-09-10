@@ -1,16 +1,17 @@
 ---
 title: "Eye Scans Target Ticket Scalping"
 date: 2026-04-18T01:45:12.680Z
-modified_date: 2026-08-29T08:31:33.390Z
+modified_date: 2026-09-10T20:20:47.229Z
 tags: ["Ticket Scalping","Eye Scanning","Verification"]
 hero_image: "/hero/2026-04-18-eye-scans-target-ticket-scalping-7fbebc.jpg"
 hero_image_credit_name: "Rostislav Uzunov"
 hero_image_credit_url: "https://www.pexels.com/@rostislav"
 visual_keyword: "Orb"
 description: "Tools for Humanity uses orbs for human verification"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ The use of eye-scanning orbs raises concerns about data collection and privacy. 
 
 ## Updates
 
+- **2026-09-10** — Apple shares fun, 95-second recap of yesterday’s ‘Surprise and Shine’ event ([source](https://9to5mac.com/2026/09/10/apple-shares-fun-95-second-recap-of-yesterdays-surprise-and-shine-event/))
 - **2026-08-29** — Motorola Coupon Code for September 2026 ([source](https://www.wired.com/story/motorola-coupon-code/))
 - **2026-05-22** — NASA undertakes major reorganization to reduce bureaucracy and move faster ([source](https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/))
 - **2026-05-04** — Hands-on: This charging station has quietly become a desk essential [Video] ([source](https://9to5mac.com/2026/05/04/hands-on-this-charging-station-has-quietly-become-a-desk-essential-video/))

@@ -1,18 +1,20 @@
 ---
 title: "Antigravity 2.0 Beats Benchmarks as AI Tools Evolve"
 date: 2026-05-22T16:39:31.753Z
+modified_date: 2026-09-10T20:20:21.715Z
 tags: ["ai","llm","open-source","software"]
 hero_image: "/hero/2026-05-22-antigravity-2-0-beats-benchmarks-as-ai-tools-evolve-00ffe9.jpg"
 hero_image_credit_name: "Nimit Kansagra"
 hero_image_credit_url: "https://www.pexels.com/@nimlo"
 visual_keyword: "developer using terminal UI HTTP client while reviewing 3D OpenSCAD code"
 description: "Antigravity 2.0 tops an OpenSCAD LLM test, Wozniak backs AI intelligence, Slumber adds a TUI HTTP client, and Cleve Moler passes away."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-05-22-antigravity-2-0-beats-benchmarks-as-ai-tools-evolve-00ffe9.mp3"
 audio_bytes: 644538
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Antigravity 2.0 Sets New Benchmark
 
@@ -53,3 +55,7 @@ The next benchmark release from modelrift.com is scheduled for Q4 2026 and will 
 ---
 
 *Tags: ai, llm, open‑source, software*
+
+## Updates
+
+- **2026-09-10** — Physicist does the math on Star Trek’s “Picard maneuver” ([source](https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/))

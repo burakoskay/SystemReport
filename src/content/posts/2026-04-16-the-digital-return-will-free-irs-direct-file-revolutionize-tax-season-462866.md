@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-09-01T14:28:00.640Z
+modified_date: 2026-09-10T20:20:11.460Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-09-10** — Anthropic reveals rogue AI agents hate CAPTCHAs, just like you ([source](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/))
 - **2026-09-01** — Inside the Perimenopause Industrial Complex ([source](https://www.wired.com/story/inside-the-perimenopause-industrial-complex/))
 - **2026-08-05** — Ring upgraded its peephole doorbell camera to 2K ([source](https://www.theverge.com/tech/975538/amazon-ring-peephole-cam-2k-smart-doorbell-preorder-easy-install))
 - **2026-05-21** — Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia ([source](https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/))

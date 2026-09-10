@@ -1,18 +1,20 @@
 ---
 title: "Peacock Partners with YouTube for Content Integration"
 date: 2026-07-28T11:55:16.268Z
+modified_date: 2026-09-10T20:20:06.476Z
 tags: ["media","streaming","partnerships"]
 hero_image: "/hero/2026-07-28-peacock-partners-with-youtube-for-content-integration-dce9be.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "YouTube"
 description: "Peacock integrates content into YouTube"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-28-peacock-partners-with-youtube-for-content-integration-dce9be.mp3"
 audio_bytes: 589576
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Deal
 Peacock has announced a deal with YouTube to integrate its content into the YouTube experience. This allows viewers to discover and watch Peacock content without leaving YouTube.
@@ -40,3 +42,7 @@ In the past, content distribution was often limited to traditional broadcast cha
 The partnership between Peacock and YouTube has significant implications for the media industry. It demonstrates the potential for content providers to reach new audiences through strategic partnerships, rather than relying solely on acquisitions or vertical integration. As the media landscape continues to evolve, we can expect to see more partnerships and collaborations that prioritize accessibility and convenience for viewers.
 The deal also raises questions about the future of content distribution and the role of platforms like YouTube in shaping the media landscape. As Peacock and other content providers continue to explore new distribution strategies, it will be interesting to see how these developments impact the industry as a whole.
 For example, the success of this partnership could lead to more content providers seeking similar deals with YouTube and other platforms, potentially changing the way content is distributed and consumed.
+
+## Updates
+
+- **2026-09-10** — Amazon makes it easier to buy what you see on Prime Video ([source](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/))

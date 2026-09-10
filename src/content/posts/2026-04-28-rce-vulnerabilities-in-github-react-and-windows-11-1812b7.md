@@ -1,15 +1,17 @@
 ---
 title: "RCE Vulnerabilities in GitHub, React, and Windows 11"
 date: 2026-04-28T20:25:22.170Z
+modified_date: 2026-09-10T20:20:31.906Z
 tags: ["rce","security","github","react","windows"]
 hero_image: "/hero/2026-04-28-rce-vulnerabilities-in-github-react-and-windows-11-1812b7.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "A split-screen interface showing code execution in a terminal alongside a vulnerability alert"
 description: "Critical remote code execution flaws exposed across GitHub, React/Next.js, and Windows 11. Immediate upgrades required for affected tools."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 ## Multiple Critical RCE Vulnerabilities Exposed in Developer Tools
 
@@ -46,3 +48,7 @@ Windows' case raises questions about severity classification. While the exploit 
 3. MSRC's final CVE assignment status for the Windows 11 issue by April 15, 2026
 4. Wiz.io's telemetry on enterprise exploitation attempts for unpatched Next.js 14.x canary builds
 5. Vim's patch coverage across Linux distributions, particularly RHEL 8 and Ubuntu 22.04 LTS
+
+## Updates
+
+- **2026-09-10** — IDScan is offering free credit monitoring and ID protection after leaking driver's licenses ([source](https://www.engadget.com/2255209/idscan-is-offering-free-credit-monitoring-and-id-protection-after-leaking-drivers-licenses/))
