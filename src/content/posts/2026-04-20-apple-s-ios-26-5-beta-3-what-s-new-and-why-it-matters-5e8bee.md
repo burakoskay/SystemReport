@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Beta 3: What's New and Why It Matters"
 date: 2026-04-20T20:41:02.988Z
-modified_date: 2026-08-31T18:37:48.244Z
+modified_date: 2026-09-10T14:01:35.926Z
 tags: ["apple","ios","ipados","security"]
 hero_image: "/hero/2026-04-20-apple-s-ios-26-5-beta-3-what-s-new-and-why-it-matters-5e8bee.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
-sources_count: 28
+sources_count: 29
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ For now, developers and users alike should keep a close eye on Apple's updates a
 
 ## Updates
 
+- **2026-09-10** — Book Excerpt: Emily St. John Mandel’s ‘Exit Party’ Imagines a Future Where a Spy Could Disappear ([source](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/))
 - **2026-08-31** — ChatGPT and Reddit now face EU's toughest online safety rules ([source](https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/))
 - **2026-08-12** — Booksellers suspect AI firms are buying and then destroying rare books ([source](https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/))
 - **2026-08-03** — Apple Photos in iOS 27 gets camera roll feature it’s long needed ([source](https://9to5mac.com/2026/08/03/apple-photos-in-ios-27-gets-camera-roll-feature-its-long-needed/))

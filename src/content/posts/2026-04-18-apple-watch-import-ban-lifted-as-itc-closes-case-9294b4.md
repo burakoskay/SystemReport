@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-09-09T22:11:21.148Z
+modified_date: 2026-09-10T14:02:29.950Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-09-10** — I think I hate the internet ([source](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/))
 - **2026-09-09** — Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System ([source](https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/))
 - **2026-09-09** — Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day ([source](https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/))
 - **2026-09-08** — Apple faces new UK rules over nude images on children’s iPhones ([source](https://9to5mac.com/2026/09/08/apple-faces-new-uk-rules-over-nude-images-on-childrens-iphones/))

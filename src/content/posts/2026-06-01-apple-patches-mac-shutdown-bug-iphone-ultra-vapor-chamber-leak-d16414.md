@@ -1,18 +1,20 @@
 ---
 title: "Apple patches Mac shutdown bug, iPhone Ultra vapor chamber leak"
 date: 2026-06-01T18:01:13.168Z
+modified_date: 2026-09-10T14:02:16.381Z
 tags: ["apple","macos","iphone","macbook","watchos"]
 hero_image: "/hero/2026-06-01-apple-patches-mac-shutdown-bug-iphone-ultra-vapor-chamber-leak-d16414.jpg"
 hero_image_credit_name: "Tomasz Kulesa"
 hero_image_credit_url: "https://www.pexels.com/@tomasz-kulesa-55663"
 visual_keyword: "Apple laptop and iPhone with vapor chamber detail"
 description: "Apple releases macOS 26.5.1 to stop M5 Mac shutdowns, while a leak reveals an iPhone Ultra vapor chamber and holiday deals hit M5 laptops and AirPods."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-01-apple-patches-mac-shutdown-bug-iphone-ultra-vapor-chamber-leak-d16414.mp3"
 audio_bytes: 613191
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple shipped macOS 26.5.1 to stop M5‑based Macs from powering off unexpectedly, and a Weibo leaker just confirmed a vapor‑chamber cooling system inside the upcoming iPhone Ultra. The twin announcements tighten the squeeze on enterprise IT teams and power users who have been waiting for reliable silicon and cooler phones.
 
@@ -45,3 +47,7 @@ If Apple follows its pattern, watchOS 27 will ship alongside iOS 18 and macO
 ## What to watch
 
 Watch for Apple’s official WWDC announcements on watchOS 27 and the iPhone Ultra’s final specs. The next macOS security bulletin will confirm whether the M5 shutdown fix holds up under heavy enterprise workloads. Finally, track inventory levels for the discounted M5 laptops; a rapid sell‑through could force Apple to adjust its supply chain ahead of the 2024 refresh.
+
+## Updates
+
+- **2026-09-10** — The Duo is drool-worthy, but the iPhone 18 Pro camera features win for me ([source](https://9to5mac.com/2026/09/10/the-duo-is-drool-worthy-but-the-iphone-18-pro-camera-features-win-for-me/))

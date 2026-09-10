@@ -1,19 +1,20 @@
 ---
 title: "ReMarkable Paper Pure"
 date: 2026-05-06T14:26:28.023Z
-modified_date: 2026-08-05T13:53:32.092Z
+modified_date: 2026-09-10T14:00:55.280Z
 tags: ["ReMarkable Paper Pure","E-reader","Writing Device","Corporate Buyers"]
 hero_image: "/hero/2026-05-06-remarkable-paper-pure-eb2cea.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "ReMarkable Paper Pure"
 description: "ReMarkable's new entry-level slate prioritizes corporate buyers, but at what cost?"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-06-remarkable-paper-pure-eb2cea.mp3"
 audio_bytes: 576828
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The device's downstream implications also extend to the broader market. If the R
 
 ## Updates
 
+- **2026-09-10** — Why the current tech backlash feels different ([source](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers))
 - **2026-08-05** — TikTok is telling people to put their phones into the fridge, and repair shops are happy ([source](https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/))
 - **2026-06-05** — MAHA wants to make cotton the new beef tallow ([source](https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics))
 - **2026-05-28** — These are my favorite Switch 2 accessories ([source](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories))

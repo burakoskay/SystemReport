@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-09-08T19:14:01.825Z
+modified_date: 2026-09-10T14:01:29.157Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 16
+sources_count: 17
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-09-10** — Everything New You Can Do With Siri AI ([source](https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/))
 - **2026-09-08** — What are the actual differences between cheap and expensive smart TVs? ([source](https://www.engadget.com/2250637/cheap-vs-expensive-smart-tv-difference-between-explained/))
 - **2026-09-08** — What is considered good speed for home internet and how can you test it? ([source](https://www.engadget.com/2250412/what-is-good-speed-home-internet-how-to-test/))
 - **2026-08-19** — Pixel 11 Initial Review: This probably could have been a software update [Video] ([source](https://9to5google.com/2026/08/19/pixel-11-initial-review/))
