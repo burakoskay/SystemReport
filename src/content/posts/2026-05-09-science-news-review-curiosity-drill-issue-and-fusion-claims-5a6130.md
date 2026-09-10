@@ -1,16 +1,17 @@
 ---
 title: "Science News Review: Curiosity Drill Issue and Fusion Claims"
 date: 2026-05-09T17:04:40.640Z
-modified_date: 2026-05-17T19:15:33.749Z
+modified_date: 2026-09-10T23:38:16.469Z
 tags: ["NASA","Curiosity rover","fusion energy","LLNL"]
 hero_image: "/hero/2026-05-09-science-news-review-curiosity-drill-issue-and-fusion-claims-5a6130.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Curiosity rover"
 description: "NASA's Curiosity rover faces a drill jam, while LLNL's fusion claim sparks debate on science reporting."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -76,4 +77,5 @@ The adoption curves for fusion energy will depend on the development of the tech
 
 ## Updates
 
+- **2026-09-10** — Don't buy the 'regular' AirPods 5 ([source](https://www.engadget.com/2255399/dont-buy-the-regular-airpods-5/))
 - **2026-05-17** — Revamped Siri will reportedly offer auto-deleting chats ([source](https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats))
