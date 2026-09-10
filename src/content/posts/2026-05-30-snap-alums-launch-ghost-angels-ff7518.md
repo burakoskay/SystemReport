@@ -1,15 +1,17 @@
 ---
 title: "Snap Alums Launch Ghost Angels"
 date: 2026-05-30T17:14:51.896Z
+modified_date: 2026-09-10T08:35:49.362Z
 tags: ["Snap Alumni","Ghost Angels","Social Media"]
 hero_image: "/hero/2026-05-30-snap-alums-launch-ghost-angels-ff7518.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Social Media"
 description: "Snap alumni launch Ghost Angels fund"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Ghost Angels
 A group of 20 Snap alumni launched a fund called Ghost Angels to back the next generation of social media companies. The Ghost Angels fund was established by Snap alumni who have a deep understanding of the social media landscape. The fund will support startups working on social media projects, providing them with the necessary resources to grow and compete in the market.
@@ -34,3 +36,7 @@ The Ghost Angels fund will invest in social media companies, focusing on those t
 
 ## Downstream Implications
 The Ghost Angels fund is expected to have a significant impact on the social media landscape. The fund's investment activities will be closely watched by the industry, as it is expected to identify and support promising startups. As the social media industry continues to evolve, the Ghost Angels fund is well-positioned to play a key role in shaping its future. The fund's founders are expected to leverage their experience and network to provide startups with the necessary resources to grow and compete in the market.
+
+## Updates
+
+- **2026-09-10** — Show HN: What if the speed of light was 5 km/h? ([source](https://rivendell.dmitrybrant.com/relativity/))

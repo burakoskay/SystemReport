@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Insights: Success Factors and Classification"
 date: 2026-05-27T04:20:41.628Z
-modified_date: 2026-08-18T22:17:48.866Z
+modified_date: 2026-09-10T08:35:42.603Z
 tags: ["Hacker News","Content Creation","Machine Learning"]
 hero_image: "/hero/2026-05-27-hacker-news-insights-success-factors-and-classification-538e81.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "Hacker News"
 description: "Analyzing factors that contribute to a Hacker News article's success and exploring classification methods."
-sources_count: 10
+sources_count: 11
 author: "priya-raman"
 ---
+
 
 
 ## Understanding Hacker News Success
@@ -83,4 +84,5 @@ In conclusion, understanding what makes an article successful on Hacker News is 
 
 ## Updates
 
+- **2026-09-10** — 9to5Mac Daily: September 9, 2026 – iPhone 18 Pro and iPhone Duo are here ([source](https://9to5mac.com/2026/09/09/september-9-2026-iphone-18-pro-and-iphone-duo-are-here/))
 - **2026-08-18** — Find My, iCloud, and several other Apple services are currently down for some users [U] ([source](https://9to5mac.com/2026/08/18/find-my-icloud-and-several-other-apple-services-are-currently-down-for-some-users/))

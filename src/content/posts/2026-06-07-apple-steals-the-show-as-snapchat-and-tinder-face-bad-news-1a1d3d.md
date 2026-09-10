@@ -1,18 +1,20 @@
 ---
 title: "Apple Steals the Show as Snapchat and Tinder Face Bad News"
 date: 2026-06-07T11:54:31.702Z
+modified_date: 2026-09-10T08:35:29.046Z
 tags: ["Apple","Snapchat","Tinder"]
 hero_image: "/hero/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.jpg"
 hero_image_credit_name: "Mahmoud Ramadan"
 hero_image_credit_url: "https://www.pexels.com/@mahmoudramadan"
 visual_keyword: "Apple WWDC"
 description: "Apple's WWDC event overshadows negative news from Snapchat and Tinder, while the company announces new products and features."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.mp3"
 audio_bytes: 529390
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The Distraction
 
@@ -45,3 +47,7 @@ As Apple continues to innovate and release new products, it's likely that the co
 ## What to Watch
 
 In the coming months, it will be interesting to see how Snapchat and Tinder recover from their recent negative press. Will they be able to regain the attention of their users and investors, or will the negative publicity have a lasting impact on their businesses? Additionally, Apple's continued innovation and dominance in the tech industry will likely have implications for the broader market, and it will be important to watch how the company's competitors respond to its latest moves.
+
+## Updates
+
+- **2026-09-10** — Trump Offers Every American $5,000 If Republicans Win The Midterms ([source](https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/))
