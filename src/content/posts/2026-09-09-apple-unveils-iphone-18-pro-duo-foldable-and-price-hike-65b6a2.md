@@ -1,18 +1,20 @@
 ---
 title: "Apple unveils iPhone 18 Pro, Duo foldable, and price hike"
 date: 2026-09-09T14:08:33.444Z
+modified_date: 2026-09-10T02:36:07.188Z
 tags: ["apple","iphone","foldable","technews"]
 hero_image: "/hero/2026-09-09-apple-unveils-iphone-18-pro-duo-foldable-and-price-hike-65b6a2.jpg"
 hero_image_credit_name: "Phong Thanh"
 hero_image_credit_url: "https://www.pexels.com/@phong-thanh-3607237"
 visual_keyword: "Apple event stage with iPhone Duo prototype and sleek smartphones"
 description: "Apple's September event introduced the iPhone 18 Pro at $1199, the first foldable iPhone Duo, and hinted at a new camera feature, while the Apple Store went offline."
-sources_count: 9
-author: "david-okafor"
+sources_count: 10
 audio_path: "/audio/2026-09-09-apple-unveils-iphone-18-pro-duo-foldable-and-price-hike-65b6a2.mp3"
 audio_bytes: 627610
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple’s September event kicks off with a broken storefront
 Apple opened its September showcase at 10 AM Pacific Time, and the Apple Store went dark minutes before the keynote. The outage follows a long‑standing pattern: the storefront disappears just before major announcements. The silence signals that Apple is about to roll out a set of high‑profile products.
@@ -32,3 +34,7 @@ Analysts infer that the movement could indicate a periscope‑style telephoto mo
 
 ## What to watch
 The next week will reveal the iPhone Duo’s pricing and availability, data points that will test market appetite for a foldable iPhone. Watch for the official pre‑order start time and the configuration list for the iPhone 18 Pro, especially any mention of sensor size or lens count. The Apple Watch Series 12 will also be examined for health‑sensor upgrades, while the AirPods 5 launch will indicate whether Apple is pushing a new wireless audio standard. All of these moves will shape the competitive dynamics ahead of the holiday season.
+
+## Updates
+
+- **2026-09-10** — Hands-on with the foldable iPhone Duo [Gallery] ([source](https://9to5mac.com/2026/09/09/hands-on-with-the-foldable-iphone-duo-gallery/))

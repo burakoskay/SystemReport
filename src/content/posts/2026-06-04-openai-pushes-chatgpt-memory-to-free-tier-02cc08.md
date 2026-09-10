@@ -1,18 +1,20 @@
 ---
 title: "OpenAI Pushes ChatGPT Memory to Free Tier"
 date: 2026-06-04T18:29:47.800Z
+modified_date: 2026-09-10T02:35:32.878Z
 tags: ["ai","hardware","cloud","education","privacy"]
 hero_image: "/hero/2026-06-04-openai-pushes-chatgpt-memory-to-free-tier-02cc08.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "tech newsroom with screens showing AI code and foldable phone"
 description: "OpenAI opens ChatGPT memory to free users, Samsung re‑introduces Snapdragon, Cloudflare buys VoidZero, and a pricey Manhattan homeschool sparks debate."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-06-04-openai-pushes-chatgpt-memory-to-free-tier-02cc08.mp3"
 audio_bytes: 540675
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## OpenAI pushes ChatGPT memory to free users
 
@@ -57,3 +59,7 @@ The high price tag places the campus out of reach for most families, reinforcing
 ## What to watch
 
 Track OpenAI’s rollout timeline for ChatGPT memory on the free tier and any accompanying privacy policy updates. Monitor Samsung’s official announcement of the Galaxy Z Flip 8 chip options and pricing differentials across regions. Watch Cloudflare’s integration roadmap for VoidZero’s edge AI tools and any new performance benchmarks. Keep an eye on Google’s internal communications for signs of product pivots in response to employee dissatisfaction. Finally, follow any regulatory inquiries into Alpha School’s Manhattan campus as the model gains attention.
+
+## Updates
+
+- **2026-09-10** — The incomplete history of Duo devices ([source](https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices))
