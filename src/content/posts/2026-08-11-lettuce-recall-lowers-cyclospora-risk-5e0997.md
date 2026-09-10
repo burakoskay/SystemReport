@@ -1,19 +1,20 @@
 ---
 title: "Lettuce Recall Lowers Cyclospora Risk"
 date: 2026-08-11T20:39:44.794Z
-modified_date: 2026-08-14T16:50:13.425Z
+modified_date: 2026-09-10T17:38:12.268Z
 tags: ["food safety","cyclospora","lettuce recall"]
 hero_image: "/hero/2026-08-11-lettuce-recall-lowers-cyclospora-risk-5e0997.jpg"
 hero_image_credit_name: "Victoria Bowers"
 hero_image_credit_url: "https://www.pexels.com/@victoria-bowers-148548814"
 visual_keyword: "lettuce"
 description: "Cyclospora risk reduced after product recall"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-11-lettuce-recall-lowers-cyclospora-risk-5e0997.mp3"
 audio_bytes: 600234
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Lettuce Safety Update
@@ -37,4 +38,5 @@ The situation will likely continue to unfold, with food safety authorities monit
 
 ## Updates
 
+- **2026-09-10** — Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game ([source](https://www.theverge.com/games/992937/wolverine-review-ps5))
 - **2026-08-14** — When Genius Fails: The Intellectual Arrogance of the AI Labs ([source](https://weightythoughts.com/p/when-genius-failsthe-intellectual))

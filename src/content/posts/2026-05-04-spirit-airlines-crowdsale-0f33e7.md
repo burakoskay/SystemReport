@@ -1,16 +1,17 @@
 ---
 title: "Spirit Airlines Crowdsale"
 date: 2026-05-04T03:39:31.294Z
-modified_date: 2026-05-07T17:52:19.981Z
+modified_date: 2026-09-10T17:38:44.969Z
 tags: ["Spirit Airlines","Crowdsale","Aviation Industry"]
 hero_image: "/hero/2026-05-04-spirit-airlines-crowdsale-0f33e7.jpg"
 hero_image_credit_name: "K"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Airplane"
 description: "TikToker rallies $23M to buy Spirit Airlines"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Chaos
@@ -61,4 +62,5 @@ The Spirit Airlines crowdsale has sent shockwaves through the aviation industry,
 
 ## Updates
 
+- **2026-09-10** — The Galaxy Z Fold 8 needs battery banks that actually fit; iPhone Duo might help ([source](https://9to5google.com/2026/09/10/the-galaxy-z-fold-8-needs-battery-banks-that-actually-fit-iphone-duo-might-help/))
 - **2026-05-07** — Did Microsoft just tease a new Xbox UI? ([source](https://www.theverge.com/news/926170/new-xbox-ui-dashboard-console-handheld-cloud))

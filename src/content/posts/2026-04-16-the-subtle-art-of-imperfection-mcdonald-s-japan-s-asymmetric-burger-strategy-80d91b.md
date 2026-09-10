@@ -1,16 +1,17 @@
 ---
 title: "The Subtle Art of Imperfection: McDonald's Japan's Asymmetric"
 date: 2026-04-16T05:31:36.222Z
-modified_date: 2026-09-02T17:51:26.887Z
+modified_date: 2026-09-10T17:38:01.394Z
 tags: ["marketing strategy","food advertising","authenticity","mcdonalds japan","consumer psychology"]
 hero_image: "/hero/2026-04-16-the-subtle-art-of-imperfection-mcdonald-s-japan-s-asymmetric-burger-strategy-80d91b.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"
 description: "McDonald's Japan's subtly askew burger buns in ads reveal a clever strategy: embracing imperfection to build authenticity and consumer trust."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ Ultimately, McDonald's Japan's askew bun isn't just a quirk; it's a testament to
 
 ## Updates
 
+- **2026-09-10** — Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation ([source](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/))
 - **2026-09-02** — M6 MacBook Pro: Three new upgrades launching this fall ([source](https://9to5mac.com/2026/09/02/m6-macbook-pro-three-new-upgrades-launching-this-fall/))
 - **2026-05-15** — OpenAI just released new personal finance features for ChatGPT customers ([source](https://9to5mac.com/2026/05/15/openai-just-released-new-personal-finance-features-for-chatgpt-customers/))
 - **2026-05-08** — Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027 ([source](https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/))

@@ -1,18 +1,20 @@
 ---
 title: "Apple doubles down on iPhone while expanding AI‑enabled wearables"
 date: 2026-09-10T02:37:11.286Z
+modified_date: 2026-09-10T17:38:17.777Z
 tags: ["apple","iphone","wearables","ai","privacy"]
 hero_image: "/hero/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Apple product lineup on stage with foldable iPhone and AirPods 5"
 description: "Apple’s new CEO reasserts the iPhone’s core role as the company hikes legacy prices and rolls out AI‑driven watches, health tools, and a $129 AirPods 5."
-sources_count: 9
-author: "david-okafor"
+sources_count: 10
 audio_path: "/audio/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.mp3"
 audio_bytes: 631999
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Ternus stakes the iPhone’s future
 John Ternus opened his first keynote as Apple’s chief executive by declaring that the iPhone "isn't going anywhere."[^1][^2] The statement came alongside a $100 price increase for the existing iPhone 16, iPhone 17, and iPhone Air models. The hike, reported by TechCrunch, pushes the entry‑level iPhone line into the $900‑plus bracket.
@@ -45,6 +47,9 @@ Privacy regulators in the EU and US have begun probing always‑listening device
 ## What to watch
 Track the adoption rate of the iPhone Duo during the first quarter after launch; a strong uptake would validate Apple’s gamble on foldables. Monitor regulatory filings related to the Watch’s AI transcription, especially any EU GDPR complaints. Finally, watch for the next software update that could expand Apple Intelligence across the Health app and Siri, potentially reshaping how users interact with their devices.
 
+## Updates
+
+- **2026-09-10** — Another big James Talarico interview is punted to YouTube due to FCC threats ([source](https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico))
 
 [^1]: [theguardian.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzrE2Zqa9beiE3liTONfiyIZiEIRsx724_h30NBtqElJ70oW85-LmvXmlFjdh5nEYgsX41acDBg_mYniuKOdycwKRDp7fJjD-pUh_JnpZyqMRzbFlilG6u5-PxJeprfhGvpAzAEYd_xJ0rVxb0FjMxVKiaVDeGyABOAUuH5Zkz4DD0ZG3BAx1Ga5Dxx7Z_3XNC1pY=)
 [^2]: [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEybQtozoh1bXj2WSA-T6zfCTFBSUCJ76Uu-QtNjew6Vt-ehy7s6qivzl5lLMj64yF3caSVM_baHdsfqP8S3seDpEOG9XfG_9UZkgiD2d5RyMmAwgofe9oZvfaNkVuJKeHYtTKIbw==)

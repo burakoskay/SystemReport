@@ -1,15 +1,17 @@
 ---
 title: "California’s artificial turf boom meets health backlash"
 date: 2026-08-19T10:32:28.917Z
+modified_date: 2026-09-10T17:37:50.584Z
 tags: ["artificial turf","california","public health","environment"]
 hero_image: "/hero/2026-08-19-california-s-artificial-turf-boom-meets-health-backlash-c4febd.jpg"
 hero_image_credit_name: "Yury Gargay"
 hero_image_credit_url: "https://www.pexels.com/@yury-gargay-363020498"
 visual_keyword: "sun-baked synthetic grass field with kids playing, heat haze"
 description: "California is installing over 1,100 acres of synthetic turf each year, but rising health concerns are prompting cities to consider bans."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 California is laying down more synthetic grass than any other state, and parents are beginning to question whether the cheap convenience is worth the hidden dangers.
 
@@ -48,3 +50,7 @@ If the health risks prove significant, the fallout could extend to other synthet
 ### What to watch
 
 Stakeholders should monitor the Los Angeles City Council’s vote in October, as it will set a precedent for other jurisdictions. Follow the California Department of Education’s guidance updates, which could tighten material standards. Finally, keep an eye on independent research studies that measure on‑field temperatures and chemical emissions – those data points will determine whether synthetic turf remains a viable alternative or becomes a cautionary footnote in urban planning.
+
+## Updates
+
+- **2026-09-10** — The Boring Company raises $3B in round led by UAE ([source](https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/))
