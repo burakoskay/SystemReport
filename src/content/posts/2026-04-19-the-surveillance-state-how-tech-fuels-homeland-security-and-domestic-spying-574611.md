@@ -1,16 +1,17 @@
 ---
 title: "Inside the Surveillance State: Tech and Domestic Spying"
 date: 2026-04-19T16:32:36.394Z
-modified_date: 2026-08-25T14:40:08.595Z
+modified_date: 2026-09-11T14:02:08.356Z
 tags: ["surveillance","homeland security","tech","privacy"]
 hero_image: "/hero/2026-04-19-the-surveillance-state-how-tech-fuels-homeland-security-and-domestic-spying-574611.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "surveillance state"
 description: "Big tech companies are fueling the rise of Homeland Security and domestic surveillance, raising concerns about privacy and civil liberties."
-sources_count: 17
+sources_count: 18
 author: "lena-volkov"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The next step in this debate is likely to be a renewed focus on reforming survei
 
 ## Updates
 
+- **2026-09-11** — John Ternus and Greg Joswiak reveal why now is the time for iPhone Duo ([source](https://9to5mac.com/2026/09/11/john-ternus-and-greg-joswiak-reveal-why-now-is-the-time-for-iphone-duo/))
 - **2026-08-25** — Sony phones in an update to the midrange Xperia 10 and slaps a sizable price hike on it ([source](https://www.engadget.com/2243639/sony-phones-in-an-update-to-the-midrange-xperia-10/))
 - **2026-08-24** — Raspberry Pi shares its official tutorial for making a cyberdeck ([source](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases))
 - **2026-08-07** — Pixelated 111: Primetime prep for Made By Google ([source](https://9to5google.com/2026/08/07/pixelated-111-primetime-prep-for-made-by-google/))

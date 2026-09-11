@@ -1,19 +1,20 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
-modified_date: 2026-09-08T14:04:30.333Z
+modified_date: 2026-09-11T14:02:01.558Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The success of Bumble's overhaul will depend on its ability to attract and retai
 
 ## Updates
 
+- **2026-09-11** — iOS 27 launches next week: Here are three new features I’ve been loving ([source](https://9to5mac.com/2026/09/11/ios-27-adds-three-new-iphone-features-ive-been-really-loving/))
 - **2026-09-08** — Apple says ‘Fold’ and competitors ask ‘how wide?’ ([source](https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus))
 - **2026-08-24** — iPhone 18 Pro’s new price might be better than expected ([source](https://9to5mac.com/2026/08/24/iphone-18-pros-new-price-might-be-better-than-expected/))
 - **2026-06-03** — New Apple TV thriller sounds like the first must-watch of summer, reviews here ([source](https://9to5mac.com/2026/06/03/new-apple-tv-thriller-sounds-like-the-first-must-watch-of-summer-reviews-here/))

@@ -1,16 +1,17 @@
 ---
 title: "Google I/O 2026 Keynote Livestream"
 date: 2026-05-19T11:31:40.816Z
-modified_date: 2026-08-19T18:44:06.159Z
+modified_date: 2026-09-11T14:01:26.968Z
 tags: ["Google I/O","AI","Developer Conference"]
 hero_image: "/hero/2026-05-19-google-i-o-2026-keynote-livestream-26a531.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google I/O"
 description: "Google's annual developer conference starts today, May 19th. Watch the keynote livestream on YouTube and Google I/O site for updates on Gemini, Search, and more."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ The Google I/O 2026 keynote livestream is an event not to be missed, offering a 
 
 ## Updates
 
+- **2026-09-11** — Why So Many AI Researchers Think the Machines Could Kill Everyone ([source](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/))
 - **2026-08-19** — The wearable future is stuck in weird, experimental, existential limbo ([source](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai))

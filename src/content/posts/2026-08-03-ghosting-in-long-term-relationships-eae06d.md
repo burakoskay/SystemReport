@@ -1,18 +1,20 @@
 ---
 title: "Ghosting in Long-Term Relationships"
 date: 2026-08-03T11:18:42.037Z
+modified_date: 2026-09-11T14:01:33.912Z
 tags: ["Ghosting","Modern Dating","Relationships"]
 hero_image: "/hero/2026-08-03-ghosting-in-long-term-relationships-eae06d.jpg"
 hero_image_credit_name: "Matheus Lara"
 hero_image_credit_url: "https://www.pexels.com/@matheus-lara-1785960246"
 visual_keyword: "Ghosting"
 description: "Ghosting is ubiquitous in modern dating"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-03-ghosting-in-long-term-relationships-eae06d.mp3"
 audio_bytes: 554885
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The Rise of Ghosting
 Ghosting has become ubiquitous. A man who ghosted his partner of four years shared with WIRED, "I no longer had to bear her energy."
@@ -44,3 +46,7 @@ The rise of ghosting has significant implications for our society. It reflects a
 
 ## Moving Forward
 As we consider the implications of ghosting, it's essential to think about how we can move forward. This includes promoting a culture of empathy and respect, as well as encouraging open and honest communication. By doing so, we can work towards creating a society that values meaningful relationships and respects the emotional well-being of all individuals.
+
+## Updates
+
+- **2026-09-11** — Could United Launch Alliance's money problems finally force its owners to sell? ([source](https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/))

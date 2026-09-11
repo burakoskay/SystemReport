@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-09-08T22:17:03.279Z
+modified_date: 2026-09-11T14:01:54.697Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-09-11** — 9to5Mac Daily: September 11, 2026 – More on Apple Intelligence, iPhone Duo ([source](https://9to5mac.com/2026/09/11/daily-september-11-2026/))
 - **2026-09-08** — Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026 ([source](https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/))
 - **2026-08-29** — 9to5Mac Daily: August 28, 2026 – Foldable iPhone expectations, more ([source](https://9to5mac.com/2026/08/28/9to5mac-daily-august-28-2026-foldable-iphone-expectations-more/))
 - **2026-08-26** — 9to5Mac Daily: August 25, 2026 – New Mac mini and Mac Studio unveiled ([source](https://9to5mac.com/2026/08/25/daily-august-25-2026/))

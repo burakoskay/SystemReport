@@ -1,19 +1,20 @@
 ---
 title: "Iran Shock Sped Asia-Europe Energy Shift"
 date: 2026-06-05T10:08:57.642Z
-modified_date: 2026-08-08T16:26:20.108Z
+modified_date: 2026-09-11T14:01:47.785Z
 tags: ["energy","ai","policy","environment"]
 hero_image: "/hero/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "oil refinery juxtaposed with wind turbines"
 description: "Iran's latest conflict has forced Asian and European leaders to rush renewable policies while U.S. energy education and AI tools reshape the sustainability narrative."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.mp3"
 audio_bytes: 590203
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Iran's Conflict Triggers Policy Acceleration in Asia and Europe
@@ -42,4 +43,5 @@ What to watch: the European Commission’s upcoming “Renewables Acceleration P
 
 ## Updates
 
+- **2026-09-11** — Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places ([source](https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review/))
 - **2026-08-08** — Google’s Pixel Watch 5 takes notes from the Fitbit Air in latest leak ([source](https://9to5google.com/2026/08/08/googles-pixel-watch-5-takes-notes-from-the-fitbit-air-in-latest-leak/))
