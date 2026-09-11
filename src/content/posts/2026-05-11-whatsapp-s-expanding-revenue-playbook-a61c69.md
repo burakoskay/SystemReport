@@ -1,15 +1,17 @@
 ---
 title: "WhatsApp's Expanding Revenue Playbook"
 date: 2026-05-11T11:39:53.370Z
+modified_date: 2026-09-11T17:41:38.130Z
 tags: ["whatsapp","privacy","facebook","messaging","ads"]
 hero_image: "/hero/2026-05-11-whatsapp-s-expanding-revenue-playbook-a61c69.jpg"
 hero_image_credit_name: "Torsten Dettlaff"
 hero_image_credit_url: "https://www.pexels.com/@tdcat"
 visual_keyword: "smartphone displaying whatsapp interface with blurred text"
 description: "WhatsApp introduces paid subscriptions, intensifies data sharing, and tests ad strategies while grappling with user backlash."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 ## WhatsApp's Revenue Playbook Gains Momentum
 
@@ -38,3 +40,7 @@ This pattern of micro-updates mirrors Meta's broader strategy to normalize incre
 ## What's Next
 
 Key indicators to track include: Meta's Q3 2024 investor call (expected to detail WhatsApp Plus revenue), the EU's response to the data-sharing clause (potential fines up to €15 billion), and the Status ad launch timeline (currently scheduled for October 2024). The platform's user retention rate in Q4 2024 will also test whether Meta's monetization strategies outweigh privacy concerns for core users.
+
+## Updates
+
+- **2026-09-11** — Meta says it&#8217;s changing AI suggestions after posing invasive personal questions ([source](https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions))

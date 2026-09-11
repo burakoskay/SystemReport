@@ -1,18 +1,20 @@
 ---
 title: "Pixel 11 Leaks Detail Storage, Battery Boost, UK Price Shift"
 date: 2026-07-28T13:58:30.195Z
+modified_date: 2026-09-11T17:42:31.571Z
 tags: ["Google","Pixel","Smartphone","Hardware","Leaks"]
 hero_image: "/hero/2026-07-28-pixel-11-leaks-detail-storage-battery-boost-uk-price-shift-c82484.jpg"
 hero_image_credit_name: "Sebastian Luna"
 hero_image_credit_url: "https://www.pexels.com/@sebastian-luna-736234668"
 visual_keyword: "smartphone hardware"
 description: "Recent leaks detail Google's Pixel 11 upgrades: bigger batteries, higher starting storage. Price increase rumors circulate, with a unique 'technical drop' in UK pricing."
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-07-28-pixel-11-leaks-detail-storage-battery-boost-uk-price-shift-c82484.mp3"
 audio_bytes: 587904
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google's upcoming Pixel 11 will feature higher starting storage and larger battery capacities, according to recent leaks reported by Engadget and 9to5Google. These hardware bumps accompany general price increase rumors, though UK pricing for some configurations is expected to see a technical drop. This combination of foundational upgrades and complex pricing strategy sets the stage for Google's next major smartphone launch. A launch event for the Google Pixel 11 is anticipated, where these rumored details will be officially confirmed or denied, and Google's rationale for its latest device articulated. 
 
@@ -53,3 +55,7 @@ This strategy is not without its challenges. Scaling hardware production and dis
 As the launch event approaches, Google must articulate the value of these rumored upgrades, especially in light of the anticipated price increases. The market will closely examine whether the Pixel 11’s final configuration and pricing represent a compelling proposition that justifies its cost in a highly competitive premium segment. Iterative improvements, while welcome and addressing genuine user needs, need to translate into a distinctly superior overall experience to truly gain market share against entrenched incumbents. The challenge is not just about raw specifications, but about how Google integrates these enhancements into a cohesive, attractive package that resonates with consumers seeking reliability and long-term utility.
 
 The reception of the Pixel 11 will dictate Google's momentum in the premium smartphone segment through the coming year, influencing its ability to expand beyond its dedicated user base and challenge market leaders. If the new Pixel manages to balance its foundational hardware improvements with a justifiable price point, it could solidify Google's position as a serious contender in the high-end smartphone market. Conversely, if the price increases are perceived as out of step with the value offered, it risks alienating potential buyers and ceding ground in a market where every sale is hard-won. The stakes are high for Google as it seeks to define the next generation of its flagship Android device.
+
+## Updates
+
+- **2026-09-11** — Walmart restocks $60 Onn 4K Pro for many following Google TV Streamer price hike ([source](https://9to5google.com/2026/09/11/walmat-onn-4k-pro-restock-september/))

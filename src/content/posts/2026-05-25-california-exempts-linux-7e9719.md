@@ -1,19 +1,20 @@
 ---
 title: "California Exempts Linux"
 date: 2026-05-25T19:48:35.095Z
-modified_date: 2026-08-20T22:21:33.607Z
+modified_date: 2026-09-11T17:41:23.060Z
 tags: ["Linux","age-verification law","open-source software"]
 hero_image: "/hero/2026-05-25-california-exempts-linux-7e9719.jpg"
 hero_image_credit_name: "RealToughCandy.com"
 hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "California moves to exempt Linux from its age-verification law after backlash, with a proposed amendment by the same lawmaker who wrote the original law."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-25-california-exempts-linux-7e9719.mp3"
 audio_bytes: 575156
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## California Moves to Exempt Linux
@@ -84,4 +85,5 @@ The exemption of Linux from the age-verification law is also significant in the 
 
 ## Updates
 
+- **2026-09-11** — Meta may have leaked the first look at its slim &#8216;Project Phoenix&#8217; headset ([source](https://www.theverge.com/tech/994055/meta-project-phoenix-headset-leak))
 - **2026-08-20** — Show HN: Huzzah – a novel approach to coding with AI ([source](https://www.danielvaughn.dev/posts/huzzah/))

@@ -1,16 +1,17 @@
 ---
 title: "France Targets Encrypted Messaging, Global Security Patches"
 date: 2026-05-10T03:46:43.377Z
-modified_date: 2026-08-25T14:39:30.775Z
+modified_date: 2026-09-11T17:42:46.855Z
 tags: ["encryption","security","France"]
 hero_image: "/hero/2026-05-10-france-targets-encrypted-messaging-global-security-patches-ff160b.jpg"
 hero_image_credit_name: "Christina & Peter"
 hero_image_credit_url: "https://www.pexels.com/@christina99999"
 visual_keyword: "lock"
 description: "France moves to break encrypted messaging, while tech giants release security patches for major vulnerabilities."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -100,4 +101,5 @@ The next step in the French government's push for backdoors in encrypted messagi
 
 ## Updates
 
+- **2026-09-11** — Measuring the sloppiness of code ([source](https://earendil.com/posts/measuring-code-sloppiness/))
 - **2026-08-25** — OpenAI says its Jalapeño chip can power faster AI responses than the competition ([source](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks))

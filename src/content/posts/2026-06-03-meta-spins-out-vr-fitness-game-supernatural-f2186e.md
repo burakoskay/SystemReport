@@ -1,18 +1,20 @@
 ---
 title: "Meta Spins Out VR Fitness Game Supernatural"
 date: 2026-06-03T21:22:05.408Z
+modified_date: 2026-09-11T17:42:16.215Z
 tags: ["VR Fitness","Gaming Industry","Meta"]
 hero_image: "/hero/2026-06-03-meta-spins-out-vr-fitness-game-supernatural-f2186e.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "VR Fitness Game"
 description: "Meta spins out Supernatural after user protests"
-sources_count: 2
-author: "sam-whitfield"
+sources_count: 3
 audio_path: "/audio/2026-06-03-meta-spins-out-vr-fitness-game-supernatural-f2186e.mp3"
 audio_bytes: 617788
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Supernatural's Spin-Out
 Meta spun out Supernatural, a VR fitness game, instead of shutting it down. Supernatural will live on as an independent company. A new Supernatural VR workout app is set to arrive this fall, months before Meta had planned to shut it down.
@@ -32,3 +34,7 @@ The gaming industry is becoming increasingly competitive, with new technologies 
 VR fitness games have been around for several years, but they have yet to gain widespread popularity. However, with the advancement of VR technology and the increasing awareness of the importance of fitness, VR fitness games are becoming more popular. Supernatural is one of the leading VR fitness games, and its spin-out from Meta could be a significant development in the industry.
 ## Implications for Meta
 The spin-out of Supernatural may also have implications for Meta. The company's decision to spin out the game rather than shut it down may be seen as a positive move by the community, and it could help to improve Meta's reputation. However, it also raises questions about the company's strategy and its commitment to the gaming industry.
+
+## Updates
+
+- **2026-09-11** — Instagram chief thinks a chronological feed is ‘much worse’ and says the quiet part out loud ([source](https://9to5google.com/2026/09/11/instagram-chronological-feed-much-worse/))

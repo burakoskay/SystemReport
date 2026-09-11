@@ -1,19 +1,20 @@
 ---
 title: "Kimi Sparks Concern"
 date: 2026-07-27T02:24:16.030Z
-modified_date: 2026-08-31T10:22:20.594Z
+modified_date: 2026-09-11T17:41:30.667Z
 tags: ["AI","Kimi","Moonshot AI"]
 hero_image: "/hero/2026-07-27-kimi-sparks-concern-67e42c.jpg"
 hero_image_credit_name: "Jonathan Borba"
 hero_image_credit_url: "https://www.pexels.com/@jonathanborba"
 visual_keyword: "Kimi"
 description: "Moonshot AI's Kimi causes stir"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-27-kimi-sparks-concern-67e42c.mp3"
 audio_bytes: 578082
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -36,5 +37,6 @@ The situation with Kimi will continue to unfold. The key points to watch include
 
 ## Updates
 
+- **2026-09-11** — Anime reaction YouTubers are at war with copyright enforcers ([source](https://www.theverge.com/tech/993898/nicholaslighttv-remove-your-media-youtube-crunchyroll-viz-media))
 - **2026-08-31** — Cores in space: The core memory module from a 1980 Spacelab computer ([source](https://www.righto.com/2026/08/spacelab-core-memory.html))
 - **2026-08-08** — Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro ([source](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview))

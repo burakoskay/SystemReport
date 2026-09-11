@@ -1,16 +1,17 @@
 ---
 title: "The Future of Verification: From Orbs to AI-Driven Markets"
 date: 2026-04-18T01:05:14.216Z
-modified_date: 2026-08-29T14:54:21.779Z
+modified_date: 2026-09-11T17:42:00.837Z
 tags: ["tech","verification","ai"]
 hero_image: "/hero/2026-04-18-the-future-of-verification-from-orbs-to-ai-driven-markets-80638f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial scanning orb"
 description: "Exploring the intersection of tech and verification, from Sam Altman's orbs to AI-driven prediction markets."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ From lunar hay fever to satellite images revealing construction delays, the inte
 
 ## Updates
 
+- **2026-09-11** — Apple Watch Ultra 4 vs Ultra 3: Here’s everything new ([source](https://9to5mac.com/2026/09/11/apple-watch-ultra-4-vs-ultra-3-heres-everything-new/))
 - **2026-08-29** — Psilocybin Might Make Your Brain Live in the Moment ([source](https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/))
 - **2026-08-20** — CIA funding helped keep NeXT afloat in the 80s ([source](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink))
 - **2026-05-07** — Musk’s biggest loyalist became his biggest liability ([source](https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony))
