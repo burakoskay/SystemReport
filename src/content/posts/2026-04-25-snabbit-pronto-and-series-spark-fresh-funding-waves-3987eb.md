@@ -1,19 +1,20 @@
 ---
 title: "Snabbit, Pronto, and Series spark fresh funding waves"
 date: 2026-04-25T19:02:08.763Z
-modified_date: 2026-09-01T19:10:00.861Z
+modified_date: 2026-09-11T08:29:04.280Z
 tags: ["gig economy","AI social networking","funding rounds"]
 hero_image: "/hero/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.jpg"
 hero_image_credit_name: "El gringo photo"
 hero_image_credit_url: "https://www.pexels.com/@el-gringo-photo-116752370"
 visual_keyword: "gig economy"
 description: "Indian gig player Snabbit seeks $400M, house-help platform Pronto eyes $200M, and US AI social network Series lands $5.1M."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.mp3"
 audio_bytes: 632208
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,6 +86,7 @@ The funding rounds for Snabbit, Pronto, and Series reflect the growing interest 
 
 ## Updates
 
+- **2026-09-11** — Proof of Capture: Apple Reference Image, but open source and using steganography ([source](https://merybenavente.me/blog/proof-of-capture))
 - **2026-09-01** — QHD, WQHD, 4K, and 5K resolution: What do they mean and which is best for you? ([source](https://www.engadget.com/2244279/qhd-wqhd-4k-5k-resolution-meaning-which-best/))
 - **2026-08-27** — LM Studio adds GLM-5.3-Flash to Bionic, with image support and 1M-token context ([source](https://9to5mac.com/2026/08/26/lm-studio-adds-glm-5-3-flash-to-bionic-with-image-support-and-1m-token-context/))
 - **2026-08-21** — Nyrius Phoenix Home True 4K60 (2026): A Solution for Cord Clutter ([source](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/))
