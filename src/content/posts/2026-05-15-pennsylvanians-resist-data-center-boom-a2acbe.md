@@ -1,16 +1,17 @@
 ---
 title: "Pennsylvanians Resist Data Center Boom"
 date: 2026-05-15T21:23:31.355Z
-modified_date: 2026-09-07T15:27:51.064Z
+modified_date: 2026-09-11T23:48:24.363Z
 tags: ["data center","pennsylvania","regulation","community engagement","industry impact"]
 hero_image: "/hero/2026-05-15-pennsylvanians-resist-data-center-boom-a2acbe.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center landscape"
 description: "Pennsylvanians voice concerns about the rapid growth of data centers in their state, citing transparency and public trust issues."
-sources_count: 14
+sources_count: 15
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ As the data center boom continues to spread, it will be essential to track the d
 
 ## Updates
 
+- **2026-09-11** — Rune is now open source ([source](https://rune.build/blog/rune-is-now-open-source))
 - **2026-09-07** — Plastics Companies Are Writing Lesson Plans. What Could Go Wrong? ([source](https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/))
 - **2026-09-05** — What happens when you run the Windows Memory Diagnostic tool? ([source](https://www.engadget.com/2247700/what-happens-when-run-windows-memory-diagnostic-tool/))
 - **2026-09-01** — The Bentley Supersports: A stripped-out engineer's indulgence ([source](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/))
