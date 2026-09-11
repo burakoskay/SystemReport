@@ -1,19 +1,20 @@
 ---
 title: "Intel Reorgs Foundry"
 date: 2026-05-15T10:30:27.443Z
-modified_date: 2026-06-01T23:39:05.014Z
+modified_date: 2026-09-11T20:19:27.747Z
 tags: ["Intel","Foundry","18A Process Technology"]
 hero_image: "/hero/2026-05-15-intel-reorgs-foundry-bdfc56.jpg"
 hero_image_credit_name: "Jordan Harrison"
 hero_image_credit_url: "https://www.pexels.com/@jord"
 visual_keyword: "Intel Foundry"
 description: "Intel's technology development chief Ann Kelleher to retire, succeeded by Naga Chandrasekaran and Navid Shahriari"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-15-intel-reorgs-foundry-bdfc56.mp3"
 audio_bytes: 617161
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Leadership Shift at Intel
@@ -51,4 +52,5 @@ As Intel starts production on its 18A process technology, the company is expecte
 
 ## Updates
 
+- **2026-09-11** — Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ ([source](https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/))
 - **2026-06-01** — How to make the Startup Battlefield Top 20 — and what every company gets regardless ([source](https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/))

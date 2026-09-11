@@ -1,18 +1,20 @@
 ---
 title: "New IP proposal collides with market-driven tech shifts"
 date: 2026-06-06T13:55:06.260Z
+modified_date: 2026-09-11T20:19:39.119Z
 tags: ["ITU","New IP","5G","LEO","crypto","biotech"]
 hero_image: "/hero/2026-06-06-new-ip-proposal-collides-with-market-driven-tech-shifts-f8c5db.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "network"
 description: "ITU's prescriptive New IP framework meets the reality of 5G cooperation, LEO convergence, and crypto-funded biotech, proving market forces win."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-06-new-ip-proposal-collides-with-market-driven-tech-shifts-f8c5db.mp3"
 audio_bytes: 601697
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The New IP push and why it feels out of step
@@ -55,3 +57,7 @@ Monitor the ITU's next meeting for any adjustments to the New IP language. Track
 As the debate over Internet governance continues, it will be important to watch for signs of how the market responds to the ITU's New IP framework. Will companies and investors continue to drive innovation through a market-driven approach, or will the ITU's efforts to impose a top-down approach succeed? The outcome will have significant implications for the future of the Internet and the services that it provides.
 
 In conclusion, the ITU's New IP framework is at odds with the market-driven approach that has driven the Internet's success. The push for cooperative 5G and LEO integration shows that flexibility wins, and the crypto-funded labs demonstrate that capital can bypass bureaucratic gatekeepers. As the debate over Internet governance continues, it will be important to watch for signs of how the market responds to the ITU's efforts to impose a top-down approach.
+
+## Updates
+
+- **2026-09-11** — It took way too long for someone to make USB-C cables that say what they can actually do [Gallery] ([source](https://9to5google.com/2026/09/11/usb-c-cable-ltt-truespec/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple Files Supreme Court Stay in Epic App Store Dispute"
 date: 2026-05-05T03:34:51.057Z
-modified_date: 2026-08-29T00:25:17.779Z
+modified_date: 2026-09-11T20:19:50.476Z
 tags: ["apple","epic-games","app-store","supreme-court","antitrust"]
 hero_image: "/hero/2026-05-05-apple-files-supreme-court-stay-in-epic-app-store-dispute-04b81b.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "foldable iPhone Ultra prototype on white surface"
 description: "Apple seeks Supreme Court stay to halt Epic case over App Store commission rules. Court battle continues over app distribution policies."
-sources_count: 19
+sources_count: 20
 author: "david-okafor"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ What to watch: The Supreme Court’s April 20 stay decision, the District Court�
 
 ## Updates
 
+- **2026-09-11** — Apple says two iOS 27 features aren’t coming until a ‘future software update’ ([source](https://9to5mac.com/2026/09/11/apple-says-two-ios-27-features-arent-coming-until-a-future-software-update/))
 - **2026-08-29** — HomeKit Weekly: Linkind’s Smart Light Stick brings flame effects with Matter support ([source](https://9to5mac.com/2026/08/28/linkinds-smart-light-stick-brings-flame-effects-and-matter-support/))
 - **2026-08-27** — Speedo launches its own smart swim wearable ([source](https://www.engadget.com/2244650/speedo-launches-its-own-smart-swim-wearable/))
 - **2026-08-21** — When is Apple Pay coming to your Walmart? Here’s the full schedule ([source](https://9to5mac.com/2026/08/21/when-is-apple-pay-coming-to-your-walmart-heres-the-full-schedule/))
