@@ -1,16 +1,17 @@
 ---
 title: "Laser Breakthroughs Advance Fusion Energy and Quantum Photonics"
 date: 2026-04-19T12:43:36.053Z
-modified_date: 2026-09-01T09:04:58.759Z
+modified_date: 2026-09-12T13:19:03.479Z
 tags: ["fusion energy","quantum photonics","laser technology","compact accelerators"]
 hero_image: "/hero/2026-04-19-laser-breakthroughs-advance-fusion-energy-and-quantum-photonics-715a51.jpg"
 hero_image_credit_name: "Opt Lasers from Poland"
 hero_image_credit_url: "https://www.pexels.com/@optlasers"
 visual_keyword: "high-powered laser"
 description: "Scientists push boundaries in fusion energy and quantum photonics with high-powered lasers and innovative materials."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ As these advancements in laser technology continue to push the boundaries of fus
 
 ## Updates
 
+- **2026-09-12** — Hands-on: Dbrand’s MNML Pixel 11 Pro cases are simply  good, and that’s the point [Gallery] ([source](https://9to5google.com/2026/09/12/dbrand-mnml-pixel-11-pro-hands-on/))
 - **2026-09-01** — Magna increases bet on battery swapping in India with $35M for Yuma ([source](https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/))
 - **2026-08-12** — New Bedford police officer accused of using Flock cameras to track ex-partner ([source](https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/))
 - **2026-08-05** — The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting ([source](https://www.wired.com/story/national-design-studio-doge-recruiting/))

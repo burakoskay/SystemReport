@@ -1,19 +1,20 @@
 ---
 title: "Legacy's NFT Collapse Exposes Developer Risks"
 date: 2026-04-27T12:19:09.718Z
-modified_date: 2026-09-08T22:17:37.235Z
+modified_date: 2026-09-12T13:18:49.327Z
 tags: ["NFT","software patents","play-to-earn games"]
 hero_image: "/hero/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "NFT"
 description: "Peter Molyneux's Legacy game lost millions, leaving players with worthless NFTs and raising concerns about software patents."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-04-27-legacy-s-nft-collapse-exposes-developer-risks-7698c5.mp3"
 audio_bytes: 587068
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ In conclusion, the collapse of Legacy serves as a reminder of the risks and chal
 
 ## Updates
 
+- **2026-09-12** — Where to preorder the iPhone 18 Pro and Pro Max ([source](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy))
 - **2026-09-08** — The Sideload 043: Your repairable future ([source](https://9to5google.com/2026/09/08/the-sideload-043-your-repairable-future/))
 - **2026-08-14** — ChatGPT subscribers can now open and edit Google Drive files from inside the chat ([source](https://9to5mac.com/2026/08/14/chatgpt-subscribers-can-now-open-and-edit-google-drive-files-from-inside-the-chat/))
 - **2026-08-12** — Google is now sending out emails with discount codes for the Pixel 11 ([source](https://www.engadget.com/2235193/google-sending-out-emails-discount-codes-pixel-11/))

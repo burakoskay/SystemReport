@@ -1,16 +1,17 @@
 ---
 title: "AliExpress caught using inaudible audio to fingerprint browsers"
 date: 2026-08-25T08:46:57.040Z
-modified_date: 2026-09-08T19:13:24.759Z
+modified_date: 2026-09-12T13:18:35.427Z
 tags: ["privacy","browser-fingerprinting","cloud-security"]
 hero_image: "/hero/2026-08-25-aliexpress-caught-using-inaudible-audio-to-fingerprint-browsers-4ff29a.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "close-up of a computer speaker emitting invisible sound waves"
 description: "AliExpress employed inaudible audio signals to uniquely identify browsers, reviving a dismissed tracking method and raising fresh privacy alarms."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 AliExpress slipped inaudible audio into web pages to tag browsers without user consent. The move resurrects a tracking method many thought dead, and it forces engineers to rethink the assumptions behind web privacy.
@@ -51,4 +52,5 @@ Regulators in the EU and several US states are drafting rules that could classif
 
 ## Updates
 
+- **2026-09-12** — The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’ ([source](https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/))
 - **2026-09-08** — Nintendo isn’t scared of GTA VI ([source](https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6))

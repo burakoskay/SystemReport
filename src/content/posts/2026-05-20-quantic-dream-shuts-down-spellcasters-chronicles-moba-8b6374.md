@@ -1,16 +1,17 @@
 ---
 title: "Quantic Dream shuts down Spellcasters Chronicles MOBA"
 date: 2026-05-20T18:31:48.364Z
-modified_date: 2026-08-24T22:19:54.408Z
+modified_date: 2026-09-12T13:18:42.412Z
 tags: ["quantic-dream","moba","gaming","industry"]
 hero_image: "/hero/2026-05-20-quantic-dream-shuts-down-spellcasters-chronicles-moba-8b6374.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "empty multiplayer lobby with fantasy spellcasters"
 description: "Quantic Dream ends its Spellcasters Chronicles MOBA after it failed to draw players away from League of Legends and Dota, highlighting the genre's high barrier to entry."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## The final match
@@ -47,4 +48,5 @@ What to watch next: Quantic Dream’s next project reveal, expected later this y
 
 ## Updates
 
+- **2026-09-12** — Laika’s stop-motion fantasy Wildwood looks so smooth ([source](https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian))
 - **2026-08-24** — The Best Kitchen Gadget to Prevent Salmonella Is a Good Meat Probe ([source](https://www.wired.com/story/food-safety-gear-salmonella/))
