@@ -1,18 +1,20 @@
 ---
 title: "AI CEOs Skip Trump EO, Policy in Limbo"
 date: 2026-05-22T20:01:38.160Z
+modified_date: 2026-09-12T16:41:30.150Z
 tags: ["ai","policy","mozilla"]
 hero_image: "/hero/2026-05-22-ai-ceos-skip-trump-eo-policy-in-limbo-a55ace.jpg"
 hero_image_credit_name: "Werner Pfennig"
 hero_image_credit_url: "https://www.pexels.com/@werner-pfennig"
 visual_keyword: "a split-screen showing a corporate boardroom on one side and an open-source community meeting on the other"
 description: "Top AI firms declined a Trump event, Mozilla refocuses on open web amid AI, and Google blocks AI overviews on Trump dementia queries."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-22-ai-ceos-skip-trump-eo-policy-in-limbo-a55ace.mp3"
 audio_bytes: 615907
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Trump EO stalls after AI CEOs boycott
 The White House announced an executive order on AI safety testing, then cancelled the signing ceremony. The cancellation came after CEOs of leading AI firms refused to attend.
@@ -37,3 +39,7 @@ The common thread is a reluctance to let unfiltered AI output shape public perce
 
 ## What to watch
 Watch the White House’s next move on the AI safety order. A revised draft or a new enforcement timeline could signal whether the administration will compromise or double down. Track Mozilla’s upcoming policy proposals, especially any that target AI data collection or model transparency. Finally, monitor Google’s AI Mode documentation for changes to the exclusion criteria, and watch for any formal complaints or legal actions that could force the company to standardize its AI overview policies across all political figures.
+
+## Updates
+
+- **2026-09-12** — Trump is giving data centers a pass to pollute ([source](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa))

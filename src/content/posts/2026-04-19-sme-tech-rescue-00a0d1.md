@@ -1,16 +1,17 @@
 ---
 title: "SME Tech Rescue"
 date: 2026-04-19T16:31:39.767Z
-modified_date: 2026-09-10T17:38:39.515Z
+modified_date: 2026-09-12T16:41:37.095Z
 tags: ["smetech","backofficetech","consultancy"]
 hero_image: "/hero/2026-04-19-sme-tech-rescue-00a0d1.jpg"
 hero_image_credit_name: "Juan Moccagatta"
 hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ What to watch: As the consultancy continues to grow and expand its services, it 
 
 ## Updates
 
+- **2026-09-12** — How to properly clean and sanitize your secondhand tech finds ([source](https://www.engadget.com/2252766/how-to-clean-sanitize-secondhand-electronics-tech/))
 - **2026-09-10** — Deals: Galaxy Z Fold 8 + Galaxy Watch 8/Ultra 2 up to $520 off, Pixel 11 models up to $322 off, more ([source](https://9to5google.com/2026/09/10/deals-galaxy-z-fold-8-galaxy-watch-8-ultra-2-pixel-11/))
 - **2026-08-29** — Friday’s Android app deals and freebies: 20 Minutes Till Dawn, Botanicula, Samorost 3, more ([source](https://9to5toys.com/2026/08/28/friday-android-app-deals-2/))
 - **2026-07-26** — Deals: Black Friday in July – Galaxy Z Fold 8/Ultra $1,230 off, Chromebooks, Anker gear from $8, Pixel 10 Pro $300 off, more ([source](https://9to5google.com/2026/07/24/deals-black-friday-july-galaxy-z-fold-8-anker/))

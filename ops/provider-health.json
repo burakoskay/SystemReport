@@ -1,38 +1,36 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 6690,
+    "consecutive_failures": 6718,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-12T13:20:55.735Z",
+    "last_failure": "2026-09-12T16:48:47.681Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-09-11T20:29:26.156Z",
-    "consecutive_failures": 1,
+    "last_success": "2026-09-12T16:48:06.387Z",
+    "consecutive_failures": 0,
     "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 2513, Requested 6075. Please try again in 4.41s. Need more tokens? Upgrade to Dev Tier today at htt",
-    "last_failure": "2026-09-11T20:29:47.695Z",
-    "cooldown_until": "2026-09-11T20:39:47.633Z"
+    "last_failure": "2026-09-11T20:29:47.695Z"
   },
   "groq:qwen/qwen3-32b": {
     "last_success": "2026-06-07T19:41:40.806Z",
-    "consecutive_failures": 937,
+    "consecutive_failures": 938,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `qwen/qwen3-32b` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-12T13:19:46.286Z",
+    "last_failure": "2026-09-12T16:43:07.416Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 2448,
+    "consecutive_failures": 2474,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-12T13:20:55.671Z",
+    "last_failure": "2026-09-12T16:48:47.608Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 5,
+    "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (6b99fd1e-8692-4619-94a7-a1611c6ac6ed)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-09-12T13:19:24.887Z",
-    "last_success": "2026-09-11T20:26:33.669Z",
-    "cooldown_until": "2026-09-12T13:29:24.434Z"
+    "last_success": "2026-09-12T16:48:57.274Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -43,9 +41,9 @@
   },
   "groq:llama-3.1-8b-instant": {
     "last_success": "2026-08-13T18:57:00.648Z",
-    "consecutive_failures": 1528,
+    "consecutive_failures": 1529,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-09-12T13:20:55.819Z",
+    "last_failure": "2026-09-12T16:43:07.288Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {
@@ -62,15 +60,15 @@
     "last_failure": "2026-09-01T19:16:21.981Z"
   },
   "cloudflare:@cf/meta/llama-3.1-8b-instruct": {
-    "consecutive_failures": 192,
-    "last_error": "Cloudflare 410: {\"errors\":[{\"message\":\"AiError: Model has been deprecated: @cf/meta/infire-llama-3.1-8b-instruct was deprecated on 2026-05-30. See the model catalog for alternatives: https://developers.cloudflare.com/workers-ai/models/ (20b16846-0c75-4e81-9692-478be8d5ecf1)\",\"code\":5028}],\"success\":",
-    "last_failure": "2026-09-11T20:23:20.737Z",
+    "consecutive_failures": 193,
+    "last_error": "Cloudflare 410: {\"errors\":[{\"message\":\"AiError: Model has been deprecated: @cf/meta/infire-llama-3.1-8b-instruct was deprecated on 2026-05-30. See the model catalog for alternatives: https://developers.cloudflare.com/workers-ai/models/ (a9b69e4d-dc24-419c-8c36-ee3abcc77666)\",\"code\":5028}],\"success\":",
+    "last_failure": "2026-09-12T16:43:07.368Z",
     "cooldown_until": "2026-05-31T14:11:44.894Z"
   },
   "gemini:gemini-2.5-flash-lite": {
-    "consecutive_failures": 90,
+    "consecutive_failures": 91,
     "last_error": "{\"error\":{\"code\":404,\"message\":\"This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use models/gemini-3.5-flash-lite for the latest features and improvements. We recommend you to use the Interactions API.\",\"status\":\"NOT_FOUND\"}}",
-    "last_failure": "2026-09-11T20:23:20.887Z",
+    "last_failure": "2026-09-12T16:43:07.551Z",
     "cooldown_until": "2026-06-30T04:22:41.273Z"
   }
 }

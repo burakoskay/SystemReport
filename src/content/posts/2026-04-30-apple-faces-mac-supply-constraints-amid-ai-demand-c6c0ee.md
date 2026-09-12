@@ -1,16 +1,17 @@
 ---
 title: "Apple Faces Mac Supply Constraints Amid AI Demand"
 date: 2026-04-30T22:57:10.211Z
-modified_date: 2026-07-29T22:56:59.054Z
+modified_date: 2026-09-12T16:41:57.546Z
 tags: ["Apple","AI","Mac"]
 hero_image: "/hero/2026-04-30-apple-faces-mac-supply-constraints-amid-ai-demand-c6c0ee.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac mini"
 description: "Apple reports surprise AI-driven Mac demand"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The broader industry trends are an important context for understanding the AI-dr
 
 ## Updates
 
+- **2026-09-12** — Apple @ Work: The three prongs of software updates in the AI era ([source](https://9to5mac.com/2026/09/12/apple-work-the-three-prongs-of-software-updates-in-the-ai-era/))
 - **2026-07-29** — Qualcomm says supply constraints are shrinking its Apple business faster than expected ([source](https://9to5mac.com/2026/07/29/qualcomm-says-supply-constraints-are-shrinking-its-apple-business-faster-than-expected/))
 - **2026-07-28** — Apple launches ‘Upgrade’ program to lease new devices ([source](https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch))
 - **2026-05-28** — YouTube is making its app better for podcast playback, but only for Premium users ([source](https://9to5google.com/2026/05/28/youtube-podcast-playback-improvements-for-premium-users/))

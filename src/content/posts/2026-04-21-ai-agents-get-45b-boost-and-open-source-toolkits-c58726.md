@@ -1,15 +1,17 @@
 ---
 title: "AI agents get $45B boost and open-source toolkits"
 date: 2026-04-21T22:46:05.612Z
+modified_date: 2026-09-12T16:41:23.200Z
 tags: ["ai","funding","hardware","open-source","agents"]
 hero_image: "/hero/2026-04-21-ai-agents-get-45b-boost-and-open-source-toolkits-c58726.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI agents interacting with data pipelines"
 description: "Seed funding and Amazon chips fuel new multi‑agent AI ventures while open‑source frameworks democratize financial and corporate research."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Funding human‑like agents
 
@@ -54,3 +56,7 @@ Monitor the adoption metrics of Hermes and Mira on GitHub—star counts, fork ac
 Watch NeoCognition’s roadmap for a public demo of a domain‑agnostic agent. A successful showcase would validate the seed investors’ thesis and could trigger follow‑on funding rounds.
 
 Watch for regulatory commentary on automated financial research agents. As multi‑agent tools enter compliance‑heavy sectors, guidance from bodies like the SEC could shape how firms integrate these systems.
+
+## Updates
+
+- **2026-09-12** — LG responds to TV spying allegations ([source](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations))
