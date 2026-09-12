@@ -1,16 +1,17 @@
 ---
 title: "TracesOfHumanity Launches on Hacker News"
 date: 2026-05-11T07:58:03.071Z
-modified_date: 2026-08-10T22:31:45.050Z
+modified_date: 2026-09-12T20:01:43.601Z
 tags: ["TracesOfHumanity","Hacker News","tech startups"]
 hero_image: "/hero/2026-05-11-tracesofhumanity-launches-on-hacker-news-f436d6.jpg"
 hero_image_credit_name: "Emre Koşak"
 hero_image_credit_url: "https://www.pexels.com/@emrekosak"
 visual_keyword: "TracesOfHumanity"
 description: "TracesOfHumanity debuts on Hacker News, sparking discussion among tech enthusiasts."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -80,4 +81,5 @@ The launch of TracesOfHumanity on Hacker News marks an important milestone in th
 
 ## Updates
 
+- **2026-09-12** — Nvidia is the central bank of AI ([source](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai))
 - **2026-08-10** — Defending my own brain against enshittification ([source](https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/))

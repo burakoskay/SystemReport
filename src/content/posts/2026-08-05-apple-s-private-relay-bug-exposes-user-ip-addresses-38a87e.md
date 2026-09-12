@@ -1,18 +1,20 @@
 ---
 title: "Apple's Private Relay Bug Exposes User IP Addresses"
 date: 2026-08-05T17:42:42.003Z
+modified_date: 2026-09-12T20:01:08.701Z
 tags: ["Apple","Private Relay","IP Address","Privacy"]
 hero_image: "/hero/2026-08-05-apple-s-private-relay-bug-exposes-user-ip-addresses-38a87e.jpg"
 hero_image_credit_name: "BOOM 💥 Photography"
 hero_image_credit_url: "https://www.pexels.com/@boom"
 visual_keyword: "Private Relay"
 description: "Bug in Apple's Private Relay feature reveals users' real IP addresses"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-05-apple-s-private-relay-bug-exposes-user-ip-addresses-38a87e.mp3"
 audio_bytes: 634507
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Private Relay
 Apple's Private Relay feature, designed to mask users' IP addresses from visited sites, has a bug that can expose users' real IP addresses. This feature is part of Apple's efforts to enhance user privacy, particularly for those using iCloud.
@@ -40,3 +42,7 @@ The dual-server architecture used by Private Relay is designed to provide an add
 
 ## Regulatory Implications
 The bug in Private Relay may also have regulatory implications. As governments worldwide become increasingly concerned about privacy protection, incidents like this can attract regulatory scrutiny. Apple may need to provide more information about the bug and its plans for addressing it to regulatory bodies. The company's response to the issue will be closely watched by regulators, who may use this incident as a test case for how companies should handle privacy vulnerabilities.
+
+## Updates
+
+- **2026-09-12** — Sylvan Esso think you should splurge on good-quality yogurt ([source](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music))
