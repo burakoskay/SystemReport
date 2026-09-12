@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's iPhone App Clues and ChatGPT's Global Reach"
 date: 2026-05-01T03:52:53.015Z
-modified_date: 2026-09-07T15:27:57.766Z
+modified_date: 2026-09-12T22:08:59.172Z
 tags: ["OpenAI","ChatGPT","AI-powered chatbots","iPhone app","tech industry"]
 hero_image: "/hero/2026-05-01-openai-s-iphone-app-clues-and-chatgpt-s-global-reach-6707dc.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered chatbot"
 description: "OpenAI hints at new iPhone app launch, ChatGPT's popularity grows globally"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The success of ChatGPT and OpenAI's iPhone app launch sets the stage for a highl
 
 ## Updates
 
+- **2026-09-12** — OpenAI’s rogue AI tried to hack another company in May ([source](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack))
 - **2026-09-07** — EcoFlow makes the miniature power station even smaller ([source](https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller))
 - **2026-08-20** — LG’s 65-inch B6 OLED is $300 lower than its previous best price ([source](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale))
 - **2026-08-11** — ChatGPT and Gemini both just passed 1 billion users ([source](https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users))

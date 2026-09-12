@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-09-03T19:04:09.879Z
+modified_date: 2026-09-12T22:09:12.797Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-09-12** — How to change Amazon Alexa's voice and personality ([source](https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/))
 - **2026-09-03** — TikTok introduces voice comments and simplified polls ([source](https://www.engadget.com/2250517/tiktok-introduces-voice-comments-and-simplified-polls/))
 - **2026-08-25** — Anger, Anxiety and Agency ([source](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/))
 - **2026-08-05** — 13 Best Coolers for Sunshine and Nighttime (2026) ([source](https://www.wired.com/story/the-best-cooler/))

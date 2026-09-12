@@ -1,19 +1,20 @@
 ---
 title: "AI CEOs Skip Trump EO, Policy in Limbo"
 date: 2026-05-22T20:01:38.160Z
-modified_date: 2026-09-12T16:41:30.150Z
+modified_date: 2026-09-12T22:09:05.985Z
 tags: ["ai","policy","mozilla"]
 hero_image: "/hero/2026-05-22-ai-ceos-skip-trump-eo-policy-in-limbo-a55ace.jpg"
 hero_image_credit_name: "Werner Pfennig"
 hero_image_credit_url: "https://www.pexels.com/@werner-pfennig"
 visual_keyword: "a split-screen showing a corporate boardroom on one side and an open-source community meeting on the other"
 description: "Top AI firms declined a Trump event, Mozilla refocuses on open web amid AI, and Google blocks AI overviews on Trump dementia queries."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-22-ai-ceos-skip-trump-eo-policy-in-limbo-a55ace.mp3"
 audio_bytes: 615907
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Trump EO stalls after AI CEOs boycott
@@ -42,4 +43,5 @@ Watch the White House’s next move on the AI safety order. A revised draft or a
 
 ## Updates
 
+- **2026-09-12** — StarCraft returns in 2030 as an open-world shooter ([source](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter))
 - **2026-09-12** — Trump is giving data centers a pass to pollute ([source](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa))

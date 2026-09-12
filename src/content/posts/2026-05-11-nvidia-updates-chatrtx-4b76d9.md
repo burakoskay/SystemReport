@@ -1,19 +1,20 @@
 ---
 title: "Nvidia Updates ChatRTX"
 date: 2026-05-11T03:57:43.625Z
-modified_date: 2026-08-20T18:30:06.519Z
+modified_date: 2026-09-12T22:09:19.541Z
 tags: ["Nvidia","ChatRTX","AI"]
 hero_image: "/hero/2026-05-11-nvidia-updates-chatrtx-4b76d9.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "ChatRTX"
 description: "Nvidia's ChatRTX app gets photo search and AI speech recognition."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-11-nvidia-updates-chatrtx-4b76d9.mp3"
 audio_bytes: 601906
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -37,4 +38,5 @@ The update to Nvidia's ChatRTX app is a significant step forward for AI use case
 
 ## Updates
 
+- **2026-09-12** — Indie App Spotlight: ‘Farwave’ lets you listen to radio stations around the world ([source](https://9to5mac.com/2026/09/12/indie-app-spotlight-farwave-lets-you-listen-to-radio-stations-around-the-world/))
 - **2026-08-20** — Framework says it&#8217;s addressing a BIOS update that bricked some of its older laptops ([source](https://www.theverge.com/gadgets/982800/framework-laptop-13-amd-7040-bios-320-bricking-warranty))
