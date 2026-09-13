@@ -1,16 +1,17 @@
 ---
 title: "Huawei's Kirin X90 Aims to Dethrone Apple Silicon"
 date: 2026-05-17T15:05:26.331Z
-modified_date: 2026-07-28T19:16:03.697Z
+modified_date: 2026-09-13T22:01:05.805Z
 tags: ["huawei","kirin-x90","apple-silicon","harmonyos","chip-design"]
 hero_image: "/hero/2026-05-17-huawei-s-kirin-x90-aims-to-dethrone-apple-silicon-6634ae.jpg"
 hero_image_credit_name: "Edward Jenner"
 hero_image_credit_url: "https://www.pexels.com/@edward-jenner"
 visual_keyword: "laptop with 7nm chip under microscope"
 description: "Huawei's new Kirin X90 chip targets Apple Silicon's dominance in a self-reliant ecosystem push."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Huawei's Kirin X90 is no accident
@@ -44,4 +45,5 @@ The Kirin X90 isn't a magic bullet. But if Huawei can bridge the app gap and pro
 
 ## Updates
 
+- **2026-09-13** — What’s behind the AI industry’s latest warnings of doom? ([source](https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/))
 - **2026-07-28** — What’s left to fix on the Google Health app roadmap ([source](https://9to5google.com/2026/07/28/google-health-roadmap-fixes-list/))

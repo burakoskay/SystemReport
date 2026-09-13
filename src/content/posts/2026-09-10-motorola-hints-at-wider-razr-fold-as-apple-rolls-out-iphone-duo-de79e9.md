@@ -1,15 +1,17 @@
 ---
 title: "Motorola hints at wider Razr Fold as Apple rolls out iPhone Duo"
 date: 2026-09-10T02:51:01.532Z
+modified_date: 2026-09-13T22:01:19.753Z
 tags: ["foldables","motorola","smartphones","technews"]
 hero_image: "/hero/2026-09-10-motorola-hints-at-wider-razr-fold-as-apple-rolls-out-iphone-duo-de79e9.jpg"
 hero_image_credit_name: "Dextar Studio ™"
 hero_image_credit_url: "https://www.pexels.com/@dextarstudio"
 visual_keyword: "wide foldable smartphone displayed on a desk"
 description: "Motorola teases a broader Razr Fold amid Apple’s iPhone Duo launch, sparking pricing wars and raising questions about the next foldable frontier."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 ## Motorola’s wide Razr Fold tease
 Apple’s iPhone Duo announcement prompted Motorola to drop a teaser for a wider version of its Razr Fold. The company posted a silhouette that suggests a broader inner display and a more conventional aspect ratio than the current flip‑style Razr.
@@ -38,3 +40,7 @@ Deal‑driven pricing from Samsung, combined with Honor’s camera push, creates
 
 ## What to watch
 Track the official launch details for Motorola’s wide Razr Fold, especially any disclosed dimensions, battery size, and pricing. Samsung’s promotional terms for the Z Fold 8 will likely evolve as the holiday season approaches, and Honor’s Magic 9 Pro Max reviews will reveal whether its ARRI‑backed camera can set a new benchmark. Finally, keep an eye on Apple’s iPhone Duo roadmap; a confirmed release date or developer kit could force the entire foldable ecosystem into a new competitive cadence.
+
+## Updates
+
+- **2026-09-13** — Apple is reportedly working on iPhone game controllers ([source](https://www.theverge.com/tech/994426/apple-iphone-game-controllers))

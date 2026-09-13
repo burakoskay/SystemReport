@@ -1,16 +1,17 @@
 ---
 title: "Hacker News highlights: Click, labor debate, Lisp polyglot"
 date: 2026-05-19T04:12:07.596Z
-modified_date: 2026-05-28T20:30:54.621Z
+modified_date: 2026-09-13T22:02:08.104Z
 tags: ["hackernews","programming","community"]
 hero_image: "/hero/2026-05-19-hacker-news-highlights-click-labor-debate-lisp-polyglot-3abb09.jpg"
 hero_image_credit_name: "ahmed akeri"
 hero_image_credit_url: "https://www.pexels.com/@ahmed-akeri-801514718"
 visual_keyword: "Hacker News front page with comment threads"
 description: "Three high‑scoring Hacker News posts expose a retro web curiosity, a looming service‑market shift, and a multi‑language Lisp map."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## A surge of niche chatter on Hacker News
@@ -51,4 +52,5 @@ The next wave of discussion will reveal whether these niche concerns become main
 
 ## Updates
 
+- **2026-09-13** — 'Fingerprints' inside the Sun could reveal if it once swallowed a planet ([source](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet))
 - **2026-05-28** — The line between games and movies keeps getting blurrier ([source](https://www.theverge.com/entertainment/939152/007-first-light-james-bond-movie-games))

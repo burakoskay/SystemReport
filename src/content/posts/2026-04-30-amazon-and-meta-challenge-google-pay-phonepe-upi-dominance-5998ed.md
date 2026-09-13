@@ -1,16 +1,17 @@
 ---
 title: "Amazon and Meta Challenge Google Pay, PhonePe UPI Dominance"
 date: 2026-04-30T10:22:25.382Z
-modified_date: 2026-09-02T02:23:21.801Z
+modified_date: 2026-09-13T22:01:40.497Z
 tags: ["india","upi","tech","ai","regulation"]
 hero_image: "/hero/2026-04-30-amazon-and-meta-challenge-google-pay-phonepe-upi-dominance-5998ed.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "Indian digital payments hub with competing logos and a farmer using a smartphone"
 description: "Amazon and Meta lobby Indian regulators to curb Google Pay and PhonePe's 80% UPI share, while AI tools like KisanAI reshape Indian tech landscape."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Both stories converge on a single question: will India’s tech ecosystem evolve
 
 ## Updates
 
+- **2026-09-13** — What's the difference between AppleCare+ and AppleCare One? ([source](https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/))
 - **2026-09-02** — Here's our first look—and drive—of the 2027 Range Rover Electric ([source](https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/))
 - **2026-08-08** — Supernatural's head of fitness on rebooting the VR exercise app after leaving Meta ([source](https://www.engadget.com/2232716/supernatural-head-of-fitness-on-rebooting-the-vr-exercise-app-after-leaving-meta/))
 - **2026-06-05** — OpenAI will let the US government review its AI models before release ([source](https://www.engadget.com/2188124/openai-will-let-us-government-review-its-models/))

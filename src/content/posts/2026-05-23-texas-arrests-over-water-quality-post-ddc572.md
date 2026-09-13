@@ -1,16 +1,17 @@
 ---
 title: "Texas arrests over water-quality post"
 date: 2026-05-23T19:24:58.303Z
-modified_date: 2026-09-13T18:29:41.419Z
+modified_date: 2026-09-13T22:01:12.840Z
 tags: ["law","hardware","open-source","immigration","piracy"]
 hero_image: "/hero/2026-05-23-texas-arrests-over-water-quality-post-ddc572.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "digital collage of microcode dump, courtroom gavel, Ruby shell code, streaming app interface"
 description: "A roundup of recent tech‑law clashes, vintage microcode research, open‑source shell launch, and a major anti‑piracy sweep."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ Watch for the Texas district attorney's decision on whether to file charges, whi
 
 ## Updates
 
+- **2026-09-13** — Trump and Mike Johnson think the AI industry is overreacting ([source](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting))
 - **2026-09-13** — This unique retro dock adds a flip-up display, Thunderbolt 5, & 8TB storage to your Mac [Video] ([source](https://9to5mac.com/2026/09/13/this-unique-retro-dock-adds-a-flip-up-display-thunderbolt-5-8tb-storage-to-your-mac-wokyis-g5-g7-video/))
 - **2026-08-06** — Ford’s first ultra-cheap EV is called Fathom, a full-featured truck for $28,350 ([source](https://www.theverge.com/transportation/975977/ford-fathom-universal-ev-platform-logo-price))

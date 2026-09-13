@@ -1,18 +1,20 @@
 ---
 title: "AFK gives phones full Mac dev access"
 date: 2026-09-04T20:14:08.762Z
+modified_date: 2026-09-13T22:01:47.443Z
 tags: ["remote-desktop","developer-tools","security","mobile-computing","software"]
 hero_image: "/hero/2026-09-04-afk-gives-phones-full-mac-dev-access-a2ff81.jpg"
 hero_image_credit_name: "Stefan Coders"
 hero_image_credit_url: "https://www.pexels.com/@stefan-coders-1019774"
 visual_keyword: "a smartphone displaying a Mac desktop over a secure connection"
 description: "AFK lets iOS and Android phones control a Mac for coding, touting zero‑server data path and encrypted DTLS‑SRTP links."
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-09-04-afk-gives-phones-full-mac-dev-access-a2ff81.mp3"
 audio_bytes: 633880
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Phone‑first remote desktop breaks the Mac‑only barrier
 AFK turns a pocket device into a full‑featured macOS development workstation. The app streams the Mac’s screen to an iPhone or Android phone and routes touch input back, letting you edit code, run simulators, and watch logs without ever leaving the couch.
@@ -40,3 +42,7 @@ AFK, by contrast, attempts to back its headline claim—full‑dev access from a
 
 ## What to watch
 The next milestone for AFK will be its first major security audit, likely prompted by independent researchers testing the DTLS‑SRTP implementation and the pairing workflow. Track the GitHub issue tracker for disclosed vulnerabilities and any subsequent patches. On the hardware side, keep an eye on whether Dyson releases a lower‑priced CameraJet variant or if speaker manufacturers shift focus from IP ratings to holistic acoustic performance. These signals will reveal whether the market continues to reward feature‑first hype or begins to prioritize verifiable utility.
+
+## Updates
+
+- **2026-09-13** — Global Shortage Has Led to Motor Oil Rationing at Costco ([source](https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/))

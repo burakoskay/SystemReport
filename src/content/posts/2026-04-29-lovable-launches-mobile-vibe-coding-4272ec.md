@@ -1,16 +1,17 @@
 ---
 title: "Lovable Launches Mobile Vibe Coding"
 date: 2026-04-29T06:31:54.783Z
-modified_date: 2026-06-04T15:26:11.352Z
+modified_date: 2026-09-13T22:01:33.606Z
 tags: ["AI-assisted development","vibe coding","open-source"]
 hero_image: "/hero/2026-04-29-lovable-launches-mobile-vibe-coding-4272ec.jpg"
 hero_image_credit_name: "dumitru B"
 hero_image_credit_url: "https://www.pexels.com/@dumitru-b-742240889"
 visual_keyword: "mobile app"
 description: "Lovable's mobile app enables on-the-go web app creation from voice or text prompts. Open-source rival Dyad provides a lock-in-free alternative."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In conclusion, the launch of Lovable's mobile app and Dyad's open-source alterna
 
 ## Updates
 
+- **2026-09-13** — How to adjust the Liquid Glass effect on your iPhone with iOS 27 ([source](https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/))
 - **2026-06-04** — Journey to JPEG XL: open-source experiments shaped the future of image coding ([source](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html))
