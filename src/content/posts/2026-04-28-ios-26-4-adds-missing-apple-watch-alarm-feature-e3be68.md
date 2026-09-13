@@ -1,19 +1,20 @@
 ---
 title: "iOS 26.4 Adds Missing Apple Watch Alarm Feature"
 date: 2026-04-28T18:03:40.124Z
-modified_date: 2026-08-11T18:56:21.009Z
+modified_date: 2026-09-13T18:29:24.619Z
 tags: ["ios","apple","security","touch-id","apple-watch"]
 hero_image: "/hero/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone with iOS interface showing Touch ID settings"
 description: "iOS 26.4 introduces an alarm tailored for Apple Watch users, alongside security updates and UI overhauls."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.mp3"
 audio_bytes: 610265
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple Watch owners have waited years for a dedicated alarm feature in iOS — now it’s here. iOS 26.4 quietly ships with a long-missing tool: an alarm system designed specifically for Apple Watch users, while also upgrading security and interface design across the board. The update doesn’t just patch bugs; it reconfigures how Apple thinks about user control and privacy in an era of surveillance and coercion.
@@ -40,4 +41,5 @@ For now, iOS 26.4 is a mixed bag. The Apple Watch alarm fills a glaring gap, but
 
 ## Updates
 
+- **2026-09-13** — Apple's rumored gaming controller for iPhone could feature Beats branding ([source](https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/))
 - **2026-08-11** — Apple could help you prove your iPhone photos aren’t deepfakes ([source](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata))

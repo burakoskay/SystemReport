@@ -1,16 +1,17 @@
 ---
 title: "NASA's Psyche Spacecraft Faces Thruster Issue"
 date: 2026-05-25T10:19:32.254Z
-modified_date: 2026-08-11T10:46:22.802Z
+modified_date: 2026-09-13T18:29:30.199Z
 tags: ["NASA","Psyche Spacecraft","Deep Space Exploration"]
 hero_image: "/hero/2026-05-25-nasa-s-psyche-spacecraft-faces-thruster-issue-478797.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Psyche Spacecraft"
 description: "Psyche spacecraft thruster shutdown"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -18,5 +19,6 @@ NASA's Psyche spacecraft stopped firing its engines after detecting a problem in
 
 ## Updates
 
+- **2026-09-13** — What was the PSX? The souped-up PS2 rarely sold outside of Japan ([source](https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/))
 - **2026-08-11** — AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia ([source](https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/))
 - **2026-08-03** — MagSafe Monday: The LISEN Qi2.2 MagSafe battery brings the most unique lanyard on the market ([source](https://9to5mac.com/2026/08/03/lisen-qi2-2-magsafe-battery/))

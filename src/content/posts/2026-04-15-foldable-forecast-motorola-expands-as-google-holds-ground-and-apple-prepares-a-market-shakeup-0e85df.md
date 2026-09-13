@@ -1,16 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-08-27T18:47:54.247Z
+modified_date: 2026-09-13T18:29:52.593Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-09-13** — US Customs supervisor busted for stealing hardware from Homeland Security PCs ([source](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg))
 - **2026-08-27** — Galaxy S26 FE is $699 with last year’s specs, Android 17, and a few new features ([source](https://9to5google.com/2026/08/27/samsung-galaxy-s26-fe-release-price/))
 - **2026-08-19** — There’s a Very Simple Reason Why You Love the Slate Truck ([source](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/))
 - **2026-08-18** — Degraded performance for multiple models ([source](https://status.claude.com/incidents/q7txxvbsftgq))
