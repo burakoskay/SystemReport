@@ -1,16 +1,17 @@
 ---
 title: "Legal Crossroads: Data Rights, Betting Rules"
 date: 2026-08-29T00:42:10.439Z
-modified_date: 2026-08-31T23:34:12.534Z
+modified_date: 2026-09-13T14:01:32.286Z
 tags: ["legal","regulation","privacy","politics","gambling"]
 hero_image: "/hero/2026-08-29-legal-crossroads-data-rights-betting-rules-71bf6a.jpg"
 hero_image_credit_name: "Sora Shimazaki"
 hero_image_credit_url: "https://www.pexels.com/@sora-shimazaki"
 visual_keyword: "courtroom with gavel and digital data streams"
 description: "Recent court rulings and ICE action expose how regulators are tightening tech‑related legal boundaries across data access, gambling, and political advertising."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 ## ICE detains Milo Yiannopoulos in Louisiana
@@ -48,4 +49,5 @@ Track the ICE removal hearing for Yiannopoulos to gauge how high‑profile cases
 
 ## Updates
 
+- **2026-09-13** — Fusion power startups find new partners in the defense world ([source](https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/))
 - **2026-08-31** — Kalshi bans George Santos for life over State of the Union bets ([source](https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/))

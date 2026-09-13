@@ -1,16 +1,17 @@
 ---
 title: "Venmo on Google Play"
 date: 2026-08-10T12:56:53.718Z
-modified_date: 2026-08-22T00:53:09.075Z
+modified_date: 2026-09-13T14:02:14.245Z
 tags: ["digital payments","google play","venmo"]
 hero_image: "/hero/2026-08-10-venmo-on-google-play-a21969.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "mobile payment screen"
 description: "Google Play now accepts Venmo payments, expanding user options for in-app purchases."
-sources_count: 2
+sources_count: 3
 author: "david-okafor"
 ---
+
 
 
 
@@ -39,4 +40,5 @@ Moving forward, it will be interesting to observe how the integration of Venmo w
 
 ## Updates
 
+- **2026-09-13** — Why do routers have so many antennas? ([source](https://www.engadget.com/2251223/why-routers-have-many-antennas/))
 - **2026-08-22** — Tesla’s Door Handles Lead to Its Biggest Recall Yet ([source](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/))

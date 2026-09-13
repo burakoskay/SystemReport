@@ -1,16 +1,17 @@
 ---
 title: "Uber's Robotaxis Get Clean and Charged by Hertz's New Affiliate"
 date: 2026-04-30T17:29:25.462Z
-modified_date: 2026-08-27T18:48:07.060Z
+modified_date: 2026-09-13T14:02:00.259Z
 tags: ["autonomous vehicles","ride-hailing","fleet management"]
 hero_image: "/hero/2026-04-30-uber-s-robotaxis-get-clean-and-charged-by-hertz-s-new-affiliate-8dec85.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Uber partners with Hertz to manage its Lucid Motors robotaxis through a new affiliate called Oro Mobility, aiming to improve fleet management."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -77,5 +78,6 @@ Furthermore, the use of autonomous vehicles in ride-hailing services has the pot
 
 ## Updates
 
+- **2026-09-13** — The iPhone Duo didn’t reinvent Android foldables, but I fear the copycats anyway ([source](https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/))
 - **2026-08-27** — How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more ([source](https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/))
 - **2026-05-05** — The Best Food Gifts to Buy Online, as Tested by Our Tastebuds (2026) ([source](https://www.wired.com/gallery/the-best-food-gifts/))

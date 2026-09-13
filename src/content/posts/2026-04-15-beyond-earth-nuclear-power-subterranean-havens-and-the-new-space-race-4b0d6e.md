@@ -1,16 +1,17 @@
 ---
 title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
-modified_date: 2026-09-10T23:38:01.947Z
+modified_date: 2026-09-13T14:01:39.321Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"
 description: "From NASA's lunar nuclear reactors to the search for life in alien caves and the shifting dynamics of commercial launches, humanity is charting an ambitious new course in space."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ is becoming a paramount factor. This competitive landscape is driving innovation
 
 ## Updates
 
+- **2026-09-13** — The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026) ([source](https://www.wired.com/story/best-smart-bird-feeders/))
 - **2026-09-10** — Slack can now vibe-code interactive charts and reports inside chats ([source](https://www.theverge.com/tech/989853/slackforce-surfaces-launch))
 - **2026-06-03** — Deals: Early Prime Day AirPods discounts, 24GB MacBook Air, Apple Watch Ultra 3, Apple cables from $7.50, more ([source](https://9to5mac.com/2026/06/03/early-prime-day-deals-airpods-macbook-apple-watch-ultra/))
 - **2026-05-23** — The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026) ([source](https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/))

@@ -1,18 +1,20 @@
 ---
 title: "California bans under‑16 social apps as Canada tightens AI rules"
 date: 2026-09-11T14:05:02.653Z
+modified_date: 2026-09-13T14:01:46.281Z
 tags: ["regulation","social media","ai"]
 hero_image: "/hero/2026-09-11-california-bans-under-16-social-apps-as-canada-tightens-ai-rules-9ec0e8.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "young people looking at smartphones with a government seal overlay"
 description: "New California law blocks minors from social media and adds AI chatbot rules, echoing Canada’s sweeping Bill C‑34 and sparking industry debate."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-09-11-california-bans-under-16-social-apps-as-canada-tightens-ai-rules-9ec0e8.mp3"
 audio_bytes: 571395
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 California’s governor signed two statutes that bar anyone under 16 from using mainstream social platforms and impose a regulatory framework for AI chatbots. The move follows a wave of legislation aimed at curbing digital harms to minors.
 
@@ -47,3 +49,7 @@ Start‑ups like ChatDox illustrate the commercial potential of AI tools that in
 ## What to Watch
 
 Watch for the Digital Safety Commission’s first rulebook, expected later this year. Track how California’s age‑verification mandates affect user onboarding metrics for major platforms. Monitor whether Meta’s Community Notes pilot expands or contracts in response to regulatory pressure. Finally, keep an eye on federal developments in the United States; the Trump administration’s deregulatory stance could reshape the balance between state‑level bans and national policy.
+
+## Updates
+
+- **2026-09-13** — AI Agents Are Thirsty for Power ([source](https://www.wired.com/story/ai-agents-are-thirsty-for-power/))

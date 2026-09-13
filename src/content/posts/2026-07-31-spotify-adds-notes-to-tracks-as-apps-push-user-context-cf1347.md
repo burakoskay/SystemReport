@@ -1,16 +1,17 @@
 ---
 title: "Spotify adds notes to tracks as apps push user context"
 date: 2026-07-31T21:06:24.387Z
-modified_date: 2026-09-13T02:36:38.417Z
+modified_date: 2026-09-13T14:02:21.291Z
 tags: ["spotify","shazam","apple","android","technews"]
 hero_image: "/hero/2026-07-31-spotify-adds-notes-to-tracks-as-apps-push-user-context-cf1347.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "person editing music playlist on smartphone"
 description: "Spotify rolls out track‑level notes, Shazam drops an Ariana Grande sticker pack, and Apple TV releases full Comic‑Con panels, signaling a shift toward richer user‑generated content."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Keep an eye on Spotify’s usage statistics over the next quarter, and watch how
 
 ## Updates
 
+- **2026-09-13** — Don't be the out of touch Kung Fu master ([source](https://twitter.com/ID_AA_Carmack/status/2098443262214230095))
 - **2026-09-13** — What's the difference between your iPhone's Do Not Disturb and Focus modes? ([source](https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/))
 - **2026-08-13** — Happy 45th Birthday to the IBM PC and Model F/XT ([source](https://sharktastica.co.uk/articles/pc-fxt-45))
 
