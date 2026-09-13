@@ -1,16 +1,17 @@
 ---
 title: "Spotify adds notes to tracks as apps push user context"
 date: 2026-07-31T21:06:24.387Z
-modified_date: 2026-08-13T12:57:02.078Z
+modified_date: 2026-09-13T02:36:38.417Z
 tags: ["spotify","shazam","apple","android","technews"]
 hero_image: "/hero/2026-07-31-spotify-adds-notes-to-tracks-as-apps-push-user-context-cf1347.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "person editing music playlist on smartphone"
 description: "Spotify rolls out track‑level notes, Shazam drops an Ariana Grande sticker pack, and Apple TV releases full Comic‑Con panels, signaling a shift toward richer user‑generated content."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 Spotify’s new **User Notes** feature lets anyone tack a short caption onto a single track inside a playlist. The move blurs the line between personal curation and social commentary, giving listeners a way to annotate moods, reminders, or inside jokes without leaving the app.[^1][^2][^3][^4][^5] (Source: 9to5Mac)
@@ -49,6 +50,7 @@ Keep an eye on Spotify’s usage statistics over the next quarter, and watch how
 
 ## Updates
 
+- **2026-09-13** — What's the difference between your iPhone's Do Not Disturb and Focus modes? ([source](https://www.engadget.com/2252804/iphone-do-not-disturb-vs-focus-mode-difference-between/))
 - **2026-08-13** — Happy 45th Birthday to the IBM PC and Model F/XT ([source](https://sharktastica.co.uk/articles/pc-fxt-45))
 
 [^1]: [9to5mac.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEViDQEwFElVgJC2neizgmiSKT8dS5FB4nH1yiM1sLwiy_eERTUSNgchDOQ2pTul1bl5EtDejbQejEbrZsrjxGuYgppRUIqxZstIZgCmA6uzYgedL_jRNP70kxyIvjgSOwlmOVLvC14Bwil1qxpeaEvh7y9Wqc9wXpJSYGldesX-3tYFw-THoBdSydhTPvMee47AUr46niqv5kNN-brTHxTsSDM8A==)
