@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Launches Agent-First Android OS"
 date: 2026-06-02T23:55:11.442Z
-modified_date: 2026-08-31T18:38:21.460Z
+modified_date: 2026-09-14T20:09:08.121Z
 tags: ["android","ai","privacy","space","cloud"]
 hero_image: "/hero/2026-06-02-microsoft-launches-agent-first-android-os-544f38.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "futuristic smartphone interface with AI agents overlay"
 description: "Microsoft launches Project Solara, a new Android OS for AI agents, while China tests a reusable rocket, Slate Auto strips connectivity from its EV pickup, and Perplexity adds local‑cloud task splitting."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-02-microsoft-launches-agent-first-android-os-544f38.mp3"
 audio_bytes: 553005
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Project Solara swaps apps for AI agents
@@ -57,4 +58,5 @@ Tracking these developments will show whether agents, reusability, privacy‑fir
 
 ## Updates
 
+- **2026-09-14** — Samsung reportedly launching Galaxy Tab S12, maybe more devices on October 7 ([source](https://9to5google.com/2026/09/14/galaxy-tab-s12-launch-date-report/))
 - **2026-08-31** — Apple could discontinue 10+ popular products next week ([source](https://9to5mac.com/2026/08/31/apple-could-discontinue-10-popular-products-next-week/))

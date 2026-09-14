@@ -1,16 +1,17 @@
 ---
 title: "Camera Buying Guide"
 date: 2026-08-10T11:04:22.652Z
-modified_date: 2026-09-08T19:13:57.612Z
+modified_date: 2026-09-14T20:09:18.414Z
 tags: ["Camera Buying Guide","Photography","Camera Features"]
 hero_image: "/hero/2026-08-10-camera-buying-guide-b886f2.jpg"
 hero_image_credit_name: "Bruno Scramgnon"
 hero_image_credit_url: "https://www.pexels.com/@brunoscramgnon"
 visual_keyword: "Camera Lens"
 description: "Find the best camera for your needs"
-sources_count: 2
+sources_count: 3
 author: "david-okafor"
 ---
+
 
 
 ## Introduction to Camera Buying
@@ -40,4 +41,5 @@ The choice of camera can have a significant impact on the type of photography yo
 
 ## Updates
 
+- **2026-09-14** — Our top iPhone 18 Pro accessories to upgrade your setup ([source](https://9to5mac.com/2026/09/14/best-iphone-18-pro-accessories/))
 - **2026-09-08** — What is the purpose of LiDAR on your iPhone and how do you use it? ([source](https://www.engadget.com/2250700/iphone-lidar-sensor-purpose-how-to-use/))

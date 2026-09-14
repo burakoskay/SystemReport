@@ -1,15 +1,17 @@
 ---
 title: "AI startups surge, but privacy battles loom"
 date: 2026-08-18T22:28:39.853Z
+modified_date: 2026-09-14T20:08:04.641Z
 tags: ["ai","startup","privacy","valuation","cloud"]
 hero_image: "/hero/2026-08-18-ai-startups-surge-but-privacy-battles-loom-bdfdb6.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center with AI servers and encrypted lock"
 description: "Etched hits a $21 B valuation, Perplexity adds millions of Indian users, and Proton warns AI must respect privacy. The stakes for the AI market sharpen."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 Etched's valuation jumped to $21 B after Jane Street deployed its first AI cluster system, prompting a fresh massive funding round. At the same time, Perplexity's free AI offer in India added millions of users and lifted revenue by about 60 %.
 
@@ -48,6 +50,10 @@ Regulators are tightening around data privacy, with the EU AI Act expected to im
 Investors will watch Etched’s next hardware iteration for signs of performance gains that justify the $21 B valuation. Perplexity’s churn metrics after the Airtel promotion will reveal whether free‑to‑pay conversion can sustain long‑term revenue. Proton’s upcoming AI‑enabled VPN feature, slated for a Q4 beta, will test the market’s appetite for privacy‑first AI.
 
 **What to watch:** the next funding round from Etched, Perplexity’s Q4 earnings release, and Proton’s beta launch of locally processed AI. Each data point will indicate whether the current growth strategies can survive heightened privacy regulation and the competitive push for faster, cheaper AI compute.
+
+## Updates
+
+- **2026-09-14** — Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world ([source](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit))
 
 [^1]: [kucoin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRsp9Gy-NR_C6Q1UCj32ozI1h8jiR99QGQcURttVQxTu24enIjpmh7jJyvD5ibKk2pIX1fVLI3TAwskeX1iVElyEAITRKT9Lb0FO2LglKWc63eN6fcgs3N1gHB625ni29CY16J93qIpHAjo6kiXH0Xxg_TXM8-fuUdNGZC1qz-9Gm0rUVLMfsZPBHMqJYAOLnjsCzA60H3PD9lAztbU9xPwEhSgQ==)
 [^2]: [globenewswire.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnZERByF8X1H9RnOS6b1ys_TEcq_bKI0IJsgYPZHpRXm9I4MUqCmv3VVUm_muMiq16Ogo2uxUZ2GEZr19xoetXXKePHf1v7IN-ox3AQoIyjXRvS0QlYm9vMSpYbUuj0X1V3Tsr3PqA92DHN3Ep4CtUyAmXQhFDp4mqHRiTQAzIMKYH3lrvFuL6wVLpebDVdJeCm_SvJz6SDfWI5fNsQKYah6YIB0fHLwQhdwHNW7_Y9OJVhYmFFc_97rBn7JIas52e7UphvfKYvYiZxvWwr4QTVJ1CKP_N5Qz560tqIxU=)

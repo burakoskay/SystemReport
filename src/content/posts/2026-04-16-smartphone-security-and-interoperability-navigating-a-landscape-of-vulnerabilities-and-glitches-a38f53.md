@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-08-21T22:17:45.373Z
+modified_date: 2026-09-14T20:08:36.944Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 17
+sources_count: 18
 author: "david-okafor"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-09-14** — New corners, new lights for 2028 Volvo XC40 ([source](https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/))
 - **2026-08-21** — Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes ([source](https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/))
 - **2026-07-27** — You can customize your Samsung Galaxy Watch with this free design tool ([source](https://www.engadget.com/2218758/customize-samsung-galaxy-watch-free-graphic-design-tool-watch-face-studio/))
 - **2026-06-04** — Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’ ([source](https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/))

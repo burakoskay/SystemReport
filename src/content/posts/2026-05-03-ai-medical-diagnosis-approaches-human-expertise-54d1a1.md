@@ -1,16 +1,17 @@
 ---
 title: "AI Medical Diagnosis Approaches Human Expertise"
 date: 2026-05-03T19:07:17.829Z
-modified_date: 2026-09-10T17:38:28.614Z
+modified_date: 2026-09-14T20:08:52.759Z
 tags: ["AI","Medical Diagnosis","Healthcare"]
 hero_image: "/hero/2026-05-03-ai-medical-diagnosis-approaches-human-expertise-54d1a1.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Medical Imaging"
 description: "AI systems match human doctors in medical diagnosis accuracy"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -37,5 +38,6 @@ The future of AI medical diagnosis is promising, with potential applications in 
 
 ## Updates
 
+- **2026-09-14** — What's the biggest IMAX theater in the world? It depends who you ask ([source](https://www.engadget.com/2253781/biggest-imax-theater-in-world/))
 - **2026-09-10** — The latest Avatar: Seven Havens trailer gives us a deeper dive into the characters and story ([source](https://www.engadget.com/2255071/the-latest-avatar-seven-havens-trailer-gives-us-a-deeper-dive-into-the-characters-and-story/))
 - **2026-05-22** — The memory shortage is causing a repricing of consumer electronics ([source](https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone))

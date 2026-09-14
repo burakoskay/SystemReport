@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Arrives on WhatsApp with Private 'Incognito Chat'"
 date: 2026-05-13T18:09:56.685Z
-modified_date: 2026-08-18T04:30:09.990Z
+modified_date: 2026-09-14T20:08:25.897Z
 tags: ["Meta AI","WhatsApp","AI chatbot","private conversations"]
 hero_image: "/hero/2026-05-13-meta-ai-arrives-on-whatsapp-with-private-incognito-chat-49105b.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Meta AI on WhatsApp"
 description: "Meta brings AI chatbot to WhatsApp with end-to-end encryption, allowing private conversations."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ However, the integration of Meta AI with WhatsApp also raises concerns about use
 
 ## Updates
 
+- **2026-09-14** — macOS 27 is available now ([source](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now))
 - **2026-08-18** — Ask HN: Does anyone else feel like nothing matters anymore? ([source](https://news.ycombinator.com/item?id=49340013))
 - **2026-08-08** — Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation ([source](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/))
 - **2026-08-07** — Judge rules Meta caused "public nuisance" and must fund mental health treatment ([source](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/))

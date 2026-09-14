@@ -1,16 +1,17 @@
 ---
 title: "Google Halts Liquid Glass on Android"
 date: 2026-05-06T21:34:28.920Z
-modified_date: 2026-09-13T22:01:54.317Z
+modified_date: 2026-09-14T20:09:45.036Z
 tags: ["android","apple","liquid-glass","google","redesign"]
 hero_image: "/hero/2026-05-06-google-halts-liquid-glass-on-android-2c5049.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Pixel 8 Pro smartphone on a desk with Android 14 UI elements displayed on screen"
 description: "Google's Android President confirms Liquid Glass won't arrive on Pixels, Apple's divisive design remains iOS-exclusive."
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Google’s next major Android update is scheduled for Q4 2024, with a focus on A
 
 ## Updates
 
+- **2026-09-14** — iOS 27, iPadOS 27, and macOS 27 ([source](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/))
 - **2026-09-13** — Why is Google still serving dodgy ads? ([source](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads))
 - **2026-08-18** — Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 [U: watchOS 27] ([source](https://9to5mac.com/2026/08/18/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/))
 - **2026-08-17** — Apple releases public beta 4 for iOS 27, macOS 27, iPadOS 27, tvOS 27 ([source](https://9to5mac.com/2026/08/17/apple-releases-public-beta-4-for-ios-27-macos-27-ipados-27-tvos-27/))

@@ -1,18 +1,20 @@
 ---
 title: "VCs back SVB as AI-native biotech fund bets on small wins"
 date: 2026-08-30T19:05:08.731Z
+modified_date: 2026-09-14T20:07:54.268Z
 tags: ["venture-capital","silicon-valley-bank","biotech","ai"]
 hero_image: "/hero/2026-08-30-vcs-back-svb-as-ai-native-biotech-fund-bets-on-small-wins-2de5a0.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "silicon valley bank building with venture capital logos"
 description: "Over 100 VCs sign a joint statement backing Silicon Valley Bank while biotech veteran Vijay Pande launches a lean AI‑focused fund, signaling a shift in venture betting."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-08-30-vcs-back-svb-as-ai-native-biotech-fund-bets-on-small-wins-2de5a0.mp3"
 audio_bytes: 555303
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Venture capital rallies behind Silicon Valley Bank
 
@@ -49,3 +51,7 @@ The immediate consequence is a potential re‑balancing of power between capital
 Watch for three concrete developments over the next six months. First, monitor whether any major acquisition or recapitalization of Silicon Valley Bank materializes, and how quickly venture firms re‑establish credit lines for their portfolios. Second, track VZVC’s first few investments—particularly any public data releases or benchmark results that demonstrate AI‑driven hit‑rate improvements in early‑stage drug discovery. Third, keep an eye on policy proposals from the Treasury and Congress regarding deposit insurance limits and capital requirements for regional banks; any changes could reshape the financing landscape for early‑stage startups across all sectors.
 
 These threads will reveal whether the venture community is merely patching a broken banking system or fundamentally re‑engineering how capital fuels scientific breakthroughs.
+
+## Updates
+
+- **2026-09-14** — macOS 27: new Siri takes on AI productivity apps ([source](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/))

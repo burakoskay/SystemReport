@@ -1,15 +1,17 @@
 ---
 title: "Joi AI's Monthlong Study on Masturbation with AI Companions"
 date: 2026-08-14T10:55:11.023Z
+modified_date: 2026-09-14T20:09:34.001Z
 tags: ["AI","Intimacy","Mental Health"]
 hero_image: "/hero/2026-08-14-joi-ai-s-monthlong-study-on-masturbation-with-ai-companions-f372da.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI Companions"
 description: "Joi AI hired 10 masturbation consultants for a study on AI companions"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Joi AI hired 10 masturbation consultants to participate in a monthlong study where they will masturbate using AI companions. The company frames this study as a 'wellness' initiative aimed at solving male loneliness.
@@ -48,3 +50,7 @@ On the other hand, if the study finds that AI companions are not effective in ad
 
 ## Conclusion
 Joi AI's study on masturbation with AI companions is a unique approach to addressing male loneliness. The company's framing of the study as a wellness initiative highlights the potential benefits of AI in human intimacy. As the study continues, it will be worth examining the company's findings and the potential implications for the broader industry.
+
+## Updates
+
+- **2026-09-14** — MagSafe Monday: Vinich’s MagSafe wallet leans into a classic look ([source](https://9to5mac.com/2026/09/14/vinichs-magsafe-wallet-leans-into-a-classic-look/))

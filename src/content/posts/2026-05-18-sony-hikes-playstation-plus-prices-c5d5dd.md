@@ -1,19 +1,20 @@
 ---
 title: "Sony Hikes PlayStation Plus Prices"
 date: 2026-05-18T18:06:16.668Z
-modified_date: 2026-09-08T14:05:24.607Z
+modified_date: 2026-09-14T20:07:59.470Z
 tags: ["PlayStation Plus","Sony","gaming","subscription prices"]
 hero_image: "/hero/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.jpg"
 hero_image_credit_name: "Garrett Morrow"
 hero_image_credit_url: "https://www.pexels.com/@garrettmorrow"
 visual_keyword: "PlayStation Plus"
 description: "Sony raises PlayStation Plus subscription prices in select regions, citing market conditions."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.mp3"
 audio_bytes: 631999
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The gaming industry is expected to continue growing, with new technologies and i
 
 ## Updates
 
+- **2026-09-14** — Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll ([source](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/))
 - **2026-09-08** — Samsung and TSMC hope AMSL's new machines will help address the chip shortage ([source](https://www.engadget.com/2252462/samsung-tsmc-commit-asml-fab/))
 - **2026-08-15** — Stripe is reportedly in talks to buy PayPal ([source](https://www.engadget.com/2237637/stripe-reportedly-to-buy-paypal/))
 - **2026-07-26** — Tapbots launches Pastebot 3 with improved organization and automation tools ([source](https://9to5mac.com/2026/07/24/tapbots-launches-pastebot-3-with-improved-organization-and-automation-tools/))

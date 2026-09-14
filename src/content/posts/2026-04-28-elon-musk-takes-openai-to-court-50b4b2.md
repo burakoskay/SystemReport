@@ -1,15 +1,17 @@
 ---
 title: "Elon Musk Takes OpenAI to Court"
 date: 2026-04-28T23:00:45.800Z
+modified_date: 2026-09-14T20:08:42.204Z
 tags: ["AI","OpenAI","Elon Musk"]
 hero_image: "/hero/2026-04-28-elon-musk-takes-openai-to-court-50b4b2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Elon Musk has taken OpenAI and its CEO Sam Altman to court, alleging they betrayed the company's founding mission for profit. The trial could impact the future of AI development."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Musk vs. OpenAI: A High-Stakes Trial
@@ -76,3 +78,6 @@ The trial has sparked a heated debate within the tech industry about the priorit
 
 The outcome of the trial could have significant implications for the future of AI research and development. If Musk succeeds, it could derail OpenAI's plans for an IPO and impact the company's ability to raise funds. The trial could also shape the corporate governance structure of AI research and development.
 
+## Updates
+
+- **2026-09-14** — F1 in Madrid: Like Monaco but twice as long and none of the glamour ([source](https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/))

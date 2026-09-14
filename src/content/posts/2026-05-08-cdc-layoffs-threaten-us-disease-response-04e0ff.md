@@ -1,16 +1,17 @@
 ---
 title: "CDC Layoffs Threaten US Disease Response"
 date: 2026-05-08T03:37:43.942Z
-modified_date: 2026-08-08T22:22:52.439Z
+modified_date: 2026-09-14T20:09:55.482Z
 tags: ["CDC","public health","layoffs"]
 hero_image: "/hero/2026-05-08-cdc-layoffs-threaten-us-disease-response-04e0ff.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "CDC"
 description: "CDC layoffs raise concerns about US ability to respond to infectious disease outbreaks"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ The long-term implications of the CDC layoffs are uncertain, but it is clear tha
 
 ## Updates
 
+- **2026-09-14** — OpenAI bots knew about the RubyGems caching vulnerability ([source](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/))
 - **2026-08-08** — X replaces its revenue-sharing program with ‘Original Content Rewards’ ([source](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards))
 - **2026-05-17** — TechCrunch Mobility: The AI skills arms race is coming for automotive ([source](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/))
