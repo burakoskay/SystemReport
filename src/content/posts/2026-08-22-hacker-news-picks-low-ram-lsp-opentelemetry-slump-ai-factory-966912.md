@@ -1,15 +1,17 @@
 ---
 title: "Hacker News picks: low‑RAM LSP, OpenTelemetry slump, AI factory"
 date: 2026-08-22T12:28:21.398Z
+modified_date: 2026-09-14T14:39:22.216Z
 tags: ["hackernews","rust","opentelemetry","ai","devtools"]
 hero_image: "/hero/2026-08-22-hacker-news-picks-low-ram-lsp-opentelemetry-slump-ai-factory-966912.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "developer workstation with code editors and server racks"
 description: "A look at three Hacker News posts that expose memory‑hungry LSPs, OpenTelemetry adoption stalls, and a near‑self‑hosted AI software factory."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 Rust Glancer slashes LSP memory use.
 
@@ -44,3 +46,7 @@ Commenters shared their own turning points, creating a thread that reads like a 
 The three Hacker News posts illustrate tension points in the developer ecosystem. Rust Glancer’s memory claim will be tested as more editors adopt low‑RAM LSPs. OpenTelemetry’s adoption gaps may prompt vendors to accelerate support or simplify the spec. The self‑hosted agentic factory model could inspire new CI products that blend autonomy with sandbox security. Tracking subsequent releases, benchmark updates, and community contributions will reveal whether these experiments reshape tooling standards.
 
 Engineers should monitor the Rust Glancer repository for performance regressions, watch OpenTelemetry’s quarterly reports for adoption metrics, and follow the author’s blog for updates on the sandboxed factory. The next wave of discussion on Hacker News will likely surface follow‑up data that validates or refutes the early claims made in these posts.
+
+## Updates
+
+- **2026-09-14** — Here’s how the iPhone Duo compares to the Samsung Galaxy Z Fold 8 ([source](https://9to5mac.com/2026/09/14/heres-how-the-iphone-duo-compares-to-the-samsung-galaxy-z-fold-8/))

@@ -1,18 +1,20 @@
 ---
 title: "Musk Inflates Expectations"
 date: 2026-08-05T05:12:11.631Z
+modified_date: 2026-09-14T14:39:59.224Z
 tags: ["SpaceX","Elon Musk","Private Space Industry"]
 hero_image: "/hero/2026-08-05-musk-inflates-expectations-472f33.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Elon Musk ups the ante on SpaceX's earnings call"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-05-musk-inflates-expectations-472f33.mp3"
 audio_bytes: 596472
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to SpaceX's Earnings Call
 Elon Musk inflated the already-big promises made by SpaceX CFO Bret Johnsen and COO Gwynne Shotwell on the company's first earnings call. This move by Musk is consistent with his reputation for pushing boundaries and setting high expectations for his companies.
@@ -30,3 +32,7 @@ The technical aspects of SpaceX's operations are crucial to its success. The com
 Musk's actions on the call will likely have significant implications for the company's future plans. As SpaceX continues to grow and expand its operations, the company will need to balance its ambitious goals with the realities of the industry. With Musk at the helm, SpaceX is likely to remain a major player in the private space industry, and his tendency to inflate expectations will continue to shape the company's trajectory. The company's success will also have implications for the broader industry, as it will set the stage for future innovations and advancements.
 ## What's Next
 Musk's actions on the call will likely impact how investors and the public perceive SpaceX's future plans. As the company continues to grow and expand its operations, it will be important for SpaceX to deliver on its promises and meet the expectations set by Musk. The company's ability to do so will depend on its ability to innovate and adapt to the changing landscape of the private space industry.
+
+## Updates
+
+- **2026-09-14** — The four-hour-long Elon Musk documentary might be preaching to the choir ([source](https://www.theverge.com/entertainment/994596/musk-documentary-review-tiff-2026))

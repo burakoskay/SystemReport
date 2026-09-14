@@ -1,18 +1,20 @@
 ---
 title: "Apple fixes bricked iPhones with Error 53 patch"
 date: 2026-05-29T22:04:25.539Z
+modified_date: 2026-09-14T14:39:07.253Z
 tags: ["apple","ios","security"]
 hero_image: "/hero/2026-05-29-apple-fixes-bricked-iphones-with-error-53-patch-fd2e92.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "concerned smartphone user looking at a warning screen"
 description: "Apple released a series of iOS updates tackling a repair‑related bricking bug, Spectre mitigation, and iOS 12 battery drain, while delaying its privacy ATT rollout, sparking developer and user friction."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-29-apple-fixes-bricked-iphones-with-error-53-patch-fd2e92.mp3"
 audio_bytes: 595845
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple unblocks bricked iPhones with a targeted iOS 9.2.1 patch
 
@@ -49,3 +51,7 @@ Privacy advocates such as Amnesty International and the Electronic Frontier Foun
 ## What to watch
 
 Track the rollout of the iOS 9.2.1 patch on iTunes‑only updates and monitor any court filings in the Error 53 class action. Keep an eye on the next macOS security bulletin for follow‑up Spectre tweaks. Finally, note the exact date Apple enables ATT for iOS 15, as that will determine how advertisers reshape their measurement tools.
+
+## Updates
+
+- **2026-09-14** — AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them ([source](https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/))
