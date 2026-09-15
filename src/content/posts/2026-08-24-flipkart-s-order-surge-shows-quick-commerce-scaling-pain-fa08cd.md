@@ -1,15 +1,17 @@
 ---
 title: "Flipkart’s order surge shows quick‑commerce scaling pain"
 date: 2026-08-24T14:49:22.153Z
+modified_date: 2026-09-15T17:53:39.512Z
 tags: ["e-commerce","quick-commerce","big-data","ai","retail"]
 hero_image: "/hero/2026-08-24-flipkart-s-order-surge-shows-quick-commerce-scaling-pain-fa08cd.jpg"
 hero_image_credit_name: "Shuaizhi Tian"
 hero_image_credit_url: "https://www.pexels.com/@shuaizhi-tian-485596"
 visual_keyword: "busy Indian warehouse with delivery scooters and data servers"
 description: "Flipkart now ships over a million orders daily, while retailers wrestle with price hikes, Hadoop data pipelines, and new AI models reshaping e‑commerce."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Flipkart’s rapid‑order escalation
 
@@ -48,3 +50,7 @@ Early adopters report that the new embeddings cut latency in product‑discovery
 The next quarter will reveal whether Flipkart can sustain its three‑fold order growth without sacrificing delivery reliability. Watch for any announcements about automation investments or rider‑pay reforms that could reshape cost structures.
 
 Logitech’s court date and the potential refund ruling will signal how aggressively hardware firms can adjust pricing amid tariff uncertainty. Meanwhile, retailers that double‑down on Hadoop or adopt Marqo’s fashion models should monitor conversion metrics closely; measurable lifts in search relevance or basket size will validate the hefty engineering effort behind these technologies.
+
+## Updates
+
+- **2026-09-15** — Meta&#8217;s new One subscriptions put a price on social media and AI ([source](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai))

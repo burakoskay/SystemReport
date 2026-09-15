@@ -1,16 +1,17 @@
 ---
 title: "Joi AI's Monthlong Study on Masturbation with AI Companions"
 date: 2026-08-14T10:55:11.023Z
-modified_date: 2026-09-14T20:09:34.001Z
+modified_date: 2026-09-15T17:54:20.158Z
 tags: ["AI","Intimacy","Mental Health"]
 hero_image: "/hero/2026-08-14-joi-ai-s-monthlong-study-on-masturbation-with-ai-companions-f372da.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI Companions"
 description: "Joi AI hired 10 masturbation consultants for a study on AI companions"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Introduction
@@ -53,4 +54,5 @@ Joi AI's study on masturbation with AI companions is a unique approach to addres
 
 ## Updates
 
+- **2026-09-15** — Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/))
 - **2026-09-14** — MagSafe Monday: Vinich’s MagSafe wallet leans into a classic look ([source](https://9to5mac.com/2026/09/14/vinichs-magsafe-wallet-leans-into-a-classic-look/))

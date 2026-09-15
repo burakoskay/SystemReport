@@ -1,19 +1,20 @@
 ---
 title: "Apple Home Hub"
 date: 2026-08-03T02:12:09.671Z
-modified_date: 2026-08-18T16:26:30.978Z
+modified_date: 2026-09-15T17:55:14.252Z
 tags: ["Apple Home","Smart Home","HomeKit"]
 hero_image: "/hero/2026-08-03-apple-home-hub-ce88bf.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Smart Home Devices"
 description: "Apple Home requires a dedicated hub"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-03-apple-home-hub-ce88bf.mp3"
 audio_bytes: 587277
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction to Apple Home
@@ -35,4 +36,5 @@ The requirement for a dedicated Apple Home hub has significant implications for 
 
 ## Updates
 
+- **2026-09-15** — YouTube’s login-breaking bug is getting a fix on TVs and consoles ([source](https://9to5google.com/2026/09/15/youtube-login-bug-fixed/))
 - **2026-08-18** — Security Bite: Apple’s camera AirPods are going to make Meta glasses look reckless ([source](https://9to5mac.com/2026/08/18/security-bite-apples-camera-airpods-are-going-to-make-meta-glasses-look-reckless/))

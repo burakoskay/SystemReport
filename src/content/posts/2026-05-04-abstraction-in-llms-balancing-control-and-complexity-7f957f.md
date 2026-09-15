@@ -1,16 +1,17 @@
 ---
 title: "Abstraction in LLMs: Balancing Control and Complexity"
 date: 2026-05-04T06:44:35.355Z
-modified_date: 2026-09-14T07:27:39.109Z
+modified_date: 2026-09-15T17:53:32.762Z
 tags: ["LLMs","Abstraction","AI Development"]
 hero_image: "/hero/2026-05-04-abstraction-in-llms-balancing-control-and-complexity-7f957f.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ In conclusion, the debate over abstraction in LLMs is a complex and multifaceted
 
 ## Updates
 
+- **2026-09-15** — Now Light’s minimalist phone can easily call an Uber ([source](https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app))
 - **2026-09-14** — MagSafe vs. USB-C: Which is better for charging your MacBook? ([source](https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/))
 - **2026-09-03** — TikTok comments are getting more interactive with voice comments, polls, and more ([source](https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/))
 - **2026-08-31** — The 9 Best MagSafe Phone Grips for Your Butter Fingers (2026) ([source](https://www.wired.com/gallery/best-magsafe-grips/))
