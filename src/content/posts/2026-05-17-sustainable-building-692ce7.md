@@ -1,15 +1,17 @@
 ---
 title: "Sustainable Building"
 date: 2026-05-17T09:51:37.828Z
+modified_date: 2026-09-15T13:06:04.860Z
 tags: ["sustainable building","eco-friendly materials","construction industry"]
 hero_image: "/hero/2026-05-17-sustainable-building-692ce7.jpg"
 hero_image_credit_name: "Calvin Seng"
 hero_image_credit_url: "https://www.pexels.com/@calvinseng"
 visual_keyword: "sustainable building"
 description: "New materials and technologies are changing the construction sector"
-sources_count: 5
+sources_count: 6
 author: "elena-marchetti"
 ---
+
 
 ## Introduction to Sustainable Building
 The construction sector is one of the largest contributors to global CO₂ emissions, accounting for around 40 percent of the total. As the world shifts towards more sustainable practices, the development of eco-friendly building materials has become a key area of focus. In this article, we will explore some of the innovative materials and technologies that are being used to reduce the environmental impact of the construction industry.
@@ -48,3 +50,7 @@ The decision by regulators and industry leaders to adopt more sustainable buildi
 As the construction industry continues to evolve, we can expect to see more innovative materials and technologies being developed and implemented. Some key areas to watch include the use of fungi-based building materials, transparent metamaterials, and other sustainable solutions. We can also expect to see increased investment in research and development, as well as more stringent regulations and standards for sustainable building practices.
 
 The future of sustainable building is likely to be shaped by a combination of technological innovation, regulatory developments, and changing consumer preferences. As consumers become more aware of the environmental impact of buildings, they are likely to demand more sustainable solutions, driving innovation and adoption in the industry.
+
+## Updates
+
+- **2026-09-15** — Samsung’s taking a “More is More” approach to foldable competition ([source](https://9to5google.com/2026/09/15/samsungs-taking-a-more-is-more-approach-to-foldable-competition/))

@@ -1,15 +1,17 @@
 ---
 title: "Google Employee Charged with $1M Insider Trading on Polymarket"
 date: 2026-05-28T10:22:04.161Z
+modified_date: 2026-09-15T13:04:42.567Z
 tags: ["insider trading","prediction markets","regulation"]
 hero_image: "/hero/2026-05-28-google-employee-charged-with-1m-insider-trading-on-polymarket-52945a.jpg"
 hero_image_credit_name: "Eftim Futekov"
 hero_image_credit_url: "https://www.pexels.com/@eftim-futekov-372778940"
 visual_keyword: "polymarket"
 description: "Google employee accused of insider trading on prediction market Polymarket using non-public search term data."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 ## Google Employee Charged with $1M Insider Trading Bet
@@ -64,3 +66,6 @@ The outcome of the case will likely have far-reaching implications for the predi
 
 In conclusion, the Google employee's case is a significant development in the regulation of prediction markets, and highlights the need for clear regulations and guidelines to prevent insider trading and ensure the integrity of the betting process.
 
+## Updates
+
+- **2026-09-15** — New Italian unicorn Exein rides the physical AI wave ([source](https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/))

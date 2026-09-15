@@ -1,16 +1,17 @@
 ---
 title: "EU Age Verification App Hacked in 2 Minutes"
 date: 2026-04-18T11:07:12.138Z
-modified_date: 2026-06-05T23:15:09.080Z
+modified_date: 2026-09-15T13:04:22.110Z
 tags: ["EU","Age Verification","Security Flaw","Data Breach"]
 hero_image: "/hero/2026-04-18-eu-age-verification-app-hacked-in-2-minutes-0c73e9.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Hacked"
 description: "EU's age-verification app hacked in 2 minutes"
-sources_count: 2
+sources_count: 3
 author: "lena-volkov"
 ---
+
 
 
 ## Security Flaw Exposed
@@ -22,4 +23,5 @@ The hack was performed using a SQL injection attack, discovered by security rese
 
 ## Updates
 
+- **2026-09-15** — Lawmakers Want States to Crack Down on Flock Cameras—or Pay the Price ([source](https://www.wired.com/story/lawmakers-want-states-to-crack-down-on-flock-cameras-or-pay-the-price/))
 - **2026-06-05** — Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation ([source](https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement))

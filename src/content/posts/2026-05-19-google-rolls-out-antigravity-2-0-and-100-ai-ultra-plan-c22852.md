@@ -1,16 +1,17 @@
 ---
 title: "Google rolls out Antigravity 2.0 and $100 AI Ultra plan"
 date: 2026-05-19T18:19:49.457Z
-modified_date: 2026-09-14T14:39:51.891Z
+modified_date: 2026-09-15T13:04:15.289Z
 tags: ["google","ai","pricing","antigravity"]
 hero_image: "/hero/2026-05-19-google-rolls-out-antigravity-2-0-and-100-ai-ultra-plan-c22852.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "modern office desk with AI interface and floating icons"
 description: "Google unveils Antigravity 2.0 and lifts its AI Ultra subscription to $100/month, promising five‑fold usage over the Pro tier."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ The next quarter will reveal whether the $100 Ultra plan attracts enough high‑
 
 ## Updates
 
+- **2026-09-15** — The Census Bureau Is Overrun With Staffers From a MAGA Think Tank ([source](https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/))
 - **2026-09-14** — The GameCube games we still love, 25 years later ([source](https://www.engadget.com/2256423/nintendo-gamecube-games-we-still-love-25-years-later/))
 - **2026-08-26** — The Tariff Cost: analysis of the costs to Americans from new tariffs on Canada ([source](https://thetariffcost.com/))
 - **2026-08-26** — Robot brain builders are pushing out of their GPT-2 era ([source](https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/))

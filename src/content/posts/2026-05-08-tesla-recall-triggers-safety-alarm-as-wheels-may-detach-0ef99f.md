@@ -1,15 +1,17 @@
 ---
 title: "Tesla Recall Triggers Safety Alarm as Wheels May Detach"
 date: 2026-05-08T19:45:29.603Z
+modified_date: 2026-09-15T13:05:44.310Z
 tags: ["tesla","recall","elon musk"]
 hero_image: "/hero/2026-05-08-tesla-recall-triggers-safety-alarm-as-wheels-may-detach-0ef99f.jpg"
 hero_image_credit_name: "Impact Dog Crates"
 hero_image_credit_url: "https://www.pexels.com/@impact-dog-crates-1789722873"
 visual_keyword: "Tesla Cybertruck on a highway with a highlighted wheel bolt"
 description: "Tesla's 11th Cybertruck recall warns of wheel separation, while Musk juggles legal battles in France, a dismissed Dogecoin suit, AI copyright claims, and bot‑fuelled market hype."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 ## Cybertruck Recall Sparks Safety Alarm
 
@@ -44,3 +46,7 @@ Kirsch’s analysis links the bot activity to Tesla’s soaring market cap, whic
 ## What to Watch
 
 The next weeks will reveal how Tesla handles the wheel‑recall logistics and whether regulators in France will actually press criminal charges. Investors should monitor the outcome of the Blade Runner lawsuit, as a ruling could set precedent for AI‑generated content in corporate marketing. Finally, keep an eye on the Botometer‑derived bot activity reports; a spike in coordinated sentiment could foreshadow another market swing. The convergence of safety, legal, and narrative pressures makes Tesla a bellwether for how tech giants weather multi‑front crises.
+
+## Updates
+
+- **2026-09-15** — Yamaha introduces the compact B200A soundbar with Dolby Atmos ([source](https://www.engadget.com/2258332/yamaha-introduces-the-compact-b200a-soundbar-with-dolby-atmos/))

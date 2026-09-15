@@ -1,19 +1,20 @@
 ---
 title: "Saudi Prince Invests in Lucid Motors"
 date: 2026-07-29T06:28:44.337Z
-modified_date: 2026-08-08T16:26:03.828Z
+modified_date: 2026-09-15T13:05:16.879Z
 tags: ["Electric Vehicles","Lucid Motors","Saudi Prince"]
 hero_image: "/hero/2026-07-29-saudi-prince-invests-in-lucid-motors-032c31.jpg"
 hero_image_credit_name: "I'm Zion"
 hero_image_credit_url: "https://www.pexels.com/@zion"
 visual_keyword: "Electric Car"
 description: "Saudi prince buys 5% stake in Lucid Motors"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-29-saudi-prince-invests-in-lucid-motors-032c31.mp3"
 audio_bytes: 585396
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Lucid Motors
@@ -45,6 +46,7 @@ The electric vehicle market is part of a larger trend towards sustainable transp
 
 ## Updates
 
+- **2026-09-15** — Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh ([source](https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/))
 - **2026-08-08** — Buc-ee’s dodges John Oliver to sue another small business ([source](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart))
 
 [^1]: [whalesbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsXORu1aVFv9HKlBTeWIWza2eAnZkdOK1sWpFG7d4M7UzOUlDblSYjK4bC_j7fcAIuuDPThoyDz8Knimv5yIkllaRZoKvH96YEhMFemEHcgZo4RnqQh0bxDmvnMhC8ItN_uX8ZMW1xWZe0DDzonGw3S32JI1dZbI7wKOPNu1R4xC4i62I5LEW_PlUPftaP0IJB7f8N8f1vHsShW4Ro2RLHO_Ap2lfunrui04_3EOqwwt1dh5YD)

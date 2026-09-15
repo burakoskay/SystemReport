@@ -1,19 +1,20 @@
 ---
 title: "Apple services growth slows due to gaming dip"
 date: 2026-07-31T10:33:57.366Z
-modified_date: 2026-09-08T22:17:10.033Z
+modified_date: 2026-09-15T13:06:18.641Z
 tags: ["Apple","Services","Gaming"]
 hero_image: "/hero/2026-07-31-apple-services-growth-slows-due-to-gaming-dip-eade6b.jpg"
 hero_image_credit_name: "Andréa Devillier"
 hero_image_credit_url: "https://www.pexels.com/@maisonlighthouse"
 visual_keyword: "Apple"
 description: "Apple services revenue growth slows"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-07-31-apple-services-growth-slows-due-to-gaming-dip-eade6b.mp3"
 audio_bytes: 573067
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple's services segment grew slower this quarter because mobile gaming revenue fell and recent App Store payment-rule changes cut into earnings. The slowdown matters because services now account for a growing share of Apple's profit and the company just crossed 1.5 billion paid subscriptions. 
@@ -34,4 +35,5 @@ The slowdown in Apple's services segment could have significant implications for
 
 ## Updates
 
+- **2026-09-15** — New Apple Watch features may require new legal precedent for privacy ([source](https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/))
 - **2026-09-08** — Muse, Meta’s New Personal AI Agent, Needs You to Trust It ([source](https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/))

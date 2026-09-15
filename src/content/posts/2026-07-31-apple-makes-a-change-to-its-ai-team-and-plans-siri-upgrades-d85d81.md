@@ -1,15 +1,17 @@
 ---
 title: "Apple makes a change to its AI team and plans Siri upgrades"
 date: 2026-07-31T21:00:37.743Z
+modified_date: 2026-09-15T13:06:11.792Z
 tags: ["AI","Apple","Siri","Machine Learning"]
 hero_image: "/hero/2026-07-31-apple-makes-a-change-to-its-ai-team-and-plans-siri-upgrades-d85d81.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Artificial Intelligence"
 description: "Apple makes executive change to boost AI efforts, Siri functionality to get major overhaul"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 # Apple Shakes Up AI Team Ahead of Siri Upgrades
 
@@ -56,3 +58,7 @@ AI, Apple, Siri, Vision Pro, Machine Learning
 ## Visual Keyword
 
 Artificial Intelligence
+
+## Updates
+
+- **2026-09-15** — Which new Apple products will launch this year – and which won’t? ([source](https://9to5mac.com/2026/09/15/which-new-apple-products-will-launch-this-year-and-which-wont/))
