@@ -1,19 +1,20 @@
 ---
 title: "Bipartisan Bill Threatens Police License Plate Readers"
 date: 2026-05-20T23:26:43.449Z
-modified_date: 2026-05-28T16:10:53.178Z
+modified_date: 2026-09-15T20:45:55.291Z
 tags: ["surveillance","legislation","privacy","first amendment"]
 hero_image: "/hero/2026-05-20-bipartisan-bill-threatens-police-license-plate-readers-349f84.jpg"
 hero_image_credit_name: "R9 Media Photo Collective"
 hero_image_credit_url: "https://www.pexels.com/@r9media"
 visual_keyword: "police car with blurred license plate scanner"
 description: "A new amendment links highway funding to the removal of automated license‑plate readers for policing, sparking legal and local pushback."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-20-bipartisan-bill-threatens-police-license-plate-readers-349f84.mp3"
 audio_bytes: 601697
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Federal Bill Targets Police License Plate Readers
@@ -46,4 +47,5 @@ The amendment’s fate hinges on the upcoming vote in the Senate transportation 
 
 ## Updates
 
+- **2026-09-15** — Microsoft announces Windows and Surface event for October 7th ([source](https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco))
 - **2026-05-28** — What’s next for Microsoft’s Surface PCs? ([source](https://www.theverge.com/tech/938807/microsoft-surface-future-devices-notepad))

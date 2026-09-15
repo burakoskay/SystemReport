@@ -1,16 +1,17 @@
 ---
 title: "Google Photos adds scheduled exports amid storage tightening"
 date: 2026-06-01T21:43:38.439Z
-modified_date: 2026-07-27T17:41:01.893Z
+modified_date: 2026-09-15T20:46:28.327Z
 tags: ["Google Photos","cloud storage","scheduled exports"]
 hero_image: "/hero/2026-06-01-google-photos-adds-scheduled-exports-amid-storage-tightening-b89e62.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google Photos"
 description: "Google Photos introduces a scheduled export feature for new media, amid storage limit changes and upcoming UI and API updates."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 
 
@@ -92,6 +93,7 @@ The scheduled export feature and the Collections view are significant updates to
 
 ## Updates
 
+- **2026-09-15** — Australia 'on the same page' as Canada as it seeks deeper EU alliance ([source](https://www.reddit.com/r/worldnews/comments/1wgqken/australia_on_the_same_page_as_canada_as_it_seeks/))
 - **2026-07-27** — Removing React.js from the codebase and adapting Htmx for UI interactivity (2023) ([source](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/))
 - **2026-07-27** — Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls ([source](https://www.wired.com/review/soundcore-nebula-p1i-projector/))
 

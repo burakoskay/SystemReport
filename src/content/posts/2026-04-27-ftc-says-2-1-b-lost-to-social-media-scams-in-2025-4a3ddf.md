@@ -1,16 +1,17 @@
 ---
 title: "FTC says $2.1 B Lost to Social Media Scams in 2025"
 date: 2026-04-27T23:04:02.288Z
-modified_date: 2026-08-17T18:29:42.318Z
+modified_date: 2026-09-15T20:46:00.745Z
 tags: ["scams","ftc","consumer-protection","cybersecurity"]
 hero_image: "/hero/2026-04-27-ftc-says-2-1-b-lost-to-social-media-scams-in-2025-4a3ddf.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "concerned person looking at phone with scam messages"
 description: "Scam losses hit $2.1 billion in 2025, an eight‑fold jump that outpaces any other fraud channel, prompting a regulatory rethink."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The next FTC quarterly report, due in July 2026, will be the first to reflect 
 
 ## Updates
 
+- **2026-09-15** — What if social media isn’t hurting kids? ([source](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt))
 - **2026-08-17** — The Analogue Pocket gets a Supreme makeover in red or gold ([source](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection))
 - **2026-08-08** — "Code was never the hard part" is an insult to all programmers ([source](https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers))
 - **2026-06-04** — The ways we contain Claude across products ([source](https://www.anthropic.com/engineering/how-we-contain-claude))

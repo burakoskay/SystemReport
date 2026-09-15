@@ -1,16 +1,17 @@
 ---
 title: "Google, Apple Tweak Interfaces Amid Upcoming Rebrands"
 date: 2026-05-15T21:13:04.107Z
-modified_date: 2026-09-15T17:54:33.792Z
+modified_date: 2026-09-15T20:46:06.181Z
 tags: ["google","apple","ios-26","fitbit","smart-home"]
 hero_image: "/hero/2026-05-15-google-apple-tweak-interfaces-amid-upcoming-rebrands-0cfeaf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "vibrant app icons on smartphone screen"
 description: "Google and Apple roll out subtle updates across apps and hardware, signaling shifts ahead of major events and rebrands."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ For end users, the takeaway is clear: these subtle changes often precede more di
 
 ## Updates
 
+- **2026-09-15** — Kia’s electric van lineup is getting more interesting with reveal of PV7 ([source](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale))
 - **2026-09-15** — Refurbished vs. pre-owned phones: What's the difference and which is better? ([source](https://www.engadget.com/2255880/refurbished-vs-pre-owned-differences-which-is-better/))
 - **2026-09-07** — Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds ([source](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8))
 - **2026-08-15** — What's the USB trident symbol for? How to know what kind of port you have ([source](https://www.engadget.com/2234239/what-usb-trident-symbol-for-how-to-know-port-type/))

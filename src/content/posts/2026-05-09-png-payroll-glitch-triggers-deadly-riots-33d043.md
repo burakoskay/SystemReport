@@ -1,19 +1,20 @@
 ---
 title: "PNG Payroll Glitch Triggers Deadly Riots"
 date: 2026-05-09T11:03:31.175Z
-modified_date: 2026-06-01T17:51:06.841Z
+modified_date: 2026-09-15T20:45:49.783Z
 tags: ["asia","technology","regulation","ai","payroll"]
 hero_image: "/hero/2026-05-09-png-payroll-glitch-triggers-deadly-riots-33d043.jpg"
 hero_image_credit_name: "Oscar Chan"
 hero_image_credit_url: "https://www.pexels.com/@cltsan"
 visual_keyword: "crowded street protest with police barricades under tropical sky"
 description: "A payroll system error in Papua New Guinea sparked a two‑week emergency and deadly unrest, underscoring fragile tech oversight across the region."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-09-png-payroll-glitch-triggers-deadly-riots-33d043.mp3"
 audio_bytes: 593965
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## PNG Payroll Glitch Sparks Deadly Unrest
@@ -38,4 +39,5 @@ Watch how PNG's government restructures its payroll infrastructure and whether i
 
 ## Updates
 
+- **2026-09-15** — SpaceX will try to put Starship in orbit for the first time on September 22 ([source](https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/))
 - **2026-06-01** — Samsung Care+ loosens restrictions on Galaxy phone age to sign up, discounted enrollment ([source](https://9to5google.com/2026/06/01/samsung-care-plus-open-enrollment-begins/))
