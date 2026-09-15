@@ -1,16 +1,17 @@
 ---
 title: "Panic Sets Boundaries on AI-Generated Games for Playdate"
 date: 2026-04-18T01:10:47.743Z
-modified_date: 2026-09-13T22:01:26.672Z
+modified_date: 2026-09-15T00:09:19.168Z
 tags: ["Playdate","AI","gaming","artistic integrity"]
 hero_image: "/hero/2026-04-18-panic-sets-boundaries-on-ai-generated-games-for-playdate-f4e5f7.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Playdate console"
 description: "Panic bans generative AI for art, audio, music, text, and dialog in Playdate games, citing artistic integrity."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The policy change comes as Playdate prepares to release new titles. Developers m
 
 ## Updates
 
+- **2026-09-15** — Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work ([source](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/))
 - **2026-09-13** — Sam Altman says OpenAI won't file for IPO this year ([source](https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/))
 - **2026-09-12** — ESR’s iPhone accessory lineup is ready for Apple’s foldable era ([source](https://9to5mac.com/2026/09/12/esrs-iphone-accessory-lineup-ready-apples-foldable-era/))
 - **2026-09-09** — Engadget Podcast: Diving into the iPhone Duo, iPhone 18 Pro and Apple's new hardware ([source](https://www.engadget.com/2254400/engadget-podcast-diving-into-the-iphone-duo-iphone-18-pro-and-apple-new-hardware/))

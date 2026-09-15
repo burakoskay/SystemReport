@@ -1,18 +1,20 @@
 ---
 title: "Neanderthal Hammer, Supercomputer Seizure, and AI Threats to Math"
 date: 2026-06-02T23:57:33.299Z
+modified_date: 2026-09-15T00:09:12.235Z
 tags: ["anthropology","supercomputing","ai","mathematics"]
 hero_image: "/hero/2026-06-02-neanderthal-hammer-supercomputer-seizure-and-ai-threats-to-math-70181e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Neanderthal hammer made from rhino tooth beside a modern supercomputer"
 description: "Neanderthals used a rhino‑tooth hammer, the feds lost a bid to seize NCAR’s climate supercomputer, and mathematicians warn AI threatens their field."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-06-02-neanderthal-hammer-supercomputer-seizure-and-ai-threats-to-math-70181e.mp3"
 audio_bytes: 599398
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Unusual Tools from the Distant Past
 
@@ -45,3 +47,7 @@ The three stories share a common thread: the tension between innovative use of e
 Policymakers will need to balance protection of critical research infrastructure with legitimate law‑enforcement interests. At the same time, the mathematics community must craft guidelines that prevent AI from undermining scholarly standards while still harnessing its productive potential.
 
 **What to watch**: Track any legislative proposals that seek to clarify the legal status of scientific supercomputers. Monitor the International Mathematical Union’s next meeting for concrete policy recommendations on AI use. Keep an eye on further paleoanthropological reports that may reveal additional non‑stone tools, which could reshape our view of early human ingenuity.
+
+## Updates
+
+- **2026-09-15** — AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance ([source](https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/))

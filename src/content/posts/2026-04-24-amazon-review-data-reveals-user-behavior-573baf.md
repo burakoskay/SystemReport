@@ -1,19 +1,20 @@
 ---
 title: "Amazon Review Data Reveals User Behavior"
 date: 2026-04-24T17:23:24.578Z
-modified_date: 2026-04-27T21:08:15.725Z
+modified_date: 2026-09-15T00:10:34.183Z
 tags: ["Amazon","product reviews","network effects"]
 hero_image: "/hero/2026-04-24-amazon-review-data-reveals-user-behavior-573baf.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Amazon"
 description: "A study of 80 million Amazon product reviews shows user behavior trends and the power of network effects."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-24-amazon-review-data-reveals-user-behavior-573baf.mp3"
 audio_bytes: 616534
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,4 +84,5 @@ The study also highlights the importance of data analysis in understanding user 
 
 ## Updates
 
+- **2026-09-15** — How to use the Windows 11 Media Creation Tool to create a bootable USB drive ([source](https://www.engadget.com/2254793/how-to-use-windows-11-media-creation-tool-create-bootable-usb-drive/))
 - **2026-04-27** — The Pixel Watch 4’s handy USB-C charger is back in stock ([source](https://9to5google.com/2026/04/27/the-pixel-watch-4s-handy-usb-c-charger-is-back-in-stock/))

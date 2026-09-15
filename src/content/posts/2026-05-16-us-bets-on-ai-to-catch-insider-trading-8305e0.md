@@ -1,19 +1,20 @@
 ---
 title: "US Bets on AI to Catch Insider Trading"
 date: 2026-05-16T20:57:38.773Z
-modified_date: 2026-05-19T18:10:22.776Z
+modified_date: 2026-09-15T00:10:20.526Z
 tags: ["AI","insider trading","regulatory efforts"]
 hero_image: "/hero/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The Commodity Futures Trading Commission is using AI to detect insider trading in prediction markets. The move aims to prevent market manipulation."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.mp3"
 audio_bytes: 578082
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ As the use of AI in regulatory efforts continues to evolve, it is likely that we
 
 ## Updates
 
+- **2026-09-15** — Can you use an Apple Pencil with an iPhone? ([source](https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/))
 - **2026-05-19** — These are the first Android XR audio glasses, coming this fall with iPhone support ([source](https://9to5google.com/2026/05/19/android-xr-audio-glasses/))

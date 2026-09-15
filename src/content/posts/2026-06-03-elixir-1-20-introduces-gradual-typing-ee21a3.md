@@ -1,18 +1,20 @@
 ---
 title: "Elixir 1.20 Introduces Gradual Typing"
 date: 2026-06-03T21:25:26.969Z
+modified_date: 2026-09-15T00:09:59.961Z
 tags: ["elixir","programming","typing","erlang"]
 hero_image: "/hero/2026-06-03-elixir-1-20-introduces-gradual-typing-ee21a3.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "programmer typing code on laptop with Elixir logo"
 description: "Elixir 1.20 adds optional type annotations, sparking debate over safety and performance in the Erlang ecosystem."
-sources_count: 13
-author: "maya-chen"
+sources_count: 14
 audio_path: "/audio/2026-06-03-elixir-1-20-introduces-gradual-typing-ee21a3.mp3"
 audio_bytes: 593965
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Elixir 1.20 Release
 
@@ -49,3 +51,7 @@ From a hiring perspective, the change may affect how teams evaluate candidates. 
 ## What to Watch
 
 The next Elixir minor release is slated for late 2026. Watch whether the `--type-check` flag becomes a default in CI pipelines, and whether major libraries like Phoenix adopt typed contracts. Keep an eye on the Hacker News discussion for emerging best practices, especially around mixed typed/untyped codebases. The evolution of tooling—particularly IDE support—will be a key indicator of how quickly the community embraces gradual typing.
+
+## Updates
+
+- **2026-09-15** — AI leaders want to hit the brakes after years of reckless speed ([source](https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/))
