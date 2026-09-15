@@ -1,18 +1,20 @@
 ---
 title: "US Bans Foreign Humanoids"
 date: 2026-07-30T04:55:42.542Z
+modified_date: 2026-09-15T23:54:35.375Z
 tags: ["US Government","Foreign-Made Technology","National Security"]
 hero_image: "/hero/2026-07-30-us-bans-foreign-humanoids-644348.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "Robot Dogs"
 description: "US bans new foreign-made humanoids, robot dogs, and solar inverters"
-sources_count: 1
-author: "priya-raman"
+sources_count: 2
 audio_path: "/audio/2026-07-30-us-bans-foreign-humanoids-644348.mp3"
 audio_bytes: 572440
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Ban
 The US government has banned new foreign-made humanoids, robot dogs, and solar inverters, citing national security risks. This move affects U.S. imports from China, which dominates the global market for humanoid robots and solar inverters. The ban is a significant development in the ongoing efforts to address national security concerns related to foreign-made technology.
@@ -34,3 +36,7 @@ The ban's impact will depend on how companies adapt and find alternative supplie
 As the US market adjusts to the ban, companies will need to reassess their supply chains and find new sources for humanoid robots, robot dogs, and solar inverters. This may lead to increased costs and reduced availability of these products in the short term. However, it may also create opportunities for domestic manufacturers to fill the gap and provide alternative products. The US government may also need to provide support for companies that are affected by the ban, such as through subsidies or tax incentives.
 ## Global Implications
 The ban on foreign-made humanoids, robot dogs, and solar inverters will also have global implications. Other countries may follow the US lead and impose their own bans on foreign-made technology. This could lead to a fragmentation of the global market, with different countries having different standards and regulations for technology imports. The ban may also have implications for international trade agreements and global supply chains, as countries adjust to the new regulatory environment.
+
+## Updates
+
+- **2026-09-15** — The Sideload 044: Duo’s and don’ts ([source](https://9to5google.com/2026/09/15/the-sideload-044-duos-and-donts/))
