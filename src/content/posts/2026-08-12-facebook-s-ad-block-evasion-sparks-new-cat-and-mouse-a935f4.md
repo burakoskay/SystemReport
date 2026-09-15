@@ -1,16 +1,17 @@
 ---
 title: "Facebook’s ad‑block evasion sparks new cat‑and‑mouse"
 date: 2026-08-12T15:21:15.446Z
-modified_date: 2026-08-20T16:27:23.458Z
+modified_date: 2026-09-15T07:04:23.299Z
 tags: ["facebook","adblocking","privacy","browsers"]
 hero_image: "/hero/2026-08-12-facebook-s-ad-block-evasion-sparks-new-cat-and-mouse-a935f4.jpg"
 hero_image_credit_name: "icon0 com"
 hero_image_credit_url: "https://www.pexels.com/@icon0"
 visual_keyword: "browser window with ad blocker icon and Facebook feed"
 description: "Facebook tried to hide ads from blockers, but uBlock and AdBlock Plus quickly restored protection, exposing a fresh round in the ad‑blocking arms race."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## The unblockable ads that weren’t
@@ -51,4 +52,5 @@ The next flashpoint will be Facebook’s next code push. If the company introduc
 
 ## Updates
 
+- **2026-09-15** — The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms ([source](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/))
 - **2026-08-20** — The 2026 Startup Battlefield 200 is here — see who made the cut ([source](https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/))

@@ -1,18 +1,20 @@
 ---
 title: "Okta Acquires Permiso"
 date: 2026-07-30T17:22:01.012Z
+modified_date: 2026-09-15T07:04:16.332Z
 tags: ["Okta","Permiso","AI Security"]
 hero_image: "/hero/2026-07-30-okta-acquires-permiso-6694cb.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Security"
 description: "Okta buys AI security startup Permiso for $200M"
-sources_count: 1
-author: "priya-raman"
+sources_count: 2
 audio_path: "/audio/2026-07-30-okta-acquires-permiso-6694cb.mp3"
 audio_bytes: 591875
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction
 Okta has acquired AI security startup Permiso for approximately $200M. This deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments. The acquisition highlights the growing importance of securing non-human identities, a challenge that has become increasingly pressing as AI and machine learning models become more widespread in enterprise environments.
@@ -32,3 +34,7 @@ The acquisition of Permiso by Okta has significant implications for the cybersec
 The AI security space is becoming increasingly competitive, with several companies developing solutions to address the growing threat of identity-based attacks on non-human identities. The acquisition of Permiso by Okta is a strategic move that positions the company for success in this space. Other companies, such as Microsoft and Google, are also investing heavily in AI security, and the market is expected to continue to grow in the coming years.
 ## History of Okta Acquisitions
 Okta has a history of making strategic acquisitions to enhance its portfolio of security solutions. The company's acquisition of Auth0 in 2021, for example, expanded its customer identity and access management capabilities. The acquisition of Permiso is another example of Okta's commitment to investing in innovative security solutions that meet the evolving needs of its customers.
+
+## Updates
+
+- **2026-09-15** — Jensen Huang took a call from Trump, and showed off something else, too ([source](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/))

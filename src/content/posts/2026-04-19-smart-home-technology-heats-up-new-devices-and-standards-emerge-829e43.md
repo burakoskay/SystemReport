@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
-modified_date: 2026-09-04T23:38:46.164Z
+modified_date: 2026-09-15T07:04:50.784Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ In the near future, we can expect to see more devices like the Ulticam IQ V2 eme
 
 ## Updates
 
+- **2026-09-15** — 2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too ([source](https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/))
 - **2026-09-04** — Flock cameras are officially banned on state roads in Florida ([source](https://www.engadget.com/2251480/flock-camera-license-plate-reader-state-road-ban-florida/))
 - **2026-08-08** — Apple adds nearly 45 hearing devices to its Made for iPhone compatibility list ([source](https://9to5mac.com/2026/08/07/apple-adds-nearly-45-hearing-devices-to-its-made-for-iphone-compatibility-list/))
 - **2026-06-03** — Microsoft plans Linux tools and an RTX Spark desktop for Windows developers ([source](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/))

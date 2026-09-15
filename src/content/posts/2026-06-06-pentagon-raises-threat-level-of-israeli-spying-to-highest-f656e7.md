@@ -1,18 +1,20 @@
 ---
 title: "Pentagon Raises Threat Level of Israeli Spying to Highest"
 date: 2026-06-06T19:39:50.508Z
+modified_date: 2026-09-15T07:04:30.156Z
 tags: ["US-Israel Relations","Espionage","National Security"]
 hero_image: "/hero/2026-06-06-pentagon-raises-threat-level-of-israeli-spying-to-highest-f656e7.jpg"
 hero_image_credit_name: "Karolina Grabowska www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g2"
 visual_keyword: "Pentagon"
 description: "Pentagon elevates threat level of Israeli spying on US"
-sources_count: 4
-author: "priya-raman"
+sources_count: 5
 audio_path: "/audio/2026-06-06-pentagon-raises-threat-level-of-israeli-spying-to-highest-f656e7.mp3"
 audio_bytes: 575574
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Threat
 The Pentagon has raised the threat level of Israeli spying on the US to its highest level, according to sources. This decision is based on a threat assessment that highlighted concerns over Israeli espionage activities. The exact threat-level designation used by the Pentagon is the highest level, indicating a significant and immediate threat to national security.
@@ -40,3 +42,7 @@ There have been several incidents of Israeli espionage against the US in the pas
 
 ## Implications for Regional Stability
 The Pentagon's decision to raise the threat level of Israeli spying on the US may have significant implications for regional stability. The move could lead to increased tensions between the US and Israel, which could have far-reaching consequences for the region. It could also lead to increased scrutiny of Israeli activities in the US, which could potentially damage the relationship between the two countries. The US and Israel have a long history of cooperation, but the issue of espionage has the potential to drive a wedge between the two countries.
+
+## Updates
+
+- **2026-09-15** — For the first time, the US military confirms it has deployed weapons in orbit ([source](https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/))

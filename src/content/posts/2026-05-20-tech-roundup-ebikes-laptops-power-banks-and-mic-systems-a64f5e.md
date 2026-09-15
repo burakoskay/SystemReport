@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Ebikes, Laptops, Power Banks, and Mic Systems"
 date: 2026-05-20T15:47:45.004Z
-modified_date: 2026-05-21T19:59:53.985Z
+modified_date: 2026-09-15T07:05:18.425Z
 tags: ["ebikes","laptops","power banks","mic systems"]
 hero_image: "/hero/2026-05-20-tech-roundup-ebikes-laptops-power-banks-and-mic-systems-a64f5e.jpg"
 hero_image_credit_name: "G-FORCE Bike"
 hero_image_credit_url: "https://www.pexels.com/@g-force-bike-95411088"
 visual_keyword: "ebike"
 description: "Latest tech news on ebikes, laptops, power banks, and mic systems from various sources."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -94,4 +95,5 @@ As these technologies continue to advance, we can expect to see changes in the w
 
 ## Updates
 
+- **2026-09-15** — 9to5Mac Daily: September 14, 2026 – Apple retail changes, iPhone 18 Pro pre-orders ([source](https://9to5mac.com/2026/09/14/daily-september-14-2026/))
 - **2026-05-21** — Mustard Made Storage Lockers Are on a Rare Sale Through May 31 ([source](https://www.wired.com/story/mustard-made-sale/))
