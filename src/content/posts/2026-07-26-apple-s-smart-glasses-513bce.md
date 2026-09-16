@@ -1,18 +1,20 @@
 ---
 title: "Apple's Smart Glasses"
 date: 2026-07-26T22:56:54.825Z
+modified_date: 2026-09-16T19:19:27.615Z
 tags: ["Apple","Smart Glasses","Privacy Concerns"]
 hero_image: "/hero/2026-07-26-apple-s-smart-glasses-513bce.jpg"
 hero_image_credit_name: "Philip Justin Mamelic"
 hero_image_credit_url: "https://www.pexels.com/@philip-justin-mamelic-1397651"
 visual_keyword: "smart glasses"
 description: "Apple's smart glasses raise privacy concerns"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-07-26-apple-s-smart-glasses-513bce.mp3"
 audio_bytes: 601488
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Apple's Smart Glasses
 Apple prepares to launch its first smart glasses, a move that may be wrestling with how to address consumer privacy concerns. The company's history with consumer data has been a subject of scrutiny, and its handling of user data in the past has led to concerns about how it will manage the sensitive information collected by the smart glasses.
@@ -26,3 +28,7 @@ The smart glasses market is becoming increasingly crowded, with companies like G
 The technical mechanics of smart glasses are complex and involve the collection of sensitive user data, including images, videos, and audio recordings. The devices use advanced algorithms to process this data and provide users with personalized experiences. However, the use of these algorithms also raises concerns about bias and discrimination, as they may perpetuate existing social inequalities. For example, if the algorithms used in the smart glasses are trained on biased data sets, they may produce biased results, which could have significant consequences for users.
 ## Downstream Implications
 The launch of Apple's smart glasses will have significant implications for consumers, businesses, and society as a whole. The devices will provide new opportunities for companies to collect and analyze consumer data, which could lead to more targeted advertising and personalized experiences. However, it also raises concerns about the potential risks of mass surveillance and the erosion of consumer privacy. As the use of smart glasses becomes more widespread, it is likely that we will see a significant shift in the way that companies approach consumer data, with a greater emphasis on transparency and accountability.
+
+## Updates
+
+- **2026-09-16** — Snap Specs launch 2026: Live updates from CEO Evan Spiegel's keynote ([source](https://www.engadget.com/2260114/snap-specs-launch-live-blog-evan-spiegel-keynote/))

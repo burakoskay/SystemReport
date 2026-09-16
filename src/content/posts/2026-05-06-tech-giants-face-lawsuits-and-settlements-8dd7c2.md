@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Face Lawsuits and Settlements"
 date: 2026-05-06T17:52:49.962Z
-modified_date: 2026-09-06T16:39:50.805Z
+modified_date: 2026-09-16T19:19:48.689Z
 tags: ["Apple","Google","Uber"]
 hero_image: "/hero/2026-05-06-tech-giants-face-lawsuits-and-settlements-8dd7c2.jpg"
 hero_image_credit_name: "KATRIN  BOLOVTSOVA"
 hero_image_credit_url: "https://www.pexels.com/@ekaterina-bolovtsova"
 visual_keyword: "lawsuit"
 description: "Apple, Google, and Uber face lawsuits and settlements over AI features, app store fees, and driver classification."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,5 +68,6 @@ In conclusion, the recent lawsuits and settlements faced by tech giants like App
 
 ## Updates
 
+- **2026-09-16** — iOS 27.2 lets developers use an alternative App Tracking Transparency prompt in the EU ([source](https://9to5mac.com/2026/09/16/ios-27-2-lets-developers-use-an-alternative-app-tracking-transparency-prompt-in-the-eu/))
 - **2026-09-06** — Boox’s tiny Picco e-reader should land in November ([source](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa))
 - **2026-09-03** — Sennheiser Momentum True Wireless 5 review: A significant upgrade at the same price ([source](https://www.engadget.com/2249856/sennheiser-momentum-true-wireless-5-review/))

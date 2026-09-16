@@ -1,19 +1,20 @@
 ---
 title: "Apple Steals the Show as Snapchat and Tinder Face Bad News"
 date: 2026-06-07T11:54:31.702Z
-modified_date: 2026-09-10T08:35:29.046Z
+modified_date: 2026-09-16T19:19:06.605Z
 tags: ["Apple","Snapchat","Tinder"]
 hero_image: "/hero/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.jpg"
 hero_image_credit_name: "Mahmoud Ramadan"
 hero_image_credit_url: "https://www.pexels.com/@mahmoudramadan"
 visual_keyword: "Apple WWDC"
 description: "Apple's WWDC event overshadows negative news from Snapchat and Tinder, while the company announces new products and features."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.mp3"
 audio_bytes: 529390
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Distraction
@@ -50,4 +51,5 @@ In the coming months, it will be interesting to see how Snapchat and Tinder reco
 
 ## Updates
 
+- **2026-09-16** — The world’s best racing driver is about to race 100 karts at once ([source](https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/))
 - **2026-09-10** — Trump Offers Every American $5,000 If Republicans Win The Midterms ([source](https://www.wired.com/story/trump-offers-every-american-5000-if-republicans-win-the-midterms/))

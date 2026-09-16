@@ -1,19 +1,20 @@
 ---
 title: "Survival Gear for 80-Mile Mountain Runs"
 date: 2026-05-04T14:15:18.305Z
-modified_date: 2026-09-14T20:09:39.767Z
+modified_date: 2026-09-16T19:18:45.581Z
 tags: ["endurance sports","environmental sustainability","human interaction"]
 hero_image: "/hero/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.jpg"
 hero_image_credit_name: "VANNGO Ng"
 hero_image_credit_url: "https://www.pexels.com/@vanngo-ng-105653827"
 visual_keyword: "mountain run"
 description: "A 10-lb pack for running 80 miles across mountains. Essential gear for survival."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-04-survival-gear-for-80-mile-mountain-runs-6fde17.mp3"
 audio_bytes: 576201
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -82,6 +83,7 @@ For example, advances in technology could lead to new and innovative products fo
 
 ## Updates
 
+- **2026-09-16** — Xreal’s well-rounded 1S glasses are back down to their lowest price ([source](https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale))
 - **2026-09-14** — Apple just released new AirPods Pro 3 firmware, more for iOS 27 ([source](https://9to5mac.com/2026/09/14/apple-just-released-new-airpods-pro-3-firmware-more-for-ios-27/))
 - **2026-09-11** — Samsung Galaxy S26 FE Review: Same as Before, but for More Money ([source](https://www.wired.com/review/samsung-galaxy-s26-fe/))
 - **2026-08-27** — Sprains, pain, and whiplash: Waymo and Zoox test drivers are getting hurt as robotaxis scale ([source](https://techcrunch.com/2026/08/27/sprains-pain-and-whiplash-waymo-and-zoox-test-drivers-are-getting-hurt-as-robotaxis-scale/))

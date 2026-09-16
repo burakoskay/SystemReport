@@ -1,18 +1,20 @@
 ---
 title: "IOCCC 2025 Winners Show Low-Level Shift Amid AI, Serverless"
 date: 2026-06-07T11:55:33.570Z
+modified_date: 2026-09-16T19:17:56.485Z
 tags: ["programming","cloud","research","software"]
 hero_image: "/hero/2026-06-07-ioccc-2025-winners-show-low-level-shift-amid-ai-serverless-d4636d.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "vintage C code contest entries alongside cloud data flow diagrams"
 description: "The 2025 IOCCC results, a new tokenomics study, and a serverless platform prototype illustrate evolving tensions in programming practice and research."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-06-07-ioccc-2025-winners-show-low-level-shift-amid-ai-serverless-d4636d.mp3"
 audio_bytes: 638895
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## IOCCC 2025 Winners Reveal Persistent C Obfuscation Culture
 The International Obfuscated C Code Contest posted its 2025 winners on the official IOCCC site this week. The announcement attracted 206 up‑votes and 50 comments on Hacker News, indicating continued community interest in deliberately unreadable C programs.
@@ -36,3 +38,7 @@ Hydro leverages the CALM theorem to guarantee monotonic programs can run without
 
 ## What to Watch
 The IOCCC winners will be analyzed for novel macro techniques that could inform compiler optimizations. Researchers should monitor citations of the tokenomics preprint as the community refines cost models for AI‑augmented development. Lattner’s remarks on MLIR hint at possible open‑source extensions that could lower the barrier to domain‑specific language creation. Finally, the Hydro platform’s next public release will reveal whether coordination‑free guarantees can scale beyond academic prototypes. Tracking these developments will clarify whether low‑level code tricks, token economics, and serverless data platforms converge or diverge in shaping future software engineering practices.
+
+## Updates
+
+- **2026-09-16** — Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/))

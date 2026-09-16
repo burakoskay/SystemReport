@@ -1,16 +1,17 @@
 ---
 title: "Google Photos Adds AI-Powered Wardrobe on Motorola Razr 2026"
 date: 2026-04-29T17:43:51.430Z
-modified_date: 2026-08-28T03:58:43.344Z
+modified_date: 2026-09-16T19:18:38.557Z
 tags: ["Google Photos","AI-Powered Wardrobe","Motorola Razr 2026","Fashion Industry"]
 hero_image: "/hero/2026-04-29-google-photos-adds-ai-powered-wardrobe-on-motorola-razr-2026-ebf67b.jpg"
 hero_image_credit_name: "Jonas Thomann"
 hero_image_credit_url: "https://www.pexels.com/@jonast"
 visual_keyword: "Google Photos Wardrobe"
 description: "Google Photos adds Wardrobe tool to digitize closets and suggest outfits"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The launch of Wardrobe also has implications for the broader tech industry. For 
 
 ## Updates
 
+- **2026-09-16** — Claude comes for Gemini with its own take on Docs and Slides ([source](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides))
 - **2026-08-28** — YouTube now lets creators tag Amazon products and earn commissions from purchases ([source](https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/))
 - **2026-08-10** — Learning more about Claude's mathematical capabilities ([source](https://www.anthropic.com/research/riemann-zeta))
 - **2026-05-29** — For all Mankind spinoff series Star City premieres on Apple TV ([source](https://9to5mac.com/2026/05/29/for-all-mankind-spinoff-series-star-city-premieres-on-apple-tv/))
