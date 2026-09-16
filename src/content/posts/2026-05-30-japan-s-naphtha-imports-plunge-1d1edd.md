@@ -1,15 +1,17 @@
 ---
 title: "Japan's Naphtha Imports Plunge"
 date: 2026-05-30T10:11:11.978Z
+modified_date: 2026-09-16T22:34:03.967Z
 tags: ["Japan","Naphtha","Petrochemicals"]
 hero_image: "/hero/2026-05-30-japan-s-naphtha-imports-plunge-1d1edd.jpg"
 hero_image_credit_name: "Jan van der Wolf"
 hero_image_credit_url: "https://www.pexels.com/@jan-van-der-wolf-11680885"
 visual_keyword: "Naphtha"
 description: "Japan's naphtha imports hit 3.44M tons in 2022, down 12.1%."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Japan's Naphtha Crunch
@@ -64,3 +66,6 @@ The impact of the shortage on downstream industries will be significant, and sta
 
 The decline in Japan's naphtha imports has significant implications for the country's petrochemical industry. The industry's reliance on imports, combined with the global market trends, has created a challenging environment for manufacturers. The government's response to diversify imports and increase domestic production may help alleviate the shortage, but the impact on downstream industries and the economy remains to be seen.
 
+## Updates
+
+- **2026-09-16** — The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long ([source](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review))

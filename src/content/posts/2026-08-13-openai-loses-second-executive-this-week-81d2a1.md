@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Loses Second Executive This Week"
 date: 2026-08-13T20:37:45.299Z
+modified_date: 2026-09-16T22:33:57.118Z
 tags: ["OpenAI","Executive Departures","AI Industry"]
 hero_image: "/hero/2026-08-13-openai-loses-second-executive-this-week-81d2a1.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Denise Dresser exits as CRO"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## OpenAI Executive Departures
 OpenAI is losing its chief revenue officer Denise Dresser, who will leave in the coming weeks to pursue other opportunities. Dresser, formerly CEO of Slack, announced her exit via a LinkedIn team note. Dali Rajic, president and COO of Wiz, will take over the CRO role.
@@ -43,3 +45,7 @@ The company's technical teams will need to adapt quickly to the new leadership a
 The departure of Dresser and the appointment of Rajic as CRO may have significant implications for OpenAI's partners and investors. The company's ability to maintain its revenue growth and execute its strategy will be closely watched, and any signs of weakness could have a negative impact on its reputation and valuation.
 
 The AI industry is highly dependent on talent and innovation, and the loss of key executives can have a significant impact on a company's ability to compete. OpenAI's ability to attract and retain top talent will be critical to its success, and the company's leadership team will need to work quickly to fill the gaps left by the departing executives.
+
+## Updates
+
+- **2026-09-16** — OpenAI Creates a New Framework to Disclose Bad AI Behavior ([source](https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/))
