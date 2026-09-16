@@ -1,15 +1,17 @@
 ---
 title: "Apple AI, satellite fees, and a social goal app expose friction"
 date: 2026-05-19T15:44:34.257Z
+modified_date: 2026-09-16T02:50:35.935Z
 tags: ["apple","ai","satellite","apps","regulation"]
 hero_image: "/hero/2026-05-19-apple-ai-satellite-fees-and-a-social-goal-app-expose-friction-0c9680.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "smartphone always-on display beside orbiting satellite"
 description: "Apple rolls out AI‑powered Voice Control, Iran pressures Big Tech over cable fees, and a new social goal‑tracking app launches, highlighting hidden costs in today’s tech upgrades."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Always‑On Displays: Convenience Meets Distraction
 
@@ -46,3 +48,7 @@ Both developments underscore how the race for bandwidth and coverage is entangle
 ## What to Watch
 
 Track Apple’s Voice Control rollout in iOS 27 and the subsequent behavior of Siri in real‑world usage; the feature will reveal whether the agentic promises translate into practical benefits or new privacy concerns. Monitor how Paprclip’s social accountability model evolves—whether user retention improves or the novelty fades. Finally, keep an eye on Iran’s undersea cable fee demand and Vast’s high‑power satellite program, as both will shape the cost and availability of global Internet services in the coming year.
+
+## Updates
+
+- **2026-09-16** — Slow Horses season 6 debuts on Apple TV ([source](https://9to5mac.com/2026/09/15/slow-horses-season-6-debuts-on-apple-tv/))

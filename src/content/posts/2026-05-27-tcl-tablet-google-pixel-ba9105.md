@@ -1,19 +1,20 @@
 ---
 title: "TCL Tablet, Google Pixel"
 date: 2026-05-27T16:00:29.391Z
-modified_date: 2026-06-03T21:21:36.717Z
+modified_date: 2026-09-16T02:50:14.511Z
 tags: ["deals","tcl","google","amazon"]
 hero_image: "/hero/2026-05-27-tcl-tablet-google-pixel-ba9105.jpg"
 hero_image_credit_name: "Element5 Digital"
 hero_image_credit_url: "https://www.pexels.com/@element5"
 visual_keyword: "shopping cart overflowing with tablets, smartphones, and smartwatches on a spring background"
 description: "Deep discounts on TCL's NXTPAPER tablet, Google's Pixel Watch and phone, and Amazon's Spring Sale force shoppers to rethink premium tech purchases."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-27-tcl-tablet-google-pixel-ba9105.mp3"
 audio_bytes: 608593
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## TCL's NXTPAPER tablets finally hit a price that makes sense
@@ -54,4 +55,5 @@ Keep an eye on Google’s next hardware announcement slated for the fall; any ne
 
 ## Updates
 
+- **2026-09-16** — The Boox Palma 3 gets stylus support and a sleek redesign ([source](https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16))
 - **2026-06-03** — John Ternus scaled back Apple’s Vision products roadmap: report ([source](https://9to5mac.com/2026/06/03/john-ternus-scaled-back-apples-vision-products-roadmap-report/))
