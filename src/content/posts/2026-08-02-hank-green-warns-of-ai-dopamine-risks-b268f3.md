@@ -1,15 +1,17 @@
 ---
 title: "Hank Green Warns of AI Dopamine Risks"
 date: 2026-08-02T06:29:52.827Z
+modified_date: 2026-09-16T14:33:58.222Z
 tags: ["AI","Group Communication","Runtime Security"]
 hero_image: "/hero/2026-08-02-hank-green-warns-of-ai-dopamine-risks-b268f3.jpg"
 hero_image_credit_name: "Matheus Natan"
 hero_image_credit_url: "https://www.pexels.com/@matheusnatan"
 visual_keyword: "eBPF"
 description: "Hank Green warns of AI dopamine risks, TogetherLetters streamlines group updates, and Jibril offers low-overhead eBPF security"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## Hank Green Apologizes for AI Usage
 Hank Green apologized, saying his AI usage is 'not healthy for me or good for the world.' He described a feedback loop where each prompt generates a burst of novelty, then a crash, similar to social media scroll. This phenomenon is not unique to Green; many users of Large Language Models (LLMs) face similar issues. The constant stream of new information can activate the brain's reward system, releasing dopamine and encouraging continued engagement.
@@ -42,3 +44,7 @@ Watch for policy changes from LLM providers, track TogetherLetters' adoption met
 
 ## Future Outlook
 As the tech industry continues to evolve, it is essential to consider the potential implications of these technologies on users and the broader industry. The development of responsible AI, streamlined communication tools, and robust security platforms will be critical in shaping the future of the tech industry. By prioritizing user well-being and implementing features that promote healthy engagement, developers can create technologies that benefit users and the industry as a whole.
+
+## Updates
+
+- **2026-09-16** — Negativland, Culture Jamming, and the Art of Making Something New ([source](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/))

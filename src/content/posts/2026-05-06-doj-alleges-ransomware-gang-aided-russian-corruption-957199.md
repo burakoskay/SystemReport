@@ -1,15 +1,17 @@
 ---
 title: "DOJ Alleges Ransomware Gang Aided Russian Corruption"
 date: 2026-05-06T21:25:08.167Z
+modified_date: 2026-09-16T14:33:03.031Z
 tags: ["cybersecurity","ransomware","api-breach","supply-chain-attack","braintrust"]
 hero_image: "/hero/2026-05-06-doj-alleges-ransomware-gang-aided-russian-corruption-957199.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "cybersecurity breach investigation in a dimly lit server room"
 description: "U.S. prosecutors charge a ransomware group with aiding Russian government corruption while Braintrust and Daemon Tools warn of breaches."
-sources_count: 3
+sources_count: 4
 author: "priya-raman"
 ---
+
 
 ## DOJ Files Indictment Against Ransomware Group Linked to Russian State
 
@@ -38,3 +40,7 @@ The Department of Homeland Security has issued a new advisory urging organizatio
 ## What to Watch
 
 The DOJ will likely request a extradition hearing in Moscow within 45 days, a move that could force Russia to respond to U.S. cybercrime allegations under the Budapest Convention. Braintrust's customers should expect a formal security report by May 1st, which will detail forensic findings and compensation plans. For Daemon Tools users, the critical next step is updating all systems with the latest build (5.5.2+) released today, which includes signature verification for all future updates.
+
+## Updates
+
+- **2026-09-16** — China Isn’t Buying Silicon Valley’s Call for an AI Slowdown ([source](https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/))

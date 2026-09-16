@@ -1,15 +1,17 @@
 ---
 title: "Comet’s AI Browser Faces Critical URL Attack as Polar Secures"
 date: 2026-07-29T20:58:08.377Z
+modified_date: 2026-09-16T14:32:57.516Z
 tags: ["ai","browsers","security","perplexity","polar"]
 hero_image: "/hero/2026-07-29-comet-s-ai-browser-faces-critical-url-attack-as-polar-secures-8c20f1.jpg"
 hero_image_credit_name: "icon0 com"
 hero_image_credit_url: "https://www.pexels.com/@icon0"
 visual_keyword: "AI-powered web browser interface with malicious URL overlay"
 description: "Perplexity’s Comet browser is vulnerable to a single malicious link that can steal emails and calendars, while rival Polar raises $5.7 M to launch its own AI‑first browser."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Polar’s AI‑First Browser Gets a Seed Boost
 
@@ -56,3 +58,7 @@ Stakeholders should monitor three signals: the release of a Comet security updat
 ---
 
 **What to watch:** the next Perplexity patch addressing the LayerX URL injection, the rollout schedule for Polar’s AI‑first browser, and any industry‑wide guidelines on safe prompt handling in agentic browsers.
+
+## Updates
+
+- **2026-09-16** — Boox Launches the Palma 3 E-Reader ([source](https://www.wired.com/story/boox-palma-3-announced/))

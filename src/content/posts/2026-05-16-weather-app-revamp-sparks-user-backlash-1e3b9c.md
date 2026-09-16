@@ -1,16 +1,17 @@
 ---
 title: "Weather app revamp sparks user backlash"
 date: 2026-05-16T03:45:01.728Z
-modified_date: 2026-08-17T16:21:04.356Z
+modified_date: 2026-09-16T14:33:52.671Z
 tags: ["acurite","app changes","subscription model"]
 hero_image: "/hero/2026-05-16-weather-app-revamp-sparks-user-backlash-1e3b9c.jpg"
 hero_image_credit_name: "Viralyft"
 hero_image_credit_url: "https://www.pexels.com/@viralyft"
 visual_keyword: "weather app interface with subscription prompt"
 description: "AcuRite forces new app with missing features and subscription push"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The most immediate watchpoint is the Federal Trade Commission's (FTC) ongoing re
 
 ## Updates
 
+- **2026-09-16** — The new Boox e-ink devices get Android 16 out of the box, including Palma 3 ([source](https://9to5google.com/2026/09/15/boox-announced-android-16-tablets/))
 - **2026-08-17** — This sub-$7,000 sportscar might be just what the future needs ([source](https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/))
 - **2026-08-14** — Hyperscalers might regret embracing natural gas if new forecast proves correct ([source](https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/))
 - **2026-07-30** — Forward-deployed engineers are the AI industry’s latest talent obsession ([source](https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/))

@@ -1,16 +1,17 @@
 ---
 title: "US Government to Mandate Data Center Energy Reporting in Landmark Move"
 date: 2026-04-15T19:44:08.769Z
-modified_date: 2026-05-15T17:45:22.260Z
+modified_date: 2026-09-16T14:32:24.440Z
 tags: ["data centers","energy consumption","eia","sustainability","tech policy"]
 hero_image: "/hero/2026-04-15-us-government-to-mandate-data-center-energy-reporting-in-landmark-move-afb47d.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center power grid"
 description: "The EIA will now require data centers to disclose energy usage, signaling a new era of transparency and accountability for tech's power consumption."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ However, the implementation of such a comprehensive reporting mechanism is not w
 
 ## Updates
 
+- **2026-09-16** — A brief history of AI executives calling for regulation ([source](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation))
 - **2026-05-15** — A 0-click exploit chain for the Pixel 10 ([source](https://projectzero.google/2026/05/pixel-10-exploit.html))
 - **2026-04-28** — Taylor Swift is stepping up the legal war on AI copycats ([source](https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats))
 - **2026-04-25** — The Online Civil War About ‘Michael’ Is a Battle Over Truth ([source](https://www.wired.com/story/the-online-civil-war-about-michael-is-a-battle-over-truth/))

@@ -1,18 +1,20 @@
 ---
 title: "Disney+ Partners with TikTok Creators"
 date: 2026-08-05T13:54:34.722Z
+modified_date: 2026-09-16T14:33:13.977Z
 tags: ["Disney+","TikTok","Streaming","Partnership"]
 hero_image: "/hero/2026-08-05-disney-partners-with-tiktok-creators-16517f.jpg"
 hero_image_credit_name: "juan mendez"
 hero_image_credit_url: "https://www.pexels.com/@jmendezrf"
 visual_keyword: "Disney+"
 description: "Disney+ launches short-form video feed with TikTok creators"
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-08-05-disney-partners-with-tiktok-creators-16517f.mp3"
 audio_bytes: 589576
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Disney+ Launches Short-Form Video Feed
 Disney+ is launching a short-form video feed, partnering with TikTok creators to bring fan content to its app. This move is a response to the growing competition between streamers and social media giants.
@@ -46,3 +48,7 @@ The integration of TikTok creators' content into Disney+'s short-form video feed
 The partnership between Disney+ and TikTok creators will have downstream implications for the entertainment industry. It may lead to new revenue streams for content creators, as they will have access to a broader audience and more monetization opportunities. The move may also lead to increased competition among streaming platforms, as they seek to attract and retain top talent in the industry.
 
 The partnership may also have implications for the way content is created and consumed. With the rise of short-form video content, there may be a shift towards more bite-sized, easily consumable content. This could lead to changes in the way content is produced, distributed, and marketed, with a greater emphasis on snackable, shareable content.
+
+## Updates
+
+- **2026-09-16** — Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad ([source](https://www.wired.com/story/best-2-in-1-laptops/))

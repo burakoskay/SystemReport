@@ -1,15 +1,17 @@
 ---
 title: "Facial ID breach, Cricut hack"
 date: 2026-08-20T01:12:17.827Z
+modified_date: 2026-09-16T14:32:29.886Z
 tags: ["privacy","surveillance","hardware","biometrics"]
 hero_image: "/hero/2026-08-20-facial-id-breach-cricut-hack-3b0345.jpg"
 hero_image_credit_name: "Giant Asparagus"
 hero_image_credit_url: "https://www.pexels.com/@giantasparagus"
 visual_keyword: "city street with security cameras and blurred faces"
 description: "Three recent incidents expose gaps in consent, device reuse, and municipal surveillance, prompting calls for tighter oversight."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 ClarityCheck left millions of face photos exposed on the public internet. The facial‑identification service posted the images without any user consent, 9to5Mac reported. The breach likely affected users who never uploaded a picture to the platform. The company has not disclosed how the data became reachable.
 
@@ -48,3 +50,7 @@ Taken together, these cases highlight a regulatory gap. Existing privacy statute
 Watch for legislative proposals that tighten biometric consent requirements in the United States, especially bills modeled after Illinois’ BIPA. Track whether the Federal Trade Commission issues new guidance on securing image buckets used by AI services. Monitor court rulings on the legality of unlocking consumer hardware for repair versus violating anti‑circumvention statutes. Finally, follow municipal procurement policies that may mandate multi‑factor authentication and regular audits for camera networks after the WSBTV case draws public attention.
 
 These developments will shape how engineers, product teams, and public officials balance functionality with the right to privacy.
+
+## Updates
+
+- **2026-09-16** — Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave ([source](https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review))

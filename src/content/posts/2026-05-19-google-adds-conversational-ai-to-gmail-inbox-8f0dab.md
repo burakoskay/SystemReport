@@ -1,16 +1,17 @@
 ---
 title: "Google Adds Conversational AI to Gmail Inbox"
 date: 2026-05-19T18:13:40.352Z
-modified_date: 2026-08-13T16:51:58.539Z
+modified_date: 2026-09-16T14:33:25.102Z
 tags: ["Google","Gmail","Conversational AI"]
 hero_image: "/hero/2026-05-19-google-adds-conversational-ai-to-gmail-inbox-8f0dab.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "Gmail"
 description: "Google integrates conversational AI into Gmail, allowing users to ask questions and find buried email details."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,4 +67,5 @@ Some experts believe that conversational AI has the potential to revolutionize t
 
 ## Updates
 
+- **2026-09-16** — Breville Eye Q Toaster review: A toaster with a vision ([source](https://www.engadget.com/2259441/breville-eye-q-toaster-review/))
 - **2026-08-13** — Spotify has roped the indie publisher Kobalt into its AI platform for covers and remixes ([source](https://www.engadget.com/2236313/spotify-has-roped-the-indie-pubisher-kobalt-into-its-ai-platform-for-covers-and-remixes/))
