@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-09-13T02:36:45.307Z
+modified_date: 2026-09-16T09:00:26.024Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-09-16** — Bose Promo Code: 40% Off for September 2026 ([source](https://www.wired.com/story/bose-coupon-code/))
 - **2026-09-13** — Here are my favorite fast charger recommendations for iPhone 18 Pro ([source](https://9to5mac.com/2026/09/12/best-fast-chargers-for-iphone-18-pro/))
 - **2026-09-04** — Deals: AirPods, Apple 2026 Studio Displays up to $500 off, M5 MacBook Air $150 off, new Dark Cherry chargers, more ([source](https://9to5mac.com/2026/09/04/deals-airpods-apple-studio-display-m5-macbook-air/))
 - **2026-08-17** — This compact Glorious mechanical keyboard is just $35 ([source](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale))

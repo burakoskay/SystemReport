@@ -1,16 +1,17 @@
 ---
 title: "Bungie Ends Active Development of Destiny 2"
 date: 2026-05-21T20:01:15.654Z
-modified_date: 2026-09-02T17:51:20.851Z
+modified_date: 2026-09-16T09:00:40.271Z
 tags: ["Bungie","Destiny 2","Marathon"]
 hero_image: "/hero/2026-05-21-bungie-ends-active-development-of-destiny-2-2e5103.jpg"
 hero_image_credit_name: "DΛVΞ GΛRCIΛ"
 hero_image_credit_url: "https://www.pexels.com/@davegarcia"
 visual_keyword: "Destiny 2"
 description: "Bungie will end active development of Destiny 2 on June 9, shifting focus to a new game. The game will remain playable with a final update."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The decision to end active development of Destiny 2 will have a significant impa
 
 ## Updates
 
+- **2026-09-16** — The new Boox Palma 3 comes with stylus support and an aluminum build ([source](https://www.engadget.com/2259862/boox-palma-3-note-air6-c-mini-c/))
 - **2026-09-02** — Samsung’s latest Galaxy Book 6 starts at $799 with 8GB of RAM ([source](https://9to5google.com/2026/09/02/samsungs-latest-galaxy-book-6-starts-at-799-with-8gb-of-ram/))
 - **2026-08-27** — A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend ([source](https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/))
 - **2026-06-03** — Coralogix raises $200M on bet that someone needs to watch the AI agents ([source](https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/))

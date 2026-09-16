@@ -1,16 +1,17 @@
 ---
 title: "Matter expands: Homey, Siram, IKEA push smart home integration"
 date: 2026-08-22T03:01:43.150Z
-modified_date: 2026-09-03T14:04:13.997Z
+modified_date: 2026-09-16T09:00:33.154Z
 tags: ["smart-home","matter","homekit","iot"]
 hero_image: "/hero/2026-08-22-matter-expands-homey-siram-ikea-push-smart-home-integration-c4a787.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home with connected bulbs and automated plant watering"
 description: "Homey adds Matter 1.5, Siram automates plant watering, and IKEA rolls out 21 new Matter devices, tightening the Apple HomeKit ecosystem."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Homey’s Matter 1.5 certification
@@ -55,4 +56,5 @@ Watch IKEA’s January launch. Pricing and stock levels will show whether the co
 
 ## Updates
 
+- **2026-09-16** — Rover Promo Codes and Referral Deals for 2026 ([source](https://www.wired.com/story/rover-promo-code/))
 - **2026-09-03** — The Best Air Quality Monitor for Outdoors and Indoors in 2026 ([source](https://www.wired.com/story/best-air-quality-monitors/))
