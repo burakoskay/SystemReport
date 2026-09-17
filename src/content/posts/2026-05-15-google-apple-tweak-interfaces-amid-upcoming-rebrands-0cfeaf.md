@@ -1,16 +1,17 @@
 ---
 title: "Google, Apple Tweak Interfaces Amid Upcoming Rebrands"
 date: 2026-05-15T21:13:04.107Z
-modified_date: 2026-09-15T20:46:06.181Z
+modified_date: 2026-09-17T02:54:22.433Z
 tags: ["google","apple","ios-26","fitbit","smart-home"]
 hero_image: "/hero/2026-05-15-google-apple-tweak-interfaces-amid-upcoming-rebrands-0cfeaf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "vibrant app icons on smartphone screen"
 description: "Google and Apple roll out subtle updates across apps and hardware, signaling shifts ahead of major events and rebrands."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ For end users, the takeaway is clear: these subtle changes often precede more di
 
 ## Updates
 
+- **2026-09-17** — Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about ([source](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/))
 - **2026-09-15** — Kia’s electric van lineup is getting more interesting with reveal of PV7 ([source](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale))
 - **2026-09-15** — Refurbished vs. pre-owned phones: What's the difference and which is better? ([source](https://www.engadget.com/2255880/refurbished-vs-pre-owned-differences-which-is-better/))
 - **2026-09-07** — Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds ([source](https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8))
