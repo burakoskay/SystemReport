@@ -1,16 +1,17 @@
 ---
 title: "Fed Warning Spurs Market Panic as Tech Stocks Slip"
 date: 2026-08-17T18:36:33.153Z
-modified_date: 2026-09-06T19:52:31.098Z
+modified_date: 2026-09-17T14:36:46.079Z
 tags: ["economy","tech","labor"]
 hero_image: "/hero/2026-08-17-fed-warning-spurs-market-panic-as-tech-stocks-slip-2197f1.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "stock market floor with traders reacting to Fed announcement"
 description: "Fed's \"significant downside risks\" cue a global sell‑off, dragging internet giants and local wage policies into a fiscal storm."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,5 +38,6 @@ Watch the Fed’s next policy briefing for any shift in language about inflation
 
 ## Updates
 
+- **2026-09-17** — AI is feared globally as the destroyer of jobs ([source](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs))
 - **2026-09-06** — Europe has its first commercial orbital rocket ([source](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch))
 - **2026-08-19** — Meet the startup helping Wall Street put a price on AI compute ([source](https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/))

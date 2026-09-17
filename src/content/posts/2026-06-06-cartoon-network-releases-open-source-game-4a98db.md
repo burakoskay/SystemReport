@@ -1,19 +1,20 @@
 ---
 title: "Cartoon Network Releases Open-Source Game"
 date: 2026-06-06T17:20:27.566Z
-modified_date: 2026-09-16T19:18:31.523Z
+modified_date: 2026-09-17T14:36:58.235Z
 tags: ["gaming","open-source","cartoon-network"]
 hero_image: "/hero/2026-06-06-cartoon-network-releases-open-source-game-4a98db.jpg"
 hero_image_credit_name: "Eren Li"
 hero_image_credit_url: "https://www.pexels.com/@eren-li"
 visual_keyword: "gaming"
 description: "Cartoon Network releases OK K.O.! Lakewood Plaza Turbo, a mobile game that invites hackers and developers to improve and alter the game."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-06-cartoon-network-releases-open-source-game-4a98db.mp3"
 audio_bytes: 548198
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,6 +74,7 @@ The release of OK K.O.! Lakewood Plaza Turbo is also part of a larger trend in t
 
 ## Updates
 
+- **2026-09-17** — iPadOS 27.2 adds convenient new feature from the Mac ([source](https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/))
 - **2026-09-16** — Your ‘health age’ is fake ([source](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity))
 - **2026-09-11** — Here’s why I left T-Mobile for an MVNO ([source](https://9to5mac.com/2026/09/11/heres-why-i-left-t-mobile-for-an-mvno/))
 - **2026-09-08** — Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off ([source](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale))

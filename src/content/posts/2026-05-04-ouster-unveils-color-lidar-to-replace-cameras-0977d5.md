@@ -1,19 +1,20 @@
 ---
 title: "Ouster Unveils Color Lidar to Replace Cameras"
 date: 2026-05-04T10:20:36.557Z
-modified_date: 2026-08-26T16:44:16.250Z
+modified_date: 2026-09-17T14:37:10.321Z
 tags: ["lidar","autonomous vehicles","robotics"]
 hero_image: "/hero/2026-05-04-ouster-unveils-color-lidar-to-replace-cameras-0977d5.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "lidar sensor"
 description: "Ouster's new color lidar sensor captures depth and image data, potentially replacing cameras in various applications."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-04-ouster-unveils-color-lidar-to-replace-cameras-0977d5.mp3"
 audio_bytes: 649762
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ This could lead to significant cost savings for companies that adopt the sensor,
 
 ## Updates
 
+- **2026-09-17** — Expensive flash drives: When and why it's worth paying more ([source](https://www.engadget.com/2257443/when-why-pay-more-expensive-flash-drives/))
 - **2026-08-26** — Researchers get two genetic codes to work at the same time ([source](https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/))
 - **2026-06-04** — Kevin O’Leary agrees to downsize massive Utah data center ([source](https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center))
 - **2026-05-11** — Venmo’s biggest makeover in years comes at a very interesting time ([source](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/))

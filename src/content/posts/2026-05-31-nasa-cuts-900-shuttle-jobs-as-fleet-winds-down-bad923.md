@@ -1,16 +1,17 @@
 ---
 title: "NASA cuts 900 shuttle jobs as fleet winds down"
 date: 2026-05-31T15:23:58.003Z
-modified_date: 2026-07-31T19:16:26.083Z
+modified_date: 2026-09-17T14:37:18.349Z
 tags: ["nasa","aerospace","layoffs","space-shuttle","workforce"]
 hero_image: "/hero/2026-05-31-nasa-cuts-900-shuttle-jobs-as-fleet-winds-down-bad923.jpg"
 hero_image_credit_name: "Blue Arauz"
 hero_image_credit_url: "https://www.pexels.com/@blue"
 visual_keyword: "NASA shuttle retirement with empty assembly line"
 description: "NASA announced the layoff of 900 manufacturing workers while it prepares to retire the space shuttle fleet, signaling a shift in the agency’s focus."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## NASA slashes 900 manufacturing positions
@@ -55,4 +56,5 @@ The next few months will determine whether NASA’s pivot translates into fresh 
 
 ## Updates
 
+- **2026-09-17** — The Return of Sail Power: Cargo Ships Are Turning Back to the Wind ([source](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/))
 - **2026-07-31** — The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports ([source](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension))
