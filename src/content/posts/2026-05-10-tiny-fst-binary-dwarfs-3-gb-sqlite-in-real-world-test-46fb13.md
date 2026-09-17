@@ -1,19 +1,20 @@
 ---
 title: "Tiny FST Binary Dwarfs 3 GB SQLite in Real‑World Test"
 date: 2026-05-10T19:15:04.361Z
-modified_date: 2026-09-11T20:20:01.673Z
+modified_date: 2026-09-17T09:06:38.902Z
 tags: ["opensource","databases","performance","hackernews"]
 hero_image: "/hero/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.jpg"
 hero_image_credit_name: "Muhammed Ensar"
 hero_image_credit_url: "https://www.pexels.com/@mecanbay"
 visual_keyword: "developer comparing massive database file to tiny binary on laptop screen"
 description: "A Hacker News post shows a 10 MB finite‑state transducer replacing a 3 GB SQLite DB, sparking debate on storage efficiency and platform fatigue."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-10-tiny-fst-binary-dwarfs-3-gb-sqlite-in-real-world-test-46fb13.mp3"
 audio_bytes: 593338
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ For teams wrestling with large static datasets, the FST experiment offers a data
 
 ## Updates
 
+- **2026-09-17** — Claude Cowork and chat are now one Claude ([source](https://claude.com/blog/cowork-is-now-claude))
 - **2026-09-11** — The EPA is planning to scrap public review rules for data center pollution ([source](https://capitalbnews.org/data-centers-permit-rules-epa/))
 - **2026-08-19** — Deals: Last chance at Pixel 11 offers ahead of delivery, Anniversary Chromebook sale from $219, LG OLED $700, more ([source](https://9to5google.com/2026/08/19/last-chance-pixel-11-deals-chromebooks-lg-oled-tv/))
 - **2026-08-04** — ‘Everyone Is Doing It’: The Truth About AI in Hollywood ([source](https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/))

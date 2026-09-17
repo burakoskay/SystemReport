@@ -1,16 +1,17 @@
 ---
 title: "California exempts Linux from age‑verification law"
 date: 2026-08-30T14:45:03.839Z
-modified_date: 2026-09-04T08:24:47.195Z
+modified_date: 2026-09-17T09:06:31.323Z
 tags: ["california","open-source","age-verification","linux"]
 hero_image: "/hero/2026-08-30-california-exempts-linux-from-age-verification-law-2824c1.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "silhouette of a penguin against a capitol dome"
 description: "California lawmakers unanimously exempt GPL, MIT, BSD and Apache licensed software from the state's new age‑verification requirement."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 ## California exempts Linux from age‑verification mandate
@@ -61,4 +62,5 @@ Stakeholders across policy, corporate, and education sectors should keep these d
 
 ## Updates
 
+- **2026-09-17** — The streamers are fighting over Halloween ([source](https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie))
 - **2026-09-04** — Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick ([source](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable))

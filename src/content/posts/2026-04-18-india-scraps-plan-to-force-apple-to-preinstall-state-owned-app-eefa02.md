@@ -1,16 +1,17 @@
 ---
 title: "India Scraps Plan to Force Apple to Preinstall State-Owned App"
 date: 2026-04-18T01:11:01.019Z
-modified_date: 2026-09-04T02:33:07.102Z
+modified_date: 2026-09-17T09:06:16.579Z
 tags: ["apple","india","privacy"]
 hero_image: "/hero/2026-04-18-india-scraps-plan-to-force-apple-to-preinstall-state-owned-app-eefa02.jpg"
 hero_image_credit_name: "Ranjeet  Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@ranjeet-chauhan-485922"
 visual_keyword: "iPhone in Indian government hands"
 description: "India drops plan to mandate preinstallation of state-owned security app on iPhones and other smartphones."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ As smartphone penetration continues to grow in India, the country's government w
 
 ## Updates
 
+- **2026-09-17** — Hydrow Discount Code: Save Up to $150 | September 2026 ([source](https://www.wired.com/story/hydrow-discount-code/))
 - **2026-09-04** — Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit ([source](https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/))
 - **2026-08-31** — How to soft and hard reset your iPhone ([source](https://www.engadget.com/2242787/how-to-soft-hard-reset-iphone/))
 - **2026-08-11** — How and When to View the Perseid Meteor Shower (August 2026) ([source](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/))
