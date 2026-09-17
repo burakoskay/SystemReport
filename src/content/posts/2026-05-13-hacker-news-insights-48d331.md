@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Insights"
 date: 2026-05-13T06:58:24.476Z
-modified_date: 2026-09-04T02:33:26.680Z
+modified_date: 2026-09-17T22:37:12.791Z
 tags: ["Hacker News","Starship V3","Rust"]
 hero_image: "/hero/2026-05-13-hacker-news-insights-48d331.jpg"
 hero_image_credit_name: "Lucas Andrade"
 hero_image_credit_url: "https://www.pexels.com/@lucasandrade"
 visual_keyword: "Hacker News"
 description: "Analysis of trending topics on Hacker News, including Starship V3, Rust, and article success prediction"
-sources_count: 16
+sources_count: 17
 author: "maya-chen"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ As Hacker News and similar platforms continue to grow, understanding the dynamic
 
 ## Updates
 
+- **2026-09-17** — Out-of-warranty iPhone 18 Pro batteries are more expensive to replace ([source](https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/))
 - **2026-09-04** — Wikipedia Workers Unionize for the First Time ([source](https://www.wired.com/story/wikipedia-workers-vote-on-whether-to-unionize/))
 - **2026-08-09** — Criminal Deception in Silicon Valley ([source](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981))
 - **2026-05-30** — Domain expertise has always been the real moat ([source](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/))

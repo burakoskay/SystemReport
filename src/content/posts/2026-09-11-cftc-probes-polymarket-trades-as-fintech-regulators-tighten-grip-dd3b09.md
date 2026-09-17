@@ -1,15 +1,17 @@
 ---
 title: "CFTC probes Polymarket trades as fintech regulators tighten grip"
 date: 2026-09-11T20:26:55.193Z
+modified_date: 2026-09-17T22:36:38.644Z
 tags: ["cftc","prediction markets","fintech","regulation","behavioural economics"]
 hero_image: "/hero/2026-09-11-cftc-probes-polymarket-trades-as-fintech-regulators-tighten-grip-dd3b09.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "office desk with legal documents and data charts"
 description: "The CFTC opened three investigations into Polymarket speculation, amid broader regulatory scrutiny of prediction markets, cloud services, and payment platforms."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 The Commodity Futures Trading Commission opened three investigations into Polymarket trades tied to a Biden pardon, the Iran war, and alleged insider trading at Google. The moves signal a sharpening focus on prediction‑market compliance at a time when other fintech corners face heightened oversight.
 
@@ -48,3 +50,7 @@ Across the board, the common thread is a regulatory appetite for granular, data�
 ## What to watch
 
 The next CFTC filing on Polymarket will reveal whether the agency plans to seek civil penalties or to push for broader rulemaking that explicitly classifies prediction contracts as commodities. Simultaneously, watch for Visa’s statements on why iZettle payments were halted and whether the pause becomes permanent. Finally, monitor Oracle’s next sustainability report for any measurable shift away from gas‑based power, and Azure’s compliance updates for China‑specific licensing requirements. These data points will indicate whether the regulatory wave is a temporary surge or the new baseline for fintech and cloud operators.
+
+## Updates
+
+- **2026-09-17** — Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal ([source](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/))

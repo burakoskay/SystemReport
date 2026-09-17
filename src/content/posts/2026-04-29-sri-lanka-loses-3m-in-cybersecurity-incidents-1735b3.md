@@ -1,16 +1,17 @@
 ---
 title: "Sri Lanka Loses $3M in Cybersecurity Incidents"
 date: 2026-04-29T14:16:33.875Z
-modified_date: 2026-09-17T14:36:09.632Z
+modified_date: 2026-09-17T22:36:59.100Z
 tags: ["Cybersecurity","Data Protection","Privacy","Geofence Warrants"]
 hero_image: "/hero/2026-04-29-sri-lanka-loses-3m-in-cybersecurity-incidents-1735b3.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "lock"
 description: "Recent cybersecurity incidents cost Sri Lanka $3 million, while the US Supreme Court considers the legality of geofence warrants, highlighting growing concerns over data protection and privacy."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The growth of cybersecurity awareness training has led to an increase in the dem
 
 ## Updates
 
+- **2026-09-17** — macOS 27: What’s new for the Photos app? ([source](https://9to5mac.com/2026/09/17/macos-27-whats-new-for-the-photos-app/))
 - **2026-09-17** — Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers ([source](https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/))
 - **2026-08-29** — Indie App Spotlight: ‘Laytr’ is a one stop shop for logging everything you want to see later ([source](https://9to5mac.com/2026/08/29/indie-app-spotlight-laytr-is-a-one-stop-shop-for-logging-everything-you-want-to-find-later/))
 - **2026-08-18** — My parrot ate my keyboard ([source](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect))
