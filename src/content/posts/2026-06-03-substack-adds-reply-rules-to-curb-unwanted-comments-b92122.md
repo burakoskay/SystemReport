@@ -1,18 +1,20 @@
 ---
 title: "Substack adds Reply Rules to curb unwanted comments"
 date: 2026-06-03T21:24:13.634Z
+modified_date: 2026-09-17T19:29:57.295Z
 tags: ["Substack","comment moderation","online publishing"]
 hero_image: "/hero/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "comment section"
 description: "Substack's new Reply Rules give creators control over audience replies."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.mp3"
 audio_bytes: 582053
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Substack's new Reply Rules feature is now available for all English-language publications. It lets writers set parameters that determine which replies appear publicly.
@@ -60,3 +62,7 @@ The introduction of Reply Rules represents a significant step forward in the evo
 ## Conclusion
 
 Substack's Reply Rules feature is a significant development in the world of online publishing. By giving creators more control over their comment sections, Substack is helping to foster a more positive and engaging experience for both writers and readers. As the platform continues to roll out Reply Rules, it will be interesting to see how creators use this new tool and what impact it has on their communities.
+
+## Updates
+
+- **2026-09-17** — Camp Snap’s 110D gives slim retro film cameras a digital upgrade ([source](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film))

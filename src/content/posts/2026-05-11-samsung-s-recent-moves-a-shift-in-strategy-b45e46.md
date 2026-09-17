@@ -1,16 +1,17 @@
 ---
 title: "Samsung's Recent Moves: A Shift in Strategy?"
 date: 2026-05-11T18:05:34.997Z
-modified_date: 2026-09-15T17:54:54.018Z
+modified_date: 2026-09-17T19:29:43.177Z
 tags: ["samsung","software updates","ddr5","solid-state batteries","evs"]
 hero_image: "/hero/2026-05-11-samsung-s-recent-moves-a-shift-in-strategy-b45e46.jpg"
 hero_image_credit_name: "Rann Vijay"
 hero_image_credit_url: "https://www.pexels.com/@rann-vijay-677553"
 visual_keyword: "Samsung's Recent Moves: A Shift in Strategy?"
 description: "Samsung is making significant changes, from software updates to battery technology. What does this mean for the company and its customers?"
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ What to watch: Samsung's software update process, the development of DDR5-7200 5
 
 ## Updates
 
+- **2026-09-17** — I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout ([source](https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/))
 - **2026-09-15** — This is a great place to store your old hard drives and keep them safe ([source](https://www.engadget.com/2255337/best-place-to-store-old-hard-drives-keep-safe/))
 - **2026-08-21** — Pixel Watch 5’s AI watch face generator keeps the same form factor feeling fresh [Gallery] ([source](https://9to5google.com/2026/08/21/google-pixel-watch-5-ai-face-generator-feature/))
 - **2026-08-18** — Apple squashes EU beef with new App Store rules ([source](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission))

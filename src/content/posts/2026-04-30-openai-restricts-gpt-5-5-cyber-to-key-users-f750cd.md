@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Restricts GPT-5.5 Cyber to Key Users"
 date: 2026-04-30T19:41:39.822Z
-modified_date: 2026-09-08T14:05:44.969Z
+modified_date: 2026-09-17T19:31:01.948Z
 tags: ["AI Security","OpenAI","Yubico"]
 hero_image: "/hero/2026-04-30-openai-restricts-gpt-5-5-cyber-to-key-users-f750cd.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Security"
 description: "OpenAI limits GPT-5.5 Cyber to critical cyber defenders and partners with Yubico"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -49,5 +50,6 @@ As the AI industry continues to evolve, it is likely that we will see a growing 
 
 ## Updates
 
+- **2026-09-17** — iPhone 18 Pro will be used in this week’s Friday Night Baseball broadcast ([source](https://9to5mac.com/2026/09/17/iphone-18-pro-will-be-used-in-this-weeks-friday-night-baseball-broadcast/))
 - **2026-09-08** — Apple will quickly become a dominant player in folding phones – Counterpoint ([source](https://9to5mac.com/2026/09/08/apple-will-quickly-become-a-dominant-player-in-folding-phones-counterpoint/))
 - **2026-05-12** — Amazon launches 30-minute delivery across the U.S. ([source](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/))

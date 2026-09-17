@@ -1,15 +1,17 @@
 ---
 title: "Apple TV Gets Siri AI in tvOS 27 as Apple expands AI across"
 date: 2026-08-19T10:28:37.275Z
+modified_date: 2026-09-17T19:30:19.020Z
 tags: ["apple","siri","accessibility","ios","cloud"]
 hero_image: "/hero/2026-08-19-apple-tv-gets-siri-ai-in-tvos-27-as-apple-expands-ai-across-d751d2.jpg"
 hero_image_credit_name: "Déji Fadahunsi"
 hero_image_credit_url: "https://www.pexels.com/@deji-fadahunsi-458107704"
 visual_keyword: "Apple TV remote with glowing AI waveform overlay"
 description: "A leak shows Siri AI arriving on Apple TV 4K with tvOS 27, joining recent AI upgrades in macOS, iOS, and accessibility tools."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 Apple TV 4K will run Siri AI in the upcoming tvOS 27. The move closes a gap that has existed since Apple unveiled Siri AI for iPhone, iPad, and Mac in June.
 
@@ -64,3 +66,7 @@ Customizable homepages let users surface the most relevant content. The design e
 ## What to Watch
 
 Track the official tvOS 27 announcement for the final activation method of Siri AI on Apple TV. Monitor macOS 27 beta updates for any changes to the swipe‑down gesture. Watch accessibility community feedback on VoiceOver and Voice Control enhancements. Finally, observe iCloud web usage metrics to gauge acceptance of the new quick‑action paradigm.
+
+## Updates
+
+- **2026-09-17** — The AI Slowdown Debate Crashed Salesforce’s Party ([source](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/))

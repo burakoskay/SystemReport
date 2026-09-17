@@ -1,15 +1,17 @@
 ---
 title: "Zig adds pointer‑stable ArrayLists, tightening memory safety"
 date: 2026-08-31T10:34:07.490Z
+modified_date: 2026-09-17T19:31:09.167Z
 tags: ["zig","programming-language","memory-safety"]
 hero_image: "/hero/2026-08-31-zig-adds-pointer-stable-arraylists-tightening-memory-safety-c64356.jpg"
 hero_image_credit_name: "Godfrey  Atima"
 hero_image_credit_url: "https://www.pexels.com/@godiatima"
 visual_keyword: "close-up of code editor showing Zig arraylist pointer handling"
 description: "Zig's latest devlog announces pointer stability for ArrayLists, a move that sharpens its low‑level safety edge over C and Rust."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Zig rolls out pointer‑stable ArrayLists
 Zig's devlog posted on August 27, 2026 declares that the language now guarantees pointer stability for its `ArrayList` container. The change means a pointer obtained from an `ArrayList` will remain valid even after the list grows or shrinks, eliminating a class of subtle bugs that have plagued low‑level code.
@@ -36,6 +38,10 @@ The next Zig release, slated for early 2027, should contain the implementation d
 
 ---
 *Ryan Tanaka*
+
+## Updates
+
+- **2026-09-17** — Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe ([source](https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe/))
 
 [^1]: [ziglang.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzh_W6-8s5GIQymIQ5PGhumZHoox2Lxk4c1Ul7VRWc8OVygJqQXaRGnbbk0nfnJOwBdL5dhXl9c9olcB3w8VTvfolkj-RMSMQ_oFObvWk-KQ_TnGa2cJ58fdzJ)
 [^2]: [e-ink.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgBCyU9fm_E8Vzpf502ACMr0ea00F7ZIabTKKLy6IEMgmC2xQUroL3yitPCS8bUWQdvjNuaBlAV29I_D0g5teUNNOKzh3MpE-Pqjy-vv3QYjLtiJmsJPnHiJtbcYhGptOwhUyXcQPleQq-xZZ6aIRjoHpQUXCHJ4wSCoZslZtEM5ZRywrzQRdxBINc1YREJA==)

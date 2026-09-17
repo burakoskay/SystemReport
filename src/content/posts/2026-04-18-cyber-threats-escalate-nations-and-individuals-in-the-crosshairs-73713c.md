@@ -1,16 +1,17 @@
 ---
 title: "Cyber Threats Escalate: Nations and Individuals in the Crosshairs"
 date: 2026-04-18T01:05:07.942Z
-modified_date: 2026-08-31T18:39:01.179Z
+modified_date: 2026-09-17T19:29:22.221Z
 tags: ["cybersecurity","hacking","datasecurity"]
 hero_image: "/hero/2026-04-18-cyber-threats-escalate-nations-and-individuals-in-the-crosshairs-73713c.jpg"
 hero_image_credit_name: "Shir  Danieli"
 hero_image_credit_url: "https://www.pexels.com/@shir-danieli-313365130"
 visual_keyword: "digital footprint"
 description: "Nations and individuals face escalating cyber threats, from million-dollar heists to social media breaches."
-sources_count: 5
+sources_count: 6
 author: "priya-raman"
 ---
+
 
 
 
@@ -21,6 +22,7 @@ The landscape of cybercrime is becoming increasingly complex, with both nations 
 
 ## Updates
 
+- **2026-09-17** — Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire ([source](https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/))
 - **2026-08-31** — The upside of a laptop having two charging ports (and why some don't) ([source](https://www.engadget.com/2243628/laptop-having-two-charging-ports-pro-why-some-dont/))
 - **2026-07-27** — Another Far Cry game is in the works ([source](https://www.engadget.com/2224067/another-far-cry-game-is-in-the-works/))
 - **2026-04-22** — Our favorite gear at Sea Otter Classic wasn't the bikes—it was the accessories ([source](https://arstechnica.com/cars/2026/04/our-favorite-gear-at-sea-otter-classic-wasnt-the-bikes-it-was-the-accessories/))

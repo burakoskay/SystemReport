@@ -1,16 +1,17 @@
 ---
 title: "iOS 26 spatial wallpapers and CarPlay upgrades refine"
 date: 2026-05-08T21:11:06.571Z
-modified_date: 2026-09-13T18:29:19.057Z
+modified_date: 2026-09-17T19:30:04.431Z
 tags: ["iOS 26","CarPlay","spatial wallpapers","personalization","Apple"]
 hero_image: "/hero/2026-05-08-ios-26-spatial-wallpapers-and-carplay-upgrades-refine-ac3a53.jpg"
 hero_image_credit_name: "Ale Conchillos"
 hero_image_credit_url: "https://www.pexels.com/@slendyalex"
 visual_keyword: "iOS 26, CarPlay, spatial wallpapers"
 description: "iOS 26 adds 3D spatial wallpapers and two new CarPlay features, further blurring the line between iPhone and in-car experience."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -91,5 +92,6 @@ Spatial wallpapers rely on a combination of Core Animation layers and motion-sen
 
 ## Updates
 
+- **2026-09-17** — Your robotaxi might be a narc ([source](https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance))
 - **2026-09-13** — Waymo pulls over, calls cops on riders with a ghost gun ([source](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun))
 - **2026-06-02** — God of War Laufey is coming to the PS5 ([source](https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer))

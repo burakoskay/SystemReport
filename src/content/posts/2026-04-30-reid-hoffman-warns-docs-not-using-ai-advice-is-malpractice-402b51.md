@@ -1,16 +1,17 @@
 ---
 title: "Reid Hoffman Warns Docs: Not Using AI Advice Is Malpractice"
 date: 2026-04-30T10:16:54.017Z
-modified_date: 2026-09-10T14:01:15.632Z
+modified_date: 2026-09-17T19:30:40.553Z
 tags: ["AI in healthcare","medical decision-making","Reid Hoffman"]
 hero_image: "/hero/2026-04-30-reid-hoffman-warns-docs-not-using-ai-advice-is-malpractice-402b51.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI in healthcare"
 description: "Reid Hoffman says docs who don't seek AI second opinions risk malpractice. His AI drug discovery startup aims to integrate AI in healthcare."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ As AI continues to transform the healthcare landscape, it is essential that the 
 
 ## Updates
 
+- **2026-09-17** — Here are 100+ things Siri AI can do on your iPhone ([source](https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/))
 - **2026-09-10** — Nintendo’s latest Switch 2 update adds VRR support in TV mode ([source](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update))
 - **2026-08-28** — AI Has Human Doctors Asking: What’s Left for Us? ([source](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/))
 - **2026-08-07** — OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful ([source](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities))
