@@ -1,16 +1,17 @@
 ---
 title: "AI's Infrastructure Boom: Cables, Chips, and Capital"
 date: 2026-04-27T21:14:42.893Z
-modified_date: 2026-08-17T20:20:35.108Z
+modified_date: 2026-09-18T22:10:42.634Z
 tags: ["ai-infrastructure","subsea-cables","deepmind","ai-startups","tech-investment"]
 hero_image: "/hero/2026-04-27-ai-s-infrastructure-boom-cables-chips-and-capital-b41784.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "underwater fiber optic cable with data centers visible in the ocean above"
 description: "From subsea cables to startup funding, AI's next phase demands infrastructure — and the money is flowing."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Three developments will define AI’s infrastructure era in 2025: First, whether
 
 ## Updates
 
+- **2026-09-18** — Finding the cells that put our brain to sleep ([source](https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/))
 - **2026-08-17** — Apple official refurb store: Save a ton of cash with our top picks of the week ([source](https://9to5mac.com/2026/08/17/apple-official-refurb-store-top-picks-2/))
 - **2026-08-05** — These are my favorite Apple Watch accessories of 2026 (so far) ([source](https://9to5mac.com/2026/08/05/these-are-my-favorite-apple-watch-accessories-of-2026-so-far/))
 - **2026-07-28** — Elon Musk’s X Money app is rolling out in the U.S. ([source](https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/))

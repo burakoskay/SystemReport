@@ -1,18 +1,20 @@
 ---
 title: "Star Citizen hits $1B as Unreal Engine 6 delays linger"
 date: 2026-05-25T19:51:46.890Z
+modified_date: 2026-09-18T22:10:21.919Z
 tags: ["gaming","unreal-engine","star-citizen","zelda","industry"]
 hero_image: "/hero/2026-05-25-star-citizen-hits-1b-as-unreal-engine-6-delays-linger-b6618e.jpg"
 hero_image_credit_name: "Houssam benamara"
 hero_image_credit_url: "https://www.pexels.com/@exeroniq"
 visual_keyword: "cinematic montage of game development and movie premiere"
 description: "Epic’s engine preview, a $1 billion Star Citizen saga, and a surprise Zelda movie release expose why hype often outpaces delivery."
-sources_count: 12
-author: "ryan-tanaka"
+sources_count: 13
 audio_path: "/audio/2026-05-25-star-citizen-hits-1b-as-unreal-engine-6-delays-linger-b6618e.mp3"
 audio_bytes: 566170
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Epic Games unveiled a first look at Unreal Engine 6 on Tuesday, and the demo felt like a polished Rocket League remake built on a familiar foundation. The engine still carries no announced launch window, but the visual fidelity and new workflow tools were unmistakable.
 
@@ -59,3 +61,7 @@ The Witcher 3 anecdote reminds us that player satisfaction ultimately hinges o
 Keep an eye on Epic’s official announcement window for Unreal Engine 6; the timing will signal whether the engine’s new features are ready for production or still in a beta‑ish phase. Track Star Citizen’s next public milestone—whether Squadron 42 receives a firm release date or the project pivots to a different model. Finally, monitor box‑office reports for the Zelda movie after its April 30 opening; strong performance could encourage more live‑action adaptations of video‑game IPs, while a flop may push studios back toward animated or streaming formats.
 
 The industry’s next moves will reveal whether hype can finally be matched by delivery, or if the cycle of preview, funding, and delayed fulfillment continues unabated.
+
+## Updates
+
+- **2026-09-18** — OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web ([source](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero))
