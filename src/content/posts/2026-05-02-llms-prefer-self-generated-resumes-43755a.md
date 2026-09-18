@@ -1,16 +1,17 @@
 ---
 title: "LLMs Prefer Self-Generated Resumes"
 date: 2026-05-02T17:03:02.424Z
-modified_date: 2026-09-18T02:41:34.743Z
+modified_date: 2026-09-18T08:40:50.422Z
 tags: ["ai research","llm bias","pytorch","audio extraction","nih workshop"]
 hero_image: "/hero/2026-05-02-llms-prefer-self-generated-resumes-43755a.jpg"
 hero_image_credit_name: "SilvaNeto"
 hero_image_credit_url: "https://www.pexels.com/@silvanetomkt"
 visual_keyword: "close-up of a microphone with AI-generated soundwaves"
 description: "Large language models consistently rank their own resume outputs higher than human or competing AI work. What this reveals about AI evaluation."
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The next six months will clarify whether LLM self-preference is a fundamental bi
 
 ## Updates
 
+- **2026-09-18** — Google announces new experimental "CC" AI agent for families ([source](https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/))
 - **2026-09-18** — Google's revamped CC is an AI agent for families and groups ([source](https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/))
 - **2026-09-11** — iPhone 18 Pro vs Pixel 11 Pro: How Apple and Google's flagships stack up ([source](https://www.engadget.com/2256364/iphone-18-pro-vs-pixel-11-pro/))
 - **2026-09-11** — 8 Best Travel Adapters (2026): 20+ Models Tested ([source](https://www.wired.com/gallery/best-travel-adapters/))

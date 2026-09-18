@@ -1,19 +1,20 @@
 ---
 title: "Motorola's Wallet-Friendly Android Smartphones"
 date: 2026-07-26T20:52:29.619Z
-modified_date: 2026-08-07T20:35:47.651Z
+modified_date: 2026-09-18T08:41:13.864Z
 tags: ["Motorola","Affordable Smartphones","Android"]
 hero_image: "/hero/2026-07-26-motorola-s-wallet-friendly-android-smartphones-242772.jpg"
 hero_image_credit_name: "Nic Wood"
 hero_image_credit_url: "https://www.pexels.com/@nic-scrollstoppingphotos"
 visual_keyword: "Motorola phones"
 description: "Motorola offers affordable Android phones with colorful designs and simple software"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-26-motorola-s-wallet-friendly-android-smartphones-242772.mp3"
 audio_bytes: 608175
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Motorola's Affordable Android Smartphones
@@ -61,6 +62,7 @@ Motorola's affordable Android smartphones have made a significant impact on the 
 
 ## Updates
 
+- **2026-09-18** — Hackers reveal how Flock cameras really track cars and people ([source](https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/))
 - **2026-08-07** — These automakers still don’t support CarPlay, here’s why ([source](https://9to5mac.com/2026/08/07/these-automakers-still-dont-support-carplay-heres-why/))
 
 [^1]: [medium.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWm8O9P_Y8CBZhj128FR_Rx_pOnDTvnBpXYfCKOaF8tEEShpL_joSeCgpLU_NLKNe_UKwhdGSWahi4Lt1-zBwZaRqzRG3KK_PaY5ZaMBK_8xoKD56flGu08iv0u4rM5KGbJrvApXNcSYgvOh4ACuM8AofQC6Qff0yVI9n_ONKoZ618uUAKZjAYjiEelPK0h8UeiuCmUnCKs4sPm4zSsJmFGgXkoXQN7AKaDbn4-Q==)

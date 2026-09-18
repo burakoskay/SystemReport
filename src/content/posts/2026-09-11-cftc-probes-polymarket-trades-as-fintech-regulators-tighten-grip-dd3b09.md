@@ -1,16 +1,17 @@
 ---
 title: "CFTC probes Polymarket trades as fintech regulators tighten grip"
 date: 2026-09-11T20:26:55.193Z
-modified_date: 2026-09-17T22:36:38.644Z
+modified_date: 2026-09-18T08:40:58.217Z
 tags: ["cftc","prediction markets","fintech","regulation","behavioural economics"]
 hero_image: "/hero/2026-09-11-cftc-probes-polymarket-trades-as-fintech-regulators-tighten-grip-dd3b09.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "office desk with legal documents and data charts"
 description: "The CFTC opened three investigations into Polymarket speculation, amid broader regulatory scrutiny of prediction markets, cloud services, and payment platforms."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 The Commodity Futures Trading Commission opened three investigations into Polymarket trades tied to a Biden pardon, the Iran war, and alleged insider trading at Google. The moves signal a sharpening focus on prediction‑market compliance at a time when other fintech corners face heightened oversight.
@@ -53,4 +54,5 @@ The next CFTC filing on Polymarket will reveal whether the agency plans to seek 
 
 ## Updates
 
+- **2026-09-18** — Microsoft exec called AI scraping the “largest theft of labor in human history” ([source](https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/))
 - **2026-09-17** — Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal ([source](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/))
