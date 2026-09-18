@@ -1,16 +1,17 @@
 ---
 title: "Neurable Licenses 'Mind-Reading' Tech for Consumer Wearables"
 date: 2026-04-29T06:34:33.754Z
-modified_date: 2026-08-09T22:24:35.151Z
+modified_date: 2026-09-18T02:41:13.333Z
 tags: ["neurable","bci","mind-reading","consumer wearables","brain-computer interface"]
 hero_image: "/hero/2026-04-29-neurable-licenses-mind-reading-tech-for-consumer-wearables-27836c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "neural data collection"
 description: "BCI startup Neurable seeks to integrate its non-invasive neural data collection tech into consumer wearables."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ We spoke with several industry experts who offered their thoughts on Neurable's 
 
 ## Updates
 
+- **2026-09-18** — Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’ ([source](https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/))
 - **2026-08-09** — Ask HN: What are you working on? (August 2026) ([source](https://news.ycombinator.com/item?id=49233423))
 - **2026-07-31** — Deals: Fold 8/Ultra, 2-in-1 Copilot+ PCs and Surface Pro up to $500 off, LG TVs from $330, new transparent metal power bank, more ([source](https://9to5google.com/2026/07/31/deals-fold-8-ultra-surface-pro-lg-tv/))
 - **2026-05-24** — These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin ([source](https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/))

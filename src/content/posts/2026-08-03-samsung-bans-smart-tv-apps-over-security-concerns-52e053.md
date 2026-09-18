@@ -1,18 +1,20 @@
 ---
 title: "Samsung Bans Smart TV Apps Over Security Concerns"
 date: 2026-08-03T14:26:42.104Z
+modified_date: 2026-09-18T02:41:48.950Z
 tags: ["Samsung","Smart TV","Residential Proxy Networks"]
 hero_image: "/hero/2026-08-03-samsung-bans-smart-tv-apps-over-security-concerns-52e053.jpg"
 hero_image_credit_name: "Dan  Nelson"
 hero_image_credit_url: "https://www.pexels.com/@dan-nelson-1667453"
 visual_keyword: "Internet Security"
 description: "Samsung bans apps sharing user internet connections"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-03-samsung-bans-smart-tv-apps-over-security-concerns-52e053.mp3"
 audio_bytes: 602951
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Samsung's Smart TV App Ban
 Samsung has banned smart TV apps that share users' internet connections with strangers. This decision follows new security research into residential proxy networks.
@@ -58,3 +60,7 @@ The impact on users will also be significant, as they will need to find alternat
 The future of residential proxy networks is uncertain, as device manufacturers and regulatory bodies begin to take notice of the security risks associated with these networks. As the use of these networks continues to grow, it is likely that we will see increased scrutiny and regulation of the industry.
 
 This could lead to the development of new, more secure technologies for accessing geo-restricted content and other services. Alternatively, it could lead to a decline in the use of residential proxy networks, as users become more aware of the security risks associated with these networks.
+
+## Updates
+
+- **2026-09-18** — Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit ([source](https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/))
