@@ -1,16 +1,17 @@
 ---
 title: "WIRED's Verified Discounts for May 2026"
 date: 2026-05-14T06:50:12.741Z
-modified_date: 2026-09-15T13:05:23.823Z
+modified_date: 2026-09-18T18:50:01.766Z
 tags: ["Retail","Discounts","Promotions","Sephora","Birdfy"]
 hero_image: "/hero/2026-05-14-wired-s-verified-discounts-for-may-2026-93350b.jpg"
 hero_image_credit_name: "David Kouakou"
 hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Consumer behavior and preferences are constantly evolving, and retailers must be
 
 ## Updates
 
+- **2026-09-18** — Deals: Galaxy Z Fold 8 Ultra up to $577 off, Fold 8 $250+ off, Copilot+ PC sale up to $650 off, more ([source](https://9to5google.com/2026/09/18/deals-galaxy-z-fold-8-ultra-copilot-pc-sale-lenovo/))
 - **2026-09-15** — The pros and cons of using a MagSafe charger ([source](https://www.engadget.com/2254631/magsafe-charger-pro-and-cons/))
 - **2026-07-30** — Deals: Galaxy Z Fold 8 trades – $600 back + $350 gift card, 2026 Surface Laptop at $600 off, charger deals, more ([source](https://9to5google.com/2026/07/30/deals-galaxy-z-fold-8-trade-deals-2026-surface-laptop/))
 - **2026-06-02** — Cricut&#8217;s Joy 2 helps you personalize Father&#8217;s Day gifts, and it&#8217;s at its lowest price yet ([source](https://www.theverge.com/gadgets/941696/cricut-joy-2-rainbow-essential-bundle-deal-sale))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's MacBook Neo Chip Shortage"
 date: 2026-04-19T01:59:33.704Z
-modified_date: 2026-09-10T14:02:09.690Z
+modified_date: 2026-09-18T18:48:56.247Z
 tags: ["apple","macbook neo","chip shortage","supply chain"]
 hero_image: "/hero/2026-04-19-apple-s-macbook-neo-chip-shortage-71dcbc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "MacBook Neo production line"
 description: "Apple faces a chip supply shortage for its MacBook Neo, which is selling better than expected. The company may need to adjust its production strategy."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ As Apple navigates its chip supply shortage, the company's next moves will be cl
 
 ## Updates
 
+- **2026-09-18** — If the AI Industry Followed Its Own Research, It Might Have Paused Already ([source](https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/))
 - **2026-09-10** — Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced ([source](https://9to5mac.com/2026/09/10/apple-watch-ultra-4-and-series-12-have-surprise-upgrade-that-wasnt-announced/))
 - **2026-09-01** — OpenAI calls trade secret dispute ‘a mess of Apple’s own making’ ([source](https://9to5mac.com/2026/09/01/openai-calls-trade-secret-dispute-a-mess-of-apples-own-making/))
 - **2026-08-20** — Ramp launches its own AI model router, called Router ([source](https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/))

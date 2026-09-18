@@ -1,15 +1,17 @@
 ---
 title: "LLMs are getting better at predicting HN discussions"
 date: 2026-05-05T06:27:37.711Z
+modified_date: 2026-09-18T18:49:32.524Z
 tags: ["LLM","Hacker News","AI-generated content","online discourse","tech industry"]
 hero_image: "/hero/2026-05-05-llms-are-getting-better-at-predicting-hn-discussions-86f14e.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "LLM predicting HN discussions"
 description: "A user has created a tool to auto-grade decade-old Hacker News discussions with hindsight, using ChatGPT 5.1 Thinking. The model is getting better at predicting HN discussions, but what are the implications?"
-sources_count: 16
+sources_count: 17
 author: "maya-chen"
 ---
+
 
 
 ## LLMs are getting better at predicting HN discussions
@@ -56,3 +58,6 @@ As AI-generated content becomes more prevalent, it raises questions about the re
 
 As this technology continues to evolve, it will be interesting to see how it impacts the tech industry and online discourse as a whole. Will LLMs become the new standard for predicting HN discussions, or will human moderators continue to play a key role? Only time will tell.
 
+## Updates
+
+- **2026-09-18** — Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount ([source](https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount))

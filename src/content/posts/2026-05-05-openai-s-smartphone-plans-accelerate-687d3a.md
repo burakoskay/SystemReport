@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Smartphone Plans Accelerate"
 date: 2026-05-05T19:32:33.712Z
-modified_date: 2026-09-11T23:48:04.016Z
+modified_date: 2026-09-18T18:49:25.226Z
 tags: ["OpenAI","Smartphone","AI-Powered Hardware"]
 hero_image: "/hero/2026-05-05-openai-s-smartphone-plans-accelerate-687d3a.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI phone"
 description: "OpenAI reportedly fast-tracks smartphone launch, potentially debuting early next year."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -73,6 +74,7 @@ Content: 企業での記事共有や会議資料への転載・複製、注文�
 
 ## Updates
 
+- **2026-09-18** — What Hollywood thinks about existential AI warnings ([source](https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings))
 - **2026-09-11** — Moss developer Polyarc has closed ([source](https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/))
 - **2026-06-03** — Trans teens have something to say ([source](https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing))
 - **2026-06-01** — Meta&#8217;s own AI was exploited to hijack Instagram accounts ([source](https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked))

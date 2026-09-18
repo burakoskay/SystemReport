@@ -1,16 +1,17 @@
 ---
 title: "MSI Monitor Offers 4K and 680Hz Modes"
 date: 2026-05-30T21:05:02.835Z
-modified_date: 2026-09-15T13:05:58.012Z
+modified_date: 2026-09-18T18:50:38.729Z
 tags: ["gaming","monitor","MSI","display technology"]
 hero_image: "/hero/2026-05-30-msi-monitor-offers-4k-and-680hz-modes-873fd2.jpg"
 hero_image_credit_name: "SERHAT TURAN"
 hero_image_credit_url: "https://www.pexels.com/@serhatturan"
 visual_keyword: "MSI Monitor"
 description: "MSI's new monitor switches between 4K and 680Hz modes"
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The gaming monitor market is highly competitive, with many manufacturers competi
 
 ## Updates
 
+- **2026-09-18** — Best iPhone 18 Pro cases now available for purchase [Updated] ([source](https://9to5mac.com/2026/09/18/best-iphone-18-pro-cases-now-available/))
 - **2026-09-15** — Apple TV cleaned up at the Emmys with eight wins for Widow's Bay and Pluribus ([source](https://www.engadget.com/2258734/apple-tv-wins-big-widows-bay-pluribus-emmys/))
 - **2026-08-07** — Why does Apple keep banning Telegram, but never X? ([source](https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations))
 - **2026-08-05** — Deals: Best Galaxy Fold 8 pre-order offers still live, Galaxy phones from $345, Google Pixelsnap Charger 40% off, more ([source](https://9to5google.com/2026/08/05/deals-galaxy-fold-8-galaxy-a37-google-pixelsnap-charger/))
