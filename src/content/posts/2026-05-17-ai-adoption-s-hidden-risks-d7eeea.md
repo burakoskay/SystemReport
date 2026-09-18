@@ -1,16 +1,17 @@
 ---
 title: "AI Adoption's Hidden Risks"
 date: 2026-05-17T15:02:10.511Z
-modified_date: 2026-09-15T13:05:51.159Z
+modified_date: 2026-09-18T14:03:06.093Z
 tags: ["AI","Enterprise","Technology"]
 hero_image: "/hero/2026-05-17-ai-adoption-s-hidden-risks-d7eeea.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Enterprises face hidden risks with AI subscriptions"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ The adoption of AI is a complex and multifaceted issue, with significant implica
 
 ## Updates
 
+- **2026-09-18** — Napster Is Back, and It Wants to Digitally Clone Teachers ([source](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/))
 - **2026-09-15** — The easiest way to find and remove spyware on your Android phone ([source](https://www.engadget.com/2254646/android-phone-how-to-find-remove-spyware/))
 - **2026-08-12** — Apple hires American Airlines exec to lead government affairs ([source](https://9to5mac.com/2026/08/12/apple-hires-american-airlines-exec-to-lead-government-affairs/))

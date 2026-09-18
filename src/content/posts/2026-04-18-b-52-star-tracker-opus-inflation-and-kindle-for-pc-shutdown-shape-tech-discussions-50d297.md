@@ -1,16 +1,17 @@
 ---
 title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
-modified_date: 2026-09-10T08:35:22.287Z
+modified_date: 2026-09-18T14:03:35.119Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ The B-52 star tracker computer's design era and specific gear ratios demonstrate
 
 ## Updates
 
+- **2026-09-18** — Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays ([source](https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/))
 - **2026-09-10** — Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI ([source](https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini))
 - **2026-09-10** — There aren’t AirPods with cameras yet and I hope it stays that way ([source](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event))
 - **2026-09-02** — Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development ([source](https://www.norirobotics.com/))

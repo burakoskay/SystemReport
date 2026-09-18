@@ -1,16 +1,17 @@
 ---
 title: "Apple’s first smart glasses aim at health, not AR"
 date: 2026-08-02T16:58:48.468Z
-modified_date: 2026-09-16T19:19:20.618Z
+modified_date: 2026-09-18T14:02:37.140Z
 tags: ["apple","smart glasses","health tech"]
 hero_image: "/hero/2026-08-02-apple-s-first-smart-glasses-aim-at-health-not-ar-ef1dbd.jpg"
 hero_image_credit_name: "TREEDEO.ST"
 hero_image_credit_url: "https://www.pexels.com/@treedeo"
 visual_keyword: "person wearing sleek smart glasses with health data overlay"
 description: "Apple’s upcoming non‑AR smart glasses will start as a health companion, with fitness features pushed to later models, according to Mark Gurman."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Health first, AR later
@@ -49,4 +50,5 @@ The next milestone is Apple’s chip production schedule. If the custom silicon 
 
 ## Updates
 
+- **2026-09-18** — Submit Your Questions: Why Is Silicon Valley Still a Boy's Club? ([source](https://www.wired.com/story/livestream-women-in-tech/))
 - **2026-09-16** — Samsung brings One UI 9 to the rest of the Galaxy S26 series ([source](https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/))

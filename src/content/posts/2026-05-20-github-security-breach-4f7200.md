@@ -1,15 +1,17 @@
 ---
 title: "GitHub Security Breach"
 date: 2026-05-20T07:55:03.998Z
+modified_date: 2026-09-18T14:03:56.499Z
 tags: ["GitHub","Security Breach","Tech Industry"]
 hero_image: "/hero/2026-05-20-github-security-breach-4f7200.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub"
 description: "GitHub investigates unauthorized access to internal repositories"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Breach
 GitHub is investigating a security incident involving unauthorized access to their internal repositories. This incident has raised concerns about the security of GitHub's systems and the potential impact on its users.
@@ -56,3 +58,7 @@ The use of GitHub Actions workflows has increased the risk of security incidents
 
 ## Conclusion
 The security incident at GitHub serves as a reminder of the importance of robust security measures and the need for companies to prioritize security. As the tech industry continues to evolve, it is likely that security incidents will become more common, making it essential for companies to stay ahead of the curve and take proactive measures to protect against unauthorized access.
+
+## Updates
+
+- **2026-09-18** — Clicks Communicator lands in December with 12GB RAM, two months of free data ([source](https://9to5google.com/2026/09/18/clicks-communicator-lands-in-december-with-12gb-ram-two-months-of-free-data/))

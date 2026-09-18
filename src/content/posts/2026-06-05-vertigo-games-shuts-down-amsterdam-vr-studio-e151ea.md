@@ -1,18 +1,20 @@
 ---
 title: "Vertigo Games Shuts Down Amsterdam VR Studio"
 date: 2026-06-05T12:51:06.549Z
+modified_date: 2026-09-18T14:03:49.324Z
 tags: ["Vertigo Games","VR gaming","studio closure"]
 hero_image: "/hero/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "VR gaming"
 description: "Vertigo Games, known for VR titles, closes Amsterdam studio, impacting the VR gaming industry."
-sources_count: 3
-author: "sam-whitfield"
+sources_count: 4
 audio_path: "/audio/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.mp3"
 audio_bytes: 626565
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Vertigo Games, a developer of VR experiences, is closing its Amsterdam-based studio. The company, known for its work in virtual reality space, did not provide specific reasons for the closure.
@@ -42,3 +44,7 @@ The VR gaming industry will be closely monitoring the situation to see how it af
 Industry analysts will be keeping a close eye on how Vertigo Games' closure affects the company's existing partnerships and collaborations. The studio's closure could also lead to a shift in the types of VR games being developed, as other studios may seek to fill the gap left by Vertigo Games. Additionally, the closure could lead to increased consolidation in the VR gaming industry, as larger studios seek to acquire smaller ones.
 
 In the short term, the closure of Vertigo Games' Amsterdam studio is likely to have a limited impact on the VR gaming industry. However, in the long term, the closure could have significant implications for the industry, particularly in terms of content availability and innovation.
+
+## Updates
+
+- **2026-09-18** — Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history' ([source](https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/))

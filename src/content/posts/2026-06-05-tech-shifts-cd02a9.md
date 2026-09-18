@@ -1,18 +1,20 @@
 ---
 title: "Tech Shifts"
 date: 2026-06-05T23:16:14.886Z
+modified_date: 2026-09-18T14:04:10.600Z
 tags: ["Tech","AI","SpaceX"]
 hero_image: "/hero/2026-06-05-tech-shifts-cd02a9.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Reid Hoffman leaves Microsoft's board, Google pays SpaceX $920M per month"
-sources_count: 11
-author: "maya-chen"
+sources_count: 12
 audio_path: "/audio/2026-06-05-tech-shifts-cd02a9.mp3"
 audio_bytes: 632417
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Recent Developments
 Reid Hoffman is stepping down from Microsoft's board to focus on his AI drug discovery startup Manus. Google will pay SpaceX $920M per month for compute, a deal resulting from unexpected demand for its recently launched AI products.
@@ -37,3 +39,7 @@ The implications of the tech industry's advancements are far-reaching. The devel
 
 ## What's Next
 The tech industry is expected to continue evolving, with new developments and partnerships emerging. The use of silicon photonic chips and vacuum-channel transistors could lead to significant improvements in computing speed and efficiency. As the industry moves forward, it's essential to keep track of the latest advancements and investments, including the progress of startups like Manus and Lectric, and the ongoing innovations in fields like AI and space exploration.
+
+## Updates
+
+- **2026-09-18** — Bend 2 and the Vibe-Coding Trap ([source](https://blog.liampwll.com/posts/bend_vibe_coding/))

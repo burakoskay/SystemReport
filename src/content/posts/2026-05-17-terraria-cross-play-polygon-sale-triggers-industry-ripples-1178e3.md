@@ -1,15 +1,17 @@
 ---
 title: "Terraria cross-play, Polygon sale triggers industry ripples"
 date: 2026-05-17T21:06:42.781Z
+modified_date: 2026-09-18T14:03:20.792Z
 tags: ["gaming","media","cross‑play"]
 hero_image: "/hero/2026-05-17-terraria-cross-play-polygon-sale-triggers-industry-ripples-1178e3.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Terraria characters playing together across console and mobile devices"
 description: "Terraria adds cross‑play and 15th‑anniversary merch while Polygon’s sale to Valnet sparks layoffs, highlighting consolidation in gaming media."
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 ## Terraria adds cross‑play, teases 15th‑anniversary merch
 
@@ -34,3 +36,7 @@ At the same time, game developers are converging on cross‑play as a standard f
 ## What to watch
 
 Re‑Logic has not set a release date for cross‑play, but community chatter suggests a rollout later this year. Tracking patch notes and platform‑specific announcements will reveal how quickly the feature spreads across PC, console, and mobile. On the media side, Polygon’s editorial direction under Valnet remains opaque. Watch for new bylines, changes to the site’s tone, and any further staff churn. The next hiring round, if any, will indicate whether Valnet intends to preserve Polygon’s reputation as a “gaming authority” or retool it to fit a broader content strategy. Both stories will shape how gamers discover, discuss, and play their favorite titles in a consolidating landscape.
+
+## Updates
+
+- **2026-09-18** — Flash floods can strike without warning — this new technology could change that ([source](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning))

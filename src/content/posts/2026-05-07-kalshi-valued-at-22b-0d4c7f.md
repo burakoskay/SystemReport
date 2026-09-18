@@ -1,19 +1,20 @@
 ---
 title: "Kalshi Valued at $22B"
 date: 2026-05-07T19:48:15.357Z
-modified_date: 2026-08-06T23:56:36.224Z
+modified_date: 2026-09-18T14:04:03.561Z
 tags: ["prediction markets","Kalshi","funding round"]
 hero_image: "/hero/2026-05-07-kalshi-valued-at-22b-0d4c7f.jpg"
 hero_image_credit_name: "Hanna Pad"
 hero_image_credit_url: "https://www.pexels.com/@anna-nekrashevich"
 visual_keyword: "prediction markets"
 description: "Kalshi raises $1 billion, doubles valuation in 5 months"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-07-kalshi-valued-at-22b-0d4c7f.mp3"
 audio_bytes: 619042
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,5 +65,6 @@ Overall, Kalshi's future growth will depend on its ability to innovate and adapt
 
 ## Updates
 
+- **2026-09-18** — Samsung Gallery rolling out Google Photos sync, here are the details you need to know ([source](https://9to5google.com/2026/09/18/samsung-gallery-google-photos-sync-details-rollout/))
 - **2026-08-06** — Qwen3.8 Max now ranked as the best overall model by agentic index ([source](https://artificialanalysis.ai/?intelligence=agentic-index))
 - **2026-05-26** — Trump admin wants nuclear startups to use plutonium for their reactors ([source](https://techcrunch.com/2026/05/26/trump-admin-wants-nuclear-startups-to-use-plutonium-for-their-reactors/))
