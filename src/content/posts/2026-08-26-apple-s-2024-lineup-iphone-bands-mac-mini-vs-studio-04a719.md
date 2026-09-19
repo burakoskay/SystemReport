@@ -1,16 +1,17 @@
 ---
 title: "Apple’s 2024 lineup: iPhone bands, Mac mini vs Studio"
 date: 2026-08-26T19:55:28.463Z
-modified_date: 2026-08-28T15:57:55.679Z
+modified_date: 2026-09-19T08:27:33.012Z
 tags: ["apple","hardware","cellular","mac","ipad"]
 hero_image: "/hero/2026-08-26-apple-s-2024-lineup-iphone-bands-mac-mini-vs-studio-04a719.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Apple devices on a desk with iPhone, Mac mini, and iPad"
 description: "Apple rolls out iPhone 16 with region‑specific cellular bands, a new Mac mini with M6, and iPad Pro upgrades, forcing buyers to weigh trade‑offs."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## iPhone 16 regional band fragmentation
@@ -30,4 +31,5 @@ The next few months will reveal whether Apple consolidates cellular bands in a f
 
 ## Updates
 
+- **2026-09-19** — Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear ([source](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/))
 - **2026-08-28** — There Are So Many Conspiracy Theories About Dolly Parton and Vaccines ([source](https://www.wired.com/story/there-are-so-many-conspiracy-theories-about-dolly-parton-and-vaccines/))
