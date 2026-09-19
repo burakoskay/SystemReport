@@ -1,18 +1,20 @@
 ---
 title: "SynthID adoption grows, $28M for Ocean"
 date: 2026-05-19T21:26:25.442Z
+modified_date: 2026-09-19T02:40:09.810Z
 tags: ["AI","security","productivity"]
 hero_image: "/hero/2026-05-19-synthid-adoption-grows-28m-for-ocean-d062db.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated content"
 description: "Google's SynthID watermarking expands, Ocean fights AI phishing, and an open-source Sheets extension brings LLMs to spreadsheets."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-19-synthid-adoption-grows-28m-for-ocean-d062db.mp3"
 audio_bytes: 582053
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## SynthID Watermarking Gains Traction
@@ -77,3 +79,6 @@ The development of these technologies will also depend on the broader industry c
 
 The intersection of AI, security, and productivity will be a key area to watch in the coming months and years. Companies that can effectively navigate this intersection will be well-positioned to succeed in the rapidly evolving AI landscape.
 
+## Updates
+
+- **2026-09-19** — AI almost led the US military to start a war with China, report says ([source](https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/))

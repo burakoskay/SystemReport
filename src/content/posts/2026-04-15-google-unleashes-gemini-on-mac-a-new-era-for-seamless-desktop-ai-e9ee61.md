@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-09-08T19:14:10.227Z
+modified_date: 2026-09-19T02:40:02.803Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 26
+sources_count: 27
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-09-19** — Gemini app for macOS adding send and read iMessage integration ([source](https://9to5google.com/2026/09/18/gemini-macos-imessage/))
 - **2026-09-08** — Arm’s new CPU cores and GPUs for Android chips promise ‘desktop-class’ games, more AI power ([source](https://9to5google.com/2026/09/08/arms-new-cpu-cores-and-gpus-for-android-chips-promise-desktop-class-games-more-ai-power/))
 - **2026-08-26** — Here’s everything new for Reminders in iOS 27 ([source](https://9to5mac.com/2026/08/26/heres-everything-new-for-reminders-in-ios-27/))
 - **2026-08-13** — Today’s Android app deals and freebies: Lia, Easy Delivery Co, Wreckfest, more ([source](https://9to5toys.com/2026/08/13/android-app-deals-free-lia-easy-delivery/))
