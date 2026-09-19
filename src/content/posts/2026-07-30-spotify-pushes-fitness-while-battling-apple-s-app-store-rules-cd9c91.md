@@ -1,19 +1,20 @@
 ---
 title: "Spotify pushes fitness while battling Apple’s App Store rules"
 date: 2026-07-30T15:53:24.513Z
-modified_date: 2026-07-30T22:59:58.365Z
+modified_date: 2026-09-19T13:39:54.467Z
 tags: ["spotify","fitness","app-store"]
 hero_image: "/hero/2026-07-30-spotify-pushes-fitness-while-battling-apple-s-app-store-rules-cd9c91.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "runner listening to music on a smartphone with Spotify interface"
 description: "Spotify adds a running mode and expands its fitness push, even as Apple repeatedly blocks its iOS updates over audiobook and subscription rules."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-07-30-spotify-pushes-fitness-while-battling-apple-s-app-store-rules-cd9c91.mp3"
 audio_bytes: 553422
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Spotify rolled out a new Running Mode for Premium users on iOS this week, and the move signals a broader shift toward fitness‑centric experiences. The rollout arrives amid a fresh wave of App Store rejections that threaten to stall Spotify’s non‑music ambitions.
@@ -54,4 +55,5 @@ The next App Store review cycle will reveal whether Apple will allow a version o
 
 ## Updates
 
+- **2026-09-19** — What causes a stuck pixel on your laptop and can it be fixed? ([source](https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/))
 - **2026-07-30** — Tim Cook hints at iCloud Plus tier for AI power users ([source](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai))

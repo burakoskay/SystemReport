@@ -1,16 +1,17 @@
 ---
 title: "Google Safe Browsing"
 date: 2026-08-01T02:12:51.998Z
-modified_date: 2026-09-14T20:09:13.270Z
+modified_date: 2026-09-19T13:39:12.183Z
 tags: ["google safe browsing","startups","tech news"]
 hero_image: "/hero/2026-08-01-google-safe-browsing-480480.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "red warning page"
 description: "Google's Safe Browsing feature can kill a startup, learn how to handle the situation and the implications of this feature."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Google Safe Browsing
@@ -38,4 +39,5 @@ Google Safe Browsing can kill a startup, but by being informed and taking proact
 
 ## Updates
 
+- **2026-09-19** — Join the WIRED World Fair in Miami on November 4 ([source](https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/))
 - **2026-09-14** — Google Wallet for Android getting vertically stacked card list ([source](https://9to5google.com/2026/09/14/google-wallet-card-stack-redesign/))

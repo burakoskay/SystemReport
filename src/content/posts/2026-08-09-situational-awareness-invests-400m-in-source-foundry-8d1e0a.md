@@ -1,16 +1,17 @@
 ---
 title: "Situational Awareness Invests $400M in Source Foundry"
 date: 2026-08-09T22:25:36.776Z
-modified_date: 2026-09-09T22:11:55.115Z
+modified_date: 2026-09-19T13:40:22.743Z
 tags: ["AI","Chip Development","Hedge Fund"]
 hero_image: "/hero/2026-08-09-situational-awareness-invests-400m-in-source-foundry-8d1e0a.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Chip Startup"
 description: "Embattled hedge fund invests in chip startup"
-sources_count: 2
+sources_count: 3
 author: "david-okafor"
 ---
+
 
 
 ## Introduction
@@ -34,4 +35,5 @@ The future of AI-focused chip development looks promising, with significant grow
 
 ## Updates
 
+- **2026-09-19** — Laya the open source version of Jev ([source](https://laya.convaiinnovations.com/))
 - **2026-09-09** — GNU Radio in the browser ([source](https://gnuradioworld.com/))

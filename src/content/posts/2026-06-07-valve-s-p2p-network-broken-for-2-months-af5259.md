@@ -1,18 +1,20 @@
 ---
 title: "Valve's P2P Network Broken for 2 Months"
 date: 2026-06-07T09:23:23.265Z
+modified_date: 2026-09-19T13:38:58.198Z
 tags: ["Valve","P2P networking","gaming"]
 hero_image: "/hero/2026-06-07-valve-s-p2p-network-broken-for-2-months-af5259.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "network"
 description: "Valve's peer-to-peer networking issue remains unresolved, affecting game developers."
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-06-07-valve-s-p2p-network-broken-for-2-months-af5259.mp3"
 audio_bytes: 649762
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## GitHub Issue Reveals Prolonged Outage
@@ -58,3 +60,7 @@ The gaming industry's reliance on P2P networking highlights the need for robust 
 ## Conclusion
 
 In conclusion, Valve's P2P networking issue is a significant problem that affects not only the company but also the broader gaming industry. A prompt resolution is crucial to maintaining trust and ensuring a seamless gaming experience for users.
+
+## Updates
+
+- **2026-09-19** — The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) ([source](https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/))
