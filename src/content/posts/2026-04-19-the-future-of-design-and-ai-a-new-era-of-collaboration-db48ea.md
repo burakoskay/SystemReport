@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-09-18T18:50:31.399Z
+modified_date: 2026-09-19T16:59:29.865Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 25
+sources_count: 26
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-09-19** — How to block and unblock a number on your Android phone ([source](https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/))
 - **2026-09-18** — 9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo ([source](https://9to5mac.com/2026/09/18/daily-september-18-2026/))
 - **2026-08-29** — Panasonic Lumix L10 review: A stylish and capable compact camera ([source](https://www.engadget.com/2246463/panasonic-lumix-l10-review/))
 - **2026-08-26** — Fake US thinktank set up and funded by Israel sought to game AI for propaganda ([source](https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda))

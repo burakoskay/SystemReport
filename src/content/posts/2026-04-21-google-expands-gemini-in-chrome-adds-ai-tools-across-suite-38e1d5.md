@@ -1,19 +1,20 @@
 ---
 title: "Google expands Gemini in Chrome, adds AI tools across suite"
 date: 2026-04-21T09:45:11.730Z
-modified_date: 2026-08-20T14:31:42.410Z
+modified_date: 2026-09-19T16:59:00.737Z
 tags: ["google","chrome","ai","accessibility","productivity"]
 hero_image: "/hero/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Chrome browser window with AI assistant overlay"
 description: "Google rolls Gemini AI to Chrome in seven Asian markets while upgrading security, Assistant, Docs and accessibility features."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-21-google-expands-gemini-in-chrome-adds-ai-tools-across-suite-38e1d5.mp3"
 audio_bytes: 23819972
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Watch for Gemini’s expansion beyond the initial seven markets. Google has hint
 
 ## Updates
 
+- **2026-09-19** — Gemini went rogue, hacked three companies, and Google hid it ([source](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack))
 - **2026-08-20** — Show HN: I trained a 125M model to autocomplete piano on-device ([source](https://simedw.com/2026/08/20/midi-autocomplete/))
 - **2026-08-19** — Google Pixel 11 series review: Is the magic fading? ([source](https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/))
 - **2026-08-14** — Google Meet rolling out ‘Take Notes’ for in-person meetings on Android, web, & iOS ([source](https://9to5google.com/2026/08/13/google-meet-take-notes-in-person/))
