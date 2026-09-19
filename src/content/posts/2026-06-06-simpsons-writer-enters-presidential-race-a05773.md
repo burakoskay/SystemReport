@@ -1,19 +1,20 @@
 ---
 title: "Simpsons Writer Enters Presidential Race"
 date: 2026-06-06T10:11:06.549Z
-modified_date: 2026-09-14T14:40:13.883Z
+modified_date: 2026-09-19T19:54:20.816Z
 tags: ["US Politics","Presidential Election","Celebrity Politics"]
 hero_image: "/hero/2026-06-06-simpsons-writer-enters-presidential-race-a05773.jpg"
 hero_image_credit_name: "Apunto Group Agencia de publicidad"
 hero_image_credit_url: "https://www.pexels.com/@apunto-group-agencia-de-publicidad-53086916"
 visual_keyword: "Dan Greaney"
 description: "Dan Greaney, a Simpsons writer, holds first presidential campaign rally in LA, citing concerns over American democracy."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-06-simpsons-writer-enters-presidential-race-a05773.mp3"
 audio_bytes: 611310
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,5 +63,6 @@ The rise of non-traditional candidates like Greaney could have broader implicati
 
 ## Updates
 
+- **2026-09-19** — Trump treads further on free speech with new journalist bans ([source](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban))
 - **2026-09-14** — What happens after a town de-Flocks ([source](https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy))
 - **2026-08-11** — What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/))
