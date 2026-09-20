@@ -1,19 +1,20 @@
 ---
 title: "Snapchat Integrates Spotify for Real-Time Music Sharing"
 date: 2026-07-27T14:20:13.324Z
-modified_date: 2026-09-15T13:04:35.734Z
+modified_date: 2026-09-20T13:53:35.151Z
 tags: ["Snapchat","Spotify","Music Streaming"]
 hero_image: "/hero/2026-07-27-snapchat-integrates-spotify-for-real-time-music-sharing-52bcdd.jpg"
 hero_image_credit_name: "Narin Chauhan"
 hero_image_credit_url: "https://www.pexels.com/@narin-chauhan-295714705"
 visual_keyword: "Music Sharing"
 description: "Share Spotify listening activity with friends"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-27-snapchat-integrates-spotify-for-real-time-music-sharing-52bcdd.mp3"
 audio_bytes: 575992
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ Snapchat users can now share their Spotify listening activity in real time. The 
 
 ## Updates
 
+- **2026-09-20** — Don't call it an SUV: The Ferrari Purosangue review ([source](https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/))
 - **2026-09-15** — Spotify finally lets parents exclude kids’ music from Wrapped and recommendations ([source](https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/))
 - **2026-08-11** — Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations ([source](https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/))

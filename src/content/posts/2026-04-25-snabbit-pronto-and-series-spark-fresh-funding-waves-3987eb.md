@@ -1,19 +1,20 @@
 ---
 title: "Snabbit, Pronto, and Series spark fresh funding waves"
 date: 2026-04-25T19:02:08.763Z
-modified_date: 2026-09-18T08:41:06.028Z
+modified_date: 2026-09-20T13:53:42.033Z
 tags: ["gig economy","AI social networking","funding rounds"]
 hero_image: "/hero/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.jpg"
 hero_image_credit_name: "El gringo photo"
 hero_image_credit_url: "https://www.pexels.com/@el-gringo-photo-116752370"
 visual_keyword: "gig economy"
 description: "Indian gig player Snabbit seeks $400M, house-help platform Pronto eyes $200M, and US AI social network Series lands $5.1M."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.mp3"
 audio_bytes: 632208
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -88,6 +89,7 @@ The funding rounds for Snabbit, Pronto, and Series reflect the growing interest 
 
 ## Updates
 
+- **2026-09-20** — Wired vs. wireless charging: Which is better for battery health? ([source](https://www.engadget.com/2258952/wired-vs-wireless-charging-better-battery-health/))
 - **2026-09-18** — IV drips used for "detoxification" actually filled with toxins; dozens poisoned ([source](https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/))
 - **2026-09-12** — Best iPhone 18 Pro cases now available for purchase ([source](https://9to5mac.com/2026/09/12/best-iphone-18-pro-cases-now-available/))
 - **2026-09-11** — Proof of Capture: Apple Reference Image, but open source and using steganography ([source](https://merybenavente.me/blog/proof-of-capture))

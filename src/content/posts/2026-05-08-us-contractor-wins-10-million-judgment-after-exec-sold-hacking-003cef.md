@@ -1,16 +1,17 @@
 ---
 title: "US Contractor Wins $10 Million Judgment After Exec Sold Hacking"
 date: 2026-05-08T17:41:22.173Z
-modified_date: 2026-09-02T20:24:22.952Z
+modified_date: 2026-09-20T13:53:55.730Z
 tags: ["cybersecurity","defense","espionage"]
 hero_image: "/hero/2026-05-08-us-contractor-wins-10-million-judgment-after-exec-sold-hacking-003cef.jpg"
 hero_image_credit_name: "Sora Shimazaki"
 hero_image_credit_url: "https://www.pexels.com/@sora-shimazaki"
 visual_keyword: "courtroom gavel beside a laptop displaying code"
 description: "A former cyber executive stole surveillance software and sold it for $1.3 million to a Russian broker, prompting a $10 million court award to his former defense contractor."
-sources_count: 5
+sources_count: 6
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ The next step will be the enforcement of the $10 million award. The contractor
 
 ## Updates
 
+- **2026-09-20** — The Lamentable Later Life of Lemmings ([source](https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/))
 - **2026-09-02** — UN report says global warming will surpass the goal of 1.5 degrees Celsius ([source](https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/))
 - **2026-08-13** — Glaciers on the Climate Dashboard ([source](https://climate.metoffice.cloud/glaciers.html))
