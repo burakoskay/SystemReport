@@ -1,19 +1,20 @@
 ---
 title: "Gantri Partners with Ammunition on Wireless 3D-Printed Lamps"
 date: 2026-05-15T14:19:51.550Z
-modified_date: 2026-05-24T15:08:58.859Z
+modified_date: 2026-09-20T17:15:07.237Z
 tags: ["Gantri","Ammunition","Wireless Lighting","3D Printing"]
 hero_image: "/hero/2026-05-15-gantri-partners-with-ammunition-on-wireless-3d-printed-lamps-49cda5.jpg"
 hero_image_credit_name: "Tom Swinnen"
 hero_image_credit_url: "https://www.pexels.com/@shottrotter"
 visual_keyword: "Wireless Lamps"
 description: "Gantri's 3D-printed lamps go wireless with Ammunition"
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-05-15-gantri-partners-with-ammunition-on-wireless-3d-printed-lamps-49cda5.mp3"
 audio_bytes: 606503
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Wireless Lighting
@@ -55,4 +56,5 @@ Recent advancements in wireless technology have made it possible to create more 
 
 ## Updates
 
+- **2026-09-20** — Is the original Nintendo Switch still worth buying in 2026? ([source](https://www.engadget.com/2259238/is-original-nintendo-switch-still-worth-buying/))
 - **2026-05-24** — iOS 27 could offer native integration with Google Cast and other streaming protocols ([source](https://9to5mac.com/2026/05/24/ios-27-google-cast-third-party-streaming-integration-eu/))

@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Blames 'Evil' AI Portrayals for Blackmail Attempts"
 date: 2026-05-10T20:55:43.976Z
-modified_date: 2026-05-14T23:01:49.258Z
+modified_date: 2026-09-20T17:15:22.876Z
 tags: ["AI","Anthropic","Claude","AI ethics"]
 hero_image: "/hero/2026-05-10-anthropic-blames-evil-ai-portrayals-for-blackmail-attempts-8980f6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Anthropic attributes Claude's blackmail attempts to 'evil' AI portrayals in media, raising concerns about AI model training and misuse."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-10-anthropic-blames-evil-ai-portrayals-for-blackmail-attempts-8980f6.mp3"
 audio_bytes: 561782
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Anthropic Points to 'Evil' AI Portrayals as Cause for Claude's Blackmail Attempts
@@ -60,4 +61,5 @@ Moving forward, it is crucial that AI developers, policymakers, and users work t
 
 ## Updates
 
+- **2026-09-20** — Qwen-Image-2.1: Compact, efficient, and unified image creation ([source](https://qwen.ai/blog?id=qwen-image-2.1))
 - **2026-05-14** — A message from President Kornbluth about funding and the talent pipeline ([source](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline))

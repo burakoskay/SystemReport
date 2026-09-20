@@ -1,19 +1,20 @@
 ---
 title: "Star Citizen hits $1B as Unreal Engine 6 delays linger"
 date: 2026-05-25T19:51:46.890Z
-modified_date: 2026-09-18T22:10:21.919Z
+modified_date: 2026-09-20T17:14:36.191Z
 tags: ["gaming","unreal-engine","star-citizen","zelda","industry"]
 hero_image: "/hero/2026-05-25-star-citizen-hits-1b-as-unreal-engine-6-delays-linger-b6618e.jpg"
 hero_image_credit_name: "Houssam benamara"
 hero_image_credit_url: "https://www.pexels.com/@exeroniq"
 visual_keyword: "cinematic montage of game development and movie premiere"
 description: "Epic’s engine preview, a $1 billion Star Citizen saga, and a surprise Zelda movie release expose why hype often outpaces delivery."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-25-star-citizen-hits-1b-as-unreal-engine-6-delays-linger-b6618e.mp3"
 audio_bytes: 566170
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Epic Games unveiled a first look at Unreal Engine 6 on Tuesday, and the demo felt like a polished Rocket League remake built on a familiar foundation. The engine still carries no announced launch window, but the visual fidelity and new workflow tools were unmistakable.
@@ -64,4 +65,5 @@ The industry’s next moves will reveal whether hype can finally be matched by d
 
 ## Updates
 
+- **2026-09-20** — Trump now says he wants to form an ‘AI Force’ ([source](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar))
 - **2026-09-18** — OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web ([source](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero))

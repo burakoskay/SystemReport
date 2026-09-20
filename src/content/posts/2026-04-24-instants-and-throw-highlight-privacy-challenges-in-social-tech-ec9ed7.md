@@ -1,19 +1,20 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-09-04T20:09:58.525Z
+modified_date: 2026-09-20T17:14:20.471Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-09-20** — New California law will penalize influencers who don’t disclose political ads ([source](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/))
 - **2026-09-04** — Friday’s Android app deals and freebies: Friend of a Slime, Tiny Bang Story, Guardians Of Light, more ([source](https://9to5toys.com/2026/09/04/friday-android-app-deals-free-friend-slime-tiny-bang-story/))
 - **2026-09-01** — The pros and cons of using a TV as your computer monitor ([source](https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/))
 - **2026-08-23** — Report: Apple launching updated iMac with M6 chip and new colors later this year ([source](https://9to5mac.com/2026/08/23/apple-refreshed-imac-m6-chip-new-colors/))

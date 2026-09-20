@@ -1,18 +1,20 @@
 ---
 title: "Wacom MovinkPad 11"
 date: 2026-08-08T12:37:08.242Z
+modified_date: 2026-09-20T17:15:38.466Z
 tags: ["Wacom","MovinkPad 11","Graphics Tablet","Digital Art"]
 hero_image: "/hero/2026-08-08-wacom-movinkpad-11-424bb2.jpg"
 hero_image_credit_name: "Kawê  Rodrigues"
 hero_image_credit_url: "https://www.pexels.com/@kawerodriguess"
 visual_keyword: "Wacom MovinkPad 11"
 description: "Wacom's new graphics tablet for digital artists"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-08-wacom-movinkpad-11-424bb2.mp3"
 audio_bytes: 603787
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the MovinkPad 11
 The MovinkPad 11 is a graphics tablet designed for digital artists. Wacom's latest offering is positioned as a fun and mid-priced entry point into the world of digital art, allowing users to bring their creative visions to life.
@@ -32,3 +34,7 @@ The launch of the MovinkPad 11 has significant implications for the digital art 
 Wacom has a long history of innovation in the graphics tablet market. From its early days as a pioneer in the field, to its current status as a leading provider of digital art solutions, Wacom has consistently pushed the boundaries of what is possible with graphics tablets. The MovinkPad 11 is the latest example of this commitment to innovation, offering a unique combination of features and functionality that sets it apart from other products on the market.
 ## Industry Trends and Adoption
 The demand for graphics tablets is on the rise, driven by the growing popularity of digital art and the increasing availability of user-friendly and affordable tools. As the market continues to evolve, it will be interesting to see how Wacom and other manufacturers respond to the changing needs of digital artists and enthusiasts. The MovinkPad 11 is well-positioned to capitalize on this trend, offering a compelling combination of features and price that makes it an attractive option for a wide range of users.
+
+## Updates
+
+- **2026-09-20** — Can you tell which images are AI-generated? ([source](https://slop-sense.labtoagi.com/games/is-this-image-ai/))

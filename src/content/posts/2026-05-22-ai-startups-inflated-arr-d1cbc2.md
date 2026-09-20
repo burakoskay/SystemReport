@@ -1,19 +1,20 @@
 ---
 title: "AI Startups' Inflated ARR"
 date: 2026-05-22T21:16:56.606Z
-modified_date: 2026-09-17T19:30:47.636Z
+modified_date: 2026-09-20T17:14:59.479Z
 tags: ["AI startups","inflated ARR","revenue metrics","transparency"]
 hero_image: "/hero/2026-05-22-ai-startups-inflated-arr-d1cbc2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The future outlook for the AI startup industry is promising, but it requires a f
 
 ## Updates
 
+- **2026-09-20** — Before you throw out your old laptop, do this first ([source](https://www.engadget.com/2259329/how-to-wipe-old-laptop/))
 - **2026-09-17** — 9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson ([source](https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/))
 - **2026-08-19** — Pixel Thermometer gets new gradient icon on its way out ([source](https://9to5google.com/2026/08/19/pixel-thermometer-new-icon-2/))
 - **2026-08-18** — PlayStation&#8217;s wireless gaming speakers launch in November ([source](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder))

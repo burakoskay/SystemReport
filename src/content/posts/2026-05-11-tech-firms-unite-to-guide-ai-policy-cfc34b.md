@@ -1,16 +1,17 @@
 ---
 title: "Tech Firms Unite to Guide AI Policy"
 date: 2026-05-11T20:04:36.847Z
-modified_date: 2026-08-25T12:36:02.237Z
+modified_date: 2026-09-20T17:14:51.726Z
 tags: ["AI","Tech","Google","Nvidia","Open Loop","Policy","Emerging Technologies","Rapid Advancement"]
 hero_image: "/hero/2026-05-11-tech-firms-unite-to-guide-ai-policy-cfc34b.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Meta, Facebook, and others launch Open Loop to develop forward-looking policies around AI, as the technology raises concerns around the world."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -113,6 +114,7 @@ The launch of Open Loop marks an important step in the development of forward-lo
 
 ## Updates
 
+- **2026-09-20** — How to set up your Sonos speakers using the app ([source](https://www.engadget.com/2259348/how-to-set-up-sonos-speakers-using-app/))
 - **2026-08-25** — Greenworks’ MaximusZ electric riding mower has five motors and a few compromises ([source](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price))
 - **2026-08-13** — The Trump admin will start letting private firms launch international cyberattacks ([source](https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms))
 - **2026-05-15** — The funniest thing about the Trump arcade game is how good it is ([source](https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump))

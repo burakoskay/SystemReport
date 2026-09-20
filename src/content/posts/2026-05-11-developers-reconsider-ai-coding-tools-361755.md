@@ -1,19 +1,20 @@
 ---
 title: "Developers Reconsider AI Coding Tools"
 date: 2026-05-11T03:58:34.716Z
-modified_date: 2026-08-18T18:38:25.374Z
+modified_date: 2026-09-20T17:15:30.694Z
 tags: ["AI-assisted development","hand-coding","software development","machine learning"]
 hero_image: "/hero/2026-05-11-developers-reconsider-ai-coding-tools-361755.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Hand-coding and local models gain traction as developers reevaluate AI-assisted software development"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-11-developers-reconsider-ai-coding-tools-361755.mp3"
 audio_bytes: 610683
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ In the near term, we can expect to see continued innovation in AI-assisted devel
 
 ## Updates
 
+- **2026-09-20** — Step 5 Preview: Advancing the Pareto Frontier ([source](https://www.stepfun.com/step-5-preview))
 - **2026-08-18** — Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ([source](https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/))
 - **2026-08-17** — Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21 ([source](https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/))
 - **2026-05-21** — Review: SwitchBot Wallet Finder is an incredibly useful accessory to track your wallet with iPhone Find My ([source](https://9to5mac.com/2026/05/21/review-switchbot-wallet-finder-is-an-incredibly-useful-accessory-to-track-your-wallet-with-iphone-find-my/))
