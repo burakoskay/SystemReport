@@ -1,18 +1,20 @@
 ---
 title: "Public Domain Surge: Free Images and Apollo Code Now Open"
 date: 2026-06-07T19:43:44.958Z
+modified_date: 2026-09-20T02:52:07.354Z
 tags: ["public domain","open source","software heritage","image resources"]
 hero_image: "/hero/2026-06-07-public-domain-surge-free-images-and-apollo-code-now-open-594ef0.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "collage of vintage computer assembly code sheets beside public domain photographs"
 description: "A new image archive and NASA's Apollo 11 code release illustrate how public domain resources are reshaping developer workflows and creative projects."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-06-07-public-domain-surge-free-images-and-apollo-code-now-open-594ef0.mp3"
 audio_bytes: 612355
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 The tech community just got two big freebies: a searchable archive of public‑domain photos and the original Apollo 11 guidance code, both dropped into the public domain.  Those drops lower the barrier for engineers, designers, and hobbyists who need raw assets without licensing headaches.
 
@@ -46,3 +48,6 @@ The releases also expose a broader cultural shift: institutions are recognizing 
 
 Keep an eye on the PDIA’s growth metrics—new submissions, API usage, and integration with design tools will signal how quickly the community adopts the catalog.  On the NASA side, watch for additional Apollo mission code releases or similar open‑source drops from the Artemis program.  Both streams will shape the next wave of open‑source tooling and creative workflows.
 
+## Updates
+
+- **2026-09-20** — The Slate Truck is cheap, but its battery range can't compete ([source](https://www.engadget.com/2258757/slate-truck-lower-battery-range-than-average/))
