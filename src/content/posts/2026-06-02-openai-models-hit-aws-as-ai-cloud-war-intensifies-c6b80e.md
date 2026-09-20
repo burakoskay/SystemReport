@@ -1,19 +1,20 @@
 ---
 title: "OpenAI models hit AWS as AI cloud war intensifies"
 date: 2026-06-02T04:29:33.275Z
-modified_date: 2026-07-28T22:55:19.279Z
+modified_date: 2026-09-20T20:08:51.644Z
 tags: ["ai","cloud","aws"]
 hero_image: "/hero/2026-06-02-openai-models-hit-aws-as-ai-cloud-war-intensifies-c6b80e.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center servers with glowing AI symbols"
 description: "OpenAI’s frontier models are now on AWS amid Alphabet’s $80B raise, IBM’s spin‑off, and Microsoft’s push for cloud‑first PCs."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-02-openai-models-hit-aws-as-ai-cloud-war-intensifies-c6b80e.mp3"
 audio_bytes: 589994
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## OpenAI models hit AWS
@@ -47,4 +48,5 @@ The convergence of AI models, cloud compute, and subscription‑based desktops c
 
 ## Updates
 
+- **2026-09-20** — No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown. ([source](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown))
 - **2026-07-28** — The US is banning foreign robots ([source](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban))
