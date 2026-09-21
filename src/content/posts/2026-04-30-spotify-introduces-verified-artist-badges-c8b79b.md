@@ -1,16 +1,17 @@
 ---
 title: "Spotify Introduces Verified Artist Badges"
 date: 2026-04-30T14:08:46.694Z
-modified_date: 2026-08-11T01:13:27.388Z
+modified_date: 2026-09-20T23:47:24.584Z
 tags: ["Spotify","Verified Artist Badges","AI-Generated Music"]
 hero_image: "/hero/2026-04-30-spotify-introduces-verified-artist-badges-c8b79b.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Spotify Badge"
 description: "Spotify badges to distinguish human from AI-generated artists"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,5 +36,6 @@ In conclusion, the "Verified by Spotify" badge is a significant development in t
 
 ## Updates
 
+- **2026-09-20** — No Dogs in Space is back to feed your need for obsessive music history ([source](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast))
 - **2026-08-11** — Trump signs bonkers order that cuts vaccines, promotes ones that don't exist ([source](https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/))
 - **2026-05-11** — Logitech’s tiny folding mouse improves upon the laptop trackpad ([source](https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images))

@@ -1,16 +1,17 @@
 ---
 title: "Twitch Streamers Can Opt Out of Training Amazon's AI"
 date: 2026-08-13T04:07:14.228Z
-modified_date: 2026-08-15T14:16:52.327Z
+modified_date: 2026-09-20T23:47:38.629Z
 tags: ["Twitch","Amazon","AI","Data Privacy"]
 hero_image: "/hero/2026-08-13-twitch-streamers-can-opt-out-of-training-amazon-s-ai-3d94f1.jpg"
 hero_image_credit_name: "Florenz Mendoza"
 hero_image_credit_url: "https://www.pexels.com/@florenz-mendoza-3667096"
 visual_keyword: "Twitch Streamers"
 description: "Twitch introduces opt-out for AI model training"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Twitch Streamers Can Opt Out of Training Amazon's AI
@@ -36,4 +37,5 @@ As the use of AI models continues to grow, it is likely that we will see further
 
 ## Updates
 
+- **2026-09-20** — The camera is my favorite part of smart glasses, but it just feels wrong now ([source](https://9to5google.com/2026/09/20/smart-glasses-camera-newsletter/))
 - **2026-08-15** — Xteink’s tiny e-readers are getting access to free books through Libby ([source](https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader))
