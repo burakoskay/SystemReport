@@ -1,15 +1,17 @@
 ---
 title: "NYC Mayor Assembles Tech Team"
 date: 2026-08-07T16:48:57.628Z
+modified_date: 2026-09-21T02:49:27.458Z
 tags: ["NYC Tech Team","City Services","Technology"]
 hero_image: "/hero/2026-08-07-nyc-mayor-assembles-tech-team-53c45a.jpg"
 hero_image_credit_name: "Henrik Pfitzenmaier"
 hero_image_credit_url: "https://www.pexels.com/@hammyx"
 visual_keyword: "NYC"
 description: "NYC mayor brings experts to improve city services"
-sources_count: 1
+sources_count: 2
 author: "sam-whitfield"
 ---
+
 
 ## Introduction to NYC Tech Team
 The mayor of New York City has assembled a crew of Silicon Valley and United States Digital Service veterans to overhaul city services with better software. This team is expected to bring a fresh perspective to the city's operations, leveraging their experience in software development, data analysis, and digital transformation to drive positive change.
@@ -31,3 +33,7 @@ As the NYC Tech Team continues to work on developing and implementing new softwa
 
 ## What's Next
 The success of the NYC Tech Team will be measured by its ability to deliver tangible improvements in city services. As the team works to develop and implement new software solutions, residents will be watching closely to see the impact of these efforts. The team's work has the potential to set a new standard for the use of technology in city services, and their achievements will be closely watched by other cities and urban planners around the world.
+
+## Updates
+
+- **2026-09-21** — What happened to the Snowden archive ([source](https://libroot.org/posts/what-happened-to-the-snowden-archive))

@@ -1,18 +1,20 @@
 ---
 title: "Palantir CEO Criticizes AI Industry"
 date: 2026-08-04T01:57:38.569Z
+modified_date: 2026-09-21T02:49:34.671Z
 tags: ["AI","Palantir","Alex Karp","Marxist"]
 hero_image: "/hero/2026-08-04-palantir-ceo-criticizes-ai-industry-2fb8f3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI"
 description: "Palantir CEO Alex Karp calls AI industry 'Marxist'"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-08-04-palantir-ceo-criticizes-ai-industry-2fb8f3.mp3"
 audio_bytes: 591248
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Strong Quarter, Strong Words
@@ -38,4 +40,7 @@ Palantir's strong quarter and Karp's comments reflect the company's position on 
 
 ## Future of AI
 The future of the AI industry is uncertain, with many companies vying for market share and struggling to provide secure and reliable AI solutions. However, with companies like Palantir leading the way, the industry may be able to address the concerns raised by Karp and provide secure and reliable AI solutions. The future of the AI industry will depend on the ability of companies to prioritize security and reliability, and to provide solutions that meet the needs of enterprises and consumers.
-   
+
+## Updates
+
+- **2026-09-21** — Show HN: Radius – A Meetup.com Alternative ([source](https://radius.to/))
