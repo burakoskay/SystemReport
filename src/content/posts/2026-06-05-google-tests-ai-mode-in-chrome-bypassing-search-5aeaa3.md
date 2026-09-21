@@ -1,18 +1,20 @@
 ---
 title: "Google Tests AI Mode in Chrome, Bypassing Search"
 date: 2026-06-05T16:35:01.985Z
+modified_date: 2026-09-21T21:33:52.542Z
 tags: ["Google","AI","Chrome"]
 hero_image: "/hero/2026-06-05-google-tests-ai-mode-in-chrome-bypassing-search-5aeaa3.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "AI"
 description: "Google is testing a new feature in Chrome that sends users straight to AI Mode, bypassing the standard search experience."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-06-05-google-tests-ai-mode-in-chrome-bypassing-search-5aeaa3.mp3"
 audio_bytes: 596472
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's AI Mode Test
@@ -57,3 +59,6 @@ The next steps for Google's AI Mode, including its rollout and potential refinem
 
 The world of AI research is in shambles. From the academics prioritizing easy-to-monetize schemes over breaking novel ground, to the Silicon Valley elite using the threat of job loss to encourage corporate-friendly hypotheses, the system is a broken mess. And Google deserves a lion's share of the blame. There were approximately 85,000 research papers published globally on the subject of AI/ML in the year 2000. Fast-forward to 2021 and there were nearly twice as many published in the US alone.
 
+## Updates
+
+- **2026-09-21** — Meta’s Muse is outpacing ChatGPT’s early mobile launch ([source](https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/))

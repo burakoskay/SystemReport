@@ -1,19 +1,20 @@
 ---
 title: "Musk v Altman"
 date: 2026-05-14T03:50:19.710Z
-modified_date: 2026-07-28T01:58:31.296Z
+modified_date: 2026-09-21T21:34:20.000Z
 tags: ["AI","OpenAI","Elon Musk","Sam Altman"]
 hero_image: "/hero/2026-05-14-musk-v-altman-f96fd5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI trial"
 description: "The trial exposes OpenAI's fractious corporate past and scrutiny of Sam Altman's leadership."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-14-musk-v-altman-f96fd5.mp3"
 audio_bytes: 597726
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Musk v Altman Trial Exposes OpenAI's Corporate Past
@@ -35,4 +36,5 @@ The trial has also raised questions about the role of AI in society and the need
 
 ## Updates
 
+- **2026-09-21** — AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping ([source](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/))
 - **2026-07-28** — The Artist Who Colored Ghibli ([source](https://animationobsessive.substack.com/p/the-artist-who-colored-ghibli))

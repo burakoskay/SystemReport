@@ -1,15 +1,17 @@
 ---
 title: "Google Redesigns Workspace Icons, Faces UI Criticism"
 date: 2026-05-23T03:53:40.283Z
+modified_date: 2026-09-21T21:34:13.191Z
 tags: ["google","workspace","ui-design","chrome","icon-redesign"]
 hero_image: "/hero/2026-05-23-google-redesigns-workspace-icons-faces-ui-criticism-358077.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "gradient app icons with rounded corners on mobile homescreen"
 description: "Google overhauls Gmail, Drive, and Workspace icons with gradients, sparking debate on usability and design consistency."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Google is rolling out a new gradient design for its Workspace apps, a change that marks both a visual evolution and a response to years of user feedback about icon clarity. The overhaul affects Gmail, Drive, Calendar, and other core tools, but introduces a split in the design language: some icons now use single-color gradients with rounded shapes, while others retain flat, multi-color designs. The timing—just days before Google I/O—raises questions about whether this is just the beginning of deeper UI changes.
 
@@ -30,3 +32,7 @@ The rationale for the switch is twofold: to correct the misconception that HTTPS
 ## What to Watch
 
 The Workspace redesign will roll out gradually, but its impact is already visible on Android and iOS app stores. By June, users should notice the new icons across all platforms. The Chrome lock icon update will ship with Chrome 117 in September, but early adopters in the Canary channel can test it now. Google I/O next week may offer further hints about whether this is part of a broader UI strategy or another half-baked experiment. For now, the mixed results of these changes suggest Google is still searching for a coherent design language—one that serves engineers and end users equally well.
+
+## Updates
+
+- **2026-09-21** — GM can’t ‘bring back’ Apple CarPlay because it never left ([source](https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google))

@@ -1,15 +1,17 @@
 ---
 title: "Bungie Cuts Staff, Silo Teases Character Shift"
 date: 2026-05-22T09:40:51.239Z
+modified_date: 2026-09-21T21:34:54.294Z
 tags: ["gaming","streaming","tech"]
 hero_image: "/hero/2026-05-22-bungie-cuts-staff-silo-teases-character-shift-bfb89a.jpg"
 hero_image_credit_name: "JESHOOTS.com"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots-com-147458"
 visual_keyword: "gaming"
 description: "Bungie lays off a significant number of employees, Silo season 3 reveals a major character change, and Vagon rolls out a no-code streaming platform."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 ## Bungie's Layoff Impact
@@ -55,3 +57,7 @@ Track Bungie's hiring announcements for any sign of a Destiny 3 kickoff. Follow 
 The gaming industry is likely to continue to experience significant changes in the coming months and years. Studios will need to adapt to changing market conditions and player expectations. The success of streaming platforms like Vagon will depend on their ability to provide users with a seamless and efficient experience.
 
 As the industry continues to evolve, it will be interesting to see how studios and platforms respond to the changing landscape. One thing is certain: the gaming industry will continue to be a major player in the world of entertainment, and companies like Bungie, Silo, and Vagon will be at the forefront of this evolution.
+
+## Updates
+
+- **2026-09-21** — Tesla will soon roll out FSD Supervised in the Czech Republic ([source](https://www.engadget.com/2264292/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic/))

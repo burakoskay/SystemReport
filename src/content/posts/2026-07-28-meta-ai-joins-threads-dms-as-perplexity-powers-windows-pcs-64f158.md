@@ -1,15 +1,17 @@
 ---
 title: "Meta AI joins Threads DMs as Perplexity powers Windows PCs"
 date: 2026-07-28T14:03:19.527Z
+modified_date: 2026-09-21T21:35:28.797Z
 tags: ["meta","perplexity","chatgpt","gemini","ai"]
 hero_image: "/hero/2026-07-28-meta-ai-joins-threads-dms-as-perplexity-powers-windows-pcs-64f158.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "modern office desk with laptop, smartphone, and AI chat bubbles"
 description: "Meta embeds its AI chatbot in Threads DMs, Perplexity launches a Windows AI agent, ChatGPT blocks author imitation, and Gemini tweaks its UI."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Meta AI moves into Threads direct messages
 Meta rolled out its Meta AI chatbot inside Threads direct messages on Monday. The move gives users a built‑in assistant for quick queries and drafting help.
@@ -41,3 +43,7 @@ Gemini’s incremental approach contrasts with the headline‑grabbing launches 
 
 ## What to watch
 Meta’s AI in Threads DMs will generate data on user engagement and privacy complaints; the next quarterly report should reveal whether the feature boosts daily active users. Perplexity’s Windows agent will face scrutiny over update mechanisms—track the frequency of model patches and any disclosed telemetry. OpenAI’s style‑blocking policy may evolve; watch for an official blog post or developer forum thread that explains the technical thresholds. Finally, Gemini’s notification settings will be a test case for how Google balances control and simplicity; upcoming user‑feedback surveys could indicate whether the tweaks improve retention. Stay alert for any regulatory commentary on AI assistants embedded in social and productivity platforms.
+
+## Updates
+
+- **2026-09-21** — Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market ([source](https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/))
