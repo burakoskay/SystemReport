@@ -1,16 +1,17 @@
 ---
 title: "Apple's Dual Strategy: OLED Notebooks and a Product Avalanche"
 date: 2026-04-16T05:29:28.584Z
-modified_date: 2026-09-15T17:55:34.542Z
+modified_date: 2026-09-21T16:10:34.029Z
 tags: ["apple","oled","notebooks","product launches","tech strategy"]
 hero_image: "/hero/2026-04-16-apple-s-dual-strategy-oled-notebook-push-and-a-product-avalanche-signal-future-growth-349543.jpg"
 hero_image_credit_name: "Hans Herrington"
 hero_image_credit_url: "https://www.pexels.com/@hans-herrington-99819090"
 visual_keyword: "Apple futuristic tech innovation displays"
 description: "As the smartphone market cools, Apple is doubling down on advanced OLED notebook displays and a massive new product pipeline, signaling a strategic hardware offensive."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,5 +25,6 @@ Together, these two trends paint a compelling picture of a company strategically
 
 ## Updates
 
+- **2026-09-21** — How Nintendo's Game & Watch was inspired by a calculator and boredom ([source](https://www.engadget.com/2260782/nintendo-game-watch-explained/))
 - **2026-09-15** — Apple Watch adds an all-new Readiness app, here’s how it works ([source](https://9to5mac.com/2026/09/15/apple-watch-adds-an-all-new-readiness-app-heres-how-it-works/))
 - **2026-04-25** — Apple Vision Pro suffered from indecisive leadership – here’s how it could change ([source](https://9to5mac.com/2026/04/25/vision-pro-improvements-under-new-leadership-john-ternus/))

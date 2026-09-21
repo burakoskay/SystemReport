@@ -1,16 +1,17 @@
 ---
 title: "California Jobs Guarantee Proposal"
 date: 2026-05-08T17:31:49.620Z
-modified_date: 2026-08-24T20:23:06.014Z
+modified_date: 2026-09-21T16:10:22.510Z
 tags: ["AI","jobs","California"]
 hero_image: "/hero/2026-05-08-california-jobs-guarantee-proposal-1ecc69.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "California gubernatorial candidate Tom Steyer proposes jobs guarantee for workers displaced by AI."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ The discussion around AI and jobs is likely to continue in the coming years, and
 
 ## Updates
 
+- **2026-09-21** — Apple Mac mini review: The new M6 impresses, but the price hike is rough ([source](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/))
 - **2026-08-24** — Ask HN: Why do corporate failures always seem to punish the wrong people? ([source](https://news.ycombinator.com/item?id=49418675))
 - **2026-08-18** — Anthro Energy breaks ground on factory that could pave the road to solid-state batteries ([source](https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/))
 - **2026-08-05** — Uber CEO brushes off reports of a Waymo break-up ([source](https://www.theverge.com/transportation/975651/uber-ceo-earnings-waymo-partnership))

@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-09-17T02:54:36.655Z
+modified_date: 2026-09-21T16:11:02.686Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-09-21** — ‘HomePad’ to launch next month with these new features: report ([source](https://9to5mac.com/2026/09/21/homepad-to-launch-next-month-with-these-new-features-report/))
 - **2026-09-17** — Breaking the 1.58-bit Barrier for Ternary LLMs ([source](https://arxiv.org/abs/2609.16338))
 - **2026-09-10** — OpenAI might have stolen another major proof ([source](https://twitter.com/ValerioCapraro/status/2097791836269977996))
 - **2026-09-02** — A third of Perplexity's citations don't contain the number they're cited for ([source](https://hausresearch.com/reports/perplexity-citation-audit/))

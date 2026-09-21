@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Update Cycle: Balancing Security and Compatibility"
 date: 2026-05-26T18:38:40.765Z
-modified_date: 2026-09-19T16:59:37.109Z
+modified_date: 2026-09-21T16:10:51.107Z
 tags: ["Apple","iOS","security","privacy"]
 hero_image: "/hero/2026-05-26-apple-s-ios-update-cycle-balancing-security-and-compatibility-867a69.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple releases iOS updates to address security vulnerabilities and improve compatibility, but sometimes these updates cause issues for users."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ In conclusion, Apple's iOS update cycle is a complex and delicate process. The c
 
 ## Updates
 
+- **2026-09-21** — CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more ([source](https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/))
 - **2026-09-19** — This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter ([source](https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/))
 - **2026-08-05** — Dermstore Coupons: 25% Off for August 2026 ([source](https://www.wired.com/story/dermstore-promo-code/))
 - **2026-07-27** — Apple fixes over 75 security issues with your iPhone and 150+ for Mac, update now ([source](https://9to5mac.com/2026/07/27/ios-26-6-fixes-over-75-security-issues-with-your-iphone-update-now/))

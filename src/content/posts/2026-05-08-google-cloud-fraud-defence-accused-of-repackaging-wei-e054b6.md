@@ -1,16 +1,17 @@
 ---
 title: "Google Cloud Fraud Defence accused of repackaging WEI"
 date: 2026-05-08T17:44:16.950Z
-modified_date: 2026-09-04T20:10:12.865Z
+modified_date: 2026-09-21T16:11:08.451Z
 tags: ["cloud","programming","networking","data-format","language"]
 hero_image: "/hero/2026-05-08-google-cloud-fraud-defence-accused-of-repackaging-wei-e054b6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract collage of cloud security icons, Go logo, mesh nodes, geographic map pins, and AI code symbols"
 description: "A deep dive into the latest Hacker News discussions on Google Cloud Fraud Defence, Go language, Meshtastic, GeoJSON and the Mojo 1.0 beta."
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 
 ## Google Cloud Fraud Defence under fire
@@ -59,4 +60,5 @@ Watch Google’s response to the WEI allegations; a formal statement or licensin
 
 ## Updates
 
+- **2026-09-21** — New all-glass iPhone 20 Pro rumor reveals another design change ([source](https://9to5mac.com/2026/09/21/iphone-20-pro-could-be-apples-biggest-pro-phones-yet/))
 - **2026-09-04** — New profile of John Ternus offers insight into life and reputation of Apple CEO ([source](https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/))

@@ -1,16 +1,17 @@
 ---
 title: "Cyber Insecurity: Hacks Expose Vulnerabilities in US Systems"
 date: 2026-04-18T01:04:54.096Z
-modified_date: 2026-07-31T15:59:44.300Z
+modified_date: 2026-09-21T16:10:45.381Z
 tags: ["cybersecurity","hacking","windows"]
 hero_image: "/hero/2026-04-18-cyber-insecurity-hacks-expose-vulnerabilities-in-us-systems-651e03.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker in shadows"
 description: "US government networks and Windows systems compromised by hackers"
-sources_count: 3
+sources_count: 4
 author: "priya-raman"
 ---
+
 
 
 The US government's cybersecurity has been called into question after a man was sentenced to probation for hacking into the Supreme Court filing system. Nicholas Moore used stolen credentials to breach three government networks, then boasted about his exploits on social media. 
@@ -21,4 +22,5 @@ The US government's cybersecurity has been called into question after a man was 
 
 ## Updates
 
+- **2026-09-21** — Trade-in vs selling: Which is the better option for your old phone? ([source](https://www.engadget.com/2260566/trade-in-vs-sell-your-old-phone-which-is-better/))
 - **2026-07-31** — Samsung expects memory shortage to worsen through 2027 and last until 2028 ([source](https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/))

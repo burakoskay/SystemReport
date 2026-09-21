@@ -1,15 +1,17 @@
 ---
 title: "TUIs Make a Comeback"
 date: 2026-05-03T20:52:28.685Z
+modified_date: 2026-09-21T16:10:05.056Z
 tags: ["TUIs","Terminal User Interfaces","LoRa Mesh Radios"]
 hero_image: "/hero/2026-05-03-tuis-make-a-comeback-59efd0.jpg"
 hero_image_credit_name: "Wayne Jackson"
 hero_image_credit_url: "https://www.pexels.com/@waynejackson"
 visual_keyword: "TUIs"
 description: "Terminal user interfaces are gaining traction again. Developers are revisiting old tech to create more efficient interfaces."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 
 ## The Resurgence of Terminal User Interfaces
@@ -74,3 +76,6 @@ The technical mechanics of TUIs are also worth exploring. For example, TUIs use 
 
 The use of LoRa mesh radios in TUIs is also an important technical development. These radios enable devices to communicate directly with each other, which can be highly efficient and reliable. This approach has several benefits, including improved performance and reduced latency.
 
+## Updates
+
+- **2026-09-21** — US and China Discuss Alerting Each Other to AI National Security Threats ([source](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/))
