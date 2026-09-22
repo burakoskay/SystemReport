@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-09-15T07:05:04.613Z
+modified_date: 2026-09-22T00:29:56.574Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-09-22** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/21/september-2026-google-system-updates/))
 - **2026-09-15** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/14/september-2026-google-system-updates/))
 - **2026-09-08** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/07/september-2026-google-system-updates/))
 - **2026-09-04** — What’s new in Android’s September 2026 Google System Updates ([source](https://9to5google.com/2026/09/04/september-2026-google-system-updates/))

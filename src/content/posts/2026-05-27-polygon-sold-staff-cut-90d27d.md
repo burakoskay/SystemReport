@@ -1,15 +1,17 @@
 ---
 title: "Polygon sold, staff cut"
 date: 2026-05-27T22:11:47.181Z
+modified_date: 2026-09-22T00:30:10.691Z
 tags: ["gaming","media","industry"]
 hero_image: "/hero/2026-05-27-polygon-sold-staff-cut-90d27d.jpg"
 hero_image_credit_name: "Anna Keibalo"
 hero_image_credit_url: "https://www.pexels.com/@anna-keibalo-620756389"
 visual_keyword: "gaming newsroom with laptops and a broken newspaper"
 description: "Marathon’s open play week launches, Alan Wake joins Phasmophobia, and Polygon’s sale triggers layoffs, highlighting a shifting gaming media landscape."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 Marathon’s first open play week drops on June 2, and the gaming press is already bruised by a wave of layoffs.
 
@@ -52,3 +54,7 @@ The survival of Blue’s News highlights a niche for ad‑free, community‑fo
 ## What to watch
 
 Track Valnet’s handling of Polygon over the next six months. Will the brand retain its editorial voice or succumb to the cost‑cutting model that has plagued other acquisitions? Monitor Marathon’s season rollout for balance changes that could set a benchmark for live‑service iteration. Keep an eye on Phasmophobia’s player metrics after the Alan Wake update to see if cross‑IP collaborations become a new growth engine. Finally, watch whether Blue’s News can scale its ad‑free model or remain a solitary outpost in a sea of enshittified platforms.
+
+## Updates
+
+- **2026-09-22** — A cut cable disrupted hundreds of flights across the US ([source](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us))
