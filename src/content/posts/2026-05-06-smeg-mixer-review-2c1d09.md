@@ -1,19 +1,20 @@
 ---
 title: "Smeg Mixer Review"
 date: 2026-05-06T10:23:46.769Z
-modified_date: 2026-08-17T20:19:58.818Z
+modified_date: 2026-09-22T17:54:30.417Z
 tags: ["Smeg Forte","Stand Mixer","Kitchen Appliances"]
 hero_image: "/hero/2026-05-06-smeg-mixer-review-2c1d09.jpg"
 hero_image_credit_name: "Max Vakhtbovych"
 hero_image_credit_url: "https://www.pexels.com/@artbovich"
 visual_keyword: "Smeg"
 description: "Smeg's Forte stand mixer has power but mixed results"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-06-smeg-mixer-review-2c1d09.mp3"
 audio_bytes: 591248
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ The promo codes and deals offered by 1Password, Bose, and Vivid Seats also have 
 
 ## Updates
 
+- **2026-09-22** — Review: Beats 360 are the closest Apple headphones to AirPods Max, with one caveat ([source](https://9to5mac.com/2026/09/22/apple-beats-360-review-close-to-airpods-max/))
 - **2026-08-17** — Wordle meets Clippy in this new word game ([source](https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game))
 - **2026-05-14** — The Beats Solo 4 have returned to their best price of the year ([source](https://www.theverge.com/gadgets/930213/beats-solo-4-headphones-anker-nano-travel-adapter-deal-sale))

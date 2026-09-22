@@ -1,19 +1,20 @@
 ---
 title: "iOS 26.4 Adds Missing Apple Watch Alarm Feature"
 date: 2026-04-28T18:03:40.124Z
-modified_date: 2026-09-20T08:58:57.629Z
+modified_date: 2026-09-22T17:54:44.889Z
 tags: ["ios","apple","security","touch-id","apple-watch"]
 hero_image: "/hero/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone with iOS interface showing Touch ID settings"
 description: "iOS 26.4 introduces an alarm tailored for Apple Watch users, alongside security updates and UI overhauls."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-28-ios-26-4-adds-missing-apple-watch-alarm-feature-e3be68.mp3"
 audio_bytes: 610265
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ For now, iOS 26.4 is a mixed bag. The Apple Watch alarm fills a glaring gap, but
 
 ## Updates
 
+- **2026-09-22** — iOS 27 adds convenient new iPhone feature you’ll use all the time ([source](https://9to5mac.com/2026/09/22/ios-27-adds-convenient-new-iphone-feature-youll-use-all-the-time/))
 - **2026-09-20** — You can defeat the Dream Devourer from Chrono Trigger using an int overflow ([source](https://chrono.fandom.com/wiki/Dream_Devourer))
 - **2026-09-20** — Apple Watch Series 12 and Ultra 4 missing one health-focused feature ([source](https://9to5mac.com/2026/09/19/apple-watch-series-12-ultra-4-missing-one-health-feature/))
 - **2026-09-18** — iOS 27: My favorite new iPhone features (other than AI) ([source](https://9to5mac.com/2026/09/18/ios-27-my-favorite-new-iphone-features-other-than-ai/))

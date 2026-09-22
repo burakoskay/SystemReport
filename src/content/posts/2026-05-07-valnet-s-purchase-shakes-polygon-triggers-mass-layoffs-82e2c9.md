@@ -1,16 +1,17 @@
 ---
 title: "Valnet’s Purchase Shakes Polygon, Triggers Mass Layoffs"
 date: 2026-05-07T23:20:13.343Z
-modified_date: 2026-09-18T08:41:21.549Z
+modified_date: 2026-09-22T17:54:52.193Z
 tags: ["gaming","journalism","layoffs","valnet"]
 hero_image: "/hero/2026-05-07-valnet-s-purchase-shakes-polygon-triggers-mass-layoffs-82e2c9.jpg"
 hero_image_credit_name: "Huy Phan"
 hero_image_credit_url: "https://www.pexels.com/@huy-phan-316220"
 visual_keyword: "empty office desks with gaming memorabilia"
 description: "Vox Media sold Polygon to Valnet, sparking unexpected cuts that threaten independent gaming journalism."
-sources_count: 9
+sources_count: 10
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Track Valnet’s first quarterly earnings report for any line‑item shifts tied
 
 ## Updates
 
+- **2026-09-22** — The tiny magnetic e-readers from Xteink that attach to your Pixel are on sale right now ([source](https://9to5google.com/2026/09/22/xteink-x4-pro-and-classic-on-sale/))
 - **2026-09-18** — Pixel Now Playing update brings interface tweaks & notifications [U] ([source](https://9to5google.com/2026/09/17/pixel-now-playing-tweaks/))
 - **2026-09-08** — Renault is building its €17,900 Dacia Spring EV in Europe to qualify for local subsidies ([source](https://www.engadget.com/2252406/renault-building-dacia-spring-ev-in-europe-to-qualify-for-local-subsidies/))
 - **2026-08-26** — AI Slop Is Ruining Cute Animals on the Internet ([source](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/))

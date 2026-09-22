@@ -1,18 +1,20 @@
 ---
 title: "Europe’s BepiColombo nears Mercury as US space rhetoric spikes"
 date: 2026-09-04T23:44:14.777Z
+modified_date: 2026-09-22T17:53:25.350Z
 tags: ["space","bepicolombo","europe","launch"]
 hero_image: "/hero/2026-09-04-europe-s-bepicolombo-nears-mercury-as-us-space-rhetoric-spikes-82e7fb.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Mercury planet with spacecraft silhouette over European flag background"
 description: "Europe’s eight‑year BepiColombo cruise reaches Mercury while US officials stir diplomatic tension; European launch startups chase fresh funding."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-09-04-europe-s-bepicolombo-nears-mercury-as-us-space-rhetoric-spikes-82e7fb.mp3"
 audio_bytes: 590830
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## BepiColombo’s Final Approach
 
@@ -50,3 +52,6 @@ The convergence of long‑duration scientific missions, geopolitical posturing, 
 
 Next month, BepiColombo will begin its primary science campaign, delivering the first high‑resolution maps of Mercury’s magnetic field. In Washington, the administration is expected to release a policy paper outlining criteria for foreign participation in U.S. space projects. European launch startups are slated to announce the names of their investors and the specific vehicle upgrades they plan to fund by year‑end. Tracking these three threads will reveal whether cooperation can survive the emerging competition.
 
+## Updates
+
+- **2026-09-22** — &#8216;Trump TV&#8217; is just reruns of the president on YouTube ([source](https://www.theverge.com/policy/998726/trump-tv-youtube-livestream))

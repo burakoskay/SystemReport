@@ -1,16 +1,17 @@
 ---
 title: "Theragun, Columbia, and Sony Discounts: Promo Codes and Deals"
 date: 2026-05-02T09:15:58.674Z
-modified_date: 2026-09-17T09:06:09.151Z
+modified_date: 2026-09-22T17:53:54.308Z
 tags: ["Theragun","Columbia","Sony","Promo Codes"]
 hero_image: "/hero/2026-05-02-theragun-columbia-and-sony-discounts-promo-codes-and-deals-38e274.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Save on science-backed devices, outdoor gear, and electronics with Theragun, Columbia, and Sony promo codes"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In conclusion, the promo codes and discounts offered by Theragun, Columbia, and 
 
 ## Updates
 
+- **2026-09-22** — Review: Resident Evil is the fresh take this flagging franchise really needed ([source](https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/))
 - **2026-09-17** — Noom Promo Codes: 50% Off Best Deals & Free Trials for September 2026 ([source](https://www.wired.com/story/noom-promo-code/))
 - **2026-09-16** — Deals: Pixel Watch 5 $100 off, Pixel 11 all-time lows, 11 Pro Fold up to $320 off, Z Fold 8, more ([source](https://9to5google.com/2026/09/16/deals-pixel-watch-5-pixel-11-11-pro-fold-z-fold-8/))
 - **2026-08-28** — New Mac mini, new Mac Studio announced as iPhone 18 Pro event confirmed ([source](https://9to5mac.com/2026/08/27/happy-hour-605/))

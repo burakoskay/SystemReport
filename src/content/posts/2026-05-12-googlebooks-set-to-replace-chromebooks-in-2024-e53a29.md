@@ -1,16 +1,17 @@
 ---
 title: "Googlebooks Set to Replace Chromebooks in 2024"
 date: 2026-05-12T23:09:59.347Z
-modified_date: 2026-09-15T13:04:28.882Z
+modified_date: 2026-09-22T17:53:39.895Z
 tags: ["googlebooks","android-desktop","chromebook-replacement","pause-point","digital-wellbeing-upgrade"]
 hero_image: "/hero/2026-05-12-googlebooks-set-to-replace-chromebooks-in-2024-e53a29.jpg"
 hero_image_credit_name: "Kenji Ogami"
 hero_image_credit_url: "https://www.pexels.com/@kenji-ogami-6696404"
 visual_keyword: "Android desktop OS interface with virtual folders and terminal window"
 description: "Google reveals Googlebooks: Chromebook successors with Android desktop OS and advanced features."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ For now, Googlebooks remain a mystery. The company’s teaser video ends with a 
 
 ## Updates
 
+- **2026-09-22** — NVMe vs. SATA SSD: What's the difference between the two drive types? ([source](https://www.engadget.com/2262261/nvme-vs-sata-ssd-drives-difference-between-explained/))
 - **2026-09-15** — A New Headset to Help With Depression Is Now Available in the US ([source](https://www.wired.com/story/flow-neuroscience-headset-help-depression-available-in-us/))
 - **2026-09-15** — Here’s what’s new with parental control features in iOS 27, iPadOS 27, and macOS 27 ([source](https://9to5mac.com/2026/09/14/heres-whats-new-with-parental-control-features-in-ios-27-ipados-27-and-macos-27/))
 - **2026-09-02** — The creator of Jujutsu has joined ERSC ([source](https://ersc.io/blog/martin-joins-ersc))

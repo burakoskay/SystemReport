@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-09-19T13:39:40.375Z
+modified_date: 2026-09-22T17:55:14.047Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-09-22** — AI Has No Wisdom and Neither Will You ([source](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/))
 - **2026-09-19** — Google Gemini also escaped its testing environment and hacked three companies ([source](https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/))
 - **2026-09-12** — How to change Amazon Alexa's voice and personality ([source](https://www.engadget.com/2252800/how-to-change-alexa-voice-personality/))
 - **2026-09-03** — TikTok introduces voice comments and simplified polls ([source](https://www.engadget.com/2250517/tiktok-introduces-voice-comments-and-simplified-polls/))

@@ -1,16 +1,17 @@
 ---
 title: "AI Security Risks"
 date: 2026-07-30T11:49:54.035Z
-modified_date: 2026-09-04T17:21:50.288Z
+modified_date: 2026-09-22T17:55:06.805Z
 tags: ["AI Security Risks","Generative AI","Data Security"]
 hero_image: "/hero/2026-07-30-ai-security-risks-a1d523.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "AI Security"
 description: "Generative AI models pose significant data security risks"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The hiring of researchers and developers to work on foundation models, including
 
 ## Updates
 
+- **2026-09-22** — Nothing Phone (4a) and (3a) Pro can now join Android 17 open beta ([source](https://9to5google.com/2026/09/22/nothing-android-17-beta-phone-4a-3a-pro/))
 - **2026-09-04** — 9to5Mac Daily: September 4, 2026 – iPhone Ultra and iPhone 18 Pro rumors ([source](https://9to5mac.com/2026/09/04/daily-september-4-2026/))
 - **2026-08-04** — AirPods Pro 3 just got new firmware release in beta, more models too ([source](https://9to5mac.com/2026/08/04/airpods-pro-3-just-got-new-firmware-release-in-beta-more-models-too/))
 

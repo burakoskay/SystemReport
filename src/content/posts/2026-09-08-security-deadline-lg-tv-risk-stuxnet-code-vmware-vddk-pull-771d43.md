@@ -1,18 +1,20 @@
 ---
 title: "Security deadline, LG TV risk, Stuxnet code, VMware VDDK pull"
 date: 2026-09-08T08:34:58.360Z
+modified_date: 2026-09-22T17:53:18.110Z
 tags: ["security","virtualization","malware","consumer-tech"]
 hero_image: "/hero/2026-09-08-security-deadline-lg-tv-risk-stuxnet-code-vmware-vddk-pull-771d43.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "concerned engineer reviewing code on multiple monitors"
 description: "A year to fix security, LG TVs exposed, Stuxnet source released, and VMware migration hit by VDDK removal."
-sources_count: 5
-author: "priya-raman"
+sources_count: 6
 audio_path: "/audio/2026-09-08-security-deadline-lg-tv-risk-stuxnet-code-vmware-vddk-pull-771d43.mp3"
 audio_bytes: 618415
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The looming year‑long security deadline
 
@@ -41,3 +43,7 @@ Enterprises planning to leave VMware now face extended migration timelines. IT t
 ## What to watch
 
 Track the adoption rate of automated security pipelines as firms chase the twelve‑month deadline. Monitor firmware update statistics for LG smart TVs to gauge compliance with isolation recommendations. Follow community analysis of the Stuxnet repository for emerging detection techniques. Watch Broadcom’s licensing terms for any future VDDK reinstatement or open‑source alternatives. These signals will reveal how the industry balances risk mitigation with operational agility.
+
+## Updates
+
+- **2026-09-22** — Microsoft is laying off 268 Xbox staffers and Ninja Theory may close ([source](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure))

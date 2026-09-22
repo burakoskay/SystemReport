@@ -1,15 +1,17 @@
 ---
 title: "Edge Blocks Old Ad Blockers"
 date: 2026-08-07T20:36:43.589Z
+modified_date: 2026-09-22T17:54:23.121Z
 tags: ["Microsoft Edge","Ad Blockers","MV2"]
 hero_image: "/hero/2026-08-07-edge-blocks-old-ad-blockers-82ab65.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "ad blockers"
 description: "Microsoft Edge ends MV2 support, affecting ad blockers"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 # Microsoft Edge Ends MV2 Support
 Microsoft Edge is ending support for the Manifest V2 extensions platform, cutting off uBlock Origin and 57 other extensions. This move aligns with Google Chrome's earlier decision to deprecate MV2, a change that has sparked controversy among developers and users alike.
@@ -29,3 +31,7 @@ The development of MV2 and MV3 has been a long and complex process, with both pl
 The deprecation of MV2 support in Microsoft Edge will have downstream implications for both developers and users. For developers, the shift to MV3 will require significant updates to their extensions, potentially leading to delays and additional costs. For users, the change may result in a period of adjustment as they adapt to new ad blocking solutions or browsers. However, the long-term benefits of improved security and performance are likely to outweigh the short-term inconveniences, leading to a more robust and secure browser ecosystem.
 ## Broader Industry Trends
 The move away from MV2 is part of a larger trend in the tech industry towards greater emphasis on security and privacy. As users become increasingly aware of the importance of protecting their personal data, browsers and other software providers are responding by implementing more robust security measures. This shift is likely to continue in the coming years, with browsers and other software providers continuing to evolve and adapt to the changing needs of their users.
+
+## Updates
+
+- **2026-09-22** — Apple Wallet driver’s licenses coming to three new states soon ([source](https://9to5mac.com/2026/09/22/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/))

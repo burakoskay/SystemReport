@@ -1,19 +1,20 @@
 ---
 title: "Apple's Mac Mini and Studio Demand Outstrips Supply"
 date: 2026-05-01T17:03:45.538Z
-modified_date: 2026-05-27T15:56:21.891Z
+modified_date: 2026-09-22T17:52:42.117Z
 tags: ["Apple","Mac Mini","Studio","Chip Shortage","AI"]
 hero_image: "/hero/2026-05-01-apple-s-mac-mini-and-studio-demand-outstrips-supply-bfd438.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "Mac Studio"
 description: "Apple faces chip shortages and high demand for Mac mini and Studio, causing delays. The company is working to meet demand."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-01-apple-s-mac-mini-and-studio-demand-outstrips-supply-bfd438.mp3"
 audio_bytes: 577664
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -95,4 +96,5 @@ The situation highlights the complexities of the technology industry and the nee
 
 ## Updates
 
+- **2026-09-22** — Stolen passwords are exposing America’s water providers to hackers ([source](https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/))
 - **2026-05-27** — Startup Battlefield 200 applications close today: Nominate a founder or submit your startup ([source](https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/))

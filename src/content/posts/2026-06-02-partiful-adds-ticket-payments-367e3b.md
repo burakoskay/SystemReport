@@ -1,18 +1,20 @@
 ---
 title: "Partiful Adds Ticket Payments"
 date: 2026-06-02T21:02:35.280Z
+modified_date: 2026-09-22T17:52:56.563Z
 tags: ["event-ticketing","partiful","monetization"]
 hero_image: "/hero/2026-06-02-partiful-adds-ticket-payments-367e3b.jpg"
 hero_image_credit_name: "Martijn Stoof"
 hero_image_credit_url: "https://www.pexels.com/@martijn-stoof-2150654344"
 visual_keyword: "ticketing"
 description: "Partiful introduces ticket payments in-app, a major move towards monetization for the social event planner."
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-06-02-partiful-adds-ticket-payments-367e3b.mp3"
 audio_bytes: 560528
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A New Revenue Stream for Partiful
@@ -85,3 +87,6 @@ As the event planning and ticketing space continues to evolve, users can expect 
 
 In the future, users can expect to see more social event planners integrating ticketing features into their platforms. This trend is likely to continue as more companies look for ways to monetize their platforms and provide a more convenient experience for event organizers and users.
 
+## Updates
+
+- **2026-09-22** — Viture’s Vonder Glasses Are Meant to Map Your Mind ([source](https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/))

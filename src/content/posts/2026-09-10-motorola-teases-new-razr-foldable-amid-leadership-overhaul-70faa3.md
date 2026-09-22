@@ -1,18 +1,20 @@
 ---
 title: "Motorola teases new Razr foldable amid leadership overhaul"
 date: 2026-09-10T02:42:47.531Z
+modified_date: 2026-09-22T17:53:03.759Z
 tags: ["motorola","foldable","product-strategy"]
 hero_image: "/hero/2026-09-10-motorola-teases-new-razr-foldable-amid-leadership-overhaul-70faa3.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "sleek metallic foldable smartphone with hinge"
 description: "Motorola's latest Razr foldable aims at Galaxy Fold 8 and iPhone Duo as new product VP Punit Soni promises tighter execution after past update woes."
-sources_count: 3
-author: "david-okafor"
+sources_count: 4
 audio_path: "/audio/2026-09-10-motorola-teases-new-razr-foldable-amid-leadership-overhaul-70faa3.mp3"
 audio_bytes: 609638
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Motorola rolls out a new Razr foldable
 Motorola announced a new Razr that folds wider than its 2019 predecessor. The teaser places the device directly against Samsung's Galaxy Fold 8 and Apple's iPhone Duo, signaling an aggressive price‑to‑specs posture. Engadget reported the move as a "wide new foldable" intended to broaden the Razr's appeal beyond nostalgia.
@@ -36,3 +38,7 @@ Wider folds typically demand a more robust hinge, which can add weight and thick
 
 ## What to watch
 The next quarter will reveal whether Motorola can translate the Razr tease into a shipped product that meets the expectations set by its new leadership. Key indicators include a formal specification sheet, a confirmed launch date, and an update roadmap for existing devices that references the same processes Soni described for the Bionic. Tracking Google’s internal memo releases and any follow‑up statements from Dennis Woodside will help gauge how tightly the hardware and software teams are aligning. If the Razr reaches market without a repeat of delayed OS upgrades, Motorola could reassert itself as a viable player in the foldable space.
+
+## Updates
+
+- **2026-09-22** — Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta ([source](https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy))

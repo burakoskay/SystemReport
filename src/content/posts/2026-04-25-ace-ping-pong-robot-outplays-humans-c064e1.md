@@ -1,19 +1,20 @@
 ---
 title: "Ace Ping-Pong Robot Outplays Humans"
 date: 2026-04-25T20:56:26.756Z
-modified_date: 2026-09-12T20:01:36.578Z
+modified_date: 2026-09-22T17:54:08.718Z
 tags: ["robotics","aerospace","biotech","tech-innovation"]
 hero_image: "/hero/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.jpg"
 hero_image_credit_name: "dp singh Bhullar"
 hero_image_credit_url: "https://www.pexels.com/@dpsinghbhullar"
 visual_keyword: "robotic arm playing ping-pong against a human"
 description: "Ace, a ping-pong robot with advanced tracking, joins a landscape of orbital interceptors and regulatory shifts in biotech."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-25-ace-ping-pong-robot-outplays-humans-c064e1.mp3"
 audio_bytes: 599398
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The bigger question is how these systems will cascade into daily life. When robo
 
 ## Updates
 
+- **2026-09-22** — Here’s how iPhone Duo and iPad mini compare in size ([source](https://9to5mac.com/2026/09/22/heres-how-iphone-duo-and-ipad-mini-compare-in-size/))
 - **2026-09-12** — LG denies accusations of smart TVs continuously recording its users ([source](https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/))
 - **2026-08-31** — I think the military commissary's freezers were hacked ([source](https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary))
 - **2026-07-26** — Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026) ([source](https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/))
