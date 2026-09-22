@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Clio Hits $500M, Anthropic Ups AI Ante"
 date: 2026-05-14T10:30:36.320Z
-modified_date: 2026-09-12T13:19:17.456Z
+modified_date: 2026-09-22T20:45:44.468Z
 tags: ["Clio","Anthropic","AI"]
 hero_image: "/hero/2026-05-14-tech-roundup-clio-hits-500m-anthropic-ups-ai-ante-8da48e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Clio reaches $500M ARR milestone as Anthropic releases new AI model; Netflix expands ads across app"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The tech industry is rapidly evolving, with new advancements and innovations eme
 
 ## Updates
 
+- **2026-09-22** — OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes ([source](https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/))
 - **2026-09-12** — How to buy a good car for $1000 ([source](https://abio.substack.com/p/how-poor-people-buy-cars))
 - **2026-08-12** — As AI safety concerns mount, three pioneers make the case for staying open ([source](https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/))
 - **2026-07-26** — What Surrounds Us will make you think a lot about circles ([source](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam))

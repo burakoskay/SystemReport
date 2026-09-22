@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Shifts Focus as Sora's Boss Exits the Company"
 date: 2026-04-18T01:04:59.933Z
-modified_date: 2026-05-21T21:45:50.257Z
+modified_date: 2026-09-22T20:46:25.979Z
 tags: ["ai innovation","openai","llm"]
 hero_image: "/hero/2026-04-18-openai-s-shift-in-focus-what-the-departure-of-sora-s-boss-means-for-ai-innovation-3ad412.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Brain Network"
 description: "OpenAI prioritizes coding & enterprise, former Sora boss leaves"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 The AI landscape is rapidly evolving, with companies like OpenAI constantly reassessing their priorities. Recently, OpenAI made the decision to discontinue its Sora video generation tool, a move that has been followed by the departure of Sora team leader, Bill Peebles. This shift in focus towards coding and enterprise use cases marks a significant change in OpenAI's strategy. 
@@ -20,4 +21,5 @@ The AI landscape is rapidly evolving, with companies like OpenAI constantly reas
 
 ## Updates
 
+- **2026-09-22** — Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting ([source](https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/))
 - **2026-05-21** — Palantir Held Another ‘Hack Week.’ This Time, the Focus Was ICE ([source](https://www.wired.com/story/palantir-held-a-hack-week-to-add-new-controls-to-software-used-by-ice/))

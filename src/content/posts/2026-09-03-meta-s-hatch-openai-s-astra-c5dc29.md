@@ -1,15 +1,17 @@
 ---
 title: "Meta’s Hatch, OpenAI’s Astra"
 date: 2026-09-03T08:30:45.669Z
+modified_date: 2026-09-22T20:46:32.935Z
 tags: ["ai","regulation","openai","meta","privacy"]
 hero_image: "/hero/2026-09-03-meta-s-hatch-openai-s-astra-c5dc29.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineers testing AI agent on computer screens in a modern office"
 description: "Meta rolls out internal AI agent Hatch, OpenAI unveils Astra’s new reasoning method, and a lawsuit forces a look at secret AI safety rules."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 Meta rolled out its latest internal AI agent, Hatch, while scaling back mandates that staff log every AI interaction. The shift spotlights a clash between corporate experimentation and emerging regulatory pressure.
 
@@ -30,3 +32,7 @@ The brief does not resolve the underlying copyright dispute, but it frames the p
 Together, these developments illustrate a fragmented governance landscape. Meta is experimenting internally while loosening employee mandates. OpenAI pushes a novel reasoning architecture that outpaces current safety tools. The federal government backs OpenAI’s data practices, and a lawsuit threatens to pull back the curtain on secret safety reviews. The tension between rapid product iteration and the demand for transparent oversight defines the current AI climate.
 
 What to watch: the court’s decision on Trump’s secret AI safety rules, OpenAI’s release of performance data for Astra, Meta’s internal adoption metrics for Hatch, and any legislative response to the government’s brief on copyrighted training data. Each signal will shape how companies balance innovation with accountability in the months ahead.
+
+## Updates
+
+- **2026-09-22** — Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor ([source](https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/))

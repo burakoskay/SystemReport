@@ -1,15 +1,17 @@
 ---
 title: "Microsoft Bans School Data for AI as Labor Pushes Back on Tech"
 date: 2026-09-10T02:54:15.523Z
+modified_date: 2026-09-22T20:46:19.081Z
 tags: ["ai","labor","privacy","autonomous-vehicles","surveillance"]
 hero_image: "/hero/2026-09-10-microsoft-bans-school-data-for-ai-as-labor-pushes-back-on-tech-ea6efc.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "conference room with diverse professionals reviewing data privacy agreements"
 description: "Microsoft agreed not to use teacher‑union data for AI training, while unions, model releases, and autonomous‑car safety signal a new friction point for the industry."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 Microsoft signed a data‑use agreement with a national teachers union. The pact bars Microsoft from training its AI systems on any student or school data the union controls, according to Engadget.
 
@@ -50,3 +52,7 @@ The core question is whether predictive policing can coexist with democratic nor
 ## What to Watch
 
 Watch for federal legislation that could codify data‑use limits for AI training, especially in education. Track whether other unions replicate the Microsoft model for sectors like healthcare and finance. Monitor the rollout of Qwen 3.8 and similar models for any mandated transparency disclosures. Follow the next round of autonomous‑vehicle safety reports for evidence of performance outside pilot zones. Finally, keep an eye on court filings or regulatory actions concerning Anthropic’s surveillance platform, as they will signal how far predictive monitoring can go before legal checks intervene.
+
+## Updates
+
+- **2026-09-22** — San Francisco sues Trump Media for selling early access to Trump posts ([source](https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco))
