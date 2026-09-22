@@ -1,15 +1,17 @@
 ---
 title: "Google adds Ask Play chatbot to Play Store, expands Gemini"
 date: 2026-05-19T18:25:54.203Z
+modified_date: 2026-09-22T13:02:46.225Z
 tags: ["google","gemini","play store","ai","chatbot"]
 hero_image: "/hero/2026-05-19-google-adds-ask-play-chatbot-to-play-store-expands-gemini-497e32.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "smartphone screen showing Google Play Store with AI chatbot interface"
 description: "Google rolls out Ask Play, a Gemini‑powered chatbot that suggests apps, while tightening Gemini usage limits and lowering AI Ultra pricing."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Ask Play lands in the Play Store
 Google introduced a chatbot called **Ask Play** that lives inside the Play Store. The bot runs on the Gemini model and offers real‑time app recommendations when users type a query. The rollout was announced in a brief update that linked the new feature directly to Gemini’s broader push across Google services (9to5Google).
@@ -33,3 +35,7 @@ Developers may need to optimize app metadata for Gemini’s prompt parsing. Titl
 
 ## What to watch
 The next update to Gemini’s pricing and compute model is slated for Q4 2026, according to internal briefings (9to5Google). Track whether Google introduces a premium tier for Ask Play that offers deeper analytics to developers. Also watch how quickly competing app stores roll out similar AI assistants; the speed of adoption will dictate whether Gemini becomes the de‑facto standard for mobile app discovery.
+
+## Updates
+
+- **2026-09-22** — iCloud storage notification glitch puts unremovable red badge on Settings app ([source](https://9to5mac.com/2026/09/22/icloud-storage-notification-glitch-puts-unremovable-red-badge-on-settings-app/))

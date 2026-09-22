@@ -1,15 +1,17 @@
 ---
 title: "Google's Experiment: A New Path for the Web"
 date: 2026-05-11T15:31:23.368Z
+modified_date: 2026-09-22T13:01:49.929Z
 tags: ["Google","Subscription-based model","Ad revenue","Web funding","Technology industry"]
 hero_image: "/hero/2026-05-11-google-s-experiment-a-new-path-for-the-web-90c6f9.jpg"
 hero_image_credit_name: "alleksana"
 hero_image_credit_url: "https://www.pexels.com/@alleksana"
 visual_keyword: "Google's experiment with subscription-based funding"
 description: "Google's Contributor program aims to replace ad revenue with a monthly subscription fee, but will it succeed?"
-sources_count: 4
+sources_count: 5
 author: "sam-whitfield"
 ---
+
 
 ## A New Scheme to Fund the Web
 
@@ -68,3 +70,7 @@ The success of the Google Contributor program will depend on several factors, in
 
 ## Visual Keyword
 Google's experiment with subscription-based funding
+
+## Updates
+
+- **2026-09-22** — Oppo’s new phone is the first with three 200-megapixel cameras ([source](https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china))

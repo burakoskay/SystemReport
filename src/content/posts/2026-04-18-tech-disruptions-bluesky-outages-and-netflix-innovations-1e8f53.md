@@ -1,16 +1,17 @@
 ---
 title: "Tech Disruptions: Bluesky Outages and Netflix Innovations"
 date: 2026-04-18T01:04:56.938Z
-modified_date: 2026-08-13T18:55:44.050Z
+modified_date: 2026-09-22T13:01:42.946Z
 tags: ["tech","innovation","cybersecurity","entertainment"]
 hero_image: "/hero/2026-04-18-tech-disruptions-bluesky-outages-and-netflix-innovations-1e8f53.jpg"
 hero_image_credit_name: "Nikita Belokhonov"
 hero_image_credit_url: "https://www.pexels.com/@traveliving"
 visual_keyword: "cyber attack landscape"
 description: "Bluesky suffers DDoS attack, Netflix unveils AI-driven features"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -21,6 +22,7 @@ The world of tech is abuzz with news of disruptions and innovations. Bluesky, a 
 
 ## Updates
 
+- **2026-09-22** — These discreet hearing aid glasses now have better voice boosting and battery life ([source](https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses))
 - **2026-08-13** — Suno is trying to look more like a real music production tool ([source](https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects))
 - **2026-04-27** — The Iran War Is Impacting the Environment in Unseen Ways ([source](https://www.wired.com/story/war-on-iran-unseen-impact-on-environment/))
 - **2026-04-20** — Motorola confirms Razr (2026) launch date, new colors in ‘something new’ teaser [Video] ([source](https://9to5google.com/2026/04/20/motorola-confirms-razr-2026-date-and-colors/))

@@ -1,18 +1,20 @@
 ---
 title: "Apple Music Tiers May Soon Get an Overhaul"
 date: 2026-05-30T06:52:47.199Z
+modified_date: 2026-09-22T13:02:10.975Z
 tags: ["Apple Music","music streaming","subscription tiers"]
 hero_image: "/hero/2026-05-30-apple-music-tiers-may-soon-get-an-overhaul-1b96d0.jpg"
 hero_image_credit_name: "Filipe Alves"
 hero_image_credit_url: "https://www.pexels.com/@filipe-alves-3413871"
 visual_keyword: "Apple Music logo"
 description: "Apple Music may introduce new subscription tiers based on strings found in the Android app beta."
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-05-30-apple-music-tiers-may-soon-get-an-overhaul-1b96d0.mp3"
 audio_bytes: 576201
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## New Tiers on the Horizon
@@ -59,3 +61,6 @@ The introduction of new subscription tiers is possible, but no timeline is given
 
 In conclusion, Apple's potential introduction of new subscription tiers marks a significant shift in its strategy. While the details are still unclear, it's likely that the company is responding to competitive pressures and changing user expectations. As the music streaming market continues to evolve, it will be interesting to see how Apple's new tiers impact the industry as a whole.
 
+## Updates
+
+- **2026-09-22** — Apple&#8217;s first live music venue is opening beneath its UK headquarters ([source](https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea))

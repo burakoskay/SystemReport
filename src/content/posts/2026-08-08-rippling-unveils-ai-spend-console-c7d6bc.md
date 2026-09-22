@@ -1,15 +1,17 @@
 ---
 title: "Rippling Unveils AI Spend Console"
 date: 2026-08-08T03:21:27.641Z
+modified_date: 2026-09-22T13:03:07.402Z
 tags: ["AI","Rippling","AI Spend Console"]
 hero_image: "/hero/2026-08-08-rippling-unveils-ai-spend-console-c7d6bc.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "AI Spend Console"
 description: "Rippling launches AI Spend Console to track employee AI spending"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction
 Rippling built an employee ROI tool after blowing millions on AI in months.[^1][^2][^3][^4] The company unveiled AI Spend Console, a product that tracks individual and team employee AI spending.[^1][^5][^2][^3][^6][^7][^8]
@@ -31,6 +33,10 @@ Rippling's experience with uncontrolled AI spending is not unique. Many companie
 
 ## Downstream Implications
 The launch of the AI Spend Console is likely to have significant implications for the AI industry as a whole.[^3] As companies become more aware of their AI spending, they will be able to make more informed decisions about their AI investments, leading to more efficient and effective use of AI solutions.[^3] This, in turn, is likely to drive growth and innovation in the AI industry, as companies look to develop and implement more targeted and cost-effective AI solutions.[^3] The AI Spend Console is also likely to influence the development of new AI-powered tools and services, as companies look to create more cost-effective and efficient AI solutions.[^3]
+
+## Updates
+
+- **2026-09-22** — Claude Status – Elevated errors for multiple models ([source](https://status.claude.com/incidents/7g1qpkyz5gxh))
 
 [^1]: [zamin.uz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOjoBkLB25MP_jK7T4yTA_d3I-kiaXvoS7OO9hI6J6fVrve1sfFaqi9d7--g3NuAUKafAscd4A5aNLs2Bze_-N3FSc36LxXEmp_M6_UDuWRJOF5d9iwqxa9vvI4LijYUP0EQvCXqhO6PIxuGYjnQ3Cm7-p9Ub3L1I_HdNRqgfiWG64HBkJfxSrg2Wr0Jd6rxh7za_LjH5HahTNtl4Wfiitg_tbDMdK)
 [^2]: [rippling.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8lffafXF-eQnqOwjk1M-GGxcOYg1KNUcsUV6Bpavuj8NcGSY2KQbJ6GlmGNuGdZQikUctloyTQrX9m002qtTKXzB68vqOtNbzzM1Hf0EQ0aUWeZtqpQWq31tYvQBSGE4jTCvX1Mz_Jc-AHOHZxOfMJMX4Nw==)
