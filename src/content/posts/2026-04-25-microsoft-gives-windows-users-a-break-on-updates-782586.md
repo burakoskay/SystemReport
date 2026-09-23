@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Gives Windows Users a Break on Updates"
 date: 2026-04-25T20:46:44.659Z
-modified_date: 2026-05-28T16:11:13.730Z
+modified_date: 2026-09-23T19:25:44.329Z
 tags: ["Microsoft","Windows Updates","Software Updates"]
 hero_image: "/hero/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "Windows Update"
 description: "Microsoft now lets users pause Windows updates for up to 35 days. The change aims to make updates less disruptive."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-25-microsoft-gives-windows-users-a-break-on-updates-782586.mp3"
 audio_bytes: 581426
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In conclusion, Microsoft's new update policy is a welcome change for Windows use
 
 ## Updates
 
+- **2026-09-23** — YouTube is building AI creator tools that do almost everything for them ([source](https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests))
 - **2026-05-28** — Qualcomm promises $300 Windows laptops with new Snapdragon C ([source](https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c))
 - **2026-05-21** — Truecaller gets into the eSIM business to diversify its revenue streams ([source](https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/))
 - **2026-05-12** — Android Auto is now one (screen) size fits all ([source](https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all))

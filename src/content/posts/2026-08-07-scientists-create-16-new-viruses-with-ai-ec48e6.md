@@ -1,18 +1,21 @@
 ---
 title: "Scientists Create 16 New Viruses with AI"
 date: 2026-08-07T14:50:18.277Z
+modified_date: 2026-09-23T19:27:17.074Z
 tags: ["AI","Biotechnology","Regulation"]
 hero_image: "/hero/2026-08-07-scientists-create-16-new-viruses-with-ai-ec48e6.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "Virus"
 description: "AI-generated viruses raise concerns about regulation"
-sources_count: 1
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-08-07-scientists-create-16-new-viruses-with-ai-ec48e6.mp3"
 audio_bytes: 597099
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
+
 
 ## Introduction to AI-Generated Viruses
 Scientists used AI to create 16 new viruses, a development that opens up new possibilities for combating bacterial resistance and raises concerns about regulation. The use of AI in this context has sparked debates about the potential benefits and risks associated with this technology.
@@ -28,3 +31,8 @@ The biotech industry is not isolated in its use of AI; various sectors are explo
 The creation of AI-generated viruses will likely have far-reaching consequences for various stakeholders, including pharmaceutical companies, regulatory bodies, and the general public. For instance, pharmaceutical companies may need to reassess their research and development strategies to incorporate AI-generated viruses, while regulatory bodies will need to develop new frameworks to govern the use of this technology. The general public, on the other hand, will need to be informed about the potential benefits and risks associated with AI-generated viruses, and how they may impact public health policy.
 ## History of Regulatory Actions
 The development of AI-generated viruses is not the first instance of a technology outpacing regulation. In the past, regulatory bodies have struggled to keep up with advancements in fields such as genetic engineering and gene editing. The history of regulatory actions in these fields can provide valuable lessons for how to approach the governance of AI-generated viruses. By studying the successes and failures of past regulatory efforts, policymakers can develop more effective frameworks for managing the risks and benefits associated with this technology.
+
+## Updates
+
+- **2026-09-23** — The GitHub wiki is an anti-pattern (2022) ([source](https://michaelheap.com/github-wiki-is-an-antipattern/))
+- **2026-09-23** — Even Americans who use AI every day are worried about it ([source](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/))

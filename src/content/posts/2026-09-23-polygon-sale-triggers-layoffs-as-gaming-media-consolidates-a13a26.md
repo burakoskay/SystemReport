@@ -1,15 +1,17 @@
 ---
 title: "Polygon Sale Triggers Layoffs as Gaming Media Consolidates"
 date: 2026-09-23T00:05:38.778Z
+modified_date: 2026-09-23T19:24:39.081Z
 tags: ["gaming","media","consolidation","layoffs","industry"]
 hero_image: "/hero/2026-09-23-polygon-sale-triggers-layoffs-as-gaming-media-consolidates-a13a26.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "gaming newsroom with empty desks and a looming corporate logo"
 description: "Valnet's acquisition of Polygon sparks mass layoffs and raises questions about the future of independent gaming journalism."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 ## Riot removes voice chat in League of Legends patch 26.20
 
@@ -51,3 +53,6 @@ The discussion of anti‑aliasing highlights a broader point: technical decision
 
 Track Valnet’s integration of Polygon over the next six months, especially any shifts in editorial tone or content volume. Monitor Riot’s communication channels for follow‑up on the voice‑chat removal and any community backlash. Finally, watch how independent outlets like Blue’s News adapt to the pressure of enshittification while maintaining editorial integrity.
 
+## Updates
+
+- **2026-09-23** — ChatGPT mobile app gets voice-based agentic features ([source](https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/))

@@ -1,18 +1,20 @@
 ---
 title: "Reverse engineering resurfaces in hardware, silicon and AI"
 date: 2026-05-24T08:38:11.849Z
+modified_date: 2026-09-23T19:27:09.985Z
 tags: ["reverse engineering","hacker culture","open-source hardware"]
 hero_image: "/hero/2026-05-24-reverse-engineering-resurfaces-in-hardware-silicon-and-ai-48933e.jpg"
 hero_image_credit_name: "Djenz Van Eysendeyk"
 hero_image_credit_url: "https://www.pexels.com/@djenz-van-eysendeyk-1836927628"
 visual_keyword: "circuit board"
 description: "From a 1980 Spacelab board to open‑source x86 silicon and LLM‑driven API scrapers, hobbyists push reverse engineering into new domains."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-24-reverse-engineering-resurfaces-in-hardware-silicon-and-ai-48933e.mp3"
 audio_bytes: 561364
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Vintage circuitry gets a modern teardown
 
@@ -63,3 +65,7 @@ By bringing together individuals from diverse backgrounds, hacker camps facilita
 Watch for the next release of the z386 core, which promises timing‑accurate FPGA implementations that could run legacy operating systems at near‑original speed. Track Integuru’s roadmap for support of additional authentication flows and broader model compatibility, especially as OpenAI rolls out newer instruction‑following models. Finally, keep an eye on upcoming hacker‑camp calendars; the next EMF gathering is slated for 2024 and may showcase new reverse‑engineering tools that blend vintage hardware with AI‑driven analysis.
 
 As the reverse-engineering community continues to evolve, we can expect to see new and innovative applications of this technology. From the development of open-source hardware to the creation of AI-driven API scrapers, the possibilities are endless.
+
+## Updates
+
+- **2026-09-23** — Fixing the Portobello Police Station Clock ([source](https://pointinthecloud.com/2026-04-11-211700.html))

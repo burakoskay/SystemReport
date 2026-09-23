@@ -1,19 +1,20 @@
 ---
 title: "Cohere Takes Over Aleph Alpha"
 date: 2026-04-25T19:01:14.278Z
-modified_date: 2026-09-21T16:09:24.492Z
+modified_date: 2026-09-23T19:24:24.619Z
 tags: ["AI","Mergers and Acquisitions","Technology"]
 hero_image: "/hero/2026-04-25-cohere-takes-over-aleph-alpha-1bcf97.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Powerhouse"
 description: "Cohere acquires Aleph Alpha to create transatlantic AI powerhouse"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-25-cohere-takes-over-aleph-alpha-1bcf97.mp3"
 audio_bytes: 597099
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -38,5 +39,6 @@ The merger between Cohere and Aleph Alpha is expected to have significant implic
 
 ## Updates
 
+- **2026-09-23** — The old cybersecurity model is breaking ([source](https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/))
 - **2026-09-21** — Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/))
 - **2026-05-05** — The Secret to Amelia Dimoldenberg’s Online Superstardom? Control ([source](https://www.wired.com/story/the-big-interview-podcast-amelia-dimoldenberg/))

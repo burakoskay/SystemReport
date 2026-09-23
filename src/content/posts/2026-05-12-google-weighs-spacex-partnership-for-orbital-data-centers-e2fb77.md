@@ -1,19 +1,20 @@
 ---
 title: "Google Weighs SpaceX Partnership for Orbital Data Centers"
 date: 2026-05-12T21:26:53.287Z
-modified_date: 2026-09-22T17:54:01.521Z
+modified_date: 2026-09-23T19:26:20.327Z
 tags: ["Google","SpaceX","Orbital Data Centers","Space Technology"]
 hero_image: "/hero/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX"
 description: "Google considers partnering with SpaceX for data centers in orbit, a plan explored since late 2025."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-12-google-weighs-spacex-partnership-for-orbital-data-centers-e2fb77.mp3"
 audio_bytes: 637014
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In conclusion, the proposed partnership between Google and SpaceX represents a s
 
 ## Updates
 
+- **2026-09-23** — Mid-week Android app deals and freebies: Dwarves, Hitman GO, Hitman Sniper, more ([source](https://9to5toys.com/2026/09/23/todays-highlight-google-play-deals-13/))
 - **2026-09-22** — Deals: M5 MacBook Air up to $300 off, M4 iPad Air $100+ off, AirPods Pro 3, Studio Display, more ([source](https://9to5mac.com/2026/09/22/deals-macbook-air-ipad-air-airpods-pro-3-studio-display/))
 - **2026-09-21** — California tightens rules on AI data center energy and water use ([source](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills))
 - **2026-09-18** — Deals: AirPods Pro 3, iPhone 18 Pro cases and chargers, M5 MacBook Pro $320 off, more ([source](https://9to5mac.com/2026/09/18/deals-airpods-pro-3-iphone-18-pro-cases-m5-macbook/))

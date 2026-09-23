@@ -1,16 +1,17 @@
 ---
 title: "Tech Leaders Shuffle as AI Deals and Space Launch Accelerate"
 date: 2026-04-24T11:10:51.603Z
-modified_date: 2026-09-18T18:48:34.490Z
+modified_date: 2026-09-23T19:24:17.293Z
 tags: ["leadership","m&a","space","ai"]
 hero_image: "/hero/2026-04-24-tech-leaders-shuffle-ai-deals-and-a-space-telescope-beats-its-26d27a.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "tech executives gathered around a futuristic satellite backdrop"
 description: "Bob Iger returns to venture capital, Redwood’s COO exits, Sierra buys Fragment, Microsoft rolls out a retirement buyout, and the Roman Telescope launches early."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Keep an eye on how Redwood’s restructuring affects its battery‑recycling thr
 
 ## Updates
 
+- **2026-09-23** — Disney+ and Hulu add to the growing trend of streaming inflation ([source](https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/))
 - **2026-09-18** — Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how? ([source](https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/))
 - **2026-05-11** — The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024) ([source](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html))
 - **2026-05-09** — The hypocrisy of cyberlibertarianism ([source](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/))

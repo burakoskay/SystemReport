@@ -1,16 +1,17 @@
 ---
 title: "Open‑source tools revamp Hacker News browsing and analysis"
 date: 2026-05-26T23:26:43.819Z
-modified_date: 2026-07-28T13:50:49.313Z
+modified_date: 2026-09-23T19:25:51.536Z
 tags: ["hackernews","open-source","llm"]
 hero_image: "/hero/2026-05-26-open-source-tools-revamp-hacker-news-browsing-and-analysis-fbe010.jpg"
 hero_image_credit_name: "Kevin Ku"
 hero_image_credit_url: "https://www.pexels.com/@kevin-ku-92347"
 visual_keyword: "terminal window showing a Hacker News text UI with Rust code snippets"
 description: "New Rust‑based clients and LLM retrospectives deepen engagement with Hacker News while critics spotlight tech labor tactics."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 A wave of open‑source utilities for Hacker News landed this week, giving power users programmatic access to the front page and its historic threads.
@@ -53,4 +54,5 @@ Track the next release cycle of **hackernews_tui** for added API hooks, especial
 
 ## Updates
 
+- **2026-09-23** — The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs ([source](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/))
 - **2026-07-28** — You don’t need to splurge on an expensive handheld fan to beat the heat ([source](https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan))

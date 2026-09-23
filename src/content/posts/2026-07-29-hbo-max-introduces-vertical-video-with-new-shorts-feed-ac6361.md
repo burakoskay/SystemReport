@@ -1,19 +1,20 @@
 ---
 title: "HBO Max Introduces Vertical Video with New 'Shorts' Feed"
 date: 2026-07-29T10:35:16.735Z
-modified_date: 2026-09-15T17:54:27.049Z
+modified_date: 2026-09-23T19:26:06.076Z
 tags: ["HBO Max","Vertical Video","Content Discovery"]
 hero_image: "/hero/2026-07-29-hbo-max-introduces-vertical-video-with-new-shorts-feed-ac6361.jpg"
 hero_image_credit_name: "Christina & Peter"
 hero_image_credit_url: "https://www.pexels.com/@christina99999"
 visual_keyword: "Shorts Feed"
 description: "HBO Max adopts vertical video for content discovery"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-29-hbo-max-introduces-vertical-video-with-new-shorts-feed-ac6361.mp3"
 audio_bytes: 582680
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # HBO Max Adopts Vertical Video
@@ -33,4 +34,5 @@ HBO Max will populate the 'Shorts' feed with content and measure its success. Th
 
 ## Updates
 
+- **2026-09-23** — YouTube will soon let you generate custom feeds and use GIFs in comments ([source](https://www.engadget.com/2266446/youtube-will-soon-let-you-generate-custom-feeds-and-use-gifs-in-comments/))
 - **2026-09-15** — What is IMAX Enhanced and do you really need it? ([source](https://www.engadget.com/2255987/what-is-imax-enhanced/))

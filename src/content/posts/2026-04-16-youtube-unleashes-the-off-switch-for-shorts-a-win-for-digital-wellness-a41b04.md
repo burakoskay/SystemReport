@@ -1,16 +1,17 @@
 ---
 title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
-modified_date: 2026-09-21T09:30:50.725Z
+modified_date: 2026-09-23T19:25:37.118Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"
 description: "YouTube is rolling out a zero-minute time limit for Shorts, allowing users to effectively turn off the short-form video feed and reclaim digital wellness."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ Ultimately, the rollout of a zero-minute Shorts limit represents a significant w
 
 ## Updates
 
+- **2026-09-23** — One of the best Metroid games for the Switch is 30 percent off ([source](https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale))
 - **2026-09-21** — A Necessary History of the Oddest Letter: W ([source](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/))
 - **2026-04-25** — The next iPad could sport a new naming scheme, thanks to new interview insight ([source](https://9to5mac.com/2026/04/25/could-the-next-ipad-have-a-new-naming-scheme/))
 - **2026-04-24** — They Wanted to Join Raya. They’ve Been on the Waiting List for Years ([source](https://www.wired.com/story/raya-waitlist-years/))
