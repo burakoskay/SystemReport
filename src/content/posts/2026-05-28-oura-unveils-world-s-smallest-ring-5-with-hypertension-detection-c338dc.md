@@ -1,16 +1,17 @@
 ---
 title: "Oura Unveils World's Smallest Ring 5 with Hypertension Detection"
 date: 2026-05-28T16:18:42.745Z
-modified_date: 2026-09-17T14:36:29.943Z
+modified_date: 2026-09-23T03:14:12.838Z
 tags: ["Oura Ring 5","Wearable Technology","Health Monitoring"]
 hero_image: "/hero/2026-05-28-oura-unveils-world-s-smallest-ring-5-with-hypertension-detection-c338dc.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Oura Ring 5"
 description: "Oura's Ring 5 is 40% smaller, with enhanced health features like hypertension detection and improved battery life, starting at $399."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ The Oura Ring 5's impact on the wearable technology market will be closely watch
 
 ## Updates
 
+- **2026-09-23** — The pros and cons of using a password manager over an authenticator app ([source](https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/))
 - **2026-09-17** — The EU Wants to Break Up Kids and Their Chatbots ([source](https://www.wired.com/story/the-eu-wants-to-break-up-kids-and-their-chatbots/))
