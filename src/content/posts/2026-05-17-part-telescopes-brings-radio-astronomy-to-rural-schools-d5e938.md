@@ -1,15 +1,17 @@
 ---
 title: "PART Telescopes Brings Radio Astronomy to Rural Schools"
 date: 2026-05-17T09:54:31.460Z
+modified_date: 2026-09-22T23:57:22.055Z
 tags: ["radio astronomy","STEM education","rural schools"]
 hero_image: "/hero/2026-05-17-part-telescopes-brings-radio-astronomy-to-rural-schools-d5e938.jpg"
 hero_image_credit_name: "Raul Ling"
 hero_image_credit_url: "https://www.pexels.com/@raulling"
 visual_keyword: "radio telescope"
 description: "PART Telescopes provides low-cost radio astronomy tools to rural schools, expanding STEM opportunities."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Radio Astronomy for All
@@ -53,3 +55,7 @@ The project's impact could also be felt in the broader STEM education landscape.
 ## Conclusion
 
 In conclusion, the PART Telescopes project has the potential to make a significant impact on STEM education in rural schools. By providing low-cost radio astronomy tools and resources, the project can help bridge the educational divide and promote a more diverse and inclusive scientific community. As the project continues to grow and evolve, it will be important to track its progress and assess its impact on students and educators.
+
+## Updates
+
+- **2026-09-22** — Paramount will need to release way more movies to make this merger work ([source](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails))

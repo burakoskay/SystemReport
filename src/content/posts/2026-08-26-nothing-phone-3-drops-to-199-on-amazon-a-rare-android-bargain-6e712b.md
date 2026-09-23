@@ -1,18 +1,20 @@
 ---
 title: "Nothing Phone (3) drops to $199 on Amazon, a rare Android bargain"
 date: 2026-08-26T19:49:14.602Z
+modified_date: 2026-09-22T23:57:39.430Z
 tags: ["nothing phone","android pricing","smartphone deals"]
 hero_image: "/hero/2026-08-26-nothing-phone-3-drops-to-199-on-amazon-a-rare-android-bargain-6e712b.jpg"
 hero_image_credit_name: "Jun Wai Chin"
 hero_image_credit_url: "https://www.pexels.com/@lmnjun"
 visual_keyword: "transparent smartphone back with glowing LED strip on a dark tabletop"
 description: "Nothing Phone (3) hits a $300 discount on Amazon, slashing the price to $199 and challenging the high‑end Android market."
-sources_count: 3
-author: "david-okafor"
+sources_count: 4
 audio_path: "/audio/2026-08-26-nothing-phone-3-drops-to-199-on-amazon-a-rare-android-bargain-6e712b.mp3"
 audio_bytes: 710993
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A $300 cut on the Nothing Phone (3)
 Nothing Phone (3) is listed on Amazon for $199, a $300 reduction from its $499 list price. The discount appears for today only, according to 9to5Google’s lunch‑break roundup. The price point undercuts most flagship Android devices, which routinely sit above $600.
@@ -38,3 +40,7 @@ Competitors may respond with bundled offers—e.g., Samsung’s Galaxy A54 now
 
 ## What to watch next
 Track the Amazon promotion’s expiration timestamp; the deal ends at midnight UTC. After the sale, monitor inventory levels on Nothing’s official store for signs of a broader price adjustment. The next data point will be the launch price of the forthcoming Nothing Phone 4, slated for Q4 2025. If the brand repeats a similar discount, it may signal a shift toward volume‑driven pricing rather than premium‑margin positioning.
+
+## Updates
+
+- **2026-09-22** — The Sideload 045: If everything’s important, nothing’s important ([source](https://9to5google.com/2026/09/22/the-sideload-045-if-everythings-important-nothings-important/))

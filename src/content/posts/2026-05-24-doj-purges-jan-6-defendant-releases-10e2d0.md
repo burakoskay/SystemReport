@@ -1,18 +1,20 @@
 ---
 title: "DOJ Purges Jan. 6 Defendant Releases"
 date: 2026-05-24T13:47:25.480Z
+modified_date: 2026-09-22T23:57:33.696Z
 tags: ["DOJ","cannabis","eBay","regulation"]
 hero_image: "/hero/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.jpg"
 hero_image_credit_name: "Mark Stebnicki"
 hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "Justice Department"
 description: "The Justice Department's recent actions signal a more aggressive, digitally-focused enforcement posture."
-sources_count: 4
-author: "lena-volkov"
+sources_count: 5
 audio_path: "/audio/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.mp3"
 audio_bytes: 606294
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 The Justice Department has launched three high-profile moves that signal a more aggressive, digitally-focused enforcement posture. A website purge of Jan. 6 defendant releases, a shift of cannabis to Schedule III, and a lawsuit targeting eBay's marketplace all demonstrate this new approach.
 
@@ -69,3 +71,7 @@ The downstream implications of the DOJ's actions will likely be far-reaching, wi
 Watch for the June hearing on cannabis scheduling, which could culminate in a full reclassification of marijuana. Keep an eye on the DOJ's response to any FOIA requests regarding the Jan. 6 archive purge; a court order could force the agency to restore or release the removed content. The government's approach to these issues will likely continue to evolve, and stakeholders would do well to stay informed about the latest developments.
 
 The next steps in the government's approach to these issues will likely be closely watched by many stakeholders, including online marketplaces, the cannabis industry, and consumers. As the government continues to evolve its approach to regulation and enforcement, it is likely that we will see significant changes in how industries operate and how they are governed.
+
+## Updates
+
+- **2026-09-22** — iOS 27: How to hide or replace the audio button in iMessages ([source](https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/))
