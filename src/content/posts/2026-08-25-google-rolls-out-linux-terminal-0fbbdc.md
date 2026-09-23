@@ -1,16 +1,17 @@
 ---
 title: "Google rolls out Linux Terminal"
 date: 2026-08-25T08:55:48.989Z
-modified_date: 2026-08-25T16:31:50.347Z
+modified_date: 2026-09-23T14:38:33.501Z
 tags: ["google","pixel","android"]
 hero_image: "/hero/2026-08-25-google-rolls-out-linux-terminal-0fbbdc.jpg"
 hero_image_credit_name: "Rahul Pandit"
 hero_image_credit_url: "https://www.pexels.com/@rahulp9800"
 visual_keyword: "Pixel smartphone displaying new Clock icon beside a terminal window running Debian"
 description: "Google adds a native Linux Terminal to Pixel, refreshes Clock and Magnifier icons, but a January 2026 update breaks Wi‑Fi and Bluetooth on flagship devices."
-sources_count: 9
+sources_count: 10
 author: "david-okafor"
 ---
+
 
 
 ## Icon refresh rides on Pixel 11 launch
@@ -46,4 +47,5 @@ Developers should monitor the upcoming Android 16 beta for any expansion of th
 
 ## Updates
 
+- **2026-09-23** — Nobody does it like Remedy ([source](https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox))
 - **2026-08-25** — Apple releases new Magic Keyboards with one notable change ([source](https://9to5mac.com/2026/08/25/apple-releases-new-magic-keyboards-with-one-notable-change/))

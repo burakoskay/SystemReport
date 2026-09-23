@@ -1,15 +1,17 @@
 ---
 title: "Black Founders See Best Quarterly Funding Since 2022"
 date: 2026-05-31T15:20:50.329Z
+modified_date: 2026-09-23T14:39:09.181Z
 tags: ["Black Founders","Funding","Diversity in Tech"]
 hero_image: "/hero/2026-05-31-black-founders-see-best-quarterly-funding-since-2022-421f71.jpg"
 hero_image_credit_name: "PNW Production"
 hero_image_credit_url: "https://www.pexels.com/@pnw-prod"
 visual_keyword: "Black Founders"
 description: "Black founders raised the most quarterly funding since 2022, but still face significant barriers. A look at the numbers and what's holding them back."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## A Glimmer of Hope in the Funding Landscape
@@ -58,3 +60,6 @@ The history of Black founders and the challenges they face is complex. Prior lau
 
 The technical mechanics of funding and the design choices made by venture capital firms have a significant impact on Black founders. The lack of diversity in tech and venture capital firms contributes to the scarcity of funding for Black women. Understanding these mechanics is crucial to creating a more equitable tech ecosystem.
 
+## Updates
+
+- **2026-09-23** — OpenAI is enlisting an influencer army to make it look 'good for the world' ([source](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9))

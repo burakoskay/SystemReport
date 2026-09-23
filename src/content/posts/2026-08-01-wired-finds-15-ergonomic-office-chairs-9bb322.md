@@ -1,18 +1,20 @@
 ---
 title: "WIRED Finds 15 Ergonomic Office Chairs"
 date: 2026-08-01T19:03:02.844Z
+modified_date: 2026-09-23T14:38:26.352Z
 tags: ["office chairs","organic mattresses","water filters","home office","sustainability"]
 hero_image: "/hero/2026-08-01-wired-finds-15-ergonomic-office-chairs-9bb322.jpg"
 hero_image_credit_name: "Alpha En"
 hero_image_credit_url: "https://www.pexels.com/@alphaen"
 visual_keyword: "modern home office with ergonomic chair, natural mattress, stainless steel water filter"
 description: "WIRED’s latest reviews of office chairs, organic mattresses, and stainless‑steel water filters reveal a clear move toward ergonomics and eco‑friendly design."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-08-01-wired-finds-15-ergonomic-office-chairs-9bb322.mp3"
 audio_bytes: 628655
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Ergonomics Meets Aesthetics in Office Seating
 
@@ -49,3 +51,7 @@ Regulators are also tightening standards. The U.S. Consumer Product Safety Commi
 ## What to Watch
 
 The next quarter will reveal whether the current momentum sustains. Keep an eye on the upcoming International Home Office Expo, where manufacturers will debut next‑gen ergonomic chairs with integrated sensor feedback. Watch for the launch of the first ISO‑certified organic mattress line that includes a full life‑cycle assessment. Finally, monitor the EPA’s microplastic rulemaking timeline; its outcome could dictate the long‑term viability of stainless‑steel water filters versus emerging graphene‑based alternatives.
+
+## Updates
+
+- **2026-09-23** — Discord will now automatically estimate your age ([source](https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout))

@@ -1,15 +1,17 @@
 ---
 title: "Cursor vs GitHub, TikTok DM payments, Apple camera AirPods"
 date: 2026-08-18T22:21:58.899Z
+modified_date: 2026-09-23T14:37:57.707Z
 tags: ["cursor","tiktok","apple"]
 hero_image: "/hero/2026-08-18-cursor-vs-github-tiktok-dm-payments-apple-camera-airpods-24ba86.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "tech office with developers coding, smartphone payments, futuristic earbuds"
 description: "Cursor launches a GitHub rival, TikTok eyes peer-to-peer DM payments, and Apple’s camera AirPods aim to sidestep privacy fears."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Cursor’s new hosting platform challenges GitHub’s monopoly
 
@@ -52,3 +54,7 @@ Watch for Cursor’s beta rollout dates, TikTok’s regional DM‑payment pilots
 ## What to watch
 
 Track the launch of Cursor’s hosting platform in the next quarter. Monitor TikTok’s DM‑payment tests in Southeast Asia for conversion metrics. Follow Apple’s formal reveal of the camera AirPods and any accompanying privacy policy updates. These data points will indicate whether the integration push is sustainable or a flash‑in‑the‑pan experiment.
+
+## Updates
+
+- **2026-09-23** — SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer ([source](https://www.wired.com/review/smartlabels-qr-code-organizing-system/))

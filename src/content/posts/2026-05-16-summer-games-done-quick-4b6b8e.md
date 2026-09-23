@@ -1,16 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
-modified_date: 2026-09-21T21:35:35.636Z
+modified_date: 2026-09-23T14:38:12.076Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 11
+sources_count: 12
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Overall, the Summer Games Done Quick event is a great opportunity for gamers and
 
 ## Updates
 
+- **2026-09-23** — She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids ([source](https://www.wired.com/story/emma-waters-fertility-tech/))
 - **2026-09-21** — Beta 2 now available for iPadOS 27.2, watchOS 27.2, more ([source](https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/))
 - **2026-09-15** — September 2026 Pixel Drop: VIPs widget redesign, more Pixel Watch gestures ([source](https://9to5google.com/2026/09/15/september-2026-pixel-feature-drop/))
 - **2026-09-10** — Vari Electric Standing Desk Review (2026): Form and Value ([source](https://www.wired.com/review/vari-ergo-electric-standing-desk/))
