@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-09-19T13:39:33.315Z
+modified_date: 2026-09-23T22:38:15.997Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-09-23** — Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2 ([source](https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/))
 - **2026-09-19** — The best way to check your PC for malware ([source](https://www.engadget.com/2257817/best-way-check-pc-malware/))
 - **2026-09-10** — Anthropic reveals rogue AI agents hate CAPTCHAs, just like you ([source](https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/))
 - **2026-09-01** — Inside the Perimenopause Industrial Complex ([source](https://www.wired.com/story/inside-the-perimenopause-industrial-complex/))

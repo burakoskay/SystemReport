@@ -1,19 +1,20 @@
 ---
 title: "Substack adds Reply Rules to curb unwanted comments"
 date: 2026-06-03T21:24:13.634Z
-modified_date: 2026-09-17T19:29:57.295Z
+modified_date: 2026-09-23T22:38:01.571Z
 tags: ["Substack","comment moderation","online publishing"]
 hero_image: "/hero/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "comment section"
 description: "Substack's new Reply Rules give creators control over audience replies."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.mp3"
 audio_bytes: 582053
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,4 +66,5 @@ Substack's Reply Rules feature is a significant development in the world of onli
 
 ## Updates
 
+- **2026-09-23** — Netflix releases trailer for Brad Bird's Ray Gunn ([source](https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/))
 - **2026-09-17** — Camp Snap’s 110D gives slim retro film cameras a digital upgrade ([source](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film))
