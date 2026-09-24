@@ -1,19 +1,20 @@
 ---
 title: "Apple doubles down on iPhone while expanding AI‑enabled wearables"
 date: 2026-09-10T02:37:11.286Z
-modified_date: 2026-09-16T19:19:55.679Z
+modified_date: 2026-09-24T19:43:41.345Z
 tags: ["apple","iphone","wearables","ai","privacy"]
 hero_image: "/hero/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Apple product lineup on stage with foldable iPhone and AirPods 5"
 description: "Apple’s new CEO reasserts the iPhone’s core role as the company hikes legacy prices and rolls out AI‑driven watches, health tools, and a $129 AirPods 5."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.mp3"
 audio_bytes: 631999
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Track the adoption rate of the iPhone Duo during the first quarter after launch;
 
 ## Updates
 
+- **2026-09-24** — I Think I Found an AI Agent Worth the Risk ([source](https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/))
 - **2026-09-16** — Everything new in iOS 27.2 beta 1 so far ([source](https://9to5mac.com/2026/09/16/everything-new-ios-27-2-beta-1/))
 - **2026-09-10** — Another big James Talarico interview is punted to YouTube due to FCC threats ([source](https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico))
 

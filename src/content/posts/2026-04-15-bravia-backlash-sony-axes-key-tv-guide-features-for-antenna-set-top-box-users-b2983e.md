@@ -1,16 +1,17 @@
 ---
 title: "Bravia Backlash: Sony Axes Key TV Guide Features for Antenna &"
 date: 2026-04-15T19:45:52.619Z
-modified_date: 2026-09-16T14:32:40.888Z
+modified_date: 2026-09-24T19:45:30.962Z
 tags: ["sony","bravia","smarttv","cordcutting","firmwareupdate"]
 hero_image: "/hero/2026-04-15-bravia-backlash-sony-axes-key-tv-guide-features-for-antenna-set-top-box-users-b2983e.jpg"
 hero_image_credit_name: "Yiğit  KARAALİOĞLU"
 hero_image_credit_url: "https://www.pexels.com/@ygtphoto"
 visual_keyword: "digital television antenna user frustrated"
 description: "Sony is removing essential program guide features for Bravia TV users relying on antennas and set-top boxes, sparking debate over product support and user experience."
-sources_count: 15
+sources_count: 16
 author: "lena-volkov"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ This unexplained move raises important questions about long-term product support
 
 ## Updates
 
+- **2026-09-24** — The newest ESP32 can run Linux and it's getting close to a Raspberry Pi ([source](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/))
 - **2026-09-16** — 7 Best Android Phones of 2026, Tested and Reviewed ([source](https://www.wired.com/gallery/best-android-phones/))
 - **2026-09-06** — The Best Laptop Backpacks for Work, Travel, and Everything Between (2026) ([source](https://www.wired.com/story/best-laptop-backpacks/))
 - **2026-09-03** — Lenovo's $700 IdeaPad Vibe is ready to take on the MacBook Neo ([source](https://www.engadget.com/2250279/lenovo-ideapad-vibe-hands-on-ifa-2026-macbook-neo/))

@@ -1,16 +1,17 @@
 ---
 title: "Waymo Tightens Age Rules as AV Industry Faces New Challenges"
 date: 2026-05-02T03:37:02.132Z
-modified_date: 2026-09-22T20:46:05.220Z
+modified_date: 2026-09-24T19:44:54.427Z
 tags: ["autonomous vehicles","Waymo","PTIO"]
 hero_image: "/hero/2026-05-02-waymo-tightens-age-rules-as-av-industry-faces-new-challenges-655446.jpg"
 hero_image_credit_name: "Ministar Samuel"
 hero_image_credit_url: "https://www.pexels.com/@ministar"
 visual_keyword: "self-driving car with LiDAR hub on a city street"
 description: "Waymo adds age verification checks to restrict solo minors in driverless cars while industry players form new partnerships and grapple with public safety concerns."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The next six months will test the AV industry's ability to balance innovation wi
 
 ## Updates
 
+- **2026-09-24** — The Googlebook has an opportunity to build Android like nothing else [Video] ([source](https://9to5google.com/2026/09/24/googlebook-android/))
 - **2026-09-22** — Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset ([source](https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6))
 - **2026-09-04** — Oh good, looks like yet another swarm of rogue AI agents from OpenAI ([source](https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki))
 - **2026-08-19** — Home batteries are suddenly cheap and everywhere. Here’s why. ([source](https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/))

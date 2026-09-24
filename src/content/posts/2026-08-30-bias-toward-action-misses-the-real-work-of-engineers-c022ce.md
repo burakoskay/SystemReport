@@ -1,15 +1,17 @@
 ---
 title: "Bias Toward Action Misses the Real Work of Engineers"
 date: 2026-08-30T03:02:46.539Z
+modified_date: 2026-09-24T19:43:26.623Z
 tags: ["career","engineering","productivity"]
 hero_image: "/hero/2026-08-30-bias-toward-action-misses-the-real-work-of-engineers-c022ce.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "engineer reviewing cost impact spreadsheet on laptop"
 description: "A Hacker News essay on moving fast in a new role ignores the business‑centric reality most engineers face."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Bias toward action sounds heroic until you realize most engineers spend their days building internal tools that keep the economy humming. The essay that sparked a 119‑point, 50‑comment discussion on Hacker News argues that new hires should "calibrate before they accelerate," but it sidesteps the fact that 90 % of programming jobs exist to shave costs or add revenue for line‑of‑business software.
 
@@ -42,3 +44,7 @@ A comment from the 2024 essay’s thread warned that “bias toward action” ca
 ## What to Watch
 
 The next wave of hiring cycles will likely emphasize impact metrics in interview rubrics. Companies that continue to reward raw velocity without tying it to cost or revenue will see higher turnover among engineers who crave purpose. Track the adoption of “impact‑first” hiring guidelines at major tech firms and watch for any shift in compensation structures that reward measurable savings over feature count. The engineers who learn to calibrate their bias toward action now will be the ones who thrive when the market demands business‑centric results.
+
+## Updates
+
+- **2026-09-24** — Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/))

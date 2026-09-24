@@ -1,16 +1,17 @@
 ---
 title: "BambuStudio AGPL Violation Sparks Legal and FOSS Debate"
 date: 2026-05-23T13:56:41.536Z
-modified_date: 2026-09-23T14:38:40.530Z
+modified_date: 2026-09-24T19:45:23.663Z
 tags: ["foss","agpl","software licensing","gpl","open source"]
 hero_image: "/hero/2026-05-23-bambustudio-agpl-violation-sparks-legal-and-foss-debate-09556d.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AGPL license agreement document next to a computer monitor showing code diffs"
 description: "BambuStudio's fork of PrusaSlicer breaches AGPL terms. A Texas lawsuit could reshape open-source licensing."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ In parallel, the outcome of the Versata case could clarify how courts handle GPL
 
 ## Updates
 
+- **2026-09-24** — Apple vs. Adobe: How does iOS 27’s AI photo editing compare to Photoshop? ([source](https://9to5mac.com/2026/09/24/apple-vs-adobe-how-does-ios-27s-ai-photo-editing-compare-to-photoshop/))
 - **2026-09-23** — Eight Sleep’s new cooling hub is small enough to hide under your bed ([source](https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking))
 - **2026-06-04** — Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story ([source](https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/))

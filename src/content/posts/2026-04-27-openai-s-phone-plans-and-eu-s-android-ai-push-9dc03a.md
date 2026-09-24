@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
-modified_date: 2026-09-19T16:59:15.299Z
+modified_date: 2026-09-24T19:43:48.721Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 19
+sources_count: 20
 author: "maya-chen"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The development of AI-powered devices is also driving the need for more advanced
 
 ## Updates
 
+- **2026-09-24** — Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal ([source](https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale))
 - **2026-09-19** — The colorful, unique Hyte X50 PC case is $50 off ([source](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale))
 - **2026-09-19** — It’s not just LG. Every TV company is spying on you ([source](https://www.theverge.com/tech/997682/every-tv-company-is-spying))
 - **2026-09-11** — Roblox is making it easier to build games with AI — and play them outside Roblox ([source](https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/))

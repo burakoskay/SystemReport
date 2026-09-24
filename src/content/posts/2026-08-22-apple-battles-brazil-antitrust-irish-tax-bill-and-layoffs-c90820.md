@@ -1,15 +1,17 @@
 ---
 title: "Apple battles Brazil antitrust, Irish tax bill, and layoffs"
 date: 2026-08-22T02:53:59.760Z
+modified_date: 2026-09-24T19:44:39.932Z
 tags: ["apple","antitrust","tax","layoffs","watch"]
 hero_image: "/hero/2026-08-22-apple-battles-brazil-antitrust-irish-tax-bill-and-layoffs-c90820.jpg"
 hero_image_credit_name: "Deise Elen"
 hero_image_credit_url: "https://www.pexels.com/@deise-elen-2149983761"
 visual_keyword: "Apple headquarters with legal documents and a smartwatch"
 description: "Apple confronts a new Brazilian antitrust suit, a $17 billion Irish tax payment, and 200+ job cuts while rolling out a refreshed Watch and new TV content."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Brazil antitrust showdown
 
@@ -40,3 +42,7 @@ Both the watch refresh and the TV content push illustrate Apple’s strategy of 
 ## What to watch
 
 The next week will reveal Brazil’s regulator decision on Epic’s complaint, a signal for how aggressively the country will enforce App Store reforms. The Apple Watch launch will test whether the rumored chip delivers a noticeable performance boost in real‑world use. Analysts will also monitor any further layoff announcements, especially in emerging product groups. Finally, the reception of Apple TV’s upcoming releases will indicate whether the content push can offset the churn risk from rivals. Tracking these moves will show how Apple balances legal, fiscal, and product pressures in a single quarter.
+
+## Updates
+
+- **2026-09-24** — It took MapQuest until 2026 to add public transit directions ([source](https://www.engadget.com/2267895/it-took-mapquest-until-2026-to-add-public-transit-directions/))

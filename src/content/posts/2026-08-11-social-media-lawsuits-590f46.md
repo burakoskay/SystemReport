@@ -1,18 +1,20 @@
 ---
 title: "Social Media Lawsuits"
 date: 2026-08-11T06:58:13.919Z
+modified_date: 2026-09-24T19:44:47.159Z
 tags: ["Social Media","Lawsuits","Addiction","Regulation","Tech Industry"]
 hero_image: "/hero/2026-08-11-social-media-lawsuits-590f46.jpg"
 hero_image_credit_name: "Visual Tag Mx"
 hero_image_credit_url: "https://www.pexels.com/@visual-tag-mx-1321732"
 visual_keyword: "Social Media"
 description: "Thousands of user addiction lawsuits against social media platforms remain"
-sources_count: 1
-author: "lena-volkov"
+sources_count: 2
 audio_path: "/audio/2026-08-11-social-media-lawsuits-590f46.mp3"
 audio_bytes: 612773
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 # Introduction to Litigation
 Meta, TikTok, Snapchat, and Google face thousands of user addiction lawsuits after their appeals were rejected.
@@ -48,3 +50,7 @@ The design of social media platforms is a complex issue, with many different fac
 
 ## Impact on Mental Health
 The impact of social media on mental health is a complex issue, with many different factors contributing to the problem. The constant stream of information, the pressure to present a perfect online persona, and the lack of face-to-face interaction can all contribute to feelings of anxiety and depression. The lawsuits against social media platforms are part of a larger effort to address these issues and promote healthier social media use.
+
+## Updates
+
+- **2026-09-24** — Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen ([source](https://www.engadget.com/2267684/xiaomis-18-pro-series-phones-have-the-latest-snapdragon-chip-and-a-samsung-like-privacy-screen/))

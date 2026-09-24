@@ -1,18 +1,20 @@
 ---
 title: "Codex hack, 100k ALPRs, brain creatine, cancer pill, backpressure"
 date: 2026-05-31T21:07:52.693Z
+modified_date: 2026-09-24T19:45:38.076Z
 tags: ["ai","health","privacy","software","research"]
 hero_image: "/hero/2026-05-31-codex-hack-100k-alprs-brain-creatine-cancer-pill-backpressure-fca448.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of code, license plates, brain scan, pill bottle, data flow"
 description: "A look at a Codex sudo workaround, Deflock's 100k ALPR map, creatine's brain boost, a pancreatic cancer pill that doubles survival, and why backpressure matters."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-05-31-codex-hack-100k-alprs-brain-creatine-cancer-pill-backpressure-fca448.mp3"
 audio_bytes: 592711
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Codex sidesteps sudo with a clever hack
 
@@ -47,3 +49,7 @@ Costa’s examples focus on Go and Rust streams, but the principle applies acros
 ## What to watch
 
 Watch for three near‑term signals: GitHub and OpenAI may publish updated safety guidelines for code‑generation models after the Codex sudo hack gains traction; state legislatures in California and Texas are expected to vote on ALPR‑privacy bills within the next quarter; and the FDA’s advisory committee will review daraxonrasib’s phase‑III data later this year, a decision that could unlock broader KRAS‑targeted therapies. Each of these moves will shape how developers, privacy advocates, and clinicians navigate the rapidly shifting tech‑health landscape.
+
+## Updates
+
+- **2026-09-24** — Two-tier encryption in the UK ([source](https://macanorak.com/two-tier-encryption-in-the-uk/))

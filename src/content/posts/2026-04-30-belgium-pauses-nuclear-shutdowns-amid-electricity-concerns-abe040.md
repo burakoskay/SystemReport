@@ -1,16 +1,17 @@
 ---
 title: "Belgium pauses nuclear shutdowns amid electricity concerns"
 date: 2026-04-30T14:28:24.010Z
-modified_date: 2026-09-08T19:13:04.633Z
+modified_date: 2026-09-24T19:43:56.102Z
 tags: ["nuclear","compiler","open-source","ai","browser"]
 hero_image: "/hero/2026-04-30-belgium-pauses-nuclear-shutdowns-amid-electricity-concerns-abe040.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "engineers reviewing code on monitors with nuclear plant silhouette in background"
 description: "Belgium halts nuclear plant decommissioning while GCC 16 ships, IBM unveils Granite 4.1, and open‑source AI tools like Mike and Vera attract attention."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ Track Belgium's next energy policy briefing for clues on the final decommissioni
 
 ## Updates
 
+- **2026-09-24** — Jensen Huang talks about AI and climate change like a supervillain ([source](https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain))
 - **2026-09-08** — The secret to protecting next-gen spacecraft might be eggshells ([source](https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/))
 - **2026-08-21** — The Single English County Saying No to Palantir ([source](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/))
 - **2026-08-19** — I Saw the Future of AI in a Robot That Can Learn on the Spot ([source](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/))
