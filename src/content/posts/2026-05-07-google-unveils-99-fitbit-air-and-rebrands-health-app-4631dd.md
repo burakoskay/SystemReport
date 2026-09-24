@@ -1,19 +1,20 @@
 ---
 title: "Google Unveils $99 Fitbit Air and Rebrands Health App"
 date: 2026-05-07T14:32:21.490Z
-modified_date: 2026-08-27T18:45:58.243Z
+modified_date: 2026-09-24T14:36:13.581Z
 tags: ["Google","Fitbit","Wearable Technology"]
 hero_image: "/hero/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.jpg"
 hero_image_credit_name: "Burst"
 hero_image_credit_url: "https://www.pexels.com/@burst"
 visual_keyword: "Fitbit Air"
 description: "Google launches $99 screen-less Fitbit Air and rebrands Google Fit to Google Health, streamlining health and fitness tracking."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-07-google-unveils-99-fitbit-air-and-rebrands-health-app-4631dd.mp3"
 audio_bytes: 594173
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ Looking ahead, Google's focus on health and fitness tracking is likely to contin
 
 ## Updates
 
+- **2026-09-24** — 2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend ([source](https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/))
 - **2026-08-27** — Google’s new Fitbit Air brings Pokémon Sleep to your wrist ([source](https://techcrunch.com/2026/08/27/googles-new-fitbit-air-brings-pokemon-sleep-to-your-wrist/))
 - **2026-08-12** — Google redesigns icons for Pixel Camera, Calculator, Clock, Recorder, & Weather apps ([source](https://9to5google.com/2026/08/12/pixel-camera-icon-redesign-more/))
 - **2026-07-29** — Samsung’s next pair of Galaxy Buds show off open-ear design in another leak [Gallery] ([source](https://9to5google.com/2026/07/29/samsung-galaxy-buds-open-ear-leak/))

@@ -1,19 +1,20 @@
 ---
 title: "Meta’s $17 B Settlement Gives It Power Over Kids’ Safety Rules"
 date: 2026-08-28T04:10:22.880Z
-modified_date: 2026-09-01T22:20:02.393Z
+modified_date: 2026-09-24T14:35:51.526Z
 tags: ["meta","settlement","social media","regulation","boston"]
 hero_image: "/hero/2026-08-28-meta-s-17-b-settlement-gives-it-power-over-kids-safety-rules-bb4d0f.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "courtroom with social media logos and a child safety shield"
 description: "Meta pays $17 billion to settle antitrust claims and gains authority to shape child‑safety standards, prompting a Boston lawsuit against the industry."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-08-28-meta-s-17-b-settlement-gives-it-power-over-kids-safety-rules-bb4d0f.mp3"
 audio_bytes: 595845
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Meta agreed to pay $17 billion to settle a federal antitrust case that grants it a seat at the table for drafting kid‑safety rules across the social‑media industry.
@@ -58,4 +59,5 @@ The next 30 days will reveal whether the settlement’s safety framework survi
 
 ## Updates
 
+- **2026-09-24** — Google is sending an AI satellite into space next week ([source](https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher))
 - **2026-09-01** — The new Street Fighter movie trailer looks fun in all the right ways ([source](https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Tips and Tricks for Efficient Workflow"
 date: 2026-05-11T11:36:30.208Z
-modified_date: 2026-09-22T17:54:59.492Z
+modified_date: 2026-09-24T14:35:45.996Z
 tags: ["productivity","workflow","tech tips"]
 hero_image: "/hero/2026-05-11-tech-tips-and-tricks-for-efficient-workflow-014860.jpg"
 hero_image_credit_name: "Jolo Diaz"
 hero_image_credit_url: "https://www.pexels.com/@jolodiazr"
 visual_keyword: "keyboard shortcuts"
 description: "Discover practical tech tips and tricks for efficient workflow, from keyboard shortcuts to handy tools and strategies."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -94,6 +95,7 @@ In conclusion, tech tips and tricks are essential for efficient workflow and pro
 
 ## Updates
 
+- **2026-09-24** — Why can’t we just keep rogue AIs off the internet? ([source](https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents))
 - **2026-09-22** — Deals: Nothing Headphone (a) 30% off, Google Pixel 10a from under $400, up to $1,000 off NVIDIA RTX 50 PCs, more ([source](https://9to5google.com/2026/09/22/deals-nothing-headphone-a-google-pixel-10a-googlebook/))
 - **2026-09-22** — Apple @ Work Podcast: Phishing simulations for the AI era ([source](https://9to5mac.com/2026/09/22/phishing-simulations-for-the-ai-era/))
 - **2026-09-01** — Nike Promo Codes and Discounts: 30% for September 2026 ([source](https://www.wired.com/story/nike-promo-code/))

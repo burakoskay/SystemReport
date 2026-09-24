@@ -1,16 +1,17 @@
 ---
 title: "Fake Reviews Inflate Amazon Tech Products"
 date: 2026-05-03T13:22:13.317Z
-modified_date: 2026-09-07T15:29:00.151Z
+modified_date: 2026-09-24T14:36:07.882Z
 tags: ["Fake Reviews","Amazon","E-commerce"]
 hero_image: "/hero/2026-05-03-fake-reviews-inflate-amazon-tech-products-c6b729.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Amazon Reviews"
 description: "Lesser-known brands use fake reviews to boost sales"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ To combat fake reviews, Amazon and other e-commerce platforms may need to develo
 
 ## Updates
 
+- **2026-09-24** — iOS 27 lets you create your own custom iPhone wallpapers ([source](https://9to5mac.com/2026/09/24/ios-27-lets-you-create-your-own-iphone-wallpapers/))
 - **2026-09-07** — How do Apple Refurbished products compare with Amazon and Walmart? ([source](https://9to5mac.com/2026/09/07/how-do-apple-refurbished-products-compare-with-amazon-and-walmart/))
 - **2026-09-02** — Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’ ([source](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/))
 - **2026-08-25** — Pixel 11 post-launch deals: Amazon now lets you stack trade-in bonus with $100+ gift cards ([source](https://9to5google.com/2026/08/25/pixel-11-post-launch-deals/))

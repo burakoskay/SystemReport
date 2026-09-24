@@ -1,16 +1,17 @@
 ---
 title: "European Startups Rise Amid Fragmented Markets"
 date: 2026-05-02T14:57:52.561Z
-modified_date: 2026-09-08T19:14:30.791Z
+modified_date: 2026-09-24T14:35:40.658Z
 tags: ["european startups","tech ecosystem","venture capital","digital markets act"]
 hero_image: "/hero/2026-05-02-european-startups-rise-amid-fragmented-markets-a38aae.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "european startup workspace with laptops, coffee cups, and whiteboard sketches"
 description: "European startups are gaining traction despite higher sales costs and fragmented markets, with regions like Slovakia and the Nordics leading the charge."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The coming months will test Europe’s startup resilience. In Q3, the EU’s Dig
 
 ## Updates
 
+- **2026-09-24** — Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder ([source](https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/))
 - **2026-09-08** — Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more ([source](https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/))
 - **2026-08-25** — Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power ([source](https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/))
 - **2026-06-07** — Show HN: Lathe – Use LLMs to learn a new domain, not skip past it ([source](https://github.com/devenjarvis/lathe))
