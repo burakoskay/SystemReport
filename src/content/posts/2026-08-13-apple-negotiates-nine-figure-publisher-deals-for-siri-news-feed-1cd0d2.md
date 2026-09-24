@@ -1,16 +1,17 @@
 ---
 title: "Apple Negotiates Nine‑Figure Publisher Deals for Siri News Feed"
 date: 2026-08-13T16:57:14.282Z
-modified_date: 2026-09-08T02:32:33.278Z
+modified_date: 2026-09-24T02:40:40.320Z
 tags: ["apple","siri","ai","news"]
 hero_image: "/hero/2026-08-13-apple-negotiates-nine-figure-publisher-deals-for-siri-news-feed-1cd0d2.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "Apple executive shaking hands with newspaper publisher in a modern office"
 description: "Apple is courting news publishers with multiyear, usage‑based payments to feed current headlines into its upcoming Siri AI, slated for release this fall."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 Apple is in talks with major news publishers to pay for real‑time content that will power the next version of Siri. The move aims to fix the headline‑generation errors that forced Apple to pull news summaries from iOS 18.
@@ -55,4 +56,5 @@ The first test will be the Siri AI debut in iOS 27, scheduled for the fall. Tr
 
 ## Updates
 
+- **2026-09-24** — Meta made a Tamagotchi-like wearable for its Muse AI agent ([source](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/))
 - **2026-09-08** — First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost ([source](https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3))

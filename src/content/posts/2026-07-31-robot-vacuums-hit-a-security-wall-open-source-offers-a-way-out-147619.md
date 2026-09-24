@@ -1,18 +1,20 @@
 ---
 title: "Robot vacuums hit a security wall, open‑source offers a way out"
 date: 2026-07-31T16:11:13.271Z
+modified_date: 2026-09-24T02:41:29.475Z
 tags: ["robotvacuum","security","open-source","diy","robotics"]
 hero_image: "/hero/2026-07-31-robot-vacuums-hit-a-security-wall-open-source-offers-a-way-out-147619.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "robot vacuum navigating a modern living room with a glowing LiDAR sensor"
 description: "A hack of Ecovacs’ Deebot X2 exposes privacy risks while makers push open‑source, cloud‑free alternatives and Dyson finally rolls out its long‑awaited robot."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-07-31-robot-vacuums-hit-a-security-wall-open-source-offers-a-way-out-147619.mp3"
 audio_bytes: 641403
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A $2,500 robot vacuum can be turned into a remote webcam
 
@@ -45,3 +47,7 @@ Dyson’s entry complicates the calculus. Its premium price point and sophistica
 ## What to watch next
 
 The next few months will reveal whether Ecovacs issues a firmware patch that closes the Bluetooth backdoor, and whether other major brands—iRobot, Roborock, and emerging Chinese players—follow suit with similar security disclosures. Keep an eye on the **Valetudo GitHub** for a potential surge in pull requests that add support for newer robot models, and watch the **OOMWOO** community for its first fully‑functional hardware release, which is slated for late 2026 according to the project’s roadmap. Finally, monitor Dyson’s sales figures in Japan; early adoption rates will indicate whether consumers are willing to trade openness for premium performance. The tension between security, openness, and convenience will shape the next generation of household robots.
+
+## Updates
+
+- **2026-09-24** — Meta is launching ‘VR Glasses’ next year for $1,300 ([source](https://9to5google.com/2026/09/23/meta-is-launching-vr-glasses-next-year-for-1300/))

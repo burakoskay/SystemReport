@@ -1,16 +1,17 @@
 ---
 title: "Hyperloop Test Track Breaks Ground as Uber Rolls Out London"
 date: 2026-09-03T08:47:06.724Z
-modified_date: 2026-09-17T19:29:15.186Z
+modified_date: 2026-09-24T02:41:15.446Z
 tags: ["hyperloop","robotaxis","transport","autonomous","technology"]
 hero_image: "/hero/2026-09-03-hyperloop-test-track-breaks-ground-as-uber-rolls-out-london-6eefc4.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "futuristic test tube train in California farmland"
 description: "Hyperloop Transportation Technologies begins building a five‑mile test tube in Quay Valley while Uber launches supervised robotaxis in London, highlighting a new wave of autonomous transport."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Hyperloop's First Test Track Takes Shape in Quay Valley
@@ -43,4 +44,5 @@ The next few months will reveal whether HTT can keep its construction on track a
 
 ## Updates
 
+- **2026-09-24** — Here's the Torcal, the first fully electric Bentley ([source](https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/))
 - **2026-09-17** — Even the king of England has his hesitations about AI ([source](https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/))

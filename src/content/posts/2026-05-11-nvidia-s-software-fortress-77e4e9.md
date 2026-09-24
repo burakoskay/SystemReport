@@ -1,16 +1,17 @@
 ---
 title: "Nvidia's Software Fortress"
 date: 2026-05-11T11:33:30.321Z
-modified_date: 2026-09-21T16:10:28.342Z
+modified_date: 2026-09-24T02:41:08.379Z
 tags: ["Nvidia","CUDA","GPU","Software"]
 hero_image: "/hero/2026-05-11-nvidia-s-software-fortress-77e4e9.jpg"
 hero_image_credit_name: "Nana  Dua"
 hero_image_credit_url: "https://www.pexels.com/@nanadua11"
 visual_keyword: "Nvidia"
 description: "Nvidia's CUDA platform creates a deep, forbidding moat that's hard to replicate"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ As the market continues to evolve, we can expect to see new developments in the 
 
 ## Updates
 
+- **2026-09-24** — Meta's $1,300 VR Glasses look like the Vision Pro sequel Apple should be making ([source](https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/))
 - **2026-09-21** — Googlebooks launch October 4 starting at $899—here are the five models you can preorder today ([source](https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/))
