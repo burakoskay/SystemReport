@@ -1,15 +1,17 @@
 ---
 title: "NASA's Kepler AI Find Adds Eighth Planet to Kepler‑90 System"
 date: 2026-05-30T19:31:01.313Z
+modified_date: 2026-09-24T22:56:02.501Z
 tags: ["nasa","exoplanets","artificial-intelligence"]
 hero_image: "/hero/2026-05-30-nasa-s-kepler-ai-find-adds-eighth-planet-to-kepler-90-system-15cc51.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "telescope data screen with AI algorithm overlay"
 description: "NASA will announce a new Kepler‑90 planet uncovered by Google AI, highlighting how machine learning reshapes exoplanet hunting."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## AI‑Powered Planet Hunt Hits a New Milestone
 NASA is set to broadcast a Thursday press conference that will unveil a fresh planet in the Kepler‑90 system. The discovery comes from a Google‑built artificial‑intelligence model that sifted through four years of Kepler data to spot a signal humans missed.
@@ -33,3 +35,7 @@ Other groups are racing to embed AI into upcoming missions like the Nancy Grace 
 
 ## What to Watch
 The Thursday livestream will reveal the planet’s official designation, its estimated radius, and any hints about atmospheric composition. Follow the NASA webcast and the accompanying liveblog for the exact data release. After the press conference, watch for a pre‑print paper detailing the AI methodology; its citation count will indicate how quickly the community adopts the approach. Finally, keep an eye on the next scheduled data‑release window for the Roman Telescope, where a similar AI pipeline is slated to run.
+
+## Updates
+
+- **2026-09-24** — Nicolas Cage is anything but subtle in the Madden trailer ([source](https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer/))
