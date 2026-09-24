@@ -1,16 +1,17 @@
 ---
 title: "AI Sleep App Zomni Gains Traction Amid Trial Hiccups"
 date: 2026-04-28T06:52:11.898Z
-modified_date: 2026-08-19T12:35:01.336Z
+modified_date: 2026-09-24T08:56:11.838Z
 tags: ["ai health tech","cbt-i app","sleep tracking","mobile app updates","user feedback"]
 hero_image: "/hero/2026-04-28-ai-sleep-app-zomni-gains-traction-amid-trial-hiccups-1ba969.jpg"
 hero_image_credit_name: "Airam Dato-on"
 hero_image_credit_url: "https://www.pexels.com/@airamdphoto"
 visual_keyword: "AI sleep coaching app interface on iPhone with dark mode"
 description: "Zomni's CBT-I app faces trial issues but wins praise for simplicity and effectiveness."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Zomni’s next moves will test its ability to balance rapid expansion with quali
 
 ## Updates
 
+- **2026-09-24** — Motley Fool Promo Code: $200 Off on Stock Advisor September 2026 ([source](https://www.wired.com/story/the-motley-fool-promo-code/))
 - **2026-08-19** — The everyday tech I use to track my corgi ([source](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking))
 - **2026-08-07** — The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know ([source](https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/))
 - **2026-07-28** — Kimi K3 Architecture Overview and Notes ([source](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html))
