@@ -1,15 +1,17 @@
 ---
 title: "AI Drives Up Energy Prices in Silicon Valley's Favorite Ski Spot"
 date: 2026-05-15T19:45:44.511Z
+modified_date: 2026-09-25T09:18:08.759Z
 tags: ["AI","Energy","Sustainability"]
 hero_image: "/hero/2026-05-15-ai-drives-up-energy-prices-in-silicon-valley-s-favorite-ski-spot-09e4ab.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Lake Tahoe faces higher energy prices due to AI demand. Meanwhile, tech companies are exploring new ways to reduce their environmental footprint."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Soaring Energy Prices Hit Lake Tahoe
@@ -70,3 +72,6 @@ The EcoLogits project provides a suite of open-source tools for estimating the e
 
 The future of sustainable energy solutions is critical in mitigating the environmental impact of AI. As researchers and developers continue to explore new methods for reducing energy consumption and emissions, it is essential to track progress in this area. The development of new technologies and strategies will be critical in ensuring a sustainable future. Key players to watch include tech companies like Google, which are investing heavily in clean energy and efficiency measures.
 
+## Updates
+
+- **2026-09-25** — Federal judge orders Texas to air condition all prisons by the end of 2029 ([source](https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/))

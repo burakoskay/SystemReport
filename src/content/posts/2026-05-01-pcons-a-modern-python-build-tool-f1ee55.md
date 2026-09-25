@@ -1,19 +1,20 @@
 ---
 title: "Pcons, a Modern Python Build Tool"
 date: 2026-05-01T15:05:29.637Z
-modified_date: 2026-09-22T23:57:45.162Z
+modified_date: 2026-09-25T09:17:54.213Z
 tags: ["pcons","python","build tool","scons","cmake"]
 hero_image: "/hero/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "modern software build tool"
 description: "Pcons aims to fill a real need for a general-purpose broadly applicable extensible software build tool using a modern well-known language to describe builds and tools."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-01-pcons-a-modern-python-build-tool-f1ee55.mp3"
 audio_bytes: 550497
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ Pcons is a modern Python build tool inspired by SCons and CMake. It's designed t
 
 ## Updates
 
+- **2026-09-25** — Using LLMs to trace alchemical knowledge and decode 17th century letters ([source](https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical))
 - **2026-09-22** — macOS 27 gives you more control over Liquid Glass ([source](https://9to5mac.com/2026/09/22/macos-27-gives-you-more-control-over-liquid-glass/))
 - **2026-09-21** — AI coding platform Bitrig adds iPhone Duo support with interactive 3D simulator ([source](https://9to5mac.com/2026/09/21/ai-coding-platform-bitrig-adds-iphone-duo-support-with-interactive-3d-simulator/))
 - **2026-09-05** — Tesla’s Cybercab has been deployed, and it’s already under investigation ([source](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/))

@@ -1,18 +1,20 @@
 ---
 title: "Meta lawsuit and AI security attacks pressure industry scaling"
 date: 2026-09-11T20:21:07.359Z
+modified_date: 2026-09-25T09:17:39.718Z
 tags: ["meta","ai","legal","security","startup"]
 hero_image: "/hero/2026-09-11-meta-lawsuit-and-ai-security-attacks-pressure-industry-scaling-49ed75.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI models colliding with legal documents"
 description: "Meta battles a class-action over photo harvesting as Anthropic warns of Chinese distillation attacks, and OpenAI pauses Pro sign‑ups amid capacity strain."
-sources_count: 12
-author: "maya-chen"
+sources_count: 13
 audio_path: "/audio/2026-09-11-meta-lawsuit-and-ai-security-attacks-pressure-industry-scaling-49ed75.mp3"
 audio_bytes: 608593
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Meta faces a class‑action over its training data
 Meta is being sued for allegedly harvesting billions of Facebook and Instagram photos without consent. The complaint says the images trained Meta's image‑generation models and an unreleased face‑recognition feature called “NameTag.”
@@ -46,3 +48,7 @@ Industry observers note that board appointments from established AI firms often 
 
 ## What to watch
 Watch for a court ruling on the Meta class‑action, which could set precedent for AI training‑data consent. Track Anthropic’s follow‑up on distillation defenses, as any breakthrough may shift the security playbook. Monitor OpenAI’s capacity expansion timeline and Moonshot AI’s quarterly token‑generation reports for signs of scaling stress. Finally, keep an eye on Nscale’s filing status; a prospectus would reveal how the company plans to address data‑privacy and security amid a tightening regulatory landscape.
+
+## Updates
+
+- **2026-09-25** — Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream ([source](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream))

@@ -1,16 +1,17 @@
 ---
 title: "Accel Closes Oversubscribed $550M India Fund"
 date: 2026-08-12T04:02:51.774Z
-modified_date: 2026-09-01T03:02:51.219Z
+modified_date: 2026-09-25T09:17:10.334Z
 tags: ["Accel","India Fund","Venture Capital"]
 hero_image: "/hero/2026-08-12-accel-closes-oversubscribed-550m-india-fund-97d90d.jpg"
 hero_image_credit_name: "Ayush Singh Thakur"
 hero_image_credit_url: "https://www.pexels.com/@ayush-singh-thakur-1080844892"
 visual_keyword: "India"
 description: "Accel closes $550M India fund, 19 months after its last"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 # Accel's Fund Closure
@@ -32,4 +33,5 @@ The closure of Accel's $550M India fund will have implications for the Indian st
 
 ## Updates
 
+- **2026-09-25** — Lightspeed targets $250M for new India fund, focusing on early-stage AI ([source](https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/))
 - **2026-09-01** — Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund ([source](https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/))
