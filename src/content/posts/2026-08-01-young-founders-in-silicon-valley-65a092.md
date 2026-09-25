@@ -1,16 +1,17 @@
 ---
 title: "Young Founders in Silicon Valley"
 date: 2026-08-01T09:54:58.579Z
-modified_date: 2026-08-05T11:56:05.895Z
+modified_date: 2026-09-25T02:58:18.778Z
 tags: ["AI","Entrepreneurship","Startup Ecosystem"]
 hero_image: "/hero/2026-08-01-young-founders-in-silicon-valley-65a092.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "Silicon Valley"
 description: "AI tools democratize opportunity"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## AI Democratizes Opportunity
@@ -34,4 +35,5 @@ The future of entrepreneurship will be shaped by the continued advancement of AI
 
 ## Updates
 
+- **2026-09-25** — Waymo is scaling fast. Here’s what the fleet data shows. ([source](https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/))
 - **2026-08-05** — As iPhones get more expensive, T-Mobile launches new 3-year plan ([source](https://9to5mac.com/2026/08/05/as-iphones-get-more-expensive-t-mobile-launches-new-3-year-plan/))

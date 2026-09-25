@@ -1,16 +1,17 @@
 ---
 title: "AI Search Startup Glean"
 date: 2026-05-29T10:02:36.380Z
-modified_date: 2026-08-20T22:21:39.663Z
+modified_date: 2026-09-25T02:58:26.086Z
 tags: ["AI","Search","Glean"]
 hero_image: "/hero/2026-05-29-ai-search-startup-glean-bc68a5.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Search"
 description: "Glean's revenue triples to $300M as AI budget-cutting becomes key selling point"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Glean's Revenue Surge
@@ -60,4 +61,5 @@ The upcoming quarter will be key for Glean, as the company looks to build on its
 
 ## Updates
 
+- **2026-09-25** — Call of Duty: Warzone is adding a button to hide all the goofy skins ([source](https://www.engadget.com/2268423/call-of-duty-warzone-is-adding-a-button-to-hide-all-the-goofy-skins/))
 - **2026-08-20** — Vomit: Clean up Claude 5's token output with a separate LLM ([source](https://github.com/zachahn/vomit))

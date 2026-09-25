@@ -1,15 +1,17 @@
 ---
 title: "Meta Advances Open AI Hardware with New Racks and Networking"
 date: 2026-05-30T19:24:54.365Z
+modified_date: 2026-09-25T02:58:40.452Z
 tags: ["Meta","Open AI Hardware","AI Infrastructure"]
 hero_image: "/hero/2026-05-30-meta-advances-open-ai-hardware-with-new-racks-and-networking-8458cb.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI Hardware"
 description: "Meta expands open-hardware strategy"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to Meta's Open AI Hardware
@@ -46,3 +48,6 @@ As Meta continues to advance its open AI hardware, we can expect to see new and 
 
 The future of AI hardware is likely to be shaped by Meta's open-hardware approach. As the industry continues to evolve, we can expect to see new and innovative hardware designs emerge, driven by the need for scalability, flexibility, and efficiency. Meta's commitment to open hardware and disaggregation positions it well to lead the industry in this area, and it will be interesting to see how the company continues to innovate and advance its AI hardware in the coming years.
 
+## Updates
+
+- **2026-09-25** — Show HN: Koi.rest – watch some fish and regain your balance ([source](https://koi.rest))
