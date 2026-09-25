@@ -1,16 +1,17 @@
 ---
 title: "Apple fights legal and privacy battles as Supreme Court looms"
 date: 2026-04-29T14:19:57.648Z
-modified_date: 2026-08-14T04:02:35.252Z
+modified_date: 2026-09-25T14:56:10.498Z
 tags: ["apple","privacy","app store"]
 hero_image: "/hero/2026-04-29-apple-fights-legal-and-privacy-battles-as-supreme-court-looms-198874.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "courtroom with Apple logo and app icons"
 description: "Apple lost a bid to pause App Store fee changes, faces scrutiny over ad personalization and AI‑nudify apps, while Brussels seeks to yank Uber from its stores."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ The Supreme Court’s ruling on the Epic Games case will set a precedent for all
 
 ## Updates
 
+- **2026-09-25** — Microsoft thinks its new Copilot ‘super app’ will be as influential as Office ([source](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot))
 - **2026-08-14** — Apple seeks settlement talks with Epic Games in new court filing ([source](https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/))
 - **2026-07-27** — Nanoleaf&#8217;s colorful pegboard and shelf kit is half off ([source](https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale))
 - **2026-07-26** — All the Ways You Can Make Reading on Your Phone Easier ([source](https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/))

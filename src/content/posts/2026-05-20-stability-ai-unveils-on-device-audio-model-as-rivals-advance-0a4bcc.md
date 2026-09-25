@@ -1,16 +1,17 @@
 ---
 title: "Stability AI Unveils On-Device Audio Model as Rivals Advance"
 date: 2026-05-20T15:41:44.951Z
-modified_date: 2026-09-16T22:34:24.313Z
+modified_date: 2026-09-25T14:56:02.463Z
 tags: ["AI","on-device AI","Stability AI"]
 hero_image: "/hero/2026-05-20-stability-ai-unveils-on-device-audio-model-as-rivals-advance-0a4bcc.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Stability AI's Audio 3.0 generates short tracks on-device. The release joins Figma's AI assistant, Apple's Vision Pro video, and Qwen's new agent model."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The intersection of on-device AI and consumer technology will continue to shape 
 
 ## Updates
 
+- **2026-09-25** — Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test ([source](https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review))
 - **2026-09-16** — Google Home app brings battery-efficient widget, reduces gray device tiles ([source](https://9to5google.com/2026/09/16/google-home-widget-battery/))
 - **2026-09-11** — Motorola’s wide Razr Fold wants to have ‘3D glass’ and a creaseless display ([source](https://9to5google.com/2026/09/11/motorolas-wide-razr-fold-wants-3d-glass-and-creaseless-display/))
 - **2026-09-09** — Google DeepMind alumni are building tools to accelerate fusion power for the grid ([source](https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/))

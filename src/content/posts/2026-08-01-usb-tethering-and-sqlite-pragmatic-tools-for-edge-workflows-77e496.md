@@ -1,18 +1,20 @@
 ---
 title: "USB Tethering and SQLite: Pragmatic Tools for Edge Workflows"
 date: 2026-08-01T22:53:13.153Z
+modified_date: 2026-09-25T14:56:39.123Z
 tags: ["usb","sqlite","edge-computing"]
 hero_image: "/hero/2026-08-01-usb-tethering-and-sqlite-pragmatic-tools-for-edge-workflows-77e496.jpg"
 hero_image_credit_name: "Ben Khatry"
 hero_image_credit_url: "https://www.pexels.com/@ben-khatry-430197437"
 visual_keyword: "engineer connecting phone to laptop with USB cable, laptop screen showing SQLite terminal"
 description: "Why engineers reach for a USB cable and a tiny database when Wi‑Fi and cloud services fall short."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-08-01-usb-tethering-and-sqlite-pragmatic-tools-for-edge-workflows-77e496.mp3"
 audio_bytes: 595427
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## When a Cable Beats Wi‑Fi
 
@@ -43,3 +45,7 @@ Developers can also write custom Python functions and register them with SQLite.
 ## What to Watch
 
 The next Android release is expected to expose USB tethering settings to third‑party automation tools. If those APIs become stable, scripts could spin up a tether, pull data, and feed it into an in‑memory SQLite instance with a single command. Keep an eye on the Android developer blog for the official API announcement and on SQLite’s release notes for any changes to the CLI import flags. Those two moves will tighten the feedback loop for engineers working on remote diagnostics and on‑device analytics.
+
+## Updates
+
+- **2026-09-25** — North Korean hackers suspected in $351M crypto theft, the largest so far this year ([source](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/))

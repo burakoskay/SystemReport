@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-09-25T09:23:57.247Z",
+  "generated_at": "2026-09-25T14:58:53.322Z",
   "window_days": 7,
-  "total_records": 3756,
+  "total_records": 3785,
   "variants": {
     "draft:v4-1100w": {
-      "calls": 1607,
-      "success": 253,
-      "success_rate": 0.15743621655258244,
-      "latency_p50": 7306,
+      "calls": 1630,
+      "success": 264,
+      "success_rate": 0.1619631901840491,
+      "latency_p50": 7325,
       "latency_p95": 9563,
-      "response_chars_mean": 2144,
+      "response_chars_mean": 2107,
       "error_classes": {
-        "unknown": 1345,
+        "unknown": 1357,
         "server_error": 1,
         "rate_limit": 7,
         "permission": 1

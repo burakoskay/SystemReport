@@ -1,16 +1,17 @@
 ---
 title: "US-China tech rivalry escalates with new export controls"
 date: 2026-05-20T18:37:48.701Z
-modified_date: 2026-09-07T08:49:58.239Z
+modified_date: 2026-09-25T14:56:34.947Z
 tags: ["semiconductor exports","AI GPU restrictions","US-China trade war","national security controls","tech supply chain"]
 hero_image: "/hero/2026-05-20-us-china-tech-rivalry-escalates-with-new-export-controls-25a3bc.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "geopolitical conflict in tech industry"
 description: "New US export curbs on AI GPUs and China's material bans redefine semiconductor tensions."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Monitor these three developments: (1) How Chinese firms respond to GPU shortages
 
 ## Updates
 
+- **2026-09-25** — Meadow lets you leave your smartphone at home without sacrificing the essentials ([source](https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/))
 - **2026-09-07** — The car industry A/B tested selling a car with and without CarPlay ([source](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/))
 - **2026-09-03** — Circular’s new smart rings add contactless payments and vibrating alerts ([source](https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts))
 - **2026-08-18** — Apple’s new macOS update reportedly contains a video of AirPods with a camera ([source](https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/))
