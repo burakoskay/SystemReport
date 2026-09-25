@@ -1,16 +1,17 @@
 ---
 title: "AT&T’s New $15 Wireless Plan and the Race for Device"
 date: 2026-05-21T13:06:58.015Z
-modified_date: 2026-09-17T22:37:05.962Z
+modified_date: 2026-09-25T23:02:20.477Z
 tags: ["Wireless plans","Jasper Wireless","Emerging devices","Device infrastructure","Telecom sector"]
 hero_image: "/hero/2026-05-21-at-t-s-new-15-wireless-plan-and-the-race-for-device-e5c972.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "wireless"
 description: "AT&T unveils a flexible $15/month wireless plan and partners with Jasper Wireless to scale support for emerging devices."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Three data points will define AT&T’s 2024 success. First, whether Build-a-Plan
 
 ## Updates
 
+- **2026-09-25** — Ollaya – Ollama for open-source, Jev-style decision models ([source](https://ollaya.dev/))
 - **2026-09-17** — Apple showcases iPhone 18 Pro camera with new ‘What Holds Us’ photography exhibition ([source](https://9to5mac.com/2026/09/17/apple-showcases-iphone-18-pro-camera-with-new-what-holds-us-photography-exhibition/))
 - **2026-09-09** — Apple’s new iPhone camera mode promises to prove your photo isn’t AI ([source](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image))
 - **2026-08-09** — The original URL for this prediction will no longer be available in 11 years (2011) ([source](http://longbets.org/601/))

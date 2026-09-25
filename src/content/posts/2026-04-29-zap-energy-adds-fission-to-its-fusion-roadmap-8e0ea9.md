@@ -1,19 +1,20 @@
 ---
 title: "Zap Energy adds fission to its fusion roadmap"
 date: 2026-04-29T21:13:30.384Z
-modified_date: 2026-09-16T19:18:10.515Z
+modified_date: 2026-09-25T23:01:37.236Z
 tags: ["fusion","fission","energy","startup"]
 hero_image: "/hero/2026-04-29-zap-energy-adds-fission-to-its-fusion-roadmap-8e0ea9.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "fusion reactor prototype beside fission core schematic"
 description: "Zap Energy said it will develop fission reactors alongside its fusion devices, signaling a strategic shift for the startup amid a crowded deep‑tech energy market."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-29-zap-energy-adds-fission-to-its-fusion-roadmap-8e0ea9.mp3"
 audio_bytes: 580381
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Stakeholders should track Zap Energy’s first fission prototype timeline, any d
 
 ## Updates
 
+- **2026-09-25** — The hottest new hangout for middle schoolers is NPR’s comment section? ([source](https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/))
 - **2026-09-16** — Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/))
 - **2026-09-15** — Lukewarm orders for iPhone 18 Pro, says analyst – but it doesn’t mean much ([source](https://9to5mac.com/2026/09/15/lukewarm-orders-for-iphone-18-pro-says-analyst-but-it-doesnt-mean-much/))
 - **2026-08-11** — Bluesky’s active user base is shrinking as its focus expands beyond the app ([source](https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/))

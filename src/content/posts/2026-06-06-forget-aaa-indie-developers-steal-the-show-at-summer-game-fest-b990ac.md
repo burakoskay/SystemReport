@@ -1,19 +1,20 @@
 ---
 title: "Forget AAA, Indie Developers Steal the Show at Summer Game Fest"
 date: 2026-06-06T15:23:26.889Z
-modified_date: 2026-09-10T14:02:23.187Z
+modified_date: 2026-09-25T23:02:14.974Z
 tags: ["summer game fest","indie games","game development","innovation","experimentation"]
 hero_image: "/hero/2026-06-06-forget-aaa-indie-developers-steal-the-show-at-summer-game-fest-b990ac.jpg"
 hero_image_credit_name: "Michael Kessel"
 hero_image_credit_url: "https://www.pexels.com/@michael-kessel-112079563"
 visual_keyword: "indie game developers at Summer Game Fest"
 description: "As the gaming industry grapples with financial pressures and layoffs, independent game developers shine at Summer Game Fest with innovative and creative titles."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-06-forget-aaa-indie-developers-steal-the-show-at-summer-game-fest-b990ac.mp3"
 audio_bytes: 585396
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ As the gaming industry continues to evolve, one thing is clear: indie developers
 
 ## Updates
 
+- **2026-09-25** — Alan Kay: Shannon gave us a way of dealing with noisy channels [video] ([source](https://www.youtube.com/watch?v=Cjntrqhn8pk))
 - **2026-09-10** — How to fast charge iPhone 18 Pro ([source](https://9to5mac.com/2026/09/10/how-to-fast-charge-iphone-18-pro/))
 - **2026-09-05** — The weird and wonderful headphones of CanJam 2026 ([source](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026))
 - **2026-06-06** — Anti-Vax Dating Apps Are Going IRL. People Are Mad as Hell About It ([source](https://www.wired.com/story/anti-vax-dating-apps-are-going-irl-people-are-mad-as-hell-about-it/))
