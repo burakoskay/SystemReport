@@ -1,16 +1,17 @@
 ---
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
-modified_date: 2026-08-17T20:20:23.033Z
+modified_date: 2026-09-25T19:47:25.045Z
 tags: ["surveillance","privacy","security"]
 hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
-sources_count: 9
+sources_count: 10
 author: "lena-volkov"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ A dramatic post-midnight revolt in the House has sunk the White House's efforts 
 
 ## Updates
 
+- **2026-09-25** — Is solar's growth finally slowing in the US? ([source](https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/))
 - **2026-08-17** — Monday’s Android app deals and freebies: Demon Castle, Deus Ex GO, SENTINEL 519, GNOSIA, more ([source](https://9to5toys.com/2026/08/17/monday-android-app-deals-free-demon-castle-deus-ex-go/))
 - **2026-05-21** — Scammers are abusing an internal Microsoft account to send spam links ([source](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/))
 - **2026-05-11** — Maryland citizens hit with $2B power grid upgrade for out-of-state AI ([source](https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises))

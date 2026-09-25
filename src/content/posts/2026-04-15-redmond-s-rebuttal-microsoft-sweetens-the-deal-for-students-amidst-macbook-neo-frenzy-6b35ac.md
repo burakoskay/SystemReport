@@ -1,16 +1,17 @@
 ---
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students"
 date: 2026-04-15T19:46:25.489Z
-modified_date: 2026-08-25T18:31:27.359Z
+modified_date: 2026-09-25T19:48:18.788Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
 hero_image: "/hero/2026-04-15-redmond-s-rebuttal-microsoft-sweetens-the-deal-for-students-amidst-macbook-neo-frenzy-6b35ac.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ This battle for the student market is more than just a fleeting skirmish over sa
 
 ## Updates
 
+- **2026-09-25** — Topcoat is pushing the boundary of server applications with Rust ([source](https://tokio.rs/blog/2026-09-24-topcoat-server-applications))
 - **2026-08-25** — The US Just Recorded Its First 2 Measles Deaths This Year ([source](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/))
 - **2026-06-01** — This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark ([source](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures))
 - **2026-05-19** — Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips ([source](https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date))

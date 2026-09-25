@@ -1,16 +1,17 @@
 ---
 title: "Nomad Goods Offers 25% Off"
 date: 2026-05-13T06:52:21.113Z
-modified_date: 2026-09-11T02:29:35.181Z
+modified_date: 2026-09-25T19:46:08.916Z
 tags: ["tech discounts","Nomad Goods","Corsair","H&R Block"]
 hero_image: "/hero/2026-05-13-nomad-goods-offers-25-off-7f2972.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Consumers should track whether these discounts continue and if other brands foll
 
 ## Updates
 
+- **2026-09-25** — Some Supabase customers are publicly exposing reams of people’s data to the web ([source](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/))
 - **2026-09-11** — Apple extends free iPhone satellite access for another year ([source](https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/))
 - **2026-08-01** — The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier ([source](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/))
 - **2026-05-22** — Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’ ([source](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/))

@@ -1,16 +1,17 @@
 ---
 title: "Android 17 Beta 4 Arrives with a Hidden Surprise"
 date: 2026-04-18T01:10:50.797Z
-modified_date: 2026-08-31T18:38:28.113Z
+modified_date: 2026-09-25T19:47:40.506Z
 tags: ["Android 17","Beta 4","Easter egg"]
 hero_image: "/hero/2026-04-18-android-17-beta-4-arrives-with-a-hidden-surprise-09f109.jpg"
 hero_image_credit_name: "Nicky Pe"
 hero_image_credit_url: "https://www.pexels.com/@nicky"
 visual_keyword: "Easter egg"
 description: "Google releases Android 17 Beta 4 with a new Easter egg and connect-the-dots puzzle."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The Easter egg showcases Google's attention to detail and commitment to deliveri
 
 ## Updates
 
+- **2026-09-25** — Google Messages rolls out new swipe for timestamps & reply gesture ([source](https://9to5google.com/2026/09/25/google-messages-timestamps-reply/))
 - **2026-08-31** — iPhone 18 Pro is coming: Here’s what’s new with each model ([source](https://9to5mac.com/2026/08/31/iphone-18-pro-is-coming-heres-whats-new-with-each-model/))
 - **2026-08-06** — Ford needs another Taurus, and the $30K Fathom EV pickup isn’t it ([source](https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/))
 - **2026-05-15** — Do you like Google’s new 3D emoji designs for Pixel and Android 17? [Poll] ([source](https://9to5google.com/2026/05/15/google-android-17-3d-emoji-poll/))

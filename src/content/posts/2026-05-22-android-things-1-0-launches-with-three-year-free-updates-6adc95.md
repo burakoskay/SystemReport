@@ -1,16 +1,17 @@
 ---
 title: "Android Things 1.0 launches with three-year free updates"
 date: 2026-05-22T04:22:35.509Z
-modified_date: 2026-09-18T18:50:09.224Z
+modified_date: 2026-09-25T19:47:32.663Z
 tags: ["android","iot","updates"]
 hero_image: "/hero/2026-05-22-android-things-1-0-launches-with-three-year-free-updates-6adc95.jpg"
 hero_image_credit_name: "Tanha Tamanna  Syed"
 hero_image_credit_url: "https://www.pexels.com/@tanhatamannasyed"
 visual_keyword: "industrial IoT board with Google logo and modules"
 description: "Google releases Android Things 1.0, a closed-source IoT OS with three years of free updates and certified System-on-Modules for manufacturers."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The first wave of Android Things devices will likely appear in smart home applia
 
 ## Updates
 
+- **2026-09-25** — Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return ([source](https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/))
 - **2026-09-18** — Valve’s open-source ‘Lepton’ brings Android games to the $1,059 Steam Frame ([source](https://9to5google.com/2026/09/18/valves-open-source-lepton-brings-android-games-to-the-1059-steam-frame/))
 - **2026-09-03** — Anker’s new printer works directly on fabrics ([source](https://www.theverge.com/tech/986948/anker-eufymake-personal-fabric-printer-dtg-dtf-ifa))
 - **2026-09-03** — Belkin’s first trackers come ready to attach to your gear. ([source](https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag))

@@ -1,16 +1,17 @@
 ---
 title: "Anthropic's Trump Administration Ties"
 date: 2026-04-18T16:31:54.835Z
-modified_date: 2026-08-28T15:57:18.289Z
+modified_date: 2026-09-25T19:47:09.795Z
 tags: ["Anthropic","Trump Administration","Supply-Chain Risk"]
 hero_image: "/hero/2026-04-18-anthropic-s-trump-administration-ties-673f1c.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "dialogue"
 description: "Anthropic engages with Trump admin"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,5 +26,6 @@ Anthropic's relationship with the Trump administration remains uncertain. The ad
 
 ## Updates
 
+- **2026-09-25** — Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk ([source](https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/))
 - **2026-08-28** — Anthropic gets its first court win over the Pentagon’s supply-chain risk label ([source](https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/))
 - **2026-05-10** — We’re feeling cynical about xAI’s big deal with Anthropic ([source](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/))

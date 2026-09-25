@@ -1,19 +1,20 @@
 ---
 title: "AI bird feeder, Pixel fold deals, ThermoWorks kitchen scale"
 date: 2026-05-29T22:03:22.243Z
-modified_date: 2026-09-25T09:17:02.945Z
+modified_date: 2026-09-25T19:46:31.537Z
 tags: ["ai","consumer hardware","pricing"]
 hero_image: "/hero/2026-05-29-ai-bird-feeder-pixel-fold-deals-thermoworks-kitchen-scale-e134b1.jpg"
 hero_image_credit_name: "David Kanigan"
 hero_image_credit_url: "https://www.pexels.com/@david-kanigan-239927285"
 visual_keyword: "backyard bird feeder with camera and smartphone interface"
 description: "Examines Kiwibit's AI-powered bird feeder, deep discounts on Pixel 10 Pro Fold, and ThermoWorks' first kitchen scale, probing their impact on pricing and AI adoption."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-29-ai-bird-feeder-pixel-fold-deals-thermoworks-kitchen-scale-e134b1.mp3"
 audio_bytes: 583933
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Track the adoption rate of Kiwibit’s feeder over the next six months; a surge 
 
 ## Updates
 
+- **2026-09-25** — Roku&#8217;s first OLED TVs are up to $400 off, starting at $699 ([source](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale))
 - **2026-09-25** — Therabody Promo Codes: 15% Off September 2026 ([source](https://www.wired.com/story/therabody-promo-code/))
 - **2026-08-19** — Nielsen is leaning more on wearables to hear what people are watching ([source](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data))
 - **2026-08-03** — Matte black Pixel 11 Pro shown off in detailed images [Gallery] ([source](https://9to5google.com/2026/08/03/pixel-11-pro-matte-black/))
