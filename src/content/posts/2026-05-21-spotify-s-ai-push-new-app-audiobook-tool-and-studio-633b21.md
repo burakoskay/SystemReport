@@ -1,16 +1,17 @@
 ---
 title: "Spotify's AI Push: New App, Audiobook Tool, and Studio"
 date: 2026-05-21T20:04:13.335Z
-modified_date: 2026-09-06T13:21:11.927Z
+modified_date: 2026-09-26T14:01:35.243Z
 tags: ["Spotify","AI","Music Streaming"]
 hero_image: "/hero/2026-05-21-spotify-s-ai-push-new-app-audiobook-tool-and-studio-633b21.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Spotify"
 description: "Spotify launches a new desktop app, an ElevenLabs-powered audiobook creation tool, and an experimental 'Studio' app that generates podcasts using user data."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ In conclusion, Spotify's AI push is a significant development in the music strea
 
 ## Updates
 
+- **2026-09-26** — Engadget review recap: Apple devices, Sonos' return and more ([source](https://www.engadget.com/2269326/engadget-review-recap-apple-devices-sonos-return-and-more/))
 - **2026-09-06** — The Fairphone 6 Plus is the midrange phone we desperately needed ([source](https://www.theverge.com/tech/990436/fairphone-6-plus-review))
 - **2026-08-26** — It’s so hard to finish an idea that is not yours and is just suggested by AI ([source](https://www.ssp.sh/brain/using-obsidian-with-ai/))
 - **2026-05-23** — Record Club is trying to be Letterboxd for music nerds ([source](https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds))

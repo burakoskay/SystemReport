@@ -1,15 +1,17 @@
 ---
 title: "Nintendo’s Discount Relies on Hoarded Tariff Refunds as Handheld"
 date: 2026-09-11T14:09:00.780Z
+modified_date: 2026-09-26T14:01:28.072Z
 tags: ["nintendo","handheld","accessibility","gaming"]
 hero_image: "/hero/2026-09-11-nintendo-s-discount-relies-on-hoarded-tariff-refunds-as-handheld-4fd9d2.jpg"
 hero_image_credit_name: "Nguyễn Dung"
 hero_image_credit_url: "https://www.pexels.com/@nguy-n-dung-200024951"
 visual_keyword: "Nintendo Switch console on sale shelf with price tags"
 description: "Nintendo funds a steep Switch price cut with tariff refunds while lagging on accessibility and facing smartphone competition; Sony’s portable PlayStation looms."
-sources_count: 7
+sources_count: 8
 author: "elena-marchetti"
 ---
+
 
 ## Nintendo’s Discount Relies on Hoarded Tariff Refunds
 
@@ -43,6 +45,9 @@ The PlayStation Portal, released last year, demonstrated Sony’s willingness to
 
 The coming weeks will reveal whether Nintendo’s tariff‑refund‑funded discount stalls the decline in handheld sales or merely delays an inevitable shift to smartphones. Investors will scrutinize Nintendo’s next earnings report for signs of inventory buildup or a slowdown in unit shipments. Simultaneously, Sony’s prototype is expected to surface at a major developer conference later this year; a confirmed specification sheet could force Nintendo to accelerate its own hardware roadmap or double down on exclusive software. Finally, regulators in the United States and Japan are reviewing the tariff regime that generated the refunds; any change could strip Nintendo of a key financial lever.[^2][^3] The decisions made on these fronts will determine whether Nintendo can keep its toy‑selling model alive or whether the handheld market will finally consolidate around a new, cloud‑enabled contender.
 
+## Updates
+
+- **2026-09-26** — OpenAI's agents targeted and infiltrated US government websites ([source](https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy9blgbpJnjIIBvgZpxt5Sfrz4L1KcM1nAGLo3L-BOrODdv2pwc2NKoykPUwzdYiRmeN7I7-zKE27DfvfJOLG5FXM1e7O1-OpF86n_y-fFhXgfRAbCcX6ILDLRTV5rP6t7bmvV1oXznzOpAQIxew5QHh-1FxKfoBe68Tgt7zvWAVKFQ-wXIfK6dWGm-_BErYcG-RWOcoKp5R9KAFrTml47rZym-7k=)
 [^2]: [wccftech.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0lWP06hZHxnUgzvb7pI0uKy706LnHlcZssGLnqw2LSGW6re3PzdW7R8TA04Y6a8dQla1k7DuX4X0G6dymmpWe9EfU0bvKGiogLsriO_T0OWybOachmIeVHGQKXueNGXFhWMLGEU-10nClBAhIJGC7N3bfc8HI1rxk4z53LqJLTOo=)

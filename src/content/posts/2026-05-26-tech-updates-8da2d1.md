@@ -1,18 +1,20 @@
 ---
 title: "Tech Updates"
 date: 2026-05-26T04:00:16.953Z
+modified_date: 2026-09-26T14:00:44.747Z
 tags: ["Tech","Android","Apple"]
 hero_image: "/hero/2026-05-26-tech-updates-8da2d1.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "Android"
 description: "Android updates and Apple antitrust case"
-sources_count: 5
-author: "lena-volkov"
+sources_count: 6
 audio_path: "/audio/2026-05-26-tech-updates-8da2d1.mp3"
 audio_bytes: 612564
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Recent Tech Updates
 Google has released its monthly system updates for Android, which include several new features for end users and developers. The updates affect various Android devices, including phones, tablets, Wear OS, Google/Android TV, Auto, and PC. Some features apply to end users, while others are aimed at developers.
@@ -69,3 +71,7 @@ The history of antitrust cases in the tech industry is complex and multifaceted,
 The Android system updates include a range of technical changes, such as improvements to the Google Play Store's user interface and changes to the Play system update. These changes are crucial for maintaining the overall health of the Android ecosystem.
 
 The updates also include changes to the underlying code, which can affect the performance and security of devices. For example, the latest Play services update includes improvements to the Google Play Store's user interface, which can enhance the user experience.
+
+## Updates
+
+- **2026-09-26** — Control Resonant is a great game — it’s even better when you read everything ([source](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs))

@@ -1,18 +1,20 @@
 ---
 title: "Apple store goes green, WhatsApp extends music clips"
 date: 2026-09-09T14:12:48.189Z
+modified_date: 2026-09-26T14:01:13.632Z
 tags: ["apple","whatsapp","topology"]
 hero_image: "/hero/2026-09-09-apple-store-goes-green-whatsapp-extends-music-clips-7ca51a.jpg"
 hero_image_credit_name: "A."
 hero_image_credit_url: "https://www.pexels.com/@a-1620746"
 visual_keyword: "modern retail storefront with green materials and a smartphone playing music"
 description: "Apple’s Lakeside store reopens with sustainable upgrades, WhatsApp doubles status music length, and a topological picture book climbs Hacker News."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-09-09-apple-store-goes-green-whatsapp-extends-music-clips-7ca51a.mp3"
 audio_bytes: 621341
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple’s Lakeside store reopens with sustainable upgrades, WhatsApp doubles status music length, and a topological picture book climbs Hacker News.
 
@@ -54,6 +56,9 @@ The modest traffic underscores a niche but enthusiastic audience for mathematica
 
 Apple’s next retail rollout will likely reveal whether sustainable materials become standard across its global store network or remain isolated experiments. WhatsApp may follow the music clip extension with broader audio editing tools or deeper integration with its voice‑call infrastructure. In the math community, the reception of the topological picture book could spur additional open‑source visualizations, especially if developers contribute code that lets users manipulate shapes in real time. Tracking these developments will show how each company balances feature growth, environmental goals, and community engagement.
 
+## Updates
+
+- **2026-09-26** — These Xbox players got GTA 6 for free the hard way ([source](https://www.engadget.com/2265444/how-to-get-gta-6-free-xbox-reward-points/))
 
 [^1]: [appleinsider.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn2hz-TUWgRBnFltfsXqxonAq-bL6gl5elbMffO-KffNf5D1MI3dbiIIG8bvzVrkvKL8QkUAmX8n4qUaQSLbHNNfGAeyjC_R-O-j-dt6dzNFC9zIsIMljhuF-QNwBeyAQQWPnmNVk1heapFrVEttqO0TDG57e-3lzwL1yR3VwQDGFlDfsp0yf3V1zluFkfBuUaAMb-G89wsCDZpXliyDP5)
 [^2]: [theapplepost.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU0pCb8aFtMzS7hdy8BgcCTlWVAjtdK9-5T7PTjEqh3KeVFDRNsoHbD3sFtk135ABIioW9WsPXM8zaJJfpEEaZ0CE6NmK1G5a0d--zfwQJbtpWYz036Rr7Y7quzeK9nnV75BmeyQsfY-XTjzKSN43rytsdx0SYzc2k4OqGFVdOK1eunGW-4mzLAO4a7vo3w8SbuS8Z0Nzi3JyI5HaR70irWw==)
