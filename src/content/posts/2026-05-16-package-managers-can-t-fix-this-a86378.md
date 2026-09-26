@@ -1,16 +1,17 @@
 ---
 title: "Package Managers Can’t Fix This"
 date: 2026-05-16T03:47:41.198Z
-modified_date: 2026-08-18T16:25:19.286Z
+modified_date: 2026-09-26T17:42:31.464Z
 tags: ["dependency-management","open-source","software-tooling"]
 hero_image: "/hero/2026-05-16-package-managers-can-t-fix-this-a86378.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "developer debugging nested dependency tree on laptop"
 description: "A recurring issue in dependency management highlights systemic flaws in open source tooling."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Unsolvable Conflict
@@ -45,4 +46,5 @@ Meanwhile, the fate of Groq’s Llama 3.3-70B inference service will reveal if c
 
 ## Updates
 
+- **2026-09-26** — Fifteen years later, the Apple Cards origin story ([source](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story))
 - **2026-08-18** — Bluesky says its recent outage was caused by another DDoS attack ([source](https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/))

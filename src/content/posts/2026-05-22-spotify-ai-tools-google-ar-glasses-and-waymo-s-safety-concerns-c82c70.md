@@ -1,18 +1,20 @@
 ---
 title: "Spotify AI tools, Google AR glasses, and Waymo's safety concerns"
 date: 2026-05-22T16:30:24.483Z
+modified_date: 2026-09-26T17:42:09.415Z
 tags: ["AI","AR","Autonomous Vehicles"]
 hero_image: "/hero/2026-05-22-spotify-ai-tools-google-ar-glasses-and-waymo-s-safety-concerns-c82c70.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered AR glasses"
 description: "Spotify's AI rollout and Google's AR demo"
-sources_count: 10
-author: "maya-chen"
+sources_count: 11
 audio_path: "/audio/2026-05-22-spotify-ai-tools-google-ar-glasses-and-waymo-s-safety-concerns-c82c70.mp3"
 audio_bytes: 583516
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Spotify's AI-powered creation tools
 Spotify released AI-powered tools that nudge users to create more content. The tools are a bit much.
@@ -47,3 +49,7 @@ The development of autonomous vehicles like Waymo's also has significant implica
 The development of AI-powered products is not new, but the current pace of innovation is unprecedented. In the past, we have seen the development of AI-powered tools like chatbots and virtual assistants, but these were largely limited to simple tasks. The current generation of AI-powered products is more advanced, with the ability to learn and adapt to user behavior.
 
 The history of autonomous vehicles is also instructive. The first self-driving cars were developed in the 1980s, but they were largely experimental and not suitable for widespread use. Today, companies like Waymo and Tesla are leading the charge in the development of autonomous vehicles, with significant investments in research and development.
+
+## Updates
+
+- **2026-09-26** — Can Cloudflare CEO Matthew Prince save the web from AI? ([source](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising))

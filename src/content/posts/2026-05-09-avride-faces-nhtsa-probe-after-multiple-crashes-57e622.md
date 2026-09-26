@@ -1,19 +1,20 @@
 ---
 title: "Avride Faces NHTSA Probe After Multiple Crashes"
 date: 2026-05-09T03:31:19.471Z
-modified_date: 2026-09-18T22:10:35.759Z
+modified_date: 2026-09-26T17:42:24.105Z
 tags: ["Avride","NHTSA","Self-Driving Cars"]
 hero_image: "/hero/2026-05-09-avride-faces-nhtsa-probe-after-multiple-crashes-57e622.jpg"
 hero_image_credit_name: "Daniel Andraski"
 hero_image_credit_url: "https://www.pexels.com/@daniel-andraski-197681005"
 visual_keyword: "self-driving"
 description: "NHTSA investigates Avride over self-driving crashes"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-09-avride-faces-nhtsa-probe-after-multiple-crashes-57e622.mp3"
 audio_bytes: 618833
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Another technical challenge facing the industry is the development of robust and
 
 ## Updates
 
+- **2026-09-26** — You can check your Samsung Galaxy's health with a built-in test ([source](https://www.engadget.com/2265327/how-to-check-samsung-galaxy-phone-health-diagnostics-test/))
 - **2026-09-18** — FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar ([source](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/))
 - **2026-08-23** — Is it safe to use a USB-C laptop charger on your phone? ([source](https://www.engadget.com/2240179/using-usb-c-laptop-charger-for-phone-safety-tips/))
 - **2026-05-18** — Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones ([source](https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks))
