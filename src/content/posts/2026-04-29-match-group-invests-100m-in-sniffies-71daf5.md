@@ -1,16 +1,17 @@
 ---
 title: "Match Group Invests $100M in Sniffies"
 date: 2026-04-29T06:28:58.657Z
-modified_date: 2026-09-18T22:11:31.288Z
+modified_date: 2026-09-26T20:32:03.099Z
 tags: ["Match Group","Sniffies","Online Dating"]
 hero_image: "/hero/2026-04-29-match-group-invests-100m-in-sniffies-71daf5.jpg"
 hero_image_credit_name: "Italo Crespi"
 hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The investment in Sniffies is a significant development in this trend, as it hig
 
 ## Updates
 
+- **2026-09-26** — Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts ([source](https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/))
 - **2026-09-18** — Friday’s Android app deals and freebies: Greak Memories of Azur, Fernz Gate, Legna Tactica, more ([source](https://9to5toys.com/2026/09/18/todays-highlight-google-play-deals-10/))
 - **2026-08-28** — "IT WoRKs BeTter in the App " ([source](https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/))
 - **2026-08-18** — Firefox&#8217;s Smart Window promises a better AI browser ([source](https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features))

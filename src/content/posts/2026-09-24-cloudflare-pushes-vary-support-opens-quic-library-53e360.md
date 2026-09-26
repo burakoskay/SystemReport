@@ -1,15 +1,17 @@
 ---
 title: "Cloudflare Pushes Vary Support, Opens QUIC Library"
 date: 2026-09-24T09:12:30.256Z
+modified_date: 2026-09-26T20:31:41.357Z
 tags: ["cloudflare","quic","rust"]
 hero_image: "/hero/2026-09-24-cloudflare-pushes-vary-support-opens-quic-library-53e360.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "cloudflare edge server with rust code overlay"
 description: "Cloudflare adds Vary header caching, releases tokio‑quiche for Rust, and sees Fidelity cut its stake, highlighting open‑source gains and market pressure."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Cloudflare rolled out Vary header caching, open‑sourced its tokio‑quiche QUIC library, and saw its stock valuation trimmed by Fidelity—all in a week that underscores the tension between open‑source momentum and market skepticism.
 
@@ -46,3 +48,7 @@ Fidelity’s adjustments reflect investor scrutiny of cloud‑infrastructure pro
 ## What to Watch
 
 Keep an eye on three fronts: first, how quickly edge developers adopt the new Vary handling and whether Cloudflare publishes performance benchmarks; second, the uptake of tokio‑quiche in the Rust ecosystem and any third‑party services that announce QUIC‑native deployments; third, Cloudflare’s next earnings report, where the company will likely address Fidelity’s write‑down and outline revenue trends tied to its expanding edge portfolio. Tracking these signals will reveal whether the technical advances translate into sustained market confidence.
+
+## Updates
+
+- **2026-09-26** — Kids turned the comment section of an NPR podcast into a group chat ([source](https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section))
