@@ -1,19 +1,20 @@
 ---
 title: "Psyche Spacecraft"
 date: 2026-05-24T04:03:35.952Z
-modified_date: 2026-09-12T16:41:50.753Z
+modified_date: 2026-09-27T18:01:54.697Z
 tags: ["NASA","Psyche Spacecraft","Asteroid Exploration"]
 hero_image: "/hero/2026-05-24-psyche-spacecraft-8df8a8.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Psyche Spacecraft"
 description: "NASA's Psyche spacecraft is on a mission to explore a metal-rich asteroid, testing new technologies and expanding our understanding of the universe."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-24-psyche-spacecraft-8df8a8.mp3"
 audio_bytes: 596890
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The successful test of the DSOC system on the Psyche spacecraft has significant 
 
 ## Updates
 
+- **2026-09-27** — OpenAI agents tried to ‘bruteforce’ a UN website ([source](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website))
 - **2026-09-12** — iPhone Duo can add fake bezel to the outside screen for better case compatibility ([source](https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility/))
 - **2026-07-27** — MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3 ([source](https://9to5mac.com/2026/07/27/esr-flicklock/))

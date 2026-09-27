@@ -1,15 +1,17 @@
 ---
 title: "Tech Giants Face Heat"
 date: 2026-05-31T17:13:01.679Z
+modified_date: 2026-09-27T18:02:01.163Z
 tags: ["tech giants","competition","innovation"]
 hero_image: "/hero/2026-05-31-tech-giants-face-heat-975038.jpg"
 hero_image_credit_name: "Abhishek  Navlakha"
 hero_image_credit_url: "https://www.pexels.com/@navlakha"
 visual_keyword: "tech giants"
 description: "UK competition rules need update, says expert panel. Tech giants face criticism for lack of competition"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to the Issue
@@ -63,3 +65,6 @@ The history of the Apple TV 4K is a microcosm of the broader tech industry. It h
 ## Conclusion
 The tech industry is facing significant challenges, from the lack of competition to the need for innovation. As the industry continues to evolve, it is essential to prioritize competition, innovation, and consumer choice. The implementation of the panel's recommendations and the impact of new technologies on the industry will be crucial to watch in the coming months.
 
+## Updates
+
+- **2026-09-27** — How the Smithsonian became the latest front in Trump’s culture war ([source](https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/))
