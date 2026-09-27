@@ -1,16 +1,17 @@
 ---
 title: "AI tools spark legal and environmental pushback across tech"
 date: 2026-08-01T17:05:23.232Z
-modified_date: 2026-08-30T22:18:37.757Z
+modified_date: 2026-09-27T07:28:14.883Z
 tags: ["ai","regulation","techethics","privacy"]
 hero_image: "/hero/2026-08-01-ai-tools-spark-legal-and-environmental-pushback-across-tech-4db8d5.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "concerned tech executives reviewing AI ethics reports"
 description: "Reddit, Google, a Pennsylvania high school, and SpaceXAI each face scrutiny over AI misuse, misinformation, and regulatory violations."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 Reddit's stock slump coincided with its CEO questioning the value of Google's AI Overviews. The tension highlights a broader clash between platform operators and AI service providers.
@@ -53,4 +54,5 @@ Track Reddit's licensing decision through SEC filings and any subsequent partner
 
 ## Updates
 
+- **2026-09-27** — Why we won't know how visible the iPhone Duo's crease is for a long time ([source](https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/))
 - **2026-08-30** — Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets ([source](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3))
