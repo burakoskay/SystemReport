@@ -1,19 +1,20 @@
 ---
 title: "Tech Giants Amass Nvidia H100 GPUs"
 date: 2026-05-10T22:54:45.986Z
-modified_date: 2026-09-10T20:20:16.601Z
+modified_date: 2026-09-27T00:07:11.060Z
 tags: ["Nvidia","AI","tech giants"]
 hero_image: "/hero/2026-05-10-tech-giants-amass-nvidia-h100-gpus-eb2f55.jpg"
 hero_image_credit_name: "Elias Gamez"
 hero_image_credit_url: "https://www.pexels.com/@elias-gamez-2002621"
 visual_keyword: "Nvidia H100 GPU"
 description: "Meta, Tesla, and others stockpile expensive Nvidia H100 GPUs"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-10-tech-giants-amass-nvidia-h100-gpus-eb2f55.mp3"
 audio_bytes: 680064
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Nvidia H100 Stockpiling
@@ -62,4 +63,5 @@ The Nvidia H100 is a key component in the development of large language models, 
 
 ## Updates
 
+- **2026-09-27** — Apple hit with $5.7 billion in damages over haptic patents ([source](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents))
 - **2026-09-10** — Schools are catching on to Big Tech’s playbook ([source](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids))
