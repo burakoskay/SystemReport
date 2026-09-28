@@ -1,16 +1,17 @@
 ---
 title: "China’s 2026 Green Consumption Push Redefines Home Buying"
 date: 2026-04-29T06:40:28.199Z
-modified_date: 2026-05-28T10:12:45.719Z
+modified_date: 2026-09-28T03:02:47.507Z
 tags: ["china","green consumption","policy","sustainability"]
 hero_image: "/hero/2026-04-29-china-s-2026-green-consumption-push-redefines-home-buying-85c852.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "modern Chinese family choosing energy‑efficient appliances in a bright kitchen"
 description: "January 2026 sees China launch a sweeping green‑consumption action plan, reshaping appliances, cars and daily habits for a low‑carbon economy."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The 2026 Action Plan could turn green consumption from a niche trend into a core
 
 ## Updates
 
+- **2026-09-28** — Are 3D printers worth buying in 2026? ([source](https://www.engadget.com/2267835/3d-printer-is-it-still-worth-buying/))
 - **2026-05-28** — The golden age of handheld gaming is already over ([source](https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era))
 - **2026-05-17** — Fujifilm’s X Half is even more whimsical with a $300 price cut ([source](https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale))
 - **2026-05-12** — The Audemars Piguet x Swatch Collaboration Is Here for Real ([source](https://www.wired.com/story/this-is-the-real-swatch-x-audemars-piguet-royal-pop-collaboration/))
