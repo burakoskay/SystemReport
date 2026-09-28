@@ -1,16 +1,17 @@
 ---
 title: "PART Telescopes Brings Radio Astronomy to Rural Schools"
 date: 2026-05-17T09:54:31.460Z
-modified_date: 2026-09-22T23:57:22.055Z
+modified_date: 2026-09-28T19:07:09.554Z
 tags: ["radio astronomy","STEM education","rural schools"]
 hero_image: "/hero/2026-05-17-part-telescopes-brings-radio-astronomy-to-rural-schools-d5e938.jpg"
 hero_image_credit_name: "Raul Ling"
 hero_image_credit_url: "https://www.pexels.com/@raulling"
 visual_keyword: "radio telescope"
 description: "PART Telescopes provides low-cost radio astronomy tools to rural schools, expanding STEM opportunities."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ In conclusion, the PART Telescopes project has the potential to make a significa
 
 ## Updates
 
+- **2026-09-28** — Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/))
 - **2026-09-22** — Paramount will need to release way more movies to make this merger work ([source](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails))

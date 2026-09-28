@@ -1,19 +1,20 @@
 ---
 title: "Google Expands AI Edge Capabilities with Chrome's Prompt API"
 date: 2026-04-27T10:23:15.024Z
-modified_date: 2026-08-25T20:22:50.215Z
+modified_date: 2026-09-28T19:09:05.380Z
 tags: ["Google","AI","Edge Computing"]
 hero_image: "/hero/2026-04-27-google-expands-ai-edge-capabilities-with-chrome-s-prompt-api-dc9ad0.jpg"
 hero_image_credit_name: "Deepanker Verma"
 hero_image_credit_url: "https://www.pexels.com/@deepanker70"
 visual_keyword: "Chrome"
 description: "Google rolls out AI edge tools, including Chrome's Prompt API"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-27-google-expands-ai-edge-capabilities-with-chrome-s-prompt-api-dc9ad0.mp3"
 audio_bytes: 567842
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Google's expansion of AI edge capabilities with Chrome's Prompt API is a signifi
 
 ## Updates
 
+- **2026-09-28** — The ultra-pocketable ‘Picco’ e-reader from Boox is now up for pre-order, $99 ([source](https://9to5google.com/2026/09/28/boox-picco-up-for-pre-order/))
 - **2026-08-25** — Pixel 11’s ‘Rambler’ voice-to-text is a game-changer, but it should copy this feature [Video] ([source](https://9to5google.com/2026/08/25/google-pixel-11-rambler-feature-upgrade-idea/))
 - **2026-07-30** — Zoox can now charge for rides in its steering-wheel-free robotaxis ([source](https://www.theverge.com/transportation/973099/zoox-amazon-nhtsa-robotaxi-approval))
 - **2026-07-29** — OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face ([source](https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face))

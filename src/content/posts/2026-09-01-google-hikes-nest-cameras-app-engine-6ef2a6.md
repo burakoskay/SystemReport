@@ -1,15 +1,17 @@
 ---
 title: "Google hikes Nest cameras, App Engine"
 date: 2026-09-01T09:06:18.575Z
+modified_date: 2026-09-28T19:07:53.111Z
 tags: ["google","pricing","cloud"]
 hero_image: "/hero/2026-09-01-google-hikes-nest-cameras-app-engine-6ef2a6.jpg"
 hero_image_credit_name: "Digital Buggu"
 hero_image_credit_url: "https://www.pexels.com/@digitalbuggu"
 visual_keyword: "Google Nest cameras on a price tag, App Engine code on a server, .dev domain text on a computer screen"
 description: "Google raises prices on Nest hardware, revamps App Engine billing, and faces backlash over a misreported .dev domain surge."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 ## Nest cameras and doorbells get a price bump
 
@@ -46,3 +48,7 @@ The .dev domain clarification reminds businesses that premium domain pricing is 
 ## What to watch next
 
 Track the first quarterly earnings report after the Nest price change for any shift in hardware revenue growth. Monitor Google Cloud’s billing dashboards for App Engine usage trends as developers adapt to instance‑hour pricing. Finally, watch ICANN policy discussions for potential reforms to registry‑level pricing transparency, which could affect premium TLD costs like .dev.
+
+## Updates
+
+- **2026-09-28** — Bose’s first wired earbuds in 11 years add noise canceling ([source](https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder))

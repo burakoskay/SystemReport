@@ -1,16 +1,17 @@
 ---
 title: "Lana Del Rey Sings for Spy, Cinema Meets Video Games"
 date: 2026-04-18T01:10:30.460Z
-modified_date: 2026-09-21T16:10:39.712Z
+modified_date: 2026-09-28T19:07:16.704Z
 tags: ["video games","cinema","Lana Del Rey"]
 hero_image: "/hero/2026-04-18-lana-del-rey-sings-for-spy-cinema-meets-video-games-6915a5.jpg"
 hero_image_credit_name: "Tito Zzzz"
 hero_image_credit_url: "https://www.pexels.com/@tizzy"
 visual_keyword: "Exit 8"
 description: "Lana Del Rey's new song for James Bond game and Exit 8 film adaptation explore video game and cinema intersections."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ The film Exit 8 is described as 'cinema for the livestreaming era.' The intersec
 
 ## Updates
 
+- **2026-09-28** — Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2 ([source](https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/))
 - **2026-09-21** — PS5 vs PS5 Digital Edition: which is the better buy? ([source](https://www.engadget.com/2260707/ps5-vs-ps5-digital-version-which-is-better-buy/))
 - **2026-08-31** — You Know Who Really Hates AI? Insurance Claims Adjusters ([source](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/))
 - **2026-08-21** — Learn what VCs actually want, from a founder who’s raised $1B ([source](https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/))

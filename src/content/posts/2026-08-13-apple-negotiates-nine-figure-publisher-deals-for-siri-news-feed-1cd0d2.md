@@ -1,16 +1,17 @@
 ---
 title: "Apple Negotiates Nine‑Figure Publisher Deals for Siri News Feed"
 date: 2026-08-13T16:57:14.282Z
-modified_date: 2026-09-27T13:29:01.121Z
+modified_date: 2026-09-28T19:07:23.959Z
 tags: ["apple","siri","ai","news"]
 hero_image: "/hero/2026-08-13-apple-negotiates-nine-figure-publisher-deals-for-siri-news-feed-1cd0d2.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "Apple executive shaking hands with newspaper publisher in a modern office"
 description: "Apple is courting news publishers with multiyear, usage‑based payments to feed current headlines into its upcoming Siri AI, slated for release this fall."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The first test will be the Siri AI debut in iOS 27, scheduled for the fall. Tr
 
 ## Updates
 
+- **2026-09-28** — Florida seeks a ban on ChatGPT acting like a person ([source](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids))
 - **2026-09-27** — Why OLPC’s $100 laptop never stood a chance ([source](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance))
 - **2026-09-24** — The Ovary Is Surprisingly Active After Menopause. Scientists Are Trying to Figure Out Why ([source](https://www.wired.com/story/ovary-activity-after-menopause/))
 - **2026-09-24** — Meta made a Tamagotchi-like wearable for its Muse AI agent ([source](https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/))

@@ -1,16 +1,17 @@
 ---
 title: "Anthropic files for IPO as AI cost tools gain traction"
 date: 2026-06-01T21:50:13.604Z
-modified_date: 2026-07-31T10:33:08.088Z
+modified_date: 2026-09-28T19:08:00.332Z
 tags: ["AI","IPO","Anthropic","OpenAI"]
 hero_image: "/hero/2026-06-01-anthropic-files-for-ipo-as-ai-cost-tools-gain-traction-b343ce.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic's SEC filing puts it ahead of OpenAI for a public debut while AI firms roll out cost-control and skill marketplaces."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Anthropic files for IPO, beats OpenAI
@@ -73,4 +74,5 @@ Investors will track Anthropic’s SEC filing progress, the pricing of its share
 
 ## Updates
 
+- **2026-09-28** — Philips’ motion-tracking smart toothbrush uses AI to make you a better brusher ([source](https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush))
 - **2026-07-31** — The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key ([source](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/))

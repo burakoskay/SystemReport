@@ -1,15 +1,17 @@
 ---
 title: "Nvidia pulls back as OpenAI builds its own silicon"
 date: 2026-09-23T00:18:06.889Z
+modified_date: 2026-09-28T19:07:31.240Z
 tags: ["nvidia","openai","ai-hardware","open-models","tech-industry"]
 hero_image: "/hero/2026-09-23-nvidia-pulls-back-as-openai-builds-its-own-silicon-938e5a.jpg"
 hero_image_credit_name: "UMA media"
 hero_image_credit_url: "https://www.pexels.com/@uma-media-2149408028"
 visual_keyword: "conference hall with NVIDIA and OpenAI logos, hardware schematics in background"
 description: "Nvidia trims its stakes in OpenAI and Anthropic while OpenAI sources its own DRAM and hires silicon talent, signaling a shift in the AI hardware race."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 ## Nvidia scales back its OpenAI and Anthropic bets
 Nvidia CEO Jensen Huang announced at the Morgan Stanley Tech, Media and Telecom conference that the company’s recent investments in OpenAI and Anthropic are likely to be its last. The comment follows a $30 billion injection into OpenAI’s $110 billion funding round, a fraction of the $100 billion pledge made last September.
@@ -42,3 +44,7 @@ RAGTheDocs is explicitly experimental and calls OpenAI’s embedding and chat en
 
 ## What to watch
 Watch Nvidia’s next earnings call for clues on inventory levels and any further reduction in OpenAI‑related revenue. Track OpenAI’s upcoming hardware announcements, especially any silicon roadmaps that could replace Nvidia GPUs in inference. Monitor regulatory filings around the Trump administration’s potential ban on Chinese open models, as that could reshape the global AI supply chain. Finally, keep an eye on the adoption curve of community RAG tools; their growth will indicate whether OpenAI’s API revenue can survive a shift toward proprietary hardware.
+
+## Updates
+
+- **2026-09-28** — OpenAI keeps bulldozing mathematicians ([source](https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group))

@@ -1,19 +1,20 @@
 ---
 title: "Motorola's 2026 Razr Lineup: Bigger, Pricier, and Still Folding"
 date: 2026-04-29T19:52:58.966Z
-modified_date: 2026-08-27T18:48:52.468Z
+modified_date: 2026-09-28T19:08:43.695Z
 tags: ["motorola","razr","foldable phones","smartphone reviews"]
 hero_image: "/hero/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.jpg"
 hero_image_credit_name: "Md Imran"
 hero_image_credit_url: "https://www.pexels.com/@im19"
 visual_keyword: "modestly upgraded foldable phone with stylus support"
 description: "Motorola's 2026 Razr lineup grows in size and cost, with new book-style foldables and native stylus support"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-29-motorola-s-2026-razr-lineup-bigger-pricier-and-still-folding-e23cb1.mp3"
 audio_bytes: 664600
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Motorola’s 2026 Razr line will begin shipping in October, with pre-orders open
 
 ## Updates
 
+- **2026-09-28** — Bose launched wired, yes, wired, earbuds with ANC for $99 ([source](https://9to5google.com/2026/09/28/bose-launched-wired-yes-wired-earbuds-with-anc-for-99/))
 - **2026-08-27** — Samsung Galaxy S26 FE vs S25 FE: Why is the new model more expensive? ([source](https://www.engadget.com/2245565/samsung-galaxy-s26-fe-vs-s25-fe-price-comparison/))
 - **2026-08-25** — Apple&#8217;s new M6 chip gets more cores and more AI compute ([source](https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio))
 - **2026-06-03** — Google releases Fitbit Air blueprints to let anyone make bands, accessories ([source](https://9to5google.com/2026/06/02/fitbit-air-blueprints/))

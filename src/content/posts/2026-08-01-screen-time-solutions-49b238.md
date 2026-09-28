@@ -1,19 +1,20 @@
 ---
 title: "Screen Time Solutions"
 date: 2026-08-01T14:57:00.951Z
-modified_date: 2026-08-04T19:25:18.360Z
+modified_date: 2026-09-28T19:10:03.044Z
 tags: ["Screen Time Management","Physical Activity","Health and Wellness"]
 hero_image: "/hero/2026-08-01-screen-time-solutions-49b238.jpg"
 hero_image_credit_name: "Ivan S"
 hero_image_credit_url: "https://www.pexels.com/@ivan-s"
 visual_keyword: "Screen Time"
 description: "Apps to reduce screen time"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-01-screen-time-solutions-49b238.mp3"
 audio_bytes: 528972
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Screen Time Management
@@ -35,4 +36,5 @@ These apps can help users manage screen time and promote physical activity. By u
 
 ## Updates
 
+- **2026-09-28** — 37,500 border drawings: a map of the world as people remember it ([source](https://www.habibicode.org/thedrawnworld))
 - **2026-08-04** — Signal’s latest iOS update expands multi-device feature for iPhone users ([source](https://9to5mac.com/2026/08/04/signals-latest-ios-update-expands-multi-device-feature-for-iphone-users/))

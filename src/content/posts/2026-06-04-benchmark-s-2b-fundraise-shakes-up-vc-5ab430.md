@@ -1,19 +1,20 @@
 ---
 title: "Benchmark's $2B Fundraise Shakes Up VC"
 date: 2026-06-04T04:30:26.665Z
-modified_date: 2026-09-25T19:46:39.161Z
+modified_date: 2026-09-28T19:09:55.773Z
 tags: ["venture capital","growth funds","Benchmark"]
 hero_image: "/hero/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "growth funds"
 description: "Benchmark raises its first growth fund as part of $2B capital raise, deviating from its traditional $425M fund size."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-04-benchmark-s-2b-fundraise-shakes-up-vc-5ab430.mp3"
 audio_bytes: 560946
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -91,6 +92,7 @@ In conclusion, Benchmark's $2 billion growth fund is a significant development i
 
 ## Updates
 
+- **2026-09-28** — Pirating the Pirates ([source](https://mubi.com/en/notebook/posts/pirating-the-pirates))
 - **2026-09-25** — Phones don’t have lights ([source](https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks))
 - **2026-09-14** — Valve&#8217;s virtual reality plans hit actual reality ([source](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact))
 - **2026-09-14** — XCancel suspended "due to a new development in the ongoing legal proceedings" ([source](https://xcancel.com/twitter))

@@ -1,15 +1,17 @@
 ---
 title: "Bumble Drops First Move Rule"
 date: 2026-08-11T14:54:53.528Z
+modified_date: 2026-09-28T19:06:40.604Z
 tags: ["Bumble","Dating Apps","Online Dating"]
 hero_image: "/hero/2026-08-11-bumble-drops-first-move-rule-50b200.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Dating App Update"
 description: "Bumble changes messaging rules"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Change
 Bumble has ditched its rule that kept men from making the first move, a policy it has enforced since its launch in 2024. This change means that either person in a match can now send the first message.
@@ -29,3 +31,7 @@ The change to Bumble's messaging policy could have significant implications for 
 Bumble's first move rule was initially implemented as a way to promote more meaningful connections between users. By requiring women to make the first move, the company aimed to reduce the number of low-quality matches and promote more respectful conversations. However, the rule also had its drawbacks, as some users found it restrictive and limiting.
 ## Market Trends
 The online dating market is highly competitive, with many apps and websites vying for users' attention. Bumble's decision to drop its first move rule may be seen as a way to stay competitive in this market, by offering users more flexibility and freedom in their interactions. As the market continues to evolve, it is likely that other dating apps will also adapt and change their policies in response to user demand.
+
+## Updates
+
+- **2026-09-28** — The iPhone Duo may already have its first killer app: a virtual Walkman ([source](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/))
