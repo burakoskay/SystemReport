@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Loses Second Executive This Week"
 date: 2026-08-13T20:37:45.299Z
-modified_date: 2026-09-16T22:33:57.118Z
+modified_date: 2026-09-29T14:33:51.637Z
 tags: ["OpenAI","Executive Departures","AI Industry"]
 hero_image: "/hero/2026-08-13-openai-loses-second-executive-this-week-81d2a1.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Denise Dresser exits as CRO"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI Executive Departures
@@ -48,4 +49,5 @@ The AI industry is highly dependent on talent and innovation, and the loss of ke
 
 ## Updates
 
+- **2026-09-29** — Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing ([source](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat))
 - **2026-09-16** — OpenAI Creates a New Framework to Disclose Bad AI Behavior ([source](https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/))

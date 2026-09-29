@@ -1,19 +1,20 @@
 ---
 title: "Peacock Partners with YouTube for Content Integration"
 date: 2026-07-28T11:55:16.268Z
-modified_date: 2026-09-10T20:20:06.476Z
+modified_date: 2026-09-29T14:34:42.624Z
 tags: ["media","streaming","partnerships"]
 hero_image: "/hero/2026-07-28-peacock-partners-with-youtube-for-content-integration-dce9be.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "YouTube"
 description: "Peacock integrates content into YouTube"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-28-peacock-partners-with-youtube-for-content-integration-dce9be.mp3"
 audio_bytes: 589576
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Deal
@@ -45,4 +46,5 @@ For example, the success of this partnership could lead to more content provider
 
 ## Updates
 
+- **2026-09-29** — You Are No Longer Invited to Dinner ([source](https://www.derekthompson.org/p/the-death-of-the-american-host))
 - **2026-09-10** — Amazon makes it easier to buy what you see on Prime Video ([source](https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/))

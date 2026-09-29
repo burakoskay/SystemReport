@@ -1,19 +1,20 @@
 ---
 title: "Apple Sued Over App Store Crypto Scam"
 date: 2026-07-28T08:28:40.935Z
-modified_date: 2026-09-11T14:01:06.272Z
+modified_date: 2026-09-29T14:33:58.895Z
 tags: ["Apple","App Store","Crypto Scam","Lawsuit","Tech Industry"]
 hero_image: "/hero/2026-07-28-apple-sued-over-app-store-crypto-scam-df86ac.jpg"
 hero_image_credit_name: "Athena Sandrini"
 hero_image_credit_url: "https://www.pexels.com/@athena"
 visual_keyword: "Apple logo with a red X marked through it"
 description: "Three users sue Apple for $1.8M in losses due to a fraudulent crypto wallet on the App Store"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-28-apple-sued-over-app-store-crypto-scam-df86ac.mp3"
 audio_bytes: 573067
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ Source material does not provide information about the filing date of the lawsui
 
 ## Updates
 
+- **2026-09-29** — The midrange Dell XPS 13 is the one you actually want ([source](https://www.engadget.com/2271030/the-midrange-dell-xps-13-is-the-one-you-actually-want/))
 - **2026-09-11** — The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch ([source](https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/))
 - **2026-08-21** — Japan tried to build an operating system for the world, the US intervened ([source](https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/))

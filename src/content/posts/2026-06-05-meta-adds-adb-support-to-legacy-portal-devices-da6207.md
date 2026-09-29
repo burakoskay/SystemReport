@@ -1,19 +1,20 @@
 ---
 title: "Meta adds ADB support to legacy Portal devices"
 date: 2026-06-05T04:15:26.413Z
-modified_date: 2026-09-09T19:02:02.470Z
+modified_date: 2026-09-29T14:33:15.175Z
 tags: ["meta","portal","adb","vr"]
 hero_image: "/hero/2026-06-05-meta-adds-adb-support-to-legacy-portal-devices-da6207.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer using Android Debug Bridge on a Meta Portal device"
 description: "Meta now lets developers use Android Debug Bridge on older Portal hardware, opening new debugging paths for VR creators."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-05-meta-adds-adb-support-to-legacy-portal-devices-da6207.mp3"
 audio_bytes: 581217
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta opens ADB on legacy Portal hardware
@@ -38,4 +39,5 @@ Developers should also monitor community forums for any security reports tied to
 
 ## Updates
 
+- **2026-09-29** — Leaked images reveal new colors for Amazon’s next entry-level Kindle ([source](https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button))
 - **2026-09-09** — iPadOS 27 launches on September 14, here are the compatible devices ([source](https://9to5mac.com/2026/09/09/ipados-27-will-be-launched-on-september-14/))

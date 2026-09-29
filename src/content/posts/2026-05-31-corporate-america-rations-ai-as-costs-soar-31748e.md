@@ -1,15 +1,17 @@
 ---
 title: "Corporate America Rations AI as Costs Soar"
 date: 2026-05-31T04:19:44.024Z
+modified_date: 2026-09-29T14:33:07.908Z
 tags: ["AI","cost management","observability"]
 hero_image: "/hero/2026-05-31-corporate-america-rations-ai-as-costs-soar-31748e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Companies struggle to manage high AI costs, leading to rationing. Torrix offers a self-hosted observability platform to track and manage AI expenses."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Soaring AI Costs Hit Corporate America
@@ -67,3 +69,7 @@ In conclusion, the challenges faced by companies in managing their AI expenses a
 The impact of AI cost management will be felt across industries, from tech to healthcare. Companies that can effectively manage their AI expenses will have a competitive advantage, while those that struggle to manage their costs may find themselves at a disadvantage.
 
 The future of AI adoption depends on the ability of companies to manage its costs. With the right tools and strategies, businesses can unlock the full potential of AI while minimizing its financial implications.
+
+## Updates
+
+- **2026-09-29** — Reco raises $55M as AI agent security startups crowd the market ([source](https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/))

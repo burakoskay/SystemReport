@@ -1,15 +1,17 @@
 ---
 title: "Open‑source runtimes and managers reshape dev ops in 2025"
 date: 2026-08-19T10:34:54.825Z
+modified_date: 2026-09-29T14:34:35.354Z
 tags: ["runtime","package-manager","storage"]
 hero_image: "/hero/2026-08-19-open-source-runtimes-and-managers-reshape-dev-ops-in-2025-df787d.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer working at a terminal with Rust code and cloud storage icons"
 description: "RunMat, Solo, Clyde and Object Mount demonstrate how niche tools are bypassing legacy bottlenecks for engineers and power users."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## RunMat's rapid ascent
 RunMat launched in August 2025 as an open‑source command‑line runtime for MATLAB‑syntax code and has already amassed 4,000 unique users. Those users have executed more than 35,000 scripts, and the built‑in library has swelled from the initial 87 functions to over 1,200 covering tables, statistics, deep learning, finance and geometry.
@@ -53,3 +55,7 @@ Clyde is adding a server‑side index that could automate checksum updates, pote
 Object Mount’s CSI driver is now available on request. If the driver gains official Kubernetes certification, we may see a wave of cloud‑native workloads mounting S3 buckets directly without FUSE, reshaping data‑pipeline architectures.
 
 Tracking the adoption metrics on GitHub stars, Hacker News comment volume, and the frequency of third‑party package releases will give a clear signal of whether these niche tools are moving from hobby projects to production‑grade components.
+
+## Updates
+
+- **2026-09-29** — US sanctions force The Netherlands off Microsoft and toward alternative NixOS ([source](https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027))

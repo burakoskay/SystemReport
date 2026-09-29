@@ -1,18 +1,20 @@
 ---
 title: "Microsoft Enters AI Security Market"
 date: 2026-07-28T13:53:24.530Z
+modified_date: 2026-09-29T14:34:20.671Z
 tags: ["Microsoft","AI Security","Cybersecurity"]
 hero_image: "/hero/2026-07-28-microsoft-enters-ai-security-market-c0309f.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "Microsoft AI Security"
 description: "Microsoft launches AI security model and platform"
-sources_count: 2
-author: "maya-chen"
+sources_count: 3
 audio_path: "/audio/2026-07-28-microsoft-enters-ai-security-market-c0309f.mp3"
 audio_bytes: 607757
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft's New AI Security Model
 Microsoft bolstered its AI cybersecurity offerings with the launch of its first AI security model and a new security platform.
@@ -60,3 +62,7 @@ The launch of Microsoft's AI security model and new security platform is a devel
 The company's claims about the tools will be subject to scrutiny.
 Microsoft's tools are part of its AI cybersecurity offerings.
 It will be important to monitor the performance and effectiveness of these tools, as well as the company's future plans for developing and expanding its AI security capabilities.
+
+## Updates
+
+- **2026-09-29** — Reminders just got more powerful, here’s what’s new in iOS 27 ([source](https://9to5mac.com/2026/09/29/heres-everything-new-for-reminders-in-ios-27/))

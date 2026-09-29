@@ -1,19 +1,20 @@
 ---
 title: "Pixel 11 Leaks Detail Storage, Battery Boost, UK Price Shift"
 date: 2026-07-28T13:58:30.195Z
-modified_date: 2026-09-11T17:42:31.571Z
+modified_date: 2026-09-29T14:34:06.169Z
 tags: ["Google","Pixel","Smartphone","Hardware","Leaks"]
 hero_image: "/hero/2026-07-28-pixel-11-leaks-detail-storage-battery-boost-uk-price-shift-c82484.jpg"
 hero_image_credit_name: "Sebastian Luna"
 hero_image_credit_url: "https://www.pexels.com/@sebastian-luna-736234668"
 visual_keyword: "smartphone hardware"
 description: "Recent leaks detail Google's Pixel 11 upgrades: bigger batteries, higher starting storage. Price increase rumors circulate, with a unique 'technical drop' in UK pricing."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-28-pixel-11-leaks-detail-storage-battery-boost-uk-price-shift-c82484.mp3"
 audio_bytes: 587904
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Google's upcoming Pixel 11 will feature higher starting storage and larger battery capacities, according to recent leaks reported by Engadget and 9to5Google. These hardware bumps accompany general price increase rumors, though UK pricing for some configurations is expected to see a technical drop. This combination of foundational upgrades and complex pricing strategy sets the stage for Google's next major smartphone launch. A launch event for the Google Pixel 11 is anticipated, where these rumored details will be officially confirmed or denied, and Google's rationale for its latest device articulated. 
@@ -58,4 +59,5 @@ The reception of the Pixel 11 will dictate Google's momentum in the premium smar
 
 ## Updates
 
+- **2026-09-29** — Is the Google Pixel 8 still worth buying in 2026? ([source](https://www.engadget.com/2270492/is-google-pixel-8-still-worth-buying/))
 - **2026-09-11** — Walmart restocks $60 Onn 4K Pro for many following Google TV Streamer price hike ([source](https://9to5google.com/2026/09/11/walmat-onn-4k-pro-restock-september/))

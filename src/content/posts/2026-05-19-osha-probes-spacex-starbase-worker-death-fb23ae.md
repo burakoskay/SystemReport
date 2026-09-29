@@ -1,16 +1,17 @@
 ---
 title: "OSHA Probes SpaceX Starbase Worker Death"
 date: 2026-05-19T11:28:51.973Z
-modified_date: 2026-06-03T23:48:48.349Z
+modified_date: 2026-09-29T14:33:44.382Z
 tags: ["SpaceX","OSHA","Worker Safety"]
 hero_image: "/hero/2026-05-19-osha-probes-spacex-starbase-worker-death-fb23ae.jpg"
 hero_image_credit_name: "Jeswin  Thomas"
 hero_image_credit_url: "https://www.pexels.com/@jeswin"
 visual_keyword: "SpaceX Starbase facility"
 description: "OSHA investigates worker death at SpaceX's Starbase site, where injury rates are higher than other SpaceX facilities."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,4 +55,5 @@ The source material does not provide details about the deceased worker or the sp
 
 ## Updates
 
+- **2026-09-29** — Polaroid’s new instant camera has four creative shooting modes you can experiment with ([source](https://www.theverge.com/tech/1001587/polaroid-mod-instant-camera-creative-shooting-modes))
 - **2026-06-03** — Trump plan to test AI models has a problem—US security teams were gutted by DOGE ([source](https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/))
