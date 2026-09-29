@@ -1,16 +1,17 @@
 ---
 title: "Apple's CEO Succession and the Quest for Vertical Integration"
 date: 2026-04-20T20:42:06.124Z
-modified_date: 2026-09-13T18:29:35.738Z
+modified_date: 2026-09-29T07:47:08.945Z
 tags: ["apple","ceo","vertical integration","chip design"]
 hero_image: "/hero/2026-04-20-apple-s-ceo-succession-and-the-quest-for-vertical-integration-744a82.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Tim Cook and John Ternus"
 description: "Tim Cook steps down as Apple CEO, John Ternus takes over. What does this mean for Apple's future in vertical integration and chip design?"
-sources_count: 9
+sources_count: 10
 author: "priya-raman"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ What to watch: Apple's chip design efforts will be closely watched in the coming
 
 ## Updates
 
+- **2026-09-29** — California farmers are struggling to sell grapes as demand for wine drops ([source](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops))
 - **2026-09-13** — Are Apple's wired EarPods still worth buying? ([source](https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/))
 - **2026-08-01** — Review: Yes, we're still arguing about Nolan's The Odyssey ([source](https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/))
 - **2026-05-25** — Google’s official cases for the entire Pixel 10 series are on sale right now ([source](https://9to5google.com/2026/05/25/google-pixel-10-cases-discount/))

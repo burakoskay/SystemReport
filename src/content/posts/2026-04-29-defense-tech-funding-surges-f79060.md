@@ -1,16 +1,17 @@
 ---
 title: "Defense Tech Funding Surges"
 date: 2026-04-29T14:13:29.160Z
-modified_date: 2026-09-27T07:28:22.095Z
+modified_date: 2026-09-29T07:46:44.661Z
 tags: ["Defense Tech","AI","Industrial Tech"]
 hero_image: "/hero/2026-04-29-defense-tech-funding-surges-f79060.jpg"
 hero_image_credit_name: "Aleson Padilha"
 hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The investment in defense technology is likely to continue, driven by the increa
 
 ## Updates
 
+- **2026-09-29** — Nothing Headphone (1) Pro are $399 with better hardware, ANC, and audio upgrades ([source](https://9to5google.com/2026/09/28/nothing-headphone-1-pro-upgrades-price/))
 - **2026-09-27** — These are the best MacBook deals right now: September 2026 Buyer’s Guide ([source](https://9to5mac.com/2026/09/26/these-are-the-best-macbook-deals/))
 - **2026-09-09** — Security Bite Podcast: What’s hitting Macs so far in 2026, plus OBTS v9 preview (Part 2) ([source](https://9to5mac.com/2026/09/09/security-bite-podcast-whats-hitting-macs-so-far-in-2026-plus-obts-v9-preview-part-2/))
 - **2026-08-19** — And then the men with guns tell you to do it anyway ([source](https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/))

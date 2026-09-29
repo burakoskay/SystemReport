@@ -1,16 +1,17 @@
 ---
 title: "Truecaller Cuts 70 Jobs Amid 44% Ad Revenue Decline"
 date: 2026-05-08T17:26:06.992Z
-modified_date: 2026-05-29T15:51:41.372Z
+modified_date: 2026-09-29T07:46:28.470Z
 tags: ["Truecaller","Ad Revenue","Layoffs"]
 hero_image: "/hero/2026-05-08-truecaller-cuts-70-jobs-amid-44-ad-revenue-decline-11f86b.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Job Cuts"
 description: "Truecaller lays off 70 employees due to ad revenue drop"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to the Crisis
@@ -32,4 +33,5 @@ The regulatory environment is also playing a role in the decline of ad revenue. 
 
 ## Updates
 
+- **2026-09-29** — Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity ([source](https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/))
 - **2026-05-29** — At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal ([source](https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale))
