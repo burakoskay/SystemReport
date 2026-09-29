@@ -1,18 +1,20 @@
 ---
 title: "OpenAI drops $1B Cursor deal to sidestep Musk’s SpaceX"
 date: 2026-09-03T22:16:00.097Z
+modified_date: 2026-09-29T20:24:22.025Z
 tags: ["openai","ai-tools","privacy"]
 hero_image: "/hero/2026-09-03-openai-drops-1b-cursor-deal-to-sidestep-musk-s-spacex-45ae4c.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "modern office desk with laptop displaying AI code assistant interface"
 description: "OpenAI walked away from a billion‑dollar partnership after SpaceX bought Cursor, citing conflict concerns while privacy probes loom."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-09-03-openai-drops-1b-cursor-deal-to-sidestep-musk-s-spacex-45ae4c.mp3"
 audio_bytes: 565543
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 OpenAI ended a potential $1 billion‑a‑year partnership with Cursor after SpaceX, Elon Musk’s aerospace firm, bought the AI coding startup. The move signals a willingness to forgo short‑term revenue to keep the company’s strategic direction independent.
 
@@ -55,3 +57,7 @@ The privacy probe overlaps with the company’s partnership decisions. A high‑
 ## What to watch
 
 Track OpenAI’s next partnership announcements for signs of a revised risk appetite. Watch the Canadian privacy commissioners’ final report for any enforcement actions. Monitor Rowboat’s adoption metrics, especially enterprise uptake, as a barometer for demand for open‑source AI coworkers. The convergence of revenue considerations, strategic independence, and regulatory pressure will shape how OpenAI balances growth against governance.
+
+## Updates
+
+- **2026-09-29** — OpenAI Gets Sued Over the Hugging Face Hack ([source](https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/))

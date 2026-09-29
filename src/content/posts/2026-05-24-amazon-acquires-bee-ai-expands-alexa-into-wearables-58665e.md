@@ -1,19 +1,20 @@
 ---
 title: "Amazon Acquires Bee AI, Expands Alexa into Wearables"
 date: 2026-05-24T15:09:38.224Z
-modified_date: 2026-07-27T11:14:56.514Z
+modified_date: 2026-09-29T20:26:15.472Z
 tags: ["Amazon","Wearable Technology","Artificial Intelligence"]
 hero_image: "/hero/2026-05-24-amazon-acquires-bee-ai-expands-alexa-into-wearables-58665e.jpg"
 hero_image_credit_name: "Ivo Brasil"
 hero_image_credit_url: "https://www.pexels.com/@ivo-brasil-335441"
 visual_keyword: "Amazon"
 description: "Amazon buys Bee AI, releases Alexa Mobile Accessory Kit for wearables"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-24-amazon-acquires-bee-ai-expands-alexa-into-wearables-58665e.mp3"
 audio_bytes: 612564
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,4 +50,5 @@ In conclusion, Amazon's acquisition of Bee AI and release of the Alexa Mobile Ac
 
 ## Updates
 
+- **2026-09-29** — This might be our first look at Google’s Pixel 11A ([source](https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look))
 - **2026-07-27** — Europe got its own TBPN-style live show, and everyone’s angling for a guest spot ([source](https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/))

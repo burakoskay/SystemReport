@@ -1,16 +1,17 @@
 ---
 title: "Anthropic Surpasses OpenAI in Valuation"
 date: 2026-05-30T15:13:56.924Z
-modified_date: 2026-09-06T19:52:44.478Z
+modified_date: 2026-09-29T20:24:00.676Z
 tags: ["AI","startups","valuation"]
 hero_image: "/hero/2026-05-30-anthropic-surpasses-openai-in-valuation-d3e3a1.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Anthropic now leads OpenAI in valuation"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ To sustain its valuation and growth, Anthropic will need to continue delivering 
 
 ## Updates
 
+- **2026-09-29** — OpenAI repotedly in talks to raise $30B round at $1.4T valuation ([source](https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/))
 - **2026-09-06** — OpenAI says it reached its goal of creating an automated research intern ([source](https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/))
 - **2026-06-03** — SwitchBot’s acquisition of Nanoleaf is about more than lighting ([source](https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics))

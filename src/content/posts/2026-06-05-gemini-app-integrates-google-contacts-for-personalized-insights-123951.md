@@ -1,19 +1,20 @@
 ---
 title: "Gemini App Integrates Google Contacts for Personalized Insights"
 date: 2026-06-05T23:16:58.390Z
-modified_date: 2026-08-27T18:47:34.833Z
+modified_date: 2026-09-29T20:24:57.629Z
 tags: ["Google","Gemini App","Google Contacts","AI-driven Applications"]
 hero_image: "/hero/2026-06-05-gemini-app-integrates-google-contacts-for-personalized-insights-123951.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Contacts"
 description: "Google's Gemini app now integrates with Google Contacts to provide users with personalized insights and responses based on their contacts."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-05-gemini-app-integrates-google-contacts-for-personalized-insights-123951.mp3"
 audio_bytes: 621550
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ In the coming months, it will be interesting to see how users respond to this in
 
 ## Updates
 
+- **2026-09-29** — Pixel Watch 4 & 5’s handy USB-C travel charger is currently on sale ([source](https://9to5google.com/2026/09/29/pixel-watch-4-5s-handy-usb-c-travel-charger-is-currently-on-sale/))
 - **2026-08-27** — The Best Google Pixel Phones of 2026: Comparison, Features, and Accessories ([source](https://www.wired.com/story/best-google-pixel-phone/))

@@ -1,15 +1,17 @@
 ---
 title: "AI race, data breach, and new browsing tool raise tech tension"
 date: 2026-07-30T21:06:01.567Z
+modified_date: 2026-09-29T20:24:14.945Z
 tags: ["ai","cybersecurity","hardware","software"]
 hero_image: "/hero/2026-07-30-ai-race-data-breach-and-new-browsing-tool-raise-tech-tension-0d36c1.jpg"
 hero_image_credit_name: "Jun Wai Chin"
 hero_image_credit_url: "https://www.pexels.com/@lmnjun"
 visual_keyword: "futuristic desk with AI hologram, medical file, phone case, and Chrome browser window"
 description: "OpenAI and Anthropic's AI speed, a CareCloud breach, pricey phone cases, and Gemini Spark's Chrome browsing update illustrate rising tech stakes."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 ## AI speed outpaces oversight
 
@@ -38,6 +40,10 @@ The auto‑browse feature blurs the line between assistant and autonomous agent.
 ## What to watch
 
 Regulators will likely scrutinize the AI race for signs of unsafe deployment, especially as models gain browsing autonomy. Watch for any formal guidance from the FTC or EU on AI ownership and accountability. In the healthcare arena, monitor CareCloud’s response to the breach and any class‑action filings that may follow. For consumers, track upcoming benchmark tests that compare phone case performance across price tiers. Finally, keep an eye on how Gemini Spark’s auto‑browse handles content moderation as it scales globally.
+
+## Updates
+
+- **2026-09-29** — After losing his voice to cancer, this founder is building ‘glasses for voice’ ([source](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/))
 
 [^1]: [thehindu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQYJ47_q_gMocNAMv8LvTaAzSDO3Cx2stHXJfkoFmwllHyiqOqHv_ilDR5US_TwnVSfYeyuvQ_getYnFDP4Z5zE2Z3IaIvNF_aWbDGmrfKEQr0MQnKh6uXoQ9D-fWmfSLqQ_aau6Jiph-GIDElAF1ZQJvcBvuLwTcc3z8vAp456jMwoXbU84KDE0gG7SPe0AgfNXR2ztYYlQJw8ZQwWrIVgGnF7sS3KLy-sQ3JbliFghCZ)
 [^2]: [kelo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8SmW5vdnXSMcBux43_g6Bn2jmoYyPj2RInziOJBv-WVghVDLOQNuyHCISPIKXMMq75j0o12QOVnl48RTfGt6PLktya94yWZQ5gKfUt9d1koG7i-t8Rgar_u8NfTgT8KwSHTRQg8Sp8V1Z8shiVsNU0JhwixN9RCI3XK2rX5Vhxmq4-2WvASDmN89_DWjaexoYJ0JtWGbAiPqEyf7uY1pTi6cba-1l)

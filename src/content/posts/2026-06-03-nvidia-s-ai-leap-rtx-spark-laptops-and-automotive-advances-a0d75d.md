@@ -1,19 +1,20 @@
 ---
 title: "Nvidia's AI Leap: RTX Spark Laptops and Automotive Advances"
 date: 2026-06-03T11:13:37.105Z
-modified_date: 2026-09-16T19:20:02.702Z
+modified_date: 2026-09-29T20:24:36.378Z
 tags: ["AI","Nvidia","RTX Spark","Autonomous Vehicles"]
 hero_image: "/hero/2026-06-03-nvidia-s-ai-leap-rtx-spark-laptops-and-automotive-advances-a0d75d.jpg"
 hero_image_credit_name: "Foysal Ahmed"
 hero_image_credit_url: "https://www.pexels.com/@foysal-ahmed-2102283"
 visual_keyword: "Nvidia RTX Spark Laptop"
 description: "Nvidia pushes boundaries with RTX Spark laptops and automotive AI tech"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-03-nvidia-s-ai-leap-rtx-spark-laptops-and-automotive-advances-a0d75d.mp3"
 audio_bytes: 621341
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ In conclusion, Nvidia's recent advancements in AI technology are transforming va
 
 ## Updates
 
+- **2026-09-29** — Xbox just unveiled Mythic Achievements, which are basically PlayStation platinum trophies ([source](https://www.engadget.com/2272478/xbox-mythic-achievements-are-here/))
 - **2026-09-16** — 9to5Mac Daily: September 16, 2026 – macOS 27 Golden Gate features ([source](https://9to5mac.com/2026/09/16/daily-september-16-2026/))

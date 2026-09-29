@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-09-28T19:07:38.507Z
+modified_date: 2026-09-29T20:24:07.899Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 32
+sources_count: 33
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-09-29** — Can a chatbot fix the government maze? The White House is about to find out ([source](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/))
 - **2026-09-28** — Volkswagen replaces ID.4 with all-electric Tiguan ([source](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev))
 - **2026-09-05** — Explore the globe in field recordings ([source](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings))
 - **2026-09-03** — Hohem’s tiny steadycam has a removable action cam ([source](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam))

@@ -1,19 +1,20 @@
 ---
 title: "Synthetic Turf, Gas Stoves, and Cyborg Cells: Health Risks Rise"
 date: 2026-05-08T23:06:54.166Z
-modified_date: 2026-09-27T22:45:50.347Z
+modified_date: 2026-09-29T20:25:54.296Z
 tags: ["environment","health","technology","policy"]
 hero_image: "/hero/2026-05-08-synthetic-turf-gas-stoves-and-cyborg-cells-health-risks-rise-9939cc.jpg"
 hero_image_credit_name: "Tom Van Dyck"
 hero_image_credit_url: "https://www.pexels.com/@tom-van-dyck-423949093"
 visual_keyword: "synthetic turf field under scorching sun"
 description: "California’s turf boom, a contested gas‑stove study, and UC‑Davis cyborg cells spotlight growing health debates around new technologies."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-08-synthetic-turf-gas-stoves-and-cyborg-cells-health-risks-rise-9939cc.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Watch the L.A. City Council’s October hearing on artificial‑turf bans; the o
 
 ## Updates
 
+- **2026-09-29** — AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’ ([source](https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews))
 - **2026-09-27** — BYD says its new solid-state EV battery tech is nearly ready for the open road ([source](https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/))
 - **2026-09-18** — The Leftist Split Over AI Doom ([source](https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/))
 - **2026-09-06** — An Amazon cargo plane crashed at Miami International Airport ([source](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami))

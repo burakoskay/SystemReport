@@ -1,16 +1,17 @@
 ---
 title: "Human Brain Organoids Form Eyes and Power Early Wetware Computers"
 date: 2026-08-11T12:56:16.775Z
-modified_date: 2026-09-04T17:21:24.337Z
+modified_date: 2026-09-29T20:26:22.571Z
 tags: ["organoids","biocomputing","neuroscience"]
 hero_image: "/hero/2026-08-11-human-brain-organoids-form-eyes-and-power-early-wetware-computers-67ca33.jpg"
 hero_image_credit_name: "turek"
 hero_image_credit_url: "https://www.pexels.com/@turek3024"
 visual_keyword: "microscopic view of human brain organoids with tiny eye structures and electrode wires"
 description: "Lab-grown mini-brains now grow rudimentary eyes and serve as living processors, sparking technical hurdles and ethical debate."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ The next milestones will be public. Watch for a peer‑reviewed report on extend
 
 ## Updates
 
+- **2026-09-29** — GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price ([source](https://openai.com/index/introducing-gpt-6-1-sol/))
 - **2026-09-04** — Deals: Galaxy S26 FE + FREE $200 Amazon gift card, Fold 8 Ultra up to $600 off, LG 65-inch OLED TV $800 off, more ([source](https://9to5google.com/2026/09/04/deals-galaxy-s26-fe-amazon-gift-card-fold-8-ultra/))
 - **2026-08-25** — Border Wall Construction Threatens 6,000 Years of History on Private Lands ([source](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/))
 - **2026-08-13** — The web’s newest weapon against AI scrapers is a font ([source](https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/))
