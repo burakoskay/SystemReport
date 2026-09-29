@@ -1,15 +1,17 @@
 ---
 title: "Apple deprecates hdiutil as designers get Figmimic shortcut"
 date: 2026-08-24T06:47:32.156Z
+modified_date: 2026-09-29T00:10:03.256Z
 tags: ["apple","figma","netbsd","python"]
 hero_image: "/hero/2026-08-24-apple-deprecates-hdiutil-as-designers-get-figmimic-shortcut-5eab70.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer workstation with macOS terminal and Figma interface"
 description: "Apple drops hdiutil in macOS 27 Golden Gate while Figmimic lets designers pull web pages into Figma, sparking debate over legacy tools and modern workflows."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 Apple stripped hdiutil from macOS 27 Golden Gate, and a new Figmimic bookmarklet now copies any webpage into Figma as editable layers. The moves expose a clash between aging system utilities and the push for frictionless design pipelines.
 
@@ -42,3 +44,7 @@ What sets the resource apart is its focus on mental models rather than language 
 ## What to Watch
 
 Apple’s next beta of macOS 27 Golden Gate will likely reveal whether a Swift‑based replacement for hdiutil lands in the developer tools bundle. Keep an eye on the WWDC session recordings for any mention of disk‑image APIs. Figmimic’s author hinted at upcoming support for component libraries and SVG export; a beta release is expected in the next few weeks. Finally, the NetBSD thread may revive interest in portable Unix systems as the industry debates container‑native versus VM‑native workloads. Tracking the next round of comments on these Hacker News posts will give a pulse on how the community adapts to the shifting toolchain landscape.
+
+## Updates
+
+- **2026-09-29** — The problem is not AI code, but not knowing about system architecture or intent ([source](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/))

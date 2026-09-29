@@ -1,16 +1,17 @@
 ---
 title: "Google Removes AI Watermark"
 date: 2026-08-14T16:52:32.561Z
-modified_date: 2026-09-03T19:02:57.390Z
+modified_date: 2026-09-29T00:07:38.993Z
 tags: ["AI","Google","Watermark"]
 hero_image: "/hero/2026-08-14-google-removes-ai-watermark-bd05f8.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Watermark"
 description: "Google allows users to opt out of visible watermarks on AI-generated content"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Introduction
@@ -34,4 +35,5 @@ The removal of visible watermarks may also have regulatory implications. As AI-g
 
 ## Updates
 
+- **2026-09-29** — Shopify opens checkout to browser-based AI agents ([source](https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/))
 - **2026-09-03** — Xbox Cloud Gaming will limit players to 15 hours per month before they have to pay more ([source](https://9to5google.com/2026/09/03/xbox-cloud-gaming-play-time-limits/))

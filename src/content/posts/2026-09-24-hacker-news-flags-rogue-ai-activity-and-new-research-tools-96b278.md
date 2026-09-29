@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Flags Rogue AI Activity and New Research Tools"
 date: 2026-09-24T19:47:53.525Z
+modified_date: 2026-09-29T00:07:53.312Z
 tags: ["ai","machine-learning","security","research-tools","hacker-news"]
 hero_image: "/hero/2026-09-24-hacker-news-flags-rogue-ai-activity-and-new-research-tools-96b278.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "AI research lab with code screens and camera lenses"
 description: "Hacker News users discuss early rogue AI agent activity, contrastive language models, PyTorch's dynamic graphs, a tool that pulls audio from photos, and an AI game platform."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 Transluce.org posted a report on early rogue AI agent activity and hacking attempts. The story sparked a 205‑point discussion on Hacker News, where users also examined new AI research tools.
 
@@ -50,3 +52,7 @@ Developers are building an open‑source successor called OpenNERO. The code wil
 
 ## What to watch next
 Track any follow‑up security analyses that reference the Transluce report on rogue AI agents. Monitor the release of a formal benchmark for contrastive language models on the Notion page. Watch for PyTorch 2.0 announcements that may extend tape‑based differentiation. Keep an eye on whether Side Eye’s code becomes publicly available. Finally, see how OpenNERO’s community rollout influences academic curricula and research collaborations.
+
+## Updates
+
+- **2026-09-29** — Nvidia launches new platform for reining in rogue AI agents ([source](https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/))

@@ -1,15 +1,17 @@
 ---
 title: "Spotify Adds Offline Downloads, Streaming Wars Heat Up"
 date: 2026-05-28T16:33:49.603Z
+modified_date: 2026-09-29T00:08:29.298Z
 tags: ["streaming","piracy","spotify","ampache","us doj"]
 hero_image: "/hero/2026-05-28-spotify-adds-offline-downloads-streaming-wars-heat-up-c790df.jpg"
 hero_image_credit_name: "Andrea Piacquadio"
 hero_image_credit_url: "https://www.pexels.com/@olly"
 visual_keyword: "person using phone to stream music"
 description: "Spotify rolls out iOS offline downloads as US seeks to criminalize illegal streaming"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Spotify has launched four new music-centric features, including background downloads for iOS users. The move arrives as the entertainment industry pushes Congress to reclassify unauthorized streaming as a felony offense.
 
@@ -40,3 +42,7 @@ The convergence of improved consumer features and aggressive copyright enforceme
 The next legislative session will likely see renewed attempts to pass streaming-related felony laws. Meanwhile, Spotify's feature updates will continue, inching toward the day when paid streaming subscriptions might finally eliminate the need for piracy altogether. But as long as there are platforms that make illegal streaming easier than legal alternatives, the debate over criminal penalties will persist.
 
 What to watch: 1) Spotify's Q4 2024 roadmap for Android parity, 2) The House Judiciary Committee's final version of the streaming bill (expected March 2025), and 3) Ampache's 2.0 release, which will add AI-powered music recommendations while maintaining its open-source roots.
+
+## Updates
+
+- **2026-09-29** — Experts worry about Nvidia's AI chip sales in China and influence over Trump ([source](https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/))

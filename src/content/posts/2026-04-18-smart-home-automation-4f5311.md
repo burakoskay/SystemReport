@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-09-28T19:06:33.245Z
+modified_date: 2026-09-29T00:09:05.228Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-09-29** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/28/september-2026-google-system-updates/))
 - **2026-09-28** — Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner ([source](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/))
 - **2026-09-22** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/21/september-2026-google-system-updates/))
 - **2026-09-15** — What’s new in Android’s September 2026 Google System Updates [U] ([source](https://9to5google.com/2026/09/14/september-2026-google-system-updates/))

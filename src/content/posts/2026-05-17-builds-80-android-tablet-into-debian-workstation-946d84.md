@@ -1,16 +1,17 @@
 ---
 title: "Builds $80 Android tablet into Debian workstation"
 date: 2026-05-17T21:09:45.084Z
-modified_date: 2026-08-25T20:22:43.867Z
+modified_date: 2026-09-29T00:08:07.739Z
 tags: ["linux","arm","devops"]
 hero_image: "/hero/2026-05-17-builds-80-android-tablet-into-debian-workstation-946d84.jpg"
 hero_image_credit_name: "Kawê  Rodrigues"
 hero_image_credit_url: "https://www.pexels.com/@kawerodriguess"
 visual_keyword: "engineer using a small tablet as a Linux workstation on a desk"
 description: "A hobbyist repurposes a cheap RK3562 tablet for Debian, showing how low‑cost hardware can become a usable Linux dev box."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,5 +33,6 @@ Looking ahead, the success of this hack could spur more manufacturers to ship ta
 
 ## Updates
 
+- **2026-09-29** — Bose starts adding Auracast to its headphones ([source](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support))
 - **2026-08-25** — Dreame’s dream of a rocket-powered car is dead ([source](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down))
 - **2026-05-24** — Whatever the mirror test tells us, beluga whales pass it ([source](https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/))

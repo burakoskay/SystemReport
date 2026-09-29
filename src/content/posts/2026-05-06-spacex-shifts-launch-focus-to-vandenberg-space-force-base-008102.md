@@ -1,16 +1,17 @@
 ---
 title: "SpaceX Shifts Launch Focus to Vandenberg Space Force Base"
 date: 2026-05-06T23:00:52.638Z
-modified_date: 2026-08-10T03:48:39.037Z
+modified_date: 2026-09-29T00:09:48.811Z
 tags: ["spacex","elon-musk","ipo","tesla","mars-colonization"]
 hero_image: "/hero/2026-05-06-spacex-shifts-launch-focus-to-vandenberg-space-force-base-008102.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "rocket launch at Vandenberg Space Force Base"
 description: "SpaceX's strategic pivot to Vandenberg marks a new phase in its launch cadence."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 ## SpaceX's Strategic Shift to Vandenberg
@@ -43,4 +44,5 @@ The next critical inflection point will be SpaceX's first crewed Starship missio
 
 ## Updates
 
+- **2026-09-29** — MicroLLM Lab – Try 7 tiny LLM's in the browser ([source](https://stateofutopia.com/experiments/microllmlab/))
 - **2026-08-10** — Cool URIs Don't Change (1998) ([source](https://www.w3.org/Provider/Style/URI))
