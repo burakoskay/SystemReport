@@ -1,19 +1,20 @@
 ---
 title: "TikTok doc, Netflix FIFA game, and Apple Wallet keys reshape tech"
 date: 2026-06-05T04:14:34.157Z
-modified_date: 2026-08-07T10:47:10.445Z
+modified_date: 2026-09-30T14:37:30.914Z
 tags: ["tech","media","gaming","security","policy"]
 hero_image: "/hero/2026-06-05-tiktok-doc-netflix-fifa-game-and-apple-wallet-keys-reshape-tech-4bb0f2.jpg"
 hero_image_credit_name: "Anh Lee"
 hero_image_credit_url: "https://www.pexels.com/@anhleephoto"
 visual_keyword: "collage of TikTok logo, FIFA soccer ball, Apple Wallet with hotel key"
 description: "A documentary on TikTok's politicization, Netflix's FIFA Launch Edition, and Salto's Apple Wallet hotel keys illustrate shifting tech battles."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-05-tiktok-doc-netflix-fifa-game-and-apple-wallet-keys-reshape-tech-4bb0f2.mp3"
 audio_bytes: 577037
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ Watch the congressional hearings slated for the fall as lawmakers reference the 
 
 ## Updates
 
+- **2026-09-30** — Some Pixel models reportedly experiencing an NFC bug that breaks contactless payments ([source](https://9to5google.com/2026/09/30/google-pixel-experiencing-nfc-bug-breaking-tap-to-pay/))
 - **2026-08-07** — Meta ordered to pay an additional $567 million in public nuisance ruling ([source](https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance))
 - **2026-07-31** — VC-backed startups commit more fraud, and researchers think they know why ([source](https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/))

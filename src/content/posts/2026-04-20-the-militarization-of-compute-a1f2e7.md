@@ -1,18 +1,19 @@
 ---
 title: "The Militarization of Compute"
 date: 2026-04-20T08:00:00.000Z
-modified_date: 2026-08-20T20:22:09.541Z
+modified_date: 2026-09-30T14:37:23.702Z
 tags: ["editorial","geopolitics","ai infrastructure","data centers","hormuz","middle east"]
 hero_image: "/hero/2026-04-20-the-militarization-of-compute-a1f2e7.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "container ship silhouette crossing a narrow strait at dusk, distant refinery flares and data-center roofs on the horizon, cinematic"
 description: "Drone-struck AWS data centers and a closed strait end the era of treating hyperscale compute as benign real estate. The compute-state has replaced the petro-state."
-sources_count: 84
+sources_count: 85
 dek: "How the ceasefire collapse in the Strait of Hormuz upends global AI infrastructure."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -205,6 +206,7 @@ The technology industry must formally abandon the illusion of geopolitical neutr
 
 ## Updates
 
+- **2026-09-30** — Sony implements a lottery system to deal with the PS5 Pro shortage in Japan ([source](https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/))
 - **2026-08-20** — The Genesis GV90 blows the bloody doors off what’s possible in EV design ([source](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor))
 - **2026-06-07** — The circus freaks of open source ([source](https://drewdevault.com/blog/Circus-freaks-of-FOSS/))
 - **2026-06-05** — Ultra-processed foods in the global food system: The role of tobacco companies ([source](https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501))

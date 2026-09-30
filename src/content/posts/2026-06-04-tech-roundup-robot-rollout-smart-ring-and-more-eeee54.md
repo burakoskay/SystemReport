@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup: Robot Rollout, Smart Ring, and More"
 date: 2026-06-04T15:27:33.612Z
-modified_date: 2026-09-29T14:34:27.976Z
+modified_date: 2026-09-30T14:36:18.892Z
 tags: ["robotics","wearable technology","Google Photos"]
 hero_image: "/hero/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "robot"
 description: "Silicon Valley's robot push, Oura's slimmer smart ring, and Google Photos update for digital frames."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-06-04-tech-roundup-robot-rollout-smart-ring-and-more-eeee54.mp3"
 audio_bytes: 619251
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -84,6 +85,7 @@ The future of the tech industry will be shaped by a number of trends, including 
 
 ## Updates
 
+- **2026-09-30** — Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones ([source](https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features))
 - **2026-09-29** — Feature Request: One change for the most important use of Notify Me ([source](https://9to5mac.com/2026/09/29/feature-request-one-change-for-the-most-important-use-of-notify-me/))
 - **2026-09-24** — The vibes are bad for Flock in Washington ([source](https://www.theverge.com/policy/1000005/flock-senate-hearing))
 - **2026-09-03** — Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day ([source](https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale))

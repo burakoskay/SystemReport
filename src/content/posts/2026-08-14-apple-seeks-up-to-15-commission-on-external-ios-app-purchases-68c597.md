@@ -1,16 +1,17 @@
 ---
 title: "Apple Seeks Up to 15% Commission on External iOS App Purchases"
 date: 2026-08-14T18:46:52.371Z
-modified_date: 2026-08-29T00:25:30.160Z
+modified_date: 2026-09-30T14:35:42.869Z
 tags: ["Apple","App Store","Commissions"]
 hero_image: "/hero/2026-08-14-apple-seeks-up-to-15-commission-on-external-ios-app-purchases-68c597.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Apple"
 description: "Apple proposes commission on external iOS app purchases"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to the Proposal
@@ -55,4 +56,5 @@ The proposed commission could also have implications for the wider tech industry
 
 ## Updates
 
+- **2026-09-30** — Charter Space raises $5M to bring insurance to the stars ([source](https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/))
 - **2026-08-29** — WhatsApp rolls out new chat themes on iOS, including animated wallpapers ([source](https://9to5mac.com/2026/08/28/whatsapp-rolls-out-new-chat-themes-on-ios-including-animated-wallpapers/))

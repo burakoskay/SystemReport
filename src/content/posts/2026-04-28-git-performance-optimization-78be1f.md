@@ -1,16 +1,17 @@
 ---
 title: "Git Performance Optimization"
 date: 2026-04-28T10:21:18.268Z
-modified_date: 2026-08-07T20:35:20.690Z
+modified_date: 2026-09-30T14:37:16.566Z
 tags: ["Git","Performance Optimization","Security"]
 hero_image: "/hero/2026-04-28-git-performance-optimization-78be1f.jpg"
 hero_image_credit_name: "Myburgh Roux"
 hero_image_credit_url: "https://www.pexels.com/@myburgh"
 visual_keyword: "Git Performance"
 description: "GTFOBins and High Performance Git discussions"
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 
 
@@ -43,5 +44,6 @@ The community engagement around High Performance Git and GTFOBins is a clear ind
 
 ## Updates
 
+- **2026-09-30** — Amazon unveils a thinner and faster Fire TV Stick 4K, plus a new remote ([source](https://www.engadget.com/2272834/amazon-unveils-a-thinner-and-faster-fire-tv-stick-4k-plus-a-new-remote/))
 - **2026-08-07** — New official 30th anniversary Quake mission pack adds new maps and mechanics ([source](https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/))
 - **2026-05-30** — Pixel Watch fixes ‘Find My Phone’ app crash, ECG app still broken [Video] ([source](https://9to5google.com/2026/05/30/google-pixel-watch-find-my-phone-ecg-app-issues/))

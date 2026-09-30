@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Shift: Top Execs Depart as Company Refocuses on Enterprise AI"
 date: 2026-04-18T01:04:41.771Z
-modified_date: 2026-09-03T08:28:20.729Z
+modified_date: 2026-09-30T14:35:28.499Z
 tags: ["ai","openai","enterprise"]
 hero_image: "/hero/2026-04-18-openai-s-shift-top-execs-depart-as-company-refocuses-on-enterprise-ai-ed4924.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"
 description: "OpenAI's pivot towards enterprise AI leads to key departures"
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ OpenAI, the company behind the revolutionary ChatGPT, is undergoing a significan
 
 ## Updates
 
+- **2026-09-30** — Restate lands $20M as the need for durable infrastructure increases with AI agents ([source](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/))
 - **2026-09-03** — The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen ([source](https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/))
 - **2026-08-06** — OpenAI updating ChatGPT with a smarter GPT-5.6 Sol and unlimited free chats ([source](https://9to5mac.com/2026/08/06/openai-updating-chatgpt-with-a-smarter-gpt-5-6-sol-and-unlimited-free-chats/))
 - **2026-08-06** — OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’ ([source](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request))

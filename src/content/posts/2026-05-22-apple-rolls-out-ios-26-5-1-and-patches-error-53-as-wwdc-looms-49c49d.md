@@ -1,19 +1,20 @@
 ---
 title: "Apple rolls out iOS 26.5.1 and patches Error 53 as WWDC looms"
 date: 2026-05-22T20:08:29.916Z
-modified_date: 2026-09-01T19:09:08.590Z
+modified_date: 2026-09-30T14:35:35.668Z
 tags: ["apple","ios","security"]
 hero_image: "/hero/2026-05-22-apple-rolls-out-ios-26-5-1-and-patches-error-53-as-wwdc-looms-49c49d.jpg"
 hero_image_credit_name: "Harry Tucker"
 hero_image_credit_url: "https://www.pexels.com/@harry-tucker-1863749148"
 visual_keyword: "iPhone screen displaying an error message with a laptop and repair tools"
 description: "Apple slips a micro‑update and a critical iOS 9.2.1 patch into iTunes, sparking debate over repair policies and security ahead of WWDC."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-22-apple-rolls-out-ios-26-5-1-and-patches-error-53-as-wwdc-looms-49c49d.mp3"
 audio_bytes: 616534
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple pushes a micro‑update ahead of WWDC
@@ -52,4 +53,5 @@ Keep an eye on the iOS 26.5.1 rollout schedule and the accompanying release no
 
 ## Updates
 
+- **2026-09-30** — Amazon’s new Fire TV Stick 4K comes with an actually good remote ([source](https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/))
 - **2026-09-01** — Who is John Ternus, the new Apple CEO? ([source](https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/))

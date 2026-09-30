@@ -1,15 +1,17 @@
 ---
 title: "Qualcomm hikes Snapdragon prices, tightening Android cost curve"
 date: 2026-07-30T11:58:56.150Z
+modified_date: 2026-09-30T14:36:11.714Z
 tags: ["qualcomm","snapdragon","android","socs","smartphones"]
 hero_image: "/hero/2026-07-30-qualcomm-hikes-snapdragon-prices-tightening-android-cost-curve-f2e377.jpg"
 hero_image_credit_name: "Sebastian Luna"
 hero_image_credit_url: "https://www.pexels.com/@sebastian-luna-736234668"
 visual_keyword: "smartphone circuit board with price tag"
 description: "Qualcomm lifts Snapdragon pricing as Google and Samsung SoCs gain share, prompting OEMs to reassess Android device costs."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 Qualcomm raised Snapdragon prices, sharpening cost pressure on Android OEMs.
 
@@ -44,3 +46,7 @@ The price pressure also reverberates downstream to consumers. Android device pri
 ### What to watch
 
 The next quarter will reveal whether Qualcomm’s price hike translates into higher retail prices or a shift in OEM sourcing strategies. Track announcements from major Android manufacturers for changes in bill‑of‑materials disclosures, and monitor Google’s and Samsung’s SoC roadmap updates for signs of further market realignment. A sustained increase in Snapdragon pricing could become a catalyst for broader industry consolidation around proprietary silicon.
+
+## Updates
+
+- **2026-09-30** — Samsung gives its two-year-old Galaxy Tab S Plus an overhaul ([source](https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price))
