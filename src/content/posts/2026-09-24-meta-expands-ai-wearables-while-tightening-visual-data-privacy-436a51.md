@@ -1,15 +1,17 @@
 ---
 title: "Meta expands AI wearables while tightening visual data privacy"
 date: 2026-09-24T08:57:38.240Z
+modified_date: 2026-09-30T07:49:50.008Z
 tags: ["meta","smart glasses","ai","privacy"]
 hero_image: "/hero/2026-09-24-meta-expands-ai-wearables-while-tightening-visual-data-privacy-436a51.jpg"
 hero_image_credit_name: "Arpit Brandings"
 hero_image_credit_url: "https://www.pexels.com/@arpit-brandings-1363149455"
 visual_keyword: "futuristic smart glasses with sleek frames on a neutral background"
 description: "Meta rolls out Muse Charm, updates Ray‑Ban Meta Gen 3 glasses, and adds an opt‑out for visual data training, reshaping its smart‑glass strategy."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 Meta introduced a new AI‑focused accessory and updated its Ray‑Ban Meta glasses as it tightens control over visual data collected from wearers.
 
@@ -42,3 +44,7 @@ The updated glasses will launch in five new markets this fall, expanding beyond 
 ## What to watch
 
 The next quarter will reveal whether the opt‑out for visual data training impacts the quality of Meta’s upcoming AI features. Observers should track usage metrics for Muse Charm, especially adoption rates among enterprise customers who may value the discrete AI interface. Finally, the performance of the Blackpink‑Lisa avatar in real‑world calls will indicate whether celebrity‑driven skins translate into sustained hardware sales across the newly opened markets.
+
+## Updates
+
+- **2026-09-30** — Apple Pay now rolling out to Axis Bank customers in India [U] ([source](https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/))
