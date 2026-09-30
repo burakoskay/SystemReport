@@ -1,19 +1,20 @@
 ---
 title: "Elon Musk Faces Multiple Lawsuits Over Tesla, OpenAI Claims"
 date: 2026-04-28T19:43:24.910Z
-modified_date: 2026-09-23T19:27:02.828Z
+modified_date: 2026-09-30T00:58:23.358Z
 tags: ["elon musk","tesla","lawsuits","openai"]
 hero_image: "/hero/2026-04-28-elon-musk-faces-multiple-lawsuits-over-tesla-openai-claims-335c96.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "courtroom with legal documents and a tesla vehicle model in background"
 description: "Shareholders sue Tesla over autopilot risks, Musk testifies in OpenAI trial"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-28-elon-musk-faces-multiple-lawsuits-over-tesla-openai-claims-335c96.mp3"
 audio_bytes: 655822
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The Tesla shareholders’ lawsuit will hinge on evidence of intentional misrepre
 
 ## Updates
 
+- **2026-09-30** — Elon Musk&#8217;s AI-powered Grokipedia is updating again ([source](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again))
 - **2026-09-23** — 28% of job postings on company career sites have been open over 90 days ([source](https://unlisted.careers/ghost-jobs/report/2026-09))
 - **2026-06-03** — Court orders Elon Musk to turn over Tesla and SpaceX emails in Apple/OpenAI lawsuit ([source](https://9to5mac.com/2026/06/02/court-orders-elon-musk-to-turn-over-tesla-and-spacex-emails-in-apple-openai-lawsuit/))
 - **2026-05-01** — Elon Musk had a bad week in court ([source](https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast))

@@ -1,15 +1,17 @@
 ---
 title: "US Wi‑Fi Devices Now Fund an Australian Research Lab"
 date: 2026-09-23T00:11:09.415Z
+modified_date: 2026-09-30T00:58:30.614Z
 tags: ["wifi","patents","csiro"]
 hero_image: "/hero/2026-09-23-us-wi-fi-devices-now-fund-an-australian-research-lab-ca00ae.jpg"
 hero_image_credit_name: "Jaycee300s"
 hero_image_credit_url: "https://www.pexels.com/@jaycee300s-3059779"
 visual_keyword: "a sleek laptop and router with subtle Australian flag overlay"
 description: "A $229 million CSIRO settlement means every Wi‑Fi gadget sold in the US carries a hidden Australian royalty fee."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 US consumers will start paying an Australian research agency for every Wi‑Fi device after CSIRO secured a $229 million settlement. The deal adds to a $205 million payout the Commonwealth Scientific and Industrial Research Organisation received in 2009, and it comes just before a jury trial in Tyler, Texas.
 
@@ -44,3 +46,7 @@ Consumers, meanwhile, will never see a line item for “Australian royalty” on
 The next flashpoint will be how CSIRO enforces the settlement. If the lab seeks additional royalties for future Wi‑Fi standards – such as Wi‑Fi 6E or upcoming 7 – manufacturers may face fresh negotiations. Watch for any filing of new patents or amendments to existing ones, and for any attempts to bring the dispute before the International Trade Commission. Those moves could reignite the debate over whether patent licensing should be handled through private settlements or a more transparent, regulatory process.
 
 Keep an eye on the U.S. International Trade Commission’s docket and on CSIRO’s annual reports. If the organization starts bundling its Wi‑Fi patents with other technology patents, we could see a new wave of licensing demands that will again ripple through the consumer market.
+
+## Updates
+
+- **2026-09-30** — Range Rover Sport Electric: Price, Specs, Availability ([source](https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/))

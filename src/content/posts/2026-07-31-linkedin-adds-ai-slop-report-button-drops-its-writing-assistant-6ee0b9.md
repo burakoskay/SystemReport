@@ -1,16 +1,17 @@
 ---
 title: "LinkedIn adds AI‑slop report button, drops its writing assistant"
 date: 2026-07-31T02:14:34.206Z
-modified_date: 2026-08-15T12:25:12.374Z
+modified_date: 2026-09-30T00:58:37.952Z
 tags: ["linkedin","ai","content moderation","social media"]
 hero_image: "/hero/2026-07-31-linkedin-adds-ai-slop-report-button-drops-its-writing-assistant-6ee0b9.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "LinkedIn interface showing AI slop report button"
 description: "LinkedIn introduces a 'seems like AI slop' button to flag low‑quality AI posts and replaces its built‑in writer with a proofreading tool."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 LinkedIn rolled out a “seems like AI slop” reporting button on its feed. The feature aims to curb the surge of low‑quality AI‑generated posts that clutter professional timelines.
@@ -47,4 +48,5 @@ LinkedIn plans to publish a post‑mortem on the button’s impact later this qu
 
 ## Updates
 
+- **2026-09-30** — AMD acquires World Labs AI startup, upping the ante against Nvidia ([source](https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/))
 - **2026-08-15** — The other Sean Byrne doesn't exist ([source](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/))

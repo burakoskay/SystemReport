@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Update Cycle: Balancing Security and Compatibility"
 date: 2026-05-26T18:38:40.765Z
-modified_date: 2026-09-29T14:33:00.715Z
+modified_date: 2026-09-30T00:59:14.369Z
 tags: ["Apple","iOS","security","privacy"]
 hero_image: "/hero/2026-05-26-apple-s-ios-update-cycle-balancing-security-and-compatibility-867a69.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple releases iOS updates to address security vulnerabilities and improve compatibility, but sometimes these updates cause issues for users."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ In conclusion, Apple's iOS update cycle is a complex and delicate process. The c
 
 ## Updates
 
+- **2026-09-30** — Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues ([source](https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/))
 - **2026-09-29** — Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix ([source](https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/))
 - **2026-09-23** — YouTube promises custom feeds and a lot more AI later this year ([source](https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/))
 - **2026-09-21** — CardPointers updated for iOS 27 with Siri AI, automatic offer syncing, and much more ([source](https://9to5mac.com/2026/09/21/cardpointers-updated-for-ios-27-with-siri-ai-automatic-offer-syncing-and-much-more/))

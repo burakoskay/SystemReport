@@ -1,15 +1,17 @@
 ---
 title: "VC Probe, Deepfake Ads"
 date: 2026-08-18T22:25:30.678Z
+modified_date: 2026-09-30T00:58:16.046Z
 tags: ["venture-capital","regulation","deepfakes","media","tech"]
 hero_image: "/hero/2026-08-18-vc-probe-deepfake-ads-6cf77b.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "city skyline with glowing tech symbols and courtroom pillars"
 description: "A DOJ probe into Andreessen Horowitz, Meta's deepfake ad scandal, and Disney's lawsuit against the FCC reveal escalating regulatory pressure on tech giants."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 The DOJ opened a criminal probe into Andreessen Horowitz’s board‑seat practices, while Meta’s platforms aired deep‑fake porn ads and Disney hauled the FCC into court. The three stories converge on a single theme: regulators and rivals are no longer willing to treat tech‑industry turbulence as a side effect.
 
@@ -46,3 +48,7 @@ Taken together, the DOJ probe, the deep‑fake ad scandal, and Disney’s lawsui
 Stakeholders are likely to double down on internal compliance teams. Venture firms may draft stricter conflict‑of‑interest policies, while ad networks could invest in AI‑driven detection of synthetic media. Media conglomerates will monitor court filings closely, preparing contingency plans for potential FCC rulings.
 
 What to watch: the DOJ’s next filing in the Andreessen Horowitz case, Meta’s response to the deep‑fake controversy, and the outcome of Disney’s suit against the FCC. Each decision will signal how aggressively regulators will intervene and whether the tech industry can adapt without stifling innovation.
+
+## Updates
+
+- **2026-09-30** — Suspected ShinyHunters leader arrested in the Netherlands ([source](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested))

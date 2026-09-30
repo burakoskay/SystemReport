@@ -1,19 +1,20 @@
 ---
 title: "Apple discounts and AI sales bots reshape tech buying"
 date: 2026-05-28T20:43:07.152Z
-modified_date: 2026-09-03T14:04:01.051Z
+modified_date: 2026-09-30T00:59:43.516Z
 tags: ["apple","ai","sales","interview","productivity"]
 hero_image: "/hero/2026-05-28-apple-discounts-and-ai-sales-bots-reshape-tech-buying-acbd92.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "busy tech desk with laptops, headphones, and AI chat bubbles"
 description: "Apple’s latest Amazon discounts coincide with the launch of AI‑driven sales and interview tools, highlighting a shift toward automated productivity."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-28-apple-discounts-and-ai-sales-bots-reshape-tech-buying-acbd92.mp3"
 audio_bytes: 615489
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple’s 15‑inch M5 MacBook Air is now $200 off on Amazon, while a new AI sales assistant and interview simulator launched on Hacker News. The price cuts make high‑end hardware cheaper, and the software tools promise to automate routine work for engineers and sales teams.
@@ -56,4 +57,5 @@ Track Apple’s discount cadence through the holiday quarter; a deeper price cut
 
 ## Updates
 
+- **2026-09-30** — Android 17 QPR2 enables Pixel 11 Pro HiLight for messages ([source](https://9to5google.com/2026/09/29/pixel-11-hilight-messages-qpr2/))
 - **2026-09-03** — Ugly AI Food Photos Are Only the Beginning ([source](https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/))

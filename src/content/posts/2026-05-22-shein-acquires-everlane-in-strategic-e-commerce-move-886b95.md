@@ -1,19 +1,20 @@
 ---
 title: "Shein Acquires Everlane in Strategic E-commerce Move"
 date: 2026-05-22T19:56:45.587Z
-modified_date: 2026-08-26T14:40:37.622Z
+modified_date: 2026-09-30T00:58:08.799Z
 tags: ["e-commerce","sustainable fashion","AI"]
 hero_image: "/hero/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "sustainable fashion"
 description: "Shein's purchase of Everlane signals a push into sustainable apparel, backed by big-data and AI search tools."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.mp3"
 audio_bytes: 598980
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ In conclusion, Shein's acquisition of Everlane is a strategic move that reflects
 
 ## Updates
 
+- **2026-09-30** — Trump orders US government to call AI ‘Super Intelligence’ ([source](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai))
 - **2026-08-26** — QueryStory wants you to believe what AI is telling you ([source](https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/))
 - **2026-08-13** — A rare two-player Computer Space arcade machine is up for auction ([source](https://www.engadget.com/2235951/a-rare-retro-arcade-machine-featured-in-soylent-green-is-up-for-auction/))
 - **2026-08-02** — Fender’s CEO seems to think your bandmates are just analog AI ([source](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music))
