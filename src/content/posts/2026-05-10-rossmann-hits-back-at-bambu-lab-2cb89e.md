@@ -1,19 +1,20 @@
 ---
 title: "Rossmann Hits Back at Bambu Lab"
 date: 2026-05-10T17:04:26.533Z
-modified_date: 2026-08-18T10:22:06.673Z
+modified_date: 2026-09-30T20:28:18.701Z
 tags: ["right to repair","3D printing","open-source software"]
 hero_image: "/hero/2026-05-10-rossmann-hits-back-at-bambu-lab-2cb89e.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "3D printing"
 description: "Repair advocate Louis Rossmann calls out 3D printer maker Bambu Lab over lawsuit."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-10-rossmann-hits-back-at-bambu-lab-2cb89e.mp3"
 audio_bytes: 563871
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,4 +66,5 @@ As the movement continues to gain momentum, we can expect to see more companies 
 
 ## Updates
 
+- **2026-09-30** — The ugly economics of consumer AI ([source](https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/))
 - **2026-08-18** — Detroit startup Grounded raises $5M to customize electric and gas-powered vans ([source](https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/))

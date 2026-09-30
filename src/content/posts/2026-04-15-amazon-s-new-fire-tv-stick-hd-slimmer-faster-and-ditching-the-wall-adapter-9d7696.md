@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-09-28T19:09:48.619Z
+modified_date: 2026-09-30T20:30:06.975Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 17
+sources_count: 18
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-09-30** — Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks ([source](https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/))
 - **2026-09-28** — Apple Notes keeps getting better, here’s what’s new in iOS 27 ([source](https://9to5mac.com/2026/09/28/heres-everything-new-for-apple-notes-in-ios-27/))
 - **2026-09-23** — Public beta debuts for iPadOS 27.2 and more, here’s what’s new ([source](https://9to5mac.com/2026/09/22/public-beta-debuts-for-ipados-27-2-and-more-heres-whats-new/))
 - **2026-09-18** — Apple Intelligence has 20+ brand new features in iOS 27, here’s the full list ([source](https://9to5mac.com/2026/09/18/apple-intelligence-has-20-brand-new-features-in-ios-27-heres-the-full-list/))

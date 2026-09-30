@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-09-09T22:11:42.639Z
+modified_date: 2026-09-30T20:29:55.570Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 29
+sources_count: 30
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-09-30** — Early launch deals live on Apple’s latest: Series 12, Ultra 4, Beats 360, Mac mini, more ([source](https://9to5mac.com/2026/09/30/early-launch-deals-live-apple-latest-releases/))
 - **2026-09-09** — Apple Watch Ultra 4 comes with better battery and upgraded health tracking ([source](https://www.engadget.com/2254048/apple-watch-ultra-4-comes-with-better-battery-and-upgraded-health-tracking/))
 - **2026-09-01** — The Diamond Moon and Other Astronomical Events to See in September 2026 ([source](https://www.wired.com/story/diamond-moon-and-other-astronomical-events-september-2026/))
 - **2026-08-26** — Run OpenBSD on DigitalOcean for $4/month ([source](https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/))

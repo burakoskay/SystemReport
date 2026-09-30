@@ -1,15 +1,17 @@
 ---
 title: "Hacker News spikes reveal what engineers care about"
 date: 2026-08-21T02:58:39.847Z
+modified_date: 2026-09-30T20:29:27.033Z
 tags: ["hackernews","techculture","trends","ai","privacy"]
 hero_image: "/hero/2026-08-21-hacker-news-spikes-reveal-what-engineers-care-about-aa336e.jpg"
 hero_image_credit_name: "Nemuel Sereti"
 hero_image_credit_url: "https://www.pexels.com/@nemuel"
 visual_keyword: "engineers gathered around a glowing laptop screen"
 description: "A look at recent high‑scoring posts on Hacker News, from AI fonts to binge‑scrolling studies, and why they matter to the tech community."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 Hacker News users pushed five unrelated posts into the top‑tier feed this week, exposing a mix of cultural satire, brain‑science anxiety, consumer‑rights activism, security caution, and AI backlash.
 
@@ -54,3 +56,7 @@ Comments ranged from outrage over consumer exploitation to speculation about the
 ## What to watch
 
 The next week will reveal whether any of these discussions translate into concrete action. Watch for a follow‑up post on the TikTok study’s methodology, a potential fork of the Consumer Rights Wiki that targets API integration, and any official response from Bending Spoons regarding Harvest’s pricing. The community’s pulse on these issues will shape what engineers prioritize in product roadmaps and security audits.
+
+## Updates
+
+- **2026-09-30** — BMW reveals US 3 series pricing: The EV carries a hefty premium ([source](https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/))

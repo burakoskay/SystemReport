@@ -1,15 +1,17 @@
 ---
 title: "Apple's hardware, software and service shake‑up accelerates"
 date: 2026-07-30T19:21:41.033Z
+modified_date: 2026-09-30T20:28:58.499Z
 tags: ["apple","iphone","ios","home","gaming"]
 hero_image: "/hero/2026-07-30-apple-s-hardware-software-and-service-shake-up-accelerates-151c6f.jpg"
 hero_image_credit_name: "Dextar Studio ™"
 hero_image_credit_url: "https://www.pexels.com/@dextarstudio"
 visual_keyword: "iPhone 18 Pro with Apple-designed modem chip"
 description: "Apple eyes its own modem for the iPhone 18 Pro, revamps Home devices, swaps upgrade programs and teases iOS 27, while Fortnite resurfaces in Brazil."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 Apple is swapping out core components, reshuffling services and teasing a new OS version, all while a major game reappears on its phones in Brazil.
 
@@ -51,6 +53,9 @@ Brazil’s market represents a sizable portion of mobile gamers, so the return c
 
 Watch Apple’s next hardware event for a formal C2 modem reveal and the first Home device prototypes. Track the adoption rate of the new Upgrade service as the iPhone Upgrade Program phases out. Monitor iOS 27 beta builds for the five rumored features and note any developer feedback. Finally, keep an eye on Epic Games’ response to the Brazilian rollout and whether Apple adjusts its app‑distribution policies in response.
 
+## Updates
+
+- **2026-09-30** — Here&#8217;s what AI leaders are saying about Trump’s new safety plan ([source](https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments))
 
 [^1]: [9to5mac.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0s_9oBzd8HbbiN0p-8KU4VG70-GoVFxoyotJWytyC4Lo-hNXid-C_xPS-ejfzhIo7YhMOLVICiYrzbMD1H6oXdaCyLRWSLKD99ESMlza1l3OkbxTtEICLvarMlrS-4zod7tEPo013mIG1mc3AAyFFdpGp1jn628QuzrDUPla5U0Z8CTD-TDChGtoCMIPDJQC4S53_t-DJCjnKT9mDew=)
 [^2]: [youtube.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1uxXpnL06-tZ5N2itrd6gNGAzqViNV2qD_142Wzpj7s7TD3P_YzvUmBMDhgCM6dU9Wq8lIBYtPZE1K9yB3E2AN_UrErRy6Tb-O4G_zTSW9RQdJq49y6AEejW3g-tJ4Xw4ID1L3A==)

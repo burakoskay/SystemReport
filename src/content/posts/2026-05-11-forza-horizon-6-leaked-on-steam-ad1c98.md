@@ -1,16 +1,17 @@
 ---
 title: "Forza Horizon 6 Leaked on Steam"
 date: 2026-05-11T17:59:56.952Z
-modified_date: 2026-06-04T18:23:44.293Z
+modified_date: 2026-09-30T20:28:30.071Z
 tags: ["Gaming","Piracy","Digital Distribution"]
 hero_image: "/hero/2026-05-11-forza-horizon-6-leaked-on-steam-ad1c98.jpg"
 hero_image_credit_name: "ᛟᛞᚨᛚᚹ ᚨᚱᚲᛟᚾᛊᚲᛁ"
 hero_image_credit_url: "https://www.pexels.com/@odalv"
 visual_keyword: "Forza Horizon 6"
 description: "Forza Horizon 6 leaks on Steam 6 days before launch"
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 # Forza Horizon 6 Leaks on Steam
@@ -32,4 +33,5 @@ The leak of Forza Horizon 6 is not an isolated incident. There have been several
 
 ## Updates
 
+- **2026-09-30** — Pledge signed by President Trump and top AI leaders misspells the United States ([source](https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/))
 - **2026-06-04** — Cash App launches a wand for tap-and-pay ([source](https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/))

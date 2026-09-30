@@ -1,15 +1,17 @@
 ---
 title: "Google's Mic Drop Gmail Feature Backfires"
 date: 2026-08-02T16:55:21.802Z
+modified_date: 2026-09-30T20:30:01.255Z
 tags: ["Google","Gmail","April Fools' Day","User Backlash","AI-Powered Features"]
 hero_image: "/hero/2026-08-02-google-s-mic-drop-gmail-feature-backfires-c7c599.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Gmail Mic Drop"
 description: "Gmail's April Fools' joke causes user backlash"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Google's Mic Drop Gmail Feature Backfires
 
@@ -41,3 +43,7 @@ Developers who create email clients or services that rely on AI-powered features
 
 ## Conclusion 
 The 'Send + Mic Drop' button was a well-intentioned but poorly executed feature that ended up causing user backlash. The incident highlights the importance of considering user trust and the broader industry context when introducing new features. Companies like Google must prioritize transparency and user trust to avoid similar missteps in the future.
+
+## Updates
+
+- **2026-09-30** — M6 Mac release schedule: Here’s when to expect new Macs ([source](https://9to5mac.com/2026/09/30/m6-mac-release-schedule-heres-when-new-macs-are-coming/))

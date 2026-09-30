@@ -1,15 +1,17 @@
 ---
 title: "AI surveillance and export disputes spark legal scrutiny"
 date: 2026-08-24T14:46:32.837Z
+modified_date: 2026-09-30T20:29:15.621Z
 tags: ["ai","surveillance","law","export-controls"]
 hero_image: "/hero/2026-08-24-ai-surveillance-and-export-disputes-spark-legal-scrutiny-d4bda2.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "city street camera with legal documents overlay"
 description: "Flock Safety, NVIDIA, and Amazon face lawsuits and indictments as AI surveillance and data use draw regulatory fire."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 Flock Safety’s CEO urged a compromise as the company faced mounting backlash over its street‑level cameras.
 
@@ -36,3 +38,7 @@ Content‑platform litigation is still in its infancy. The Twitch lawsuit mirror
 **What to watch**
 
 Track the next hearing in Taiwan’s court, where prosecutors may seek additional charges against the NVIDIA staff. Monitor any settlement talks between Amazon and the Twitch plaintiffs, as a resolution could set a template for consent mechanisms on user‑generated content. Finally, watch for policy statements from Flock Safety’s board or local governments that might codify limits on surveillance camera deployments. Each development will signal how regulators and companies balance AI’s capabilities against privacy and security concerns.
+
+## Updates
+
+- **2026-09-30** — Google reportedly tests paying publishers for AI search results ([source](https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features))

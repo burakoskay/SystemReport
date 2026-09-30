@@ -1,15 +1,17 @@
 ---
 title: "NYT's Wordle Expands to TV Game Show"
 date: 2026-05-11T15:22:07.850Z
+modified_date: 2026-09-30T20:29:09.915Z
 tags: ["Wordle","TV Game Show","Mobile Gaming"]
 hero_image: "/hero/2026-05-11-nyt-s-wordle-expands-to-tv-game-show-50dfdc.jpg"
 hero_image_credit_name: "İdil  Çelikler"
 hero_image_credit_url: "https://www.pexels.com/@idilcelikler"
 visual_keyword: "Wordle"
 description: "Wordle becomes a TV game show"
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 ## Wordle Takes the Leap to Television
 The New York Times' popular mobile puzzle game, Wordle, is becoming a TV game show, courtesy of NBC, with a debut set for next year. This move marks a significant expansion of the game's reach, from a mobile app to a television audience.
@@ -31,3 +33,7 @@ The trend of adapting mobile games into TV shows is part of a larger shift towar
 The adaptation of Wordle into a TV game show is not without precedent. Other popular mobile games, such as Angry Birds and Fruit Ninja, have been adapted into TV shows and films. These adaptations have had varying degrees of success, but they demonstrate the potential for mobile games to be reimagined in new and innovative ways.
 ## Technical Challenges
 The TV adaptation of Wordle will require significant technical expertise to bring the game to life on screen. The show's developers will need to design a system that can generate random words, track player scores, and display the game's progress in a clear and engaging way. They will also need to ensure that the show's format is engaging and entertaining for a television audience, while remaining true to the spirit of the mobile game.
+
+## Updates
+
+- **2026-09-30** — All the latest news on Meta’s cute, creepy Muse AI agent ([source](https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai))

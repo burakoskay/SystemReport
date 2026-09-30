@@ -1,19 +1,20 @@
 ---
 title: "MIT paper retraction sparks AI research scrutiny"
 date: 2026-04-26T22:52:44.101Z
-modified_date: 2026-09-02T17:51:02.780Z
+modified_date: 2026-09-30T20:28:47.090Z
 tags: ["ai-ethics","computational-biology","research-integrity"]
 hero_image: "/hero/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "neural network model overlaid on dna helix structure in monochrome"
 description: "MIT withdraws controversial AI research paper, as scientists push Claude and SciCraft for discovery"
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-26-mit-paper-retraction-sparks-ai-research-scrutiny-f11dec.mp3"
 audio_bytes: 612355
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Three key developments will shape the next phase of AI in scientific research. F
 
 ## Updates
 
+- **2026-09-30** — Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots ([source](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping))
 - **2026-09-02** — NYC bans AI use for students until they reach high school ([source](https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban))
 - **2026-05-28** — The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are ([source](https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/))
 - **2026-05-23** — Apple @ Work: Why the ClickFix campaign means it is time to kill the 90 day update deferral ([source](https://9to5mac.com/2026/05/23/apple-work-why-the-clickfix-campaign-means-it-is-time-to-kill-the-90-day-update-deferral/))
