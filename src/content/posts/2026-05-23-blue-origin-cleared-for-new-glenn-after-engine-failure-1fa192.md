@@ -1,16 +1,17 @@
 ---
 title: "Blue Origin cleared for New Glenn after engine failure"
 date: 2026-05-23T03:44:38.130Z
-modified_date: 2026-09-08T14:04:16.837Z
+modified_date: 2026-10-01T01:01:45.180Z
 tags: ["Blue Origin","New Glenn","FAA"]
 hero_image: "/hero/2026-05-23-blue-origin-cleared-for-new-glenn-after-engine-failure-1fa192.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "New Glenn rocket"
 description: "FAA approves New Glenn's return after April engine failure knocked AST SpaceMobile satellite out of orbit."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -75,5 +76,6 @@ The growth of the satellite launch market presents significant opportunities for
 
 ## Updates
 
+- **2026-10-01** — Blender, the 3D modeling app, is launching for Android next year; iPad app still on pause ([source](https://9to5google.com/2026/09/30/blender-android-app-2027/))
 - **2026-09-08** — Intel CPUs are reportedly getting a 10 percent price hike in October ([source](https://www.theverge.com/tech/991285/intel-cpu-price-increase-october))
 - **2026-05-29** — Galaxy Z Fold 8 series may ‘significantly’ improve the display crease ([source](https://9to5google.com/2026/05/29/galaxy-z-fold-8-series-may-significantly-improve-the-display-crease/))

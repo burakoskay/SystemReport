@@ -1,18 +1,20 @@
 ---
 title: "Recent US College Grads Face Higher Unemployment"
 date: 2026-06-07T04:22:02.536Z
+modified_date: 2026-10-01T01:01:02.580Z
 tags: ["unemployment","education","job market"]
 hero_image: "/hero/2026-06-07-recent-us-college-grads-face-higher-unemployment-10fac4.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "unemployment"
 description: "New data shows recent US college graduates now face higher unemployment rates than the average worker, sparking concerns about the job market and education."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-07-recent-us-college-grads-face-higher-unemployment-10fac4.mp3"
 audio_bytes: 581008
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Shift in Unemployment Trends
@@ -68,3 +70,7 @@ The issue also has implications for policymakers, who must work to address the c
 ## Conclusion
 
 The recent shift in unemployment trends highlights the need for a more nuanced understanding of the job market and education. By examining the data, understanding the context, and monitoring future developments, we can work towards creating a more effective and sustainable education-to-employment pipeline. Ultimately, this will require a collaborative effort from policymakers, educators, and employers to ensure that recent graduates have the skills and qualifications needed to succeed in the job market.
+
+## Updates
+
+- **2026-10-01** — The new and huger Paramount has a new co-CEO ([source](https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez))

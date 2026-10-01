@@ -1,15 +1,17 @@
 ---
 title: "TikTok Served Anti-Democratic Videos in 2024 Election"
 date: 2026-05-23T10:05:28.646Z
+modified_date: 2026-10-01T01:01:59.455Z
 tags: ["TikTok","algorithmic bias","social media","politics"]
 hero_image: "/hero/2026-05-23-tiktok-served-anti-democratic-videos-in-2024-election-448777.jpg"
 hero_image_credit_name: "Anastasia  Shuraeva"
 hero_image_credit_url: "https://www.pexels.com/@anastasia-shuraeva"
 visual_keyword: "TikTok"
 description: "Study finds TikTok's algorithm served more anti-Democratic videos during 2024 election."
-sources_count: 2
+sources_count: 3
 author: "elena-marchetti"
 ---
+
 
 
 ## TikTok's Algorithm Under Scrutiny
@@ -47,3 +49,7 @@ In response to the study's findings, TikTok may need to re-examine its algorithm
 ## Conclusion
 
 The study's findings highlight the need for greater transparency and accountability in social media's algorithms and content moderation practices. As social media continues to play a significant role in shaping politics, it is essential that regulators and policymakers take a closer look at the industry's response to concerns over algorithmic bias and disinformation. The implications of this study are far-reaching, and it is likely that we will see increased scrutiny of social media platforms in the future.
+
+## Updates
+
+- **2026-10-01** — The top secret URSALA, RAQUEL, and FARRAH satellites ([source](https://www.thespacereview.com/article/4951/1))

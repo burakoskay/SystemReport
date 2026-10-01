@@ -1,15 +1,17 @@
 ---
 title: "Retro Arcade: Build vs. Buy"
 date: 2026-08-29T00:38:40.833Z
+modified_date: 2026-10-01T01:00:48.255Z
 tags: ["retro gaming","arcade cabinets","diy tech","gaming hardware","home entertainment"]
 hero_image: "/hero/2026-08-29-retro-arcade-build-vs-buy-ef390f.jpg"
 hero_image_credit_name: "The Ghazi"
 hero_image_credit_url: "https://www.pexels.com/@the-ghazi-2152398165"
 visual_keyword: "retro arcade cabinet in a modern living room"
 description: "Deciding on a retro arcade cabinet for your gaming setup presents a core dilemma: custom build or pre-made purchase? We break down the options."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Few additions elevate a gaming space like a dedicated retro arcade cabinet, but the path to owning one forces a fundamental choice: to build a personalized machine or purchase a pre-assembled unit. This decision impacts not just the initial investment, but the entire user experience and the very spirit of your gaming setup.
 
@@ -44,3 +46,7 @@ The physicality of an arcade machine forces a different kind of engagement. Itâ€
 The choice between constructing or acquiring a retro arcade cabinet will continue to evolve as technology advances and the community's preferences shift. Prospective builders might see new, more affordable single-board computers enter the market, simplifying the emulation process and reducing overall project costs. Advancements in display technology could offer increasingly authentic retro experiences, blurring the lines between modern panels and classic CRT aesthetics without the bulk.
 
 Meanwhile, commercial manufacturers will likely respond to market demand with more customizable off-the-shelf solutions, integrating better quality components and broader game libraries. The key decision point for enthusiasts will remain rooted in their personal investment: how much time, effort, and technical skill they are willing to dedicate to the project versus the convenience and immediate accessibility of a retail product. The ongoing evolution of both DIY kits and ready-made systems suggests a vibrant future for the home arcade, ensuring that the question of building versus buying remains a relevant and engaging discussion for years to come.
+
+## Updates
+
+- **2026-10-01** â€” The White House Is Starting to Panic Over the Midterms ([source](https://www.wired.com/story/the-white-house-is-starting-to-panic-over-the-midterms/))

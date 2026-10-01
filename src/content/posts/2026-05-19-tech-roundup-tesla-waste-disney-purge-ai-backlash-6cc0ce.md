@@ -1,18 +1,20 @@
 ---
 title: "Tech roundup: Tesla waste, Disney purge, AI backlash"
 date: 2026-05-19T21:36:12.052Z
+modified_date: 2026-10-01T01:01:23.855Z
 tags: ["tesla","environment","ai","technology","culture"]
 hero_image: "/hero/2026-05-19-tech-roundup-tesla-waste-disney-purge-ai-backlash-6cc0ce.jpg"
 hero_image_credit_name: "Bl∡ke"
 hero_image_credit_url: "https://www.pexels.com/@giantasparagus"
 visual_keyword: "industrial wastewater pipes beside solar panels"
 description: "Tesla's Texas refinery discharges 231k gallons of wastewater daily. Disney pulls FiveThirtyEight content. Graduates boo AI talks. Costs rise and a virtual OS museum emerges."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-05-19-tech-roundup-tesla-waste-disney-purge-ai-backlash-6cc0ce.mp3"
 audio_bytes: 568051
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Tesla's Texas lithium refinery spills 231,000 gallons of wastewater daily
 Tesla's new lithium refinery in Texas reportedly releases 231,000 gallons of polluted wastewater each day, according to a recent report on Autonocion. The figure appears in the headline and is the only concrete metric provided.
@@ -41,3 +43,7 @@ Preserving operating system history has practical value for security researchers
 
 ## What to watch
 Track the Texas Commission on Environmental Quality's response to Tesla's wastewater reports. Monitor Disney's content policies for further removals of independent journalism. Watch university career centers for revised AI curricula. Follow cloud pricing announcements that could shift AI cost dynamics. Keep an eye on contributions to the virtual OS museum for new system additions.
+
+## Updates
+
+- **2026-10-01** — Returning from vacation? The government can search your phone without a warrant. ([source](https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/))
