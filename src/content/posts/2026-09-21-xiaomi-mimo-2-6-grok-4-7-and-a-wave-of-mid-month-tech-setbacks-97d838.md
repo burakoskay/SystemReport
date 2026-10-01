@@ -1,15 +1,17 @@
 ---
 title: "Xiaomi MiMo 2.6, Grok 4.7, and a Wave of Mid‑Month Tech Setbacks"
 date: 2026-09-21T21:40:01.577Z
+modified_date: 2026-10-01T08:09:58.912Z
 tags: ["hardware","ai","space"]
 hero_image: "/hero/2026-09-21-xiaomi-mimo-2-6-grok-4-7-and-a-wave-of-mid-month-tech-setbacks-97d838.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "collage of smartphone designs, AI model diagram, and an airport control tower"
 description: "A roundup of Xiaomi's MiMo 2.6 launch, x.ai's Grok 4.7 update, NASA's Mars Sample Return cancellation, and other mid‑September tech headlines."
-sources_count: 16
+sources_count: 17
 author: "david-okafor"
 ---
+
 
 ## New hardware drops from Xiaomi, OnePlus, and Motorola
 Xiaomi pushed MiMo version 2.6 to its product page on Monday. The update bumps the software version number from 2.5 to 2.6 but, more importantly, adds a handful of low‑level tweaks for its AI‑enhanced camera pipeline. The changelog, linked from the MiMo site, lists a new noise‑reduction algorithm and a revised HDR merge path that claim up to 15 % faster frame processing on the same Snapdragon SoC.
@@ -48,6 +50,9 @@ The pricing places Googlebooks in direct competition with the Microsoft Surface 
 ## What to watch next
 Track the FAA’s remediation plan for the fiber‑line failure; a post‑incident report due in the next quarter will detail redundancy upgrades. Keep an eye on x.ai’s roadmap for Grok 5.0, which the company hinted may arrive before the end of 2026. Finally, monitor whether NASA and ESA propose an alternative Mars sample‑return architecture, as the scientific community will likely lobby for a replacement mission.
 
+## Updates
+
+- **2026-10-01** — Vivo’s X Fold 6 accidentally feels like a throwback ([source](https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras))
 
 [^1]: [androidheadlines.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBpkERcKrM-QQt5XcI7y74sL4sjp1QEE4UpHf1p49GtdQyAvLyml8651zsnHOhIIiTJdQOhAJ4RHaSzmdMOEHwv4Sl8D6-fVRN5fo8sWeUjI2ckN6pGmPrp4jeZLIXY8Xhf0mWTKpEn2wzi_Q1kjxywaFlFt9m-vjS1X7BXLyWHOJhvRHVfPl6bBC3tyB02ZdgE_MtrdsidkNv7QdYz4n1GvWUPNm5_F0ipw==)
 [^2]: [gadgets360.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgtouctf7WfL5RUYeHVShKmvWk_FgSxh5lmuAoP0XiyFY8omz0asEB2MCZUAdbmcSamO0pTO0Z6m-if50nUj-9uk56Xo164_Opgk07Bb7EpKBF4vTJzvCF5fOM7jHKH30m2PvHW5g1GppF7Vnf4XLokF2OM01g1x7QwafQUpA3OzNArnWqVieQmm76n_HEOVS86bem_IONveYA-o5g2oM7AHqjqBexMs7Ppx--Dw==)

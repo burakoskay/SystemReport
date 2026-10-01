@@ -1,16 +1,17 @@
 ---
 title: "Reid Hoffman Warns Docs: Not Using AI Advice Is Malpractice"
 date: 2026-04-30T10:16:54.017Z
-modified_date: 2026-09-25T23:01:26.655Z
+modified_date: 2026-10-01T08:10:10.635Z
 tags: ["AI in healthcare","medical decision-making","Reid Hoffman"]
 hero_image: "/hero/2026-04-30-reid-hoffman-warns-docs-not-using-ai-advice-is-malpractice-402b51.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI in healthcare"
 description: "Reid Hoffman says docs who don't seek AI second opinions risk malpractice. His AI drug discovery startup aims to integrate AI in healthcare."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ As AI continues to transform the healthcare landscape, it is essential that the 
 
 ## Updates
 
+- **2026-10-01** — 56k.rip – the 1996 dial-up internet experience ([source](https://56k.rip/))
 - **2026-09-25** — Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge ([source](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/))
 - **2026-09-17** — Here are 100+ things Siri AI can do on your iPhone ([source](https://9to5mac.com/2026/09/17/here-are-100-things-siri-ai-can-do-on-your-iphone/))
 - **2026-09-10** — Nintendo’s latest Switch 2 update adds VRR support in TV mode ([source](https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update))

@@ -1,16 +1,17 @@
 ---
 title: "Apple Outages Push Plex Live TV to Apple TV"
 date: 2026-04-28T06:48:52.940Z
-modified_date: 2026-09-15T13:06:32.355Z
+modified_date: 2026-10-01T08:10:04.758Z
 tags: ["apple","tv","streaming","plex"]
 hero_image: "/hero/2026-04-28-apple-outages-push-plex-live-tv-to-apple-tv-dafdbe.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with glitch overlay and Plex live TV remote"
 description: "Apple's recent service outage and a new subscriber survey come as Plex launches its Live TV service on Apple TV, reshaping the streaming battleground."
-sources_count: 20
+sources_count: 21
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Apple will unveil two new subscription services at its March event, one of which
 
 ## Updates
 
+- **2026-10-01** — Apple TV is down ([source](https://www.engadget.com/2274184/apple-tv-is-down/))
 - **2026-09-15** — Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27 ([source](https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/))
 - **2026-08-31** — Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down ([source](https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/))
 - **2026-08-22** — The oldest iPhone model you can trade-in with Apple is older than you'd think ([source](https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/))
