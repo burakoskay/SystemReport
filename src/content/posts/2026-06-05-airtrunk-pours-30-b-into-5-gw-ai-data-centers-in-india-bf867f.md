@@ -1,19 +1,20 @@
 ---
 title: "AirTrunk pours $30 B into 5 GW AI data centers in India"
 date: 2026-06-05T16:38:00.215Z
-modified_date: 2026-09-11T14:01:13.211Z
+modified_date: 2026-10-01T16:52:13.697Z
 tags: ["data centers","ai","india","infrastructure"]
 hero_image: "/hero/2026-06-05-airtrunk-pours-30-b-into-5-gw-ai-data-centers-in-india-bf867f.jpg"
 hero_image_credit_name: "Andy Coffie"
 hero_image_credit_url: "https://www.pexels.com/@kema"
 visual_keyword: "massive data center facility under construction in an Indian industrial park"
 description: "Australian operator AirTrunk commits $30 B to build 5 GW of AI‑focused data centre capacity in India, raising questions about supply, energy and competition."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-05-airtrunk-pours-30-b-into-5-gw-ai-data-centers-in-india-bf867f.mp3"
 audio_bytes: 585814
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AirTrunk's $30 B India Bet
@@ -60,4 +61,5 @@ Track the signing of power‑purchase agreements for the Indian sites. A renewab
 
 ## Updates
 
+- **2026-10-01** — Apple Mac Studio (M5 Ultra) Review: Unlimited Power ([source](https://www.wired.com/review/apple-mac-studio-m5-ultra-2026/))
 - **2026-09-11** — The US and Mexico Announce They’re Teaming Up Against Drones ([source](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/))

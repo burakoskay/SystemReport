@@ -1,15 +1,17 @@
 ---
 title: "Meta Employees Protest Laptop Surveillance"
 date: 2026-05-14T21:19:24.488Z
+modified_date: 2026-10-01T16:50:41.634Z
 tags: ["Meta","workplace surveillance","employee privacy"]
 hero_image: "/hero/2026-05-14-meta-employees-protest-laptop-surveillance-79211e.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "surveillance"
 description: "Meta employees in US and UK protest corporate software tracking keystrokes and mouse activity"
-sources_count: 2
+sources_count: 3
 author: "lena-volkov"
 ---
+
 
 
 ## Meta Employees Protest Laptop Surveillance
@@ -56,3 +58,6 @@ The pushback from Meta employees against the surveillance software is likely to 
 
 The controversy surrounding Meta's surveillance software is also likely to attract regulatory scrutiny. Regulators may investigate the company's use of monitoring software and its implications for employee privacy. This could lead to new guidelines or regulations around the use of such software, potentially affecting not just Meta but also other companies in the tech industry.
 
+## Updates
+
+- **2026-10-01** — Shopify debuts Canvas, a way to build online stores by chatting with AI ([source](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/))

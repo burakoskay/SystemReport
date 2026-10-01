@@ -1,16 +1,17 @@
 ---
 title: "Waymo leads Texas AV registrations; startups face lawsuits"
 date: 2026-05-29T10:05:35.391Z
-modified_date: 2026-07-30T17:20:58.275Z
+modified_date: 2026-10-01T16:52:27.881Z
 tags: ["autonomous vehicles","robotics","regulation"]
 hero_image: "/hero/2026-05-29-waymo-leads-texas-av-registrations-startups-face-lawsuits-1a790e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "autonomous vehicle"
 description: "Waymo dominates Texas autonomous vehicle registrations while a San Francisco startup battles a lawsuit over Airbnb robot testing, and new visualization and sensor tools reshape robotics."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 
@@ -72,5 +73,6 @@ On the technology side, adoption of Foxglove, HDR cameras, and Truevision will l
 
 ## Updates
 
+- **2026-10-01** — NASA squeezed Treasury, vibe coded, and broke the mold in bid to save Swift ([source](https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/))
 - **2026-07-30** — It sure looks like Pixel Buds Pro 3 aren’t happening anytime soon ([source](https://9to5google.com/2026/07/30/pixel-buds-pro-3-unlikely-2026/))
 - **2026-07-29** — Microsoft confirms Copilot ‘super app’ coming this year ([source](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed))

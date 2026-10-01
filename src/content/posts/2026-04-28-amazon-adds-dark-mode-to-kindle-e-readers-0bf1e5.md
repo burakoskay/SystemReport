@@ -1,18 +1,20 @@
 ---
 title: "Amazon adds dark mode to Kindle e-readers"
 date: 2026-04-28T14:26:31.919Z
+modified_date: 2026-10-01T16:51:24.040Z
 tags: ["Amazon","Google","E-reader"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-e-readers-0bf1e5.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "E-reader"
 description: "Amazon adds dark mode to Kindle Colorsoft and Scribe Colorsoft e-readers, hinting at a broader trend in consumer hardware design."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-e-readers-0bf1e5.mp3"
 audio_bytes: 601697
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Amazon's Kindle Dark Mode Update
@@ -78,3 +80,7 @@ In the coming months, keep an eye on the following developments:
 By monitoring these developments, we can gain a deeper understanding of the evolving tech landscape and the trends that are shaping the industry.
 
 The future of consumer hardware design is likely to be shaped by the growing demand for more intuitive and user-friendly interfaces. As technology continues to advance, consumers are increasingly expecting more from their devices, and manufacturers are under pressure to deliver. The addition of dark mode to Amazon's e-readers and the growth of digital ID support in Google Wallet demonstrate a focus on enhancing the user experience and driving growth in the market.
+
+## Updates
+
+- **2026-10-01** — Amazon introduces Kindle Click, a $35 remote for turning pages ([source](https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/))

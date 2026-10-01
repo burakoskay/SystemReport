@@ -1,18 +1,20 @@
 ---
 title: "Anthropic Auto-Logs-Out Claude Users After Credential Theft"
 date: 2026-09-03T19:05:45.935Z
+modified_date: 2026-10-01T16:53:45.983Z
 tags: ["anthropic","claude","security","ai"]
 hero_image: "/hero/2026-09-03-anthropic-auto-logs-out-claude-users-after-credential-theft-696076.jpg"
 hero_image_credit_name: "Nishess Shakya"
 hero_image_credit_url: "https://www.pexels.com/@nishess-shakya-401526881"
 visual_keyword: "anthropic claude login screen with lock icon"
 description: "Anthropic now signs out Claude sessions automatically after an infostealer harvested active logins, highlighting growing AI security tensions."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-09-03-anthropic-auto-logs-out-claude-users-after-credential-theft-696076.mp3"
 audio_bytes: 603369
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Automatic sign‑out follows credential theft
 Anthropic began terminating active Claude sessions when it detected that an infostealer had harvested login cookies from users' machines.[^1][^2][^3][^4][^5] The move came after security researchers reported that the malware captured active sessions and could be used to hijack accounts.[^1][^2][^6][^7][^3][^4][^8][^5] Anthropic responded by adding a server‑side check that forces a logout for any session matching known compromised tokens.[^1][^2][^7][^3][^4][^5]
@@ -33,6 +35,9 @@ Backplanes, another startup, offers a reporting layer called Spotlight that aggr
 ## What to watch
 Anthropic’s automatic sign‑out is a reactive measure; the underlying credential‑theft vectors remain active. Watch for any follow‑up announcements from Anthropic about proactive token‑rotation or multi‑factor enforcement for Claude accounts. Track regulatory responses to Claude Mythos as governments evaluate whether advanced AI models need licensing or usage caps. Monitor adoption rates of the batch API discount, especially among teams that shift non‑critical workloads to lower‑cost processing. Finally, keep an eye on enterprise‑level tooling like Secure AI Generated Code and Backplanes, which could become de‑facto standards for AI‑driven development security.
 
+## Updates
+
+- **2026-10-01** — 10-year Treasury yield climbs above 5.3% to a level not seen in 24 years ([source](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDDSiiVQRdEQT0xJVccNKZ0KqNgxiccLPhPtULCG3AfbJdJI6yfExeWFCXjSOm5dLHZD30NAzwxcay6psanbYJ5ZLOoXZ1Yfk0iJl3s3j4_5oXga_qm5QQOF59-ZHO1oJLQHYesqyGOzvDqJy-cobjkLHKbw5ek_RYTtFe3VvClvLdzf-slTQQ)
 [^2]: [securityboulevard.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbAN3KiWFsuxgjs0V1FArcCeWhdycOr_Deem3N9X8VuuV0ZAqLHiUWSF7jD4xC8-iqUNQCdXsVa7HxE7FMzOvZ98kqtB1fZ4ryKScWcq6TLCKvMLqOvxHIc3qqRp7AyphET_Yg5eP4MDBgwhnzMU5Rm6Vw9Hwm1WDNGlaa-879LELOOMSY8yIoIDfJZ5Sylbaiqh8Kw3eldlspyKPZUd3rHoc=)

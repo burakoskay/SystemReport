@@ -1,15 +1,17 @@
 ---
 title: "What a Democratic House Means for Health and Medicine"
 date: 2026-06-05T10:05:25.709Z
+modified_date: 2026-10-01T16:52:49.174Z
 tags: ["healthcare","democrats","prescription drug costs","pre-existing conditions","nancy pelosi"]
 hero_image: "/hero/2026-06-05-what-a-democratic-house-means-for-health-and-medicine-cd96d6.jpg"
 hero_image_credit_name: "Gagan Kaur"
 hero_image_credit_url: "https://www.pexels.com/@gagankaur"
 visual_keyword: "Democratic House, healthcare reform"
 description: "Democrats take control of the House, vowing to protect Americans with pre-existing conditions and lower prescription drug costs."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## What a Democratic House Means for Health and Medicine
@@ -55,3 +57,7 @@ The Democratic victory in the House of Representatives will have significant imp
 ## ## What's Next
 
 The next several weeks and months will be crucial in determining the impact of the Democratic victory on health care. Look for Democrats to introduce legislation aimed at lowering prescription drug costs and protecting coverage for Americans with pre-existing conditions. The outcome of these efforts will have far-reaching implications for the nation's health care landscape.
+
+## Updates
+
+- **2026-10-01** — What has been the best Google Pixel to date? [Poll] ([source](https://9to5google.com/2026/10/01/what-has-been-the-best-google-pixel-to-date-poll/))

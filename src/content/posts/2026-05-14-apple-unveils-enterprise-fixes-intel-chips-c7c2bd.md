@@ -1,16 +1,17 @@
 ---
 title: "Apple Unveils Enterprise Fixes, Intel Chips"
 date: 2026-05-14T21:23:02.634Z
-modified_date: 2026-09-23T19:26:41.562Z
+modified_date: 2026-10-01T16:53:17.657Z
 tags: ["macos","apple-card","intel","carplay","apple-wallet"]
 hero_image: "/hero/2026-05-14-apple-unveils-enterprise-fixes-intel-chips-c7c2bd.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "technical scene with Apple products and Intel chips in a modern workspace"
 description: "Apple addresses enterprise macOS issues, partners with Intel for iPhone chips, and expands CarPlay audio features as part of ongoing product updates."
-sources_count: 24
+sources_count: 25
 author: "david-okafor"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The macOS 26.5 fixes will roll out to enterprise users in mid-September. Intel�
 
 ## Updates
 
+- **2026-10-01** — Here’s everything new Apple TV has coming in October ([source](https://9to5mac.com/2026/10/01/heres-everything-new-apple-tv-has-coming-in-october-2026/))
 - **2026-09-23** — Here’s everything new Apple TV has coming in October ([source](https://9to5mac.com/2026/09/23/heres-everything-new-apple-tv-has-coming-in-october-2026/))
 - **2026-09-23** — Here’s everything new for Apple Calendar in iOS 27 ([source](https://9to5mac.com/2026/09/23/heres-everything-new-for-apple-calendar-in-ios-27/))
 - **2026-09-13** — Apple is designing its own game controllers for iPhone, could be Beats branded ([source](https://9to5mac.com/2026/09/13/apple-designing-iphone-game-controller/))

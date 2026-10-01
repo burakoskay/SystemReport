@@ -1,16 +1,17 @@
 ---
 title: "Edge Blocks Old Ad Blockers"
 date: 2026-08-07T20:36:43.589Z
-modified_date: 2026-09-22T17:54:23.121Z
+modified_date: 2026-10-01T16:52:06.589Z
 tags: ["Microsoft Edge","Ad Blockers","MV2"]
 hero_image: "/hero/2026-08-07-edge-blocks-old-ad-blockers-82ab65.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "ad blockers"
 description: "Microsoft Edge ends MV2 support, affecting ad blockers"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 # Microsoft Edge Ends MV2 Support
@@ -34,4 +35,5 @@ The move away from MV2 is part of a larger trend in the tech industry towards gr
 
 ## Updates
 
+- **2026-10-01** — Tractive Cat 6 Mini Review: A Fitbit for Your Cat ([source](https://www.wired.com/review/tractive-cat-6-mini/))
 - **2026-09-22** — Apple Wallet driver’s licenses coming to three new states soon ([source](https://9to5mac.com/2026/09/22/apple-wallet-drivers-licenses-coming-to-three-new-states-soon/))

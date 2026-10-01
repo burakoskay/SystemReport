@@ -1,15 +1,17 @@
 ---
 title: "OpenAI COO Brad Lightcap Leaves for New Venture"
 date: 2026-08-12T12:57:00.309Z
+modified_date: 2026-10-01T16:51:09.916Z
 tags: ["openai","coo","brad lightcap","departure","executive turnover"]
 hero_image: "/hero/2026-08-12-openai-coo-brad-lightcap-leaves-for-new-venture-5e6e00.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "OpenAI executive exits"
 description: "Brad Lightcap, OpenAI's chief operating officer, is departing the company to start a new endeavor, citing a desire to advance the mission from a different perspective."
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 
 ## OpenAI Cuts Ties with Longtime COO Brad Lightcap
@@ -39,3 +41,7 @@ However, the company still faces significant challenges, including the need to a
 ## What to Watch
 
 In the coming weeks and months, it will be worth keeping a close eye on OpenAI's progress and how the company adapts to Lightcap's departure. The company's ability to deliver on its ambitious goals will depend in large part on its ability to attract and retain top talent, including experienced executives like Lightcap. As the company looks to the future, it will be essential for it to prioritize transparency and accountability and to address the concerns of its critics.
+
+## Updates
+
+- **2026-10-01** — Hearing tech startup Legato launches its AI hearing glasses ([source](https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/))

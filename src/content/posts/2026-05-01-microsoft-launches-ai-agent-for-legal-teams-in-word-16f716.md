@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Launches AI Agent for Legal Teams in Word"
 date: 2026-05-01T13:29:44.026Z
-modified_date: 2026-05-01T19:18:41.271Z
+modified_date: 2026-10-01T16:52:20.777Z
 tags: ["Microsoft","Legal AI","Artificial Intelligence"]
 hero_image: "/hero/2026-05-01-microsoft-launches-ai-agent-for-legal-teams-in-word-16f716.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "Microsoft Legal Agent"
 description: "Microsoft introduces Legal Agent, an AI tool for legal teams in Word, handling document edits and complex documents."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-01-microsoft-launches-ai-agent-for-legal-teams-in-word-16f716.mp3"
 audio_bytes: 605249
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ In conclusion, Microsoft's Legal Agent is a significant development in the legal
 
 ## Updates
 
+- **2026-10-01** — Casio’s Crystal G-Shock Is the Most Expensive Ever Made ([source](https://www.wired.com/story/casio-crystal-g-shock-is-the-most-expensive-ever-made/))
 - **2026-05-01** — Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day ([source](https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale))
