@@ -1,19 +1,20 @@
 ---
 title: "Cartoon Network Releases Open-Source Game"
 date: 2026-06-06T17:20:27.566Z
-modified_date: 2026-10-01T16:53:10.521Z
+modified_date: 2026-10-01T22:16:03.262Z
 tags: ["gaming","open-source","cartoon-network"]
 hero_image: "/hero/2026-06-06-cartoon-network-releases-open-source-game-4a98db.jpg"
 hero_image_credit_name: "Eren Li"
 hero_image_credit_url: "https://www.pexels.com/@eren-li"
 visual_keyword: "gaming"
 description: "Cartoon Network releases OK K.O.! Lakewood Plaza Turbo, a mobile game that invites hackers and developers to improve and alter the game."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-06-06-cartoon-network-releases-open-source-game-4a98db.mp3"
 audio_bytes: 548198
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ The release of OK K.O.! Lakewood Plaza Turbo is also part of a larger trend in t
 
 ## Updates
 
+- **2026-10-01** — Samsung’s open-ear Galaxy Buds On go official with late October release ([source](https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/))
 - **2026-10-01** — Amazon introduces new Kindle Paperwhite, Colorsoft and entry-level models ([source](https://www.engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026/))
 - **2026-09-17** — iPadOS 27.2 adds convenient new feature from the Mac ([source](https://9to5mac.com/2026/09/17/ipados-27-2-adds-convenient-new-feature-from-the-mac/))
 - **2026-09-16** — Your ‘health age’ is fake ([source](https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity))

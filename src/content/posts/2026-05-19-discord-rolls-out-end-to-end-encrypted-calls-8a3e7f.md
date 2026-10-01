@@ -1,19 +1,20 @@
 ---
 title: "Discord Rolls Out End-to-End Encrypted Calls"
 date: 2026-05-19T21:27:18.878Z
-modified_date: 2026-08-12T04:01:51.403Z
+modified_date: 2026-10-01T22:14:58.288Z
 tags: ["Discord","End-to-End Encryption","Privacy"]
 hero_image: "/hero/2026-05-19-discord-rolls-out-end-to-end-encrypted-calls-8a3e7f.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Discord adds end-to-end encryption to voice and video calls for all users"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-19-discord-rolls-out-end-to-end-encrypted-calls-8a3e7f.mp3"
 audio_bytes: 621341
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ The regulatory environment for end-to-end encryption is complex and evolving. In
 
 ## Updates
 
+- **2026-10-01** — Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for? ([source](https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for))
 - **2026-08-12** — The brain may be about to have its Ozempic moment ([source](https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment))

@@ -1,15 +1,17 @@
 ---
 title: "OpenAI halves GPT‑5.6 Sol price as Moonshot AI rolls out cheaper"
 date: 2026-08-18T10:25:55.577Z
+modified_date: 2026-10-01T22:15:27.222Z
 tags: ["ai","pricing","open-source","inference"]
 hero_image: "/hero/2026-08-18-openai-halves-gpt-5-6-sol-price-as-moonshot-ai-rolls-out-cheaper-0735b5.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center with AI servers and price tags"
 description: "OpenAI cuts GPT‑5.6 Sol fees by 50% while Moonshot AI launches Kimi K2.5 and K3, models that beat GPT‑5 on reasoning and bring trillion‑parameter open‑source to the market."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 OpenAI announced a 50 % price cut for its GPT‑5.6 Sol model, and Moonshot AI responded with two new releases that undercut the incumbent on both cost and capability. The moves tighten a pricing battle that could reshape where developers run their most demanding workloads.
 
@@ -46,6 +48,10 @@ Developers will now weigh token economics against features like parallel agent o
 What to watch next is OpenAI’s response beyond pricing. Will the company release a new model tier, adjust token limits, or introduce its own parallel‑agent framework? On the Moonshot side, the adoption metrics for K2.5’s Gold Plan and the volume of K3 requests through Telnyx will indicate whether the market is ready to shift from proprietary to open‑source giants. The next quarter’s usage reports from RouterLab and Telnyx will be the barometer for this emerging pricing‑performance equilibrium.
 
 **What to watch:** OpenAI’s upcoming token‑pricing updates, Moonshot AI’s adoption numbers for K2.5’s Gold Plan, and Telnyx’s reported traffic to the K3 inference endpoint. These data points will reveal whether cost alone can tip the balance or if the functional edge of agent swarms and trillion‑parameter vision models will drive the next wave of AI infrastructure choices.
+
+## Updates
+
+- **2026-10-01** — Experience What It’s Like to Travel in the Occupied West Bank ([source](https://www.wired.com/story/experience-what-its-like-to-travel-in-the-occupied-west-bank/))
 
 [^1]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCxxfSkFy60ReohLDpVFvW1QtHrh83M_lYbfWRxUvFG0u8PM38eGr0oOzyYiyMNtZesCZYVb9mSVer8jbnLjerK-6joDc8QBFM-As6X5zTyh6Irt5c3lt8e-njS3Tr7kxOQLOaoIV8)
 [^2]: [nxcode.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFrHcWbKhjj8Gpw-PDEgozWgz6onZRNU5bP6hyt94iFR-jRDgDCXQd3g5K2WbIBbOkBIlXEPn02FyLqKJdChgjQ0B0bHLMv31vdI-MJWWA5IrJ1JC6sPmgLhroCLFY1GvRvyloT1qGLJGkixI6EMGsTG8u4T-UTX4Md7ugfg==)

@@ -1,16 +1,17 @@
 ---
 title: "Apple faces relief pledge, chip ban, and OS rollouts"
 date: 2026-07-30T08:19:32.306Z
-modified_date: 2026-07-31T10:33:18.712Z
+modified_date: 2026-10-01T22:14:51.109Z
 tags: ["apple","antitrust","ios27","macos27","regulation"]
 hero_image: "/hero/2026-07-30-apple-faces-relief-pledge-chip-ban-and-os-rollouts-cd78c6.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "Apple headquarters with wildfire smoke and code screens"
 description: "Apple announced wildfire aid, confronts US Senate chip ban, UK payment rule push, and rolls out iOS 27 Maps and macOS 27 features."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 ## Relief and Reputation
@@ -47,4 +48,5 @@ Stakeholders should track the Senate hearing schedule, the UK legislative calend
 
 ## Updates
 
+- **2026-10-01** — Android Central &#8216;will continue&#8217; despite laying off its staff ([source](https://www.theverge.com/tech/1003735/android-central-layoffs))
 - **2026-07-31** — Sony says it has secured enough ram for all the PS5s it expects to sell this year ([source](https://www.engadget.com/2227643/sony-has-secured-enough-ram-for-the-ps5s-it-expects-to-sell-this-year/))
