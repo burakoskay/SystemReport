@@ -1,16 +1,17 @@
 ---
 title: "Terraria cross-play, Polygon sale triggers industry ripples"
 date: 2026-05-17T21:06:42.781Z
-modified_date: 2026-09-18T18:49:03.393Z
+modified_date: 2026-10-02T21:43:12.090Z
 tags: ["gaming","media","cross‑play"]
 hero_image: "/hero/2026-05-17-terraria-cross-play-polygon-sale-triggers-industry-ripples-1178e3.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Terraria characters playing together across console and mobile devices"
 description: "Terraria adds cross‑play and 15th‑anniversary merch while Polygon’s sale to Valnet sparks layoffs, highlighting consolidation in gaming media."
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ Re‑Logic has not set a release date for cross‑play, but community chatter su
 
 ## Updates
 
+- **2026-10-02** — Sling TV drops its one-day cable passes ([source](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops))
 - **2026-09-18** — Virginia governor creates an AI task force and moves to restrain data centers ([source](https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force))
 - **2026-09-18** — Flash floods can strike without warning — this new technology could change that ([source](https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning))

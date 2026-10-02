@@ -1,18 +1,20 @@
 ---
 title: "Apple Watch Maps Six Years in the Making"
 date: 2026-05-03T03:44:12.704Z
+modified_date: 2026-10-02T21:44:25.434Z
 tags: ["Apple Watch","WatchOS","Maps"]
 hero_image: "/hero/2026-05-03-apple-watch-maps-six-years-in-the-making-d1b7ab.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Apple Watch"
 description: "Apple's WatchOS maps feature has been six years in development. What took so long?"
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-03-apple-watch-maps-six-years-in-the-making-d1b7ab.mp3"
 audio_bytes: 560946
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The Long Road to WatchOS Maps
 
@@ -63,3 +65,7 @@ The release of WatchOS maps is likely to have significant implications for the w
 Apple's focus on delivering a seamless user experience has set a high bar for other companies in the wearable device market. As consumers increasingly expect more from their wearable devices, companies will need to invest in the development of innovative features and technologies to remain competitive.
 
 The success of WatchOS maps is also likely to have implications for Apple's competitors in the wearable device market. Companies like Fitbit and Garmin will need to respond to Apple's innovative features with their own developments, leading to a surge in innovation and competition in the market.
+
+## Updates
+
+- **2026-10-02** — Pixelated 119: 50 days later, it’s still a phone ([source](https://9to5google.com/2026/10/02/pixelated-119-50-days-later-its-still-a-phone/))

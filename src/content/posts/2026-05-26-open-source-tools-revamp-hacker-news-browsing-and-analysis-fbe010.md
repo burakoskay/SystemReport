@@ -1,16 +1,17 @@
 ---
 title: "Open‑source tools revamp Hacker News browsing and analysis"
 date: 2026-05-26T23:26:43.819Z
-modified_date: 2026-09-23T19:25:51.536Z
+modified_date: 2026-10-02T21:44:03.481Z
 tags: ["hackernews","open-source","llm"]
 hero_image: "/hero/2026-05-26-open-source-tools-revamp-hacker-news-browsing-and-analysis-fbe010.jpg"
 hero_image_credit_name: "Kevin Ku"
 hero_image_credit_url: "https://www.pexels.com/@kevin-ku-92347"
 visual_keyword: "terminal window showing a Hacker News text UI with Rust code snippets"
 description: "New Rust‑based clients and LLM retrospectives deepen engagement with Hacker News while critics spotlight tech labor tactics."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ Track the next release cycle of **hackernews_tui** for added API hooks, especial
 
 ## Updates
 
+- **2026-10-02** — The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI ([source](https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/))
 - **2026-09-23** — The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs ([source](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/))
 - **2026-07-28** — You don’t need to splurge on an expensive handheld fan to beat the heat ([source](https://www.theverge.com/tech/970092/jisulife-10s-handheld-personal-fan))

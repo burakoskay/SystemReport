@@ -1,16 +1,17 @@
 ---
 title: "European Startups Rise Amid Fragmented Markets"
 date: 2026-05-02T14:57:52.561Z
-modified_date: 2026-09-25T14:56:30.906Z
+modified_date: 2026-10-02T21:43:41.287Z
 tags: ["european startups","tech ecosystem","venture capital","digital markets act"]
 hero_image: "/hero/2026-05-02-european-startups-rise-amid-fragmented-markets-a38aae.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "european startup workspace with laptops, coffee cups, and whiteboard sketches"
 description: "European startups are gaining traction despite higher sales costs and fragmented markets, with regions like Slovakia and the Nordics leading the charge."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The coming months will test Europe’s startup resilience. In Q3, the EU’s Dig
 
 ## Updates
 
+- **2026-10-02** — Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass ([source](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/))
 - **2026-09-25** — Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass ([source](https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/))
 - **2026-09-24** — Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder ([source](https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/))
 - **2026-09-08** — Deals: New M5 Max Mac Studio first discount, MacBook Air $150 off, most affordable Studio Display $100 off, more ([source](https://9to5mac.com/2026/09/08/deals-m5-max-mac-studio-macbook-air-studio-display/))

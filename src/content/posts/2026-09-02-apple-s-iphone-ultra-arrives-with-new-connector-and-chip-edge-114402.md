@@ -1,15 +1,17 @@
 ---
 title: "Apple's iPhone Ultra arrives with new connector and chip edge"
 date: 2026-09-02T02:28:06.820Z
+modified_date: 2026-10-02T21:43:04.604Z
 tags: ["apple","smartphones","hardware","accessories"]
 hero_image: "/hero/2026-09-02-apple-s-iphone-ultra-arrives-with-new-connector-and-chip-edge-114402.jpg"
 hero_image_credit_name: "Torsten Dettlaff"
 hero_image_credit_url: "https://www.pexels.com/@tdcat"
 visual_keyword: "iPhone Ultra beside ultra accessory connector prototype"
 description: "Apple unveils the iPhone Ultra, adds a tiny Ultra Accessory Connector, and keeps its chip lead over Samsung's Galaxy S23 Ultra."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## The iPhone Ultra shows up next week
 Apple will unveil the iPhone Ultra at its September event. Mark Gurman told Tom’s Guide that the phone will ship with upgraded specs, new multitasking features, and a launch window that lands it squarely in the fall rush. The announcement will be the first public look at a model that sits above the Pro line in Apple’s naming hierarchy.
@@ -32,3 +34,7 @@ Competitors are watching. Samsung already uses Snapdragon‑based chips that clo
 
 ## What to watch next
 The September event will reveal the iPhone Ultra’s exact dimensions, camera stack, and price. Keep an eye on whether Apple bundles the Ultra Accessory Connector with the new phone or sells it as a separate MFi part. The next set of Geekbench leaks should show how the Ultra’s chipset compares to the A16 and the Snapdragon 8 Gen 2. Finally, watch the EU’s enforcement timeline; a compliance deadline in 2025 could force Apple to retire Lightning entirely, making the UAC either a stepping stone or a dead end.
+
+## Updates
+
+- **2026-10-02** — Apple will limit Mac disk access as AI agents ‘substantially’ increase risk ([source](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents))

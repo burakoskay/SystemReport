@@ -1,18 +1,20 @@
 ---
 title: "Tech Roundup: Strava Cracks Down on Scrapers"
 date: 2026-06-01T17:53:58.769Z
+modified_date: 2026-10-02T21:44:18.042Z
 tags: ["Strava","DuckDuckGo","BYD"]
 hero_image: "/hero/2026-06-01-tech-roundup-strava-cracks-down-on-scrapers-404e2e.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Strava"
 description: "Strava to charge developers for API access, DuckDuckGo boosts 'no-AI' search, and more tech updates."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-01-tech-roundup-strava-cracks-down-on-scrapers-404e2e.mp3"
 audio_bytes: 568887
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Strava Takes Aim at Scrapers Ahead of IPO
@@ -73,3 +75,6 @@ As the tech landscape continues to evolve, several key developments are worth wa
 
 The intersection of technology and regulation will also be an area to watch. As self-driving technology becomes more prevalent, regulators and lawmakers will need to grapple with the implications of liability and safety. The outcome of these discussions could have significant implications for the tech industry as a whole.
 
+## Updates
+
+- **2026-10-02** — HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once ([source](https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/))

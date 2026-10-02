@@ -1,15 +1,17 @@
 ---
 title: "Apple's September slate: iPhone 18 Pro tweaks, Watch ceramic"
 date: 2026-08-20T00:54:58.092Z
+modified_date: 2026-10-02T21:44:10.742Z
 tags: ["apple","iphone","apple-watch","airpods","tech-news"]
 hero_image: "/hero/2026-08-20-apple-s-september-slate-iphone-18-pro-tweaks-watch-ceramic-edc918.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "Apple event stage with iPhone and Watch prototypes"
 description: "Apple's upcoming September event promises iPhone 18 Pro design updates, a ceramic Apple Watch Series 12, and iOS 27 AirPods enhancements."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Apple is set to unveil more than a dozen new products at its September event, and the rumors already signal a shift in design language and user experience.
 
@@ -52,3 +54,7 @@ The September event will test whether Apple can maintain its premium narrative w
 ## What to watch next
 
 The next week will reveal the official September event date. After the keynote, track pre‑order volumes for the iPhone 18 Pro, the ceramic Apple Watch Series 12, and any AirPods revisions. Pay attention to Apple’s pricing announcements, especially for the ceramic case, which could set a new premium tier. Finally, monitor regulatory commentary on the health data collected by AirPods, as any compliance issues could affect rollout timelines.
+
+## Updates
+
+- **2026-10-02** — 9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience ([source](https://9to5mac.com/2026/10/02/9to5mac-overtime-084-iphone-18-pro-a-fantastic-pro-camera-experience/))

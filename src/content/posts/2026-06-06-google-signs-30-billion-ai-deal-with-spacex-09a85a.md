@@ -1,18 +1,20 @@
 ---
 title: "Google signs $30 billion AI deal with SpaceX"
 date: 2026-06-06T10:11:44.299Z
+modified_date: 2026-10-02T21:44:40.243Z
 tags: ["AI","Google","SpaceX"]
 hero_image: "/hero/2026-06-06-google-signs-30-billion-ai-deal-with-spacex-09a85a.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center"
 description: "Google agrees to pay SpaceX $920 million monthly for AI data center usage in a $30 billion deal."
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-06-06-google-signs-30-billion-ai-deal-with-spacex-09a85a.mp3"
 audio_bytes: 672332
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google's Billion-Dollar Bet on AI Infrastructure
@@ -47,3 +49,6 @@ As the AI infrastructure market continues to evolve, we can expect to see furthe
 
 The partnership between Google and SpaceX may have far-reaching implications for the AI infrastructure market. As more companies invest in AI, the demand for scalable and secure data centers will increase. This could lead to a surge in data center construction and upgrades, driving growth in the industry. Furthermore, the deal may prompt other companies to reevaluate their AI infrastructure strategies, potentially leading to a new wave of investments and partnerships in the sector.
 
+## Updates
+
+- **2026-10-02** — Friday’s Android app deals and freebies: ISLANDERS, Newtro Boxing, Planescape, more ([source](https://9to5toys.com/2026/10/02/todays-highlight-google-play-deals-20/))

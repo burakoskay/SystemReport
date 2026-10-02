@@ -1,18 +1,20 @@
 ---
 title: "AI Research Papers Flood Academic Journals"
 date: 2026-06-06T06:58:36.599Z
+modified_date: 2026-10-02T21:44:32.843Z
 tags: ["AI-generated research papers","academic publishing","peer-review system"]
 hero_image: "/hero/2026-06-06-ai-research-papers-flood-academic-journals-93c883.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI-generated research papers"
 description: "AI-generated research papers overwhelm academic journals, straining the peer-review system and making it hard to detect low-quality or fraudulent submissions."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-06-ai-research-papers-flood-academic-journals-93c883.mp3"
 audio_bytes: 557393
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Influx of AI-Generated Papers
@@ -69,3 +71,6 @@ The academic community needs to adapt to the changing landscape of research pape
 
 The development of new strategies to detect and filter out AI-generated papers will require a collaborative effort from researchers, publishers, and journal editors. It will also require the development of new technologies and tools to support the detection and filtering of AI-generated papers.
 
+## Updates
+
+- **2026-10-02** — The Pixel 4 is still my favorite Google smartphone hardware, and it holds up ([source](https://9to5google.com/2026/10/02/google-pixel-4-favorite-hardware-revisit/))
