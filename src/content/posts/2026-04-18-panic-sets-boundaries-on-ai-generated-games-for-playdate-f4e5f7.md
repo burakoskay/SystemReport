@@ -1,16 +1,17 @@
 ---
 title: "Panic Sets Boundaries on AI-Generated Games for Playdate"
 date: 2026-04-18T01:10:47.743Z
-modified_date: 2026-09-27T13:29:22.429Z
+modified_date: 2026-10-02T03:35:43.333Z
 tags: ["Playdate","AI","gaming","artistic integrity"]
 hero_image: "/hero/2026-04-18-panic-sets-boundaries-on-ai-generated-games-for-playdate-f4e5f7.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Playdate console"
 description: "Panic bans generative AI for art, audio, music, text, and dialog in Playdate games, citing artistic integrity."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The policy change comes as Playdate prepares to release new titles. Developers m
 
 ## Updates
 
+- **2026-10-02** — Apple commissions photographers for new ‘Shot on iPhone Duo’ campaign ([source](https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/))
 - **2026-09-27** — Apple hit with $5.7 billion verdict over Taptic Engine patent infringement ([source](https://9to5mac.com/2026/09/27/apple-hit-with-5-7-billion-verdict-over-taptic-engine-patent-infringement/))
 - **2026-09-15** — Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work ([source](https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/))
 - **2026-09-13** — Sam Altman says OpenAI won't file for IPO this year ([source](https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/))

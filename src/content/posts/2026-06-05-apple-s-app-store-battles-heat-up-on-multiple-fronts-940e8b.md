@@ -1,18 +1,20 @@
 ---
 title: "Apple's App Store Battles Heat Up on Multiple Fronts"
 date: 2026-06-05T04:12:52.935Z
+modified_date: 2026-10-02T03:35:13.571Z
 tags: ["Apple","App Store","antitrust"]
 hero_image: "/hero/2026-06-05-apple-s-app-store-battles-heat-up-on-multiple-fronts-940e8b.jpg"
 hero_image_credit_name: "Andréa Devillier"
 hero_image_credit_url: "https://www.pexels.com/@maisonlighthouse"
 visual_keyword: "Apple"
 description: "Epic Games asks US Supreme Court to deny Apple's petition in App Store case, as Apple faces antitrust actions in the US and EU."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-06-05-apple-s-app-store-battles-heat-up-on-multiple-fronts-940e8b.mp3"
 audio_bytes: 561991
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The Ongoing App Store Wars
@@ -75,3 +77,6 @@ The outcome of these cases could potentially lead to changes in the way that com
 
 Additionally, the company's performance in China will be closely watched, as it faces growing competition from domestic smartphone makers like Huawei.
 
+## Updates
+
+- **2026-10-02** — Apple’s reportedly developing a smart home camera that doesn’t record video ([source](https://www.theverge.com/tech/1003877/apple-security-camera-no-video))

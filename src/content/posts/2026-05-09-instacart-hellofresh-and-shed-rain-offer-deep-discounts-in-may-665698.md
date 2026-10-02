@@ -1,18 +1,20 @@
 ---
 title: "Instacart, HelloFresh, and Shed Rain Offer Deep Discounts in May"
 date: 2026-05-09T06:21:16.723Z
+modified_date: 2026-10-02T03:35:20.995Z
 tags: ["Instacart","HelloFresh","Shed Rain"]
 hero_image: "/hero/2026-05-09-instacart-hellofresh-and-shed-rain-offer-deep-discounts-in-may-665698.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Instacart $15 off, HelloFresh 55% off, Shed Rain 15% off"
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-09-instacart-hellofresh-and-shed-rain-offer-deep-discounts-in-may-665698.mp3"
 audio_bytes: 660629
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Instacart released a $15 off code for May 2026. HelloFresh and Shed Rain posted discounts of up to 55% off meal kits and 15% off umbrellas, respectively.
 ## Instacart’s $15 May Coupon
@@ -47,3 +49,7 @@ These discounts have been effective in driving sales and attracting new customer
 ## Broader Implications
 The discounts and promotions offered by Instacart, HelloFresh, and Shed Rain have broader implications for the online retail industry. They demonstrate the importance of pricing and promotion strategies in driving sales and attracting new customers.
 They also highlight the challenges of maintaining profit margins in a competitive market. As companies continue to offer deep discounts and promotions, they must carefully balance the need to drive sales with the need to maintain profitability.
+
+## Updates
+
+- **2026-10-02** — Whatever AI Safety Is, It’s Not This ([source](https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/))

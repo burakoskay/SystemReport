@@ -1,15 +1,17 @@
 ---
 title: "DoD disables ad tracking on soldiers after hostile location"
 date: 2026-09-04T23:51:51.385Z
+modified_date: 2026-10-02T03:35:35.855Z
 tags: ["defense","privacy","technology","policy"]
 hero_image: "/hero/2026-09-04-dod-disables-ad-tracking-on-soldiers-after-hostile-location-0f1e92.jpg"
 hero_image_credit_name: "Kamaji Ogino"
 hero_image_credit_url: "https://www.pexels.com/@kamaji-ogino"
 visual_keyword: "soldier smartphone with blurred location data overlay"
 description: "The Pentagon halted advertising IDs on service members' phones after intelligence linked location data to enemy attacks, raising privacy and security stakes."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 ## Immediate Action
 
@@ -40,3 +42,7 @@ Privacy‑focused startups are also positioning themselves to fill the gap left 
 ## What to Watch
 
 The Pentagon’s policy change will be reviewed by the Office of the Secretary of Defense during the upcoming quarterly security assessment. Observers should monitor any amendments to the DoD’s mobile device management guidelines, especially provisions that could extend beyond advertising IDs to broader telemetry controls. Additionally, congressional oversight committees may request briefings on the effectiveness of the measure in preventing hostile targeting. Tracking the outcomes of these reviews will indicate whether the DoD’s approach becomes a template for other federal agencies facing similar data‑exploitation threats.
+
+## Updates
+
+- **2026-10-02** — Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming ([source](https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/))
