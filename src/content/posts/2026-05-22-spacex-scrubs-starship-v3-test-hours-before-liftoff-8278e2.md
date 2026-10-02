@@ -1,16 +1,17 @@
 ---
 title: "SpaceX Scrubs Starship V3 Test Hours Before Liftoff"
 date: 2026-05-22T04:04:57.096Z
-modified_date: 2026-09-22T13:02:53.298Z
+modified_date: 2026-10-02T17:16:58.642Z
 tags: ["SpaceX","Starship V3","Space Exploration"]
 hero_image: "/hero/2026-05-22-spacex-scrubs-starship-v3-test-hours-before-liftoff-8278e2.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX Starship V3"
 description: "SpaceX halted the first Starship V3 launch on May 21"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ The Starship program has the potential to facilitate international cooperation i
 
 ## Updates
 
+- **2026-10-02** — Samsung just raised the price on several more Galaxy phones in the US ([source](https://9to5google.com/2026/10/02/samsung-just-raised-the-price-on-several-more-galaxy-phones-in-the-us/))
 - **2026-09-22** — 9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game" ([source](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html))
 - **2026-08-28** — AI industry says Trump plans to tax chips in the “single dumbest way imaginable” ([source](https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/))
 - **2026-08-24** — F1 in the Netherlands: The driver you most want to beat is your teammate ([source](https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/))

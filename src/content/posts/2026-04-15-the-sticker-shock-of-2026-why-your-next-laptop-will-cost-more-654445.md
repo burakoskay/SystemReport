@@ -1,16 +1,17 @@
 ---
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
-modified_date: 2026-09-29T07:46:36.560Z
+modified_date: 2026-10-02T17:15:09.037Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
 hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ Industry observers and frustrated consumers alike are left grappling with what h
 
 ## Updates
 
+- **2026-10-02** — TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer ([source](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/))
 - **2026-09-29** — Nothing’s New Headphone (1) Pro Are Made for the Studio ([source](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/))
 - **2026-08-04** — How to get the best hotel deals for TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/))
 - **2026-07-31** — Review: The Galaxy Z Fold 8 Ultra ticks every box, but it’s the boring option now ([source](https://9to5google.com/2026/07/31/review-galaxy-z-fold-8-ultra/))

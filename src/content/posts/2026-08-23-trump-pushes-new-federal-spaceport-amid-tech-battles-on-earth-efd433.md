@@ -1,15 +1,17 @@
 ---
 title: "Trump Pushes New Federal Spaceport Amid Tech Battles on Earth"
 date: 2026-08-23T04:39:30.835Z
+modified_date: 2026-10-02T17:15:52.923Z
 tags: ["space","autonomous-vehicles","seismic-imaging","defense"]
 hero_image: "/hero/2026-08-23-trump-pushes-new-federal-spaceport-amid-tech-battles-on-earth-efd433.jpg"
 hero_image_credit_name: "Ocean Camera Space Corp."
 hero_image_credit_url: "https://www.pexels.com/@ocean-camera-space-corp-154798791"
 visual_keyword: "futuristic spaceport under construction with rockets and storm clouds"
 description: "Trump calls for a heavy‑lift spaceport while Waymo ramps lobbying, Romania strikes a Russian drone boat, and storms aid seismic imaging."
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 The White House announced a plan for a new federal spaceport capable of heavy and super‑heavy launches. "We probably need another site that's capable of heavy and super heavy launch capability," President Donald Trump said in the policy brief.
 
@@ -38,3 +40,7 @@ Uber, by contrast, has pursued a more incremental approach, testing driver‑ass
 What to watch: Congress will soon consider a bill that could allocate federal land for a heavy‑lift spaceport, a decision that will affect NASA, the Department of Defense, and private launch firms. The Federal Trade Commission is expected to issue guidance on autonomous vehicle safety standards, a ruling that will determine whether Waymo’s vision of driverless taxis can scale. Defense ministries across NATO will review protocols for countering unmanned maritime threats after Romania’s recent strike. Finally, energy companies are testing fiber‑optic seismic arrays in pilot projects; industry adoption rates will reveal whether storm‑powered imaging can replace conventional surveys.
 
 Each of these fronts will test how quickly policy can keep pace with rapid technological change. The next few months could redraw the map of American space launch, reshape urban mobility, and redefine security in the seas that feed Europe’s energy needs.
+
+## Updates
+
+- **2026-10-02** — Star Wars: Galactic Racer is my childhood podracing dream come true ([source](https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review))

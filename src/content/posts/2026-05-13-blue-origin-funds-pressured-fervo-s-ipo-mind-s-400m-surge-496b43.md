@@ -1,15 +1,17 @@
 ---
 title: "Blue Origin Funds Pressured; Fervo's IPO, Mind's $400M Surge"
 date: 2026-05-13T18:13:30.867Z
+modified_date: 2026-10-02T17:17:27.690Z
 tags: ["blue-origin","fervo-energy","mind-robotics","funding-trends","geothermal-energy"]
 hero_image: "/hero/2026-05-13-blue-origin-funds-pressured-fervo-s-ipo-mind-s-400m-surge-496b43.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "space rocket and geothermal power plant with robotic arm in the background"
 description: "Blue Origin faces funding pressure as geothermal startup Fervo Energy and Mind Robotics secure major investments."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Blue Origin may need outside investors to meet its rocket launch targets. The company's founder, Jeff Bezos, hasn't been able to fund its ambitions alone, according to reports. Meanwhile, geothermal startup Fervo Energy saw its stock jump 33% on its IPO debut, and Mind Robotics just raised another $400 million.
 
@@ -36,3 +38,7 @@ Unlike many robotics startups that focus on consumer markets, Mind targets indus
 ## What's Next for the Sector
 
 Blue Origin's funding situation will crystallize in the next six months. If the company struggles to secure terms it finds acceptable, it may delay launches or pivot toward government contracts. Fervo Energy has 18 months to scale operations before its first geothermal plant reaches capacity. And Mind Robotics faces a concrete test: can it deploy 10,000 units by 2027, as its roadmap claims? The answers to these questions will shape not just company fortunes, but the entire space and energy infrastructure landscape.
+
+## Updates
+
+- **2026-10-02** — AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree ([source](https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/))

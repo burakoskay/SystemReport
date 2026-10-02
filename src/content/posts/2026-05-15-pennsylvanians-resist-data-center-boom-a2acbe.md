@@ -1,16 +1,17 @@
 ---
 title: "Pennsylvanians Resist Data Center Boom"
 date: 2026-05-15T21:23:31.355Z
-modified_date: 2026-10-01T01:01:37.993Z
+modified_date: 2026-10-02T17:16:07.502Z
 tags: ["data center","pennsylvania","regulation","community engagement","industry impact"]
 hero_image: "/hero/2026-05-15-pennsylvanians-resist-data-center-boom-a2acbe.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center landscape"
 description: "Pennsylvanians voice concerns about the rapid growth of data centers in their state, citing transparency and public trust issues."
-sources_count: 18
+sources_count: 19
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ As the data center boom continues to spread, it will be essential to track the d
 
 ## Updates
 
+- **2026-10-02** — If a data center is camouflaged in the woods, will anyone hate it? ([source](https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry))
 - **2026-10-01** — The Disney protests were a wake-up call about the risks of streaming mergers ([source](https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/))
 - **2026-09-20** — What You Need to Know About the Foreign-Made Router Ban in the US ([source](https://www.wired.com/story/us-government-foreign-made-router-ban-explained/))
 - **2026-09-14** — Will GTA 6's Ultimate Edition be worth the extra cost? Here's what it'll come with ([source](https://www.engadget.com/2253053/gta-6-ultimate-edition-what-comes-with/))

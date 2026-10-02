@@ -1,16 +1,17 @@
 ---
 title: "Google Pledges 7-Year Updates for Pixel 8, Android Ecosystem Lags"
 date: 2026-05-06T23:03:43.188Z
-modified_date: 2026-10-02T10:15:00.533Z
+modified_date: 2026-10-02T17:16:29.291Z
 tags: ["android-updates","pixel-8","obtainium"]
 hero_image: "/hero/2026-05-06-google-pledges-7-year-updates-for-pixel-8-android-ecosystem-lags-f36a4d.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract geometric shapes in blue and green tones"
 description: "Google extends software support for Pixel 8 to 2030, but Android’s update chaos persists. Samsung and Apple still dominate."
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ Google’s Pixel 8 update timeline will determine whether it can keep up with An
 
 ## Updates
 
+- **2026-10-02** — Amazon Says It’s No Longer Using NDAs for Data Centers ([source](https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/))
 - **2026-10-02** — 31 Best STEM Toys for Kids (2026): Learning Made Fun ([source](https://www.wired.com/gallery/best-stem-toys-for-kids/))
 - **2026-10-01** — Best Gifts for Parents (and Their Babies): Bottle Washers, Prepared Meals, and More ([source](https://www.wired.com/story/gifts-for-parents-2026/))
 - **2026-08-31** — Alienware’s budget-friendly QD-OLED is discounted for the first time ([source](https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale))

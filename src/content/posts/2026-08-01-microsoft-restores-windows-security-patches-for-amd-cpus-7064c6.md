@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Restores Windows Security Patches for AMD CPUs"
 date: 2026-08-01T22:54:31.032Z
-modified_date: 2026-09-03T19:02:44.049Z
+modified_date: 2026-10-02T17:15:16.244Z
 tags: ["windows","amd","security","updates"]
 hero_image: "/hero/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.jpg"
 hero_image_credit_name: "Erik G"
 hero_image_credit_url: "https://www.pexels.com/@erik-g-12654570"
 visual_keyword: "computer screen showing Windows update warning on AMD processor"
 description: "Microsoft resumes Windows updates on older AMD chips after fixing a block that risked bricking devices, citing Spectre and Meltdown mitigations."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.mp3"
 audio_bytes: 553422
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Enterprises should monitor upcoming Windows security releases for any repeat of 
 
 ## Updates
 
+- **2026-10-02** — Rivian issues R2 recall for poorly tightened battery packs ([source](https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/))
 - **2026-09-03** — This ultra-thin Lenovo laptop concept uses solid-state cooling ([source](https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling))
 - **2026-08-23** — The End of an Athlon ([source](http://www.os2museum.com/wp/the-end-of-an-athlon/))
 - **2026-08-07** — The world's biggest solar telescope caught vortexes on the Sun's surface ([source](https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/))

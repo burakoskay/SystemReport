@@ -1,19 +1,20 @@
 ---
 title: "Deep discounts hit tablets, phones and student AI tools"
 date: 2026-06-02T16:46:13.398Z
-modified_date: 2026-09-16T14:32:35.380Z
+modified_date: 2026-10-02T17:15:38.118Z
 tags: ["deals","tablets","student-tools","ai","discounts"]
 hero_image: "/hero/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "stack of discounted tech devices and student laptop with AI icons"
 description: "Lenovo, Samsung and Apple slash prices while a flood of student AI bundles reshapes the developer toolkit market."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.mp3"
 audio_bytes: 684662
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ For consumers, the immediate effect is a rare window to acquire premium devices 
 
 ## Updates
 
+- **2026-10-02** — Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’ ([source](https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out))
 - **2026-09-16** — Meta is reportedly ready to launch less pervy smart glasses ([source](https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect))
 - **2026-09-16** — Apple explains how the iPhone 18 Pro’s new Reference Image camera mode works ([source](https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/))
 - **2026-08-14** — Apple trained its own AI model for China with help from Alibaba ([source](https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba))

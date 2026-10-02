@@ -1,15 +1,17 @@
 ---
 title: "China's Tiangong Achieves Artificial Photosynthesis Breakthrough"
 date: 2026-05-23T13:47:42.262Z
+modified_date: 2026-10-02T17:15:23.486Z
 tags: ["artificial photosynthesis","space exploration","China's space program"]
 hero_image: "/hero/2026-05-23-china-s-tiangong-achieves-artificial-photosynthesis-breakthrough-a94511.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Tiangong space station"
 description: "Chinese astronauts on the Tiangong space station have successfully demonstrated a new artificial photosynthesis technology, converting carbon dioxide and water into oxygen and rocket fuel ingredients."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 
 ## China's Tiangong Space Station Achieves Artificial Photosynthesis Breakthrough
@@ -63,3 +65,7 @@ The use of artificial photosynthesis could also have implications for the global
 ## Conclusion
 
 The successful demonstration of artificial photosynthesis on the Tiangong space station marks a significant breakthrough in China's space exploration ambitions. The technology has the potential to enhance the sustainability of long-term space missions and could play a crucial role in China's planned moon base. As the space industry continues to evolve, artificial photosynthesis could become a critical component of sustainable space exploration.
+
+## Updates
+
+- **2026-10-02** — Keurig’s new machine uses plastic-free compressed coffee pucks ([source](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder))
