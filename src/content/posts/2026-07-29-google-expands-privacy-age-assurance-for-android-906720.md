@@ -1,16 +1,17 @@
 ---
 title: "Google expands privacy age assurance for Android"
 date: 2026-07-29T20:55:27.873Z
-modified_date: 2026-07-29T22:56:53.903Z
+modified_date: 2026-10-03T17:44:16.101Z
 tags: ["google","privacy","age-assurance","android","zkp"]
 hero_image: "/hero/2026-07-29-google-expands-privacy-age-assurance-for-android-906720.jpg"
 hero_image_credit_name: "Andrea Piacquadio"
 hero_image_credit_url: "https://www.pexels.com/@olly"
 visual_keyword: "developer using Android phone with age verification overlay"
 description: "Google opens its Play Age Signals API, pilots U.S. age assurance, and releases zero‑knowledge proof tools to help developers protect under‑18 users."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Play Age Signals API goes global
@@ -38,6 +39,7 @@ Watch for the next wave of Play Age Signals adoption reports from major app publ
 
 ## Updates
 
+- **2026-10-03** — What's the difference between Google Pay and Google Wallet? ([source](https://www.engadget.com/2273339/google-pay-vs-wallet-differences-explained/))
 - **2026-07-29** — Google Play is expanding age confirmation tools for app developers ([source](https://www.engadget.com/2226632/google-play-is-expanding-age-confirmation-tools-for-app-developers/))
 
 [^1]: [androidheadlines.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi4F4zvj5GpDqYevLWty6RhuqgAXzEfbU9-vWHyvB0tsVWlQ5v11qIMBsOlYm5zYHfFwrLdS5Lz4PfA3zrQRmfaqLJVH7sjlxVJyBnQQH11IWjf6xOXPxwm5LLqsLgtT_Hp8GGq9wKCj16PrJ9folYVOPcA4BHc0s1uLJDpWnOTsNPjOQ8nvb42wOZ0aZWUapRXA3asAnWRJTeEQ==)

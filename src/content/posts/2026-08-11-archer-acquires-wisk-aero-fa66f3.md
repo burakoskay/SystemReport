@@ -1,16 +1,17 @@
 ---
 title: "Archer Acquires Wisk Aero"
 date: 2026-08-11T10:46:59.371Z
-modified_date: 2026-08-17T16:20:52.376Z
+modified_date: 2026-10-03T17:44:23.639Z
 tags: ["eVTOL","Archer","Wisk Aero"]
 hero_image: "/hero/2026-08-11-archer-acquires-wisk-aero-fa66f3.jpg"
 hero_image_credit_name: "Joerg Mangelsen"
 hero_image_credit_url: "https://www.pexels.com/@joerg-mangelsen-337913024"
 visual_keyword: "eVTOL aircraft"
 description: "Archer buys former rival Wisk Aero"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to the Acquisition
@@ -30,4 +31,5 @@ Archer and Wisk have a complex history, with the two companies once embroiled in
 
 ## Updates
 
+- **2026-10-03** — California will fine robotaxi companies if their vehicles block first responders ([source](https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/))
 - **2026-08-17** — WordPress.com targets the next generation of web creators with a free student plan ([source](https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/))

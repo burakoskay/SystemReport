@@ -1,19 +1,20 @@
 ---
 title: "Microsoft leaks internal tool, exposing Windows 11 features"
 date: 2026-05-18T18:07:07.084Z
-modified_date: 2026-05-26T15:50:12.724Z
+modified_date: 2026-10-03T17:44:46.144Z
 tags: ["windows","security","features"]
 hero_image: "/hero/2026-05-18-microsoft-leaks-internal-tool-exposing-windows-11-features-f107ce.jpg"
 hero_image_credit_name: "Edward Jenner"
 hero_image_credit_url: "https://www.pexels.com/@edward-jenner"
 visual_keyword: "Windows 11 taskbar with hidden feature toggle overlay"
 description: "Leaked StagingTool and a Recall vulnerability give power users and attackers new access to Windows 11 internals while the OS finally restores long‑missing taskbar options."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-18-microsoft-leaks-internal-tool-exposing-windows-11-features-f107ce.mp3"
 audio_bytes: 577037
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ If Microsoft wants to preserve the benefits of feature‑flag agility without ha
 
 ## Updates
 
+- **2026-10-03** — Splice CEO Kakul Srivastava thinks AI emails are killing conversations ([source](https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview))
 - **2026-05-26** — Spotify is narrating magazine articles now ([source](https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability))
 - **2026-05-18** — Musk v. Altman proved that AI is led by the wrong people ([source](https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people))

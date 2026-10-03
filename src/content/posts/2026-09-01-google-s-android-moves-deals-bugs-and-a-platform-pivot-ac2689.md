@@ -1,16 +1,17 @@
 ---
 title: "Google’s Android Moves: Deals, Bugs, and a Platform Pivot"
 date: 2026-09-01T19:11:48.081Z
-modified_date: 2026-09-07T02:20:22.127Z
+modified_date: 2026-10-03T17:44:38.657Z
 tags: ["android","google","pixel","apps"]
 hero_image: "/hero/2026-09-01-google-s-android-moves-deals-bugs-and-a-platform-pivot-ac2689.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "Android smartphone with app icons and code overlay"
 description: "A rundown of fresh Android app discounts, Pixel 11 beta rollout, Meet hardware shift to Android, and new AI tools amid a Play Store crackdown."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 ## Android app discounts heat up the holiday crawl
@@ -49,4 +50,5 @@ Keep an eye on the next Pixel 11 patch that should silence the static‑audio 
 
 ## Updates
 
+- **2026-10-03** — The Pixel 5 doesn’t get enough credit for making the best of a bad situation ([source](https://9to5google.com/2026/10/03/google-pixel-5-revisit-bad-situation/))
 - **2026-09-07** — The pros and cons of using wireless Android Auto ([source](https://www.engadget.com/2248846/pros-and-cons-wireless-android-auto/))
