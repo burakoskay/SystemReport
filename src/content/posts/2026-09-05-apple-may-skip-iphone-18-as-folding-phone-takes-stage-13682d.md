@@ -1,18 +1,20 @@
 ---
 title: "Apple May Skip iPhone 18 as Folding Phone Takes Stage"
 date: 2026-09-05T14:25:35.873Z
+modified_date: 2026-10-03T12:57:08.020Z
 tags: ["apple","iphone","watchos","icloud","folding-phone"]
 hero_image: "/hero/2026-09-05-apple-may-skip-iphone-18-as-folding-phone-takes-stage-13682d.jpg"
 hero_image_credit_name: "vee terzy"
 hero_image_credit_url: "https://www.pexels.com/@veeterzy"
 visual_keyword: "Apple event stage with folding smartphone prototype"
 description: "Apple's September event may debut a folding phone while skipping the iPhone 18, raising questions about its roadmap and upcoming watchOS changes."
-sources_count: 10
-author: "david-okafor"
+sources_count: 11
 audio_path: "/audio/2026-09-05-apple-may-skip-iphone-18-as-folding-phone-takes-stage-13682d.mp3"
 audio_bytes: 569723
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple’s September Event Lineup
 Apple will host its annual September showcase next week. The agenda includes several hardware announcements, according to WIRED. A folding phone appears on the roster for the first time. The same source notes that the iPhone 18 may be absent from the lineup. Skipping a numbered iPhone would break a decade‑long cadence.
@@ -37,3 +39,7 @@ For developers, the loss of a health metric view means re‑engineering data pip
 Track Apple’s September announcements for confirmation of the folding phone’s specifications. Verify whether the iPhone 18 is officially omitted or delayed. Monitor iCloud pricing updates in the weeks after the event, as Apple may adjust tiers to accommodate longer device lifecycles.
 Watch for user feedback on the three watchOS 27 removals. Early reports will indicate whether the changes drive churn toward competing smartwatch platforms. The next software iteration, likely watchOS 28, may restore or replace the missing features based on that feedback.
 The convergence of hardware shifts, storage strategy, and watchOS pruning will shape Apple’s ecosystem stability through the next fiscal quarter. Stakeholders should keep an eye on supply‑chain briefings, developer forum posts, and Apple’s quarterly earnings call for the clearest signals.
+
+## Updates
+
+- **2026-10-03** — 3D movies are finally worth watching ([source](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro))

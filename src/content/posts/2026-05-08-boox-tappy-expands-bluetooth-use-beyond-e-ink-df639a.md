@@ -1,16 +1,17 @@
 ---
 title: "Boox Tappy Expands Bluetooth Use Beyond E-ink"
 date: 2026-05-08T17:35:48.178Z
-modified_date: 2026-08-17T12:31:53.251Z
+modified_date: 2026-10-03T12:56:53.075Z
 tags: ["bluetooth","smartphones","software-updates","camera"]
 hero_image: "/hero/2026-05-08-boox-tappy-expands-bluetooth-use-beyond-e-ink-df639a.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "hand holding a small Bluetooth remote turning pages on an e‑ink tablet"
 description: "A new Bluetooth page‑turner, a camera‑centric flagship, and a mid‑range phone with reduced OS support expose divergent priorities in today’s hardware market."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 
@@ -52,5 +53,6 @@ Track Boox’s next firmware update for Tappy to see if additional device profil
 
 ## Updates
 
+- **2026-10-03** — Best Mosquito Repellents for Your Yard: What Works and What Doesn’t (2026) ([source](https://www.wired.com/story/best-mosquito-repellents/))
 - **2026-08-17** — CookUnity Prepared Meal Delivery Review (2026): Chef-Centric Meals ([source](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/))
 - **2026-07-26** — The hacker who humiliated spyware makers and was never caught ([source](https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/))
