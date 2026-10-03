@@ -1,15 +1,17 @@
 ---
 title: "FAA commits $875 M to AI traffic manager, eyes nationwide rollout"
 date: 2026-09-20T17:16:56.477Z
+modified_date: 2026-10-03T00:53:38.469Z
 tags: ["aviation","artificial-intelligence","regulation","faa"]
 hero_image: "/hero/2026-09-20-faa-commits-875-m-to-ai-traffic-manager-eyes-nationwide-rollout-ddc236.jpg"
 hero_image_credit_name: "Roberto"
 hero_image_credit_url: "https://www.pexels.com/@roberto-3684158"
 visual_keyword: "air traffic control tower with digital overlay of AI data streams"
 description: "The FAA plans to deploy an AI system to ease DC airspace congestion, sparking debate over safety, oversight, and military precedent."
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 ## FAA rolls out $875 M AI traffic tool for Washington corridor
 
@@ -48,3 +50,7 @@ If the FAA proceeds without clear oversight, it could set a precedent for other 
 ## What to watch
 
 The next FAA briefing, scheduled for early next year, will reveal the trial’s first‑phase results. Track the reported delay reduction percentages, the frequency of controller overrides, and any incident reports linked to AI recommendations. Parallelly, monitor congressional hearings on AI governance, especially any bills that reference the FAA’s AI program. Those data points will indicate whether the agency’s gamble pays off or fuels a broader regulatory backlash.
+
+## Updates
+
+- **2026-10-03** — From the creator of Redis; run LLM locally with ds4 ([source](https://dwarfstar.sh/))
