@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Deals and Startup Funding Opportunities"
 date: 2026-05-25T15:21:08.125Z
-modified_date: 2026-09-25T14:56:26.802Z
+modified_date: 2026-10-03T20:28:46.693Z
 tags: ["startup funding","TechCrunch Disrupt","Apple deals"]
 hero_image: "/hero/2026-05-25-techcrunch-deals-and-startup-funding-opportunities-3a925b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "startup funding"
 description: "TechCrunch offers funding opportunities for startups and discounts on Disrupt 2026 passes. Meanwhile, Apple deals are live for Memorial Day."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ The next few weeks will be critical for startups looking to secure funding, as w
 
 ## Updates
 
+- **2026-10-03** — Watch F1 on Apple TV tonight, free for everyone in the US ([source](https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp/))
 - **2026-09-25** — The 34 Best Gifts for Dads (2026) ([source](https://www.wired.com/story/best-gifts-for-dads-2026/))
 - **2026-08-14** — DeepSeek's AI models are about to cost four times more ([source](https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/))
 - **2026-06-04** — TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217; ([source](https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles))

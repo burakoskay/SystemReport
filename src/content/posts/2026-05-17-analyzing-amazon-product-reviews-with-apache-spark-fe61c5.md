@@ -1,16 +1,17 @@
 ---
 title: "Analyzing Amazon Product Reviews with Apache Spark"
 date: 2026-05-17T11:12:52.337Z
-modified_date: 2026-08-29T00:24:27.945Z
+modified_date: 2026-10-03T20:28:39.343Z
 tags: ["Apache Spark","Amazon","Data Analysis"]
 hero_image: "/hero/2026-05-17-analyzing-amazon-product-reviews-with-apache-spark-fe61c5.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apache Spark"
 description: "Apache Spark analyzes 80M Amazon reviews"
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ In conclusion, the analysis of Amazon product reviews with Apache Spark provides
 
 ## Updates
 
+- **2026-10-03** — The original PlayStation 2 security chip has been reverse engineered ([source](https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/))
 - **2026-08-29** — Mice, a Caved-In Ceiling, and Cloudy Water: The GSA’s New Office Is Falling Apart ([source](https://www.wired.com/story/mice-a-caved-in-ceiling-and-cloudy-water-the-gsas-new-office-is-falling-apart/))
 - **2026-07-31** — This new drone spins so fast the human eye can barely see it ([source](https://www.engadget.com/2222974/phantom-twist-drone-spins-so-fast-human-eye-barely-see/))

@@ -1,16 +1,17 @@
 ---
 title: "Nintendo’s Discount Relies on Hoarded Tariff Refunds as Handheld"
 date: 2026-09-11T14:09:00.780Z
-modified_date: 2026-09-26T14:01:28.072Z
+modified_date: 2026-10-03T20:28:16.965Z
 tags: ["nintendo","handheld","accessibility","gaming"]
 hero_image: "/hero/2026-09-11-nintendo-s-discount-relies-on-hoarded-tariff-refunds-as-handheld-4fd9d2.jpg"
 hero_image_credit_name: "Nguyễn Dung"
 hero_image_credit_url: "https://www.pexels.com/@nguy-n-dung-200024951"
 visual_keyword: "Nintendo Switch console on sale shelf with price tags"
 description: "Nintendo funds a steep Switch price cut with tariff refunds while lagging on accessibility and facing smartphone competition; Sony’s portable PlayStation looms."
-sources_count: 8
+sources_count: 9
 author: "elena-marchetti"
 ---
+
 
 
 ## Nintendo’s Discount Relies on Hoarded Tariff Refunds
@@ -47,6 +48,7 @@ The coming weeks will reveal whether Nintendo’s tariff‑refund‑funded disco
 
 ## Updates
 
+- **2026-10-03** — The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike ([source](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/))
 - **2026-09-26** — OpenAI's agents targeted and infiltrated US government websites ([source](https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy9blgbpJnjIIBvgZpxt5Sfrz4L1KcM1nAGLo3L-BOrODdv2pwc2NKoykPUwzdYiRmeN7I7-zKE27DfvfJOLG5FXM1e7O1-OpF86n_y-fFhXgfRAbCcX6ILDLRTV5rP6t7bmvV1oXznzOpAQIxew5QHh-1FxKfoBe68Tgt7zvWAVKFQ-wXIfK6dWGm-_BErYcG-RWOcoKp5R9KAFrTml47rZym-7k=)

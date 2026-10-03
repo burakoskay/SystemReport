@@ -1,15 +1,17 @@
 ---
 title: "Affordable Gaming Laptops"
 date: 2026-08-08T04:51:56.226Z
+modified_date: 2026-10-03T20:28:54.022Z
 tags: ["Gaming Laptops","Budget Gaming","Lenovo","MSI","Alienware"]
 hero_image: "/hero/2026-08-08-affordable-gaming-laptops-462e3d.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "Gaming Laptop"
 description: "Lenovo, MSI, and Alienware offer gaming laptops with decent performance"
-sources_count: 1
+sources_count: 2
 author: "david-okafor"
 ---
+
 
 ## Affordable Gaming Laptops
 Gaming laptop prices are rising, driven by demand for high-performance hardware and premium features. Lenovo, MSI, and Alienware offer decent performance without significant compromises. These manufacturers have managed to strike a balance between price and performance, making gaming laptops more accessible to a wider audience.
@@ -29,3 +31,7 @@ The market for affordable gaming laptops is expected to continue growing, driven
 The concept of budget gaming laptops is not new, but it has evolved significantly over the years. In the past, budget gaming laptops were often plagued by poor performance, low-quality displays, and inadequate cooling systems. However, with advancements in technology and manufacturing, manufacturers have been able to create high-quality budget gaming laptops that can compete with their more expensive counterparts.
 ## Regulatory Environment
 The regulatory environment for gaming laptops is complex, with manufacturers needing to comply with various regulations and standards. For example, manufacturers must ensure that their laptops meet certain safety and environmental standards, such as those related to energy efficiency and waste disposal. Additionally, manufacturers must also comply with regulations related to intellectual property and copyright protection.
+
+## Updates
+
+- **2026-10-03** — Here’s why I upgraded from the Apple Watch Series 10 to Series 12 ([source](https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/))
