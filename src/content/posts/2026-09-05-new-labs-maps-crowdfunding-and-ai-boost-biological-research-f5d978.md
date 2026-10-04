@@ -1,18 +1,20 @@
 ---
 title: "New Labs, Maps, Crowdfunding and AI Boost Biological Research"
 date: 2026-09-05T14:28:42.320Z
+modified_date: 2026-10-04T00:18:32.491Z
 tags: ["biology","ai","crowdfunding","neuroscience","research"]
 hero_image: "/hero/2026-09-05-new-labs-maps-crowdfunding-and-ai-boost-biological-research-f5d978.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "scientist in soundproof chamber observing caterpillars"
 description: "Scientists use ultraquiet chambers, complete fly brain maps, a crowdfunding platform, and upgraded AI reasoning to accelerate biology research."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-09-05-new-labs-maps-crowdfunding-and-ai-boost-biological-research-f5d978.mp3"
 audio_bytes: 557811
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## New tools let biologists listen to silent insects
 
@@ -37,3 +39,7 @@ Deep Think now scores gold‑medal levels on the written sections of the 2025 In
 ## What to watch
 
 The next few months will reveal whether ultraquiet chambers become standard equipment for insect acoustics labs. Follow publications that cite the caterpillar study for new sensor designs. Track the release of a third, higher‑resolution fruit fly connectome that promises to add sub‑cellular detail. Monitor Petridish’s first cohort of fully funded projects to see if crowd‑backed science can meet peer‑review standards. Finally, watch the adoption rate of Gemini Deep Think’s API as universities and biotech firms integrate the tool into their pipelines. Each of these signals will show how quickly novel methods reshape biological discovery.
+
+## Updates
+
+- **2026-10-04** — How has Apple's Mac Studio changed over the years? ([source](https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/))
