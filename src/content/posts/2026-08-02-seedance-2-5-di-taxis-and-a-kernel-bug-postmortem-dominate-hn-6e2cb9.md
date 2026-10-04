@@ -1,15 +1,17 @@
 ---
 title: "Seedance 2.5, Diátaxis, and a Kernel Bug Postmortem Dominate HN"
 date: 2026-08-02T02:13:24.337Z
+modified_date: 2026-10-04T13:37:57.848Z
 tags: ["bytedance","documentation","linux","cooking"]
 hero_image: "/hero/2026-08-02-seedance-2-5-di-taxis-and-a-kernel-bug-postmortem-dominate-hn-6e2cb9.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "tech newsroom collage with code, documentation pages, cooking pot"
 description: "A look at ByteDance’s Seedance 2.5, the Diátaxis docs framework, a Linux kernel bug postmortem, and a pressure‑cooker pho recipe that sparked HN discussion."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 Seedance 2.5 hit Hacker News with a burst of 180 points and a lively comment thread of 82 replies, instantly flagging it as the most talked‑about release of the week. The buzz isn’t about marketing fluff; it’s about a concrete shift in how ByteDance’s content platform handles asset referencing.[^3]
 
@@ -37,6 +39,9 @@ The article walks readers through a step‑by‑step process: sear the chicken, 
 
 What to watch: ByteDance plans a follow‑up to Seedance 2.5 that promises multi‑stage rollback support; keep an eye on the upcoming release notes in September.[^3] The Diátaxis community is drafting a version 2.0 spec that will address version control integration—watch the GitHub repo for a beta in Q4. Linux kernel maintainers have pledged a quarterly audit of soundness bugs after the #14576 episode; the next audit report is due early next year. Finally, Serious Eats hinted at a “smart‑kitchen” series that could blend IoT sensors with recipe timing—track the brand’s partnership announcements for any API releases.
 
+## Updates
+
+- **2026-10-04** — Internet speeds vs. bandwidth: What's the difference? ([source](https://www.engadget.com/2273852/internet-speeds-vs-bandwidth-differences/))
 
 [^1]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsSI99b7SWGMb9eh-HXMOGwyHMPlz-U2OuwohvhGizp31jcIgIUNY-C2NyfCWTVqFO_yBNxENs0-ame3LXl2RdYovxaGlrkhLgkdNXE2iB9tWWEYS7EX70y_X4XA==)
 [^2]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEuC9F9g_KpCB6gWkQiUO-beebVpshpO7A_kYGhG8H-65h_cJE-pEb8q92FkKITcydIhXN8jjzCQ9KZ8jiLbHZ_SLqXHYLTusqCmhcN02yJbVavoG6pK6N)

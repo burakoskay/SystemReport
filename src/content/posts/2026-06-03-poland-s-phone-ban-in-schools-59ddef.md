@@ -1,19 +1,20 @@
 ---
 title: "Poland's Phone Ban in Schools"
 date: 2026-06-03T11:11:33.235Z
-modified_date: 2026-08-14T18:45:38.153Z
+modified_date: 2026-10-04T13:37:21.727Z
 tags: ["education","technology","Poland"]
 hero_image: "/hero/2026-06-03-poland-s-phone-ban-in-schools-59ddef.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "school"
 description: "Poland's government approves bill to ban phones in classrooms, sparking debate on education and tech's role."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-03-poland-s-phone-ban-in-schools-59ddef.mp3"
 audio_bytes: 545690
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The impact of the ban on student performance and the potential for other countri
 
 ## Updates
 
+- **2026-10-04** — The AirPods Pro 3 are a fantastic deal at $179 ([source](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale))
 - **2026-08-14** — The Mandalorian and Grogu will hit Disney+ on September 2 ([source](https://www.engadget.com/2237227/the-mandalorian-and-grogu-streaming-release-date/))

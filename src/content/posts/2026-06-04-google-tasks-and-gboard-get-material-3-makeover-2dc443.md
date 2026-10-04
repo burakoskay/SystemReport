@@ -1,18 +1,20 @@
 ---
 title: "Google Tasks and Gboard Get Material 3 Makeover"
 date: 2026-06-04T18:25:55.348Z
+modified_date: 2026-10-04T13:38:05.055Z
 tags: ["Google","Material 3","Android"]
 hero_image: "/hero/2026-06-04-google-tasks-and-gboard-get-material-3-makeover-2dc443.jpg"
 hero_image_credit_name: "Tobias Dziuba"
 hero_image_credit_url: "https://www.pexels.com/@tobias-dziuba-319638"
 visual_keyword: "Google Tasks"
 description: "Google Tasks and Gboard are getting a Material 3 redesign on Android, making them more expressive and visually appealing."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-06-04-google-tasks-and-gboard-get-material-3-makeover-2dc443.mp3"
 audio_bytes: 604413
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google Tasks Gets Material 3 Expressive Redesign
@@ -72,3 +74,7 @@ The company is also likely to continue to innovate and improve its apps and serv
 In conclusion, the Material 3 redesigns for Google Tasks and Gboard are a significant improvement over their predecessors. The updates provide a more cohesive and intuitive user experience, making it easier for users to navigate Google's apps and access frequently used features.
 
 The rollout of these updates is part of Google's ongoing effort to improve its apps and make them more visually appealing. Users can expect to see more updates in the coming weeks and months, and it's likely that these updates will have a significant impact on the user experience.
+
+## Updates
+
+- **2026-10-04** — What is infill in 3D printing and is it necessary? ([source](https://www.engadget.com/2273797/what-is-infill-3d-printing/))

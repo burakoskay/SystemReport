@@ -1,18 +1,20 @@
 ---
 title: "Telephoto Flagships Clash, Linux Phones Refine Hardware"
 date: 2026-05-22T20:03:14.260Z
+modified_date: 2026-10-04T13:37:50.655Z
 tags: ["smartphones","linux","hardware"]
 hero_image: "/hero/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "side-by-side comparison of high-end telephoto smartphone and open-source Linux phone hardware schematics"
 description: "Engadget pits Oppo and Vivo's telephoto flagships while Linux phones iterate on openness, revealing shifting priorities in the smartphone market."
-sources_count: 3
-author: "david-okafor"
+sources_count: 4
 audio_path: "/audio/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.mp3"
 audio_bytes: 599398
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Oppo Find X9 Ultra vs. Vivo X300 Ultra: Telephoto Showdown
 
@@ -51,3 +53,7 @@ The broader industry must reconcile these trajectories. If privacy‑focused har
 ## What to Watch
 
 Track the next firmware release for the PinePhone’s Allwinner A64; a fully mainline Wi‑Fi driver would eliminate the remaining firmware blob and set a new baseline for open‑source radios. Monitor Oppo’s and Vivo’s upcoming software updates for the Find X9 Ultra and X300 Ultra—any shift toward AI‑only zoom could alter the hardware‑first narrative. Finally, watch carrier pricing trends for flagship data plans; a sustained rise above $100 per month would reinforce the premium pricing model that underpins today’s telephoto arms race.
+
+## Updates
+
+- **2026-10-04** — All hail electrification. But let’s talk about the hard part. ([source](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/))
