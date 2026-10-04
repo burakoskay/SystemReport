@@ -1,19 +1,20 @@
 ---
 title: "NASA's Kepler Telescope Discovers New Solar System"
 date: 2026-06-07T17:25:03.634Z
-modified_date: 2026-08-13T16:51:46.640Z
+modified_date: 2026-10-04T20:51:57.774Z
 tags: ["exoplanets","NASA","Kepler space telescope"]
 hero_image: "/hero/2026-06-07-nasa-s-kepler-telescope-discovers-new-solar-system-098704.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "solar system"
 description: "NASA's Kepler telescope discovers a new solar system with eight planets, similar to our own solar system, using Google's machine learning technology."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-07-nasa-s-kepler-telescope-discovers-new-solar-system-098704.mp3"
 audio_bytes: 579754
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # NASA's Kepler Telescope Discovers New Solar System
@@ -66,4 +67,5 @@ The discovery of the Kepler-90 system is a significant milestone in the search f
 
 ## Updates
 
+- **2026-10-04** — The upcoming touchscreen OLED MacBook Pro is reportedly 'significantly lighter' ([source](https://www.engadget.com/2276786/the-upcoming-touchscreen-oled-macbook-pro-is-reportedly-significantly-lighter/))
 - **2026-08-13** — This is Instagram&#8217;s new logo ([source](https://www.theverge.com/tech/979583/this-is-instagrams-new-logo))

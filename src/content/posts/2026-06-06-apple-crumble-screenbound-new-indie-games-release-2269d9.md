@@ -1,19 +1,20 @@
 ---
 title: "Apple Crumble & Screenbound: New Indie Games Release"
 date: 2026-06-06T03:56:35.103Z
-modified_date: 2026-07-30T19:17:10.548Z
+modified_date: 2026-10-04T20:52:05.041Z
 tags: ["gaming","indie games","new releases"]
 hero_image: "/hero/2026-06-06-apple-crumble-screenbound-new-indie-games-release-2269d9.jpg"
 hero_image_credit_name: "JESHOOTS.com"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots-com-147458"
 visual_keyword: "gaming"
 description: "Several new games are set to be released, including Apple Crumble, Screenbound, Lazy River, and more. These games offer unique twists on classic genres and showcase innovative gameplay mechanics."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-06-06-apple-crumble-screenbound-new-indie-games-release-2269d9.mp3"
 audio_bytes: 610056
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,5 +81,6 @@ The technical mechanics of game development are complex and multifaceted. Develo
 
 ## Updates
 
+- **2026-10-04** — A fourth RuneScape game is under development using Unreal Engine ([source](https://www.engadget.com/2276772/a-fourth-runescape-game-is-under-development-using-unreal-engine/))
 - **2026-07-30** — 9to5Mac Daily: July 30, 2026 – iOS 26.6, Apple’s smart home plans ([source](https://9to5mac.com/2026/07/30/daily-july-30-2026/))
 - **2026-07-30** — 9to5Mac Daily: July 29, 2026 – iOS 26.6, Apple’s smart home plans ([source](https://9to5mac.com/2026/07/29/daily-july-29-2026/))
