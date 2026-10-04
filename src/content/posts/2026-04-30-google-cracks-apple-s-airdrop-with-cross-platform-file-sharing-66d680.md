@@ -1,19 +1,20 @@
 ---
 title: "Google Cracks Apple's AirDrop with Cross-Platform File Sharing"
 date: 2026-04-30T03:39:51.712Z
-modified_date: 2026-08-11T12:51:15.988Z
+modified_date: 2026-10-04T17:57:29.726Z
 tags: ["Google","Apple","Cross-Platform","File Sharing"]
 hero_image: "/hero/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Google Pixel 10"
 description: "Google's Quick Share feature allows seamless file transfers between Android and iOS devices, rivaling Apple's AirDrop."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-30-google-cracks-apple-s-airdrop-with-cross-platform-file-sharing-66d680.mp3"
 audio_bytes: 576619
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The long-term implications of Quick Share are significant. As more devices becom
 
 ## Updates
 
+- **2026-10-04** — NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment ([source](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true))
 - **2026-08-11** — China now even less likely to solve Apple’s memory crunch ([source](https://9to5mac.com/2026/08/11/china-now-even-less-likely-to-solve-apples-memory-crunch/))
 - **2026-07-30** — ChatGPT and Roblox will reportedly be subject to tighter rules in the EU ([source](https://www.engadget.com/2226821/chatgpt-roblox-vlop-eu-scrutiny/))
 - **2026-05-17** — Native all the way, until you need text ([source](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/))

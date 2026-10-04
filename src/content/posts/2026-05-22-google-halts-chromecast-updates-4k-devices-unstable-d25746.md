@@ -1,19 +1,20 @@
 ---
 title: "Google Halts Chromecast Updates, 4K Devices Unstable"
 date: 2026-05-22T20:06:44.710Z
-modified_date: 2026-07-29T20:47:57.741Z
+modified_date: 2026-10-04T17:58:25.117Z
 tags: ["google","chromecast","android"]
 hero_image: "/hero/2026-05-22-google-halts-chromecast-updates-4k-devices-unstable-d25746.jpg"
 hero_image_credit_name: "Image Hunter"
 hero_image_credit_url: "https://www.pexels.com/@image-hunter-281453274"
 visual_keyword: "close-up of a Chromecast dongle plugged into a TV with a remote beside it"
 description: "Google stops software support for most Chromecast models and rolls out Android 12, while Android 14 brings new bugs, sparking concerns for power users."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-22-google-halts-chromecast-updates-4k-devices-unstable-d25746.mp3"
 audio_bytes: 684662
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google pulls the plug on Chromecast updates
@@ -45,4 +46,5 @@ The next critical data point is Google’s response to the Android 14 connecti
 
 ## Updates
 
+- **2026-10-04** — Surely you have ultra-wideband radios on your bins too? ([source](https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/))
 - **2026-07-29** — OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots ([source](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview))

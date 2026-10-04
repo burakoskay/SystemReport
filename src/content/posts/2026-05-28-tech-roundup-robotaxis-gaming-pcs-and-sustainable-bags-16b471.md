@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup: Robotaxis, Gaming PCs, and Sustainable Bags"
 date: 2026-05-28T20:35:24.722Z
-modified_date: 2026-09-14T20:08:15.424Z
+modified_date: 2026-10-04T17:57:57.496Z
 tags: ["robotaxi","gaming PCs","sustainable design"]
 hero_image: "/hero/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Waymo's new robotaxi, Intel's handheld gaming PCs, and a sustainable travel bag make headlines in the tech world."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-05-28-tech-roundup-robotaxis-gaming-pcs-and-sustainable-bags-16b471.mp3"
 audio_bytes: 612982
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -91,6 +92,7 @@ The impact of sustainable design is likely to be felt across the tech industry, 
 
 ## Updates
 
+- **2026-10-04** — Google Pixel at 10: Successes, failures, and fun along the way [Video] ([source](https://9to5google.com/2026/10/04/google-pixel-at-10-successes-failures-and-fun-along-the-way-video/))
 - **2026-09-14** — The best deals from Nintendo’s ‘customer appreciation’ sale ([source](https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale))
 - **2026-09-13** — Obama urges Democrats to have a ‘clear plan’ for AI safeguards ([source](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/))
 - **2026-09-08** — Nintendo’s Ocarina of Time remake launches in November ([source](https://www.theverge.com/games/991218/zelda-ocarina-of-time-remake-release-date-trailer))

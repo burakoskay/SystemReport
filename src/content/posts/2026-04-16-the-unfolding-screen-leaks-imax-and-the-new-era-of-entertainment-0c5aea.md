@@ -1,16 +1,17 @@
 ---
 title: "The Unfolding Screen: Leaks, IMAX, and the New Era of Entertainment"
 date: 2026-04-16T05:29:54.517Z
-modified_date: 2026-09-28T19:08:14.820Z
+modified_date: 2026-10-04T17:57:50.599Z
 tags: ["entertainment industry","streaming","cinema","content leaks","film innovation"]
 hero_image: "/hero/2026-04-16-the-unfolding-screen-leaks-imax-and-the-new-era-of-entertainment-0c5aea.jpg"
 hero_image_credit_name: "Caleb Oquendo"
 hero_image_credit_url: "https://www.pexels.com/@caleboquendo"
 visual_keyword: "Dynamic film and streaming media"
 description: "From frustrating leaks of major animated films to groundbreaking IMAX releases and eagerly anticipated streaming finales, the entertainment industry faces a dynamic future."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ Collectively, these stories paint a vivid picture of modern entertainment. It's 
 
 ## Updates
 
+- **2026-10-04** — ‘Fitbit Edge’ leaks as Google’s next fitness tracker with ‘Apps’ & ‘Notifications’ ([source](https://9to5google.com/2026/10/04/google-fitbit-edge-leak/))
 - **2026-09-28** — These Extremists Are Running for Election in November ([source](https://www.wired.com/story/these-extremists-are-running-for-election-in-november/))
 - **2026-08-02** — How long can you expect a PlayStation 5 to last? ([source](https://www.engadget.com/2226178/how-long-expect-playstation-5-last-lifespan-support/))
 - **2026-07-30** — SwitchBot makes a better fan ([source](https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan))
