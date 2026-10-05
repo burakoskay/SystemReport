@@ -1,16 +1,17 @@
 ---
 title: "Fervo Energy's $6.5B IPO Bid"
 date: 2026-05-05T03:26:02.852Z
-modified_date: 2026-05-31T17:12:16.794Z
+modified_date: 2026-10-05T19:01:15.053Z
 tags: ["Geothermal Energy","Renewable Energy","IPO"]
 hero_image: "/hero/2026-05-05-fervo-energy-s-6-5b-ipo-bid-ed3acd.jpg"
 hero_image_credit_name: "ArtHouse Studio"
 hero_image_credit_url: "https://www.pexels.com/@arthousestudio"
 visual_keyword: "Geothermal"
 description: "Geothermal startup Fervo Energy to raise up to $1.3B in IPO"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Fervo Energy Files for IPO
@@ -32,4 +33,5 @@ Fervo Energy's EGS technology has the potential to offer several advantages over
 
 ## Updates
 
+- **2026-10-05** — Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/))
 - **2026-05-31** — TechCrunch Mobility: It doesn’t matter that people hate the Ferrari Luce ([source](https://techcrunch.com/2026/05/31/techcrunch-mobility-it-doesnt-matter-that-people-hate-the-ferrari-luce/))

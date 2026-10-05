@@ -1,15 +1,17 @@
 ---
 title: "Volvo's EX60 EV, Rolepad's Job Tracker, and Yak's Voice Typing"
 date: 2026-05-20T08:01:05.739Z
+modified_date: 2026-10-05T19:02:30.220Z
 tags: ["EV","Productivity","Voice Typing"]
 hero_image: "/hero/2026-05-20-volvo-s-ex60-ev-rolepad-s-job-tracker-and-yak-s-voice-typing-3f7b88.jpg"
 hero_image_credit_name: "Oli Liao"
 hero_image_credit_url: "https://www.pexels.com/@oli-liao-883836674"
 visual_keyword: "Volvo EX60"
 description: "New Volvo EX60 EV, Rolepad job tracker with company reviews, and Yak voice typing tool"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Volvo's Latest EV: The EX60
@@ -48,3 +50,6 @@ The Volvo EX60 is a strong contender in the EV market. Rolepad streamlines the j
 
 The launch of the Volvo EX60, Rolepad, and Yak is a reflection of the broader trends in the tech industry. The increasing demand for sustainable and efficient products is driving innovation in the EV and productivity spaces. As consumers and businesses continue to prioritize eco-friendliness and efficiency, companies like Volvo, Rolepad, and Yak will play a crucial role in shaping the future of their respective markets.
 
+## Updates
+
+- **2026-10-05** — Wing and Walmart are bringing drone deliveries to Denver and Seattle in 2027 ([source](https://www.engadget.com/2277395/wing-and-walmart-are-bringing-drone-deliveries-to-denver-and-seattle-in-2027/))

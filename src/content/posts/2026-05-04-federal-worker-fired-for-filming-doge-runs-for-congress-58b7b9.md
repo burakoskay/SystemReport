@@ -1,19 +1,20 @@
 ---
 title: "Federal Worker Fired for Filming DOGE, Runs for Congress"
 date: 2026-05-04T14:16:25.345Z
-modified_date: 2026-09-28T19:08:36.446Z
+modified_date: 2026-10-05T19:03:22.553Z
 tags: ["government","congress","DOGE"]
 hero_image: "/hero/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.jpg"
 hero_image_credit_name: "Hugo Sykes"
 hero_image_credit_url: "https://www.pexels.com/@hugosykes"
 visual_keyword: "Alexis Goldstein"
 description: "Alexis Goldstein, ex-CFPB employee, fired for recording DOGE's incursion into the agency, now runs for Congress."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.mp3"
 audio_bytes: 561573
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ Ultimately, the outcome of Goldstein's campaign will depend on how voters respon
 
 ## Updates
 
+- **2026-10-05** — Deals: Pixel Watch 5 $70 off, Steph Curry model all-time low, massive Best Buy Techtober sale, Yoga Tab Gen 2, more ([source](https://9to5google.com/2026/10/05/deals-pixel-watch-5-steph-curry-model-best-buy-techtober/))
 - **2026-09-28** — I've Tested Over 100 Home Security Cameras. Here's Which to Buy ([source](https://www.wired.com/story/best-security-cameras/))
 - **2026-08-18** — An update on leaving Gmail for Fastmail ([source](https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/))
 - **2026-05-24** — Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day ([source](https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale))

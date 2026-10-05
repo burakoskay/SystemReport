@@ -1,16 +1,17 @@
 ---
 title: "Tech News"
 date: 2026-05-26T18:32:45.581Z
-modified_date: 2026-09-29T00:09:19.794Z
+modified_date: 2026-10-05T19:02:07.646Z
 tags: ["Tech News","Audi","Electric Vehicles"]
 hero_image: "/hero/2026-05-26-tech-news-0fec7f.jpg"
 hero_image_credit_name: "Daniel Andraski"
 hero_image_credit_url: "https://www.pexels.com/@daniel-andraski-197681005"
 visual_keyword: "Audi e-tron"
 description: "Recent tech news and updates"
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ Companies like Tesla and BMW are also investing heavily in electric vehicle tech
 
 ## Updates
 
+- **2026-10-05** — F1 in Bahrain... in Malaysia: The race needed a software update to start ([source](https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/))
 - **2026-09-29** — macOS 27: How to use the new ‘Notify Me’ feature in Safari ([source](https://9to5mac.com/2026/09/28/macos-27-how-to-use-the-new-notify-me-feature-in-safari/))
 - **2026-08-21** — Why does it seem like food recalls are out of control this year? ([source](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control))
 - **2026-08-11** — Google’s free streaming service now lets you pick shows and movies to watch ([source](https://www.theverge.com/tech/978152/google-tv-freeplay-on-demand))

@@ -1,19 +1,20 @@
 ---
 title: "Games Done Quick Expands to Europe Amid Tech Battles"
 date: 2026-04-28T17:55:28.606Z
-modified_date: 2026-10-02T10:15:15.461Z
+modified_date: 2026-10-05T19:02:45.313Z
 tags: ["games-done-quick","europe","repair-laws","android","wasm"]
 hero_image: "/hero/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "crowd at gamescom speedrunning event"
 description: "Games Done Quick debuts in Europe as repair laws and open-source debates reshape tech."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-28-games-done-quick-expands-to-europe-amid-tech-battles-0c6909.mp3"
 audio_bytes: 565334
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Meanwhile, open-source tools like Lovable’s "vibe-coding" app (launching this 
 
 ## Updates
 
+- **2026-10-05** — Apple releases beta 3 for iPadOS 27.2, watchOS 27.2, and more ([source](https://9to5mac.com/2026/10/05/apple-releases-beta-3-for-ipados-27-2-watchos-27-2-and-more/))
 - **2026-10-02** — Frog and Toad and the Increasingly Capable Machines ([source](https://www.frogandtoad.ai/))
 - **2026-09-04** — Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools ([source](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/))
 - **2026-08-01** — Spider-Man: Brand New Day leak racks up millions of views ([source](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records))

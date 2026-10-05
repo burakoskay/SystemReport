@@ -1,15 +1,17 @@
 ---
 title: "GoPro Sale, Emplifi Lead"
 date: 2026-09-04T23:57:55.909Z
+modified_date: 2026-10-05T19:01:30.104Z
 tags: ["gopro","acquisition","ai","insurance","tech"]
 hero_image: "/hero/2026-09-04-gopro-sale-emplifi-lead-ce688f.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "conference room with cameras and AI servers"
 description: "GoPro’s $285M Starman acquisition, Emplifi’s Gartner leadership, and Blackstone’s $2.8B Allstate Life buy reshape hardware, AI social tools, and insurance."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## GoPro’s $285 Million Starman Deal Puts Cameras Under a New Lens
 
@@ -38,3 +40,7 @@ Regulators will likely scrutinize the purchase for solvency and consumer‑prote
 ## What to Watch Next
 
 GoPro’s acquisition will face an FTC review that could delay or unwind the deal; keep an eye on any statements from the Committee on Foreign Investment. Emplifi’s Gartner leadership will be tested in the next Magic Quadrant cycle—watch for customer churn metrics that reveal whether autonomous agents deliver on their promises. Blackstone’s integration of Allstate Life will surface in quarterly earnings reports; the firm’s ability to generate returns without compromising policyholder service will be a key barometer for future PE‑insurance deals.
+
+## Updates
+
+- **2026-10-05** — Hyundai CEO says only a ‘level playing field’ can minimize damage from China ([source](https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share))

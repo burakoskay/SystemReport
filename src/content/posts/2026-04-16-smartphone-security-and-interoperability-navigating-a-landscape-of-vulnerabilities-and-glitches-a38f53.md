@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-10-04T13:37:36.223Z
+modified_date: 2026-10-05T19:03:07.617Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 19
+sources_count: 20
 author: "david-okafor"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-10-05** — New Apple TV 4K launches next week with two major upgrades ([source](https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/))
 - **2026-10-04** — The Best Gifts Under $25 for Everyone on Your List (2026) ([source](https://www.wired.com/story/best-gifts-under-25-2026/))
 - **2026-09-14** — New corners, new lights for 2028 Volvo XC40 ([source](https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/))
 - **2026-08-21** — Emmy-winning ‘Stillwater’ returns to Apple TV with five new episodes ([source](https://9to5mac.com/2026/08/21/emmy-winning-stillwater-returns-to-apple-tv-with-five-new-episodes/))

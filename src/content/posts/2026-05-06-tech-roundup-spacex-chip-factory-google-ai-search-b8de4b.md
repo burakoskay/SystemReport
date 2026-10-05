@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: SpaceX Chip Factory, Google AI Search"
 date: 2026-05-06T17:49:49.309Z
-modified_date: 2026-08-31T23:35:11.807Z
+modified_date: 2026-10-05T19:02:15.180Z
 tags: ["SpaceX","Google","AI","semiconductors"]
 hero_image: "/hero/2026-05-06-tech-roundup-spacex-chip-factory-google-ai-search-b8de4b.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "chip-factory"
 description: "SpaceX considers $55 billion chip factory in Texas, Google updates AI search with Reddit and forum advice."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -83,5 +84,6 @@ As the tech industry continues to evolve, we can expect to see more innovative a
 
 ## Updates
 
+- **2026-10-05** — Hyundai's all-electric hot hatch goes on sale in the UK, starting at around $25,000 ([source](https://www.engadget.com/2277678/hyundai-ioniq-3-all-electric-hot-hatch-goes-on-sale-in-the-uk/))
 - **2026-08-31** — Here's how Nintendo missed the mark with the GameCube console ([source](https://www.engadget.com/2243923/how-nintendo-missed-mark-with-gamecube-console/))
 - **2026-06-06** — The big budget Avatar: The Last Airbender RPG is no longer in production ([source](https://www.engadget.com/2188916/the-big-budget-avatar-the-last-airbender-rpg-is-no-longer-in-production/))

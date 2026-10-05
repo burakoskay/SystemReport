@@ -1,16 +1,17 @@
 ---
 title: "AMD Expands FSR 4.1 to Older GPUs in 2027"
 date: 2026-05-14T14:35:46.770Z
-modified_date: 2026-09-23T03:14:05.780Z
+modified_date: 2026-10-05T19:01:22.612Z
 tags: ["amd","fsr 4.1","gpu upscaling","gaming tech","rdna 2"]
 hero_image: "/hero/2026-05-14-amd-expands-fsr-4-1-to-older-gpus-in-2027-150c7a.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "AMD FSR 4.1 GPU upscaling in game settings menu"
 description: "AMD's FSR 4.1 upscaling arrives on RDNA 2 cards, expanding support to 300+ games by next year."
-sources_count: 11
+sources_count: 12
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ The 2027 rollout will test whether open-source upscaling can outcompete closed e
 
 ## Updates
 
+- **2026-10-05** — The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/))
 - **2026-09-23** — OpenAI wants to consult elite mathematicians about how to not fumble again ([source](https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel))
 - **2026-05-25** — In Defense of My Attachment to This Lululemon Duffel Bag (2026) ([source](https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/))
