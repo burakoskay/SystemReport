@@ -1,16 +1,17 @@
 ---
 title: "Brain Implants, AI Rivalry, and Identity Tokens Clash in 2026"
 date: 2026-04-27T23:01:15.270Z
-modified_date: 2026-09-30T14:35:50.116Z
+modified_date: 2026-10-05T08:06:41.978Z
 tags: ["brain-computer interface","ai rivalry","digital identity"]
 hero_image: "/hero/2026-04-27-brain-implants-ai-rivalry-and-identity-tokens-clash-in-2026-abb718.jpg"
 hero_image_credit_name: "Vika Glitter"
 hero_image_credit_url: "https://www.pexels.com/@vika-glitter-392079"
 visual_keyword: "futuristic lab with brain implant device and glowing digital ID symbols"
 description: "Motif Neurotech's depression implant, Meta's aborted China acquisition, and US firms' support for World ID reveal a tech sector under geopolitical and ethical strain."
-sources_count: 11
+sources_count: 12
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Regulators in Beijing and Washington will soon publish guidelines that could sha
 
 ## Updates
 
+- **2026-10-05** — In the wake of Tippett Studios’ closure, a digital archive appears online ([source](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/))
 - **2026-09-30** — Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV ([source](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power))
 - **2026-09-11** — Ikea supersized its cheap Bluetooth speaker and added an optical input ([source](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input))
 - **2026-08-20** — Why Is It Absolute Hell to Buy a Movie Ticket Now? ([source](https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/))
