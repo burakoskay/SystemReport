@@ -1,15 +1,17 @@
 ---
 title: "Waymo chip, Tesla recall, Android Auto split, Siri mute"
 date: 2026-08-24T14:43:51.111Z
+modified_date: 2026-10-05T00:23:21.921Z
 tags: ["autonomous-vehicles","electric-cars","mobile-os","software"]
 hero_image: "/hero/2026-08-24-waymo-chip-tesla-recall-android-auto-split-siri-mute-4b5293.jpg"
 hero_image_credit_name: "David Brown"
 hero_image_credit_url: "https://www.pexels.com/@ninobur"
 visual_keyword: "robotaxi lane with custom chip overlay"
 description: "Waymo unveils a custom robotaxi chip, China orders Tesla to fix 3 million cars, Android Auto and Automotive diverge, and Siri’s CarPlay chatter gets a mute option."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Waymo’s custom silicon fuels robotaxi push
 Waymo rolled out a purpose‑built processor to run its self‑driving stack. The chip sits at the heart of the fleet that the company hopes will dominate robotaxi services.
@@ -35,6 +37,9 @@ The change is a modest quality‑of‑life improvement, but it matters in a mark
 ## What to watch next
 Waymo’s chip rollout will be measured by how quickly the company can retrofit its existing fleet and whether the hardware translates into measurable safety gains. Tesla’s Chinese remediation will test the company’s ability to coordinate massive field repairs under regulatory pressure. The adoption curve of Android Automotive versus Android Auto will reveal which integration model manufacturers deem more future‑proof. Finally, Apple’s CarPlay mute option may prompt other platform owners to add similar granular controls, shaping the next wave of in‑car voice UI design.
 
+## Updates
+
+- **2026-10-05** — The reason the Mac mini is cheaper than a MacBook ([source](https://www.engadget.com/2274707/mac-mini-cheaper-than-macbook-reason/))
 
 [^1]: [electrek.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2ulAPTjz9RAm-wWHSO16eCg6dD1Dimdt_Mz6XSZWalBoMhEJZYToMunh2maPKhXePxyKKlBFFo8FJ-n_NT5t-z0lsS4vXZB2VqIl8ikWOi7Rbk2HWYCIz9joiu-KwtZdTUneRt7F1KmOH6rjumQm0AfRt_xUEywoKT41QvJS7c993hvQO96AYQ==)
 [^2]: [novanews.co.za](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE02XmuSU6TNlVBB8PDMmYSJly9qs9RgWhQO4Wzyp4YxFjICbNSNeHw2uBwBTxjE4WO_lAJg0nVQ2MzzSrO9rOmxnTHsBPBTehigltX15_NpondTDM49AHQRFvXCdKjPMfMo8tJ3xafz1PeEhrrYwiCrDR86qs3crM6Mr4UE0pqnM64DivZaIMvbecyBuZ3rajYbyeevB-jIw==)

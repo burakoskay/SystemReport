@@ -1,15 +1,17 @@
 ---
 title: "Apple hikes iPhone prices while rolling out foldable and AI"
 date: 2026-09-10T02:44:17.875Z
+modified_date: 2026-10-05T00:23:29.237Z
 tags: ["apple","iphone","wearables","ai","pricing"]
 hero_image: "/hero/2026-09-10-apple-hikes-iphone-prices-while-rolling-out-foldable-and-ai-3be312.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "sleek tabletop displaying iPhone Duo, Apple Watch Series 12, AirPods 5, and iPhone 18 Pro"
 description: "Apple raises older iPhone prices, adds iPhone Duo developer tools, launches Siri AI in English, and unveils Watch Series 12 health sensors."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 Apple raised the price of its older iPhone models by $100 on Tuesday, a move that undercuts the company’s recent narrative of cheaper entry‑level hardware.
 
@@ -45,6 +47,9 @@ Apple’s wearables strategy now leans heavily on health data and on‑device AI
 
 What to watch next: Track the October rollout of Siri AI in additional languages and the official release date of the iPhone Duo. Monitor how trade‑in values evolve after the latest adjustment, especially if Apple tweaks the iPhone resale market again. Keep an eye on regulatory filings for the Watch Series 12 health sensors, which could dictate the pace of feature activation worldwide. Finally, watch for developer adoption metrics of the iPhone Duo toolkit, a key indicator of the foldable’s ecosystem health.
 
+## Updates
+
+- **2026-10-05** — The popular Apple features you won't be getting with the iPhone Duo ([source](https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/))
 
 [^1]: [washingtonpost.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzZCr2N7l2jE8axU6VsaoCdcW362ioJHigycUmkQTaYmSs-oSXQLFvZBemsHI-doNhuVZiKNsHyvPulyzepDalxZzuvrJZzvGVL1H-AL_AutviEurVJDO1QQY9j1Jt_kWHsXUdYeLOhWfHA8vMCXbRZLVNGBOKuleT4WCe8XXg4wcBsHUUXL9eYdwpo9rCFiJSufQjdbCTw3a6tLgbr196C4cQVQlDkcG)
 [^2]: [facebook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWyvi6fHf-D90dtGyF_9W_jh2ib-X4mwxSxq9Sj81EQ6JQB3sCJflkH73NAB2kcZwk9fbumFVwIBQ18jd0Hc7Wyg7WC9yBBNSRkq0iyQ3HdBg0Ox8hvJ3UG7txmRZexyhr4MAIDPHKZ7EgsjqVB9b_cTdizdXtKU0aW_lmHL68gvMaZ_stvSny5gY-CMHTmXgQPpT2dEPoaGjHt9V-yKZ-gg9gsD33PE6yNHjGg5SrX7oOIK6mzeDT-jODLugbaE2NC1fEv-Cs_Q==)
