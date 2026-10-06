@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-10-03T20:28:31.970Z
+modified_date: 2026-10-06T16:35:37.572Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 19
+sources_count: 20
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-10-06** — Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China ([source](https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/))
 - **2026-10-03** — Capcom plans to use AI to speed up the game development process ([source](https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/))
 - **2026-09-30** — Halide 3.2 pro camera arrives with iPhone 18 Pro aperture feature and two new looks ([source](https://9to5mac.com/2026/09/30/halide-3-2-pro-camera-arrives-with-iphone-18-pro-aperture-feature-and-two-new-looks/))
 - **2026-09-28** — Apple Notes keeps getting better, here’s what’s new in iOS 27 ([source](https://9to5mac.com/2026/09/28/heres-everything-new-for-apple-notes-in-ios-27/))

@@ -1,16 +1,17 @@
 ---
 title: "Meta's Profit Soars as Morale Plummets"
 date: 2026-05-14T10:25:03.146Z
-modified_date: 2026-07-27T11:15:00.538Z
+modified_date: 2026-10-06T16:35:52.536Z
 tags: ["Meta","Australian News Deal","Regulatory Scrutiny"]
 hero_image: "/hero/2026-05-14-meta-s-profit-soars-as-morale-plummets-e11d46.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Meta"
 description: "Meta reports record profits but faces criticism over staff cuts and low morale."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Meta's Record Profits and Low Morale
@@ -79,4 +80,5 @@ In conclusion, Meta's decision to pull out of Australian news deals has sparked 
 
 ## Updates
 
+- **2026-10-06** — The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026) ([source](https://www.wired.com/story/macbook-air-prime-day-10-6-2026/))
 - **2026-07-27** — The 10 Best WIRED-Tested Handheld Vacuums of 2026 ([source](https://www.wired.com/gallery/the-best-handheld-vacuum/))

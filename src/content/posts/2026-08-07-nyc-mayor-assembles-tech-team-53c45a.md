@@ -1,16 +1,17 @@
 ---
 title: "NYC Mayor Assembles Tech Team"
 date: 2026-08-07T16:48:57.628Z
-modified_date: 2026-09-21T02:49:27.458Z
+modified_date: 2026-10-06T16:36:22.468Z
 tags: ["NYC Tech Team","City Services","Technology"]
 hero_image: "/hero/2026-08-07-nyc-mayor-assembles-tech-team-53c45a.jpg"
 hero_image_credit_name: "Henrik Pfitzenmaier"
 hero_image_credit_url: "https://www.pexels.com/@hammyx"
 visual_keyword: "NYC"
 description: "NYC mayor brings experts to improve city services"
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 
 ## Introduction to NYC Tech Team
@@ -36,4 +37,5 @@ The success of the NYC Tech Team will be measured by its ability to deliver tang
 
 ## Updates
 
+- **2026-10-06** — HBO Max and Paramount Plus will merge into a single streamer under Skydance ([source](https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance))
 - **2026-09-21** — What happened to the Snowden archive ([source](https://libroot.org/posts/what-happened-to-the-snowden-archive))

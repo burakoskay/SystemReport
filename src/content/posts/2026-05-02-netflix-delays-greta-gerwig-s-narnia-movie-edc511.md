@@ -1,19 +1,20 @@
 ---
 title: "Netflix Delays Greta Gerwig's 'Narnia' Movie"
 date: 2026-05-02T22:51:39.561Z
-modified_date: 2026-08-24T14:36:29.557Z
+modified_date: 2026-10-06T16:36:52.402Z
 tags: ["Netflix","Theatrical Releases","Streaming Services"]
 hero_image: "/hero/2026-05-02-netflix-delays-greta-gerwig-s-narnia-movie-edc511.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "Netflix"
 description: "Netflix delays 'Narnia' movie for theatrical push"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-02-netflix-delays-greta-gerwig-s-narnia-movie-edc511.mp3"
 audio_bytes: 618833
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,5 +73,6 @@ The delay of 'The Magician's Nephew' is just one example of Netflix's efforts to
 
 ## Updates
 
+- **2026-10-06** — OpenAI agents tried to hack Wikipedia tools and flooded it with traffic ([source](https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/))
 - **2026-08-24** — Netflix reportedly considers opening its app to other streamers ([source](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one))
 - **2026-06-05** — Conventional Commits encourages focus on the wrong things ([source](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/))

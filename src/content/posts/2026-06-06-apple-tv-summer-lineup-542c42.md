@@ -1,18 +1,20 @@
 ---
 title: "Apple TV Summer Lineup"
 date: 2026-06-06T06:57:20.296Z
+modified_date: 2026-10-06T16:34:59.312Z
 tags: ["Apple TV","Streaming Services","Summer Lineup"]
 hero_image: "/hero/2026-06-06-apple-tv-summer-lineup-542c42.jpg"
 hero_image_credit_name: "Nick"
 hero_image_credit_url: "https://www.pexels.com/@knick"
 visual_keyword: "Apple TV"
 description: "New and returning series on Apple TV"
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-06-06-apple-tv-summer-lineup-542c42.mp3"
 audio_bytes: 588740
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Apple TV's Summer Lineup
 Apple TV kicks off its summer lineup today with Cape Fear, a new thriller that sets the tone for a slate of engaging shows. Cape Fear is part of a slate of new and returning series on Apple TV this summer, offering something for every viewer.
@@ -34,3 +36,7 @@ The production quality of Apple TV's shows is unparalleled, with each series boa
 
 ## Downstream Implications
 The success of Apple TV's summer lineup will have a significant impact on the streaming industry as a whole. As more viewers flock to the platform, other streaming services will be forced to up their game and invest in higher-quality content. The competition will drive innovation and improvement, ultimately benefiting viewers who will have access to a wider range of excellent shows. The increased competition will also lead to more affordable pricing options for viewers, as streaming services try to outdo each other in terms of value and quality.
+
+## Updates
+
+- **2026-10-06** — Anthropic is giving startups a free year of Claude Team and $1,000 in credits ([source](https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/))

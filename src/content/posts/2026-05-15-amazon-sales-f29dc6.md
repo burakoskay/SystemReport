@@ -1,19 +1,20 @@
 ---
 title: "Amazon Sales"
 date: 2026-05-15T07:29:44.245Z
-modified_date: 2026-10-01T22:16:25.135Z
+modified_date: 2026-10-06T16:36:59.876Z
 tags: ["Amazon","Big Spring Sale","Prime Day"]
 hero_image: "/hero/2026-05-15-amazon-sales-f29dc6.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "shopping"
 description: "Shop now and save big on Amazon's Big Spring Sale and Prime Day"
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-15-amazon-sales-f29dc6.mp3"
 audio_bytes: 534405
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -90,6 +91,7 @@ In order to compete with Amazon, other retailers must focus on offering unique p
 
 ## Updates
 
+- **2026-10-06** — Why don't you see external antennas on mesh Wi-Fi systems? ([source](https://www.engadget.com/2277036/why-mesh-wifi-systems-dont-have-antennas-routers-do/))
 - **2026-10-01** — SpaceXAI releases a separate Grok iOS app for enterprise users ([source](https://9to5mac.com/2026/10/01/spacexai-releases-a-separate-grok-ios-app-for-enterprise-users/))
 - **2026-09-02** — Best Sony Headphone Deals: WH-1000XM5 and More (2026) ([source](https://www.wired.com/story/sony-headphone-deals-september-2026/))
 - **2026-09-01** — Best Amazon Labor Day Deals (2026): Sony, Shark, Anker ([source](https://www.wired.com/story/amazon-labor-day-deals-2026/))

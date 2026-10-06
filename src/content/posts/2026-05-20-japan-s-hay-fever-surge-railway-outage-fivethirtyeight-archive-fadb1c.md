@@ -1,16 +1,17 @@
 ---
 title: "Japan’s hay‑fever surge, Railway outage, FiveThirtyEight archive"
 date: 2026-05-20T11:11:10.367Z
-modified_date: 2026-09-15T13:04:56.216Z
+modified_date: 2026-10-06T16:37:14.826Z
 tags: ["japan","allergy","cloud","outage","archiving"]
 hero_image: "/hero/2026-05-20-japan-s-hay-fever-surge-railway-outage-fivethirtyeight-archive-fadb1c.jpg"
 hero_image_credit_name: "Francesco Albanese"
 hero_image_credit_url: "https://www.pexels.com/@francesco-albanese-2150950215"
 visual_keyword: "Japanese city under pollen haze with cloud data center"
 description: "A 1950s Japanese project fuels a hay‑fever wave, Railway’s Google Cloud outage exposes platform risk, and FiveThirtyEight secures its archive."
-sources_count: 8
+sources_count: 9
 author: "priya-raman"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Japan’s allergy crisis will likely spur policy revisions on urban forestry, wi
 
 ## Updates
 
+- **2026-10-06** — What does the shield icon mean on your Samsung Galaxy? ([source](https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/))
 - **2026-09-15** — The premium AirPods 5 are the best open-ear earbuds Apple has made ([source](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review))
 - **2026-09-05** — Nitter has more working instances than before the takedowns ([source](https://codeberg.org/mv12star/shitter/wiki/Instances))
 - **2026-08-12** — The Gender War Over ‘Obsession’ Has Come for Theme Parks ([source](https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/))

@@ -1,16 +1,17 @@
 ---
 title: "Samsung unveils world's first 6K gaming monitor"
 date: 2026-05-19T15:38:55.425Z
-modified_date: 2026-05-27T15:56:25.656Z
+modified_date: 2026-10-06T16:36:44.859Z
 tags: ["gaming","monitors","Samsung","GPU"]
 hero_image: "/hero/2026-05-19-samsung-unveils-world-s-first-6k-gaming-monitor-434aa3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Samsung 6K gaming monitor"
 description: "Samsung's 6K gaming monitor sets a new resolution benchmark, challenging GPU capabilities and monitor pricing."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,4 +47,5 @@ In the future, we can expect to see further advancements in display technology, 
 
 ## Updates
 
+- **2026-10-06** — A Trump Mobile breach may have exposed data of more than 3,600 people ([source](https://www.theverge.com/tech/1005546/trump-mobile-data-breach-leak))
 - **2026-05-27** — ClickHouse triples anualized revenue to $250M, charting a path toward an IPO ([source](https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/))

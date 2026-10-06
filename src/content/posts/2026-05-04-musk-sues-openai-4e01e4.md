@@ -1,19 +1,20 @@
 ---
 title: "Musk Sues OpenAI"
 date: 2026-05-04T17:45:57.502Z
-modified_date: 2026-05-19T15:35:25.901Z
+modified_date: 2026-10-06T16:37:22.348Z
 tags: ["AI","Elon Musk","OpenAI","Lawsuit"]
 hero_image: "/hero/2026-05-04-musk-sues-openai-4e01e4.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Elon Musk's lawsuit against OpenAI and Sam Altman began with jury selection"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-04-musk-sues-openai-4e01e4.mp3"
 audio_bytes: 584560
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Trial
@@ -63,4 +64,5 @@ The case will also highlight the importance of transparency and accountability i
 
 ## Updates
 
+- **2026-10-06** — Googlebooks don’t have the same web app or Linux app support as Chromebooks ([source](https://9to5google.com/2026/10/06/googlebook-linux-web-app-support-chromebook/))
 - **2026-05-19** — Fortnite is back on the App Store worldwide, says Epic Games ([source](https://9to5mac.com/2026/05/19/fortnite-is-back-on-the-app-store-worldwide-says-epic-games/))

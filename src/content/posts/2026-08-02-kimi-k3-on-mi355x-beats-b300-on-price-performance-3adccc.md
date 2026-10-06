@@ -1,16 +1,17 @@
 ---
 title: "Kimi K3 on MI355X Beats B300 on Price‑Performance"
 date: 2026-08-02T11:21:16.721Z
-modified_date: 2026-09-22T17:53:10.961Z
+modified_date: 2026-10-06T16:36:29.945Z
 tags: ["ai hardware","gpu pricing","performance per dollar"]
 hero_image: "/hero/2026-08-02-kimi-k3-on-mi355x-beats-b300-on-price-performance-3adccc.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center server racks filled with diverse GPUs and AI accelerator cards"
 description: "Kimi K3 on the MI355X outperforms the B300 in dollars spent, a claim that reshapes cost‑efficiency debates amid misleading Apple‑Nvidia GPU comparisons and volatile cloud pricing."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,5 +40,6 @@ The next data point to track is the release of independent benchmarks for Kimi�
 
 ## Updates
 
+- **2026-10-06** — The stylish Nothing Headphone 1 are cheaper than ever ([source](https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale))
 - **2026-09-22** — Rivian’s R2 beat its own climate goals four years early ([source](https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half))
 - **2026-08-04** — The Best Cordless Vacuums (2026): My Brand-New Top Pick ([source](https://www.wired.com/gallery/the-best-cordless-vacuum/))
