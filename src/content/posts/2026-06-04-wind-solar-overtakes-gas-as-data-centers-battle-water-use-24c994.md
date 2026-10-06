@@ -1,19 +1,20 @@
 ---
 title: "Wind‑Solar Overtakes Gas as Data Centers Battle Water Use"
 date: 2026-06-04T18:29:09.874Z
-modified_date: 2026-08-25T22:21:33.912Z
+modified_date: 2026-10-06T01:06:38.400Z
 tags: ["data centers","renewable energy","water sustainability","climate policy"]
 hero_image: "/hero/2026-06-04-wind-solar-overtakes-gas-as-data-centers-battle-water-use-24c994.jpg"
 hero_image_credit_name: "Sean P. Twomey"
 hero_image_credit_url: "https://www.pexels.com/@2mephoto"
 visual_keyword: "solar farm beside cooling towers at sunrise"
 description: "April 2026 saw renewables outpace gas globally while hyperscalers confront growing water‑scarcity criticism, exposing a sustainability gap."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-04-wind-solar-overtakes-gas-as-data-centers-battle-water-use-24c994.mp3"
 audio_bytes: 595009
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Wind and Solar Top Gas for the First Time
@@ -52,4 +53,5 @@ Regulators in the U.S. Southwest are drafting a unified water‑intensity metric
 
 ## Updates
 
+- **2026-10-06** — You can unlock a Googlebook’s bootloader, Magisk support in the works ([source](https://9to5google.com/2026/10/05/googlebook-bootloader-magisk-root/))
 - **2026-08-25** — The Fitbit Air would be S-tier if anyone made a band half as decent as Whoop’s ([source](https://9to5google.com/2026/08/25/fitbit-air-would-be-s-tier-good-bands-existed/))

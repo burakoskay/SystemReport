@@ -1,16 +1,17 @@
 ---
 title: "Saudi Leisure Boom, DIY RF Labs, and a Grindr White House Bash"
 date: 2026-04-30T10:25:35.873Z
-modified_date: 2026-08-20T02:51:58.824Z
+modified_date: 2026-10-06T01:06:54.307Z
 tags: ["saudi arabia","entertainment","rf","grindr","tech"]
 hero_image: "/hero/2026-04-30-saudi-leisure-boom-diy-rf-labs-and-a-grindr-white-house-bash-15245b.jpg"
 hero_image_credit_name: "Paolo Motti"
 hero_image_credit_url: "https://www.pexels.com/@paolo-motti-410165760"
 visual_keyword: "futuristic amusement park with neon rides and a sleek RF lab"
 description: "Saudi Arabia’s $5.36 B entertainment market, a hobbyist RF showcase, and Grindr’s high‑profile party illustrate shifting tech‑driven leisure."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The Saudi entertainment sector will release its first quarterly performance data
 
 ## Updates
 
+- **2026-10-06** — Monday’s Android app deals and freebies: 8th Wonder, Dawnfolk, Metal Soldiers 4 Pro, House of Da Vinci, more ([source](https://9to5toys.com/2026/10/05/todays-highlight-google-play-deals-21/))
 - **2026-08-20** — Astropad Workbench 1.3 adds faster streaming, privacy curtain, and more ([source](https://9to5mac.com/2026/08/19/astropad-workbench-1-3-adds-faster-streaming-privacy-curtain-and-more/))
 - **2026-05-30** — NASA readies the X-59 for its first supersonic flight, SpaceX's Starship grounded and more science stories ([source](https://www.engadget.com/2184257/nasa-x-59-first-supersonic-flight-spacex-starship-grounded-and-more-science-stories/))
 - **2026-05-30** — Sometimes, a short game hits the spot ([source](https://www.theverge.com/games/937499/slots-and-daggers-review-nintendo-switch-ps5-xbox-series-x-s-pc))

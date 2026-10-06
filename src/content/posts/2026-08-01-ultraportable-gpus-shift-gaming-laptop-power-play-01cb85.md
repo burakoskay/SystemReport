@@ -1,15 +1,17 @@
 ---
 title: "Ultraportable GPUs Shift Gaming Laptop Power Play"
 date: 2026-08-01T09:58:34.643Z
+modified_date: 2026-10-06T01:05:43.124Z
 tags: ["gaming laptops","ultraportable","ryzen","gpu","performance"]
 hero_image: "/hero/2026-08-01-ultraportable-gpus-shift-gaming-laptop-power-play-01cb85.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "ultraportable gaming laptop on a desk with glowing keyboard"
 description: "High‑end GPUs now fit into 14‑inch laptops, but price, battery life, and screen trade‑offs keep the market split."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 The Asus ROG Zephyrus G14 proves you can pack a desktop‑class GPU into a 14‑inch chassis without sacrificing frame rates.
 
@@ -39,6 +41,9 @@ The Zephyrus G14, despite its smaller screen, does not emphasize resolution but 
 
 The next generation of Ryzen 5000‑series mobile chips promises higher clock speeds and better integrated graphics. If Asus and other OEMs adopt those CPUs in ultraportable chassis, we may see RTX 30‑series GPUs paired with sub‑3‑pound bodies at prices closer to $1,200. Keep an eye on upcoming announcements from both AMD and Nvidia, and watch how reviewers benchmark battery endurance on the new screens. The balance between resolution, refresh rate, and real‑world playtime will dictate which laptops survive the next price‑performance crossover.[^6][^7][^8]
 
+## Updates
+
+- **2026-10-06** — Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary ([source](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/))
 
 [^1]: [laptopmag.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYI91KDa_FbrAyiZynapMB23Q0fiuWrCop6SGxtbSrawVjPzsreNlXbe6ZthyT-8BV0teVSVMh_OLaOZP5SxivSv7xhJT8YWpqahcmJDKSnYWYa9wNHzaxMhjAW2BmMFpqzAFJD56gK61VxyFg3HF2RFS5nR1y8g==)
 [^2]: [custompcreview.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErwhPxMiIZCtzpIHl2xdKZ8O0DNGX9FaPE8FeSCmBLn-W42g-nsnp6cGZdQu-8k9PscbX8Sb5OqWVhKRo3qoMmCGWg9Ejgh0adK_gHA1MH1RR8gyt3LwWsWZ1EnBf8mKmlGjqDFkL_Eu5uBWuQe01zGxBMg5mdZFV1RZCJ00W_RGFinfwPWdmtZpOcfw==)

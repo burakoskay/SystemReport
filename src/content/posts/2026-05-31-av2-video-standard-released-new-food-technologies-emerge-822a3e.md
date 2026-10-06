@@ -1,15 +1,17 @@
 ---
 title: "AV2 Video Standard Released, New Food Technologies Emerge"
 date: 2026-05-31T08:53:17.559Z
+modified_date: 2026-10-06T01:06:22.598Z
 tags: ["AV2","video standard","food technology"]
 hero_image: "/hero/2026-05-31-av2-video-standard-released-new-food-technologies-emerge-822a3e.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "video streaming"
 description: "AV2 video standard finalized, new food tech"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to AV2
 The AV2 video standard is now version 1.0 and available on the Alliance for Open Media website. This development enables more efficient video streaming and storage. The AV2 standard results from collaborative efforts by industry leaders to create a more efficient video compression technology.
@@ -25,3 +27,7 @@ The video streaming and food production industries are closely linked to broader
 The AV2 standard uses a range of technical innovations to achieve its improved compression efficiency. These include advanced techniques such as intra-block copying and adaptive quantization. The standard also supports a range of features such as HDR and 8K video, making it well-suited to a wide range of applications. The use of these technical innovations will enable the widespread adoption of high-quality video streaming, even in areas with limited internet connectivity.
 ## Downstream Implications
 The adoption of AV2 and new food technologies will have significant downstream implications. For example, the reduced bandwidth requirements of AV2 could enable the widespread adoption of high-quality video streaming in areas with limited internet connectivity. Similarly, the reduced land requirements of new food technologies could enable the preservation of natural ecosystems and the promotion of biodiversity. The next few years will determine the success of AV2 and new food technologies. Investment and innovation in these areas will drive their development and adoption.
+
+## Updates
+
+- **2026-10-06** — Googlebook gets Luminar photo editing app with ‘Continue On’ support ([source](https://9to5google.com/2026/10/05/googlebook-luminar-photo-editing-app/))

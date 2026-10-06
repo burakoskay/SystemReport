@@ -1,16 +1,17 @@
 ---
 title: "China Blocks Meta's $2B AI Startup Acquisition"
 date: 2026-04-27T14:06:42.659Z
-modified_date: 2026-09-30T07:49:44.756Z
+modified_date: 2026-10-06T01:07:25.789Z
 tags: ["Meta","AI","China"]
 hero_image: "/hero/2026-04-27-china-blocks-meta-s-2b-ai-startup-acquisition-ec119d.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "China has blocked Meta's $2 billion acquisition of AI startup Manus, citing laws and regulations. The move is a setback to Meta's AI ambitions and reflects growing tensions between the US and China over AI technology."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The global AI market is expected to continue growing rapidly in the coming years
 
 ## Updates
 
+- **2026-10-06** — "I'm Embarrassed on Behalf of the Tech Industry" ([source](https://blog.jim-nielsen.com/2026/embarrassed-by-tech/))
 - **2026-09-30** — Fanatics Promo Code: 10% Off ([source](https://www.wired.com/story/fanatics-promo-code/))
 - **2026-08-25** — Instagram’s ‘First Draft’ trims your Reels clips for you ([source](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels))
 - **2026-07-30** — That AI wearable you don't like just got worse ([source](https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/))

@@ -1,15 +1,17 @@
 ---
 title: "OpenAI’s Apple flop"
 date: 2026-09-24T09:00:03.423Z
+modified_date: 2026-10-06T01:07:10.167Z
 tags: ["openai","ai","privacy","voice-assistants","regulation"]
 hero_image: "/hero/2026-09-24-openai-s-apple-flop-7cd081.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "OpenAI logo with chat bubbles overlaying a cracked government website"
 description: "OpenAI reports weak uptake of ChatGPT in Apple Intelligence, rolls out voice mode upgrades, and faces two high‑profile security incidents in Australia."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 OpenAI disclosed that ChatGPT usage through Apple Intelligence fell far short of expectations, even as the company released three voice‑mode upgrades and dealt with two security incidents in Australia. The contrast highlights a growing tension between product rollout and trust management.
 
@@ -48,3 +50,7 @@ Historically, AI firms have struggled to balance rapid feature releases with res
 ## What to watch
 
 Track OpenAI’s response to the Australian inquiries, especially any changes to agent sandboxing or API access controls. Monitor the next quarterly report from Apple on Apple Intelligence usage to see if the underperformance trend reverses. Finally, watch legislative developments in Australia and the EU that could impose new compliance requirements on AI providers.
+
+## Updates
+
+- **2026-10-06** — OpenAI details new text watermarking system for ChatGPT, Codex, and the API ([source](https://9to5mac.com/2026/10/05/openai-details-new-text-watermarking-system-for-chatgpt-codex-and-the-api/))

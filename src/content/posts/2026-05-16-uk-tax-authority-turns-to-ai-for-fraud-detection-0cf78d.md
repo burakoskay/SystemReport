@@ -1,15 +1,17 @@
 ---
 title: "UK Tax Authority Turns to AI for Fraud Detection"
 date: 2026-05-16T03:38:24.601Z
+modified_date: 2026-10-06T01:05:19.264Z
 tags: ["AI","tax collection","fraud detection"]
 hero_image: "/hero/2026-05-16-uk-tax-authority-turns-to-ai-for-fraud-detection-0cf78d.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "The UK's tax authority is using AI to identify potential fraud, while human staff will still review the findings."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## UK Tax Authority Employs AI for Fraud Detection
@@ -70,3 +72,6 @@ The UK's tax authority is at the forefront of a growing trend in the use of AI i
 
 The use of AI in tax collection is a complex issue that requires careful consideration of the potential benefits and risks. As the technology continues to evolve, it is likely to have a major impact on the way that tax authorities operate.
 
+## Updates
+
+- **2026-10-06** — Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports ([source](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports))
