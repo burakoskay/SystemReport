@@ -1,18 +1,20 @@
 ---
 title: "GrapheneOS User Faces Backlash for Using GrapheneOS"
 date: 2026-06-06T10:12:18.473Z
+modified_date: 2026-10-06T08:27:31.784Z
 tags: ["grapheneos","security","mobile operating system","controversy"]
 hero_image: "/hero/2026-06-06-grapheneos-user-faces-backlash-for-using-grapheneos-a334a4.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "grapheneos user backlash"
 description: "A GrapheneOS user reports being contacted by authorities, sparking controversy and raising questions about the platform's future."
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-06-06-grapheneos-user-faces-backlash-for-using-grapheneos-a334a4.mp3"
 audio_bytes: 596054
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## GrapheneOS User Faces Backlash for Using GrapheneOS
@@ -67,3 +69,6 @@ The incident has also raised questions about the regulatory implications of Grap
 
 The answer to these questions remains to be seen. However, one thing is clear: the future of GrapheneOS hangs in the balance. Will the platform's developers take steps to address the security concerns raised by the incident? Will the platform's user base continue to grow, despite the controversy surrounding it? Only time will tell.
 
+## Updates
+
+- **2026-10-06** — Plain text is still one of the best technologies we have ([source](https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/))

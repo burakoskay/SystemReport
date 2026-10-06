@@ -1,16 +1,17 @@
 ---
 title: "Motorola hints at wider Razr Fold as Apple rolls out iPhone Duo"
 date: 2026-09-10T02:51:01.532Z
-modified_date: 2026-09-13T22:01:19.753Z
+modified_date: 2026-10-06T08:26:54.693Z
 tags: ["foldables","motorola","smartphones","technews"]
 hero_image: "/hero/2026-09-10-motorola-hints-at-wider-razr-fold-as-apple-rolls-out-iphone-duo-de79e9.jpg"
 hero_image_credit_name: "Dextar Studio ™"
 hero_image_credit_url: "https://www.pexels.com/@dextarstudio"
 visual_keyword: "wide foldable smartphone displayed on a desk"
 description: "Motorola teases a broader Razr Fold amid Apple’s iPhone Duo launch, sparking pricing wars and raising questions about the next foldable frontier."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 
 ## Motorola’s wide Razr Fold tease
@@ -43,4 +44,5 @@ Track the official launch details for Motorola’s wide Razr Fold, especially an
 
 ## Updates
 
+- **2026-10-06** — This remote-controlled wagon is silly but so very useful ([source](https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful))
 - **2026-09-13** — Apple is reportedly working on iPhone game controllers ([source](https://www.theverge.com/tech/994426/apple-iphone-game-controllers))

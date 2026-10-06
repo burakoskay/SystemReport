@@ -1,16 +1,17 @@
 ---
 title: "The Human Factor: World's Mission to Verify Authenticity in the"
 date: 2026-04-18T01:04:43.454Z
-modified_date: 2026-09-22T13:01:07.607Z
+modified_date: 2026-10-06T08:26:39.657Z
 tags: ["human verification","artificial intelligence","online security"]
 hero_image: "/hero/2026-04-18-the-human-factor-world-s-mission-to-verify-authenticity-in-the-digital-age-3dcd78.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "digital fingerprint"
 description: "World partners with Tinder and Zoom to combat AI imposters"
-sources_count: 19
+sources_count: 20
 author: "priya-raman"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ The rise of artificial intelligence has brought about a plethora of benefits, bu
 
 ## Updates
 
+- **2026-10-06** — Sportsman's Warehouse Promo Code: Save in October 2026 ([source](https://www.wired.com/story/sportsmans-warehouse-promo-code/))
 - **2026-09-22** — GoPro Mission 1 Pro ILS Review (2026): Cinema-Quality Action Cam ([source](https://www.wired.com/review/gopro-mission-1-ils-camera/))
 - **2026-08-21** — Walmart will finally accept tap to pay in stores by the end of 2026 ([source](https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/))
 - **2026-05-27** — 9to5Mac Daily: May 27, 2026 – New anti-theft iPhone features, more ([source](https://9to5mac.com/2026/05/27/daily-may-27-2026/))
