@@ -1,16 +1,17 @@
 ---
 title: "Hark Raises $700M for Secretive AI Interface Amid AWS"
 date: 2026-05-21T20:08:24.371Z
-modified_date: 2026-09-15T17:54:40.538Z
+modified_date: 2026-10-07T03:47:53.336Z
 tags: ["ai","aws","climate-risk","investments","hark"]
 hero_image: "/hero/2026-05-21-hark-raises-700m-for-secretive-ai-interface-amid-aws-cd57b8.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "abstract data flow with green energy nodes and digital interface patterns"
 description: "Hark secures $700M for AI platform, AWS expands in Spain with climate-linked investment."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Investors should track three metrics: Hark’s model performance in third-party 
 
 ## Updates
 
+- **2026-10-07** — iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results ([source](https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/))
 - **2026-09-15** — GM finds splitscreen solution for CarPlay and Android Auto ([source](https://www.engadget.com/2259077/gm-finds-splitscreen-solution-for-carplay-and-android-auto/))
 - **2026-08-09** — _for-sale DNS records ([source](https://specification.website/spec/foundations/for-sale-dns/))
 - **2026-07-26** — First teaser for Apple TV's Neuromancer debuts at SDCC ([source](https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/))

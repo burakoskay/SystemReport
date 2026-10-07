@@ -1,19 +1,20 @@
 ---
 title: "Samsung's Galaxy S27 Ultra Camera Overhaul and Other Rumors"
 date: 2026-05-01T09:52:32.145Z
-modified_date: 2026-10-01T22:15:48.911Z
+modified_date: 2026-10-07T03:47:16.775Z
 tags: ["samsung","galaxy s27 ultra","galaxy book","galaxy a27"]
 hero_image: "/hero/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.jpg"
 hero_image_credit_name: "Themba Mtegha"
 hero_image_credit_url: "https://www.pexels.com/@thembaforfun"
 visual_keyword: "Samsung Galaxy S27 Ultra camera"
 description: "Samsung's upcoming Galaxy S27 Ultra may feature a camera overhaul, ditching its 3x telephoto lens. Other rumors include new Galaxy Book laptops running Android and details on the Galaxy A27 and Z Flip 8."
-sources_count: 17
+sources_count: 18
 audio_path: "/audio/2026-05-01-samsung-s-galaxy-s27-ultra-camera-overhaul-and-other-rumors-98b85d.mp3"
 audio_bytes: 671705
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ The next few months will be crucial for Samsung as it unveils its new products a
 
 ## Updates
 
+- **2026-10-07** — Samsung starts rolling out Android 17 for Galaxy S24 and older foldables ([source](https://9to5google.com/2026/10/06/samsung-android-17-galaxy-s24-fold-6-rolling-out/))
 - **2026-10-01** — Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make ([source](https://www.engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences/))
 - **2026-09-29** — Razer’s low-latency wireless gaming keyboard is almost half off ([source](https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale))
 - **2026-09-17** — Comp AI sets eyes on a continuously agentic future for security and compliance ([source](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/))

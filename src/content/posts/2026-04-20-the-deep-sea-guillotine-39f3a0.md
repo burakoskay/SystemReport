@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-09-23T19:27:24.102Z
+modified_date: 2026-10-07T03:46:17.908Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 42
+sources_count: 43
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -112,6 +113,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-10-07** — OpenAI drops another batch of mathematical breakthroughs ([source](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github))
 - **2026-09-23** — I don't want the details ([source](https://michaelheap.com/i-dont-want-the-details/))
 - **2026-09-23** — YouTube’s Custom Feeds Give You More Control Over the Algorithm ([source](https://www.wired.com/story/youtube-custom-feeds-let-you-steer-the-algorithm-without-breaking-it/))
 - **2026-09-06** — The revolt of the reader ([source](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/))

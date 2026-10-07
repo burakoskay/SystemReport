@@ -1,18 +1,20 @@
 ---
 title: "AI Ambitions: Runway, Osaurus, and the Future of AI Development"
 date: 2026-05-15T14:20:53.559Z
+modified_date: 2026-10-07T03:45:55.844Z
 tags: ["AI","Machine Learning","Deep Learning"]
 hero_image: "/hero/2026-05-15-ai-ambitions-runway-osaurus-and-the-future-of-ai-development-5444d4.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI video generation startup Runway wants to beat Google at AI, while Osaurus brings local and cloud AI models to Mac users."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-05-15-ai-ambitions-runway-osaurus-and-the-future-of-ai-development-5444d4.mp3"
 audio_bytes: 614027
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Runway's Ambitious Bid to Beat Google at AI
@@ -69,3 +71,6 @@ As AI continues to evolve, we can expect to see even more innovative technologie
 
 Another thing to watch is the growing importance of data privacy and security in AI development. As AI becomes increasingly ubiquitous, users are going to demand more control over their data and AI models.
 
+## Updates
+
+- **2026-10-07** — I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026) ([source](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/))

@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-09-21T16:09:53.577Z
+modified_date: 2026-10-07T03:46:32.615Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 27
+sources_count: 28
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-10-07** — Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say ([source](https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy))
 - **2026-09-21** — Googlebooks feel like the first laptops built for Android owners ([source](https://www.theverge.com/tech/998095/googlebook-laptop-android-continue-on-app-cast))
 - **2026-09-19** — How to block and unblock a number on your Android phone ([source](https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/))
 - **2026-09-18** — 9to5Mac Daily: September 18, 2026 – More on iOS 27, iPhone Duo ([source](https://9to5mac.com/2026/09/18/daily-september-18-2026/))

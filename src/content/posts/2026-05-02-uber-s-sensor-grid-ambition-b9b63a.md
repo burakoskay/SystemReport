@@ -1,15 +1,17 @@
 ---
 title: "Uber's Sensor Grid Ambition"
 date: 2026-05-02T09:13:09.908Z
+modified_date: 2026-10-07T03:45:48.447Z
 tags: ["autonomous vehicles","Uber","self-driving cars"]
 hero_image: "/hero/2026-05-02-uber-s-sensor-grid-ambition-b9b63a.jpg"
 hero_image_credit_name: "Ulrick Trappschuh"
 hero_image_credit_url: "https://www.pexels.com/@ulrick-t"
 visual_keyword: "sensor grid"
 description: "Uber to leverage driver network for self-driving data"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction
 Uber's chief technology officer, Praveen Neppalli Naga, revealed plans to turn the company's millions of drivers into a sensor grid for self-driving companies at TechCrunch's StrictlyVC event in San Francisco. This move extends Uber's AV Labs program, announced in late January.
@@ -29,3 +31,7 @@ The concept of autonomous driving has been around for decades, with numerous com
 As Uber moves forward with its sensor grid initiative, the company will need to address challenges associated with collecting and processing vast amounts of data. Uber might implement the sensor grid by integrating it with its existing infrastructure, such as its driver app, to collect data seamlessly. The success of this plan could significantly accelerate self-driving technology development, forcing competitors to adapt or risk being left behind.
 ## Regulatory Environment
 The regulatory environment for autonomous vehicles is still evolving, with numerous countries and states developing their own rules and guidelines. Uber's sensor grid initiative will need to comply with these regulations, which could impact the company's ability to collect and utilize data. As the industry continues to develop, it is likely that regulatory frameworks will become more comprehensive, potentially affecting the growth and adoption of self-driving technology.
+
+## Updates
+
+- **2026-10-07** — The next hurdle for AI agents: getting websites to let them in ([source](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/))

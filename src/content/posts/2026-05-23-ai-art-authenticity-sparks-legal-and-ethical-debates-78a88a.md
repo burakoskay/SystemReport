@@ -1,16 +1,17 @@
 ---
 title: "AI Art Authenticity Sparks Legal and Ethical Debates"
 date: 2026-05-23T21:02:57.555Z
-modified_date: 2026-08-04T17:41:08.000Z
+modified_date: 2026-10-07T03:48:22.600Z
 tags: ["ai art","art authentication","generative ai","artistic authorship","digital humanities"]
 hero_image: "/hero/2026-05-23-ai-art-authenticity-sparks-legal-and-ethical-debates-78a88a.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract brushstroke pattern on canvas with AI-generated fractal overlay"
 description: "Generative AI disrupts art world as firms claim machine can outperform human experts in attribution."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The core question remains unresolved: Can machine analysis ever replace human ju
 
 ## Updates
 
+- **2026-10-07** — Apple killed the Mac mini’s best hidden feature [Video] ([source](https://9to5mac.com/2026/10/06/apple-killed-the-mac-minis-best-hidden-feature-video/))
 - **2026-08-04** — The Asus Chromebook Plus CX34 is at one of its lowest prices ([source](https://www.theverge.com/gadgets/974732/asus-chromebook-plus-cx34-igloo-playmate-kooltunes-14-quart-cooler-deal-sale))
 - **2026-07-28** — Is it illegal to trick the US government into wiping your phone during a questionably legal search? ([source](https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password))
 - **2026-07-27** — AppleCare One insurance for multiple devices finally expands outside the US ([source](https://www.engadget.com/2223761/applecare-one-insurance-for-multiple-devices-finally-expands-outside-the-us/))
