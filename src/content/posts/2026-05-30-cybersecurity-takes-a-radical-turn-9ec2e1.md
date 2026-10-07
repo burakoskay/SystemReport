@@ -1,19 +1,20 @@
 ---
 title: "Cybersecurity Takes a Radical Turn"
 date: 2026-05-30T03:54:27.925Z
-modified_date: 2026-10-02T17:17:34.980Z
+modified_date: 2026-10-07T10:47:14.960Z
 tags: ["cybersecurity","AI","Mythos","Anthropic"]
 hero_image: "/hero/2026-05-30-cybersecurity-takes-a-radical-turn-9ec2e1.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Anthropic's AI model, Mythos, promises to revolutionize cyber defense by automating vulnerability discovery and exploitation, potentially shifting the balance in favor of defenders."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-30-cybersecurity-takes-a-radical-turn-9ec2e1.mp3"
 audio_bytes: 586859
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The cybersecurity community must stay vigilant and adapt to the changing landsca
 
 ## Updates
 
+- **2026-10-07** — Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily ([source](https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/))
 - **2026-10-02** — The Legend of von Neumann (1973) [pdf] ([source](https://gwern.net/doc/math/1973-halmos.pdf))
 - **2026-09-07** — Capcom is reviving more dormant franchises after the success of Onimusha: Way of the Sword ([source](https://www.engadget.com/2252274/capcom-to-revive-dormant-franchises-after-onimusha-way-of-the-sword-sells-a-million-copies-at-launch/))
 - **2026-09-04** — Tesla starts offering Cybercab robotaxi rides ([source](https://www.engadget.com/2250874/tesla-offering-cybercab-robotaxi-rides/))

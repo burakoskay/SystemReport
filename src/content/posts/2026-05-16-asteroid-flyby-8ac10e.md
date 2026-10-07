@@ -1,16 +1,17 @@
 ---
 title: "Asteroid Flyby"
 date: 2026-05-16T09:45:50.594Z
-modified_date: 2026-08-16T22:15:52.063Z
+modified_date: 2026-10-07T10:47:44.298Z
 tags: ["asteroid","NASA","planetary defense"]
 hero_image: "/hero/2026-05-16-asteroid-flyby-8ac10e.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "asteroid"
 description: "Asteroid Apophis to fly by Earth in 2029, NASA's plans unclear"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ The DART mission, launched by NASA in 2021, demonstrated the ability to make a m
 
 ## Updates
 
+- **2026-10-07** — Spotify expands audiobooks to over 180 markets ([source](https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/))
 - **2026-08-16** — The weekend is 100 years old ([source](https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it))
 - **2026-08-06** — Vision Pro is a niche product, but an incredibly valuable one in the right hands ([source](https://9to5mac.com/2026/08/06/vision-pro-is-a-niche-product-but-an-incredibly-valuable-one-in-the-right-hands/))
 - **2026-07-28** — Apple Upgrade is a great deal on paper, but make sure you read the fine print ([source](https://www.engadget.com/2225429/apple-upgrade-is-a-great-deal-on-paper-but-make-sure-you-read-the-fine-print/))

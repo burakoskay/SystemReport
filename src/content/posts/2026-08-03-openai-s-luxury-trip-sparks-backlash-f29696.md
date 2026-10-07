@@ -1,19 +1,20 @@
 ---
 title: "OpenAI's Luxury Trip Sparks Backlash"
 date: 2026-08-03T19:26:16.889Z
-modified_date: 2026-09-03T19:03:10.520Z
+modified_date: 2026-10-07T10:47:22.291Z
 tags: ["AI","OpenAI","Influencer Marketing","Transparency"]
 hero_image: "/hero/2026-08-03-openai-s-luxury-trip-sparks-backlash-f29696.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI faces criticism for hosting influencers"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-03-openai-s-luxury-trip-sparks-backlash-f29696.mp3"
 audio_bytes: 648926
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -57,4 +58,5 @@ OpenAI's response will be crucial in addressing the backlash and regaining publi
 
 ## Updates
 
+- **2026-10-07** — Your Next Great Read Might Be Certified ‘Organic’ ([source](https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/))
 - **2026-09-03** — Lenovo’s first RTX Spark laptops can have up to 128GB of RAM ([source](https://9to5google.com/2026/09/03/lenovos-first-rtx-spark-laptops-can-have-up-to-128gb-of-ram/))

@@ -1,18 +1,20 @@
 ---
 title: "Federal hacks, rogue cameras and iPhone workarounds expose gaps"
 date: 2026-10-02T10:20:53.898Z
+modified_date: 2026-10-07T10:47:37.000Z
 tags: ["cybersecurity","privacy","law-enforcement","surveillance"]
 hero_image: "/hero/2026-10-02-federal-hacks-rogue-cameras-and-iphone-workarounds-expose-gaps-4510d8.jpg"
 hero_image_credit_name: "Yusuf Çelik"
 hero_image_credit_url: "https://www.pexels.com/@zandatsu"
 visual_keyword: "dark server room with flashing alerts and a surveillance camera"
 description: "Two federal agency breaches, unknown owners of 11 Flock cameras, and a police video showing iPhone security bypass highlight growing US cyber and privacy challenges."
-sources_count: 8
-author: "david-okafor"
+sources_count: 9
 audio_path: "/audio/2026-10-02-federal-hacks-rogue-cameras-and-iphone-workarounds-expose-gaps-4510d8.mp3"
 audio_bytes: 576410
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Federal breaches spill sensitive data
 Two federal agencies suffered breaches within a single month, releasing a bonanza of sensitive information, according to Ars Technica. The incidents arrived back‑to‑back, underscoring a fragile security posture at the nation’s core.
@@ -34,3 +36,7 @@ Stakeholders argue that stronger oversight could hamper legitimate investigation
 
 ## What to watch
 Track the Department of Homeland Security’s response to the agency breaches, especially any mandate for unified incident‑response protocols. Follow the Florida Legislature’s hearings on surveillance camera registration, where a bill to require owner disclosure is expected to surface. Monitor Apple’s security bulletins for patches that address the boot‑process flaw highlighted in the police video. Finally, keep an eye on the upcoming congressional hearings on encryption policy, where law‑enforcement representatives will likely press for expanded technical tools.
+
+## Updates
+
+- **2026-10-07** — ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media ([source](https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media))
