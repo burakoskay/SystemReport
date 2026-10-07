@@ -1,19 +1,20 @@
 ---
 title: "Apple Cuts Interest Rate for Apple Card Savings Accounts"
 date: 2026-06-04T15:30:46.312Z
-modified_date: 2026-10-01T01:01:52.321Z
+modified_date: 2026-10-07T18:20:32.680Z
 tags: ["Apple","Apple Card","Savings Accounts","Interest Rates"]
 hero_image: "/hero/2026-06-04-apple-cuts-interest-rate-for-apple-card-savings-accounts-fa0d44.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Card"
 description: "Apple has cut the interest rate for its Apple Card Savings accounts for the second time this year, from 3.5% to an unspecified lower rate."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-06-04-apple-cuts-interest-rate-for-apple-card-savings-accounts-fa0d44.mp3"
 audio_bytes: 589576
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ The reduction in interest rates for the Apple Card Savings account may impact co
 
 ## Updates
 
+- **2026-10-07** — I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good ([source](https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/))
 - **2026-10-01** — Apple TV is currently down for some users, as other Apple services also face issues [U] ([source](https://9to5mac.com/2026/09/30/apple-tv-is-currently-down-for-some-users-as-other-apple-services-also-face-issues/))
 - **2026-09-28** — iOS 26.7.1 available now for iPhone with security fixes ([source](https://9to5mac.com/2026/09/28/ios-26-7-1-available-now-for-iphone-with-security-fixes/))
 - **2026-09-23** — Apple releases watchOS 27.0.1 to fix Apple Watch Series 12 and Ultra 4 bug ([source](https://9to5mac.com/2026/09/23/apple-releases-watchos-27-0-1-to-fix-apple-watch-series-12-and-ultra-4-bug/))

@@ -1,19 +1,20 @@
 ---
 title: "Google Tasks and Gboard Get Material 3 Makeover"
 date: 2026-06-04T18:25:55.348Z
-modified_date: 2026-10-04T13:38:05.055Z
+modified_date: 2026-10-07T18:22:18.812Z
 tags: ["Google","Material 3","Android"]
 hero_image: "/hero/2026-06-04-google-tasks-and-gboard-get-material-3-makeover-2dc443.jpg"
 hero_image_credit_name: "Tobias Dziuba"
 hero_image_credit_url: "https://www.pexels.com/@tobias-dziuba-319638"
 visual_keyword: "Google Tasks"
 description: "Google Tasks and Gboard are getting a Material 3 redesign on Android, making them more expressive and visually appealing."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-04-google-tasks-and-gboard-get-material-3-makeover-2dc443.mp3"
 audio_bytes: 604413
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,4 +78,5 @@ The rollout of these updates is part of Google's ongoing effort to improve its a
 
 ## Updates
 
+- **2026-10-07** — Prime Day 2 deals – Last chance: Galaxy Tab S12 up to $650 off w/ trade, S11 $355 off, Galaxy Z Fold 8 all-time low, more ([source](https://9to5google.com/2026/10/07/samsung-galaxy-tab-s12ultra-launch-deals-now-live-up-to-650-off/))
 - **2026-10-04** — What is infill in 3D printing and is it necessary? ([source](https://www.engadget.com/2273797/what-is-infill-3d-printing/))

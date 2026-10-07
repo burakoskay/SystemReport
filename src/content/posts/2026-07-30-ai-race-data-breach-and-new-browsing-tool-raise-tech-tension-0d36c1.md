@@ -1,16 +1,17 @@
 ---
 title: "AI race, data breach, and new browsing tool raise tech tension"
 date: 2026-07-30T21:06:01.567Z
-modified_date: 2026-09-29T20:24:14.945Z
+modified_date: 2026-10-07T18:22:41.463Z
 tags: ["ai","cybersecurity","hardware","software"]
 hero_image: "/hero/2026-07-30-ai-race-data-breach-and-new-browsing-tool-raise-tech-tension-0d36c1.jpg"
 hero_image_credit_name: "Jun Wai Chin"
 hero_image_credit_url: "https://www.pexels.com/@lmnjun"
 visual_keyword: "futuristic desk with AI hologram, medical file, phone case, and Chrome browser window"
 description: "OpenAI and Anthropic's AI speed, a CareCloud breach, pricey phone cases, and Gemini Spark's Chrome browsing update illustrate rising tech stakes."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## AI speed outpaces oversight
@@ -43,6 +44,7 @@ Regulators will likely scrutinize the AI race for signs of unsafe deployment, es
 
 ## Updates
 
+- **2026-10-07** — Google Labs announces ‘Playground’ for prompt-based game creation ([source](https://9to5google.com/2026/10/07/google-labs-playground/))
 - **2026-09-29** — After losing his voice to cancer, this founder is building ‘glasses for voice’ ([source](https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/))
 
 [^1]: [thehindu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQYJ47_q_gMocNAMv8LvTaAzSDO3Cx2stHXJfkoFmwllHyiqOqHv_ilDR5US_TwnVSfYeyuvQ_getYnFDP4Z5zE2Z3IaIvNF_aWbDGmrfKEQr0MQnKh6uXoQ9D-fWmfSLqQ_aau6Jiph-GIDElAF1ZQJvcBvuLwTcc3z8vAp456jMwoXbU84KDE0gG7SPe0AgfNXR2ztYYlQJw8ZQwWrIVgGnF7sS3KLy-sQ3JbliFghCZ)

@@ -1,15 +1,17 @@
 ---
 title: "Amazon’s Fake Tech Reviews Flood the Market"
 date: 2026-08-02T11:14:35.766Z
+modified_date: 2026-10-07T18:19:39.656Z
 tags: ["amazon","reviews","ecommerce","consumer-protection"]
 hero_image: "/hero/2026-08-02-amazon-s-fake-tech-reviews-flood-the-market-cf5f56.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "close-up of a laptop screen displaying a flood of glowing five-star product reviews with a subtle glitch overlay"
 description: "Which? uncovers thousands of bogus Amazon reviews for headphones and other tech, while new tools try to restore trust."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Amazon's marketplace is awash with five‑star reviews that never happened.
 
@@ -52,3 +54,7 @@ Platforms themselves must evolve. Amazon’s pledge to suspend and ban violators
 ## What to watch
 
 The next quarter will reveal whether Amazon tightens its enforcement mechanisms or introduces new verification layers for reviewers. Keep an eye on any policy updates from the marketplace, especially those that address unverified‑purchaser flags. Simultaneously, monitor the Hacker News aggregator for its upcoming release, which promises to incorporate machine‑learning weighting to further refine the single‑score model. The interaction between stricter platform policing and independent expert scoring could reshape how shoppers evaluate tech products in the months ahead.
+
+## Updates
+
+- **2026-10-07** — Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing ([source](https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/))

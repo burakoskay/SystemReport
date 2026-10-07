@@ -1,15 +1,17 @@
 ---
 title: "ZuckOff alerts users to nearby Meta glasses amid privacy backlash"
 date: 2026-09-21T16:13:44.305Z
+modified_date: 2026-10-07T18:21:48.461Z
 tags: ["meta","privacy","wearables","apps"]
 hero_image: "/hero/2026-09-21-zuckoff-alerts-users-to-nearby-meta-glasses-amid-privacy-backlash-ba6ecc.jpg"
 hero_image_credit_name: "VAZHNIK"
 hero_image_credit_url: "https://www.pexels.com/@vazhnik"
 visual_keyword: "person checking phone while another person wears smart glasses in a cafe"
 description: "A Polish developer's free app warns iPhone and Android users when Meta's recording glasses are in the room, sparking debate over privacy and tech liability."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Meta’s AI‑powered smart glasses have become a flashpoint for privacy advocates. A free app called ZuckOff now tells you when a pair of those glasses is within earshot.[^1][^2][^3][^4][^5] The app’s launch has turned a vague fear into a concrete alert, and it has already drawn interest from regulators.[^1][^5]
 
@@ -42,6 +44,10 @@ The app’s business model hinges on a niche market of privacy‑conscious users
 ## What to watch
 
 The next few months will reveal whether regulators treat ZuckOff as a privacy‑enhancing service or as a competitor to Meta’s ecosystem. Watch for any formal EU or U.S. statements on Bluetooth‑based detection tools. Meta’s upcoming firmware releases could also alter the Bluetooth fingerprint, potentially breaking ZuckOff’s database. Finally, keep an eye on adoption numbers; a surge past the current 6,000‑plus installs could pressure venues to adopt detection policies or push lawmakers toward stricter recording‑light statutes.[^1][^2][^3][^4]
+
+## Updates
+
+- **2026-10-07** — The Social Reckoning is a timely reminder that we shouldn't trust Meta ([source](https://www.engadget.com/2279767/the-social-reckoning-is-a-timely-reminder-that-we-shouldnt-trust-meta/))
 
 [^1]: [businessinsider.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNgTsPdGUTTmzvzkf_36Bb3QwLU5IDQp-umOFTTeWUb4TYE4U4jpWOyD0Lfk5OhTZZqpRhumHQVv4vhm3bZH0O4ElSSy75GT2zKbBAbBR-ErvF63UNgRlcUmvCQ7mnp1Wff6LrYSorscgHiI7SAk8fgM4KHtjmN1qP1ZCO1pZrWRFWaNQpvYaYpHDWdkI4C2h8smvTPqdZI_1QWDxG)
 [^2]: [digitaltrends.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxXZlTjsheikk6uOdR8uKZXsXRMQz7EICdtAYtzoYvJ-RK1cP5SLJ8Zaj3ffrsArvbsGPE-vbAcJLnMwA3z1F00W3XIplixjXdtz75WuBuM_82P_7JR9x56Dv4Qpb1L4MArk4_5Adq0MpthspWOK0LshG-SANPBr1K8kt8Cj13UjVoMik1JczeLK2r6pVQZoQb1qG67DzXcz0laXD7NlxGa6kkzrKLVie4QoQwIw==)

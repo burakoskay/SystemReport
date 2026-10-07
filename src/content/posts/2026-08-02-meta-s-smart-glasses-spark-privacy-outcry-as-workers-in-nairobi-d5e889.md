@@ -1,16 +1,17 @@
 ---
 title: "Meta’s Smart Glasses Spark Privacy Outcry as Workers in Nairobi"
 date: 2026-08-02T11:17:42.839Z
-modified_date: 2026-09-15T07:04:57.702Z
+modified_date: 2026-10-07T18:21:10.591Z
 tags: ["smart glasses","privacy","ai","meta","open source"]
 hero_image: "/hero/2026-08-02-meta-s-smart-glasses-spark-privacy-outcry-as-workers-in-nairobi-d5e889.jpg"
 hero_image_credit_name: "Miguel González"
 hero_image_credit_url: "https://www.pexels.com/@mikegles"
 visual_keyword: "sleek black smart glasses reflecting a city skyline"
 description: "Meta’s new AI glasses raise alarm over covert data collection and reveal a hidden workforce in Kenya, while open‑source tools aim to curb the privacy fallout."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ The next few months will reveal whether smart glasses become a trusted extension
 
 ## Updates
 
+- **2026-10-07** — The Apple Watch Series 12 is a good deal at $50 off ([source](https://www.theverge.com/gadgets/1006806/apple-watch-series-12-prime-day-deal-sale))
 - **2026-09-15** — How to use Meta Display glasses while driving with the Audio Only feature ([source](https://www.engadget.com/2255133/meta-display-glasses-audio-only-driving-detection-feature/))
 - **2026-08-23** — Uber faces fine of nearly $1B over automated driver suspensions ([source](https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/))
 - **2026-08-18** — Next Apple Watch activity challenge supports national parks ([source](https://9to5mac.com/2026/08/18/next-apple-watch-activity-challenge-supports-national-parks-2/))

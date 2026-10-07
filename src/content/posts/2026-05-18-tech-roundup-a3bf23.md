@@ -1,19 +1,20 @@
 ---
 title: "Tech Roundup"
 date: 2026-05-18T15:43:36.643Z
-modified_date: 2026-08-12T01:20:51.550Z
+modified_date: 2026-10-07T18:22:33.875Z
 tags: ["Tech News","AI","Machine Learning"]
 hero_image: "/hero/2026-05-18-tech-roundup-a3bf23.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Amazon's Alexa+ generates custom AI podcasts, Starlink raises prices, and Google updates Find Hub app"
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-05-18-tech-roundup-a3bf23.mp3"
 audio_bytes: 677138
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,5 +68,6 @@ The use of Matter support in smart home devices like the Govee TV Backlight 3 is
 
 ## Updates
 
+- **2026-10-07** — Justice League all over again; Henry Cavill’s mustache vanishes in new Googlebook promo [Video] ([source](https://9to5google.com/2026/10/07/henry-cavill-googlebook-promo-mustache-justice-league/))
 - **2026-08-12** — Xbox Elite 3 prototype pad leaks with tiny built-in screen ([source](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen))
 - **2026-06-04** — Amazon’s new plan for games: James Bond and AI Snoop Dogg ([source](https://www.theverge.com/games/943147/amazon-gaming-strategy-james-bond-snoop-dogg-luna))

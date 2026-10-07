@@ -1,15 +1,17 @@
 ---
 title: "Kushner Warns VCs"
 date: 2026-08-15T00:54:47.645Z
+modified_date: 2026-10-07T18:22:11.193Z
 tags: ["AI","Investments","VCs","Kushner"]
 hero_image: "/hero/2026-08-15-kushner-warns-vcs-842338.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Thrive's Joshua Kushner cautions VCs on AI euphoria"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 ## Introduction to Caution
 Joshua Kushner issued a warning to VCs in his first-ever investment letter, emphasizing the importance of investment discipline amidst AI euphoria. Kushner noted that "it would also be a grave error in our minds to let excitement weaken our investment discipline."[^1][^2]
@@ -29,6 +31,10 @@ The implications of Kushner's warning extend beyond the AI sector, with potentia
 The regulatory environment surrounding AI investments is complex and evolving. Governments and regulatory bodies are still grappling with the implications of AI and how to effectively regulate its development and deployment. Kushner's warning highlights the importance of considering these regulatory challenges when making investment decisions. By doing so, VCs can help ensure that their investments are not only financially sound but also compliant with relevant regulations and laws.[^8]
 ## Market Outlook
 The market outlook for AI investments is uncertain, with some predicting significant growth and others warning of a potential bubble. Kushner's warning suggests that investors should approach this market with caution, carefully evaluating the potential risks and rewards of each investment opportunity. By doing so, VCs can help ensure that their investments in AI are sustainable and responsible, contributing to the long-term growth and development of the sector.[^1][^3][^8]
+
+## Updates
+
+- **2026-10-07** — House with 15m underground tunnels for sale for 300k ([source](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/))
 
 [^1]: [runtimewire.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw3LDQf6f_oNB5IXn8GCuRF4m7Mw5zqOrHWLPcK_lu1N6L6bwXSiHHxUGFds6eKd0W0K11Wbuv_4eszjKHXRvr1ww-bomSfqHRmMN6CPRckXq5MdbToj5rjExCaMxNRIMoxkmiMVPTC_Y9-npmaXxiZFRLcUWDoTTT6z8UqbtLS35hFW_EyUQhQ-rW_1s=)
 [^2]: [pressbee.net](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE53NaYGBIrgyBZq0SEfj7tTMLxzSE-CnTKbGWFHVKZMms3Wtmyj1dwxXjv2dkspSbAUbYjdrBXAj08UqGRsMsLB_fEJrpyr-AwU2o6IiUnKyANSqE2hZ1PU-TyJwPRD-Mg6P5xMmvkE_njlFsKo7TCBiPGLg_dKOIiOPK2wj518F6WW6-d2QjlxpQC6forM3QZvwiiYTX3B8c5aNJ8MCv0U6BIqjy79a0KrTg=)

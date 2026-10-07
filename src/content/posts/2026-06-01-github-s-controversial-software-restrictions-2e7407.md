@@ -1,16 +1,17 @@
 ---
 title: "GitHub's Controversial Software Restrictions"
 date: 2026-06-01T21:58:28.304Z
-modified_date: 2026-09-16T14:33:08.530Z
+modified_date: 2026-10-07T18:23:19.044Z
 tags: ["github","open-source","software-restrictions","technical-ethics","developer-community"]
 hero_image: "/hero/2026-06-01-github-s-controversial-software-restrictions-2e7407.jpg"
 hero_image_credit_name: "Pew Nguyen"
 hero_image_credit_url: "https://www.pexels.com/@nguyendesigner"
 visual_keyword: "code repository with restricted access icons overlayed"
 description: "GitHub's new policy on software use sparks debate over open-source ethics and global access"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 GitHub has implemented a new policy restricting software use in specific jurisdictions, triggering immediate backlash from developers and open-source advocates. The move creates a technical and ethical dilemma for the platform's 100 million users, many of whom rely on the site's neutral hosting model. Developers warn the policy could fragment the global collaboration that defines modern software development.
@@ -41,4 +42,5 @@ The next six months will test whether GitHub can maintain its dominant position 
 
 ## Updates
 
+- **2026-10-07** — Call Screening has made a big difference to my iPhone experience ([source](https://9to5mac.com/2026/10/07/call-screening-has-made-a-big-difference-to-my-iphone-experience/))
 - **2026-09-16** — Why It Seems Like Great White Sharks Are Overrunning Maine ([source](https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/))

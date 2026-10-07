@@ -1,16 +1,17 @@
 ---
 title: "Uber Torches 2026 AI Budget on Claude Code in Four Months"
 date: 2026-05-01T19:22:56.452Z
-modified_date: 2026-09-30T14:37:02.168Z
+modified_date: 2026-10-07T18:22:48.954Z
 tags: ["ai-spending","anthropic","claude-code","ai-assistants","data-center-investment"]
 hero_image: "/hero/2026-05-01-uber-torches-2026-ai-budget-on-claude-code-in-four-months-7f90ed.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "A futuristic cityscape with glowing data center towers and AI-themed holograms"
 description: "Uber spends its entire 2026 AI budget on Claude Code in four months as Anthropic accelerates data center expansion."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ The next six months will clarify where these forces collide. Watch for Anthropic
 
 ## Updates
 
+- **2026-10-07** — Anthropic upgrades Claude with new Haiku 5.5 model, details here ([source](https://9to5mac.com/2026/10/07/anthropic-upgrades-claude-with-new-haiku-5-5-model-details-here/))
 - **2026-09-30** — Meta introduces a new AI assistant for its Instagram creators ([source](https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/))
 - **2026-09-15** — Uber expands options for riders with seniors accounts ([source](https://www.engadget.com/2255380/uber-expands-options-for-riders-with-seniors-accounts/))
 - **2026-09-02** — Google needs Hollywood more than the studios need AI ([source](https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai))

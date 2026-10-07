@@ -1,16 +1,17 @@
 ---
 title: "Redmond's Rebuttal: Microsoft Sweetens the Deal for Students"
 date: 2026-04-15T19:46:25.489Z
-modified_date: 2026-09-25T19:48:18.788Z
+modified_date: 2026-10-07T18:21:25.817Z
 tags: ["microsoft","apple","macbook neo","student deals","pc market"]
 hero_image: "/hero/2026-04-15-redmond-s-rebuttal-microsoft-sweetens-the-deal-for-students-amidst-macbook-neo-frenzy-6b35ac.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Student tech battleground"
 description: "Microsoft launches a comprehensive 'College Offer' with free software and gaming perks, directly challenging Apple's new MacBook Neo in the student market."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ This battle for the student market is more than just a fleeting skirmish over sa
 
 ## Updates
 
+- **2026-10-07** — Here's everything we know about Microsoft's Surface Laptop Ultra ([source](https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/))
 - **2026-09-25** — Topcoat is pushing the boundary of server applications with Rust ([source](https://tokio.rs/blog/2026-09-24-topcoat-server-applications))
 - **2026-08-25** — The US Just Recorded Its First 2 Measles Deaths This Year ([source](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/))
 - **2026-06-01** — This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark ([source](https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures))

@@ -1,19 +1,20 @@
 ---
 title: "Apple's macOS 27 Drops Support for 4 Older Macs"
 date: 2026-05-18T21:18:11.068Z
-modified_date: 2026-10-06T16:36:00.095Z
+modified_date: 2026-10-07T18:20:09.928Z
 tags: ["Apple","macOS 27","iOS 27"]
 hero_image: "/hero/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.jpg"
 hero_image_credit_name: "Lex Photography"
 hero_image_credit_url: "https://www.pexels.com/@lexovertoom"
 visual_keyword: "macOS"
 description: "Apple's upcoming macOS 27 will no longer support four older Mac models. The company also introduces new security features, including AI-powered vulnerability detection."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.mp3"
 audio_bytes: 647463
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -85,6 +86,7 @@ In conclusion, Apple's macOS 27 and iOS 27 represent a significant step forward 
 
 ## Updates
 
+- **2026-10-07** — Save Over $600 on Last-Minute Prime Day Mattress and Bedding Deals (2026) ([source](https://www.wired.com/story/best-prime-day-mattress-deals-10-07-2026/))
 - **2026-10-06** — Our Go-To Over-Ear Headphones Are 37% Off This Prime Day (2026) ([source](https://www.wired.com/story/nothing-headphone-1-deal-prime-day-10-6-2026/))
 - **2026-09-24** — M6 Mac mini review, Apple fitness band rumors, Apple AI servers ([source](https://9to5mac.com/2026/09/24/happy-hour-609/))
 - **2026-09-09** — Apple rolls out fourth developer and public RCs for macOS Tahoe 26.7 and macOS Sequoia 15.8 ([source](https://9to5mac.com/2026/09/09/apple-rolls-out-fourth-developer-and-public-rcs-for-macos-tahoe-26-7-and-macos-sequoia-15-8/))

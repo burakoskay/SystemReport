@@ -1,18 +1,20 @@
 ---
 title: "Apple pushes revenue, fights lawsuits, and bets on new shows"
 date: 2026-09-08T08:31:45.164Z
+modified_date: 2026-10-07T18:19:32.051Z
 tags: ["apple","app store","legal","tv","technews"]
 hero_image: "/hero/2026-09-08-apple-pushes-revenue-fights-lawsuits-and-bets-on-new-shows-82179d.jpg"
 hero_image_credit_name: "Déji Fadahunsi"
 hero_image_credit_url: "https://www.pexels.com/@deji-fadahunsi-458107704"
 visual_keyword: "Apple campus with abstract app icons and legal documents"
 description: "Apple eyes higher App Store fees, battles a Face ID patent suit, and expands TV content while internal leaders grow uneasy."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-09-08-apple-pushes-revenue-fights-lawsuits-and-bets-on-new-shows-82179d.mp3"
 audio_bytes: 567215
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple is tightening its grip on revenue streams, fending off a patent lawsuit, and stretching its TV brand—all while a senior exec quietly walks out. The moves signal a shift from incremental tweaks to a broader push for cash and control.
 
@@ -55,3 +57,7 @@ While the content push seems unrelated to the App Store revenue drive, both stra
 The next quarter will reveal whether Apple’s App Store fee changes move from rumor to policy. Watch for an official announcement from the App Store team or a filing with the FTC that outlines new fee structures. Also monitor the outcome of the TrinamiX lawsuit; a court ruling could set a precedent for biometric patents. Finally, keep an eye on the *Silo* spin‑off trailer release—its reception may indicate how far Apple can stretch its original‑content ambitions.
 
 ---
+
+## Updates
+
+- **2026-10-07** — ChatGPT is getting a lot more visual, with the launch of a new interface ([source](https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/))

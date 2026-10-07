@@ -1,16 +1,17 @@
 ---
 title: "Microsoft's Data Centers Threaten Clean Energy Goals"
 date: 2026-05-06T21:31:48.512Z
-modified_date: 2026-10-01T22:15:56.094Z
+modified_date: 2026-10-07T18:21:03.080Z
 tags: ["microsoft","data-centers","clean-energy","ai","sustainability"]
 hero_image: "/hero/2026-05-06-microsoft-s-data-centers-threaten-clean-energy-goals-a1cb21.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "modern data center with solar panels and wind turbines in the background"
 description: "Microsoft's AI-driven data center expansion risks undermining its 2030 clean energy targets as infrastructure demand grows."
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The company’s next quarterly sustainability report, due January 2025, will als
 
 ## Updates
 
+- **2026-10-07** — Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging ([source](https://www.theverge.com/news/1006445/microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging))
 - **2026-10-01** — Google Pixel 2 XL set the stage for a decade of ups and downs ([source](https://9to5google.com/2026/10/01/google-pixel-2-xl-set-the-stage-for-a-decade-of-ups-and-downs/))
 - **2026-09-23** — Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus ([source](https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus))
 - **2026-09-04** — What will Apple’s John Ternus era look like? ([source](https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/))
