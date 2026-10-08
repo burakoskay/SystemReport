@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Sued by New York Times Over AI Training"
 date: 2026-05-13T06:55:25.186Z
-modified_date: 2026-10-01T16:50:34.578Z
+modified_date: 2026-10-08T19:38:32.516Z
 tags: ["OpenAI","AI","copyright"]
 hero_image: "/hero/2026-05-13-openai-sued-by-new-york-times-over-ai-training-141e39.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "OpenAI"
 description: "OpenAI is facing multiple lawsuits over its use of copyrighted material to train its AI models, including cases brought by The New York Times, authors Mona Awad and Paul Tremblay, and Elon Musk."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -101,6 +102,7 @@ The cases may also lead to changes in the way that AI companies approach the use
 
 ## Updates
 
+- **2026-10-08** — USA Today becomes the latest publisher to sue OpenAI ([source](https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit))
 - **2026-10-01** — Amazon releases its own Jev clone as decision models flood the web ([source](https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/))
 - **2026-09-19** — The Quantified Scientist tests the Apple Watch Series 12’s new heart rate sensor ([source](https://9to5mac.com/2026/09/18/the-quantified-scientist-tests-the-apple-watch-series-12s-new-heart-rate-sensor/))
 - **2026-08-29** — I hate how badly I want the Tamagotchi Ring ([source](https://www.engadget.com/2246986/i-hate-how-badly-i-want-the-tamagotchi-ring/))

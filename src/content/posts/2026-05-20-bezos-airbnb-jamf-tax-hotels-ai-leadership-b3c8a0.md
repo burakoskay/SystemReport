@@ -1,16 +1,17 @@
 ---
 title: "Bezos, Airbnb, Jamf: Tax, Hotels, AI Leadership"
 date: 2026-05-20T18:29:07.065Z
-modified_date: 2026-09-18T02:41:56.096Z
+modified_date: 2026-10-08T19:39:35.935Z
 tags: ["taxes","airbnb","jamf","ai","leadership"]
 hero_image: "/hero/2026-05-20-bezos-airbnb-jamf-tax-hotels-ai-leadership-b3c8a0.jpg"
 hero_image_credit_name: "Harun  UZ"
 hero_image_credit_url: "https://www.pexels.com/@harunuzphotography"
 visual_keyword: "modern cityscape with hotel and AI symbols"
 description: "Bezos critiques middle‑class taxes, Airbnb adds hotels and grocery delivery, and Jamf appoints its first female CEO to steer an AI push."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Jamf's AI focus puts it in direct competition with larger device‑management ve
 
 ## Updates
 
+- **2026-10-08** — Apple Home adds two powerful new features in iOS 27 ([source](https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/))
 - **2026-09-18** — Report: Apple leads slowing true wireless stereo market as open-ear earbuds gain ground ([source](https://9to5mac.com/2026/09/17/report-apple-leads-slowing-true-wireless-stereo-market-as-open-ear-earbuds-gain-ground/))
 - **2026-09-09** — Apple reportedly offering trade-in incentive to encourage iPhone upgrades ([source](https://9to5mac.com/2026/09/09/apple-reportedly-offering-trade-in-incentive-to-encourage-iphone-upgrades/))
 - **2026-08-28** — ‘Dark Matter’ season 2 premieres on Apple TV ([source](https://9to5mac.com/2026/08/27/dark-matter-season-2-premieres-on-apple-tv/))

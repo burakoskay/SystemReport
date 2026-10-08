@@ -1,16 +1,17 @@
 ---
 title: "Google Cuts Gemini 1.5 Flash Prices for Developers"
 date: 2026-05-10T11:09:22.251Z
-modified_date: 2026-08-26T19:43:06.261Z
+modified_date: 2026-10-08T19:38:03.742Z
 tags: ["Google Gemini","AI Model","Price Cut","Language Support","Developer Community","Market Competition"]
 hero_image: "/hero/2026-05-10-google-cuts-gemini-1-5-flash-prices-for-developers-4bd867.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google Gemini 1.5 Flash Price Cut"
 description: "Google slashes prices for Gemini 1.5 Flash, making it more affordable for developers to build high-volume, low-latency applications."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ The price cut and expanded language support are likely to make Gemini 1.5 Flash 
 
 ## Updates
 
+- **2026-10-08** — Microsoft’s new Windows Search is exactly what Windows 11 needs ([source](https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11))
 - **2026-08-26** — Google’s Gemini has a branding problem, and so does the rest of AI ([source](https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/))
 - **2026-05-20** — If Google can’t make AI agents useful, maybe no one can ([source](https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can))

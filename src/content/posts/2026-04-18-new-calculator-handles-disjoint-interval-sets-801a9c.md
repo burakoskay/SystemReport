@@ -1,16 +1,17 @@
 ---
 title: "New Calculator Handles Disjoint Interval Sets"
 date: 2026-04-18T11:07:34.761Z
-modified_date: 2026-09-29T20:25:47.192Z
+modified_date: 2026-10-08T19:40:16.162Z
 tags: ["interval arithmetic","open-source","calculator"]
 hero_image: "/hero/2026-04-18-new-calculator-handles-disjoint-interval-sets-801a9c.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "calculator"
 description: "An open-source calculator accurately computes expressions over disjoint interval sets."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ The calculator's implementation ensures accuracy using IEEE 754 double precision
 
 ## Updates
 
+- **2026-10-08** — Anne Carson wins Nobel Prize in literature 2026 ([source](https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026))
 - **2026-09-29** — iOS 27’s Shortcuts app adds 35+ new, improved actions, here’s what’s new ([source](https://9to5mac.com/2026/09/29/ios-27s-shortcuts-app-adds-35-new-improved-actions-heres-whats-new/))
 - **2026-09-25** — TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware ([source](https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/))
 - **2026-08-18** — Apple overhauls its EU App Store fees, loosens rules for alternative app stores ([source](https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/))

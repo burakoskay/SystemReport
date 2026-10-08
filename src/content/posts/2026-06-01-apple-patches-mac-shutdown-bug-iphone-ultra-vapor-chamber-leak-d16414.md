@@ -1,19 +1,20 @@
 ---
 title: "Apple patches Mac shutdown bug, iPhone Ultra vapor chamber leak"
 date: 2026-06-01T18:01:13.168Z
-modified_date: 2026-10-02T17:15:01.808Z
+modified_date: 2026-10-08T19:37:34.958Z
 tags: ["apple","macos","iphone","macbook","watchos"]
 hero_image: "/hero/2026-06-01-apple-patches-mac-shutdown-bug-iphone-ultra-vapor-chamber-leak-d16414.jpg"
 hero_image_credit_name: "Tomasz Kulesa"
 hero_image_credit_url: "https://www.pexels.com/@tomasz-kulesa-55663"
 visual_keyword: "Apple laptop and iPhone with vapor chamber detail"
 description: "Apple releases macOS 26.5.1 to stop M5 Mac shutdowns, while a leak reveals an iPhone Ultra vapor chamber and holiday deals hit M5 laptops and AirPods."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-01-apple-patches-mac-shutdown-bug-iphone-ultra-vapor-chamber-leak-d16414.mp3"
 audio_bytes: 613191
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,5 +52,6 @@ Watch for Apple’s official WWDC announcements on watchOS 27 and the iPhone U
 
 ## Updates
 
+- **2026-10-08** — Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal ([source](https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/))
 - **2026-10-02** — TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants ([source](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/))
 - **2026-09-10** — The Duo is drool-worthy, but the iPhone 18 Pro camera features win for me ([source](https://9to5mac.com/2026/09/10/the-duo-is-drool-worthy-but-the-iphone-18-pro-camera-features-win-for-me/))

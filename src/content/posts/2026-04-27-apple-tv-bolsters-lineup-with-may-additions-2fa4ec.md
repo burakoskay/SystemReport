@@ -1,19 +1,20 @@
 ---
 title: "Apple TV+ Bolsters Lineup with May Additions"
 date: 2026-04-27T03:35:18.610Z
-modified_date: 2026-10-01T22:14:43.881Z
+modified_date: 2026-10-08T19:40:10.401Z
 tags: ["Apple TV+","Streaming","Original Content"]
 hero_image: "/hero/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV+"
 description: "Apple TV+ adds new series and films in May, including a John Travolta-directed movie, to expand its original content offerings."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-27-apple-tv-bolsters-lineup-with-may-additions-2fa4ec.mp3"
 audio_bytes: 567424
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ In the coming months, Apple TV+ is expected to continue investing in original co
 
 ## Updates
 
+- **2026-10-08** — Apple TV’s latest acquisition signals key shift for streamer ([source](https://9to5mac.com/2026/10/08/apple-tvs-latest-acquisition-signals-key-shift-for-streamer/))
 - **2026-10-01** — Google’s new Guided Vision feature can help you read the fine print ([source](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision))
 - **2026-09-11** — Anthropic spent this week in hot water over cybersecurity ([source](https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity))
 - **2026-09-06** — The pros and cons of using an iPad as a laptop ([source](https://www.engadget.com/2247481/using-ipad-as-laptop-pros-and-cons/))

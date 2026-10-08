@@ -1,19 +1,20 @@
 ---
 title: "Spotify pushes fitness while battling Apple’s App Store rules"
 date: 2026-07-30T15:53:24.513Z
-modified_date: 2026-09-19T13:39:54.467Z
+modified_date: 2026-10-08T19:38:26.754Z
 tags: ["spotify","fitness","app-store"]
 hero_image: "/hero/2026-07-30-spotify-pushes-fitness-while-battling-apple-s-app-store-rules-cd9c91.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "runner listening to music on a smartphone with Spotify interface"
 description: "Spotify adds a running mode and expands its fitness push, even as Apple repeatedly blocks its iOS updates over audiobook and subscription rules."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-07-30-spotify-pushes-fitness-while-battling-apple-s-app-store-rules-cd9c91.mp3"
 audio_bytes: 553422
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,5 +56,6 @@ The next App Store review cycle will reveal whether Apple will allow a version o
 
 ## Updates
 
+- **2026-10-08** — Forza Horizon 6 is being delayed on PS5 to January 2027 ([source](https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay))
 - **2026-09-19** — What causes a stuck pixel on your laptop and can it be fixed? ([source](https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/))
 - **2026-07-30** — Tim Cook hints at iCloud Plus tier for AI power users ([source](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai))

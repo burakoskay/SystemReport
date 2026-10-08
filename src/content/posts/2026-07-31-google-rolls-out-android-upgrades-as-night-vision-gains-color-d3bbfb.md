@@ -1,15 +1,17 @@
 ---
 title: "Google rolls out Android upgrades as night‑vision gains color"
 date: 2026-07-31T21:10:07.576Z
+modified_date: 2026-10-08T19:39:07.176Z
 tags: ["google","android","night-vision","tech-news"]
 hero_image: "/hero/2026-07-31-google-rolls-out-android-upgrades-as-night-vision-gains-color-d3bbfb.jpg"
 hero_image_credit_name: "@felipepelaquim -"
 hero_image_credit_url: "https://www.pexels.com/@felipepelaquim"
 visual_keyword: "full-color night vision goggles beside Android smartphone"
 description: "Google adds backup and health tweaks to Android while researchers reveal a full‑color night‑vision goggle that translates infrared into visible hues."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Full‑color night vision breakthrough
 
@@ -49,6 +51,9 @@ On the Android side, track the adoption rate of Beta 8 across Pixel models. A 
 
 Finally, watch for any quota‑related complaints about the Documents backup. If users hit Drive limits unexpectedly, Google may need to adjust storage policies or offer tiered pricing for mobile‑focused backup.
 
+## Updates
+
+- **2026-10-08** — Google is doing away with Safety Signal on Pixel Watch ([source](https://www.engadget.com/2281591/google-is-doing-away-with-safety-signal-on-pixel-watch/))
 
 [^1]: [nta.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1xsBtT6tx8N65DYVU7LFMeU9yE3j4TA-xuFKBqqdJqzltZwC4MRBtzBEtHHJciSlnBJCcId4jJ7yPMrru8x0l-_KM6riIueVlqYWe_fkOcdnCqUwlFGhIoLAlBjJvRstVEjz9gQCEU-tzIPkGkSc4u_iIyWZY7NBqDnl7RhOmhgMd8qwAdmDgU5hPTZkNHHqMVRmKiecSwb9XpyXkl-a-mA==)
 [^2]: [extremetech.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl2n-Aan2AbyYKH9mKnJY_ay37FlEKAzNSRU9EuFVSGe4Kl4K2Beml0Y0rlmnGsW_SyrjgB7EABESVF3B2Oigc0_O0BDyF1Tgen_2OXQXk0XPAnHphaOfKx9pvd3IRq2-EheCQhRfL__CEQClebOR4QOi9_aWs4rijyyrRDclSUMScyLXBlkUxAq8M9VWRKx0T6GwMwN1A)

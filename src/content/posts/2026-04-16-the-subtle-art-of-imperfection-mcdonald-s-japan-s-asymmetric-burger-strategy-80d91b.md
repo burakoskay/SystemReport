@@ -1,16 +1,17 @@
 ---
 title: "The Subtle Art of Imperfection: McDonald's Japan's Asymmetric"
 date: 2026-04-16T05:31:36.222Z
-modified_date: 2026-09-27T00:07:33.179Z
+modified_date: 2026-10-08T19:38:49.860Z
 tags: ["marketing strategy","food advertising","authenticity","mcdonalds japan","consumer psychology"]
 hero_image: "/hero/2026-04-16-the-subtle-art-of-imperfection-mcdonald-s-japan-s-asymmetric-burger-strategy-80d91b.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"
 description: "McDonald's Japan's subtly askew burger buns in ads reveal a clever strategy: embracing imperfection to build authenticity and consumer trust."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ Ultimately, McDonald's Japan's askew bun isn't just a quirk; it's a testament to
 
 ## Updates
 
+- **2026-10-08** — She Designed Meta’s New AI Logo. Then Came the Hate ([source](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/))
 - **2026-09-27** — Japan moves to tighten rules for foreigners ([source](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt))
 - **2026-09-23** — Meta’s AI agent is a cute little guy who’s great at spending my money ([source](https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping))
 - **2026-09-10** — Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation ([source](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/))

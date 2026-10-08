@@ -1,16 +1,17 @@
 ---
 title: "GitHub's Controversial Software Restrictions"
 date: 2026-06-01T21:58:28.304Z
-modified_date: 2026-10-07T18:23:19.044Z
+modified_date: 2026-10-08T19:39:53.145Z
 tags: ["github","open-source","software-restrictions","technical-ethics","developer-community"]
 hero_image: "/hero/2026-06-01-github-s-controversial-software-restrictions-2e7407.jpg"
 hero_image_credit_name: "Pew Nguyen"
 hero_image_credit_url: "https://www.pexels.com/@nguyendesigner"
 visual_keyword: "code repository with restricted access icons overlayed"
 description: "GitHub's new policy on software use sparks debate over open-source ethics and global access"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ The next six months will test whether GitHub can maintain its dominant position 
 
 ## Updates
 
+- **2026-10-08** — 9to5 readers can score an exclusive 15% off all Nomad iPhone 18 Pro cases with this code ([source](https://9to5toys.com/2026/10/08/exclusive-nomad-iphone-18-pro-case-promo-code/))
 - **2026-10-07** — Call Screening has made a big difference to my iPhone experience ([source](https://9to5mac.com/2026/10/07/call-screening-has-made-a-big-difference-to-my-iphone-experience/))
 - **2026-09-16** — Why It Seems Like Great White Sharks Are Overrunning Maine ([source](https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/))

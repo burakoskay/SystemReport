@@ -1,19 +1,20 @@
 ---
 title: "Google Spends $1.2M on San Francisco Police Protection"
 date: 2026-04-27T10:26:35.890Z
-modified_date: 2026-10-07T03:48:37.235Z
+modified_date: 2026-10-08T19:37:52.266Z
 tags: ["Google","AI Edge","Police Protection Spending"]
 hero_image: "/hero/2026-04-27-google-spends-1-2m-on-san-francisco-police-protection-d92d16.jpg"
 hero_image_credit_name: "Firmbee.com"
 hero_image_credit_url: "https://www.pexels.com/@firmbee-com-22729701"
 visual_keyword: "Google"
 description: "Google's new AI edge push and San Francisco tech firms' increased spending on police protection after the Altman attack."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-27-google-spends-1-2m-on-san-francisco-police-protection-d92d16.mp3"
 audio_bytes: 628446
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ In conclusion, Google's AI edge initiative is a significant move in the tech ind
 
 ## Updates
 
+- **2026-10-08** — Asos confirms breach of customer data after hackers send rogue app notification ([source](https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/))
 - **2026-10-07** — The Early History of Smalltalk (1993) ([source](https://worrydream.com/EarlyHistoryOfSmalltalk/))
 - **2026-09-15** — Voters mostly don’t like AI and data centers, but neither party seems to have an edge ([source](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september))
 - **2026-08-21** — Best Early Tech Labor Day Sales I’d Shop Myself (2026): AirTags, Dyson, and More ([source](https://www.wired.com/story/early-tech-labor-day-sales-2026/))

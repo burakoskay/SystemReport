@@ -1,16 +1,17 @@
 ---
 title: "AI agents and bug hunters spark US policy scramble"
 date: 2026-05-07T23:13:35.000Z
-modified_date: 2026-09-30T20:28:13.017Z
+modified_date: 2026-10-08T19:38:09.487Z
 tags: ["ai","security","policy","space","tech"]
 hero_image: "/hero/2026-05-07-ai-agents-and-bug-hunters-spark-us-policy-scramble-caac01.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI code analysis robot beside satellite network"
 description: "Mozilla's AI bug scanner, Meta's shopping AI, and a US report on China's tech push converge to reshape security, commerce, and regulation."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ What to watch: The next quarterly release from Mozilla should reveal Mythos' fal
 
 ## Updates
 
+- **2026-10-08** — Paramount is making a Cyberpunk 2077 film ([source](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie))
 - **2026-09-30** — OpenAI’s Jev clone could help the frontier lab stop its swarming agents ([source](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/))
 - **2026-09-17** — Microsoft AI CEO says AI threats are real, and Anthropic is making it worse ([source](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude))
 - **2026-08-31** — ChatGPT to face tougher regulation in the EU ([source](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa))

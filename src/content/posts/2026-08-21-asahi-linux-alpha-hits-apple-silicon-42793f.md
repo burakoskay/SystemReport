@@ -1,15 +1,17 @@
 ---
 title: "Asahi Linux Alpha Hits Apple Silicon"
 date: 2026-08-21T00:59:50.425Z
+modified_date: 2026-10-08T19:37:40.739Z
 tags: ["linux","asahi","apple-silicon","open-source","rolling-release"]
 hero_image: "/hero/2026-08-21-asahi-linux-alpha-hits-apple-silicon-42793f.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "Apple Silicon laptop running Linux desktop environment"
 description: "The first public Asahi Linux alpha lands on M1 Macs, and Igalia ships Linux 7.2, highlighting a shift toward faster, developer‑focused releases."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Release Overview
 The Asahi Linux project just pushed its first public alpha for Apple Silicon, and Igalia announced Linux 7.2 on the same day. The alpha targets M1, M1 Pro and M1 Max Macs, offering developers a way to run a full Linux desktop alongside macOS.[^1][^2][^3][^4] Igalia’s Linux 7.2 release, posted on August 19, 2026, adds the usual kernel and toolchain updates expected from a point release, but the community’s chatter on Hacker News shows the spotlight is on the Apple‑silicon effort.[^5][^6][^7][^8]
@@ -35,6 +37,10 @@ Asahi’s alpha mirrors that desire for continuous improvement. By offering an u
 
 ## What to Watch
 The next milestone for Asahi Linux is the transition from alpha to a stable release that supports the full Apple Silicon lineup, including the Mac Studio. Watch the project’s GitHub milestones for a beta that adds support for the newer M2 chips and refines the installer’s handling of Time Machine snapshots, a known pain point for users with limited free space. On the broader Linux front, Igalia’s Linux 7.2 will be evaluated for kernel patches that improve ARM performance; any back‑ported changes could surface in Asahi’s future updates. The interplay between these two releases will indicate whether the Linux ecosystem can keep pace with Apple’s custom silicon without forcing developers into cumbersome, manual upgrade cycles.[^5][^6][^7][^8]
+
+## Updates
+
+- **2026-10-08** — Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months ([source](https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/))
 
 [^1]: [zdnet.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENE3tOJKj8cM1RVT5Zh9uainWsZJFjK7aqIjpdzZVxYlBvS2ags0fUVWrfrgaGOW56jXGtHMBTAco0j4ugQP4uUSMPw0Ki7AXxXmFDmzuP8JXrjzefksVfOtbREZp0fPfltoTKf3Ws6RIsjcnUmT4wa4Ln_vKIUP5BnEYqPkrPPkRd3_jv-lJsqgfx4pXhSyn1_w8DS0o3)
 [^2]: [tomshardware.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQbiXisRo1_7b9N-vd1_IXYEcopqi7z2Ub8qRJypaSrS6E6b68JVl0JwcDZAe1yOvqe8HzMrC9NQrP-9s_zUHP1iYIKULsJ49_97PvQtdzjIWR8uYLV3dl0r0fTGXPyr2r7_JPb_ohp9BOHcvwfeuxnasQQ6WPFmegAOULUY20ulCjxrsGZJvf6b6Y1Z2rBVjB4LJxl1gTO3jv0g==)

@@ -1,16 +1,17 @@
 ---
 title: "Claude Code doubles usage, adds 'dreaming' feature"
 date: 2026-05-06T21:16:22.474Z
-modified_date: 2026-07-30T15:48:22.154Z
+modified_date: 2026-10-08T19:38:38.266Z
 tags: ["AI","Software Development","Anthropic"]
 hero_image: "/hero/2026-05-06-claude-code-doubles-usage-adds-dreaming-feature-cb5f2c.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "AI coding assistant"
 description: "Anthropic doubles usage limits for Claude Code, adds new 'dreaming' feature for managed agents. The changes aim to improve performance and flexibility for users."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,4 +57,5 @@ Looking ahead, the integration of AI coding assistants with emerging technologie
 
 ## Updates
 
+- **2026-10-08** — Anthropic bans ‘abusive or cruel behavior’ toward Claude ([source](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude))
 - **2026-07-30** — Razer Huntsman V3 HE Review: Jumping on the Bandwagon ([source](https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/))
