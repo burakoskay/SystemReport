@@ -1,19 +1,20 @@
 ---
 title: "Hack, AI Forecasts, and OpenAI Lawsuit Highlight Tech Risks"
 date: 2026-06-01T17:56:46.907Z
-modified_date: 2026-09-29T00:07:31.666Z
+modified_date: 2026-10-07T23:58:57.692Z
 tags: ["cybersecurity","ai","weather","law","gaming"]
 hero_image: "/hero/2026-06-01-hack-ai-forecasts-and-openai-lawsuit-highlight-tech-risks-8429e9.jpg"
 hero_image_credit_name: "Sean​ Na​ Chiang​ Mai​"
 hero_image_credit_url: "https://www.pexels.com/@sean-na-chiang-mai-38056761"
 visual_keyword: "stormy city skyline with digital data streams"
 description: "A cheat‑service breach, an AI weather model outpacing government forecasts, and Florida's lawsuit against OpenAI expose security, accuracy, and liability challenges."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-01-hack-ai-forecasts-and-openai-lawsuit-highlight-tech-risks-8429e9.mp3"
 audio_bytes: 605458
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ What to watch: the next court filing in Florida's case, which could set preceden
 
 ## Updates
 
+- **2026-10-07** — Nous Research confirms it hit $1.5B valuation, launches AI agents for business users ([source](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/))
 - **2026-09-29** — OpenAI reportedly ditches model over safety concerns ([source](https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/))
 - **2026-08-28** — Apple cleared for the second time to pursue documents from federal agencies in antitrust case ([source](https://9to5mac.com/2026/08/27/apple-cleared-for-the-second-time-to-pursue-documents-from-federal-agencies-in-antitrust-case/))
 - **2026-07-31** — The End of an Era ([source](https://hughhowey.com/the-end-of-an-era/))

@@ -1,19 +1,20 @@
 ---
 title: "SJY Zeph headphones flip the script on open‑back sound"
 date: 2026-07-31T10:34:56.775Z
-modified_date: 2026-10-03T12:57:00.567Z
+modified_date: 2026-10-08T00:00:33.183Z
 tags: ["headphones","audio","review"]
 hero_image: "/hero/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.jpg"
 hero_image_credit_name: "Sogi ."
 hero_image_credit_url: "https://www.pexels.com/@sogi-495844134"
 visual_keyword: "a pair of sleek open-back headphones with flippable earcups on a minimalist desk"
 description: "SJY’s Zeph pair wired open‑back design with flippable earcups, challenging $200‑plus competitors on tone and usability."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-07-31-sjy-zeph-headphones-flip-the-script-on-open-back-sound-e9066b.mp3"
 audio_bytes: 580799
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The Zeph’s unique mechanical dual‑mode may spur other manufacturers to explo
 
 ## Updates
 
+- **2026-10-08** — Teenage Engineering’s CEO says it’ll stop making synths ([source](https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths))
 - **2026-10-03** — A Decade-Long Experiment Is Unlocking the Mysteries of the Ocean’s ‘Deep Reefs’ ([source](https://www.wired.com/story/inside-decade-long-experiment-to-understand-oceans-mysterious-deep-reefs/))
 - **2026-09-18** — The new Resident Evil movie captures the survival horror magic of the games ([source](https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/))
 - **2026-08-21** — The Super El Niño Won’t Fix the West’s Water Crisis ([source](https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/))

@@ -1,16 +1,17 @@
 ---
 title: "Practical Fixes for Developer Pain Points"
 date: 2026-05-25T04:18:03.449Z
-modified_date: 2026-09-15T17:55:07.505Z
+modified_date: 2026-10-07T23:58:50.316Z
 tags: ["developer tools","Git","Rust","DSL"]
 hero_image: "/hero/2026-05-25-practical-fixes-for-developer-pain-points-355c11.jpg"
 hero_image_credit_name: "Jorge Urosa"
 hero_image_credit_url: "https://www.pexels.com/@jorgeural"
 visual_keyword: "developer_tools"
 description: "New blog posts offer concrete solutions for Git complexity, language migration, and DSL development."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ Watch for the first open-source projects that adopt Jujutsu as their primary Git
 
 ## Updates
 
+- **2026-10-07** — While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’ ([source](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/))
 - **2026-09-15** — Pixel 11’s Rambler voice-to-text copied by SwiftKey’s ‘AI voice’ for other Android phones ([source](https://9to5google.com/2026/09/15/swiftkey-ai-voice-pixel-11-rambler-copy-android/))
 - **2026-05-28** — Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM ([source](https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions))

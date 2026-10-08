@@ -1,19 +1,20 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-09-20T17:14:20.471Z
+modified_date: 2026-10-07T23:59:49.184Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-10-07** — TP-Link problems in US grow amid FCC router ban and four state lawsuits ([source](https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/))
 - **2026-09-20** — New California law will penalize influencers who don’t disclose political ads ([source](https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/))
 - **2026-09-04** — Friday’s Android app deals and freebies: Friend of a Slime, Tiny Bang Story, Guardians Of Light, more ([source](https://9to5toys.com/2026/09/04/friday-android-app-deals-free-friend-slime-tiny-bang-story/))
 - **2026-09-01** — The pros and cons of using a TV as your computer monitor ([source](https://www.engadget.com/2244148/tv-as-computer-monitor-pros-cons/))

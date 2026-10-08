@@ -1,16 +1,17 @@
 ---
 title: "Saily Ultra eSIM Premium Plan Raises Global Connectivity"
 date: 2026-08-23T04:34:34.340Z
-modified_date: 2026-09-15T00:10:06.781Z
+modified_date: 2026-10-07T23:59:19.798Z
 tags: ["esim","mobile","travel","android"]
 hero_image: "/hero/2026-08-23-saily-ultra-esim-premium-plan-raises-global-connectivity-5345b3.jpg"
 hero_image_credit_name: "Jacob"
 hero_image_credit_url: "https://www.pexels.com/@jacob-2102693"
 visual_keyword: "a traveler holding a smartphone with an eSIM icon overlay"
 description: "Saily Ultra’s pricey eSIM premium plan delivers solid global coverage, but its cost sparks debate."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## The Saily Ultra eSIM Premium Plan
@@ -38,4 +39,5 @@ The next quarter will reveal whether carriers respond to Saily Ultra’s pricing
 
 ## Updates
 
+- **2026-10-07** — The Science Behind the Nobel-Winning Technology That Controls Neurons With Light ([source](https://www.wired.com/story/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/))
 - **2026-09-15** — A new solar cell could generate electricity underwater ([source](https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/))

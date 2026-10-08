@@ -1,19 +1,20 @@
 ---
 title: "Meta Spins Out VR Fitness Game Supernatural"
 date: 2026-06-03T21:22:05.408Z
-modified_date: 2026-09-30T00:59:36.204Z
+modified_date: 2026-10-07T23:59:05.082Z
 tags: ["VR Fitness","Gaming Industry","Meta"]
 hero_image: "/hero/2026-06-03-meta-spins-out-vr-fitness-game-supernatural-f2186e.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "VR Fitness Game"
 description: "Meta spins out Supernatural after user protests"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-03-meta-spins-out-vr-fitness-game-supernatural-f2186e.mp3"
 audio_bytes: 617788
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -38,5 +39,6 @@ The spin-out of Supernatural may also have implications for Meta. The company's 
 
 ## Updates
 
+- **2026-10-07** — Meta’s Muse launches on iPad just a month after its mobile debut ([source](https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/))
 - **2026-09-30** — iFixit teardown of the new AirPods 5 reveals first real repairability improvement ([source](https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement/))
 - **2026-09-11** — Instagram chief thinks a chronological feed is ‘much worse’ and says the quiet part out loud ([source](https://9to5google.com/2026/09/11/instagram-chronological-feed-much-worse/))

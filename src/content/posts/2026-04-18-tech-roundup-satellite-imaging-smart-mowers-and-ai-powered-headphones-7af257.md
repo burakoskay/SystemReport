@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Satellite Imaging, Smart Mowers"
 date: 2026-04-18T01:10:25.151Z
-modified_date: 2026-09-29T20:25:18.807Z
+modified_date: 2026-10-08T00:00:18.529Z
 tags: ["satellite imaging","smart mowers","AI-powered headphones"]
 hero_image: "/hero/2026-04-18-tech-roundup-satellite-imaging-smart-mowers-and-ai-powered-headphones-7af257.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"
 description: "New satellite imaging initiative, smart mower reviews, and AI-powered headphones make headlines in tech."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ These developments showcase innovative products and services in the tech world.
 
 ## Updates
 
+- **2026-10-08** — Last chance: Apple’s flagship AirPods now up to $120 off for Prime Day ([source](https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/))
 - **2026-09-29** — Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more ([source](https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/))
 - **2026-09-22** — Xbox 'reset' continues with 268 job cuts and Activision making the next Halo game ([source](https://www.engadget.com/2265293/xbox-reset-continues-with-268-job-cuts-activision-making-the-next-halo-game/))
 - **2026-05-14** — AT&#038;T, T-Mobile, and Verizon team up to eliminate coverage dead zones ([source](https://www.theverge.com/tech/930336/att-tmobile-verizon-joint-venture-agreement-satellite-coverage))

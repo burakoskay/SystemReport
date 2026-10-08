@@ -1,15 +1,17 @@
 ---
 title: "Apple Watch Deals Go Live as Amazon Sale Winds Down"
 date: 2026-04-19T12:44:39.930Z
+modified_date: 2026-10-07T23:59:56.529Z
 tags: ["apple watch","amazon sale","wearable tech"]
 hero_image: "/hero/2026-04-19-apple-watch-deals-go-live-as-amazon-sale-winds-down-b663ca.jpg"
 hero_image_credit_name: "thiago japyassu"
 hero_image_credit_url: "https://www.pexels.com/@japy"
 visual_keyword: "Apple Watch Series 11"
 description: "Amazon's Big Spring Sale is ending, but you can still snag Apple Watch deals. Discounts on Series 11, SE 2, and Ultra 2 models are available."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 ## Discounted Apple Watches Abound as Spring Sale Nears End
 
@@ -36,3 +38,7 @@ As the market continues to evolve, it will be interesting to see how Apple's wea
 As Amazon's Big Spring Sale comes to a close, shoppers should keep an eye out for further discounts on Apple Watch models. Additionally, with Apple's continued focus on health and fitness tracking, it will be interesting to see what new features and updates the company announces in the coming months.
 
 The Apple Watch's ability to track advanced health metrics, such as blood glucose and alcohol levels, could be a game-changer for the wearable tech market. As Apple continues to innovate and expand its wearable offerings, it will be exciting to see how the market responds.
+
+## Updates
+
+- **2026-10-07** — WhatsApp expands the Liquid Glass design to its video player ([source](https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/))
