@@ -1,15 +1,17 @@
 ---
 title: "Mars Spacecraft Faces Congressional Scrutiny"
 date: 2026-05-19T04:02:59.471Z
+modified_date: 2026-10-08T12:38:56.259Z
 tags: ["NASA","Mars","Space Exploration"]
 hero_image: "/hero/2026-05-19-mars-spacecraft-faces-congressional-scrutiny-53209a.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Mars Reconnaissance Orbiter"
 description: "Two senators seek answers on NASA's Mars spacecraft performance."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Scrutiny of Mars Spacecraft Heats Up
@@ -54,3 +56,6 @@ The Mars Reconnaissance Orbiter's continued operation is crucial for supporting 
 
 The scrutiny faced by NASA's Mars Reconnaissance Orbiter highlights the importance of effective communication and transparency in the management of complex space missions. The agency's response to the senators' concerns will be closely watched by the scientific community, policymakers, and the general public.
 
+## Updates
+
+- **2026-10-08** — A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology ([source](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/))

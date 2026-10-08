@@ -1,16 +1,17 @@
 ---
 title: "Robotaxis' Remote Control Conundrum"
 date: 2026-05-03T16:57:55.259Z
-modified_date: 2026-10-06T16:37:37.459Z
+modified_date: 2026-10-08T12:39:34.156Z
 tags: ["autonomous vehicles","robotaxis","remote assistance"]
 hero_image: "/hero/2026-05-03-robotaxis-remote-control-conundrum-c8679a.jpg"
 hero_image_credit_name: "Ayyeee Ayyeee"
 hero_image_credit_url: "https://www.pexels.com/@ayyeee-ayyeee-434363205"
 visual_keyword: "robotaxi"
 description: "US lawmakers press autonomous vehicle companies for transparency on remote assistance workers as regulators probe human operators guiding robotaxis on public roads."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -107,6 +108,7 @@ Companies will need to be more transparent about their use of remote assistance 
 
 ## Updates
 
+- **2026-10-08** — The best CarPlay upgrades to try in iOS 27 ([source](https://9to5mac.com/2026/10/08/the-best-carplay-upgrades-to-try-ios-27/))
 - **2026-10-06** — Google seems to finally understand why it bought Fitbit ([source](https://9to5google.com/2026/10/06/google-seems-to-finally-understand-why-it-bought-fitbit/))
 - **2026-08-01** — iOS 27 breaks 15 years of muscle memory on iPhone and iPad ([source](https://9to5mac.com/2026/08/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/))
 - **2026-05-30** — EY Canada published a cybersecurity report and most citations were hallucinated ([source](https://gptzero.me/investigations/ey))

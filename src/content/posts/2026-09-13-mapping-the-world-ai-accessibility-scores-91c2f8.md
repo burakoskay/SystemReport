@@ -1,18 +1,20 @@
 ---
 title: "Mapping the World: AI, Accessibility Scores"
 date: 2026-09-13T14:07:33.607Z
+modified_date: 2026-10-08T12:39:26.538Z
 tags: ["openstreetmap","mapping","accessibility","ai"]
 hero_image: "/hero/2026-09-13-mapping-the-world-ai-accessibility-scores-91c2f8.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "satellite view of rural Thai road network with AI overlay"
 description: "Facebook’s AI road‑mapping, Rollin’s wheelchair scores, and new Python tools reshape OpenStreetMap’s ecosystem."
-sources_count: 5
-author: "elena-marchetti"
+sources_count: 6
 audio_path: "/audio/2026-09-13-mapping-the-world-ai-accessibility-scores-91c2f8.mp3"
 audio_bytes: 620296
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## AI‑driven roads fill the gaps in Thailand
 
@@ -54,6 +56,10 @@ Both projects demonstrate that a sustainable, non‑commercial model can thrive 
 - **Funding for free map services** – Donation‑driven projects like Train Map UK will need sustained community support. A dip in contributions could jeopardize the availability of high‑quality, ad‑free visualizations.
 
 The convergence of AI‑accelerated mapping, granular accessibility data, and lower‑barrier tooling suggests a future where the world’s geography is both more complete and more inclusive. The next regulatory or corporate decision—whether to open‑source AI models, subsidize accessibility APIs, or monetize map visualizations—will determine whether that future remains a public good or becomes a fragmented marketplace.
+
+## Updates
+
+- **2026-10-08** — Cupertino might be made for your mom, but it&#8217;s a good take on tech ([source](https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review))
 
 [^1]: [openstreetmap.org](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzYtBRH3V77mEt4J3Yg5LnNwKP9fDtsDHn6INMPhC3y1-ZaD-F0SReH_E19-tqtVCTxiHKKKLE8hclFLVh2vvPMlxxqcnvVoHtUV83M0X__mnCnJK5RlkXC-KbMItJSW-LFGChWTY9z0oKIAFoLMoJmkPnRQvZIjeTTdE7xqbu)
 [^2]: [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjvvpUMoxiT1i7LM_4gpULrjxqiDp9WuRMUjBtv2oZkAuqUO4JaFnsLSBWPEcfCo9mV4v7oOE-FvwSiRyNeJVliRqmRVrZi8M5McxTDAe5_EJsGqnZ3ewFkN8BJK6YbUS2rFisIqMj7tUODpod5PbX43K_w6LimvU=)

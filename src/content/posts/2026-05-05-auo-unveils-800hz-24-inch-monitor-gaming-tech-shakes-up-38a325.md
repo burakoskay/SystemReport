@@ -1,16 +1,17 @@
 ---
 title: "AUO Unveils 800Hz 24-Inch Monitor, Gaming Tech Shakes Up"
 date: 2026-05-05T17:53:04.695Z
-modified_date: 2026-10-01T16:51:45.325Z
+modified_date: 2026-10-08T12:39:19.001Z
 tags: ["auo","xbox","gaming-hardware"]
 hero_image: "/hero/2026-05-05-auo-unveils-800hz-24-inch-monitor-gaming-tech-shakes-up-38a325.jpg"
 hero_image_credit_name: "Lynde"
 hero_image_credit_url: "https://www.pexels.com/@lynde-2123295"
 visual_keyword: "800Hz gaming monitor with RGB lighting on desk"
 description: "AUO's 800Hz monitor, Microsoft-NVIDIA update woes, Xbox exec shakeup, and new games define tech's turbulent week."
-sources_count: 13
+sources_count: 14
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ AUO’s 800Hz monitor needs a 2027 launch date and real-world latency tests. Xbo
 
 ## Updates
 
+- **2026-10-08** — Xbox is launching a new film and TV division ([source](https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events))
 - **2026-10-01** — Measles Is Forcing Hospitals to Adapt to a New Normal ([source](https://www.wired.com/story/measles-is-forcing-hospitals-to-adapt-to-a-new-normal/))
 - **2026-09-15** — Former TikTok execs built an app that uses AI to teach you how to pose for a photo ([source](https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/))
 - **2026-09-03** — Google Home update fixes alarms, improves media & smart home voice controls ([source](https://9to5google.com/2026/09/03/google-home-update-fixes-alarms-improves-media-smart-home-voice-controls/))

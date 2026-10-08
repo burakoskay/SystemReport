@@ -1,15 +1,17 @@
 ---
 title: "Russian Hackers Target Spyware Investigator"
 date: 2026-05-14T14:41:45.730Z
+modified_date: 2026-10-08T12:39:41.693Z
 tags: ["cybersecurity","espionage","drug-smuggling","signal","law-enforcement"]
 hero_image: "/hero/2026-05-14-russian-hackers-target-spyware-investigator-189b60.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "cybersecurity investigator analyzing encrypted data streams"
 description: "A security researcher exposes Russian government-linked hackers and a parallel drug-smuggling scheme"
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 ## A Cyber Espionage Play Unravels
 
@@ -40,3 +42,7 @@ These resources are increasingly vital as state and non-state actors merge tacti
 The researcher who exposed the Russian hackers has not yet released a public alert to the Signal user base, citing ongoing analysis of the Android exploit’s prevalence. Meanwhile, Australian authorities have requested information from the printer shipment’s logistics provider, though no legal action has been taken against the couriers. These delayed responses reflect the systemic lag between threat emergence and institutional action.
 
 The critical juncture lies in the Signal developers’ response—will they patch the vulnerability in a 5.22.1 emergency release, or wait for their regular update cycle? For customs agencies, the printer case could prompt a reevaluation of automated screening algorithms, potentially slowing legitimate shipments. Either outcome will reshape how governments balance security and efficiency in 2024’s hybrid threat landscape.
+
+## Updates
+
+- **2026-10-08** — The people holding up the internet ([source](https://sheets.works/data-viz/holding-up-the-internet))

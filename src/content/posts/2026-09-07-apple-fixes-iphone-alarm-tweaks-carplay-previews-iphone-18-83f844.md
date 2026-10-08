@@ -1,15 +1,17 @@
 ---
 title: "Apple fixes iPhone alarm, tweaks CarPlay, previews iPhone 18"
 date: 2026-09-07T22:33:07.289Z
+modified_date: 2026-10-08T12:38:33.591Z
 tags: ["apple","ios","carplay","iphone"]
 hero_image: "/hero/2026-09-07-apple-fixes-iphone-alarm-tweaks-carplay-previews-iphone-18-83f844.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "iPhone alarm clock with CarPlay dashboard"
 description: "Apple’s iOS update forces alarms to ring at full volume, offers CarPlay disconnect tricks, and previews the iPhone 18 Pro line, while budget accessories ease CarPlay adoption."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 Apple’s latest iOS update forces alarms to ring at full volume even when the device is muted. The change ends a long‑standing quirk that let users sleep through their own alerts.
 
@@ -60,3 +62,7 @@ The September event will reveal whether the iPhone 18 Ultra includes hardwar
 Finally, keep an eye on third‑party accessory certifications. Apple’s MFi program could expand to endorse more affordable wireless CarPlay adapters, smoothing the path from legacy vehicles to the newest iPhones.
 
 By tracking these developments, engineers and power users can stay ahead of the quirks that typically accompany major iOS and hardware releases.
+
+## Updates
+
+- **2026-10-08** — Life Is Asymmetric. The Scientists Who Figured Out Why Won the 2026 Nobel Prize in Chemistry ([source](https://www.wired.com/story/life-is-asymmetric-the-scientists-who-figured-out-why-won-the-2026-nobel-prize-in-chemistry/))

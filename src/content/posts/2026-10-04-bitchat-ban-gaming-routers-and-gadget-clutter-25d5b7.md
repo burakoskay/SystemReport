@@ -1,18 +1,20 @@
 ---
 title: "Bitchat ban, gaming routers and gadget clutter"
 date: 2026-10-04T18:03:24.930Z
+modified_date: 2026-10-08T12:39:11.430Z
 tags: ["bitchat","gaming routers","wifi","privacy","india"]
 hero_image: "/hero/2026-10-04-bitchat-ban-gaming-routers-and-gadget-clutter-25d5b7.jpg"
 hero_image_credit_name: "Déji Fadahunsi"
 hero_image_credit_url: "https://www.pexels.com/@deji-fadahunsi-458107704"
 visual_keyword: "smartphone app icon vanishing from app store, surrounded by USB dongles and a gaming router"
 description: "India blocks Jack Dorsey’s Bitchat while gaming routers and USB clutter reveal why sleek gadgets often miss real network and privacy needs."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-10-04-bitchat-ban-gaming-routers-and-gadget-clutter-25d5b7.mp3"
 audio_bytes: 569096
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Bitchat’s abrupt exit from India
 
@@ -47,3 +49,7 @@ Mitigation steps include disabling automatic sync in the phone’s Bluetooth set
 ## What to watch
 
 Regulators in other large markets may follow India’s lead if Bitchat’s data practices remain opaque. Watch for statements from the European Data Protection Board in the coming weeks. In the router space, the next generation of Wi‑6E devices promises more spectrum but will still be subject to ISP caps; monitor firmware updates that claim “gaming mode” for real‑world latency measurements. For Wi‑Fi hygiene, keep an eye on USB‑hub manufacturers that start offering built‑in RF shielding. Finally, track rental‑car software updates that introduce automatic contact deletion—if the feature lands, it could close a persistent privacy gap.
+
+## Updates
+
+- **2026-10-08** — 50 Best Last Minute Prime Day Deals You Can Still Shop Today (2026) ([source](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-08-2026/))

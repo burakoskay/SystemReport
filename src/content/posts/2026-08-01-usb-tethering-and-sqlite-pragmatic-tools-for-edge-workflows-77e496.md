@@ -1,19 +1,20 @@
 ---
 title: "USB Tethering and SQLite: Pragmatic Tools for Edge Workflows"
 date: 2026-08-01T22:53:13.153Z
-modified_date: 2026-09-25T14:56:39.123Z
+modified_date: 2026-10-08T12:38:48.748Z
 tags: ["usb","sqlite","edge-computing"]
 hero_image: "/hero/2026-08-01-usb-tethering-and-sqlite-pragmatic-tools-for-edge-workflows-77e496.jpg"
 hero_image_credit_name: "Ben Khatry"
 hero_image_credit_url: "https://www.pexels.com/@ben-khatry-430197437"
 visual_keyword: "engineer connecting phone to laptop with USB cable, laptop screen showing SQLite terminal"
 description: "Why engineers reach for a USB cable and a tiny database when Wi‑Fi and cloud services fall short."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-01-usb-tethering-and-sqlite-pragmatic-tools-for-edge-workflows-77e496.mp3"
 audio_bytes: 595427
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## When a Cable Beats Wi‑Fi
@@ -48,4 +49,5 @@ The next Android release is expected to expose USB tethering settings to third�
 
 ## Updates
 
+- **2026-10-08** — Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’ ([source](https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/))
 - **2026-09-25** — North Korean hackers suspected in $351M crypto theft, the largest so far this year ([source](https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/))

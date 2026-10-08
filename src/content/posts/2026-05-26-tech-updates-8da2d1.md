@@ -1,19 +1,20 @@
 ---
 title: "Tech Updates"
 date: 2026-05-26T04:00:16.953Z
-modified_date: 2026-09-26T14:00:44.747Z
+modified_date: 2026-10-08T12:38:41.180Z
 tags: ["Tech","Android","Apple"]
 hero_image: "/hero/2026-05-26-tech-updates-8da2d1.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "Android"
 description: "Android updates and Apple antitrust case"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-26-tech-updates-8da2d1.mp3"
 audio_bytes: 612564
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Recent Tech Updates
@@ -74,4 +75,5 @@ The updates also include changes to the underlying code, which can affect the pe
 
 ## Updates
 
+- **2026-10-08** — WIRED’s Midterms Races to Watch ([source](https://www.wired.com/story/wireds-midterms-races-to-watch/))
 - **2026-09-26** — Control Resonant is a great game — it’s even better when you read everything ([source](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs))
