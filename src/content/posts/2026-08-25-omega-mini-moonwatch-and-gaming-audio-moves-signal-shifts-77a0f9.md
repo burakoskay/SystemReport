@@ -1,15 +1,17 @@
 ---
 title: "Omega Mini Moonwatch and Gaming Audio Moves Signal Shifts"
 date: 2026-08-25T08:38:34.152Z
+modified_date: 2026-10-09T00:08:33.264Z
 tags: ["omega","gaming audio","hardware"]
 hero_image: "/hero/2026-08-25-omega-mini-moonwatch-and-gaming-audio-moves-signal-shifts-77a0f9.jpg"
 hero_image_credit_name: "Bimal  Chhetry"
 hero_image_credit_url: "https://www.pexels.com/@bimql69"
 visual_keyword: "a sleek 38mm Omega watch beside a modern gaming soundbar"
 description: "Omega launches a 38‑mm Speedmaster mini Moonwatch as ASUS rolls out a $600 ROG Gjallar soundbar amid headset price drops, reshaping niche markets."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Omega's Mini Moonwatch Hits the Market
 
@@ -44,3 +46,7 @@ Headset manufacturers often slash prices after initial launch windows to clear i
 ## What to Watch
 
 The mini Moonwatch will reveal whether heritage can survive a size cut without eroding demand. Track Omega’s sales reports and secondary‑market activity over the next quarter. In the gaming audio sector, monitor ASUS’s follow‑up announcements; a lower‑priced sibling or firmware update could reshape the $600 price point. Finally, keep an eye on headset pricing trends as manufacturers respond to the soundbar’s debut. The next price shift will indicate whether discount cycles are temporary or signal a longer‑term recalibration of gaming audio value.
+
+## Updates
+
+- **2026-10-09** — The value of not getting to the point (2015) ([source](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/))

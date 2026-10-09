@@ -1,16 +1,17 @@
 ---
 title: "F# Game Boy Emulator Raises Open-Source Disclosure Questions"
 date: 2026-04-30T21:18:09.089Z
-modified_date: 2026-08-28T03:58:55.951Z
+modified_date: 2026-10-09T00:07:17.249Z
 tags: ["fsharp","open-source","emulation","security-disclosure"]
 hero_image: "/hero/2026-04-30-f-game-boy-emulator-raises-open-source-disclosure-questions-a29074.jpg"
 hero_image_credit_name: "Paras Katwal"
 hero_image_credit_url: "https://www.pexels.com/@paras"
 visual_keyword: "Game Boy emulator code on a screen"
 description: "A functional programming emulator project sparks debates over transparency and development practices in open-source communities."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ For now, Kossolapov’s work stands as a proof point: even retro gaming can forc
 
 ## Updates
 
+- **2026-10-09** — Anthropic launches free AI security scans for open-source projects ([source](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner))
 - **2026-08-28** — The biggest video game of all time looks like a movie ([source](https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie))
 - **2026-06-01** — Nvidia RTX Spark sounds like it might be a great Windows chip even beyond the AI ([source](https://9to5google.com/2026/06/01/nvidia-rtx-spark-windows-reveal/))
 - **2026-05-23** — What to read this weekend: The new Image Comics miniseries, Of the Earth ([source](https://www.engadget.com/2180091/what-to-read-new-image-comics-miniseries-of-the-earth/))

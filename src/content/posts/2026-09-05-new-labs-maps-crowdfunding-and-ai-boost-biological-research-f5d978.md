@@ -1,19 +1,20 @@
 ---
 title: "New Labs, Maps, Crowdfunding and AI Boost Biological Research"
 date: 2026-09-05T14:28:42.320Z
-modified_date: 2026-10-04T00:18:32.491Z
+modified_date: 2026-10-09T00:07:47.730Z
 tags: ["biology","ai","crowdfunding","neuroscience","research"]
 hero_image: "/hero/2026-09-05-new-labs-maps-crowdfunding-and-ai-boost-biological-research-f5d978.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "scientist in soundproof chamber observing caterpillars"
 description: "Scientists use ultraquiet chambers, complete fly brain maps, a crowdfunding platform, and upgraded AI reasoning to accelerate biology research."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-09-05-new-labs-maps-crowdfunding-and-ai-boost-biological-research-f5d978.mp3"
 audio_bytes: 557811
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## New tools let biologists listen to silent insects
@@ -42,4 +43,5 @@ The next few months will reveal whether ultraquiet chambers become standard equi
 
 ## Updates
 
+- **2026-10-09** — California is trying to shut down robot vs. human cage matches ([source](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human))
 - **2026-10-04** — How has Apple's Mac Studio changed over the years? ([source](https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/))

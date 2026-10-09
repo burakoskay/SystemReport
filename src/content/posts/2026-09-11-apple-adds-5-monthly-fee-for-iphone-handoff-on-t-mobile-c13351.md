@@ -1,18 +1,20 @@
 ---
 title: "Apple adds $5 monthly fee for iPhone Handoff on T‑Mobile"
 date: 2026-09-11T14:03:44.821Z
+modified_date: 2026-10-09T00:07:24.882Z
 tags: ["apple","iphone","handoff","t-mobile","tech"]
 hero_image: "/hero/2026-09-11-apple-adds-5-monthly-fee-for-iphone-handoff-on-t-mobile-c13351.jpg"
 hero_image_credit_name: "Anton"
 hero_image_credit_url: "https://www.pexels.com/@anton-8100"
 visual_keyword: "iPhone screen showing handoff animation beside T-Mobile logo"
 description: "Apple bundles iPhone Handoff with iOS 27 but charges T‑Mobile users $5 a month, sparking debate over continuity costs and carrier lock‑in."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-09-11-apple-adds-5-monthly-fee-for-iphone-handoff-on-t-mobile-c13351.mp3"
 audio_bytes: 601070
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Fee and rollout
 Apple is tacking a $5 monthly charge to iPhone Handoff for T‑Mobile subscribers in the United States. The fee appears with the iOS 27 update that ships later this month.[^1][^2][^3][^4][^5][^6]
@@ -43,6 +45,10 @@ The current $5 charge marks a departure from that philosophy. It signals that Ap
 
 ## What to watch
 The next billing cycle will reveal how many T‑Mobile users actually adopt paid Handoff. Apple’s quarterly earnings call should hint at whether the fee meets revenue expectations. Keep an eye on whether Apple opens the feature to other carriers or raises the price beyond $5. Those signals will indicate how aggressively Apple plans to monetize its ecosystem in the future.[^3]
+
+## Updates
+
+- **2026-10-09** — SpaceX announces plan to become a ‘major mobile carrier’ ([source](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4-TEtAwGjbBFKywhI30wx8-ZB9JjaFwpjMlxSGpa1gjXNAlKgKbx3z6OSchdTkvX3pxHP8szSadSyUoBpdooDnQvrc9aWUNtn2aUWgMIihiK9zA=)
 [^2]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIBAe4DeNea0_CPuhbvL1Bv6QDMwjhptbnpa1SBFvyQFj1LCSItGo70jg_q28Oa_-72ek1rjTg0ilVyKR6FMHXvGC2C1W2kx6gOjhC0VsqGvyUegF6_fN8N7jpY347z04gGvsqQdNwaxSPhGNy3DmdWUd4A7yuP7nUoomdgS-uwQgFZP0DUU4=)

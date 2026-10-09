@@ -1,19 +1,20 @@
 ---
 title: "Ubuntu Hit by DDoS"
 date: 2026-05-01T15:01:42.253Z
-modified_date: 2026-09-03T14:04:46.402Z
+modified_date: 2026-10-09T00:08:02.968Z
 tags: ["Ubuntu","DDoS","Cyber Attack"]
 hero_image: "/hero/2026-05-01-ubuntu-hit-by-ddos-e8e083.jpg"
 hero_image_credit_name: "Mustafa Akkuş"
 hero_image_credit_url: "https://www.pexels.com/@mustafaakkus"
 visual_keyword: "Ubuntu"
 description: "Ubuntu services are down due to a DDoS attack, affecting website and OS updates"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-01-ubuntu-hit-by-ddos-e8e083.mp3"
 audio_bytes: 562200
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ As the situation with the Ubuntu DDoS attack continues to unfold, there are seve
 
 ## Updates
 
+- **2026-10-09** — President Trump awards Big Tech donors with nation’s highest science prizes ([source](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/))
 - **2026-09-03** — How Sonos rebooted itself ([source](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign))
 - **2026-08-20** — Meta glasses are a workplace menace ([source](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security))
 - **2026-08-14** — These AI tools make my life much easier on the Mac ([source](https://9to5mac.com/2026/08/14/these-ai-tools-make-my-life-much-easier-on-the-mac/))

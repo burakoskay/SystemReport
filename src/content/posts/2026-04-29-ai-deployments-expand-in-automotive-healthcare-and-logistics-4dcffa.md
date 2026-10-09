@@ -1,16 +1,17 @@
 ---
 title: "AI Deployments Expand in Automotive, Healthcare, and Logistics"
 date: 2026-04-29T10:14:27.603Z
-modified_date: 2026-08-03T20:58:42.078Z
+modified_date: 2026-10-09T00:08:10.625Z
 tags: ["Artificial Intelligence","Automotive","Healthcare","Logistics"]
 hero_image: "/hero/2026-04-29-ai-deployments-expand-in-automotive-healthcare-and-logistics-4dcffa.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Artificial intelligence is being integrated into various industries, including automotive, healthcare, and logistics, with significant deployments and investments."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -95,5 +96,6 @@ By working together, we can ensure that AI is developed and deployed in ways tha
 
 ## Updates
 
+- **2026-10-09** — Apple reportedly plans touchscreen MacBook and iPad Mini launch for this month ([source](https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/))
 - **2026-08-03** — Notability app makes the jump from iOS to Android, and it’s 25% off to celebrate ([source](https://9to5google.com/2026/08/03/notability-app-android-release/))
 - **2026-07-27** — Measles Is Becoming So Common That Treatments May Soon Be Needed ([source](https://www.wired.com/story/measles-treatments-soon-needed/))
