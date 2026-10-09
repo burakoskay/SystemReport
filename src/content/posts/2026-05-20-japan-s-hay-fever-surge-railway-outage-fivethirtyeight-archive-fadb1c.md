@@ -1,16 +1,17 @@
 ---
 title: "Japan’s hay‑fever surge, Railway outage, FiveThirtyEight archive"
 date: 2026-05-20T11:11:10.367Z
-modified_date: 2026-10-08T00:00:25.839Z
+modified_date: 2026-10-09T22:07:25.486Z
 tags: ["japan","allergy","cloud","outage","archiving"]
 hero_image: "/hero/2026-05-20-japan-s-hay-fever-surge-railway-outage-fivethirtyeight-archive-fadb1c.jpg"
 hero_image_credit_name: "Francesco Albanese"
 hero_image_credit_url: "https://www.pexels.com/@francesco-albanese-2150950215"
 visual_keyword: "Japanese city under pollen haze with cloud data center"
 description: "A 1950s Japanese project fuels a hay‑fever wave, Railway’s Google Cloud outage exposes platform risk, and FiveThirtyEight secures its archive."
-sources_count: 10
+sources_count: 11
 author: "priya-raman"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ Japan’s allergy crisis will likely spur policy revisions on urban forestry, wi
 
 ## Updates
 
+- **2026-10-09** — Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide ([source](https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip))
 - **2026-10-08** — BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover ([source](https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china))
 - **2026-10-06** — What does the shield icon mean on your Samsung Galaxy? ([source](https://www.engadget.com/2276490/samsung-galaxy-shield-icon-meaning/))
 - **2026-09-15** — The premium AirPods 5 are the best open-ear earbuds Apple has made ([source](https://www.theverge.com/tech/995273/airpods-5-wireless-charging-case-review))

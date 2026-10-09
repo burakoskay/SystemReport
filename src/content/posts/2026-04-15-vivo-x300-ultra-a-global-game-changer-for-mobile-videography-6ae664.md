@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-10-04T13:38:12.228Z
+modified_date: 2026-10-09T22:07:52.343Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 19
+sources_count: 20
 author: "david-okafor"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-10-09** — AI disqualification yields new Nikon Small World in Motion winner ([source](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/))
 - **2026-10-04** — Customizing your Samsung Galaxy phone is a bit easier with One UI 9 ([source](https://www.engadget.com/2273796/samsung-galaxy-one-ui-9-customization-updates/))
 - **2026-09-16** — Mid-week Android app deals and freebies: Dragon Quest, Meadowfell, Z Dawn, more ([source](https://9to5toys.com/2026/09/16/todays-highlight-google-play-deals-8/))
 - **2026-09-08** — Today’s Android app deals and freebies: MO Astray, Old Man’s Journey, ELOH, more ([source](https://9to5toys.com/2026/09/08/todays-highlight-google-play-deals-2/))

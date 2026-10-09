@@ -1,19 +1,20 @@
 ---
 title: "Apple Warns of Rising Memory Costs"
 date: 2026-07-31T17:51:12.814Z
-modified_date: 2026-08-05T19:22:47.272Z
+modified_date: 2026-10-09T22:07:34.256Z
 tags: ["apple","chrome","spaceforce","meta","ea"]
 hero_image: "/hero/2026-07-31-apple-warns-of-rising-memory-costs-4e7328.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "collage of smartphone, web browser, satellite, smart glasses, gaming console"
 description: "Apple warns of rising memory costs, Chrome rolls out restart‑free patches, and EA moves to private ownership amid broader industry pressures."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-07-31-apple-warns-of-rising-memory-costs-4e7328.mp3"
 audio_bytes: 620296
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple’s Q3 2026 earnings call flagged a looming memory cost squeeze even as iPhone and Mac sales held strong. At the same time, Chrome is testing a restart‑free update flow, Meta’s smart‑glass privacy guard proved trivially bypassed, a Space Force‑backed orbital demo mimicked dogfighting, and Electronic Arts is set to go private in a $55 billion deal. Together these moves illustrate how hardware pricing, software delivery, privacy safeguards, defense experimentation, and corporate structure are colliding in 2026.
@@ -58,4 +59,5 @@ Stakeholders across hardware, software, defense, and entertainment should monito
 
 ## Updates
 
+- **2026-10-09** — Nikon microscopic video competition winner disqualified for using generative AI ([source](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai))
 - **2026-08-05** — EVgo starts building Tesla Superchargers under license ([source](https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/))

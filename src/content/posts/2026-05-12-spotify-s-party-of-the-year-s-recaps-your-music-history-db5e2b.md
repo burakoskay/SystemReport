@@ -1,18 +1,20 @@
 ---
 title: "Spotify's Party of the Year(s) Recaps Your Music History"
 date: 2026-05-12T14:36:21.113Z
+modified_date: 2026-10-09T22:08:01.280Z
 tags: ["Spotify","Music Streaming","Personalization"]
 hero_image: "/hero/2026-05-12-spotify-s-party-of-the-year-s-recaps-your-music-history-db5e2b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Spotify Party of the Year(s)"
 description: "Spotify launches feature to recap entire music streaming history"
-sources_count: 2
-author: "sam-whitfield"
+sources_count: 3
 audio_path: "/audio/2026-05-12-spotify-s-party-of-the-year-s-recaps-your-music-history-db5e2b.mp3"
 audio_bytes: 566588
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Spotify's Party of the Year(s)
 Spotify's new feature, Party of the Year(s), is a Wrapped-style recap of your entire listening history, showing the number of unique songs you've listened to. According to TechCrunch, this feature will show users the number of unique songs they've listened to until now.
@@ -46,3 +48,7 @@ Spotify's Party of the Year(s) feature sets it apart from other music streaming 
 
 ## Future Developments
 As Spotify continues to develop and refine the Party of the Year(s) feature, we can expect to see new and innovative ways for users to interact with their music library. This could include features such as personalized playlists, music discovery tools, and social sharing options. The Party of the Year(s) feature is a significant development in the music streaming industry and will likely have a lasting impact on the way users interact with music.
+
+## Updates
+
+- **2026-10-09** — Pixelated 120: The definitive Pixel tier list ([source](https://9to5google.com/2026/10/09/pixelated-120-the-definitive-pixel-tier-list/))

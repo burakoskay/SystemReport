@@ -1,19 +1,20 @@
 ---
 title: "Google Releases AI Edge Gallery for macOS"
 date: 2026-06-04T04:28:28.655Z
-modified_date: 2026-09-01T22:19:11.168Z
+modified_date: 2026-10-09T22:08:19.131Z
 tags: ["AI","Edge AI","Google","Apple"]
 hero_image: "/hero/2026-06-04-google-releases-ai-edge-gallery-for-macos-7cceea.jpg"
 hero_image_credit_name: "Berkay  İlhan"
 hero_image_credit_url: "https://www.pexels.com/@berkay-i-lhan-868415"
 visual_keyword: "AI Edge Gallery"
 description: "Google's AI Edge Gallery and Apple's 'Privacy on iPhone' campaign"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-04-google-releases-ai-edge-gallery-for-macos-7cceea.mp3"
 audio_bytes: 561991
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google brings Gemma models to macOS
@@ -55,4 +56,5 @@ The market for edge AI is expected to grow significantly in the coming years, dr
 
 ## Updates
 
+- **2026-10-09** — Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded ([source](https://carrierexplode.com/))
 - **2026-09-01** — Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work ([source](https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1))
