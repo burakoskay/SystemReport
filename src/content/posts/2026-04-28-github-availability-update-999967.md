@@ -1,19 +1,20 @@
 ---
 title: "GitHub Availability Update"
 date: 2026-04-28T14:28:17.773Z
-modified_date: 2026-09-03T14:05:38.439Z
+modified_date: 2026-10-09T16:48:22.714Z
 tags: ["GitHub","Availability Update","Software Development"]
 hero_image: "/hero/2026-04-28-github-availability-update-999967.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub"
 description: "GitHub provides an update on its availability. The company shares details on its current status."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-28-github-availability-update-999967.mp3"
 audio_bytes: 623013
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The company will likely continue to provide updates on its status, and developer
 
 ## Updates
 
+- **2026-10-09** — Report: Apple cuts iPhone 18 Pro production due to ‘soft demand’ ([source](https://9to5mac.com/2026/10/09/report-apple-cuts-iphone-18-pro-production-due-to-soft-demand/))
 - **2026-09-03** — Leaker claims iPhone 18 Pro chip will have 7 GPU cores and faster RAM ([source](https://9to5mac.com/2026/09/03/leaker-claims-iphone-18-pro-chip-will-have-7-gpu-cores-and-faster-ram/))
 - **2026-08-07** — 9to5Mac Daily: August 7, 2026 – iPhone Fold hype, macOS updates ([source](https://9to5mac.com/2026/08/07/daily-august-7-2026/))
 - **2026-06-03** — WiiM's first soundbar has a touchscreen display and Dolby Atmos ([source](https://www.engadget.com/2185809/wiims-first-soundbar-has-a-touchscreen-display-and-dolby-atmos/))

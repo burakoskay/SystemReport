@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Disrupt 2026: 50% Off Second Pass Ends Today"
 date: 2026-05-08T17:28:57.494Z
-modified_date: 2026-09-19T13:39:26.292Z
+modified_date: 2026-10-09T16:46:09.722Z
 tags: ["TechCrunch Disrupt","Tech Conference","Event Discount"]
 hero_image: "/hero/2026-05-08-techcrunch-disrupt-2026-50-off-second-pass-ends-today-8213b9.jpg"
 hero_image_credit_name: "Thilina Alagiyawanna"
 hero_image_credit_url: "https://www.pexels.com/@thilina-alagiyawanna-3266092"
 visual_keyword: "TechCrunch Disrupt 2026"
 description: "Today's the last day to buy a second pass to TechCrunch Disrupt 2026 at 50% off."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ In conclusion, today's the last day to take advantage of the 50% off second pass
 
 ## Updates
 
+- **2026-10-09** — Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss ([source](https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/))
 - **2026-09-19** — Rings around a tiny body have changed over the past decade ([source](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/))
 - **2026-09-15** — Join WIRED@Night for an Uncanny Valley Live Recording on Women, Tech, and Power ([source](https://www.wired.com/story/come-see-uncanny-valley-live/))
 - **2026-08-18** — Fairphone's latest repairable phone is finally available in the US for $650 ([source](https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/))

@@ -1,19 +1,20 @@
 ---
 title: "Apple fixes bricked iPhones with Error 53 patch"
 date: 2026-05-29T22:04:25.539Z
-modified_date: 2026-10-01T01:01:09.662Z
+modified_date: 2026-10-09T16:46:53.979Z
 tags: ["apple","ios","security"]
 hero_image: "/hero/2026-05-29-apple-fixes-bricked-iphones-with-error-53-patch-fd2e92.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "concerned smartphone user looking at a warning screen"
 description: "Apple released a series of iOS updates tackling a repair‑related bricking bug, Spectre mitigation, and iOS 12 battery drain, while delaying its privacy ATT rollout, sparking developer and user friction."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-29-apple-fixes-bricked-iphones-with-error-53-patch-fd2e92.mp3"
 audio_bytes: 595845
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Track the rollout of the iOS 9.2.1 patch on iTunes‑only updates and monitor 
 
 ## Updates
 
+- **2026-10-09** — America’s Hybrid Hype Has Hit the Used Market ([source](https://www.wired.com/story/america-hybrid-hype-has-hit-the-used-market/))
 - **2026-10-01** — Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie ([source](https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie))
 - **2026-09-29** — Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger ([source](https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns))
 - **2026-09-14** — AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them ([source](https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/))

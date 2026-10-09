@@ -1,15 +1,17 @@
 ---
 title: "Pixel Watch 5 pushes health tracking but drops key features"
 date: 2026-08-22T02:51:22.996Z
+modified_date: 2026-10-09T16:48:00.485Z
 tags: ["google","wearables","healthtech","smartwatch"]
 hero_image: "/hero/2026-08-22-pixel-watch-5-pushes-health-tracking-but-drops-key-features-12e6f9.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "close‑up of a Pixel Watch 5 on a wrist with health data overlay"
 description: "Google's Pixel Watch 5 adds AI‑driven health tools and faster performance, yet omits several expected features at launch."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## A faster watch with a health‑first agenda
 Google launched the Pixel Watch 5 on August 12, promising AI‑powered health insights and a snappier interface. The device ships on August 20 after a pre‑order window that began on launch day.
@@ -45,3 +47,7 @@ Track the rollout of Health Guardian’s monthly trend updates and any FDA feedb
 Watch for a software update that expands double‑pinch actions and adds support for third‑party watch faces. The next hardware refresh may address the missing ECG sensor and broaden health‑monitoring capabilities.
 
 The Pixel Watch 5 sets a new bar for AI‑driven health on the wrist, but its success will hinge on how quickly Google fills the feature gaps that early reviewers have highlighted.
+
+## Updates
+
+- **2026-10-09** — Pixel Watch 4 update adds Google’s AI watch face generator, more ([source](https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/))

@@ -1,16 +1,17 @@
 ---
 title: "Nomad Goods Offers 25% Off"
 date: 2026-05-13T06:52:21.113Z
-modified_date: 2026-09-27T22:45:57.616Z
+modified_date: 2026-10-09T16:48:08.009Z
 tags: ["tech discounts","Nomad Goods","Corsair","H&R Block"]
 hero_image: "/hero/2026-05-13-nomad-goods-offers-25-off-7f2972.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Consumers should track whether these discounts continue and if other brands foll
 
 ## Updates
 
+- **2026-10-09** — Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more ([source](https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/))
 - **2026-09-27** — The pros and cons of using a foldable phone ([source](https://www.engadget.com/2266434/foldable-phone-pros-cons/))
 - **2026-09-25** — Some Supabase customers are publicly exposing reams of people’s data to the web ([source](https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/))
 - **2026-09-11** — Apple extends free iPhone satellite access for another year ([source](https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year/))

@@ -1,16 +1,17 @@
 ---
 title: "Israel’s Fake Think Tank Targets AI Chatbots"
 date: 2026-08-18T10:28:06.264Z
-modified_date: 2026-09-07T19:32:38.465Z
+modified_date: 2026-10-09T16:47:08.814Z
 tags: ["ai","disinformation","policy"]
 hero_image: "/hero/2026-08-18-israel-s-fake-think-tank-targets-ai-chatbots-73a209.jpg"
 hero_image_credit_name: "Andrew Neel"
 hero_image_credit_url: "https://www.pexels.com/@andrew"
 visual_keyword: "computer screen displaying a fake think tank website with Israeli flag overlay"
 description: "A covert Israeli operation created a bogus think tank to feed favorable narratives into AI chatbots, exposing new vectors for state influence."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ The next test will be whether major LLM providers adopt real‑time provenance f
 
 ## Updates
 
+- **2026-10-09** — Trump’s attempt to rename AI is looking awfully artificial ([source](https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding))
 - **2026-09-07** — What we expect from the upcoming Apple launch ([source](https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/))
 - **2026-09-04** — Feds launch investigation into Tesla’s Cybercab deployment ([source](https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/))

@@ -1,16 +1,17 @@
 ---
 title: "Rivian Scales Back DOE Loan"
 date: 2026-04-30T22:59:46.117Z
-modified_date: 2026-09-18T18:49:54.419Z
+modified_date: 2026-10-09T16:47:38.413Z
 tags: ["Rivian","DOE Loan","Electric Vehicle","Georgia Factory","Data Collection"]
 hero_image: "/hero/2026-04-30-rivian-scales-back-doe-loan-608a77.jpg"
 hero_image_credit_name: "smart-me AG"
 hero_image_credit_url: "https://www.pexels.com/@smart-me-ag-2155714756"
 visual_keyword: "electric vehicle"
 description: "Rivian downsizes DOE loan to $4.5B for Georgia factory, while expanding production capacity."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ As the industry continues to evolve, Rivian's progress will be closely monitored
 
 ## Updates
 
+- **2026-10-09** — Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date ([source](https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/))
 - **2026-09-18** — The Street Fighter movie popcorn bucket is gloriously goofy ([source](https://www.engadget.com/2262242/street-fighter-movie-popcorn-bucket-is-gloriously-goofy/))
 - **2026-08-17** — LineageOS support finally comes to the Galaxy S22 series ([source](https://9to5google.com/2026/08/17/lineageos-support-finally-comes-to-the-galaxy-s22-series/))
 - **2026-07-29** — iOS 27 adds three new iPhone features you’ll use all the time ([source](https://9to5mac.com/2026/07/29/ios-27-adds-three-new-iphone-features-youll-use-all-the-time/))

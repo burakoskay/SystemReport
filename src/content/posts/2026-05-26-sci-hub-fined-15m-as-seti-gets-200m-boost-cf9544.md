@@ -1,16 +1,17 @@
 ---
 title: "Sci-Hub fined $15M as SETI gets $200M boost"
 date: 2026-05-26T23:23:24.747Z
-modified_date: 2026-08-21T18:28:04.795Z
+modified_date: 2026-10-09T16:46:31.798Z
 tags: ["science","funding","legal","space","research"]
 hero_image: "/hero/2026-05-26-sci-hub-fined-15m-as-seti-gets-200m-boost-cf9544.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "scientist looking at telescope with legal documents in background"
 description: "A US court slapped Sci-Hub with a $15 million judgment while the SETI Institute secured a $200 million endowment, highlighting divergent paths in scientific funding."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## Sci-Hub’s $15 Million Default Judgment
@@ -51,4 +52,5 @@ The next steps for Sci‑Hub will likely involve appeals and possible enforcemen
 
 ## Updates
 
+- **2026-10-09** — I’m Still Convinced the iPod Was the Perfect Gadget ([source](https://www.wired.com/story/im-still-convinced-the-ipod-was-the-perfect-gadget/))
 - **2026-08-21** — Pixel 11 gets in on the digicam trend ([source](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend))

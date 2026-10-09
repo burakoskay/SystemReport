@@ -1,15 +1,17 @@
 ---
 title: "Ceva Logistics Breach"
 date: 2026-08-10T14:54:59.285Z
+modified_date: 2026-10-09T16:46:46.572Z
 tags: ["Data Breach","Ceva Logistics","Shipping and Logistics"]
 hero_image: "/hero/2026-08-10-ceva-logistics-breach-9f6212.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "data breach"
 description: "Ceva Logistics data breach exposes customer data"
-sources_count: 1
+sources_count: 2
 author: "sam-whitfield"
 ---
+
 
 ## Introduction
 Ceva Logistics has suffered a data breach affecting multiple industries, including banks, retailers, and Steam gamers. Companies that rely on Ceva for shipping report their data was taken during the cyberattack.
@@ -40,3 +42,7 @@ The Ceva Logistics breach is not an isolated incident. There have been several h
 
 ## Technical Implications
 The Ceva Logistics breach has significant technical implications for the shipping and logistics industry. The breach highlights the importance of robust security measures, including encryption, access controls, and employee training, to prevent similar incidents in the future. The industry must also consider the potential risks associated with emerging technologies, such as the Internet of Things (IoT) and artificial intelligence (AI), which can create new vulnerabilities and increase the potential risks associated with data breaches.
+
+## Updates
+
+- **2026-10-09** — Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise ([source](https://www.wired.com/story/best-battery-powered-leaf-blowers/))

@@ -1,16 +1,17 @@
 ---
 title: "Vine Returns, PS5 Runs Linux, Apple TV Revives “Trying”"
 date: 2026-04-29T14:23:13.991Z
-modified_date: 2026-09-11T23:47:57.271Z
+modified_date: 2026-10-09T16:47:23.642Z
 tags: ["vine","ps5","linux","apple tv","tech news"]
 hero_image: "/hero/2026-04-29-vine-returns-ps5-runs-linux-apple-tv-revives-trying-3cb918.jpg"
 hero_image_credit_name: "Ravi Roshan"
 hero_image_credit_url: "https://www.pexels.com/@ravi-roshan-2875998"
 visual_keyword: "six-second looping video interface on a smartphone"
 description: "Divine launches a six‑second video platform, a developer gets Linux on the PS5, and Apple TV announces a new season of the comedy Trying."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Divine’s user growth will reveal whether six‑second loops can survive in a T
 
 ## Updates
 
+- **2026-10-09** — Meta is banning TikTok ads across its platforms ([source](https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban))
 - **2026-09-11** — ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses ([source](https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/))
 - **2026-08-22** — Google’s new Pixel 11 offers an incredible camera feature that Apple should copy ([source](https://9to5mac.com/2026/08/22/pixel-11-new-camera-feature-apple-should-copy/))
 - **2026-08-19** — Sony’s 2020 over-ear headphones to return for around $250 in new colors, leaks reveal [U] ([source](https://9to5google.com/2026/08/19/sony-wh-1000xm4-re-release-leak/))

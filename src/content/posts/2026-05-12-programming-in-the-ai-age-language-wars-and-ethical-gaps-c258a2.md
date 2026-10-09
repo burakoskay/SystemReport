@@ -1,16 +1,17 @@
 ---
 title: "Programming in the AI Age: Language Wars and Ethical Gaps"
 date: 2026-05-12T03:55:01.264Z
-modified_date: 2026-09-28T10:24:28.111Z
+modified_date: 2026-10-09T16:47:31.044Z
 tags: ["ai-ethics","language-design","memory-safety"]
 hero_image: "/hero/2026-05-12-programming-in-the-ai-age-language-wars-and-ethical-gaps-c258a2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "binary code flowing through neural network connections"
 description: "Python's future, memory-safe Java tools, and AI model architecture shifts collide with corporate accountability gaps."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The Python community will vote on PEP 722 next month, which could enable AI-assi
 
 ## Updates
 
+- **2026-10-09** — Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine? ([source](https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/))
 - **2026-09-28** — Honor’s Magic 9 Pro Max has a big camera and a bigger battery ([source](https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china))
 - **2026-09-04** — Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control ([source](https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40))
 - **2026-07-30** — Should you avoid TP-Link routers? Here's what to know ([source](https://www.engadget.com/2222997/should-you-stay-away-from-tp-link-routers-what-to-know/))

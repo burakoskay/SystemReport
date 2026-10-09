@@ -1,16 +1,17 @@
 ---
 title: "Apple's iPhone Ultra arrives with new connector and chip edge"
 date: 2026-09-02T02:28:06.820Z
-modified_date: 2026-10-04T00:18:40.868Z
+modified_date: 2026-10-09T16:47:45.680Z
 tags: ["apple","smartphones","hardware","accessories"]
 hero_image: "/hero/2026-09-02-apple-s-iphone-ultra-arrives-with-new-connector-and-chip-edge-114402.jpg"
 hero_image_credit_name: "Torsten Dettlaff"
 hero_image_credit_url: "https://www.pexels.com/@tdcat"
 visual_keyword: "iPhone Ultra beside ultra accessory connector prototype"
 description: "Apple unveils the iPhone Ultra, adds a tiny Ultra Accessory Connector, and keeps its chip lead over Samsung's Galaxy S23 Ultra."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,5 +39,6 @@ The September event will reveal the iPhone Ultra’s exact dimensions, camera st
 
 ## Updates
 
+- **2026-10-09** — Anthropic now offers a free vulnerability-finding service for open-source software ([source](https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/))
 - **2026-10-04** — Why is this the only pink MacBook available right now? ([source](https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/))
 - **2026-10-02** — Apple will limit Mac disk access as AI agents ‘substantially’ increase risk ([source](https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents))
