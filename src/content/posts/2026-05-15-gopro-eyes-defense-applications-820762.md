@@ -1,16 +1,17 @@
 ---
 title: "GoPro Eyes Defense Applications"
 date: 2026-05-15T22:59:53.071Z
-modified_date: 2026-08-25T14:40:27.532Z
+modified_date: 2026-10-09T08:19:26.852Z
 tags: ["GoPro","ArXiv","AI-generated content"]
 hero_image: "/hero/2026-05-15-gopro-eyes-defense-applications-820762.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "GoPro"
 description: "GoPro considers defense applications, ArXiv bans AI-generated content"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,5 +68,6 @@ In conclusion, the emerging tech trends of AI, AR, and VR are transforming the w
 
 ## Updates
 
+- **2026-10-09** — Microsoft 365 Family subscribers will finally be able to share AI benefits ([source](https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes))
 - **2026-08-25** — Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video ([source](https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/))
 - **2026-05-21** — NYC and LA Are Teaming Up to Fight for EVs ([source](https://www.wired.com/story/nyc-and-la-are-teaming-up-to-fight-for-evs/))

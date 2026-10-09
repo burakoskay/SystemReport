@@ -1,16 +1,17 @@
 ---
 title: "Mobile App Deals and Scanner Tools Take Center Stage"
 date: 2026-04-19T05:56:45.151Z
-modified_date: 2026-09-30T14:37:09.349Z
+modified_date: 2026-10-09T08:19:12.168Z
 tags: ["mobile apps","app deals","scanner tools"]
 hero_image: "/hero/2026-04-19-mobile-app-deals-and-scanner-tools-take-center-stage-6b3bc5.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "mobile app scanning"
 description: "Android app deals, iScanner App, Crittercism funding, and Apple's App Store deals make headlines"
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ As mobile app deals and discounts continue to make headlines, it's clear that th
 
 ## Updates
 
+- **2026-10-09** — Trump Mobile hack and apparent lack of FCC authorization raise security alarms ([source](https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/))
 - **2026-09-30** — Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades ([source](https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/))
 - **2026-09-13** — What is the difference between a dead pixel and a stuck pixel? ([source](https://www.engadget.com/2252808/dead-pixel-vs-stuck-difference-between/))
 - **2026-08-22** — Your Expired Visa Card Could Be ‘Zombified’ to Make Contactless Payments ([source](https://www.wired.com/story/security-news-this-week-your-expired-visa-card-could-be-zombiefied-to-make-contactless-payments/))

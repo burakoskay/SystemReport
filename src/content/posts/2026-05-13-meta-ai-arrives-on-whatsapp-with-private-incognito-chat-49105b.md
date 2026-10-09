@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Arrives on WhatsApp with Private 'Incognito Chat'"
 date: 2026-05-13T18:09:56.685Z
-modified_date: 2026-10-01T16:50:48.723Z
+modified_date: 2026-10-09T08:19:04.821Z
 tags: ["Meta AI","WhatsApp","AI chatbot","private conversations"]
 hero_image: "/hero/2026-05-13-meta-ai-arrives-on-whatsapp-with-private-incognito-chat-49105b.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Meta AI on WhatsApp"
 description: "Meta brings AI chatbot to WhatsApp with end-to-end encryption, allowing private conversations."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -73,6 +74,7 @@ However, the integration of Meta AI with WhatsApp also raises concerns about use
 
 ## Updates
 
+- **2026-10-09** — SpaceX calls for better coordination in orbit after near-misses with Starlink ([source](https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/))
 - **2026-10-01** — California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people ([source](https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/))
 - **2026-09-14** — macOS 27 is available now ([source](https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now))
 - **2026-08-18** — Ask HN: Does anyone else feel like nothing matters anymore? ([source](https://news.ycombinator.com/item?id=49340013))
