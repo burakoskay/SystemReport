@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Deals Go Live as Amazon Sale Winds Down"
 date: 2026-04-19T12:44:39.930Z
-modified_date: 2026-10-07T23:59:56.529Z
+modified_date: 2026-10-10T21:00:47.170Z
 tags: ["apple watch","amazon sale","wearable tech"]
 hero_image: "/hero/2026-04-19-apple-watch-deals-go-live-as-amazon-sale-winds-down-b663ca.jpg"
 hero_image_credit_name: "thiago japyassu"
 hero_image_credit_url: "https://www.pexels.com/@japy"
 visual_keyword: "Apple Watch Series 11"
 description: "Amazon's Big Spring Sale is ending, but you can still snag Apple Watch deals. Discounts on Series 11, SE 2, and Ultra 2 models are available."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 ## Discounted Apple Watches Abound as Spring Sale Nears End
@@ -41,4 +42,5 @@ The Apple Watch's ability to track advanced health metrics, such as blood glucos
 
 ## Updates
 
+- **2026-10-10** — Ledger wallet tampering suspected after reports of crypto thefts ([source](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts))
 - **2026-10-07** — WhatsApp expands the Liquid Glass design to its video player ([source](https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player/))
