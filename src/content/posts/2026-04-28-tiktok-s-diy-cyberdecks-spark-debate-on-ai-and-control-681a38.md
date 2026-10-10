@@ -1,16 +1,17 @@
 ---
 title: "TikTok’s DIY Cyberdecks Spark Debate on AI and Control"
 date: 2026-04-28T10:24:24.759Z
-modified_date: 2026-07-31T15:59:39.247Z
+modified_date: 2026-10-10T16:46:59.062Z
 tags: ["DIY computing","AI accessories","cyberdecks"]
 hero_image: "/hero/2026-04-28-tiktok-s-diy-cyberdecks-spark-debate-on-ai-and-control-681a38.jpg"
 hero_image_credit_name: "FOX ^.ᆽ.^= ∫"
 hero_image_credit_url: "https://www.pexels.com/@fox-58267"
 visual_keyword: "cyberdeck"
 description: "Young creators build purse-sized computers as AI accessories like SpeakON gain traction."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ The conversation around DIY computing and AI-powered accessories is just beginni
 
 ## Updates
 
+- **2026-10-10** — Here are the top AI agents that can live in your text messages ([source](https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/))
 - **2026-07-31** — GM and Ford are talking less and less about EVs ([source](https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/))
 - **2026-05-03** — Skullcandy Discount Code: 30% Off | May 2026 ([source](https://www.wired.com/story/skullcandy-discount-code/))

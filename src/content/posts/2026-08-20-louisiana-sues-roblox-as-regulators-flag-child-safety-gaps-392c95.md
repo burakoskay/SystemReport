@@ -1,15 +1,17 @@
 ---
 title: "Louisiana sues Roblox as regulators flag child‑safety gaps"
 date: 2026-08-20T12:37:45.651Z
+modified_date: 2026-10-10T16:48:21.274Z
 tags: ["roblox","child safety","louisiana","online regulation"]
 hero_image: "/hero/2026-08-20-louisiana-sues-roblox-as-regulators-flag-child-safety-gaps-392c95.jpg"
 hero_image_credit_name: "William Larsen"
 hero_image_credit_url: "https://www.pexels.com/@wx7tech"
 visual_keyword: "teenagers playing a virtual world on a laptop with a concerned parent nearby"
 description: "Louisiana's AG files a lawsuit over Roblox's lax child protections while regulators cite four safety failures, amid a wave of state bans on teen accounts."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Louisiana sues Roblox over predator exposure
 Roblox faces a state lawsuit that accuses the platform of enabling sexual exploitation of minors. The case arrives on the heels of a regulator’s report that the company’s recent safety tweaks still let adults contact children without parental consent.
@@ -33,3 +35,7 @@ Lawmakers in other states are watching Louisiana’s actions closely. If the law
 
 ## What to watch
 Track the governor’s decision on HB61 and any court filings that follow the Louisiana lawsuit. A settlement that mandates real‑time age verification or bans certain user‑generated games would reshape how Roblox and similar services operate. Equally important is the regulator’s next step: whether it will impose fines, require a compliance timeline, or refer the matter to a federal agency. The next six months will reveal whether the industry can adapt or whether a wave of state‑level bans will force a more radical redesign of online play for kids.
+
+## Updates
+
+- **2026-10-10** — Google Japan created one of the strangest keyboards ever, and we're dying to try it ([source](https://www.engadget.com/2282903/google-japan-gboard-conveyor-belt-keyboard-dying-to-try/))

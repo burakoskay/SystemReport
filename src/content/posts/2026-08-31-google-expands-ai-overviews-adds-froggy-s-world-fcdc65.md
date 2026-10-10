@@ -1,15 +1,17 @@
 ---
 title: "Google expands AI Overviews, adds Froggy’s World"
 date: 2026-08-31T18:39:54.639Z
+modified_date: 2026-10-10T16:48:28.660Z
 tags: ["google","ai","mobile-gaming","personalization"]
 hero_image: "/hero/2026-08-31-google-expands-ai-overviews-adds-froggy-s-world-fcdc65.jpg"
 hero_image_credit_name: "Bastian Riccardi"
 hero_image_credit_url: "https://www.pexels.com/@shutter-speed"
 visual_keyword: "Google search interface with expanded AI overview overlay"
 description: "Google makes AI Overviews larger, releases the cozy Froggy’s World game, and opens Dreambeans to free US testers, signaling a broader consumer push."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Google is expanding AI Overviews, adding a cozy mobile game, and opening Dreambeans to free US testers—all in a single week.
 
@@ -52,3 +54,7 @@ Google’s strategy mirrors the broader industry scramble where AI‑enhanced ex
 ## What to Watch
 
 The next quarter will reveal whether AI Overviews stay expanded or retract based on user metrics, how *Froggy’s World* performs against established cozy titles, and whether Dreambeans graduates from a free test to a monetized product. Keep an eye on Google’s internal AI usage reports, the app’s download rankings, and any policy updates around personalized feed transparency. Those signals will indicate whether Google’s multi‑front push reshapes daily digital habits or fades as a series of isolated experiments.
+
+## Updates
+
+- **2026-10-10** — How to drop a pin on Google Maps ([source](https://www.engadget.com/2278593/how-to-drop-pin-google-maps/))

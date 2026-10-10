@@ -1,19 +1,20 @@
 ---
 title: "Thea Energy Receives $20M Grant for Fusion Reactor Magnets"
 date: 2026-07-27T21:07:43.882Z
-modified_date: 2026-08-05T17:39:48.872Z
+modified_date: 2026-10-10T16:47:29.207Z
 tags: ["Fusion Energy","Thea Energy","ARPA-E"]
 hero_image: "/hero/2026-07-27-thea-energy-receives-20m-grant-for-fusion-reactor-magnets-ac6b5a.jpg"
 hero_image_credit_name: "Squared one"
 hero_image_credit_url: "https://www.pexels.com/@squared-one-361277527"
 visual_keyword: "Magnet"
 description: "Thea Energy gets $20M to scale magnet production"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-27-thea-energy-receives-20m-grant-for-fusion-reactor-magnets-ac6b5a.mp3"
 audio_bytes: 628864
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Thea Energy's Grant
@@ -35,4 +36,5 @@ The grant awarded to Thea Energy is also part of a broader trend of investment i
 
 ## Updates
 
+- **2026-10-10** — AI agent makers are promising privacy — will they deliver? ([source](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots))
 - **2026-08-05** — Meet the eight startups pitching at Startup Battlefield Australia ([source](https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/))

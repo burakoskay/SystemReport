@@ -1,16 +1,17 @@
 ---
 title: "Spring Into Savings: Navigating the Ultimate Tech Upgrade Season"
 date: 2026-04-16T05:27:43.047Z
-modified_date: 2026-10-08T00:01:02.594Z
+modified_date: 2026-10-10T16:47:51.591Z
 tags: ["tech deals","spring sales","consumer electronics","smart home","productivity"]
 hero_image: "/hero/2026-04-16-spring-into-savings-navigating-the-ultimate-tech-upgrade-season-d34d61.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "modern tech gadgets discount shopping"
 description: "As spring sales bloom, unprecedented discounts on flagship phones, powerful laptops, and smart home devices offer prime opportunities to upgrade your tech."
-sources_count: 46
+sources_count: 47
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ Whether you're eyeing a powerful new laptop, a smart home upgrade, or simply bet
 
 ## Updates
 
+- **2026-10-10** — The Best Smart Scales for Tracking Weight and Body Composition (2026) ([source](https://www.wired.com/gallery/best-smart-scales/))
 - **2026-10-08** — Incident with Git Operations, Pull Requests and Actions – Resolved ([source](https://www.githubstatus.com/incidents/djlmxz2zd0j7))
 - **2026-10-04** — How much does DDR5 RAM speed matter for gaming? ([source](https://www.engadget.com/2273791/how-much-ddr5-ram-speed-matters-for-gaming/))
 - **2026-09-28** — Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/))

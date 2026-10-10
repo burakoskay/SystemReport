@@ -1,18 +1,20 @@
 ---
 title: "SpaceX files S‑1, Node.js 26 lands, GitHub breach exposed"
 date: 2026-05-20T23:29:36.725Z
+modified_date: 2026-10-10T16:48:50.679Z
 tags: ["space","javascript","security","gaming","hardware"]
 hero_image: "/hero/2026-05-20-spacex-files-s-1-node-js-26-lands-github-breach-exposed-da47d6.jpg"
 hero_image_credit_name: "Mike M"
 hero_image_credit_url: "https://www.pexels.com/@michaelm1755"
 visual_keyword: "rocket launch pad with code snippets, hardware device, and gaming controller"
 description: "SpaceX's S‑1 filing, Node.js 26.0.0 release, Flipper One specs, a GitHub repo breach, and Xbox's new strategy chief reshape the tech landscape."
-sources_count: 6
-author: "sam-whitfield"
+sources_count: 7
 audio_path: "/audio/2026-05-20-spacex-files-s-1-node-js-26-lands-github-breach-exposed-da47d6.mp3"
 audio_bytes: 661465
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## SpaceX pushes an S‑1 filing
 SpaceX submitted an S‑1 registration statement to the SEC. The filing marks the company's first public offering attempt since its 2023 valuation surge.
@@ -48,3 +50,7 @@ Microsoft's strategic hire fits a pattern of tech giants pulling in niche expert
 
 ## What to watch
 Watch the SEC's review comments on SpaceX's S‑1, which could delay the offering or force a prospectus rewrite. Track Node.js adoption rates for Temporal in the next LTS release; early metrics will appear in npm download charts. Monitor GitHub's extension marketplace for new security controls and any follow‑up disclosures of compromised repos. Follow Xbox's quarterly briefing for the first concrete figures on Project Helix spending and subscriber growth.
+
+## Updates
+
+- **2026-10-10** — Engadget review recap: The best of 2026 ([source](https://www.engadget.com/2282285/engadget-review-recap-the-best-of-2026/))

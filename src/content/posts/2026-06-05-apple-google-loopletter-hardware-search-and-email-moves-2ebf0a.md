@@ -1,19 +1,20 @@
 ---
 title: "Apple, Google, Loopletter: Hardware, Search, and Email Moves"
 date: 2026-06-05T12:49:03.987Z
-modified_date: 2026-08-21T14:29:37.014Z
+modified_date: 2026-10-10T16:48:35.997Z
 tags: ["AI","Hardware","Email Marketing"]
 hero_image: "/hero/2026-06-05-apple-google-loopletter-hardware-search-and-email-moves-2ebf0a.jpg"
 hero_image_credit_name: "kavin pradeep"
 hero_image_credit_url: "https://www.pexels.com/@kavin4666"
 visual_keyword: "AirPods"
 description: "Apple considers camera-enabled AirPods, Google tests AI-first Chrome search, and Loopletter launches open-source email platform."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-05-apple-google-loopletter-hardware-search-and-email-moves-2ebf0a.mp3"
 audio_bytes: 604413
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ In conclusion, the developments at Apple, Google, and Loopletter are significant
 
 ## Updates
 
+- **2026-10-10** — What is QoS on your router, and should you turn it on? ([source](https://www.engadget.com/2278574/router-qos-meaning-should-you-use/))
 - **2026-08-21** — The camera I always have with me keeps paying dividends ([source](https://9to5mac.com/2026/08/21/the-camera-i-always-have-with-me-keeps-paying-dividends/))

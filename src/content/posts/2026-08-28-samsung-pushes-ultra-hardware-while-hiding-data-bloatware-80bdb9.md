@@ -1,15 +1,17 @@
 ---
 title: "Samsung pushes Ultra hardware while hiding data bloatware"
 date: 2026-08-28T04:07:28.831Z
+modified_date: 2026-10-10T16:47:59.035Z
 tags: ["samsung","privacy","hardware","gaming"]
 hero_image: "/hero/2026-08-28-samsung-pushes-ultra-hardware-while-hiding-data-bloatware-80bdb9.jpg"
 hero_image_credit_name: "XXSS IS BACK"
 hero_image_credit_url: "https://www.pexels.com/@xexusdesigner"
 visual_keyword: "Samsung Galaxy S27 Pro leak beside Odyssey gaming monitor on a dark tech desk"
 description: "Samsung rolls out a smaller Ultra phone and a 1,100 Hz gaming monitor, even as privacy‑busting AppCloud bloatware haunts its mid‑range devices in the MENA region."
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 ## New hardware, old privacy shadows
 
@@ -46,3 +48,7 @@ Industry observers point out that Samsung’s partnership with ironSource began 
 ## What to watch
 
 The next Samsung developer conference, scheduled for early 2025, will likely reveal the final specifications of the Galaxy S27 Pro and any software updates that address AppCloud. Keep an eye on whether Samsung publishes a dedicated privacy notice for the bloatware or offers a firmware patch that lets users disable it. Regulators in the EU and select WANA countries may also issue formal inquiries, which could compel Samsung to overhaul its pre‑installation practices. The tension between flagship hardware hype and privacy accountability will define Samsung’s brand narrative in the months ahead.
+
+## Updates
+
+- **2026-10-10** — GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP ([source](https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/))

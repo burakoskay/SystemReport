@@ -1,18 +1,20 @@
 ---
 title: "Hacker News shows niche tech topics dominate mid‑July buzz"
 date: 2026-08-01T19:05:00.415Z
+modified_date: 2026-10-10T16:47:21.770Z
 tags: ["hackernews","techculture","software"]
 hero_image: "/hero/2026-08-01-hacker-news-shows-niche-tech-topics-dominate-mid-july-buzz-96452a.jpg"
 hero_image_credit_name: "Somogro Bangladesh"
 hero_image_credit_url: "https://www.pexels.com/@somogrobangladesh"
 visual_keyword: "Hacker News front page with diverse tech article titles"
 description: "Mid‑July Hacker News highlighted a directory for RSS fans, a cost‑masking UI change at Cursor, and a retro assembly book, reflecting community appetite for niche tools."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-08-01-hacker-news-shows-niche-tech-topics-dominate-mid-july-buzz-96452a.mp3"
 audio_bytes: 665018
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A snapshot of the day’s top threads
 
@@ -59,3 +61,7 @@ Overall, the day’s mix of stories shows that Hacker News rewards concrete cont
 The next batch of “newest” stories will reveal whether this niche‑heavy pattern holds. Track the point trajectories of any follow‑up posts about Cursor’s UI, RSS tooling, or anti‑AI essays. A sudden dip or surge could indicate community sentiment shifts. Developers should also monitor any official statements from BMW about the Spider‑Man ad, as corporate responses often reshape the conversation.
 
 Future visibility will hinge on how quickly users up‑vote and comment. If a new tool or critique reaches the three‑digit mark within an hour, expect a measurable traffic lift. Keep an eye on comment threads for emerging concerns about privacy, pricing transparency, or AI ethics—they often foreshadow broader industry debates.
+
+## Updates
+
+- **2026-10-10** — LG’s RGB LED TV is good for certain situations, but an OLED is better ([source](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review))

@@ -1,16 +1,17 @@
 ---
 title: "LLMs Miscount Letters and Numbers"
 date: 2026-04-29T14:10:32.882Z
-modified_date: 2026-09-15T13:05:10.043Z
+modified_date: 2026-10-10T16:47:06.657Z
 tags: ["LLMs","AI","ChatGPT"]
 hero_image: "/hero/2026-04-29-llms-miscount-letters-and-numbers-4432e8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "LLMs"
 description: "ChatGPT and other LLMs struggle with basic facts"
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ Developers must prioritize accuracy and consistency in their models. The communi
 
 ## Updates
 
+- **2026-10-10** — K-pop star Sunmi loves Notion and ear cleaning videos ([source](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview))
 - **2026-09-15** — Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost ([source](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/))
 - **2026-08-27** — Meta's latest teen safety commitments are US-only (for now) ([source](https://www.engadget.com/2245418/meta-teen-safety-commitments-are-us-only-for-now/))
 - **2026-07-28** — Fish Audio raises $52M seed to build AI voice models for creators and enterprises ([source](https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/))
