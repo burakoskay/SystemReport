@@ -1,16 +1,17 @@
 ---
 title: "Chrome's Location Shift and AI File Spark Privacy Debates"
 date: 2026-05-06T17:55:52.662Z
-modified_date: 2026-08-27T18:47:08.967Z
+modified_date: 2026-10-10T03:50:03.986Z
 tags: ["privacy","chrome","apple","online safety act","ai"]
 hero_image: "/hero/2026-05-06-chrome-s-location-shift-and-ai-file-spark-privacy-debates-28c55e.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "split screen showing chrome settings menu and privacy shield icon on mobile devices"
 description: "Chrome introduces approximate location sharing on Android, raises privacy concerns over AI downloads, while Pornhub adjusts UK access for Apple users."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Three developments warrant close attention. First, how many Chrome users actuall
 
 ## Updates
 
+- **2026-10-10** — iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says ([source](https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/))
 - **2026-08-27** — Jensen Huang says Nvidia achieved AGI, again — not that it matters ([source](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi))
 - **2026-08-25** — The County Prosecutors Who Became ICE Informants ([source](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/))
 - **2026-08-21** — Felony Bench ([source](https://www.felonybench.com/))

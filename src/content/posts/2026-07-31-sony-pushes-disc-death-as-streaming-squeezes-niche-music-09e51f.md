@@ -1,16 +1,17 @@
 ---
 title: "Sony pushes disc death as streaming squeezes niche music"
 date: 2026-07-31T21:13:34.958Z
-modified_date: 2026-08-26T22:40:43.843Z
+modified_date: 2026-10-10T03:49:56.445Z
 tags: ["sony","streaming","music","gaming","industry"]
 hero_image: "/hero/2026-07-31-sony-pushes-disc-death-as-streaming-squeezes-niche-music-09e51f.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "gaming console disc slot empty next to streaming waveform"
 description: "Sony moves forward without PlayStation discs while streaming services drive down earnings for jazz and classical artists, and Pandora rolls out a sub-$10 ad‑free tier."
-sources_count: 7
+sources_count: 8
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ Track Sony’s quarterly earnings for any deviation from the projected neutral i
 
 ## Updates
 
+- **2026-10-10** — The maker of non-text AI model Jev valued at $7.5B just weeks after launch ([source](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/))
 - **2026-08-26** — CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela ([source](https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/))
 - **2026-08-18** — Comcast is turning millions of its routers into motion detectors ([source](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing))
 - **2026-08-04** — Telegram CEO says an extortionist planted CSAM in a chat to get it pulled from the App Store ([source](https://www.theverge.com/tech/975300/telegram-app-store-takedown-extortion-pavel-durov))
