@@ -1,15 +1,17 @@
 ---
 title: "Googlebook challenges Apple’s retail play as Mac Studio prices"
 date: 2026-09-22T00:31:17.856Z
+modified_date: 2026-10-11T21:21:38.218Z
 tags: ["ai","hardware","apple","google","pricing"]
 hero_image: "/hero/2026-09-22-googlebook-challenges-apple-s-retail-play-as-mac-studio-prices-1c73d7.jpg"
 hero_image_credit_name: "Shoper .pl"
 hero_image_credit_url: "https://www.pexels.com/@shoper-pl-550490863"
 visual_keyword: "sleek laptop on desk beside a modern retail storefront"
 description: "Google’s $899 AI‑native laptop and Apple’s store‑first philosophy clash amid rising component costs and AI‑driven hardware bets."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 ## Googlebook pushes AI onto the desktop
 
@@ -40,3 +42,7 @@ Apple’s reliance on premium components for the Mac Studio reflects a different
 ## What to watch
 
 The next quarter will reveal whether Googlebook sales justify a broader AI‑first hardware line. Analysts will track shipment numbers and user engagement metrics tied to Gemini’s on‑device features. Meanwhile, Apple’s upcoming hardware announcements may reveal how the company plans to mitigate memory and storage cost spikes, possibly through custom silicon or new supplier contracts. Observers should also monitor whether Apple’s retail model adapts to AI trends or doubles down on human‑centered service.
+
+## Updates
+
+- **2026-10-11** — Will the HomeView be Apple’s first smart home success? ([source](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/))

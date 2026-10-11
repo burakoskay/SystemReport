@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Streaming Picks"
 date: 2026-04-18T11:07:25.223Z
-modified_date: 2026-09-19T16:59:22.611Z
+modified_date: 2026-10-11T21:22:20.349Z
 tags: ["streaming","movies","April 2026"]
 hero_image: "/hero/2026-04-18-april-2026-streaming-picks-9cfb5e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "streaming-picks"
 description: "Discover movies to stream this month, including 28 Years Later and more."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ Viewers will have to decide for themselves if these films live up to their expec
 
 ## Updates
 
+- **2026-10-11** — I'm sorry, but you still have to think ([source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/))
 - **2026-09-19** — Here's why some monitors have two USB ports (and the best ways to use them) ([source](https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/))
 - **2026-09-13** — P(doom) ([source](https://lucumr.pocoo.org/2026/9/12/pdoom/))
 - **2026-08-18** — How does IKEA come up with names for its products? ([source](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html))

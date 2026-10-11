@@ -1,19 +1,20 @@
 ---
 title: "Cyera Seeks 80x ARR Multiple Amid Operating Losses"
 date: 2026-06-02T23:53:56.703Z
-modified_date: 2026-07-30T15:49:02.302Z
+modified_date: 2026-10-11T21:22:03.528Z
 tags: ["cybersecurity","funding","valuation","ARR multiple","operating losses"]
 hero_image: "/hero/2026-06-02-cyera-seeks-80x-arr-multiple-amid-operating-losses-129201.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "cybersecurity company valuation"
 description: "Cyera's $300 million fundraise values the cybersecurity company at $12 billion, despite operating losses."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-02-cyera-seeks-80x-arr-multiple-amid-operating-losses-129201.mp3"
 audio_bytes: 605667
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 > Cybersecurity firm Cyera is reportedly targeting an 80x annual recurring revenue (ARR) multiple in its $300 million fundraise led by Evolution Equity Partners. This valuation would place the company at $12 billion, despite its operating losses.
@@ -47,4 +48,5 @@ visual_keyword: 'cybersecurity company valuation'
 
 ## Updates
 
+- **2026-10-11** — Prime Video unveils Blade Runner 2099 full trailer at NYCC ([source](https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/))
 - **2026-07-30** — Spotify rolling out ‘User Notes’ and ‘Running Mode’ features – here’s what they do ([source](https://9to5google.com/2026/07/30/spotify-rolling-out-user-notes-and-running-mode-features-heres-what-they-do/))

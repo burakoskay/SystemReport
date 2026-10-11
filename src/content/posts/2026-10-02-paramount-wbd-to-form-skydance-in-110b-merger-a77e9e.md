@@ -1,15 +1,17 @@
 ---
 title: "Paramount, WBD to Form Skydance in $110B Merger"
 date: 2026-10-02T17:20:02.974Z
+modified_date: 2026-10-11T21:21:55.085Z
 tags: ["Merger","Entertainment","Media","Skydance"]
 hero_image: "/hero/2026-10-02-paramount-wbd-to-form-skydance-in-110b-merger-a77e9e.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "Skydance merger"
 description: "Paramount and Warner Bros. Discovery will merge into a $110 billion entity named Skydance. CEO David Ellison announced the change, expected October 6."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 Paramount and Warner Bros. Discovery will merge under the new corporate identity Skydance. The $110 billion deal is expected to formally close on October 6. Skydance CEO David Ellison confirmed the name change in a social media post, signaling a significant realignment in the global entertainment sector.
 
@@ -46,3 +48,7 @@ The decision to position Skydance as the overarching name signifies a strategic 
 Following the expected October 6 closing, the immediate priority for the new Skydance entity will be the complex integration process. Mergers of this size notoriously involve combining vast content libraries, rationalizing overlapping business units, and aligning corporate cultures across previously separate organizations. This phase is critical for establishing operational efficiencies and realizing the strategic potential of the combined assets.
 
 Competitors across the media landscape will closely observe Skydance’s strategy as it consolidates its extensive assets. The broader media market frequently reacts to such large-scale movements, potentially triggering further industry adjustments or competitive responses. For investors, the focus remains firmly on the new entity's ability to turn its combined content assets into sustainable value and profitability. The ultimate success of this $110 billion bet will depend on how effectively Skydance navigates its combined resources and the dynamic market landscape. What happens to legacy brands under this new banner will provide a clear indicator of Skydance's long-term vision and its approach to managing its newly expanded empire.
+
+## Updates
+
+- **2026-10-11** — A college in Illinois tried to cancel its Flock contact and it refused ([source](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras))

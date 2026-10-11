@@ -1,18 +1,20 @@
 ---
 title: "Malaysia Shuts Down Network School"
 date: 2026-08-02T19:03:04.051Z
+modified_date: 2026-10-11T21:22:11.920Z
 tags: ["Network School","Malaysia","Techno-Optimism"]
 hero_image: "/hero/2026-08-02-malaysia-shuts-down-network-school-b96fb3.jpg"
 hero_image_credit_name: "Tim Mossholder"
 hero_image_credit_url: "https://www.pexels.com/@timmossholder"
 visual_keyword: "Shutdown"
 description: "Malaysia shuts Network School, a community for techno-optimists"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-02-malaysia-shuts-down-network-school-b96fb3.mp3"
 audio_bytes: 534823
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Network School
 Malaysia shut down Balaji Srinivasan's Network School. The school was a frontier community for techno-optimists[^1][^2]. This shutdown has significant implications for the techno-optimist community and raises questions about the role of governments in regulating online communities.
@@ -34,6 +36,10 @@ The shutdown of Network School has significant downstream implications for the t
 The shutdown of Network School has broader implications for the tech industry as a whole. As online communities continue to play an increasingly important role in shaping the direction of technological development, the need for governments to balance regulation with freedom of expression becomes more pressing. The shutdown of Network School serves as a reminder of the importance of finding a balance between regulation and freedom of expression, and the need for online communities to be aware of the regulatory landscape.
 ## Regulatory Landscape
 The regulatory landscape surrounding online communities is complex and evolving. As governments around the world grapple with the challenges of regulating online spaces, the shutdown of Network School serves as a reminder of the need for online communities to be aware of the regulatory landscape and to work with governments to ensure that their rights are protected. The shutdown of Network School highlights the importance of understanding the technical mechanics of online communities and the need for governments to work with tech companies to ensure that online spaces are regulated in a way that balances freedom of expression with the need for safety and security.
+
+## Updates
+
+- **2026-10-11** — Google TV Streamer’s sequel showcases a struggling smart home ([source](https://9to5google.com/2026/10/11/google-tv-streamer-sequel-smart-home-ecosystem/))
 
 [^1]: [technode.global](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbk7A49_4lzaoDhNjvGjLyK7BFj2IPuAur-LMvoEG5OBhp3xmJY0qiNcTnbBZfdYTZ0Y5cdnzd8941b6dmkr7_vdq3wjc0vCI7qLVuq3cwtYQ_gUpfr4XonHVorIIFKOlQRex6jxh9iG1Ox94Cvs_cd5s5DVjg0wROwJ-zI2QI4wdiEEhNX-6eGncOOK1m6P2bhTartFrlx8H8POujxm2IQFOX_0ckmaW55-oB3620Ew==)
 [^2]: [zamin.uz](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_LXOtlBf2sadyEinFc0lQiVzeopsiMbslEQu7D6fPo26O8TArkjVq3PlHHCi7YXQigTg2AGqyP4in3ZCTezEnyDaaVbseHEJZXogC30ETrv8c-Qn2YnCRdX1ZDYkCI0yjPLfzJHY7qNZ7AcwC9tDXRSDdA0MbRMC1y1OSeBBBW72j2sgHbkbG4W1ismvRKYEdZwjacPxYABcQh0_bupO4TNVnGBw=)
