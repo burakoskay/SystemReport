@@ -1,16 +1,17 @@
 ---
 title: "Claude Watermarks"
 date: 2026-08-12T22:36:13.607Z
-modified_date: 2026-08-25T22:21:52.554Z
+modified_date: 2026-10-11T00:38:18.740Z
 tags: ["AI","Watermarking","Intellectual Property"]
 hero_image: "/hero/2026-08-12-claude-watermarks-912d68.jpg"
 hero_image_credit_name: "Abdul SANNI"
 hero_image_credit_url: "https://www.pexels.com/@abdul-sanni-1913416598"
 visual_keyword: "Claude"
 description: "Anthropic's new watermarking system sparks controversy"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 ## Introduction
@@ -36,4 +37,5 @@ The introduction of the watermarking system by Anthropic has significant downstr
 
 ## Updates
 
+- **2026-10-11** — How to use the parental controls on iOS 27 ([source](https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/))
 - **2026-08-25** — A remastered The Witcher 3 will be released September 29 ([source](https://www.engadget.com/2244195/a-remastered-the-witcher-3-will-be-released-september-29/))

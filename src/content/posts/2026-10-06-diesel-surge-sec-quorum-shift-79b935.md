@@ -1,15 +1,17 @@
 ---
 title: "Diesel Surge, SEC Quorum Shift"
 date: 2026-10-06T08:53:45.084Z
+modified_date: 2026-10-11T00:38:33.512Z
 tags: ["trucking","sec","smart-glasses","regulation","energy"]
 hero_image: "/hero/2026-10-06-diesel-surge-sec-quorum-shift-79b935.jpg"
 hero_image_credit_name: "Alexander"
 hero_image_credit_url: "https://www.pexels.com/@alexander-112080889"
 visual_keyword: "diesel tanker beside a semi truck on a highway"
 description: "Three regulatory and market shocks—rising diesel, a single‑person SEC quorum, and Norway's smart‑glass limits—reshape logistics, finance, and privacy."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Diesel prices spiked enough to push sixteen trucking firms into bankruptcy within a month.
 
@@ -48,3 +50,7 @@ The diesel crisis shows how commodity volatility can trigger rapid business fail
 Together, they signal that companies can no longer rely on legacy operating models. Logistics firms must embed fuel‑risk analytics into daily routing decisions. Financial regulators need to balance speed with transparency to maintain market confidence. And hardware makers must design products with privacy‑by‑design principles to survive emerging bans.
 
 What to watch: diesel spot prices for the next quarter, the SEC's first vote taken under the single‑person quorum rule, and Norway's parliamentary vote on the smart‑glass amendment slated for early 2027. Each data point will reveal whether speed, cost, or privacy will dominate the next wave of industry adaptation.
+
+## Updates
+
+- **2026-10-11** — PVX-001: open-source Covid-19 vaccine starts Phase 1 trial ([source](https://chronicles.popvax.com/p/popvax-goes-clinical))

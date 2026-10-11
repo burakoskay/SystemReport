@@ -1,16 +1,17 @@
 ---
 title: "NYC Mayor Zohran Mamdani goes live on Twitch"
 date: 2026-05-21T21:49:09.898Z
-modified_date: 2026-08-05T17:40:53.802Z
+modified_date: 2026-10-11T00:38:11.393Z
 tags: ["Twitch","NYC","public engagement"]
 hero_image: "/hero/2026-05-21-nyc-mayor-zohran-mamdani-goes-live-on-twitch-bd5be7.jpg"
 hero_image_credit_name: "Benjamin  Dominguez"
 hero_image_credit_url: "https://www.pexels.com/@benjamin-dominguez-3363409"
 visual_keyword: "Twitch"
 description: "NYC Mayor Zohran Mamdani launches Twitch series to chat with New Yorkers"
-sources_count: 2
+sources_count: 3
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -56,4 +57,5 @@ While the use of Twitch for public engagement presents opportunities, it also ra
 
 ## Updates
 
+- **2026-10-11** — How to enable Live Activities on iPhone and CarPlay ([source](https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/))
 - **2026-08-05** — Old Reddit could be the next casualty of Reddit's war on AI scraping ([source](https://www.engadget.com/2230544/old-reddit-could-be-the-next-casualty-of-reddits-war-on-ai-scraping/))

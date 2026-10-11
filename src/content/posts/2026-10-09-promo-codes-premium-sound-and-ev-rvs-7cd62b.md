@@ -1,15 +1,17 @@
 ---
 title: "Promo Codes, Premium Sound, and EV RVs"
 date: 2026-10-09T22:14:05.927Z
+modified_date: 2026-10-11T00:38:40.771Z
 tags: ["promo-codes","consumer-tech","audio","ev-rv"]
 hero_image: "/hero/2026-10-09-promo-codes-premium-sound-and-ev-rvs-7cd62b.jpg"
 hero_image_credit_name: "Sami  Abdullah"
 hero_image_credit_url: "https://www.pexels.com/@onbab"
 visual_keyword: "modern living room with sleek soundbar and electric RV parked outside"
 description: "Instacart, Lowe’s, Bose, and Pebble Flow roll out deals and products that push everyday tech into the spotlight."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Instacart dropped a $15 off coupon for October 2026, Lowe’s offered up to $300 off major appliances[^5][^6], Bose introduced a soundbar that doubles as a TV speaker[^7][^8], and Pebble Flow unveiled an electric‑RV that feels like a personal spaceship[^8]. The convergence of deep discounts and high‑end hardware is forcing consumers to rethink where they spend and how they experience everyday technology.
 
@@ -46,6 +48,10 @@ The next quarter will reveal whether Instacart’s $15 coupon and Lowe’s appli
 ---
 
 *Ryan Tanaka*
+
+## Updates
+
+- **2026-10-11** — I would like the value of my home to rise, while my property taxes fall ([source](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/))
 
 [^1]: [couponfollow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58tL9ylDXSeUmuiMW-9nfWPwZmc3MZsEYmNE2kwvljrHQJlMaF3-FULSS-F9GZ0KbiSZ7UxuSXEIE8Ve2eGKM8KYe63TrgLgJRiWZ_sdV0QS_Tuud4mTfDTAdvyxLj1UYig==)
 [^2]: [everysaving.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT8GZdHyFZtr-_9GB09YpJLrGl9HiTa5Y-wAL3kIYiUASnpz5fJmHLDlIx_0NXEp2ICKI7jlksLRePak5EYmZL2gtwsKic4s-7TE6pPo-Riu5cYM0lj3_vp1sziorjg-fHKnJKMhAa9RgqTcw=)

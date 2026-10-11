@@ -1,19 +1,20 @@
 ---
 title: "Gigascale’s $250M Climate Fund and Other Tech Shifts"
 date: 2026-06-01T17:58:59.086Z
-modified_date: 2026-08-12T12:55:37.912Z
+modified_date: 2026-10-11T00:38:03.843Z
 tags: ["climate","fintech","gaming","ai","security"]
 hero_image: "/hero/2026-06-01-gigascale-s-250m-climate-fund-and-other-tech-shifts-536010.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "tech newsroom collage with climate fund, fintech app, gaming console, AI model diagram"
 description: "Mike Schroepfer’s new climate fund, Revolut’s India rollout, ROG’s Xbox refresh, and security alerts reshape the tech landscape."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-01-gigascale-s-250m-climate-fund-and-other-tech-shifts-536010.mp3"
 audio_bytes: 637014
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Mike Schroepfer’s Gigascale Capital closed a $250 million climate fund, signaling a surge of deep‑tech capital into energy‑scarcity solutions. The fund targets founders tackling the twin crises of power shortages and raw‑material constraints.
@@ -68,6 +69,7 @@ Track Gigascale Capital’s first deployment rounds; the performance of its port
 
 ## Updates
 
+- **2026-10-11** — Satya Nadella says we should assume all AI models are ‘compromised’ ([source](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised))
 - **2026-08-12** — Of course the ChatGPT dog cancer vaccine spawned a startup ([source](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee))
 
 [^1]: [impactloop.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhHJ8-Bk_scVA-vj7FELYoR-O5k8E8ax7ARLCoPDfI_aYto3OzvE_Onm5Fj3usc5ftfW9b79zvXdH_nQbvo9qV4DvPf6aTpxiXHrQo80Gt2La45OOxRgnA3Gbg9b9XWE1o2b51AdT4FAD_PhuE1Z-zDhKlK5XEJ9hXGhIscS9QoxgXYJE-vmy65vMq3PgikCgQ-y28a83VmZtnAcvlA9JElfE2GQ==)
