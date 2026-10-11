@@ -1,19 +1,20 @@
 ---
 title: "OpenAI Shakeup"
 date: 2026-05-15T17:46:06.155Z
-modified_date: 2026-08-01T16:54:43.573Z
+modified_date: 2026-10-11T08:08:49.201Z
 tags: ["OpenAI","ChatGPT","Artificial Intelligence"]
 hero_image: "/hero/2026-05-15-openai-shakeup-c0775a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI reorganizes executive ranks, unifies ChatGPT and Codex, and addresses security concerns"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-15-openai-shakeup-c0775a.mp3"
 audio_bytes: 610474
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to OpenAI's Changes
@@ -60,4 +61,5 @@ The company's ability to balance innovation with responsibility will be crucial 
 
 ## Updates
 
+- **2026-10-11** — A city-building game in which the city would prefer you didn't ([source](https://housing.over.pizza/))
 - **2026-08-01** — Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it ([source](https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/))
