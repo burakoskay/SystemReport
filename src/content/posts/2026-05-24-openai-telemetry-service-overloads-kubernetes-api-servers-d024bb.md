@@ -1,19 +1,20 @@
 ---
 title: "OpenAI Telemetry Service Overloads Kubernetes API Servers"
 date: 2026-05-24T15:10:45.641Z
-modified_date: 2026-05-29T10:02:06.677Z
+modified_date: 2026-10-11T16:07:27.953Z
 tags: ["OpenAI","Kubernetes","Telemetry","Outage"]
 hero_image: "/hero/2026-05-24-openai-telemetry-service-overloads-kubernetes-api-servers-d024bb.jpg"
 hero_image_credit_name: "Anna Hinckel"
 hero_image_credit_url: "https://www.pexels.com/@anna-hinckel-3008225"
 visual_keyword: "Kubernetes"
 description: "OpenAI's new telemetry service caused a Kubernetes control plane outage on Dec 11, 2024, due to excessive API calls from thousands of nodes."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-24-openai-telemetry-service-overloads-kubernetes-api-servers-d024bb.mp3"
 audio_bytes: 641612
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,4 +81,5 @@ The OpenAI incident also highlights the need for greater collaboration and knowl
 
 ## Updates
 
+- **2026-10-11** — 13 Best Gifts for Every Traveler Should Have (2026) ([source](https://www.wired.com/story/best-gifts-for-travelers/))
 - **2026-05-29** — The Best Espresso Accessories for Home Baristas (2026) ([source](https://www.wired.com/story/best-espresso-accessories-for-home-baristas/))

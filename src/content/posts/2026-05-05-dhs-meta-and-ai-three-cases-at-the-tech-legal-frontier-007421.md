@@ -1,16 +1,17 @@
 ---
 title: "DHS, Meta, and AI: Three cases at the tech-legal frontier"
 date: 2026-05-05T17:50:14.053Z
-modified_date: 2026-08-20T00:52:59.537Z
+modified_date: 2026-10-11T16:07:51.109Z
 tags: ["dhs","meta","ai-regulation","tech-legal","civil-litigation"]
 hero_image: "/hero/2026-05-05-dhs-meta-and-ai-three-cases-at-the-tech-legal-frontier-007421.jpg"
 hero_image_credit_name: "Franco Monsalvo"
 hero_image_credit_url: "https://www.pexels.com/@franco-monsalvo-252430633"
 visual_keyword: "a courtroom with digital data streams projected on the walls"
 description: "DHS seeks Canadian data under 1930s law, New Mexico sues Meta over teen notifications, and AI firms grant US early model access."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Three developments will shape the next phase of these cases. First, a federal ju
 
 ## Updates
 
+- **2026-10-11** — Here's how much the PlayStation 5 cost in 2020 vs. 2026 ([source](https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/))
 - **2026-08-20** — Stripe didn’t really buy OpenRouter because of the ‘singularity’ ([source](https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/))
 - **2026-08-10** — Keychron’s wireless Hall effect keyboard is back to its lowest price ([source](https://www.theverge.com/gadgets/977300/keychron-hall-effect-sony-inzone-headsets-gaming-laptop-deal-sale))
 - **2026-05-11** — Bravo is creating unscripted microdramas for the Peacock app ([source](https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/))

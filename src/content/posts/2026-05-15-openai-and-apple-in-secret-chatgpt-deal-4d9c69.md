@@ -1,16 +1,17 @@
 ---
 title: "OpenAI and Apple in Secret ChatGPT Deal"
 date: 2026-05-15T21:10:03.113Z
-modified_date: 2026-08-26T19:43:12.652Z
+modified_date: 2026-10-11T16:07:05.180Z
 tags: ["OpenAI","Apple","ChatGPT","AI Chips"]
 hero_image: "/hero/2026-05-15-openai-and-apple-in-secret-chatgpt-deal-4d9c69.jpg"
 hero_image_credit_name: "Ivan Chumak"
 hero_image_credit_url: "https://www.pexels.com/@iohichu"
 visual_keyword: "AI Chips"
 description: "A court has ordered Apple to provide internal messages about its ChatGPT deal with OpenAI. The move comes amid growing tensions between the two companies."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 
 
@@ -75,5 +76,6 @@ The AI industry is rapidly evolving, and the stakes are high. As companies conti
 
 ## Updates
 
+- **2026-10-11** — Learning to use local AI is exciting, overwhelming, and frustrating ([source](https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress))
 - **2026-08-26** — OpenAI releases its official report on the Hugging Face breach ([source](https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/))
 - **2026-08-13** — Apple TV publishes the trailer for Stillwater’s fifth season ([source](https://9to5mac.com/2026/08/12/apple-tv-publishes-the-trailer-for-stillwaters-fifth-season/))

@@ -1,16 +1,17 @@
 ---
 title: "Flipkart’s order surge shows quick‑commerce scaling pain"
 date: 2026-08-24T14:49:22.153Z
-modified_date: 2026-09-15T17:53:39.512Z
+modified_date: 2026-10-11T16:08:06.439Z
 tags: ["e-commerce","quick-commerce","big-data","ai","retail"]
 hero_image: "/hero/2026-08-24-flipkart-s-order-surge-shows-quick-commerce-scaling-pain-fa08cd.jpg"
 hero_image_credit_name: "Shuaizhi Tian"
 hero_image_credit_url: "https://www.pexels.com/@shuaizhi-tian-485596"
 visual_keyword: "busy Indian warehouse with delivery scooters and data servers"
 description: "Flipkart now ships over a million orders daily, while retailers wrestle with price hikes, Hadoop data pipelines, and new AI models reshaping e‑commerce."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Flipkart’s rapid‑order escalation
@@ -53,4 +54,5 @@ Logitech’s court date and the potential refund ruling will signal how aggressi
 
 ## Updates
 
+- **2026-10-11** — How to properly clean your solar panels (and why it's important) ([source](https://www.engadget.com/2280495/how-to-properly-clean-solar-panels-why-its-important-to/))
 - **2026-09-15** — Meta&#8217;s new One subscriptions put a price on social media and AI ([source](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai))

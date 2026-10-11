@@ -1,16 +1,17 @@
 ---
 title: "Chinese AI Firms Face Dark-Money Influence Campaign"
 date: 2026-05-02T03:27:33.615Z
-modified_date: 2026-05-29T15:51:25.754Z
+modified_date: 2026-10-11T16:07:20.277Z
 tags: ["AI","China","US","influence campaign"]
 hero_image: "/hero/2026-05-02-chinese-ai-firms-face-dark-money-influence-campaign-e1620b.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "A nonprofit linked to OpenAI and Andreessen Horowitz executives is funding a campaign to stoke fears about China and promote American AI."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ The future of AI development is uncertain and complex. As the industry continues
 
 ## Updates
 
+- **2026-10-11** — Efferon wants to eradicate the devastating toll of pediatric sepsis ([source](https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/))
 - **2026-05-29** — GoRuck GR1 Review: Great For Travel, Rucking, the Gym, and More ([source](https://www.wired.com/story/the-goruck-gr1-is-a-rucking-great-pack/))
 - **2026-05-27** — A Dating App Is Giving Away Free Gas to Convince People to Get Out of the House ([source](https://www.wired.com/story/dating-app-blk-is-giving-away-free-gas-to-convince-people-to-get-out-of-the-house/))
 - **2026-05-04** — Welcome to the Great American Satellite Age ([source](https://www.wired.com/story/welcome-to-the-great-american-satellite-age/))

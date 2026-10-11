@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-10-05T19:00:44.950Z
+modified_date: 2026-10-11T16:08:21.711Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-10-11** — Report: Apple ‘HomeView’ smart home hub will ship in November, come in four colors, A18 chip ([source](https://9to5mac.com/2026/10/11/apple-homeview-home-hub-four-colors-november/))
 - **2026-10-05** — At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI ([source](https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/))
 - **2026-09-25** — Leaked images reveal new Apple TV 4K, HomePod mini ([source](https://9to5mac.com/2026/09/25/leaked-images-reveal-new-apple-tv-4k-homepod-mini/))
 - **2026-09-03** — We need to talk about Siri AI for Apple Watch ([source](https://9to5mac.com/2026/09/03/we-need-to-talk-about-siri-ai-for-apple-watch/))
