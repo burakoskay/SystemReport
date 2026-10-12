@@ -1,18 +1,20 @@
 ---
 title: "Anthropic Stock Rivals Cash in San Francisco Real Estate"
 date: 2026-06-03T17:02:45.812Z
+modified_date: 2026-10-12T00:55:09.499Z
 tags: ["Anthropic","San Francisco Real Estate","AI Startups"]
 hero_image: "/hero/2026-06-03-anthropic-stock-rivals-cash-in-san-francisco-real-estate-f7e182.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Anthropic"
 description: "San Francisco real estate listings offer Anthropic stock as a bargaining chip. The AI startup's valuation has skyrocketed."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-06-03-anthropic-stock-rivals-cash-in-san-francisco-real-estate-f7e182.mp3"
 audio_bytes: 558438
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## San Francisco Real Estate Takes Unconventional Turn
@@ -58,3 +60,7 @@ Anthropic's stock is being used as a bargaining chip in high-end real estate tra
 ## Conclusion
 
 In conclusion, the use of Anthropic stock in San Francisco real estate deals is a testament to the growing importance of AI startups in the tech industry. The trend highlights the intense competition in San Francisco's real estate market, where buyers are seeking alternatives to traditional financial transactions. As the tech and automotive industries continue to evolve, several key developments are worth monitoring. The intersection of tech, finance, and traditional industries will likely continue to produce innovative and unexpected developments.
+
+## Updates
+
+- **2026-10-12** — So, You’d Like To Sell Your Print Issues Of The Onion? ([source](https://theonion.com/archivehunt/))

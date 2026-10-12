@@ -1,19 +1,20 @@
 ---
 title: "LLM Steering Revival"
 date: 2026-05-16T19:13:36.715Z
-modified_date: 2026-07-30T13:46:23.525Z
+modified_date: 2026-10-12T00:54:54.293Z
 tags: ["LLM","AI","DeepSeek-V4-Flash"]
 hero_image: "/hero/2026-05-16-llm-steering-revival-dd693e.jpg"
 hero_image_credit_name: "Alin-Samuel  Carp"
 hero_image_credit_url: "https://www.pexels.com/@alin-samuel-carp-2150579639"
 visual_keyword: "LLM Steering"
 description: "DeepSeek-V4-Flash sparks interest in LLM control methods. Tech firms explore new AI approaches."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-16-llm-steering-revival-dd693e.mp3"
 audio_bytes: 613191
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The next significant decision or product launch to track is the DoD's implementa
 
 ## Updates
 
+- **2026-10-12** — The pros and cons of importing foreign phones to the US ([source](https://www.engadget.com/2281332/pros-cons-import-foreign-phone-us/))
 - **2026-07-30** — Dili raises $21.7M to bring AI compliance to the infrastructure boom ([source](https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/))
