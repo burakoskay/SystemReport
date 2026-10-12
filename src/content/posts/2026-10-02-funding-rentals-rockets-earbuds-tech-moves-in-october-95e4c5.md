@@ -1,18 +1,20 @@
 ---
 title: "Funding, rentals, rockets, earbuds: tech moves in October"
 date: 2026-10-02T10:16:55.752Z
+modified_date: 2026-10-12T08:25:59.255Z
 tags: ["funding","startups","aerospace","consumer‑tech","security"]
 hero_image: "/hero/2026-10-02-funding-rentals-rockets-earbuds-tech-moves-in-october-95e4c5.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "tech conference stage with logos of security, automotive, aerospace, and earbuds"
 description: "Armadin lands $255.5M, MyMonthlyCar repurposes dealership inventory, Canada Rocket eyes medium‑lift rockets, Samsung rolls out clip‑on earbuds in Korea."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-02-funding-rentals-rockets-earbuds-tech-moves-in-october-95e4c5.mp3"
 audio_bytes: 595427
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Armadin secured $255.5 million, pushing its valuation to $2.5 billion. At the same time MyMonthlyCar, Canada Rocket, and Samsung each announced moves that could reshape their markets.
 
@@ -62,6 +64,9 @@ Regulators are also playing a role. Canada’s aerospace agencies have been stre
 
 Track Armadin’s first enterprise contracts to gauge whether agent swarms replace traditional scanners. Follow MyMonthlyCar’s performance at TechCrunch Disrupt and any dealership sign‑ups announced afterward. Monitor Canada Rocket’s test‑flight schedule for its medium‑lift prototype. Keep an eye on Samsung’s global rollout timeline and user reviews of the clip‑on earbuds in Korea. Each of these data points will indicate whether the hype translates into lasting change.
 
+## Updates
+
+- **2026-10-12** — Fingerprints are the new cookies ([source](https://royfish.dev/fingerprints-are-the-new-cookies))
 
 [^1]: [superpowerdaily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBY0mfqyeqO-1cJkd4DFc1sohmGhNkQCGJV9U49pglHaXfeKWZNvPDDdQ9Fzkl8FTCA6FABQOQ08-9D7vxe70iiX9Q-3iXPRR7jGVG9s5q8Q-K5UyJsjue3BTWnDr6axgOXz4WGq1IjYBseJTJ2qP34GgN9MHhhQfgxV5eElB9N5D-8mhaWQI0dNMT-bMeiF2AiE6GZrLp7c0zLVPLt3XkHC0kEH6eFSo=)
 [^2]: [fintech.global](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaikMEdQDGblGPhHjcvFjCV5T0LzrdiAOt3ZaTHYYCDbblvD4mNHRcda61jCjTidFVF6Mvjd6Rzionwdql3kSUzwUGfFmnPpJrDi-H3KoP454tf0zVcHz3BpWmIc89RYhggpG405MXUWxQEcgEGGuHJRRzOMUYzIj9gNg4a5azHtIT2_rlI8V1JUrywaxmOw==)
