@@ -1,19 +1,20 @@
 ---
 title: "Mapping the World: AI, Accessibility Scores"
 date: 2026-09-13T14:07:33.607Z
-modified_date: 2026-10-08T19:39:01.405Z
+modified_date: 2026-10-12T19:37:42.583Z
 tags: ["openstreetmap","mapping","accessibility","ai"]
 hero_image: "/hero/2026-09-13-mapping-the-world-ai-accessibility-scores-91c2f8.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "satellite view of rural Thai road network with AI overlay"
 description: "Facebook’s AI road‑mapping, Rollin’s wheelchair scores, and new Python tools reshape OpenStreetMap’s ecosystem."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-09-13-mapping-the-world-ai-accessibility-scores-91c2f8.mp3"
 audio_bytes: 620296
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The convergence of AI‑accelerated mapping, granular accessibility data, and lo
 
 ## Updates
 
+- **2026-10-12** — iPhone Air 2 is coming, here’s everything we know so far ([source](https://9to5mac.com/2026/10/12/iphone-air-2-is-coming-heres-everything-we-know-so-far/))
 - **2026-10-08** — The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe ([source](https://www.wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe/))
 - **2026-10-08** — Cupertino might be made for your mom, but it&#8217;s a good take on tech ([source](https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review))
 

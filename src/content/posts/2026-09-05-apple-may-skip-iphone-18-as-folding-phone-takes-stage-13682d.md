@@ -1,19 +1,20 @@
 ---
 title: "Apple May Skip iPhone 18 as Folding Phone Takes Stage"
 date: 2026-09-05T14:25:35.873Z
-modified_date: 2026-10-03T12:57:08.020Z
+modified_date: 2026-10-12T19:34:59.084Z
 tags: ["apple","iphone","watchos","icloud","folding-phone"]
 hero_image: "/hero/2026-09-05-apple-may-skip-iphone-18-as-folding-phone-takes-stage-13682d.jpg"
 hero_image_credit_name: "vee terzy"
 hero_image_credit_url: "https://www.pexels.com/@veeterzy"
 visual_keyword: "Apple event stage with folding smartphone prototype"
 description: "Apple's September event may debut a folding phone while skipping the iPhone 18, raising questions about its roadmap and upcoming watchOS changes."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-09-05-apple-may-skip-iphone-18-as-folding-phone-takes-stage-13682d.mp3"
 audio_bytes: 569723
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple’s September Event Lineup
@@ -42,4 +43,5 @@ The convergence of hardware shifts, storage strategy, and watchOS pruning will s
 
 ## Updates
 
+- **2026-10-12** — ‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation ([source](https://www.wired.com/story/new-york-comic-con-star-trek/))
 - **2026-10-03** — 3D movies are finally worth watching ([source](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro))

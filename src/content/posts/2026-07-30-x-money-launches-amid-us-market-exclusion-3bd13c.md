@@ -1,15 +1,17 @@
 ---
 title: "X Money launches amid US market exclusion"
 date: 2026-07-30T02:04:28.956Z
+modified_date: 2026-10-12T19:35:28.960Z
 tags: ["fintech","x money","regulation","payments","elon musk"]
 hero_image: "/hero/2026-07-30-x-money-launches-amid-us-market-exclusion-3bd13c.jpg"
 hero_image_credit_name: "BM Amaro"
 hero_image_credit_url: "https://www.pexels.com/@bm-amaro-1100375333"
 visual_keyword: "digital wallet interface with X branding on a smartphone"
 description: "Elon Musk's X Money debuts, but skips major US financial markets, sparking regulatory and competitive concerns."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 ## Launch and Immediate Issues
 
@@ -44,3 +46,7 @@ Fintech analysts note that excluding US markets limits X Money’s revenue poten
 Investors are watching the rollout for signs of traction. If user growth outpaces the technical glitches, Musk may pursue the missing licenses. If the platform stalls, competitors could double down on their own integrations, making it harder for X Money to catch up.
 
 **What to watch**: The next filing with the Securities and Exchange Commission, a possible FinCEN registration request, and any public statement from X’s legal team about expanding into US exchanges. Those signals will indicate whether X Money remains a niche feature or scales into a full‑blown payment network.
+
+## Updates
+
+- **2026-10-12** — Elon Musk has donated over $276 million to Republican midterm efforts ([source](https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations))

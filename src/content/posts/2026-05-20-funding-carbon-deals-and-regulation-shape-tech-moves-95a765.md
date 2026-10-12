@@ -1,15 +1,17 @@
 ---
 title: "Funding, Carbon Deals, and Regulation Shape Tech Moves"
 date: 2026-05-20T22:07:36.884Z
+modified_date: 2026-10-12T19:34:21.968Z
 tags: ["tech funding","carbon removal","regulation"]
 hero_image: "/hero/2026-05-20-funding-carbon-deals-and-regulation-shape-tech-moves-95a765.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "tech funding"
 description: "Lucra raised $20M without AI branding, Microsoft renewed carbon-removal purchases, and new political and legal moves reshape tech funding and regulation."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 ## Lucra Closes $20M Round Without AI Branding
@@ -67,3 +69,7 @@ The outcome of the Minnesota prediction market lawsuit will have far-reaching co
 Track ARK's follow-on activity with Lucra and similar non-AI startups. Monitor Microsoft's next carbon-removal contracts. Watch the congressional vote on the White House security budget and the outcome of the Minnesota prediction-market lawsuit. See whether other e-reader brands announce comparable data-sharing integrations.
 
 The intersection of funding, regulation, and technological innovation will continue to shape the tech industry. Keeping a close eye on these developments will provide valuable insights into the future direction of the sector.
+
+## Updates
+
+- **2026-10-12** — WindBorne wins a hefty US Air Force contract for its balloon data ([source](https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/))

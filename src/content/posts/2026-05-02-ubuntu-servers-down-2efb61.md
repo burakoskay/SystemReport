@@ -1,15 +1,17 @@
 ---
 title: "Ubuntu Servers Down"
 date: 2026-05-02T03:23:57.978Z
+modified_date: 2026-10-12T19:36:20.991Z
 tags: ["Ubuntu","Security","Open-Source"]
 hero_image: "/hero/2026-05-02-ubuntu-servers-down-2efb61.jpg"
 hero_image_credit_name: "Michaela St"
 hero_image_credit_url: "https://www.pexels.com/@michaela-st-3448542"
 visual_keyword: "Infrastructure"
 description: "Ubuntu infrastructure outage hampers critical vulnerability communication"
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 ## Outage Overview
 Ubuntu's infrastructure has been down for more than a day, hindering communication about a critical vulnerability that grants root access. The outage affects the dissemination of critical security information. This vulnerability is particularly concerning as it could allow for complete control of affected systems, emphasizing the need for timely security updates and robust communication channels.
@@ -40,3 +42,7 @@ The incident also has broader implications for the tech industry, particularly f
 
 ## Future Directions
 In the wake of this incident, it is likely that there will be increased focus on developing more secure and resilient open-source infrastructure. This may involve investments in security research and development, as well as collaborations between open-source projects and industry stakeholders to share best practices and improve collective security. Additionally, there may be a greater emphasis on decentralized communication channels and more robust incident response plans, in order to mitigate the effects of future outages and security breaches.
+
+## Updates
+
+- **2026-10-12** — How to find your Amazon 'About You' page (and how to edit it) ([source](https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/))
