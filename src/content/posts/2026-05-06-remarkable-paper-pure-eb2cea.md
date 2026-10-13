@@ -1,19 +1,20 @@
 ---
 title: "ReMarkable Paper Pure"
 date: 2026-05-06T14:26:28.023Z
-modified_date: 2026-09-10T14:00:55.280Z
+modified_date: 2026-10-13T22:11:43.230Z
 tags: ["ReMarkable Paper Pure","E-reader","Writing Device","Corporate Buyers"]
 hero_image: "/hero/2026-05-06-remarkable-paper-pure-eb2cea.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "ReMarkable Paper Pure"
 description: "ReMarkable's new entry-level slate prioritizes corporate buyers, but at what cost?"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-06-remarkable-paper-pure-eb2cea.mp3"
 audio_bytes: 576828
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ The device's downstream implications also extend to the broader market. If the R
 
 ## Updates
 
+- **2026-10-13** — The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever ([source](https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale))
 - **2026-09-10** — Why the current tech backlash feels different ([source](https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers))
 - **2026-08-05** — TikTok is telling people to put their phones into the fridge, and repair shops are happy ([source](https://9to5mac.com/2026/08/05/tiktok-is-telling-people-to-put-their-phones-into-the-fridge-and-repair-shops-are-happy/))
 - **2026-06-05** — MAHA wants to make cotton the new beef tallow ([source](https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics))

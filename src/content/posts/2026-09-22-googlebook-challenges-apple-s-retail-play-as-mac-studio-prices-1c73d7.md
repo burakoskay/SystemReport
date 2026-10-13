@@ -1,16 +1,17 @@
 ---
 title: "Googlebook challenges Apple’s retail play as Mac Studio prices"
 date: 2026-09-22T00:31:17.856Z
-modified_date: 2026-10-11T21:21:38.218Z
+modified_date: 2026-10-13T22:11:49.571Z
 tags: ["ai","hardware","apple","google","pricing"]
 hero_image: "/hero/2026-09-22-googlebook-challenges-apple-s-retail-play-as-mac-studio-prices-1c73d7.jpg"
 hero_image_credit_name: "Shoper .pl"
 hero_image_credit_url: "https://www.pexels.com/@shoper-pl-550490863"
 visual_keyword: "sleek laptop on desk beside a modern retail storefront"
 description: "Google’s $899 AI‑native laptop and Apple’s store‑first philosophy clash amid rising component costs and AI‑driven hardware bets."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 ## Googlebook pushes AI onto the desktop
@@ -45,4 +46,5 @@ The next quarter will reveal whether Googlebook sales justify a broader AI‑fir
 
 ## Updates
 
+- **2026-10-13** — Apple’s first smart display is the 7-inch HomeView for $299 ([source](https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/))
 - **2026-10-11** — Will the HomeView be Apple’s first smart home success? ([source](https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/))

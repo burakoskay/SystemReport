@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Smartphone Plans Accelerate"
 date: 2026-05-05T19:32:33.712Z
-modified_date: 2026-09-18T18:49:25.226Z
+modified_date: 2026-10-13T22:11:24.076Z
 tags: ["OpenAI","Smartphone","AI-Powered Hardware"]
 hero_image: "/hero/2026-05-05-openai-s-smartphone-plans-accelerate-687d3a.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI phone"
 description: "OpenAI reportedly fast-tracks smartphone launch, potentially debuting early next year."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ Content: 企業での記事共有や会議資料への転載・複製、注文�
 
 ## Updates
 
+- **2026-10-13** — It looks like Apple Music is getting a new icon ([source](https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta))
 - **2026-09-18** — What Hollywood thinks about existential AI warnings ([source](https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings))
 - **2026-09-11** — Moss developer Polyarc has closed ([source](https://www.engadget.com/2256562/moss-developer-polyarc-has-closed/))
 - **2026-06-03** — Trans teens have something to say ([source](https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing))
