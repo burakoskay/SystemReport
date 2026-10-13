@@ -1,19 +1,20 @@
 ---
 title: "Yacht neglect, SteamOS update, Chinese rocket blast"
 date: 2026-08-11T15:10:40.212Z
-modified_date: 2026-10-12T00:55:01.966Z
+modified_date: 2026-10-13T08:50:41.697Z
 tags: ["tech","hardware","space"]
 hero_image: "/hero/2026-08-11-yacht-neglect-steamos-update-chinese-rocket-blast-e15349.jpg"
 hero_image_credit_name: "Déji Fadahunsi"
 hero_image_credit_url: "https://www.pexels.com/@deji-fadahunsi-458107704"
 visual_keyword: "a collage of a luxury yacht, a gaming laptop, a rocket launch, a PS5 console, and a budget smartphone"
 description: "A week in tech: Zuckerberg's yacht ignored a Coast Guard call, Valve broadened SteamOS to MSI hardware, a Chinese launch failed, PS5 audio hacks, and $100 smartphone options."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-08-11-yacht-neglect-steamos-update-chinese-rocket-blast-e15349.mp3"
 audio_bytes: 639104
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Yacht neglect, SteamOS update, Chinese rocket blast
@@ -58,4 +59,5 @@ Regulators are expected to issue a formal advisory on maritime assistance obliga
 
 ## Updates
 
+- **2026-10-13** — Gemini ‘Task’ redesign integrates Spark into the main chat app ([source](https://9to5google.com/2026/10/12/gemini-spark-task-redesign/))
 - **2026-10-12** — The reason the Xbox Series S is so much cheaper than the Series X ([source](https://www.engadget.com/2281248/xbox-series-s-cheaper-than-x-reason/))
