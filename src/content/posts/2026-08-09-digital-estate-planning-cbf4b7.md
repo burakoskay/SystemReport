@@ -1,18 +1,20 @@
 ---
 title: "Digital Estate Planning"
 date: 2026-08-09T18:33:28.259Z
+modified_date: 2026-10-13T01:47:09.015Z
 tags: ["Digital Estate Planning","Inheritance","Digital Assets"]
 hero_image: "/hero/2026-08-09-digital-estate-planning-cbf4b7.jpg"
 hero_image_credit_name: "Nicolas  Foster"
 hero_image_credit_url: "https://www.pexels.com/@nicolas-foster-65973708"
 visual_keyword: "Digital Legacy"
 description: "Simplify digital asset transfer after death"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-09-digital-estate-planning-cbf4b7.mp3"
 audio_bytes: 552587
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Digital Estate Planning
 There's no perfect way to transfer possession of digital assets to loved ones after death. However, taking proactive steps can simplify the process. Digital assets include social media accounts, email, online storage, and cryptocurrency, all of which can be difficult to access without proper planning.
@@ -37,3 +39,7 @@ Under the hood, digital estate planning involves a complex interplay of technica
 
 ## History of Digital Estate Planning
 The concept of digital estate planning is not new, but it has gained increased attention in recent years. Prior to the widespread use of digital assets, estate planning focused primarily on physical assets such as property and financial accounts. However, with the rise of social media, online storage, and cryptocurrency, the need for digital estate planning has become more pressing. As a result, there is a growing need for clear regulations and standards to govern the transfer of digital assets after death.
+
+## Updates
+
+- **2026-10-13** — 9to5Mac Daily: October 12, 2026 – Last-minute Apple event rumors ([source](https://9to5mac.com/2026/10/12/daily-october-12-2026/))
