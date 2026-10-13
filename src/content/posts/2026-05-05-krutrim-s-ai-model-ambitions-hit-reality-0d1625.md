@@ -1,16 +1,17 @@
 ---
 title: "Krutrim's AI Model Ambitions Hit Reality"
 date: 2026-05-05T17:44:33.288Z
-modified_date: 2026-09-30T14:35:21.229Z
+modified_date: 2026-10-13T17:21:48.262Z
 tags: ["AI","Krutrim","Cloud Services","India"]
 hero_image: "/hero/2026-05-05-krutrim-s-ai-model-ambitions-hit-reality-0d1625.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "cloud-services"
 description: "India's first GenAI unicorn shifts to cloud services amid economic challenges."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ What to watch: Krutrim's cloud services offerings and their adoption by business
 
 ## Updates
 
+- **2026-10-13** — A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices ([source](https://machinelearning.apple.com/research/distributed-gpu-cloud))
 - **2026-09-30** — Google launches Fitbit Air in India, though its high price might deter the masses ([source](https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/))
 - **2026-09-08** — Hands-on: Nothing’s $25 CMF Buds Neo are way better than the price suggests ([source](https://9to5google.com/2026/09/08/nothing-cmf-buds-neo-hands-on/))
 - **2026-06-02** — Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn ([source](https://www.wired.com/story/uk-government-palantir-warning-report/))

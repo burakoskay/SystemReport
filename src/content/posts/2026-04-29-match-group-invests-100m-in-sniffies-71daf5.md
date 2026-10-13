@@ -1,16 +1,17 @@
 ---
 title: "Match Group Invests $100M in Sniffies"
 date: 2026-04-29T06:28:58.657Z
-modified_date: 2026-10-10T21:00:54.615Z
+modified_date: 2026-10-13T17:19:29.209Z
 tags: ["Match Group","Sniffies","Online Dating"]
 hero_image: "/hero/2026-04-29-match-group-invests-100m-in-sniffies-71daf5.jpg"
 hero_image_credit_name: "Italo Crespi"
 hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The investment in Sniffies is a significant development in this trend, as it hig
 
 ## Updates
 
+- **2026-10-13** — Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites ([source](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/))
 - **2026-10-10** — Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road ([source](https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/))
 - **2026-10-01** — Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites ([source](https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/))
 - **2026-09-26** — Indie App Spotlight: ‘QuillCue’ levels up your Siri AI experience with stored prompts ([source](https://9to5mac.com/2026/09/26/indie-app-spotlight-quillcue-siri-ai-prompts/))

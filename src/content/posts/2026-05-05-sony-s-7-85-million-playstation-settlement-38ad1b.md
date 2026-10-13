@@ -1,15 +1,17 @@
 ---
 title: "Sony's $7.85 Million PlayStation Settlement"
 date: 2026-05-05T06:24:52.504Z
+modified_date: 2026-10-13T17:18:33.251Z
 tags: ["PlayStation","Sony","digital storefronts","gaming industry"]
 hero_image: "/hero/2026-05-05-sony-s-7-85-million-playstation-settlement-38ad1b.jpg"
 hero_image_credit_name: "Garrett Morrow"
 hero_image_credit_url: "https://www.pexels.com/@garrettmorrow"
 visual_keyword: "PlayStation"
 description: "Sony's $7.85 million PlayStation settlement may affect you. Find out if you're eligible for a payout."
-sources_count: 17
+sources_count: 18
 author: "sam-whitfield"
 ---
+
 
 ## Sony's $7.85 Million PlayStation Settlement
 
@@ -66,3 +68,7 @@ The early days of digital storefronts were marked by a sense of excitement and p
 The Sony $7.85 million PlayStation settlement is a significant development in the gaming industry. If you're eligible, make sure to file a claim and receive your payout. Keep an eye on the industry and regulatory developments related to digital storefronts and their policies.
 
 As the gaming industry continues to evolve, it's likely that we'll see more lawsuits and settlements related to digital storefronts and their policies. The Sony settlement is a reminder that digital storefronts are subject to the same laws and regulations as traditional retailers, and that regulators will be watching their practices closely.
+
+## Updates
+
+- **2026-10-13** — Google makes it easier to launch your vibe-coded apps ([source](https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch))

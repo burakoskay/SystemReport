@@ -1,19 +1,20 @@
 ---
 title: "Warner Bros Sues Amazon Over Executive Poaching"
 date: 2026-07-27T11:16:10.992Z
-modified_date: 2026-09-18T22:10:49.592Z
+modified_date: 2026-10-13T17:19:01.377Z
 tags: ["Warner Bros","Amazon","Executive Poaching","California Law"]
 hero_image: "/hero/2026-07-27-warner-bros-sues-amazon-over-executive-poaching-dd9c69.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "Lawsuit"
 description: "California law debated in lawsuit"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-27-warner-bros-sues-amazon-over-executive-poaching-dd9c69.mp3"
 audio_bytes: 624893
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Lawsuit Details
@@ -59,4 +60,5 @@ As the industries continue to evolve, companies will need to adapt to the changi
 
 ## Updates
 
+- **2026-10-13** — Google finally releases Gemini 4 Argon ([source](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon))
 - **2026-09-18** — Sony Music and UMG say Suno's new models still violates their copyright ([source](https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/))

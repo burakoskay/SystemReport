@@ -1,18 +1,20 @@
 ---
 title: "Linux and Cloud Gaming Redefine the PC Landscape"
 date: 2026-10-11T00:44:08.011Z
+modified_date: 2026-10-13T17:21:20.568Z
 tags: ["linux","cloud-gaming","handheld","gaming-tech"]
 hero_image: "/hero/2026-10-11-linux-and-cloud-gaming-redefine-the-pc-landscape-b59006.jpg"
 hero_image_credit_name: "ROMAN ODINTSOV"
 hero_image_credit_url: "https://www.pexels.com/@roman-odintsov"
 visual_keyword: "a gamer using a sleek handheld device beside a cloud server rack"
 description: "Linux kernel advances, cloud rigs, and new handhelds push gaming beyond Windows, reshaping how developers and players interact."
-sources_count: 10
-author: "sam-whitfield"
+sources_count: 11
 audio_path: "/audio/2026-10-11-linux-and-cloud-gaming-redefine-the-pc-landscape-b59006.mp3"
 audio_bytes: 617161
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Ray tracing still taxes PCs, but alternatives are gaining traction
 Ray tracing forces GPUs to calculate every light bounce, and the horsepower demand spikes. The Engadget piece notes that only high‑end rigs can sustain playable frame rates.
@@ -43,3 +45,7 @@ The hiring notice mentions a large, complex C++ codebase that will be shaped wit
 
 ## What to watch next
 Watch Valve’s next kernel‑level contribution. If NTSYNC proves stable, the Linux kernel may absorb more Windows‑centric APIs, tightening the performance gap. Track Asahi Linux’s beta releases; each new Vulkan extension or page‑size workaround expands the catalog of playable titles on Apple silicon. Finally, monitor GOG’s Linux client launch schedule. A public beta would signal that major storefronts are finally treating Linux as a first‑class platform rather than an afterthought.
+
+## Updates
+
+- **2026-10-13** — Here’s the full list of OnePlus devices getting Android 17, but it’s not OxygenOS ([source](https://9to5google.com/2026/10/13/oneplus-android-17-list-schedule/))

@@ -1,16 +1,18 @@
 ---
 title: "Apple rolls out fixes and new services amid AI push"
 date: 2026-09-24T09:02:31.905Z
-modified_date: 2026-10-11T08:09:04.547Z
+modified_date: 2026-10-13T17:19:57.060Z
 tags: ["apple","ios","podcasts","ai"]
 hero_image: "/hero/2026-09-24-apple-rolls-out-fixes-and-new-services-amid-ai-push-4e3af5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Apple HomePod with AI wave overlay"
 description: "Apple patches iPhone 18 Pro reboot bug, adds video to Podcasts Subscriptions, and hints at Siri AI on HomePod, signaling a broader AI rollout."
-sources_count: 4
+sources_count: 6
 author: "maya-chen"
 ---
+
+
 
 
 Apple is shipping a software patch for the iPhone 18 Pro reboot issue, expanding Podcasts Subscriptions with video, and teasing an AI‑enhanced Siri on HomePod.
@@ -63,4 +65,6 @@ Track the iOS update rollout timeline and any follow‑up bug reports to gauge A
 
 ## Updates
 
+- **2026-10-13** — Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands ([source](https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/))
+- **2026-10-13** — Apple refreshes its HomePod mini with a new chip and $149 price tag ([source](https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/))
 - **2026-10-11** — Apple/macOS removed from official Unix registry ([source](https://www.opengroup.org//openbrand/register/))

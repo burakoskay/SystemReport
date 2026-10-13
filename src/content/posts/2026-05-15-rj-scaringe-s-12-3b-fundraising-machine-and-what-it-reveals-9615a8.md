@@ -1,16 +1,17 @@
 ---
 title: "RJ Scaringe’s $12.3B Fundraising Machine And What It Reveals"
 date: 2026-05-15T21:19:09.170Z
-modified_date: 2026-10-07T18:21:18.200Z
+modified_date: 2026-10-13T17:20:25.023Z
 tags: ["investor","startups","automotive","fundraising","profits"]
 hero_image: "/hero/2026-05-15-rj-scaringe-s-12-3b-fundraising-machine-and-what-it-reveals-9615a8.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "dashboard showing financial metrics with rising investment charts"
 description: "A closer look at how one founder’s repeated success has reshaped investor expectations"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Scaringe’s next major round will test if investors still buy the story. Rivian
 
 ## Updates
 
+- **2026-10-13** — What Flock Actually Costs Cities Across the Country ([source](https://www.wired.com/story/how-much-does-flock-actually-cost-cities/))
 - **2026-10-07** — Mistral says "Le Chonk" can challenge the best AI models ([source](https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/))
 - **2026-09-21** — Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush ([source](https://www.wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush/))
 - **2026-09-18** — Pixelated 117: Googlebook Eve ([source](https://9to5google.com/2026/09/18/pixelated-117-googlebook-eve/))
