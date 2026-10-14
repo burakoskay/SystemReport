@@ -1,19 +1,20 @@
 ---
 title: "Apple Home Hub"
 date: 2026-08-03T02:12:09.671Z
-modified_date: 2026-10-06T16:37:29.833Z
+modified_date: 2026-10-14T09:13:03.675Z
 tags: ["Apple Home","Smart Home","HomeKit"]
 hero_image: "/hero/2026-08-03-apple-home-hub-ce88bf.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Smart Home Devices"
 description: "Apple Home requires a dedicated hub"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-08-03-apple-home-hub-ce88bf.mp3"
 audio_bytes: 587277
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The requirement for a dedicated Apple Home hub has significant implications for 
 
 ## Updates
 
+- **2026-10-14** — AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity ([source](https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/))
 - **2026-10-06** — Pixel Watch 4 & 5’s handy USB-C travel charger is currently on sale, and even cheaper now ([source](https://9to5google.com/2026/10/06/pixel-watch-4-5s-handy-usb-c-travel-charger-is-currently-on-sale/))
 - **2026-09-24** — Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030 ([source](https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/))
 - **2026-09-15** — YouTube’s login-breaking bug is getting a fix on TVs and consoles ([source](https://9to5google.com/2026/09/15/youtube-login-bug-fixed/))

@@ -1,16 +1,17 @@
 ---
 title: "Ex-Employees Wipe 96 Gov't Databases Post-Firing"
 date: 2026-05-13T03:57:10.361Z
-modified_date: 2026-10-03T20:28:24.558Z
+modified_date: 2026-10-14T09:13:26.588Z
 tags: ["cybersecurity","gov't security","data breach","access control","IT policies"]
 hero_image: "/hero/2026-05-13-ex-employees-wipe-96-gov-t-databases-post-firing-dd8ad7.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "government server room with blinking lights and access badges on the floor"
 description: "Twin brothers erased 96 government databases minutes after termination, highlighting credential management failures."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The Office of Management and Budget will issue revised access control guidelines
 
 ## Updates
 
+- **2026-10-14** — Walgreens Photo Coupons: Up to 70% Off This October ([source](https://www.wired.com/story/walgreens-photo-coupon/))
 - **2026-10-03** — How to check the temperature of your PC's CPU ([source](https://www.engadget.com/2273462/how-to-check-cpu-temperature/))
 - **2026-09-20** — How to customize the side button on your Samsung Galaxy phone ([source](https://www.engadget.com/2259632/how-to-customize-samsung-side-button/))
 - **2026-09-20** — How long can you expect your old cassette tapes to last? ([source](https://www.engadget.com/2259220/how-long-old-cassette-tapes-last-lifespan/))
