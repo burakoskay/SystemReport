@@ -1,18 +1,20 @@
 ---
 title: "Cloudflare snaps up Deno to tighten Workers edge runtime"
 date: 2026-10-11T00:42:32.690Z
+modified_date: 2026-10-14T22:57:11.868Z
 tags: ["cloudflare","edge-computing","deno"]
 hero_image: "/hero/2026-10-11-cloudflare-snaps-up-deno-to-tighten-workers-edge-runtime-552ce8.jpg"
 hero_image_credit_name: "Darlene Alderson"
 hero_image_credit_url: "https://www.pexels.com/@darlene-alderson"
 visual_keyword: "data center with code overlay"
 description: "Cloudflare’s purchase of Deno aims to sharpen its Workers platform amid a crowded edge‑computing market."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-10-11-cloudflare-snaps-up-deno-to-tighten-workers-edge-runtime-552ce8.mp3"
 audio_bytes: 541511
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Cloudflare bought Deno to tighten its Workers platform.
 
@@ -49,3 +51,7 @@ Watch for how competing edge services respond – whether Fastly or AWS will dou
 On the broader front, monitor Google’s Android 17 deployment and the subsequent app‑level updates. If Samsung’s devices become the default target for new edge‑focused APIs, developers may shift workloads away from traditional cloud VMs toward the edge.
 
 The next quarter will reveal whether Cloudflare’s Deno move is a genuine technical leap or a defensive maneuver in a market where every runtime, every update, and every public feud can tip the balance of developer allegiance.
+
+## Updates
+
+- **2026-10-14** — Things are finally looking up for NASA's first missions to Venus in a generation ([source](https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/))

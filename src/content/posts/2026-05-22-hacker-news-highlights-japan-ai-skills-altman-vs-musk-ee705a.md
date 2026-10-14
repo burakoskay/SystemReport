@@ -1,18 +1,20 @@
 ---
 title: "Hacker News Highlights: Japan, AI Skills, Altman vs Musk"
 date: 2026-05-22T16:36:45.156Z
+modified_date: 2026-10-14T22:57:04.329Z
 tags: ["hackernews","ai","corporate-strategy","legal","language-models"]
 hero_image: "/hero/2026-05-22-hacker-news-highlights-japan-ai-skills-altman-vs-musk-ee705a.jpg"
 hero_image_credit_name: "Keysi Estrada"
 hero_image_credit_url: "https://www.pexels.com/@keysi-estrada-2151553493"
 visual_keyword: "tech newsroom with digital screens showing forum threads"
 description: "A deep dive into four trending Hacker News posts, unpacking Japanese corporate breadth, AI's skill multiplier, the Altman-Musk court clash, and a manifesto for language models."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-22-hacker-news-highlights-japan-ai-skills-altman-vs-musk-ee705a.mp3"
 audio_bytes: 593338
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Japanese Firms Keep Adding Business Lines
 
@@ -49,3 +51,7 @@ Historically, diversification strategies have been both a shield and a blind spo
 Watch OpenAI’s next board filing for any policy changes prompted by the Altman‑Musk ruling. Track Japanese corporate disclosures for shifts in cross‑shareholding patterns that could signal a retreat from diversification. Monitor AI tooling vendors for pricing models that reward senior engineers over entry‑level talent. Finally, follow emerging guidelines from AI ethics bodies that echo the LLM manifesto’s call for model self‑limitation.
 
 The next quarter will likely reveal whether these tensions resolve into new norms or deepen the fractures already visible on Hacker News.
+
+## Updates
+
+- **2026-10-14** — Fridge hack costing millions and sparking fires stemmed from poor security ([source](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/))

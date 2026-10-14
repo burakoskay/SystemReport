@@ -1,16 +1,17 @@
 ---
 title: "Rockstar Faces Union Fight as Workers Organize Amid Legal"
 date: 2026-08-28T04:02:14.794Z
-modified_date: 2026-09-02T08:28:17.476Z
+modified_date: 2026-10-14T22:56:56.727Z
 tags: ["rockstar","gta6","union"]
 hero_image: "/hero/2026-08-28-rockstar-faces-union-fight-as-workers-organize-amid-legal-e989f0.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "rockstar office with union flyers and security breach headlines"
 description: "Rockstar's newly formed workers union challenges the studio after mass firings, a high‑profile hack, and a controversial pricing strategy."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 ## Rockstar Game Workers Union Announces Legal Challenge
@@ -39,4 +40,5 @@ Stakeholders should monitor Rockstar’s quarterly earnings report, which will l
 
 ## Updates
 
+- **2026-10-14** — Electric vehicle sales in the US are showing signs of life ([source](https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/))
 - **2026-09-02** — This new Roomba seals itself to your carpet ([source](https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced))

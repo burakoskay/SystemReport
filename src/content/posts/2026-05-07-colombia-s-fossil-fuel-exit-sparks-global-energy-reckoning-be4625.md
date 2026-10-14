@@ -1,16 +1,17 @@
 ---
 title: "Colombia’s fossil fuel exit sparks global energy reckoning"
 date: 2026-05-07T06:48:50.844Z
-modified_date: 2026-05-16T15:01:23.447Z
+modified_date: 2026-10-14T22:56:49.127Z
 tags: ["energy transition","ai sustainability","fossil fuels","climate policy","tech regulation"]
 hero_image: "/hero/2026-05-07-colombia-s-fossil-fuel-exit-sparks-global-energy-reckoning-be4625.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Solar panels and coal mines under a stormy sky, with data streams projected on a mountain range"
 description: "As AI’s energy demands collide with climate policy shifts, the world grapples with a new energy transition."
-sources_count: 12
+sources_count: 13
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ What to watch: Colombia’s Green Energy Fund will host a public audit in Octobe
 
 ## Updates
 
+- **2026-10-14** — CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes ([source](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/))
 - **2026-05-16** — Turtle Beach made a good SteelSeries headset clone that’s $50 less ([source](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on))
 - **2026-05-16** — Old Oil and Gas Wells Could Find Second Life Producing Clean Energy ([source](https://www.wired.com/story/oil-wells-second-life-clean-energy/))
 - **2026-05-07** — Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’ ([source](https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/))

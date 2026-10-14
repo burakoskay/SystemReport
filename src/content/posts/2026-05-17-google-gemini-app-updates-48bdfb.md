@@ -1,16 +1,17 @@
 ---
 title: "Google Gemini App Updates"
 date: 2026-05-17T19:16:08.018Z
-modified_date: 2026-05-31T04:16:09.300Z
+modified_date: 2026-10-14T22:57:57.238Z
 tags: ["Google","Gemini App","Googlebook Laptops"]
 hero_image: "/hero/2026-05-17-google-gemini-app-updates-48bdfb.jpg"
 hero_image_credit_name: "Jeferson santos"
 hero_image_credit_url: "https://www.pexels.com/@jeferson-santos-793315344"
 visual_keyword: "Gemini"
 description: "Google rolls out new Gemini app features"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Introduction to Gemini
@@ -50,4 +51,5 @@ The downstream implications of the tech industry's trend of innovation are also 
 
 ## Updates
 
+- **2026-10-14** — WhatsApp takes on Zoom and Google Meet with guest calling ([source](https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling/))
 - **2026-05-31** — Indie App Spotlight: ‘NextThere’ helps you navigate public transit with rich insights ([source](https://9to5mac.com/2026/05/30/nextthere-public-transportation-navigation-app-with-deep-insights/))

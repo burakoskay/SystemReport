@@ -1,16 +1,17 @@
 ---
 title: "Apple's iPhone 17 Lineup Hits Record Popularity"
 date: 2026-04-30T21:06:44.235Z
-modified_date: 2026-09-25T23:01:58.973Z
+modified_date: 2026-10-14T22:58:19.838Z
 tags: ["Apple","iPhone 17","smartphones"]
 hero_image: "/hero/2026-04-30-apple-s-iphone-17-lineup-hits-record-popularity-32cd5c.jpg"
 hero_image_credit_name: "Brijesh H"
 hero_image_credit_url: "https://www.pexels.com/@brijeshritz"
 visual_keyword: "iPhone 17"
 description: "Apple's iPhone 17 lineup has become the company's most popular model family ever, with the tech giant reporting another record-breaking quarter of earnings."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ As Apple continues to push the boundaries of innovation, it will be exciting to 
 
 ## Updates
 
+- **2026-10-14** — iOS 27 adds brand new widgets for your iPhone’s Home Screen ([source](https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen/))
 - **2026-09-25** — TestFlight now works in landscape as Apple prepares for iPhone Duo ([source](https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo/))
 - **2026-09-22** — I asked Meta’s Muse for its filesystem and it sent me 6.8GB ([source](https://mouse.dev/blog/muse-runtime-export/))
 - **2026-09-21** — How the iPhone Duo's software is different from a standard iPhone ([source](https://www.engadget.com/2261250/iphone-duo-vs-standard-software-differences/))

@@ -1,19 +1,20 @@
 ---
 title: "Linux Foundation's Budget Misfires"
 date: 2026-05-09T09:25:48.385Z
-modified_date: 2026-10-03T17:45:01.060Z
+modified_date: 2026-10-14T22:58:12.321Z
 tags: ["Linux","Security","AI-native"]
 hero_image: "/hero/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.jpg"
 hero_image_credit_name: "RealToughCandy.com"
 hero_image_credit_url: "https://www.pexels.com/@realtoughcandy"
 visual_keyword: "Linux"
 description: "Most of the Linux Foundation's budget doesn't go to Linux. A new AI-native malware scanner for Linux aims to change security."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-09-linux-foundation-s-budget-misfires-3b9a1a.mp3"
 audio_bytes: 624267
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -88,6 +89,7 @@ The future of Linux security is promising, with the development of AI-native sec
 
 ## Updates
 
+- **2026-10-14** — Apple Invites update makes it easier to manage guests and track RSVPs ([source](https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps/))
 - **2026-10-03** — An Update on Orion for Linux and Windows ([source](https://blog.kagi.com/update-orion-linux-windows))
 - **2026-09-23** — LinkedIn adds new tools to fight fake profiles and bogus work histories ([source](https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/))
 - **2026-08-06** — Nintendo beats earnings thanks to US tariff refunds it won&#8217;t share with gamers ([source](https://www.theverge.com/games/976054/nintendo-earnings-q1-2027-tariff-refund))
