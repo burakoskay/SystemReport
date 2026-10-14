@@ -1,15 +1,17 @@
 ---
 title: "Hacker News lifts obscure tools into the spotlight"
 date: 2026-05-31T14:04:41.056Z
+modified_date: 2026-10-14T14:51:15.691Z
 tags: ["hackernews","open-source","embedded-systems","urban-tech"]
 hero_image: "/hero/2026-05-31-hacker-news-lifts-obscure-tools-into-the-spotlight-6ee3ee.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer reviewing code on laptop with city skyline background"
 description: "Three niche projects—dav2d, wolfCOSE, and London’s free roof terraces—draw heavy discussion on Hacker News, signaling shifting engineer interests."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 ## A wave of specialist projects dominates the front page
 The front page of Hacker News featured three posts that together earned over 350 points and more than 120 comments. Engineers rallied around a video decoder, an embedded security stack, and a civic‑tech guide.
@@ -38,3 +40,7 @@ The discussion on Hacker News praised the site’s fidelity to real‑world tole
 
 ## What to watch next
 Watch for a follow‑up release from wolfSSL that adds full COSE signing support for constrained IoT devices. Track the next iteration of dav2d on the author’s blog for any SIMD extensions that could shift performance baselines. Monitor London’s municipal planning minutes for new roof‑terrace mandates, as they may create a template for other dense cities. Finally, keep an eye on the Mechanical Pencil project for a potential open‑source asset pack that could be integrated into engineering documentation pipelines.
+
+## Updates
+
+- **2026-10-14** — Amazon pushes up prices across the Internet ([source](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/))

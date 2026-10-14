@@ -1,15 +1,17 @@
 ---
 title: "New Tech Roundup: Gaming, AI, and Productivity"
 date: 2026-05-17T19:19:00.829Z
+modified_date: 2026-10-14T14:50:12.287Z
 tags: ["tech news","productivity tools","gaming"]
 hero_image: "/hero/2026-05-17-new-tech-roundup-gaming-ai-and-productivity-0861a0.jpg"
 hero_image_credit_name: "Kevin  Malik"
 hero_image_credit_url: "https://www.pexels.com/@kevin-malik"
 visual_keyword: "productivity"
 description: "A roundup of new tech developments, including a potential new game from 1047 Games, an AI-powered Mac app, and a focus-friendly bookmarking tool."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Gaming News: 1047 Games' Rumored Title
@@ -51,3 +53,7 @@ Another trend in productivity tools is the integration of AI-powered features. F
 ## Conclusion
 
 In conclusion, the tech industry is rapidly evolving, with new developments and releases emerging every day. The potential new game from 1047 Games, the AI-powered Mac app, and the focus-friendly bookmarking tool are just a few examples of the innovative solutions that are changing the way we work and interact with technology. As the industry continues to evolve, we can expect to see more exciting developments and advancements in the months and years to come.
+
+## Updates
+
+- **2026-10-14** — Fujifilm’s new square format instant camera adds analog color filters ([source](https://www.theverge.com/tech/1010990/fujifilm-instax-square-2-analog-instant-film-camera-filters))
