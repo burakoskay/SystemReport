@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Spotlight on YC Scandals and User Projects"
 date: 2026-05-11T07:54:56.811Z
-modified_date: 2026-10-12T19:37:05.430Z
+modified_date: 2026-10-14T19:56:23.923Z
 tags: ["YC","Hacker News","startup ecosystem"]
 hero_image: "/hero/2026-05-11-hacker-news-spotlight-on-yc-scandals-and-user-projects-c235e4.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "YC scandals and Hacker News users' projects discussed. What's new in tech?"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The response of YC and other stakeholders will be crucial in shaping the future 
 
 ## Updates
 
+- **2026-10-14** — The AI race is back on ([source](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on))
 - **2026-10-12** — Googlebook OS review: A post-smartphone PC, if Google can keep it ([source](https://9to5google.com/2026/10/12/googlebook-os-review/))
 - **2026-08-24** — The cat-and-mouse game over 3D-printed guns has begun ([source](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul))
 - **2026-08-15** — Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals ([source](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview))

@@ -1,15 +1,17 @@
 ---
 title: "8-Bit Web Hosting: Tiny Computing's Limits"
 date: 2026-05-17T11:19:17.857Z
+modified_date: 2026-10-14T19:57:19.473Z
 tags: ["tiny computing","8-bit microcontrollers","web hosting","IoT applications","ESP32","Arduino"]
 hero_image: "/hero/2026-05-17-8-bit-web-hosting-tiny-computing-s-limits-58f638.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "8-bit microcontroller web hosting"
 description: "Explore the feasibility of hosting a website on an 8-bit microcontroller with examples from MCP and other projects."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 # 8-Bit Web Hosting: Tiny Computing's Limits
 
@@ -99,3 +101,7 @@ As the industry continues to evolve, we can expect to see more innovations in ti
 
 tags: [tiny computing, 8-bit microcontrollers, web hosting, IoT applications, ESP32, Arduino]
 visual_keyword: 8-bit microcontroller web hosting
+
+## Updates
+
+- **2026-10-14** — Apple TV just confirmed a new season for one of my favorite shows this year ([source](https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/))

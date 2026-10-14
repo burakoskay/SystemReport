@@ -1,16 +1,17 @@
 ---
 title: "Portable Solar Panels"
 date: 2026-08-10T20:37:27.185Z
-modified_date: 2026-10-11T16:07:43.300Z
+modified_date: 2026-10-14T19:57:00.985Z
 tags: ["Portable Solar Panels","Renewable Energy","Outdoor Gear"]
 hero_image: "/hero/2026-08-10-portable-solar-panels-a533f0.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "Solar Panels"
 description: "Capture solar energy on the go"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ The future of portable solar panels looks promising, with potential applications
 
 ## Updates
 
+- **2026-10-14** — Ubisoft plans to close another studio and lay off up to 122 workers ([source](https://www.engadget.com/2286986/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/))
 - **2026-10-11** — How the 2026 Super El Niño and Climate Change Are Related ([source](https://www.wired.com/story/super-el-nino-climate-change-connections/))
 - **2026-09-09** — Sony isn’t phasing out discs quite as quickly as we thought ([source](https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent))

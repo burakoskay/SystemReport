@@ -1,16 +1,17 @@
 ---
 title: "Nintendo lifts Switch 2 prices, sparking consumer backlash"
 date: 2026-05-08T14:19:54.407Z
-modified_date: 2026-08-29T00:24:15.278Z
+modified_date: 2026-10-14T19:56:46.948Z
 tags: ["nintendo","gaming","pricing"]
 hero_image: "/hero/2026-05-08-nintendo-lifts-switch-2-prices-sparking-consumer-backlash-1c3756.jpg"
 hero_image_credit_name: "Daniel J. Schwarz"
 hero_image_credit_url: "https://www.pexels.com/@danieljschwarz"
 visual_keyword: "Nintendo Switch 2 console with a price tag"
 description: "Nintendo announced higher launch prices for the Switch 2 on May 8, 2026, raising questions about affordability and competition."
-sources_count: 9
+sources_count: 10
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ All eyes will be on Nintendo’s next quarterly earnings report, where the compa
 
 ## Updates
 
+- **2026-10-14** — Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS ([source](https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds))
 - **2026-08-29** — Is the best way to watch a movie on a pair of sunglasses? ([source](https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/))
 - **2026-08-19** — Nvidia’s new financial strategy does not compute ([source](https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset))

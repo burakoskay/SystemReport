@@ -1,16 +1,17 @@
 ---
 title: "TUIs Make a Comeback"
 date: 2026-05-03T20:52:28.685Z
-modified_date: 2026-09-25T19:46:46.706Z
+modified_date: 2026-10-14T19:56:19.325Z
 tags: ["TUIs","Terminal User Interfaces","LoRa Mesh Radios"]
 hero_image: "/hero/2026-05-03-tuis-make-a-comeback-59efd0.jpg"
 hero_image_credit_name: "Wayne Jackson"
 hero_image_credit_url: "https://www.pexels.com/@waynejackson"
 visual_keyword: "TUIs"
 description: "Terminal user interfaces are gaining traction again. Developers are revisiting old tech to create more efficient interfaces."
-sources_count: 9
+sources_count: 10
 author: "priya-raman"
 ---
+
 
 
 
@@ -79,5 +80,6 @@ The use of LoRa mesh radios in TUIs is also an important technical development. 
 
 ## Updates
 
+- **2026-10-14** — Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace ([source](https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/))
 - **2026-09-25** — Tesla&#8217;s Optimus robot is going through growing pains ([source](https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands))
 - **2026-09-21** — US and China Discuss Alerting Each Other to AI National Security Threats ([source](https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/))

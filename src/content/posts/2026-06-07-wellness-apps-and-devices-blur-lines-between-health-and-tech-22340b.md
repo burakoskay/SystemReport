@@ -1,19 +1,20 @@
 ---
 title: "Wellness Apps and Devices Blur Lines Between Health and Tech"
 date: 2026-06-07T11:53:42.225Z
-modified_date: 2026-07-31T06:40:38.099Z
+modified_date: 2026-10-14T19:56:14.580Z
 tags: ["health and wellness","AI-powered health apps","red-light therapy"]
 hero_image: "/hero/2026-06-07-wellness-apps-and-devices-blur-lines-between-health-and-tech-22340b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "health and wellness"
 description: "The lines between health and tech are blurring with new wellness apps and devices. From AI-powered health apps to red-light therapy for hair restoration, the market is seeing a surge in innovative products."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-07-wellness-apps-and-devices-blur-lines-between-health-and-tech-22340b.mp3"
 audio_bytes: 624685
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,4 +70,5 @@ The future of wellness technology holds much promise, with potential application
 
 ## Updates
 
+- **2026-10-14** — Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West ([source](https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/))
 - **2026-07-31** — Alo Discount Code: Save on Activewear August 2026 ([source](https://www.wired.com/story/alo-yoga-discount-code/))

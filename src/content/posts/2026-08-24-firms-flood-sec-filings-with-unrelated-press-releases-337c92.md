@@ -1,15 +1,17 @@
 ---
 title: "Firms Flood SEC Filings with Unrelated Press Releases"
 date: 2026-08-24T06:50:09.791Z
+modified_date: 2026-10-14T19:57:14.785Z
 tags: ["securities","corporate-governance","accounting","investor-behavior","regulation"]
 hero_image: "/hero/2026-08-24-firms-flood-sec-filings-with-unrelated-press-releases-337c92.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "stock market ticker with overlapping news headlines"
 description: "New research shows companies use same‑day, unrelated press releases to drown out bad 8‑K disclosures, slowing market reaction."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## The hidden tactic revealed
 A new academic study shows public companies routinely pair negative SEC Form 8‑K filings with unrelated press releases to pull investor attention away from the bad news. The researchers traced the practice to a strategic exploitation of limited investor processing capacity.
@@ -38,3 +40,7 @@ The CapCut saga mirrors the SEC disclosure issue: regulatory decisions create ab
 
 ## What to watch
 Investors should monitor any SEC guidance that addresses concurrent press releases, especially as the agency reviews its rules on material‑event disclosure. Keep an eye on upcoming earnings seasons for spikes in same‑day, unrelated releases, and watch whether the SEC begins to require explicit cross‑referencing between 8‑K filings and press statements. In the tech arena, the rollout of Meta’s Edits app and the final outcome of the CapCut legal battle will serve as barometers for how quickly companies can shift narratives under regulatory pressure.
+
+## Updates
+
+- **2026-10-14** — How the Military Will Hack the Election ([source](https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election))

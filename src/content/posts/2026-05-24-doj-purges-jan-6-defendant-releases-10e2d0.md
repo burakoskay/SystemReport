@@ -1,19 +1,20 @@
 ---
 title: "DOJ Purges Jan. 6 Defendant Releases"
 date: 2026-05-24T13:47:25.480Z
-modified_date: 2026-09-22T23:57:33.696Z
+modified_date: 2026-10-14T19:56:28.512Z
 tags: ["DOJ","cannabis","eBay","regulation"]
 hero_image: "/hero/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.jpg"
 hero_image_credit_name: "Mark Stebnicki"
 hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "Justice Department"
 description: "The Justice Department's recent actions signal a more aggressive, digitally-focused enforcement posture."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.mp3"
 audio_bytes: 606294
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 The Justice Department has launched three high-profile moves that signal a more aggressive, digitally-focused enforcement posture. A website purge of Jan. 6 defendant releases, a shift of cannabis to Schedule III, and a lawsuit targeting eBay's marketplace all demonstrate this new approach.
@@ -74,4 +75,5 @@ The next steps in the government's approach to these issues will likely be close
 
 ## Updates
 
+- **2026-10-14** — Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data? ([source](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy))
 - **2026-09-22** — iOS 27: How to hide or replace the audio button in iMessages ([source](https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/))

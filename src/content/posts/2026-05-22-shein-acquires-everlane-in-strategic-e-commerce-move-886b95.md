@@ -1,19 +1,20 @@
 ---
 title: "Shein Acquires Everlane in Strategic E-commerce Move"
 date: 2026-05-22T19:56:45.587Z
-modified_date: 2026-10-04T07:40:07.800Z
+modified_date: 2026-10-14T19:56:42.274Z
 tags: ["e-commerce","sustainable fashion","AI"]
 hero_image: "/hero/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "sustainable fashion"
 description: "Shein's purchase of Everlane signals a push into sustainable apparel, backed by big-data and AI search tools."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-22-shein-acquires-everlane-in-strategic-e-commerce-move-886b95.mp3"
 audio_bytes: 598980
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ In conclusion, Shein's acquisition of Everlane is a strategic move that reflects
 
 ## Updates
 
+- **2026-10-14** — Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod ([source](https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod))
 - **2026-10-04** — Reasons I didn't become an EMT, ranked ([source](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/))
 - **2026-09-30** — Trump orders US government to call AI ‘Super Intelligence’ ([source](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai))
 - **2026-08-26** — QueryStory wants you to believe what AI is telling you ([source](https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/))
