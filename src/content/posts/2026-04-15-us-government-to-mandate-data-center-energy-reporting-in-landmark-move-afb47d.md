@@ -1,16 +1,17 @@
 ---
 title: "US Government to Mandate Data Center Energy Reporting in Landmark Move"
 date: 2026-04-15T19:44:08.769Z
-modified_date: 2026-09-19T13:40:15.686Z
+modified_date: 2026-10-15T22:51:21.701Z
 tags: ["data centers","energy consumption","eia","sustainability","tech policy"]
 hero_image: "/hero/2026-04-15-us-government-to-mandate-data-center-energy-reporting-in-landmark-move-afb47d.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center power grid"
 description: "The EIA will now require data centers to disclose energy usage, signaling a new era of transparency and accountability for tech's power consumption."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ However, the implementation of such a comprehensive reporting mechanism is not w
 
 ## Updates
 
+- **2026-10-15** — What did the Liberty Bell sound like? Science is on the case. ([source](https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/))
 - **2026-09-19** — iPhone 18 Pro Max still uses a Qualcomm modem in the US, teardown confirms ([source](https://9to5mac.com/2026/09/19/iphone-18-pro-max-still-uses-a-qualcomm-modem-in-the-us-teardown-confirms/))
 - **2026-09-16** — A brief history of AI executives calling for regulation ([source](https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation))
 - **2026-05-15** — A 0-click exploit chain for the Pixel 10 ([source](https://projectzero.google/2026/05/pixel-10-exploit.html))
