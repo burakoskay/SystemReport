@@ -1,19 +1,20 @@
 ---
 title: "Discord Leak Exposes Anthropic’s Mythos Amid $40B Google Bet"
 date: 2026-04-25T19:05:50.503Z
-modified_date: 2026-10-04T17:57:43.744Z
+modified_date: 2026-10-15T14:38:20.463Z
 tags: ["anthropic","ai security","cloud computing","ai competition"]
 hero_image: "/hero/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "cybersecurity analyst reviewing AI model breach on multiple monitors"
 description: "Discord users breached Anthropic’s Mythos model, raising security concerns as Google pours up to $40 billion into the AI startup."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-04-25-discord-leak-exposes-anthropic-s-mythos-amid-40b-google-bet-6a5126.mp3"
 audio_bytes: 555512
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The next few months will test whether Anthropic can reconcile its growth traject
 
 ## Updates
 
+- **2026-10-15** — XREAL 1 Pro+ has exactly the right hardware upgrades at the same $599 price ([source](https://9to5google.com/2026/10/15/xreal-1-pro-plus-upgrades-price/))
 - **2026-10-04** — The pros and cons of enabling Wi-Fi calling ([source](https://www.engadget.com/2273956/wifi-calling-pros-cons/))
 - **2026-09-10** — iPhone Duo is no Apple Vision Pro ([source](https://9to5mac.com/2026/09/10/iphone-duo-is-no-apple-vision-pro/))
 - **2026-05-16** — Sony tries to explain that its AI Camera Assistant doesn’t suck ([source](https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant))

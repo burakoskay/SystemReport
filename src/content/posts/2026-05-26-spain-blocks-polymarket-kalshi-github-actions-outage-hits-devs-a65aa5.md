@@ -1,16 +1,18 @@
 ---
 title: "Spain blocks Polymarket, Kalshi; GitHub Actions outage hits devs"
 date: 2026-05-26T15:57:41.034Z
-modified_date: 2026-09-15T07:04:37.039Z
+modified_date: 2026-10-15T14:38:02.235Z
 tags: ["spain","prediction-markets","github-actions","dynamic-dns"]
 hero_image: "/hero/2026-05-26-spain-blocks-polymarket-kalshi-github-actions-outage-hits-devs-a65aa5.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "a frustrated developer staring at a laptop error screen"
 description: "Spain's regulator forces Polymarket and Kalshi offline for lacking gambling licences while GitHub Actions suffers another outage, highlighting reliability and compliance pressures on online services."
-sources_count: 6
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -53,6 +55,8 @@ Enterprises will need to audit their third‑party dependencies more rigorously.
 
 ## Updates
 
+- **2026-10-15** — Quick question: Who exactly is iPhone Handoff for? ([source](https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone))
+- **2026-10-15** — Prep your cart before iPhone Duo preorders open tomorrow ([source](https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder))
 - **2026-09-15** — Volvo’s plug-in hybrid XC60 and XC90 can really go the distance ([source](https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range))
 - **2026-08-18** — You can use your Starlink Mini at home, but it'll cost you ([source](https://www.engadget.com/2235272/starlink-mini-residential-home-use-cost-more/))
 - **2026-08-16** — Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ ([source](https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/))

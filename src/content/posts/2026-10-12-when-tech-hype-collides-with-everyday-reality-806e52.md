@@ -1,19 +1,20 @@
 ---
 title: "When Tech Hype Collides with Everyday Reality"
 date: 2026-10-12T08:34:02.301Z
-modified_date: 2026-10-12T19:34:44.296Z
+modified_date: 2026-10-15T14:37:57.663Z
 tags: ["tech culture","privacy","hardware","software"]
 hero_image: "/hero/2026-10-12-when-tech-hype-collides-with-everyday-reality-806e52.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "collage of documentary reel, network speed gauge, 3D printer, AI image editor, webcam"
 description: "A look at recent stories—from a marathon Musk doc to home‑office surveillance—that reveal the gap between tech hype and practical limits."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-10-12-when-tech-hype-collides-with-everyday-reality-806e52.mp3"
 audio_bytes: 592084
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## A marathon documentary that drags its subject
@@ -52,4 +53,5 @@ The pattern emerging from these stories is clear: hype and overreach often outpa
 
 ## Updates
 
+- **2026-10-15** — Some great games to play before GTA VI and Zelda launch ([source](https://www.theverge.com/entertainment/1011816/october-2026-game-reviews-dressmaker-castlevania))
 - **2026-10-12** — Former Plaud exec raises $26M for AI app that listens to you in the background ([source](https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/))

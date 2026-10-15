@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Proposes Global Slowdown of AI Development"
 date: 2026-06-05T10:01:31.891Z
-modified_date: 2026-08-17T22:19:53.328Z
+modified_date: 2026-10-15T14:38:29.508Z
 tags: ["AI Development","Anthropic","Global Slowdown"]
 hero_image: "/hero/2026-06-05-anthropic-proposes-global-slowdown-of-ai-development-4da10e.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "Anthropic warns of AIs building successors"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-05-anthropic-proposes-global-slowdown-of-ai-development-4da10e.mp3"
 audio_bytes: 585814
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -37,4 +38,5 @@ The proposal by Anthropic is likely to spark a wider debate about the developmen
 
 ## Updates
 
+- **2026-10-15** — John Ternus talks iPhone Duo, ‘cheap and crappy’ foldables in new interview ([source](https://9to5mac.com/2026/10/15/john-ternus-talks-iphone-duo-cheap-and-crappy-foldables-in-new-interview/))
 - **2026-08-17** — The Moon's shadow raced across the heart of Spain, and I was there to see it ([source](https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/))

@@ -1,19 +1,20 @@
 ---
 title: "UAE Leaves OPEC After 59 Years, Opens Door to Higher Output"
 date: 2026-04-28T19:36:14.989Z
-modified_date: 2026-10-13T22:12:08.548Z
+modified_date: 2026-10-15T14:37:39.186Z
 tags: ["uae","opec","oil markets"]
 hero_image: "/hero/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.jpg"
 hero_image_credit_name: "Shivansh  Sharma"
 hero_image_credit_url: "https://www.pexels.com/@sincegameon"
 visual_keyword: "UAE oil fields with OPEC logo fading"
 description: "The United Arab Emirates will quit OPEC on May 1, ending a 59‑year run and giving it freedom to boost oil production amid volatile markets."
-sources_count: 17
+sources_count: 18
 audio_path: "/audio/2026-04-28-uae-leaves-opec-after-59-years-opens-door-to-higher-output-f2c17e.mp3"
 audio_bytes: 595009
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The next few months will reveal whether the UAE’s departure reshapes the balan
 
 ## Updates
 
+- **2026-10-15** — Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy ([source](https://www.wired.com/story/democrats-are-gearing-up-to-investigate-the-trump-administration-it-wont-be-so-easy/))
 - **2026-10-13** — How the iPhone Duo's camera is different from the iPhone 18 Pro's ([source](https://www.engadget.com/2282217/iphone-duo-vs-iphone-18-pro-camera-differences/))
 - **2026-09-20** — Microsoft director: AI scraping 'the largest theft of labor in human history' ([source](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit))
 - **2026-08-23** — Here’s what people who have used the iPhone Ultra like most ([source](https://9to5mac.com/2026/08/23/heres-what-people-who-have-used-the-iphone-ultra-like-most/))

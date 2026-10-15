@@ -1,16 +1,17 @@
 ---
 title: "Rivian Under Scrutiny"
 date: 2026-05-28T16:12:43.837Z
-modified_date: 2026-09-04T13:57:50.235Z
+modified_date: 2026-10-15T14:37:29.887Z
 tags: ["Rivian","Electric Vehicles","Autonomous Features"]
 hero_image: "/hero/2026-05-28-rivian-under-scrutiny-486bb6.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "Rivian R1T"
 description: "Rivian faces investigations and criticism over rear suspension failures, while expanding its charging network and planning new autonomous features."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -86,4 +87,5 @@ The future of the electric vehicle market is uncertain, but one thing is clear: 
 
 ## Updates
 
+- **2026-10-15** — Google’s Universal Cart shopping tool launches in the US ([source](https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/))
 - **2026-09-04** — How to edit Claude's memory ([source](https://www.engadget.com/2246397/how-to-edit-claude-memory/))
