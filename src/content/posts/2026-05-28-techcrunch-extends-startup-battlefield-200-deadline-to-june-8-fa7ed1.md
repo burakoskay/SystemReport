@@ -1,15 +1,17 @@
 ---
 title: "TechCrunch extends Startup Battlefield 200 deadline to June 8"
 date: 2026-05-28T16:15:49.406Z
+modified_date: 2026-10-15T19:39:23.868Z
 tags: ["Startup Battlefield 200","TechCrunch","Disrupt 2026"]
 hero_image: "/hero/2026-05-28-techcrunch-extends-startup-battlefield-200-deadline-to-june-8-fa7ed1.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Startup"
 description: "TechCrunch pushes Startup Battlefield 200 deadline to June 8 as founders flood the competition, raising questions about event capacity and investor focus."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Deadline Extension Signals a Flood of Early-Stage Ambition
 TechCrunch announced that the Startup Battlefield 200 application deadline is now June 8. This shift comes after overwhelming demand from founders worldwide.
@@ -52,3 +54,7 @@ Historically, TechCrunch has expanded its events to meet growing demand. The com
 
 ## Startup Battlefield's Track Record
 Startup Battlefield 200 has a proven track record of launching successful startups. Companies like Dropbox and others have gained significant traction and funding after participating in the competition. The event's reputation and influence in the startup ecosystem make it a highly sought-after opportunity for early-stage companies.
+
+## Updates
+
+- **2026-10-15** — Bluesky wants to make it easier to buy, sell, and fundraise on the network ([source](https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/))

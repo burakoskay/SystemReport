@@ -1,16 +1,17 @@
 ---
 title: "Black Founders See Best Quarterly Funding Since 2022"
 date: 2026-05-31T15:20:50.329Z
-modified_date: 2026-09-23T14:39:09.181Z
+modified_date: 2026-10-15T19:39:39.108Z
 tags: ["Black Founders","Funding","Diversity in Tech"]
 hero_image: "/hero/2026-05-31-black-founders-see-best-quarterly-funding-since-2022-421f71.jpg"
 hero_image_credit_name: "PNW Production"
 hero_image_credit_url: "https://www.pexels.com/@pnw-prod"
 visual_keyword: "Black Founders"
 description: "Black founders raised the most quarterly funding since 2022, but still face significant barriers. A look at the numbers and what's holding them back."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,4 +63,5 @@ The technical mechanics of funding and the design choices made by venture capita
 
 ## Updates
 
+- **2026-10-15** — Meta built a huge open-weight AI model for Macs, but you'll need 1TB of RAM to run it ([source](https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/))
 - **2026-09-23** — OpenAI is enlisting an influencer army to make it look 'good for the world' ([source](https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9))

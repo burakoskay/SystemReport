@@ -1,15 +1,17 @@
 ---
 title: "Hackers Breach EU Age App, US Court System, and Windows Defender"
 date: 2026-04-18T12:44:30.216Z
+modified_date: 2026-10-15T19:38:45.973Z
 tags: ["cybersecurity","hacking","data breaches"]
 hero_image: "/hero/2026-04-18-hackers-breach-eu-age-app-us-court-system-and-windows-defender-6f1485.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "cybersecurity"
 description: "A spate of hacks exposes systemic flaws in software and governance."
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 ## EU Age-Verification App Compromised
 Researchers demonstrated a proof-of-concept attack on the European Union's age-verification app in under two minutes. The breach was publicly disclosed.
@@ -25,3 +27,7 @@ Major data breaches occurred at a gym chain and a hotel giant. A distributed den
 
 ## What the Pattern Reveals
 The incidents share a common thread: a reliance on untested or poorly configured security controls. Policymakers, government agencies, software vendors, and service providers must take action to harden security.
+
+## Updates
+
+- **2026-10-15** — Volvo will use Nvidia’s tech for hands-free, point-to-point driving ([source](https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban))

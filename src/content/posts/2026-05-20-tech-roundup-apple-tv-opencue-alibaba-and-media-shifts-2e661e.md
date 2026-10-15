@@ -1,15 +1,17 @@
 ---
 title: "Tech Roundup: Apple TV, OpenCue, Alibaba, and Media Shifts"
 date: 2026-05-20T04:09:25.126Z
+modified_date: 2026-10-15T19:40:09.525Z
 tags: ["Apple TV","OpenCue","Alibaba","Media and Entertainment"]
 hero_image: "/hero/2026-05-20-tech-roundup-apple-tv-opencue-alibaba-and-media-shifts-2e661e.jpg"
 hero_image_credit_name: "Torsten Dettlaff"
 hero_image_credit_url: "https://www.pexels.com/@tdcat"
 visual_keyword: "Apple TV"
 description: "This week's tech news roundup covers Apple TV's new series, OpenCue's open-source render manager, Alibaba's restructuring, and shifts in the media and entertainment industry."
-sources_count: 8
+sources_count: 9
 author: "elena-marchetti"
 ---
+
 
 
 ## Apple TV's New Series and F1 Ambitions
@@ -57,3 +59,7 @@ As the media and entertainment industry continues to evolve, key players will ne
 The companies that adapt and innovate will be the ones that thrive. With the increasing demand for high-quality content and the need for studios to adapt to fast-paced production schedules, the adoption of cloud-based rendering solutions and open-source technologies will continue to play a significant role in shaping the industry.
 
 As the industry continues to shift, it will be interesting to see how companies like Apple, Alibaba, and Google Cloud continue to innovate and adapt to changing consumer behaviors and technological advancements.
+
+## Updates
+
+- **2026-10-15** — Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans ([source](https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/))

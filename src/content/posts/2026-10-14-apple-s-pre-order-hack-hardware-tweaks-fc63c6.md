@@ -1,18 +1,20 @@
 ---
 title: "Apple’s pre‑order hack, hardware tweaks"
 date: 2026-10-14T14:52:34.328Z
+modified_date: 2026-10-15T19:40:24.581Z
 tags: ["apple","hardware","legal","market","software"]
 hero_image: "/hero/2026-10-14-apple-s-pre-order-hack-hardware-tweaks-fc63c6.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple engineer working on a sleek smart speaker and earbuds in a modern office"
 description: "Apple rolls out a Get Ready tool, unveils HomePod mini 2, battles a $5.7 B verdict and sees China shipments shift – here’s what it means."
-sources_count: 13
-author: "ryan-tanaka"
+sources_count: 14
 audio_path: "/audio/2026-10-14-apple-s-pre-order-hack-hardware-tweaks-fc63c6.mp3"
 audio_bytes: 612355
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple's new Get Ready tool lets customers lock in iPhone Duo orders before the official rush on Oct 16. By letting shoppers pre‑order a day early, Apple hopes to smooth the inevitable queue that every flagship launch generates.
 
@@ -49,3 +51,7 @@ The overhauled Health app expected in iOS 27.2 is absent from beta 4, meanin
 Meanwhile, the outcome of the Taction verdict appeal and the OpenAI discovery will shape Apple’s patent strategy and AI positioning. Finally, the Get Ready tool’s impact on pre‑order logistics will be evident in the first‑day sales numbers on Oct 16. Those metrics will tell whether early access truly eases the rush or simply shifts the bottleneck.
 
 **What to watch:** the Oct 16 iPhone Duo pre‑order statistics, the next iOS 27.2 beta for the Health app, the federal judge’s ruling on the $5.7 B verdict, and Apple’s share movement in China’s Q4 shipments.
+
+## Updates
+
+- **2026-10-15** — Neural networks are clean ([source](https://already-clean.goodfire.com/))

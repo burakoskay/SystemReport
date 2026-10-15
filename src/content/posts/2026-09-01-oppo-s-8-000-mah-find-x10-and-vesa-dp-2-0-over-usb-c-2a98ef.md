@@ -1,15 +1,17 @@
 ---
 title: "Oppo's 8,000 mAh Find X10 and VESA DP 2.0 Over USB‑C"
 date: 2026-09-01T19:14:25.840Z
+modified_date: 2026-10-15T19:39:31.549Z
 tags: ["opp","displayport","usb-c","vector-graphics","facebook"]
 hero_image: "/hero/2026-09-01-oppo-s-8-000-mah-find-x10-and-vesa-dp-2-0-over-usb-c-2a98ef.jpg"
 hero_image_credit_name: "ready made"
 hero_image_credit_url: "https://www.pexels.com/@readymade"
 visual_keyword: "smartphone with large battery and USB‑C connector displaying vector graphics"
 description: "Oppo's upcoming Find X10 packs an 8,000 mAh cell, VESA finalizes DP 2.0 Alt Mode for USB‑C, ThorVG 1.0 hits production, and Facebook hints at a new mobile feature."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 ## Oppo pushes battery capacity to 8,000 mAh with the Find X10
 
@@ -63,6 +65,9 @@ The Find X10’s battery claim will be verified when Oppo releases official spec
 
 ---
 
+## Updates
+
+- **2026-10-15** — Trump ballroom's biggest donors were overwelmingly tech and telecom companies ([source](https://www.engadget.com/2287913/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZz5Yc4ceiQCBNCMpl_-DJTZwb6hmQ-aDqETrBfh36GJ_vaAwG6ZdWXjlIrHzL6emWgnCu6r_aeecF7wxdXnOTMngPkt0xjZIRBNVFr7nNjVIS)
 [^2]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4nGaWp_d_6Dz9VM7iIAb-88Cyvqfi2r7GLhyexhMQISlONWZPkr4eybGnkHz7kSQtAGi6sx2PM3962T3fNHorfeRMfZ3IS-VugKQE5ZfLarOAkAdAdUb3QIjqIwYh8K_COAGbl4UxiRtVRQkykpY4a58YtbsihTjzNN1Kjjg=)

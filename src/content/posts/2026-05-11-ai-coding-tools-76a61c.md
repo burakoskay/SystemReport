@@ -1,16 +1,17 @@
 ---
 title: "AI Coding Tools"
 date: 2026-05-11T07:52:05.497Z
-modified_date: 2026-09-08T14:04:23.630Z
+modified_date: 2026-10-15T19:40:17.055Z
 tags: ["AI","Coding","Software Development"]
 hero_image: "/hero/2026-05-11-ai-coding-tools-76a61c.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "AI Coding"
 description: "New AI coding tools aim to improve development efficiency, but challenges remain"
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Finally, it will be interesting to see how the industry responds to the challeng
 
 ## Updates
 
+- **2026-10-15** — Muse Spark Open ([source](https://research.meta.ai/blog/muse-spark-open))
 - **2026-09-08** — Adobe is trying to make its AI generators idiot-proof in Premiere ([source](https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere))
 - **2026-06-01** — Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’ ([source](https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date))
 - **2026-05-16** — Sportsman's Warehouse Promo Code: Save in May 2026 ([source](https://www.wired.com/story/sportsmans-warehouse-promo-code/))

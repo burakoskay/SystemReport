@@ -1,15 +1,17 @@
 ---
 title: "OnePlus 16’s 9,000 mAh Battery, Microsoft Dual‑Screen SDK"
 date: 2026-10-14T20:14:39.921Z
+modified_date: 2026-10-15T19:39:08.690Z
 tags: ["oneplus","microsoft","dual-screen","nanogenerator"]
 hero_image: "/hero/2026-10-14-oneplus-16-s-9-000-mah-battery-microsoft-dual-screen-sdk-0941a1.jpg"
 hero_image_credit_name: "Zayed Hossain"
 hero_image_credit_url: "https://www.pexels.com/@zayed-hossain-52728970"
 visual_keyword: "dual-screen developer workspace with code and snowflake motif"
 description: "Three tech moves: OnePlus unveils a 9,000 mAh phone, Microsoft releases a dual‑screen SDK, and UCLA engineers demo a snow‑driven generator."
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 ## OnePlus 16 arrives with a 9,000 mAh battery
 
@@ -36,3 +38,7 @@ The three announcements converge on a single theme: extracting more utility from
 If OnePlus ships the 16 with fast‑charging support, the market will see whether a 9 Ah cell can be recharged quickly enough to stay competitive. Developers will watch the dual‑screen SDK’s evolution; the next Insider build could add native support for the TwoPaneView control in production releases. Finally, the snow TENG will need field trials to prove durability under real snowfall, but its low‑cost silicone construction suggests a path to commercial prototypes.
 
 **What to watch** – Track the OnePlus 16’s official spec sheet and pricing when it appears in regional markets. Monitor the Windows 10X Insider channel for the first stable release of the dual‑screen SDK and Edge DevTools support. Keep an eye on follow‑up papers from Kaner’s group for performance metrics of the snow TENG under varied snowfall rates.
+
+## Updates
+
+- **2026-10-15** — E Ink upgraded the screen found in most color e-readers ([source](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness))
