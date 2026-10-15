@@ -1,16 +1,17 @@
 ---
 title: "Banksy's London Flag Statue Raises Questions"
 date: 2026-05-03T22:54:28.255Z
-modified_date: 2026-08-26T22:39:21.793Z
+modified_date: 2026-10-15T02:45:18.730Z
 tags: ["Banksy","Street Art","London","Art","Culture","Politics"]
 hero_image: "/hero/2026-05-03-banksy-s-london-flag-statue-raises-questions-8bb4ec.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Banksy's London Flag Statue"
 description: "A new Banksy installation in central London depicts a suited man blinded by a flag, sparking debate and curiosity."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -60,5 +61,6 @@ https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a
 
 ## Updates
 
+- **2026-10-15** — Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026 ([source](https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/))
 - **2026-08-26** — The Meta Settlement Will Put Limits on Instagram for Teens. They’re Still Vulnerable ([source](https://www.wired.com/story/the-meta-settlement-will-put-limits-on-instagram-for-teens-theyre-still-vulnerable/))
 - **2026-08-13** — Flock CEO: ‘We got this one wrong’ ([source](https://www.theverge.com/policy/979339/flock-ceo-audits-data-retention))
