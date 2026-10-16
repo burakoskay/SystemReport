@@ -1,16 +1,17 @@
 ---
 title: "Gemini's creep problem sparks concerns of AI over-saturation"
 date: 2026-05-19T11:34:30.100Z
-modified_date: 2026-09-22T13:01:35.887Z
+modified_date: 2026-10-16T22:25:07.420Z
 tags: ["AI","Google","Gemini"]
 hero_image: "/hero/2026-05-19-gemini-s-creep-problem-sparks-concerns-of-ai-over-saturation-0a4fd5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Gemini AI"
 description: "Google's Gemini AI is increasingly appearing in Google apps, raising concerns about AI fatigue."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The debate around AI over-saturation is likely to continue in the coming months,
 
 ## Updates
 
+- **2026-10-16** — Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars ([source](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash))
 - **2026-09-22** — Waymo is offering transit discounts again, this time with Visa ([source](https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa))
 - **2026-09-17** — Honor confirms list of devices getting its Liquid Glass-filled Android 17 update [Video] ([source](https://9to5google.com/2026/09/17/honor-android-17-magicos-11-update-device-list/))
 - **2026-08-20** — Google releases Pixel 11 series factory images ([source](https://9to5google.com/2026/08/20/pixel-11-factory-images/))

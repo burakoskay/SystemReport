@@ -1,15 +1,17 @@
 ---
 title: "Debian Approves Conditional AI Model Distribution"
 date: 2026-08-30T03:06:05.259Z
+modified_date: 2026-10-16T22:26:00.849Z
 tags: ["debian","ai","free‑software"]
 hero_image: "/hero/2026-08-30-debian-approves-conditional-ai-model-distribution-e1d1a2.jpg"
 hero_image_credit_name: "Reza Tavakoli"
 hero_image_credit_url: "https://www.pexels.com/@rezatavakoli"
 visual_keyword: "debconf hall with developers debating AI policy"
 description: "Debian members vote to allow AI models that include training data, sparking debate over free‑software compliance and future policy."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 Debian members approved a General Resolution that permits the distribution of generative‑AI models only when the training data is provided alongside the model. The vote marks the first concrete step the distro has taken on the AI question.
 
@@ -56,3 +58,7 @@ Stakeholders should monitor the sponsorship counts for both Zhou's and Glaser's 
 Developers and downstream users will also need to watch for practical implementations: whether Debian will host trimmed training datasets, how licensing metadata will be attached to model packages, and whether the policy will trigger a wave of model withdrawals or new submissions that comply with the DFSG.
 
 The decision will shape the balance between openness and legal safety in one of the world's largest free‑software ecosystems. Its ripple effects could reach any project that depends on Debian's package repositories.
+
+## Updates
+
+- **2026-10-16** — Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement ([source](https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement/))

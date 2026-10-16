@@ -1,16 +1,17 @@
 ---
 title: "Google's New Hardware and Software Plans"
 date: 2026-05-14T06:53:01.498Z
-modified_date: 2026-08-15T00:53:25.459Z
+modified_date: 2026-10-16T22:25:30.344Z
 tags: ["Google","Android","Hardware"]
 hero_image: "/hero/2026-05-14-google-s-new-hardware-and-software-plans-14e32b.jpg"
 hero_image_credit_name: "Click Jeth"
 hero_image_credit_url: "https://www.pexels.com/@click-jeth-703137695"
 visual_keyword: "Google Home Display"
 description: "Google is working on a new 'Google Home Display' device, rolling out AI-powered 'Contextual suggestions' on Android, and more."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The downstream implications of these updates are also significant for other comp
 
 ## Updates
 
+- **2026-10-16** — Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome ([source](https://9to5google.com/2026/10/16/google-universal-cart-shopping-icon/))
 - **2026-08-15** — Android 17 QPR2 adds App lock to Pixel ([source](https://9to5google.com/2026/08/14/android-17-qpr2-app-lock/))
 - **2026-05-19** — Hands-On With All of Google’s New Upcoming Android XR Smart Glasses ([source](https://www.wired.com/story/hands-on-with-all-of-google-new-upcoming-android-xr-smart-glasses/))
 - **2026-05-17** — Spotify confirms disco ball app icon is temporary and regular logo will return ([source](https://9to5mac.com/2026/05/17/spotify-confirms-disco-ball-app-icon-is-temporary-and-regular-logo-will-return/))

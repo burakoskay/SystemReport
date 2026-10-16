@@ -1,19 +1,20 @@
 ---
 title: "TurboTax Discounts"
 date: 2026-05-03T06:31:19.591Z
-modified_date: 2026-10-02T17:16:00.208Z
+modified_date: 2026-10-16T22:25:15.044Z
 tags: ["TurboTax","Discounts","Couponing","Tax Preparation","Software"]
 hero_image: "/hero/2026-05-03-turbotax-discounts-481b1f.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "TurboTax"
 description: "Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes"
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-03-turbotax-discounts-481b1f.mp3"
 audio_bytes: 616325
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ In conclusion, the TurboTax discounts and other coupon options available to cust
 
 ## Updates
 
+- **2026-10-16** — Why Apple is finally making its own smart home devices ([source](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home))
 - **2026-10-02** — AI hallucinations are making entitled customers even worse ([source](https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents))
 - **2026-08-24** — Apple official refurb store: This week’s top picks at up to $500 off ([source](https://9to5mac.com/2026/08/24/apple-official-refurb-store-best-offers/))
 - **2026-08-16** — It’s time for iOS to have its own Material You ([source](https://9to5mac.com/2026/08/16/its-time-for-ios-to-have-its-own-material-you/))

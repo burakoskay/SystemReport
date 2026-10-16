@@ -1,19 +1,20 @@
 ---
 title: "Telephoto Flagships Clash, Linux Phones Refine Hardware"
 date: 2026-05-22T20:03:14.260Z
-modified_date: 2026-10-04T13:37:50.655Z
+modified_date: 2026-10-16T22:24:59.768Z
 tags: ["smartphones","linux","hardware"]
 hero_image: "/hero/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "side-by-side comparison of high-end telephoto smartphone and open-source Linux phone hardware schematics"
 description: "Engadget pits Oppo and Vivo's telephoto flagships while Linux phones iterate on openness, revealing shifting priorities in the smartphone market."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.mp3"
 audio_bytes: 599398
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Oppo Find X9 Ultra vs. Vivo X300 Ultra: Telephoto Showdown
@@ -56,4 +57,5 @@ Track the next firmware release for the PinePhone’s Allwinner A64; a fully mai
 
 ## Updates
 
+- **2026-10-16** — We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album ([source](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli))
 - **2026-10-04** — All hail electrification. But let’s talk about the hard part. ([source](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/))

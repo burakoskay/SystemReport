@@ -1,16 +1,17 @@
 ---
 title: "GitHub Security Breach"
 date: 2026-05-20T07:55:03.998Z
-modified_date: 2026-10-12T19:36:28.379Z
+modified_date: 2026-10-16T22:24:44.345Z
 tags: ["GitHub","Security Breach","Tech Industry"]
 hero_image: "/hero/2026-05-20-github-security-breach-4f7200.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "GitHub"
 description: "GitHub investigates unauthorized access to internal repositories"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The security incident at GitHub serves as a reminder of the importance of robust
 
 ## Updates
 
+- **2026-10-16** — Replit is no longer working with Anthropic, CEO says ([source](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/))
 - **2026-10-12** — Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker ([source](https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/))
 - **2026-10-07** — Apple releases free chapter from Ted Lasso ‘The Richmond Way’ book ([source](https://9to5mac.com/2026/10/07/apple-releases-free-chapter-from-ted-lasso-the-richmond-way-book/))
 - **2026-09-18** — Clicks Communicator lands in December with 12GB RAM, two months of free data ([source](https://9to5google.com/2026/09/18/clicks-communicator-lands-in-december-with-12gb-ram-two-months-of-free-data/))

@@ -1,18 +1,20 @@
 ---
 title: "AI, batteries, and Doom: tech twists in 2026"
 date: 2026-10-04T18:08:57.047Z
+modified_date: 2026-10-16T22:25:22.704Z
 tags: ["ai","robotaxis","batteries","sql","cameras"]
 hero_image: "/hero/2026-10-04-ai-batteries-and-doom-tech-twists-in-2026-fab69c.jpg"
 hero_image_credit_name: "Jonas  F"
 hero_image_credit_url: "https://www.pexels.com/@jonas-f-25733583"
 visual_keyword: "city skyline with autonomous vehicles and floating data symbols"
 description: "A look at AI's role in robotaxis, a NYC battery startup, a SQL Doom demo, and Sony camera naming quirks."
-sources_count: 12
-author: "maya-chen"
+sources_count: 13
 audio_path: "/audio/2026-10-04-ai-batteries-and-doom-tech-twists-in-2026-fab69c.mp3"
 audio_bytes: 584560
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 TechCrunch Mobility relaunched its robotaxi coverage this week, flagging AI as the biggest variable in autonomous fleets. The move signals that the industry sees AI as the decisive factor for scaling driverless services.
 
@@ -51,3 +53,7 @@ The clarification helps buyers avoid costly missteps when upgrading. It also und
 ## What to watch
 
 The robotaxi narrative will sharpen as AI benchmarks emerge and cities request transparent performance data. Keep an eye on whether Every Electric’s battery stipend yields measurable grid relief during the next heat wave. Watch for follow‑up analyses of the SQL Doom demo that test its limits on larger scenes. Finally, monitor Sony’s next naming rollout for signs that the company is adjusting its scheme in response to consumer pushback. Each of these threads will reveal whether novelty translates into lasting value.
+
+## Updates
+
+- **2026-10-16** — Pixelated 121: Is Googlebook the first real post-smartphone PC? ([source](https://9to5google.com/2026/10/16/pixelated-121-is-googlebook-the-first-real-post-smartphone-pc/))

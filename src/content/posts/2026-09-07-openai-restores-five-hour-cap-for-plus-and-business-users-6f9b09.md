@@ -1,15 +1,17 @@
 ---
 title: "OpenAI Restores Five‑Hour Cap for Plus and Business Users"
 date: 2026-09-07T22:45:03.061Z
+modified_date: 2026-10-16T22:24:52.085Z
 tags: ["openai","ai","usage-limits","cloud","developer-tools"]
 hero_image: "/hero/2026-09-07-openai-restores-five-hour-cap-for-plus-and-business-users-6f9b09.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "person typing on laptop with AI chat window and clock icon"
 description: "OpenAI re‑imposed a five‑hour usage limit on ChatGPT Plus and Business Standard accounts, sparking debate over resource allocation and competition."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 OpenAI re‑imposed a five‑hour usage cap on ChatGPT Plus and Business Standard accounts on Monday. The move flips a brief experiment that let paying users run the model without a hard ceiling.
 
@@ -54,3 +56,7 @@ Additionally, watch how Anthropic and Meta respond. If they introduce more gener
 **Tags:** ["openai", "ai", "usage-limits", "cloud", "developer-tools"]
 
 **Visual keyword:** person typing on laptop with AI chat window and clock icon
+
+## Updates
+
+- **2026-10-16** — The Leap Second Is No More ([source](https://www.wired.com/story/leap-second-is-abolished-bipm-says/))
