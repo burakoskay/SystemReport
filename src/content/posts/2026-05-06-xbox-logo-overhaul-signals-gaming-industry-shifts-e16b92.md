@@ -1,16 +1,17 @@
 ---
 title: "Xbox Logo Overhaul Signals Gaming Industry Shifts"
 date: 2026-05-06T18:04:48.375Z
-modified_date: 2026-10-14T22:57:42.064Z
+modified_date: 2026-10-16T02:42:00.254Z
 tags: ["xbox","gaming","ai","casino","layoffs"]
 hero_image: "/hero/2026-05-06-xbox-logo-overhaul-signals-gaming-industry-shifts-e16b92.jpg"
 hero_image_credit_name: "Anthony 🙂"
 hero_image_credit_url: "https://www.pexels.com/@inspiredimages"
 visual_keyword: "Xbox console showing new glassy logo animation against dark background"
 description: "Microsoft's new Xbox boot animation and layoffs at Build a Rocket Boy reveal deeper tech and entertainment trends"
-sources_count: 15
+sources_count: 16
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ What to watch: Project Helix's public demo in Q3 2025, Build a Rocket Boy's Mind
 
 ## Updates
 
+- **2026-10-16** — Steam can now show game achievements in separate ‘sets’ ([source](https://www.theverge.com/games/1012541/valve-steam-achievement-sets))
 - **2026-10-14** — Iowa, Nebraska and six other states are suing OpenAI for endangering children ([source](https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/))
 - **2026-10-02** — Breaking up (with Elon Musk) is hard to do ([source](https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis))
 - **2026-09-24** — Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face ([source](https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face))

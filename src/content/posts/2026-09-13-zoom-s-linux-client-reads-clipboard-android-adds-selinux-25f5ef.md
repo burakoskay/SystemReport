@@ -1,18 +1,20 @@
 ---
 title: "Zoom’s Linux client reads clipboard, Android adds SELinux"
 date: 2026-09-13T14:06:28.235Z
+modified_date: 2026-10-16T02:42:22.931Z
 tags: ["linux","security","android","containers"]
 hero_image: "/hero/2026-09-13-zoom-s-linux-client-reads-clipboard-android-adds-selinux-25f5ef.jpg"
 hero_image_credit_name: "Tara Winstead"
 hero_image_credit_url: "https://www.pexels.com/@tara-winstead"
 visual_keyword: "Linux desktop with clipboard overlay and security icons"
 description: "Zoom’s Linux client was found to snoop on clipboard data, Android 4.2 ships SELinux and VPN lockdown, and Qualys joins Red Hat to harden containers."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-09-13-zoom-s-linux-client-reads-clipboard-android-adds-selinux-25f5ef.mp3"
 audio_bytes: 571604
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Zoom’s Linux client was observed pulling every string written to the X11 clipboard.  The behavior raises immediate privacy concerns for developers and power users who rely on the clipboard for secret tokens, passwords, and code snippets.[^1][^2][^3]
 
@@ -37,6 +39,10 @@ SELinux itself originated in the early 2000s as an NSA‑backed set of kernel ex
 Container security has long suffered from the “host‑sidecar” model, where agents run with elevated privileges to monitor workloads.  By embedding Qualys code directly into images, Red Hat and Qualys eliminate the need for such sidecars, reducing the attack surface and simplifying operations.  The approach also dovetails with the industry’s shift toward supply‑chain scanning, where vulnerabilities are caught before containers ever run in production.[^7]
 
 What to watch:  The Zoom client is expected to release a patched version that respects user consent for clipboard access; tracking the release notes will reveal whether the change is permanent.  Android 4.2’s SELinux enforcement will be confirmed once the final OTA lands, and developers should test their apps against the new policy.  Finally, the Qualys‑Red Hat integration will roll out across OpenShift clusters in the next quarter; monitoring adoption rates and any reported performance impacts will indicate how quickly enterprises embrace continuous container hardening.
+
+## Updates
+
+- **2026-10-16** — Withings wants new users to pay $100 a year to sync with Apple Health ([source](https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/))
 
 [^1]: [daily.dev](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgb8z3a7PHaLkdKKokRoKCvbpk8KZllsR5o2D2Si5m1a_Udjv7kdAmUjefDflznSbRFphMve2NPqAfZ_o0pCtVoF_6yUDmqmYPOdQTjmq1abyguUyKWbhqW6gzfUFC6obHBWsd0eIH-0EklAwO2IGtU008XCmlRnPonPZeo9eXNaelgASFY_dgA1zvOObi)
 [^2]: [hachyderm.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAqWaHCsNR2Qf9ATXgmcYNp1y8MAhuGnLRi6-S0Czb7fy679VUfBSCc_bfnnvHKVSi4pK3BJ1lN7U0-lEbXaqzks_mYdxZ0xIXyyWWOq_nZMe05dA7liOOZthGi0MT6rPmwL3kqaHtxYsWZPJMOU8=)

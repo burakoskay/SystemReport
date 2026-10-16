@@ -1,16 +1,17 @@
 ---
 title: "Smart Gadgets 2026: When Features Miss the Mark"
 date: 2026-04-18T12:44:16.767Z
-modified_date: 2026-10-08T00:00:55.236Z
+modified_date: 2026-10-16T02:41:45.447Z
 tags: ["smart home","gaming laptop","portable speakers","camera accessories"]
 hero_image: "/hero/2026-04-18-smart-gadgets-2026-when-features-miss-the-mark-5fa118.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home"
 description: "Examining 2026's smart home locks, a GPU-less laptop, a flexible camera rig, and portable speakers that deliver on promise."
-sources_count: 18
+sources_count: 19
 author: "david-okafor"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ These product categories reveal a pattern. Manufacturers chase feature different
 
 ## Updates
 
+- **2026-10-16** — And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems ([source](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/))
 - **2026-10-08** — Meta and Microsoft take steps to reduce employee usage of Claude AI ([source](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/))
 - **2026-09-25** — New Mexico jury rules Meta misled state residents about data privacy ([source](https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/))
 - **2026-09-25** — Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his ([source](https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/))
