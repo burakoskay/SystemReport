@@ -1,16 +1,17 @@
 ---
 title: "Poland Joins G20‑Level Club After Decade‑Long Growth Surge"
 date: 2026-05-08T14:13:43.661Z
-modified_date: 2026-07-28T08:23:54.565Z
+modified_date: 2026-10-16T14:28:49.930Z
 tags: ["poland","economy","g20","growth"]
 hero_image: "/hero/2026-05-08-poland-joins-g20-level-club-after-decade-long-growth-surge-5d20a5.jpg"
 hero_image_credit_name: "Felix Haumann"
 hero_image_credit_url: "https://www.pexels.com/@felix-haumann-1938529"
 visual_keyword: "modern Warsaw skyline with construction cranes and data graphs overlay"
 description: "Poland cracks the world’s 20 largest economies, a shift driven by EU funds, tech adoption, and a resilient labor market."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Poland’s economy has slipped into the top‑20 list of global powerhouses, a milestone that reshapes the European growth map.
@@ -47,4 +48,5 @@ The next data point that will confirm whether Poland can consolidate its top‑2
 
 ## Updates
 
+- **2026-10-16** — Blue Origin is going all in on the New Glenn rocket ([source](https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/))
 - **2026-07-28** — Lyft and Baidu enter London’s robotaxi battleground as testing begins ([source](https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/))

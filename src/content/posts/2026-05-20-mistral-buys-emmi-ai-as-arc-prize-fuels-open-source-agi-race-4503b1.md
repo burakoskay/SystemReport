@@ -1,15 +1,17 @@
 ---
 title: "Mistral buys Emmi AI as ARC Prize fuels open‑source AGI race"
 date: 2026-05-20T07:58:15.379Z
+modified_date: 2026-10-16T14:28:26.749Z
 tags: ["AI","open-source","AGI","Mistral AI"]
 hero_image: "/hero/2026-05-20-mistral-buys-emmi-ai-as-arc-prize-fuels-open-source-agi-race-4503b1.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Mistral AI acquires Emmi AI while the ARC Prize launches a $1M bounty to push open‑source AGI research amid growing closed‑source trends."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Mistral AI bought Emmi AI for an undisclosed sum, just as the ARC Prize announced a $1 million‑plus bounty for open‑source AGI breakthroughs. The timing highlights a clash between consolidation in commercial AI and a renewed push for community‑driven general intelligence research.
 
@@ -66,3 +68,7 @@ The ARC Prize has significant implications for the AI research community and the
 However, the prize also poses challenges for companies that have invested heavily in closed-source AGI research. If an open-source system achieves a significant breakthrough, it could disrupt the competitive landscape and force companies to re-evaluate their strategies.
 
 In the short term, the prize is likely to drive increased investment in open-source AGI research, potentially leading to new breakthroughs and innovations. In the long term, it could enable a more collaborative and transparent approach to AGI development, ultimately benefiting the broader AI research community.
+
+## Updates
+
+- **2026-10-16** — The incredible flying Tesla Roadster is just for show ([source](https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk))

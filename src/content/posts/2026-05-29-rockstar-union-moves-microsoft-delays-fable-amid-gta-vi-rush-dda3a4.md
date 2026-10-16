@@ -1,19 +1,20 @@
 ---
 title: "Rockstar Union Moves, Microsoft Delays Fable Amid GTA VI Rush"
 date: 2026-05-29T18:46:32.153Z
-modified_date: 2026-08-17T18:29:48.416Z
+modified_date: 2026-10-16T14:28:08.304Z
 tags: ["gaming","labor","release-schedule","rockstar","microsoft"]
 hero_image: "/hero/2026-05-29-rockstar-union-moves-microsoft-delays-fable-amid-gta-vi-rush-dda3a4.jpg"
 hero_image_credit_name: "Mr IVBN"
 hero_image_credit_url: "https://www.pexels.com/@ivbn"
 visual_keyword: "gaming studio office with union posters and console launch timeline"
 description: "Rockstar's GTA VI team announces a union while Microsoft pushes Fable to 2027, highlighting shifting launch strategies in a crowded console calendar."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-29-rockstar-union-moves-microsoft-delays-fable-amid-gta-vi-rush-dda3a4.mp3"
 audio_bytes: 643911
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ Track the outcome of Rockstar's union drive through any collective‑bargaining 
 
 ## Updates
 
+- **2026-10-16** — Microsoft Surface Laptop Ultra Review: The First Real AI PC ([source](https://www.wired.com/review/microsoft-surface-laptop-ultra/))
 - **2026-08-17** — Trump’s dumb border wall ([source](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit))
 - **2026-06-07** — Indie App Spotlight: ‘Grit Method’ builds character with 4 daily goals ([source](https://9to5mac.com/2026/06/06/grit-method-app-builds-character-with-4-daily-goals/))

@@ -1,19 +1,20 @@
 ---
 title: "Amazon's Data Center Pushback"
 date: 2026-06-03T21:23:27.951Z
-modified_date: 2026-09-30T20:28:35.746Z
+modified_date: 2026-10-16T14:28:54.586Z
 tags: ["Amazon","data centers","cloud computing"]
 hero_image: "/hero/2026-06-03-amazon-s-data-center-pushback-dceddc.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center"
 description: "Amazon employees demand limits on data centers, while the company kills plans for a Stargate series reboot and updates Amazon Music with ads."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-03-amazon-s-data-center-pushback-dceddc.mp3"
 audio_bytes: 544854
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,4 +88,5 @@ The industry is also facing new challenges, including increasing competition, ch
 
 ## Updates
 
+- **2026-10-16** — MapQuest will now show you where Flock cameras are in your neighborhood ([source](https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/))
 - **2026-09-30** — Furry Airline Pilots Are Just Minding Their Own Business ([source](https://www.wired.com/story/furry-airline-pilots-are-just-minding-their-own-business/))

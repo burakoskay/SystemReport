@@ -1,19 +1,20 @@
 ---
 title: "Gaming Media Shifts"
 date: 2026-06-07T19:41:06.312Z
-modified_date: 2026-08-30T19:00:22.710Z
+modified_date: 2026-10-16T14:28:17.549Z
 tags: ["gaming","media","polygon"]
 hero_image: "/hero/2026-06-07-gaming-media-shifts-b52fa1.jpg"
 hero_image_credit_name: "lance he"
 hero_image_credit_url: "https://www.pexels.com/@lancehe"
 visual_keyword: "Xbox Series X"
 description: "Layoffs at Polygon, a 30-year-old gaming news site perseveres"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-07-gaming-media-shifts-b52fa1.mp3"
 audio_bytes: 619878
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Shift
@@ -64,4 +65,5 @@ The impact of the layoffs at Polygon on the gaming media industry will be signif
 
 ## Updates
 
+- **2026-10-16** — The New Fan’s Guide to the Unreal World of Nathan Fielder ([source](https://www.wired.com/story/the-new-fans-guide-to-the-unreal-world-of-nathan-fielder/))
 - **2026-08-30** — Is 4K just marketing? Here's where the name really came from ([source](https://www.engadget.com/2242779/how-4k-tv-got-its-name/))

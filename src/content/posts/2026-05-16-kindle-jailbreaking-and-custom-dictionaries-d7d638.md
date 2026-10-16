@@ -1,16 +1,17 @@
 ---
 title: "Kindle Jailbreaking and Custom Dictionaries"
 date: 2026-05-16T17:07:01.710Z
-modified_date: 2026-08-04T19:25:40.354Z
+modified_date: 2026-10-16T14:28:45.277Z
 tags: ["e-readers","Kindle","jailbreaking"]
 hero_image: "/hero/2026-05-16-kindle-jailbreaking-and-custom-dictionaries-d7d638.jpg"
 hero_image_credit_name: "Adrienne Andersen"
 hero_image_credit_url: "https://www.pexels.com/@adrienne-andersen-1174503"
 visual_keyword: "Kindle"
 description: "Amazon ends support for older Kindles, users turn to jailbreaking and custom dictionaries like Runik."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -97,5 +98,6 @@ In conclusion, the e-reader market is evolving, and users are driving the demand
 
 ## Updates
 
+- **2026-10-16** — Time is a-changin’: say goodbye to the leap second ([source](https://www.theverge.com/tech/1012689/leap-second-discontinue-timekeeping-change))
 - **2026-08-04** — ‘Not healthy’ LLM use is more common than you think ([source](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy))
 - **2026-05-31** — Making sense of the debate over AI psychosis ([source](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/))

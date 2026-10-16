@@ -1,16 +1,17 @@
 ---
 title: "Sony drops PC ports as PS5 sales fall, Xbox revenue drops"
 date: 2026-05-08T11:29:06.619Z
-modified_date: 2026-08-13T22:35:56.808Z
+modified_date: 2026-10-16T14:27:58.826Z
 tags: ["gaming","sony","xbox","pc"]
 hero_image: "/hero/2026-05-08-sony-drops-pc-ports-as-ps5-sales-fall-xbox-revenue-drops-6546fb.jpg"
 hero_image_credit_name: "Esteban Carriazo"
 hero_image_credit_url: "https://www.pexels.com/@esteban-carriazo-2153373740"
 visual_keyword: "empty console shelves with unopened PS5 boxes"
 description: "Sony backs away from PC releases amid PS5 sales dip and memory shortages, while Xbox hardware revenue falls 42% and PC software spending is set to overtake consoles by 2028."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Sony’s PS5 slump triggers a retreat from PC ports
@@ -43,4 +44,5 @@ The next quarter will reveal whether Sony’s PC‑port pullback translates into
 
 ## Updates
 
+- **2026-10-16** — Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy ([source](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/))
 - **2026-08-13** — Samsung reportedly abandons plans to give the Galaxy S27 a variable-aperture camera ([source](https://9to5google.com/2026/08/13/samsung-galaxy-s27-variable-aperture-camera-report/))
