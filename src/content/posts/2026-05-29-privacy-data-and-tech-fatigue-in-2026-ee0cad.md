@@ -1,19 +1,20 @@
 ---
 title: "Privacy, Data, and Tech Fatigue in 2026"
 date: 2026-05-29T16:02:42.170Z
-modified_date: 2026-10-15T19:40:32.122Z
+modified_date: 2026-10-16T19:12:29.456Z
 tags: ["privacy","automotive","data-ethics","tech-retirement"]
 hero_image: "/hero/2026-05-29-privacy-data-and-tech-fatigue-in-2026-ee0cad.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "abstract network nodes with privacy shield overlay"
 description: "Tech innovations and privacy concerns collide as users retreat from digital ecosystems."
-sources_count: 17
+sources_count: 18
 audio_path: "/audio/2026-05-29-privacy-data-and-tech-fatigue-in-2026-ee0cad.mp3"
 audio_bytes: 675676
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -43,5 +44,6 @@ The 2026-07 Hugging Face AI Summit will present a new open-source tool for gener
 
 ## Updates
 
+- **2026-10-16** — India becomes the latest country to report rogue AI agent activity ([source](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/))
 - **2026-10-15** — Wayland desktop for Linux with skeuomorphic design ([source](https://github.com/fyzugx/DEsk))
 - **2026-08-11** — Apple in talks to acquire streaming rights for golf’s Open Championship: report ([source](https://9to5mac.com/2026/08/11/apple-streaming-rights-golf-open/))

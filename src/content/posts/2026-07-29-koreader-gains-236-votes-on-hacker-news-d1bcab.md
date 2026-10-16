@@ -1,19 +1,20 @@
 ---
 title: "KOReader Gains 236 Votes on Hacker News"
 date: 2026-07-29T14:03:34.693Z
-modified_date: 2026-08-20T20:22:21.976Z
+modified_date: 2026-10-16T19:13:21.278Z
 tags: ["opensource","performance","linux","ai","security"]
 hero_image: "/hero/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "open-source project logos arranged on a code editor background"
 description: "KOReader, SQLite tuning, Wayland multi‑cursor, Kimi K3 on M1 Max, and Codex Security each drew major attention on Hacker News, sparking deep technical discussion."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.mp3"
 audio_bytes: 719979
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ Watch for a stable Wayland compositor release that ships multi‑cursor support 
 
 ## Updates
 
+- **2026-10-16** — iPhone Duo orders are delayed into 2027; here are the Android foldables you should try instead ([source](https://9to5google.com/2026/10/16/iphone-duo-pre-order-delay-android-foldable-alternatives/))
 - **2026-08-20** — Meta's app for creating generative AI minigames is now available in the US ([source](https://www.engadget.com/2241098/meta-pocket-app-for-creating-generative-ai-minigames-available-in-us/))
 - **2026-08-10** — This great retro-inspired keyboard now comes preassembled ([source](https://www.theverge.com/tech/976262/novelkeys-classic-tkl-underscore-edition-review))
 - **2026-07-30** — The loss of Situational Awareness ([source](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks))

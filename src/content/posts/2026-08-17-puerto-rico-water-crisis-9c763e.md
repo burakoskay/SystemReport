@@ -1,16 +1,17 @@
 ---
 title: "Puerto Rico Water Crisis"
 date: 2026-08-17T06:42:31.687Z
-modified_date: 2026-08-22T10:17:05.790Z
+modified_date: 2026-10-16T19:12:39.016Z
 tags: ["Water Crisis","Puerto Rico","Rainwater Harvesting"]
 hero_image: "/hero/2026-08-17-puerto-rico-water-crisis-9c763e.jpg"
 hero_image_credit_name: "Jackson Howes"
 hero_image_credit_url: "https://www.pexels.com/@jackson-howes-692559003"
 visual_keyword: "rainwater"
 description: "Puerto Rico faces water rationing"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to the Crisis
@@ -34,4 +35,5 @@ The future prospects for Puerto Rico's water management sector look promising, w
 
 ## Updates
 
+- **2026-10-16** — Razer Barracuda V2 Pro Review: A Gaming Headset for the Office ([source](https://www.wired.com/review/razer-barracuda-v2-pro/))
 - **2026-08-22** — NASA Cancels Its Rescue Mission for the Aging Swift Telescope ([source](https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/))

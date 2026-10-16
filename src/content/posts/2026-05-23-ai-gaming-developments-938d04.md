@@ -1,19 +1,20 @@
 ---
 title: "AI Gaming Developments"
 date: 2026-05-23T22:57:33.930Z
-modified_date: 2026-08-12T01:20:57.258Z
+modified_date: 2026-10-16T19:12:57.998Z
 tags: ["AI Gaming","Ayaneo","Apple"]
 hero_image: "/hero/2026-05-23-ai-gaming-developments-938d04.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI gaming"
 description: "Ayaneo's Konkr Pocket Block, Apple's AI subdomain"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-23-ai-gaming-developments-938d04.mp3"
 audio_bytes: 643493
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,4 +47,5 @@ In conclusion, the integration of AI in gaming devices like Ayaneo's Konkr Pocke
 
 ## Updates
 
+- **2026-10-16** — The new Apple TV 4K just got its first (very small) discount ([source](https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale))
 - **2026-08-12** — An FCC filing points to new Sonos headphones coming soon ([source](https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing))
