@@ -1,19 +1,20 @@
 ---
 title: "AI Security Risks"
 date: 2026-06-07T04:21:27.829Z
-modified_date: 2026-09-08T19:13:41.130Z
+modified_date: 2026-10-17T13:26:24.048Z
 tags: ["AI","Security","Energy Consumption","Job Displacement"]
 hero_image: "/hero/2026-06-07-ai-security-risks-721fcb.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "AI poses risks to secure messaging, energy consumption and job displacement"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-07-ai-security-risks-721fcb.mp3"
 audio_bytes: 570350
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to AI Risks
@@ -52,4 +53,5 @@ In conclusion, the development of AI poses a range of risks and benefits, includ
 
 ## Updates
 
+- **2026-10-17** — Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27 ([source](https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27/))
 - **2026-09-08** — A word with a woman who’s trying to pull off a crossbody phone strap ([source](https://www.theverge.com/tech/990849/crossbody-phone-strap-style))

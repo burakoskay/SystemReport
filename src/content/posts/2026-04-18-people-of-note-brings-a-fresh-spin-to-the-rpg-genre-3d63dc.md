@@ -1,16 +1,17 @@
 ---
 title: "People of Note Brings a Fresh Spin to the RPG Genre"
 date: 2026-04-18T12:46:19.998Z
-modified_date: 2026-09-14T20:07:49.143Z
+modified_date: 2026-10-17T13:25:36.898Z
 tags: ["RPG","Music","Vacation","Relaxing","Engaging"]
 hero_image: "/hero/2026-04-18-people-of-note-brings-a-fresh-spin-to-the-rpg-genre-3d63dc.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "gameplay"
 description: "Annapurna Interactive and Iridium Studios' RPG is a must-play for fans of the genre"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ In conclusion, People of Note is a game that brings a fresh spin to the RPG genr
 
 ## Updates
 
+- **2026-10-17** — Microplastics React With Water, a New Study Says. That’s a Problem for Biology ([source](https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/))
 - **2026-09-14** — With iOS 27, I’m actually using Siri again ([source](https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/))
 - **2026-09-04** — 5 Best Video Doorbell Cameras (2026): Subscription-Free, Video, and More ([source](https://www.wired.com/gallery/best-video-doorbells/))
 - **2026-08-25** — The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall (2026) ([source](https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/))

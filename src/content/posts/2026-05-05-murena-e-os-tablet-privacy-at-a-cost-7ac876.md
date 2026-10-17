@@ -1,15 +1,17 @@
 ---
 title: "Murena /e/OS Tablet: Privacy at a Cost"
 date: 2026-05-05T17:47:17.558Z
+modified_date: 2026-10-17T13:26:10.700Z
 tags: ["privacy-focused devices","murena eos","tablet market"]
 hero_image: "/hero/2026-05-05-murena-e-os-tablet-privacy-at-a-cost-7ac876.jpg"
 hero_image_credit_name: "AlphaTradeZone"
 hero_image_credit_url: "https://www.pexels.com/@alphatradezone"
 visual_keyword: "Murena /e/OS tablet on a desk with privacy settings displayed"
 description: "Murena's /e/OS tablet offers a privacy-focused alternative to iPadOS and Android, but its high price raises questions about accessibility."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 ## A Privacy-Focused Tablet Emerges
 
@@ -34,3 +36,7 @@ The pricing structure underscores a fundamental tension in privacy-focused hardw
 Murena’s success hinges on two factors: developer adoption and regulatory shifts. The /e/OS store currently hosts 150,000 apps—30% fewer than the Google Play Store’s baseline. Without major app developers porting features like Google Maps or Netflix, the tablet’s appeal remains limited to enthusiasts. Meanwhile, EU regulations like the Digital Markets Act could pressure Apple and Google to loosen their app store controls, indirectly creating space for alternatives like /e/OS.
 
 The company has announced plans to release a developer kit in early 2025, aiming to onboard third-party app creators. If adoption grows, Murena could pivot from a hardware play to a platform play, akin to Samsung’s Bixby or Microsoft’s Copilot. For now, the product serves as a proof of concept: privacy is achievable but costly, both in dollars and in user experience friction. The next move to watch is whether Murena partners with open-source app developers to fill key functionality gaps by Q2 2025.
+
+## Updates
+
+- **2026-10-17** — Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are ‘inaccurate’ ([source](https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/))

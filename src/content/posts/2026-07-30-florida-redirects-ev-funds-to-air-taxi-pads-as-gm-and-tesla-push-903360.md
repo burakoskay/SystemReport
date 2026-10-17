@@ -1,16 +1,17 @@
 ---
 title: "Florida redirects EV funds to air‑taxi pads as GM and Tesla push"
 date: 2026-07-30T19:24:42.833Z
-modified_date: 2026-08-10T22:31:50.551Z
+modified_date: 2026-10-17T13:26:17.358Z
 tags: ["electric-vehicles","autonomous-vehicles","infrastructure","gm","tesla"]
 hero_image: "/hero/2026-07-30-florida-redirects-ev-funds-to-air-taxi-pads-as-gm-and-tesla-push-903360.jpg"
 hero_image_credit_name: "04iraq"
 hero_image_credit_url: "https://www.pexels.com/@04iraq-1272398525"
 visual_keyword: "futuristic air taxi pad beside electric charging station"
 description: "Florida repurposes $200M EV‑charger money for air‑taxi pads while Tesla hits 10 million EVs and GM rolls out a new Ultium platform, reshaping the electric‑mobility landscape."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 Florida will divert $200 million of federal electric‑vehicle‑charging money to build air‑taxi pads. The move reshapes how public funds support mobility, shifting from ground‑level chargers to vertical take‑off points for emerging eVTOL services.
@@ -77,4 +78,5 @@ Florida’s air‑taxi pad program will be audited by the Department of Transpor
 
 ## Updates
 
+- **2026-10-17** — Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware ([source](https://llmspeed.dev/))
 - **2026-08-10** — Mark Zuckerberg doesn’t understand how to live ([source](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision))

@@ -1,15 +1,17 @@
 ---
 title: "New hardware quirks ring note‑taker AI feeder retro upgrades"
 date: 2026-09-20T23:51:39.483Z
+modified_date: 2026-10-17T13:25:50.418Z
 tags: ["hardware","ai","wearables","gaming","android"]
 hero_image: "/hero/2026-09-20-new-hardware-quirks-ring-note-taker-ai-feeder-retro-upgrades-7e8954.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "ring-shaped wearable note taker on a fingertip"
 description: "A ring‑sized note taker, AI‑driven cat feeder, free retro‑handheld upgrades, E Ink tablets, and Android UI tweaks illustrate niche hardware shifts."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 ## Ring‑sized note‑taking enters the market
 
@@ -54,3 +56,7 @@ Meanwhile, Android 17’s QPR1 stable release altered several Pixel status‑bar
 ## What to watch
 
 Track whether Vocci releases a firmware update that adds a hardware mute switch, as privacy regulators in the EU are probing wearable audio recorders. Monitor Petlibro’s subscription pricing after the first quarter, since cost adjustments could reshape adoption curves for multi‑cat households. Retroid’s exchange program will close on October 31, so the volume of upgraded Duo Lite Plus units will indicate market appetite for incremental handheld upgrades. Finally, keep an eye on Android’s next QPR2 patch, which is rumored to refine status‑bar iconography based on developer feedback.
+
+## Updates
+
+- **2026-10-17** — Apple’s HomeView is just the latest threat to online recipe writers ([source](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting))

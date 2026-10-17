@@ -1,15 +1,17 @@
 ---
 title: "Paternal diet and sperm RNAs"
 date: 2026-05-10T13:39:41.846Z
+modified_date: 2026-10-17T13:26:03.945Z
 tags: ["paternal diet","sperm RNAs","epigenetics","offspring health"]
 hero_image: "/hero/2026-05-10-paternal-diet-and-sperm-rnas-425537.jpg"
 hero_image_credit_name: "Nadezhda Moryak"
 hero_image_credit_url: "https://www.pexels.com/@nadezhda-moryak"
 visual_keyword: "sperm"
 description: "New study on paternal diet and sperm RNAs"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction
 A father's high-fat diet changes the RNA in his sperm, which can affect the metabolism of his offspring. Research has shown that environmental factors can have a significant impact on the development of offspring, and the study of paternal diet and sperm RNAs is a growing area of interest.
@@ -29,3 +31,7 @@ The concept of epigenetic inheritance is not new, but recent studies have shed n
 The study's findings also have significant implications for the food and beverage industry, as well as the healthcare industry. As consumers become more aware of the importance of paternal diet in shaping the health of offspring, there may be increased demand for products and services that support healthy paternal lifestyle choices. This could lead to new business opportunities and revenue streams for companies that are able to respond to these changing consumer needs.
 ## Technical Details
 The study used two distinct paradigms of preconception acute high-fat diet to dissect epididymal versus testicular contributions to the sperm sncRNA pool and offspring health. The researchers found that epididymal spermatozoa, but not developing germ cells, were directly susceptible to environmental cues. This suggests that the epididymis plays a critical role in the development of sperm sncRNAs, and that paternal diet can have a significant impact on the health of offspring.
+
+## Updates
+
+- **2026-10-17** — How to check your Ethernet cable's speed ([source](https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/))
