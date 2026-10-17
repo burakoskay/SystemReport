@@ -1,16 +1,17 @@
 ---
 title: "Spain blocks Polymarket, Kalshi; GitHub Actions outage hits devs"
 date: 2026-05-26T15:57:41.034Z
-modified_date: 2026-10-15T14:38:02.235Z
+modified_date: 2026-10-17T19:57:52.262Z
 tags: ["spain","prediction-markets","github-actions","dynamic-dns"]
 hero_image: "/hero/2026-05-26-spain-blocks-polymarket-kalshi-github-actions-outage-hits-devs-a65aa5.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "a frustrated developer staring at a laptop error screen"
 description: "Spain's regulator forces Polymarket and Kalshi offline for lacking gambling licences while GitHub Actions suffers another outage, highlighting reliability and compliance pressures on online services."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Enterprises will need to audit their third‑party dependencies more rigorously.
 
 ## Updates
 
+- **2026-10-17** — You might be surprised by how much the Slate truck can carry ([source](https://www.engadget.com/2289615/slate-truck-how-much-can-carry/))
 - **2026-10-15** — Quick question: Who exactly is iPhone Handoff for? ([source](https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone))
 - **2026-10-15** — Prep your cart before iPhone Duo preorders open tomorrow ([source](https://www.theverge.com/news/1011902/apple-iphone-duo-get-ready-preorder))
 - **2026-09-15** — Volvo’s plug-in hybrid XC60 and XC90 can really go the distance ([source](https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range))
