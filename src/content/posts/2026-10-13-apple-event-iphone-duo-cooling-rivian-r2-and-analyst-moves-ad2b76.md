@@ -1,19 +1,20 @@
 ---
 title: "Apple Event, iPhone Duo Cooling, Rivian R2 and Analyst Moves"
 date: 2026-10-13T08:59:24.581Z
-modified_date: 2026-10-16T22:26:16.237Z
+modified_date: 2026-10-17T02:33:11.196Z
 tags: ["apple","rivian","smartphones","finance"]
 hero_image: "/hero/2026-10-13-apple-event-iphone-duo-cooling-rivian-r2-and-analyst-moves-ad2b76.jpg"
 hero_image_credit_name: "Doğan Alpaslan  Demir"
 hero_image_credit_url: "https://www.pexels.com/@izafi"
 visual_keyword: "foldable smartphone hinge cooling mechanism"
 description: "Apple’s October 13 “Welcome home” event, iPhone Duo’s hinge cooling, Rivian R2 review, and JP Morgan’s $360 price target are dissected for impact."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-10-13-apple-event-iphone-duo-cooling-rivian-r2-and-analyst-moves-ad2b76.mp3"
 audio_bytes: 617788
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple’s October 13 “Welcome home” event will push its smart‑home ambitions while analysts scramble to read the signals from its hardware pipeline.
@@ -56,4 +57,5 @@ Track Apple’s actual product announcements on October 13, especially any pri
 
 ## Updates
 
+- **2026-10-17** — All the news about the iPhone Duo ([source](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements))
 - **2026-10-16** — How the Claude Code team does code review ([source](https://claude.dev/blog/solving-code-review-at-anthropic/))

@@ -1,16 +1,17 @@
 ---
 title: "Platforms tighten and loosen mature content rules"
 date: 2026-05-20T11:08:38.467Z
-modified_date: 2026-07-27T17:40:56.867Z
+modified_date: 2026-10-17T02:33:19.285Z
 tags: ["content moderation","platform policy","mature content","tech industry"]
 hero_image: "/hero/2026-05-20-platforms-tighten-and-loosen-mature-content-rules-141ac6.jpg"
 hero_image_credit_name: "Peter Dyllong"
 hero_image_credit_url: "https://www.pexels.com/@peter-dyllong-2158803154"
 visual_keyword: "abstract collage of content warning icons"
 description: "Kickstarter, Tumblr, Blogger and Google each reshape how mature material is handled, exposing a clash between creator freedom and safety mandates."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 ## Kickstarter retreats on mature content
@@ -37,4 +38,5 @@ The next data point to track is whether Tumblr publishes a revised content polic
 
 ## Updates
 
+- **2026-10-17** — The Tesla Roadster should go into production in 2028, but don't get your hopes up ([source](https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/))
 - **2026-07-27** — iPhone 18 launch could be repeat of unusual 2020 release ([source](https://9to5mac.com/2026/07/27/iphone-18-launch-could-be-repeat-of-unusual-2020-release/))
