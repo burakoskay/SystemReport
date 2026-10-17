@@ -1,16 +1,17 @@
 ---
 title: "Hank Green Warns of AI Dopamine Risks"
 date: 2026-08-02T06:29:52.827Z
-modified_date: 2026-09-16T14:33:58.222Z
+modified_date: 2026-10-17T21:59:41.292Z
 tags: ["AI","Group Communication","Runtime Security"]
 hero_image: "/hero/2026-08-02-hank-green-warns-of-ai-dopamine-risks-b268f3.jpg"
 hero_image_credit_name: "Matheus Natan"
 hero_image_credit_url: "https://www.pexels.com/@matheusnatan"
 visual_keyword: "eBPF"
 description: "Hank Green warns of AI dopamine risks, TogetherLetters streamlines group updates, and Jibril offers low-overhead eBPF security"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Hank Green Apologizes for AI Usage
@@ -47,4 +48,5 @@ As the tech industry continues to evolve, it is essential to consider the potent
 
 ## Updates
 
+- **2026-10-17** — Development statistics for the 7.2 kernel ([source](https://lwn.net/Articles/1088776/))
 - **2026-09-16** — Negativland, Culture Jamming, and the Art of Making Something New ([source](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/))

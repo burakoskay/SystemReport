@@ -1,16 +1,17 @@
 ---
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
-modified_date: 2026-10-12T19:34:51.658Z
+modified_date: 2026-10-17T21:59:22.738Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
 hero_image: "/hero/2026-04-15-from-sneakers-to-servers-allbirds-daring-leap-into-ai-compute-545a5c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
-sources_count: 19
+sources_count: 20
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Allbirds' transformation is not an isolated incident but rather a striking sympt
 
 ## Updates
 
+- **2026-10-17** — TikTok bans Musk documentary account ([source](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary))
 - **2026-10-12** — Muse Wonder Puts Meta Back at the AI Frontier ([source](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/))
 - **2026-10-11** — What to expect from Apple’s ‘Welcome Home’ event ([source](https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home))
 - **2026-09-30** — Bank of America says Meta’s Muse highlights a new risk for Apple’s services revenue ([source](https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue/))

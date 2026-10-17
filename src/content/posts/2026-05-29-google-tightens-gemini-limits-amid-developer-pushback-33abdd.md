@@ -1,16 +1,17 @@
 ---
 title: "Google tightens Gemini limits amid developer pushback"
 date: 2026-05-29T04:17:54.599Z
-modified_date: 2026-08-04T12:01:02.490Z
+modified_date: 2026-10-17T21:59:28.893Z
 tags: ["google","gemini","ai","developer-tools"]
 hero_image: "/hero/2026-05-29-google-tightens-gemini-limits-amid-developer-pushback-33abdd.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "developer using AI coding assistant on laptop"
 description: "Google revises Gemini's compute‑based usage caps, clarifies free‑tier prompts and images, and expands free Code Assist limits, reshaping AI tool competition."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Google revises Gemini usage caps after I/O backlash
@@ -52,4 +53,5 @@ Finally, monitor any updates to the compute‑based throttling policy. If Google
 
 ## Updates
 
+- **2026-10-17** — Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast ([source](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance))
 - **2026-08-04** — EON wants to move the data superhighway from ocean fiber to space lasers ([source](https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/))

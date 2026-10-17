@@ -1,19 +1,20 @@
 ---
 title: "Madonna Leverages Grindr While WIRED Logs Miles on Shoes"
 date: 2026-06-05T23:18:22.402Z
-modified_date: 2026-08-15T18:20:39.918Z
+modified_date: 2026-10-17T21:59:35.062Z
 tags: ["culture","marketing","technology","media"]
 hero_image: "/hero/2026-06-05-madonna-leverages-grindr-while-wired-logs-miles-on-shoes-105b1f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Madonna on a smartphone with Grindr interface"
 description: "Madonna’s Grindr album push and WIRED’s marathon shoe testing illustrate how data and niche platforms reshape cultural marketing."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-05-madonna-leverages-grindr-while-wired-logs-miles-on-shoes-105b1f.mp3"
 audio_bytes: 588322
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Madonna’s surprise show in Times Square and her explicit Grindr ads turned a gay‑focused dating app into a launchpad for a new pop album. The move shows how a legacy star can hijack a niche digital space to cut through the noise.
@@ -58,4 +59,5 @@ Track the next wave of album drops that bypass Spotify’s playlists for niche a
 
 ## Updates
 
+- **2026-10-17** — The Tesla Roadster is far from the first car to use fans for downforce ([source](https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/))
 - **2026-08-15** — What the world's oldest telecommunications company looks like today ([source](https://www.engadget.com/2236190/worlds-oldest-telecommunications-company-what-looks-like-today/))

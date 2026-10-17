@@ -1,19 +1,20 @@
 ---
 title: "Meta's AI Ambitions Hit Financial Snags"
 date: 2026-04-30T06:33:49.140Z
-modified_date: 2026-10-16T14:28:40.717Z
+modified_date: 2026-10-17T21:59:10.349Z
 tags: ["Meta","AI","Reality Labs"]
 hero_image: "/hero/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Meta AI"
 description: "Meta's Reality Labs losses mount as AI investments increase spending."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-04-30-meta-s-ai-ambitions-hit-financial-snags-2797f3.mp3"
 audio_bytes: 598771
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ As the AI landscape continues to evolve, it will be interesting to see how Meta'
 
 ## Updates
 
+- **2026-10-17** — Meta removes language that raised scraping and AI training concerns ([source](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/))
 - **2026-10-16** — The Sony Xperia 10 VI won’t be getting a promised update to Android 17 ([source](https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security))
 - **2026-10-05** — Apple and a Hacker's Future ([source](https://stratechery.com/2026/apple-and-a-hackers-future/))
 - **2026-09-02** — Star Wars Zero Company is a great game that's busted and may never be fixed ([source](https://www.engadget.com/2248910/star-wars-zero-company-is-a-great-game-that-s-busted-and-may-never-be-fixed/))

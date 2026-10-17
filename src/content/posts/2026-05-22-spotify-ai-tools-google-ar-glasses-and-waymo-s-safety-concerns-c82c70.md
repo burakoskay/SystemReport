@@ -1,19 +1,20 @@
 ---
 title: "Spotify AI tools, Google AR glasses, and Waymo's safety concerns"
 date: 2026-05-22T16:30:24.483Z
-modified_date: 2026-09-26T17:42:09.415Z
+modified_date: 2026-10-17T21:59:47.443Z
 tags: ["AI","AR","Autonomous Vehicles"]
 hero_image: "/hero/2026-05-22-spotify-ai-tools-google-ar-glasses-and-waymo-s-safety-concerns-c82c70.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI-powered AR glasses"
 description: "Spotify's AI rollout and Google's AR demo"
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-22-spotify-ai-tools-google-ar-glasses-and-waymo-s-safety-concerns-c82c70.mp3"
 audio_bytes: 583516
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Spotify's AI-powered creation tools
@@ -52,4 +53,5 @@ The history of autonomous vehicles is also instructive. The first self-driving c
 
 ## Updates
 
+- **2026-10-17** — Gold is now the top U.S. export ([source](https://www.numismaticnews.net/gold-now-top-u-s-export))
 - **2026-09-26** — Can Cloudflare CEO Matthew Prince save the web from AI? ([source](https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising))
