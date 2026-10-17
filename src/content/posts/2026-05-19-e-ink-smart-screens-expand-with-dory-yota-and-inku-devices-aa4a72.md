@@ -1,16 +1,17 @@
 ---
 title: "E-ink smart screens expand with Dory, Yota, and Inku devices"
 date: 2026-05-19T04:05:59.636Z
-modified_date: 2026-09-22T23:57:50.934Z
+modified_date: 2026-10-17T23:48:41.395Z
 tags: ["e-ink","smart screens","Dory","Yota","Inku"]
 hero_image: "/hero/2026-05-19-e-ink-smart-screens-expand-with-dory-yota-and-inku-devices-aa4a72.jpg"
 hero_image_credit_name: "freestocks.org"
 hero_image_credit_url: "https://www.pexels.com/@freestocks"
 visual_keyword: "e-ink display"
 description: "New e-ink devices from Dory, Yota, and Inku showcase low-power displays moving beyond niche readers."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -88,6 +89,7 @@ In conclusion, the e-ink devices from Dory, Yota, and Inku showcase the versatil
 
 ## Updates
 
+- **2026-10-17** — Why your Wi-Fi speeds can drop in the evening, and what to do about it ([source](https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/))
 - **2026-09-22** — 'We hacked the FBI:' Hackers say they have data on all FBI employees ([source](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/))
 - **2026-08-15** — I finally found a magnetic phone grip I never want to remove ([source](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review))
 - **2026-08-03** — OnePlus 15 and more have fully sold out in the US following shutdown ([source](https://9to5google.com/2026/08/03/oneplus-15-sold-out-us-shutdown/))
