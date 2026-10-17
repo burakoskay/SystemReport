@@ -1,18 +1,20 @@
 ---
 title: "Cognition's SWE-2 and DeepSeek Flash Shift Low‑Cost LLM"
 date: 2026-09-10T17:44:03.892Z
+modified_date: 2026-10-17T16:48:13.707Z
 tags: ["llm","ai","cost-efficiency","model-release"]
 hero_image: "/hero/2026-09-10-cognition-s-swe-2-and-deepseek-flash-shift-low-cost-llm-8d0888.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "AI research lab with server racks and model diagrams"
 description: "Cognition launches SWE‑2, DeepSeek releases v4.1 Flash, and a community project trains a 3.8B model for under $1k, reshaping cost expectations."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-09-10-cognition-s-swe-2-and-deepseek-flash-shift-low-cost-llm-8d0888.mp3"
 audio_bytes: 618624
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Cognition rolls out SWE‑2, a direct rival to Fable 5.1 and GPT‑Astra
 Cognition announced the SWE‑2 model on its blog, positioning it against Fable 5.1 and GPT‑Astra. The post lists SWE‑2’s architecture as a step up from the company’s previous release, claiming comparable performance on standard benchmarks.
@@ -36,3 +38,7 @@ If the trend continues, we may see a diversification of the LLM market: boutique
 
 ## What to watch next
 Track Cognition’s next benchmark release for SWE‑2, especially any third‑party evaluations that compare it directly to Fable 5.1 and GPT‑Astra. Monitor DeepSeek’s roadmap for a possible “Turbo” variant that could push latency lower without sacrificing accuracy. Finally, watch for follow‑up posts from the $998 training experiment—if reproducibility holds, we may see a new standard for cost‑effective LLM development.
+
+## Updates
+
+- **2026-10-17** — Meta removes language that may have allowed it to scrape news sites ([source](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites))

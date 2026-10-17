@@ -1,16 +1,17 @@
 ---
 title: "NASA patents, EM Drive thrust, and SpaceX’s new landing record"
 date: 2026-05-08T14:11:11.921Z
-modified_date: 2026-05-19T11:25:24.837Z
+modified_date: 2026-10-17T16:48:08.705Z
 tags: ["nasa","space","patents","emdri ve","spacex"]
 hero_image: "/hero/2026-05-08-nasa-patents-em-drive-thrust-and-spacex-s-new-landing-record-61ed24.jpg"
 hero_image_credit_name: "Daniel Dzejak"
 hero_image_credit_url: "https://www.pexels.com/@daniel-dzejak-219872264"
 visual_keyword: "rocket launch pad with patent documents and experimental engine"
 description: "NASA opens 56 patents, scientists confirm EM Drive thrust, and SpaceX lands a booster record. How these moves reshape the commercial space race."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## NASA opens 56 patents to the public
@@ -45,4 +46,5 @@ What to watch next: NASA’s Technology Transfer office will publish a detailed 
 
 ## Updates
 
+- **2026-10-17** — Elon Musk settles lawsuits over $1 million voter giveaway ([source](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway))
 - **2026-05-19** — iPhone Ultra will take us closer to the long-rumored iPad Fold, suggests leaker ([source](https://9to5mac.com/2026/05/19/iphone-ultra-will-take-us-closer-to-the-long-rumored-ipad-fold-suggests-leaker/))

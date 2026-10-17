@@ -1,18 +1,20 @@
 ---
 title: "Snap CEO Evan Spiegel Shares Vision for Specs"
 date: 2026-08-03T22:57:23.920Z
+modified_date: 2026-10-17T16:48:23.702Z
 tags: ["Snap","Evan Spiegel","Specs","Wearable Technology"]
 hero_image: "/hero/2026-08-03-snap-ceo-evan-spiegel-shares-vision-for-specs-31a55c.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Specs"
 description: "Spiegel outlines long-term vision for Specs"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-03-snap-ceo-evan-spiegel-shares-vision-for-specs-31a55c.mp3"
 audio_bytes: 552796
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Snap's Long-Term Vision
 Snap CEO Evan Spiegel sidestepped questions about Specs preorder numbers during the company's Q2 earnings call. He focused on the long-term vision for the product, stating that mass-market consumer adoption won't occur until the end of the decade. Spiegel was asked about product-market fit and said he believes mass-market consumer adoption won't occur until the end of the decade. This timeline indicates a deliberate approach to the rollout of Specs, prioritizing sustainable growth over rapid expansion.
@@ -28,3 +30,7 @@ The decision to delay mass-market consumer adoption of Specs may have significan
 The wearable technology market is expected to continue growing, driven by advancements in technology and increasing consumer demand for convenient and connected devices. As the market evolves, companies like Snap will need to navigate changing consumer preferences and technological advancements to remain competitive. The company's decision to delay mass-market consumer adoption of Specs may be a strategic move to ensure that the product is well-positioned for long-term success in this dynamic market.
 ## Historical Context
 Snap's approach to the rollout of Specs is not without precedent. The company has previously taken a cautious approach to new product launches, prioritizing quality and user experience over rapid expansion. This approach has allowed Snap to build a loyal user base and establish itself as a leader in the social media market. The decision to delay mass-market consumer adoption of Specs may be a similar strategic move, designed to ensure that the product meets the company's high standards and is well-received by consumers.
+
+## Updates
+
+- **2026-10-17** — Jad Abumrad loves a butterfly knife and a good springy pillow ([source](https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview))
