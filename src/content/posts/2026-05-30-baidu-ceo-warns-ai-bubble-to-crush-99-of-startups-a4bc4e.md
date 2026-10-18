@@ -1,16 +1,17 @@
 ---
 title: "Baidu CEO Warns AI Bubble to Crush 99% of Startups"
 date: 2026-05-30T13:58:43.155Z
-modified_date: 2026-10-09T00:07:40.171Z
+modified_date: 2026-10-18T08:29:19.807Z
 tags: ["ai","startups","regulation"]
 hero_image: "/hero/2026-05-30-baidu-ceo-warns-ai-bubble-to-crush-99-of-startups-a4bc4e.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI bubble burst with 99% startups failing"
 description: "Baidu CEO Robin Li predicts an AI sector crash, leaving only 1% of companies. Payroll glitches spark riots in PNG, and Asia tightens content controls."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Three developments will define AI’s near-term trajectory. First, whether Baidu
 
 ## Updates
 
+- **2026-10-18** — NY announces game ownership bill requiring ownership rather than licensing ([source](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends))
 - **2026-10-09** — Apple will reportedly debut its first touchscreen MacBook in three weeks ([source](https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor))
 - **2026-09-01** — Sequoia-incubated Empirik launches with $21M to predict outages before they happen ([source](https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/))
 - **2026-07-28** — Here’s how to avoid being trapped in never-ending Apple Upgrade leases ([source](https://9to5mac.com/2026/07/28/heres-how-to-avoid-being-trapped-in-never-ending-apple-upgrade-leases/))
