@@ -1,16 +1,17 @@
 ---
 title: "Reddit's solid quarter meets AI uncertainty as cloud spend soars"
 date: 2026-07-31T06:44:55.158Z
-modified_date: 2026-08-19T20:21:22.681Z
+modified_date: 2026-10-18T13:44:41.508Z
 tags: ["reddit","ai","cloud","startups"]
 hero_image: "/hero/2026-07-31-reddit-s-solid-quarter-meets-ai-uncertainty-as-cloud-spend-soars-727fda.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "busy data center with AI servers and social media icons"
 description: "Reddit posts a solid quarter while AI pressures loom; Amazon ramps data‑center spend and Simile lands $200 M, highlighting AI’s shifting capital flow."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Reddit posts a solid quarter amid AI‑driven market jitters
@@ -43,4 +44,5 @@ Reddit’s next earnings release will reveal whether the AI‑related traffic ri
 
 ## Updates
 
+- **2026-10-18** — Cities want to put the boot on robotaxis ([source](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws))
 - **2026-08-19** — Gemini Live adds Deep Research as Notebooks come to AI Mode ([source](https://9to5google.com/2026/08/19/gemini-app-ai-mode-study-tools/))

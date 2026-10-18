@@ -1,18 +1,20 @@
 ---
 title: "X bundles AI tools with Premium in new subscription"
 date: 2026-10-13T09:01:54.273Z
+modified_date: 2026-10-18T13:44:26.194Z
 tags: ["x","ai","subscription","privacy","technews"]
 hero_image: "/hero/2026-10-13-x-bundles-ai-tools-with-premium-in-new-subscription-bec75e.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "modern office desk with AI icons and subscription interface"
 description: "X adds Grok, Grok Bot, Cursor to its Premium plan, raising stakes for AI access, privacy and platform control."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-13-x-bundles-ai-tools-with-premium-in-new-subscription-bec75e.mp3"
 audio_bytes: 561155
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 X rolled out a single‑price plan that tacks Grok, Grok Bot, Cursor and X Premium onto one monthly bill.
 
@@ -45,3 +47,7 @@ If X’s subscription model proves popular, it could pressure rivals to adopt si
 ## What to watch next
 
 The next quarter will reveal whether churn rates justify the bundle’s price. Analysts will track X’s subscriber growth alongside any regulatory filings related to AI data retention. Keep an eye on X’s response to the Norwegian fine precedent and on any public statements about handling AI‑generated content after a user’s death. Those signals will shape how the platform balances revenue, privacy and compliance in a market that increasingly treats AI as a core utility.
+
+## Updates
+
+- **2026-10-18** — Climate Change Has It In for the World’s Best Surfing ([source](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/))

@@ -1,16 +1,17 @@
 ---
 title: "Venom and Hot Peppers Yield New Antibiotics"
 date: 2026-05-08T09:29:28.168Z
-modified_date: 2026-10-06T08:27:16.918Z
+modified_date: 2026-10-18T13:44:10.905Z
 tags: ["Antibiotics","Scorpion Venom","Habanero Peppers","Drug-Resistant Bacteria"]
 hero_image: "/hero/2026-05-08-venom-and-hot-peppers-yield-new-antibiotics-14f290.jpg"
 hero_image_credit_name: "Deane Bayas"
 hero_image_credit_url: "https://www.pexels.com/@dbaler"
 visual_keyword: "Antibiotics from Scorpion Venom and Habanero Peppers"
 description: "New antibiotics from scorpion venom and habanero peppers target drug-resistant bacteria"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The discovery of new antibiotics from scorpion venom and habanero peppers also h
 
 ## Updates
 
+- **2026-10-18** — Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK ([source](https://www.wired.com/review/valerion-visionmaster-max-4k-projector/))
 - **2026-10-06** — Find the flattest route between any two points in SF ([source](https://flattensf.com/))
 - **2026-09-21** — The Hierarchy of Money ([source](https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/))
 - **2026-09-03** — Prediction Market Betting Is Getting People Banned and Arrested ([source](https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/))

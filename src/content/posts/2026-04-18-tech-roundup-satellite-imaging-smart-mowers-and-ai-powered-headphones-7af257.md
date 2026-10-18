@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Satellite Imaging, Smart Mowers"
 date: 2026-04-18T01:10:25.151Z
-modified_date: 2026-10-15T19:40:01.976Z
+modified_date: 2026-10-18T13:44:49.180Z
 tags: ["satellite imaging","smart mowers","AI-powered headphones"]
 hero_image: "/hero/2026-04-18-tech-roundup-satellite-imaging-smart-mowers-and-ai-powered-headphones-7af257.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "satellite"
 description: "New satellite imaging initiative, smart mower reviews, and AI-powered headphones make headlines in tech."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ These developments showcase innovative products and services in the tech world.
 
 ## Updates
 
+- **2026-10-18** — Matthew Prince on why Cloudflare offers a free version and always will (2016) ([source](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685))
 - **2026-10-15** — Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more ([source](https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3/))
 - **2026-10-08** — Last chance: Apple’s flagship AirPods now up to $120 off for Prime Day ([source](https://9to5mac.com/2026/10/07/apples-flagship-airpods-now-up-to-120-off-for-prime-day/))
 - **2026-09-29** — Early fall Prime Day deals now live: MacBook, AirTag 2, MagSafe gear, TVs, smart speakers, more ([source](https://9to5mac.com/2026/09/29/early-fall-prime-day-deals-now-live/))
