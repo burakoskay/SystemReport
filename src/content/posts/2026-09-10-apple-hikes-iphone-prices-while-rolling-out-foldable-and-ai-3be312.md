@@ -1,16 +1,17 @@
 ---
 title: "Apple hikes iPhone prices while rolling out foldable and AI"
 date: 2026-09-10T02:44:17.875Z
-modified_date: 2026-10-05T00:23:29.237Z
+modified_date: 2026-10-18T17:03:55.923Z
 tags: ["apple","iphone","wearables","ai","pricing"]
 hero_image: "/hero/2026-09-10-apple-hikes-iphone-prices-while-rolling-out-foldable-and-ai-3be312.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "sleek tabletop displaying iPhone Duo, Apple Watch Series 12, AirPods 5, and iPhone 18 Pro"
 description: "Apple raises older iPhone prices, adds iPhone Duo developer tools, launches Siri AI in English, and unveils Watch Series 12 health sensors."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 Apple raised the price of its older iPhone models by $100 on Tuesday, a move that undercuts the company’s recent narrative of cheaper entry‑level hardware.
@@ -49,6 +50,7 @@ What to watch next: Track the October rollout of Siri AI in additional languages
 
 ## Updates
 
+- **2026-10-18** — The reason why your drive shows less storage than you paid for ([source](https://www.engadget.com/2286322/why-new-drive-shows-less-storage/))
 - **2026-10-05** — The popular Apple features you won't be getting with the iPhone Duo ([source](https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/))
 
 [^1]: [washingtonpost.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzZCr2N7l2jE8axU6VsaoCdcW362ioJHigycUmkQTaYmSs-oSXQLFvZBemsHI-doNhuVZiKNsHyvPulyzepDalxZzuvrJZzvGVL1H-AL_AutviEurVJDO1QQY9j1Jt_kWHsXUdYeLOhWfHA8vMCXbRZLVNGBOKuleT4WCe8XXg4wcBsHUUXL9eYdwpo9rCFiJSufQjdbCTw3a6tLgbr196C4cQVQlDkcG)

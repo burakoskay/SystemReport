@@ -1,15 +1,17 @@
 ---
 title: "Texas Hyperloop Pitch, SpaceX Starship Test"
 date: 2026-09-20T23:57:20.795Z
+modified_date: 2026-10-18T17:03:37.196Z
 tags: ["hyperloop","starship","autonomous flight","transport","space"]
 hero_image: "/hero/2026-09-20-texas-hyperloop-pitch-spacex-starship-test-98b517.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "futuristic transportation network spanning Texas desert with tunnel and rockets overhead"
 description: "A Boring Company hyperloop proposal, SpaceX’s looming Starship test, and Joby Aviation’s autonomous coast‑to‑coast flight reveal how bold infrastructure bets clash with hard market realities."
-sources_count: 5
+sources_count: 6
 author: "elena-marchetti"
 ---
+
 
 ## Texas Hyperloop Pitch Revives a Stalled Vision
 
@@ -50,3 +52,7 @@ Together, these moves illustrate a broader pattern: visionary transport concepts
 ## What to Watch
 
 Regulators in Texas will soon decide whether to issue a right‑of‑way permit for the Austin‑San Antonio tunnel. SpaceX’s upcoming Starship test will be streamed live, offering a clear data point on engine performance and re‑entry reliability. The FAA’s next certification milestone for Joby’s autonomous eVTOL will indicate whether the company can move from demonstration to commercial service. Each decision will either cement a new transport paradigm or reinforce the gap between ambition and reality.
+
+## Updates
+
+- **2026-10-18** — Trump says Google kisses his ass ([source](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass))
