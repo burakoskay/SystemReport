@@ -1,15 +1,17 @@
 ---
 title: "Google pushes firmware, local Matter, and Gemini AI changes"
 date: 2026-10-15T19:59:46.748Z
+modified_date: 2026-10-19T21:56:10.680Z
 tags: ["google","smart home","ai"]
 hero_image: "/hero/2026-10-15-google-pushes-firmware-local-matter-and-gemini-ai-changes-3b3b9e.jpg"
 hero_image_credit_name: "Pascal 📷"
 hero_image_credit_url: "https://www.pexels.com/@userpascal"
 visual_keyword: "Google Home speakers on a kitchen countertop with Philips Hue lights glowing"
 description: "Google tests a major firmware update for legacy Home devices, adds local Matter control for Philips Hue, and trims Gemini AI Plus access to Pro models."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 Google is testing a large firmware update for its older Home speakers, expanding local Matter control in the Home app, and removing Pro model access from Gemini AI Plus subscriptions. The moves signal a shift in how Google sustains legacy hardware, tightens smart‑home integration, and reshapes its AI pricing tier.
 
@@ -44,3 +46,7 @@ AI subscription models are still in flux. Companies experiment with tiered acces
 ## What to watch
 
 Track the rollout speed of the firmware update across the four speaker lines. Watch for user reports on stability and new feature activation. Monitor adoption metrics for local Matter control, especially how quickly third‑party lights follow Philips Hue's lead. Finally, keep an eye on Gemini AI Plus subscriber churn and any official statement from Google about future tier adjustments.
+
+## Updates
+
+- **2026-10-19** — Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool ([source](https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/))

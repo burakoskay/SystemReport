@@ -1,15 +1,17 @@
 ---
 title: "Social feeds crumble, subscriptions mutate, and Costco memes rise"
 date: 2026-05-07T23:16:43.037Z
+modified_date: 2026-10-19T21:57:21.170Z
 tags: ["social media","subscriptions","hacker news","costco","tech culture"]
 hero_image: "/hero/2026-05-07-social-feeds-crumble-subscriptions-mutate-and-costco-memes-rise-b92748.jpg"
 hero_image_credit_name: "Tiger Lily"
 hero_image_credit_url: "https://www.pexels.com/@tiger-lily"
 visual_keyword: "fragmented social network icons floating over a minimalist warehouse aisle"
 description: "Ars Technica flags social media's split, while Hacker News debates Costco habits and self‑cancelling subscriptions, reshaping online engagement."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 Ars Technica declared social media dead in a piece titled *RIP social media. What comes next is messy*. The article asks how the emerging online spaces can avoid turning into "toxic pits of despair".
 
@@ -44,3 +46,7 @@ Developers are already experimenting with hybrid approaches: a core free tier th
 ## What to watch
 
 Watch for the first major SaaS product to ship a self‑cancelling billing engine in Q4 2024; its adoption rate will indicate whether the model can survive beyond hobbyist experiments. Track the emergence of new community platforms that explicitly reject algorithmic feeds—early adopters will likely surface on product‑hunt style listings. Finally, keep an eye on any corporate announcements that reference the "Costco" mindset in their UI or pricing strategy; the meme may become a shorthand for a broader shift toward digital minimalism.
+
+## Updates
+
+- **2026-10-19** — I tried a $99 plug that promises to track your car and send help when needed — without selling your data ([source](https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date))

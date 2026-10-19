@@ -1,18 +1,20 @@
 ---
 title: "Nvidia's monster CPU, Linux process overhaul, 100k FPS Pokemon"
 date: 2026-06-06T19:41:21.602Z
+modified_date: 2026-10-19T21:56:49.978Z
 tags: ["nvidia","linux","webassembly","gaming"]
 hero_image: "/hero/2026-06-06-nvidia-s-monster-cpu-linux-process-overhaul-100k-fps-pokemon-5bb3e6.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "silicon chip beside code running in a browser"
 description: "Hacker News highlights Nvidia's massive Windows CPU proposal, a Linux fork/exec overhaul, and a WebAssembly Pokemon Emerald that hits 100,000 FPS."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-06-06-nvidia-s-monster-cpu-linux-process-overhaul-100k-fps-pokemon-5bb3e6.mp3"
 audio_bytes: 600025
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Nvidia unveiled a CPU design that dwarfs typical Windows desktop chips, sparking debate over power and practicality.
 
@@ -53,3 +55,7 @@ These three stories illustrate a broader trend: engineers are pushing establishe
 The common thread is a willingness to experiment beyond the status quo. Companies and hobbyists alike are testing the boundaries of silicon design, kernel interfaces, and web runtimes. Successes could reshape development pipelines, while failures may reinforce the value of proven abstractions.
 
 What to watch next: Nvidia’s next public briefing on the CPU design, any kernel patches that address fork‑exec alternatives, and updates to the WebAssembly specification that improve timing precision. Each of these signals will indicate whether the community’s curiosity translates into lasting change.
+
+## Updates
+
+- **2026-10-19** — I’ve struggled to use Samsung displays for years, but the Galaxy S27 may finally fix that; here’s why ([source](https://9to5google.com/2026/10/19/galaxy-s27-display-dc-dimmed-rumor/))

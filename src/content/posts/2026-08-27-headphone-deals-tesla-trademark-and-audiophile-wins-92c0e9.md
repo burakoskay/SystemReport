@@ -1,15 +1,17 @@
 ---
 title: "Headphone Deals, Tesla Trademark, and Audiophile Wins"
 date: 2026-08-27T06:44:20.804Z
+modified_date: 2026-10-19T21:57:13.363Z
 tags: ["headphones","audio","tesla","audiophile","pricing"]
 hero_image: "/hero/2026-08-27-headphone-deals-tesla-trademark-and-audiophile-wins-92c0e9.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "over-ear headphones on a discount tag beside a Tesla logo"
 description: "Nothing headphones drop to $100, Tesla files a trademark for audio gear, and community‑driven Fostex and Grado models prove value still matters."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Nothing’s Deep Discount Stuns Budget Buyers
 
@@ -46,3 +48,7 @@ The headphone’s longevity also reflects Grado’s commitment to a timeless des
 ## What to Watch
 
 The next week will reveal whether the Nothing discount triggers a broader price war among over‑ear manufacturers. Keep an eye on Samsung’s upcoming audio announcements, as the company recently highlighted its Galaxy Buds 4 Pro’s hi‑fi credentials and could respond with its own budget‑friendly line. Tesla’s trademark filing will move to publication in the coming months; a subsequent press release or product teaser would confirm whether the automaker is ready to compete in the consumer audio space. Finally, watch the resale market for the TH‑X00 and the availability of the SR80i as retailers adjust inventory in response to these shifting price dynamics. The decisions made now will shape which headphones dominate the mid‑range segment in the second half of the year.
+
+## Updates
+
+- **2026-10-19** — The fossil fuel comeback is here ([source](https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report))

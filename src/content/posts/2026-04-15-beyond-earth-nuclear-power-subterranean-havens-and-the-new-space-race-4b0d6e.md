@@ -1,16 +1,17 @@
 ---
 title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
-modified_date: 2026-10-06T01:05:58.927Z
+modified_date: 2026-10-19T21:58:47.897Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"
 description: "From NASA's lunar nuclear reactors to the search for life in alien caves and the shifting dynamics of commercial launches, humanity is charting an ambitious new course in space."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ is becoming a paramount factor. This competitive landscape is driving innovation
 
 ## Updates
 
+- **2026-10-19** — Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out ([source](https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out/))
 - **2026-10-06** — Are extended warranties on TVs and laptops ever really worth it? ([source](https://www.engadget.com/2275958/extended-warranty-for-laptop-tv-worth-it/))
 - **2026-09-13** — The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026) ([source](https://www.wired.com/story/best-smart-bird-feeders/))
 - **2026-09-10** — Slack can now vibe-code interactive charts and reports inside chats ([source](https://www.theverge.com/tech/989853/slackforce-surfaces-launch))

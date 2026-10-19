@@ -1,19 +1,20 @@
 ---
 title: "US Bets on AI to Catch Insider Trading"
 date: 2026-05-16T20:57:38.773Z
-modified_date: 2026-10-19T09:31:31.794Z
+modified_date: 2026-10-19T21:57:05.543Z
 tags: ["AI","insider trading","regulatory efforts"]
 hero_image: "/hero/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The Commodity Futures Trading Commission is using AI to detect insider trading in prediction markets. The move aims to prevent market manipulation."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-16-us-bets-on-ai-to-catch-insider-trading-8305e0.mp3"
 audio_bytes: 578082
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ As the use of AI in regulatory efforts continues to evolve, it is likely that we
 
 ## Updates
 
+- **2026-10-19** — You should pick up this $850 Pixel 10 Pro XL over its $1,300 sequel ([source](https://9to5google.com/2026/10/19/you-should-pick-up-this-850-pixel-10-pro-xl-over-its-1300-sequel/))
 - **2026-10-19** — If you don't run your own LLM proxy, how do you know whats going on? ([source](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/))
 - **2026-10-09** — R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing ([source](https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/))
 - **2026-09-15** — Can you use an Apple Pencil with an iPhone? ([source](https://www.engadget.com/2255122/use-apple-pencil-with-iphone-duo/))

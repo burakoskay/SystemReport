@@ -1,16 +1,17 @@
 ---
 title: "Open‑source runtimes and managers reshape dev ops in 2025"
 date: 2026-08-19T10:34:54.825Z
-modified_date: 2026-09-29T14:34:35.354Z
+modified_date: 2026-10-19T21:58:55.759Z
 tags: ["runtime","package-manager","storage"]
 hero_image: "/hero/2026-08-19-open-source-runtimes-and-managers-reshape-dev-ops-in-2025-df787d.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer working at a terminal with Rust code and cloud storage icons"
 description: "RunMat, Solo, Clyde and Object Mount demonstrate how niche tools are bypassing legacy bottlenecks for engineers and power users."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 ## RunMat's rapid ascent
@@ -58,4 +59,5 @@ Tracking the adoption metrics on GitHub stars, Hacker News comment volume, and
 
 ## Updates
 
+- **2026-10-19** — First Release Candidate for macOS 27.2 Golden Gate now available ([source](https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available/))
 - **2026-09-29** — US sanctions force The Netherlands off Microsoft and toward alternative NixOS ([source](https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027))

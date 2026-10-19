@@ -1,19 +1,20 @@
 ---
 title: "Spotify Expands into Fitness Content"
 date: 2026-04-27T12:18:01.347Z
-modified_date: 2026-07-29T17:11:43.890Z
+modified_date: 2026-10-19T21:56:57.787Z
 tags: ["Spotify","Fitness Content","Streaming Services"]
 hero_image: "/hero/2026-04-27-spotify-expands-into-fitness-content-e1d8f9.jpg"
 hero_image_credit_name: "Niko Twisty"
 hero_image_credit_url: "https://www.pexels.com/@niko-twisty"
 visual_keyword: "Fitness"
 description: "Spotify launches workout videos and playlists"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-27-spotify-expands-into-fitness-content-e1d8f9.mp3"
 audio_bytes: 610265
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ As the market continues to evolve, Spotify's decision to enter the fitness space
 
 ## Updates
 
+- **2026-10-19** — Spotify’s ‘QR code verification’ cracks down on sharing and could ban you for a year ([source](https://9to5google.com/2026/10/19/spotify-qr-code-verification-family-sharing/))
 - **2026-07-29** — Google will let Mac users talk to Gemini simply by pressing the 'fn' key ([source](https://www.engadget.com/2224915/google-lets-mad-users-talk-to-gemini-by-pressing-fn/))
 - **2026-06-02** — The Star Fox remake is a test for the franchise's future ([source](https://www.engadget.com/2185271/the-star-fox-remake-is-a-test-for-the-franchises-future/))
 - **2026-05-29** — Streamers Like Clavicular Are Humiliating OnlyFans Girls For Clout ([source](https://www.wired.com/story/streamers-like-clavicular-are-humiliating-onlyfans-girls-for-clout/))
