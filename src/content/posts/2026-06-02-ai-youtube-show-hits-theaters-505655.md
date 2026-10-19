@@ -1,19 +1,20 @@
 ---
 title: "AI YouTube Show Hits Theaters"
 date: 2026-06-02T21:04:49.048Z
-modified_date: 2026-09-18T14:02:58.898Z
+modified_date: 2026-10-19T16:46:41.158Z
 tags: ["AI","YouTube","Theaters"]
 hero_image: "/hero/2026-06-02-ai-youtube-show-hits-theaters-505655.jpg"
 hero_image_credit_name: "Denys Gromov"
 hero_image_credit_url: "https://www.pexels.com/@jdgromov"
 visual_keyword: "The Amazing Digital Circus"
 description: "The Amazing Digital Circus finale expands to 4,000 theaters before YouTube release."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-02-ai-youtube-show-hits-theaters-505655.mp3"
 audio_bytes: 590412
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The Amazing Digital Circus's leap to theaters is a significant test of the power
 
 ## Updates
 
+- **2026-10-19** — JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes ([source](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws))
 - **2026-09-18** — It Still Feels Like Summer in Parts of the US. Blame El Niño ([source](https://www.wired.com/story/september-feels-like-summer-blame-el-nino/))
 - **2026-09-04** — Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal ([source](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out))
 - **2026-08-22** — Dismantling the Roadless Rule threatens to disrupt wildlife and water in US ([source](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/))

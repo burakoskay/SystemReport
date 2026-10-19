@@ -1,19 +1,20 @@
 ---
 title: "US banks face 36‑hour cyber‑incident rule amid tighter reporting"
 date: 2026-05-10T21:01:21.478Z
-modified_date: 2026-09-20T20:09:11.808Z
+modified_date: 2026-10-19T16:46:08.828Z
 tags: ["cybersecurity","regulation","incident reporting"]
 hero_image: "/hero/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "conference room with security analysts reviewing alert dashboards"
 description: "Regulators mandate US banks report significant cyber incidents within 36 hours, echoing tighter reporting moves at the ICC and Microsoft’s security overhaul."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-10-us-banks-face-36-hour-cyber-incident-rule-amid-tighter-reporting-46f1ad.mp3"
 audio_bytes: 569723
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Track the first quarter of 2022 for banks’ compliance reports and any enforcem
 
 ## Updates
 
+- **2026-10-19** — The Story of Billy Evans and ‘Theranos 2.0’ ([source](https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20/))
 - **2026-09-20** — How to use ChatGPT to make stickers for iMessage and WhatsApp ([source](https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/))
 - **2026-08-07** — The only instant cameras worth your money ([source](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak))
 - **2026-07-26** — Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech ([source](https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/))

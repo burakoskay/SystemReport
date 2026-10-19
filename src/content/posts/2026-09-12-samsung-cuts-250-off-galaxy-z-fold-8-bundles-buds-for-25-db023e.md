@@ -1,19 +1,20 @@
 ---
 title: "Samsung Cuts $250 Off Galaxy Z Fold 8, Bundles Buds for $25"
 date: 2026-09-12T16:48:33.938Z
-modified_date: 2026-10-17T19:57:45.969Z
+modified_date: 2026-10-19T16:46:57.210Z
 tags: ["foldable phones","samsung","tech deals"]
 hero_image: "/hero/2026-09-12-samsung-cuts-250-off-galaxy-z-fold-8-bundles-buds-for-25-db023e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Samsung Galaxy Z Fold 8 on a sleek black table with a price tag"
 description: "A $250 discount on the Galaxy Z Fold 8 and a $25 Galaxy Buds 4 Pro bundle shake up the foldable market, prompting buyers to weigh price against performance."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-09-12-samsung-cuts-250-off-galaxy-z-fold-8-bundles-buds-for-25-db023e.mp3"
 audio_bytes: 679019
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,5 +50,6 @@ The $250 discount runs through the end of September, after which Samsung may adj
 
 ## Updates
 
+- **2026-10-19** — It’s hard to imagine wireless headphones ever getting lighter than these ([source](https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these))
 - **2026-10-17** — Replit is no longer working with Anthropic, CEO says ([source](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/))
 - **2026-09-23** — Kate Tolo Says Her Quest to Be ‘the Female Bryan Johnson’ Is ‘for Women’ ([source](https://www.wired.com/story/kate-tolo-says-her-quest-to-be-the-female-bryan-johnson-is-for-women/))

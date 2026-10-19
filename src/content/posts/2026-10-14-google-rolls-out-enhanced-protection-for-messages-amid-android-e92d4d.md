@@ -1,15 +1,17 @@
 ---
 title: "Google Rolls Out Enhanced Protection for Messages Amid Android"
 date: 2026-10-14T20:11:42.561Z
+modified_date: 2026-10-19T16:47:36.891Z
 tags: ["android","security","messaging","open-source"]
 hero_image: "/hero/2026-10-14-google-rolls-out-enhanced-protection-for-messages-amid-android-e92d4d.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Android smartphone displaying Messages app with a security shield overlay"
 description: "Google adds a new anti‑scam mode to Messages and grapples with a Home app bug, while developers turn to open‑source tools for safer releases."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Google adds a new anti‑scam shield to Messages
 The latest Android update introduces **enhanced protection mode** in Google Messages. The feature aims to block phishing texts and fraudulent calls that have spiked on the platform.
@@ -41,3 +43,7 @@ Another open‑source project, Skip, lets developers write a single SwiftUI code
 
 ## What to watch next
 Google’s enhanced protection mode will roll out over the next few weeks; the first batch of devices should receive the update by the end of the month. Watch for user reports on false positives and any privacy‑policy revisions that clarify data handling. On the Home app front, monitor Google’s support channels for a patch timeline—persistent UI glitches could push enterprise customers toward alternative smart‑home hubs. Finally, keep an eye on GrowthBook’s adoption metrics and Skip’s community contributions, as both projects could reshape how engineers balance speed, safety, and native performance in the coming year.
+
+## Updates
+
+- **2026-10-19** — Don't throw away your old USB charging cables — Repurpose them instead ([source](https://www.engadget.com/2287681/dont-throw-away-old-usb-charging-cables-repurpose-instead/))

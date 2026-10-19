@@ -1,16 +1,17 @@
 ---
 title: "GoPro Sale, Emplifi Lead"
 date: 2026-09-04T23:57:55.909Z
-modified_date: 2026-10-05T19:01:30.104Z
+modified_date: 2026-10-19T16:48:09.091Z
 tags: ["gopro","acquisition","ai","insurance","tech"]
 hero_image: "/hero/2026-09-04-gopro-sale-emplifi-lead-ce688f.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "conference room with cameras and AI servers"
 description: "GoPro’s $285M Starman acquisition, Emplifi’s Gartner leadership, and Blackstone’s $2.8B Allstate Life buy reshape hardware, AI social tools, and insurance."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## GoPro’s $285 Million Starman Deal Puts Cameras Under a New Lens
@@ -43,4 +44,5 @@ GoPro’s acquisition will face an FTC review that could delay or unwind the dea
 
 ## Updates
 
+- **2026-10-19** — Jason Sudeikis gives update on Ted Lasso seasons 5 and 6 ([source](https://9to5mac.com/2026/10/19/jason-sudeikis-gives-update-on-ted-lasso-seasons-5-and-6/))
 - **2026-10-05** — Hyundai CEO says only a ‘level playing field’ can minimize damage from China ([source](https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share))

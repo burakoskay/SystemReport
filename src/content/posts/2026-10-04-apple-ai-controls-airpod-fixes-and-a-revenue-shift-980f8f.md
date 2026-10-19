@@ -1,18 +1,20 @@
 ---
 title: "Apple AI controls, AirPod fixes, and a revenue shift"
 date: 2026-10-04T18:04:52.776Z
+modified_date: 2026-10-19T16:46:25.024Z
 tags: ["apple","ai","wearables","services","hardware"]
 hero_image: "/hero/2026-10-04-apple-ai-controls-airpod-fixes-and-a-revenue-shift-980f8f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "iPhone settings screen showing AI toggle next to AirPods in a case"
 description: "Apple lets users curb its on‑device AI, offers AirPod troubleshooting, and sees wearables and services surge while critics call its hardware stale."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-10-04-apple-ai-controls-airpod-fixes-and-a-revenue-shift-980f8f.mp3"
 audio_bytes: 607339
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple lets iPhone owners turn off on‑device AI
 Apple now lets iPhone owners turn off its on‑device AI features. The control appears in the Settings menu and covers Apple Intelligence, Siri, and related models. Users who prefer a leaner experience can pull the switch without jailbreaking. The option arrives as Apple expands large language models into native apps.
@@ -46,3 +48,7 @@ The next iPhone keynote will reveal whether Apple expands AI toggles into new ap
 Watch for any hardware announcement that moves beyond incremental screen size or camera tweaks. An always‑on Apple Watch with cellular, a new health sensor, or a substantial redesign would address the criticism from Gurman and Manjoo. The market will also monitor Services revenue growth as a barometer of Apple’s long‑term profitability.
 
 The tension between user‑controlled AI, hardware perception, and revenue diversification defines Apple’s current crossroads. The next product cycle will reveal which side of the equation the company leans toward.
+
+## Updates
+
+- **2026-10-19** — Apple teases MacBook Pro event next week ([source](https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement))

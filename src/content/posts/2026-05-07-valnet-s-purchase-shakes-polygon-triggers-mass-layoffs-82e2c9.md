@@ -1,16 +1,17 @@
 ---
 title: "Valnet’s Purchase Shakes Polygon, Triggers Mass Layoffs"
 date: 2026-05-07T23:20:13.343Z
-modified_date: 2026-09-27T00:07:25.749Z
+modified_date: 2026-10-19T16:47:44.979Z
 tags: ["gaming","journalism","layoffs","valnet"]
 hero_image: "/hero/2026-05-07-valnet-s-purchase-shakes-polygon-triggers-mass-layoffs-82e2c9.jpg"
 hero_image_credit_name: "Huy Phan"
 hero_image_credit_url: "https://www.pexels.com/@huy-phan-316220"
 visual_keyword: "empty office desks with gaming memorabilia"
 description: "Vox Media sold Polygon to Valnet, sparking unexpected cuts that threaten independent gaming journalism."
-sources_count: 11
+sources_count: 12
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Track Valnet’s first quarterly earnings report for any line‑item shifts tied
 
 ## Updates
 
+- **2026-10-19** — Show HN: Qwen3-4B with the AI writing tics trained out ([source](https://100toolkit.com/blog/deslop-model/))
 - **2026-09-27** — Why your iPhone hates printer cables ([source](https://www.engadget.com/2266565/why-iphone-hates-printer-cables/))
 - **2026-09-22** — The tiny magnetic e-readers from Xteink that attach to your Pixel are on sale right now ([source](https://9to5google.com/2026/09/22/xteink-x4-pro-and-classic-on-sale/))
 - **2026-09-18** — Pixel Now Playing update brings interface tweaks & notifications [U] ([source](https://9to5google.com/2026/09/17/pixel-now-playing-tweaks/))

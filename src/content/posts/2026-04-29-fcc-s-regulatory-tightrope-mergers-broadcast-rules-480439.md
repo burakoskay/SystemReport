@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-10-06T01:05:35.169Z
+modified_date: 2026-10-19T16:46:49.193Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 34
+sources_count: 35
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-10-19** — Elon Musk promises to give one SpaceX share to every child in the US ([source](https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children))
 - **2026-10-06** — All the drama around AI&#8217;s takeover of mathematics ([source](https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution))
 - **2026-09-29** — Can a chatbot fix the government maze? The White House is about to find out ([source](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/))
 - **2026-09-28** — Volkswagen replaces ID.4 with all-electric Tiguan ([source](https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev))

@@ -1,19 +1,20 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T19:39:50.843Z
-modified_date: 2026-08-26T19:43:19.023Z
+modified_date: 2026-10-19T16:48:01.067Z
 tags: ["amazon","kindle","ai-commerce","eks","e-reader"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.jpg"
 hero_image_credit_name: "Valeria Palesska"
 hero_image_credit_url: "https://www.pexels.com/@palesska"
 visual_keyword: "Amazon Kindle Colorsoft e-reader with dark mode interface displayed on a wooden table"
 description: "Amazon introduces dark mode for its color e-reader and AI-powered product Q&A"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.mp3"
 audio_bytes: 547571
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,5 +52,6 @@ The next six months will test the viability of Amazon's dual updates. Key metric
 
 ## Updates
 
+- **2026-10-19** — Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more ([source](https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case/))
 - **2026-08-26** — Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards ([source](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale))
 - **2026-07-29** — Prototype smart ring cracks the holy grail of non-invasive blood sugar measurement ([source](https://9to5mac.com/2026/07/29/prototype-smart-ring-cracks-the-holy-grail-of-non-invasive-blood-sugar-measurement/))

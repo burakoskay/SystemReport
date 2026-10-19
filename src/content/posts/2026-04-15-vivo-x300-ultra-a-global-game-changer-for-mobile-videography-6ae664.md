@@ -1,16 +1,17 @@
 ---
 title: "Vivo X300 Ultra: A Global Game Changer for Mobile Videography"
 date: 2026-04-15T19:46:38.896Z
-modified_date: 2026-10-17T16:48:18.730Z
+modified_date: 2026-10-19T16:47:53.049Z
 tags: ["vivo x300 ultra","smartphone camera","mobile videography","zeiss","tech innovation"]
 hero_image: "/hero/2026-04-15-vivo-x300-ultra-a-global-game-changer-for-mobile-videography-6ae664.jpg"
 hero_image_credit_name: "Иван Асташкин"
 hero_image_credit_url: "https://www.pexels.com/@23515909"
 visual_keyword: "professional smartphone video camera rig"
 description: "Vivo's X300 Ultra goes global, redefining smartphone videography with its Zeiss triple-prime camera system, pro video features, and SmallRig collaboration."
-sources_count: 21
+sources_count: 22
 author: "david-okafor"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Beyond its photographic prowess, the X300 Ultra stands as a top-tier flagship. I
 
 ## Updates
 
+- **2026-10-19** — Apple announces special event for October 28: ‘Pro and tell’ ([source](https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/))
 - **2026-10-17** — Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update ([source](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale))
 - **2026-10-09** — AI disqualification yields new Nikon Small World in Motion winner ([source](https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/))
 - **2026-10-04** — Customizing your Samsung Galaxy phone is a bit easier with One UI 9 ([source](https://www.engadget.com/2273796/samsung-galaxy-one-ui-9-customization-updates/))
