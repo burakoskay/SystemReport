@@ -2,8 +2,10 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import { tagSlug } from '../../lib/tags';
+import { tagPageSlugs } from '../../lib/content-cache';
 
 const allPosts = await getCollection('posts');
+const withPage = await tagPageSlugs();
 
 // Count tags
 const tagCounts = new Map<string, number>();
@@ -13,8 +15,10 @@ allPosts.forEach((post) => {
   });
 });
 
-// Sort by count descending
-const sortedTags = Array.from(tagCounts.entries()).sort((a, b) => b[1] - a[1]);
+// Sort by count descending. Only tags that have a page are listed.
+const sortedTags = Array.from(tagCounts.entries())
+  .filter(([tag]) => withPage.has(tagSlug(tag)))
+  .sort((a, b) => b[1] - a[1]);
 const maxCount = sortedTags.length > 0 ? sortedTags[0][1] : 1;
 ---
 

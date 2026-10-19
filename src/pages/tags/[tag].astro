@@ -3,9 +3,12 @@ import Layout from '../../layouts/Layout.astro';
 import ArticleCard from '../../components/ArticleCard.astro';
 import { getCollection } from 'astro:content';
 import { tagSlug } from '../../lib/tags';
+import { tagPageSlugs } from '../../lib/content-cache';
 
 export async function getStaticPaths() {
   const allPosts = await getCollection('posts');
+  // Single-use tags get no page — see src/lib/deploy-budget.ts.
+  const withPage = await tagPageSlugs();
 
   // Group tags by URL slug. Distinct tags can share a slug once slashes are
   // collapsed, so each page serves every tag that maps to it rather than
@@ -14,6 +17,7 @@ export async function getStaticPaths() {
   for (const post of allPosts) {
     for (const tag of post.data.tags ?? []) {
       const slug = tagSlug(tag);
+      if (!withPage.has(slug)) continue;
       const existing = bySlug.get(slug);
       if (existing) existing.tags.add(tag);
       else bySlug.set(slug, { label: tag, tags: new Set([tag]) });

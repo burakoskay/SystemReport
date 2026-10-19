@@ -1,11 +1,16 @@
 ---
 // AMP Web Story per article. Cover + 4 narrative panels distilled from
 // the article body. Indexed by Google as a Web Story (carousel surface).
+// Built for the newest articles only — see src/lib/deploy-budget.ts.
 import { getCollection } from 'astro:content';
+import { storyIds } from '../../lib/content-cache';
 
 export async function getStaticPaths() {
   const posts = await getCollection('posts');
-  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+  const withStory = await storyIds();
+  return posts
+    .filter((post) => withStory.has(post.id))
+    .map((post) => ({ params: { slug: post.id }, props: { post } }));
 }
 
 const { post } = Astro.props;

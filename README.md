@@ -66,6 +66,7 @@ unavailable.
 | Deploy succeeded but site is stale | Post-deploy freshness healthcheck compares the live RSS against `main` and fails the run loudly |
 | Duplicate coverage | Semantic dedup plus an update-matcher that revises an existing article instead of publishing a near-duplicate |
 | Oversized assets | Build-time guard against Cloudflare's 25 MiB per-file limit |
+| Archive outgrows the host | Build-time file budget under Cloudflare Pages' 20,000-file cap: tag pages need two articles, AMP stories cover the newest 100, and the oldest translations retire automatically as the archive grows (`src/lib/deploy-budget.ts`) |
 
 ### Case study: a 10-week silent outage
 

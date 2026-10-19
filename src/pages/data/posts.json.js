@@ -2,12 +2,14 @@
 // Stable schema: bumping fields requires bumping `_schema_version`.
 
 import { getCollection } from 'astro:content';
+import { storyIds } from '../../lib/content-cache';
 
 const SCHEMA_VERSION = 1;
 const SITE = 'https://www.systemreport.net';
 
 export async function GET() {
   const posts = await getCollection('posts');
+  const withStory = await storyIds();
   const items = posts
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .map((p) => ({
@@ -22,7 +24,7 @@ export async function GET() {
         : null,
       audio_path: p.data.audio_path ? `${SITE}${p.data.audio_path}` : null,
       sources_count: p.data.sources_count ?? null,
-      story_url: `${SITE}/stories/${p.id}`,
+      story_url: withStory.has(p.id) ? `${SITE}/stories/${p.id}` : null,
     }));
   const body = JSON.stringify({
     _schema_version: SCHEMA_VERSION,
