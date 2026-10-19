@@ -1,5 +1,6 @@
 ---
 import { tagSlug } from '../lib/tags';
+import { tagPageSlugs } from '../lib/content-cache';
 
 interface Props {
   tag: string;
@@ -9,6 +10,10 @@ interface Props {
 
 const { tag, size = 'sm', linked = true } = Astro.props;
 
+// Single-use tags have no page (see src/lib/deploy-budget.ts), so they render
+// as plain pills instead of links to a 404.
+const hasPage = (await tagPageSlugs()).has(tagSlug(tag));
+
 const sizeClasses = size === 'sm'
   ? 'px-2.5 py-0.5 text-xs'
   : 'px-3 py-1 text-sm';
@@ -17,7 +22,7 @@ const baseClasses = `inline-flex items-center rounded-full font-medium transitio
 const colorClasses = 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700';
 ---
 
-{linked ? (
+{linked && hasPage ? (
   <a
     href={`/tags/${tagSlug(tag)}`}
     class:list={[baseClasses, colorClasses]}

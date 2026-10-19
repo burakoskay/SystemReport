@@ -1,5 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
+import { deployedTranslations } from '../../lib/content-cache';
 import Layout from '../../layouts/Layout.astro';
 import { LOCALES } from '../../pipeline/translator.mjs';
 import { HREFLANG, type Locale } from '../../i18n/tool-strings';
@@ -16,7 +17,8 @@ export async function getStaticPaths() {
 }
 
 const { locale } = Astro.params; // lowercase (e.g. "zh-cn")
-const all = await getCollection('posts-i18n');
+// List only translations that have a page in this build.
+const all = await deployedTranslations();
 const posts = all
   .filter(p => p.id.toLowerCase().startsWith(`${locale}/`))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());

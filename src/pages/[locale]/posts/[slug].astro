@@ -1,6 +1,6 @@
 ---
-import { getCollection, render } from 'astro:content';
-import { translationsByCanonicalSlug } from '../../../lib/content-cache';
+import { render } from 'astro:content';
+import { deployedTranslations, translationsByCanonicalSlug } from '../../../lib/content-cache';
 import Layout from '../../../layouts/Layout.astro';
 import TagPill from '../../../components/TagPill.astro';
 import { HREFLANG, AI_NOTICE, type Locale } from '../../../i18n/tool-strings';
@@ -12,7 +12,9 @@ const DATE_LOCALE = {
 };
 
 export async function getStaticPaths() {
-  const all = await getCollection('posts-i18n');
+  // The oldest translations retire once the site nears Cloudflare's file
+  // limit — see src/lib/deploy-budget.ts.
+  const all = await deployedTranslations();
   return all.map((post) => {
     // Entry id is "<locale>/<slug>" because of the glob loader's base path.
     const [locale, ...slugParts] = post.id.split('/');

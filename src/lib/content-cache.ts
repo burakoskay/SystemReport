@@ -17,6 +17,8 @@
 // through this module rather than calling `getCollection()` directly.
 
 import { getCollection, type CollectionEntry } from 'astro:content';
+import { MIN_TAG_POSTS, STORY_LIMIT, translationAllowance } from './deploy-budget';
+import { tagSlug } from './tags';
 
 type Post = CollectionEntry<'posts'>;
 type Translation = CollectionEntry<'posts-i18n'>;
@@ -79,10 +81,11 @@ let translationsPromise: Promise<Map<string, Translation[]>> | null = null;
 
 /**
  * Translations grouped by the English slug they were translated from, so a page
- * can look up its own siblings instead of filtering all 7,136 entries.
+ * can look up its own siblings instead of filtering all 7,136 entries. Only
+ * translations this build deploys are included.
  */
 export function translationsByCanonicalSlug(): Promise<Map<string, Translation[]>> {
-  translationsPromise ??= allTranslations().then((all) => {
+  translationsPromise ??= deployedTranslations().then((all) => {
     const map = new Map<string, Translation[]>();
     for (const entry of all) {
       // Entry ids are "<locale>/<slug>" because of the glob loader's base path.
@@ -109,4 +112,64 @@ export function translatedLocales(): Promise<string[]> {
     ...new Set(all.map((entry) => entry.id.split('/')[0])),
   ]);
   return localesPromise;
+}
+
+// What this build emits under the deploy file budget (see deploy-budget.ts).
+
+let tagSlugsPromise: Promise<Set<string>> | null = null;
+
+/**
+ * Tag slugs that get a /tags/ page: those used by at least MIN_TAG_POSTS
+ * articles. Anything linking to a tag page checks this set first.
+ */
+export function tagPageSlugs(): Promise<Set<string>> {
+  tagSlugsPromise ??= allPosts().then((posts) => {
+    const counts = new Map<string, number>();
+    for (const post of posts) {
+      for (const slug of new Set((post.data.tags ?? []).map(tagSlug))) {
+        counts.set(slug, (counts.get(slug) ?? 0) + 1);
+      }
+    }
+    return new Set([...counts].filter(([, n]) => n >= MIN_TAG_POSTS).map(([slug]) => slug));
+  });
+  return tagSlugsPromise;
+}
+
+let storiesPromise: Promise<Set<string>> | null = null;
+
+/** Ids of the posts that get an AMP Web Story: the newest STORY_LIMIT. */
+export function storyIds(): Promise<Set<string>> {
+  storiesPromise ??= postsByDateDesc().then(
+    (sorted) => new Set(sorted.slice(0, STORY_LIMIT).map((post) => post.id)),
+  );
+  return storiesPromise;
+}
+
+let deployedPromise: Promise<Translation[]> | null = null;
+
+/**
+ * Translations this build emits pages for: newest first, as many as fit the
+ * deploy file budget. Routes and links to translated articles read this rather
+ * than allTranslations(), so a retired translation leaves no dangling hreflang
+ * or language-switcher link behind.
+ */
+export function deployedTranslations(): Promise<Translation[]> {
+  deployedPromise ??= Promise.all([allPosts(), allTranslations(), tagPageSlugs(), storyIds()]).then(
+    ([posts, all, tags, stories]) => {
+      const room = translationAllowance({
+        posts: posts.length,
+        tagPages: tags.size,
+        stories: stories.size,
+      });
+      const newest = [...all].sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+      if (newest.length > room) {
+        console.warn(
+          `[deploy-budget] emitting ${room} of ${newest.length} translations; the ` +
+            `${newest.length - room} oldest are retired to stay under Cloudflare's file limit`,
+        );
+      }
+      return newest.slice(0, room);
+    },
+  );
+  return deployedPromise;
 }

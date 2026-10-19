@@ -28,4 +28,15 @@ import Layout from '../layouts/Layout.astro';
       </a>
     </div>
   </div>
+  <script is:inline>
+    // Translations, AMP stories and tag pages can retire under the deploy file
+    // budget (src/lib/deploy-budget.ts). Send those URLs to the closest page
+    // that is always built instead of leaving a dead end.
+    (function () {
+      var path = location.pathname;
+      var article = path.match(/^\/(?:[a-z]{2}(?:-[a-z]{2})?\/posts|stories)\/([^/]+)\/?$/);
+      if (article) location.replace('/posts/' + article[1]);
+      else if (/^\/tags\/[^/]+\/?$/.test(path)) location.replace('/tags');
+    })();
+  </script>
 </Layout>
