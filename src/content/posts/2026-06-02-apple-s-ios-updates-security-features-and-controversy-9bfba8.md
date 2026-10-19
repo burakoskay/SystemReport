@@ -1,18 +1,20 @@
 ---
 title: "Apple's iOS Updates: Security, Features, and Controversy"
 date: 2026-06-02T23:53:13.914Z
+modified_date: 2026-10-19T09:31:02.113Z
 tags: ["Apple","iOS","Security"]
 hero_image: "/hero/2026-06-02-apple-s-ios-updates-security-features-and-controversy-9bfba8.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "Apple iOS"
 description: "Apple releases various iOS updates addressing security concerns, adding features, and sparking controversy with app tracking transparency."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-02-apple-s-ios-updates-security-features-and-controversy-9bfba8.mp3"
 audio_bytes: 615698
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to iOS Updates
@@ -73,7 +75,9 @@ A closer look at the technical mechanics of Apple's iOS updates reveals a multi-
 
 The market implications of Apple's iOS updates are significant, with potential impacts on regulatory discussions and market trends. As Apple continues to push for more stringent privacy controls, it may influence regulatory discussions and push other companies to adopt similar privacy-focused strategies. The company's initiatives, such as ATT, may also have significant implications for the advertising industry and data-driven business models.
 
+## Updates
 
+- **2026-10-19** — Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card ([source](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/))
 
 [^1]: [macrumors.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjwLxxjaOuKZVfIr0SQL4OAFWLu1UL0XhgjRKlU7rPMybIKFc_EeWUlFDOu9_-IrGZ856cUOHr8F-KYtSmXMJv-EInAwDxLlhJRSqISDlB2DvP2JEuVK3XIj3uH11aiB_bv7g5xW1n0yvb135QYFQMkdiEIg8QbjE=)
 [^2]: [osxdaily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENnL7A_tw1_HfX0TSRnuTZ1T7FzWIaEJ1d0F1VNx0XEuBr8MPW0i-pPlnByR4QwkRSsI_NBcgvfa2A9yX9RgOg3Hha5TxtQWht5G02GnYrKZMuldSUhnho9FqffLWRU4-tM21ww6uTqFS1lqP2kDzEEPAFgc9SJYK-n05gcm7vzrtoBZCIxRTK6QDWLK8rzZ38oIsGjNV5)
