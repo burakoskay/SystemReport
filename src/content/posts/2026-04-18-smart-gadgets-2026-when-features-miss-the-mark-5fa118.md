@@ -1,16 +1,17 @@
 ---
 title: "Smart Gadgets 2026: When Features Miss the Mark"
 date: 2026-04-18T12:44:16.767Z
-modified_date: 2026-10-19T09:31:39.173Z
+modified_date: 2026-10-20T07:01:34.477Z
 tags: ["smart home","gaming laptop","portable speakers","camera accessories"]
 hero_image: "/hero/2026-04-18-smart-gadgets-2026-when-features-miss-the-mark-5fa118.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home"
 description: "Examining 2026's smart home locks, a GPU-less laptop, a flexible camera rig, and portable speakers that deliver on promise."
-sources_count: 20
+sources_count: 21
 author: "david-okafor"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ These product categories reveal a pattern. Manufacturers chase feature different
 
 ## Updates
 
+- **2026-10-20** — Mint Mobile Discounts for October 2026 ([source](https://www.wired.com/story/mint-mobile-promo-code/))
 - **2026-10-19** — The Intel 8087 chip: floating-point addition and subtraction ([source](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html))
 - **2026-10-16** — And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems ([source](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/))
 - **2026-10-08** — Meta and Microsoft take steps to reduce employee usage of Claude AI ([source](https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/))

@@ -1,16 +1,17 @@
 ---
 title: "NASA's Psyche Spacecraft Faces Thruster Issue"
 date: 2026-05-25T10:19:32.254Z
-modified_date: 2026-10-09T22:07:56.790Z
+modified_date: 2026-10-20T07:01:50.085Z
 tags: ["NASA","Psyche Spacecraft","Deep Space Exploration"]
 hero_image: "/hero/2026-05-25-nasa-s-psyche-spacecraft-faces-thruster-issue-478797.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "Psyche Spacecraft"
 description: "Psyche spacecraft thruster shutdown"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -20,6 +21,7 @@ NASA's Psyche spacecraft stopped firing its engines after detecting a problem in
 
 ## Updates
 
+- **2026-10-20** — Japan launches mission to bring home a piece of the Martian moon Phobos ([source](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/))
 - **2026-10-09** — Your artwork could be featured in the next Debian release ([source](https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/))
 - **2026-09-13** — What was the PSX? The souped-up PS2 rarely sold outside of Japan ([source](https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/))
 - **2026-08-11** — AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia ([source](https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/))
