@@ -1,19 +1,20 @@
 ---
 title: "AI Startups' Inflated ARR"
 date: 2026-05-22T21:16:56.606Z
-modified_date: 2026-09-20T17:14:59.479Z
+modified_date: 2026-10-20T18:16:17.854Z
 tags: ["AI startups","inflated ARR","revenue metrics","transparency"]
 hero_image: "/hero/2026-05-22-ai-startups-inflated-arr-d1cbc2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ The future outlook for the AI startup industry is promising, but it requires a f
 
 ## Updates
 
+- **2026-10-20** — You can build your own mechanical keyboard, but is it worth the price? ([source](https://www.engadget.com/2288961/build-keyboard-why-worth-it/))
 - **2026-09-20** — Before you throw out your old laptop, do this first ([source](https://www.engadget.com/2259329/how-to-wipe-old-laptop/))
 - **2026-09-17** — 9to5Mac Overtime 082: Origins of the Apple Store w/ special guest Ron Johnson ([source](https://9to5mac.com/2026/09/17/9to5mac-overtime-082-origins-of-the-apple-store-w-special-guest-ron-johnson/))
 - **2026-08-19** — Pixel Thermometer gets new gradient icon on its way out ([source](https://9to5google.com/2026/08/19/pixel-thermometer-new-icon-2/))

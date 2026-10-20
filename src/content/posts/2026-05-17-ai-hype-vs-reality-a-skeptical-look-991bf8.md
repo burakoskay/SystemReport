@@ -1,16 +1,17 @@
 ---
 title: "AI Hype vs. Reality: A Skeptical Look"
 date: 2026-05-17T17:02:54.899Z
-modified_date: 2026-09-03T08:29:00.010Z
+modified_date: 2026-10-20T18:15:38.278Z
 tags: ["AI","Technology","Innovation"]
 hero_image: "/hero/2026-05-17-ai-hype-vs-reality-a-skeptical-look-991bf8.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "The AI landscape is shifting, with some experts downplaying its potential. What's behind the hype and what's the reality?"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ As AI continues to evolve, we can expect to see new developments and new applica
 
 ## Updates
 
+- **2026-10-20** — Arturia’s MiniFreak 49 makes its Freak synths more professional ([source](https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer))
 - **2026-09-03** — Philips Hue adds Nanoleaf&#8217;s light panels to its ecosystem with a $40 module ([source](https://www.theverge.com/tech/988144/philips-hue-nanoleaf-smart-wall-panels-integration-module))

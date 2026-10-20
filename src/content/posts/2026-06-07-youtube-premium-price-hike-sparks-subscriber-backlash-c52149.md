@@ -1,18 +1,20 @@
 ---
 title: "YouTube Premium Price Hike Sparks Subscriber Backlash"
 date: 2026-06-07T14:07:42.049Z
+modified_date: 2026-10-20T18:16:09.949Z
 tags: ["YouTube Premium","Price Hike","Streaming Services"]
 hero_image: "/hero/2026-06-07-youtube-premium-price-hike-sparks-subscriber-backlash-c52149.jpg"
 hero_image_credit_name: "greenwish _"
 hero_image_credit_url: "https://www.pexels.com/@greenwish-_-137929759"
 visual_keyword: "YouTube Premium logo"
 description: "YouTube Premium is increasing its prices across the board, with the Family plan rising to $26.99 a month. The move has sparked a backlash from subscribers who feel the service isn't providing enough value."
-sources_count: 10
-author: "sam-whitfield"
+sources_count: 11
 audio_path: "/audio/2026-06-07-youtube-premium-price-hike-sparks-subscriber-backlash-c52149.mp3"
 audio_bytes: 591666
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## YouTube Premium Price Hike Sparks Subscriber Backlash
@@ -91,3 +93,7 @@ The price hike raises questions about the future of streaming. As more and more 
 ## Conclusion
 
 The price hike is a significant challenge for YouTube Premium. The service will need to continue to provide value to its subscribers in order to justify the price hike and compete with other streaming services. It will be interesting to see how subscribers react to the change and how the service evolves in the coming months.
+
+## Updates
+
+- **2026-10-20** — Don't put your phone in the TSA bin — do this instead ([source](https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin/))

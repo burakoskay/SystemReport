@@ -1,16 +1,17 @@
 ---
 title: "EU Breathalyzer Mandate Sparks Drunk-Driving Debate"
 date: 2026-05-23T13:50:40.659Z
-modified_date: 2026-10-11T16:06:42.288Z
+modified_date: 2026-10-20T18:15:46.146Z
 tags: ["EU","breathalyzer","drunk-driving","road safety"]
 hero_image: "/hero/2026-05-23-eu-breathalyzer-mandate-sparks-drunk-driving-debate-8faec1.jpg"
 hero_image_credit_name: "Łukasz Promiler"
 hero_image_credit_url: "https://www.pexels.com/@lukasz-promiler-2150473657"
 visual_keyword: "breathalyzer"
 description: "The EU aims to eliminate drunk-driving deaths by 2050 with a new breathalyzer mandate. But will it work?"
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The EU's breathalyzer mandate is a significant step towards reducing drunk-drivi
 
 ## Updates
 
+- **2026-10-20** — The Gospel according to Peter (Thiel) ([source](https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis))
 - **2026-10-11** — NASA dumped over 800GB of Artemis II data online ([source](https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data))
 - **2026-08-26** — Waffle House Teleporter Gregg Phillips Is Still on the Trump Administration’s Payroll ([source](https://www.wired.com/story/waffle-house-teleporter-gregg-phillips-is-still-on-the-trump-administrations-payroll/))
 - **2026-08-23** — Grand Theft Auto VI exists in its own universe ([source](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe))

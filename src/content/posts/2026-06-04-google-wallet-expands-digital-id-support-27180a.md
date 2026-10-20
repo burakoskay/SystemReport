@@ -1,19 +1,20 @@
 ---
 title: "Google Wallet Expands Digital ID Support"
 date: 2026-06-04T15:29:49.583Z
-modified_date: 2026-09-03T19:03:43.483Z
+modified_date: 2026-10-20T18:17:12.560Z
 tags: ["Google Wallet","Digital ID","Apple Vision Air"]
 hero_image: "/hero/2026-06-04-google-wallet-expands-digital-id-support-27180a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Google Wallet"
 description: "Google Wallet adds digital ID support in Europe and updates Google Pay checkout. Meanwhile, Apple's Vision Air may be delayed."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-04-google-wallet-expands-digital-id-support-27180a.mp3"
 audio_bytes: 589994
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ The expansion of digital ID support in Google Wallet and the potential delay of 
 
 ## Updates
 
+- **2026-10-20** — Apple keeps acquiring companies with one clear goal in mind ([source](https://9to5mac.com/2026/10/20/apple-keeps-acquiring-companies-with-one-clear-goal-in-mind/))
 - **2026-09-03** — AI outage: Claude, ChatGPT, and Grok are currently down for many users [U] ([source](https://9to5mac.com/2026/09/03/chatgpt-and-codex-are-experiencing-an-outage-for-many-users/))
 - **2026-08-20** — Amazon&#8217;s drone deliveries are landing in pools and ponds ([source](https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds))
 - **2026-08-14** — Trump declares 100 percent tariffs on many drones and all aircraft parts ([source](https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts))

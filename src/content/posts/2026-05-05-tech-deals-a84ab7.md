@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-09-28T19:07:45.840Z
+modified_date: 2026-10-20T18:17:20.488Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-10-20** — Deals: Apple TV 4K, AirPods Pro 3, MacBook Air, MagSafe chargers, Duo cases, more ([source](https://9to5mac.com/2026/10/20/deals-apple-tv-4k-airpods-pro-3-macbook-air-duo-cases/))
 - **2026-09-28** — Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off ([source](https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale))
 - **2026-09-23** — Hostinger Promo Code: 79% Off for September 2026 ([source](https://www.wired.com/story/hostinger-coupon-code/))
 - **2026-09-17** — Deals: AirPods, M6 Mac mini, Apple Studio Display $330 off, Thunderbolt 5 dock, MacBook Air, more ([source](https://9to5mac.com/2026/09/17/deals-airpods-m6-mac-mini-studio-display-thunderbolt-5-dock/))

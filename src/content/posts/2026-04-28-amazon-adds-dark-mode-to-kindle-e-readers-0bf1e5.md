@@ -1,19 +1,20 @@
 ---
 title: "Amazon adds dark mode to Kindle e-readers"
 date: 2026-04-28T14:26:31.919Z
-modified_date: 2026-10-01T16:51:24.040Z
+modified_date: 2026-10-20T18:16:56.883Z
 tags: ["Amazon","Google","E-reader"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-e-readers-0bf1e5.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "E-reader"
 description: "Amazon adds dark mode to Kindle Colorsoft and Scribe Colorsoft e-readers, hinting at a broader trend in consumer hardware design."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-e-readers-0bf1e5.mp3"
 audio_bytes: 601697
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,4 +84,5 @@ The future of consumer hardware design is likely to be shaped by the growing dem
 
 ## Updates
 
+- **2026-10-20** — The Galaxy S26 Ultra just hit its lowest price in months ([source](https://9to5google.com/2026/10/20/galaxy-s26-ultra-deal/))
 - **2026-10-01** — Amazon introduces Kindle Click, a $35 remote for turning pages ([source](https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/))
