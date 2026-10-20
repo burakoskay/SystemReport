@@ -1,16 +1,17 @@
 ---
 title: "Ring upgrades default encryption, pledges post-use cloud deletion"
 date: 2026-08-26T20:03:56.594Z
-modified_date: 2026-10-19T02:47:45.261Z
+modified_date: 2026-10-20T00:53:45.194Z
 tags: ["ring","encryption","privacy","smart-home"]
 hero_image: "/hero/2026-08-26-ring-upgrades-default-encryption-pledges-post-use-cloud-deletion-2883e7.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "Ring security camera with lock icon and data flow arrows"
 description: "Ring now encrypts video by default and deletes cloud copies after powering smart‑home actions, aiming to tighten privacy."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The next quarter will reveal whether Ring's encryption defaults reduce the volum
 
 ## Updates
 
+- **2026-10-20** — Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says ([source](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/))
 - **2026-10-19** — What do all the lights on your Netgear router mean, and which ones actually matter? ([source](https://www.engadget.com/2287059/netgear-router-lights-what-they-mean/))
 - **2026-10-16** — JPEG XL vs. AVIF for web use-cases ([source](https://jakearchibald.com/2026/jpeg-xl-vs-avif/))
 - **2026-10-04** — What are amplifiers for and how important are they to your sound system's quality? ([source](https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/))

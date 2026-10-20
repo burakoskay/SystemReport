@@ -1,16 +1,17 @@
 ---
 title: "Iran Linked to Cyberattacks on Minnesota Water Utilities"
 date: 2026-07-30T23:00:48.887Z
-modified_date: 2026-08-04T17:42:02.744Z
+modified_date: 2026-10-20T00:53:57.992Z
 tags: ["Cybersecurity","Iran","Minnesota Water Utilities"]
 hero_image: "/hero/2026-07-30-iran-linked-to-cyberattacks-on-minnesota-water-utilities-e4598f.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "Cyberattacks"
 description: "Iran tied to dozens of cyberattacks on Minnesota water utilities"
-sources_count: 2
+sources_count: 3
 author: "elena-marchetti"
 ---
+
 
 
 ## Introduction to the Attacks
@@ -32,4 +33,5 @@ The attacks on Minnesota water utilities highlight the need for increased cooper
 
 ## Updates
 
+- **2026-10-20** — WhatsApp may soon let iPhone users open any link in an in-app browser ([source](https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser/))
 - **2026-08-04** — Show HN: Simple algorithm and color space to generate diverse skin tones ([source](https://toneyalexander.github.io/inclusive-color-space/))

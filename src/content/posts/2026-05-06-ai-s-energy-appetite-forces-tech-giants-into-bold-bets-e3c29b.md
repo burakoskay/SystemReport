@@ -1,16 +1,17 @@
 ---
 title: "AI's Energy Appetite Forces Tech Giants Into Bold Bets"
 date: 2026-05-06T23:06:25.302Z
-modified_date: 2026-10-13T17:18:47.429Z
+modified_date: 2026-10-20T00:53:32.358Z
 tags: ["ai-infrastructure","semiconductor-energy","tech-regulation","startup-funding","climate-tech"]
 hero_image: "/hero/2026-05-06-ai-s-energy-appetite-forces-tech-giants-into-bold-bets-e3c29b.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "wind turbines with data center cooling towers in the distance"
 description: "From data centers to wind turbines, the AI boom is reshaping energy and regulatory landscapes."
-sources_count: 20
+sources_count: 21
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The coming months will reveal whether current energy investments can sustain AI'
 
 ## Updates
 
+- **2026-10-20** — Elon Musk’s proposed SpaceX stock giveaway would go into &#8216;Trump Accounts&#8217; ([source](https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account))
 - **2026-10-13** — Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread ([source](https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce))
 - **2026-10-03** — Sanders introduces bill to ban the federal government from using Flock ([source](https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/))
 - **2026-09-23** — Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms ([source](https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/))
