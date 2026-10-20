@@ -1,15 +1,17 @@
 ---
 title: "Convective Capital Launches $85M Fund for Disaster Resilience"
 date: 2026-05-22T04:10:41.021Z
+modified_date: 2026-10-20T13:14:02.008Z
 tags: ["disaster resilience","venture capital","climate change"]
 hero_image: "/hero/2026-05-22-convective-capital-launches-85m-fund-for-disaster-resilience-3be511.jpg"
 hero_image_credit_name: "Pok Rie"
 hero_image_credit_url: "https://www.pexels.com/@pok-rie-33563"
 visual_keyword: "disaster resilience"
 description: "Convective Capital raises $85 million to invest in disaster resilience"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Convective Capital Shifts Focus to Disaster Resilience
@@ -56,3 +58,6 @@ The coming months will be critical in determining the effectiveness of Convectiv
 
 Convective Capital's commitment to disaster resilience investments is a significant step towards creating a more resilient and sustainable future. As the firm continues to deploy its fund, it will be essential to monitor its progress and assess the impact of its investments on the disaster resilience market.
 
+## Updates
+
+- **2026-10-20** — Sexual Assault Is a Free Speech Issue ([source](https://www.wired.com/story/the-big-interview-mary-anne-franks/))

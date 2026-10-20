@@ -1,16 +1,17 @@
 ---
 title: "Defense Tech Funding Surges"
 date: 2026-04-29T14:13:29.160Z
-modified_date: 2026-10-13T01:46:50.516Z
+modified_date: 2026-10-20T13:13:31.048Z
 tags: ["Defense Tech","AI","Industrial Tech"]
 hero_image: "/hero/2026-04-29-defense-tech-funding-surges-f79060.jpg"
 hero_image_credit_name: "Aleson Padilha"
 hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The investment in defense technology is likely to continue, driven by the increa
 
 ## Updates
 
+- **2026-10-20** — Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet ([source](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/))
 - **2026-10-13** — WHO report on Russian lab worker death highlights "key uncertainty" ([source](https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/))
 - **2026-10-02** — The Pocket Advance nearly perfects my favorite Nintendo handheld ([source](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld))
 - **2026-09-29** — Nothing Headphone (1) Pro are $399 with better hardware, ANC, and audio upgrades ([source](https://9to5google.com/2026/09/28/nothing-headphone-1-pro-upgrades-price/))

@@ -1,16 +1,17 @@
 ---
 title: "Google's Quantum Leap and Flood Forecasting Breakthrough"
 date: 2026-05-09T17:13:32.783Z
-modified_date: 2026-10-15T22:52:01.417Z
+modified_date: 2026-10-20T13:14:38.836Z
 tags: ["quantum-computing","ai-forecasting","google-quantum","natural-disasters","tech-research"]
 hero_image: "/hero/2026-05-09-google-s-quantum-leap-and-flood-forecasting-breakthrough-d83a76.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google Quantum AI lab with neutral atoms and flood map projections"
 description: "Google Quantum AI expands into neutral atom computing while launching AI to predict urban floods"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Three timelines will define Google's success: 1) By mid-2025, will their neutral
 
 ## Updates
 
+- **2026-10-20** — 3+ useful features included with Google One that people ignore ([source](https://www.engadget.com/2288598/google-one-useful-features/))
 - **2026-10-15** — Google updates Android earthquake alerts with more info, expands to 200+ regions ([source](https://9to5google.com/2026/10/15/android-earthquake-alerts-update-regions/))
 - **2026-09-19** — Human brain is two separate organs, Stanford Medicine-led research finds ([source](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html))
 - **2026-09-17** — The fix for rogue AI agents could be more AI ([source](https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/))

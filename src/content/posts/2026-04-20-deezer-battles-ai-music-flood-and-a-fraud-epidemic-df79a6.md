@@ -1,16 +1,17 @@
 ---
 title: "Deezer battles AI music flood and a fraud epidemic"
 date: 2026-04-20T20:39:07.977Z
-modified_date: 2026-10-17T23:48:25.791Z
+modified_date: 2026-10-20T13:13:12.654Z
 tags: ["deezer","ai music","streaming fraud","music industry"]
 hero_image: "/hero/2026-04-20-deezer-battles-ai-music-flood-and-a-fraud-epidemic-df79a6.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI-generated music tracks flooding a streaming dashboard"
 description: "Deezer reports AI tracks now 44% of uploads, but most streams are fraudulent, exposing a $20bn market vulnerability."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Regulators in the EU and U.S. are drafting guidelines for AI‑generated content
 
 ## Updates
 
+- **2026-10-20** — Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull ([source](https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/))
 - **2026-10-17** — iPhone Duo walk-in purchases might be challenging at launch, per report ([source](https://9to5mac.com/2026/10/17/iphone-duo-walk-in-purchases-challenging-report/))
 - **2026-10-05** — 5 startups that caught VCs’ attention at the latest PearX demo day ([source](https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/))
 - **2026-05-28** — Meta Copies Snapchat’s Homework Again With ‘Plus’ Features for Instagram and Facebook ([source](https://www.wired.com/story/meta-copies-snapchats-homework-again/))

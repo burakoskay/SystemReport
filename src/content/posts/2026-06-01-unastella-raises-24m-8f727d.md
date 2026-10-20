@@ -1,19 +1,20 @@
 ---
 title: "Unastella Raises $24M"
 date: 2026-06-01T11:46:30.970Z
-modified_date: 2026-08-08T14:27:15.101Z
+modified_date: 2026-10-20T13:14:44.949Z
 tags: ["tech","space","sports"]
 hero_image: "/hero/2026-06-01-unastella-raises-24m-8f727d.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "rocket"
 description: "Unastella raises $24M, Google opens Tokyo store, Apple's iPhone sports venture."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-01-unastella-raises-24m-8f727d.mp3"
 audio_bytes: 572440
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,4 +72,5 @@ The success of these ventures will depend on various factors, including market d
 
 ## Updates
 
+- **2026-10-20** — Apple says American suppliers make almost 100 parts for iPhone 18 Pro and iPhone Duo ([source](https://9to5mac.com/2026/10/20/apple-says-american-suppliers-make-almost-100-parts-for-iphone-18-pro-and-iphone-duo/))
 - **2026-08-08** — Apple @ Work: What IDC’s latest shipments mean for the MacBook Neo and Air in the enterprise ([source](https://9to5mac.com/2026/08/08/apple-work-what-idcs-latest-shipments-mean-for-the-macbook-neo-and-air-in-the-enterprise/))

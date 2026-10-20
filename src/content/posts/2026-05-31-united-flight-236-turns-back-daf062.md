@@ -1,18 +1,20 @@
 ---
 title: "United Flight 236 Turns Back"
 date: 2026-05-31T19:24:12.337Z
+modified_date: 2026-10-20T13:13:55.931Z
 tags: ["Aviation","Security","Technology"]
 hero_image: "/hero/2026-05-31-united-flight-236-turns-back-daf062.jpg"
 hero_image_credit_name: "Peter Fazekas"
 hero_image_credit_url: "https://www.pexels.com/@peterfazekas"
 visual_keyword: "Bluetooth"
 description: "Security concerns over a Bluetooth speaker name"
-sources_count: 2
-author: "priya-raman"
+sources_count: 3
 audio_path: "/audio/2026-05-31-united-flight-236-turns-back-daf062.mp3"
 audio_bytes: 630536
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Incident Details
 United Airlines flight 236, a 767 aircraft, was forced to return to Newark on a Saturday night due to security concerns around a Bluetooth signal. The crew repeatedly requested passengers to turn off their Bluetooth devices after a specific issue arose. According to reports from Redditors who claimed to be on the flight, the crew issued a one-minute warning, stating that two devices were still active.
@@ -34,3 +36,7 @@ The incident involving United flight 236 has implications for the broader aviati
 The FAA's lack of response to the incident raises questions about the agency's protocols for handling such situations. The incident may prompt the FAA to re-examine its guidelines for the use of Bluetooth devices on flights and consider implementing new regulations to mitigate the risks associated with them. The European Aviation Safety Agency (EASA) and other regulatory bodies may also need to consider the implications of this incident and develop new guidelines or regulations to address the risks associated with Bluetooth devices on flights.
 ## Passenger Impact
 The incident involving United flight 236 highlights the potential impact of technical issues on passengers. The flight's return to Newark due to security concerns caused disruptions to the passengers' travel plans, and the incident may have caused inconvenience and frustration for those on board. Airlines will need to consider the potential impact of technical issues on passengers and take steps to mitigate these risks, such as providing clear guidelines on the use of Bluetooth devices during flights or offering compensation to passengers who are affected by disruptions.
+
+## Updates
+
+- **2026-10-20** — Spotify’s new podcast memberships let you pay for extra perks ([source](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch))

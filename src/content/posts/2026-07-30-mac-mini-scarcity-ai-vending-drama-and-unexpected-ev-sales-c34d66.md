@@ -1,16 +1,17 @@
 ---
 title: "Mac Mini scarcity, AI vending drama, and unexpected EV sales"
 date: 2026-07-30T01:58:57.751Z
-modified_date: 2026-08-14T14:47:17.243Z
+modified_date: 2026-10-20T13:13:18.863Z
 tags: ["mac mini","ai","ev","tech litigation","networking"]
 hero_image: "/hero/2026-07-30-mac-mini-scarcity-ai-vending-drama-and-unexpected-ev-sales-c34d66.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "tech newsroom collage of a Mac Mini, Ethernet switch, AI robot, Ferrari EV, courtroom"
 description: "A look at Mac Mini shortages, top Ethernet switches, a ruthless AI vending test, Ferrari’s EV sales surge, and recent corporate lawsuits."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## Mac Mini scarcity meets AI demand
@@ -33,4 +34,5 @@ Mac Mini buyers should monitor DRAM production reports for signs of relief. Netw
 
 ## Updates
 
+- **2026-10-20** — Yelp can now call on your behalf to check wait times at a restaurant ([source](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/))
 - **2026-08-14** — Unforgetful is a new app from the creator of Overcast that enhances Apple Reminders ([source](https://9to5mac.com/2026/08/14/unforgetful-is-a-new-app-from-the-creator-of-overcast-that-enhances-apple-reminders/))
