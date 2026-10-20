@@ -1,19 +1,20 @@
 ---
 title: "Wearable Health Tech Advances with New Features and Partnerships"
 date: 2026-05-10T22:55:58.054Z
-modified_date: 2026-10-13T22:12:39.992Z
+modified_date: 2026-10-20T22:56:50.012Z
 tags: ["wearable technology","health and fitness","wearable health tech"]
 hero_image: "/hero/2026-05-10-wearable-health-tech-advances-with-new-features-and-partnerships-280f35.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "smartwatch"
 description: "The wearable technology market is growing rapidly, with new features and partnerships emerging in the health and fitness space."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-10-wearable-health-tech-advances-with-new-features-and-partnerships-280f35.mp3"
 audio_bytes: 558856
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ As the wearable technology market continues to evolve, we can expect to see new 
 
 ## Updates
 
+- **2026-10-20** — John Ternus talks his involvement with design teams at Apple ([source](https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple/))
 - **2026-10-13** — Show HN: Guitoro, a virtual guitar you strum with your keyboard ([source](https://guitoro.com/))
 - **2026-09-07** — LG smart TVs caught logging audio with screen off and snooping on local devices ([source](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html))
 - **2026-08-27** — How to See the Partial Lunar Eclipse and Blood Moon on August 27 ([source](https://www.wired.com/story/how-to-view-august-2026-lunar-eclipse/))

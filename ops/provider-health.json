@@ -1,16 +1,17 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 9713,
+    "consecutive_failures": 9732,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-10-20T18:19:21.113Z",
+    "last_failure": "2026-10-20T23:02:39.390Z",
     "cooldown_until": "2026-10-14T20:20:17.341Z"
   },
   "groq:openai/gpt-oss-120b": {
-    "last_success": "2026-10-20T13:29:28.464Z",
-    "consecutive_failures": 0,
-    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4972, Requested 3288. Please try again in 1.95s. Need more tokens? Upgrade to Dev Tier today at htt",
-    "last_failure": "2026-10-19T09:35:02.320Z"
+    "last_success": "2026-10-20T23:01:52.415Z",
+    "consecutive_failures": 1,
+    "last_error": "Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01kpb9rjadf9rbvhqydpeaxq17` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 5264, Requested 3677. Please try again in 7.057499999s. Need more tokens? Upgrade to Dev Tier today",
+    "last_failure": "2026-10-20T23:01:52.489Z",
+    "cooldown_until": "2026-10-20T23:11:52.418Z"
   },
   "groq:qwen/qwen3-32b": {
     "last_success": "2026-06-07T19:41:40.806Z",
@@ -20,9 +21,9 @@
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 4874,
+    "consecutive_failures": 4891,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-10-20T18:19:21.073Z",
+    "last_failure": "2026-10-20T23:02:39.367Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
@@ -30,7 +31,7 @@
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (e51b4223-7d00-462c-bb07-44278a5c845b)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-10-20T13:23:07.944Z",
-    "last_success": "2026-10-20T18:19:28.247Z"
+    "last_success": "2026-10-20T23:02:49.401Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -50,7 +51,7 @@
     "consecutive_failures": 0,
     "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (ee18f923-fe23-4065-a858-1253c32676dd)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
     "last_failure": "2026-10-15T20:05:47.667Z",
-    "last_success": "2026-10-19T09:35:09.155Z"
+    "last_success": "2026-10-20T23:03:10.091Z"
   },
   "groq:openai/gpt-oss-20b": {
     "last_success": "2026-09-22T13:19:25.015Z",

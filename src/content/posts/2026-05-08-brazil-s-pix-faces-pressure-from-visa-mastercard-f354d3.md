@@ -1,16 +1,17 @@
 ---
 title: "Brazil's Pix faces pressure from Visa, Mastercard"
 date: 2026-05-08T06:13:18.362Z
-modified_date: 2026-09-10T14:02:02.997Z
+modified_date: 2026-10-20T22:54:02.987Z
 tags: ["Brazil","Pix","Visa","Mastercard","payments","market"]
 hero_image: "/hero/2026-05-08-brazil-s-pix-faces-pressure-from-visa-mastercard-f354d3.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "payments"
 description: "Brazil's popular Pix payment system faces challenges from global giants Visa and Mastercard. The competition may change the country's payments landscape."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ The key decision to watch is how Pix responds to the challenge from Visa and Mas
 
 ## Updates
 
+- **2026-10-20** — SpaceX’s AI business is beating expectations ([source](https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/))
 - **2026-09-10** — Artemis II commander and pilot become NASA's first astronaut emeriti ([source](https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/))
 - **2026-08-08** — The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today ([source](https://www.wired.com/story/hp-omnibook-5-50-percent-off/))
 - **2026-08-01** — Astronomers Have Detected an Exomoon for the First Time ([source](https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/))

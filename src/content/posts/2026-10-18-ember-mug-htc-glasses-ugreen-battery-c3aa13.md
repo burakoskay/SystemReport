@@ -1,18 +1,20 @@
 ---
 title: "Ember Mug, HTC Glasses, UGREEN Battery"
 date: 2026-10-18T08:31:53.778Z
+modified_date: 2026-10-20T22:56:10.591Z
 tags: ["consumer-tech","hardware","privacy","accessories"]
 hero_image: "/hero/2026-10-18-ember-mug-htc-glasses-ugreen-battery-c3aa13.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "sleek smart mug beside privacy-focused glasses and a cooling-enabled phone battery pack"
 description: "Four hardware updates tighten control, privacy, cooling, and accessory reliability for everyday tech users."
-sources_count: 5
-author: "david-okafor"
+sources_count: 6
 audio_path: "/audio/2026-10-18-ember-mug-htc-glasses-ugreen-battery-c3aa13.mp3"
 audio_bytes: 566588
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 Ember, HTC, UGREEN, and Apple each released a hardware tweak that shifts how users interact with everyday tech.
 
@@ -53,3 +55,7 @@ The convergence of user‑centric design and engineering rigor may dictate which
 ## What to Watch
 
 Track Ember’s next firmware update to see if the app‑free control expands to preset temperature profiles. Monitor HTC’s developer portal for any SDK changes that reinforce on‑device data handling. Watch UGREEN’s sales figures for the liquid‑cooled bank; a strong uptake could force competitors to adopt similar cooling schemes. Finally, keep an eye on Apple’s response to the iPhone Duo case feedback—whether a revised silicone version ships before the phone’s launch could signal how the company prioritizes accessory quality.
+
+## Updates
+
+- **2026-10-20** — The latest PlayStation firmware may have already been cracked ahead of GTA 6 ([source](https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/))

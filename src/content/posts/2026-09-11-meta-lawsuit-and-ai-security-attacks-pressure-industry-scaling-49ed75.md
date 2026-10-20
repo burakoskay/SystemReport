@@ -1,19 +1,20 @@
 ---
 title: "Meta lawsuit and AI security attacks pressure industry scaling"
 date: 2026-09-11T20:21:07.359Z
-modified_date: 2026-09-25T09:17:39.718Z
+modified_date: 2026-10-20T22:56:02.155Z
 tags: ["meta","ai","legal","security","startup"]
 hero_image: "/hero/2026-09-11-meta-lawsuit-and-ai-security-attacks-pressure-industry-scaling-49ed75.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI models colliding with legal documents"
 description: "Meta battles a class-action over photo harvesting as Anthropic warns of Chinese distillation attacks, and OpenAI pauses Pro sign‑ups amid capacity strain."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-09-11-meta-lawsuit-and-ai-security-attacks-pressure-industry-scaling-49ed75.mp3"
 audio_bytes: 608593
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta faces a class‑action over its training data
@@ -51,4 +52,5 @@ Watch for a court ruling on the Meta class‑action, which could set precedent f
 
 ## Updates
 
+- **2026-10-20** — The next Xbox might cost $1,800, report says ([source](https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/))
 - **2026-09-25** — Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream ([source](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream))

@@ -1,15 +1,17 @@
 ---
 title: "iPhone 18 Pro’s variable aperture sparks repair worries"
 date: 2026-09-21T00:03:41.120Z
+modified_date: 2026-10-20T22:54:18.492Z
 tags: ["iphone","ios27","repair","software"]
 hero_image: "/hero/2026-09-21-iphone-18-pro-s-variable-aperture-sparks-repair-worries-427af0.jpg"
 hero_image_credit_name: "李 先生"
 hero_image_credit_url: "https://www.pexels.com/@37403501"
 visual_keyword: "iPhone 18 Pro variable aperture camera module with display panel"
 description: "iFixit’s teardown reveals a variable aperture and a display repair flaw; iOS 27 adds 30+ speed tweaks; Duo forces app recompilation; Pro Max’s battery size triggers new shipping rules."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 ## Variable aperture meets repair reality
 
@@ -40,3 +42,7 @@ The larger cell translates into a measurable jump in talk‑time and video playb
 ## What to watch next
 
 The next quarter will reveal whether the repair community can adapt to the aperture‑integrated display, and whether third‑party repair prices rise accordingly. iOS 27’s performance claims will be tested by independent benchmark sites; any deviation from Apple’s numbers could reshape the narrative around software‑driven speed gains. Developers’ response to the Duo recompilation mandate will be the litmus test for Apple’s software gamble—watch the App Store for a surge of “Duo‑ready” tags. Finally, carriers’ handling of the Pro Max’s oversized battery will surface in shipping cost disclosures, offering a concrete measure of how hardware scaling impacts the broader ecosystem.
+
+## Updates
+
+- **2026-10-20** — GM to close Detroit battery assembly plant, but not for reasons you might think ([source](https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/))

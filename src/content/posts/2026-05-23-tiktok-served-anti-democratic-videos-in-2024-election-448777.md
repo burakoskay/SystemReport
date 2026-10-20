@@ -1,16 +1,17 @@
 ---
 title: "TikTok Served Anti-Democratic Videos in 2024 Election"
 date: 2026-05-23T10:05:28.646Z
-modified_date: 2026-10-06T01:06:14.725Z
+modified_date: 2026-10-20T22:55:04.846Z
 tags: ["TikTok","algorithmic bias","social media","politics"]
 hero_image: "/hero/2026-05-23-tiktok-served-anti-democratic-videos-in-2024-election-448777.jpg"
 hero_image_credit_name: "Anastasia  Shuraeva"
 hero_image_credit_url: "https://www.pexels.com/@anastasia-shuraeva"
 visual_keyword: "TikTok"
 description: "Study finds TikTok's algorithm served more anti-Democratic videos during 2024 election."
-sources_count: 4
+sources_count: 5
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ The study's findings highlight the need for greater transparency and accountabil
 
 ## Updates
 
+- **2026-10-20** — SpaceX says big AI growth fueled revenue jump ([source](https://www.theverge.com/science/1014150/spacex-q3-2026-earnings))
 - **2026-10-06** — Arc Raiders and The Finals are both getting TV and film adaptations ([source](https://www.engadget.com/2277896/arc-raiders-and-the-finals-are-both-getting-tv-and-film-adaptations/))
 - **2026-10-01** — The top secret URSALA, RAQUEL, and FARRAH satellites ([source](https://www.thespacereview.com/article/4951/1))
