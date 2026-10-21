@@ -1,16 +1,17 @@
 ---
 title: "Meta's AI Push Amidst 20 Million User Loss"
 date: 2026-04-30T14:14:17.175Z
-modified_date: 2026-09-15T17:54:47.284Z
+modified_date: 2026-10-21T14:50:07.381Z
 tags: ["Meta","AI","user loss"]
 hero_image: "/hero/2026-04-30-meta-s-ai-push-amidst-20-million-user-loss-6140a4.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI"
 description: "Meta reports 10 million weekly business-AI conversations as its family of apps sheds 20 million users, raising questions about its AI spend."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ Meta's AI push is a strategic move to drive revenue growth and increase competit
 
 ## Updates
 
+- **2026-10-21** — Nvidia’s latest GPU driver brings a new way to speed up PC games ([source](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support))
 - **2026-09-15** — Meta adds new subscription tiers for businesses, creators and 'AI power users' ([source](https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/))
 - **2026-09-10** — Meta’s AI agent Muse is now the No. 2 app in the US ([source](https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/))
 - **2026-08-25** — Life360 expands pet tracking with new $8 scannable tags and zoomie alerts ([source](https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/))

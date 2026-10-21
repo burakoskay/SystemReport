@@ -1,19 +1,20 @@
 ---
 title: "Young Women Use Subliminals for Beauty Transformations"
 date: 2026-05-04T10:21:30.819Z
-modified_date: 2026-08-25T04:33:13.831Z
+modified_date: 2026-10-21T14:51:10.354Z
 tags: ["self-improvement","beauty standards","subliminals"]
 hero_image: "/hero/2026-05-04-young-women-use-subliminals-for-beauty-transformations-b57f6e.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "subliminal"
 description: "Young women are turning to YouTube and TikTok videos promising beauty transformations through ASMR affirmations, but is it just a fad or something more?"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-04-young-women-use-subliminals-for-beauty-transformations-b57f6e.mp3"
 audio_bytes: 592502
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -82,6 +83,7 @@ In recent years, social media has become a driving force behind the self-improve
 
 ## Updates
 
+- **2026-10-21** — The wide folds are coming; foldable display shipments to increase by 44% in 2026, analysts say ([source](https://9to5google.com/2026/10/21/wide-foldable-popularity-sparks-display-shipment-increase-prediction/))
 - **2026-08-25** — How to watch the Nancy Grace Roman Space Telescope's launch ([source](https://www.engadget.com/2243391/how-to-watch-the-nancy-grace-roman-space-telescopes-launch/))
 - **2026-08-19** — The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it ([source](https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/))
 - **2026-08-06** — Get up to $400 off your TechCrunch Disrupt 2026 pass until tomorrow ([source](https://techcrunch.com/2026/08/06/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/))

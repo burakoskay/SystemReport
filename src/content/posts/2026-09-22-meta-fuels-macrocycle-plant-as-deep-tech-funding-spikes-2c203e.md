@@ -1,15 +1,17 @@
 ---
 title: "Meta fuels MacroCycle plant as deep‑tech funding spikes"
 date: 2026-09-22T13:16:42.887Z
+modified_date: 2026-10-21T14:50:15.193Z
 tags: ["meta","recycling","deeptech","funding","ipo"]
 hero_image: "/hero/2026-09-22-meta-fuels-macrocycle-plant-as-deep-tech-funding-spikes-2c203e.jpg"
 hero_image_credit_name: "Keysi Estrada"
 hero_image_credit_url: "https://www.pexels.com/@keysi-estrada-2151553493"
 visual_keyword: "industrial recycling plant with futuristic micro‑LED display panels"
 description: "Meta backs MacroCycle’s first recycling plant, Morphotonics lands €40 M for data‑center displays, and Oura’s IPO turns into a shareholder payday."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Meta’s new partnership gives MacroCycle the capital to break ground on its first commercial plastic‑recycling plant, a move that signals deeper corporate interest in scaling waste‑to‑value solutions.
 
@@ -44,3 +46,7 @@ Meanwhile, the IPO market continues to reward early investors who can lock in mu
 ## What to watch
 
 Track Meta’s first shipments of recycled polymer from the MacroCycle plant; early adoption by hardware manufacturers will indicate whether the partnership can influence supply‑chain decisions. Follow Morphotonics’ prototype roll‑outs in data‑center racks; performance metrics will determine if micro‑LEDs can displace legacy panels at scale. Finally, monitor Oura’s post‑IPO earnings calls for signs of how the company reinvests the capital and whether Forerunner’s exit triggers similar moves by other early‑stage investors.
+
+## Updates
+
+- **2026-10-21** — Spotify is busting free of CarPlay with the launch of its first native car app ([source](https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay))

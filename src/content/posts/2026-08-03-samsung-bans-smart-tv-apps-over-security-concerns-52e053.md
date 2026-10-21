@@ -1,19 +1,20 @@
 ---
 title: "Samsung Bans Smart TV Apps Over Security Concerns"
 date: 2026-08-03T14:26:42.104Z
-modified_date: 2026-10-11T16:07:35.624Z
+modified_date: 2026-10-21T14:49:28.198Z
 tags: ["Samsung","Smart TV","Residential Proxy Networks"]
 hero_image: "/hero/2026-08-03-samsung-bans-smart-tv-apps-over-security-concerns-52e053.jpg"
 hero_image_credit_name: "Dan  Nelson"
 hero_image_credit_url: "https://www.pexels.com/@dan-nelson-1667453"
 visual_keyword: "Internet Security"
 description: "Samsung bans apps sharing user internet connections"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-08-03-samsung-bans-smart-tv-apps-over-security-concerns-52e053.mp3"
 audio_bytes: 602951
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,5 +65,6 @@ This could lead to the development of new, more secure technologies for accessin
 
 ## Updates
 
+- **2026-10-21** — A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse ([source](https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/))
 - **2026-10-11** — Inside the Muslim Manosphere Policing Women Online ([source](https://www.wired.com/story/inside-the-muslim-manosphere-policing-women-online/))
 - **2026-09-18** — Judge rejects OpenAI’s bid to see X’s confidential settlement with Apple in antitrust lawsuit ([source](https://9to5mac.com/2026/09/17/judge-rejects-openais-bid-to-see-xs-confidential-settlement-with-apple-in-antitrust-lawsuit/))

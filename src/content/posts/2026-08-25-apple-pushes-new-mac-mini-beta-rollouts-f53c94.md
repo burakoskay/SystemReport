@@ -1,18 +1,20 @@
 ---
 title: "Apple pushes new Mac mini, beta rollouts"
 date: 2026-08-25T08:36:14.529Z
+modified_date: 2026-10-21T14:50:46.718Z
 tags: ["apple","mac mini","ios27","iphoneultra","privacy"]
 hero_image: "/hero/2026-08-25-apple-pushes-new-mac-mini-beta-rollouts-f53c94.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Apple Mac mini on a desk beside an iPhone and laptop"
 description: "Apple may drop a fresh Mac mini days before its September event while rolling out iOS 27 betas and reversing a Hide My Email change."
-sources_count: 12
-author: "ryan-tanaka"
+sources_count: 13
 audio_path: "/audio/2026-08-25-apple-pushes-new-mac-mini-beta-rollouts-f53c94.mp3"
 audio_bytes: 560110
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple may drop a fresh Mac mini days before its September event while rolling out iOS 27 betas and reversing a Hide My Email change.
 
@@ -59,3 +61,7 @@ The limited feature set raises doubts about the product’s value proposition. E
 ## What to watch
 
 Watch for Apple’s official Mac mini announcement in the coming days and the final specifications of the new silicon. Track the adoption metrics for iOS 27 public betas as developers begin shipping updates. Monitor user sentiment around the Hide My Email reversal and any further policy tweaks. Keep an eye on how Brazilian emergency services integrate SOS Live Video and whether privacy safeguards evolve. Finally, follow the iPhone Ultra reveal for pricing confirmation and a detailed feature list that will determine whether the foldable can justify its premium price tag.
+
+## Updates
+
+- **2026-10-21** — iPhone Duo review: The future is foldable ([source](https://9to5mac.com/2026/10/21/iphone-duo-review/))
