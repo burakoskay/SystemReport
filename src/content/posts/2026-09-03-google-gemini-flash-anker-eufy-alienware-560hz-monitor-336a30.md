@@ -1,15 +1,17 @@
 ---
 title: "Google Gemini Flash, Anker Eufy, Alienware 560Hz Monitor"
 date: 2026-09-03T08:35:42.594Z
+modified_date: 2026-10-21T22:59:47.958Z
 tags: ["google","ai","consumer-tech"]
 hero_image: "/hero/2026-09-03-google-gemini-flash-anker-eufy-alienware-560hz-monitor-336a30.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "futuristic tech expo showcasing AI model, security camera, and high‑refresh gaming monitor"
 description: "Google released Gemini 3.8 Flash, Anker Eufy showed new security cameras at IFA 2026, and Alienware unveiled a 25‑inch 560 Hz gaming monitor."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 Google dropped Gemini 3.8 Flash, its third Flash model in just six weeks. The release arrives while Google’s Pro‑tier updates appear paused.
 
@@ -44,3 +46,7 @@ Regulators are watching the edge‑AI boom closely, especially for privacy‑sen
 ## What to watch
 
 The next set of benchmarks for Gemini 3.8 Flash should appear in independent AI labs within the month. At the same time, Eufy will release firmware updates that expose raw performance metrics for its new cameras, giving analysts data to compare edge AI efficiency. Alienware plans a limited‑run shipment of the 560 Hz monitor in Q4 2026, and early reviews will reveal whether the refresh rate translates into measurable competitive advantage. Tracking these data points will show whether speed‑first strategies win over safety and cost concerns in their respective markets.
+
+## Updates
+
+- **2026-10-21** — New York’s first microdrama film festival searches for its audience ([source](https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals))

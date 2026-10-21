@@ -1,15 +1,17 @@
 ---
 title: "Tiny11: A Lightweight Windows 11 Alternative"
 date: 2026-05-25T15:30:48.301Z
+modified_date: 2026-10-21T22:58:51.184Z
 tags: ["Windows 11","Tiny11","Lightweight Operating Systems","Software Preservation"]
 hero_image: "/hero/2026-05-25-tiny11-a-lightweight-windows-11-alternative-faf1cb.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Tiny11"
 description: "Microsoft's Windows 11 has privacy risks, but Tiny11 offers a solution. This lightweight version of Windows 11 works on a wide range of computers."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## A Breath of Fresh Air for Old Machines
@@ -76,3 +78,6 @@ The emergence of Tiny11 and similar projects marks a significant shift in the te
 
 In conclusion, Tiny11 is more than just a lightweight operating system - it's a response to the changing needs of users. As the tech industry continues to evolve, we can expect to see more innovative solutions like Tiny11.
 
+## Updates
+
+- **2026-10-21** — Meta says Muse has over 10M users, with shopping a top activity ([source](https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/))

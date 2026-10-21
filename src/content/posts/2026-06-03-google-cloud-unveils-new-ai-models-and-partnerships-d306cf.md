@@ -1,19 +1,20 @@
 ---
 title: "Google Cloud Unveils New AI Models and Partnerships"
 date: 2026-06-03T23:50:10.147Z
-modified_date: 2026-09-10T23:38:23.762Z
+modified_date: 2026-10-21T22:58:41.756Z
 tags: ["Google Cloud","Artificial Intelligence","Machine Learning"]
 hero_image: "/hero/2026-06-03-google-cloud-unveils-new-ai-models-and-partnerships-d306cf.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google Cloud AI"
 description: "Google Cloud announces new AI models, expanded partnerships, and enhanced features for its Vertex AI platform, aiming to make AI more accessible and useful for businesses."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-03-google-cloud-unveils-new-ai-models-and-partnerships-d306cf.mp3"
 audio_bytes: 582680
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,4 +66,5 @@ The development of AI-powered solutions is also expected to have a significant i
 
 ## Updates
 
+- **2026-10-21** — Meta wants to pay for its broad AI buildout with a newly created class of stock ([source](https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/))
 - **2026-09-10** — Possible Google device at FCC could be Wear OS-powered fitness tracker ([source](https://9to5google.com/2026/09/10/google-wear-os-tracker/))

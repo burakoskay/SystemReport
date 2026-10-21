@@ -1,15 +1,17 @@
 ---
 title: "Google teases Fitbit Edge, ships Android beta, expands Googlebook"
 date: 2026-10-09T22:25:18.439Z
+modified_date: 2026-10-21T22:59:19.592Z
 tags: ["google","fitbit","android","googlebook","logitech"]
 hero_image: "/hero/2026-10-09-google-teases-fitbit-edge-ships-android-beta-expands-googlebook-1914dc.jpg"
 hero_image_credit_name: "Douglas Mendes"
 hero_image_credit_url: "https://www.pexels.com/@doouglasma"
 visual_keyword: "sleek smartwatch beside Android phone and laptop with glowing LED strip"
 description: "Google unveils the Fitbit Edge tracker for Oct 12, releases Android 17 QPR2 Beta 7 to Pixel, and adds hidden Glowbar Disco and Logitech support to its Googlebook laptops."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Fitbit Edge arrives with an October launch
 
@@ -65,6 +67,9 @@ Competitors watch these developments closely. Apple’s tightly integrated hardw
 
 The Fitbit Edge will hit stores on October 12, and early reviews will reveal whether the tracker can compete on price and features. Keep an eye on the next Android 17 QPR3 beta rollout; any major API changes could ripple through the broader Android device market. Monitor community reactions to the Glowbar Disco and Logitech’s Magic Pointer on Googlebook, as they may inspire third‑party apps that exploit the laptop’s LED and gesture capabilities. Together, these signals will indicate how far Google can push a unified Android experience across wearables, phones, and laptops.
 
+## Updates
+
+- **2026-10-21** — Trump Isn’t Even Good at TV Anymore ([source](https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BVONluvxXdFoekqimleTCgWDaDrxglwObHhza_7RnL4UhbbxIYrU1VvrvPiC1nqECEKatBiKGxBlg2AQ9cxSHqD6NTTzwx5LV9KgJChHx15JdzMn0M5qWL4c6y5dUfxkl6_nBClyj66PAJzAzDZnfhETIhg57vl-t6xz2ntjwM_t073EnnqON7e7Eu7B8frnU_ab5crxMeCW-1TDRA5xmacXagI=)
 [^2]: [stuff.tv](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWwG1vQRzgetGMv9yVVuQSqFb-ZFp_eGlZ00nU5gFZbAUugHdaQ7Gg1TSLnHA0Baxfe3TJ9KczMzOzMgqjXuCXmserhIzK4uMW4GoAy8Zh8tyR3nwxwvL76MbesF02f3zfKB0YGMqkrE0pzeowGpuImq8-rRCa8Hukg5NYAgKNVJE2E67BgepwSCPZVonl_eDpjrXVX8SIM36q-o6eClwuJIseSRVKMLOn9KafhUBNhr3jS1DodxtwG4jJLXsGlUURRA==)

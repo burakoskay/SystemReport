@@ -1,16 +1,17 @@
 ---
 title: "Omega Mini Moonwatch and Gaming Audio Moves Signal Shifts"
 date: 2026-08-25T08:38:34.152Z
-modified_date: 2026-10-09T00:08:33.264Z
+modified_date: 2026-10-21T22:58:32.072Z
 tags: ["omega","gaming audio","hardware"]
 hero_image: "/hero/2026-08-25-omega-mini-moonwatch-and-gaming-audio-moves-signal-shifts-77a0f9.jpg"
 hero_image_credit_name: "Bimal  Chhetry"
 hero_image_credit_url: "https://www.pexels.com/@bimql69"
 visual_keyword: "a sleek 38mm Omega watch beside a modern gaming soundbar"
 description: "Omega launches a 38‑mm Speedmaster mini Moonwatch as ASUS rolls out a $600 ROG Gjallar soundbar amid headset price drops, reshaping niche markets."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Omega's Mini Moonwatch Hits the Market
@@ -49,4 +50,5 @@ The mini Moonwatch will reveal whether heritage can survive a size cut without e
 
 ## Updates
 
+- **2026-10-21** — Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown ([source](https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/))
 - **2026-10-09** — The value of not getting to the point (2015) ([source](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/))

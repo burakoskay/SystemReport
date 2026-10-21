@@ -1,16 +1,17 @@
 ---
 title: "Apple's Strategic Moves: From Patent Battles to AI Innovations"
 date: 2026-04-18T01:10:54.654Z
-modified_date: 2026-10-16T14:28:31.564Z
+modified_date: 2026-10-21T23:00:44.344Z
 tags: ["apple","technology","ai","iphone"]
 hero_image: "/hero/2026-04-18-apple-s-strategic-moves-from-patent-battles-to-ai-innovations-472f15.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple Watch blood oxygen feature"
 description: "Apple navigates patent disputes, boosts stock targets, and showcases AI research, while new iPhone colors and Macs may be on the horizon."
-sources_count: 50
+sources_count: 51
 author: "maya-chen"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ With these strategic moves, Apple is poised to maintain its position in the tech
 
 ## Updates
 
+- **2026-10-21** — Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit ([source](https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit/))
 - **2026-10-16** — Meta’s new terms may allow it to train AI on news sites for free ([source](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers))
 - **2026-10-13** — New Apple TV 4K ([source](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/))
 - **2026-10-13** — Apple @ Work Podcast: Addigy announces Intelligence Suite, aimed at bringing AI control to Apple devices ([source](https://9to5mac.com/2026/10/13/addigy-intelligence-suite/))

@@ -1,16 +1,17 @@
 ---
 title: "Europe ditches US software for sovereign tech"
 date: 2026-04-28T03:45:22.840Z
-modified_date: 2026-09-24T19:45:16.328Z
+modified_date: 2026-10-21T23:00:16.076Z
 tags: ["European tech","sovereign tech","US tech providers"]
 hero_image: "/hero/2026-04-28-europe-ditches-us-software-for-sovereign-tech-94c8f0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "European tech"
 description: "European governments seek to reduce dependence on American tech providers"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ As European governments continue to invest in sovereign tech, they will need to 
 
 ## Updates
 
+- **2026-10-21** — INMO GO3 smart glasses pack a display and Gemini integration with clever camera privacy ([source](https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/))
 - **2026-09-24** — watchOS 27.2 includes hidden overhaul for Apple Watch screenshots ([source](https://9to5mac.com/2026/09/24/watchos-27-2-includes-hidden-overhaul-for-apple-watch-screenshots/))
 - **2026-09-18** — What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more ([source](https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/))
 - **2026-08-26** — IBM's new Granite 4.2 models ride the wave of interest in local LLMs ([source](https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/))

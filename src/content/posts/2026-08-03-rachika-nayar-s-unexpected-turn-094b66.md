@@ -1,19 +1,20 @@
 ---
 title: "Rachika Nayar's Unexpected Turn"
 date: 2026-08-03T06:59:33.474Z
-modified_date: 2026-10-12T19:35:51.250Z
+modified_date: 2026-10-21T23:00:25.399Z
 tags: ["Rachika Nayar","Heaven Come Crashing","Instrumental Music","Experimental Sound"]
 hero_image: "/hero/2026-08-03-rachika-nayar-s-unexpected-turn-094b66.jpg"
 hero_image_credit_name: "Thirdman"
 hero_image_credit_url: "https://www.pexels.com/@thirdman"
 visual_keyword: "drum"
 description: "Heaven Come Crashing brings a surprise"
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-03-rachika-nayar-s-unexpected-turn-094b66.mp3"
 audio_bytes: 609011
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ The impact of Heaven Come Crashing extends beyond the music industry. The album'
 
 ## Updates
 
+- **2026-10-21** — Someone made a Walkman music player for the Galaxy Z Fold 8, and it works with YouTube Music ([source](https://9to5google.com/2026/10/21/walkman-player-for-the-galaxy-z-fold-8/))
 - **2026-10-12** — CMF’s first wireless speakers look like musical milk cartons ([source](https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize))
 - **2026-09-04** — Japan Is Launching a Probe to Collect the First-Ever Samples From a Martian Moon ([source](https://www.wired.com/story/japan-launching-probe-to-collect-first-ever-samples-martian-moon/))
 - **2026-08-15** — Don&#8217;t overlook Elektron&#8217;s budget electronic music instruments ([source](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review))

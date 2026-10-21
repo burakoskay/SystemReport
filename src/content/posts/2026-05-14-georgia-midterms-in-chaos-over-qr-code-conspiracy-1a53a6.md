@@ -1,19 +1,20 @@
 ---
 title: "Georgia Midterms in Chaos Over QR Code Conspiracy"
 date: 2026-05-14T03:53:11.300Z
-modified_date: 2026-10-19T16:46:00.741Z
+modified_date: 2026-10-21T22:59:10.190Z
 tags: ["elections","misinformation","voting technology"]
 hero_image: "/hero/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "QR code"
 description: "Georgia bans QR codes in elections due to conspiracy theories, leaving ballot counting uncertain."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.mp3"
 audio_bytes: 613818
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -74,6 +75,7 @@ As the midterm elections approach, election officials in Georgia and across the 
 
 ## Updates
 
+- **2026-10-21** — ‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms ([source](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/))
 - **2026-10-19** — Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories ([source](https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/))
 - **2026-10-12** — The Fitbit Edge is for folks who don’t want to go totally screenless ([source](https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker))
 - **2026-08-31** — Read Tim Cook&#8217;s final message to Apple staff as CEO ([source](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff))

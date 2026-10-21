@@ -1,16 +1,17 @@
 ---
 title: "Infrasound Waves Offer New Fire Suppression Method"
 date: 2026-05-02T13:26:22.717Z
-modified_date: 2026-10-19T21:58:16.504Z
+modified_date: 2026-10-21T23:00:34.781Z
 tags: ["fire safety","acoustic fire suppression","infrasound waves"]
 hero_image: "/hero/2026-05-02-infrasound-waves-offer-new-fire-suppression-method-b3893c.jpg"
 hero_image_credit_name: "𝑒𝑏𝑟𝑎𝑟"
 hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -98,6 +99,7 @@ Regulatory bodies will also play a critical role in the adoption of acoustic fir
 
 ## Updates
 
+- **2026-10-21** — 9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more ([source](https://9to5mac.com/2026/10/21/daily-october-21-2026/))
 - **2026-10-19** — 9to5Mac Daily: October 19, 2026 – iPhone Duo demand, HomeView rumors ([source](https://9to5mac.com/2026/10/19/daily-october-19-2026/))
 - **2026-10-16** — 9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more ([source](https://9to5mac.com/2026/10/16/daily-october-16-2026/))
 - **2026-10-13** — Apple TV unveils new heist thriller series coming soon ([source](https://9to5mac.com/2026/10/13/apple-tv-unveils-new-heist-thriller-series-coming-soon/))

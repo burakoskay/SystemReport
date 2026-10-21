@@ -1,15 +1,17 @@
 ---
 title: "VSCode SSH woes push teams toward self‑hosted dev clouds"
 date: 2026-09-24T09:15:33.531Z
+modified_date: 2026-10-21T23:00:06.684Z
 tags: ["vscode","devops","self-hosted","ai","database"]
 hero_image: "/hero/2026-09-24-vscode-ssh-woes-push-teams-toward-self-hosted-dev-clouds-b09963.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "developer working on remote code environment with terminal and cloud icons"
 description: "A Fly.io blog post calls VSCode's SSH agent integration chaotic, sparking interest in self‑hosted alternatives like Dockside and AI‑driven tools such as Tiger CLI."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## VSCode's SSH agent breaks in practice
 
@@ -65,6 +67,9 @@ Monitor the adoption of Tiger’s MCP server in regulated industries. Auditors w
 
 Stay tuned for any standards bodies that address AI‑mediated database access. Formal guidance could shape how organizations balance speed and safety.
 
+## Updates
+
+- **2026-10-21** — Airbnb bans making guests do dishes and take out the trash ([source](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update))
 
 [^1]: [fly.io](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIzAfeBlTnnAUSXJM8zvVhNI2-9cvEuMsKMhssPA3Wjun6hziUZz6OcPjVUftZgUS18zdGGmaklKNDU9YNbG0aeLFx6YFvQ-2ZmDOK8m4y8fqRps7xZuK-CaL3i_uH)
 [^2]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxqC1s8hChb_7Crjh447014bJYh5q2t_PMlfDpz2Hx643pTjEhe0KEqLAlr_NhDh5ubJJvSd720KFUZYQSBapoDcd-QOBFeAcV68ClF4PW484sDRu3Fgo-jj9boxKIlSARzpwPMoQccw==)
