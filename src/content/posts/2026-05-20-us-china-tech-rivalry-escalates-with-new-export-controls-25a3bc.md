@@ -1,16 +1,17 @@
 ---
 title: "US-China tech rivalry escalates with new export controls"
 date: 2026-05-20T18:37:48.701Z
-modified_date: 2026-10-20T22:54:10.709Z
+modified_date: 2026-10-21T19:53:41.501Z
 tags: ["semiconductor exports","AI GPU restrictions","US-China trade war","national security controls","tech supply chain"]
 hero_image: "/hero/2026-05-20-us-china-tech-rivalry-escalates-with-new-export-controls-25a3bc.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "geopolitical conflict in tech industry"
 description: "New US export curbs on AI GPUs and China's material bans redefine semiconductor tensions."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Monitor these three developments: (1) How Chinese firms respond to GPU shortages
 
 ## Updates
 
+- **2026-10-21** — GM Wants Your Car to Do Your Chores ([source](https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/))
 - **2026-10-20** — Google is bringing a more personal version of its Gemini AI assistant to your car ([source](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/))
 - **2026-09-25** — Meadow lets you leave your smartphone at home without sacrificing the essentials ([source](https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/))
 - **2026-09-07** — The car industry A/B tested selling a car with and without CarPlay ([source](https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/))

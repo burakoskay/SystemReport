@@ -1,19 +1,20 @@
 ---
 title: "Google Updates AI Offerings with New Plans"
 date: 2026-05-25T21:15:32.892Z
-modified_date: 2026-10-11T16:07:58.730Z
+modified_date: 2026-10-21T19:54:15.847Z
 tags: ["Google","AI","Machine Learning"]
 hero_image: "/hero/2026-05-25-google-updates-ai-offerings-with-new-plans-b5d132.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "Google AI"
 description: "Google introduces new AI subscription plans, including AI Plus, AI Pro, and AI Ultra, with updated usage limits for Gemini-powered features."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-25-google-updates-ai-offerings-with-new-plans-b5d132.mp3"
 audio_bytes: 608802
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In conclusion, Google's new AI subscription plans represent a major expansion of
 
 ## Updates
 
+- **2026-10-21** — Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI ([source](https://www.wired.com/story/darn-tough-sock-sale-october-2026/))
 - **2026-10-11** — What's the difference between Android Automotive and Google Built-In? ([source](https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/))
 - **2026-09-07** — iPhone 18 Pro appears to show new colors in a retail store, but likely fake ([source](https://9to5mac.com/2026/09/07/iphone-18-pro-appears-to-show-new-colors-in-a-retail-store-but-likely-fake/))
 - **2026-09-06** — How long can you expect a PlayStation 5 DualSense controller to last? ([source](https://www.engadget.com/2248626/how-long-playstation-dualsense-wireless-controllers-last/))

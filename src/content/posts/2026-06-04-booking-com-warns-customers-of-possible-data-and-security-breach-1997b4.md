@@ -1,19 +1,20 @@
 ---
 title: "Booking.com Warns Customers of Possible Data and Security Breach"
 date: 2026-06-04T21:49:15.027Z
-modified_date: 2026-09-17T14:36:05.520Z
+modified_date: 2026-10-21T19:53:24.313Z
 tags: ["Booking.com","Data Breach","Travel Industry","Cyber Security","Online Transactions"]
 hero_image: "/hero/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "data breach"
 description: "Booking.com has alerted some customers to a potential data breach, where unauthorized parties may have accessed personal information, including names, emails, and addresses."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-04-booking-com-warns-customers-of-possible-data-and-security-breach-1997b4.mp3"
 audio_bytes: 600443
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The news of the potential data breach at Booking.com highlights the vulnerabilit
 
 ## Updates
 
+- **2026-10-21** — Eufy Security Wall Light Cam S4 Deal: Save $80 on This Versatile Gadget ([source](https://www.wired.com/story/eufy-security-camera-deals-october-2026/))
 - **2026-09-17** — Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls ([source](https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/))
 - **2026-08-31** — Markiplier is now GoPro’s biggest shareholder ([source](https://www.theverge.com/tech/986847/markiplier-gopro-investor))
 - **2026-08-25** — WhatsApp tightens account security with stronger two-step verification and more ([source](https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/))

@@ -1,19 +1,20 @@
 ---
 title: "Nuro Gets Permit for Driverless Testing on California Roads"
 date: 2026-05-06T10:25:38.452Z
-modified_date: 2026-08-26T19:43:25.313Z
+modified_date: 2026-10-21T19:53:58.574Z
 tags: ["autonomous vehicles","driverless testing","Nuro"]
 hero_image: "/hero/2026-05-06-nuro-gets-permit-for-driverless-testing-on-california-roads-8c0192.jpg"
 hero_image_credit_name: "Abhishek  Navlakha"
 hero_image_credit_url: "https://www.pexels.com/@navlakha"
 visual_keyword: "autonomous vehicle"
 description: "Nuro receives permit to test driverless robotaxis in California, ahead of Uber's planned launch."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-06-nuro-gets-permit-for-driverless-testing-on-california-roads-8c0192.mp3"
 audio_bytes: 563871
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ The future of autonomous vehicles is exciting and full of possibilities. As the 
 
 ## Updates
 
+- **2026-10-21** — Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers ([source](https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/))
 - **2026-08-26** — Being a mom is hard — the heat is making it harder ([source](https://www.theverge.com/news/985225/heat-stress-children-climate-change-study))
 - **2026-08-15** — The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis ([source](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/))
 - **2026-08-09** — HomeKit Weekly: Why the Eve Weather sensor is a must-have for Apple Home automations in 2026 ([source](https://9to5mac.com/2026/08/09/why-the-eve-weather-sensor-is-a-must-have-for-apple-home-automations-in-2026/))

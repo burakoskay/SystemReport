@@ -1,16 +1,17 @@
 ---
 title: "The New Space Race: Amazon Buys Globalstar to Connect Your iPhone"
 date: 2026-04-15T19:44:20.674Z
-modified_date: 2026-10-20T22:54:33.982Z
+modified_date: 2026-10-21T19:55:42.894Z
 tags: ["apple","amazon","globalstar","satellite communication","iphone connectivity"]
 hero_image: "/hero/2026-04-15-the-new-space-race-amazon-buys-globalstar-to-connect-your-iphone-ec19e9.jpg"
 hero_image_credit_name: "Amar  Preciado"
 hero_image_credit_url: "https://www.pexels.com/@amar"
 visual_keyword: "Satellite phone connectivity"
 description: "Amazon's $11.6B acquisition of Globalstar is set to revolutionize iPhone connectivity. Discover how this satellite deal empowers Apple, bypassing Starlink, and reshapes the mobile frontier."
-sources_count: 23
+sources_count: 24
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The convergence of consumer electronics and satellite technology marks a new fro
 
 ## Updates
 
+- **2026-10-21** — The Galaxy Tab S10 FE+ just hit one of its lowest price in months ([source](https://9to5google.com/2026/10/21/the-galaxy-tab-s10-fe-just-hit-its-lowest-price-in-months/))
 - **2026-10-20** — A New Rocco Smart Fridge Just Dropped. So Did the Prices (2026) ([source](https://www.wired.com/story/rocco-sale-october-2026/))
 - **2026-10-01** — The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader ([source](https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/))
 - **2026-09-25** — Apple shares video highlighting new child safety features across its devices ([source](https://9to5mac.com/2026/09/24/apple-shares-video-highlighting-new-child-safety-features-across-its-devices/))

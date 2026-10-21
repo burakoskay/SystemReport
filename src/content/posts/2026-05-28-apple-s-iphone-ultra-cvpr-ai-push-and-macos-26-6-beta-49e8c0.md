@@ -1,19 +1,20 @@
 ---
 title: "Apple's iPhone Ultra, CVPR AI Push, and macOS 26.6 Beta"
 date: 2026-05-28T20:41:27.764Z
-modified_date: 2026-08-05T01:56:10.414Z
+modified_date: 2026-10-21T19:56:18.011Z
 tags: ["apple","iphone","macos","cvpr","ai"]
 hero_image: "/hero/2026-05-28-apple-s-iphone-ultra-cvpr-ai-push-and-macos-26-6-beta-49e8c0.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "Apple devices and AI research"
 description: "Apple teases iPhone 18 Pro vs Ultra differences, previews computer‑vision research at CVPR, and opens macOS 26.6 public beta for early testing."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-28-apple-s-iphone-ultra-cvpr-ai-push-and-macos-26-6-beta-49e8c0.mp3"
 audio_bytes: 609847
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ The next Apple fall event will confirm whether the iPhone Ultra’s rumored came
 
 ## Updates
 
+- **2026-10-21** — iOS Decoded: iOS 27.2 RC – hands-on w/ HomePod Sound Glow, TV profiles, Apple TV Home Theater assets, more [Video] ([source](https://9to5mac.com/2026/10/21/ios-decoded-ios-27-2-rc-hands-on-w-homepod-sound-glow-tv-profiles-apple-tv-home-theater-assets-more-video/))
 - **2026-08-05** — Don’t screw this up, Marvel ([source](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday))
 - **2026-08-02** — Here’s how iPhone Ultra’s form factor could compare to other Apple products ([source](https://9to5mac.com/2026/08/02/heres-how-iphone-ultras-form-factor-could-compare-to-other-apple-products/))

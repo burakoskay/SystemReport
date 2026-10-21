@@ -1,16 +1,17 @@
 ---
 title: "AI Startups See Wild Valuation Swings"
 date: 2026-05-06T17:46:51.955Z
-modified_date: 2026-06-01T23:39:09.212Z
+modified_date: 2026-10-21T19:53:50.055Z
 tags: ["AI","Startups","Valuation"]
 hero_image: "/hero/2026-05-06-ai-startups-see-wild-valuation-swings-60a89e.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "DeepSeek's valuation jumps to $45B, Samsung hits $1T on AI chip demand"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## DeepSeek's Valuation Jumps
@@ -55,4 +56,5 @@ The growth of the AI sector will also be influenced by regulatory developments, 
 
 ## Updates
 
+- **2026-10-21** — The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026) ([source](https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/))
 - **2026-06-01** — Alphabet plans to raise $80B to pay for AI buildout ([source](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/))

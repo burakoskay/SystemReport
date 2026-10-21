@@ -1,16 +1,17 @@
 ---
 title: "Cleaning Vinyl Records"
 date: 2026-04-18T11:07:14.621Z
-modified_date: 2026-10-19T21:58:24.317Z
+modified_date: 2026-10-21T19:54:50.617Z
 tags: ["Vinyl Records","Record Cleaning","Sound Quality"]
 hero_image: "/hero/2026-04-18-cleaning-vinyl-records-424f5d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Record Needle"
 description: "Improve sound quality by removing dust and dirt"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ For clean records, a brush may be enough. For dirtier records, try a cleaning so
 
 ## Updates
 
+- **2026-10-21** — Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours ([source](https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing))
 - **2026-10-19** — MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it ([source](https://9to5mac.com/2026/10/19/solidsafe-duo/))
 - **2026-10-15** — Apple sets cutoff time for getting fastest iPhone Duo pre-order ([source](https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/))
 - **2026-09-08** — PISA 2025 Students' reading and mathematics performance declined across the OECD ([source](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html))

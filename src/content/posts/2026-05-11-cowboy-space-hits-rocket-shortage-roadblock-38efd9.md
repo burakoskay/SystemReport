@@ -1,16 +1,17 @@
 ---
 title: "Cowboy Space Hits Rocket Shortage Roadblock"
 date: 2026-05-11T15:24:59.466Z
-modified_date: 2026-09-03T22:11:18.173Z
+modified_date: 2026-10-21T19:53:07.067Z
 tags: ["space","data centers","rockets"]
 hero_image: "/hero/2026-05-11-cowboy-space-hits-rocket-shortage-roadblock-38efd9.jpg"
 hero_image_credit_name: "Frank Cone"
 hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The future outlook for Cowboy Space Corporation is promising, but uncertain. The
 
 ## Updates
 
+- **2026-10-21** — GM is giving OnStar an AI makeover ([source](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/))
 - **2026-09-03** — Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series ([source](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix))
 - **2026-09-03** — The XGIMI Aura 3 lineup brings Google TV to 4K 120Hz capable short-throw laser projectors ([source](https://9to5google.com/2026/09/03/the-xgimi-aura-3-lineup-brings-google-tv-to-4k-120hz-capable-short-throw-laser-projectors/))
 - **2026-08-21** — Another disguised Russian banking app has topped the US iPhone App Store ([source](https://9to5mac.com/2026/08/21/another-russian-banking-app-in-disguise-has-topped-the-us-app-store/))

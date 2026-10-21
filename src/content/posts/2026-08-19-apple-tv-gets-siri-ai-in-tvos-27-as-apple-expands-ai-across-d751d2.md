@@ -1,16 +1,17 @@
 ---
 title: "Apple TV Gets Siri AI in tvOS 27 as Apple expands AI across"
 date: 2026-08-19T10:28:37.275Z
-modified_date: 2026-10-16T19:13:02.610Z
+modified_date: 2026-10-21T19:54:24.584Z
 tags: ["apple","siri","accessibility","ios","cloud"]
 hero_image: "/hero/2026-08-19-apple-tv-gets-siri-ai-in-tvos-27-as-apple-expands-ai-across-d751d2.jpg"
 hero_image_credit_name: "Déji Fadahunsi"
 hero_image_credit_url: "https://www.pexels.com/@deji-fadahunsi-458107704"
 visual_keyword: "Apple TV remote with glowing AI waveform overlay"
 description: "A leak shows Siri AI arriving on Apple TV 4K with tvOS 27, joining recent AI upgrades in macOS, iOS, and accessibility tools."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -70,5 +71,6 @@ Track the official tvOS 27 announcement for the final activation method of Siri 
 
 ## Updates
 
+- **2026-10-21** — Walmart is inviting AI agents to shop for you ([source](https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents))
 - **2026-10-16** — Apple&#8217;s HomeView has an app problem ([source](https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast))
 - **2026-09-17** — The AI Slowdown Debate Crashed Salesforce’s Party ([source](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/))

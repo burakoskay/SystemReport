@@ -1,19 +1,20 @@
 ---
 title: "Apple’s Fall Blitz Mixes New Gear, TV Marathons"
 date: 2026-09-10T17:40:16.687Z
-modified_date: 2026-10-15T22:51:45.573Z
+modified_date: 2026-10-21T19:55:16.570Z
 tags: ["apple","hardware","streaming","privacy","software"]
 hero_image: "/hero/2026-09-10-apple-s-fall-blitz-mixes-new-gear-tv-marathons-1e5fd1.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "modern smartwatch on wrist against abstract tech backdrop"
 description: "Apple drops a four‑week TV premiere marathon, launches Watch Ultra 4, Series 12 and AirPods 5, and faces app and listening concerns with the upcoming iPhone Duo."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-09-10-apple-s-fall-blitz-mixes-new-gear-tv-marathons-1e5fd1.mp3"
 audio_bytes: 603787
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple is dumping a four‑week TV premiere marathon onto its streaming service while simultaneously flooding stores with a new Watch, AirPods and a looming iPhone Duo that could break third‑party apps and keep Siri listening around the clock.
@@ -58,4 +59,5 @@ The next two weeks will reveal whether Apple’s hardware push translates into s
 
 ## Updates
 
+- **2026-10-21** — Review: Carrie is a triumphant remix with one major flaw ([source](https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/))
 - **2026-10-15** — Withings now charges $100 per year to sync your data to other apps ([source](https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026))

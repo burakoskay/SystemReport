@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Update"
 date: 2026-05-17T20:59:57.706Z
-modified_date: 2026-10-07T03:47:24.095Z
+modified_date: 2026-10-21T19:55:34.138Z
 tags: ["Tech","Apple","Google"]
 hero_image: "/hero/2026-05-17-tech-giants-update-e76ed1.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "Siri"
 description: "Apple, Google, and WhatsApp unveil new features and updates, focusing on privacy, design, and AI integration."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ In the coming months, we can expect to see even more updates and developments fr
 
 ## Updates
 
+- **2026-10-21** — Honor’s new gaming phone & tablet have 10,000+ mAh batteries, fans, up to 240Hz OLED display ([source](https://9to5google.com/2026/10/21/honors-new-gaming-phone-tablet-have-10000-mah-batteries-fans-up-to-240hz-oled-display/))
 - **2026-10-07** — How to help stop spam calls on iPhone and Android ([source](https://www.engadget.com/2277629/how-to-stop-spam-calls-iphone-android/))
 - **2026-09-19** — The pros and cons of using noise cancelling headphones ([source](https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/))
 - **2026-08-06** — 5 Best AI Notetakers (2026), Tested and Reviewed ([source](https://www.wired.com/gallery/best-ai-notetakers/))
