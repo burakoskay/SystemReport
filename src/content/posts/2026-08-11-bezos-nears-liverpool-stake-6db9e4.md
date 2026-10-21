@@ -1,18 +1,20 @@
 ---
 title: "Bezos Nears Liverpool Stake"
 date: 2026-08-11T05:03:06.925Z
+modified_date: 2026-10-21T02:53:49.158Z
 tags: ["Jeff Bezos","Liverpool Football Club","Sports Ownership"]
 hero_image: "/hero/2026-08-11-bezos-nears-liverpool-stake-6db9e4.jpg"
 hero_image_credit_name: "Balázs Gábor"
 hero_image_credit_url: "https://www.pexels.com/@gaborbalazs97"
 visual_keyword: "Liverpool"
 description: "Jeff Bezos nears Liverpool stake"
-sources_count: 1
-author: "sam-whitfield"
+sources_count: 2
 audio_path: "/audio/2026-08-11-bezos-nears-liverpool-stake-6db9e4.mp3"
 audio_bytes: 590412
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Bezos' Investment
 Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club. This marks Bezos' entry into sports ownership.
@@ -36,3 +38,7 @@ There have been several instances of tech moguls investing in sports teams in th
 The deal's structure and financing will be crucial aspects of the investment. Bezos will likely bring his business acumen to the table, potentially leading to changes in the club's operations and strategy. This could include investments in the team's infrastructure, such as the stadium and training facilities, as well as changes to the team's management and coaching staff.
 ## Future Implications
 The potential investment raises questions about the future of sports ownership. If Bezos acquires a stake in Liverpool Football Club, it could lead to increased scrutiny of the role of tech moguls in sports. This could have significant implications for the sports industry as a whole, as well as for the team's fans and stakeholders.
+
+## Updates
+
+- **2026-10-21** — Five things you should know before buying the iPhone Duo ([source](https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/))

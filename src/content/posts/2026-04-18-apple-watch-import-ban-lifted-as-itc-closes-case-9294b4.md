@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-09-22T20:45:37.467Z
+modified_date: 2026-10-21T02:53:42.679Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-10-21** — What can you use your Apple Watch Ultra 4 action button for? ([source](https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/))
 - **2026-09-22** — Apple could take on Whoop with a new fitness tracker, report says ([source](https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/))
 - **2026-09-15** — OpenAI stuck fighting Musk antitrust suit after Apple finds a way out ([source](https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/))
 - **2026-09-10** — I think I hate the internet ([source](https://strategictree.bearblog.dev/i-think-i-hate-the-internet/))
