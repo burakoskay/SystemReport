@@ -1,16 +1,17 @@
 ---
 title: "OpenBSD 7.9 Arrives as BSD Community Mourns Peter Neumann"
 date: 2026-05-19T15:47:16.900Z
-modified_date: 2026-10-16T14:28:03.558Z
+modified_date: 2026-10-22T02:58:50.026Z
 tags: ["openbsd","security","graphics"]
 hero_image: "/hero/2026-05-19-openbsd-7-9-arrives-as-bsd-community-mourns-peter-neumann-33fd22.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "openbsd terminal with code overlay"
 description: "OpenBSD 7.9 ships with fresh updates while the BSD world reflects on Peter Neumann's legacy and the rise of novel graphics demos."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ OpenBSD 7.9 will be the baseline for the next round of security audits, and the 
 
 ## Updates
 
+- **2026-10-22** — YouTube says it isn’t testing hiding the dislike button ([source](https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos))
 - **2026-10-16** — Replit’s CEO says the future of work is the ‘self-driving company’ ([source](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/))
 - **2026-08-24** — Zillow settles antitrust lawsuit with the FTC ([source](https://www.engadget.com/2242715/zillow-settles-antitrust-lawsuit-with-the-ftc/))
 - **2026-08-17** — I’m hooked on Peak Design’s new City bags ([source](https://www.theverge.com/tech/980137/peak-design-city-line-review))
