@@ -1,16 +1,17 @@
 ---
 title: "Apple's Foldable Future: Is the iPhone Ultra on the Horizon?"
 date: 2026-04-15T19:47:26.268Z
-modified_date: 2026-10-08T19:40:04.638Z
+modified_date: 2026-10-22T19:43:30.023Z
 tags: ["apple","iphone ultra","foldable phone","tech rumors","smartphone innovation"]
 hero_image: "/hero/2026-04-15-apple-s-foldable-future-is-the-iphone-ultra-on-the-horizon-4c05b1.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "futuristic foldable iPhone concept"
 description: "Apple is poised to enter the foldable phone market later this year. Speculation mounts on its name, likely 'iPhone Ultra,' and premium features set to redefine the high-end smartphone experience."
-sources_count: 15
+sources_count: 16
 author: "david-okafor"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ Apple's entry into the foldable market, particularly with an "Ultra" branded dev
 
 ## Updates
 
+- **2026-10-22** — Deals: MacBook Pro $900 off, Apple Pencil (USB-C) from $61, Apple TV 4K, MacBook Neo, more ([source](https://9to5mac.com/2026/10/22/deals-macbook-apple-pencil-usb-c-apple-tv-4k-neo/))
 - **2026-10-08** — These US states just said ‘no’ to Apple Wallet driver’s licenses ([source](https://9to5mac.com/2026/10/08/these-us-states-just-said-no-to-apple-wallet-drivers-licenses/))
 - **2026-09-06** — iPadOS 27 still needs simpler multitasking, here’s what I’d like to see ([source](https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see/))
 - **2026-08-26** — Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses ([source](https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/))

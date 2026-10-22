@@ -1,18 +1,20 @@
 ---
 title: "Anthropic Plans to Pace AI Frontier as US Labs Push Open‑Weight"
 date: 2026-09-12T16:43:11.431Z
+modified_date: 2026-10-22T19:43:40.587Z
 tags: ["ai","frontier-models","open-weight","mathematics","policy"]
 hero_image: "/hero/2026-09-12-anthropic-plans-to-pace-ai-frontier-as-us-labs-push-open-weight-08d829.jpg"
 hero_image_credit_name: "Sylvain Cls"
 hero_image_credit_url: "https://www.pexels.com/@sylvain-cls-3918566"
 visual_keyword: "concerned mathematician staring at AI code on screen"
 description: "Anthropic's CEO outlines a pacing strategy while Garry Tan urges US labs to distill frontier models, sparking pushback from mathematicians worried about AI's reach."
-sources_count: 8
-author: "maya-chen"
+sources_count: 9
 audio_path: "/audio/2026-09-12-anthropic-plans-to-pace-ai-frontier-as-us-labs-push-open-weight-08d829.mp3"
 audio_bytes: 609638
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Anthropic Sets a Pace for Frontier AI
 Anthropic's chief executive announced a plan to pace the development of frontier models. The outline came in a recent interview with TechCrunch. Anthropic intends to match the speed of breakthroughs without overshooting safety thresholds. The company sees pacing as a way to keep research productive and responsible. No timeline was disclosed. The statement signals a shift from pure acceleration to calibrated growth.
@@ -42,3 +44,7 @@ The tension between speed, openness, and safety defines the current strategic la
 
 ## What to Watch
 Track whether Anthropic publishes concrete pacing metrics in the next quarter. Monitor Garry Tan's influence on funding rounds for US open‑weight startups. Watch for follow‑up statements from the mathematicians' coalition, especially any formal petitions to funding agencies. The next major AI conference may reveal how distillation techniques are being adopted at scale. These signals will indicate whether the US can build a parallel open‑weight frontier without compromising mathematical rigor.
+
+## Updates
+
+- **2026-10-22** — LineageOS 24 review: Easier than ever to recommend [Video] ([source](https://9to5google.com/2026/10/22/lineageos-24-review/))

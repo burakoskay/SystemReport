@@ -1,15 +1,17 @@
 ---
 title: "JIT breakthroughs squeeze latency from microseconds to minutes"
 date: 2026-08-23T18:24:31.474Z
+modified_date: 2026-10-22T19:42:10.232Z
 tags: ["jit","compilers","java","ai"]
 hero_image: "/hero/2026-08-23-jit-breakthroughs-squeeze-latency-from-microseconds-to-minutes-fc0a94.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "engineer typing code with glowing circuit overlay"
 description: "New JIT tricks—from a 5µs demo to AI agent compilers and native Java toolchains—are reshaping latency‑critical workloads."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 The community just proved you can compile a snippet of code in five microseconds and run it instantly, a milestone that forces every latency‑obsessed stack to rethink its build pipeline.  Malisper’s blog post, "JIT Compiling Code in 5μs," shows a minimal example that hits the 5 µs mark on a commodity laptop, turning a naïve JIT into a practical latency hack.
 
@@ -33,6 +35,9 @@ These four efforts—microsecond JITs, AI agent compilers, Python‑based regist
 
 **What to watch**: The next few months will reveal whether these prototypes mature into production‑ready components.  Keep an eye on the A1 project’s upcoming paper for formal performance numbers and on the Elide plugin’s GitHub issues for real‑world stability reports.  If the five‑microsecond JIT benchmark gains traction, we may see language runtimes expose low‑level JIT APIs as first‑class features.  The key metric to track will be end‑to‑end latency for latency‑critical pipelines—whether that’s a chat‑bot responding in sub‑second time or a CI system finishing a full build in under five minutes.
 
+## Updates
+
+- **2026-10-22** — They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028 ([source](https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028/))
 
 [^1]: [malisper.me](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFX-tN7WUztD9JpWUQXRp9lTLoPgXWksZvtMz2YAAjAnQMEcEp_gYD-6sapjmswbIiVF_nQ5ofuHRDErLMHI68ZFRefK6l8MFQPEZ2t20t9TTgPzqVrLXPnbXt-Ma_syXBOH5fSQzT07dn)
 [^2]: [runtimewire.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3xlj-ecbke2Wh0hemHSYeUtVolF7H7hI7SSsKXgMIKaCPDETsVuEuCmArOEQjCliqxKsVe5yRMxBMZBuHJPZzJe0kLdoVKUOI04hKo8bU5ynT5FYcDSnMiCwLoMZhX9hR8dVHXAtUwtdYG7BuLpvteSkc-Pj7u42OsIT7Y5xzeUw6pA==)

@@ -1,18 +1,20 @@
 ---
 title: "US ends old missile watch as commercial rockets ramp up"
 date: 2026-10-03T13:02:27.138Z
+modified_date: 2026-10-22T19:42:31.411Z
 tags: ["defense","space","launches","technology"]
 hero_image: "/hero/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "launch pad with rockets and satellite dishes"
 description: "The military shuts a legacy nuclear launch detection program while SpaceX, Rocket Lab, and Blue Origin push launch cadence higher."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.mp3"
 audio_bytes: 556139
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The program that’s over
 The Defense Department pulled the plug on its decades‑old nuclear‑missile‑launch detection system this week. The move ends a program that traced missile launches from the moment they left a silo.
@@ -51,6 +53,9 @@ These scientific threads, though peripheral to the immediate launch news, signal
 ## What to watch
 Track the FAA’s decision on Blue Origin’s request for fifty New Glenn launches and booster landings; approval would cement a new high‑frequency heavy‑lift capability in the U.S. market. Also monitor the first test flight of the next‑gen missile‑detection satellite, scheduled within the next year, as its performance will set the bar for how quickly the defense community can react to launch events. Finally, keep an eye on SpaceX’s launch cadence reports and Rocket Lab’s contract milestones, because any slowdown could expose gaps in the newly thin‑skinned detection network.
 
+## Updates
+
+- **2026-10-22** — Google tells Android users to update as parts of Canada adopt permanent daylight saving time ([source](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada))
 
 [^1]: [northeasttimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO1aCeJPMgQZw-NiUs8t4SFrDHffPf6ziY4z0mZXUmcFtHMn5V2Aj1owyYquP3jrPWP6hCFUQ0p6MXvagTUXZ4m3NlkQJZHfJeMs680PbXx0FuMrCGF1-t2hNXnpeXVVx3GYVwVp77G0zKcJHgiNk5KqdfLrj-VScZ0tTW1pzZcmgrUJ_7wG5x1pN1CWlaVECNXnwVsSPxDz_7W7N2-GWDMugCWWzuOX6p15SzoFAzlg==)
 [^2]: [spacecom.mil](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrV8N-rNUXi3KsVn9WJ7eeunKmXvlNnjvAish9P65EN41FBwr-fnwbTQpHhXC6nLJOG_Jsb28Zn42dWCUxcuw-i70sizumIZ9Gd-ba9fUeINA5JJqi_4-4ZsE9-gTOGrSWHhpzDV4cmE0KtSvq5FqKcB5N46I9b-PBh1a-HlaIlw_ookboISDMYDoAyR9ZxPLxwTUuK9GhL17Gfdb50C3QZ_cC4896QVwM57kRFxM90h2AuPz6y5ZyIZU-npo=)

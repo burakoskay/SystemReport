@@ -1,16 +1,17 @@
 ---
 title: "Meta Employees Protest Laptop Surveillance"
 date: 2026-05-14T21:19:24.488Z
-modified_date: 2026-10-02T21:42:49.923Z
+modified_date: 2026-10-22T19:42:42.042Z
 tags: ["Meta","workplace surveillance","employee privacy"]
 hero_image: "/hero/2026-05-14-meta-employees-protest-laptop-surveillance-79211e.jpg"
 hero_image_credit_name: "Robert So"
 hero_image_credit_url: "https://www.pexels.com/@robertkso"
 visual_keyword: "surveillance"
 description: "Meta employees in US and UK protest corporate software tracking keystrokes and mouse activity"
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ The controversy surrounding Meta's surveillance software is also likely to attra
 
 ## Updates
 
+- **2026-10-22** — In Meta’s version of the future, I’ll have my Muse call your Muse ([source](https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network))
 - **2026-10-02** — Meta open sources code to let you make Muse AI gadgets ([source](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link))
 - **2026-10-01** — Shopify debuts Canvas, a way to build online stores by chatting with AI ([source](https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/))

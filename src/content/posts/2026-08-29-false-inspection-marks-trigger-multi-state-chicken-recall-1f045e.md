@@ -1,15 +1,17 @@
 ---
 title: "False Inspection Marks Trigger Multi-State Chicken Recall"
 date: 2026-08-29T08:35:18.006Z
+modified_date: 2026-10-22T19:41:49.188Z
 tags: ["food-safety","recall","chicken","fsis"]
 hero_image: "/hero/2026-08-29-false-inspection-marks-trigger-multi-state-chicken-recall-1f045e.jpg"
 hero_image_credit_name: "Caleb Oquendo"
 hero_image_credit_url: "https://www.pexels.com/@caleboquendo"
 visual_keyword: "pallet of chicken packages with inspection stickers"
 description: "A chicken recall in five states over bogus inspection marks highlights rising food safety alerts and eroding consumer trust."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## A bogus inspection tag sent shoppers scrambling
 The USDA’s Food Safety and Inspection Service pulled chicken products from grocery shelves in five states after discovering false marks of inspection. The recall, announced in August 2026, affects raw chicken sold under several brand names and distributed by a regional processor.
@@ -38,3 +40,7 @@ Meanwhile, other meat producers are tightening their own verification steps. Som
 
 ## What to watch
 Watch the USDA’s upcoming proposal on mandatory digital inspection records, slated for a public comment period in early 2027. If adopted, the rule could make it harder to forge inspection marks and give retailers a real‑time way to verify a product’s compliance status. Until then, shoppers should keep an eye on recall notices from the FSIS and the FDA, especially for meat and poultry items that lack clear, verifiable labeling.
+
+## Updates
+
+- **2026-10-22** — Inside the Exclusive Nathan Fielder Interview ([source](https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview/))

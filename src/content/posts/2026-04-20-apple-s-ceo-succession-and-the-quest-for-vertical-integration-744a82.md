@@ -1,16 +1,17 @@
 ---
 title: "Apple's CEO Succession and the Quest for Vertical Integration"
 date: 2026-04-20T20:42:06.124Z
-modified_date: 2026-10-20T18:15:22.415Z
+modified_date: 2026-10-22T19:42:36.746Z
 tags: ["apple","ceo","vertical integration","chip design"]
 hero_image: "/hero/2026-04-20-apple-s-ceo-succession-and-the-quest-for-vertical-integration-744a82.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Tim Cook and John Ternus"
 description: "Tim Cook steps down as Apple CEO, John Ternus takes over. What does this mean for Apple's future in vertical integration and chip design?"
-sources_count: 13
+sources_count: 14
 author: "priya-raman"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ What to watch: Apple's chip design efforts will be closely watched in the coming
 
 ## Updates
 
+- **2026-10-22** — Discord now formats Markdown previews right ([source](https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels))
 - **2026-10-20** — Chrome will now show a warning before you visit ‘suspicious’ sites ([source](https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning))
 - **2026-10-15** — How Windows is being optimized for Nvidia’s RTX Spark laptops ([source](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad))
 - **2026-10-06** — We can’t just change the definition of ‘recording’ ([source](https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording))

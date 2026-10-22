@@ -1,16 +1,17 @@
 ---
 title: "Samsung pushes Ultra hardware while hiding data bloatware"
 date: 2026-08-28T04:07:28.831Z
-modified_date: 2026-10-10T16:47:59.035Z
+modified_date: 2026-10-22T19:41:38.570Z
 tags: ["samsung","privacy","hardware","gaming"]
 hero_image: "/hero/2026-08-28-samsung-pushes-ultra-hardware-while-hiding-data-bloatware-80bdb9.jpg"
 hero_image_credit_name: "XXSS IS BACK"
 hero_image_credit_url: "https://www.pexels.com/@xexusdesigner"
 visual_keyword: "Samsung Galaxy S27 Pro leak beside Odyssey gaming monitor on a dark tech desk"
 description: "Samsung rolls out a smaller Ultra phone and a 1,100 Hz gaming monitor, even as privacy‑busting AppCloud bloatware haunts its mid‑range devices in the MENA region."
-sources_count: 6
+sources_count: 7
 author: "sam-whitfield"
 ---
+
 
 
 ## New hardware, old privacy shadows
@@ -51,4 +52,5 @@ The next Samsung developer conference, scheduled for early 2025, will likely rev
 
 ## Updates
 
+- **2026-10-22** — TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements ([source](https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/))
 - **2026-10-10** — GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP ([source](https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/))

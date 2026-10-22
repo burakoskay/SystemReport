@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Invest in AI Cybersecurity"
 date: 2026-05-12T03:40:36.130Z
-modified_date: 2026-10-16T14:28:22.159Z
+modified_date: 2026-10-22T19:43:03.453Z
 tags: ["AI","Cybersecurity","Tech Giants"]
 hero_image: "/hero/2026-05-12-tech-giants-invest-in-ai-cybersecurity-05bab1.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "AI-powered security"
 description: "OpenAI launches Daybreak, Google reports AI-aided hacking"
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ The broader industry context of the AI cybersecurity market is also influenced b
 
 ## Updates
 
+- **2026-10-22** — Sundar Pichai (allegedly) draws the line at oceans ([source](https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/))
 - **2026-10-16** — Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat ([source](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/))
 - **2026-10-09** — ‘Matchbox The Movie’ starring John Cena premieres on Apple TV ([source](https://9to5mac.com/2026/10/08/matchbox-the-movie-starring-john-cena-premieres-on-apple-tv/))

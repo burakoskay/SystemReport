@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Google Pixel Discounts, TechCrunch Disrupt Sale"
 date: 2026-05-04T21:13:43.833Z
-modified_date: 2026-10-12T19:37:27.777Z
+modified_date: 2026-10-22T19:43:45.860Z
 tags: ["Google Pixel","TechCrunch Disrupt","Tech Deals"]
 hero_image: "/hero/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Pixel 10 Pro/XL"
 description: "Get discounts on Google Pixel phones, TechCrunch Disrupt tickets, and other tech deals."
-sources_count: 43
+sources_count: 44
 audio_path: "/audio/2026-05-04-tech-deals-google-pixel-discounts-techcrunch-disrupt-sale-788eb4.mp3"
 audio_bytes: 606294
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -107,6 +108,7 @@ The current tech deals offer a range of opportunities for consumers to save on v
 
 ## Updates
 
+- **2026-10-22** — Deals: Pixel 11 Pro Fold up to $419 off, S26 Ultra $420 off, HP OLED Copilot+ PC all-time low, more ([source](https://9to5google.com/2026/10/22/deals-pixel-11-pro-fold-s26-ultra-hp-oled-copilot-pc/))
 - **2026-10-12** — Deals: MacBook Pro massive $600 off, AirPods, Mac mini, Apple iPhone cases, more ([source](https://9to5mac.com/2026/10/12/deals-macbook-pro-airpods-mac-mini-apple-iphone-cases/))
 - **2026-10-04** — Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more ([source](https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/))
 - **2026-10-03** — Apple weekend deals: MacBook Pro $500 off, AirTag 2, Prime Day HomeKit discounts, MagSafe chargers, more ([source](https://9to5mac.com/2026/10/03/apple-weekend-deals-macbook-discounts/))

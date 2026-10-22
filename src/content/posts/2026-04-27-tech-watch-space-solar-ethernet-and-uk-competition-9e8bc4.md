@@ -1,19 +1,20 @@
 ---
 title: "Tech Watch: Space Solar, Ethernet, and UK Competition"
 date: 2026-04-27T10:24:34.592Z
-modified_date: 2026-10-15T02:45:23.214Z
+modified_date: 2026-10-22T19:41:54.427Z
 tags: ["space solar power","Ethernet","UK digital competition"]
 hero_image: "/hero/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.jpg"
 hero_image_credit_name: "Lio Voo"
 hero_image_credit_url: "https://www.pexels.com/@lio-voo-262755153"
 visual_keyword: "space solar power"
 description: "Meta inks deal for solar power beamed from space, Ethernet's relevance in modern networks, and UK's push for digital competition."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.mp3"
 audio_bytes: 609638
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The intersection of technology and transportation is an exciting space, with man
 
 ## Updates
 
+- **2026-10-22** — Anker Soundcore Space 2 Are Their Lowest Price Ever ([source](https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026/))
 - **2026-10-15** — Show HN: Petal, open-source CoScreen/ScreenHero finally free ([source](https://petal.live/))
 - **2026-09-12** — Anthropic CEO says it’s time to pump the brakes on AI ([source](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development))
 - **2026-08-02** — Skylight&#8217;s smart calendars are up to $90 off during its back-to-school sale ([source](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale))
