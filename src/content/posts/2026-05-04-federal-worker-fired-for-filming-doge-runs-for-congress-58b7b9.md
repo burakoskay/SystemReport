@@ -1,19 +1,20 @@
 ---
 title: "Federal Worker Fired for Filming DOGE, Runs for Congress"
 date: 2026-05-04T14:16:25.345Z
-modified_date: 2026-10-20T22:54:49.443Z
+modified_date: 2026-10-22T09:05:57.856Z
 tags: ["government","congress","DOGE"]
 hero_image: "/hero/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.jpg"
 hero_image_credit_name: "Hugo Sykes"
 hero_image_credit_url: "https://www.pexels.com/@hugosykes"
 visual_keyword: "Alexis Goldstein"
 description: "Alexis Goldstein, ex-CFPB employee, fired for recording DOGE's incursion into the agency, now runs for Congress."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.mp3"
 audio_bytes: 561573
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ Ultimately, the outcome of Goldstein's campaign will depend on how voters respon
 
 ## Updates
 
+- **2026-10-22** — Security Bite Podcast: Who is your AI agent really working for? ([source](https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for/))
 - **2026-10-20** — Tesla and SpaceX are discussing a possible merger, Musk says ([source](https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees))
 - **2026-10-07** — 14 Best Prime Day Wearable Deals: Apple, Google, Samsung (2026) ([source](https://www.wired.com/story/amazon-prime-day-wearable-deals-10-07-2026/))
 - **2026-10-05** — Deals: Pixel Watch 5 $70 off, Steph Curry model all-time low, massive Best Buy Techtober sale, Yoga Tab Gen 2, more ([source](https://9to5google.com/2026/10/05/deals-pixel-watch-5-steph-curry-model-best-buy-techtober/))
