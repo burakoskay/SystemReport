@@ -1,19 +1,20 @@
 ---
 title: "Origin Lab's $8M AI Data Marketplace"
 date: 2026-05-13T21:32:21.739Z
-modified_date: 2026-10-22T19:42:26.103Z
+modified_date: 2026-10-22T22:55:57.261Z
 tags: ["AI","data marketplace","Origin Lab"]
 hero_image: "/hero/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI data marketplace"
 description: "Origin Lab raises $8M to connect video game firms with AI labs, enabling data sales."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-13-origin-lab-s-8m-ai-data-marketplace-dc1edb.mp3"
 audio_bytes: 641194
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The future of AI development will depend on the creation of sustainable and tran
 
 ## Updates
 
+- **2026-10-22** — The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data ([source](https://www.wired.com/story/google-home-speaker-bug-oct-2026/))
 - **2026-10-22** — Republican politicians have embraced anti-Indian racism — and it’s costing them votes ([source](https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas))
 - **2026-10-11** — Can the AI industry persuade data center opponents by getting rid of NDAs? ([source](https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/))
 - **2026-09-15** — Trump throws out power plant climate pollution rules ([source](https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers))

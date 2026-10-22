@@ -1,18 +1,20 @@
 ---
 title: "Meta launches Forum app for Facebook Groups with AI tools"
 date: 2026-05-22T21:19:31.310Z
+modified_date: 2026-10-22T22:57:22.727Z
 tags: ["meta","forum","facebook groups","ai","mobile apps"]
 hero_image: "/hero/2026-05-22-meta-launches-forum-app-for-facebook-groups-with-ai-tools-810dc5.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "smartphone displaying a social media group feed with AI chat overlay"
 description: "Meta's Forum app moves Groups to a standalone iPhone app and adds AI question‑answering and moderation features."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-22-meta-launches-forum-app-for-facebook-groups-with-ai-tools-810dc5.mp3"
 audio_bytes: 589994
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Meta released Forum, a dedicated iPhone app that consolidates Facebook Groups into a single feed and layers two AI tools on top. The move signals Meta’s attempt to give groups their own surface while testing AI‑driven discovery.
 
@@ -45,3 +47,7 @@ Administrators can view the real identities behind pseudonymous posts, a fact th
 ## What to watch
 
 The next few weeks will reveal whether Forum graduates from a public test to a full release. Key signals include iOS update notes, changes to the App Store description, and any shift in Meta’s messaging about the AI features. Watch for statements from privacy regulators, especially if the AI “Ask” tool is found to cross‑reference data in ways that trigger compliance concerns. Finally, monitor Reddit’s response; a feature rollout that draws active group members away could prompt competitive tweaks on that platform.
+
+## Updates
+
+- **2026-10-22** — Teenage Engineering launched an instrument amp with a ton of built-in effects ([source](https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp))

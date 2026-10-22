@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Face Regulatory Heat"
 date: 2026-05-07T10:29:37.180Z
-modified_date: 2026-07-30T15:48:32.274Z
+modified_date: 2026-10-22T22:56:05.777Z
 tags: ["tech giants","regulatory challenges","digital economy"]
 hero_image: "/hero/2026-05-07-tech-giants-face-regulatory-heat-61b43a.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "tech giants"
 description: "UK competition rules must be updated for the digital age"
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ The UK's regulatory update will also have implications for the development of ne
 
 ## Updates
 
+- **2026-10-22** — The Social Society Helping Women Join the AI Boom ([source](https://www.wired.com/story/aged-intelligence-society-interview/))
 - **2026-07-30** — Razer’s new keyboards drop the price on powerful gaming features ([source](https://www.theverge.com/tech/973027/razer-huntsman-v3-he-magnetic-mechanical-keyboard-snap-tap-price-impressions))
 - **2026-06-02** — The are currently the best Nest deals on Amazon ([source](https://9to5google.com/2026/06/02/the-are-currently-the-best-nest-deals-on-amazon/))
 - **2026-05-14** — The Razr Fold is stuck in the middle ([source](https://www.theverge.com/tech/930246/motorola-razr-fold-review-battery))

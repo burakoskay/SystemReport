@@ -1,18 +1,20 @@
 ---
 title: "DeepSeek V4.1 Flash 1017 Cuts Cost While Doubling Token Window"
 date: 2026-10-19T09:34:22.166Z
+modified_date: 2026-10-22T22:55:48.829Z
 tags: ["deepseek","llm","ai","developer-tools","pricing"]
 hero_image: "/hero/2026-10-19-deepseek-v4-1-flash-1017-cuts-cost-while-doubling-token-window-791a92.jpg"
 hero_image_credit_name: "hitesh choudhary"
 hero_image_credit_url: "https://www.pexels.com/@hiteshchoudhary"
 visual_keyword: "developer using a large language model on a dual-monitor setup"
 description: "DeepSeek releases V4.1 Flash 1017 with a 1M token window, lower pricing and faster outputs, reshaping AI coding assistants."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-19-deepseek-v4-1-flash-1017-cuts-cost-while-doubling-token-window-791a92.mp3"
 audio_bytes: 659793
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 DeepSeek rolled out V4.1 Flash 1017, a 1‑million‑token LLM that promises faster completions at a fraction of the previous price. The model appears on DeepSeek’s website, app and API as of the latest update, and it ships with a new Reinforcement Learning with self‑feedback loop that the company says improves end‑to‑end project development.
 
@@ -41,3 +43,7 @@ The model’s reinforcement‑learning self‑feedback loop also differentiates 
 ## What to watch
 
 The next quarter will reveal whether DeepSeek can sustain its pricing advantage after the free Search & Fetch window closes. Watch the billing metrics announced for Oct 31 2026 and any follow‑up pricing adjustments. Also keep an eye on community benchmarks that compare Flash 1017’s latency and output quality against GPT‑4 Turbo and Claude 3 on real‑world coding tasks. If DeepSeek maintains its cost edge while delivering on the promised 1 M token context, it could force a broader shift toward ultra‑long‑context models in the developer tooling space.
+
+## Updates
+
+- **2026-10-22** — What to Know About Shamonda Virus Following the First Reported Human Infection ([source](https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection/))
