@@ -1,16 +1,17 @@
 ---
 title: "Kushner Warns VCs"
 date: 2026-08-15T00:54:47.645Z
-modified_date: 2026-10-14T09:13:41.955Z
+modified_date: 2026-10-23T02:58:44.752Z
 tags: ["AI","Investments","VCs","Kushner"]
 hero_image: "/hero/2026-08-15-kushner-warns-vcs-842338.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Thrive's Joshua Kushner cautions VCs on AI euphoria"
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The market outlook for AI investments is uncertain, with some predicting signifi
 
 ## Updates
 
+- **2026-10-23** — AI and the Enclosure of the Scientific Commons ([source](https://arxiv.org/abs/2610.27251))
 - **2026-10-14** — Cyberattack halts construction of tunnel between Denmark and Germany ([source](https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24))
 - **2026-10-07** — House with 15m underground tunnels for sale for 300k ([source](https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/))
 

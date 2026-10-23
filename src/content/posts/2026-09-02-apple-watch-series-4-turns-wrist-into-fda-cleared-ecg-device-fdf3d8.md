@@ -1,15 +1,17 @@
 ---
 title: "Apple Watch Series 4 Turns Wrist Into FDA‑Cleared ECG Device"
 date: 2026-09-02T02:31:18.893Z
+modified_date: 2026-10-23T02:58:09.255Z
 tags: ["apple","smartwatch","healthtech"]
 hero_image: "/hero/2026-09-02-apple-watch-series-4-turns-wrist-into-fda-cleared-ecg-device-fdf3d8.jpg"
 hero_image_credit_name: "Ryan Grice"
 hero_image_credit_url: "https://www.pexels.com/@ryan-grice-185547915"
 visual_keyword: "close‑up of wrist wearing Apple Watch displaying ECG readout"
 description: "Apple’s Series 4 adds a 30‑second ECG test and AFib alerts, marking a shift from fitness tracker to medical‑grade wearable."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Apple’s new Series 4 watch can record an electrocardiogram in 30 seconds and flag atrial fibrillation, a capability cleared by the FDA for over‑the‑counter sale. The move pushes the device from a fitness accessory into a regulated health tool.[^1][^2][^3][^4][^5][^6]
 
@@ -44,6 +46,10 @@ Apple plans to roll out the ECG and irregular‑rhythm alerts later this year in
 Watch users should watch for a software update Apple promises to address a pending FTC inquiry. The update may influence the outcome of the appeal scheduled for early January.
 
 What to watch: the timing of the ECG app’s global release, the regulatory response to Apple’s medical‑device claim, and any follow‑up hardware announcements that extend health monitoring beyond the heart.
+
+## Updates
+
+- **2026-10-23** — The next-gen Xbox won’t cost you $1,800. It can’t. Can it? ([source](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial))
 
 [^1]: [ajmc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFVhP12jNSt42bCp4RP3CG-TieTCQNAo7c87SyEea1J4ETyEbk2qDFlqO4oYvWnBoZBoLiEp5U-eeeGDarRU1ujQgFLD7H2e0BJnjcLQ2kThETJ1y446XTEHKn87WP31GpueCEVIEkd3eCLxmUIwtonNJwyEQhZmxI)
 [^2]: [fiercebiotech.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8W03aSB066QV6higSxoYYbAJjEZv3cVS-3VmCERzVq6qI3zgFsPX_dk1gAjl8CWkNNHguSF1VhqcOh1v50w39EgwiOyMHYDHvSbbOV4lo76KU4mjSeo8hr4FfUJXM27i_0cszQ3Tqgw_Mao7zCQXwr9bvBKfhTOf1q8cI5s0f4qPHfpiMW-M9gLZpi6mb1utdKjKUxA==)

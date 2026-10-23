@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Invest in AI, Nuclear Power"
 date: 2026-04-21T17:11:15.962Z
-modified_date: 2026-10-04T17:58:11.283Z
+modified_date: 2026-10-23T02:58:30.644Z
 tags: ["ai","nuclear power","social media"]
 hero_image: "/hero/2026-04-21-tech-giants-invest-in-ai-nuclear-power-e09c8a.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "a robotic figure running a half marathon"
 description: "Recent investments and innovations in AI, nuclear power, and social media aim to tackle issues like loneliness, misinformation, and user engagement."
-sources_count: 19
+sources_count: 20
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -82,6 +83,7 @@ As these innovations continue to unfold, it's essential to track their progress 
 
 ## Updates
 
+- **2026-10-23** — Strava revamps route discovery with smarter search, offline improvements, more ([source](https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/))
 - **2026-10-04** — John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report ([source](https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/))
 - **2026-09-15** — New Apple CEO John Ternus attending Emmy Awards (and sporting iPhone Duo) ([source](https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo/))
 - **2026-09-15** — AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop ([source](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/))
