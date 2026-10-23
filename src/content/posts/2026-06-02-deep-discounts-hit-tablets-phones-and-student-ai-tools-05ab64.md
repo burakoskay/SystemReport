@@ -1,19 +1,20 @@
 ---
 title: "Deep discounts hit tablets, phones and student AI tools"
 date: 2026-06-02T16:46:13.398Z
-modified_date: 2026-10-15T14:38:25.015Z
+modified_date: 2026-10-23T09:00:45.453Z
 tags: ["deals","tablets","student-tools","ai","discounts"]
 hero_image: "/hero/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.jpg"
 hero_image_credit_name: "Max Fischer"
 hero_image_credit_url: "https://www.pexels.com/@max-fischer"
 visual_keyword: "stack of discounted tech devices and student laptop with AI icons"
 description: "Lenovo, Samsung and Apple slash prices while a flood of student AI bundles reshapes the developer toolkit market."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-02-deep-discounts-hit-tablets-phones-and-student-ai-tools-05ab64.mp3"
 audio_bytes: 684662
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ For consumers, the immediate effect is a rare window to acquire premium devices 
 
 ## Updates
 
+- **2026-10-23** — Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies? ([source](https://news.ycombinator.com/item?id=50200997))
 - **2026-10-15** — The smart home may be too messy even for Google ([source](https://9to5google.com/2026/10/15/the-smart-home-may-be-too-messy-even-for-google/))
 - **2026-10-02** — Home Assistant says ‘Big tech ruined the cloud, so we&#8217;re out’ ([source](https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out))
 - **2026-09-16** — Meta is reportedly ready to launch less pervy smart glasses ([source](https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect))
