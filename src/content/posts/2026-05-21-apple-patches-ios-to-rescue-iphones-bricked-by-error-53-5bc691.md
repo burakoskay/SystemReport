@@ -1,16 +1,17 @@
 ---
 title: "Apple patches iOS to rescue iPhones bricked by Error 53"
 date: 2026-05-21T22:09:29.439Z
-modified_date: 2026-09-11T17:42:23.887Z
+modified_date: 2026-10-23T14:36:08.111Z
 tags: ["apple","ios","error53","security","repair"]
 hero_image: "/hero/2026-05-21-apple-patches-ios-to-rescue-iphones-bricked-by-error-53-5bc691.jpg"
 hero_image_credit_name: "Omar Gerardo"
 hero_image_credit_url: "https://www.pexels.com/@omale03"
 visual_keyword: "iPhone with cracked home button and iTunes cable"
 description: "Apple releases a patched iOS 9.2.1 update that restores iPhones disabled by the controversial Error 53, while keeping Touch ID disabled."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The next flashpoint will be how the class‑action lawsuit resolves and whether 
 
 ## Updates
 
+- **2026-10-23** — Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could ([source](https://www.wired.com/review/samsung-galazy-z-flip8/))
 - **2026-09-11** — Apple on wide Android foldables beating iPhone Duo; ‘they got the aspect ratio’ ([source](https://9to5google.com/2026/09/11/apple-on-wide-android-foldables-beating-iphone-duo-they-got-the-aspect-ratio/))
 - **2026-07-31** — Apple stockpiles inventory as it braces for ‘significant supply constraints’ ([source](https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/))
 - **2026-07-29** — Samsung’s Galaxy Z Fold 8 feels like the future ([source](https://www.theverge.com/tech/972387/samsung-galaxy-z-fold-8-review))

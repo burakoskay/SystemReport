@@ -1,19 +1,20 @@
 ---
 title: "VCs back SVB as AI-native biotech fund bets on small wins"
 date: 2026-08-30T19:05:08.731Z
-modified_date: 2026-09-14T20:07:54.268Z
+modified_date: 2026-10-23T14:36:41.634Z
 tags: ["venture-capital","silicon-valley-bank","biotech","ai"]
 hero_image: "/hero/2026-08-30-vcs-back-svb-as-ai-native-biotech-fund-bets-on-small-wins-2de5a0.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "silicon valley bank building with venture capital logos"
 description: "Over 100 VCs sign a joint statement backing Silicon Valley Bank while biotech veteran Vijay Pande launches a lean AI‑focused fund, signaling a shift in venture betting."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-30-vcs-back-svb-as-ai-native-biotech-fund-bets-on-small-wins-2de5a0.mp3"
 audio_bytes: 555303
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Venture capital rallies behind Silicon Valley Bank
@@ -54,4 +55,5 @@ These threads will reveal whether the venture community is merely patching a bro
 
 ## Updates
 
+- **2026-10-23** — GuliKit TT Pro review: The ideal Switch 2 controller for players on the go ([source](https://www.engadget.com/2294411/gulikit-tt-pro-review/))
 - **2026-09-14** — macOS 27: new Siri takes on AI productivity apps ([source](https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/))

@@ -1,19 +1,20 @@
 ---
 title: "Apple Watch Maps Six Years in the Making"
 date: 2026-05-03T03:44:12.704Z
-modified_date: 2026-10-14T22:56:41.534Z
+modified_date: 2026-10-23T14:36:24.797Z
 tags: ["Apple Watch","WatchOS","Maps"]
 hero_image: "/hero/2026-05-03-apple-watch-maps-six-years-in-the-making-d1b7ab.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Apple Watch"
 description: "Apple's WatchOS maps feature has been six years in development. What took so long?"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-03-apple-watch-maps-six-years-in-the-making-d1b7ab.mp3"
 audio_bytes: 560946
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,5 +70,6 @@ The success of WatchOS maps is also likely to have implications for Apple's comp
 
 ## Updates
 
+- **2026-10-23** — The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars ([source](https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/))
 - **2026-10-14** — Trump Aides Admit the House Is a Lost Cause ([source](https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/))
 - **2026-10-02** — Pixelated 119: 50 days later, it’s still a phone ([source](https://9to5google.com/2026/10/02/pixelated-119-50-days-later-its-still-a-phone/))

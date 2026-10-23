@@ -1,16 +1,17 @@
 ---
 title: "Chrome's Location Shift and AI File Spark Privacy Debates"
 date: 2026-05-06T17:55:52.662Z
-modified_date: 2026-10-19T21:57:52.852Z
+modified_date: 2026-10-23T14:36:19.242Z
 tags: ["privacy","chrome","apple","online safety act","ai"]
 hero_image: "/hero/2026-05-06-chrome-s-location-shift-and-ai-file-spark-privacy-debates-28c55e.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "split screen showing chrome settings menu and privacy shield icon on mobile devices"
 description: "Chrome introduces approximate location sharing on Android, raises privacy concerns over AI downloads, while Pornhub adjusts UK access for Apple users."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Three developments warrant close attention. First, how many Chrome users actuall
 
 ## Updates
 
+- **2026-10-23** — 8 Things to Know About the iPhone Duo ([source](https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/))
 - **2026-10-19** — Wine ported to OpenBSD ([source](https://marc.info/?l=openbsd-ports&m=179236125692175))
 - **2026-10-10** — iPhone Duo buyers to get a special surprise at U.S. Apple Stores, Gurman says ([source](https://9to5mac.com/2026/10/09/iphone-duo-buyers-to-get-a-special-surprise-at-u-s-apple-stores-gurman-says/))
 - **2026-08-27** — Jensen Huang says Nvidia achieved AGI, again — not that it matters ([source](https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi))

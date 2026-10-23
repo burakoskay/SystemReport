@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Accessories"
 date: 2026-08-15T20:17:29.484Z
-modified_date: 2026-10-14T09:13:34.360Z
+modified_date: 2026-10-23T14:36:53.120Z
 tags: ["Apple Watch","Accessories","Smartwatch"]
 hero_image: "/hero/2026-08-15-apple-watch-accessories-762ad2.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Apple Watch"
 description: "Essential accessories for Apple Watch"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ The future of the Apple Watch accessory market looks promising, with the global 
 
 ## Updates
 
+- **2026-10-23** — New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated] ([source](https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase/))
 - **2026-10-14** — Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine ([source](https://pulseos.finance))
 - **2026-10-13** — Shopify opens its catalog up to more AI agents ([source](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents))
 - **2026-10-13** — Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’ ([source](https://www.wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/))
