@@ -1,19 +1,20 @@
 ---
 title: "FDA Stumbles on Baby Botulism Outbreak as Companies Trade Blame"
 date: 2026-06-06T03:59:30.340Z
-modified_date: 2026-07-26T17:11:04.227Z
+modified_date: 2026-10-23T19:44:40.922Z
 tags: ["health","regulation","mental-health","arts"]
 hero_image: "/hero/2026-06-06-fda-stumbles-on-baby-botulism-outbreak-as-companies-trade-blame-342561.jpg"
 hero_image_credit_name: "Nishess Shakya"
 hero_image_credit_url: "https://www.pexels.com/@nishess-shakya-401526881"
 visual_keyword: "Sydney festival art installation addressing anxiety"
 description: "The FDA admits it cannot pinpoint the cause of a recent baby botulism outbreak, while three firms blame each other, highlighting gaps in health response and the rise of misinformation."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-06-fda-stumbles-on-baby-botulism-outbreak-as-companies-trade-blame-342561.mp3"
 audio_bytes: 596890
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 The FDA still has no clue what sparked the recent baby botulism outbreak, and it can’t offer a prevention plan.
@@ -52,4 +53,5 @@ The FDA’s next public statement will be the barometer for how quickly the agen
 
 ## Updates
 
+- **2026-10-23** — Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights ([source](https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss))
 - **2026-07-26** — The vertical video takeover is here ([source](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook))

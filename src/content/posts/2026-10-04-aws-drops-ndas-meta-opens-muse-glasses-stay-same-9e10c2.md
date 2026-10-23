@@ -1,18 +1,20 @@
 ---
 title: "AWS drops NDAs, Meta opens Muse, Glasses stay same"
 date: 2026-10-04T18:00:49.076Z
+modified_date: 2026-10-23T19:45:25.688Z
 tags: ["aws","meta","privacy"]
 hero_image: "/hero/2026-10-04-aws-drops-ndas-meta-opens-muse-glasses-stay-same-9e10c2.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "data center tour with open doors and smart glasses on a table"
 description: "AWS ends data‑center NDAs, Meta releases free Muse code, and Meta Glasses Nova 3 offers only marginal upgrades."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-04-aws-drops-ndas-meta-opens-muse-glasses-stay-same-9e10c2.mp3"
 audio_bytes: 575574
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 AWS stopped forcing nondisclosure agreements on data‑center visitors, a move that undercuts the secrecy that has long shielded its infrastructure. The change arrives as privacy advocates and journalists have pressed the cloud giant for transparency.
 
@@ -43,3 +45,7 @@ The three announcements intersect at a common tension: how much openness a tech 
 Industry analysts predict that regulators will focus on the data‑flow implications of Muse‑enabled appliances. The Federal Trade Commission has hinted at new guidelines for biometric data in consumer products, and Meta’s open‑source approach could become a test case. Meanwhile, cloud‑service customers may demand audit reports that reference the now‑public data‑center designs, forcing AWS to publish more detailed efficiency metrics.
 
 What to watch: the FTC’s upcoming rulemaking on biometric data, AWS’s first public audit report after the NDA policy change, and the next firmware update for Meta Glasses that could finally address the camera‑indicator issue. Each of these milestones will signal whether openness translates into better security, or simply fuels a new round of privacy battles.
+
+## Updates
+
+- **2026-10-23** — I needed a dashcam while out running. Meta glasses turned out to be the answer ([source](https://9to5google.com/2026/10/23/i-needed-a-dashcam-while-out-running-meta-glasses-turned-out-to-be-the-answer/))

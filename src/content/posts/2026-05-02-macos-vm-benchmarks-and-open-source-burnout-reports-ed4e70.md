@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-10-16T02:42:38.387Z
+modified_date: 2026-10-23T19:45:07.663Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 16
+sources_count: 17
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-10-23** — Knicks sent employees fake offer of championship rings in phishing test: Report ([source](https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/))
 - **2026-10-16** — Krea 3 – An image model built for editing at scale ([source](https://www.krea.ai/krea-3))
 - **2026-10-08** — Apple’s new ‘second-party’ accessories for Home are bigger than we thought, per leak ([source](https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/))
 - **2026-09-12** — Λ Snap – An inviting programming language for kids and adults for CS study ([source](https://snap.berkeley.edu/))

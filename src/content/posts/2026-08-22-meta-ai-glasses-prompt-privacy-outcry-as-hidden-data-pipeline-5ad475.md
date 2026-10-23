@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Glasses Prompt Privacy Outcry as Hidden Data Pipeline"
 date: 2026-08-22T16:20:02.328Z
-modified_date: 2026-09-27T13:29:15.287Z
+modified_date: 2026-10-23T19:44:31.992Z
 tags: ["meta","ai-glasses","privacy","data-annotation"]
 hero_image: "/hero/2026-08-22-meta-ai-glasses-prompt-privacy-outcry-as-hidden-data-pipeline-5ad475.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "crowded Nairobi office with workers labeling images for AI glasses"
 description: "Meta’s new AI glasses launch triggers privacy backlash, revealing covert data collection and a distant workforce of annotators."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 Meta shipped its first AI‑powered smart glasses last week, sparking a privacy firestorm. The devices record video and audio continuously, feeding raw streams to Meta’s servers.
@@ -47,4 +48,5 @@ Track the European data‑protection authority’s ruling on Meta’s cross‑bo
 
 ## Updates
 
+- **2026-10-23** — The iPhone Duo should have been an iPad ([source](https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast))
 - **2026-09-27** — How to use the Live Text feature on your iPhone ([source](https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/))

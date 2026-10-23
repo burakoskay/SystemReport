@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-09-23T19:25:58.821Z
+modified_date: 2026-10-23T19:45:34.834Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 16
+sources_count: 17
 author: "lena-volkov"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-10-23** — iPhone Duo accessories: Here are five top picks for Apple’s foldable ([source](https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/))
 - **2026-09-23** — Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more ([source](https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/))
 - **2026-09-09** — Apple releases iPadOS 27 RC, plus watchOS 27 and more ([source](https://9to5mac.com/2026/09/09/apple-releases-ipados-27-rc-plus-watchos-27-and-more/))
 - **2026-08-27** — Apple expands educational program for its supply-chain workers in Vietnam ([source](https://9to5mac.com/2026/08/27/apple-expands-educational-program-for-its-supply-chain-workers-in-vietnam/))

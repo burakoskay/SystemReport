@@ -1,19 +1,20 @@
 ---
 title: "Antares SMR test, coal revival, and AI energy push collide"
 date: 2026-06-05T23:19:05.780Z
-modified_date: 2026-08-03T17:47:18.142Z
+modified_date: 2026-10-23T19:44:05.499Z
 tags: ["nuclear","coal","ai","energy","policy"]
 hero_image: "/hero/2026-06-05-antares-smr-test-coal-revival-and-ai-energy-push-collide-305f55.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "small modular reactor test site with engineers, coal plant silhouette, AI data center servers"
 description: "Antares' SMR hits criticality as the Trump admin backs new coal plants and AI firms chase efficiency, exposing the tangled energy transition."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-05-antares-smr-test-coal-revival-and-ai-energy-push-collide-305f55.mp3"
 audio_bytes: 615698
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Antares' Small Modular Reactor Hits Criticality
@@ -52,4 +53,5 @@ Watch the Federal Energy Regulatory Commission’s upcoming SMR licensing rulema
 
 ## Updates
 
+- **2026-10-23** — Soundcore’s latest noise-crushing headphones are on sale for a new low price ([source](https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale))
 - **2026-08-03** — Base Power raises another $1B to save the grid using backyard batteries ([source](https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/))

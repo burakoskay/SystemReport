@@ -1,15 +1,17 @@
 ---
 title: "MIT Pulls AI Research Paper Amid Integrity Concerns"
 date: 2026-05-27T10:09:13.520Z
+modified_date: 2026-10-23T19:44:23.159Z
 tags: ["AI","Research Integrity","MIT"]
 hero_image: "/hero/2026-05-27-mit-pulls-ai-research-paper-amid-integrity-concerns-977749.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "MIT withdraws AI research paper from arXiv due to concerns over data validity and research integrity."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 ## MIT Withdraws AI Research Paper Citing Integrity Concerns
@@ -58,3 +60,6 @@ The reader should track how this incident affects the broader conversation about
 
 In conclusion, the withdrawal of the AI research paper by MIT highlights the importance of research integrity and the need for transparency and accountability in AI research. As AI continues to play a larger role in scientific research, it is essential that we prioritize these values and ensure that research is conducted with the highest level of integrity.
 
+## Updates
+
+- **2026-10-23** — Elon Musk’s dangerous grip on outer space ([source](https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly))

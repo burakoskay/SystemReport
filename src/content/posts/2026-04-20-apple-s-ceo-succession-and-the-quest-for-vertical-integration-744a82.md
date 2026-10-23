@@ -1,16 +1,17 @@
 ---
 title: "Apple's CEO Succession and the Quest for Vertical Integration"
 date: 2026-04-20T20:42:06.124Z
-modified_date: 2026-10-23T02:58:16.602Z
+modified_date: 2026-10-23T19:44:49.746Z
 tags: ["apple","ceo","vertical integration","chip design"]
 hero_image: "/hero/2026-04-20-apple-s-ceo-succession-and-the-quest-for-vertical-integration-744a82.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Tim Cook and John Ternus"
 description: "Tim Cook steps down as Apple CEO, John Ternus takes over. What does this mean for Apple's future in vertical integration and chip design?"
-sources_count: 15
+sources_count: 16
 author: "priya-raman"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ What to watch: Apple's chip design efforts will be closely watched in the coming
 
 ## Updates
 
+- **2026-10-23** — SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites ([source](https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier))
 - **2026-10-23** — Apple is finally catching up with Siri, but the goalposts are moving again ([source](https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again/))
 - **2026-10-22** — Discord now formats Markdown previews right ([source](https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels))
 - **2026-10-20** — Chrome will now show a warning before you visit ‘suspicious’ sites ([source](https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning))

@@ -1,16 +1,17 @@
 ---
 title: "Democrats Take House, Vow Pre-Existing Care, Drug Price Fight"
 date: 2026-05-18T23:11:09.553Z
-modified_date: 2026-10-18T17:03:24.749Z
+modified_date: 2026-10-23T19:43:56.456Z
 tags: ["health","politics","us-house"]
 hero_image: "/hero/2026-05-18-democrats-take-house-vow-pre-existing-care-drug-price-fight-34505f.jpg"
 hero_image_credit_name: "Héctor Berganza"
 hero_image_credit_url: "https://www.pexels.com/@hberganza"
 visual_keyword: "Congressional chamber with health policy documents"
 description: "House Democrats claim a health‑care win, but a Republican Senate and Trump administration could blunt their agenda."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The next few weeks will reveal whether House leaders can marshal enough votes to
 
 ## Updates
 
+- **2026-10-23** — Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels ([source](https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/))
 - **2026-10-18** — Lenovo’s fast, comfy SteamOS handheld is hundreds off ([source](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale))
 - **2026-08-08** — Gentoo bugzilla closed due AI bot scraper overload ([source](https://social.treehouse.systems/@mgorny/117058483039362779))
 - **2026-08-05** — Rogue AI agents created fake online identities in another hacking attempt ([source](https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking))
