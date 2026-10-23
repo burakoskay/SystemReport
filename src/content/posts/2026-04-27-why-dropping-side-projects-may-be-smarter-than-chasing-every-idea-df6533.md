@@ -1,16 +1,17 @@
 ---
 title: "Why Dropping Side Projects May Be Smarter Than Chasing Every Idea"
 date: 2026-04-27T14:14:13.288Z
-modified_date: 2026-08-17T22:19:47.338Z
+modified_date: 2026-10-23T22:51:50.953Z
 tags: ["side-projects","developer-tools","ai-automation"]
 hero_image: "/hero/2026-04-27-why-dropping-side-projects-may-be-smarter-than-chasing-every-idea-df6533.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "engineer juggling multiple code repositories with AI agents and a terminal window"
 description: "A Hacker News debate, AI‑driven task tools, and a Neovim plugin reveal why engineers are rethinking side‑project culture."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Watch Fluxa’s upcoming release notes for any metrics on agent‑setup time ver
 
 ## Updates
 
+- **2026-10-23** — Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line ([source](https://artificialanalysis.ai/models/kimi-k3-1-pro))
 - **2026-08-17** — This R-Rated Film Studio Wants to Be the HBO of AI ([source](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/))
 - **2026-08-17** — YouTube now counts video views immediately, ‘from the very first frame’ ([source](https://9to5google.com/2026/08/17/youtube-view-counts-change/))
 - **2026-06-06** — Viaim RecDots earbuds are the sleekest AI recording tool yet ([source](https://9to5google.com/2026/06/06/viaim-recdots-earbuds-sleekest-ai-recording-tool-yet/))

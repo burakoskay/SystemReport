@@ -1,19 +1,20 @@
 ---
 title: "Meta Contractors Protest Layoff Terms"
 date: 2026-05-29T21:58:03.005Z
-modified_date: 2026-06-07T14:04:19.551Z
+modified_date: 2026-10-23T22:50:41.503Z
 tags: ["Meta","contractors","layoffs"]
 hero_image: "/hero/2026-05-29-meta-contractors-protest-layoff-terms-50979f.jpg"
 hero_image_credit_name: "Sides Imagery"
 hero_image_credit_url: "https://www.pexels.com/@sidesimagery"
 visual_keyword: "protest"
 description: "Meta contractors in Europe protest layoffs, citing unequal severance packages compared to full-time employees."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-05-29-meta-contractors-protest-layoff-terms-50979f.mp3"
 audio_bytes: 597099
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,5 +71,6 @@ The outcome of this dispute will have significant implications for workers' righ
 
 ## Updates
 
+- **2026-10-23** — VCs, Superhuman Mail founder share red flags about product-market fit ([source](https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/))
 - **2026-06-07** — Kill some time with these much needed distractions ([source](https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole))
 - **2026-06-05** — Can AI tell if your script will make a hit film? ([source](https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood))

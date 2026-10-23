@@ -1,19 +1,20 @@
 ---
 title: "Apple's Private Relay Bug Exposes User IP Addresses"
 date: 2026-08-05T17:42:42.003Z
-modified_date: 2026-09-12T20:01:08.701Z
+modified_date: 2026-10-23T22:51:24.861Z
 tags: ["Apple","Private Relay","IP Address","Privacy"]
 hero_image: "/hero/2026-08-05-apple-s-private-relay-bug-exposes-user-ip-addresses-38a87e.jpg"
 hero_image_credit_name: "BOOM 💥 Photography"
 hero_image_credit_url: "https://www.pexels.com/@boom"
 visual_keyword: "Private Relay"
 description: "Bug in Apple's Private Relay feature reveals users' real IP addresses"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-05-apple-s-private-relay-bug-exposes-user-ip-addresses-38a87e.mp3"
 audio_bytes: 634507
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Private Relay
@@ -45,4 +46,5 @@ The bug in Private Relay may also have regulatory implications. As governments w
 
 ## Updates
 
+- **2026-10-23** — Inside the Pentagon, the pressure is on to find a home for a new spaceport ([source](https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/))
 - **2026-09-12** — Sylvan Esso think you should splurge on good-quality yogurt ([source](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music))

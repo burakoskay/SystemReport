@@ -1,19 +1,20 @@
 ---
 title: "Apple's Smart Glasses"
 date: 2026-07-26T22:56:54.825Z
-modified_date: 2026-09-16T19:19:27.615Z
+modified_date: 2026-10-23T22:51:33.643Z
 tags: ["Apple","Smart Glasses","Privacy Concerns"]
 hero_image: "/hero/2026-07-26-apple-s-smart-glasses-513bce.jpg"
 hero_image_credit_name: "Philip Justin Mamelic"
 hero_image_credit_url: "https://www.pexels.com/@philip-justin-mamelic-1397651"
 visual_keyword: "smart glasses"
 description: "Apple's smart glasses raise privacy concerns"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-26-apple-s-smart-glasses-513bce.mp3"
 audio_bytes: 601488
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Apple's Smart Glasses
@@ -31,4 +32,5 @@ The launch of Apple's smart glasses will have significant implications for consu
 
 ## Updates
 
+- **2026-10-23** — Pixelated 122: Seven years late, same foldable problems ([source](https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/))
 - **2026-09-16** — Snap Specs launch 2026: Live updates from CEO Evan Spiegel's keynote ([source](https://www.engadget.com/2260114/snap-specs-launch-live-blog-evan-spiegel-keynote/))
