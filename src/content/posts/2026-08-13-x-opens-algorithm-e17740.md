@@ -1,15 +1,17 @@
 ---
 title: "X Opens Algorithm"
 date: 2026-08-13T16:53:20.500Z
+modified_date: 2026-10-24T08:34:23.007Z
 tags: ["X","Algorithm","Transparency","Social Media","Shadowbanning"]
 hero_image: "/hero/2026-08-13-x-opens-algorithm-e17740.jpg"
 hero_image_credit_name: "Monojit Dutta"
 hero_image_credit_url: "https://www.pexels.com/@kolkatarchobiwala"
 visual_keyword: "transparency"
 description: "X expands open source code, launches transparency tools for 'For You' feed"
-sources_count: 1
+sources_count: 2
 author: "maya-chen"
 ---
+
 
 # X Opens Algorithm
 
@@ -98,3 +100,7 @@ X's move to open source its ranking algorithm is a significant step towards tran
 ## What to Watch
 
 X has not provided a timeline for when the transparency tools will be available to all users. The effectiveness of these tools in providing true transparency remains to be seen.
+
+## Updates
+
+- **2026-10-24** — OBS Studio 33 ([source](https://github.com/obsproject/obs-studio/releases/tag/33.0.0))
