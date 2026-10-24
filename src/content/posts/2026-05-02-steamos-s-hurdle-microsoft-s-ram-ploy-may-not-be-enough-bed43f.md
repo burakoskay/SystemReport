@@ -1,16 +1,17 @@
 ---
 title: "SteamOS's Hurdle: Microsoft's RAM Ploy May Not Be Enough"
 date: 2026-05-02T03:33:45.114Z
-modified_date: 2026-08-09T18:32:09.358Z
+modified_date: 2026-10-24T13:59:40.503Z
 tags: ["SteamOS","Microsoft","RAM requirements","gaming industry","Linux kernel"]
 hero_image: "/hero/2026-05-02-steamos-s-hurdle-microsoft-s-ram-ploy-may-not-be-enough-bed43f.jpg"
 hero_image_credit_name: "Yan Krukau"
 hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "gaming"
 description: "Valve's SteamOS faces a new challenge from Microsoft's strategy to leverage RAM requirements, but its impact is unclear"
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 
 ## A New Hurdle for SteamOS
@@ -51,4 +52,5 @@ The future of SteamOS is uncertain, but one thing is clear: the company's OS is 
 
 ## Updates
 
+- **2026-10-24** — Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’ ([source](https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/))
 - **2026-08-09** — How to use ChatGPT's new, more natural Voice Mode for conversations ([source](https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/))

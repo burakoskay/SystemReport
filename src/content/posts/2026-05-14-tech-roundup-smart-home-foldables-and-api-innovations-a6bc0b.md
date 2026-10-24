@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Smart Home, Foldables, and API Innovations"
 date: 2026-05-14T14:32:36.606Z
-modified_date: 2026-09-21T16:10:56.899Z
+modified_date: 2026-10-24T13:59:35.110Z
 tags: ["smart home","foldable phones","API innovations"]
 hero_image: "/hero/2026-05-14-tech-roundup-smart-home-foldables-and-api-innovations-a6bc0b.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "This week's tech news covers smart home devices, foldable phone reviews, and API innovations in observability and job application tracking."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ The API space is also likely to have significant implications for the way we wor
 
 ## Updates
 
+- **2026-10-24** — The Qubitunes Soundstage Toy Is a Great Gift for Kids ([source](https://www.wired.com/story/qubitunes-starter-kit-october-2026/))
 - **2026-09-21** — Deals: Apple Watch Ultra 4, AirPods Pro 3, entry Studio Display $240 off, 2026 Mac Studio, more ([source](https://9to5mac.com/2026/09/21/deals-apple-watch-ultra-4-airpods-pro-3-studio-display/))
 - **2026-09-10** — Yoto just announced two new audio devices for kids ([source](https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids/))
 - **2026-08-28** — 9to5Mac Daily: August 27, 2026 – AirPods 5 rumors, Apple Maps ads ([source](https://9to5mac.com/2026/08/27/daily-august-27-2026/))

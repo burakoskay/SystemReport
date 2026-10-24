@@ -1,16 +1,17 @@
 ---
 title: "Red Planet Rendezvous: The Future of Space Exploration Takes Shape"
 date: 2026-04-18T01:05:06.563Z
-modified_date: 2026-10-21T19:55:25.243Z
+modified_date: 2026-10-24T13:59:45.950Z
 tags: ["space exploration","mars rover","reentry tech"]
 hero_image: "/hero/2026-04-18-red-planet-rendezvous-the-future-of-space-exploration-takes-shape-fe5868.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Mars rover launch"
 description: "Europe's Mars rover finds a new ride as space agencies make strides in crew launch and reentry tech."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -24,6 +25,7 @@ The space industry is abuzz with excitement as several high-profile missions and
 
 ## Updates
 
+- **2026-10-24** — 'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate ([source](https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/))
 - **2026-10-21** — The past, present, and future share a show floor at Pinball Expo 2026 ([source](https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/))
 - **2026-09-13** — TechCrunch Mobility: Lyft has entered the robotaxi chat ([source](https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/))
 - **2026-09-09** — LegalZoom Promo Code: Exclusive 10% Off LLC Formations ([source](https://www.wired.com/story/legalzoom-promo-code/))

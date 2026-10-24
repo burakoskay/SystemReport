@@ -1,16 +1,17 @@
 ---
 title: "Abstraction in LLMs: Balancing Control and Complexity"
 date: 2026-05-04T06:44:35.355Z
-modified_date: 2026-10-06T01:05:51.082Z
+modified_date: 2026-10-24T13:59:24.495Z
 tags: ["LLMs","Abstraction","AI Development"]
 hero_image: "/hero/2026-05-04-abstraction-in-llms-balancing-control-and-complexity-7f957f.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Abstraction"
 description: "Developers debate abstraction in LLMs"
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ In conclusion, the debate over abstraction in LLMs is a complex and multifaceted
 
 ## Updates
 
+- **2026-10-24** — Best Pet Camera of 2026: Furbo, Petcube, and Enabot ([source](https://www.wired.com/gallery/best-pet-cameras/))
 - **2026-10-06** — Controlling the brain with light earns a physiology Nobel ([source](https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/))
 - **2026-09-15** — Now Light’s minimalist phone can easily call an Uber ([source](https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app))
 - **2026-09-14** — MagSafe vs. USB-C: Which is better for charging your MacBook? ([source](https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/))

@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-10-23T19:44:14.295Z
+modified_date: 2026-10-24T13:59:13.703Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-10-24** — It’s time to find a new browser ([source](https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer))
 - **2026-10-23** — Fi’s GPS-equipped dog trackers are on sale for 30 percent off ([source](https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale))
 - **2026-09-23** — Watch the trailer for Apple TV’s ‘Where’s Wanda?’ season 2 ([source](https://9to5mac.com/2026/09/23/watch-the-trailer-for-apple-tvs-wheres-wanda-season-2/))
 - **2026-09-19** — The best way to check your PC for malware ([source](https://www.engadget.com/2257817/best-way-check-pc-malware/))

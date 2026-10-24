@@ -1,19 +1,20 @@
 ---
 title: "Vivaldi 8.0 lands on desktop as Parm reshapes GitHub installs"
 date: 2026-05-21T09:58:19.959Z
-modified_date: 2026-06-06T15:20:22.534Z
+modified_date: 2026-10-24T14:00:12.557Z
 tags: ["vivaldi","parm","github","typography","browser"]
 hero_image: "/hero/2026-05-21-vivaldi-8-0-lands-on-desktop-as-parm-reshapes-github-installs-5816d7.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "desktop browser window with Vivaldi UI beside a terminal displaying a GitHub binary installer"
 description: "Vivaldi releases version 8.0 while Parm introduces a package‑manager‑style GitHub installer, sparking fresh debate on browser evolution and developer tooling."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-21-vivaldi-8-0-lands-on-desktop-as-parm-reshapes-github-installs-5816d7.mp3"
 audio_bytes: 614862
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Vivaldi 8.0 hits the desktop
@@ -68,4 +69,5 @@ Finally, monitor how the HN community references Knuth’s typographic principle
 
 ## Updates
 
+- **2026-10-24** — Show HN: Corgi, a helpful {agent, terminal} multiplexer ([source](https://corgi.computer/))
 - **2026-06-06** — The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center ([source](https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center))

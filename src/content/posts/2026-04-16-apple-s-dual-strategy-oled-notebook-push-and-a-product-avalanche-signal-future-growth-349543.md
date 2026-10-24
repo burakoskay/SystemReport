@@ -1,16 +1,17 @@
 ---
 title: "Apple's Dual Strategy: OLED Notebooks and a Product Avalanche"
 date: 2026-04-16T05:29:28.584Z
-modified_date: 2026-10-16T22:26:08.532Z
+modified_date: 2026-10-24T13:59:56.563Z
 tags: ["apple","oled","notebooks","product launches","tech strategy"]
 hero_image: "/hero/2026-04-16-apple-s-dual-strategy-oled-notebook-push-and-a-product-avalanche-signal-future-growth-349543.jpg"
 hero_image_credit_name: "Hans Herrington"
 hero_image_credit_url: "https://www.pexels.com/@hans-herrington-99819090"
 visual_keyword: "Apple futuristic tech innovation displays"
 description: "As the smartphone market cools, Apple is doubling down on advanced OLED notebook displays and a massive new product pipeline, signaling a strategic hardware offensive."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ Together, these two trends paint a compelling picture of a company strategically
 
 ## Updates
 
+- **2026-10-24** — Peak on consoles, hockey roguelites and other new indie games worth checking out ([source](https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/))
 - **2026-10-16** — HomeKit Weekly: Get your Halloween and Christmas automations set up now ([source](https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now/))
 - **2026-10-12** — Apple announces ‘Indie Games Week’ with seven new, upcoming launches ([source](https://9to5mac.com/2026/10/12/apple-announces-indie-games-week-with-seven-new-upcoming-launches/))
 - **2026-10-11** — Apple testing two new features for upgraded Apple TV 4K, per report ([source](https://9to5mac.com/2026/10/11/apple-testing-two-new-features-for-upgraded-apple-tv-4k-per-report/))
