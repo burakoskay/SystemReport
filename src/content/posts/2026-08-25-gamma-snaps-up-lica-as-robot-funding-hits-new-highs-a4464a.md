@@ -1,15 +1,17 @@
 ---
 title: "Gamma snaps up Lica as robot funding hits new highs"
 date: 2026-08-25T16:37:24.065Z
+modified_date: 2026-10-24T17:10:30.572Z
 tags: ["robotics","funding","acquisitions","autonomous-vehicles","startup"]
 hero_image: "/hero/2026-08-25-gamma-snaps-up-lica-as-robot-funding-hits-new-highs-a4464a.jpg"
 hero_image_credit_name: "Youn Seung Jin"
 hero_image_credit_url: "https://www.pexels.com/@youn-seung-jin-36101845"
 visual_keyword: "robotic arms and autonomous trucks in a modern lab"
 description: "Gamma acquires design startup Lica while self-driving truck firm Gatik secures $200M, underscoring a surge in robotics financing and strategic consolidation."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Gamma adds Lica to its research roster
 Gamma announced the acquisition of Lica, the Accel‑backed design startup, on Tuesday. The move gives Gamma immediate access to Lica’s rapid‑prototyping workflow and its co‑founders, who will now staff Gamma’s new research team.
@@ -43,3 +45,7 @@ Companies that ignore these milestones risk being left behind. The influx of cap
 
 ## What to watch
 Watch for Gamma’s first product releases that incorporate Lica’s design workflow; the rollout will reveal whether the integration speeds up hardware iteration as promised. Track Gatik’s fleet expansion plans and any new contracts beyond PepsiCo, especially in the refrigerated‑goods segment where short‑haul autonomy can cut costs sharply. Finally, monitor upcoming FDA and FAA approvals for Medrobotics, SkySpecs and similar firms – each clearance will likely trigger a fresh wave of financing and possible M&A activity.
+
+## Updates
+
+- **2026-10-24** — Why your Ring camera is still useful without a subscription ([source](https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/))

@@ -1,19 +1,20 @@
 ---
 title: "Spotify scissors let podcasters trim and share audio clips"
 date: 2026-05-27T16:08:20.088Z
-modified_date: 2026-06-04T21:45:39.035Z
+modified_date: 2026-10-24T17:10:25.121Z
 tags: ["spotify","podcasts","media","interactive","vc"]
 hero_image: "/hero/2026-05-27-spotify-scissors-let-podcasters-trim-and-share-audio-clips-3cb111.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "person using headphones while selecting a podcast clip on a smartphone"
 description: "Spotify introduces a scissors icon that lets users trim podcast highlights and push them to audiences, a move that mirrors the industry’s shift toward interactive audio content."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-27-spotify-scissors-let-podcasters-trim-and-share-audio-clips-3cb111.mp3"
 audio_bytes: 581635
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Spotify rolled out a new scissors icon that lets listeners carve out short clips from any episode and push them directly to their followers. The feature turns a fleeting comment or punchline into a shareable snippet, giving creators a fast‑track to audience growth.
@@ -44,4 +45,5 @@ The next few months will reveal whether clipping becomes a staple of podcast pro
 
 ## Updates
 
+- **2026-10-24** — I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop ([source](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis))
 - **2026-06-04** — The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked ([source](https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/))
