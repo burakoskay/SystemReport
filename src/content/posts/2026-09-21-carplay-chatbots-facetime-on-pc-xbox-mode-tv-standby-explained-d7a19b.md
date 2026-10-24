@@ -1,16 +1,17 @@
 ---
 title: "CarPlay chatbots, FaceTime on PC, Xbox mode, TV standby explained"
 date: 2026-09-21T00:00:24.660Z
-modified_date: 2026-10-14T03:05:37.176Z
+modified_date: 2026-10-24T02:52:51.514Z
 tags: ["carplay","facetime","xbox","smart-tv"]
 hero_image: "/hero/2026-09-21-carplay-chatbots-facetime-on-pc-xbox-mode-tv-standby-explained-d7a19b.jpg"
 hero_image_credit_name: "Hyundai Motor Group"
 hero_image_credit_url: "https://www.pexels.com/@hyundaimotorgroup"
 visual_keyword: "driver interacting with a voice assistant on a car dashboard, laptop showing FaceTime call, gaming controller on a PC, smart TV with dimmed screen"
 description: "CarPlay now runs third‑party chatbots, FaceTime can be joined from Android and Windows, Xbox mode reshapes Windows gaming, and smart TV standby does work."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 CarPlay finally lets you talk to third‑party assistants while you drive, and the same cross‑platform push is showing up in FaceTime, Windows gaming, and even TV standby.
@@ -47,4 +48,5 @@ The next wave of cross‑platform integration will likely test the limits of use
 
 ## Updates
 
+- **2026-10-24** — Apple’s official DIY repair guides for the iPhone Duo now available ([source](https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available/))
 - **2026-10-14** — Here’s how much it costs to repair the new Apple HomeView ([source](https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/))

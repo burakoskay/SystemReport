@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants' AI Ambitions Spark Concerns Over Control"
 date: 2026-04-20T13:13:15.934Z
-modified_date: 2026-09-28T19:09:26.942Z
+modified_date: 2026-10-24T02:52:33.535Z
 tags: ["ai","control","tech giants","society"]
 hero_image: "/hero/2026-04-20-tech-giants-ai-ambitions-spark-concerns-over-control-0f881d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI robot controlling a city"
 description: "Mark Zuckerberg and Jack Dorsey envision AI systems for heightened control, raising questions about the implications for users and society."
-sources_count: 29
+sources_count: 30
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The next few months will be critical in determining the future of AI control. Po
 
 ## Updates
 
+- **2026-10-24** — Startups don’t need to go viral to win customers ([source](https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/))
 - **2026-09-28** — This setting change can make your Android phone feel instantly faster ([source](https://www.engadget.com/2268945/simple-setting-change-make-android-phone-faster/))
 - **2026-08-29** — At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control? ([source](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/))
 - **2026-08-27** — How OpenAI let a mob of LLM agents game a test and ransack Hugging Face ([source](https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/))

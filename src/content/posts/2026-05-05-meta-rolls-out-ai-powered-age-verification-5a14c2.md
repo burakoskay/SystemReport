@@ -1,16 +1,17 @@
 ---
 title: "Meta Rolls Out AI-Powered Age Verification"
 date: 2026-05-05T17:38:47.933Z
-modified_date: 2026-08-07T18:46:02.384Z
+modified_date: 2026-10-24T02:53:00.465Z
 tags: ["Meta","AI","Age Verification","Social Media"]
 hero_image: "/hero/2026-05-05-meta-rolls-out-ai-powered-age-verification-5a14c2.jpg"
 hero_image_credit_name: "Abdelrahman  Ahmed"
 hero_image_credit_url: "https://www.pexels.com/@arshutter"
 visual_keyword: "AI-powered age verification"
 description: "Meta uses AI to analyze facial features to identify underage users in select countries."
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,4 +49,5 @@ In conclusion, Meta's rollout of AI-powered age verification represents a signif
 
 ## Updates
 
+- **2026-10-24** — UUIDv7 doesn't have the properties you think it does ([source](https://alexsci.com/blog/uuidv7-is-weird/))
 - **2026-08-07** — Disney Plus tries a new AI-powered search ([source](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search))
