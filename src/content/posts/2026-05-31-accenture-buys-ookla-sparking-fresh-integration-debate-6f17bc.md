@@ -1,16 +1,17 @@
 ---
 title: "Accenture buys Ookla, sparking fresh integration debate"
 date: 2026-05-31T04:32:06.248Z
-modified_date: 2026-09-15T17:54:06.586Z
+modified_date: 2026-10-24T20:05:45.557Z
 tags: ["acquisition","ookla","consulting"]
 hero_image: "/hero/2026-05-31-accenture-buys-ookla-sparking-fresh-integration-debate-6f17bc.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "office meeting with data dashboards"
 description: "Accenture's acquisition of Speedtest.net owner Ookla highlights the recurring challenges large firms face when absorbing startup assets."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Accenture’s next moves will reveal how seriously it takes the integration chal
 
 ## Updates
 
+- **2026-10-24** — Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough ([source](https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough/))
 - **2026-09-15** — Nitter and XCancel are dead (again) after X’s latest legal actions ([source](https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/))
 - **2026-08-05** — Ted Lasso’s season 4 premiere now available to stream on Apple TV ([source](https://9to5mac.com/2026/08/04/ted-lassos-season-4-premiere-now-available-to-stream-on-apple-tv/))
 - **2026-06-03** — WhatsApp’s revamped chat lists interface rolling out on iOS ([source](https://9to5mac.com/2026/06/03/whatsapps-revamped-chat-lists-interface-rolling-out-on-ios/))

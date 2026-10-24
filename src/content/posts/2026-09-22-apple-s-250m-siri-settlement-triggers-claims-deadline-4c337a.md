@@ -1,16 +1,17 @@
 ---
 title: "Apple's $250M Siri Settlement Triggers Claims Deadline"
 date: 2026-09-22T23:59:00.426Z
-modified_date: 2026-10-08T00:00:03.916Z
+modified_date: 2026-10-24T20:05:27.794Z
 tags: ["apple","siri","settlement","carplay","apple-music"]
 hero_image: "/hero/2026-09-22-apple-s-250m-siri-settlement-triggers-claims-deadline-4c337a.jpg"
 hero_image_credit_name: "Viralyft"
 hero_image_credit_url: "https://www.pexels.com/@viralyft"
 visual_keyword: "iPhone screen showing Siri interface, CarPlay dashboard, and Apple Music playlist"
 description: "Apple offers up to $95 per iPhone for a Siri misrepresentation settlement, while users wrestle with CarPlay tweaks and gray Apple Music tracks."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Apple’s $250 million settlement over Siri’s rollout forces iPhone owners to file claims before Dec 21, or they forfeit a modest payout. The deadline underscores a pattern: Apple resolves feature disputes with cash, but the underlying user experience issues linger.
@@ -49,4 +50,5 @@ The Dec 21 claim deadline will be the first metric to gauge how many users fee
 
 ## Updates
 
+- **2026-10-24** — Why the wires in your ethernet cables are twisted ([source](https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/))
 - **2026-10-08** — Apple partners with The King’s Trust on new Creative Labs initiative in the UK ([source](https://9to5mac.com/2026/10/07/apple-partners-with-the-kings-trust-on-new-creative-labs-initiative-in-the-uk/))

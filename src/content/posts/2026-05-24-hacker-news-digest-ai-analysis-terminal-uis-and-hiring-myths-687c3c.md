@@ -1,19 +1,20 @@
 ---
 title: "Hacker News Digest: AI Analysis, Terminal UIs, and Hiring Myths"
 date: 2026-05-24T08:37:20.568Z
-modified_date: 2026-09-08T19:14:18.568Z
+modified_date: 2026-10-24T20:05:36.600Z
 tags: ["Hacker News","AI Analysis","Terminal UIs"]
 hero_image: "/hero/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "A look at the latest Hacker News discussions on AI analysis, terminal UIs, and hiring myths."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-24-hacker-news-digest-ai-analysis-terminal-uis-and-hiring-myths-687c3c.mp3"
 audio_bytes: 611101
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ For instance, LLMs could be used to identify areas of consensus or disagreement 
 
 ## Updates
 
+- **2026-10-24** — Xbox Game Pass could let you pick which features you pay for ([source](https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/))
 - **2026-09-08** — Boox Picco is exceptionally tiny for an e-reader, but it parts ways with Android and third-party apps ([source](https://9to5google.com/2026/09/08/boox-picco-teased-without-android/))
 - **2026-09-08** — How to let Claude send emails for you ([source](https://www.engadget.com/2249396/how-to-let-claude-send-emails/))
 - **2026-09-05** — Your Roku TV offers AI slop for free (if you're into that sort of thing) ([source](https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/))
