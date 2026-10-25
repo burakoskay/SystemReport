@@ -1,19 +1,20 @@
 ---
 title: "Vintage Desktop OSes Make a Comeback"
 date: 2026-05-12T10:41:16.207Z
-modified_date: 2026-06-05T23:15:37.365Z
+modified_date: 2026-10-25T18:42:12.689Z
 tags: ["Hacker News","vintage desktop OSes","AI on AWS"]
 hero_image: "/hero/2026-05-12-vintage-desktop-oses-make-a-comeback-494a2e.jpg"
 hero_image_credit_name: "Ruben Boekeloo"
 hero_image_credit_url: "https://www.pexels.com/@ruben-boekeloo-521336009"
 visual_keyword: "vintage desktop OSes"
 description: "Exploring vintage desktop OSes, software internals book club, and AI on AWS."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-12-vintage-desktop-oses-make-a-comeback-494a2e.mp3"
 audio_bytes: 601697
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,4 +64,5 @@ As these trends continue to evolve, it's essential to consider the downstream im
 
 ## Updates
 
+- **2026-10-25** — Even the best mesh Wi-Fi system can be easily improved with a simple cable ([source](https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/))
 - **2026-06-05** — Pilot a giant robot head in 'gen Atlas,' the new game from the creator of Ico ([source](https://www.engadget.com/2188695/pilot-a-giant-robot-head-in-gen-atlas-the-new-game-from-the-creator-of-ico/))

@@ -1,19 +1,20 @@
 ---
 title: "University Sites Hijacked, New Music App Gains HN Buzz"
 date: 2026-04-25T20:58:49.696Z
-modified_date: 2026-10-07T03:47:31.391Z
+modified_date: 2026-10-25T18:41:46.855Z
 tags: ["security","education","web","music","universities"]
 hero_image: "/hero/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.jpg"
 hero_image_credit_name: "Julien Bachelet"
 hero_image_credit_url: "https://www.pexels.com/@julienblt"
 visual_keyword: "computer screen showing hijacked university website with porn overlay and music app interface"
 description: "Hundreds of university subdomains now serve porn after hijacks, while a fresh web music tool draws attention on Hacker News, highlighting web hygiene gaps."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-04-25-university-sites-hijacked-new-music-app-gains-hn-buzz-c3251a.mp3"
 audio_bytes: 618415
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ University IT departments should prioritize a DNS audit within the next quarter.
 
 ## Updates
 
+- **2026-10-25** — The hottest AI wearables and gadgets you should know about ([source](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/))
 - **2026-10-07** — Doom on the Vectrex turns the classic shooter into Tron-like vector art ([source](https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/))
 - **2026-09-03** — ‘The Blood of Dawnwalker’ Is a Bloody Balm for My Completionism ([source](https://www.wired.com/story/the-blood-of-dawnwalker-is-a-bloody-balm-for-my-completionism/))
 - **2026-08-22** — The Unlikely Place at the Center of China’s AI Boom ([source](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/))

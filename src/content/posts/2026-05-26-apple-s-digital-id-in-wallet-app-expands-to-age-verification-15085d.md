@@ -1,16 +1,17 @@
 ---
 title: "Apple's Digital ID in Wallet App Expands to Age Verification"
 date: 2026-05-26T21:55:58.185Z
-modified_date: 2026-10-04T13:37:43.411Z
+modified_date: 2026-10-25T18:42:38.455Z
 tags: ["Apple","Digital ID","Age Verification","Mobile Wallet"]
 hero_image: "/hero/2026-05-26-apple-s-digital-id-in-wallet-app-expands-to-age-verification-15085d.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Apple Wallet"
 description: "Apple's Wallet app now allows users to use their Digital ID as an age verification method in several cases on iPhone."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ The use of digital identity verification has significant implications for variou
 
 ## Updates
 
+- **2026-10-25** — 4 Ray-Ban Meta privacy settings you should change before wearing them ([source](https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/))
 - **2026-10-04** — Elusive ‘Geoneutrinos’ Are Building a New Map of Earth’s Volatile Interior ([source](https://www.wired.com/story/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/))
 - **2026-09-09** — How to change and customize your Apple CarPlay display ([source](https://www.engadget.com/2251193/how-to-change-customize-apple-carplay-display/))
 - **2026-08-30** — How much storage does a smart TV typically have? ([source](https://www.engadget.com/2242773/how-much-storage-does-smart-tv-have/))

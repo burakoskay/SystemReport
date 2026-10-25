@@ -1,16 +1,17 @@
 ---
 title: "PS5 Gets Linux Loader, Console Modders Strike Again"
 date: 2026-04-30T21:12:32.866Z
-modified_date: 2026-09-10T20:20:36.943Z
+modified_date: 2026-10-25T18:42:47.182Z
 tags: ["ps5 mod","linux","gaming hardware"]
 hero_image: "/hero/2026-04-30-ps5-gets-linux-loader-console-modders-strike-again-a4f1d3.jpg"
 hero_image_credit_name: "Sirius Df"
 hero_image_credit_url: "https://www.pexels.com/@sirius-df-440758016"
 visual_keyword: "PS5 console with a Linux terminal displayed on screen"
 description: "A new open-source tool lets users run Linux on PlayStation 5 hardware."
-sources_count: 11
+sources_count: 12
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ For now, the PS5 Linux project remains a testament to what happens when engineer
 
 ## Updates
 
+- **2026-10-25** — Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look ([source](https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week/))
 - **2026-09-10** — How to watch the Flame Fatales 2026 speedrunning marathon ([source](https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/))
 - **2026-09-09** — Massachusetts hits data centers with new clean power rules ([source](https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/))
 - **2026-08-21** — $100 Best Buy gift cards will be $60 at stores Saturday ([source](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal))

@@ -1,16 +1,17 @@
 ---
 title: "New hardware quirks ring note‑taker AI feeder retro upgrades"
 date: 2026-09-20T23:51:39.483Z
-modified_date: 2026-10-17T13:25:50.418Z
+modified_date: 2026-10-25T18:42:04.158Z
 tags: ["hardware","ai","wearables","gaming","android"]
 hero_image: "/hero/2026-09-20-new-hardware-quirks-ring-note-taker-ai-feeder-retro-upgrades-7e8954.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "ring-shaped wearable note taker on a fingertip"
 description: "A ring‑sized note taker, AI‑driven cat feeder, free retro‑handheld upgrades, E Ink tablets, and Android UI tweaks illustrate niche hardware shifts."
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 
 ## Ring‑sized note‑taking enters the market
@@ -59,4 +60,5 @@ Track whether Vocci releases a firmware update that adds a hardware mute switch,
 
 ## Updates
 
+- **2026-10-25** — The most unexpected everyday tool can be found on your phone ([source](https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/))
 - **2026-10-17** — Apple’s HomeView is just the latest threat to online recipe writers ([source](https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting))
