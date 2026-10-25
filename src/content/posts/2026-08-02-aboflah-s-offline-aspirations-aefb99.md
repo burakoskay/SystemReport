@@ -1,15 +1,17 @@
 ---
 title: "AboFlah's Offline Aspirations"
 date: 2026-08-02T09:52:32.366Z
+modified_date: 2026-10-24T23:57:03.975Z
 tags: ["AboFlah","streaming","online presence","offline life"]
 hero_image: "/hero/2026-08-02-aboflah-s-offline-aspirations-aefb99.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "streaming"
 description: "YouTube star AboFlah wants his kids offline"
-sources_count: 1
+sources_count: 2
 author: "sam-whitfield"
 ---
+
 
 # The Streamer's Choice
 AboFlah wants his children to live offline. He has built his life around online content creation, but now considers a different path for them. His online presence has been shaped by his successful streaming career, which has included charity streams supporting various causes and raising money for those in need.
@@ -45,3 +47,7 @@ As AboFlah considers his children's offline life, he must also consider the tech
 AboFlah's choices will shape his online presence and his children's future. He prioritizes their offline life, while considering his own streaming activities. As he navigates this new path, he will be forced to confront the challenges of balancing his online and offline responsibilities and ensuring that his decisions align with his values and priorities.
 
 The consequences of AboFlah's decisions will be far-reaching, impacting not only his own life but also the lives of those around him. His choices will serve as a model for other content creators who are struggling to balance their online and offline responsibilities and will highlight the importance of prioritizing personal well-being in the pursuit of online success.
+
+## Updates
+
+- **2026-10-24** — How to extend the battery life of your Apple AirTags ([source](https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/))

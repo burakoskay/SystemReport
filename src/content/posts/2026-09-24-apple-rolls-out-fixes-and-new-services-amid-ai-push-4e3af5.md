@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out fixes and new services amid AI push"
 date: 2026-09-24T09:02:31.905Z
-modified_date: 2026-10-15T19:38:38.385Z
+modified_date: 2026-10-24T23:57:42.466Z
 tags: ["apple","ios","podcasts","ai"]
 hero_image: "/hero/2026-09-24-apple-rolls-out-fixes-and-new-services-amid-ai-push-4e3af5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Apple HomePod with AI wave overlay"
 description: "Apple patches iPhone 18 Pro reboot bug, adds video to Podcasts Subscriptions, and hints at Siri AI on HomePod, signaling a broader AI rollout."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ Track the iOS update rollout timeline and any follow‑up bug reports to gauge A
 
 ## Updates
 
+- **2026-10-24** — Roku developer repositories moved from GitHub to GitLab ([source](https://blog.roku.com/developer/gitlab-move))
 - **2026-10-15** — Meta and Apple team up to make Muse AI models run better on Macs ([source](https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx))
 - **2026-10-14** — Apple&#8217;s new HomeView smart display is $10 cheaper at Amazon ([source](https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale))
 - **2026-10-13** — Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands ([source](https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/))

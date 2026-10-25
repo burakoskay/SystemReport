@@ -1,19 +1,20 @@
 ---
 title: "Apple's Image Rendering Ambiguity Sparks Security Concerns"
 date: 2026-05-29T15:58:36.730Z
-modified_date: 2026-08-01T11:13:24.387Z
+modified_date: 2026-10-24T23:57:23.076Z
 tags: ["Apple","Security","Image Rendering"]
 hero_image: "/hero/2026-05-29-apple-s-image-rendering-ambiguity-sparks-security-concerns-8ec380.jpg"
 hero_image_credit_name: "Andréa Devillier"
 hero_image_credit_url: "https://www.pexels.com/@maisonlighthouse"
 visual_keyword: "Apple"
 description: "A security researcher discovered that Apple's image rendering implementation can display different images than other software, sparking concerns over potential security risks."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-29-apple-s-image-rendering-ambiguity-sparks-security-concerns-8ec380.mp3"
 audio_bytes: 594173
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ To mitigate the risks associated with image rendering vulnerabilities, users and
 
 ## Updates
 
+- **2026-10-24** — The pros and cons of using an eSIM over a physical SIM card ([source](https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/))
 - **2026-08-01** — Defcon's new badge is a security key you can see inside ([source](https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/))
 - **2026-07-29** — Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents ([source](https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/))
 - **2026-06-02** — PSA: A security breach means you must update the ChatGPT Mac app [U] ([source](https://9to5mac.com/2026/06/02/psa-a-security-breach-means-you-must-update-the-chatgpt-mac-app/))
