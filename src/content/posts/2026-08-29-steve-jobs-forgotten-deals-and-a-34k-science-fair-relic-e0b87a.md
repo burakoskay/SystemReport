@@ -1,19 +1,20 @@
 ---
 title: "Steve Jobs' Forgotten Deals and a $34K Science Fair Relic"
 date: 2026-08-29T15:00:21.506Z
-modified_date: 2026-09-03T22:11:23.493Z
+modified_date: 2026-10-25T02:46:04.540Z
 tags: ["steve jobs","tech history","mac os","auction"]
 hero_image: "/hero/2026-08-29-steve-jobs-forgotten-deals-and-a-34k-science-fair-relic-e0b87a.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "vintage science fair project with circuitry and handwritten notes"
 description: "A vintage Jobs project sells at auction as a memoir reveals his abortive plan to ship Mac OS on Dell PCs, sparking fresh scrutiny of his risk‑taking legacy."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-29-steve-jobs-forgotten-deals-and-a-34k-science-fair-relic-e0b87a.mp3"
 audio_bytes: 633671
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Steve Jobs' 1968 science fair project fetched $34,375 at auction, and a newly released memoir shows he once tried to ship Mac OS on Dell PCs. The two stories expose a pattern of bold bets that never materialized.
@@ -50,4 +51,5 @@ Dell's memoir will likely prompt renewed scrutiny of other undocumented deals Jo
 
 ## Updates
 
+- **2026-10-25** — America has lost 200k of jobs in media, film and the arts. How much is AI? ([source](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class))
 - **2026-09-03** — The Apple Vision Pro was used for a successful hip surgery ([source](https://www.engadget.com/2250758/stryker-apple-vision-pro-sportsuite-app-in-hip-arthroscopy/))

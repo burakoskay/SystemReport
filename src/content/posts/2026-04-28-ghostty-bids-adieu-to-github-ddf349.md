@@ -1,16 +1,17 @@
 ---
 title: "Ghostty Bids Adieu to GitHub"
 date: 2026-04-28T20:21:56.046Z
-modified_date: 2026-09-12T20:01:29.602Z
+modified_date: 2026-10-25T02:45:55.725Z
 tags: ["ghostty","github","terminal emulator","tech news"]
 hero_image: "/hero/2026-04-28-ghostty-bids-adieu-to-github-ddf349.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "terminal emulator screenshot"
 description: "Popular terminal emulator Ghostty is leaving GitHub, citing reasons yet to be disclosed. The move comes after a series of innovative features and integrations."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The terminal emulator landscape is poised for continued innovation and growth. A
 
 ## Updates
 
+- **2026-10-25** — What is the cheapest new gaming console you can buy in 2026? ([source](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/))
 - **2026-09-12** — How to add your driver's license to Apple Wallet and where you can use it ([source](https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/))
 - **2026-08-03** — How to change and customize your Apple Watch face ([source](https://www.engadget.com/2226183/how-to-change-customize-apple-watch-face/))
 - **2026-05-22** — Even If You Hate AI, You Will Use Google AI Search ([source](https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/))
