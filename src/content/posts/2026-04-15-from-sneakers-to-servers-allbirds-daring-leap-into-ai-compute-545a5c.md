@@ -1,16 +1,17 @@
 ---
 title: "From Sneakers to Servers: Allbirds' Daring Leap into AI Compute"
 date: 2026-04-15T19:43:46.355Z
-modified_date: 2026-10-22T19:42:15.583Z
+modified_date: 2026-10-25T22:16:14.480Z
 tags: ["ai","tech pivot","allbirds","gpu-as-a-service","investment"]
 hero_image: "/hero/2026-04-15-from-sneakers-to-servers-allbirds-daring-leap-into-ai-compute-545a5c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Corporate AI transformation"
 description: "Once a $4B shoe brand, Allbirds rebrands as NewBird AI, pivoting to GPU-as-a-Service. This bold move highlights the AI boom's transformative, and volatile, power."
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Allbirds' transformation is not an isolated incident but rather a striking sympt
 
 ## Updates
 
+- **2026-10-25** — Show HN: I put employees inside S&P 500 market-cap bubbles ([source](https://bigwhalehunting.com/workforce/))
 - **2026-10-22** — Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant ([source](https://www.wired.com/story/greenlight-hub-voice-assistant-feature/))
 - **2026-10-17** — TikTok bans Musk documentary account ([source](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary))
 - **2026-10-12** — Muse Wonder Puts Meta Back at the AI Frontier ([source](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/))

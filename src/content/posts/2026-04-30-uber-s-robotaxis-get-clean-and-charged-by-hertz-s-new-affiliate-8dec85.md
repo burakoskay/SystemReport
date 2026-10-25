@@ -1,16 +1,17 @@
 ---
 title: "Uber's Robotaxis Get Clean and Charged by Hertz's New Affiliate"
 date: 2026-04-30T17:29:25.462Z
-modified_date: 2026-09-22T17:54:37.617Z
+modified_date: 2026-10-25T22:16:00.313Z
 tags: ["autonomous vehicles","ride-hailing","fleet management"]
 hero_image: "/hero/2026-04-30-uber-s-robotaxis-get-clean-and-charged-by-hertz-s-new-affiliate-8dec85.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "robotaxi"
 description: "Uber partners with Hertz to manage its Lucid Motors robotaxis through a new affiliate called Oro Mobility, aiming to improve fleet management."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ Furthermore, the use of autonomous vehicles in ride-hailing services has the pot
 
 ## Updates
 
+- **2026-10-25** — 9to5Mac Overtime 087: Happy iPhone Duo day ([source](https://9to5mac.com/2026/10/23/9to5mac-overtime-087-happy-iphone-duo-day/))
 - **2026-09-22** — PITAKA’s iPhone 18 Pro cases bring stunning designs and protection from $59.99 [Save 10%] ([source](https://9to5mac.com/2026/09/22/pitaka-iphone-18-cases/))
 - **2026-09-13** — The iPhone Duo didn’t reinvent Android foldables, but I fear the copycats anyway ([source](https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/))
 - **2026-08-27** — How to watch Apple’s September event: iPhone 18 Pro, iPhone Ultra, more ([source](https://9to5mac.com/2026/08/27/how-to-watch-apples-september-event-iphone-18-pro-iphone-ultra-more/))

@@ -1,15 +1,17 @@
 ---
 title: "Zoom screen‑share bug lets attacker hijack iPhone or Mac"
 date: 2026-08-11T14:58:12.310Z
+modified_date: 2026-10-25T22:15:45.897Z
 tags: ["zoom","security","privacy","ai","software"]
 hero_image: "/hero/2026-08-11-zoom-screen-share-bug-lets-attacker-hijack-iphone-or-mac-f3dd38.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "zoom screen sharing window with malicious code overlay"
 description: "Researchers used an AI tool in under 20 prompts to expose a Zoom flaw that let any call participant execute code on another's device, now patched."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 ## Zoom screen‑sharing flaw lets attackers seize devices
 A single Zoom screen‑share let an attacker hijack any participant’s phone or Mac. Researchers demonstrated remote code execution by exploiting the way Zoom renders shared screens. The vulnerability worked on iOS and macOS clients, giving the attacker full control of the victim’s device. Zoom issued a fix within days of disclosure, replacing the vulnerable component in its client software.
@@ -38,3 +40,7 @@ The lawsuit arrives amid a broader wave of litigation targeting tech firms’ pr
 
 ## What to watch
 Zoom’s patch will be rolled out to all clients over the next week; monitoring the adoption rate will indicate how quickly enterprises can remediate the exposure. Meanwhile, legislators in several states are drafting bills that would limit the use of Bluetooth‑based tracking by municipal cameras. Finally, the outcome of the Apple Private Relay class action will set a precedent for how aggressively courts will hold providers accountable for privacy‑feature failures. Stakeholders should track patch deployment metrics, legislative hearings, and court filings for the next quarter.
+
+## Updates
+
+- **2026-10-25** — A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate ([source](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen))
