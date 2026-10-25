@@ -1,15 +1,17 @@
 ---
 title: "Elon Musk's xAI Sues Apple and OpenAI Over AI Exclusivity"
 date: 2026-05-14T18:06:13.959Z
+modified_date: 2026-10-25T14:04:26.579Z
 tags: ["AI","Apple","OpenAI"]
 hero_image: "/hero/2026-05-14-elon-musk-s-xai-sues-apple-and-openai-over-ai-exclusivity-3805e8.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Elon Musk's xAI has filed a lawsuit against Apple and OpenAI, accusing them of colluding to prevent competition in the AI industry."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Musk's xAI Takes on Apple and OpenAI
@@ -67,3 +69,7 @@ The lawsuit is likely to escalate tensions between Apple, OpenAI, and xAI. As th
 The reader should watch for Apple's response to the lawsuit and any potential developments in the App Store rankings and editorial features. The outcome of this lawsuit could have significant implications for the AI industry and the way companies approach exclusivity and competition.
 
 The future of AI-powered chatbots is uncertain, but one thing is clear: the industry will continue to evolve rapidly, driven by advances in technology and changing consumer demands.
+
+## Updates
+
+- **2026-10-25** — Google’s AI search changes upended online publishing ([source](https://www.theverge.com/column/1017983/google-ai-search-online-publishing))

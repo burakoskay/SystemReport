@@ -1,18 +1,20 @@
 ---
 title: "Lucid cuts output as EV market stalls, VC focus shifts"
 date: 2026-10-06T08:32:31.710Z
+modified_date: 2026-10-25T14:04:35.383Z
 tags: ["ev","venture-capital","startup-tools","ai"]
 hero_image: "/hero/2026-10-06-lucid-cuts-output-as-ev-market-stalls-vc-focus-shifts-685b4c.jpg"
 hero_image_credit_name: "HRK Gallery"
 hero_image_credit_url: "https://www.pexels.com/@hrk-gallery-245057798"
 visual_keyword: "luxury electric car on assembly line with reduced activity"
 description: "Lucid Motors trims production amid weak demand, while venture capital eyes new bets and AI tools reshape founder‑investor matchmaking."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-06-lucid-cuts-output-as-ev-market-stalls-vc-focus-shifts-685b4c.mp3"
 audio_bytes: 587695
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Lucid Motors slashes output, signals deeper demand woes
 Lucid Motors announced it will run its factory at the lowest capacity in almost two years. The cut is a deliberate response to years of tepid mass‑market interest.
@@ -36,3 +38,7 @@ The service offers a 30‑day free trial and does not require a credit card. Its
 
 ## What to watch
 Lucid’s production floor will reveal whether demand truly stalls or if the cut is a tactical pause. Keep an eye on the company’s quarterly inventory numbers and any hint of a price‑adjustment strategy. In the venture world, watch Menlo’s next moves in sectors where founders have faced public criticism. Finally, monitor adoption rates of AI matchmaking and signal‑aggregation tools, as they could become the new default for fundraising and portfolio oversight.
+
+## Updates
+
+- **2026-10-25** — What tech is making you happy? ([source](https://9to5google.com/2026/10/25/what-tech-is-making-you-happy/))

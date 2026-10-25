@@ -1,16 +1,17 @@
 ---
 title: "Google Expands Preferred Sources and Tightens Search Policies"
 date: 2026-04-30T21:21:32.057Z
-modified_date: 2026-10-08T19:39:47.389Z
+modified_date: 2026-10-25T14:04:09.273Z
 tags: ["google","search","ai"]
 hero_image: "/hero/2026-04-30-google-expands-preferred-sources-and-tightens-search-policies-cd75ba.jpg"
 hero_image_credit_name: "Sarah Blocksidge"
 hero_image_credit_url: "https://www.pexels.com/@sarah-blocksidge-69426152"
 visual_keyword: "Google search interface with highlighted Preferred Sources and updated spam policy notices"
 description: "Google rolls out global Preferred Sources and March 2024 spam policies to enhance search quality."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Google’s next moves will determine if these updates are evolutionary or revolu
 
 ## Updates
 
+- **2026-10-25** — What the US Movement Against Data Centers Can Learn From Abroad ([source](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/))
 - **2026-10-08** — Apple TV just unveiled the new season of last year’s hit comedy ([source](https://9to5mac.com/2026/10/08/apple-tv-just-unveiled-the-new-season-of-last-years-hit-comedy/))
 - **2026-10-07** — Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees ([source](https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees))
 - **2026-09-21** — Meta’s AI agent has been blocked from using Amazon.com ([source](https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/))

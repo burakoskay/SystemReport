@@ -1,18 +1,20 @@
 ---
 title: "BEYOND Expo Showcases AI Advances in Macao"
 date: 2026-06-06T03:57:33.673Z
+modified_date: 2026-10-25T14:04:00.471Z
 tags: ["AI","BEYOND Expo","Macao","Asian tech"]
 hero_image: "/hero/2026-06-06-beyond-expo-showcases-ai-advances-in-macao-1574ae.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI"
 description: "The 6th BEYOND Expo in Macao highlighted the latest AI and tech breakthroughs, with over 30,000 visitors and nearly 800 companies showcasing their products."
-sources_count: 14
-author: "maya-chen"
+sources_count: 15
 audio_path: "/audio/2026-06-06-beyond-expo-showcases-ai-advances-in-macao-1574ae.mp3"
 audio_bytes: 625938
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## BEYOND Expo Highlights AI and Tech Innovations
@@ -62,3 +64,7 @@ The expo also provides a platform for investors and partners to connect with com
 The 6th BEYOND Expo was a significant event that showcased the latest advancements in AI and tech. The expo featured a number of innovative products and technologies, and provided a platform for companies to connect with investors and partners.
 
 As the tech industry continues to evolve, events like BEYOND Expo will likely play a crucial role in showcasing the latest advancements and setting the direction for the future.
+
+## Updates
+
+- **2026-10-25** — Scientists Trapped an Antimatter Particle for Months to Study Its Secrets ([source](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/))
