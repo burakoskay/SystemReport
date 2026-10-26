@@ -1,19 +1,20 @@
 ---
 title: "Google News fades, RSS dies, and a new tab revival"
 date: 2026-08-01T22:51:38.120Z
-modified_date: 2026-08-14T22:16:42.015Z
+modified_date: 2026-10-26T16:53:12.134Z
 tags: ["google","rss","news","extensions","hackernews"]
 hero_image: "/hero/2026-08-01-google-news-fades-rss-dies-and-a-new-tab-revival-d1bc41.jpg"
 hero_image_credit_name: "HONG SON"
 hero_image_credit_url: "https://www.pexels.com/@hson"
 visual_keyword: "a cluttered browser new tab with widgets and news feeds"
 description: "A Hacker News thread flags Google News’s retreat, a 2023 blog blames Google for RSS decline, and a community‑built iGoogle clone offers a fresh start."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-01-google-news-fades-rss-dies-and-a-new-tab-revival-d1bc41.mp3"
 audio_bytes: 616116
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google News under fire – the latest backlash
@@ -50,4 +51,5 @@ The next six months will test whether the ecosystem coalesces around open standa
 
 ## Updates
 
+- **2026-10-26** — The Tragedy of Having a Wikipedia Page—and Then Losing It ([source](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/))
 - **2026-08-14** — New York City Lawmakers Push to ‘Ban the Scan’ at MSG ([source](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/))

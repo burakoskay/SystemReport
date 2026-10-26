@@ -1,19 +1,20 @@
 ---
 title: "AI-Powered Camera Edits Coming to iOS 27"
 date: 2026-05-24T08:36:23.473Z
-modified_date: 2026-08-11T14:53:58.029Z
+modified_date: 2026-10-26T16:51:50.805Z
 tags: ["iOS 27","AI-powered camera","smarter keyboard","Siri app"]
 hero_image: "/hero/2026-05-24-ai-powered-camera-edits-coming-to-ios-27-f35d3a.jpg"
 hero_image_credit_name: "Tessa Charles"
 hero_image_credit_url: "https://www.pexels.com/@tessacharles"
 visual_keyword: "iPhone"
 description: "iOS 27 rumors: AI camera edits, smarter keyboard, and new Siri app"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-24-ai-powered-camera-edits-coming-to-ios-27-f35d3a.mp3"
 audio_bytes: 577037
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,5 +65,6 @@ The iOS 27 updates are part of this broader trend, and demonstrate Apple's commi
 
 ## Updates
 
+- **2026-10-26** — T-Mobile’s new plans include swappable subscription perks ([source](https://www.theverge.com/tech/1018624/t-mobile-mix-plans-streaming-picks))
 - **2026-08-11** — AI Could Help Fossil Fuel Companies Create More Emissions ([source](https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/))
 - **2026-05-27** — This smart bird feeder captures more of my backyard drama ([source](https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review))

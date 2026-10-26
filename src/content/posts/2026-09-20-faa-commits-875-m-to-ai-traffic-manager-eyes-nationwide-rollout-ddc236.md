@@ -1,16 +1,18 @@
 ---
 title: "FAA commits $875 M to AI traffic manager, eyes nationwide rollout"
 date: 2026-09-20T17:16:56.477Z
-modified_date: 2026-10-03T00:53:38.469Z
+modified_date: 2026-10-26T16:53:22.350Z
 tags: ["aviation","artificial-intelligence","regulation","faa"]
 hero_image: "/hero/2026-09-20-faa-commits-875-m-to-ai-traffic-manager-eyes-nationwide-rollout-ddc236.jpg"
 hero_image_credit_name: "Roberto"
 hero_image_credit_url: "https://www.pexels.com/@roberto-3684158"
 visual_keyword: "air traffic control tower with digital overlay of AI data streams"
 description: "The FAA plans to deploy an AI system to ease DC airspace congestion, sparking debate over safety, oversight, and military precedent."
-sources_count: 18
+sources_count: 20
 author: "maya-chen"
 ---
+
+
 
 
 ## FAA rolls out $875 M AI traffic tool for Washington corridor
@@ -53,4 +55,6 @@ The next FAA briefing, scheduled for early next year, will reveal the trial’s 
 
 ## Updates
 
+- **2026-10-26** — Tesla gave up the EV crown. Now it wants to win the autonomy race ([source](https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/))
+- **2026-10-26** — The Anthropic IPO Is Also a Doomsday Primer ([source](https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/))
 - **2026-10-03** — From the creator of Redis; run LLM locally with ds4 ([source](https://dwarfstar.sh/))

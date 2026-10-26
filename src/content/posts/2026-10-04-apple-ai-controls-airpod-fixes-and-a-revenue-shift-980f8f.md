@@ -1,19 +1,20 @@
 ---
 title: "Apple AI controls, AirPod fixes, and a revenue shift"
 date: 2026-10-04T18:04:52.776Z
-modified_date: 2026-10-23T22:50:32.881Z
+modified_date: 2026-10-26T16:54:41.480Z
 tags: ["apple","ai","wearables","services","hardware"]
 hero_image: "/hero/2026-10-04-apple-ai-controls-airpod-fixes-and-a-revenue-shift-980f8f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "iPhone settings screen showing AI toggle next to AirPods in a case"
 description: "Apple lets users curb its on‑device AI, offers AirPod troubleshooting, and sees wearables and services surge while critics call its hardware stale."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-10-04-apple-ai-controls-airpod-fixes-and-a-revenue-shift-980f8f.mp3"
 audio_bytes: 607339
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,5 +53,6 @@ The tension between user‑controlled AI, hardware perception, and revenue diver
 
 ## Updates
 
+- **2026-10-26** — Watch the iPhone Duo run a Shortcuts automation when it is opened or closed [Video] ([source](https://9to5mac.com/2026/10/26/watch-the-iphone-duo-run-a-shortcuts-automation-when-it-is-opened-or-closed-video/))
 - **2026-10-23** — Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell ([source](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/))
 - **2026-10-19** — Apple teases MacBook Pro event next week ([source](https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement))

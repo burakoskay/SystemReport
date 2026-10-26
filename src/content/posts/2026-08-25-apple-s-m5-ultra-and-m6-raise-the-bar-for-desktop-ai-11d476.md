@@ -1,15 +1,17 @@
 ---
 title: "Apple's M5 Ultra and M6 raise the bar for desktop AI"
 date: 2026-08-25T16:32:59.926Z
+modified_date: 2026-10-26T16:54:51.787Z
 tags: ["apple","silicon","ai","macos","hardware"]
 hero_image: "/hero/2026-08-25-apple-s-m5-ultra-and-m6-raise-the-bar-for-desktop-ai-11d476.jpg"
 hero_image_credit_name: "Jimmy Chan"
 hero_image_credit_url: "https://www.pexels.com/@jimbear"
 visual_keyword: "modern desktop computer with sleek metal chassis and glowing circuit board"
 description: "Apple launches the M5 Ultra and M6 chips in refreshed Mac Mini and Mac Studio, aiming at local AI workloads while modestly improving performance."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## Apple rolls out its most powerful chips yet
 Apple introduced two new silicon variants on Tuesday: the M5 Ultra and the M6. Both arrive in an updated Mac Mini and a refreshed Mac Studio. Apple billed the M5 Ultra as the "most powerful chip ever" in its lineup, while the M6 targets everyday workloads with a newer manufacturing node.
@@ -39,3 +41,7 @@ From a pricing perspective, the new Mac mini configurations sit above the M4‑b
 The next quarter will reveal whether developers adopt the M5 Ultra for production AI workloads or stick with external accelerators. Track the adoption metrics Apple releases for Mac Studio sales, and watch for third‑party benchmark suites that compare the M5 Ultra’s inference latency against Nvidia’s consumer‑grade GPUs. A potential macOS update that adds native support for emerging model formats could further tip the balance toward on‑device AI.
 
 ---
+
+## Updates
+
+- **2026-10-26** — Peter Thiel, the tech oligarch who believes in the Antichrist ([source](https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html))

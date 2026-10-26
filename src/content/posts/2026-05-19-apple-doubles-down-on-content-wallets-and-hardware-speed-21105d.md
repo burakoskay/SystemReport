@@ -1,19 +1,20 @@
 ---
 title: "Apple doubles down on content, wallets and hardware speed"
 date: 2026-05-19T21:33:21.817Z
-modified_date: 2026-10-19T16:46:33.048Z
+modified_date: 2026-10-26T16:52:00.900Z
 tags: ["apple","hardware","streaming","ios"]
 hero_image: "/hero/2026-05-19-apple-doubles-down-on-content-wallets-and-hardware-speed-21105d.jpg"
 hero_image_credit_name: "Dmitry Demidov"
 hero_image_credit_url: "https://www.pexels.com/@dmitry-demidov-515774"
 visual_keyword: "Apple conference hall with film reel and hardware schematics"
 description: "Apple adds a new original film star, fixes Wallet order tracking, rolls out Peanuts premieres, and reshuffles hardware leadership to speed future devices."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-05-19-apple-doubles-down-on-content-wallets-and-hardware-speed-21105d.mp3"
 audio_bytes: 588531
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The next quarter will reveal whether Apple’s content bets and hardware reforms
 
 ## Updates
 
+- **2026-10-26** — Microsoft&#8217;s new Surface Laptop Ultra update fixes reboot and display bugs ([source](https://www.theverge.com/tech/1018636/microsoft-surface-laptop-ultra-october-firmware-update))
 - **2026-10-19** — Amazon is funding a new nuclear plant in Indiana ([source](https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana))
 - **2026-10-02** — Affordable alternatives to Apple's AirPods Max ([source](https://www.engadget.com/2275580/affordable-alternatives-to-apples-airpods-max/))
 - **2026-08-17** — Deals: Best Buy 60th Anniversary Sale, Pixelsnap cases 20% off, Copilot+ PCs up to $1,350 off, Nothing Headphone (a), more ([source](https://9to5google.com/2026/08/17/deals-best-buy-anniversary-sale-nothing-headphone-a/))

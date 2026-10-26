@@ -1,19 +1,20 @@
 ---
 title: "Vertigo Games Shuts Down Amsterdam VR Studio"
 date: 2026-06-05T12:51:06.549Z
-modified_date: 2026-09-18T14:03:49.324Z
+modified_date: 2026-10-26T16:52:11.066Z
 tags: ["Vertigo Games","VR gaming","studio closure"]
 hero_image: "/hero/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "VR gaming"
 description: "Vertigo Games, known for VR titles, closes Amsterdam studio, impacting the VR gaming industry."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.mp3"
 audio_bytes: 626565
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -47,4 +48,5 @@ In the short term, the closure of Vertigo Games' Amsterdam studio is likely to h
 
 ## Updates
 
+- **2026-10-26** — Can AI help solve the COBOL code crisis? ([source](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic))
 - **2026-09-18** — Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history' ([source](https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/))

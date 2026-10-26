@@ -1,19 +1,20 @@
 ---
 title: "Apple M1 Chip"
 date: 2026-08-01T16:55:55.248Z
-modified_date: 2026-08-06T14:24:04.569Z
+modified_date: 2026-10-26T16:54:02.176Z
 tags: ["apple","m1 chip","macbook"]
 hero_image: "/hero/2026-08-01-apple-m1-chip-37d7ed.jpg"
 hero_image_credit_name: "dlxmedia.hu"
 hero_image_credit_url: "https://www.pexels.com/@dlxmedia-hu-215591835"
 visual_keyword: "apple m1 chip"
 description: "Apple's new M1 chip is a significant improvement over its predecessors, offering faster processing speeds and longer battery life."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-08-01-apple-m1-chip-37d7ed.mp3"
 audio_bytes: 563036
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -44,4 +45,5 @@ In the coming weeks and months, we can expect to see more news and releases from
 
 ## Updates
 
+- **2026-10-26** — The built-in Android phone app most users never bother to use (but should) ([source](https://www.engadget.com/2294291/built-in-android-phone-app-most-users-never-use/))
 - **2026-08-06** — Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce ([source](https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/))

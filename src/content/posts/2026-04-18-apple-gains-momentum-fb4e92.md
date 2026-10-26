@@ -1,16 +1,17 @@
 ---
 title: "Apple Gains Momentum"
 date: 2026-04-18T20:28:47.227Z
-modified_date: 2026-09-26T20:31:48.554Z
+modified_date: 2026-10-26T16:52:21.273Z
 tags: ["Apple","Cerebras","Samsung"]
 hero_image: "/hero/2026-04-18-apple-gains-momentum-fb4e92.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple Watch"
 description: "Apple wins patent battle, stock target increases"
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ Apple’s recent wins and upcoming AI conference presentations position the comp
 
 ## Updates
 
+- **2026-10-26** — Apple unveils new iPad mini with OLED display and faster A20 Pro chip ([source](https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/))
 - **2026-09-26** — Meta and YouTube say they will run ads for ‘Musk’ documentary after all ([source](https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/))
 - **2026-09-08** — Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market ([source](https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/))
 - **2026-08-12** — Cats and dogs are missing meals after a popular smart feeder went down ([source](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders))
