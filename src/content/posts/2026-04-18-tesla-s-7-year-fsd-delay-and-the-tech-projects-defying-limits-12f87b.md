@@ -1,16 +1,17 @@
 ---
 title: "Tesla’s 7-Year FSD Delay and the Tech Projects Defying Limits"
 date: 2026-04-18T12:46:34.988Z
-modified_date: 2026-10-08T19:39:41.644Z
+modified_date: 2026-10-26T09:35:05.981Z
 tags: ["interval-arithmetic","privacy-security","virtualization","ai-timelines","hardware-design"]
 hero_image: "/hero/2026-04-18-tesla-s-7-year-fsd-delay-and-the-tech-projects-defying-limits-12f87b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "disjoint-interval-division"
 description: "From disjoint interval arithmetic to privacy-locked MacBooks, engineers push boundaries while giants lag."
-sources_count: 23
+sources_count: 24
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ ESA's 2018 study revealed all 12 moonwalkers suffered "lunar hay fever" from dus
 
 ## Updates
 
+- **2026-10-26** — This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners ([source](https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/))
 - **2026-10-08** — Apple names new head of mergers and acquisitions, per report ([source](https://9to5mac.com/2026/10/08/apple-names-new-head-of-mergers-and-acquisitions-per-report/))
 - **2026-09-24** — Meta's new holographic avatars are here and they're surprisingly real ([source](https://www.engadget.com/2267223/meta-holograph-avatar-for-ai-and-vr-glasses-update-hands-on/))
 - **2026-09-19** — B&H Photo Promo Codes and Deals This September 2026 ([source](https://www.wired.com/story/bh-photo-coupon/))
