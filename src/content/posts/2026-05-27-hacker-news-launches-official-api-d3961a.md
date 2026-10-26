@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Launches Official API"
 date: 2026-05-27T10:06:17.282Z
-modified_date: 2026-08-21T18:27:46.888Z
+modified_date: 2026-10-26T02:42:26.725Z
 tags: ["Hacker News","API","Firebase"]
 hero_image: "/hero/2026-05-27-hacker-news-launches-official-api-d3961a.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "hacker-news-logo"
 description: "Hacker News has launched an official API in partnership with Firebase, providing near real-time access to data and enabling developers to modernize their apps."
-sources_count: 10
+sources_count: 11
 author: "lena-volkov"
 ---
+
 
 
 
@@ -88,5 +89,6 @@ As the API evolves, it will be interesting to see how developers use it to build
 
 ## Updates
 
+- **2026-10-26** — The best apps for tracking your reading and discovering new books ([source](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/))
 - **2026-08-21** — Why is the DOJ investigating Andreessen Horowitz’s board seats? ([source](https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/))
 - **2026-06-07** — AI ‘content creators’ are getting harder to spot ([source](https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators))
