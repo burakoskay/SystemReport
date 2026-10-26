@@ -1,19 +1,20 @@
 ---
 title: "Cartoon Network Releases Open-Source Game"
 date: 2026-06-06T17:20:27.566Z
-modified_date: 2026-10-20T22:56:57.812Z
+modified_date: 2026-10-26T22:13:05.582Z
 tags: ["gaming","open-source","cartoon-network"]
 hero_image: "/hero/2026-06-06-cartoon-network-releases-open-source-game-4a98db.jpg"
 hero_image_credit_name: "Eren Li"
 hero_image_credit_url: "https://www.pexels.com/@eren-li"
 visual_keyword: "gaming"
 description: "Cartoon Network releases OK K.O.! Lakewood Plaza Turbo, a mobile game that invites hackers and developers to improve and alter the game."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-06-06-cartoon-network-releases-open-source-game-4a98db.mp3"
 audio_bytes: 548198
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The release of OK K.O.! Lakewood Plaza Turbo is also part of a larger trend in t
 
 ## Updates
 
+- **2026-10-26** — Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo ([source](https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/))
 - **2026-10-20** — 9to5Mac Daily: October 20, 2026 – Apple announces ‘Pro and tell’ experience ([source](https://9to5mac.com/2026/10/20/daily-october-20-2026/))
 - **2026-10-13** — Hands-on with the Apple Home Collection ([source](https://www.theverge.com/tech/1009899/apple-home-collection-hands-on))
 - **2026-10-12** — Chromecast with Google TV gets first update of 2026 ([source](https://9to5google.com/2026/10/12/chromecast-google-tv-2026-update/))

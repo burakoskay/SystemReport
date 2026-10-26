@@ -1,16 +1,17 @@
 ---
 title: "Mercedes-AMG Unveils 1,153 HP Electric GT 4-Door"
 date: 2026-05-20T11:02:30.142Z
-modified_date: 2026-08-03T06:58:35.074Z
+modified_date: 2026-10-26T22:12:47.634Z
 tags: ["Mercedes-AMG","Electric Vehicles","High-Performance Cars"]
 hero_image: "/hero/2026-05-20-mercedes-amg-unveils-1-153-hp-electric-gt-4-door-385dcd.jpg"
 hero_image_credit_name: "Garvin St. Villier"
 hero_image_credit_url: "https://www.pexels.com/@garvin-st-villier-719266"
 visual_keyword: "Mercedes-AMG Electric GT 4-Door"
 description: "Mercedes-AMG's most powerful vehicle, a true GT-class four-door electric car with 1,153 HP and no internal-combustion engine."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -60,4 +61,5 @@ The future of the electric vehicle market looks bright, with many manufacturers 
 
 ## Updates
 
+- **2026-10-26** — Best Dyson Vacuum Deals for Dyson Week 2026 ([source](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/))
 - **2026-08-03** — Qwen3.8-Max: A New Bar for Coding and Cowork ([source](https://qwen.ai/blog?id=qwen3.8))

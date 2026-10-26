@@ -1,16 +1,17 @@
 ---
 title: "SpaceX Scrubs Starship V3 Test Hours Before Liftoff"
 date: 2026-05-22T04:04:57.096Z
-modified_date: 2026-10-26T16:51:30.763Z
+modified_date: 2026-10-26T22:12:20.769Z
 tags: ["SpaceX","Starship V3","Space Exploration"]
 hero_image: "/hero/2026-05-22-spacex-scrubs-starship-v3-test-hours-before-liftoff-8278e2.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "SpaceX Starship V3"
 description: "SpaceX halted the first Starship V3 launch on May 21"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The Starship program has the potential to facilitate international cooperation i
 
 ## Updates
 
+- **2026-10-26** — The NBA’s response to gambling scandals is to add more gambling partnerships ([source](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket))
 - **2026-10-26** — The Sony WH-1000XM4C bring back a beloved headphone design ([source](https://www.theverge.com/tech/1018115/sony-wh-1000xm4c-headphones-review))
 - **2026-10-02** — Samsung just raised the price on several more Galaxy phones in the US ([source](https://9to5google.com/2026/10/02/samsung-just-raised-the-price-on-several-more-galaxy-phones-in-the-us/))
 - **2026-09-22** — 9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game" ([source](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html))

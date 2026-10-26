@@ -1,16 +1,17 @@
 ---
 title: "Retailers Rev Up Discounts as Holiday Shopping Heats Up"
 date: 2026-05-16T06:28:58.495Z
-modified_date: 2026-09-09T19:00:42.077Z
+modified_date: 2026-10-26T22:12:38.718Z
 tags: ["retail","holiday shopping","discounts"]
 hero_image: "/hero/2026-05-16-retailers-rev-up-discounts-as-holiday-shopping-heats-up-ae42d5.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "shopping"
 description: "Major retailers offer significant discounts and promo codes for holiday shopping"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ The technical mechanics of discounts are also influenced by the use of data anal
 
 ## Updates
 
+- **2026-10-26** — Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date ([source](https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale))
 - **2026-09-09** — Apple CEO John Ternus says the best AI device is still the iPhone ([source](https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/))
 - **2026-09-07** — All of the best Apple Labor Day deals: AirPods, Mac, charging gear, accessories, more ([source](https://9to5mac.com/2026/09/07/best-apple-labor-day-deals/))
 - **2026-08-05** — AI Worms and Viruses Are Coming ([source](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/))

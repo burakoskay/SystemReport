@@ -1,15 +1,17 @@
 ---
 title: "Motorola to ship GrapheneOS on future Razr Fold"
 date: 2026-08-25T08:52:52.934Z
+modified_date: 2026-10-26T22:11:44.956Z
 tags: ["grapheneos","motorola","android","privacy","mobile-security"]
 hero_image: "/hero/2026-08-25-motorola-to-ship-grapheneos-on-future-razr-fold-968ea3.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "close-up of a folded Razr smartphone with a lock icon overlay"
 description: "Motorola announced a long‑term partnership with GrapheneOS to preload the privacy‑focused OS on a future Razr Fold and Ultra, while Pixel 11 devices will also receive support."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 ## Motorola partners with GrapheneOS at MWC 2026
 Motorola disclosed a partnership with the GrapheneOS Foundation during Mobile World Congress in Barcelona this week. The deal promises pre‑installed GrapheneOS on a yet‑to‑be‑named Motorola flagship and a port of select GrapheneOS features to the Razr Fold and Razr Ultra.
@@ -34,3 +36,7 @@ The partnership also raises questions about supply‑chain logistics. GrapheneOS
 The first GrapheneOS‑preloaded Motorola device is expected in 2027, though the exact model name remains unconfirmed. Track the hardware specifications released in the next few months; a secure element comparable to Titan‑M will be the decisive factor for full OS adoption.
 Watch for the next GrapheneOS security preview, scheduled for early 2027, which will list additional CVE fixes and potentially expand the list of supported location providers. The rollout of Hyundai and Kia’s GrapheneOS‑compatible apps will also serve as a barometer for broader OEM willingness to support de‑googled environments.
 Finally, monitor Pixel 11’s official GrapheneOS support timeline. If Google enables the OS on its own next‑generation hardware, it could reinforce the perception that GrapheneOS is a viable alternative for mainstream users, while Motorola’s entry tests that hypothesis on a non‑Pixel platform.
+
+## Updates
+
+- **2026-10-26** — Databricks co-founder shares his secrets for winning big enterprises customers ([source](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/))

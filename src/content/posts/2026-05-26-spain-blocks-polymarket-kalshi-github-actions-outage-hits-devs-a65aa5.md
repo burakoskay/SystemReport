@@ -1,16 +1,17 @@
 ---
 title: "Spain blocks Polymarket, Kalshi; GitHub Actions outage hits devs"
 date: 2026-05-26T15:57:41.034Z
-modified_date: 2026-10-24T17:10:03.725Z
+modified_date: 2026-10-26T22:12:29.780Z
 tags: ["spain","prediction-markets","github-actions","dynamic-dns"]
 hero_image: "/hero/2026-05-26-spain-blocks-polymarket-kalshi-github-actions-outage-hits-devs-a65aa5.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "a frustrated developer staring at a laptop error screen"
 description: "Spain's regulator forces Polymarket and Kalshi offline for lacking gambling licences while GitHub Actions suffers another outage, highlighting reliability and compliance pressures on online services."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Enterprises will need to audit their third‑party dependencies more rigorously.
 
 ## Updates
 
+- **2026-10-26** — Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens ([source](https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack))
 - **2026-10-24** — The Boox Palma 2 Pro finally got me to stop reading on my phone ([source](https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/))
 - **2026-10-17** — You might be surprised by how much the Slate truck can carry ([source](https://www.engadget.com/2289615/slate-truck-how-much-can-carry/))
 - **2026-10-15** — Quick question: Who exactly is iPhone Handoff for? ([source](https://www.theverge.com/tech/1011338/iphone-handoff-t-mobile-work-iphone))

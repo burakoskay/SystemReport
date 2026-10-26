@@ -1,16 +1,17 @@
 ---
 title: "YouTube Unleashes the 'Off Switch' for Shorts"
 date: 2026-04-16T05:28:17.434Z
-modified_date: 2026-10-16T08:41:33.889Z
+modified_date: 2026-10-26T22:11:53.922Z
 tags: ["youtube shorts","digital wellness","screen time","user control","tech update"]
 hero_image: "/hero/2026-04-16-youtube-unleashes-the-off-switch-for-shorts-a-win-for-digital-wellness-a41b04.jpg"
 hero_image_credit_name: "Egor Komarov"
 hero_image_credit_url: "https://www.pexels.com/@egorkomarov"
 visual_keyword: "digital wellbeing control"
 description: "YouTube is rolling out a zero-minute time limit for Shorts, allowing users to effectively turn off the short-form video feed and reclaim digital wellness."
-sources_count: 14
+sources_count: 15
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ Ultimately, the rollout of a zero-minute Shorts limit represents a significant w
 
 ## Updates
 
+- **2026-10-26** — Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it ([source](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/))
 - **2026-10-16** — Meta’s new commercial terms will allow the scraping of news sites: experts ([source](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/))
 - **2026-09-23** — One of the best Metroid games for the Switch is 30 percent off ([source](https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale))
 - **2026-09-21** — A Necessary History of the Oddest Letter: W ([source](https://lithub.com/a-necessary-history-of-the-oddest-letter-w/))

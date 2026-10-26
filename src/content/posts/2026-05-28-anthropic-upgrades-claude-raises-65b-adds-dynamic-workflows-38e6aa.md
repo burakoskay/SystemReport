@@ -1,19 +1,20 @@
 ---
 title: "Anthropic upgrades Claude, raises $65B, adds dynamic workflows"
 date: 2026-05-28T20:44:13.160Z
-modified_date: 2026-10-12T19:36:57.979Z
+modified_date: 2026-10-26T22:14:08.801Z
 tags: ["anthropic","ai","funding","model-upgrade","devtools"]
 hero_image: "/hero/2026-05-28-anthropic-upgrades-claude-raises-65b-adds-dynamic-workflows-38e6aa.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract AI research lab with code and data streams"
 description: "Anthropic released Claude Opus 4.8, secured $65 billion Series H funding at a $965 billion valuation, and launched Dynamic Workflows in Claude Code."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-28-anthropic-upgrades-claude-raises-65b-adds-dynamic-workflows-38e6aa.mp3"
 audio_bytes: 604622
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The next quarter will reveal whether Opus 4.8 stabilizes across diverse workload
 
 ## Updates
 
+- **2026-10-26** — Google’s new Metal Mesh Fitbit Air band is more versatile than you think ([source](https://9to5google.com/2026/10/26/fitbit-air-metal-mesh-band-hands-on/))
 - **2026-10-12** — Google’s Fitbit Air is getting a shiny new Metal Mesh band and better automatic tracking ([source](https://9to5google.com/2026/10/12/fitbit-air-gets-metal-mesh-band-and-upgrades/))
 - **2026-09-22** — Rabbit’s new AI agent doesn’t need an R1 to run ([source](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3))
 - **2026-08-12** — Lovable confirms new $13.3B valuation, raises another $400M ([source](https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/))

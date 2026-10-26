@@ -1,16 +1,17 @@
 ---
 title: "Russian Hackers Target Spyware Investigator"
 date: 2026-05-14T14:41:45.730Z
-modified_date: 2026-10-08T12:39:41.693Z
+modified_date: 2026-10-26T22:13:14.843Z
 tags: ["cybersecurity","espionage","drug-smuggling","signal","law-enforcement"]
 hero_image: "/hero/2026-05-14-russian-hackers-target-spyware-investigator-189b60.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "cybersecurity investigator analyzing encrypted data streams"
 description: "A security researcher exposes Russian government-linked hackers and a parallel drug-smuggling scheme"
-sources_count: 7
+sources_count: 8
 author: "elena-marchetti"
 ---
+
 
 
 ## A Cyber Espionage Play Unravels
@@ -45,4 +46,5 @@ The critical juncture lies in the Signal developers’ response—will they patc
 
 ## Updates
 
+- **2026-10-26** — The EPA Is Quietly Killing Its Web Archive ([source](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/))
 - **2026-10-08** — The people holding up the internet ([source](https://sheets.works/data-viz/holding-up-the-internet))

@@ -1,15 +1,17 @@
 ---
 title: "Gemini upgrades meet Anthropic Fable 5.1 and DeepSeek Prover"
 date: 2026-09-01T19:16:36.321Z
+modified_date: 2026-10-26T22:13:23.929Z
 tags: ["ai","gemini","anthropic","deepseek","model-updates"]
 hero_image: "/hero/2026-09-01-gemini-upgrades-meet-anthropic-fable-5-1-and-deepseek-prover-57598f.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "side‑by‑side comparison of AI model logos with benchmark charts"
 description: "Google rolls out Gemini Ultra and a new image editor as Anthropic releases Fable 5.1 and DeepSeek upgrades Prover, sparking performance and regulatory debate."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Gemini’s Ultra and Pro models
 Google unveiled Gemini Ultra on Wednesday and folded it into the Bard chatbot for users in more than 170 countries. Ultra outperformed GPT‑4 on 30 of 32 benchmark tests, beating the state‑of‑the‑art label across reasoning and image understanding. It also scored 90% on the MMLU multitask exam, a result Google claims surpasses human experts.
@@ -33,3 +35,7 @@ The math‑focused upgrade underscores a niche but growing segment of AI researc
 
 ## What to watch
 Track the UK AI Safety Institute’s decision on external testing for Gemini Ultra; a positive ruling could unlock Bard Advanced in Europe. Monitor Anthropic’s next performance release for Claude to see if Fable 5.1 narrows the gap with Gemini’s Ultra scores. Watch DeepSeek’s upcoming R1 model and any funding announcements that could accelerate its MoE research. Finally, watch user adoption metrics for Gemini’s Flash Image editor as Google pushes it against OpenAI’s image tools.
+
+## Updates
+
+- **2026-10-26** — Google says Gemini 4 Argon ranks well behind Claude and GPT-6 for Android coding ([source](https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/))

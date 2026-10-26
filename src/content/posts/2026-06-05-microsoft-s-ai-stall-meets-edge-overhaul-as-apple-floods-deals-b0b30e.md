@@ -1,19 +1,20 @@
 ---
 title: "Microsoft’s AI Stall Meets Edge Overhaul as Apple Floods Deals"
 date: 2026-06-05T16:37:10.314Z
-modified_date: 2026-09-18T02:41:27.662Z
+modified_date: 2026-10-26T22:12:11.827Z
 tags: ["microsoft","apple","technews"]
 hero_image: "/hero/2026-06-05-microsoft-s-ai-stall-meets-edge-overhaul-as-apple-floods-deals-b0b30e.jpg"
 hero_image_credit_name: "Adrian Regeci"
 hero_image_credit_url: "https://www.pexels.com/@regeci"
 visual_keyword: "side‑by‑side view of a sleek Apple laptop and a Microsoft Edge login screen requiring biometric authentication"
 description: "Microsoft’s AI products falter and Edge drops master passwords while Apple rolls out deep discounts, reshaping the tech buying landscape."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-05-microsoft-s-ai-stall-meets-edge-overhaul-as-apple-floods-deals-b0b30e.mp3"
 audio_bytes: 579545
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Apple’s discount window is slated to close by the end of the month, according 
 
 ## Updates
 
+- **2026-10-26** — iPhone Duo now supports Apple Pencil with iOS 27.2 ([source](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil))
 - **2026-09-18** — eGPUs do work, but they come with some notable limitations ([source](https://www.engadget.com/2257761/egpu-come-with-limitations/))
 - **2026-09-08** — Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set ([source](https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set))
 - **2026-08-24** — Instinct’s powerful AI assistant is raising privacy and security concerns ([source](https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/))
