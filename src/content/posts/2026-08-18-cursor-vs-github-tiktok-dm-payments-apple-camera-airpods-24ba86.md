@@ -1,16 +1,17 @@
 ---
 title: "Cursor vs GitHub, TikTok DM payments, Apple camera AirPods"
 date: 2026-08-18T22:21:58.899Z
-modified_date: 2026-10-23T14:36:02.650Z
+modified_date: 2026-10-27T20:25:32.438Z
 tags: ["cursor","tiktok","apple"]
 hero_image: "/hero/2026-08-18-cursor-vs-github-tiktok-dm-payments-apple-camera-airpods-24ba86.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "tech office with developers coding, smartphone payments, futuristic earbuds"
 description: "Cursor launches a GitHub rival, TikTok eyes peer-to-peer DM payments, and Apple’s camera AirPods aim to sidestep privacy fears."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Track the launch of Cursor’s hosting platform in the next quarter. Monitor Tik
 
 ## Updates
 
+- **2026-10-27** — Apple iPhone Duo review: Two screens, two experiences, two thousand dollars ([source](https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/))
 - **2026-10-23** — No, the iPhone Duo isn’t a small phone ([source](https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini))
 - **2026-10-16** — Report: Apple gains ground on rivals, but iPhone 18 Pro and iPhone Duo face challenges ([source](https://9to5mac.com/2026/10/16/report-apple-gains-ground-on-rivals-but-iphone-18-pro-and-iphone-duo-face-challenges/))
 - **2026-10-02** — Robotaxi operators will face fines for blocking first responders ([source](https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/))

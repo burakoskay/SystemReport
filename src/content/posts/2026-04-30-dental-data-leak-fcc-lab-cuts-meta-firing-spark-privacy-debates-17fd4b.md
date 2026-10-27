@@ -1,16 +1,17 @@
 ---
 title: "Dental Data Leak, FCC Lab Cuts, Meta Firing Spark Privacy Debates"
 date: 2026-04-30T17:32:55.099Z
-modified_date: 2026-10-01T22:16:10.468Z
+modified_date: 2026-10-27T20:23:57.357Z
 tags: ["data privacy","federal regulations","ai ethics"]
 hero_image: "/hero/2026-04-30-dental-data-leak-fcc-lab-cuts-meta-firing-spark-privacy-debates-17fd4b.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "patient's medical records on a computer screen with security locks"
 description: "A dental software bug, FCC lab bans, and Meta layoffs reveal cracks in tech's privacy armor."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ These cases should serve as case studies for any organization deploying new tech
 
 ## Updates
 
+- **2026-10-27** — Major League Baseball is looking for a new kind of fan ([source](https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers))
 - **2026-10-01** — GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature ([source](https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/))
 - **2026-09-03** — Anker’s new MindBase is an AI-powered brain for your smart home ([source](https://www.theverge.com/tech/987936/anker-eufy-mindbase-ai-security-camera-system-matter))
 - **2026-07-26** — Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy ([source](https://swag.htmx.org/en-cad/products/htmx-4-the-game))

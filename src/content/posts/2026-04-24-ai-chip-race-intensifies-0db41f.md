@@ -1,19 +1,20 @@
 ---
 title: "AI Chip Race Intensifies"
 date: 2026-04-24T17:20:52.352Z
-modified_date: 2026-09-15T20:46:11.790Z
+modified_date: 2026-10-27T20:24:31.914Z
 tags: ["AI","chips","Meta","Amazon"]
 hero_image: "/hero/2026-04-24-ai-chip-race-intensifies-0db41f.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "AI chips"
 description: "Meta signs deal for Amazon AI CPUs, Nothing introduces on-device AI dictation"
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-04-24-ai-chip-race-intensifies-0db41f.mp3"
 audio_bytes: 619251
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The AI chip race is intensifying, with companies like Meta, Amazon, and Apple co
 
 ## Updates
 
+- **2026-10-27** — US government says hackers are now exploiting critical PHP web bugs ([source](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/))
 - **2026-09-15** — One of the best 3D printers for beginners is almost $100 off ([source](https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale))
 - **2026-08-02** — Xbox consoles are now much more expensive in the EU and UK ([source](https://www.engadget.com/2228621/xbox-consoles-prices-now-more-expensive-eu-uk/))
 - **2026-07-30** — The Productivity Mirage ([source](https://frantic.im/mirage/))

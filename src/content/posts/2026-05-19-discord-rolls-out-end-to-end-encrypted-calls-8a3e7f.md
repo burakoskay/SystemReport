@@ -1,19 +1,20 @@
 ---
 title: "Discord Rolls Out End-to-End Encrypted Calls"
 date: 2026-05-19T21:27:18.878Z
-modified_date: 2026-10-18T17:04:02.165Z
+modified_date: 2026-10-27T20:24:06.018Z
 tags: ["Discord","End-to-End Encryption","Privacy"]
 hero_image: "/hero/2026-05-19-discord-rolls-out-end-to-end-encrypted-calls-8a3e7f.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "lock"
 description: "Discord adds end-to-end encryption to voice and video calls for all users"
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-19-discord-rolls-out-end-to-end-encrypted-calls-8a3e7f.mp3"
 audio_bytes: 621341
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The regulatory environment for end-to-end encryption is complex and evolving. In
 
 ## Updates
 
+- **2026-10-27** — NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How ([source](https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades/))
 - **2026-10-18** — The reason your Amazon Alexa devices are always listening ([source](https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/))
 - **2026-10-13** — Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt ([source](https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/))
 - **2026-10-09** — Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple ([source](https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/))

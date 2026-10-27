@@ -1,16 +1,17 @@
 ---
 title: "Foldable Forecast: Motorola Expands as Google Holds Ground and"
 date: 2026-04-15T19:48:15.843Z
-modified_date: 2026-10-07T18:21:56.072Z
+modified_date: 2026-10-27T20:25:06.509Z
 tags: ["foldable phones","tech market","motorola razr","google pixel","apple rumors"]
 hero_image: "/hero/2026-04-15-foldable-forecast-motorola-expands-as-google-holds-ground-and-apple-prepares-a-market-shakeup-0e85df.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "futuristic folding smartphone"
 description: "The foldable phone market is dynamic, with Motorola expanding its Razr Fold in Europe, Google Pixel making surprising inroads in North America, and Apple's anticipated entry poised to redefine the segment."
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ As the Razr Fold reaches new shores and Pixel maintains its surprising foothold,
 
 ## Updates
 
+- **2026-10-27** — Nvidia backs Indian startup helping companies run AI models with fewer GPUs ([source](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/))
 - **2026-10-07** — Ultrahuman now offers on-demand heart rhythm scans ([source](https://www.engadget.com/2278463/ultrahuman-on-demand-afib-heart-rhythm-scan/))
 - **2026-09-14** — Big AI sets out its terms for regulatory capture ([source](https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067))
 - **2026-09-13** — US Customs supervisor busted for stealing hardware from Homeland Security PCs ([source](https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg))

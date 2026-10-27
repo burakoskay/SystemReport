@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-10-21T19:54:59.363Z
+modified_date: 2026-10-27T20:26:59.280Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 25
+sources_count: 26
 author: "lena-volkov"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-10-27** — iCloud Mail and Calendar plugins now work with ChatGPT ([source](https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/))
 - **2026-10-21** — SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase ([source](https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/))
 - **2026-10-15** — We’re releasing Jev 1.14.0 along with experimental features for dreamers ([source](https://typesafe.ai/blog/jev-1-14))
 - **2026-10-05** — Self-hosted HTTP tunnels with SSH and Nginx ([source](https://vincent.bernat.ch/en/blog/2026-http-over-ssh))

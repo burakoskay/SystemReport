@@ -1,16 +1,17 @@
 ---
 title: "Tech Roundup: Apple TV, OpenCue, Alibaba, and Media Shifts"
 date: 2026-05-20T04:09:25.126Z
-modified_date: 2026-10-15T19:40:09.525Z
+modified_date: 2026-10-27T20:25:15.264Z
 tags: ["Apple TV","OpenCue","Alibaba","Media and Entertainment"]
 hero_image: "/hero/2026-05-20-tech-roundup-apple-tv-opencue-alibaba-and-media-shifts-2e661e.jpg"
 hero_image_credit_name: "Torsten Dettlaff"
 hero_image_credit_url: "https://www.pexels.com/@tdcat"
 visual_keyword: "Apple TV"
 description: "This week's tech news roundup covers Apple TV's new series, OpenCue's open-source render manager, Alibaba's restructuring, and shifts in the media and entertainment industry."
-sources_count: 9
+sources_count: 10
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -62,4 +63,5 @@ As the industry continues to shift, it will be interesting to see how companies 
 
 ## Updates
 
+- **2026-10-27** — Ford simplifies using your EV as a home battery with the $30K Fathom ([source](https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/))
 - **2026-10-15** — Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans ([source](https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/))

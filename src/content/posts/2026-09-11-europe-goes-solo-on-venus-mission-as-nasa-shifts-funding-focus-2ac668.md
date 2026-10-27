@@ -1,18 +1,20 @@
 ---
 title: "Europe Goes Solo on Venus Mission as NASA Shifts Funding Focus"
 date: 2026-09-11T20:25:06.853Z
+modified_date: 2026-10-27T20:23:22.855Z
 tags: ["space","venus","nasa","europe","policy"]
 hero_image: "/hero/2026-09-11-europe-goes-solo-on-venus-mission-as-nasa-shifts-funding-focus-2ac668.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "European Venus probe launch pad with empty radar module"
 description: "NASA pulls a radar instrument, prompting Europe to pursue its Venus probe alone while the agency asks states for money."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-09-11-europe-goes-solo-on-venus-mission-as-nasa-shifts-funding-focus-2ac668.mp3"
 audio_bytes: 617997
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Europe Takes Venus Mission Solo
 
@@ -47,3 +49,7 @@ The European Venus mission, the NASA funding request, and the high‑precision e
 ## What to Watch
 
 Track whether European agencies secure a replacement radar or strike a new partnership with China; the hardware decision will dictate the mission’s scientific return. Monitor state responses to NASA’s funding appeal, as collective state contributions could reshape the agency’s budget outlook. Finally, watch for any policy statements from the White House that clarify the future of U.S. international space collaborations. These signals will determine whether the current fragmentation deepens or a new equilibrium emerges.
+
+## Updates
+
+- **2026-10-27** — The Super Mouse puts a touchscreen macro pad under your hand ([source](https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter))

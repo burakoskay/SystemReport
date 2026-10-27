@@ -1,16 +1,17 @@
 ---
 title: "Privacy Concerns Mount Over Apple AirPods Cameras"
 date: 2026-05-08T03:40:34.528Z
-modified_date: 2026-05-24T15:09:02.174Z
+modified_date: 2026-10-27T20:23:48.757Z
 tags: ["Apple","AirPods","Privacy"]
 hero_image: "/hero/2026-05-08-privacy-concerns-mount-over-apple-airpods-cameras-44d6dc.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AirPods"
 description: "New Apple AirPods with cameras spark privacy concerns while users adapt with iOS 26 shortcuts, webcam lighting hacks, and Chromebook switches."
-sources_count: 5
+sources_count: 6
 author: "lena-volkov"
 ---
+
 
 
 
@@ -98,4 +99,5 @@ The intersection of technology and policy will be critical to watch. As users ad
 
 ## Updates
 
+- **2026-10-27** — Firefox’s Smart Window adds AI form filling and webpage monitoring ([source](https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms))
 - **2026-05-24** — Report: iOS 27 to revamp the AirPods settings UI ([source](https://9to5mac.com/2026/05/24/report-ios-27-to-revamp-the-airpods-settings-ui/))

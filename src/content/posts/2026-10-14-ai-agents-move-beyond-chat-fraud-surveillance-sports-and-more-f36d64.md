@@ -1,18 +1,20 @@
 ---
 title: "AI agents move beyond chat: fraud, surveillance, sports and more"
 date: 2026-10-14T20:00:05.810Z
+modified_date: 2026-10-27T20:22:57.141Z
 tags: ["ai","agents","technology","surveillance","sports"]
 hero_image: "/hero/2026-10-14-ai-agents-move-beyond-chat-fraud-surveillance-sports-and-more-f36d64.jpg"
 hero_image_credit_name: "Yan Krukau"
 hero_image_credit_url: "https://www.pexels.com/@yankrukov"
 visual_keyword: "AI agents monitoring a mosquito trap and a fraud scam call"
 description: "AI agents are being deployed for fraud intel, mosquito surveillance, sales prospecting, sports analytics, and material research, reshaping niche applications."
-sources_count: 7
-author: "maya-chen"
+sources_count: 8
 audio_path: "/audio/2026-10-14-ai-agents-move-beyond-chat-fraud-surveillance-sports-and-more-f36d64.mp3"
 audio_bytes: 606294
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apate.ai deployed autonomous agents to get scammed, harvesting fraud intelligence in real time. The move shows how companies are repurposing conversational bots for adversarial data collection.
 
@@ -61,3 +63,7 @@ Both efforts illustrate AI’s reach into physical‑world problems. Scimplify�
 ## What to watch
 
 Track how regulators respond to AI‑driven honeypot operations and data‑scraping bots, especially in the EU and California. Monitor Mosqitter’s rollout in public‑health districts for privacy‑impact assessments. Follow NTangible’s adoption by NCAA programs and any third‑party validation of its clutch metric. Watch Scimplify’s U.S. market entry and the commercial pathways for AI‑engineered enzymes as they move from lab to factory.
+
+## Updates
+
+- **2026-10-27** — Elon Musk says Ukraine&#8217;s military violated Starlink&#8217;s terms of service ([source](https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service))

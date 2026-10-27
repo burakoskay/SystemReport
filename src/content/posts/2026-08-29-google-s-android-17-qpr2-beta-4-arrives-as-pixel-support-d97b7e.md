@@ -1,18 +1,20 @@
 ---
 title: "Google’s Android 17 QPR2 Beta 4 Arrives as Pixel Support"
 date: 2026-08-29T14:56:22.453Z
+modified_date: 2026-10-27T20:26:24.463Z
 tags: ["android","pixel","updates","android11"]
 hero_image: "/hero/2026-08-29-google-s-android-17-qpr2-beta-4-arrives-as-pixel-support-d97b7e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "pixel phone displaying Android update notification on screen"
 description: "Google rolls out Android 17 QPR2 Beta 4, clarifies Pixel update deadlines, and pushes Android 11 to a broader set of devices."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-08-29-google-s-android-17-qpr2-beta-4-arrives-as-pixel-support-d97b7e.mp3"
 audio_bytes: 602742
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Android 17 QPR2 Beta 4 lands on Pixel devices
 Google pushed Android 17 QPR2 Beta 4 to Pixel phones this week, delivering a slew of bug fixes that address stability and performance complaints from earlier betas.[^1][^2][^3][^4][^5] The update began rolling out Friday afternoon, but the Pixel 11 series remains excluded for now.[^1][^4] Google’s release notes promise compatibility for the Pixel 11 line "soon," leaving early adopters to wait for the next wave.[^1][^4][^5]
@@ -42,6 +44,9 @@ Developers gain a more stable target platform. With Android 11’s permission mo
 
 What to watch: Google’s next beta, Android 17 QPR2 Beta 5, will reveal whether the Pixel 11 series finally joins the rollout. Keep an eye on the Android 11 partner roadmap for announcements from Samsung, Motorola, and other large OEMs. The timing of the next security patch for Pixel devices—due before the October 2019 deadline—will also indicate how rigorously Google enforces its own support schedule.
 
+## Updates
+
+- **2026-10-27** — Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more ([source](https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/))
 
 [^1]: [droid-life.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqUGdLa9DNJz4tFYziz_58hAeZ5iNcO2mLEWuBzyFDs6GBlEbAaIjA3vp9idwai9CODc4riqrtnPK98pe-yRhzMRdx_1nKkIJRMhiCQKDPuX_s4vkN75VKuMW46Nt1sSzHhSZsiioHQcvVzWDWMfshvQHiDpPomluPhpuXzhXh8ruthDIRAYIMDg8q3jxaqgUi)
 [^2]: [android.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3y28XvJRv-UOGg8f4DjvjYBnvCbGNCabIvJ84sW07wcEeRJZov3_V30IxNg5Uv9YP-0wFUqJd4rk9hFl2zXnYHsa3jtHXjkUDW6iiG_W7T_0EFvZC1ggIqBUgM7Q3Ehvdf_xhoFJZj4Se83nRP2W4UHJAcfplqmjQRIa)

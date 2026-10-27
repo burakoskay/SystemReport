@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Promo Codes: Hoka, Verizon, Dermstore Slash Prices"
 date: 2026-04-23T17:42:55.310Z
-modified_date: 2026-10-26T09:35:12.940Z
+modified_date: 2026-10-27T20:25:23.890Z
 tags: ["promo codes","e-commerce","discounts"]
 hero_image: "/hero/2026-04-23-april-2026-promo-codes-hoka-verizon-dermstore-slash-prices-3c3d05.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "shopping cart with discount tags and tech brand logos"
 description: "Hoka, Verizon and Dermstore roll out April 2026 coupon codes offering up to 30% off, $200 gift cards, and 25% savings, reshaping e‑commerce discounts."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ The next quarter will reveal whether the Hoka, Verizon and Dermstore coupons tra
 
 ## Updates
 
+- **2026-10-27** — From cheap tool to premium subscription: When a beloved app's price skyrockets ([source](https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/))
 - **2026-10-26** — iFixit's teardown of the iPhone Duo shows potential causes for cracked screens ([source](https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/))
 - **2026-10-24** — Lee Chang Dong ponders the ethics of the camera ([source](https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview))
 - **2026-08-24** — The treasury bond mess: is this the demise of the US as a safe haven? ([source](https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt))
