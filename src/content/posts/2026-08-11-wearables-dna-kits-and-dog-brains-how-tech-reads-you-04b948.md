@@ -1,19 +1,20 @@
 ---
 title: "Wearables, DNA kits, and Dog Brains: How Tech Reads You"
 date: 2026-08-11T15:13:22.401Z
-modified_date: 2026-09-23T14:38:54.817Z
+modified_date: 2026-10-27T03:17:43.139Z
 tags: ["wearables","genomics","animal cognition"]
 hero_image: "/hero/2026-08-11-wearables-dna-kits-and-dog-brains-how-tech-reads-you-04b948.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "close‑up of a smartwatch on a wrist beside a dog with a brain scan overlay"
 description: "New fMRI dog study, a deceptive smartwatch, and a DNA health kit show how personal data tech is moving from novelty to daily reality."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-08-11-wearables-dna-kits-and-dog-brains-how-tech-reads-you-04b948.mp3"
 audio_bytes: 627401
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,5 +54,6 @@ What to watch: the next iteration of wearable sensors that claim to capture emot
 
 ## Updates
 
+- **2026-10-27** — Halide releases its first batch of updates for the iPhone Duo ([source](https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/))
 - **2026-09-23** — How to watch Meta unveil its new smart glasses at Connect 2026 ([source](https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/))
 - **2026-08-19** — Framework gave its 12-inch laptop some hardware upgrades ([source](https://www.theverge.com/gadgets/981894/framework-laptop-12-update-intel-core-linux-availability))

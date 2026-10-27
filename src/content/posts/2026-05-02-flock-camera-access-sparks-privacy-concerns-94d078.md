@@ -1,16 +1,17 @@
 ---
 title: "Flock Camera Access Sparks Privacy Concerns"
 date: 2026-05-02T09:22:04.370Z
-modified_date: 2026-08-07T18:46:08.168Z
+modified_date: 2026-10-27T03:17:32.143Z
 tags: ["privacy","surveillance","cybersecurity"]
 hero_image: "/hero/2026-05-02-flock-camera-access-sparks-privacy-concerns-94d078.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "children's gymnastics room with hidden camera hardware"
 description: "Flock accessed gymnastics room cameras during a sales demo despite privacy risks."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Flock has not commented on requests for clarification about its data retention p
 
 ## Updates
 
+- **2026-10-27** — The most popular streaming platforms in the US might not be what you think ([source](https://www.engadget.com/2295216/most-popular-streaming-platforms-united-states-not-what-you-think/))
 - **2026-08-07** — Sony might be rebooting its 2020 flagship headphones ([source](https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/))
 - **2026-07-28** — Data centers may face temporary power cuts to prevent blackouts on largest US grid ([source](https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/))

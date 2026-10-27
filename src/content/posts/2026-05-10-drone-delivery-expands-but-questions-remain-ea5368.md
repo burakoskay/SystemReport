@@ -1,16 +1,17 @@
 ---
 title: "Drone Delivery Expands, But Questions Remain"
 date: 2026-05-10T11:06:34.649Z
-modified_date: 2026-10-20T13:13:37.192Z
+modified_date: 2026-10-27T03:17:48.706Z
 tags: ["drone delivery","walmart","amazon","wing"]
 hero_image: "/hero/2026-05-10-drone-delivery-expands-but-questions-remain-ea5368.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "drone delivery"
 description: "Walmart and Wing are bringing drone delivery to 100 new stores, while Amazon patents a beehive-like structure to house delivery drones in cities."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ The coming months will be exciting for the drone delivery industry. With Walmart
 
 ## Updates
 
+- **2026-10-27** — What are the leading causes of EV battery damage? ([source](https://www.engadget.com/2290322/leading-causing-ev-battery-damage/))
 - **2026-10-20** — Adobe Lightroom mobile can now open closed eyes in photos with a simple tap ([source](https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair))
 - **2026-09-30** — Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217; ([source](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy))
 - **2026-08-25** — Here are all the Apple devices with full Wi-Fi 7 support ([source](https://9to5mac.com/2026/08/25/here-are-all-the-apple-devices-with-full-wi-fi-7-support/))

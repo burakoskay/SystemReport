@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals: Helix, Saatva, Insta360, Samsung, Nero"
 date: 2026-05-25T17:51:38.043Z
-modified_date: 2026-10-11T21:21:59.296Z
+modified_date: 2026-10-27T03:17:37.677Z
 tags: ["tech deals","mattress sales","multimedia software"]
 hero_image: "/hero/2026-05-25-tech-deals-helix-saatva-insta360-samsung-nero-3f9eda.jpg"
 hero_image_credit_name: "John Tekeridis"
 hero_image_credit_url: "https://www.pexels.com/@john-tekeridis-21837"
 visual_keyword: "smartphone"
 description: "Mattress deals end tonight, Insta360's new iPhone screen, Samsung's dark mode update, and Nero's multimedia software."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -82,4 +83,5 @@ The next big thing in tech could be just around the corner. Don't miss out on th
 
 ## Updates
 
+- **2026-10-27** — 6+ ways you can use your PlayStation 5's USB ports ([source](https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports/))
 - **2026-10-11** — Silicon Valley is falling in line with Trump’s attempt to rename AI ([source](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai))

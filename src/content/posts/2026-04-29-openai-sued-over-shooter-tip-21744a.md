@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-10-18T19:58:25.037Z
+modified_date: 2026-10-27T03:17:15.577Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-10-27** — OpenAI announces three big science discoveries and a new way to work with academics ([source](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics))
 - **2026-10-18** — What is the star button for on your Roku remote? ([source](https://www.engadget.com/2286582/roku-remote-star-button-what-for/))
 - **2026-09-21** — ‘HomePad’ to launch next month with these new features: report ([source](https://9to5mac.com/2026/09/21/homepad-to-launch-next-month-with-these-new-features-report/))
 - **2026-09-17** — Breaking the 1.58-bit Barrier for Ternary LLMs ([source](https://arxiv.org/abs/2609.16338))

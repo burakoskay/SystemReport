@@ -1,16 +1,17 @@
 ---
 title: "Apple hikes iPhone prices while rolling out foldable and AI"
 date: 2026-09-10T02:44:17.875Z
-modified_date: 2026-10-23T14:35:51.453Z
+modified_date: 2026-10-27T03:17:26.609Z
 tags: ["apple","iphone","wearables","ai","pricing"]
 hero_image: "/hero/2026-09-10-apple-hikes-iphone-prices-while-rolling-out-foldable-and-ai-3be312.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "sleek tabletop displaying iPhone Duo, Apple Watch Series 12, AirPods 5, and iPhone 18 Pro"
 description: "Apple raises older iPhone prices, adds iPhone Duo developer tools, launches Siri AI in English, and unveils Watch Series 12 health sensors."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ What to watch next: Track the October rollout of Siri AI in additional languages
 
 ## Updates
 
+- **2026-10-27** — iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature ([source](https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons/))
 - **2026-10-23** — Brick’s new app blocker is designed for bedtime doomscrolling ([source](https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch))
 - **2026-10-18** — The reason why your drive shows less storage than you paid for ([source](https://www.engadget.com/2286322/why-new-drive-shows-less-storage/))
 - **2026-10-05** — The popular Apple features you won't be getting with the iPhone Duo ([source](https://www.engadget.com/2274700/iphone-duo-apple-popular-features-wont-come-with/))
