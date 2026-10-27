@@ -1,18 +1,20 @@
 ---
 title: "AMD, Intel, Nvidia, and Dell reshape PC hardware roadmaps"
 date: 2026-06-01T17:54:56.369Z
+modified_date: 2026-10-27T09:31:56.907Z
 tags: ["PC hardware","AMD","Intel","Nvidia","Dell"]
 hero_image: "/hero/2026-06-01-amd-intel-nvidia-and-dell-reshape-pc-hardware-roadmaps-c3d30c.jpg"
 hero_image_credit_name: "Anete Lusina"
 hero_image_credit_url: "https://www.pexels.com/@anete-lusina"
 visual_keyword: "PC hardware"
 description: "AMD commits to AM5 support until 2029, Intel debuts low-cost AI chip, Nvidia enters PC silicon market, and Dell counters MacBook Neo."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-06-01-amd-intel-nvidia-and-dell-reshape-pc-hardware-roadmaps-c3d30c.mp3"
 audio_bytes: 709948
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## AMD keeps AM4 alive, locks AM5 in through 2029
@@ -78,3 +80,7 @@ Track Intel's Crescent Island launch timeline and benchmark results. Monitor Del
 The coming months will be crucial in determining the success of these new PC hardware roadmaps. As the market continues to evolve, one thing is clear: the PC is not dead, and innovation is driving growth.
 
 The interplay between AMD, Intel, Nvidia, and Dell will be fascinating to watch. Will AMD's commitment to AM5 pay off? Can Intel's Crescent Island chip gain traction? How will Nvidia's entry into the PC silicon market impact the industry?
+
+## Updates
+
+- **2026-10-27** — OpenAI announces new discoveries in mathematics, computer science and physics ([source](https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/))

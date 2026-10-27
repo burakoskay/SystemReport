@@ -1,16 +1,17 @@
 ---
 title: "Uncovering the Mystery of Vanishing Ships in the Strait of Hormuz"
 date: 2026-04-18T01:04:58.528Z
-modified_date: 2026-10-26T16:53:32.193Z
+modified_date: 2026-10-27T09:32:05.664Z
 tags: ["maritime","oil trading","geopolitics"]
 hero_image: "/hero/2026-04-18-uncovering-the-mystery-of-vanishing-ships-in-the-strait-of-hormuz-4cdfa4.jpg"
 hero_image_credit_name: "İrfan Simsar"
 hero_image_credit_url: "https://www.pexels.com/@irfansimsar"
 visual_keyword: "strait of hormuz tanker traffic"
 description: "Analysts track spoofed tankers in a critical waterway, uncovering a complex web of deception"
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ The Strait of Hormuz, a vital waterway connecting the Persian Gulf to the Gulf o
 
 ## Updates
 
+- **2026-10-27** — The Mythical Man-Month in the Age of AI ([source](https://j11g.com/the-mythical-man-month-in-the-age-of-ai))
 - **2026-10-26** — From impulse purchase to pocket studio: The M-Vave FM-1 ([source](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/))
 - **2026-10-06** — The lamps in my house ([source](https://arslan.io/2026/10/05/the-lamps-in-my-house/))
 - **2026-08-04** — Bingers, a new TV-tracking app from the founder of TV Time, is now available to download ([source](https://9to5mac.com/2026/08/04/bingers-a-new-tv-tracking-app-from-the-founder-of-tv-time-is-now-available-to-download/))

@@ -1,19 +1,20 @@
 ---
 title: "Xreal Sees Turning Point in Smart Glasses"
 date: 2026-05-24T19:24:59.558Z
-modified_date: 2026-10-27T03:18:05.459Z
+modified_date: 2026-10-27T09:32:22.880Z
 tags: ["smart glasses","Xreal","wearable technology"]
 hero_image: "/hero/2026-05-24-xreal-sees-turning-point-in-smart-glasses-ef9b5f.jpg"
 hero_image_credit_name: "Philip Justin Mamelic"
 hero_image_credit_url: "https://www.pexels.com/@philip-justin-mamelic-1397651"
 visual_keyword: "smart glasses"
 description: "Xreal's CEO Chi Xu believes the smart glasses industry has reached a turning point."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-24-xreal-sees-turning-point-in-smart-glasses-ef9b5f.mp3"
 audio_bytes: 616743
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ In conclusion, Xreal's assertion that the smart glasses industry has reached a t
 
 ## Updates
 
+- **2026-10-27** — A Man from the Future: Why Johnny Can't Stop Abstracting ([source](http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html))
 - **2026-10-27** — Ollama for Mac gains support for local text-to-speech models ([source](https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models/))
 - **2026-09-17** — Snap tries to make the case again for its $2,200 smart glasses ([source](https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/))
 - **2026-08-29** — Pixelated 114: Who watches the Pixel Watch? ([source](https://9to5google.com/2026/08/28/pixelated-114-who-watches-the-pixel-watch/))
