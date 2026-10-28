@@ -1,18 +1,20 @@
 ---
 title: "OpenAI cuts internet training as AI firms juggle risk and finance"
 date: 2026-10-24T02:54:26.468Z
+modified_date: 2026-10-28T00:54:57.268Z
 tags: ["openai","ai","finance","regulation","tech"]
 hero_image: "/hero/2026-10-24-openai-cuts-internet-training-as-ai-firms-juggle-risk-and-finance-5ba937.jpg"
 hero_image_credit_name: "Ann H"
 hero_image_credit_url: "https://www.pexels.com/@ann-h-45017"
 visual_keyword: "abstract data pipeline with a firewall blocking internet"
 description: "OpenAI stops live‑internet training, citing risk, while AI investors cash in and Meta engineers a tax‑friendly stock class."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-10-24-openai-cuts-internet-training-as-ai-firms-juggle-risk-and-finance-5ba937.mp3"
 audio_bytes: 572857
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## OpenAI pulls the plug on live‑internet data
 OpenAI announced it will stop feeding its frontier models live internet data. The company says the move addresses "significant risks" that arise when models scrape constantly changing web content.[^1][^2][^3][^4][^5][^6][^7]
@@ -46,6 +48,10 @@ From a performance standpoint, the impact is uncertain. Some researchers argue t
 Track OpenAI’s next model release schedule. If the company announces a new version that explicitly cites a static‑dataset training regime, that will signal a permanent shift. Also monitor the California billionaire‑tax vote; a passage would force other tech founders to consider similar stock‑class maneuvers. Finally, watch Anthropic’s IPO filings for any disclosure about data‑training policies, as investors will likely demand clarity after OpenAI’s move.
 
 The convergence of risk management, financial engineering, and data‑policy decisions suggests that AI firms are entering a new phase of operational discipline. How quickly the sector adapts will shape the competitive landscape for years to come.
+
+## Updates
+
+- **2026-10-28** — Researchers are getting tired of OpenAI gatekeeping its breakthroughs ([source](https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics))
 
 [^1]: [pluang.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZPqNhBYFGYLmSVHVuWTTDHATqHrq5rQMrnXb7FRxiKSv1uWf7YBchyfeYWTtjo7qmBut0qq0hwQjsaJJCA5z4w_-pvgZ7zpSiw0I2_KECPPS61u8RgtGAOpSI-RgtKsLs_OcZWab3KOmGxVDIMYPRuxLcLD6fkQO9p4-m4jMCZvQpj6W3D_If-S2Ges3ynBlgpng=)
 [^2]: [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWMgA0PS87lQih-CZ6UMTPgiH-8351XiKEJ2NedMFcNep_W3KAA8eQMVwqjQIo8drIdG-BC-jUZmoeVpfJSc21HayyYp9bPzubvRu00bcVB8ABpKXjfkDl_4DDex1Db443oZ18LW9csusjiQf4h_s8_EW8BMLELAexG49vUEYx6VQ7hALZ47c2TDuKTahUtbxtyohFdn449OjPk60bvoJPg4vyLWKKqVG70XBoU8zaDjIcolP0XcoVn72_vZWkQw==)

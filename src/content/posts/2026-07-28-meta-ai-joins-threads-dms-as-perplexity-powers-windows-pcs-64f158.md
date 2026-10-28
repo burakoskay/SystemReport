@@ -1,16 +1,17 @@
 ---
 title: "Meta AI joins Threads DMs as Perplexity powers Windows PCs"
 date: 2026-07-28T14:03:19.527Z
-modified_date: 2026-09-21T21:35:28.797Z
+modified_date: 2026-10-28T00:53:46.496Z
 tags: ["meta","perplexity","chatgpt","gemini","ai"]
 hero_image: "/hero/2026-07-28-meta-ai-joins-threads-dms-as-perplexity-powers-windows-pcs-64f158.jpg"
 hero_image_credit_name: "Vitaly Gariev"
 hero_image_credit_url: "https://www.pexels.com/@silverkblack"
 visual_keyword: "modern office desk with laptop, smartphone, and AI chat bubbles"
 description: "Meta embeds its AI chatbot in Threads DMs, Perplexity launches a Windows AI agent, ChatGPT blocks author imitation, and Gemini tweaks its UI."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Meta AI moves into Threads direct messages
@@ -46,4 +47,5 @@ Meta’s AI in Threads DMs will generate data on user engagement and privacy com
 
 ## Updates
 
+- **2026-10-28** — Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip ([source](https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/))
 - **2026-09-21** — Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market ([source](https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/))

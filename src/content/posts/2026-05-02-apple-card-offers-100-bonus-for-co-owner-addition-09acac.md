@@ -1,19 +1,20 @@
 ---
 title: "Apple Card Offers $100 Bonus for Co-Owner Addition"
 date: 2026-05-02T22:52:18.518Z
-modified_date: 2026-10-05T19:03:00.244Z
+modified_date: 2026-10-28T00:54:04.197Z
 tags: ["Apple Card","credit card promotions","rewards programs"]
 hero_image: "/hero/2026-05-02-apple-card-offers-100-bonus-for-co-owner-addition-09acac.jpg"
 hero_image_credit_name: "Dagmara Dombrovska"
 hero_image_credit_url: "https://www.pexels.com/@dagmara-dombrovska-22732579"
 visual_keyword: "Apple Card"
 description: "Apple Card users can earn $100 Daily Cash by adding a co-owner and having them spend $100 within 30 days."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-02-apple-card-offers-100-bonus-for-co-owner-addition-09acac.mp3"
 audio_bytes: 633880
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In conclusion, the Apple Card's $100 bonus for adding a co-owner is a strategic 
 
 ## Updates
 
+- **2026-10-28** — The best ways to tell if someone is using AI glasses ([source](https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses/))
 - **2026-10-05** — Apple notifies Apple Cash users about two upcoming changes ([source](https://9to5mac.com/2026/10/05/apple-notifies-apple-cash-users-about-two-upcoming-changes/))
 - **2026-06-03** — Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy ([source](https://www.theverge.com/tech/942547/amazon-search-bar-ai-images))
 - **2026-05-12** — Spotify is down for some users ([source](https://www.engadget.com/2171078/spotify-is-down-for-some-users/))

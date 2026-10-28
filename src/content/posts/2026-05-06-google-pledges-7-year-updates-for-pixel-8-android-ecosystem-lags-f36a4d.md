@@ -1,16 +1,17 @@
 ---
 title: "Google Pledges 7-Year Updates for Pixel 8, Android Ecosystem Lags"
 date: 2026-05-06T23:03:43.188Z
-modified_date: 2026-10-11T21:22:07.741Z
+modified_date: 2026-10-28T00:54:48.405Z
 tags: ["android-updates","pixel-8","obtainium"]
 hero_image: "/hero/2026-05-06-google-pledges-7-year-updates-for-pixel-8-android-ecosystem-lags-f36a4d.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract geometric shapes in blue and green tones"
 description: "Google extends software support for Pixel 8 to 2030, but Android’s update chaos persists. Samsung and Apple still dominate."
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Google’s Pixel 8 update timeline will determine whether it can keep up with An
 
 ## Updates
 
+- **2026-10-28** — Gemini Notebook for Android, iOS adds built-in audio recorder ([source](https://9to5google.com/2026/10/27/gemini-notebook-recorder/))
 - **2026-10-11** — Someone ported Pixel 11’s Rambler voice-to-text to other Android phones ([source](https://9to5google.com/2026/10/11/android-gboard-rambler-port/))
 - **2026-10-03** — Show HN: Made an open-source Lego AI generator ([source](https://github.com/anteloc/ldraw-nova))
 - **2026-10-02** — Amazon Says It’s No Longer Using NDAs for Data Centers ([source](https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/))

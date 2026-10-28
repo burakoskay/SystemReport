@@ -1,16 +1,17 @@
 ---
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
-modified_date: 2026-10-05T19:00:59.971Z
+modified_date: 2026-10-28T00:54:13.052Z
 tags: ["Google","Travel","Shopping"]
 hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The hotel price-tracking tool is designed to help users save money on summer vac
 
 ## Updates
 
+- **2026-10-28** — What are wrong number text scams, and how can you avoid them? ([source](https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/))
 - **2026-10-05** — Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/))
 - **2026-08-22** — Are digital cameras still worth buying in 2026? ([source](https://www.engadget.com/2240133/digital-cameras-still-worth-buying-2026/))
 - **2026-08-18** — Anthropic says Claude Cowork is now available on mobile for all paid plans ([source](https://9to5mac.com/2026/08/18/anthropic-says-claude-cowork-is-now-available-on-mobile-for-all-paid-plans/))

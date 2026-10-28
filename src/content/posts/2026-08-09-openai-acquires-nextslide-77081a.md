@@ -1,19 +1,20 @@
 ---
 title: "OpenAI Acquires NextSlide"
 date: 2026-08-09T12:38:58.447Z
-modified_date: 2026-08-09T22:24:29.330Z
+modified_date: 2026-10-28T00:54:21.849Z
 tags: ["OpenAI","NextSlide","Acquisition"]
 hero_image: "/hero/2026-08-09-openai-acquires-nextslide-77081a.jpg"
 hero_image_credit_name: "Bia Limova"
 hero_image_credit_url: "https://www.pexels.com/@bia-limova-1908542654"
 visual_keyword: "Acquisition"
 description: "OpenAI buys presentation startup NextSlide"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-09-openai-acquires-nextslide-77081a.mp3"
 audio_bytes: 586232
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Acquisition
@@ -42,4 +43,5 @@ The acquisition of NextSlide by OpenAI is also reflective of broader industry tr
 
 ## Updates
 
+- **2026-10-28** — Why is there a random arm taking over the X composer? ([source](https://www.engadget.com/2299052/why-is-there-a-random-arm-taking-over-the-x-composer/))
 - **2026-08-09** — iPhone 17 set to break a record no flagship has touched in 15 years ([source](https://9to5mac.com/2026/08/09/iphone-17-availability/))

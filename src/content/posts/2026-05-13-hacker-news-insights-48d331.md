@@ -1,16 +1,17 @@
 ---
 title: "Hacker News Insights"
 date: 2026-05-13T06:58:24.476Z
-modified_date: 2026-10-24T17:09:52.995Z
+modified_date: 2026-10-28T00:54:39.533Z
 tags: ["Hacker News","Starship V3","Rust"]
 hero_image: "/hero/2026-05-13-hacker-news-insights-48d331.jpg"
 hero_image_credit_name: "Lucas Andrade"
 hero_image_credit_url: "https://www.pexels.com/@lucasandrade"
 visual_keyword: "Hacker News"
 description: "Analysis of trending topics on Hacker News, including Starship V3, Rust, and article success prediction"
-sources_count: 19
+sources_count: 20
 author: "maya-chen"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ As Hacker News and similar platforms continue to grow, understanding the dynamic
 
 ## Updates
 
+- **2026-10-28** — ChatGPT can work with your iCloud Mail and Calendar thanks to new plugin support ([source](https://www.engadget.com/2299026/chatgpt-can-work-with-your-icloud-mail-and-calendar-thanks-to-new-plugin-support/))
 - **2026-10-24** — Instacart reportedly discussed selling itself with DoorDash and Uber ([source](https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/))
 - **2026-09-28** — SpaceX preps next-gen Starlink as Amazon’s competitor stalls ([source](https://www.theverge.com/science/1001259/spacex-starlink-satellites-starship-amazon-leo))
 - **2026-09-17** — Out-of-warranty iPhone 18 Pro batteries are more expensive to replace ([source](https://9to5mac.com/2026/09/17/out-of-warranty-iphone-18-pro-batteries-are-more-expensive-to-replace/))
