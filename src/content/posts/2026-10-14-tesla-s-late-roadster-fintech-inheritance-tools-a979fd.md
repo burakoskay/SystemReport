@@ -1,15 +1,17 @@
 ---
 title: "Tesla’s Late Roadster, Fintech Inheritance Tools"
 date: 2026-10-14T20:06:02.636Z
+modified_date: 2026-10-28T14:47:24.164Z
 tags: ["tesla","fintech","etf","banking","legacy"]
 hero_image: "/hero/2026-10-14-tesla-s-late-roadster-fintech-inheritance-tools-a979fd.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "Tesla Roadster 2 launch stage with digital data overlays"
 description: "A delayed hypercar debut, a new legacy‑banking service, and a scoring engine for ETFs reveal how tech promises meet hardened investor realities."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 ## The Roadster Returns to a Warier EV Landscape
 
@@ -40,3 +42,7 @@ ETF Copilot’s scoring mirrors the rise of algorithmic trading in the early 200
 ## What to Watch Next
 
 Investors should monitor three converging decisions. First, Tesla’s post‑launch pricing and production cadence will reveal whether the Roadster can justify its premium in a cost‑conscious market. Second, regulators at the OCC and FDIC will evaluate whether services like Prismm comply with existing inheritance and consumer‑protection statutes. Third, the ETF community will watch how ETF Copilot’s scores influence fund flows, especially if a high‑scoring fund attracts capital that could amplify sector trends. The outcomes will shape whether delayed tech promises can regain credibility, whether banks can safely internalize legacy assets, and whether data‑driven tools will deepen or dilute market efficiency.
+
+## Updates
+
+- **2026-10-28** — The Men Spending $50,000 Just to Reserve a Tesla Roadster ([source](https://www.wired.com/story/the-men-dropping-50000-and-up-on-teslas-new-roadster/))

@@ -1,19 +1,20 @@
 ---
 title: "California Engineer Suspected in White House Shooting"
 date: 2026-04-27T06:33:49.275Z
-modified_date: 2026-10-16T19:13:11.831Z
+modified_date: 2026-10-28T14:47:18.466Z
 tags: ["security","White House","indie game developer"]
 hero_image: "/hero/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.jpg"
 hero_image_credit_name: "Star Zhang"
 hero_image_credit_url: "https://www.pexels.com/@star-zhang-3254790"
 visual_keyword: "security"
 description: "A 31-year-old California engineer and indie game developer is suspected of firing shots at the White House Correspondents' Dinner."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-27-california-engineer-suspected-in-white-house-shooting-254eb8.mp3"
 audio_bytes: 548825
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The incident also raises questions about the role of technology in facilitating 
 
 ## Updates
 
+- **2026-10-28** — Pornhub Stars Want to Teach You How to Make Dinner ([source](https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/))
 - **2026-10-16** — Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more ([source](https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase/))
 - **2026-10-07** — Loads of Prime Day Android app deals and freebies: This Seat Taken?, ISLANDERS, Druid, Kero Blaster, more ([source](https://9to5toys.com/2026/10/06/todays-highlight-google-play-deals-22/))
 - **2026-10-02** — Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked ([source](https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/))

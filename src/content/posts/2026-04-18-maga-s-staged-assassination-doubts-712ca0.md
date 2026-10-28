@@ -1,16 +1,17 @@
 ---
 title: "MAGA's Staged Assassination Doubts"
 date: 2026-04-18T12:46:10.297Z
-modified_date: 2026-09-10T02:36:00.305Z
+modified_date: 2026-10-28T14:47:29.775Z
 tags: ["MAGA","Trump","conspiracy theories","assassination attempt"]
 hero_image: "/hero/2026-04-18-maga-s-staged-assassination-doubts-712ca0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Trump"
 description: "MAGA supporters increasingly believe the Trump assassination attempt was staged, fueling internal divisions."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ The divisions within MAGA have significant implications for Trump's base and the
 
 ## Updates
 
+- **2026-10-28** — Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price ([source](https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review/))
 - **2026-09-10** — Google Pixel Tablet has been discontinued, out of stock everywhere ([source](https://9to5google.com/2026/09/09/google-pixel-tablet-discontinued/))
 - **2026-08-03** — Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate ([source](https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/))
 - **2026-07-30** — Google will expand age checks on Android worldwide till the end of the year ([source](https://android-developers.googleblog.com/2026/07/google-play-age-signals-api-safer-experiences.html))

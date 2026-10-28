@@ -1,16 +1,17 @@
 ---
 title: "Schematik"
 date: 2026-04-18T11:07:18.841Z
-modified_date: 2026-10-14T19:57:05.543Z
+modified_date: 2026-10-28T14:47:41.069Z
 tags: ["hardware","coding","Anthropic"]
 hero_image: "/hero/2026-04-18-schematik-da3d27.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "hardware"
 description: "Schematik helps code physical devices with 'vibe code'"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The company's vision contrasts with concerns about its development.
 
 ## Updates
 
+- **2026-10-28** — Amazon's new Echo Dot now works as an eero Wi-Fi extender and smart home hub ([source](https://www.engadget.com/2299279/amazon-new-echo-dot-now-works-as-eero-wi-fi-extender-and-smart-home-hub/))
 - **2026-10-14** — Xbox has a teeny new gamepad ([source](https://www.engadget.com/2286791/xbox-has-a-teeny-new-gamepad/))
 - **2026-08-14** — Does Mark Zuckerberg really believe AI is ‘for everyone’? ([source](https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/))
 - **2026-08-14** — Apple One gets even better in iOS 27, here’s what’s new ([source](https://9to5mac.com/2026/08/14/apple-one-is-getting-better-in-ios-27-heres-whats-new/))

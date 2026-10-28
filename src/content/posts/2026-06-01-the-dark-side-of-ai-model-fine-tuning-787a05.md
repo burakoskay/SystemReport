@@ -1,19 +1,20 @@
 ---
 title: "The Dark Side of AI Model Fine-Tuning"
 date: 2026-06-01T04:46:58.446Z
-modified_date: 2026-09-04T13:57:37.026Z
+modified_date: 2026-10-28T14:48:10.185Z
 tags: ["AI","Machine Learning","Cybersecurity"]
 hero_image: "/hero/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI Model Fine-Tuning"
 description: "Researchers warn of vulnerabilities in AI model fine-tuning process. A new study highlights the risks of post-training manipulation."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-01-the-dark-side-of-ai-model-fine-tuning-787a05.mp3"
 audio_bytes: 623013
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ The future of AI model security depends on the actions we take today. By priorit
 
 ## Updates
 
+- **2026-10-28** — The Samsung Galaxy S25 Ultra is at its lowest price for a while ([source](https://9to5google.com/2026/10/28/the-samsung-galaxy-s25-ultra-is-at-its-lowest-price-for-a-while/))
 - **2026-09-04** — Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. ([source](https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/))
 - **2026-08-18** — Fairphone is launching its latest repairable phone in the US too ([source](https://techcrunch.com/2026/08/18/fairphone-is-launching-its-latest-repairable-phone-in-the-us-too/))
 - **2026-08-03** — Apple challenges UK government’s latest demand for iCloud backdoor: report ([source](https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/))

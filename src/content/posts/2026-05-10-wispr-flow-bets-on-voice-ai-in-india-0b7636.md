@@ -1,16 +1,17 @@
 ---
 title: "Wispr Flow Bets on Voice AI in India"
 date: 2026-05-10T03:43:56.792Z
-modified_date: 2026-09-20T20:09:25.191Z
+modified_date: 2026-10-28T14:47:46.915Z
 tags: ["Voice AI","India","Hinglish","Natural Language Processing"]
 hero_image: "/hero/2026-05-10-wispr-flow-bets-on-voice-ai-in-india-0b7636.jpg"
 hero_image_credit_name: "Anton"
 hero_image_credit_url: "https://www.pexels.com/@anton-8100"
 visual_keyword: "Voice AI"
 description: "Wispr Flow sees growth after Hinglish rollout"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The competitive landscape for voice AI products in India is becoming increasingl
 
 ## Updates
 
+- **2026-10-28** — The Alexa Home Map is a visual way to see and control your smart home ([source](https://www.engadget.com/2299183/alexa-home-map-visual-way-see-control-smart-home/))
 - **2026-09-20** — The Millennium Problems for Biology ([source](https://millenniumproblems.bio/))
 - **2026-08-11** — Elon Musk, Sam Altman, and the Misreading of Science Fiction ([source](https://www.wired.com/story/book-excerpt-rise-and-fall-of-the-artificial-state-jill-lepore-silicon-valley-sci-fi/))
 - **2026-05-10** — Local AI needs to be the norm ([source](https://unix.foo/posts/local-ai-needs-to-be-norm/))

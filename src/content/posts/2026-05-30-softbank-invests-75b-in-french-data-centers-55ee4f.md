@@ -1,15 +1,17 @@
 ---
 title: "SoftBank Invests €75B in French Data Centers"
 date: 2026-05-30T23:03:58.693Z
+modified_date: 2026-10-28T14:47:35.416Z
 tags: ["Data Centers","SoftBank","European Market"]
 hero_image: "/hero/2026-05-30-softbank-invests-75b-in-french-data-centers-55ee4f.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "Data Centers"
 description: "SoftBank to invest up to €75B in French data centers"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to SoftBank's Investment
 SoftBank will invest up to €75 billion to build French data centers, aiming for 5 GW capacity. This investment marks a significant move by the company to expand its presence in the European data center market.
@@ -29,3 +31,7 @@ The investment's impact on the data center market in France will depend on vario
 The European data center market is a complex and dynamic environment, with many different players and stakeholders. The investment by SoftBank will likely have a significant impact on the market, driving growth and innovation. However, the company will also face significant challenges, including intense competition and regulatory hurdles. To succeed, SoftBank will need to develop a deep understanding of the market and its dynamics, as well as the needs and preferences of its customers.
 ## Conclusion
 In conclusion, SoftBank's investment in French data centers is a significant move that is expected to have a major impact on the European data center market. The investment will drive growth and innovation, creating new opportunities for businesses and individuals alike. However, the company will also face significant challenges, including intense competition and regulatory hurdles. To succeed, SoftBank will need to develop a deep understanding of the market and its dynamics, as well as the needs and preferences of its customers.
+
+## Updates
+
+- **2026-10-28** — Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen ([source](https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/))

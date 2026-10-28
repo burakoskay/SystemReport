@@ -1,18 +1,20 @@
 ---
 title: "Chirp Offers 67% Off Engineering Gear"
 date: 2026-05-21T09:55:11.946Z
+modified_date: 2026-10-28T14:47:07.206Z
 tags: ["engineering","software development","career development"]
 hero_image: "/hero/2026-05-21-chirp-offers-67-off-engineering-gear-d88165.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineer"
 description: "Verified coupon codes offer significant discounts on engineering gear and a new book tackles soft skills in software careers."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-05-21-chirp-offers-67-off-engineering-gear-d88165.mp3"
 audio_bytes: 601279
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Gear discounts hit the engineering desk
@@ -69,3 +71,6 @@ The future of engineer perks will likely involve more accessible and affordable 
 
 The intersection of gear discounts, soft skills, and professional development represents a significant trend in the tech industry. As engineers become more cost-conscious and skilled, companies must adapt to remain competitive. The *Junior to Senior* book and coupon codes offered by Chirp and Adidas are just a few examples of the resources available to engineers looking to improve their soft skills and allocate their resources effectively.
 
+## Updates
+
+- **2026-10-28** — TikTok is going after Yelp and Google Maps with an in-app restaurant guide ([source](https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp))

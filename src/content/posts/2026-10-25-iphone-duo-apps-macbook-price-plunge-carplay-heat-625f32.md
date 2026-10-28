@@ -1,18 +1,20 @@
 ---
 title: "iPhone Duo apps, MacBook price plunge, CarPlay heat"
 date: 2026-10-25T18:46:43.859Z
+modified_date: 2026-10-28T14:48:04.550Z
 tags: ["apple","foldable","macbook","carplay","privacy"]
 hero_image: "/hero/2026-10-25-iphone-duo-apps-macbook-price-plunge-carplay-heat-625f32.jpg"
 hero_image_credit_name: "Sóc Năng Động"
 hero_image_credit_url: "https://www.pexels.com/@soc-nang-d-ng-2150345854"
 visual_keyword: "foldable iPhone Duo displaying a retro cassette player app"
 description: "Apple's foldable iPhone Duo fuels quirky dual‑screen apps, the MacBook Pro Max hits a record low price, and CarPlay reveals hidden thermal strain."
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-10-25-iphone-duo-apps-macbook-price-plunge-carplay-heat-625f32.mp3"
 audio_bytes: 560109
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## iPhone Duo unlocks niche dual‑screen experiences
 Apple's first foldable iPhone, the iPhone Duo, arrived with a hinge that creates two independent displays. Developers have already filled the new real estate with experiments that would have been gimmicks on a single screen. TechCrunch catalogues a retro cassette player that mimics tape spooling, a virtual notebook that flips pages with a flick, a flight‑tracker that spreads a map across the fold, and a digital toaster that animates toast popping on each half of the device. Each app treats the hinge as a functional split rather than a novelty. The variety shows that the Duo's hardware encourages developers to rethink UI conventions instead of merely porting existing iPhone apps.
@@ -44,3 +46,7 @@ As Apple continues to integrate its devices—iPhone Duo, MacBook Pro Max, and c
 
 ## What to watch
 The next week will reveal whether Apple follows through on the rumored innovative MacBook launch, a move that could reset performance expectations for the entire laptop market. Simultaneously, developers may release new iPhone Duo apps that exploit the hinge for real‑world productivity, turning the current novelty into a sustainable feature set. Finally, monitoring iPhone temperature reports from CarPlay users will indicate whether Apple will address thermal throttling in a future iOS update. Tracking these three threads will show how Apple balances hardware ambition with user experience.
+
+## Updates
+
+- **2026-10-28** — Kickstarter project offers touchscreen mouse instead of a touchscreen Mac ([source](https://9to5mac.com/2026/10/28/kickstarter-project-offers-touchscreen-mouse-instead-of-a-touchscreen-mac/))
