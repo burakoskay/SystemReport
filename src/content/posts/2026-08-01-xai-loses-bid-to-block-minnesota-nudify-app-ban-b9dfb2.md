@@ -1,19 +1,20 @@
 ---
 title: "xAI Loses Bid to Block Minnesota 'Nudify' App Ban"
 date: 2026-08-01T20:44:39.105Z
-modified_date: 2026-10-10T10:22:20.956Z
+modified_date: 2026-10-28T20:45:01.132Z
 tags: ["AI Regulation","Nudify Apps","Digital Consent"]
 hero_image: "/hero/2026-08-01-xai-loses-bid-to-block-minnesota-nudify-app-ban-b9dfb2.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered"
 description: "Minnesota ban on 'nudify' apps to proceed"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-08-01-xai-loses-bid-to-block-minnesota-nudify-app-ban-b9dfb2.mp3"
 audio_bytes: 564498
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The ban on 'nudify' apps is not the first instance of regulation of AI-powered a
 
 ## Updates
 
+- **2026-10-28** — As AI agents reshape the web, Google opens Gemini and Search to more apps ([source](https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/))
 - **2026-10-10** — How This Tiny Startup Built the World’s Safest Bike Helmet ([source](https://www.wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet/))
 - **2026-09-17** — Roku’s new Labs hub brings experimental apps to the big screen ([source](https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/))
 

@@ -1,19 +1,20 @@
 ---
 title: "Tech Deals: Samsung Galaxy Tab S11, OnePlus Merges with Realme"
 date: 2026-04-30T03:38:49.486Z
-modified_date: 2026-09-15T23:54:13.812Z
+modified_date: 2026-10-28T20:46:53.189Z
 tags: ["tech deals","Samsung Galaxy Tab S11","OnePlus Realme merger"]
 hero_image: "/hero/2026-04-30-tech-deals-samsung-galaxy-tab-s11-oneplus-merges-with-realme-a3e111.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "Samsung Galaxy Tab S11"
 description: "Today's tech deals include a $411 discount on Samsung's Galaxy Tab S11 and a merger between OnePlus and Realme."
-sources_count: 22
+sources_count: 23
 audio_path: "/audio/2026-04-30-tech-deals-samsung-galaxy-tab-s11-oneplus-merges-with-realme-a3e111.mp3"
 audio_bytes: 626356
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -91,6 +92,7 @@ The technical mechanics of the update are complex, involving significant changes
 
 ## Updates
 
+- **2026-10-28** — Reddit is adding a 'for you' feed for recommendations ([source](https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations/))
 - **2026-09-15** — The Roman telescope has enough gas for 22 years, double NASA's expectations ([source](https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/))
 - **2026-08-25** — Bose’s smallest Bluetooth speaker is a great deal at 35 percent off ([source](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale))
 - **2026-08-19** — Watch Susan Kare revisit the icons and graphics for the original Mac ([source](https://9to5mac.com/2026/08/19/watch-susan-kare-revisit-the-icons-and-graphics-for-the-original-mac/))

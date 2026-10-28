@@ -1,19 +1,20 @@
 ---
 title: "Deepfakes Scam TikTok Users"
 date: 2026-04-30T06:35:25.857Z
-modified_date: 2026-09-04T08:25:19.312Z
+modified_date: 2026-10-28T20:46:27.370Z
 tags: ["ai governance","deepfakes","china policy","llm safety"]
 hero_image: "/hero/2026-04-30-deepfakes-scam-tiktok-users-f8fa6d.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "collage of celebrity deepfake video, code snippet, and Chinese flag"
 description: "Deepfake scams, opaque LLM prompts, and China's AI strategy reveal growing governance gaps and new threat vectors."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-30-deepfakes-scam-tiktok-users-f8fa6d.mp3"
 audio_bytes: 613400
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Deepfakes Targeting Consumers
@@ -46,4 +47,5 @@ Track the FTC’s upcoming rulemaking on deepfake disclosures and any amendments
 
 ## Updates
 
+- **2026-10-28** — The PlayStation 5 just might be Sony's final Blu-Ray player ([source](https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player/))
 - **2026-09-04** — The asteroid currently hitting front end web development ([source](https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/))

@@ -1,16 +1,17 @@
 ---
 title: "The Sticker Shock of 2026: Why Your Next Laptop Will Cost More"
 date: 2026-04-15T19:44:35.730Z
-modified_date: 2026-10-18T19:58:18.651Z
+modified_date: 2026-10-28T20:47:19.116Z
 tags: ["tech prices","consumer tech","laptops","microsoft surface","samsung galaxy book"]
 hero_image: "/hero/2026-04-15-the-sticker-shock-of-2026-why-your-next-laptop-will-cost-more-654445.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "rising tech prices"
 description: "Tech giants Microsoft and Samsung are significantly raising prices on laptops, with budget-friendly models disappearing. Is 'paying more for less' the new normal?"
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -37,6 +38,7 @@ Industry observers and frustrated consumers alike are left grappling with what h
 
 ## Updates
 
+- **2026-10-28** — The Galaxy Ring got a new update just in time for a $75-off sale ([source](https://9to5google.com/2026/10/28/the-galaxy-ring-got-a-new-update-just-in-time-for-a-75-off-sale/))
 - **2026-10-18** — Video game ownership bill introduced in Congress ([source](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act))
 - **2026-10-02** — TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer ([source](https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/))
 - **2026-09-29** — Nothing’s New Headphone (1) Pro Are Made for the Studio ([source](https://www.wired.com/story/nothings-new-headphone-1-pro-are-made-for-the-studio/))

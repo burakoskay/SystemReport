@@ -1,18 +1,20 @@
 ---
 title: "Hadrian Secures $1.37B Funding"
 date: 2026-08-07T02:23:14.212Z
+modified_date: 2026-10-28T20:45:44.222Z
 tags: ["defense tech","automated factories","Hadrian"]
 hero_image: "/hero/2026-08-07-hadrian-secures-1-37b-funding-b7db53.jpg"
 hero_image_credit_name: "Keegan Checks"
 hero_image_credit_url: "https://www.pexels.com/@keeganjchecks"
 visual_keyword: "automated factories"
 description: "Hadrian raises $1.37B at $8B valuation"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-07-hadrian-secures-1-37b-funding-b7db53.mp3"
 audio_bytes: 628028
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Hadrian
 Hadrian raised $1.37 billion at an $8 billion valuation to build automated factories for defense vehicles, including submarines.
@@ -47,3 +49,7 @@ As the industry continues to evolve, companies like Hadrian will play a crucial 
 Hadrian's progress will depend on its ability to deploy its manufacturing technologies and expand its product line. The company's production volume and quality metrics will be important to watch, as they will indicate the success of its automated factories.
 As Hadrian continues to grow and innovate, it is likely to face challenges and opportunities. The company's ability to adapt to changing demand and technological advancements will be crucial to its long-term success.
 Hadrian's funding and valuation are a testament to the potential of its approach, and the company is well-positioned to make a significant impact in the defense tech industry.
+
+## Updates
+
+- **2026-10-28** — You can see every red flag in Theranos 2.0 ([source](https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything))

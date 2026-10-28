@@ -1,16 +1,17 @@
 ---
 title: "iOS 27 adds Siri mode to Camera, raising the bar for visual AI"
 date: 2026-04-29T17:52:48.067Z
-modified_date: 2026-09-17T14:36:21.933Z
+modified_date: 2026-10-28T20:47:53.581Z
 tags: ["apple","ios","camera","siri","magSafe"]
 hero_image: "/hero/2026-04-29-ios-27-adds-siri-mode-to-camera-raising-the-bar-for-visual-ai-2818e0.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "iPhone camera interface with Siri voice overlay"
 description: "Apple’s iOS 27 will embed Siri into the Camera app, promising deeper visual intelligence while rumors swirl about MagSafe and upcoming iPhone models."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The June iOS 27 unveiling will be the first public test of Siri‑enabled visual
 
 ## Updates
 
+- **2026-10-28** — Perplexity upgrades Mac app with ChatGPT-powered voice mode ([source](https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode/))
 - **2026-09-17** — What’s the Best iPhone to Buy or Avoid Right Now? (2026) ([source](https://www.wired.com/gallery/iphone-buying-guide/))
 - **2026-09-06** — Travis Kalanick’s Atoms might be getting into the robotaxi business ([source](https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/))
 - **2026-08-28** — Meta addresses ‘pervert glasses’ reputation with a privacy fix and a new marketing campaign ([source](https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign))

@@ -1,16 +1,17 @@
 ---
 title: "London's Hacker House Tackles Burnout"
 date: 2026-08-02T02:09:31.660Z
-modified_date: 2026-08-12T16:53:50.550Z
+modified_date: 2026-10-28T20:46:44.576Z
 tags: ["founder burnout","hacker house","work-life balance"]
 hero_image: "/hero/2026-08-02-london-s-hacker-house-tackles-burnout-262d3e.jpg"
 hero_image_credit_name: "Jabez Cutamora"
 hero_image_credit_url: "https://www.pexels.com/@jabzee"
 visual_keyword: "London"
 description: "Founder house prioritizes work-life balance"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction
@@ -54,4 +55,5 @@ In the future, we can expect to see more hacker houses and coworking spaces that
 
 ## Updates
 
+- **2026-10-28** — The Xreal Aura smartglasses are now on sale for a discounted launch price ([source](https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/))
 - **2026-08-12** — Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones ([source](https://9to5google.com/2026/08/12/google-pixel-11-trade-in-offers-values/))

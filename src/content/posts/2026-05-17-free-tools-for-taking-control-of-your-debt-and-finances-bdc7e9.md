@@ -1,16 +1,17 @@
 ---
 title: "Free Tools for Taking Control of Your Debt and Finances"
 date: 2026-05-17T11:15:50.188Z
-modified_date: 2026-10-28T00:55:24.011Z
+modified_date: 2026-10-28T20:45:09.774Z
 tags: ["personal finance","financial literacy","debt management"]
 hero_image: "/hero/2026-05-17-free-tools-for-taking-control-of-your-debt-and-finances-bdc7e9.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "financial chart"
 description: "Several free tools and resources are available to help individuals manage their debt and personal finances."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In conclusion, taking control of one's finances is a crucial aspect of achieving
 
 ## Updates
 
+- **2026-10-28** — AI execs may be too out of touch to build for the general public ([source](https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/))
 - **2026-10-28** — iOS 27.2 adds new app icon for Apple Music, more design updates ([source](https://9to5mac.com/2026/10/27/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates/))
 - **2026-10-06** — The future of independence is interdependence ([source](https://onlys.ky/independence-is-interdependence/))
 - **2026-10-02** — Apple now sells Aqara Adaptive Temperature thermostat and seven more accessories ([source](https://9to5mac.com/2026/10/02/apple-now-sells-aqara-adaptive-temperature-thermostat-and-seven-more-accessories/))

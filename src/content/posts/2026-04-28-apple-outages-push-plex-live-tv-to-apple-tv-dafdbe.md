@@ -1,16 +1,17 @@
 ---
 title: "Apple Outages Push Plex Live TV to Apple TV"
 date: 2026-04-28T06:48:52.940Z
-modified_date: 2026-10-03T12:57:15.529Z
+modified_date: 2026-10-28T20:46:01.479Z
 tags: ["apple","tv","streaming","plex"]
 hero_image: "/hero/2026-04-28-apple-outages-push-plex-live-tv-to-apple-tv-dafdbe.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with glitch overlay and Plex live TV remote"
 description: "Apple's recent service outage and a new subscriber survey come as Plex launches its Live TV service on Apple TV, reshaping the streaming battleground."
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Apple will unveil two new subscription services at its March event, one of which
 
 ## Updates
 
+- **2026-10-28** — The Inside Story of Why Apple Finally Brought a Touch Display to the Mac ([source](https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/))
 - **2026-10-03** — How to adjust the audio quality in Apple Music ([source](https://www.engadget.com/2273330/how-to-adjust-audio-quality-apple-music/))
 - **2026-10-01** — Apple TV is down ([source](https://www.engadget.com/2274184/apple-tv-is-down/))
 - **2026-09-15** — Apple @ Work Podcast: Breaking down the improvements and benefits of Parallels Desktop 27 ([source](https://9to5mac.com/2026/09/15/apple-work-podcast-breaking-down-the-improvements-and-benefits-of-parallels-desktop-27/))

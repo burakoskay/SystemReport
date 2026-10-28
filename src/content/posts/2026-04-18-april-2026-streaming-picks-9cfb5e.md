@@ -1,16 +1,17 @@
 ---
 title: "April 2026 Streaming Picks"
 date: 2026-04-18T11:07:25.223Z
-modified_date: 2026-10-14T22:57:19.402Z
+modified_date: 2026-10-28T20:45:18.349Z
 tags: ["streaming","movies","April 2026"]
 hero_image: "/hero/2026-04-18-april-2026-streaming-picks-9cfb5e.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "streaming-picks"
 description: "Discover movies to stream this month, including 28 Years Later and more."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Viewers will have to decide for themselves if these films live up to their expec
 
 ## Updates
 
+- **2026-10-28** — South Korea’s financial industry hit by fresh wave of cyberattacks ([source](https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/))
 - **2026-10-14** — Software development and rules stability: Prototype racing in 2030 ([source](https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/))
 - **2026-10-11** — I'm sorry, but you still have to think ([source](https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/))
 - **2026-09-19** — Here's why some monitors have two USB ports (and the best ways to use them) ([source](https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/))
