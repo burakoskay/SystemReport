@@ -1,19 +1,20 @@
 ---
 title: "Gemini Overlay Update"
 date: 2026-06-06T21:10:34.710Z
-modified_date: 2026-08-14T18:45:26.251Z
+modified_date: 2026-10-29T20:50:20.936Z
 tags: ["Google","Android","Gemini Overlay"]
 hero_image: "/hero/2026-06-06-gemini-overlay-update-8bc031.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
 hero_image_credit_url: "https://www.pexels.com/@sorjigrey"
 visual_keyword: "Android"
 description: "Google updates Gemini overlay on Android"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-06-06-gemini-overlay-update-8bc031.mp3"
 audio_bytes: 606921
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Gemini Overlay Update
@@ -42,4 +43,5 @@ The source quotes Google on the Neural Expressive redesign but does not provide 
 
 ## Updates
 
+- **2026-10-29** — Google brings AI Mode advertisements to more countries ([source](https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/))
 - **2026-08-14** — Mark Zuckerberg has an Instagzam ([source](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast))

@@ -1,16 +1,17 @@
 ---
 title: "Tech Titans on the Brink: Quantum Computing and Hyperscale Spending"
 date: 2026-04-18T01:05:12.695Z
-modified_date: 2026-10-14T09:13:18.976Z
+modified_date: 2026-10-29T20:49:11.076Z
 tags: ["quantum computing","hyperscale","postquantum crypto"]
 hero_image: "/hero/2026-04-18-tech-titans-on-the-brink-quantum-computing-and-hyperscale-spending-11c256.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Circuitry"
 description: "Big Tech's pursuit of post-quantum crypto and hyperscale infrastructure"
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ The tech landscape is undergoing a seismic shift, driven by two major forces: th
 
 ## Updates
 
+- **2026-10-29** — Go Minimal—the Ridge Wallet is 20 Percent Off Right Now ([source](https://www.wired.com/story/ridge-wallet-deal-october-2026/))
 - **2026-10-14** — Corsair Discount Code: Up to 50% Off for October 2026 ([source](https://www.wired.com/story/corsair-coupon/))
 - **2026-09-20** — What are the downsides of robot vacuums? ([source](https://www.engadget.com/2258772/robot-vacuum-downsides/))
 - **2026-09-09** — Amazon Prime Video’s new AI tech matches lips to dubbed audio ([source](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing))

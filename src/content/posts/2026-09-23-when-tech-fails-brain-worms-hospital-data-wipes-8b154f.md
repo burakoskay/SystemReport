@@ -1,15 +1,17 @@
 ---
 title: "When Tech Fails: Brain Worms, Hospital Data Wipes"
 date: 2026-09-23T00:14:36.487Z
+modified_date: 2026-10-29T20:49:50.880Z
 tags: ["health","technology","data","devices"]
 hero_image: "/hero/2026-09-23-when-tech-fails-brain-worms-hospital-data-wipes-8b154f.jpg"
 hero_image_credit_name: "turek"
 hero_image_credit_url: "https://www.pexels.com/@turek3024"
 visual_keyword: "electric toothbrush beside a microscope slide with water droplets"
 description: "A parasite, an IT blunder, and a pricey toothbrush reveal how fragile modern health tech can be."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Three recent tech failures—a brain‑worm infection confirmed in a lab, an English hospital IT mistake that erased over a decade of maternity viewing history, and a waterproofing defect in Dyson’s $500 electric toothbrush—show how fragile complex systems remain.
 
@@ -50,3 +52,7 @@ Moreover, the media coverage of each event differs. The worm story gets a sensat
 ## What to watch next
 
 For the brain‑worm case, follow any updates from the treating hospital on treatment outcomes and whether the lab technique gains wider adoption. In the UK, monitor NHS IT policy revisions—especially any mandates on audit‑trail retention for maternity data. With Dyson, watch for a formal recall notice or a detailed service bulletin that pinpoints the faulty component. Each of these threads will reveal whether the industry learns from these hiccups or simply moves on.
+
+## Updates
+
+- **2026-10-29** — GM to pay $220 million to resolve claims it sold driving habits data ([source](https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit))

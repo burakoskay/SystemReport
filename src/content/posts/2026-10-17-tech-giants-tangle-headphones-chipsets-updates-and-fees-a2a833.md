@@ -1,15 +1,17 @@
 ---
 title: "Tech giants tangle: headphones, chipsets, updates, and fees"
 date: 2026-10-17T02:45:06.150Z
+modified_date: 2026-10-29T20:50:00.813Z
 tags: ["headphones","smartphones","software-updates","carrier-fees","tech-industry"]
 hero_image: "/hero/2026-10-17-tech-giants-tangle-headphones-chipsets-updates-and-fees-a2a833.jpg"
 hero_image_credit_name: "Aleksandar Spasojevic"
 hero_image_credit_url: "https://www.pexels.com/@spal"
 visual_keyword: "premium over-ear headphones beside smartphone and carrier logo"
 description: "Samsung skips its flagship chipset, Sony cancels an Android update, Verizon adds a $10 iPhone Handoff fee, and Technics releases a premium ANC headphone."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Technics EAH‑A1000 lands as a premium ANC contender
 The new Technics EAH‑A1000 delivers the kind of soundstage most audiophiles expect from a flagship, while keeping the price in the high‑end tier. Engadget notes that the over‑ear wireless headphones are "light on compromises," pairing a sleek metal frame with active noise cancellation that rivals more established brands.
@@ -39,3 +41,7 @@ This fee raises questions about the future of carrier‑supported software featu
 
 ## What to watch next
 Watch Samsung’s launch event in Q4 for confirmation of the chipset swap and any thermal mitigation claims. Track Sony’s next software roadmap to see whether the company will commit to longer support windows for its remaining Xperia line. Monitor Verizon’s subscriber response to the Handoff fee; a spike in churn could force carriers to rethink premium pricing for continuity services. Finally, keep an eye on Technics’ sales figures and third‑party reviews—if the EAH‑A1000 can carve a niche, it may pressure larger players to tighten ANC performance without inflating price tags.
+
+## Updates
+
+- **2026-10-29** — Apple’s new laptop supports one of the coolest features for color pros ([source](https://www.theverge.com/1022347/apple-macbook-supports-new-cmf))

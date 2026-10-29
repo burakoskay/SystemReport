@@ -1,15 +1,17 @@
 ---
 title: "FBI Warns of Intimate Photo Theft in Extortion Campaigns"
 date: 2026-08-12T09:09:37.814Z
+modified_date: 2026-10-29T20:49:40.786Z
 tags: ["Cybercrime","FBI","Online Security"]
 hero_image: "/hero/2026-08-12-fbi-warns-of-intimate-photo-theft-in-extortion-campaigns-6a99c0.jpg"
 hero_image_credit_name: "Zion Smith"
 hero_image_credit_url: "https://www.pexels.com/@zion-smith-2162655713"
 visual_keyword: "FBI Warning"
 description: "FBI alert on cybercriminals stealing intimate photos for extortion"
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to the Threat
 The FBI has issued a warning about cybercriminals hacking into online accounts to steal intimate photos for extortion. The stolen images are used to extort victims, who range from adults to minors. This type of cybercrime can have severe emotional and psychological impacts on victims, and the FBI is taking it seriously.
@@ -34,3 +36,7 @@ The cybercriminals are using various techniques to steal intimate photos, includ
 
 ## Downstream Implications
 The implications of these cybercrimes are far-reaching. Not only do the victims suffer emotional and psychological trauma, but the crimes also have a broader impact on society. The fact that cybercriminals are targeting intimate photos creates a sense of vulnerability and fear among the public. It also highlights the need for greater awareness and education about online security and the risks of cybercrimes. The FBI is working to combat these crimes, but it requires a collective effort from individuals, companies, and authorities to prevent them from happening in the first place.
+
+## Updates
+
+- **2026-10-29** — Trump declares robot imports a national security threat ([source](https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/))

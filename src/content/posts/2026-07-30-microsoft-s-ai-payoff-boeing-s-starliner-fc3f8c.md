@@ -1,16 +1,17 @@
 ---
 title: "Microsoft’s AI Payoff, Boeing’s Starliner"
 date: 2026-07-30T01:56:14.341Z
-modified_date: 2026-10-19T21:58:32.122Z
+modified_date: 2026-10-29T20:51:00.566Z
 tags: ["microsoft","ai","boeing","mining","automation"]
 hero_image: "/hero/2026-07-30-microsoft-s-ai-payoff-boeing-s-starliner-fc3f8c.jpg"
 hero_image_credit_name: "Julia Volk"
 hero_image_credit_url: "https://www.pexels.com/@julia-volk"
 visual_keyword: "underground mine with digital twin overlay and AI interface"
 description: "Microsoft reports a $3.2 B return from Anthropic, Boeing eyes a Starliner launch, and Hivekit launches an AI‑driven mining platform."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Investors should track Microsoft’s next earnings call for any shift in its Ope
 
 ## Updates
 
+- **2026-10-29** — Apple cuts App Store commission in Taiwan following regulatory discussions ([source](https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions/))
 - **2026-10-19** — iOS 27.2 adds new setting to fix common HomePod annoyance ([source](https://9to5mac.com/2026/10/19/ios-27-2-adds-new-setting-to-fix-common-homepod-annoyance/))
 - **2026-08-12** — Researchers found a way to hijack devices through Zoom screen sharing ([source](https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/))

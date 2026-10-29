@@ -1,16 +1,17 @@
 ---
 title: "Apple Negotiates Nine‑Figure Publisher Deals for Siri News Feed"
 date: 2026-08-13T16:57:14.282Z
-modified_date: 2026-10-26T16:52:51.416Z
+modified_date: 2026-10-29T20:48:51.098Z
 tags: ["apple","siri","ai","news"]
 hero_image: "/hero/2026-08-13-apple-negotiates-nine-figure-publisher-deals-for-siri-news-feed-1cd0d2.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "Apple executive shaking hands with newspaper publisher in a modern office"
 description: "Apple is courting news publishers with multiyear, usage‑based payments to feed current headlines into its upcoming Siri AI, slated for release this fall."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The first test will be the Siri AI debut in iOS 27, scheduled for the fall. Tr
 
 ## Updates
 
+- **2026-10-29** — SuperMe raises $20M for its network of AI expert profiles ([source](https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/))
 - **2026-10-26** — Some iPhone Duo Models Are Breaking. iFixit’s Teardown Might Explain Why ([source](https://www.wired.com/story/some-iphone-duo-models-are-breaking-ifixits-teardown-might-explain-why/))
 - **2026-09-28** — Florida seeks a ban on ChatGPT acting like a person ([source](https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids))
 - **2026-09-27** — Why OLPC’s $100 laptop never stood a chance ([source](https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance))

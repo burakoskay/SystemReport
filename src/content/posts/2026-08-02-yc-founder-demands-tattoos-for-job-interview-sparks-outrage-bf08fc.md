@@ -1,16 +1,17 @@
 ---
 title: "YC Founder Demands Tattoos for Job Interview, Sparks Outrage"
 date: 2026-08-02T06:36:11.044Z
-modified_date: 2026-10-13T22:12:52.597Z
+modified_date: 2026-10-29T20:50:40.781Z
 tags: ["ycombinator","hiring","startupculture"]
 hero_image: "/hero/2026-08-02-yc-founder-demands-tattoos-for-job-interview-sparks-outrage-bf08fc.jpg"
 hero_image_credit_name: "Kenneth Surillo"
 hero_image_credit_url: "https://www.pexels.com/@kenzero14"
 visual_keyword: "job seeker showing a fresh forearm tattoo in a modern office lobby"
 description: "A Y Combinator startup asked candidates to get inked for an interview, igniting debate over hiring practices and labor rights."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ The next data point will be Lemon Lime’s response. Will the founder double d
 
 ## Updates
 
+- **2026-10-29** — Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic ([source](https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468))
 - **2026-10-13** — The United Kingdom generates less electricity per person than in the 1970s ([source](https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak))
 - **2026-10-08** — The Mathocalypse ([source](https://scottaaronson.blog/?p=10169))

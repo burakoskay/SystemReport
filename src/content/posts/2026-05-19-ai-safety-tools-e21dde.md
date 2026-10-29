@@ -1,16 +1,17 @@
 ---
 title: "AI Safety Tools"
 date: 2026-05-19T04:00:13.141Z
-modified_date: 2026-09-14T14:39:14.720Z
+modified_date: 2026-10-29T20:50:10.988Z
 tags: ["AI","Character AI","safety tools","teen safety"]
 hero_image: "/hero/2026-05-19-ai-safety-tools-e21dde.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Character AI unveils new safety tools for teens amid lawsuits"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ Character AI is going to launch its first set of parental controls that will pro
 
 ## Updates
 
+- **2026-10-29** — Utah charges Kalshi and its CEO with illegally promoting online gambling ([source](https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges))
 - **2026-09-14** — iOS 27 code shows you may be able to replace Siri AI with Claude or ChatGPT [Poll] ([source](https://9to5mac.com/2026/09/14/ios-27-code-shows-you-may-be-able-to-replace-siri-ai-with-claude-or-chatgpt-poll/))
 - **2026-09-05** — Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’ ([source](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/))
