@@ -1,7 +1,7 @@
 ---
 title: "Android Updates: Samsung One UI 9, YouTube Sharing"
 date: 2026-04-18T01:10:39.205Z
-modified_date: 2026-09-04T23:38:51.327Z
+modified_date: 2026-10-29T07:55:36.275Z
 tags: ["Android","Samsung","Google"]
 hero_image: "/hero/2026-04-18-android-updates-samsung-one-ui-9-youtube-sharing-and-google-s-pixel-plans-3594ac.jpg"
 hero_image_credit_name: "Emmanuel Jason Eliphalet"
@@ -10,6 +10,7 @@ visual_keyword: "Android"
 description: "Samsung's One UI 9, YouTube's new sharing feature, Google's Pixel devices, and Amazon's Fire TV Stick updates"
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ The tech industry is witnessing significant changes, with major players like Sam
 
 ## Updates
 
+- **2026-10-29** — Petlibro Offers: 30% Off in November 2026 ([source](https://www.wired.com/story/petlibro-discount-code/))
 - **2026-09-04** — Gemini overlay gets bubble minimization and multitasking on Android ([source](https://9to5google.com/2026/09/04/gemini-minimize-bubble/))
 - **2026-08-27** — Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents ([source](https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/))
 - **2026-08-24** — Monday’s Android app deals and freebies: Parabellum, Mindcop, MEGA MAN X ,Afterplace, more ([source](https://9to5toys.com/2026/08/24/monday-android-app-deals-mega-man-x/))
