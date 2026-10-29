@@ -1,16 +1,17 @@
 ---
 title: "LuneForge Simplifies 3D-Printable Luneburg Lenses for RF"
 date: 2026-05-30T10:08:25.023Z
-modified_date: 2026-10-06T16:36:07.569Z
+modified_date: 2026-10-29T14:54:24.063Z
 tags: ["RF technology","Luneburg lenses","open-source software"]
 hero_image: "/hero/2026-05-30-luneforge-simplifies-3d-printable-luneburg-lenses-for-rf-d604dc.jpg"
 hero_image_credit_name: "David Guerrero"
 hero_image_credit_url: "https://www.pexels.com/@davidguerrero"
 visual_keyword: "Luneburg lens"
 description: "LuneForge simplifies creation of precise Luneburg lenses for RF applications, making lens design more accessible."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Future developments of LuneForge may include the integration of machine learning
 
 ## Updates
 
+- **2026-10-29** — Apple finally combined a toaster and a refrigerator ([source](https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator))
 - **2026-10-06** — The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier ([source](https://www.wired.com/story/icann-top-level-domains-meow/))
 - **2026-09-23** — YouTube is making comments more fun — and fandom more lucrative for creators ([source](https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/))
 - **2026-08-27** — Plaud made earbuds for people who want to record every meeting and call ([source](https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/))

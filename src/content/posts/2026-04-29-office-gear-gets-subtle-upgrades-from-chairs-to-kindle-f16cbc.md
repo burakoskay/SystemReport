@@ -1,16 +1,17 @@
 ---
 title: "Office gear gets subtle upgrades, from chairs to Kindle"
 date: 2026-04-29T10:17:32.062Z
-modified_date: 2026-09-17T19:30:11.753Z
+modified_date: 2026-10-29T14:55:12.895Z
 tags: ["office","hardware","tech","updates"]
 hero_image: "/hero/2026-04-29-office-gear-gets-subtle-upgrades-from-chairs-to-kindle-f16cbc.jpg"
 hero_image_credit_name: "Alpha En"
 hero_image_credit_url: "https://www.pexels.com/@alphaen"
 visual_keyword: "modern office setup with ergonomic chair, earbuds, smart lighting, and e-reader"
 description: "New Vari Align chair, Galaxy Buds 4 stability patch, Philips Hue SpatialAware lighting, and Kindle dark mode roll out, reshaping the office tech mix."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Watch how quickly the Galaxy Buds stability patch expands beyond the initial reg
 
 ## Updates
 
+- **2026-10-29** — Google determines the names for bodies of water in Google Earth (2008) ([source](https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html))
 - **2026-09-17** — Hister: A private search engine for the pages you visit and the files you keep ([source](https://github.com/asciimoo/hister))
 - **2026-08-20** — Genesis joins the giant electric SUV club with new GV90 ([source](https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/))
 - **2026-08-10** — NYC Mayor Mamdani announces support for the Delivery Protection Act ([source](https://www.engadget.com/2234009/nyc-mayor-mamdani-announces-support-for-delivery-protection-act/))

@@ -1,16 +1,17 @@
 ---
 title: "The Hidden Cost of AI: Why Assistance May Be Eroding Our"
 date: 2026-04-15T19:47:05.150Z
-modified_date: 2026-10-02T10:14:53.229Z
+modified_date: 2026-10-29T14:54:13.692Z
 tags: ["ai cognition","cognitive bias","human-ai interaction","educational technology","digital dependence"]
 hero_image: "/hero/2026-04-15-the-hidden-cost-of-ai-why-assistance-may-be-eroding-our-cognitive-edge-35716a.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "person relying on glowing ai screen"
 description: "A new study reveals AI assistance, while boosting immediate performance, fosters dependency and reduces human persistence, raising alarms for innovation and education."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ As AI continues to embed itself into every facet of our lives, from classrooms t
 
 ## Updates
 
+- **2026-10-29** — Amazon’s AI shopping assistant can now edit your grocery lists and gift registries ([source](https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries))
 - **2026-10-02** — Health Care Workers Are Tired of Cleaning Up Palantir’s Mess ([source](https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/))
 - **2026-09-02** — Deals: Nothing Ear (3a) from $67, Galaxy Flip 8 $320 off, 2026 IdeaPad $620 off, Sony Google Gemini TV $800 off, more ([source](https://9to5google.com/2026/09/02/deals-nothing-ear-3a-galaxy-flip-8-2026-ideapad/))
 - **2026-08-29** — Save hundreds on a TCL mini-LED TV with quantum dots and high refresh rate ([source](https://www.theverge.com/gadgets/985741/tcl-qm7l-belkin-thunderbolt-dock-deal-sale))

@@ -1,19 +1,20 @@
 ---
 title: "Tech Review Deception"
 date: 2026-06-05T16:35:57.035Z
-modified_date: 2026-06-06T03:54:54.093Z
+modified_date: 2026-10-29T14:54:03.120Z
 tags: ["Amazon","fake reviews","tech products","simplicity"]
 hero_image: "/hero/2026-06-05-tech-review-deception-75052a.jpg"
 hero_image_credit_name: "Nando Freitas"
 hero_image_credit_url: "https://www.pexels.com/@nandofreitasr"
 visual_keyword: "Amazon"
 description: "Fake reviews on Amazon, disappointing tech products, and the value of simplicity in meal kits and wearables."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-05-tech-review-deception-75052a.mp3"
 audio_bytes: 572858
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,4 +76,5 @@ As the online marketplace continues to evolve, it's likely that new challenges a
 
 ## Updates
 
+- **2026-10-29** — The NYT Cooking app is testing AI recipe modifications ([source](https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool))
 - **2026-06-06** — Stellar Blade's slick-looking sequel is officially called Blood Rain ([source](https://www.engadget.com/2188798/stellar-blade-slick-looking-sequel-is-officially-called-blood-rain/))

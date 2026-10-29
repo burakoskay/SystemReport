@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Highlights: AGENTS.md, Unsloth GGUFs, Opus 5.0"
 date: 2026-08-20T01:06:48.944Z
+modified_date: 2026-10-29T14:54:18.884Z
 tags: ["llm","opensource","hackernews","software"]
 hero_image: "/hero/2026-08-20-hacker-news-highlights-agents-md-unsloth-ggufs-opus-5-0-502e41.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "software developers reviewing code on laptops"
 description: "A rundown of recent Hacker News threads on a Claude feature request, Unsloth's GGUF release, Opus 5.0's incoherence issue, and a blog on extensible software for LLMs."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 ## Feature Request: Support AGENTS.md
 
@@ -38,3 +40,7 @@ The post outlines three design pillars: explicit capability declarations, sandbo
 ## What to Watch
 
 The AGENTS.md request will likely surface in Claude's next release cycle; tracking the issue's merge status will indicate how quickly the community adopts agent documentation standards. Unsloth's Dynamic 3.0 GGUFs will be tested on more diverse hardware; benchmark releases could validate the claimed efficiency gains. Opus 5.0 users should monitor upcoming patches that address the incoherence spikes, especially any changes to sampling defaults. Finally, Morrell's extensibility framework may inspire new open‑source libraries; watch for repositories that adopt his three pillars as a baseline for LLM‑augmented software.
+
+## Updates
+
+- **2026-10-29** — This $149 digital candle uses AI to accurately simulate a flickering flame ([source](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame))

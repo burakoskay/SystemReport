@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-10-23T14:35:57.131Z
+modified_date: 2026-10-29T14:54:50.152Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 31
+sources_count: 32
 author: "maya-chen"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-10-29** — iOS 27.2 gives Shortcuts app these new and improved features ([source](https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/))
 - **2026-10-23** — Retro gaming is being overrun with AI ([source](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port))
 - **2026-10-13** — Epic reportedly delays its Disney video game so it can be made using more AI ([source](https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/))
 - **2026-10-10** — Best Lego Gifts for Brick Builders (2026): Smart Bricks, Video Games, and More ([source](https://www.wired.com/gallery/gifts-for-lego-lovers/))

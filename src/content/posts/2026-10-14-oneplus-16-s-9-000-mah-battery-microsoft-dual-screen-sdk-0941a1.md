@@ -1,16 +1,17 @@
 ---
 title: "OnePlus 16’s 9,000 mAh Battery, Microsoft Dual‑Screen SDK"
 date: 2026-10-14T20:14:39.921Z
-modified_date: 2026-10-15T19:39:08.690Z
+modified_date: 2026-10-29T14:55:07.419Z
 tags: ["oneplus","microsoft","dual-screen","nanogenerator"]
 hero_image: "/hero/2026-10-14-oneplus-16-s-9-000-mah-battery-microsoft-dual-screen-sdk-0941a1.jpg"
 hero_image_credit_name: "Zayed Hossain"
 hero_image_credit_url: "https://www.pexels.com/@zayed-hossain-52728970"
 visual_keyword: "dual-screen developer workspace with code and snowflake motif"
 description: "Three tech moves: OnePlus unveils a 9,000 mAh phone, Microsoft releases a dual‑screen SDK, and UCLA engineers demo a snow‑driven generator."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 
 ## OnePlus 16 arrives with a 9,000 mAh battery
@@ -41,4 +42,5 @@ If OnePlus ships the 16 with fast‑charging support, the market will see whethe
 
 ## Updates
 
+- **2026-10-29** — Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5 ([source](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1))
 - **2026-10-15** — E Ink upgraded the screen found in most color e-readers ([source](https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness))

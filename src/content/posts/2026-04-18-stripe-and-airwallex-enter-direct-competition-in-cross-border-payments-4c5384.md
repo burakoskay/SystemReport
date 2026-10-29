@@ -1,18 +1,19 @@
 ---
 title: "Stripe and Airwallex Enter Direct Competition in Cross-Border Payments"
 date: 2026-04-18T12:44:39.856Z
-modified_date: 2026-09-21T16:09:42.017Z
+modified_date: 2026-10-29T14:53:52.673Z
 tags: ["fintech","cross-border payments","Stripe"]
 hero_image: "/hero/2026-04-18-stripe-and-airwallex-enter-direct-competition-in-cross-border-payments-4c5384.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "payments"
 description: "Stripe and Airwallex, once close acquisition targets, now compete directly in cross-border payments amid fintech valuation surge."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-04-18-stripe-and-airwallex-enter-direct-competition-in-cross-border-payments-4c5384.wav"
 audio_bytes: 3913006
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The direct competition between Stripe and Airwallex will likely drive innovation
 
 ## Updates
 
+- **2026-10-29** — Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race ([source](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/))
 - **2026-09-21** — Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo ([source](https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china))
 - **2026-08-21** — iPadOS 27 adds three features to make iPad more like the Mac ([source](https://9to5mac.com/2026/08/21/ipados-27-adds-three-features-to-make-ipad-more-like-the-mac/))
 - **2026-05-20** — Cuneflow's e-paper writing tablet uses AI to record and transcribe meetings ([source](https://www.engadget.com/2177708/cuneflows-e-paper-writing-tablet-uses-ai-to-record-and-transcribe-meetings/))

@@ -1,18 +1,20 @@
 ---
 title: "Bun support drops as Deno 2.8 debuts"
 date: 2026-05-22T20:09:15.603Z
+modified_date: 2026-10-29T14:54:56.200Z
 tags: ["bun","deno","javascript","runtime"]
 hero_image: "/hero/2026-05-22-bun-support-drops-as-deno-2-8-debuts-cb3274.jpg"
 hero_image_credit_name: "Nemuel Sereti"
 hero_image_credit_url: "https://www.pexels.com/@nemuel"
 visual_keyword: "developer terminal showing code with Bun and Deno logos"
 description: "Bun’s integration with yt‑dlp is deprecated while Deno rolls out version 2.8, shifting the balance for developers who rely on lightweight runtimes."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-05-22-bun-support-drops-as-deno-2-8-debuts-cb3274.mp3"
 audio_bytes: 585187
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Bun support is now limited and deprecated
 
@@ -47,3 +49,7 @@ Deno, by contrast, follows a more stable release policy and bundles its standard
 ## What to watch
 
 Developers should monitor the next yt‑dlp release notes for any official migration guide from Bun to Node.js or Deno. On the Deno side, keep an eye on the upcoming 2.9 release blog post for performance benchmarks that may influence runtime choice. The broader JavaScript runtime market will reveal whether Deno can absorb the users displaced by Bun’s deprecation or if a new contender will emerge to claim the speed niche.
+
+## Updates
+
+- **2026-10-29** — The education price of the MacBook Neo just jumped again ([source](https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/))

@@ -1,19 +1,20 @@
 ---
 title: "Social Media Lawsuits"
 date: 2026-08-11T06:58:13.919Z
-modified_date: 2026-09-24T19:44:47.159Z
+modified_date: 2026-10-29T14:55:23.934Z
 tags: ["Social Media","Lawsuits","Addiction","Regulation","Tech Industry"]
 hero_image: "/hero/2026-08-11-social-media-lawsuits-590f46.jpg"
 hero_image_credit_name: "Visual Tag Mx"
 hero_image_credit_url: "https://www.pexels.com/@visual-tag-mx-1321732"
 visual_keyword: "Social Media"
 description: "Thousands of user addiction lawsuits against social media platforms remain"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-11-social-media-lawsuits-590f46.mp3"
 audio_bytes: 612773
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 # Introduction to Litigation
@@ -53,4 +54,5 @@ The impact of social media on mental health is a complex issue, with many differ
 
 ## Updates
 
+- **2026-10-29** — The US added a record 20.2 GWh of battery storage in just 3 months ([source](https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/))
 - **2026-09-24** — Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen ([source](https://www.engadget.com/2267684/xiaomis-18-pro-series-phones-have-the-latest-snapdragon-chip-and-a-samsung-like-privacy-screen/))

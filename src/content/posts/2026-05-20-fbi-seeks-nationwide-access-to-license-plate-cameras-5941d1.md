@@ -1,15 +1,17 @@
 ---
 title: "FBI Seeks Nationwide Access to License Plate Cameras"
 date: 2026-05-20T04:06:19.632Z
+modified_date: 2026-10-29T14:53:47.514Z
 tags: ["FBI","License Plate Cameras","Surveillance"]
 hero_image: "/hero/2026-05-20-fbi-seeks-nationwide-access-to-license-plate-cameras-5941d1.jpg"
 hero_image_credit_name: "Will Freeman"
 hero_image_credit_url: "https://www.pexels.com/@will-freeman-2151994913"
 visual_keyword: "license plate camera"
 description: "FBI wants real-time access to license plate camera data to track vehicles across the US."
-sources_count: 1
+sources_count: 2
 author: "david-okafor"
 ---
+
 
 
 ## License Plate Surveillance Takes Center Stage
@@ -50,3 +52,6 @@ The FBI's plan to implement and oversee the use of LPR camera data is a complex 
 
 The consequences of the FBI's plan will likely be far-reaching. If the agency is able to access and search LPR camera data on a nationwide scale, it could potentially track the movements of millions of individuals. This could have significant implications for civil liberties, and could potentially be used to target certain groups or individuals based on their political or religious beliefs. It will be critical for the FBI to develop clear guidelines and safeguards to prevent such abuse, and to ensure that the technology is used in a way that is transparent and accountable.
 
+## Updates
+
+- **2026-10-29** — Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages ([source](https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/))

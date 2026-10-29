@@ -1,18 +1,20 @@
 ---
 title: "Apple Expands Wallet Keys, Moves iPhone Duo Dates"
 date: 2026-10-19T16:56:46.267Z
+modified_date: 2026-10-29T14:54:08.365Z
 tags: ["apple","technews","wallet","macbook","smartwatch"]
 hero_image: "/hero/2026-10-19-apple-expands-wallet-keys-moves-iphone-duo-dates-907b6b.jpg"
 hero_image_credit_name: "Federico Orlandi"
 hero_image_credit_url: "https://www.pexels.com/@federico-orlandi-1423142"
 visual_keyword: "a sleek laptop with a glowing touchscreen display beside a digital car key on a smartphone"
 description: "Apple widens CarKey support to GM brands, advances iPhone Duo deliveries, and teases a touchscreen MacBook, reshaping its ecosystem."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-19-apple-expands-wallet-keys-moves-iphone-duo-dates-907b6b.mp3"
 audio_bytes: 612982
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple just widened its Wallet CarKey support to three GM brands, nudged iPhone Duo deliveries forward, and dropped a hint about a touchscreen MacBook. The moves tighten Apple’s grip on daily tech interactions and set up fresh friction points.
 
@@ -41,3 +43,7 @@ Critics worry that the addition of a touch layer will compromise the MacBook’s
 The upcoming release also raises questions about pricing strategy. Apple has not disclosed a cost, but the inclusion of a high‑resolution touch panel suggests a premium tier. Early adopters will likely pay a significant premium, and the market response will inform whether Apple expands touch to other Mac lines.
 
 What to watch next: Apple will roll out CarKey support to GM models through a software update later this quarter. Keep an eye on the rollout timeline and any reported glitches in key synchronization. The iPhone Duo delivery dates will continue to shift; track Apple’s supply‑chain statements for signs of broader inventory moves. Finally, the touchscreen MacBook’s official specs and pricing will emerge at the November 6 launch event. Those details will reveal whether Apple is betting on a new form factor to revive MacBook sales or simply adding a niche option for developers.
+
+## Updates
+
+- **2026-10-29** — Anthropic is asking Wall Street to believe in AGI ([source](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview))

@@ -1,18 +1,20 @@
 ---
 title: "Google Opens 10th Store, Adapts to South Korea Law"
 date: 2026-04-25T21:01:35.212Z
+modified_date: 2026-10-29T14:54:39.680Z
 tags: ["google","app-store-compliance","sanctions-compliance","retail-expansion","tech-regulation"]
 hero_image: "/hero/2026-04-25-google-opens-10th-store-adapts-to-south-korea-law-1c7120.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "google store interior with android devices displayed on white counters"
 description: "Google expands US retail footprint and adjusts Android payments to meet new regulations, while facing scrutiny over sanctioned apps on Google Play."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-04-25-google-opens-10th-store-adapts-to-south-korea-law-1c7120.mp3"
 audio_bytes: 569305
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google’s Retail Push and Regulatory Adjustments
 
@@ -44,3 +46,7 @@ In the short term, Google’s retail expansion faces competition from Apple Stor
 
 
 Longer term, the sanctioned app saga underscores a systemic challenge: how to audit millions of apps for compliance with sanctions lists that update constantly. Both Google and Apple rely on automated screening tools, which TTP’s investigation shows remain blind to obvious violations. The next test will be whether regulators force stricter manual reviews or penalize companies for recurring lapses. For now, Google’s partial clean-up and vague commitments leave the door open for more sanctioned entities to exploit its platforms.
+
+## Updates
+
+- **2026-10-29** — Apple and Google fined in South Korea over app store violations ([source](https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/))
