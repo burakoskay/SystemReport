@@ -1,18 +1,20 @@
 ---
 title: "Google Unveils Googlebooks: AI-Powered Laptops"
 date: 2026-05-12T18:05:57.409Z
+modified_date: 2026-10-29T01:31:54.242Z
 tags: ["Googlebooks","AI-Powered Laptops","Android"]
 hero_image: "/hero/2026-05-12-google-unveils-googlebooks-ai-powered-laptops-ea0e4d.jpg"
 hero_image_credit_name: "Perfecto Capucine"
 hero_image_credit_url: "https://www.pexels.com/@perfecto-capucine-515848"
 visual_keyword: "Googlebooks"
 description: "Google introduces Googlebooks, AI-powered laptops built on Android, promising desktop-grade apps and AI-first features."
-sources_count: 2
-author: "ryan-tanaka"
+sources_count: 3
 audio_path: "/audio/2026-05-12-google-unveils-googlebooks-ai-powered-laptops-ea0e4d.mp3"
 audio_bytes: 617370
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Googlebooks Arrive as AI-Powered Laptop Contenders
@@ -51,3 +53,6 @@ With the growing demand for AI-powered devices, Google's new laptop platform is 
 
 The integration of AI in laptops has the potential to revolutionize various industries, such as education, healthcare, and finance. For instance, AI-powered laptops could enable more efficient data analysis, enhanced security features, and personalized learning experiences. However, there are also concerns about the potential limitations of AI-powered devices, such as data privacy and security risks. As Googlebooks continue to evolve, it will be essential to address these concerns and ensure that the benefits of AI-powered laptops are realized while minimizing potential drawbacks.
 
+## Updates
+
+- **2026-10-29** — Apple fined $15.5 million as South Korea orders changes to App Store rules ([source](https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules/))

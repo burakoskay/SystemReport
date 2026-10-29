@@ -1,19 +1,20 @@
 ---
 title: "Shimmer rolls out web ADHD coaching platform"
 date: 2026-06-04T10:08:40.931Z
-modified_date: 2026-09-29T20:25:11.732Z
+modified_date: 2026-10-29T01:30:00.610Z
 tags: ["adhd","coaching","web","startup"]
 hero_image: "/hero/2026-06-04-shimmer-rolls-out-web-adhd-coaching-platform-ace5cf.jpg"
 hero_image_credit_name: "Danik Prihodko"
 hero_image_credit_url: "https://www.pexels.com/@danikprihodko"
 visual_keyword: "person using laptop with ADHD coaching interface"
 description: "Shimmer launches a web‑based ADHD coaching platform, promising deeper focus and less phone distraction for its 60K‑plus community."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-04-shimmer-rolls-out-web-adhd-coaching-platform-ace5cf.mp3"
 audio_bytes: 604205
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,5 +52,6 @@ The next milestone will be the platform’s adoption rate after the initial laun
 
 ## Updates
 
+- **2026-10-29** — The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal ([source](https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/))
 - **2026-09-29** — Apple faces renewed scrutiny over removal of ICEBlock from the App Store ([source](https://9to5mac.com/2026/09/29/apple-faces-renewed-scrutiny-over-removal-of-iceblock-from-the-app-store/))
 - **2026-09-08** — The first trailer for the Sam Altman biopic is damn creepy ([source](https://www.engadget.com/2253048/the-first-trailer-for-the-sam-altman-biopic-is-damn-creepy/))

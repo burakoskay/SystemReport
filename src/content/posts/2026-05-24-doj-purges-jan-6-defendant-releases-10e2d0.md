@@ -1,19 +1,20 @@
 ---
 title: "DOJ Purges Jan. 6 Defendant Releases"
 date: 2026-05-24T13:47:25.480Z
-modified_date: 2026-10-21T14:49:51.641Z
+modified_date: 2026-10-29T01:29:51.173Z
 tags: ["DOJ","cannabis","eBay","regulation"]
 hero_image: "/hero/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.jpg"
 hero_image_credit_name: "Mark Stebnicki"
 hero_image_credit_url: "https://www.pexels.com/@nc-farm-bureau-mark"
 visual_keyword: "Justice Department"
 description: "The Justice Department's recent actions signal a more aggressive, digitally-focused enforcement posture."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-24-doj-purges-jan-6-defendant-releases-10e2d0.mp3"
 audio_bytes: 606294
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The next steps in the government's approach to these issues will likely be close
 
 ## Updates
 
+- **2026-10-29** — Microsoft recorded $10 billion in revenue from OpenAI ([source](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/))
 - **2026-10-21** — Europe Wants Data Centers. Its Climate Goals Are Getting in the Way ([source](https://www.wired.com/story/europe-data-centers-climate-change/))
 - **2026-10-14** — Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data? ([source](https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy))
 - **2026-09-22** — iOS 27: How to hide or replace the audio button in iMessages ([source](https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/))

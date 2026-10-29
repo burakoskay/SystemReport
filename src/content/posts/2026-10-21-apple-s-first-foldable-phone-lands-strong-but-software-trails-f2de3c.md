@@ -1,18 +1,20 @@
 ---
 title: "Apple’s First Foldable Phone Lands Strong but Software Trails"
 date: 2026-10-21T20:00:22.263Z
+modified_date: 2026-10-29T01:31:44.825Z
 tags: ["apple","foldable","mobile","software","hardware"]
 hero_image: "/hero/2026-10-21-apple-s-first-foldable-phone-lands-strong-but-software-trails-f2de3c.jpg"
 hero_image_credit_name: "Gantas Vaičiulėnas"
 hero_image_credit_url: "https://www.pexels.com/@gantas"
 visual_keyword: "foldable smartphone with sleek hinge on a modern desk"
 description: "Apple’s iPhone Duo impresses on hardware but iOS and apps lag, while rivals roll out new headsets and VR services."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-21-apple-s-first-foldable-phone-lands-strong-but-software-trails-f2de3c.mp3"
 audio_bytes: 564706
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple finally shipped a foldable phone that feels solid enough to use daily. The iPhone Duo arrives as Apple’s first attempt at a folding device, and reviewers immediately note its build quality.
 
@@ -45,3 +47,7 @@ Developers are already filing tickets with Apple to request dual‑screen APIs. 
 ## What to Watch
 
 The next iOS beta that includes official foldable support will be the litmus test for the iPhone Duo’s long‑term viability. Keep an eye on Apple’s WWDC announcements for any mention of dual‑screen APIs. Sony’s Pulse headset launch will reveal whether the market embraces lower‑cost audio accessories for consoles. Finally, subscription uptake for Supernatural’s VR workouts will indicate if fitness can sustain a premium VR ecosystem. Together, these signals will shape how quickly the industry moves beyond hardware novelty toward integrated experiences.
+
+## Updates
+
+- **2026-10-29** — iPhone Duo could capture nearly 30% of foldable market in 2027, per report ([source](https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/))

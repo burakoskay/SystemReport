@@ -1,16 +1,17 @@
 ---
 title: "AI-Powered Toys Spark Concerns Over Children's Safety"
 date: 2026-05-08T11:26:20.240Z
-modified_date: 2026-09-15T07:04:43.931Z
+modified_date: 2026-10-29T01:30:57.521Z
 tags: ["AI","toys","children's safety"]
 hero_image: "/hero/2026-05-08-ai-powered-toys-spark-concerns-over-children-s-safety-6aca40.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI-powered toys"
 description: "Connected companions for kids raise red flags among lawmakers, while AI technology continues to advance in various sectors."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The next step for lawmakers and regulators will be to determine the appropriate 
 
 ## Updates
 
+- **2026-10-29** — Readwise is taking on Kindle and Kobo for ebook supremacy ([source](https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store))
 - **2026-09-15** — Valve is still figuring out ‘how and when’ to do Steam Deck 2 ([source](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when))
 - **2026-08-20** — The 3 Best USB Phone Chargers (2026): Anker, DeWalt ([source](https://www.wired.com/story/best-usb-car-chargers/))
 - **2026-06-04** — Steam Machine and Steam Frame are coming 'this summer' ([source](https://www.engadget.com/2187938/steam-machine-and-steam-frame-are-coming-this-summer/))

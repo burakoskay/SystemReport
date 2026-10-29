@@ -1,15 +1,17 @@
 ---
 title: "Android Deals Spike as Pocket Casts Hits TV, Hardware Prices Dive"
 date: 2026-10-14T20:08:48.191Z
+modified_date: 2026-10-29T01:30:29.145Z
 tags: ["android","deals","hardware","apps","tv"]
 hero_image: "/hero/2026-10-14-android-deals-spike-as-pocket-casts-hits-tv-hardware-prices-dive-cc82c0.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Android smartphone and smartwatch with discount price tags"
 description: "Google Play app discounts, Pocket Casts on Android TV, and deep hardware cuts reshape the Android ecosystem this week."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Android app deals flood Google Play midweek
 
@@ -48,3 +50,7 @@ On the software side, monitor Android TV’s app catalog growth. If Pocket Casts
 Finally, keep an eye on how accessory makers like Anker and TP‑Link adjust their pricing after the initial discount wave. A rebound in prices could indicate that retailers are simply clearing excess stock, whereas stable low prices would signal a new baseline for Android hardware affordability.
 
 The convergence of app discounts, TV app expansion, and hardware price cuts could reshape user expectations across the Android ecosystem. The real test will be whether these moves translate into lasting market share gains or remain short‑term sales spikes.
+
+## Updates
+
+- **2026-10-29** — Adam Mosseri says negativity around AI is ‘going to get worse’ ([source](https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity))
