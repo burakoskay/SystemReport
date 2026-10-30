@@ -1,15 +1,17 @@
 ---
 title: "Meta Acquires Robotics AI Startup Assured Robot Intelligence"
 date: 2026-05-02T16:59:58.297Z
+modified_date: 2026-10-30T20:19:46.538Z
 tags: ["Meta","Assured Robot Intelligence","Superintelligence Labs","AI Acquisition","Humanoid Robots"]
 hero_image: "/hero/2026-05-02-meta-acquires-robotics-ai-startup-assured-robot-intelligence-db9432.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Humanoid Robotic Perception"
 description: "Meta's purchase of ARI signals continued AI acquisition trends seen in tech giants"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Meta has acquired Assured Robot Intelligence (ARI), a robotics AI startup, to bolster its Superintelligence Labs division. The acquisition adds ARI staff to Meta's AI research infrastructure just as major tech companies intensify investments in embodied intelligence systems.
 
@@ -40,3 +42,7 @@ Regulatory scrutiny adds another layer of complexity. The European Union's AI Ac
 ## What to Watch
 
 The immediate technical benchmark will be Meta's first prototype demonstration from the combined ARI-Labs team. Industry observers will track whether the company can produce a functional humanoid robot. More critically, the integration of ARI's research into Meta's existing AI frameworks will determine the practical value of this acquisition beyond talent consolidation. Regulators will also assess whether these rapid AI acquisitions create new market concentration risks, potentially triggering antitrust investigations.
+
+## Updates
+
+- **2026-10-30** — Google says Android Auto video apps are still ‘coming soon’ as deadline nears ([source](https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline/))

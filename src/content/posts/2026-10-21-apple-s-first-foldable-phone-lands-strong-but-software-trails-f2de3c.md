@@ -1,19 +1,20 @@
 ---
 title: "Apple’s First Foldable Phone Lands Strong but Software Trails"
 date: 2026-10-21T20:00:22.263Z
-modified_date: 2026-10-29T01:31:44.825Z
+modified_date: 2026-10-30T20:19:03.930Z
 tags: ["apple","foldable","mobile","software","hardware"]
 hero_image: "/hero/2026-10-21-apple-s-first-foldable-phone-lands-strong-but-software-trails-f2de3c.jpg"
 hero_image_credit_name: "Gantas Vaičiulėnas"
 hero_image_credit_url: "https://www.pexels.com/@gantas"
 visual_keyword: "foldable smartphone with sleek hinge on a modern desk"
 description: "Apple’s iPhone Duo impresses on hardware but iOS and apps lag, while rivals roll out new headsets and VR services."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-10-21-apple-s-first-foldable-phone-lands-strong-but-software-trails-f2de3c.mp3"
 audio_bytes: 564706
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple finally shipped a foldable phone that feels solid enough to use daily. The iPhone Duo arrives as Apple’s first attempt at a folding device, and reviewers immediately note its build quality.
@@ -50,4 +51,5 @@ The next iOS beta that includes official foldable support will be the litmus tes
 
 ## Updates
 
+- **2026-10-30** — I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job ([source](https://www.wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/))
 - **2026-10-29** — iPhone Duo could capture nearly 30% of foldable market in 2027, per report ([source](https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report/))

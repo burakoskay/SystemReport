@@ -1,19 +1,20 @@
 ---
 title: "Apple Expands Wallet Keys, Moves iPhone Duo Dates"
 date: 2026-10-19T16:56:46.267Z
-modified_date: 2026-10-29T14:54:08.365Z
+modified_date: 2026-10-30T20:20:02.878Z
 tags: ["apple","technews","wallet","macbook","smartwatch"]
 hero_image: "/hero/2026-10-19-apple-expands-wallet-keys-moves-iphone-duo-dates-907b6b.jpg"
 hero_image_credit_name: "Federico Orlandi"
 hero_image_credit_url: "https://www.pexels.com/@federico-orlandi-1423142"
 visual_keyword: "a sleek laptop with a glowing touchscreen display beside a digital car key on a smartphone"
 description: "Apple widens CarKey support to GM brands, advances iPhone Duo deliveries, and teases a touchscreen MacBook, reshaping its ecosystem."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-10-19-apple-expands-wallet-keys-moves-iphone-duo-dates-907b6b.mp3"
 audio_bytes: 612982
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple just widened its Wallet CarKey support to three GM brands, nudged iPhone Duo deliveries forward, and dropped a hint about a touchscreen MacBook. The moves tighten Apple’s grip on daily tech interactions and set up fresh friction points.
@@ -46,4 +47,5 @@ What to watch next: Apple will roll out CarKey support to GM models through a so
 
 ## Updates
 
+- **2026-10-30** — Hands-on time with the iPhone Duo still leaves me wowed ([source](https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed/))
 - **2026-10-29** — Anthropic is asking Wall Street to believe in AGI ([source](https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview))

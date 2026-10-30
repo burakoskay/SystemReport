@@ -1,19 +1,20 @@
 ---
 title: "CAR-T Hints at HIV Control"
 date: 2026-05-18T15:47:37.264Z
-modified_date: 2026-09-12T20:01:22.641Z
+modified_date: 2026-10-30T20:19:14.518Z
 tags: ["car-t","hiv","firearms","bmw","gaming"]
 hero_image: "/hero/2026-05-18-car-t-hints-at-hiv-control-63d5d9.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "high-tech collage of lab cells, tactical trainer, manual sports car interior, comic heroes battling"
 description: "A small CAR‑T study hints at HIV control, an ICE trainer faces murder probes, BMW unveils a manual‑gear M3 CS, and Marvel adds Cyclops and The Thing to its beat‑em‑up."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-18-car-t-hints-at-hiv-control-63d5d9.mp3"
 audio_bytes: 621968
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ The CAR‑T HIV effort will move to a phase‑2 trial later this year; its enrol
 
 ## Updates
 
+- **2026-10-30** — The delightfully messy state of Apple gadgets ([source](https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets))
 - **2026-09-12** — OpenAI agents hacked a software service before the Hugging Face incident ([source](https://www.engadget.com/2256741/openai-agents-hacked-rubygems/))
 - **2026-07-31** — The ban on robot vacuums won’t make them safer, only worse ([source](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices))

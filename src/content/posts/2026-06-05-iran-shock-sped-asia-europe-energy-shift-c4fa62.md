@@ -1,19 +1,20 @@
 ---
 title: "Iran Shock Sped Asia-Europe Energy Shift"
 date: 2026-06-05T10:08:57.642Z
-modified_date: 2026-10-15T22:51:53.478Z
+modified_date: 2026-10-30T20:19:09.229Z
 tags: ["energy","ai","policy","environment"]
 hero_image: "/hero/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "oil refinery juxtaposed with wind turbines"
 description: "Iran's latest conflict has forced Asian and European leaders to rush renewable policies while U.S. energy education and AI tools reshape the sustainability narrative."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-05-iran-shock-sped-asia-europe-energy-shift-c4fa62.mp3"
 audio_bytes: 590203
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ What to watch: the European Commission’s upcoming “Renewables Acceleration P
 
 ## Updates
 
+- **2026-10-30** — Google&#8217;s satellite AI server transmits its first response to Earth ([source](https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission))
 - **2026-10-15** — The UK may expand the BBC license fee, charging residents to watch streaming services ([source](https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/))
 - **2026-10-12** — Google Fitbit Edge: Specs, Features, Price, Release Date ([source](https://www.wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen/))
 - **2026-09-11** — Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places ([source](https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review/))

@@ -1,16 +1,17 @@
 ---
 title: "India's Snabbit Secures $56M for On-Demand Home Services"
 date: 2026-04-28T03:42:12.098Z
-modified_date: 2026-09-02T17:51:14.841Z
+modified_date: 2026-10-30T20:20:08.191Z
 tags: ["on-demand home services","Snabbit","funding round"]
 hero_image: "/hero/2026-04-28-india-s-snabbit-secures-56m-for-on-demand-home-services-345671.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "on-demand home services"
 description: "Snabbit raises $56M as it processes 40,000 daily jobs in on-demand home services."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ The Indian on-demand home services market is highly competitive, with several es
 
 ## Updates
 
+- **2026-10-30** — Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more ([source](https://9to5mac.com/2026/10/30/deals-black-friday-doorbusters-airtag-2-homeview-ultra-4/))
 - **2026-09-02** — Google Home update restores support for older Chromecast streamers, Home Mini ([source](https://9to5google.com/2026/09/02/google-home-chromecast-mini-support-update/))
 - **2026-08-15** — What is a Bluetooth codec and which one offers the best audio quality? ([source](https://www.engadget.com/2236801/what-is-bluetooth-codec-which-offers-best-audio-quality/))
 - **2026-05-08** — Engadget Podcast: Gamestop's wild eBay gamble ([source](https://www.engadget.com/2167771/engadget-podcast-gamestops-wild-ebay-gamble/))

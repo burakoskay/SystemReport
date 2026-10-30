@@ -1,16 +1,17 @@
 ---
 title: "TikTok settles for $400M as regulators tighten grip on social"
 date: 2026-08-23T04:37:02.845Z
-modified_date: 2026-10-20T22:55:37.781Z
+modified_date: 2026-10-30T20:18:58.666Z
 tags: ["privacy","law","tech","settlement","socialmedia"]
 hero_image: "/hero/2026-08-23-tiktok-settles-for-400m-as-regulators-tighten-grip-on-social-1997fe.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "courtroom with tech company logos and legal documents"
 description: "TikTok pays $400 million to end a DOJ COPPA case while Meta faces a child‑safety lawsuit and other firms grapple with consumer‑protection scrutiny."
-sources_count: 6
+sources_count: 7
 author: "lena-volkov"
 ---
+
 
 
 TikTok agreed to pay $400 million to settle a DOJ claim it breached the Children’s Online Privacy Protection Act. The settlement ends a two‑year investigation that began after the Justice Department alleged the video app collected data from minors without parental consent.
@@ -41,4 +42,5 @@ The TikTok settlement sets a precedent for how the DOJ may pursue COPPA violatio
 
 ## Updates
 
+- **2026-10-30** — People Are Creating ‘Survival Guides’ to Cope With the ‘AO3 Apocalypse’ ([source](https://www.wired.com/story/people-are-creating-survival-guides-to-cope-with-the-ao3-apocalypse/))
 - **2026-10-20** — Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix ([source](https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/))

@@ -1,16 +1,17 @@
 ---
 title: "GitHub lists simplify CUDA learning"
 date: 2026-05-17T23:00:27.010Z
-modified_date: 2026-08-12T16:54:12.952Z
+modified_date: 2026-10-30T20:19:30.480Z
 tags: ["cuda","gpgpu","opensource","mlops","deep-learning"]
 hero_image: "/hero/2026-05-17-github-lists-simplify-cuda-learning-5e872a.jpg"
 hero_image_credit_name: "Rashed Paykary"
 hero_image_credit_url: "https://www.pexels.com/@peaky"
 visual_keyword: "developer coding on a GPU terminal with code snippets displayed"
 description: "New GitHub lists, Triton‑based PyTorch layers, and dynamic GPU sharing runtimes are making GPU development faster and more accessible."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ The next few months will reveal whether these tools gain traction beyond their i
 
 ## Updates
 
+- **2026-10-30** — Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’ ([source](https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai))
 - **2026-08-12** — MacBook Air shortages are getting worse, here’s where to buy one ([source](https://9to5mac.com/2026/08/12/macbook-air-shortages-where-to-buy-one-now/))
 - **2026-07-31** — New York sues Kalshi for allegedly running an ‘illegal gambling operation’ ([source](https://www.theverge.com/tech/973709/new-york-kalshi-lawsuit-illegal-gambling-operation))
 - **2026-07-30** — Govee&#8217;s portable smart lamp is down to one of its best prices to date ([source](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale))
