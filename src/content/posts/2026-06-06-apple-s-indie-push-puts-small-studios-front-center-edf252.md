@@ -1,19 +1,20 @@
 ---
 title: "Apple's Indie Push Puts Small Studios Front-Center"
 date: 2026-06-06T17:21:35.755Z
-modified_date: 2026-10-16T02:42:15.260Z
+modified_date: 2026-10-30T07:58:31.260Z
 tags: ["Apple","Indie Games","Simogo","Device 6","Supermash","Nintendo","Game Development"]
 hero_image: "/hero/2026-06-06-apple-s-indie-push-puts-small-studios-front-center-edf252.jpg"
 hero_image_credit_name: "Michael Kessel"
 hero_image_credit_url: "https://www.pexels.com/@michael-kessel-112079563"
 visual_keyword: "indie-games"
 description: "Apple adds a permanent Indie Game Showcase to the App Store, while Supermash, a genre-bending indie title, lands on Switch."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-06-apple-s-indie-push-puts-small-studios-front-center-edf252.mp3"
 audio_bytes: 554676
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,5 +56,6 @@ The gaming industry has responded positively to Apple's indie-focused initiative
 
 ## Updates
 
+- **2026-10-30** — Waymo taps Toyota to supply robotaxis for Japan and the U.K. ([source](https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/))
 - **2026-10-16** — KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell ([source](https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/))
 - **2026-08-26** — Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety ([source](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/))

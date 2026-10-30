@@ -1,18 +1,20 @@
 ---
 title: "Space Timelines Slip While Code Complexity Grows"
 date: 2026-10-15T19:45:31.400Z
+modified_date: 2026-10-30T07:58:44.098Z
 tags: ["space","software","nasa","rocketlab","async"]
 hero_image: "/hero/2026-10-15-space-timelines-slip-while-code-complexity-grows-947c3c.jpg"
 hero_image_credit_name: "Fabio Mariano"
 hero_image_credit_url: "https://www.pexels.com/@fabio-mariano-2406887"
 visual_keyword: "lunar module orbiting moon with stars background"
 description: "NASA’s Artemis III rehearsal, Rocket Lab’s Neutron delay, and the tangled async/await landscape reveal how progress in space and software is often slower than hype."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-15-space-timelines-slip-while-code-complexity-grows-947c3c.mp3"
 audio_bytes: 571186
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Artemis III is a dress rehearsal, not a landing
 NASA’s Artemis III mission will orbit the Moon and return astronauts to lunar orbit, but the lander portion has been stripped from the plan. The agency frames the flight as a rehearsal for the next crewed touchdown.
@@ -43,3 +45,7 @@ The gap between Asimov’s foresight and current capability mirrors the disconne
 
 ## What to watch next
 Track NASA’s Artemis IV launch window, which will attempt the first lunar surface landing since the program’s inception. Keep an eye on Rocket Lab’s revised Neutron timeline; a confirmed date will signal whether the company can recover its cadence. In software, monitor the adoption of standardized async semantics in safety‑critical aerospace codebases, as any convergence could reduce the hidden bugs highlighted by the async/await design study. Finally, watch how community projects like Naev evolve—new mission packs or multiplayer modes could illustrate how open‑source collaboration can accelerate prototyping for real‑world space scenarios.
+
+## Updates
+
+- **2026-10-30** — El Niño is flooding California's coasts with the highest tides to come ([source](https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574))
