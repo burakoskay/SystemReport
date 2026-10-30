@@ -1,15 +1,17 @@
 ---
 title: "Zig sharpens ELF linker in latest devlog"
 date: 2026-05-31T04:29:05.427Z
+modified_date: 2026-10-30T01:30:41.097Z
 tags: ["zig","linker","programming-language","systems"]
 hero_image: "/hero/2026-05-31-zig-sharpens-elf-linker-in-latest-devlog-b37c62.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "terminal window showing Zig compiler output with ELF binary details"
 description: "Zig’s May 30 devlog rolls out ELF linker tweaks, sparking debate over performance, usability, and the language’s minimalist ethos."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Zig posted a devlog on May 30 2026 announcing a batch of ELF linker improvements. The entry instantly gathered 180 points and 52 comments on Hacker News, signalling strong community interest in how the change will affect Zig’s low‑level toolchain.
 
@@ -48,3 +50,7 @@ Critics have pointed out that Zig can be “too verbose in all the wrong places,
 ## What to watch next
 
 The next milestone for Zig will be the integration of these linker changes into the stable 0.12 release, slated for later this year. Keep an eye on the Zig GitHub repository for the upcoming pull‑request that formalizes the ELF linker tweaks, and watch the Hacker News thread for follow‑up benchmarks. If the community’s concerns about legacy compatibility prove significant, we may see a compatibility shim or a migration guide in the upcoming release notes. Either way, the evolution of Zig’s linker will be a bellwether for how the language balances safety, performance, and the pragmatic needs of its growing user base.
+
+## Updates
+
+- **2026-10-30** — What to Know About China’s Top-Secret Spaceplane ([source](https://www.wired.com/story/what-to-know-about-chinas-top-secret-spaceplane/))

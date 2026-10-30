@@ -1,19 +1,20 @@
 ---
 title: "Katie Haun Raises $1B for Crypto Venture Funds"
 date: 2026-05-04T19:48:30.545Z
-modified_date: 2026-10-24T17:10:19.793Z
+modified_date: 2026-10-30T01:31:13.172Z
 tags: ["crypto","blockchain","venture funds"]
 hero_image: "/hero/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "crypto"
 description: "Katie Haun's new venture funds raise $1B to back crypto and blockchain startups."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.mp3"
 audio_bytes: 588531
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ As the ecosystem continues to evolve, it will be important for investors and ent
 
 ## Updates
 
+- **2026-10-30** — Touchscreen MacBook Pro with OLED, new iPad mini, and more ([source](https://9to5mac.com/2026/10/29/happy-hour-614/))
 - **2026-10-24** — LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday ([source](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale))
 - **2026-10-19** — Router and modem or gateway: What's actually in your home network? ([source](https://www.engadget.com/2286663/router-modem-gateway-whats-in-home-network/))
 - **2026-10-15** — We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView ([source](https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/))

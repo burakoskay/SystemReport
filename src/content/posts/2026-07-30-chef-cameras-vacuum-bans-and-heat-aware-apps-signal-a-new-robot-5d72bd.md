@@ -1,15 +1,17 @@
 ---
 title: "Chef Cameras, Vacuum Bans and Heat‑Aware Apps Signal a New Robot"
 date: 2026-07-30T11:56:07.799Z
+modified_date: 2026-10-30T01:30:57.229Z
 tags: ["robotics","ai","regulation","consumer-tech"]
 hero_image: "/hero/2026-07-30-chef-cameras-vacuum-bans-and-heat-aware-apps-signal-a-new-robot-5d72bd.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "camera-equipped chef recording kitchen motions for robot training"
 description: "A German startup filmed a home‑cooked meal to train humanoids, Washington barred foreign robot vacuums, and Runna added heat‑adjusted pacing—three signs of shifting robot economics."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## A chef's kitchen becomes a data lab
 
@@ -52,3 +54,7 @@ Monitor how robot vacuum manufacturers respond to the ban. Relocation of product
 Track Runna's adoption metrics and any competitor moves to add climate‑aware training. If heat‑adjusted pacing proves popular, we may see similar context‑aware features in robot navigation and manipulation software.
 
 The convergence of kitchen data labs, regulatory pressure and adaptive consumer apps hints at a robot ecosystem that must balance performance, privacy and compliance.
+
+## Updates
+
+- **2026-10-30** — The director of Obsession put a new horror short on YouTube ([source](https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear))

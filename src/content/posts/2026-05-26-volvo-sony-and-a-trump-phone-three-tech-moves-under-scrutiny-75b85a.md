@@ -1,16 +1,17 @@
 ---
 title: "Volvo, Sony, and a Trump Phone: Three Tech Moves Under Scrutiny"
 date: 2026-05-26T23:17:44.097Z
-modified_date: 2026-10-22T19:43:19.444Z
+modified_date: 2026-10-30T01:31:07.816Z
 tags: ["volvo","sony","trump-phone","tech-regulation","gaming"]
 hero_image: "/hero/2026-05-26-volvo-sony-and-a-trump-phone-three-tech-moves-under-scrutiny-75b85a.jpg"
 hero_image_credit_name: "Athena Sandrini"
 hero_image_credit_url: "https://www.pexels.com/@athena"
 visual_keyword: "connected car dashboard, gaming console controller, gold smartphone on desk"
 description: "Volvo clears US connected‑car hurdle, Sony pulls Destruction AllStars, and a gold Trump phone ships amid design controversy."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ What to watch next: The Federal Trade Commission is expected to release guidance
 
 ## Updates
 
+- **2026-10-30** — Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027 ([source](https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027/))
 - **2026-10-22** — Orangetheory adds Apple Watch in-studio workout tracking for a one-time fee ([source](https://9to5mac.com/2026/10/22/orangetheory-adds-apple-watch-in-studio-workout-tracking-for-a-one-time-fee/))
 - **2026-08-21** — Revisiting Apple Watch Edition: Hands-on with the white ceramic Series 5 ([source](https://9to5mac.com/2026/08/21/apple-watch-series-5-edition/))
 - **2026-07-27** — YouTube Premium will include Peacock starting next year ([source](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal))
