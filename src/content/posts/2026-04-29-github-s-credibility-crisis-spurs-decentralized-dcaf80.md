@@ -1,16 +1,17 @@
 ---
 title: "GitHub’s Credibility Crisis Spurs Decentralized"
 date: 2026-04-29T14:28:41.142Z
-modified_date: 2026-10-02T21:43:48.572Z
+modified_date: 2026-10-30T14:52:24.249Z
 tags: ["github","open-source","decentralization","ai"]
 hero_image: "/hero/2026-04-29-github-s-credibility-crisis-spurs-decentralized-dcaf80.jpg"
 hero_image_credit_name: "Antoni Shkraba Studio"
 hero_image_credit_url: "https://www.pexels.com/@shkrabaanthony"
 visual_keyword: "developer working at a laptop with code overlays and decentralized network icons"
 description: "HashiCorp co‑founder slams GitHub, while Radicle, Dutch government, and AI tools reshape where developers collaborate."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 GitHub’s reputation took a public hit on April 29, 2026 when HashiCorp co‑founder Mitchell Hashimoto declared the service “no longer a place for serious work.” The comment landed on The Register and quickly spread across Hacker News, where it sparked a 255‑point discussion.
@@ -53,4 +54,5 @@ The next quarter will reveal whether Radicle’s peer‑to‑peer model can scal
 
 ## Updates
 
+- **2026-10-30** — Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire ([source](https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/))
 - **2026-10-02** — It’s not AI anymore, it’s ‘super intelligence’ (according to the White House) ([source](https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/))

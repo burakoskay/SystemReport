@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
-modified_date: 2026-10-15T14:37:34.560Z
+modified_date: 2026-10-30T14:53:19.175Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ In the near future, we can expect to see more devices like the Ulticam IQ V2 eme
 
 ## Updates
 
+- **2026-10-30** — Waymo and Toyota will soon start testing their robotaxis in Japan ([source](https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/))
 - **2026-10-15** — Amazon’s Bee launches two new personal AI devices, starting at $75 ([source](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/))
 - **2026-09-24** — New York Times Cooking is coming to Meta's AI and display glasses ([source](https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/))
 - **2026-09-15** — 2028 Volvo XC60 and XC90 first look: Double the range and smarter safety, too ([source](https://www.engadget.com/2255878/2028-volvo-xc60-and-xc90-first-look/))

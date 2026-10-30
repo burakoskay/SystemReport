@@ -1,16 +1,17 @@
 ---
 title: "Meta expands AI wearables while tightening visual data privacy"
 date: 2026-09-24T08:57:38.240Z
-modified_date: 2026-10-03T17:44:31.133Z
+modified_date: 2026-10-30T14:52:59.325Z
 tags: ["meta","smart glasses","ai","privacy"]
 hero_image: "/hero/2026-09-24-meta-expands-ai-wearables-while-tightening-visual-data-privacy-436a51.jpg"
 hero_image_credit_name: "Arpit Brandings"
 hero_image_credit_url: "https://www.pexels.com/@arpit-brandings-1363149455"
 visual_keyword: "futuristic smart glasses with sleek frames on a neutral background"
 description: "Meta rolls out Muse Charm, updates Ray‑Ban Meta Gen 3 glasses, and adds an opt‑out for visual data training, reshaping its smart‑glass strategy."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ The next quarter will reveal whether the opt‑out for visual data training impa
 
 ## Updates
 
+- **2026-10-30** — Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop ([source](https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview))
 - **2026-10-03** — This is one of the cheapest ways to add Dolby Atmos to your TV ([source](https://www.engadget.com/2273325/cheapest-way-add-dolby-atmos-tv/))
 - **2026-09-30** — Apple Pay now rolling out to Axis Bank customers in India [U] ([source](https://9to5mac.com/2026/09/29/apple-pay-now-rolling-out-to-axis-bank-customers-in-india/))

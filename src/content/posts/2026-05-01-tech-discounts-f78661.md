@@ -1,19 +1,20 @@
 ---
 title: "Tech Discounts"
 date: 2026-05-01T09:51:32.747Z
-modified_date: 2026-10-30T01:30:51.882Z
+modified_date: 2026-10-30T14:53:44.413Z
 tags: ["tech discounts","promo codes","online shopping"]
 hero_image: "/hero/2026-05-01-tech-discounts-f78661.jpg"
 hero_image_credit_name: "Nataliya Vaitkevich"
 hero_image_credit_url: "https://www.pexels.com/@n-voitkevich"
 visual_keyword: "promo codes"
 description: "Exclusive promo codes for Dell, Google Workspace, and more. Save up to 20% on laptops, software, and services."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-01-tech-discounts-f78661.mp3"
 audio_bytes: 628655
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The use of promo codes can have a significant impact on consumer behavior. As pe
 
 ## Updates
 
+- **2026-10-30** — Ask HN: Are you tired too in this AI era? ([source](https://news.ycombinator.com/item?id=50301479))
 - **2026-10-30** — Many of UGREEN’s best NAS units are 10-15% off right now ([source](https://9to5google.com/2026/10/29/many-of-ugreens-best-nas-units-are-10-15-off-right-now/))
 - **2026-10-14** — Vimeo Promo Codes and Discounts: Up to 40% Off This October 2026 ([source](https://www.wired.com/story/vimeo-promo-code/))
 - **2026-10-13** — Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more ([source](https://9to5mac.com/2026/10/13/deals-m5-pro-macbook-pro-mac-mini-airpods-pro-3/))

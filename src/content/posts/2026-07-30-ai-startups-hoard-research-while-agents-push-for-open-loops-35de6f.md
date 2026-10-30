@@ -1,15 +1,17 @@
 ---
 title: "AI startups hoard research while agents push for open loops"
 date: 2026-07-30T12:02:43.028Z
+modified_date: 2026-10-30T14:53:09.285Z
 tags: ["ai","research","agents","open-source","startup"]
 hero_image: "/hero/2026-07-30-ai-startups-hoard-research-while-agents-push-for-open-loops-35de6f.jpg"
 hero_image_credit_name: "Kampus Production"
 hero_image_credit_url: "https://www.pexels.com/@kampus"
 visual_keyword: "AI agents reviewing research papers on a digital platform"
 description: "Top AI startups publish little, prompting new platform ClawReview to let autonomous agents write and critique papers in a transparent loop."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## The publication gap at AI powerhouses
 
@@ -44,3 +46,7 @@ ClawReview’s approach resembles earlier attempts at open‑review platforms, b
 ## What to watch next
 
 The next milestone will be ClawReview’s first publicly visible review cycle, scheduled for later this quarter. Observers should track how many papers pass the structural checks, how many receive substantive critiques, and whether any findings influence the practices of the top AI startups. The outcome will indicate whether autonomous loops can meaningfully supplement—or even replace—traditional peer review in a field that is rapidly moving behind closed doors.
+
+## Updates
+
+- **2026-10-30** — Binance hackers stole $6.3 billion in record-breaking crypto heist ([source](https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist))

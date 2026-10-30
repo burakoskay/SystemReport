@@ -1,16 +1,17 @@
 ---
 title: "Colorado Leads on Right to Repair, As Federal Bills Stall"
 date: 2026-04-28T19:56:24.994Z
-modified_date: 2026-09-11T08:29:18.257Z
+modified_date: 2026-10-30T14:52:44.348Z
 tags: ["right to repair","colorado","sustainability","electronics"]
 hero_image: "/hero/2026-04-28-colorado-leads-on-right-to-repair-as-federal-bills-stall-4de731.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "a person repairing a smartphone"
 description: "Colorado passes landmark right to repair bill, bucking trend of tech industry opposition. The legislation ensures consumers and repair shops can fix their own devices."
-sources_count: 10
+sources_count: 11
 author: "lena-volkov"
 ---
+
 
 
 
@@ -72,6 +73,7 @@ These are just a few of the questions that will be on the minds of consumers and
 
 ## Updates
 
+- **2026-10-30** — This electric screwdriver uses a camera and AI to figure out what bit you need ([source](https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter))
 - **2026-09-11** — Detecting and countering misuse of AI: September 2026 ([source](https://www.anthropic.com/threat-intelligence-report-september-2026))
 - **2026-08-27** — Here’s all the times AI has gone rogue and hacked other companies ([source](https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/))
 - **2026-08-20** — Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities ([source](https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/))

@@ -1,16 +1,17 @@
 ---
 title: "Porsche Discontinues Performance E-Bike Division"
 date: 2026-05-09T19:10:29.181Z
-modified_date: 2026-07-28T22:55:23.206Z
+modified_date: 2026-10-30T14:53:34.175Z
 tags: ["Porsche","e-bike","micromobility"]
 hero_image: "/hero/2026-05-09-porsche-discontinues-performance-e-bike-division-e1071a.jpg"
 hero_image_credit_name: "Motor TruckRun"
 hero_image_credit_url: "https://www.pexels.com/@truckrun"
 visual_keyword: "Porsche e-bike"
 description: "Porsche ends e-bike line"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,4 +48,5 @@ The trend towards micromobility is driven by a number of factors, including grow
 
 ## Updates
 
+- **2026-10-30** — The official Phantom Blade Zero smart glasses from Viture are here ([source](https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here/))
 - **2026-07-28** — eBay&#8217;s bizarre cyberstalking saga ends with a $56 million settlement ([source](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement))

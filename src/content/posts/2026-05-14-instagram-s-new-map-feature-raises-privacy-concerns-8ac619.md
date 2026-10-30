@@ -1,19 +1,20 @@
 ---
 title: "Instagram's New Map Feature Raises Privacy Concerns"
 date: 2026-05-14T03:51:16.264Z
-modified_date: 2026-05-23T03:40:58.314Z
+modified_date: 2026-10-30T14:53:24.182Z
 tags: ["Instagram","Snapchat","Privacy Concerns"]
 hero_image: "/hero/2026-05-14-instagram-s-new-map-feature-raises-privacy-concerns-8ac619.jpg"
 hero_image_credit_name: "John-Mark Smith"
 hero_image_credit_url: "https://www.pexels.com/@jmark"
 visual_keyword: "map"
 description: "Instagram's new map feature allows users to share their location with friends, sparking privacy concerns. The feature is similar to Snapchat's Snap Map."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-14-instagram-s-new-map-feature-raises-privacy-concerns-8ac619.mp3"
 audio_bytes: 554049
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,4 +74,5 @@ Ultimately, users have a responsibility to be aware of the potential risks assoc
 
 ## Updates
 
+- **2026-10-30** — Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones ([source](https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones/))
 - **2026-05-23** — CISA tries to contain data leak ([source](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/))

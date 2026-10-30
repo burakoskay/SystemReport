@@ -1,16 +1,17 @@
 ---
 title: "Defense Tech Funding Surges"
 date: 2026-04-29T14:13:29.160Z
-modified_date: 2026-10-20T13:13:31.048Z
+modified_date: 2026-10-30T14:52:19.119Z
 tags: ["Defense Tech","AI","Industrial Tech"]
 hero_image: "/hero/2026-04-29-defense-tech-funding-surges-f79060.jpg"
 hero_image_credit_name: "Aleson Padilha"
 hero_image_credit_url: "https://www.pexels.com/@aleson-padilha-945919991"
 visual_keyword: "drone"
 description: "Firestorm Labs raises $82M for deployable drone factories; BMW i Ventures launches $300M AI and industrial tech fund."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The investment in defense technology is likely to continue, driven by the increa
 
 ## Updates
 
+- **2026-10-30** — Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate ([source](https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/))
 - **2026-10-20** — Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet ([source](https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/))
 - **2026-10-13** — WHO report on Russian lab worker death highlights "key uncertainty" ([source](https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/))
 - **2026-10-02** — The Pocket Advance nearly perfects my favorite Nintendo handheld ([source](https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld))
