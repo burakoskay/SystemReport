@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Series 4 Turns Wrist Into FDA‑Cleared ECG Device"
 date: 2026-09-02T02:31:18.893Z
-modified_date: 2026-10-23T02:58:09.255Z
+modified_date: 2026-10-31T01:21:35.034Z
 tags: ["apple","smartwatch","healthtech"]
 hero_image: "/hero/2026-09-02-apple-watch-series-4-turns-wrist-into-fda-cleared-ecg-device-fdf3d8.jpg"
 hero_image_credit_name: "Ryan Grice"
 hero_image_credit_url: "https://www.pexels.com/@ryan-grice-185547915"
 visual_keyword: "close‑up of wrist wearing Apple Watch displaying ECG readout"
 description: "Apple’s Series 4 adds a 30‑second ECG test and AFib alerts, marking a shift from fitness tracker to medical‑grade wearable."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 Apple’s new Series 4 watch can record an electrocardiogram in 30 seconds and flag atrial fibrillation, a capability cleared by the FDA for over‑the‑counter sale. The move pushes the device from a fitness accessory into a regulated health tool.[^1][^2][^3][^4][^5][^6]
@@ -49,6 +50,7 @@ What to watch: the timing of the ECG app’s global release, the regulatory resp
 
 ## Updates
 
+- **2026-10-31** — The biggest names in AI are backing a new way to opt out of scraping ([source](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out))
 - **2026-10-23** — The next-gen Xbox won’t cost you $1,800. It can’t. Can it? ([source](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial))
 
 [^1]: [ajmc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFVhP12jNSt42bCp4RP3CG-TieTCQNAo7c87SyEea1J4ETyEbk2qDFlqO4oYvWnBoZBoLiEp5U-eeeGDarRU1ujQgFLD7H2e0BJnjcLQ2kThETJ1y446XTEHKn87WP31GpueCEVIEkd3eCLxmUIwtonNJwyEQhZmxI)

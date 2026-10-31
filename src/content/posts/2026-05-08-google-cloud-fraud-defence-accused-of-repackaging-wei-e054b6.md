@@ -1,16 +1,17 @@
 ---
 title: "Google Cloud Fraud Defence accused of repackaging WEI"
 date: 2026-05-08T17:44:16.950Z
-modified_date: 2026-09-23T14:38:47.632Z
+modified_date: 2026-10-31T01:21:40.787Z
 tags: ["cloud","programming","networking","data-format","language"]
 hero_image: "/hero/2026-05-08-google-cloud-fraud-defence-accused-of-repackaging-wei-e054b6.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract collage of cloud security icons, Go logo, mesh nodes, geographic map pins, and AI code symbols"
 description: "A deep dive into the latest Hacker News discussions on Google Cloud Fraud Defence, Go language, Meshtastic, GeoJSON and the Mojo 1.0 beta."
-sources_count: 10
+sources_count: 11
 author: "priya-raman"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Watch Google’s response to the WEI allegations; a formal statement or licensin
 
 ## Updates
 
+- **2026-10-31** — Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026) ([source](https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/))
 - **2026-09-23** — A new report from Europe raises serious alarms about orbital collisions ([source](https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/))
 - **2026-09-21** — New all-glass iPhone 20 Pro rumor reveals another design change ([source](https://9to5mac.com/2026/09/21/iphone-20-pro-could-be-apples-biggest-pro-phones-yet/))
 - **2026-09-04** — New profile of John Ternus offers insight into life and reputation of Apple CEO ([source](https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo/))

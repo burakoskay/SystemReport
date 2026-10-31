@@ -1,16 +1,17 @@
 ---
 title: "Google Halts Liquid Glass on Android"
 date: 2026-05-06T21:34:28.920Z
-modified_date: 2026-10-17T02:33:35.006Z
+modified_date: 2026-10-31T01:21:12.385Z
 tags: ["android","apple","liquid-glass","google","redesign"]
 hero_image: "/hero/2026-05-06-google-halts-liquid-glass-on-android-2c5049.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Pixel 8 Pro smartphone on a desk with Android 14 UI elements displayed on screen"
 description: "Google's Android President confirms Liquid Glass won't arrive on Pixels, Apple's divisive design remains iOS-exclusive."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Google’s next major Android update is scheduled for Q4 2024, with a focus on A
 
 ## Updates
 
+- **2026-10-31** — Ollie, a privacy-focused AI assistant, is shutting down ([source](https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/))
 - **2026-10-17** — Apple poaches longtime Meta executive to lead global litigation ([source](https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/))
 - **2026-09-14** — iOS 27, iPadOS 27, and macOS 27 ([source](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/))
 - **2026-09-13** — Why is Google still serving dodgy ads? ([source](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads))
