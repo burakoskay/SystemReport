@@ -1,16 +1,17 @@
 ---
 title: "AI agents get $45B boost and open-source toolkits"
 date: 2026-04-21T22:46:05.612Z
-modified_date: 2026-09-12T16:41:23.200Z
+modified_date: 2026-10-31T19:41:49.691Z
 tags: ["ai","funding","hardware","open-source","agents"]
 hero_image: "/hero/2026-04-21-ai-agents-get-45b-boost-and-open-source-toolkits-c58726.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI agents interacting with data pipelines"
 description: "Seed funding and Amazon chips fuel new multi‑agent AI ventures while open‑source frameworks democratize financial and corporate research."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Funding human‑like agents
@@ -59,4 +60,5 @@ Watch for regulatory commentary on automated financial research agents. As multi
 
 ## Updates
 
+- **2026-10-31** — Binance CEO says 90 percent of stolen assets have been ‘replenished’ ([source](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto))
 - **2026-09-12** — LG responds to TV spying allegations ([source](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations))

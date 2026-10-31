@@ -1,16 +1,17 @@
 ---
 title: "VC Firm Bets on Physical World Startups Amid Geopolitical Turmoil"
 date: 2026-04-29T03:39:29.980Z
-modified_date: 2026-10-14T03:05:32.750Z
+modified_date: 2026-10-31T19:42:41.552Z
 tags: ["venture capital","geopolitics","startup acquisitions"]
 hero_image: "/hero/2026-04-29-vc-firm-bets-on-physical-world-startups-amid-geopolitical-turmoil-799a5b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "venture capital"
 description: "Kompas VC invests in startups focused on physical world as geopolitical tensions rise. Founder of Scholly sues Sallie Mae."
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The challenges faced by venture investors today are not unprecedented. In the pa
 
 ## Updates
 
+- **2026-10-31** — The Amazon Fire TV Stick setting you should try for better audio ([source](https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio/))
 - **2026-10-14** — Are Chromebooks still worth buying after the Googlebooks release? ([source](https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release/))
 - **2026-05-15** — Does Trump Mobile know how many stripes are on the American flag? ([source](https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes))
 - **2026-05-14** — Behold, the Elon Musk jackass trophy ([source](https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue))

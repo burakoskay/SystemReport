@@ -1,16 +1,17 @@
 ---
 title: "Meta Delays Smart Glasses Rollout in Europe"
 date: 2026-05-10T03:49:32.665Z
-modified_date: 2026-10-31T01:21:29.496Z
+modified_date: 2026-10-31T19:42:26.476Z
 tags: ["Meta","Smart Glasses","EU Regulations","Supply Constraints","Wearable Technology","AI-Powered Wearables"]
 hero_image: "/hero/2026-05-10-meta-delays-smart-glasses-rollout-in-europe-d7ea90.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "smart glasses"
 description: "Meta delays European launch of smart glasses due to EU regulations and supply constraints."
-sources_count: 11
+sources_count: 12
 author: "lena-volkov"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The wearable technology industry is expected to continue growing in the coming y
 
 ## Updates
 
+- **2026-10-31** — Why your Spotify might be using so much storage ([source](https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/))
 - **2026-10-31** — Exclusive details about Akai’s MPC Sample Key ([source](https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive))
 - **2026-10-15** — Meta says it has fixed an issue that let its Ray-Ban smart glasses record on their own ([source](https://9to5google.com/2026/10/15/meta-ray-ban-recording-bug/))
 - **2026-08-07** — Ranking the Best Smart Glasses: Meta, Viture, & More (2026) ([source](https://www.wired.com/gallery/best-smart-glasses/))

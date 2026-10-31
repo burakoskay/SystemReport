@@ -1,16 +1,17 @@
 ---
 title: "Supreme Court Tackles Science, Privacy, and Power"
 date: 2026-04-27T23:06:39.651Z
-modified_date: 2026-09-16T19:18:24.501Z
+modified_date: 2026-10-31T19:42:19.133Z
 tags: ["supreme-court","privacy","science-policy"]
 hero_image: "/hero/2026-04-27-supreme-court-tackles-science-privacy-and-power-4ec5d9.jpg"
 hero_image_credit_name: "Robert Clark"
 hero_image_credit_url: "https://www.pexels.com/@robert-clark-504241532"
 visual_keyword: "abstract representation of data streams intersecting with judicial scales"
 description: "Three landmark cases test federal oversight of tech and research."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ What to watch: The National Science Board's May 15 hearing on reinstatement, the
 
 ## Updates
 
+- **2026-10-31** — Vic Mensa can’t live without the Voice Memos app ([source](https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview))
 - **2026-09-16** — Apple might make servers again to cash in on the AI rush ([source](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia))
 - **2026-05-17** — The First Atomic Bomb Test in 1945 Created an Entirely New Material ([source](https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/))
 - **2026-05-13** — Andreessen Horowitz is the midterm elections' biggest donor ([source](https://www.engadget.com/2172293/andreessen-horowitz-is-the-midterm-elections-biggest-donor/))
