@@ -1,19 +1,20 @@
 ---
 title: "Apple’s $2,000 iPhone Duo sells out before 2027"
 date: 2026-10-16T22:30:00.846Z
-modified_date: 2026-10-20T22:54:57.163Z
+modified_date: 2026-10-31T14:12:31.464Z
 tags: ["apple","iphone","foldable","ios","homepod"]
 hero_image: "/hero/2026-10-16-apple-s-2-000-iphone-duo-sells-out-before-2027-d1c1ca.jpg"
 hero_image_credit_name: "Filipe Alves"
 hero_image_credit_url: "https://www.pexels.com/@filipe-alves-3413871"
 visual_keyword: "folding iPhone Duo on a sleek table with a glowing Apple logo"
 description: "Apple’s first folding iPhone launched at $2,000, immediately sold out and left most buyers waiting until 2027, while iOS 27.2 and HomePod updates add modest software polish."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-10-16-apple-s-2-000-iphone-duo-sells-out-before-2027-d1c1ca.mp3"
 audio_bytes: 586232
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple opened pre‑orders for its $2,000 iPhone Duo at 8 a.m. ET, and the Apple Store went dark seconds before the launch. The frenzy proved that Apple can still turn a premium form factor into a headline‑grabbing event.
@@ -56,4 +57,5 @@ Watch for iOS 27.3, which is likely to include more folding‑specific optimizat
 
 ## Updates
 
+- **2026-10-31** — I took two iPhones on vacation. The Duo won me over. ([source](https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/))
 - **2026-10-20** — SpaceX will try catching Starship and its booster for first time, Musk says ([source](https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says))
