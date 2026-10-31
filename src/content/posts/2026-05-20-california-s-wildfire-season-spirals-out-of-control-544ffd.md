@@ -1,16 +1,17 @@
 ---
 title: "California's Wildfire Season Spirals Out of Control"
 date: 2026-05-20T04:03:30.147Z
-modified_date: 2026-09-20T13:53:48.906Z
+modified_date: 2026-10-31T07:52:58.889Z
 tags: ["California","Wildfires","Climate Change"]
 hero_image: "/hero/2026-05-20-california-s-wildfire-season-spirals-out-of-control-544ffd.jpg"
 hero_image_credit_name: "Jure Širić"
 hero_image_credit_url: "https://www.pexels.com/@juresiric"
 visual_keyword: "wildfire"
 description: "California's wildfire season is off to a devastating start, with major fires threatening homes and ecologically sensitive areas following a hot, dry winter."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ California's wildfire season is a serious issue that requires immediate attentio
 
 ## Updates
 
+- **2026-10-31** — Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up ([source](https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/))
 - **2026-09-20** — AI and the Destruction of the Creative Commons ([source](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/))
 - **2026-09-09** — macOS 27 RC now available, here’s how to install it ([source](https://9to5mac.com/2026/09/09/macos-27-rc-now-available-heres-how-to-install-it/))
 - **2026-07-29** — Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe ([source](https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/))

@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-10-23T19:45:07.663Z
+modified_date: 2026-10-31T07:53:09.409Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-10-31** — France is getting download tax for content providers (€0.055/GB) ([source](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/))
 - **2026-10-23** — Knicks sent employees fake offer of championship rings in phishing test: Report ([source](https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/))
 - **2026-10-16** — Krea 3 – An image model built for editing at scale ([source](https://www.krea.ai/krea-3))
 - **2026-10-08** — Apple’s new ‘second-party’ accessories for Home are bigger than we thought, per leak ([source](https://9to5mac.com/2026/10/07/apples-new-second-party-accessories-for-home-are-bigger-than-we-thought-per-leak/))
