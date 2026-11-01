@@ -1,19 +1,20 @@
 ---
 title: "Ubuntu Hit by DDoS"
 date: 2026-05-01T15:01:42.253Z
-modified_date: 2026-10-09T00:08:02.968Z
+modified_date: 2026-11-01T10:58:58.626Z
 tags: ["Ubuntu","DDoS","Cyber Attack"]
 hero_image: "/hero/2026-05-01-ubuntu-hit-by-ddos-e8e083.jpg"
 hero_image_credit_name: "Mustafa Akkuş"
 hero_image_credit_url: "https://www.pexels.com/@mustafaakkus"
 visual_keyword: "Ubuntu"
 description: "Ubuntu services are down due to a DDoS attack, affecting website and OS updates"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-01-ubuntu-hit-by-ddos-e8e083.mp3"
 audio_bytes: 562200
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ As the situation with the Ubuntu DDoS attack continues to unfold, there are seve
 
 ## Updates
 
+- **2026-11-01** — A Newly Discovered Trail of Cosmic Debris Illustrates How the End of the Solar System Could Look ([source](https://www.wired.com/story/a-newly-discovered-trail-of-cosmic-debris-illustrates-what-the-end-of-the-solar-system-could-look-like/))
 - **2026-10-09** — President Trump awards Big Tech donors with nation’s highest science prizes ([source](https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/))
 - **2026-09-03** — How Sonos rebooted itself ([source](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign))
 - **2026-08-20** — Meta glasses are a workplace menace ([source](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security))
