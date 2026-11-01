@@ -1,16 +1,17 @@
 ---
 title: "Climate Models in Turmoil: Trump's Moves and AI's Rising Role"
 date: 2026-05-21T20:11:33.545Z
-modified_date: 2026-07-30T19:17:05.402Z
+modified_date: 2026-11-01T21:36:44.740Z
 tags: ["climate-models","ai-weather","ncar-crisis","wmo-reports","supercomputing"]
 hero_image: "/hero/2026-05-21-climate-models-in-turmoil-trump-s-moves-and-ai-s-rising-role-eed677.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "abstract weather patterns with glowing data streams intersecting a fragmented globe"
 description: "The 2024 climate report, NCAR's dismantling, and IBM-NASA's open-source AI collide in a pivotal moment for weather science."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 ## The WMO's Stark Warning: 2024 as a Climate Tipping Point
@@ -43,4 +44,5 @@ Three threads will define the next 12 months. First, NSF’s reorganization prop
 
 ## Updates
 
+- **2026-11-01** — 5 ways to get Amazon Prime for free (or way cheaper) ([source](https://www.engadget.com/2301057/ways-get-amazon-prime-free-cheaper/))
 - **2026-07-30** — This MacBook Pro just fell below its pre-price-hike MSRP (Save $500) ([source](https://9to5mac.com/2026/07/30/this-macbook-pro-just-fell-below-its-pre-price-hike-msrp-save-500/))

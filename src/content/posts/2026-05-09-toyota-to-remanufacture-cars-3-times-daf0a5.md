@@ -1,19 +1,20 @@
 ---
 title: "Toyota to Remanufacture Cars 3 Times"
 date: 2026-05-09T03:34:37.581Z
-modified_date: 2026-09-29T14:33:37.066Z
+modified_date: 2026-11-01T21:36:51.831Z
 tags: ["automotive","software","battery","sustainability"]
 hero_image: "/hero/2026-05-09-toyota-to-remanufacture-cars-3-times-daf0a5.jpg"
 hero_image_credit_name: "Freek Wolsink"
 hero_image_credit_url: "https://www.pexels.com/@freek-wolsink-508219"
 visual_keyword: "modern car factory with robots and battery swap station"
 description: "Toyota will remanufacture cars three times, Stellantis pours €30bn into software, and Nio rolls out Europe’s first five‑minute battery swap as raw material prices squeeze margins."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-09-toyota-to-remanufacture-cars-3-times-daf0a5.mp3"
 audio_bytes: 609220
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ These data points will indicate whether the industry’s new levers—software, 
 
 ## Updates
 
+- **2026-11-01** — How much would it cost to build a PC similar to the Xbox Series S? ([source](https://www.engadget.com/2300614/xbox-series-s-pc-similar-how-much-to-build/))
 - **2026-09-29** — Fairphone’s next repairable wireless earbuds will launch on October 14th ([source](https://www.theverge.com/tech/1001859/fairphone-fairbuds-2-wireless-earbuds-repairable-modular-price-release))
 - **2026-08-04** — The studio behind Pokémon struggles to find its voice in Beast of Reincarnation ([source](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox))
 - **2026-08-01** — Here's how engineers plan to save the satellite sent to save NASA's Swift mission ([source](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/))

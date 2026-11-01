@@ -1,19 +1,20 @@
 ---
 title: "Walmart's Google TV Streamers Launch"
 date: 2026-04-26T23:01:41.608Z
-modified_date: 2026-10-30T01:31:18.496Z
+modified_date: 2026-11-01T21:36:58.938Z
 tags: ["google","walmart","pixel","android","smart home"]
 hero_image: "/hero/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "google tv streaming device on a modern coffee table"
 description: "Google refines voice typing, overhauls app designs, and partners with Walmart as smart home updates spark mixed reactions."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-04-26-walmart-s-google-tv-streamers-launch-de61de.mp3"
 audio_bytes: 638059
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Three threads will define Google’s near-term impact: First, whether the Onn st
 
 ## Updates
 
+- **2026-11-01** — The reason why your Xbox controller still uses AA batteries ([source](https://www.engadget.com/2300298/reason-xbox-controller-uses-aa-batteries/))
 - **2026-10-30** — Strava adds Google Gemini integration with personalized workout insights ([source](https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/))
 - **2026-09-28** — Google confirms Photos bug that prevents editing and deleting, fix coming ‘ASAP’ ([source](https://9to5google.com/2026/09/28/google-confirms-photos-bug-that-prevents-editing-and-deleting-fix-coming-asap/))
 - **2026-09-01** — How to make sure your Android phone is secure ([source](https://www.engadget.com/2243954/how-to-make-sure-android-phone-secure/))

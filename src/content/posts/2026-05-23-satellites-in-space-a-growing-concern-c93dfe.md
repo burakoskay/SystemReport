@@ -1,16 +1,17 @@
 ---
 title: "Satellites in Space: A Growing Concern"
 date: 2026-05-23T03:47:55.233Z
-modified_date: 2026-10-21T23:00:53.822Z
+modified_date: 2026-11-01T21:36:23.301Z
 tags: ["satellites","space debris","light pollution"]
 hero_image: "/hero/2026-05-23-satellites-in-space-a-growing-concern-c93dfe.jpg"
 hero_image_credit_name: "Juan Martin Gomez"
 hero_image_credit_url: "https://www.pexels.com/@juan-martin-gomez-2144462245"
 visual_keyword: "satellite"
 description: "The increasing number of satellites in space is causing concerns about space debris, light pollution, and the potential for catastrophic collisions."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ The next major milestone in this effort will be the launch of new regulations an
 
 ## Updates
 
+- **2026-11-01** — NASA hopes the commercial space industry can help save Hubble ([source](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble))
 - **2026-10-21** — Mark Zuckerberg says Meta is 'entering a new phase' with Muse ([source](https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/))
 - **2026-08-31** — Monday’s Android game and app deals: Cubasis 3, Seoul Exorcist 1111, Halls of Torment, more ([source](https://9to5toys.com/2026/08/31/monday-android-game-app-deals-cubasis/))
 - **2026-08-29** — Welcome to Night Vale cocreator Joseph Fink learned storytelling from Grim Fandango ([source](https://www.theverge.com/entertainment/983448/welcome-to-night-vale-cocreator-joseph-fink-learned-storytelling-from-grim-fandango))

@@ -1,18 +1,20 @@
 ---
 title: "Skydance merger reshapes CNN; exoplanet and prediction markets"
 date: 2026-10-05T19:07:24.287Z
+modified_date: 2026-11-01T21:37:06.112Z
 tags: ["media","space","prediction-markets","retail","archaeology"]
 hero_image: "/hero/2026-10-05-skydance-merger-reshapes-cnn-exoplanet-and-prediction-markets-74cc46.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "skydance merger newsroom with exoplanet telescope and prediction market interface"
 description: "Paramount completes a $110 billion deal with Warner Bros. Discovery, keeping CNN's CEO, while astronomers spot the youngest exoplanet and a new prediction market debuts."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-05-skydance-merger-reshapes-cnn-exoplanet-and-prediction-markets-74cc46.mp3"
 audio_bytes: 608593
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Skydance merger locks in CNN leadership
 
@@ -55,3 +57,7 @@ The findings, published by Ars Technica, challenge earlier views that the mass
 The Skydance merger will soon file detailed integration plans with the FTC; watch for any divestiture conditions that could affect CNN’s distribution channels. Meanwhile, follow up observations of Elias 2‑24b as telescopes refine its mass and atmospheric composition, which could validate or overturn the rapid‑formation hypothesis.
 
 Keep an eye on regulatory filings for Verifact Markets and any legal challenges to its disputed‑fact contracts. In Russia, the outcome of the plague‑lab investigation will inform global bio‑security standards, while further DNA work on the Egyptian burials may either cement or debunk the retainer‑sacrifice narrative.
+
+## Updates
+
+- **2026-11-01** — Google says Googlebook ‘detachables’ are coming soon ([source](https://9to5google.com/2026/11/01/googlebook-detachables/))
