@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Restores Windows Security Patches for AMD CPUs"
 date: 2026-08-01T22:54:31.032Z
-modified_date: 2026-10-22T19:42:04.950Z
+modified_date: 2026-11-01T17:32:51.028Z
 tags: ["windows","amd","security","updates"]
 hero_image: "/hero/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.jpg"
 hero_image_credit_name: "Erik G"
 hero_image_credit_url: "https://www.pexels.com/@erik-g-12654570"
 visual_keyword: "computer screen showing Windows update warning on AMD processor"
 description: "Microsoft resumes Windows updates on older AMD chips after fixing a block that risked bricking devices, citing Spectre and Meltdown mitigations."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-08-01-microsoft-restores-windows-security-patches-for-amd-cpus-7064c6.mp3"
 audio_bytes: 553422
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ Enterprises should monitor upcoming Windows security releases for any repeat of 
 
 ## Updates
 
+- **2026-11-01** — Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk ([source](https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/))
 - **2026-10-22** — I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went ([source](https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went/))
 - **2026-10-02** — Rivian issues R2 recall for poorly tightened battery packs ([source](https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/))
 - **2026-09-03** — This ultra-thin Lenovo laptop concept uses solid-state cooling ([source](https://www.theverge.com/tech/988882/lenovo-project-aeroblade-concept-frore-airjet-silent-cooling))

@@ -1,15 +1,17 @@
 ---
 title: "DeepSeek releases open-source inference engine DeepInfer"
 date: 2026-10-20T13:23:58.914Z
+modified_date: 2026-11-01T17:30:47.206Z
 tags: ["deepseek","inference","open-source","llm","ai"]
 hero_image: "/hero/2026-10-20-deepseek-releases-open-source-inference-engine-deepinfer-7453fa.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "engineered server racks with code overlay"
 description: "DeepSeek puts its DeepInfer inference engine on GitHub, inviting the community to build and optimize large language model serving."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 ## DeepSeek open-sources DeepInfer
 DeepSeek pushed a new repository to GitHub named **DeepInfer**. The codebase contains the core runtime that loads and executes large language models.[^1] The commit history shows a clean split between the model loader, the tensor scheduler, and the RPC layer.[^2] The repository is public and accepts pull requests.[^1][^3]
@@ -33,6 +35,10 @@ A handful of developers reported that they were able to spin up a test node on a
 
 ## What to watch
 Watch the DeepInfer issue tracker for the upcoming v1.0 release, which the team says will include a stable license and performance‑tuned kernels for AMD GPUs.[^6] Also monitor the adoption curve on GitHub stars and fork counts; a rapid rise would signal that the engine is gaining traction beyond hobbyists.[^8] Finally, keep an eye on announcements from cloud providers—if any integrate DeepInfer into their managed AI services, the project could shift from a niche tool to a mainstream serving option.
+
+## Updates
+
+- **2026-11-01** — The 30 Best Gifts for Star Wars Fans (2026) ([source](https://www.wired.com/gallery/best-star-wars-gifts/))
 
 [^1]: [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7frTSKCEzH-WYgtz-wgsr_OgxW9go-k0faTIp8DmBiTdYQjzUHrH1rwg6ZiFVyAzR3l2L0Za9zGBITzjLwLs9ieH3lnC2KGi26CKnkIONLCDR3GxTu3aCJmyvEILINFVjOg==)
 [^2]: [explainx.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpuyYu4JpRBIQ8RfupKf-cFLyuMLZww1qdI-5REfeicQtF9Z1UklwuAanCbulmFs4SKeljcKZxKm5oEYRpIsTsmDU_-k3JASTCxdXyFiVCIpRigZLuA5IZTyM2AIbkA-rFoRdd7img4ySMPSJ1TlcyI5gsNTUiF0hcv2s_lvBAMUYxtGsBC2CMqjDU8C4dHbOBojszQDVJH4L-2UfZAw83CZ7QGCLozSxkNQBEtE0l5wYysigFKXnLDMZ0)

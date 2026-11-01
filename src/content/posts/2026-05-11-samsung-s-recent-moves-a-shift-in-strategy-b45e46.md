@@ -1,16 +1,17 @@
 ---
 title: "Samsung's Recent Moves: A Shift in Strategy?"
 date: 2026-05-11T18:05:34.997Z
-modified_date: 2026-10-15T19:39:54.378Z
+modified_date: 2026-11-01T17:32:22.449Z
 tags: ["samsung","software updates","ddr5","solid-state batteries","evs"]
 hero_image: "/hero/2026-05-11-samsung-s-recent-moves-a-shift-in-strategy-b45e46.jpg"
 hero_image_credit_name: "Rann Vijay"
 hero_image_credit_url: "https://www.pexels.com/@rann-vijay-677553"
 visual_keyword: "Samsung's Recent Moves: A Shift in Strategy?"
 description: "Samsung is making significant changes, from software updates to battery technology. What does this mean for the company and its customers?"
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ What to watch: Samsung's software update process, the development of DDR5-7200 5
 
 ## Updates
 
+- **2026-11-01** — AI software clones are coming for big-name companies like Adobe ([source](https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/))
 - **2026-10-15** — Sonos adds iPhone Duo support with latest app update ([source](https://9to5mac.com/2026/10/15/sonos-adds-iphone-duo-support-with-latest-app-update/))
 - **2026-10-07** — Everything announced at Microsoft's Windows and Surface event ([source](https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/))
 - **2026-09-17** — I tried Tovala’s smart oven for two weeks — here’s whether it beats takeout ([source](https://techcrunch.com/2026/09/17/i-tried-tovalas-smart-oven-for-two-weeks-heres-whether-it-beats-takeout/))

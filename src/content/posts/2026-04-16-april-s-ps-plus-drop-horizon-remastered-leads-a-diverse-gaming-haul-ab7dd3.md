@@ -1,16 +1,17 @@
 ---
 title: "April's PS Plus Drop: Horizon Remastered Leads a Diverse Gaming Haul"
 date: 2026-04-16T05:32:00.613Z
-modified_date: 2026-10-15T19:40:39.617Z
+modified_date: 2026-11-01T17:31:53.772Z
 tags: ["playstation plus","gaming news","new releases","indie games","console gaming"]
 hero_image: "/hero/2026-04-16-april-s-ps-plus-drop-horizon-remastered-leads-a-diverse-gaming-haul-ab7dd3.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Diverse video games lineup"
 description: "PlayStation Plus Extra and Premium subscribers gear up for a varied April, featuring Horizon Zero Dawn Remastered, unique indies, and a Dead by Daylight crossover."
-sources_count: 19
+sources_count: 20
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ Perhaps the most compelling argument for the value of PlayStation Plus this mont
 
 ## Updates
 
+- **2026-11-01** — Get in the spooky spirit with these horrors from YouTube ([source](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror))
 - **2026-10-15** — C++26 Contracts: Introduction to Preconditions and Postconditions ([source](https://www.cppstories.com/2026/cpp26_contracts/))
 - **2026-09-17** — Here’s everything new for Messages in iOS 27 ([source](https://9to5mac.com/2026/09/17/heres-everything-new-for-messages-in-ios-27/))
 - **2026-09-10** — Everything New You Can Do With Siri AI ([source](https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/))

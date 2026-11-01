@@ -1,16 +1,17 @@
 ---
 title: "S&P 500 Snubs SpaceX, Leaving AI IPOs in the Lurch"
 date: 2026-07-29T22:58:45.054Z
-modified_date: 2026-08-15T16:18:05.191Z
+modified_date: 2026-11-01T17:32:03.321Z
 tags: ["ai","finance","stock-market"]
 hero_image: "/hero/2026-07-29-s-p-500-snubs-spacex-leaving-ai-ipos-in-the-lurch-58f7eb.jpg"
 hero_image_credit_name: "bryan nguyen"
 hero_image_credit_url: "https://www.pexels.com/@bryannguyen2212"
 visual_keyword: "high‑rise office building with glowing stock ticker and rockets in the background"
 description: "The index refuses to bend its rules for SpaceX, denying billions in passive inflows and keeping OpenAI and Anthropic out of the S&P 500."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 ## S&P 500 blocks SpaceX entry
@@ -43,6 +44,7 @@ Track the next S&P Dow Jones Indices consultation on MegaCap eligibility—any s
 
 ## Updates
 
+- **2026-11-01** — Whatever happened to 8K TVs? ([source](https://www.engadget.com/2302734/what-happened-to-8k-tvs/))
 - **2026-08-15** — Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver ([source](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast))
 
 [^1]: [biggo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4C1d5d3aKCuF7j9bJjBBv0O2mrbRC2o-8g14q8qJ6xB8uBKYTE_36mOe0wg4rLLxr2jxdCI_rbmOUrILpL7yB8yHqja1gu2qE0WWDpqbDgS_yGrKHzfxX0iL2eQxjH2WGlLBSZllIzGJ92ycv)
