@@ -1,16 +1,17 @@
 ---
 title: "Google Android XR glasses leak audio in demo"
 date: 2026-05-20T18:26:19.200Z
-modified_date: 2026-09-05T14:23:59.412Z
+modified_date: 2026-11-02T08:45:08.250Z
 tags: ["Google","Android XR","AR glasses","audio privacy"]
 hero_image: "/hero/2026-05-20-google-android-xr-glasses-leak-audio-in-demo-17303f.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Google Android XR glasses"
 description: "A live demo of Google's Android XR glasses showed audio leaking, highlighting privacy concerns, while Android 17 QPR1 Beta 3 and Android Auto updates roll out"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,4 +69,5 @@ The Android XR glasses demo slip-up highlights the importance of audio privacy i
 
 ## Updates
 
+- **2026-11-02** — Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go ([source](https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/))
 - **2026-09-05** — Apple @ Work: Capping bug bounty submissions is the wrong response in the AI era of security threats ([source](https://9to5mac.com/2026/09/05/capping-bug-bounty-submissions-is-the-wrong-response-in-the-ai-era-of-security-threats/))

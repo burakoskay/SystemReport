@@ -1,18 +1,20 @@
 ---
 title: "Midterms, Redwoods, Flip Phones and Car Data Clash"
 date: 2026-10-12T08:32:54.034Z
+modified_date: 2026-11-02T08:45:26.330Z
 tags: ["data centers","midterms","redwoods","flip phones","car data"]
 hero_image: "/hero/2026-10-12-midterms-redwoods-flip-phones-and-car-data-clash-20a26e.jpg"
 hero_image_credit_name: "Mustafa ezz"
 hero_image_credit_url: "https://www.pexels.com/@ezz7"
 visual_keyword: "a data center juxtaposed with a redwood forest and a flip phone beside a modern car dashboard"
 description: "U.S. midterms pit candidates against data centers, redwoods wilt under heat, Japan ditches flip phones, and cars turn into data brokers."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-10-12-midterms-redwoods-flip-phones-and-car-data-clash-20a26e.mp3"
 audio_bytes: 606712
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Data Centers Face Political Heat in Midterms
 
@@ -49,3 +51,7 @@ Automakers defend the practice as a way to fund connected‑car features, but th
 ## What to Watch
 
 The midterm cycle will reveal whether anti‑data‑center rhetoric translates into policy. Track state legislation that tightens zoning for server farms and any federal bills that tie data‑center permits to renewable‑energy benchmarks. In California, monitor forest‑management plans that incorporate the new redwood photosynthesis data, especially any funding shifts toward fog‑restoration projects. In Japan, watch carrier roll‑outs of 5G‑only handsets, which will cement the flip‑phone exit. Finally, follow the Federal Trade Commission’s next steps on automotive data privacy after the Northeastern‑Consumer Reports study lands on Capitol Hill. Each of these threads will shape how technology, environment, and privacy intersect in the months ahead.
+
+## Updates
+
+- **2026-11-02** — F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix ([source](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/))
