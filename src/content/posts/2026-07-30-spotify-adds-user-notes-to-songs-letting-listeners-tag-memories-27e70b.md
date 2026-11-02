@@ -1,16 +1,17 @@
 ---
 title: "Spotify adds User notes to songs, letting listeners tag memories"
 date: 2026-07-30T19:27:38.392Z
-modified_date: 2026-09-28T19:08:29.259Z
+modified_date: 2026-11-02T01:11:47.094Z
 tags: ["spotify","music","user-generated content","apps"]
 hero_image: "/hero/2026-07-30-spotify-adds-user-notes-to-songs-letting-listeners-tag-memories-27e70b.jpg"
 hero_image_credit_name: "ready made"
 hero_image_credit_url: "https://www.pexels.com/@readymade"
 visual_keyword: "hand holding a smartphone with a music track and a handwritten note overlay"
 description: "Spotify's new User notes feature lets listeners attach personal captions to tracks, turning playlists into memory maps."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Spotify lets you write on songs
@@ -51,6 +52,7 @@ The next few months will reveal whether Spotify expands User notes beyond the pe
 
 ## Updates
 
+- **2026-11-02** — U.S. workers took home their smallest share of capital since at least 1947 ([source](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/))
 - **2026-09-28** — Space Lasers Are About to Get Their First Real Test Generating Energy ([source](https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/))
 
 [^1]: [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvl5oCK-7M0mb-E7tioRBLJrI291eRCoVsukwoYUlvkD8N0G52N61hddE3NfnTufnpIlLrx4TKgkZ2Lrwn29qcBsxvhQ8Thzgj8L1hhOj-DTnb8xbvge2ml_CB2ZiwsAib1AR95pCikDZyDsJONC6i0QcO54XVQgnxJO38N_5vuclKbVRdO__wIwvmUJSN-jew-deiKJ2kZ71fBJnTYT3XFg==)

@@ -1,15 +1,17 @@
 ---
 title: "Apple's rapid RC rollout pressures macOS developers"
 date: 2026-09-21T21:37:04.728Z
+modified_date: 2026-11-02T01:11:52.756Z
 tags: ["apple","macos","ios","developer-betas"]
 hero_image: "/hero/2026-09-21-apple-s-rapid-rc-rollout-pressures-macos-developers-82c34f.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer laptop with macOS installer window on screen"
 description: "Apple released second release candidates for macOS Tahoe and Sequoia, while beta streams for Golden Gate and iOS 27.2 accelerate, sparking developer strain and highlighting ecosystem frictions."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 ## Second release candidates hit the road
 Apple just pushed the second release candidates for macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1, less than a week after the first RCs landed. The timing forces developers to compress testing cycles before the official launch.
@@ -38,3 +40,6 @@ On the extension side, a Chrome bug is slowing extension load times on macOS to 
 ## What to watch
 The next milestone is the official macOS Tahoe and Sequoia launch, slated for later this month. Keep an eye on whether Apple releases a third RC or jumps straight to GA. On the beta front, Golden Gate’s final build and iOS 27.2’s public rollout will reveal if the current testing cadence is sustainable. Finally, watch for a Chrome update that addresses the extension lag and for any follow‑up from Apple on the AI model download flag, as those factors will directly affect developer productivity.
 
+## Updates
+
+- **2026-11-02** — Ask HN: Which TV do you recommend for privacy? ([source](https://news.ycombinator.com/item?id=50328896))
