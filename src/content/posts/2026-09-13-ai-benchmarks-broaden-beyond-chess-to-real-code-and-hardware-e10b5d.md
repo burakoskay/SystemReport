@@ -1,18 +1,20 @@
 ---
 title: "AI benchmarks broaden beyond chess to real code and hardware"
 date: 2026-09-13T14:04:23.749Z
+modified_date: 2026-11-02T19:59:46.818Z
 tags: ["ai benchmarking","machine learning","hardware","software engineering"]
 hero_image: "/hero/2026-09-13-ai-benchmarks-broaden-beyond-chess-to-real-code-and-hardware-e10b5d.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "engineers reviewing AI benchmark dashboards on multiple monitors"
 description: "New benchmarks test AI on enterprise code, social games, and GPU health, exposing gaps that standard tests miss."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-09-13-ai-benchmarks-broaden-beyond-chess-to-real-code-and-hardware-e10b5d.mp3"
 audio_bytes: 585396
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Real‑SWE released a benchmark that runs large language models on private, production‑grade codebases. The move forces vendors to prove that their models can handle the messy, undocumented scripts that power real services.[^1][^2][^3]
 
@@ -55,6 +57,10 @@ The industry’s next step will be to synthesize these signals into a composite 
 ## What to watch
 
 Watch DeepMind’s upcoming Game Arena tournaments for the first public Werewolf and poker results. Track Real‑SWE’s leaderboard updates as new model versions are submitted. Monitor PantheonGPU’s adoption metrics on major cloud providers, and follow the ML‑Dev‑Bench community for additional task submissions that target longer‑running optimization problems. These data points will indicate whether the AI community can close the gap between laboratory performance and real‑world reliability.
+
+## Updates
+
+- **2026-11-02** — Ask HN: Who is hiring? (November 2026) ([source](https://news.ycombinator.com/item?id=50338728))
 
 [^1]: [withspecific.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeHnRFk3LYnJlGrDqONP1Tqd_ujKV-8jvW7fDOxAEnO-bOLWOH1G6PIzymmVfX04zpQa2FcEPq_TbqDM86OgP6dNwHEcPBJJDGg1NNnk11GQhJGWH7SsSxhGh2lm6vVLEfv7UqUA0=)
 [^2]: [superpowerdaily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE29xosMzXEZj4Dkd6o4ZF_bRy_6F1acDlkjprpoWaMBRoWb3o1rPZPW3pKy8yUudMEM4Geura2ZoSTKeW7YMT43JTuD7zOmGIKtQ18FJHSKXn1v3Yh0YO8sNsRAQ1fbRD2C3q9FvUg798N6N1Zc6S8XqhLwY79_PyuErfok5lyU5mo3QMNJimKItCbEQnoY2ivNEplJ6b47756i5vGsVmSEDQHbqpnUck4_vJe)

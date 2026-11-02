@@ -1,19 +1,20 @@
 ---
 title: "Obsidian Plugin Abused to Deploy RAT"
 date: 2026-05-11T04:00:30.431Z
-modified_date: 2026-09-24T14:35:24.553Z
+modified_date: 2026-11-02T19:59:02.163Z
 tags: ["plugin security","malware","Obsidian"]
 hero_image: "/hero/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.jpg"
 hero_image_credit_name: "Techivation"
 hero_image_credit_url: "https://www.pexels.com/@techivation-76108219"
 visual_keyword: "Obsidian plugin"
 description: "Malicious actors exploit Obsidian plugin to spread Phantom Pulse remote access trojan, raising concerns about plugin security."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-11-obsidian-plugin-abused-to-deploy-rat-9e1456.mp3"
 audio_bytes: 582680
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The incident serves as a reminder of the importance of robust security measures 
 
 ## Updates
 
+- **2026-11-02** — The Galaxy Z Fold 8 is $300 off at Amazon right now ([source](https://9to5google.com/2026/11/02/the-galaxy-z-fold-8-is-300-off-on-amazon-right-now/))
 - **2026-09-24** — SeaWorld Wants to Make You Horny ([source](https://www.wired.com/story/seaworld-wants-to-make-you-horny/))
 - **2026-09-23** — Galaxy Tab S12 Ultra leak shows another side, confirming minimal changes ([source](https://9to5google.com/2026/09/23/galaxy-tab-s12-ultra-leak-all-sides/))
 - **2026-08-07** — The 7 Best TV Shows to Stream This Month ([source](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/))

@@ -1,18 +1,20 @@
 ---
 title: "AWS pushes $1T goal with heavy capex and new dev‑ops tools"
 date: 2026-10-30T01:32:49.490Z
+modified_date: 2026-11-02T19:57:00.028Z
 tags: ["aws","cloud","devops","containers"]
 hero_image: "/hero/2026-10-30-aws-pushes-1t-goal-with-heavy-capex-and-new-dev-ops-tools-8300d9.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "modern data center with server racks and cloud icons"
 description: "AWS eyes a $1 trillion revenue milestone, doubles down on spending, and rolls out tighter Git‑webhook automation, ECS scaling, and EBS‑backed containers."
-sources_count: 7
-author: "priya-raman"
+sources_count: 8
 audio_path: "/audio/2026-10-30-aws-pushes-1t-goal-with-heavy-capex-and-new-dev-ops-tools-8300d9.mp3"
 audio_bytes: 584768
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 AWS announced its aim to become the first $1 trillion revenue business, a target that hinges on relentless capex despite a recent $2.4 billion free‑cash‑flow deficit. The ambition underscores Amazon’s belief that AI‑driven cloud services will generate the scale needed to hit the trillion‑dollar mark.
 
@@ -55,3 +57,7 @@ The rollout is available in multiple AWS regions, and documentation provides reg
 ## What to Watch
 
 The next earnings season will reveal whether the capex‑driven growth model can offset the $2.4 billion free‑cash‑flow gap and sustain the $1 trillion revenue narrative. Track AWS’s quarterly capex disclosures, the adoption rates of the Git‑webhook Quick Start, and usage metrics for the ECS‑EBS integration. A surge in container‑based AI workloads could tip the balance, while a slowdown in infrastructure spend would force a strategic recalibration.
+
+## Updates
+
+- **2026-11-02** — In one of the largest deals in tech history, Marvell buys Lumentum for $115B ([source](https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/))

@@ -1,16 +1,17 @@
 ---
 title: "Light Phone III opens app support to developers"
 date: 2026-04-30T19:56:14.657Z
-modified_date: 2026-09-02T20:24:44.720Z
+modified_date: 2026-11-02T19:58:45.352Z
 tags: ["minimalism","retro-gaming","gaming-monitors"]
 hero_image: "/hero/2026-04-30-light-phone-iii-opens-app-support-to-developers-057e23.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "A swiveling retro handheld gaming device displayed beside a minimalist smartphone and a large curved monitor with LED backlighting"
 description: "Minimalist phones, retro handhelds, and AI-upscaling monitors target niche markets."
-sources_count: 15
+sources_count: 16
 author: "david-okafor"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Track Light Phone’s SDK adoption rate—will developers build tools that enhan
 
 ## Updates
 
+- **2026-11-02** — Google rolling out gradient icon redesigns for Contacts, Messages, and Phone ([source](https://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/))
 - **2026-09-02** — iPhone 18 Pro will have three upgrades that have been rumored for years ([source](https://9to5mac.com/2026/09/02/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/))
 - **2026-08-12** — Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index ([source](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis))
 - **2026-08-04** — iPhone 18 Pro will have three upgrades that have been rumored for years ([source](https://9to5mac.com/2026/08/04/iphone-18-pro-will-have-three-upgrades-that-have-been-rumored-for-years/))

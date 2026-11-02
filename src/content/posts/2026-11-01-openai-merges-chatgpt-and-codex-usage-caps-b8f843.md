@@ -1,15 +1,17 @@
 ---
 title: "OpenAI merges ChatGPT and Codex usage caps"
 date: 2026-11-01T17:54:10.215Z
+modified_date: 2026-11-02T19:57:21.992Z
 tags: ["openai","api","llm","developer-tools"]
 hero_image: "/hero/2026-11-01-openai-merges-chatgpt-and-codex-usage-caps-b8f843.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer working on laptop with AI code assistant overlay"
 description: "OpenAI combined ChatGPT and Codex API limits into a single quota, prompting developers to rethink token management and diversify their LLM stacks."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Merged limits reshape developer budgeting
 OpenAI announced on its help site that the separate usage caps for ChatGPT and Codex APIs are now combined into a single quota. The change forces developers to treat both models as competitors for the same pool of tokens.
@@ -30,3 +32,7 @@ SuperLocalMemory also refuses to hallucinate when it has no answer, returning a 
 ## What to watch: policy tweaks and provider diversification
 OpenAI has not disclosed a timeline for adjusting the merged limit, but the help page notes that the quota may be revised as usage patterns evolve. Developers should monitor the OpenAI status page for any announcements about limit thresholds or pricing changes.
 At the same time, the ecosystem of fallback kits, multi‑model clients and local memory layers is gaining traction. Watching adoption rates of tools like StartKit.ai and SuperLocalMemory will indicate whether the community can effectively mitigate OpenAI’s tighter caps. If fallback adoption spikes, the next wave of SaaS products may be built to be provider‑agnostic from day one.
+
+## Updates
+
+- **2026-11-02** — OpenAI is finally merging ChatGPT’s Chat and Work tabs ([source](https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/))

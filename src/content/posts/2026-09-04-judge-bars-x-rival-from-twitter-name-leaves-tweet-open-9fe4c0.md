@@ -1,15 +1,17 @@
 ---
 title: "Judge Bars X Rival from \"Twitter\" Name, Leaves \"Tweet\" Open"
 date: 2026-09-04T23:55:04.553Z
+modified_date: 2026-11-02T19:58:28.457Z
 tags: ["trademark","xcorp","branding","law"]
 hero_image: "/hero/2026-09-04-judge-bars-x-rival-from-twitter-name-leaves-tweet-open-9fe4c0.jpg"
 hero_image_credit_name: "Sena Köse"
 hero_image_credit_url: "https://www.pexels.com/@sena-kose-1697414012"
 visual_keyword: "courtroom scene with trademark symbols and a bird logo"
 description: "A federal judge halts a startup's use of the Twitter trademark while allowing its \"Tweet\" branding, reshaping X's trademark strategy."
-sources_count: 4
+sources_count: 5
 author: "lena-volkov"
 ---
+
 
 ## The ruling and immediate impact
 A federal judge issued a temporary injunction that stops a fledgling X competitor from branding itself as "Twitter." The order does not extend to the word "Tweet" or the familiar bird logo, which the judge said X likely abandoned. The startup has responded by relaunching under the domain Tweet.app.
@@ -33,3 +35,7 @@ For the broader tech ecosystem, the ruling underscores the importance of diligen
 
 ## What to watch
 The next filing will be X’s response to the abandonment finding. If X files a motion to reinstate the "Tweet" trademark, the court will assess whether X has resumed commercial use. Simultaneously, the rival behind Tweet.app is expected to file a trademark registration for the name "Tweet" in the coming weeks. Tracking those docket entries will reveal whether X can reclaim its abandoned symbols or whether the competitor will cement its foothold in the post‑Twitter landscape.
+
+## Updates
+
+- **2026-11-02** — Think twice before putting your gaming console inside a cabinet ([source](https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/))

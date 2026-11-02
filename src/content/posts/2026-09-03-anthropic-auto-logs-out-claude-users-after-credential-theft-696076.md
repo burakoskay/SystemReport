@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Auto-Logs-Out Claude Users After Credential Theft"
 date: 2026-09-03T19:05:45.935Z
-modified_date: 2026-10-01T16:53:45.983Z
+modified_date: 2026-11-02T19:57:38.485Z
 tags: ["anthropic","claude","security","ai"]
 hero_image: "/hero/2026-09-03-anthropic-auto-logs-out-claude-users-after-credential-theft-696076.jpg"
 hero_image_credit_name: "Nishess Shakya"
 hero_image_credit_url: "https://www.pexels.com/@nishess-shakya-401526881"
 visual_keyword: "anthropic claude login screen with lock icon"
 description: "Anthropic now signs out Claude sessions automatically after an infostealer harvested active logins, highlighting growing AI security tensions."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-09-03-anthropic-auto-logs-out-claude-users-after-credential-theft-696076.mp3"
 audio_bytes: 603369
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Automatic sign‑out follows credential theft
@@ -37,6 +38,7 @@ Anthropic’s automatic sign‑out is a reactive measure; the underlying credent
 
 ## Updates
 
+- **2026-11-02** — Anthropic clamps down on Claude’s AI video game clones ([source](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones))
 - **2026-10-01** — 10-year Treasury yield climbs above 5.3% to a level not seen in 24 years ([source](https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDDSiiVQRdEQT0xJVccNKZ0KqNgxiccLPhPtULCG3AfbJdJI6yfExeWFCXjSOm5dLHZD30NAzwxcay6psanbYJ5ZLOoXZ1Yfk0iJl3s3j4_5oXga_qm5QQOF59-ZHO1oJLQHYesqyGOzvDqJy-cobjkLHKbw5ek_RYTtFe3VvClvLdzf-slTQQ)

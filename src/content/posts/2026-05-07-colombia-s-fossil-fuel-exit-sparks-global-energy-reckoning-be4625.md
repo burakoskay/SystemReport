@@ -1,16 +1,17 @@
 ---
 title: "Colombia’s fossil fuel exit sparks global energy reckoning"
 date: 2026-05-07T06:48:50.844Z
-modified_date: 2026-10-14T22:56:49.127Z
+modified_date: 2026-11-02T19:59:29.990Z
 tags: ["energy transition","ai sustainability","fossil fuels","climate policy","tech regulation"]
 hero_image: "/hero/2026-05-07-colombia-s-fossil-fuel-exit-sparks-global-energy-reckoning-be4625.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Solar panels and coal mines under a stormy sky, with data streams projected on a mountain range"
 description: "As AI’s energy demands collide with climate policy shifts, the world grapples with a new energy transition."
-sources_count: 13
+sources_count: 14
 author: "elena-marchetti"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ What to watch: Colombia’s Green Energy Fund will host a public audit in Octobe
 
 ## Updates
 
+- **2026-11-02** — Here’s what’s coming for the MacBook Pro next year, per report ([source](https://9to5mac.com/2026/11/02/heres-whats-coming-for-the-macbook-pro-next-year-per-report/))
 - **2026-10-14** — CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes ([source](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/))
 - **2026-05-16** — Turtle Beach made a good SteelSeries headset clone that’s $50 less ([source](https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on))
 - **2026-05-16** — Old Oil and Gas Wells Could Find Second Life Producing Clean Energy ([source](https://www.wired.com/story/oil-wells-second-life-clean-energy/))

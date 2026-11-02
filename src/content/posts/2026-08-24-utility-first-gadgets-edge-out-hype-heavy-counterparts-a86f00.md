@@ -1,16 +1,17 @@
 ---
 title: "Utility‑First Gadgets Edge Out Hype‑Heavy Counterparts"
 date: 2026-08-24T14:38:28.461Z
-modified_date: 2026-10-31T19:43:19.049Z
+modified_date: 2026-11-02T19:59:35.595Z
 tags: ["smart-calendar","nature-tech","display-glasses","pc-cooling"]
 hero_image: "/hero/2026-08-24-utility-first-gadgets-edge-out-hype-heavy-counterparts-a86f00.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "tethered display glasses on a desk beside a smart calendar interface"
 description: "Free AI calendar tools, nature‑monitoring cameras, tethered display glasses, and cooling choices that prioritize function over flash."
-sources_count: 10
+sources_count: 11
 author: "david-okafor"
 ---
+
 
 
 Free AI tools, modest hardware, and stripped‑down designs are carving out market niches that glossy launches ignore. 
@@ -51,4 +52,5 @@ This trend aligns with a growing segment of power users who reject perpetual‑p
 
 ## Updates
 
+- **2026-11-02** — Always-on Apple Watch display showing the wrong time? Here’s the fix ([source](https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/))
 - **2026-10-31** — Prospero: A new coding harness for a more civilized age ([source](https://nullprogram.com/blog/2026/10/31/))

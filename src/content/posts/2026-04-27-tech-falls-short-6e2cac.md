@@ -1,19 +1,20 @@
 ---
 title: "Tech Falls Short"
 date: 2026-04-27T06:32:41.905Z
-modified_date: 2026-08-27T18:47:21.856Z
+modified_date: 2026-11-02T19:59:18.820Z
 tags: ["science","innovation","sustainability"]
 hero_image: "/hero/2026-04-27-tech-falls-short-6e2cac.jpg"
 hero_image_credit_name: "Alex Knight"
 hero_image_credit_url: "https://www.pexels.com/@agk42"
 visual_keyword: "innovation"
 description: "Science and innovation aren't addressing the world's most pressing issues"
-sources_count: 32
+sources_count: 33
 audio_path: "/audio/2026-04-27-tech-falls-short-6e2cac.mp3"
 audio_bytes: 585187
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ In conclusion, the current system of science and innovation is not serving the n
 
 ## Updates
 
+- **2026-11-02** — New report on ‘HomeView Ultra’ product covers features, pricing, more ([source](https://9to5mac.com/2026/11/02/new-report-on-homeview-ultra-product-covers-features-pricing-more/))
 - **2026-08-27** — Plaud is launching AI earbuds ([source](https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability))
 - **2026-08-09** — The Pixel 11 won’t be exciting – what do you want next year? ([source](https://9to5google.com/2026/08/09/google-pixel-11-boring/))
 - **2026-05-15** — Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved ([source](https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/))
