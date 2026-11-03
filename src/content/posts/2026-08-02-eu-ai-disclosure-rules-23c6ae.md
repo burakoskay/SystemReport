@@ -1,15 +1,17 @@
 ---
 title: "EU AI Disclosure Rules"
 date: 2026-08-02T13:08:05.856Z
+modified_date: 2026-11-03T17:35:56.560Z
 tags: ["AI Regulation","EU AI Act","Disclosure Requirements"]
 hero_image: "/hero/2026-08-02-eu-ai-disclosure-rules-23c6ae.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "EU AI"
 description: "New EU rules require AI disclosure"
-sources_count: 2
+sources_count: 3
 author: "maya-chen"
 ---
+
 
 ## Introduction
 The European Union is introducing new AI regulations that require companies to disclose their use of copyrighted material in training their AI models. This move is part of a broader effort to ensure the safe and responsible deployment of AI technology.
@@ -27,3 +29,7 @@ The EU's AI Act will require companies to develop new technical capabilities to 
 The EU has been at the forefront of AI regulation, with the General Data Protection Regulation (GDPR) serving as a precursor to the AI Act. The GDPR's emphasis on data protection and transparency has set the stage for the AI Act's focus on accountability and responsible AI deployment. By examining the history of AI regulation, it becomes clear that the EU's AI Act is a natural next step in the evolution of AI governance.
 ## Downstream Implications
 The EU's AI Act will have significant downstream implications for companies and users alike. As disclosures become more widespread, users will need to develop a greater understanding of AI and its role in shaping their online experiences. Companies, meanwhile, will need to navigate the complex regulatory landscape and balance the need for transparency with the potential for disclosure fatigue. Ultimately, the success of the EU's AI Act will depend on its ability to promote accountability and trust in AI systems, while minimizing unnecessary burdens on companies and users.
+
+## Updates
+
+- **2026-11-03** — Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It ([source](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/))

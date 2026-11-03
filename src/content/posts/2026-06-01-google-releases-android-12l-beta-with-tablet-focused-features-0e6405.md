@@ -1,16 +1,17 @@
 ---
 title: "Google Releases Android 12L Beta with Tablet-Focused Features"
 date: 2026-06-01T21:46:50.886Z
-modified_date: 2026-10-15T22:50:57.702Z
+modified_date: 2026-11-03T17:37:13.123Z
 tags: ["Android","Security","Tablets"]
 hero_image: "/hero/2026-06-01-google-releases-android-12l-beta-with-tablet-focused-features-0e6405.jpg"
 hero_image_credit_name: "Zain Ali"
 hero_image_credit_url: "https://www.pexels.com/@zaktech90"
 visual_keyword: "Android 12L"
 description: "Google's Android 12L beta, Samsung's forced lockdown mode, and new Android tools illustrate shifting priorities in security and large-screen support."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -87,5 +88,6 @@ The Android ecosystem is complex and multifaceted, with many different stakehold
 
 ## Updates
 
+- **2026-11-03** — Google says students in schools that ban AI won't have access to Search ([source](https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/))
 - **2026-10-15** — Amazon devices chief Panos Panay on the importance of failure and bouncing back from it ([source](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/))
 - **2026-08-13** — I looked inside an AI generated movie, and the best parts were all human ([source](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list))

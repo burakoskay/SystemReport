@@ -1,19 +1,20 @@
 ---
 title: "Apple doubles down on iPhone while expanding AI‑enabled wearables"
 date: 2026-09-10T02:37:11.286Z
-modified_date: 2026-11-01T10:59:16.673Z
+modified_date: 2026-11-03T17:35:45.314Z
 tags: ["apple","iphone","wearables","ai","privacy"]
 hero_image: "/hero/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.jpg"
 hero_image_credit_name: "Melike  B"
 hero_image_credit_url: "https://www.pexels.com/@mlkbnl"
 visual_keyword: "Apple product lineup on stage with foldable iPhone and AirPods 5"
 description: "Apple’s new CEO reasserts the iPhone’s core role as the company hikes legacy prices and rolls out AI‑driven watches, health tools, and a $129 AirPods 5."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-09-10-apple-doubles-down-on-iphone-while-expanding-ai-enabled-wearables-9d0f3c.mp3"
 audio_bytes: 631999
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Track the adoption rate of the iPhone Duo during the first quarter after launch;
 
 ## Updates
 
+- **2026-11-03** — NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact ([source](https://www.wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact/))
 - **2026-11-01** — It's the memory latency, stupid ([source](https://pivotlake.io/blog/its-the-memory-latency-stupid/))
 - **2026-10-14** — Apple reportedly gearing up for strong iPhone 18 sales ([source](https://9to5mac.com/2026/10/14/apple-reportedly-gearing-up-for-strong-iphone-18-sales/))
 - **2026-10-05** — An open-source tool lets you delete 12GB of Apple Intelligence data on macOS ([source](https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool))

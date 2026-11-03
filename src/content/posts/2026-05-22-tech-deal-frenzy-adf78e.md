@@ -1,19 +1,20 @@
 ---
 title: "Tech Deal Frenzy"
 date: 2026-05-22T19:55:27.371Z
-modified_date: 2026-10-19T16:47:20.885Z
+modified_date: 2026-11-03T17:37:29.829Z
 tags: ["tech deals","apple","uk tech prosperity deal","bubble concerns"]
 hero_image: "/hero/2026-05-22-tech-deal-frenzy-adf78e.jpg"
 hero_image_credit_name: "Donald Tong"
 hero_image_credit_url: "https://www.pexels.com/@donaldtong94"
 visual_keyword: "smartwatch technology"
 description: "A surge in tech deals sparks concerns of a bubble, while Apple explores advanced smartwatch technology and the UK's tech prosperity deal with the US is put on ice."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-22-tech-deal-frenzy-adf78e.mp3"
 audio_bytes: 561364
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,5 +66,6 @@ As the tech deal frenzy continues, there are several key developments to watch. 
 
 ## Updates
 
+- **2026-11-03** — What's the meaning of the "C" on your USB-C ports? ([source](https://www.engadget.com/2303753/usb-c-port-letter-c-meaning/))
 - **2026-10-19** — Fiber vs. cable internet: What's the difference between them? ([source](https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between/))
 - **2026-05-30** — What to read this weekend: The Dorians and Red Roots ([source](https://www.engadget.com/2184277/what-to-read-this-weekend-the-dorians-nick-cutter-red-roots-image-comics/))

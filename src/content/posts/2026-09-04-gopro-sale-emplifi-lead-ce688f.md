@@ -1,16 +1,17 @@
 ---
 title: "GoPro Sale, Emplifi Lead"
 date: 2026-09-04T23:57:55.909Z
-modified_date: 2026-10-28T14:46:55.891Z
+modified_date: 2026-11-03T17:36:07.395Z
 tags: ["gopro","acquisition","ai","insurance","tech"]
 hero_image: "/hero/2026-09-04-gopro-sale-emplifi-lead-ce688f.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "conference room with cameras and AI servers"
 description: "GoPro’s $285M Starman acquisition, Emplifi’s Gartner leadership, and Blackstone’s $2.8B Allstate Life buy reshape hardware, AI social tools, and insurance."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ GoPro’s acquisition will face an FTC review that could delay or unwind the dea
 
 ## Updates
 
+- **2026-11-03** — Google is entirely disabling Search in schools that don&#8217;t want AI ([source](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features))
 - **2026-10-28** — Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices ([source](https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/))
 - **2026-10-19** — Jason Sudeikis gives update on Ted Lasso seasons 5 and 6 ([source](https://9to5mac.com/2026/10/19/jason-sudeikis-gives-update-on-ted-lasso-seasons-5-and-6/))
 - **2026-10-05** — Hyundai CEO says only a ‘level playing field’ can minimize damage from China ([source](https://www.theverge.com/transportation/1004785/hyundai-ceo-china-ev-us-market-share))

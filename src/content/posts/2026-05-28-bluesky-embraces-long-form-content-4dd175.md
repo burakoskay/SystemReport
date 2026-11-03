@@ -1,15 +1,17 @@
 ---
 title: "Bluesky Embraces Long-Form Content"
 date: 2026-05-28T23:28:52.254Z
+modified_date: 2026-11-03T17:37:58.522Z
 tags: ["Bluesky","long-form content","social media"]
 hero_image: "/hero/2026-05-28-bluesky-embraces-long-form-content-4dd175.jpg"
 hero_image_credit_name: "Justin Piggy"
 hero_image_credit_url: "https://www.pexels.com/@yhken0123"
 visual_keyword: "Bluesky"
 description: "Bluesky announces support for long-form content, challenging X's character limits."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Bluesky's Long-Form Leap
@@ -51,3 +53,7 @@ The social media industry is expected to continue evolving, with platforms adapt
 ## Conclusion
 
 In conclusion, Bluesky's decision to support long-form content marks a significant shift in the social media landscape. By embracing longer-form content, Bluesky is positioning itself as a hub for in-depth discussions, potentially drawing users away from platforms with restrictive character limits. As the platform continues to develop this feature, users and competitors will be watching closely to see how it executes this vision.
+
+## Updates
+
+- **2026-11-03** — The 'Astra can read and write weights to improve Qwen' post is misleading ([source](https://honnibal.dev/blog/astra-read-write-misleading))

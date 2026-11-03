@@ -1,15 +1,17 @@
 ---
 title: "HD Supernova Image Reveals Star’s Survival Secrets"
 date: 2026-10-11T08:20:21.681Z
+modified_date: 2026-11-03T17:36:18.286Z
 tags: ["astronomy","imaging","archaeology","neuroscience","volcanoes"]
 hero_image: "/hero/2026-10-11-hd-supernova-image-reveals-star-s-survival-secrets-298a25.jpg"
 hero_image_credit_name: "Robert Gruszecki"
 hero_image_credit_url: "https://www.pexels.com/@lexx"
 visual_keyword: "high-definition supernova nebula over ancient star field"
 description: "A new high‑definition view of a 1,000‑year‑old supernova offers fresh clues, while parallel imaging breakthroughs reshape archaeology, neuroscience, and volcano monitoring."
-sources_count: 7
+sources_count: 8
 author: "elena-marchetti"
 ---
+
 
 ## A millennium‑old explosion captured in unprecedented detail
 
@@ -46,3 +48,7 @@ The Hawaiian case illustrates that improved ground‑deformation imaging can tra
 ## What to watch
 
 Investors and policymakers should track funding decisions for next‑generation sensor arrays, especially those that promise sub‑millimeter resolution across wavelengths. The upcoming launch of a space‑based interferometer, slated for 2028, could sharpen supernova reconstructions further, while the National Institutes of Health’s budget request for advanced neuroimaging platforms will dictate the pace of psychedelic research. In Hawaii, the state’s allocation for expanded GPS networks will determine whether ground‑uplift warnings stay ahead of eruptive events. The next few years will reveal whether the scientific community can translate higher resolution into actionable insight, or let the data remain a dazzling curiosity.
+
+## Updates
+
+- **2026-11-03** — Midterm elections 2026: all the news ([source](https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news))

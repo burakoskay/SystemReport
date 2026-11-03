@@ -1,16 +1,17 @@
 ---
 title: "Apple's rapid RC rollout pressures macOS developers"
 date: 2026-09-21T21:37:04.728Z
-modified_date: 2026-11-02T01:11:52.756Z
+modified_date: 2026-11-03T17:37:46.969Z
 tags: ["apple","macos","ios","developer-betas"]
 hero_image: "/hero/2026-09-21-apple-s-rapid-rc-rollout-pressures-macos-developers-82c34f.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer laptop with macOS installer window on screen"
 description: "Apple released second release candidates for macOS Tahoe and Sequoia, while beta streams for Golden Gate and iOS 27.2 accelerate, sparking developer strain and highlighting ecosystem frictions."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 ## Second release candidates hit the road
@@ -42,4 +43,5 @@ The next milestone is the official macOS Tahoe and Sequoia launch, slated for la
 
 ## Updates
 
+- **2026-11-03** — iPhone 18 will have two upgrades inspired by ‘Pro’ models, per leak ([source](https://9to5mac.com/2026/11/03/iphone-18-will-have-two-upgrades-inspired-by-pro-models-per-leak/))
 - **2026-11-02** — Ask HN: Which TV do you recommend for privacy? ([source](https://news.ycombinator.com/item?id=50328896))
