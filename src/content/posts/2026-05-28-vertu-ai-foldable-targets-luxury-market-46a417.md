@@ -1,16 +1,17 @@
 ---
 title: "Vertu AI Foldable Targets Luxury Market"
 date: 2026-05-28T10:13:21.697Z
-modified_date: 2026-09-26T17:42:02.147Z
+modified_date: 2026-11-03T02:00:01.986Z
 tags: ["Vertu","Samsung","Wearable Technology"]
 hero_image: "/hero/2026-05-28-vertu-ai-foldable-targets-luxury-market-46a417.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Foldable"
 description: "Vertu launches AI foldable, Samsung tests Galaxy Watch"
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ The future of wearable technology is likely to be shaped by advancements in sens
 
 ## Updates
 
+- **2026-11-03** — Egoless Mathematics in the AI Era ([source](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/))
 - **2026-09-26** — OpenAI pauses training of its ‘most capable models’ ([source](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause))
 - **2026-09-11** — The Deathray: A simple way for an untrusted site to freeze a Mac ([source](https://auberon.xyz/blog/posts/deathray/))
 - **2026-08-11** — England and Wales ban Meta Glasses from courtrooms ([source](https://www.engadget.com/2234606/england-and-wales-ban-meta-glasses-from-courtrooms/))

@@ -1,16 +1,18 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-11-01T10:58:40.735Z
+modified_date: 2026-11-03T01:59:18.385Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 24
+sources_count: 26
 author: "ryan-tanaka"
 ---
+
+
 
 
 
@@ -44,6 +46,8 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-11-03** — What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows ([source](https://9to5google.com/2026/11/02/november-2026-google-system-updates/))
+- **2026-11-03** — This Chinese Android phone brand has launched a Harry Potter collab ([source](https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/))
 - **2026-11-01** — 7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating ([source](https://www.wired.com/story/the-best-travel-mugs/))
 - **2026-10-31** — How to improve audio quality on your Android phone with Bluetooth or wired headphones ([source](https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones/))
 - **2026-10-26** — What’s new in Android’s October 2026 Google System Updates [U] ([source](https://9to5google.com/2026/10/26/october-2026-google-system-updates/))

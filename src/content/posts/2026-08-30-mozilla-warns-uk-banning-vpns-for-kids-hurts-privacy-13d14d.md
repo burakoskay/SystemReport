@@ -1,15 +1,17 @@
 ---
 title: "Mozilla warns UK: Banning VPNs for kids hurts privacy"
 date: 2026-08-30T14:41:28.292Z
+modified_date: 2026-11-03T02:00:09.226Z
 tags: ["privacy","vpn","uk-regulation","security"]
 hero_image: "/hero/2026-08-30-mozilla-warns-uk-banning-vpns-for-kids-hurts-privacy-13d14d.jpg"
 hero_image_credit_name: "Stefan Coders"
 hero_image_credit_url: "https://www.pexels.com/@stefan-coders-1019774"
 visual_keyword: "person using a VPN on a laptop with UK flag overlay"
 description: "Mozilla’s submission to the UK’s digital‑safety consultation argues that age‑gating VPNs undermines security and privacy for all users."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 ## Mozilla pushes back on UK age‑gating plan
 Mozilla lodged a formal response to the Department for Science, Innovation and Technology’s consultation on digital‑safety measures for young people. The tech nonprofit argues that forcing age checks on virtual private networks would cripple a core privacy tool for everyone.
@@ -38,3 +40,7 @@ On the desktop side, QubesOS continues to champion compartmentalization. A recen
 
 ## What to watch
 The next round of the UK consultation is slated for early 2027. Stakeholders will be looking for concrete data on how age‑gating VPNs affects both minors and the broader user base. Keep an eye on the Department for Science, Innovation and Technology’s final report and any amendments to the Online Safety Act. Parallelly, watch how privacy‑focused OS projects like GrapheneOS and security‑centric desktops such as QubesOS evolve their threat models—those developments will shape the tools users turn to when official channels tighten.
+
+## Updates
+
+- **2026-11-03** — Sneaking into the auditorium for the Windows 2000 launch rehearsal ([source](https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/))

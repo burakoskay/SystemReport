@@ -1,16 +1,17 @@
 ---
 title: "Google Unveils Gemini 3.5 Flash and Spark"
 date: 2026-05-19T18:10:45.206Z
-modified_date: 2026-10-28T20:47:36.306Z
+modified_date: 2026-11-03T02:00:16.548Z
 tags: ["Google","Gemini 3.5 Flash","Agentic AI"]
 hero_image: "/hero/2026-05-19-google-unveils-gemini-3-5-flash-and-spark-bfdee9.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Google bets on agentic AI"
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The launch of Gemini 3.5 Flash and Spark has significant implications for variou
 
 ## Updates
 
+- **2026-11-03** — Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app ([source](https://momentic.ai/))
 - **2026-10-28** — Google announces Gemini 4 Carbon with ‘significant gains across coding and agentic tasks’ ([source](https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/))
 - **2026-09-03** — Google launches AI voice features in Gmail, Docs, and Keep ([source](https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/))
 - **2026-09-01** — Razer just released a cute and teensy mobile game controller ([source](https://www.engadget.com/2248729/razer-just-released-a-cute-and-teensy-mobile-game-controller/))

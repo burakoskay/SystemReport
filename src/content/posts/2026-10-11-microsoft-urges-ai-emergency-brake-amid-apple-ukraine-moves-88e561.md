@@ -1,18 +1,20 @@
 ---
 title: "Microsoft urges AI ‘emergency brake’ amid Apple, Ukraine moves"
 date: 2026-10-11T00:40:57.983Z
+modified_date: 2026-11-03T01:58:27.101Z
 tags: ["ai safety","apple","microsoft","coding assistants"]
 hero_image: "/hero/2026-10-11-microsoft-urges-ai-emergency-brake-amid-apple-ukraine-moves-88e561.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "drone silhouette over a server rack in a data center"
 description: "Microsoft's CEO calls for an AI safety stop button while Apple taps a podcast startup, Ukraine hits a Russian AI data hub, and a study flags bottlenecks in coding assistants."
-sources_count: 10
-author: "maya-chen"
+sources_count: 11
 audio_path: "/audio/2026-10-11-microsoft-urges-ai-emergency-brake-amid-apple-ukraine-moves-88e561.mp3"
 audio_bytes: 555930
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Microsoft pushes for an AI safety stop button
 Satya Nadella posted on X that Microsoft must "step back and assess the trust architecture" of its AI models. He framed the call as an "emergency brake" that could be pulled if systems drift.
@@ -44,3 +46,7 @@ The findings temper the hype around AI‑driven development tools. Companies tha
 
 ## What to watch next
 Microsoft is expected to detail its "emergency brake" architecture in an upcoming developer blog. Track whether the company publishes concrete API controls or merely policy guidance. Apple’s integration of Huxe’s tech will surface in the next iOS update; watch for changes to the Podcasts UI and any new content‑generation settings. Yandex may announce a relocation of its training workloads or a partnership with foreign cloud providers in response to the drone strike. Finally, monitor vendor roadmaps for coding assistants that bundle automated review features, as those could address the bottleneck highlighted by the recent study.
+
+## Updates
+
+- **2026-11-03** — Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around ([source](https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints))

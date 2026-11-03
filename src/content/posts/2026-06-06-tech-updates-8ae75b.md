@@ -1,19 +1,20 @@
 ---
 title: "Tech Updates"
 date: 2026-06-06T03:55:51.390Z
-modified_date: 2026-08-12T14:53:03.424Z
+modified_date: 2026-11-03T01:58:56.587Z
 tags: ["Google Messages","Instagram","WhatsApp","Snapchat","Apple Watch"]
 hero_image: "/hero/2026-06-06-tech-updates-8ae75b.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "smartphone"
 description: "Google Messages introduces 'Tap to draft' for Smart Replies, Instagram's feed update sparks outrage"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-06-tech-updates-8ae75b.mp3"
 audio_bytes: 625102
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to Recent Tech Updates
@@ -54,4 +55,5 @@ The recent updates in the tech industry will have significant downstream implica
 
 ## Updates
 
+- **2026-11-03** — BMW is taking on Tesla’s FSD with urban driver assist starting in 2027 ([source](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027))
 - **2026-08-12** — The Pixel Tag is Google’s answer to the AirTag ([source](https://www.theverge.com/tech/978713/google-pixel-tag-uwb-bluetooth-channel-finding-news))

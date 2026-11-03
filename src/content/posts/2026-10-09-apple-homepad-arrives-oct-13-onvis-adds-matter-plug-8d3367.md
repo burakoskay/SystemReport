@@ -1,15 +1,17 @@
 ---
 title: "Apple HomePad arrives Oct 13; Onvis adds Matter plug"
 date: 2026-10-09T22:29:09.415Z
+modified_date: 2026-11-03T01:59:33.009Z
 tags: ["apple","homekit","smart-home"]
 hero_image: "/hero/2026-10-09-apple-homepad-arrives-oct-13-onvis-adds-matter-plug-8d3367.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "modern living room with sleek tablet and outdoor smart plug under a garden light"
 description: "Apple will unveil its HomePad on Oct 13, while Onvis rolls out a Matter‑over‑Thread outdoor plug that works straight with Apple Home."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Apple will unveil the HomePad on Tuesday, Oct 13, at its Welcome home event. The product has been whispered about for years, and the announcement finally puts a name to the hardware Apple has been teasing.
 
@@ -43,6 +45,9 @@ The real test will be how seamless the experience feels. If Apple delivers a pol
 
 Keep an eye on the Welcome home keynote for confirmation of the HomePad’s hardware specs, especially whether it includes a Thread radio and a dedicated Home app UI. After the event, monitor Onvis’s firmware updates for any new Matter features or energy‑saving modes. The next major HomeKit software release, slated for later this year, may also add tighter integration with Thread border routers, which could amplify the impact of both the HomePad and the Onvis plug. Tracking user adoption metrics and third‑party accessory announcements will indicate whether Apple’s home‑control ambitions are gaining momentum or stalling.
 
+## Updates
+
+- **2026-11-03** — Apple forecasts its biggest revenue quarter ever despite supply constraints ([source](https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/))
 
 [^1]: [9to5mac.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWluy7N6oIs07a2at1DXkEzYOdZEcl44hegpnsF17rix6QfjEqWtU6Xbx_wM1XoPzUaZANRUrjxlvUSwrx69YyqFRy1BT5B6yhTNM20v4KTGffarKHm5bssDnkCa41oeQN5haLdXuvS7bT24bxkWmRRFCSLlMesgIe6vTCPFArMVpdhL3DcE1YOcHCok-mrovVkeIaDU0XzvzuZfCnYYsWj3bG1hPeFg2cPk0nCMEsix90XrQO4rw=)
 [^2]: [homekitnews.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZBrHLn4ybFAlWxZrAWbL54RGg4LG-nQ_ygtaGmxcQcagS-CuE_3OcTIpJpksi0l9SN9CSgxKM_u8wEMeT1Di17G6_gT94Y5p4iEcBzysHo0BhN2UTC73cDU9KpRZe117FmCNwvZz7HdoBmFXxck0cf-IP5q9zv4o7cLoXMvgLegVcdZ7ps1Zgo3j6XFX9PpkKcG7kiJyRyVU9SqhE)

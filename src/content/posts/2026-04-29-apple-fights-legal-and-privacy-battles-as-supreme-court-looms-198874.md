@@ -1,16 +1,17 @@
 ---
 title: "Apple fights legal and privacy battles as Supreme Court looms"
 date: 2026-04-29T14:19:57.648Z
-modified_date: 2026-11-02T19:58:22.769Z
+modified_date: 2026-11-03T01:59:25.697Z
 tags: ["apple","privacy","app store"]
 hero_image: "/hero/2026-04-29-apple-fights-legal-and-privacy-battles-as-supreme-court-looms-198874.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "courtroom with Apple logo and app icons"
 description: "Apple lost a bid to pause App Store fee changes, faces scrutiny over ad personalization and AI‑nudify apps, while Brussels seeks to yank Uber from its stores."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The Supreme Court’s ruling on the Epic Games case will set a precedent for all
 
 ## Updates
 
+- **2026-11-03** — Apple stock drops nearly 3% after hours following Q4 2026 results ([source](https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/))
 - **2026-11-02** — The world has a new plan to save nature, but it still needs the money ([source](https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/))
 - **2026-09-25** — Microsoft thinks its new Copilot ‘super app’ will be as influential as Office ([source](https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot))
 - **2026-08-14** — Apple seeks settlement talks with Epic Games in new court filing ([source](https://9to5mac.com/2026/08/13/apple-seeks-settlement-talks-with-epic-games-in-new-court-filing/))
