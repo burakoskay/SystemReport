@@ -1,16 +1,17 @@
 ---
 title: "Uber Torches 2026 AI Budget on Claude Code in Four Months"
 date: 2026-05-01T19:22:56.452Z
-modified_date: 2026-11-03T17:35:33.839Z
+modified_date: 2026-11-03T22:51:53.647Z
 tags: ["ai-spending","anthropic","claude-code","ai-assistants","data-center-investment"]
 hero_image: "/hero/2026-05-01-uber-torches-2026-ai-budget-on-claude-code-in-four-months-7f90ed.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "A futuristic cityscape with glowing data center towers and AI-themed holograms"
 description: "Uber spends its entire 2026 AI budget on Claude Code in four months as Anthropic accelerates data center expansion."
-sources_count: 22
+sources_count: 23
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The next six months will clarify where these forces collide. Watch for Anthropic
 
 ## Updates
 
+- **2026-11-03** — iOS 27.3 adds all-new Apple Health app, details here ([source](https://9to5mac.com/2026/11/03/ios-27-3-adds-all-new-apple-health-app-details-here/))
 - **2026-11-03** — Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For? ([source](https://www.wired.com/review/ipad-mini-2026/))
 - **2026-10-22** — Hugging Face’s New AI Biology Model Lets You Chat With DNA ([source](https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/))
 - **2026-10-20** — Spotify podcast memberships let you support your favorite shows and get added perks ([source](https://9to5google.com/2026/10/20/spotify-podcast-memberships-let-you-support-your-favorite-shows-and-get-added-perks/))

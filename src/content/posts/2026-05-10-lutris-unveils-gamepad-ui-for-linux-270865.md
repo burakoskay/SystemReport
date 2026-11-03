@@ -1,16 +1,17 @@
 ---
 title: "Lutris Unveils Gamepad UI for Linux"
 date: 2026-05-10T13:45:41.332Z
-modified_date: 2026-10-13T22:11:36.731Z
+modified_date: 2026-11-03T22:48:58.712Z
 tags: ["Linux gaming","Lutris","Gamepad UI"]
 hero_image: "/hero/2026-05-10-lutris-unveils-gamepad-ui-for-linux-270865.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "gamepad"
 description: "Lutris debuts TV-friendly, gamepad-navigable frontend for Linux, allowing users to browse and launch games with a controller."
-sources_count: 12
+sources_count: 13
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -65,6 +66,7 @@ In conclusion, the introduction of the gamepad UI by Lutris marks a significant 
 
 ## Updates
 
+- **2026-11-03** — iPhone 18 rumors suggest a bigger battery, higher price next year ([source](https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery))
 - **2026-10-13** — The Nothing Headphone A are half off for the first time ([source](https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale))
 - **2026-09-15** — Is Big Tech’s AI slowdown a safety pact or a cartel? ([source](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel))
 - **2026-09-03** — Ugreen’s ‘HomeAgent’ is a local AI smart home ecosystem for its new line of cameras, more ([source](https://9to5google.com/2026/09/03/ugreen-announces-homeagent-smart-home-hub/))

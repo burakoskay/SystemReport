@@ -1,16 +1,17 @@
 ---
 title: "US-China tech rivalry escalates with new export controls"
 date: 2026-05-20T18:37:48.701Z
-modified_date: 2026-10-28T20:45:52.849Z
+modified_date: 2026-11-03T22:48:49.027Z
 tags: ["semiconductor exports","AI GPU restrictions","US-China trade war","national security controls","tech supply chain"]
 hero_image: "/hero/2026-05-20-us-china-tech-rivalry-escalates-with-new-export-controls-25a3bc.jpg"
 hero_image_credit_name: "Nothing Ahead"
 hero_image_credit_url: "https://www.pexels.com/@ian-panelo"
 visual_keyword: "geopolitical conflict in tech industry"
 description: "New US export curbs on AI GPUs and China's material bans redefine semiconductor tensions."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Monitor these three developments: (1) How Chinese firms respond to GPU shortages
 
 ## Updates
 
+- **2026-11-03** — Those Jeff Bezos hair transplant photos are very fake ([source](https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk))
 - **2026-10-28** — Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents ([source](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/))
 - **2026-10-21** — GM Wants Your Car to Do Your Chores ([source](https://www.wired.com/story/gm-wants-your-car-to-do-your-chores/))
 - **2026-10-20** — Google is bringing a more personal version of its Gemini AI assistant to your car ([source](https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/))

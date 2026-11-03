@@ -1,19 +1,20 @@
 ---
 title: "Companies Leak Secrets"
 date: 2026-08-09T05:01:20.336Z
-modified_date: 2026-11-03T01:58:49.354Z
+modified_date: 2026-11-03T22:49:18.667Z
 tags: ["email security","data leaks","corporate secrets"]
 hero_image: "/hero/2026-08-09-companies-leak-secrets-da364d.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "email inbox"
 description: "Hundreds of companies send corporate secrets to 'no reply' emails, exposing sensitive info. Two security researchers reveal the extent of the issue."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-09-companies-leak-secrets-da364d.mp3"
 audio_bytes: 579127
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -44,4 +45,5 @@ In the coming months, it will be important to watch how companies respond to the
 
 ## Updates
 
+- **2026-11-03** — This Election Day, remember which party ran against EVs and tethered us all to the gas pump ([source](https://www.theverge.com/transportation/1025318/trump-gop-ev-war-record-gas-prices-midterms))
 - **2026-11-03** — One of Google’s Android partners turned 1.3 million set-top boxes into a botnet ([source](https://www.theverge.com/1024807/google-botnet-android-tv-shut-down))

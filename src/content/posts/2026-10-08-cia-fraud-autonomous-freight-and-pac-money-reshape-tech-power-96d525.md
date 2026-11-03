@@ -1,18 +1,20 @@
 ---
 title: "CIA fraud, autonomous freight, and PAC money reshape tech power"
 date: 2026-10-08T00:05:48.201Z
+modified_date: 2026-11-03T22:47:50.440Z
 tags: ["cia","autonomous-transport","politics","tech-investment","security"]
 hero_image: "/hero/2026-10-08-cia-fraud-autonomous-freight-and-pac-money-reshape-tech-power-96d525.jpg"
 hero_image_credit_name: "Quintin Gellar"
 hero_image_credit_url: "https://www.pexels.com/@quintingellar"
 visual_keyword: "futuristic autonomous freight train beside a stack of gold bars"
 description: "A CIA officer’s $190 M fraud, a $100 M autonomous rail push, and a PAC’s election spending reveal how money and secrecy are reshaping tech influence."
-sources_count: 5
-author: "elena-marchetti"
+sources_count: 6
 audio_path: "/audio/2026-10-08-cia-fraud-autonomous-freight-and-pac-money-reshape-tech-power-96d525.mp3"
 audio_bytes: 628655
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A $190 M CIA fraud exposed
 
@@ -49,3 +51,7 @@ If regulators fail to impose transparency on classified spending, if lawmakers i
 ## What to watch
 
 Watch for the Senate committee hearings on autonomous vehicle regulation slated for early next year. Track any congressional inquiries into the CIA’s internal audit processes following the Rush plea. Monitor the final election results in key swing states, where America PAC’s ad spend may tip the balance. Each of these fronts will indicate whether the current blend of secrecy, innovation, and political money will be reined in or allowed to expand unchecked.
+
+## Updates
+
+- **2026-11-03** — Ten years later, ‘Pokémon Go to the polls’ still haunts the internet ([source](https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/))

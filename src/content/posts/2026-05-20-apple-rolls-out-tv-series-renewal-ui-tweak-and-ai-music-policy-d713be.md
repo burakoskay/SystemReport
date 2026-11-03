@@ -1,16 +1,17 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-11-02T19:58:06.026Z
+modified_date: 2026-11-03T22:51:34.968Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 24
+sources_count: 25
 author: "maya-chen"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-11-03** — watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch ([source](https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/))
 - **2026-11-02** — Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights ([source](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/))
 - **2026-10-30** — Apple Music 7.0 for Android rolls out with Liquid Glass redesign ([source](https://9to5google.com/2026/10/30/apple-music-7-0-redesign/))
 - **2026-10-23** — Spotify says yes, it is busting people for using Family Plan sharing too widely ([source](https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes))

@@ -1,18 +1,20 @@
 ---
 title: "Tech giants slash jobs as AI and cost pressures mount"
 date: 2026-09-04T14:02:04.690Z
+modified_date: 2026-11-03T22:51:06.812Z
 tags: ["layoffs","ai","techindustry","corporategovernance"]
 hero_image: "/hero/2026-09-04-tech-giants-slash-jobs-as-ai-and-cost-pressures-mount-ed2dcf.jpg"
 hero_image_credit_name: "Mike van Schoonderwalt"
 hero_image_credit_url: "https://www.pexels.com/@mike-van-schoonderwalt-1884800"
 visual_keyword: "boardroom with empty chairs and digital screens"
 description: "Volkswagen, Meta, and fraud‑prevention startup NS8 announce deep cuts, exposing AI‑driven efficiency drives and governance turmoil."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-09-04-tech-giants-slash-jobs-as-ai-and-cost-pressures-mount-ed2dcf.mp3"
 audio_bytes: 577455
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Volkswagen’s 50,000‑person retreat
 
@@ -61,3 +63,7 @@ From a technical standpoint, the promise of AI to handle routine tasks is real, 
 The next quarter will reveal whether Volkswagen’s cuts translate into a faster rollout of electric models or simply a leaner balance sheet. NS8’s board will likely release the findings of its internal probe, and investors will gauge whether the startup can stabilize after the layoffs. Meta’s advertisers will test the limits of AI‑only support; any surge in churn could force the platform to rethink its staffing model. Tracking earnings calls, SEC filings, and European labor ministry statements will give the clearest picture of how these cost‑cutting strategies play out.
 
 ---
+
+## Updates
+
+- **2026-11-03** — iOS 27.3 brings the iPhone Duo’s revamped StandBy to other iPhones ([source](https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/))

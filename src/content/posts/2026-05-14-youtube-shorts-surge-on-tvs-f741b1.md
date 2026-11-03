@@ -1,15 +1,17 @@
 ---
 title: "YouTube Shorts Surge on TVs"
 date: 2026-05-14T21:26:18.619Z
+modified_date: 2026-11-03T22:49:08.580Z
 tags: ["youtube","tiktok","digital-wellbeing"]
 hero_image: "/hero/2026-05-14-youtube-shorts-surge-on-tvs-f741b1.jpg"
 hero_image_credit_name: "Viralyft"
 hero_image_credit_url: "https://www.pexels.com/@viralyft"
 visual_keyword: "person using smartphone to scroll through social media app with blurred video feeds in background"
 description: "YouTube Shorts dominate TV hours. TikTok automation tools proliferate. A new app blocks addictive content."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## The Big Screen Takes Over
 
@@ -44,3 +46,7 @@ Three threads will define the next six months:
 3. **ScrollGuard’s Expansion** — The app currently supports iOS and Android. If it adds macOS/iPadOS support, it could redefine how users interact with web-based social feeds.
 
 The short-form war isn’t about content—it’s about control. Who owns the feed, the user or the algorithm? TikTok bots and ScrollGuard represent two answers: one automates the system, the other tries to escape it. For now, the system wins.
+
+## Updates
+
+- **2026-11-03** — Apple starts giving Siri AI access to third-party apps ([source](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps))

@@ -1,19 +1,20 @@
 ---
 title: "Google bundles YouTube Premium Lite with top storage tier"
 date: 2026-05-19T21:34:53.199Z
-modified_date: 2026-09-09T14:06:14.508Z
+modified_date: 2026-11-03T22:50:38.458Z
 tags: ["google","ai","youtube"]
 hero_image: "/hero/2026-05-19-google-bundles-youtube-premium-lite-with-top-storage-tier-d2ee24.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "Google cloud data center with AI models and streaming icons"
 description: "Google bundles YouTube Premium Lite with its highest‑tier storage plan while unveiling Gemini 3.5 Flash and Gemini Omni, raising the stakes in AI and media services."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-19-google-bundles-youtube-premium-lite-with-top-storage-tier-d2ee24.mp3"
 audio_bytes: 577664
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,5 +52,6 @@ The next Google I/O keynote will likely reveal pricing for Gemini’s API access
 
 ## Updates
 
+- **2026-11-03** — Google’s Stadia Controller dream lives on in the $50 Xbox Nano Controller ([source](https://9to5google.com/2026/11/03/xbox-nano-controller-cloud-gaming-stadia/))
 - **2026-09-09** — Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive ([source](https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/))
 - **2026-06-03** — Google shares Fitbit Air blueprints so you can 3D print your own accessories ([source](https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/))

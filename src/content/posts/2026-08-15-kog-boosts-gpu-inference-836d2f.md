@@ -1,15 +1,17 @@
 ---
 title: "Kog Boosts GPU Inference"
 date: 2026-08-15T12:27:25.239Z
+modified_date: 2026-11-03T22:49:39.131Z
 tags: ["gpu","inference","kog"]
 hero_image: "/hero/2026-08-15-kog-boosts-gpu-inference-836d2f.jpg"
 hero_image_credit_name: "Adriano Ponte Abreu"
 hero_image_credit_url: "https://www.pexels.com/@adriano-ponte-abreu-2162631677"
 visual_keyword: "gpu architecture"
 description: "Kog challenges the notion that GPUs are ill-suited for agentic workflows, aiming to squeeze more inference out of them. The French startup's approach may change how we utilize GPUs."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction to Kog's Approach
@@ -34,3 +36,7 @@ Kog's approach is unique in that it focuses specifically on optimizing GPUs for 
 
 ## What to Watch
 As Kog continues to develop its technology, it will be interesting to see how the company's approach is received by the wider tech community. Will Kog's innovative approach to GPU inference be adopted by other companies, or will it remain a niche solution? One thing is certain: if Kog is successful, it could have a major impact on the future of AI research and development. The company's next major milestone will be the release of its custom GPU design, which is expected to happen within the next 12-18 months. This will be a key indicator of whether Kog's approach is viable and has the potential to disrupt the status quo.
+
+## Updates
+
+- **2026-11-03** — Don't throw away your laptop's old SSDs — do this instead ([source](https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/))
