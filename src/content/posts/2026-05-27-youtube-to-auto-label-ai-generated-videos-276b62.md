@@ -1,18 +1,20 @@
 ---
 title: "YouTube to Auto-Label AI-Generated Videos"
 date: 2026-05-27T18:32:27.444Z
+modified_date: 2026-11-04T13:38:50.909Z
 tags: ["AI-generated content","YouTube","transparency"]
 hero_image: "/hero/2026-05-27-youtube-to-auto-label-ai-generated-videos-276b62.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated video"
 description: "YouTube will automatically detect and label AI-generated videos to increase transparency."
-sources_count: 4
-author: "maya-chen"
+sources_count: 5
 audio_path: "/audio/2026-05-27-youtube-to-auto-label-ai-generated-videos-276b62.mp3"
 audio_bytes: 591248
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## YouTube Cracks Down on AI-Generated Content
@@ -75,3 +77,6 @@ In conclusion, YouTube's decision to auto-label AI-generated videos is a signifi
 
 The development of AI-generated content labeling policies is an ongoing process, and it will be important to monitor the effectiveness of these policies and to adapt them as needed. By prioritizing transparency and accountability, social media platforms can promote trust in online content and ensure that AI-generated content is used responsibly.
 
+## Updates
+
+- **2026-11-04** — Google hasn&#8217;t figured out how to make AI pay like its search engine ([source](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3))
