@@ -1,16 +1,17 @@
 ---
 title: "FTC says $2.1 B Lost to Social Media Scams in 2025"
 date: 2026-04-27T23:04:02.288Z
-modified_date: 2026-10-30T20:19:51.996Z
+modified_date: 2026-11-04T04:25:18.446Z
 tags: ["scams","ftc","consumer-protection","cybersecurity"]
 hero_image: "/hero/2026-04-27-ftc-says-2-1-b-lost-to-social-media-scams-in-2025-4a3ddf.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "concerned person looking at phone with scam messages"
 description: "Scam losses hit $2.1 billion in 2025, an eight‑fold jump that outpaces any other fraud channel, prompting a regulatory rethink."
-sources_count: 20
+sources_count: 21
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The next FTC quarterly report, due in July 2026, will be the first to reflect 
 
 ## Updates
 
+- **2026-11-04** — Follow today’s midterm election results with the Apple News Live Activity ([source](https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/))
 - **2026-10-30** — The federated code forge ([source](https://tangled.org/blog/forge/))
 - **2026-10-22** — Mass Effect 5 trailer leaks following BioWare shutdown ([source](https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea))
 - **2026-09-15** — What if social media isn’t hurting kids? ([source](https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt))

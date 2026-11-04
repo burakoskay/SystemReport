@@ -1,16 +1,17 @@
 ---
 title: "AI Gig Work on the Rise"
 date: 2026-05-11T11:30:44.767Z
-modified_date: 2026-09-25T23:01:31.975Z
+modified_date: 2026-11-04T04:25:34.465Z
 tags: ["AI","Gig Work","Tech Industry"]
 hero_image: "/hero/2026-05-11-ai-gig-work-on-the-rise-1243ae.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI gig work increases"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -33,5 +34,6 @@ The downstream implications of AI gig work are significant. The rise of AI-gener
 
 ## Updates
 
+- **2026-11-04** — Preparing for the Flipper One Kickstarter and opening pre-orders ([source](https://flipper.net/pages/flipper-one))
 - **2026-09-25** — Meta opens early access program for new Muse features ([source](https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/))
 - **2026-05-18** — Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare ([source](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/))

@@ -1,18 +1,20 @@
 ---
 title: "Notion Expands into Agentic Productivity Software"
 date: 2026-05-13T23:09:45.398Z
+modified_date: 2026-11-04T04:24:40.145Z
 tags: ["Notion","Agentic Productivity Software","Ransomware","Foxconn"]
 hero_image: "/hero/2026-05-13-notion-expands-into-agentic-productivity-software-dda2ea.jpg"
 hero_image_credit_name: "Olga Kovalski"
 hero_image_credit_url: "https://www.pexels.com/@kovalskiolga"
 visual_keyword: "Notion"
 description: "Notion's new developer platform and ransomware hackers claim breach at Foxconn"
-sources_count: 18
-author: "maya-chen"
+sources_count: 19
 audio_path: "/audio/2026-05-13-notion-expands-into-agentic-productivity-software-dda2ea.mp3"
 audio_bytes: 604622
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -52,3 +54,7 @@ The launch of Notion's developer platform and the ransomware attack on Foxconn h
 The incident highlights the importance of implementing robust security protocols and ensuring that companies are equipped to respond to and manage cyber threats. It also underscores the need for collaboration and information sharing between companies, governments, and law enforcement agencies to combat cybercrime. As the technology industry continues to evolve, companies must prioritize cybersecurity, innovation, and productivity to stay ahead of the curve.
 
 In conclusion, Notion's new developer platform and the ransomware attack on Foxconn are significant events that highlight the growing importance of agentic productivity software and cybersecurity in the technology industry. As companies continue to adopt and integrate AI agents, external data sources, and custom code into their workflows, they must also prioritize robust security measures to protect themselves from cyber threats.
+
+## Updates
+
+- **2026-11-04** — Canva is announcing changes and layoffs affecting 22 percent of its staff ([source](https://www.theverge.com/tech/1025971/canva-changes-layoffs))

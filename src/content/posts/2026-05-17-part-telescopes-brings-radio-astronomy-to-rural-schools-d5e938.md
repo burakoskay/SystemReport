@@ -1,16 +1,17 @@
 ---
 title: "PART Telescopes Brings Radio Astronomy to Rural Schools"
 date: 2026-05-17T09:54:31.460Z
-modified_date: 2026-09-28T19:07:09.554Z
+modified_date: 2026-11-04T04:25:02.782Z
 tags: ["radio astronomy","STEM education","rural schools"]
 hero_image: "/hero/2026-05-17-part-telescopes-brings-radio-astronomy-to-rural-schools-d5e938.jpg"
 hero_image_credit_name: "Raul Ling"
 hero_image_credit_url: "https://www.pexels.com/@raulling"
 visual_keyword: "radio telescope"
 description: "PART Telescopes provides low-cost radio astronomy tools to rural schools, expanding STEM opportunities."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,5 +60,6 @@ In conclusion, the PART Telescopes project has the potential to make a significa
 
 ## Updates
 
+- **2026-11-04** — macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro ([source](https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/))
 - **2026-09-28** — Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/))
 - **2026-09-22** — Paramount will need to release way more movies to make this merger work ([source](https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails))
