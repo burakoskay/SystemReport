@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-10-13T17:21:34.394Z
+modified_date: 2026-11-04T20:41:55.691Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-11-04** — The first Snapdragon phone with Android Linux Terminal support is here ([source](https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/))
 - **2026-10-13** — Thunderbird for iOS ([source](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/))
 - **2026-10-10** — Lobbying is corruption ([source](https://carette.xyz/posts/lobbying_and_corruption/))
 - **2026-10-05** — Germany’s RobCo hits $1B valuation ([source](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/))

@@ -1,16 +1,17 @@
 ---
 title: "The Subtle Art of Imperfection: McDonald's Japan's Asymmetric"
 date: 2026-04-16T05:31:36.222Z
-modified_date: 2026-10-13T17:20:45.944Z
+modified_date: 2026-11-04T20:42:24.817Z
 tags: ["marketing strategy","food advertising","authenticity","mcdonalds japan","consumer psychology"]
 hero_image: "/hero/2026-04-16-the-subtle-art-of-imperfection-mcdonald-s-japan-s-asymmetric-burger-strategy-80d91b.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "slightly askew burger bun"
 description: "McDonald's Japan's subtly askew burger buns in ads reveal a clever strategy: embracing imperfection to build authenticity and consumer trust."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ Ultimately, McDonald's Japan's askew bun isn't just a quirk; it's a testament to
 
 ## Updates
 
+- **2026-11-04** — Meet the 20 first-place apps from RevenueCat’s Shipaton 2026 ([source](https://9to5mac.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/))
 - **2026-10-13** — Is the Apple Watch Series 10 still worth your money in 2026? ([source](https://www.engadget.com/2282092/apple-watch-series-10-still-worth-money-in-2026/))
 - **2026-10-08** — She Designed Meta’s New AI Logo. Then Came the Hate ([source](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/))
 - **2026-09-27** — Japan moves to tighten rules for foreigners ([source](https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt))

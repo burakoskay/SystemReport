@@ -1,19 +1,20 @@
 ---
 title: "Tech giants slash jobs as AI and cost pressures mount"
 date: 2026-09-04T14:02:04.690Z
-modified_date: 2026-11-03T22:51:06.812Z
+modified_date: 2026-11-04T20:40:58.324Z
 tags: ["layoffs","ai","techindustry","corporategovernance"]
 hero_image: "/hero/2026-09-04-tech-giants-slash-jobs-as-ai-and-cost-pressures-mount-ed2dcf.jpg"
 hero_image_credit_name: "Mike van Schoonderwalt"
 hero_image_credit_url: "https://www.pexels.com/@mike-van-schoonderwalt-1884800"
 visual_keyword: "boardroom with empty chairs and digital screens"
 description: "Volkswagen, Meta, and fraud‑prevention startup NS8 announce deep cuts, exposing AI‑driven efficiency drives and governance turmoil."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-09-04-tech-giants-slash-jobs-as-ai-and-cost-pressures-mount-ed2dcf.mp3"
 audio_bytes: 577455
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Volkswagen’s 50,000‑person retreat
@@ -66,4 +67,5 @@ The next quarter will reveal whether Volkswagen’s cuts translate into a faster
 
 ## Updates
 
+- **2026-11-04** — My therapist thinks I should chuck the Amazon Bee Frontier out a window ([source](https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables))
 - **2026-11-03** — iOS 27.3 brings the iPhone Duo’s revamped StandBy to other iPhones ([source](https://9to5mac.com/2026/11/03/ios-27-3-brings-the-iphone-duos-revamped-standby-to-other-iphones/))

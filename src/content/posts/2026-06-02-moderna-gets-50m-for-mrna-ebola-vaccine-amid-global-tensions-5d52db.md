@@ -1,19 +1,20 @@
 ---
 title: "Moderna Gets $50M for mRNA Ebola Vaccine Amid Global Tensions"
 date: 2026-06-02T04:26:38.915Z
-modified_date: 2026-07-31T10:33:13.376Z
+modified_date: 2026-11-04T20:40:00.228Z
 tags: ["vaccines","mRNA","cancer","public health"]
 hero_image: "/hero/2026-06-02-moderna-gets-50m-for-mrna-ebola-vaccine-amid-global-tensions-5d52db.jpg"
 hero_image_credit_name: "olia danilevich"
 hero_image_credit_url: "https://www.pexels.com/@olia-danilevich"
 visual_keyword: "lab researcher holding a vial of experimental vaccine"
 description: "Moderna secures $50M for an mRNA Ebola shot, the U.S. orders a dubious COVID‑19 vaccine, and Russia promises a free personalized cancer vaccine, sparking debate over science, policy, and urgency."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-02-moderna-gets-50m-for-mrna-ebola-vaccine-amid-global-tensions-5d52db.mp3"
 audio_bytes: 581426
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Moderna ramps up mRNA Ebola effort
@@ -53,4 +54,5 @@ Track the Phase 1 safety readout for Moderna’s Bundibugyo Ebola candidate, e
 
 ## Updates
 
+- **2026-11-04** — Knives Are Out in the White House ([source](https://www.wired.com/story/knives-are-out-in-the-white-house/))
 - **2026-07-31** — The World Is Too Hot. El Niño Is Partly to Blame ([source](https://www.wired.com/story/world-heat-wave-el-nino-to-blame/))

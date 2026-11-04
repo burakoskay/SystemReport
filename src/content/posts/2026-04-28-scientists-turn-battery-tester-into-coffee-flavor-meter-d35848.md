@@ -1,16 +1,17 @@
 ---
 title: "Scientists Turn Battery Tester Into Coffee Flavor Meter"
 date: 2026-04-28T19:53:27.470Z
-modified_date: 2026-10-02T17:16:43.927Z
+modified_date: 2026-11-04T20:39:41.082Z
 tags: ["coffee","electrochemistry","foodscience","instrumentation"]
 hero_image: "/hero/2026-04-28-scientists-turn-battery-tester-into-coffee-flavor-meter-d35848.jpg"
 hero_image_credit_name: "Chevanon Photography"
 hero_image_credit_url: "https://www.pexels.com/@chevanon"
 visual_keyword: "coffee beans beside scientific instrument with wires"
 description: "University of Oregon researchers adapt a battery‑testing instrument to capture coffee’s electrochemical fingerprint, promising sharper quality control."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The next step for the Oregon team is field testing in commercial roasteries. The
 
 ## Updates
 
+- **2026-11-04** — Google faces backlash for plan that would turn off Search for schools that restrict AI ([source](https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/))
 - **2026-10-02** — Don't let the adorable AI agents fool you ([source](https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/))
 - **2026-07-26** — ‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way ([source](https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/))
 - **2026-05-28** — RSI is the new AGI — and it’s just as hard to pin down ([source](https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/))

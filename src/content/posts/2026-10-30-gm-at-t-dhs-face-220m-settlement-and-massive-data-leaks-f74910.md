@@ -1,18 +1,20 @@
 ---
 title: "GM, AT&T, DHS face $220M settlement and massive data leaks"
 date: 2026-10-30T01:37:20.607Z
+modified_date: 2026-11-04T20:42:53.628Z
 tags: ["privacy","data-breach","regulation","automotive","telecom"]
 hero_image: "/hero/2026-10-30-gm-at-t-dhs-face-220m-settlement-and-massive-data-leaks-f74910.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "data breach collage with car, phone, government badge"
 description: "GM settles for $220M over driver data misuse, while AT&T and DHS disclose leaks exposing millions of personal records."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-10-30-gm-at-t-dhs-face-220m-settlement-and-massive-data-leaks-f74910.mp3"
 audio_bytes: 637222
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## GM's $220 million privacy settlement
 
@@ -49,3 +51,7 @@ Technical safeguards are uneven. GM’s new consent prompt is a software change 
 ## What to watch
 
 Watch for the Federal Trade Commission’s next enforcement action on automotive data practices. The agency hinted at a rulemaking that could extend consent requirements to all connected vehicle services. AT&T is expected to file a detailed breach report with the FCC, which may trigger additional oversight of telecom data handling. DHS is likely to launch an internal review of its personnel database security, and any policy changes could affect future disclosures of classified staff information. Tracking these developments will reveal whether regulatory pressure can curb the current pattern of large‑scale data exposures.
+
+## Updates
+
+- **2026-11-04** — Debian apt security update (man-in-the-middle) ([source](https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=))

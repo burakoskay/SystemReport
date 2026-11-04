@@ -1,16 +1,17 @@
 ---
 title: "OpenAI admits ChatGPT app mess amid lawsuits and moderation gaps"
 date: 2026-07-30T11:53:15.133Z
-modified_date: 2026-10-17T21:59:16.574Z
+modified_date: 2026-11-04T20:40:29.406Z
 tags: ["openai","lawsuits","llm","moderation","ai"]
 hero_image: "/hero/2026-07-30-openai-admits-chatgpt-app-mess-amid-lawsuits-and-moderation-gaps-733999.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "tech office with laptop displaying chat interface and legal documents"
 description: "OpenAI's desktop app falters, Claude suffers errors, and copyright suits against generative AI rise, while moderation workarounds surface."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ OpenAI’s next desktop release will reveal whether the tab‑free redesign reso
 
 ## Updates
 
+- **2026-11-04** — People say they want small smartphones—the Enough Phone will put that to the test ([source](https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/))
 - **2026-10-17** — Anthropic says its workforce has become less junior and is spending more time in meetings ([source](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/))
 - **2026-09-02** — Exit the Cave ([source](https://turtlespace.blog/p/exit-the-cave))

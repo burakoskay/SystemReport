@@ -1,18 +1,20 @@
 ---
 title: "NOAA’s fishing-first agenda threatens marine science"
 date: 2026-09-10T02:41:30.831Z
+modified_date: 2026-11-04T20:40:19.626Z
 tags: ["noaa","marine-conservation","policy","environment","fishing"]
 hero_image: "/hero/2026-09-10-noaa-s-fishing-first-agenda-threatens-marine-science-347fd4.jpg"
 hero_image_credit_name: "Pham T. Tri"
 hero_image_credit_url: "https://www.pexels.com/@pham-t-tri-139436170"
 visual_keyword: "stormy ocean with fishing nets and scientific instruments"
 description: "NOAA’s new policy shifts priority to commercial fishing, prompting critics to warn of weakened science rules and broader implications for environmental governance."
-sources_count: 7
-author: "elena-marchetti"
+sources_count: 8
 audio_path: "/audio/2026-09-10-noaa-s-fishing-first-agenda-threatens-marine-science-347fd4.mp3"
 audio_bytes: 566379
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## A policy pivot that sidelines science
 NOAA announced a new agenda that puts commercial fishing ahead of conservation. Critics say the shift could weaken science‑based rules and marine protections.
@@ -35,3 +37,7 @@ Regulators will soon vote on the final version of NOAA’s fishing agenda. If th
 The next quarter will also reveal whether the European space venture secures a launch license that meets EU environmental standards. A denial would signal that even massive cadence ambitions cannot bypass ecological scrutiny. Finally, track citations of Beatles titles in high‑impact journals; a surge could indicate that cultural framing is becoming a strategic tool in scientific communication, for better or worse.
 
 The convergence of these stories asks a simple question: will policymakers let short‑term profit dictate the rules that shape ecosystems and technology, or will they re‑assert the primacy of science? The answer will shape oceans, skies, and the cultural language of research for years to come.
+
+## Updates
+
+- **2026-11-04** — UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google ([source](https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/))

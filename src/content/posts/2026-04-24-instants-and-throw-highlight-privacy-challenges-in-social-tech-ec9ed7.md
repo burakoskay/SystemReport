@@ -1,19 +1,20 @@
 ---
 title: "Instants and Throw highlight privacy challenges in social tech"
 date: 2026-04-24T17:27:43.803Z
-modified_date: 2026-11-03T22:50:19.492Z
+modified_date: 2026-11-04T20:41:36.482Z
 tags: ["social tech","privacy","AI-generated content"]
 hero_image: "/hero/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "social media"
 description: "Instagram tests Instants for one-time photos; Throw offers anonymous expert Q&A; AI-generated wolf story lands creator in prison"
-sources_count: 20
+sources_count: 21
 audio_path: "/audio/2026-04-24-instants-and-throw-highlight-privacy-challenges-in-social-tech-ec9ed7.mp3"
 audio_bytes: 573902
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ The launch of Instants and Throw highlights the challenges facing social tech co
 
 ## Updates
 
+- **2026-11-04** — Mid-week Android app deals and freebies: Poker Ya Joker, Despotism, Potion Permit, more ([source](https://9to5toys.com/2026/11/04/todays-highlight-google-play-deals-43/))
 - **2026-11-03** — Today’s Android app deals and freebies: 20 Minutes Till Dawn, Never Grave, Rush Rally 3, more ([source](https://9to5toys.com/2026/11/03/todays-highlight-google-play-deals-42/))
 - **2026-10-23** — Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready ([source](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/))
 - **2026-10-19** — Monday’s Android app deals and freebies: Troll Parkour, Good Snowman, Harvest Moon, more ([source](https://9to5toys.com/2026/10/19/todays-highlight-google-play-deals-31/))
