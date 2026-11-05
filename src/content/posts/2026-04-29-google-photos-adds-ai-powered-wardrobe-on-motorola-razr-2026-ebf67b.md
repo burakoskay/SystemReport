@@ -1,16 +1,17 @@
 ---
 title: "Google Photos Adds AI-Powered Wardrobe on Motorola Razr 2026"
 date: 2026-04-29T17:43:51.430Z
-modified_date: 2026-10-07T18:21:40.897Z
+modified_date: 2026-11-05T01:59:22.030Z
 tags: ["Google Photos","AI-Powered Wardrobe","Motorola Razr 2026","Fashion Industry"]
 hero_image: "/hero/2026-04-29-google-photos-adds-ai-powered-wardrobe-on-motorola-razr-2026-ebf67b.jpg"
 hero_image_credit_name: "Jonas Thomann"
 hero_image_credit_url: "https://www.pexels.com/@jonast"
 visual_keyword: "Google Photos Wardrobe"
 description: "Google Photos adds Wardrobe tool to digitize closets and suggest outfits"
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ The launch of Wardrobe also has implications for the broader tech industry. For 
 
 ## Updates
 
+- **2026-11-05** — Have I befriended a murderer? ([source](https://longreads.com/2026/11/03/murder-friendship-doubt/))
 - **2026-10-07** — We now have images of the smart home products that Apple and LG are reportedly cooking up ([source](https://www.engadget.com/2280076/we-now-have-images-of-the-smart-home-products-that-apple-and-lg-are-reportedly-cooking-up/))
 - **2026-09-27** — Google Pixel can use Tensor as long as it wants; it’s all the other specs I’m jealous of ([source](https://9to5google.com/2026/09/27/google-pixel-tensor-snapdragon-mediatek-newsletter/))
 - **2026-09-16** — Claude comes for Gemini with its own take on Docs and Slides ([source](https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides))

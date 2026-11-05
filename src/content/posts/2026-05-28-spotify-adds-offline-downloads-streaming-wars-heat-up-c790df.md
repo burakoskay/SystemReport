@@ -1,16 +1,17 @@
 ---
 title: "Spotify Adds Offline Downloads, Streaming Wars Heat Up"
 date: 2026-05-28T16:33:49.603Z
-modified_date: 2026-09-29T00:08:29.298Z
+modified_date: 2026-11-05T01:58:00.347Z
 tags: ["streaming","piracy","spotify","ampache","us doj"]
 hero_image: "/hero/2026-05-28-spotify-adds-offline-downloads-streaming-wars-heat-up-c790df.jpg"
 hero_image_credit_name: "Andrea Piacquadio"
 hero_image_credit_url: "https://www.pexels.com/@olly"
 visual_keyword: "person using phone to stream music"
 description: "Spotify rolls out iOS offline downloads as US seeks to criminalize illegal streaming"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Spotify has launched four new music-centric features, including background downloads for iOS users. The move arrives as the entertainment industry pushes Congress to reclassify unauthorized streaming as a felony offense.
@@ -45,4 +46,5 @@ What to watch: 1) Spotify's Q4 2024 roadmap for Android parity, 2) The House Jud
 
 ## Updates
 
+- **2026-11-05** — Qualcomm is betting big on data centers as smartphone sales sink ([source](https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers))
 - **2026-09-29** — Experts worry about Nvidia's AI chip sales in China and influence over Trump ([source](https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/))

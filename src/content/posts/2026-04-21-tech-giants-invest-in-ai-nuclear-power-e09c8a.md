@@ -1,16 +1,17 @@
 ---
 title: "Tech Giants Invest in AI, Nuclear Power"
 date: 2026-04-21T17:11:15.962Z
-modified_date: 2026-10-28T20:47:10.420Z
+modified_date: 2026-11-05T01:58:09.431Z
 tags: ["ai","nuclear power","social media"]
 hero_image: "/hero/2026-04-21-tech-giants-invest-in-ai-nuclear-power-e09c8a.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "a robotic figure running a half marathon"
 description: "Recent investments and innovations in AI, nuclear power, and social media aim to tackle issues like loneliness, misinformation, and user engagement."
-sources_count: 21
+sources_count: 22
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -84,6 +85,7 @@ As these innovations continue to unfold, it's essential to track their progress 
 
 ## Updates
 
+- **2026-11-05** — How I learned to love an obnoxious phone grip ([source](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case))
 - **2026-10-28** — Mid-week Android app deals and freebies: Subnautica, Lara Croft GO, Fishfolk, more ([source](https://9to5toys.com/2026/10/28/todays-highlight-google-play-deals-38/))
 - **2026-10-23** — Strava revamps route discovery with smarter search, offline improvements, more ([source](https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more/))
 - **2026-10-04** — John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report ([source](https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/))

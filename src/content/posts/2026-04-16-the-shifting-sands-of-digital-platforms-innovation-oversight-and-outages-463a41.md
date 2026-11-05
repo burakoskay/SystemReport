@@ -1,16 +1,17 @@
 ---
 title: "The Shifting Sands of Digital Platforms"
 date: 2026-04-16T05:30:50.766Z
-modified_date: 2026-10-10T16:48:58.021Z
+modified_date: 2026-11-05T01:57:32.753Z
 tags: ["tech innovation","digital platforms","media consumption","streaming","app development"]
 hero_image: "/hero/2026-04-16-the-shifting-sands-of-digital-platforms-innovation-oversight-and-outages-463a41.jpg"
 hero_image_credit_name: "U.Lucas Dubé-Cantin"
 hero_image_credit_url: "https://www.pexels.com/@lucasdc"
 visual_keyword: "Interconnected digital world"
 description: "From frustrating live streaming failures to groundbreaking media integration and content controversies, the digital landscape is in constant flux, demanding both innovation and vigilance from tech giants."
-sources_count: 26
+sources_count: 27
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ From the seamless integration of Page Match to the unexpected disappearance of a
 
 ## Updates
 
+- **2026-11-05** — AI PACs spent millions trying to shape Congress — here’s how they fared ([source](https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/))
 - **2026-10-10** — A grief-stricken road trip, The Traitors on the go and other new indie games worth checking out ([source](https://www.engadget.com/2282667/a-grief-stricken-road-trip-the-traitors-on-the-go-and-other-new-indie-games-worth-checking-out/))
 - **2026-09-29** — With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox ([source](https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/))
 - **2026-09-25** — watchOS 27 upgrades popular Apple Watch face with new options ([source](https://9to5mac.com/2026/09/25/watchos-27-upgrades-popular-apple-watch-face-with-new-options/))

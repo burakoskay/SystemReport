@@ -1,15 +1,17 @@
 ---
 title: "Anker Sale, Fitbit Edge"
 date: 2026-10-26T22:28:29.143Z
+modified_date: 2026-11-05T01:59:12.879Z
 tags: ["consumertech","wearables","gadgets"]
 hero_image: "/hero/2026-10-26-anker-sale-fitbit-edge-614828.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "modern tech gadgets on a kitchen counter with lighting and fog"
 description: "Discounts, missing NFC, and home mushroom kits expose where gadget makers gamble on features and price."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Anker's Halloween Discount Hits Battery‑Starved Users
 
@@ -30,3 +32,7 @@ Anker's sale, Fitbit's feature cut, and Lykyn's niche offering illustrate three 
 ## What to Watch
 
 Track Anker's sales figures through the end of Q4. Watch Fitbit's firmware updates for any NFC reinstatement. Monitor Lykyn's preorder volume and any third‑party accessories. These data points will indicate whether price cuts, feature removal, or aesthetic gadgets succeed in a saturated market.
+
+## Updates
+
+- **2026-11-05** — Uranium cubes reveal why the German nuclear project failed ([source](https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/))
