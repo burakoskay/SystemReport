@@ -1,15 +1,17 @@
 ---
 title: "Voice‑first AI tools multiply on‑device control"
 date: 2026-08-10T05:23:38.404Z
+modified_date: 2026-11-05T17:50:23.465Z
 tags: ["voice-ai","developer-tools","anthropic","opensource"]
 hero_image: "/hero/2026-08-10-voice-first-ai-tools-multiply-on-device-control-b30184.jpg"
 hero_image_credit_name: "Theo  Decker"
 hero_image_credit_url: "https://www.pexels.com/@theo-decker"
 visual_keyword: "developer using voice assistant on laptop and phone"
 description: "Claude now speaks, while PUNK, SuperVoiceMode, Whispering and Paseo let developers steer AI agents from phones and Macs without cloud lock‑in."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 ## Claude adds voice mode
 Anthropic released a voice mode for Claude that lets the chatbot speak its responses.[^1][^2][^3] The feature streams audio through the user’s speakers and runs on the same hardware that powers Claude, according to Engadget.[^1][^2] The mode does not require a separate server. It simply converts Claude’s text output into speech in real time.[^4]
@@ -40,6 +42,9 @@ Both projects prioritize local execution and data ownership. Whispering’s trus
 ## What to watch
 Claude’s voice mode will be the first test of on‑device speech synthesis for a large language model.[^1][^2][^5][^3][^4] Track latency benchmarks and any privacy disclosures from Anthropic.[^1][^2] PUNK’s relay reliability will surface as developers try to scale remote control across teams.[^6] SuperVoiceMode’s adoption will hinge on how well it handles multi‑turn voice commands in real‑world coding sessions.[^7][^8] Finally, watch the GitHub activity for Whispering and Paseo; frequent releases will indicate whether the open‑source community can sustain truly local‑first voice pipelines.
 
+## Updates
+
+- **2026-11-05** — The ‘Ocarina of Time’ Remake Is Finally Here, but Why Does Link Look so Yassified? ([source](https://www.wired.com/story/the-legend-of-zelda-ocarina-of-time-remake-yassified-link/))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIQK0b4bdUUEfCddqIiNfusfu41TQpbIKKUUzI4j0jWjTyo4-K8eEsWyU61XmpHYoJFaStewde9ba3ZVyeH1ENBlExRgXtSTHaZlpx98aq9KfQJc1nb1iZgc1jUssaTJLa3WqyGFfEH9RTHRn4YAQRXpE3NWDgbih5)
 [^2]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEchNOV7OPU8YFae4_7Twh0-QkGbWflKqYv9HuB9jsbHje95cLQUDxMAu333ah1s18OIByGcMAd4tI2P31TrvRtKjyyvgwmqk-PJKkYq-hD1x-CttxB_75hSxBKg5tMWee7JKwwaXFaQwbitqQ-YfW6hAz92kIdcG-mjdWuwTEq)

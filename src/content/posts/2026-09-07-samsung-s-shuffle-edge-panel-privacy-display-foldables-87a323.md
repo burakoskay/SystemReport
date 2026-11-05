@@ -1,19 +1,20 @@
 ---
 title: "Samsung's Shuffle: Edge Panel, Privacy Display, Foldables"
 date: 2026-09-07T22:30:17.368Z
-modified_date: 2026-10-07T18:19:24.433Z
+modified_date: 2026-11-05T17:52:39.235Z
 tags: ["samsung","android","foldables","privacy","ar"]
 hero_image: "/hero/2026-09-07-samsung-s-shuffle-edge-panel-privacy-display-foldables-87a323.jpg"
 hero_image_credit_name: "MOHI SYED"
 hero_image_credit_url: "https://www.pexels.com/@luckysam"
 visual_keyword: "Samsung Galaxy phone edge panel interface on screen"
 description: "Samsung makes Edge Panel standard, licenses privacy display to Huawei, sees Z Fold 8 hype iPhone Fold rumors, and retires Quick Measure and AR Doodle apps."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-09-07-samsung-s-shuffle-edge-panel-privacy-display-foldables-87a323.mp3"
 audio_bytes: 629909
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,5 +62,6 @@ Stakeholders should monitor Samsung’s upcoming One UI release notes, Huawei’
 
 ## Updates
 
+- **2026-11-05** — MacBook Pro with PROLED XDR Display review: Lighter, brighter, but the touchscreen doesn't add much ([source](https://www.engadget.com/2307215/apple-macbook-pro-with-proled-xdr-display-review/))
 - **2026-10-07** — X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB ([source](https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/))
 - **2026-09-08** — The White House made a "Tetris" clone. The Tetris Company was not amused. ([source](https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/))

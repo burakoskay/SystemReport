@@ -1,19 +1,20 @@
 ---
 title: "NVIDIA RTX Spark Chip Launch"
 date: 2026-06-05T12:48:08.206Z
-modified_date: 2026-10-07T23:59:34.424Z
+modified_date: 2026-11-05T17:50:41.502Z
 tags: ["NVIDIA","RTX Spark","AI-ready computing"]
 hero_image: "/hero/2026-06-05-nvidia-rtx-spark-chip-launch-7f043a.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "RTX Spark chip"
 description: "NVIDIA's new RTX Spark chip"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-06-05-nvidia-rtx-spark-chip-launch-7f043a.mp3"
 audio_bytes: 631790
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -35,4 +36,5 @@ The launch of the RTX Spark chip also has downstream implications, including the
 
 ## Updates
 
+- **2026-11-05** — 2026 iPad mini review: Maximizing the mini ([source](https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/))
 - **2026-10-07** — Here's what the $6,000 Surface RTX Spark Dev Box looks like ([source](https://www.engadget.com/2280568/heres-what-the-dollar6000-surface-rtx-spark-dev-box-looks-like/))

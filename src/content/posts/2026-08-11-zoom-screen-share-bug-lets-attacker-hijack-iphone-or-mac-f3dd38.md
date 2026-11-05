@@ -1,16 +1,17 @@
 ---
 title: "Zoom screen‑share bug lets attacker hijack iPhone or Mac"
 date: 2026-08-11T14:58:12.310Z
-modified_date: 2026-10-25T22:15:45.897Z
+modified_date: 2026-11-05T17:50:59.542Z
 tags: ["zoom","security","privacy","ai","software"]
 hero_image: "/hero/2026-08-11-zoom-screen-share-bug-lets-attacker-hijack-iphone-or-mac-f3dd38.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "zoom screen sharing window with malicious code overlay"
 description: "Researchers used an AI tool in under 20 prompts to expose a Zoom flaw that let any call participant execute code on another's device, now patched."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 ## Zoom screen‑sharing flaw lets attackers seize devices
@@ -43,4 +44,5 @@ Zoom’s patch will be rolled out to all clients over the next week; monitoring 
 
 ## Updates
 
+- **2026-11-05** — Obscure audio codec is a perfect fit for the N64 ([source](https://phoboslab.org/log/2026/11/n64-ulc-codec))
 - **2026-10-25** — A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate ([source](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen))

@@ -1,16 +1,17 @@
 ---
 title: "Motorola to ship GrapheneOS on future Razr Fold"
 date: 2026-08-25T08:52:52.934Z
-modified_date: 2026-10-26T22:11:44.956Z
+modified_date: 2026-11-05T17:53:06.417Z
 tags: ["grapheneos","motorola","android","privacy","mobile-security"]
 hero_image: "/hero/2026-08-25-motorola-to-ship-grapheneos-on-future-razr-fold-968ea3.jpg"
 hero_image_credit_name: "Imad Clicks"
 hero_image_credit_url: "https://www.pexels.com/@imadclicks"
 visual_keyword: "close-up of a folded Razr smartphone with a lock icon overlay"
 description: "Motorola announced a long‑term partnership with GrapheneOS to preload the privacy‑focused OS on a future Razr Fold and Ultra, while Pixel 11 devices will also receive support."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 ## Motorola partners with GrapheneOS at MWC 2026
@@ -39,4 +40,5 @@ Finally, monitor Pixel 11’s official GrapheneOS support timeline. If Google en
 
 ## Updates
 
+- **2026-11-05** — Axiom Math wants to keep AI slop out of mathematics ([source](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/))
 - **2026-10-26** — Databricks co-founder shares his secrets for winning big enterprises customers ([source](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/))

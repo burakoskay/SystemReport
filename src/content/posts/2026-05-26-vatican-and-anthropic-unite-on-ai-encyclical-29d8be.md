@@ -1,15 +1,17 @@
 ---
 title: "Vatican and Anthropic Unite on AI Encyclical"
 date: 2026-05-26T21:53:01.120Z
+modified_date: 2026-11-05T17:51:17.774Z
 tags: ["AI Ethics","Vatican","Anthropic"]
 hero_image: "/hero/2026-05-26-vatican-and-anthropic-unite-on-ai-encyclical-29d8be.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI"
 description: "Pope Leo XIV presents his first encyclical with Anthropic co-founder Christopher Olah, highlighting Vatican's foray into AI ethics."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## Pope Leo XIV Launches AI Encyclical with Anthropic Co-Founder
@@ -43,3 +45,7 @@ The Vatican's collaboration with Anthropic and other tech firms will be crucial 
 The Vatican's foray into AI ethics highlights the intersection of faith and technology. As technology continues to advance, faith-based organizations will play an increasingly important role in shaping the conversation on AI ethics. The Vatican's engagement with AI ethics may pave the way for other faith-based organizations to explore the implications of AI on human dignity and society.
 
 The collaboration between the Vatican and tech firms like Anthropic may also lead to the development of more inclusive and equitable AI solutions. By bringing together faith-based organizations and technology developers, the Vatican's approach to AI ethics may contribute to the development of AI solutions that prioritize human dignity and well-being.
+
+## Updates
+
+- **2026-11-05** — Being a kid making games in the early 2000s ([source](https://jaytholen.net/teengamedev/))

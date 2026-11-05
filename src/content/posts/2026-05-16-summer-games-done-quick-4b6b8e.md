@@ -1,16 +1,17 @@
 ---
 title: "Summer Games Done Quick"
 date: 2026-05-16T09:55:53.035Z
-modified_date: 2026-10-08T04:55:19.093Z
+modified_date: 2026-11-05T17:52:21.109Z
 tags: ["gaming","charity","speedrunning"]
 hero_image: "/hero/2026-05-16-summer-games-done-quick-4b6b8e.jpg"
 hero_image_credit_name: "Matilda Wormwood"
 hero_image_credit_url: "https://www.pexels.com/@matilda-wormwood"
 visual_keyword: "speedrunner playing video game"
 description: "Charity video game marathon returns, schedule out now"
-sources_count: 13
+sources_count: 14
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ Overall, the Summer Games Done Quick event is a great opportunity for gamers and
 
 ## Updates
 
+- **2026-11-05** — WhatsApp adds shareable event invites and a new Events hub ([source](https://9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub/))
 - **2026-10-08** — Microsoft event debuts new AI-friendly hardware and Windows changes ([source](https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/))
 - **2026-09-23** — She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids ([source](https://www.wired.com/story/emma-waters-fertility-tech/))
 - **2026-09-21** — Beta 2 now available for iPadOS 27.2, watchOS 27.2, more ([source](https://9to5mac.com/2026/09/21/beta-2-now-available-for-ipados-27-2-watchos-27-2-more/))

@@ -1,19 +1,20 @@
 ---
 title: "YouTube to Auto-Label AI-Generated Videos"
 date: 2026-05-27T18:32:27.444Z
-modified_date: 2026-11-04T13:38:50.909Z
+modified_date: 2026-11-05T17:53:24.532Z
 tags: ["AI-generated content","YouTube","transparency"]
 hero_image: "/hero/2026-05-27-youtube-to-auto-label-ai-generated-videos-276b62.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI-generated video"
 description: "YouTube will automatically detect and label AI-generated videos to increase transparency."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-27-youtube-to-auto-label-ai-generated-videos-276b62.mp3"
 audio_bytes: 591248
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,4 +80,5 @@ The development of AI-generated content labeling policies is an ongoing process,
 
 ## Updates
 
+- **2026-11-05** — Box taps Nvidia’s Nemotron for new agent-first content retrieval system ([source](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/))
 - **2026-11-04** — Google hasn&#8217;t figured out how to make AI pay like its search engine ([source](https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3))

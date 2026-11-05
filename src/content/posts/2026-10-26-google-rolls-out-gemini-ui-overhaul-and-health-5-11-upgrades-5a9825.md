@@ -1,18 +1,20 @@
 ---
 title: "Google rolls out Gemini UI overhaul and Health 5.11 upgrades"
 date: 2026-10-26T09:36:30.149Z
+modified_date: 2026-11-05T17:50:32.571Z
 tags: ["google","android","health","gemini","fitbit"]
 hero_image: "/hero/2026-10-26-google-rolls-out-gemini-ui-overhaul-and-health-5-11-upgrades-5a9825.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Android phone screen showing Gemini side panel and Google Health activity tracker"
 description: "Android users get a refreshed Gemini side panel and a Google Health 5.11 update that adds Fitbit Air health guard, better sleep tracking, and 100+ activity detection."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-10-26-google-rolls-out-gemini-ui-overhaul-and-health-5-11-upgrades-5a9825.mp3"
 audio_bytes: 617996
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google shipped two Android updates that touch daily health tracking and AI chat. Gemini’s side panel now looks like a native Android drawer, while Google Health 5.11 expands Fitbit Air’s sensor suite.
 
@@ -56,3 +58,6 @@ Privacy‑by‑design remains a question mark. Google Health now stores more gra
 
 The next rollout wave will target Android 12 devices still on the older Gemini UI. Watch for a follow‑up patch that adds voice shortcuts to the side panel. On the health side, Google has hinted at a future “Health Insights” dashboard that will surface trends across Fitbit and Pixel Watch data. Tracking the adoption rate of Health Guardian alerts will reveal whether users trust Google’s automated health warnings. Stay tuned for the next version number, which should arrive before the holiday season.
 
+## Updates
+
+- **2026-11-05** — Israel Is Destroying the Machinery South Lebanon Needs to Rebuild ([source](https://www.wired.com/story/israel-is-destroying-the-machinery-south-lebanon-needs-to-rebuild/))

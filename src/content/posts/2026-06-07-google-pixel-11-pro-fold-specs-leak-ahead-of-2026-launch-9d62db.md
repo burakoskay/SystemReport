@@ -1,19 +1,20 @@
 ---
 title: "Google Pixel 11 Pro Fold specs leak ahead of 2026 launch"
 date: 2026-06-07T04:23:14.409Z
-modified_date: 2026-11-03T22:52:03.077Z
+modified_date: 2026-11-05T17:50:05.470Z
 tags: ["google","foldable","smartphone"]
 hero_image: "/hero/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "close‑up of a futuristic foldable smartphone with dual displays on a sleek table"
 description: "Leaks detail the Pixel 11 Pro Fold’s screen, processor, camera and price as Google eyes the foldable market in late 2026."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-07-google-pixel-11-pro-fold-specs-leak-ahead-of-2026-launch-9d62db.mp3"
 audio_bytes: 666062
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Google’s official announcement is expected before the end of Q3 2026. Track 
 
 ## Updates
 
+- **2026-11-05** — Area Man Feels Joy Online for First Time in Years ([source](https://www.wired.com/story/wired-world-fair-2026-ben-collins-the-onion/))
 - **2026-11-03** — Google will turn off search for schools that reject AI ([source](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html))
 - **2026-09-10** — August 2026 Was the Hottest Month Ever Recorded: Copernicus Data ([source](https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/))
 - **2026-09-07** — A foldable Mac is years away, but Apple is still working on it ([source](https://9to5mac.com/2026/09/07/a-foldable-mac-is-years-away-but-apple-is-still-working-on-it/))

@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Reputation Crisis"
 date: 2026-05-22T04:16:21.509Z
-modified_date: 2026-09-03T19:02:17.495Z
+modified_date: 2026-11-05T17:49:56.489Z
 tags: ["OpenAI","AI regulation","Chris Lehane"]
 hero_image: "/hero/2026-05-22-openai-s-reputation-crisis-33d8a6.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "OpenAI"
 description: "Chris Lehane, OpenAI's global affairs chief, aims to mitigate AI debate and pass laws supporting OpenAI's growth."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ In the short term, OpenAI is likely to face continued scrutiny over its approach
 
 ## Updates
 
+- **2026-11-05** — Camp Snap made a smaller kid-friendly version of its retro digital camcorder ([source](https://www.theverge.com/tech/1027575/camp-snap-cs-8-mini-retro-film-camera-kid-friendly))
 - **2026-09-03** — OpenAI’s next big AI model has ‘entered the AGI era’ ([source](https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release))
 - **2026-08-26** — OpenAI’s rogue AI model incident was worse than we thought ([source](https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr))
 - **2026-07-30** — OpenAI makes two GPT-5.6 models cheaper, expanding usage in ChatGPT ([source](https://9to5mac.com/2026/07/30/openai-makes-two-gpt-5-6-models-cheaper-expanding-usage-in-chatgpt/))

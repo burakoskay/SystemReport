@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS 26.5 Beta 3: What's New and Why It Matters"
 date: 2026-04-20T20:41:02.988Z
-modified_date: 2026-10-27T20:24:49.201Z
+modified_date: 2026-11-05T17:51:36.003Z
 tags: ["apple","ios","ipados","security"]
 hero_image: "/hero/2026-04-20-apple-s-ios-26-5-beta-3-what-s-new-and-why-it-matters-5e8bee.jpg"
 hero_image_credit_name: "Szabó Viktor"
 hero_image_credit_url: "https://www.pexels.com/@szaboviktor"
 visual_keyword: "Apple iOS 26.5 beta 3"
 description: "Apple releases iOS 26.5 beta 3, iPadOS 26.5 beta 3, and more, with new features and security updates."
-sources_count: 33
+sources_count: 34
 author: "maya-chen"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ For now, developers and users alike should keep a close eye on Apple's updates a
 
 ## Updates
 
+- **2026-11-05** — Deals: Latest Nest Learning Thermostat up to $120 off, Pixelsnap cases, Hue Bridge Pro bundle, Galaxy Book $750 off, more ([source](https://9to5google.com/2026/11/05/deals-nest-thermostat-pixelsnap-hue-bridge-pro-galaxy-book/))
 - **2026-10-27** — Apple rolls out iOS 27.2 with new Siri AI languages and security fixes ([source](https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/))
 - **2026-10-09** — iOS 27.0.1 is now Apple’s recommended update for users still on iOS 26 ([source](https://9to5mac.com/2026/10/09/ios-27-0-1-is-now-apples-recommended-update-for-users-still-on-ios-26/))
 - **2026-09-24** — 9to5Mac Daily: September 24, 2026 – iPhone Handoff, iOS 27 updates ([source](https://9to5mac.com/2026/09/24/9to5mac-daily-september-24-2026-iphone-handoff-ios-27-updates/))

@@ -1,15 +1,17 @@
 ---
 title: "AI-Powered Competitive Intelligence Tool Launched"
 date: 2026-05-02T03:30:37.402Z
+modified_date: 2026-11-05T17:52:57.297Z
 tags: ["AI","Competitive Intelligence","B2B"]
 hero_image: "/hero/2026-05-02-ai-powered-competitive-intelligence-tool-launched-651dd3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered competitive intelligence tool"
 description: "A new AI tool helps B2B teams track competitors and win more deals."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## AI Tool Streamlines Competitive Intelligence for B2B Teams
@@ -59,3 +61,7 @@ One of Steve's key competitive advantages is its ability to provide actionable i
 ## Conclusion
 
 The launch of Steve is an important development in the competitive intelligence market. As businesses increasingly look for ways to gain a competitive edge, tools like Steve will play a critical role in helping them make informed decisions and stay ahead of their competitors. With its ability to provide actionable insights and automate the process of tracking competitors, Steve is well-positioned to become a leader in the market.
+
+## Updates
+
+- **2026-11-05** — Amazon teams with Uber Eats for new Prime perks ([source](https://www.engadget.com/2307194/amazon-teams-with-uber-eats-for-new-prime-perks/))

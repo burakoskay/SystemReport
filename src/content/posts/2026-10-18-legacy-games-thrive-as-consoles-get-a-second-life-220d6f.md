@@ -1,18 +1,20 @@
 ---
 title: "Legacy games thrive as consoles get a second life"
 date: 2026-10-18T08:33:13.671Z
+modified_date: 2026-11-05T17:49:11.134Z
 tags: ["gaming","legacy","hardware","community"]
 hero_image: "/hero/2026-10-18-legacy-games-thrive-as-consoles-get-a-second-life-220d6f.jpg"
 hero_image_credit_name: "Nika Benedictova"
 hero_image_credit_url: "https://www.pexels.com/@nika-benedictova-24565203"
 visual_keyword: "vibrant online forum discussion about a classic RPG with mod screenshots"
 description: "Neverwinter Nights still draws thousands, a canceled Assassin's Creed leaks, and old PlayStations find new purpose."
-sources_count: 11
-author: "sam-whitfield"
+sources_count: 12
 audio_path: "/audio/2026-10-18-legacy-games-thrive-as-consoles-get-a-second-life-220d6f.mp3"
 audio_bytes: 593756
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 Neverwinter Nights still pulls thousands of players, while a canceled Assassin's Creed project resurfaces and old PlayStations get repurposed. The three stories show how community passion and clever reuse keep legacy tech relevant.
 
@@ -47,3 +49,7 @@ Technically, the ability to run old software on modern operating systems demonst
 ## What to watch
 
 Watch Ubisoft's next quarterly report for hints about how the ancient China footage influences future releases. Keep an eye on NWN server statistics posted on community hubs to gauge whether the player base is stable or trending upward. Finally, monitor forums like r/PlayStation and r/retrogaming for emerging DIY projects that push old consoles into new roles. Those data points will indicate whether legacy enthusiasm translates into lasting market impact.
+
+## Updates
+
+- **2026-11-05** — The FAA is finally ditching floppy disks ([source](https://www.theverge.com/transportation/1027511/faa-floppy-disks-sean-duffy-air-traffic-control-eids))

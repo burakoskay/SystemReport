@@ -1,19 +1,20 @@
 ---
 title: "CourseTalk Launches Review Platform for Open Online Courses"
 date: 2026-05-02T17:09:58.118Z
-modified_date: 2026-10-07T03:48:08.000Z
+modified_date: 2026-11-05T17:52:03.110Z
 tags: ["MOOCs","online learning","CourseTalk"]
 hero_image: "/hero/2026-05-02-coursetalk-launches-review-platform-for-open-online-courses-c41c37.jpg"
 hero_image_credit_name: "Katerina Holmes"
 hero_image_credit_url: "https://www.pexels.com/@katerina-holmes"
 visual_keyword: "online learning"
 description: "CourseTalk helps learners find quality open online courses with a review and discovery platform."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-02-coursetalk-launches-review-platform-for-open-online-courses-c41c37.mp3"
 audio_bytes: 600234
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ It will be interesting to see how CourseTalk continues to evolve in response to 
 
 ## Updates
 
+- **2026-11-05** — tvOS 27.2 adds new Apple TV 4K setting that’s an instant favorite ([source](https://9to5mac.com/2026/11/05/tvos-27-2-adds-new-apple-tv-4k-setting-ive-been-loving/))
 - **2026-10-07** — Tim Cook sold nearly $63.9 million in Apple shares this month ([source](https://9to5mac.com/2026/10/06/tim-cook-sold-nearly-63-9-million-in-apple-shares-this-month/))
 - **2026-09-29** — Gemini app adding Google Wallet integration for ‘personalized insights’ ([source](https://9to5google.com/2026/09/28/google-wallet-gemini-app/))
 - **2026-08-29** — Good Culture Is the Biggest Productivity Hack, Not AI ([source](https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity))
