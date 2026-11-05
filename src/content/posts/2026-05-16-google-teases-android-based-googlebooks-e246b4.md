@@ -1,16 +1,17 @@
 ---
 title: "Google Teases Android-Based Googlebooks"
 date: 2026-05-16T06:26:13.235Z
-modified_date: 2026-08-20T14:31:36.570Z
+modified_date: 2026-11-05T23:12:25.965Z
 tags: ["Google","Android","Googlebooks","Google I/O"]
 hero_image: "/hero/2026-05-16-google-teases-android-based-googlebooks-e246b4.jpg"
 hero_image_credit_name: "Perfecto Capucine"
 hero_image_credit_url: "https://www.pexels.com/@perfecto-capucine-515848"
 visual_keyword: "Googlebooks"
 description: "Google hints at a new product, potentially an Android-based Googlebooks"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ The introduction of Googlebooks could be a significant development in the tech i
 
 ## Updates
 
+- **2026-11-05** — macOS 27.3 Golden Gate public beta 1 now available, here’s everything new ([source](https://9to5mac.com/2026/11/05/macos-27-3-golden-gate-public-beta-1-now-available-heres-everything-new/))
 - **2026-08-20** — Camera Looks on the Pixel 11 delivers what I’ve wanted from Google’s photos for years ([source](https://9to5google.com/2026/08/20/google-pixel-11-camera-looks-thoughts-impressions-results/))
 - **2026-05-19** — Google announces Wear OS 7 ([source](https://www.engadget.com/2177050/google-announces-wear-os-7/))
 - **2026-05-18** — South Korea’s LetinAR is building optics behind AI glasses ([source](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/))

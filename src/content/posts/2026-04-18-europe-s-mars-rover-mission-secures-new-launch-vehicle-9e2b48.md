@@ -1,16 +1,17 @@
 ---
 title: "Europe's Mars Rover Mission Secures New Launch Vehicle"
 date: 2026-04-18T20:30:07.758Z
-modified_date: 2026-10-24T13:59:19.133Z
+modified_date: 2026-11-05T23:10:51.874Z
 tags: ["ESA","ExoMars","SpaceX","Falcon Heavy"]
 hero_image: "/hero/2026-04-18-europe-s-mars-rover-mission-secures-new-launch-vehicle-9e2b48.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Mars Rover"
 description: "Europe's first Mars rover mission finds a new ride on SpaceX's Falcon Heavy after multiple launch delays."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The Falcon Heavy launch is expected to propel the rover to Mars. Once on the Mar
 
 ## Updates
 
+- **2026-11-05** — BMW bumps battery for the better: The 2027 i7 60 xDrive, driven ([source](https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/))
 - **2026-10-24** — The PHP Meltdown Shows How AI Makes Bugs More Exploitable ([source](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/))
 - **2026-09-08** — With another huge infusion of cash, Stoke Space goes even bigger ([source](https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/))
 - **2026-05-11** — Korea’s biggest manufacturers back Config, the TSMC of robot data ([source](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/))

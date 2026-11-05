@@ -1,16 +1,17 @@
 ---
 title: "iOS 26.4: Navigating Innovation, Control, and Legal Intrigue"
 date: 2026-04-16T05:28:54.116Z
-modified_date: 2026-10-06T16:35:22.408Z
+modified_date: 2026-11-05T23:12:20.392Z
 tags: ["ios26","apple","widgets","softwareupdates","techlaw"]
 hero_image: "/hero/2026-04-16-ios-26-4-navigating-innovation-control-and-legal-intrigue-dcc862.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "futuristic iOS interface and legal document"
 description: "iOS 26.4 brings new widgets and App Store changes, but Apple's strict control is evident with no downgrades and an ongoing leak lawsuit. Explore the latest."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ In essence, iOS 26.4 and its subsequent developments paint a comprehensive pictu
 
 ## Updates
 
+- **2026-11-05** — Report: Apple’s planned $7 billion bond sale attracts four times as much demand ([source](https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/))
 - **2026-10-06** — Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed ([source](https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/))
 - **2026-09-10** — Apple TV Remote app has hidden features that could be coming to iOS 27 ([source](https://9to5mac.com/2026/09/10/apple-tv-remote-app-has-hidden-features-that-could-be-coming-to-ios-27/))
 - **2026-09-09** — Apple event 2026 live: Will we see the foldable iPhone Ultra or Duo at today's 'Surprise and shine' keynote? ([source](https://www.engadget.com/2253512/apple-iphone-ultra-event-live-blog-updates-iphone-18-pro-apple-watch/))

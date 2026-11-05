@@ -1,16 +1,17 @@
 ---
 title: "Uber's Sensor Grid Ambition"
 date: 2026-05-02T09:13:09.908Z
-modified_date: 2026-10-07T03:45:48.447Z
+modified_date: 2026-11-05T23:11:19.535Z
 tags: ["autonomous vehicles","Uber","self-driving cars"]
 hero_image: "/hero/2026-05-02-uber-s-sensor-grid-ambition-b9b63a.jpg"
 hero_image_credit_name: "Ulrick Trappschuh"
 hero_image_credit_url: "https://www.pexels.com/@ulrick-t"
 visual_keyword: "sensor grid"
 description: "Uber to leverage driver network for self-driving data"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Introduction
@@ -34,4 +35,5 @@ The regulatory environment for autonomous vehicles is still evolving, with numer
 
 ## Updates
 
+- **2026-11-05** — Blue Origin’s next launch now won’t happen until 2027 ([source](https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027))
 - **2026-10-07** — The next hurdle for AI agents: getting websites to let them in ([source](https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/))

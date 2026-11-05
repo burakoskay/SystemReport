@@ -1,18 +1,20 @@
 ---
 title: "GM rolls out new central computer for 2028 Escalade IQ"
 date: 2026-10-21T19:58:58.328Z
+modified_date: 2026-11-05T23:11:08.482Z
 tags: ["gm","ev","ai","automotive","compute"]
 hero_image: "/hero/2026-10-21-gm-rolls-out-new-central-computer-for-2028-escalade-iq-38c80c.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "futuristic electric SUV interior with glowing central computer module"
 description: "GM's fourth‑gen EV platform adds a central computer and new electrical architecture, aiming to keep pace with Tesla, Rivian and Chinese rivals."
-sources_count: 12
-author: "maya-chen"
+sources_count: 13
 audio_path: "/audio/2026-10-21-gm-rolls-out-new-central-computer-for-2028-escalade-iq-38c80c.mp3"
 audio_bytes: 598352
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 GM will launch a new central computer and electrical architecture on its 2028 Cadillac Escalade IQ. The move anchors the automaker’s fourth‑generation electric‑vehicle platform.
 
@@ -47,3 +49,7 @@ Finally, the platform’s software ecosystem is untested. GM has historically re
 ## What to watch
 
 The first Escalade IQ will roll out in 2028, but GM will likely field the central computer in lower‑tier models earlier. Track GM’s supplier announcements for the processor and the rollout schedule for OTA feature updates. Watch how Chinese rivals respond—whether they accelerate their own hardware unification or double down on bespoke silicon. The next few years will reveal whether GM’s compute bet narrows the performance gap with Tesla, Rivian and the fast‑moving Chinese EV sector.
+
+## Updates
+
+- **2026-11-05** — Salon is shutting down after 31 years ([source](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down))

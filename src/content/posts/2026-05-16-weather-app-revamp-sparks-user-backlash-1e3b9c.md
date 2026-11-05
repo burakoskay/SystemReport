@@ -1,16 +1,17 @@
 ---
 title: "Weather app revamp sparks user backlash"
 date: 2026-05-16T03:45:01.728Z
-modified_date: 2026-09-25T14:56:06.448Z
+modified_date: 2026-11-05T23:11:30.539Z
 tags: ["acurite","app changes","subscription model"]
 hero_image: "/hero/2026-05-16-weather-app-revamp-sparks-user-backlash-1e3b9c.jpg"
 hero_image_credit_name: "Viralyft"
 hero_image_credit_url: "https://www.pexels.com/@viralyft"
 visual_keyword: "weather app interface with subscription prompt"
 description: "AcuRite forces new app with missing features and subscription push"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The most immediate watchpoint is the Federal Trade Commission's (FTC) ongoing re
 
 ## Updates
 
+- **2026-11-05** — The 7 Best Early Black Friday TV Deals (2026) ([source](https://www.wired.com/story/early-black-friday-tv-deals-11-5-26/))
 - **2026-09-25** — Insta360 conquered 360 cameras — now it’s eyeing glasses ([source](https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview))
 - **2026-09-16** — The new Boox e-ink devices get Android 16 out of the box, including Palma 3 ([source](https://9to5google.com/2026/09/15/boox-announced-android-16-tablets/))
 - **2026-08-17** — This sub-$7,000 sportscar might be just what the future needs ([source](https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/))

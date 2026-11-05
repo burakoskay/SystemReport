@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-11-02T19:57:10.998Z
+modified_date: 2026-11-05T23:11:58.146Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 27
+sources_count: 28
 author: "lena-volkov"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-11-05** — Now Claude can help with your finances too ([source](https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/))
 - **2026-11-02** — SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon ([source](https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/))
 - **2026-10-27** — iCloud Mail and Calendar plugins now work with ChatGPT ([source](https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/))
 - **2026-10-21** — SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase ([source](https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/))

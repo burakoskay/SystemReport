@@ -1,16 +1,17 @@
 ---
 title: "Schematik's Safe Coding for Hardware"
 date: 2026-04-18T11:07:17.051Z
-modified_date: 2026-10-22T19:41:59.649Z
+modified_date: 2026-11-05T23:12:36.723Z
 tags: ["safe coding","hardware","interval arithmetic"]
 hero_image: "/hero/2026-04-18-schematik-s-safe-coding-for-hardware-2dad13.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "calculator"
 description: "Schematik's 'cursor for hardware' aims to prevent errors in coding for physical devices."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ Anthropic is interested in Schematik's approach. The creator of the interval ari
 
 ## Updates
 
+- **2026-11-05** — Apple releases first iOS 27.3 public beta with redesigned Health app and more ([source](https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more/))
 - **2026-10-22** — Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid ([source](https://www.wired.com/story/microsoft-surface-buying-guide/))
 - **2026-09-09** — The Navier–Stokes Millennium Prize Problem ([source](https://simonwillison.net/2026/Sep/8/on-navier-stokes/))
 - **2026-08-19** — Things 3.23 update now available with major repeating to-do improvements ([source](https://9to5mac.com/2026/08/19/things-3-23-update-now-available-with-major-repeating-to-do-improvements/))

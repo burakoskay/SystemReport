@@ -1,16 +1,17 @@
 ---
 title: "Google teases Fitbit Edge, ships Android beta, expands Googlebook"
 date: 2026-10-09T22:25:18.439Z
-modified_date: 2026-10-21T22:59:19.592Z
+modified_date: 2026-11-05T23:10:57.382Z
 tags: ["google","fitbit","android","googlebook","logitech"]
 hero_image: "/hero/2026-10-09-google-teases-fitbit-edge-ships-android-beta-expands-googlebook-1914dc.jpg"
 hero_image_credit_name: "Douglas Mendes"
 hero_image_credit_url: "https://www.pexels.com/@doouglasma"
 visual_keyword: "sleek smartwatch beside Android phone and laptop with glowing LED strip"
 description: "Google unveils the Fitbit Edge tracker for Oct 12, releases Android 17 QPR2 Beta 7 to Pixel, and adds hidden Glowbar Disco and Logitech support to its Googlebook laptops."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Fitbit Edge arrives with an October launch
@@ -69,6 +70,7 @@ The Fitbit Edge will hit stores on October 12, and early reviews will reveal w
 
 ## Updates
 
+- **2026-11-05** — Statehouse wins give Democrats new power to push clean energy ([source](https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/))
 - **2026-10-21** — Trump Isn’t Even Good at TV Anymore ([source](https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3BVONluvxXdFoekqimleTCgWDaDrxglwObHhza_7RnL4UhbbxIYrU1VvrvPiC1nqECEKatBiKGxBlg2AQ9cxSHqD6NTTzwx5LV9KgJChHx15JdzMn0M5qWL4c6y5dUfxkl6_nBClyj66PAJzAzDZnfhETIhg57vl-t6xz2ntjwM_t073EnnqON7e7Eu7B8frnU_ab5crxMeCW-1TDRA5xmacXagI=)

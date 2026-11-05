@@ -1,15 +1,17 @@
 ---
 title: "Jira's Workflow Engine Proves Turing-Complete"
 date: 2026-05-25T10:22:30.081Z
+modified_date: 2026-11-05T23:11:47.066Z
 tags: ["Jira","Turing-Completeness","Security"]
 hero_image: "/hero/2026-05-25-jira-s-workflow-engine-proves-turing-complete-3831b4.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Jira"
 description: "A blog post shows Jira's built-in workflow engine can simulate a universal Turing machine, sparking debate on security and maintenance implications."
-sources_count: 5
+sources_count: 6
 author: "priya-raman"
 ---
+
 
 
 ## Turing-Completeness Claim Surfaces
@@ -62,3 +64,6 @@ Security teams must prioritize threat modeling and security policies to prevent 
 
 The implications of Turing-completeness in Jira's workflow engine are far-reaching and have significant consequences for the security and maintenance of such systems. As the use of configurable systems continues to grow, it is essential to prioritize security and threat modeling to prevent potential exploits.
 
+## Updates
+
+- **2026-11-05** — The Xbox PC app is getting a speed boost ([source](https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/))

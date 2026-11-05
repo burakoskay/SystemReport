@@ -1,19 +1,20 @@
 ---
 title: "AI Agent Harness Makers Push for Outside-the-Sandbox Execution"
 date: 2026-05-03T09:26:43.710Z
-modified_date: 2026-11-03T17:35:50.909Z
+modified_date: 2026-11-05T23:12:09.555Z
 tags: ["AI","machine learning","software development"]
 hero_image: "/hero/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.jpg"
 hero_image_credit_name: "Katya Wolf"
 hero_image_credit_url: "https://www.pexels.com/@katya-wolf"
 visual_keyword: "AI agent harnesses"
 description: "Developers of AI agent harnesses, like OmoiOS and Broccoli, argue that running agents outside the sandbox improves performance and reliability."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-03-ai-agent-harness-makers-push-for-outside-the-sandbox-execution-e2fc5d.mp3"
 audio_bytes: 621759
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -99,6 +100,7 @@ One thing is certain: AI agent harnesses are here to stay. As these systems beco
 
 ## Updates
 
+- **2026-11-05** — Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams ([source](https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/))
 - **2026-11-03** — White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More ([source](https://www.wired.com/story/best-white-noise-machines/))
 - **2026-10-08** — There’s a clear divide between Galaxy S27 tiers, as the latest leak lists price ([source](https://9to5google.com/2026/10/08/galaxy-s27-pricing-leaks-with-oled-specs/))
 - **2026-09-24** — Trump’s China rivalry and “AI race” delusion may endanger US, experts say ([source](https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/))

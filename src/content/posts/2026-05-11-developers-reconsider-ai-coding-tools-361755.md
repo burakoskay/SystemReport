@@ -1,19 +1,20 @@
 ---
 title: "Developers Reconsider AI Coding Tools"
 date: 2026-05-11T03:58:34.716Z
-modified_date: 2026-09-29T00:08:22.156Z
+modified_date: 2026-11-05T23:12:47.707Z
 tags: ["AI-assisted development","hand-coding","software development","machine learning"]
 hero_image: "/hero/2026-05-11-developers-reconsider-ai-coding-tools-361755.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "code"
 description: "Hand-coding and local models gain traction as developers reevaluate AI-assisted software development"
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-11-developers-reconsider-ai-coding-tools-361755.mp3"
 audio_bytes: 610683
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ In the near term, we can expect to see continued innovation in AI-assisted devel
 
 ## Updates
 
+- **2026-11-05** — The Hackintosh Reborn ([source](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/))
 - **2026-09-29** — AI is supercharging hacking, and your local hospitals and banks aren’t ready ([source](https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready))
 - **2026-09-24** — Meta Connect 2026: The 7 biggest announcements ([source](https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced))
 - **2026-09-20** — Step 5 Preview: Advancing the Pareto Frontier ([source](https://www.stepfun.com/step-5-preview))

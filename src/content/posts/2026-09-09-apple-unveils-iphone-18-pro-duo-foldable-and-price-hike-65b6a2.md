@@ -1,19 +1,20 @@
 ---
 title: "Apple unveils iPhone 18 Pro, Duo foldable, and price hike"
 date: 2026-09-09T14:08:33.444Z
-modified_date: 2026-10-22T19:43:35.261Z
+modified_date: 2026-11-05T23:12:14.938Z
 tags: ["apple","iphone","foldable","technews"]
 hero_image: "/hero/2026-09-09-apple-unveils-iphone-18-pro-duo-foldable-and-price-hike-65b6a2.jpg"
 hero_image_credit_name: "Phong Thanh"
 hero_image_credit_url: "https://www.pexels.com/@phong-thanh-3607237"
 visual_keyword: "Apple event stage with iPhone Duo prototype and sleek smartphones"
 description: "Apple's September event introduced the iPhone 18 Pro at $1199, the first foldable iPhone Duo, and hinted at a new camera feature, while the Apple Store went offline."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-09-09-apple-unveils-iphone-18-pro-duo-foldable-and-price-hike-65b6a2.mp3"
 audio_bytes: 627610
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ The next week will reveal the iPhone Duo’s pricing and availability, data poin
 
 ## Updates
 
+- **2026-11-05** — iOS 27.3 changes the iPhone Duo keyboard, here’s how ([source](https://9to5mac.com/2026/11/05/ios-27-3-changes-the-iphone-duo-keyboard-heres-how/))
 - **2026-10-22** — iPhone Duo reviews: The absolute best foldable phone, but not without compromise ([source](https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise/))
 - **2026-09-15** — dbrand has the iPhone Duo and iPhone 18 Pro covered – with a huge range of designs ([source](https://9to5mac.com/2026/09/15/dbrand-has-iphone-duo-iphone-18-pro-covered-with-huge-range-of-designs/))
 - **2026-09-10** — Here’s how the iPhone Duo stacks up against the Samsung Galaxy Z Fold8 ([source](https://9to5mac.com/2026/09/10/heres-how-the-iphone-duo-stacks-up-against-the-samsung-galaxy-z-fold8/))
