@@ -1,16 +1,17 @@
 ---
 title: "Cowboy Space Hits Rocket Shortage Roadblock"
 date: 2026-05-11T15:24:59.466Z
-modified_date: 2026-11-06T13:36:28.590Z
+modified_date: 2026-11-06T20:14:36.245Z
 tags: ["space","data centers","rockets"]
 hero_image: "/hero/2026-05-11-cowboy-space-hits-rocket-shortage-roadblock-38efd9.jpg"
 hero_image_credit_name: "Frank Cone"
 hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ The future outlook for Cowboy Space Corporation is promising, but uncertain. The
 
 ## Updates
 
+- **2026-11-06** — You know the launch market is tough when satellite companies start building rockets ([source](https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/))
 - **2026-11-06** — Tesla will stop making the Cybertruck in 2027 ([source](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/))
 - **2026-10-21** — GM is giving OnStar an AI makeover ([source](https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/))
 - **2026-09-03** — Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series ([source](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix))

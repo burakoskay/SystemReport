@@ -1,16 +1,17 @@
 ---
 title: "NVIDIA unveils four AI inference platforms with Ada"
 date: 2026-08-31T10:23:41.929Z
-modified_date: 2026-10-09T22:07:29.852Z
+modified_date: 2026-11-06T20:16:45.789Z
 tags: ["nvidia","generative-ai","inference","gpus"]
 hero_image: "/hero/2026-08-31-nvidia-unveils-four-ai-inference-platforms-with-ada-4b6e5b.jpg"
 hero_image_credit_name: "Nana  Dua"
 hero_image_credit_url: "https://www.pexels.com/@nanadua11"
 visual_keyword: "data center with NVIDIA GPUs processing AI models"
 description: "NVIDIA launches four specialized inference platforms featuring the L4 and H100 NVL GPUs, aiming to speed generative AI workloads across cloud and enterprise."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 ## NVIDIA rolls out four new inference platforms
@@ -44,4 +45,5 @@ Track adoption of the H100 NVL GPU in large‑scale LLM deployments over the nex
 
 ## Updates
 
+- **2026-11-06** — DOJ just launched something called the Super Intelligence Task Force ([source](https://www.engadget.com/2309257/doj-just-launched-something-called-the-super-intelligence-task-force/))
 - **2026-10-09** — Ohio blogger found guilty of harassment for sending Shrek nude to senator ([source](https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude))

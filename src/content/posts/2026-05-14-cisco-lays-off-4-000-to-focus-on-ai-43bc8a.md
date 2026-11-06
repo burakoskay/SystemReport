@@ -1,16 +1,17 @@
 ---
 title: "Cisco Lays Off 4,000 to Focus on AI"
 date: 2026-05-14T14:26:44.918Z
-modified_date: 2026-05-14T21:15:30.253Z
+modified_date: 2026-11-06T20:14:08.462Z
 tags: ["Cisco","AI","Layoffs","Tech Industry"]
 hero_image: "/hero/2026-05-14-cisco-lays-off-4-000-to-focus-on-ai-43bc8a.jpg"
 hero_image_credit_name: "Walls.io"
 hero_image_credit_url: "https://www.pexels.com/@walls-io-440716388"
 visual_keyword: "Cisco"
 description: "Cisco cuts 4,000 jobs to invest in AI, reports record revenue"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## Cisco's Restructuring Effort
@@ -34,4 +35,5 @@ Cisco faces significant competition in the AI market, with companies like Google
 
 ## Updates
 
+- **2026-11-06** — AI Companies Really, Really Want to Buy Your Work Files and Emails ([source](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/))
 - **2026-05-14** — Cerebras IPO makes billions for Benchmark but VC Eric Vishria almost didn’t take the meeting ([source](https://techcrunch.com/2026/05/14/cerebras-ipo-makes-billions-for-benchmark-but-vc-eric-vishria-almost-didnt-take-the-meeting/))

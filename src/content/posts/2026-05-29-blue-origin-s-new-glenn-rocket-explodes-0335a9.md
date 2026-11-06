@@ -1,15 +1,17 @@
 ---
 title: "Blue Origin's New Glenn Rocket Explodes"
 date: 2026-05-29T15:52:43.818Z
+modified_date: 2026-11-06T20:13:31.503Z
 tags: ["Blue Origin","New Glenn Rocket","Space Exploration"]
 hero_image: "/hero/2026-05-29-blue-origin-s-new-glenn-rocket-explodes-0335a9.jpg"
 hero_image_credit_name: "Karol D"
 hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "Rocket Explosion"
 description: "Explosion in Florida may impact company plans"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 ## Introduction to Incident
 Blue Origin's New Glenn rocket exploded in Florida, ending in a fireball. The rocket uses liquid methane, not kerosene, as fuel.
@@ -46,3 +48,7 @@ The FAA may increase scrutiny of launch operations and require companies to impl
 ## Future of Blue Origin
 The explosion of the New Glenn rocket is a significant setback for Blue Origin. The company will need to investigate the cause of the incident and implement changes to prevent similar incidents in the future.
 Blue Origin's ability to secure future contracts and gain a competitive edge in the market may be impacted by the incident. However, the company has a strong track record of innovation and may be able to recover from the setback.
+
+## Updates
+
+- **2026-11-06** — Hundreds of Artex AI hacking tools found publicly exposed to the web ([source](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/))

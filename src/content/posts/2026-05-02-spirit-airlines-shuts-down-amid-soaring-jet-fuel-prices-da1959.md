@@ -1,19 +1,20 @@
 ---
 title: "Spirit Airlines Shuts Down Amid Soaring Jet Fuel Prices"
 date: 2026-05-02T19:09:33.974Z
-modified_date: 2026-10-27T20:26:33.129Z
+modified_date: 2026-11-06T20:14:45.538Z
 tags: ["spirit airlines","jet fuel prices","airline industry","low-cost carriers"]
 hero_image: "/hero/2026-05-02-spirit-airlines-shuts-down-amid-soaring-jet-fuel-prices-da1959.jpg"
 hero_image_credit_name: "john mckenna"
 hero_image_credit_url: "https://www.pexels.com/@johnboy"
 visual_keyword: "Spirit Airlines planes parked on tarmac"
 description: "Spirit Airlines ceased operations on Saturday morning, citing rising jet fuel prices. The ultra-low-cost carrier shut down after 34 years in business."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-02-spirit-airlines-shuts-down-amid-soaring-jet-fuel-prices-da1959.mp3"
 audio_bytes: 579754
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ The shutdown of Spirit Airlines highlights the challenges faced by the aviation 
 
 ## Updates
 
+- **2026-11-06** — It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality ([source](https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/))
 - **2026-10-27** — Report: iPhone 18 Pro sales down 4% in the US, but China drives 3.1% global growth ([source](https://9to5mac.com/2026/10/27/report-iphone-18-pro-sales-down-4-in-the-us-but-china-drives-3-1-global-growth/))
 - **2026-09-27** — Nicotine Is Mounting a Comeback in the Wellness Movement ([source](https://www.wired.com/story/nicotine-is-mounting-a-comeback-in-the-wellness-movement/))
 - **2026-09-14** — Distributed Systems Classics (2017) ([source](https://nvartolomei.com/dist-sys-classics/))

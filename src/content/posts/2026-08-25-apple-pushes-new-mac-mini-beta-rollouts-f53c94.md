@@ -1,19 +1,20 @@
 ---
 title: "Apple pushes new Mac mini, beta rollouts"
 date: 2026-08-25T08:36:14.529Z
-modified_date: 2026-10-21T14:50:46.718Z
+modified_date: 2026-11-06T20:14:26.962Z
 tags: ["apple","mac mini","ios27","iphoneultra","privacy"]
 hero_image: "/hero/2026-08-25-apple-pushes-new-mac-mini-beta-rollouts-f53c94.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "Apple Mac mini on a desk beside an iPhone and laptop"
 description: "Apple may drop a fresh Mac mini days before its September event while rolling out iOS 27 betas and reversing a Hide My Email change."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-08-25-apple-pushes-new-mac-mini-beta-rollouts-f53c94.mp3"
 audio_bytes: 560110
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple may drop a fresh Mac mini days before its September event while rolling out iOS 27 betas and reversing a Hide My Email change.
@@ -64,4 +65,5 @@ Watch for Apple’s official Mac mini announcement in the coming days and the fi
 
 ## Updates
 
+- **2026-11-06** — The folks behind John Wick are back with Karōshi trailer ([source](https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/))
 - **2026-10-21** — iPhone Duo review: The future is foldable ([source](https://9to5mac.com/2026/10/21/iphone-duo-review/))

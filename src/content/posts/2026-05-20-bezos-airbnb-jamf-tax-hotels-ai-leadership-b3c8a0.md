@@ -1,16 +1,17 @@
 ---
 title: "Bezos, Airbnb, Jamf: Tax, Hotels, AI Leadership"
 date: 2026-05-20T18:29:07.065Z
-modified_date: 2026-10-21T14:50:38.890Z
+modified_date: 2026-11-06T20:17:13.534Z
 tags: ["taxes","airbnb","jamf","ai","leadership"]
 hero_image: "/hero/2026-05-20-bezos-airbnb-jamf-tax-hotels-ai-leadership-b3c8a0.jpg"
 hero_image_credit_name: "Harun  UZ"
 hero_image_credit_url: "https://www.pexels.com/@harunuzphotography"
 visual_keyword: "modern cityscape with hotel and AI symbols"
 description: "Bezos critiques middle‑class taxes, Airbnb adds hotels and grocery delivery, and Jamf appoints its first female CEO to steer an AI push."
-sources_count: 15
+sources_count: 16
 author: "maya-chen"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Jamf's AI focus puts it in direct competition with larger device‑management ve
 
 ## Updates
 
+- **2026-11-06** — iOS 27.2 adds Apple Photos invisible watermark feature, here’s how it works ([source](https://9to5mac.com/2026/11/06/ios-27-2-adds-apple-photos-invisible-watermark-feature-heres-how-it-works/))
 - **2026-10-21** — iPhone Duo will add Reachability feature ‘later this year’ ([source](https://9to5mac.com/2026/10/21/iphone-duo-will-add-reachability-feature-later-this-year/))
 - **2026-10-12** — Meta says it's caught up to the frontier with its latest Wonder AI models ([source](https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/))
 - **2026-10-08** — Apple Home adds two powerful new features in iOS 27 ([source](https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/))

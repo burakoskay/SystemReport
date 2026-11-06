@@ -1,16 +1,17 @@
 ---
 title: "Data center demand drives up natural gas power plant costs"
 date: 2026-04-27T21:22:04.184Z
-modified_date: 2026-11-05T17:52:48.276Z
+modified_date: 2026-11-06T20:15:04.195Z
 tags: ["data centers","energy costs","sustainability","regulation"]
 hero_image: "/hero/2026-04-27-data-center-demand-drives-up-natural-gas-power-plant-costs-7e95a4.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "data center expansion"
 description: "Natural gas power plant costs surge 66% as data center electricity demand skyrockets."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The next critical decision will be how state regulators respond to the growing d
 
 ## Updates
 
+- **2026-11-06** — All the latest updates on AI data centers ([source](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy))
 - **2026-11-05** — OpenAI says it will protect local resources and report on the impact of its data centers ([source](https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/))
 - **2026-10-22** — The trailer for Mass Effect 5 has leaked and unfortunately it looks good ([source](https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/))
 - **2026-09-21** — The EU will force data centers to disclose their energy and water use ([source](https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/))

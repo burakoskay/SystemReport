@@ -1,15 +1,17 @@
 ---
 title: "Kobo adds third‑party app support to e‑readers"
 date: 2026-08-22T03:04:41.009Z
+modified_date: 2026-11-06T20:15:50.713Z
 tags: ["kobo","e-readers","app support","cobalt","embedded linux"]
 hero_image: "/hero/2026-08-22-kobo-adds-third-party-app-support-to-e-readers-67f161.jpg"
 hero_image_credit_name: "Perfecto Capucine"
 hero_image_credit_url: "https://www.pexels.com/@perfecto-capucine-515848"
 visual_keyword: "kobo e‑reader displaying a simple app interface on an e‑ink screen"
 description: "Kobo announced that its e‑readers can now run apps, a move that could reshape the device’s role beyond pure reading."
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 Kobo announced that its e‑readers can now run apps, a shift that turns a dedicated reading device into a modest application platform. The change was posted on the Cobalt project page (https://bandarlabs.github.io/Cobalt/), which carries the terse headline “Kobo can run apps now.”[^1]
 
@@ -49,6 +51,9 @@ Kobo’s competitors may respond with their own openness initiatives, especially
 
 The real test will be whether readers use the new capability for productivity, research, or entertainment, or whether they revert to the original, distraction‑free reading mode. The outcome will shape the next generation of e‑readers.
 
+## Updates
+
+- **2026-11-06** — Kobo will soon let you upload and sync your own ebooks across devices, for a price ([source](https://www.theverge.com/tech/1028715/kobo-stack-cloud-sync-ebooks-epub-pdf-email-files))
 
 [^1]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxiLjpb-2MC0BWrC0z8gETLuZOj8Dqox1jyXQhsOinclOQAWVrNqiMtZDbTDemoFYafnRIYhYcMak7BMPIuboB76xagEggbOI0uzJUwAqNabxXAqUa3gfbHgiG9_nZWOGuYyO18kvC)
 [^2]: [tuxphones.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG6BWNwq3EXUx8Yd4bbqne2ZR4s4GD3Aler_vg-9AoVqm0rrfkd4gMVrEAxYNDDrqa-glkc-68okwcuxqOIZl8yZ_EfnQ8FFtYUksjzIRbWuymzLLYWZVtMdpjhymeRhG-11ANFkBmdxUc4M0FgHsrrkEfp4rKfbwoJChg)

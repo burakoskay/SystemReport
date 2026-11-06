@@ -1,18 +1,20 @@
 ---
 title: "Open‑Source Hacks Turn Hacker News Into a Power‑User Playground"
 date: 2026-05-25T21:16:45.956Z
+modified_date: 2026-11-06T20:13:49.907Z
 tags: ["hackernews","open-source","tooling"]
 hero_image: "/hero/2026-05-25-open-source-hacks-turn-hacker-news-into-a-power-user-playground-5d30e2.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "engineer working in terminal with code and Hacker News feed"
 description: "New terminal UI, CLI search, LLM‑driven retrospectives, and a €10 EU stack give engineers fresh ways to browse, analyze, and run Hacker News data."
-sources_count: 6
-author: "lena-volkov"
+sources_count: 7
 audio_path: "/audio/2026-05-25-open-source-hacks-turn-hacker-news-into-a-power-user-playground-5d30e2.mp3"
 audio_bytes: 586859
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 A wave of open‑source utilities is turning Hacker News into a programmable data source for engineers. The tools lower the barrier to browsing, searching, and even retro‑analyzing the site without leaving the terminal.
 
@@ -49,3 +51,7 @@ Key components include a low‑cost VPS for container orchestration, a managed P
 ## What to Watch
 
 The next wave of HN tooling will likely focus on tighter integration with CI pipelines and automated alerting. Keep an eye on the upcoming release of **hackernews_tui** v1.0, which promises native support for push notifications via the HN streaming API. The **hn‑time‑capsule** repo is slated for a version that swaps Opus 4.5 for the newer ChatGPT 5.2 model, potentially lowering the cost per query further. Finally, the EU stack guide will be updated in Q3 2026 to reflect the latest free‑tier offerings from emerging cloud providers, a change that could shift the cost ceiling even lower.
+
+## Updates
+
+- **2026-11-06** — After the midterms, is the AI industry in for a rough two years? ([source](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/))
