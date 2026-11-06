@@ -1,16 +1,17 @@
 ---
 title: "UK Tax Authority Turns to AI for Fraud Detection"
 date: 2026-05-16T03:38:24.601Z
-modified_date: 2026-10-06T01:05:19.264Z
+modified_date: 2026-11-06T13:38:13.567Z
 tags: ["AI","tax collection","fraud detection"]
 hero_image: "/hero/2026-05-16-uk-tax-authority-turns-to-ai-for-fraud-detection-0cf78d.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "The UK's tax authority is using AI to identify potential fraud, while human staff will still review the findings."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -74,4 +75,5 @@ The use of AI in tax collection is a complex issue that requires careful conside
 
 ## Updates
 
+- **2026-11-06** — ‘Awkwafina: The Unlikely Cook’ premieres on Apple TV ([source](https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv/))
 - **2026-10-06** — Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports ([source](https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports))

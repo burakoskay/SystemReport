@@ -1,16 +1,17 @@
 ---
 title: "Uber revives own AVs to feed robotaxi partners"
 date: 2026-05-21T21:55:49.634Z
-modified_date: 2026-10-17T13:25:18.338Z
+modified_date: 2026-11-06T13:37:58.120Z
 tags: ["uber","autonomous-vehicles","waymo","lidar"]
 hero_image: "/hero/2026-05-21-uber-revives-own-avs-to-feed-robotaxi-partners-a2a1a3.jpg"
 hero_image_credit_name: "Hyundai Motor Group"
 hero_image_credit_url: "https://www.pexels.com/@hyundaimotorgroup"
 visual_keyword: "Hyundai Ioniq 5 equipped with lidar and cameras driving in urban street"
 description: "Uber puts a Hyundai Ioniq 5 on the road to harvest data for its robotaxi allies, reviving its AV program amid lawsuits and fleet‑only debates."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The next few months will reveal whether Uber’s data‑first approach can coexi
 
 ## Updates
 
+- **2026-11-06** — The New York Times Company is reportedly trying to buy Letterboxd for $330 million ([source](https://www.engadget.com/2308852/the-new-york-times-company-reportedly-trying-to-buy-letterboxd/))
 - **2026-10-17** — Encryption Is Getting Squeezed From All Sides ([source](https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/))
 - **2026-08-13** — 2K launches new studio to build its &#8216;next blockbuster sports franchise&#8217; ([source](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer))
 - **2026-08-09** — The AI safety test is becoming a safety risk ([source](https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/))

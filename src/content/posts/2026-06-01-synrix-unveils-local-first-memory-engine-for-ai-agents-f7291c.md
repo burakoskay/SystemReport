@@ -1,19 +1,20 @@
 ---
 title: "Synrix Unveils Local-First Memory Engine for AI Agents"
 date: 2026-06-01T11:47:30.203Z
-modified_date: 2026-09-09T19:00:52.709Z
+modified_date: 2026-11-06T13:37:28.000Z
 tags: ["AI Agents","Memory Engines","Local-First Approach"]
 hero_image: "/hero/2026-06-01-synrix-unveils-local-first-memory-engine-for-ai-agents-f7291c.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "AI Agents"
 description: "Synrix introduces a local-first memory engine for AI agents, offering O(k) retrieval and no cloud dependency."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-01-synrix-unveils-local-first-memory-engine-for-ai-agents-f7291c.mp3"
 audio_bytes: 627192
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ In conclusion, Synrix's local-first memory engine is a significant development i
 
 ## Updates
 
+- **2026-11-06** — Protesters break into Microsoft data center site in Amsterdam ([source](https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam))
 - **2026-09-09** — DOJ wants more answers on Fox’s $22B Roku deal ([source](https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/))
 
 [^1]: [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rlD-OZrIvXYtNf03Bg7FnBg2h2J5McSG-yXPiWNLCfknAnm0LJnTi2-tYZfhwzFj0cgvtQumZFRSZ2UqhXd4LFb9NUa9-RWRd8pCQkrHeTcPDsBjl2xd7CZYdNcqztRIwMHuYS9Tf5SF5rNf9aGxuVeLvyqqmAOtmKK1mPF6qM-2JpFMZ3oTml4szTK1sLj8E_ctt8GmJdcCRTn9)

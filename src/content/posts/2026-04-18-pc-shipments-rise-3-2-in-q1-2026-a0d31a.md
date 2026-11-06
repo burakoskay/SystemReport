@@ -1,16 +1,17 @@
 ---
 title: "PC Shipments Rise 3.2% in Q1 2026"
 date: 2026-04-18T05:29:58.630Z
-modified_date: 2026-10-05T19:01:59.995Z
+modified_date: 2026-11-06T13:38:21.000Z
 tags: ["PC Sales","RAMaggedon","AI Demand"]
 hero_image: "/hero/2026-04-18-pc-shipments-rise-3-2-in-q1-2026-a0d31a.jpg"
 hero_image_credit_name: "Atahan Demir"
 hero_image_credit_url: "https://www.pexels.com/@atahandemir"
 visual_keyword: "PC"
 description: "Panic buying drives PC sales growth"
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The PC market saw increased sales as consumers rushed to buy before prices rose.
 
 ## Updates
 
+- **2026-11-06** — Report: iPad shipments drop 27.5% as global tablet market plunges in Q3 ([source](https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/))
 - **2026-10-05** — The Best Early Amazon Prime Day Deals 2026: WIRED-Tested Picks to Shop Now ([source](https://www.wired.com/story/amazon-prime-day-early-deals-10-05-2026/))
 - **2026-10-01** — The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) ([source](https://www.wired.com/story/amazon-prime-day-early-deals-10-01-2026/))
 - **2026-09-26** — The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026) ([source](https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/))
