@@ -1,18 +1,20 @@
 ---
 title: "Mass Effect trailer leaks, indie AI ban, Bluesky iPad update"
 date: 2026-10-22T23:02:39.060Z
+modified_date: 2026-11-07T21:20:33.103Z
 tags: ["mass effect","indie games","bluesky","subscription","ai"]
 hero_image: "/hero/2026-10-22-mass-effect-trailer-leaks-indie-ai-ban-bluesky-ipad-update-2f8831.jpg"
 hero_image_credit_name: "Marek Pavlík"
 hero_image_credit_url: "https://www.pexels.com/@marek-pavlik-1929759405"
 visual_keyword: "sci-fi game trailer with alien landscape and spaceship silhouette"
 description: "A leaked Mass Effect trailer fuels fan hopes, Pantaloon's Playbill blocks AI‑generated games, and Bluesky rolls out iPad support and profile links."
-sources_count: 7
-author: "sam-whitfield"
+sources_count: 8
 audio_path: "/audio/2026-10-22-mass-effect-trailer-leaks-indie-ai-ban-bluesky-ipad-update-2f8831.mp3"
 audio_bytes: 535031
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Leaked Mass Effect: Universe trailer sparks fan speculation
 
@@ -55,3 +57,7 @@ These dynamics suggest that tech companies are experimenting with incremental im
 ## What to watch
 
 Keep an eye on the official response to the Mass Effect leak; a statement from the franchise owner could confirm or deny development plans. Track Playbill’s subscriber growth over the next quarter to see if the AI ban translates into a measurable market advantage. Finally, monitor Bluesky’s iPad adoption rates and whether the third‑party link feature spurs cross‑platform engagement, especially as competitors roll out similar tablet experiences.
+
+## Updates
+
+- **2026-11-07** — How to connect an Apple Pencil to your iPad ([source](https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/))

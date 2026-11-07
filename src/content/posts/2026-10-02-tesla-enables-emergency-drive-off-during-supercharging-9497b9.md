@@ -1,15 +1,17 @@
 ---
 title: "Tesla Enables Emergency Drive-Off During Supercharging"
 date: 2026-10-02T17:24:30.309Z
+modified_date: 2026-11-07T21:21:01.884Z
 tags: ["Tesla","Supercharger","EV Safety","Software Update","Emergency Response"]
 hero_image: "/hero/2026-10-02-tesla-enables-emergency-drive-off-during-supercharging-9497b9.jpg"
 hero_image_credit_name: "Giant Asparagus"
 hero_image_credit_url: "https://www.pexels.com/@giantasparagus"
 visual_keyword: "Supercharger Station"
 description: "Tesla rolls out a software update allowing vehicles to drive away from Supercharger stations while still connected, a direct response to an Idaho shooting."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 Tesla vehicles can now drive away from Supercharger stations even if the charging cable remains connected. This new software feature directly responds to a mass shooting at a Twin Falls, Idaho, Supercharger location in August, where four people died and seven were wounded. Prior to this update, Tesla vehicles locked the charging plug, disabling drive functionality until the cable was manually released. This immobilizing safeguard, while designed for routine operation, became a critical impediment when faced with an immediate, extreme threat.
 
@@ -46,3 +48,7 @@ Tesla's decision to deploy a software-based solution, rather than a more complex
 Moving forward, the focus will be on the real-world implications and long-term consequences of this feature. How frequently, if ever, will this emergency drive-away be activated? Will there be any unintended side effects, such as accidental activations or damage to charging equipment? Manufacturers will need to assess the durability of charging ports and cables under such stress. Moreover, the feature introduces a new dimension of liability concerning potential property damage at charging stations. This update sets a new precedent for safety features within the broader EV industry, potentially prompting other manufacturers to re-evaluate their own charging lock mechanisms and emergency protocols.
 
 The industry will observe if this emergency drive-away capability becomes a standard, expected feature for all electric vehicles, potentially leading to new regulatory mandates or industry best practices. The conversation has shifted beyond purely technical efficiency to a more holistic view of driver security in complex public environments. This move by Tesla could spur a wider re-examination of charging station design, public safety measures, and the capabilities embedded in future EV software across the entire sector. It underscores that innovation in EV technology now extends beyond range and charging speed, encompassing comprehensive driver and occupant safety in all conceivable scenarios.
+
+## Updates
+
+- **2026-11-07** — iPhone Air 2 is coming next year, here’s why it has more to prove than ever ([source](https://9to5mac.com/2026/11/07/iphone-air-2-launching-early-next-year/))
