@@ -1,19 +1,20 @@
 ---
 title: "Amazon's Brick-and-Mortar Push"
 date: 2026-06-04T15:28:38.918Z
-modified_date: 2026-08-27T06:40:00.822Z
+modified_date: 2026-11-07T01:32:12.056Z
 tags: ["Amazon","brick-and-mortar","retail","e-commerce"]
 hero_image: "/hero/2026-06-04-amazon-s-brick-and-mortar-push-65f007.jpg"
 hero_image_credit_name: "HONG SON"
 hero_image_credit_url: "https://www.pexels.com/@hson"
 visual_keyword: "Amazon bookstore"
 description: "Amazon expands physical presence with new stores and autonomous robots, signaling a shift in e-commerce strategy."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-04-amazon-s-brick-and-mortar-push-65f007.mp3"
 audio_bytes: 588113
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,4 +66,5 @@ In conclusion, Amazon's brick-and-mortar push is a significant development in th
 
 ## Updates
 
+- **2026-11-07** — Google’s original Nest Doorbell is broken for many right now ([source](https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/))
 - **2026-08-27** — PSA: Proton Mail and other Proton platforms facing widespread outage [U: Fixed] ([source](https://9to5mac.com/2026/08/26/psa-proton-mail-and-other-proton-platforms-facing-widespread-outage/))

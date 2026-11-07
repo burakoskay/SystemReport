@@ -1,16 +1,17 @@
 ---
 title: "Google pushes Gemini AI into home devices and search"
 date: 2026-05-21T21:52:55.778Z
-modified_date: 2026-08-14T16:50:24.967Z
+modified_date: 2026-11-07T01:31:17.536Z
 tags: ["google","ai","gemini","search","smart-home"]
 hero_image: "/hero/2026-05-21-google-pushes-gemini-ai-into-home-devices-and-search-e37ff1.jpg"
 hero_image_credit_name: "Jonathan Borba"
 hero_image_credit_url: "https://www.pexels.com/@jonathanborba"
 visual_keyword: "smart speaker with glowing AI icon in a modern living room"
 description: "Google rolls out Gemini built in for third‑party speakers and adds an AI overview to Search, raising usability and privacy questions."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ The next milestone is the public beta of Gemini built in, slated for later this 
 
 ## Updates
 
+- **2026-11-07** — OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO ([source](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation))
 - **2026-08-14** — Gemini app gets 3.7 Flash & setting to turn off corner media watermarks ([source](https://9to5google.com/2026/08/14/gemini-app-3-7-flash/))
 - **2026-06-04** — The first Googlebook wave might include 8 devices powered by Intel, MediaTek, and Snapdragon ([source](https://9to5google.com/2026/06/04/googlebook-devices-intel-snapdragon-mediatek/))

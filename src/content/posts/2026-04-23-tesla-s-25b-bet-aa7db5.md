@@ -1,19 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
-modified_date: 2026-09-13T14:01:53.280Z
+modified_date: 2026-11-07T01:31:26.610Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 22
+sources_count: 23
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 
 ## Updates
 
+- **2026-11-07** — Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions ([source](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news))
 - **2026-09-13** — Your car is selling your data ([source](https://www.theverge.com/column/994172/your-car-is-selling-your-data))
 - **2026-09-03** — You can watch the coolant flow inside Ugreen’s liquid-cooled power bank ([source](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling))
 - **2026-09-03** — DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy ([source](https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa))

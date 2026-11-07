@@ -1,19 +1,20 @@
 ---
 title: "Lumigo AI Search"
 date: 2026-05-04T10:19:32.254Z
-modified_date: 2026-11-05T17:48:53.078Z
+modified_date: 2026-11-07T01:32:48.543Z
 tags: ["Lumigo","AI Search Engine","Entertainment Discovery"]
 hero_image: "/hero/2026-05-04-lumigo-ai-search-3b672c.jpg"
 hero_image_credit_name: "Artem Podrez"
 hero_image_credit_url: "https://www.pexels.com/@artempodrez"
 visual_keyword: "Lumigo"
 description: "Lumigo: AI-powered product search engine without sponsored results"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-04-lumigo-ai-search-3b672c.mp3"
 audio_bytes: 573902
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ The history of AI-powered search engines is marked by significant advancements i
 
 ## Updates
 
+- **2026-11-07** — Raycast combines voice dictation and screen awareness in new AI feature ([source](https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/))
 - **2026-11-05** — Ember’s smallest self-heating mug is on sale for just $33 ([source](https://www.theverge.com/gadgets/1027689/ember-cup-6-ounce-woot-kitchen-sale-deal))
 - **2026-09-25** — Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand ([source](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/))
 - **2026-06-06** — Ask HN: Why is the HN crowd so anti-AI? ([source](https://news.ycombinator.com/item?id=48420827))

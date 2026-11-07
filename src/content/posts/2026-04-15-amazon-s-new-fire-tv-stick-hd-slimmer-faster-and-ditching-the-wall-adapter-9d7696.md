@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-11-05T01:58:45.875Z
+modified_date: 2026-11-07T01:32:57.676Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 26
+sources_count: 27
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-11-07** — iOS 27.3: New features, release date, more ([source](https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/))
 - **2026-11-05** — Apple Photos keeps getting better, here’s what’s new in iOS 27 ([source](https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/))
 - **2026-11-03** — Best Air Purifiers for Allergies Are on Sale: Levoit, BlueAir (2026) ([source](https://www.wired.com/story/air-purifier-sale-october-3-2026/))
 - **2026-11-03** — Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom ([source](https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/))

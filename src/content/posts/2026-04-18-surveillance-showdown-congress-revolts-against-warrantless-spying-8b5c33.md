@@ -1,16 +1,17 @@
 ---
 title: "Surveillance Showdown: Congress Revolts Against Warrantless Spying"
 date: 2026-04-18T01:04:44.498Z
-modified_date: 2026-10-23T22:50:50.268Z
+modified_date: 2026-11-07T01:31:44.734Z
 tags: ["surveillance","privacy","security"]
 hero_image: "/hero/2026-04-18-surveillance-showdown-congress-revolts-against-warrantless-spying-8b5c33.jpg"
 hero_image_credit_name: "Patrick"
 hero_image_credit_url: "https://www.pexels.com/@jaralol"
 visual_keyword: "big brother watching"
 description: "Lawmakers rebel against Trump's push to extend warrantless surveillance"
-sources_count: 12
+sources_count: 13
 author: "lena-volkov"
 ---
+
 
 
 
@@ -28,6 +29,7 @@ A dramatic post-midnight revolt in the House has sunk the White House's efforts 
 
 ## Updates
 
+- **2026-11-07** — Re-releases of Wing Commander, Ultima titles hit Steam and GOG ([source](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/))
 - **2026-10-23** — TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now ([source](https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/))
 - **2026-10-08** — Margaret Hamilton, who led software development for the Apollo program, has died ([source](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007))
 - **2026-09-25** — Is solar's growth finally slowing in the US? ([source](https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/))
