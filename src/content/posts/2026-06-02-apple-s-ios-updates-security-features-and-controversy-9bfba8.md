@@ -1,19 +1,20 @@
 ---
 title: "Apple's iOS Updates: Security, Features, and Controversy"
 date: 2026-06-02T23:53:13.914Z
-modified_date: 2026-10-31T19:43:04.002Z
+modified_date: 2026-11-07T16:03:53.815Z
 tags: ["Apple","iOS","Security"]
 hero_image: "/hero/2026-06-02-apple-s-ios-updates-security-features-and-controversy-9bfba8.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "Apple iOS"
 description: "Apple releases various iOS updates addressing security concerns, adding features, and sparking controversy with app tracking transparency."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-02-apple-s-ios-updates-security-features-and-controversy-9bfba8.mp3"
 audio_bytes: 615698
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -78,6 +79,7 @@ The market implications of Apple's iOS updates are significant, with potential i
 
 ## Updates
 
+- **2026-11-07** — Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days ([source](https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/))
 - **2026-10-31** — Apple Maps begins blurring NASA, Space Force, and Air Force bases ([source](https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases/))
 - **2026-10-19** — Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card ([source](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/))
 

@@ -1,16 +1,17 @@
 ---
 title: "LLMs Prefer Self-Generated Resumes"
 date: 2026-05-02T17:03:02.424Z
-modified_date: 2026-11-06T13:36:50.939Z
+modified_date: 2026-11-07T16:03:40.481Z
 tags: ["ai research","llm bias","pytorch","audio extraction","nih workshop"]
 hero_image: "/hero/2026-05-02-llms-prefer-self-generated-resumes-43755a.jpg"
 hero_image_credit_name: "SilvaNeto"
 hero_image_credit_url: "https://www.pexels.com/@silvanetomkt"
 visual_keyword: "close-up of a microphone with AI-generated soundwaves"
 description: "Large language models consistently rank their own resume outputs higher than human or competing AI work. What this reveals about AI evaluation."
-sources_count: 20
+sources_count: 21
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ The next six months will clarify whether LLM self-preference is a fundamental bi
 
 ## Updates
 
+- **2026-11-07** — Engadget review recap: Apple devices, Googlebooks and Kindles ([source](https://www.engadget.com/2309200/engadget-review-recap-apple-devices-googlebooks-and-kindles/))
 - **2026-11-06** — 10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More ([source](https://www.wired.com/gallery/best-subscription-boxes-for-kids/))
 - **2026-10-12** — Honeyjar offers AI tools to improve PR and comms at every company ([source](https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/))
 - **2026-09-29** — So long Google, and thanks for all the nudes ([source](https://lecaro.me/20260921-google-less.html))

@@ -1,18 +1,20 @@
 ---
 title: "AI agents multiply as firms buy, hardware strains"
 date: 2026-10-31T14:14:33.901Z
+modified_date: 2026-11-07T16:03:14.350Z
 tags: ["ai","tech","security","enterprise","hardware"]
 hero_image: "/hero/2026-10-31-ai-agents-multiply-as-firms-buy-hardware-strains-df0c2c.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI agents interacting with devices and data streams"
 description: "Salesforce buys Rune, Intel loses $12B, consumer AI agents launch, and new AI‑driven malware surface, reshaping risk and opportunity."
-sources_count: 16
-author: "maya-chen"
+sources_count: 17
 audio_path: "/audio/2026-10-31-ai-agents-multiply-as-firms-buy-hardware-strains-df0c2c.mp3"
 audio_bytes: 637222
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Salesforce expands defense AI with Rune acquisition
 
@@ -53,3 +55,7 @@ These incidents illustrate a growing tension: AI agents promise efficiency, yet 
 ## What to watch
 
 Watch Salesforce’s integration of Rune into Missionforce as the first major defense‑AI rollout under the new ownership. Track Intel’s quarterly guidance for signs of component bottlenecks easing or deepening. Monitor the rollout of personalized drive‑thru menus at Starbucks and Taco Bell for early adoption metrics. Keep an eye on regulatory responses to AI‑driven malware and the DOJ’s ghost‑student prosecutions, which could shape compliance standards for AI use in finance and education. The next quarter will reveal whether the current wave of AI agents translates into sustainable value or fuels further security concerns.
+
+## Updates
+
+- **2026-11-07** — What's the point of buying a touchscreen laptop when you could just get a tablet? ([source](https://www.engadget.com/2305214/touchscreen-laptop-whats-the-point-could-use-tablet/))

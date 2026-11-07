@@ -1,19 +1,20 @@
 ---
 title: "Controversy Hits Health, Piracy Law and Streaming in One Week"
 date: 2026-05-22T16:34:52.458Z
-modified_date: 2026-08-20T20:22:15.747Z
+modified_date: 2026-11-07T16:03:01.665Z
 tags: ["health","law","streaming","media"]
 hero_image: "/hero/2026-05-22-controversy-hits-health-piracy-law-and-streaming-in-one-week-87b510.jpg"
 hero_image_credit_name: "Rafa Sants"
 hero_image_credit_url: "https://www.pexels.com/@rafa-sants-3818665"
 visual_keyword: "dramatic courtroom with TV satellite dishes and medical symbols"
 description: "Doctors protest RFK Jr.'s preventive‑care attacks, a 2001 piracy suit against O.J. Simpson resurfaces, and Apple TV unveils a Matthew McConaughey comedy."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-22-controversy-hits-health-piracy-law-and-streaming-in-one-week-87b510.mp3"
 audio_bytes: 602533
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 RFK Jr.’s anti‑preventive‑care crusade, a revived piracy lawsuit from the early 2000s, and Apple TV’s newest comedy all landed on the tech desk this week. The three stories share a common thread: powerful institutions pushing back against moves that could reshape public trust.
@@ -62,4 +63,5 @@ What to watch next: the American Medical Association’s response to RFK Jr.�
 
 ## Updates
 
+- **2026-11-07** — The right way to fix your MacBook keyboard if it isn't responding ([source](https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/))
 - **2026-08-20** — Mark Zuckerberg bought an Irish castle ([source](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland))

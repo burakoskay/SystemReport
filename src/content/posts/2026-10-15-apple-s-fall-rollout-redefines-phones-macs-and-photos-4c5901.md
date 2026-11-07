@@ -1,15 +1,17 @@
 ---
 title: "Apple's Fall Rollout Redefines Phones, Macs, and Photos"
 date: 2026-10-15T19:56:46.477Z
+modified_date: 2026-11-07T16:02:48.448Z
 tags: ["apple","ios","macbook","foldable","product-launch"]
 hero_image: "/hero/2026-10-15-apple-s-fall-rollout-redefines-phones-macs-and-photos-4c5901.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple event stage with new touchscreen laptop and folding phone prototypes"
 description: "iOS 27 revamps Shared Albums, Samsung supplies iPhone Duo’s foldable screen, and Apple lines up a touchscreen MacBook Pro and OLED iPad mini for October."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 Apple unveiled iOS 27’s overhaul of iCloud Shared Albums on Tuesday. The update lands alongside a four‑week sprint of hardware launches that could reshape how developers and power users interact with Apple’s ecosystem.
 
@@ -42,3 +44,7 @@ Alongside the laptop, Apple will debut an OLED iPad mini that uses the same disp
 ## What to Watch Next
 
 The next week’s iPhone Duo launch will reveal pricing, carrier availability, and the final hinge durability rating. After that, the October 28 event will determine whether Apple can deliver a truly usable touchscreen laptop without compromising the MacBook Pro’s hallmark keyboard and trackpad experience. Finally, analysts will be watching the supply‑chain disclosures for the iPhone Duo’s display to see if Samsung’s involvement expands to future foldable models. Those data points will shape the narrative around Apple’s ability to innovate across hardware categories while juggling a crowded launch calendar.
+
+## Updates
+
+- **2026-11-07** — Good riddance, Cybertruck! ([source](https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash))

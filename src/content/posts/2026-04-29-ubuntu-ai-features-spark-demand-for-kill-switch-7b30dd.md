@@ -1,19 +1,20 @@
 ---
 title: "Ubuntu AI features spark demand for kill switch"
 date: 2026-04-29T19:50:32.096Z
-modified_date: 2026-10-31T01:21:18.201Z
+modified_date: 2026-11-07T16:03:27.522Z
 tags: ["canonical","ubuntu","ai-integration","linux-community","open-source"]
 hero_image: "/hero/2026-04-29-ubuntu-ai-features-spark-demand-for-kill-switch-7b30dd.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Ubuntu desktop interface with neural network visualization overlays"
 description: "Canonical's AI integration in Ubuntu divides Linux users"
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-04-29-ubuntu-ai-features-spark-demand-for-kill-switch-7b30dd.mp3"
 audio_bytes: 611728
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ Three key developments will shape the outcome. First, the Debian project's respo
 
 ## Updates
 
+- **2026-11-07** — This is when external DACs for your phone are worth buying ([source](https://www.engadget.com/2304952/when-external-dac-worth-buying-for-phone/))
 - **2026-10-31** — Last-minute Halloween costumes for tech nerds ([source](https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/))
 - **2026-10-13** — Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase? ([source](https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/))
 - **2026-10-13** — Google Play now supports private, vibe-coded apps built just for you ([source](https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/))

@@ -1,16 +1,17 @@
 ---
 title: "NASA Shifts Focus to Deep Space Exploration"
 date: 2026-05-09T20:52:34.045Z
-modified_date: 2026-09-29T00:09:41.557Z
+modified_date: 2026-11-07T16:03:33.980Z
 tags: ["NASA","Deep Space Exploration","Lunar Lander"]
 hero_image: "/hero/2026-05-09-nasa-shifts-focus-to-deep-space-exploration-c308fa.jpg"
 hero_image_credit_name: "Frankie Hatton"
 hero_image_credit_url: "https://www.pexels.com/@frankie-hatton-225801"
 visual_keyword: "NASA"
 description: "NASA partners with Blue Origin and South Korea for lunar and deep space missions, while also addressing astronaut safety and talent acquisition."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -86,6 +87,7 @@ As the agency continues to collaborate with commercial partners and internationa
 
 ## Updates
 
+- **2026-11-07** — 10 of the coolest features in Samsung's new One UI 9 update ([source](https://www.engadget.com/2305270/samsung-one-ui-9-coolest-features/))
 - **2026-09-29** — MagSafe Monday: Pioneer joins the MagSafe accessory market with the SDA-SC600 ([source](https://9to5mac.com/2026/09/28/pioneer-sda-sc600/))
 - **2026-08-12** — Brendan Carr is one firing away from an unchecked FCC ([source](https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum))
 - **2026-08-02** — Here's where you want to be to see the 2026 solar eclipse ([source](https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/))

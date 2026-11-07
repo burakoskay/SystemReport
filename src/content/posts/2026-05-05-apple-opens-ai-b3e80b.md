@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-11-03T17:36:23.625Z
+modified_date: 2026-11-07T16:02:22.651Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-11-07** — GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off ([source](https://www.wired.com/story/goruck-black-friday-sale-2026/))
 - **2026-11-03** — Apple is all in on AI — its own and everyone else&#8217;s ([source](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai))
 - **2026-10-27** — T-Mobile’s new plans let users swap between Apple TV and other subscriptions ([source](https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions/))
 - **2026-09-12** — Pixelated 116: How dynamic is this Duo? ([source](https://9to5google.com/2026/09/11/pixelated-116-how-dynamic-is-this-duo/))

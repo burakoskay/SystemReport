@@ -1,16 +1,17 @@
 ---
 title: "Nonprofit Hospitals' Billions in Consulting Fees Raise Questions"
 date: 2026-05-08T06:07:40.947Z
-modified_date: 2026-09-08T14:05:04.167Z
+modified_date: 2026-11-07T16:02:16.415Z
 tags: ["Nonprofit Hospitals","Consulting Fees","Healthcare Industry"]
 hero_image: "/hero/2026-05-08-nonprofit-hospitals-billions-in-consulting-fees-raise-questions-a0a25c.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Healthcare"
 description: "Hospitals spend billions on consultants with unclear impact"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The future of healthcare consulting is likely to be shaped by the evolving needs
 
 ## Updates
 
+- **2026-11-07** — The 10 Best Early Black Friday Headphone Deals (2026) ([source](https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/))
 - **2026-09-08** — The best things I saw at IFA 2026 ([source](https://www.engadget.com/2252471/best-of-ifa-2026/))
 - **2026-08-15** — Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever ([source](https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/))
 - **2026-05-27** — Mina the Hollower is the best old-school action adventure I've played in a while ([source](https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/))
