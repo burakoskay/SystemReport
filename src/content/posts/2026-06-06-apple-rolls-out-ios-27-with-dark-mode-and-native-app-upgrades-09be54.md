@@ -1,19 +1,20 @@
 ---
 title: "Apple rolls out iOS 27 with dark mode and native app upgrades"
 date: 2026-06-06T17:22:10.730Z
-modified_date: 2026-11-06T20:13:40.754Z
+modified_date: 2026-11-08T16:30:23.915Z
 tags: ["apple","ios","wwdc","software","nativeapps"]
 hero_image: "/hero/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "iPhone screen displaying dark mode interface"
 description: "Apple unveils iOS 27 at WWDC, adding dark mode, revamped Health, Maps, and watchOS App Store support while tightening its native app ecosystem."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.mp3"
 audio_bytes: 623013
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Track the adoption rate of dark mode in the first iOS 27 update cycle; a low upt
 
 ## Updates
 
+- **2026-11-08** — Apple aiming to make Siri ‘more like an agent’ as soon as next year: report ([source](https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/))
 - **2026-11-06** — Meta introduces Spaces, a new way to collaborate with your Muse agent ([source](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/))
 - **2026-10-28** — Bank of America kindly asks that you don’t share your banking password with your AI assistant ([source](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/))
 - **2026-09-20** — Five ways that the new Siri AI is frustrating iPhone and Apple Watch users ([source](https://9to5mac.com/2026/09/20/five-ways-that-the-new-siri-ai-is-frustrating-iphone-and-apple-watch-users/))

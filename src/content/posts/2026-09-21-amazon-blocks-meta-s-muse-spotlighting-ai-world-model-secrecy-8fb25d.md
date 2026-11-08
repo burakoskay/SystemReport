@@ -1,15 +1,17 @@
 ---
 title: "Amazon blocks Meta’s Muse spotlighting AI world‑model secrecy"
 date: 2026-09-21T09:31:54.874Z
+modified_date: 2026-11-08T16:30:33.023Z
 tags: ["ai","e-commerce","privacy","world-models"]
 hero_image: "/hero/2026-09-21-amazon-blocks-meta-s-muse-spotlighting-ai-world-model-secrecy-8fb25d.jpg"
 hero_image_credit_name: "Sergey  Meshkov"
 hero_image_credit_url: "https://www.pexels.com/@19x14"
 visual_keyword: "AI assistant icon blocked by a shopping cart"
 description: "Meta’s Muse AI agent was barred from Amazon’s store after the retailer flagged privacy and security concerns, underscoring the opaque tactics of world‑model firms."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 ## Amazon stops Muse from shopping on its platform
 Meta’s Muse AI agent was blocked from accessing Amazon on Sunday. The block came with a popup warning that the agent violated Amazon’s Conditions of Use.
@@ -45,3 +47,7 @@ Developers can mitigate these issues by implementing OAuth‑style token exchang
 
 ## What to watch next
 Watch for a formal response from Meta about Muse’s integration plan. Amazon may publish a developer policy that explicitly bans unauthenticated agents. The next Equity discussion on AI pacing could reference this incident as a case study. Finally, any funding announcements from world‑model startups will likely be scrutinized for transparency commitments.
+
+## Updates
+
+- **2026-11-08** — Your digital game library is yours, until it's not ([source](https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty/))

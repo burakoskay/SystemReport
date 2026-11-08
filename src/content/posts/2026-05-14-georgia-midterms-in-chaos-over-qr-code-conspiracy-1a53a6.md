@@ -1,19 +1,20 @@
 ---
 title: "Georgia Midterms in Chaos Over QR Code Conspiracy"
 date: 2026-05-14T03:53:11.300Z
-modified_date: 2026-10-22T02:58:55.163Z
+modified_date: 2026-11-08T16:30:51.154Z
 tags: ["elections","misinformation","voting technology"]
 hero_image: "/hero/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "QR code"
 description: "Georgia bans QR codes in elections due to conspiracy theories, leaving ballot counting uncertain."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-14-georgia-midterms-in-chaos-over-qr-code-conspiracy-1a53a6.mp3"
 audio_bytes: 613818
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ As the midterm elections approach, election officials in Georgia and across the 
 
 ## Updates
 
+- **2026-11-08** — The game reverse engineering community is the latest casualty of AI ([source](https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/))
 - **2026-10-22** — Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen? ([source](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings))
 - **2026-10-21** — ‘It’s the President’s Fault’: The White House Blame Game Starts Early Ahead of the Midterms ([source](https://www.wired.com/story/its-the-presidents-fault-the-white-house-blame-game-starts-early-ahead-of-the-midterms/))
 - **2026-10-19** — Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories ([source](https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories/))

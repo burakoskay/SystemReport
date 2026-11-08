@@ -1,19 +1,20 @@
 ---
 title: "Apple discounts and AI sales bots reshape tech buying"
 date: 2026-05-28T20:43:07.152Z
-modified_date: 2026-11-01T17:31:44.354Z
+modified_date: 2026-11-08T16:30:05.821Z
 tags: ["apple","ai","sales","interview","productivity"]
 hero_image: "/hero/2026-05-28-apple-discounts-and-ai-sales-bots-reshape-tech-buying-acbd92.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "busy tech desk with laptops, headphones, and AI chat bubbles"
 description: "Apple’s latest Amazon discounts coincide with the launch of AI‑driven sales and interview tools, highlighting a shift toward automated productivity."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-28-apple-discounts-and-ai-sales-bots-reshape-tech-buying-acbd92.mp3"
 audio_bytes: 615489
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ Track Apple’s discount cadence through the holiday quarter; a deeper price cut
 
 ## Updates
 
+- **2026-11-08** — Apple’s M5 MacBook Air is down to its lowest price since July ([source](https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale))
 - **2026-11-01** — Prop 45 in California could be hiding a loophole for data centers ([source](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy))
 - **2026-09-30** — Android 17 QPR2 enables Pixel 11 Pro HiLight for messages ([source](https://9to5google.com/2026/09/29/pixel-11-hilight-messages-qpr2/))
 - **2026-09-03** — Ugly AI Food Photos Are Only the Beginning ([source](https://www.wired.com/story/ugly-ai-food-photos-are-only-the-beginning/))

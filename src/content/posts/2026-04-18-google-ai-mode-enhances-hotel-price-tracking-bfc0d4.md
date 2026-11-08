@@ -1,16 +1,17 @@
 ---
 title: "Google AI Mode Enhances Hotel Price Tracking"
 date: 2026-04-18T12:45:49.832Z
-modified_date: 2026-08-24T14:36:19.232Z
+modified_date: 2026-11-08T16:29:47.512Z
 tags: ["Google","AI Mode","Hotel Price Tracking"]
 hero_image: "/hero/2026-04-18-google-ai-mode-enhances-hotel-price-tracking-bfc0d4.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Google AI Mode"
 description: "Google's AI Mode update allows users to track hotel prices for specific hotels, extending existing city-level tracking."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The company's focus on providing users with accurate and up-to-date information 
 
 ## Updates
 
+- **2026-11-08** — 6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More ([source](https://www.wired.com/gallery/best-touchscreen-gloves/))
 - **2026-08-24** — US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards ([source](https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/))
 - **2026-05-12** — iOS 27’s upgraded Camera app will be ‘fully customizable,’ per report ([source](https://9to5mac.com/2026/05/12/ios-27s-upgraded-camera-app-will-be-fully-customizable-per-report/))
 - **2026-05-07** — Canvas is down as ShinyHunters threatens to leak schools’ data ([source](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach))

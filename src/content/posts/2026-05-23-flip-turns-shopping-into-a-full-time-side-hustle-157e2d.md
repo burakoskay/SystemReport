@@ -1,16 +1,17 @@
 ---
 title: "Flip Turns Shopping Into a Full‑Time Side Hustle"
 date: 2026-05-23T11:21:59.557Z
-modified_date: 2026-08-13T16:51:22.522Z
+modified_date: 2026-11-08T16:29:56.559Z
 tags: ["social commerce","affiliate marketing","TikTok"]
 hero_image: "/hero/2026-05-23-flip-turns-shopping-into-a-full-time-side-hustle-157e2d.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "social commerce"
 description: "Flip's TikTok‑style video feed lets users earn affiliate cash while buying, raising questions about the future of social commerce."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -78,4 +79,5 @@ As the social commerce market continues to evolve, it will be interesting to see
 
 ## Updates
 
+- **2026-11-08** — The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now ([source](https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/))
 - **2026-08-13** — The Painful Truth of Exactly How ICE’s New Shock Gloves Work ([source](https://www.wired.com/story/the-painful-truth-of-exactly-how-ice-new-shock-gloves-actually-work/))

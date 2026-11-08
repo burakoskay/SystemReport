@@ -1,16 +1,17 @@
 ---
 title: "Tech Updates: Venmo, Google Home, Apple"
 date: 2026-05-11T21:38:30.078Z
-modified_date: 2026-11-05T17:51:54.040Z
+modified_date: 2026-11-08T16:30:42.103Z
 tags: ["Venmo","Google Home","Apple"]
 hero_image: "/hero/2026-05-11-tech-updates-venmo-google-home-apple-40d286.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "smart home"
 description: "New tech updates: Venmo's discreet payments, Google Home's Gemini speed boost, and Apple's AI research."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ The growing emphasis on user privacy and data security is likely to have far-rea
 
 ## Updates
 
+- **2026-11-08** — The pros and cons of buying refurbished laptops ([source](https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons/))
 - **2026-11-05** — YouTube rolling out app redesign without Subscriptions tab, and everyone hates it ([source](https://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/))
 - **2026-10-30** — iOS 27.2 adds new Find My feature at just the right time ([source](https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/))
 - **2026-08-10** — Monday’s Android iOS app deals and freebies: Hyper Light Drifter, Last Game, Reigns, more ([source](https://9to5toys.com/2026/08/10/monday-android-ios-app-deals-free-hyper-drifter-reigns/))

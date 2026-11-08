@@ -1,16 +1,17 @@
 ---
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
-modified_date: 2026-11-07T01:33:15.846Z
+modified_date: 2026-11-08T16:29:38.396Z
 tags: ["Google","Travel","Shopping"]
 hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ The hotel price-tracking tool is designed to help users save money on summer vac
 
 ## Updates
 
+- **2026-11-08** — Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory ([source](https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/))
 - **2026-11-07** — We know 15k websites are infected. how do we tell them? ([source](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/))
 - **2026-10-28** — What are wrong number text scams, and how can you avoid them? ([source](https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/))
 - **2026-10-05** — Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/))
