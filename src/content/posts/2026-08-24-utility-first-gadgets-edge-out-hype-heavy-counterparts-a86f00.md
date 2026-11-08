@@ -1,16 +1,17 @@
 ---
 title: "Utility‑First Gadgets Edge Out Hype‑Heavy Counterparts"
 date: 2026-08-24T14:38:28.461Z
-modified_date: 2026-11-03T22:47:22.072Z
+modified_date: 2026-11-08T21:35:18.833Z
 tags: ["smart-calendar","nature-tech","display-glasses","pc-cooling"]
 hero_image: "/hero/2026-08-24-utility-first-gadgets-edge-out-hype-heavy-counterparts-a86f00.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "tethered display glasses on a desk beside a smart calendar interface"
 description: "Free AI calendar tools, nature‑monitoring cameras, tethered display glasses, and cooling choices that prioritize function over flash."
-sources_count: 12
+sources_count: 13
 author: "david-okafor"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ This trend aligns with a growing segment of power users who reject perpetual‑p
 
 ## Updates
 
+- **2026-11-08** — The biggest disadvantages of using AI glasses ([source](https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/))
 - **2026-11-03** — Data centers are turning to old jet engines as the wait for power grows ([source](https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/))
 - **2026-11-02** — Always-on Apple Watch display showing the wrong time? Here’s the fix ([source](https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/))
 - **2026-10-31** — Prospero: A new coding harness for a more civilized age ([source](https://nullprogram.com/blog/2026/10/31/))

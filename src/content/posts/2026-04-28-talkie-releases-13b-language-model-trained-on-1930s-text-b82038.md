@@ -1,16 +1,17 @@
 ---
 title: "Talkie releases 13B language model trained on 1930s text"
 date: 2026-04-28T06:40:30.268Z
-modified_date: 2026-11-04T13:38:56.233Z
+modified_date: 2026-11-08T21:34:41.553Z
 tags: ["language-models","ai","open-source","vintage-data"]
 hero_image: "/hero/2026-04-28-talkie-releases-13b-language-model-trained-on-1930s-text-b82038.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "vintage typewriter beside modern server racks"
 description: "Talkie unveils a 13‑billion‑parameter model built on 1930s literature, prompting debate over vintage data and modern LLM trade‑offs."
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Future updates from the Talkie team may include larger checkpoints or additional
 
 ## Updates
 
+- **2026-11-08** — TechCrunch Mobility: The Cybertruck experiment is over ([source](https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/))
 - **2026-11-04** — The Legend of Zelda: Ocarina of Time review: A masterpiece reborn ([source](https://www.engadget.com/2305825/the-legend-of-zelda-ocarina-of-time-review/))
 - **2026-10-21** — Flying Roadsters can’t lift Tesla’s flat Q3 revenues ([source](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger))
 - **2026-05-22** — Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel ([source](https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale))

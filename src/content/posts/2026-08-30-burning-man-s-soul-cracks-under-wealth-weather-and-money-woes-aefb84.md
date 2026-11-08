@@ -1,18 +1,20 @@
 ---
 title: "Burning Man’s Soul Cracks Under Wealth, Weather, and Money Woes"
 date: 2026-08-30T09:41:14.017Z
+modified_date: 2026-11-08T21:35:09.426Z
 tags: ["burning-man","festival","culture","weather","finance"]
 hero_image: "/hero/2026-08-30-burning-man-s-soul-cracks-under-wealth-weather-and-money-woes-aefb84.jpg"
 hero_image_credit_name: "Stephen Leonardi"
 hero_image_credit_url: "https://www.pexels.com/@stephen-leonardi-587681991"
 visual_keyword: "dusty desert festival with towering wooden effigy and crowds"
 description: "Ticket shortfalls, mud‑filled playa, and elite camps expose a festival drifting from its radical roots."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-08-30-burning-man-s-soul-cracks-under-wealth-weather-and-money-woes-aefb84.mp3"
 audio_bytes: 604622
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Ticket Shortfall and Financial Strain
 
@@ -59,3 +61,7 @@ The financial strain, weather volatility, and elite camp controversy converge on
 The next board meeting of the Burning Man Project, scheduled for early September, will decide whether to raise ticket prices, cut the city’s footprint, or seek external investors. The outcome will signal how the nonprofit plans to balance fiscal solvency with its cultural mission. Meanwhile, weather forecasts predict another rain system before the event officially ends on Monday. Tracking the cleanup timeline and any further art‑burn cancellations will reveal how climate risk reshapes the festival’s operational model. Keep an eye on the legal fallout from the White Ocean raid; a lawsuit or settlement could set precedents for how the organization polices exclusive camps.
 
 ---
+
+## Updates
+
+- **2026-11-08** — What does the Xbox Series X have that the Playstation 5 Pro doesn't? ([source](https://www.engadget.com/2309608/what-xbox-series-x-has-playstation-5-pro-doesnt/))

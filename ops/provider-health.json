@@ -1,9 +1,9 @@
 {
   "groq:meta-llama/llama-4-scout-17b-16e-instruct": {
     "last_success": "2026-06-07T19:41:54.541Z",
-    "consecutive_failures": 11632,
+    "consecutive_failures": 11656,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `meta-llama/llama-4-scout-17b-16e-instruct` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-11-08T16:49:40.392Z",
+    "last_failure": "2026-11-08T21:36:58.951Z",
     "cooldown_until": "2026-10-14T20:20:17.341Z"
   },
   "groq:openai/gpt-oss-120b": {
@@ -14,24 +14,24 @@
   },
   "groq:qwen/qwen3-32b": {
     "last_success": "2026-06-07T19:41:40.806Z",
-    "consecutive_failures": 1593,
+    "consecutive_failures": 1599,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `qwen/qwen3-32b` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-11-08T16:39:11.605Z",
+    "last_failure": "2026-11-08T21:35:49.760Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "groq:llama-3.3-70b-versatile": {
-    "consecutive_failures": 6468,
+    "consecutive_failures": 6486,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-11-08T16:49:40.340Z",
+    "last_failure": "2026-11-08T21:36:58.906Z",
     "last_success": "2026-08-17T08:38:40.900Z",
     "cooldown_until": "2026-08-29T00:53:55.793Z"
   },
   "cloudflare:@cf/meta/llama-3.3-70b-instruct-fp8-fast": {
-    "consecutive_failures": 1,
-    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (20493015-c082-4ba9-a976-936d79beb9f3)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
-    "last_failure": "2026-11-08T16:43:54.208Z",
+    "consecutive_failures": 2,
+    "last_error": "Cloudflare 429: {\"errors\":[{\"message\":\"AiError: AiError: you have used up your daily free allocation of 10,000 neurons, please upgrade to Cloudflare's Workers Paid plan if you would like to continue usage. (b0ca4c2f-9958-4313-b51b-01972ab9fcf3)\",\"code\":4006}],\"success\":false,\"result\":{},\"messages\":[",
+    "last_failure": "2026-11-08T21:35:28.470Z",
     "last_success": "2026-11-08T16:43:28.174Z",
-    "cooldown_until": "2026-11-08T16:53:53.987Z"
+    "cooldown_until": "2026-11-08T21:45:28.305Z"
   },
   "gemini:gemini-2.5-flash": {
     "consecutive_failures": 1,
@@ -42,9 +42,9 @@
   },
   "groq:llama-3.1-8b-instant": {
     "last_success": "2026-08-13T18:57:00.648Z",
-    "consecutive_failures": 4450,
+    "consecutive_failures": 4474,
     "last_error": "Groq 404: {\"error\":{\"message\":\"The model `llama-3.1-8b-instant` does not exist or you do not have access to it.\",\"type\":\"invalid_request_error\",\"code\":\"model_not_found\"}}\n",
-    "last_failure": "2026-11-08T16:49:40.495Z",
+    "last_failure": "2026-11-08T21:36:58.999Z",
     "cooldown_until": "2026-08-29T00:53:27.323Z"
   },
   "cloudflare:@cf/qwen/qwen2.5-coder-32b-instruct": {

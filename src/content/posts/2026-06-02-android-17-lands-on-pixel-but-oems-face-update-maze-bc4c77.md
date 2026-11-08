@@ -1,18 +1,20 @@
 ---
 title: "Android 17 lands on Pixel, but OEMs face update maze"
 date: 2026-06-02T04:28:18.039Z
+modified_date: 2026-11-08T21:34:23.046Z
 tags: ["android","updates","google","india","smartphones"]
 hero_image: "/hero/2026-06-02-android-17-lands-on-pixel-but-oems-face-update-maze-bc4c77.jpg"
 hero_image_credit_name: "Zain Ali"
 hero_image_credit_url: "https://www.pexels.com/@zaktech90"
 visual_keyword: "Android smartphone home screen showing live travel widget and hidden app labels"
 description: "Android 17 debuts on Pixel in June 2026, bringing label‑hiding and live travel widgets while OEMs grapple with EU update rules and India’s new regulations."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-06-02-android-17-lands-on-pixel-but-oems-face-update-maze-bc4c77.mp3"
 audio_bytes: 570141
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Android 17 rolls out to Pixel first
 
@@ -51,3 +53,7 @@ Google also highlights its role in India’s digital transformation, noting a 15
 ## What to watch
 
 The next few months will reveal how quickly OEMs push Android 17 to their devices and whether the live‑travel widget gains traction beyond early adopters. In India, watch for the first compliance rollout on the Play Store and any follow‑up actions from the CCI that could reshape app distribution. Finally, keep an eye on how manufacturers balance the EU’s five‑year update rule with their own support timelines – a mismatch could push more users toward longer‑supported Pixel devices.
+
+## Updates
+
+- **2026-11-08** — Apple is racing to make Siri more agentic ([source](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic))

@@ -1,16 +1,17 @@
 ---
 title: "Lenovo's First Googlebooks Leak Shows Two Laptops and a 2-in-1"
 date: 2026-08-01T06:25:46.205Z
-modified_date: 2026-08-03T19:24:24.353Z
+modified_date: 2026-11-08T21:35:00.123Z
 tags: ["Googlebook","Lenovo","Chrome OS"]
 hero_image: "/hero/2026-08-01-lenovo-s-first-googlebooks-leak-shows-two-laptops-and-a-2-in-1-925aa1.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Googlebook"
 description: "Lenovo's first Googlebook devices leaked"
-sources_count: 4
+sources_count: 5
 author: "david-okafor"
 ---
+
 
 
 ## Lenovo's leaked Googlebook lineup
@@ -32,4 +33,5 @@ Chrome OS devices have been available for several years, with a range of manufac
 
 ## Updates
 
+- **2026-11-08** — You can have a PlayStation arcade machine at home, but there's a huge caveat ([source](https://www.engadget.com/2307850/you-can-have-a-playstation-arcade-machine-at-home-but-theres-a-huge-caveat/))
 - **2026-08-03** — Apple finally fixed Siri. So why does it feel anticlimactic? ([source](https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/))
