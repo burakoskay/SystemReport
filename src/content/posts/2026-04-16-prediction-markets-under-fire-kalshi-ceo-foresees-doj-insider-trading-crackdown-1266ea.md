@@ -1,16 +1,17 @@
 ---
 title: "Prediction Markets Under Fire: Kalshi CEO Foresees DOJ Insider"
 date: 2026-04-16T05:31:49.780Z
-modified_date: 2026-11-05T01:58:27.488Z
+modified_date: 2026-11-08T01:01:18.904Z
 tags: ["prediction markets","insider trading","doj","kalshi","financial regulation"]
 hero_image: "/hero/2026-04-16-prediction-markets-under-fire-kalshi-ceo-foresees-doj-insider-trading-crackdown-1266ea.jpg"
 hero_image_credit_name: "Alex Luna"
 hero_image_credit_url: "https://www.pexels.com/@al3jandr0"
 visual_keyword: "Digital stock market chart with a gavel symbol"
 description: "Kalshi CEO Tarek Mansour expects the DOJ to prosecute insider trading in prediction markets, signaling heightened regulatory scrutiny for the evolving industry."
-sources_count: 19
+sources_count: 20
 author: "lena-volkov"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ The implications of increased DOJ scrutiny are far-reaching. It will undoubtedly
 
 ## Updates
 
+- **2026-11-08** — What does Apple One Family come with and which subscription is best for you? ([source](https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/))
 - **2026-11-05** — Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21% ([source](https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/))
 - **2026-10-24** — This clever USB-C cable doubles as a stand for your phone [Gallery] ([source](https://9to5google.com/2026/10/24/statik-powerstand-usb-c-cable-kickstand/))
 - **2026-10-23** — iPhone Duo accessories: Here are five top picks for Apple’s foldable ([source](https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable/))

@@ -1,18 +1,20 @@
 ---
 title: "Microsoft, Lyft, Samsung and Honor Shift Audience and Device Play"
 date: 2026-09-09T14:09:46.001Z
+modified_date: 2026-11-08T01:01:09.821Z
 tags: ["microsoft","lyft","samsung","honor","technology"]
 hero_image: "/hero/2026-09-09-microsoft-lyft-samsung-and-honor-shift-audience-and-device-play-8c7c39.jpg"
 hero_image_credit_name: "Vladimir Srajber"
 hero_image_credit_url: "https://www.pexels.com/@vladimirsrajber"
 visual_keyword: "futuristic newsroom and autonomous car service with foldable phone prototype"
 description: "Microsoft pushes fan-community features, Lyft trains drivers to service Waymo fleets, Samsung advises Apple on foldables, and Honor’s robot phone sparks niche demand."
-sources_count: 7
-author: "david-okafor"
+sources_count: 8
 audio_path: "/audio/2026-09-09-microsoft-lyft-samsung-and-honor-shift-audience-and-device-play-8c7c39.mp3"
 audio_bytes: 572649
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 Microsoft’s news division is turning its audience into a fan club, a move that signals a deeper shift toward participatory media.
 
@@ -47,3 +49,7 @@ In the hardware arena, Samsung’s mentorship of Apple and Honor’s robot phone
 What to watch next: Microsoft will roll out the Maddow chat pilot in the coming weeks, and its user‑engagement metrics will indicate whether the fan‑community model scales. Lyft’s Nashville service contract will be reviewed by local regulators for compliance with labor laws. Samsung’s advice will be tested when Apple unveils its first iPhone foldable, likely later this year, and market reception will reveal if durability concerns dominate consumer sentiment. Finally, Honor plans to expand the Robot Phone beyond China, and its supply‑chain adjustments will signal whether the device can move from niche curiosity to mainstream product.
 
 These developments will shape how media, mobility, and hardware companies capture attention and loyalty in an environment where novelty alone no longer guarantees success.
+
+## Updates
+
+- **2026-11-08** — How do spam callers get your number in the first place? ([source](https://www.engadget.com/2307324/spam-callers-how-they-get-your-number/))
