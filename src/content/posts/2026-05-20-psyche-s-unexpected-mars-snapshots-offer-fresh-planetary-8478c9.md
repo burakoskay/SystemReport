@@ -1,15 +1,17 @@
 ---
 title: "Psyche’s Unexpected Mars Snapshots Offer Fresh Planetary"
 date: 2026-05-20T22:19:28.774Z
+modified_date: 2026-11-09T08:58:11.015Z
 tags: ["space","nasa","psyche","mars","planetary-science"]
 hero_image: "/hero/2026-05-20-psyche-s-unexpected-mars-snapshots-offer-fresh-planetary-8478c9.jpg"
 hero_image_credit_name: "Paul Seling"
 hero_image_credit_url: "https://www.pexels.com/@paulseling"
 visual_keyword: "NASA Psyche spacecraft capturing Mars from deep space"
 description: "NASA’s Psyche probe sent back rare images of Mars, giving scientists a deep‑space view that could sharpen planetary models."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 ## Psyche snaps unexpected Mars portraits
 NASA’s Psyche spacecraft, hurtling toward asteroid 16 Psyche, sent back a handful of Mars images that no other mission has captured. The pictures arrive as a surprise bonus in the probe’s routine data stream, and they give researchers a viewpoint that orbiters and rovers simply cannot provide.
@@ -38,3 +40,7 @@ Those opportunistic captures have historically yielded unexpected science. Voyag
 
 ## What to watch
 The Psyche team plans to release the full image set and processing pipeline in a technical brief later this year. Researchers will compare the frames against contemporaneous data from Mars orbiters to quantify any systematic offsets. Meanwhile, the probe continues its journey, slated to arrive at asteroid Psyche in early 2026 for a year‑long mapping campaign. The next milestone to track is the spacecraft’s final approach trajectory, which will determine whether any additional planetary targets—perhaps Earth or Venus—can be opportunistically imaged before the asteroid rendezvous.
+
+## Updates
+
+- **2026-11-09** — The Web Is More Than Enough, by Paul Ford ([source](https://ftrain.com/aboard-the-web-is-more-than-enough))

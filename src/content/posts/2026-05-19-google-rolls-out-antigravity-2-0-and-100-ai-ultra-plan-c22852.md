@@ -1,16 +1,17 @@
 ---
 title: "Google rolls out Antigravity 2.0 and $100 AI Ultra plan"
 date: 2026-05-19T18:19:49.457Z
-modified_date: 2026-11-05T01:58:54.890Z
+modified_date: 2026-11-09T08:57:41.836Z
 tags: ["google","ai","pricing","antigravity"]
 hero_image: "/hero/2026-05-19-google-rolls-out-antigravity-2-0-and-100-ai-ultra-plan-c22852.jpg"
 hero_image_credit_name: "Alexey Demidov"
 hero_image_credit_url: "https://www.pexels.com/@alexeydemidov"
 visual_keyword: "modern office desk with AI interface and floating icons"
 description: "Google unveils Antigravity 2.0 and lifts its AI Ultra subscription to $100/month, promising five‑fold usage over the Pro tier."
-sources_count: 14
+sources_count: 15
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The next quarter will reveal whether the $100 Ultra plan attracts enough high‑
 
 ## Updates
 
+- **2026-11-09** — Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50” ([source](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/))
 - **2026-11-05** — Nintendo's biggest ROM chip supplier is bowing out of the business ([source](https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/))
 - **2026-10-05** — OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide ([source](https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr))
 - **2026-09-15** — The Census Bureau Is Overrun With Staffers From a MAGA Think Tank ([source](https://www.wired.com/story/a-trump-aligned-think-tank-focused-on-voting-rights-has-taken-over-the-census-bureau/))
