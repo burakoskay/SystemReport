@@ -1,16 +1,17 @@
 ---
 title: "Asus TUF Gaming A14 (2026) Review: Missed Opportunity"
 date: 2026-04-18T11:07:04.735Z
-modified_date: 2026-10-19T21:58:40.011Z
+modified_date: 2026-11-09T01:22:52.616Z
 tags: ["Asus","TUF Gaming A14","AMD Ryzen 7 7840U"]
 hero_image: "/hero/2026-04-18-asus-tuf-gaming-a14-2026-review-missed-opportunity-78d099.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "GPU-less"
 description: "Asus TUF Gaming A14 lacks punch with AMD's Ryzen 7 7840U"
-sources_count: 5
+sources_count: 6
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -25,6 +26,7 @@ The TUF Gaming A14's inability to capitalize on AMD's innovation is a missed opp
 
 ## Updates
 
+- **2026-11-09** — Which Canon Cameras Are Compatible With Its Free 3D Photo Software? ([source](https://www.engadget.com/2309282/which-canon-cameras-compatible-with-free-3d-software/))
 - **2026-10-19** — Apple is launching major new products next week, here’s what’s coming ([source](https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/))
 - **2026-09-30** — The Best Gaming Routers (2026): Tested By a Family of Gamers ([source](https://www.wired.com/story/best-gaming-routers/))
 - **2026-09-03** — Anker's MindBase is a smart home hub, NAS and security guard ([source](https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/))

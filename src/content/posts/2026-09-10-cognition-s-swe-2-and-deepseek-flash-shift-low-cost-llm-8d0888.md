@@ -1,19 +1,20 @@
 ---
 title: "Cognition's SWE-2 and DeepSeek Flash Shift Low‑Cost LLM"
 date: 2026-09-10T17:44:03.892Z
-modified_date: 2026-10-22T22:57:05.745Z
+modified_date: 2026-11-09T01:23:20.128Z
 tags: ["llm","ai","cost-efficiency","model-release"]
 hero_image: "/hero/2026-09-10-cognition-s-swe-2-and-deepseek-flash-shift-low-cost-llm-8d0888.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "AI research lab with server racks and model diagrams"
 description: "Cognition launches SWE‑2, DeepSeek releases v4.1 Flash, and a community project trains a 3.8B model for under $1k, reshaping cost expectations."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-09-10-cognition-s-swe-2-and-deepseek-flash-shift-low-cost-llm-8d0888.mp3"
 audio_bytes: 618624
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ Track Cognition’s next benchmark release for SWE‑2, especially any third‑p
 
 ## Updates
 
+- **2026-11-09** — The one Starlink perk that gives it an edge over traditional internet ([source](https://www.engadget.com/2309293/starlink-perk-edge-over-traditional-internet-adaptibility/))
 - **2026-10-22** — Meta&#8217;s AI could still scrape news sites, legal experts say ([source](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns))
 - **2026-10-17** — Meta removes language that may have allowed it to scrape news sites ([source](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites))

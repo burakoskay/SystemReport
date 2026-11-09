@@ -1,19 +1,20 @@
 ---
 title: "Apple Weather App Outage: Users Report Widespread Issues"
 date: 2026-04-28T17:58:50.244Z
-modified_date: 2026-11-07T21:20:40.246Z
+modified_date: 2026-11-09T01:23:01.799Z
 tags: ["apple","weather","ios","outage","app"]
 hero_image: "/hero/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.jpg"
 hero_image_credit_name: "JÉSHOOTS"
 hero_image_credit_url: "https://www.pexels.com/@jeshoots"
 visual_keyword: "iPhone user looking at a frozen Weather app screen"
 description: "Apple's Weather app is down for iOS and macOS users, with intermittent outages reported across regions."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-04-28-apple-weather-app-outage-users-report-widespread-issues-25fa09.mp3"
 audio_bytes: 603160
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ What to watch: The next major iOS update, likely in September, could include a f
 
 ## Updates
 
+- **2026-11-09** — The disadvantages of buying tech from other countries ([source](https://www.engadget.com/2309284/disadvantages-buying-tech-from-other-countries/))
 - **2026-11-07** — The $8 Linux Computer (2022) ([source](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html))
 - **2026-09-07** — Apparently CodePen 2.0 sends data to their servers as you type ([source](https://news.ycombinator.com/item?id=49596976))
 - **2026-09-03** — Apple will launch six major new products next week, here’s what’s coming ([source](https://9to5mac.com/2026/09/03/apple-will-launch-six-major-new-products-next-week-heres-whats-coming/))

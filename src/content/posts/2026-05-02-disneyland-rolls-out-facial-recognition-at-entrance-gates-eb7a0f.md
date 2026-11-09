@@ -1,16 +1,17 @@
 ---
 title: "Disneyland Rolls Out Facial Recognition at Entrance Gates"
 date: 2026-05-02T10:57:16.771Z
-modified_date: 2026-10-13T01:47:02.858Z
+modified_date: 2026-11-09T01:22:33.935Z
 tags: ["Disneyland","Facial Recognition","Technology"]
 hero_image: "/hero/2026-05-02-disneyland-rolls-out-facial-recognition-at-entrance-gates-eb7a0f.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial recognition"
 description: "Disneyland now uses facial recognition technology at some entrance lanes to prevent ticket fraud and streamline re-entry."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The use of facial recognition technology at Disneyland is likely to be closely w
 
 ## Updates
 
+- **2026-11-09** — Soul Glo’s Diaspora Problems is a hardcore record like no other ([source](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review))
 - **2026-10-13** — Watch the trailer for Apple TV’s ‘Being Heumann’ ([source](https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann/))
 - **2026-09-09** — The new Apple Watch will use microphone and other sensors to generate AI recaps of your day ([source](https://9to5mac.com/2026/09/09/the-new-apple-watch-will-use-microphone-and-other-sensors-to-generate-ai-recaps-of-your-day/))
 - **2026-09-07** — How to Watch the Apple September Event (2026) ([source](https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/))
