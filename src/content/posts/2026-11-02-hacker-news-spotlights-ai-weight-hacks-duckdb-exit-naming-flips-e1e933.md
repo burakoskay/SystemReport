@@ -1,18 +1,20 @@
 ---
 title: "Hacker News spotlights AI weight hacks, DuckDB exit, naming flips"
 date: 2026-11-02T20:06:14.459Z
+modified_date: 2026-11-09T20:21:47.034Z
 tags: ["hackernews","ai","databases","naming"]
 hero_image: "/hero/2026-11-02-hacker-news-spotlights-ai-weight-hacks-duckdb-exit-naming-flips-e1e933.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract digital collage of AI model weights, database tables, and name lists"
 description: "A look at the top Hacker News posts: Astra’s weight‑space programming for Qwen, PostHog’s DuckDB migration, and quirky gender‑swap name trends."
-sources_count: 7
-author: "ryan-tanaka"
+sources_count: 8
 audio_path: "/audio/2026-11-02-hacker-news-spotlights-ai-weight-hacks-duckdb-exit-naming-flips-e1e933.mp3"
 audio_bytes: 606293
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Astra reads and writes model weights to boost Qwen
 
@@ -41,3 +43,7 @@ Data‑warehouse migrations, like PostHog’s exit from DuckDB, reflect a broade
 ## What to watch next
 
 Keep an eye on the follow‑up posts in the Astra thread; any benchmark updates will signal whether weight‑space edits can replace traditional fine‑tuning. For PostHog, monitor performance metrics released in future blog updates to see if the new store meets the promised latency targets. Finally, watch naming‑trend analyses from the U.S. Social Security Administration for fresh data that could shift the gender‑swap conversation again.
+
+## Updates
+
+- **2026-11-09** — Medium’s new TK app brings AI assistance directly into the writing process ([source](https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/))

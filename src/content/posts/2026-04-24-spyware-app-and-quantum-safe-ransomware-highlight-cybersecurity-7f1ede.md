@@ -1,19 +1,20 @@
 ---
 title: "Spyware App and Quantum-Safe Ransomware Highlight Cybersecurity"
 date: 2026-04-24T17:26:16.416Z
-modified_date: 2026-09-15T17:55:41.301Z
+modified_date: 2026-11-09T20:22:26.353Z
 tags: ["cybersecurity","spyware","ransomware","quantum computing"]
 hero_image: "/hero/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "cybersecurity"
 description: "New spyware app and quantum-safe ransomware family expose growing risks for engineers and security teams."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.mp3"
 audio_bytes: 622804
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The emergence of bespoke spyware and quantum-safe ransomware highlights the grow
 
 ## Updates
 
+- **2026-11-09** — Audioengine Color of the Year Kit Review: Bright Look, Good Sound ([source](https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/))
 - **2026-09-15** — Slow Horses is back tonight, and Apple just confirmed two more seasons ([source](https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/))
 - **2026-09-08** — Logitech launches $99 MX Keypad for coding and AI workflows ([source](https://9to5mac.com/2026/09/08/logitech-launches-99-mx-keypad-for-coding-and-ai-workflows/))
 - **2026-05-27** — This Find My wallet tracker has two features that make it stand out ([source](https://9to5mac.com/2026/05/27/this-find-my-wallet-tracker-has-two-features-that-make-it-stand-out/))

@@ -1,16 +1,17 @@
 ---
 title: "Adobe Unleashes Firefly AI Assistant: The Future of Creative Workflows"
 date: 2026-04-15T19:45:07.449Z
-modified_date: 2026-09-17T14:37:14.357Z
+modified_date: 2026-11-09T20:24:31.198Z
 tags: ["adobe","firefly","ai","creativecloud","workflowautomation"]
 hero_image: "/hero/2026-04-15-adobe-unleashes-firefly-ai-assistant-the-future-of-creative-workflows-e381a9.jpg"
 hero_image_credit_name: "Vito Goričan"
 hero_image_credit_url: "https://www.pexels.com/@vito-gorican-10954628"
 visual_keyword: "digital creative assistant software orchestrating art"
 description: "Adobe's Firefly AI Assistant ushers in a new era for Creative Cloud, enabling complex multi-app workflows via natural language prompts and empowering creators."
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ This move positions Firefly AI Assistant as Adobe's definitive answer to the nar
 
 ## Updates
 
+- **2026-11-09** — Apple releases iOS 27.2.1 for iPhone, here’s what’s new ([source](https://9to5mac.com/2026/11/09/apple-releases-ios-27-2-1-for-iphone-heres-whats-new/))
 - **2026-09-17** — DJI's new SDR Transmission II beams 4K 60 fps HDR video up to 2.5 miles ([source](https://www.engadget.com/2259908/dji-new-sdr-transmission-ii-beams-4k-60-fps-hdr-video-2-5-miles/))
 - **2026-09-11** — This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass ([source](https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/))
 - **2026-09-08** — Apple releases iOS 26.6.2 for iPhone, here’s what’s new ([source](https://9to5mac.com/2026/09/08/apple-releases-ios-26-6-2-for-iphone-heres-whats-new/))

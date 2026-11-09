@@ -1,15 +1,17 @@
 ---
 title: "Apple Finds iPhones Offline, Ubimage Maps Your Memories"
 date: 2026-09-07T08:51:39.655Z
+modified_date: 2026-11-09T20:22:02.902Z
 tags: ["iphone","findmy","geotagging","augmented-reality"]
 hero_image: "/hero/2026-09-07-apple-finds-iphones-offline-ubimage-maps-your-memories-8b65c0.jpg"
 hero_image_credit_name: "Vlada Karpovich"
 hero_image_credit_url: "https://www.pexels.com/@vlada-karpovich"
 visual_keyword: "iPhone displaying geotagged photos over a horizon landscape"
 description: "Apple’s Find My can locate a powered‑off iPhone, while Ubimage turns geotagged shots into a horizon‑anchored map."
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 Apple’s Find My network can locate an iPhone even after the device is powered off, provided the owner initiates the locate request promptly.
 
@@ -46,3 +48,7 @@ The broader ecosystem may see tighter integration between Apple’s Find My fr
 ## What to watch
 
 Track Apple’s next iOS release for any changes to the offline Find My beacon window or to the permissions model for barometric data. Ubimage’s roadmap, hinted at in its current iPhone 12+ requirement, may soon add support for iPadOS and Android, expanding the cross‑platform horizon mapping market. The convergence of passive locate and active geotag visualization will become a litmus test for how Apple balances utility and privacy in its sensor ecosystem.
+
+## Updates
+
+- **2026-11-09** — New Hulu Doc ‘Get Huge’ Shows the Deadly Toll of Looksmaxxing ([source](https://www.wired.com/story/hulu-doc-get-huge-shows-the-deadly-toll-of-looksmaxxing/))

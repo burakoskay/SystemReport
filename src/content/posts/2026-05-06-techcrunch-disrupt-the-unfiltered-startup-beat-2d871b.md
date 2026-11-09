@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Disrupt: The Unfiltered Startup Beat"
 date: 2026-05-06T18:01:54.655Z
-modified_date: 2026-09-23T22:38:08.758Z
+modified_date: 2026-11-09T20:24:00.455Z
 tags: ["techcrunch","startups","m&a","dating-tech","wordpress"]
 hero_image: "/hero/2026-05-06-techcrunch-disrupt-the-unfiltered-startup-beat-2d871b.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "young entrepreneurs presenting to investors in a tech conference hall"
 description: "From Gen Z dating apps to WordPress founder talks, here's what's shaping tech innovation at Disrupt."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The event’s ticket discounts (50% off second tickets until May 8) suggest a sh
 
 ## Updates
 
+- **2026-11-09** — Meta is expanding AI age detection for Instagram teen accounts ([source](https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/))
 - **2026-09-23** — ShinyHunters hackers claim to have 2-3TB of sensitive information about FBI employees ([source](https://www.engadget.com/2267075/shinyhunters-hackers-claim-to-have-2-3tb-of-sensitive-information-about-fbi-employees/))
 - **2026-09-18** — This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket ([source](https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge))
 - **2026-09-16** — I Trained a Fly’s Brain to Generate WIRED Story Ideas ([source](https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/))

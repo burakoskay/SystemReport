@@ -1,18 +1,20 @@
 ---
 title: "Voice AI Lags While Text Agents Race Ahead"
 date: 2026-10-12T08:28:49.974Z
+modified_date: 2026-11-09T20:23:13.547Z
 tags: ["voiceai","aiagents","grok"]
 hero_image: "/hero/2026-10-12-voice-ai-lags-while-text-agents-race-ahead-02009e.jpg"
 hero_image_credit_name: "Anete Lusina"
 hero_image_credit_url: "https://www.pexels.com/@anete-lusina"
 visual_keyword: "a sleek voice assistant device with waveform overlay"
 description: "Voice assistants still stumble on context, even as OpenAI and Meta push text agents with distinct cost and access models."
-sources_count: 10
-author: "maya-chen"
+sources_count: 11
 audio_path: "/audio/2026-10-12-voice-ai-lags-while-text-agents-race-ahead-02009e.mp3"
 audio_bytes: 583307
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Voice AI Still Misses the Mark
 
@@ -44,6 +46,9 @@ What this means for voice AI is twofold: first, the current architecture is frag
 
 The next quarter will reveal whether OpenAI expands Dot’s voice front‑end or whether Meta tightens Muse’s integration with its own platforms. Both moves will test whether tighter coupling can mitigate the context gaps identified by TechCrunch.[^1][^2][^4][^3] Simultaneously, SpaceXAI’s pricing updates for Grok in early 2027 will signal whether the industry is moving toward more open access or deeper monetization. Finally, any public demo of a self‑improving voice system would force a reassessment of the current “broken pipeline” narrative.
 
+## Updates
+
+- **2026-11-09** — Pentagon mulls placing fleet of military satellites around the Moon ([source](https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/))
 
 [^1]: [nacionale.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI-ReWJ7NXq8H4hDkTdaovOny66FwQ6_50PAqTH7LRk6_nyVVQjAqBlrlmlRmPU_hav32RlTNiDv5mj-x7hME3km14fU1NMn8Nou36EZw2fD2hBm5LW3wigeo_bFwM6luQzBb7WQUYJyBh4Fj2gO0yJIuJ7-j9PlKB-fGunuAg3Kk2p7q6Cs6ZifhnA6kNwCExp63RA2NLpyY=)
 [^2]: [ground.news](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCN_o1H80s8NxMmdu7f2JOvgmZaK1i8PRvic2hajrd4tNv6_3mWPkvOBpQLqIe5D69gNFozM16l38l6X_0DOQAKnUye8UsNnOc0NFRMqxQIIT8gbXh_u2a5_OOMjDCRRQ49six0xQvVLVXONxMi2ZE5YMEyLY_JEFTms43mTrj5Fad1bIy_xedMdYZEQmCtTUFiYESvw==)

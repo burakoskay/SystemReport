@@ -1,16 +1,17 @@
 ---
 title: "Nintendo's $500 Switch 2 Bundle vs. Rivals' Low-Cost Add-ons"
 date: 2026-05-27T22:14:33.011Z
-modified_date: 2026-09-03T22:11:07.468Z
+modified_date: 2026-11-09T20:22:57.834Z
 tags: ["nintendo","ipad","google-home","samsung","steam-deck"]
 hero_image: "/hero/2026-05-27-nintendo-s-500-switch-2-bundle-vs-rivals-low-cost-add-ons-623305.jpg"
 hero_image_credit_name: "Pascal 📷"
 hero_image_credit_url: "https://www.pexels.com/@userpascal"
 visual_keyword: "gaming console bundle on a living room shelf"
 description: "Nintendo bundles a game with a $500 Switch 2 as the console’s price jumps; iPadOS, Google Home, Samsung, and Valve roll out tweaks that shift the value balance."
-sources_count: 10
+sources_count: 11
 author: "sam-whitfield"
 ---
+
 
 
 Nintendo slapped a $500 price tag on its Switch 2 bundle, tacking a first‑party game onto the console just as the standalone unit climbs in September. Early adopters now face a choice: pay the premium now or wait for a price dip that may never come.
@@ -47,4 +48,5 @@ Track Nintendo’s September price adjustment; a larger hike could make the $500
 
 ## Updates
 
+- **2026-11-09** — The future of AI hinges on… Jensen Huang’s sex life? ([source](https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me))
 - **2026-09-03** — US senator calls on the NSA to give guidance for use of VPNs ([source](https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/))

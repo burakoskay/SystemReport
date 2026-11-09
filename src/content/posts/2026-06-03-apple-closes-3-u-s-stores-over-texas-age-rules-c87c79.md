@@ -1,18 +1,20 @@
 ---
 title: "Apple Closes 3 U.S. Stores Over Texas Age Rules"
 date: 2026-06-03T21:26:23.167Z
+modified_date: 2026-11-09T20:22:49.959Z
 tags: ["apple","retail","regulation"]
 hero_image: "/hero/2026-06-03-apple-closes-3-u-s-stores-over-texas-age-rules-c87c79.jpg"
 hero_image_credit_name: "Armand Valendez"
 hero_image_credit_url: "https://www.pexels.com/@armandvalendez"
 visual_keyword: "Apple storefront with \"Closed\" sign against a backdrop of a digital age‑verification icon"
 description: "Apple shutters three retail locations on June 20, rolls out mandatory age verification in Texas, and doubles its China COVID-19 donation, reshaping its global footprint."
-sources_count: 6
-author: "lena-volkov"
+sources_count: 7
 audio_path: "/audio/2026-06-03-apple-closes-3-u-s-stores-over-texas-age-rules-c87c79.mp3"
 audio_bytes: 600861
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple announced the permanent closure of three U.S. retail stores on June 20, a move that coincides with the rollout of mandatory App Store age‑verification in Texas and a doubled COVID‑19 donation to China. The simultaneity raises questions about how Apple balances regulatory pressure, retail strategy, and corporate philanthropy.
 
@@ -51,3 +53,7 @@ Critics argue that the simultaneous contraction in the U.S. and expansion in Chi
 ## What to Watch Next
 
 Stakeholders should monitor Apple’s upcoming earnings release for guidance on the financial impact of the store closures and any revisions to its retail strategy. In the regulatory arena, the Texas Attorney General’s office will publish compliance audit results in the coming weeks, which could trigger similar legislation in other states. Finally, Apple’s detailed allocation plan for the remaining portion of the 50 million‑yuan donation will likely be disclosed in a follow‑up statement, offering insight into the company’s long‑term public‑health commitments in China.
+
+## Updates
+
+- **2026-11-09** — You can grab three months of Game Pass Ultimate for under $20 per month ([source](https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale))

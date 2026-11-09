@@ -1,16 +1,17 @@
 ---
 title: "Affordable Gaming Laptops"
 date: 2026-08-08T04:51:56.226Z
-modified_date: 2026-10-03T20:28:54.022Z
+modified_date: 2026-11-09T20:23:52.634Z
 tags: ["Gaming Laptops","Budget Gaming","Lenovo","MSI","Alienware"]
 hero_image: "/hero/2026-08-08-affordable-gaming-laptops-462e3d.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "Gaming Laptop"
 description: "Lenovo, MSI, and Alienware offer gaming laptops with decent performance"
-sources_count: 2
+sources_count: 3
 author: "david-okafor"
 ---
+
 
 
 ## Affordable Gaming Laptops
@@ -34,4 +35,5 @@ The regulatory environment for gaming laptops is complex, with manufacturers nee
 
 ## Updates
 
+- **2026-11-09** — How to use your iPhone to take the best picture of the Moon ([source](https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/))
 - **2026-10-03** — Here’s why I upgraded from the Apple Watch Series 10 to Series 12 ([source](https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/))
