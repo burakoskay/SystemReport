@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Technology Heats Up: New Devices and Standards Emerge"
 date: 2026-04-19T02:01:28.036Z
-modified_date: 2026-11-01T03:47:00.426Z
+modified_date: 2026-11-10T20:42:24.682Z
 tags: ["smart home","iot","matter standard","zigbee alliance"]
 hero_image: "/hero/2026-04-19-smart-home-technology-heats-up-new-devices-and-standards-emerge-829e43.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart home devices"
 description: "The smart home market is seeing new devices and standards emerge, including Matter-certified cameras and improved interoperability."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ In the near future, we can expect to see more devices like the Ulticam IQ V2 eme
 
 ## Updates
 
+- **2026-11-10** — Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly ([source](https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/))
 - **2026-11-01** — Amazon made the AUX input on older Alexa devices less useful ([source](https://www.engadget.com/2300219/amazon-made-alexa-devices-aux-port-less-useful/))
 - **2026-10-30** — Waymo and Toyota will soon start testing their robotaxis in Japan ([source](https://www.engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan/))
 - **2026-10-15** — Amazon’s Bee launches two new personal AI devices, starting at $75 ([source](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/))

@@ -1,16 +1,17 @@
 ---
 title: "Spooked by Mythos"
 date: 2026-05-07T06:45:35.253Z
-modified_date: 2026-11-03T17:36:28.997Z
+modified_date: 2026-11-10T20:42:53.484Z
 tags: ["AI","safety testing","Trump","Biden"]
 hero_image: "/hero/2026-05-07-spooked-by-mythos-2073cf.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "Trump forced to admit Biden was right on AI safety testing"
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In the future, we can expect to see more advanced AI detection solutions, such a
 
 ## Updates
 
+- **2026-11-10** — 4DX Movies Are Entering Their Thirsty Romance Era ([source](https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry/))
 - **2026-11-03** — GTA VI&#8217;s download will need up to 212GB of hard drive space ([source](https://www.theverge.com/games/1025271/gta-vi-storage-space-rockstar-games))
 - **2026-09-19** — Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening ([source](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/))
 - **2026-09-02** — MapQuest is now the No. 1 U.S. app after bucking Trump’s ‘Lake America’ renaming ([source](https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/))

@@ -1,18 +1,20 @@
 ---
 title: "AI code agents move past LSPs to git‑aware, persistent tools"
 date: 2026-06-07T09:24:17.023Z
+modified_date: 2026-11-10T20:43:51.162Z
 tags: ["ai","code","git","rust"]
 hero_image: "/hero/2026-06-07-ai-code-agents-move-past-lsps-to-git-aware-persistent-tools-6084b7.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "developer working in terminal with AI assistant overlay"
 description: "New primitives and agents let developers query code via git entities, add persistent memory, and run autonomous Rust‑based coding sessions."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-07-ai-code-agents-move-past-lsps-to-git-aware-persistent-tools-6084b7.mp3"
 audio_bytes: 613191
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Sem's git‑entity primitive reshapes how developers ask questions about code. It treats repository history as first‑class objects instead of relying on language‑server protocols.
 
@@ -43,3 +45,7 @@ The trade‑offs are not trivial. Sem's approach depends on Git metadata, which 
 Adoption will likely hinge on how well each project integrates with existing CI pipelines and developer tooling. If Sem can expose a simple API that CI jobs can call, it could replace many LSP‑based static analysis steps. Whisper's benchmark results suggest a compelling case for adding memory to code‑review bots, but teams will need to audit the RetainDB store for compliance. VT Code already supports headless CI via the --full-auto flag, which could make it attractive for automated code generation in pull‑request bots.
 
 What to watch: Sem plans to publish an open‑source SDK later this year; the timing will determine whether the community can build plugins for popular editors. Whisper's next public benchmark is scheduled for Q4 2026, where it will be compared against the upcoming GPT‑6 model. VT Code announced a partnership with Xiaomi's MiMo Orbit Program, hinting at deeper integration with hardware‑accelerated inference chips. Tracking these releases will reveal whether the promise of persistent, git‑aware AI agents translates into measurable productivity gains for engineering teams.
+
+## Updates
+
+- **2026-11-10** — Starlink Mini 2 adds a swappable battery ([source](https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery))

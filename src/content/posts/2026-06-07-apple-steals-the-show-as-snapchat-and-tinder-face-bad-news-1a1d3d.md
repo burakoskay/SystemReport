@@ -1,19 +1,20 @@
 ---
 title: "Apple Steals the Show as Snapchat and Tinder Face Bad News"
 date: 2026-06-07T11:54:31.702Z
-modified_date: 2026-11-06T20:17:22.684Z
+modified_date: 2026-11-10T20:45:27.535Z
 tags: ["Apple","Snapchat","Tinder"]
 hero_image: "/hero/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.jpg"
 hero_image_credit_name: "Mahmoud Ramadan"
 hero_image_credit_url: "https://www.pexels.com/@mahmoudramadan"
 visual_keyword: "Apple WWDC"
 description: "Apple's WWDC event overshadows negative news from Snapchat and Tinder, while the company announces new products and features."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-06-07-apple-steals-the-show-as-snapchat-and-tinder-face-bad-news-1a1d3d.mp3"
 audio_bytes: 529390
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ In the coming months, it will be interesting to see how Snapchat and Tinder reco
 
 ## Updates
 
+- **2026-11-10** — Pixel Tag tidbits: Surprise NFC, Find Hub setup, & Bellroy keychain cases ([source](https://9to5google.com/2026/11/10/google-pixel-tag-tidbits/))
 - **2026-11-06** — Apple Stores roll out holiday decorations to kick off the season ([source](https://9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2/))
 - **2026-10-06** — HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app ([source](https://9to5mac.com/2026/10/05/heypolo-gives-parents-real-time-visibility-how-their-teen-driving/))
 - **2026-09-16** — The world’s best racing driver is about to race 100 karts at once ([source](https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/))

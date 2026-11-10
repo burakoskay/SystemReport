@@ -1,18 +1,20 @@
 ---
 title: "Applebee's app leaks customer data via hardcoded password"
 date: 2026-10-31T14:16:01.425Z
+modified_date: 2026-11-10T20:42:14.915Z
 tags: ["applebees","data-breach","app-security","privacy"]
 hero_image: "/hero/2026-10-31-applebee-s-app-leaks-customer-data-via-hardcoded-password-fed67b.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "a smartphone screen displaying a restaurant app with a warning overlay"
 description: "A security researcher found a hardcoded credential in Applebee's mobile app that exposed customers' personal information, highlighting lingering app security flaws."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-10-31-applebee-s-app-leaks-customer-data-via-hardcoded-password-fed67b.mp3"
 audio_bytes: 576827
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The breach in plain sight
 
@@ -55,3 +57,7 @@ The next few weeks will reveal how Applebee's handles remediation. Watch for a p
 ---
 
 *Tags: applebees, data-breach, app-security, privacy*
+
+## Updates
+
+- **2026-11-10** — New WhatsApp head wants to make the app easier to use, give its AI more chops ([source](https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/))

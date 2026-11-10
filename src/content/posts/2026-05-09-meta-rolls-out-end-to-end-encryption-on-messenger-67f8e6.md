@@ -1,19 +1,20 @@
 ---
 title: "Meta Rolls Out End-to-End Encryption on Messenger"
 date: 2026-05-09T09:26:43.388Z
-modified_date: 2026-09-04T20:10:47.861Z
+modified_date: 2026-11-10T20:44:48.939Z
 tags: ["Meta","End-to-End Encryption","Messenger","Facebook"]
 hero_image: "/hero/2026-05-09-meta-rolls-out-end-to-end-encryption-on-messenger-67f8e6.jpg"
 hero_image_credit_name: "Jessica Lewis 🦋 thepaintedsquare"
 hero_image_credit_url: "https://www.pexels.com/@thepaintedsquare"
 visual_keyword: "lock"
 description: "Meta begins rolling out end-to-end encryption on Messenger and Facebook, but Instagram messaging remains unencrypted for now."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-09-meta-rolls-out-end-to-end-encryption-on-messenger-67f8e6.mp3"
 audio_bytes: 585396
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,4 +74,5 @@ This could have significant implications for law enforcement and national securi
 
 ## Updates
 
+- **2026-11-10** — Polestar is banned in the US, but we still want its latest concept car ([source](https://www.engadget.com/2312286/polestar-is-banned-in-the-us-but-we-still-want-its-latest-concept-car/))
 - **2026-09-04** — Show HN: Open-Source eInk Bike Computer ([source](https://opentrailpaper.com))

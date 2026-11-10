@@ -1,18 +1,20 @@
 ---
 title: "SaaS firms are becoming profit‑draining model harnesses"
 date: 2026-10-03T17:48:17.205Z
+modified_date: 2026-11-10T20:44:29.672Z
 tags: ["saas","unit economics","cancellation rate","business models"]
 hero_image: "/hero/2026-10-03-saas-firms-are-becoming-profit-draining-model-harnesses-bcc58c.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract illustration of a SaaS platform as a mechanical harness pulling an AI model"
 description: "An essay and community debate expose how SaaS businesses act as costly conduits for AI models, with Marketo’s losses illustrating a deeper unit‑economics flaw."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-10-03-saas-firms-are-becoming-profit-draining-model-harnesses-bcc58c.mp3"
 audio_bytes: 573067
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The model‑as‑harness thesis
 
@@ -41,3 +43,7 @@ Reducing acquisition spend can involve tighter targeting, product‑led growth l
 ## What to watch
 
 The next data point to track is whether emerging AI‑centric SaaS firms publish unit‑economics that separate model revenue from platform overhead. Look for quarterly filings that break out gross margin on the AI component versus the hosting and integration layer. A sustained improvement in cancellation‑by‑age metrics, especially in the first 30 days, will also signal a shift away from the loss‑driven harness model. Investors and founders should watch these signals closely; they will determine whether the SaaS industry can evolve beyond being a costly conduit for AI models.
+
+## Updates
+
+- **2026-11-10** — How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026? ([source](https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/))

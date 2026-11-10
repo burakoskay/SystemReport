@@ -1,19 +1,20 @@
 ---
 title: "Sony Hikes PlayStation Plus Prices"
 date: 2026-05-18T18:06:16.668Z
-modified_date: 2026-11-09T20:21:54.974Z
+modified_date: 2026-11-10T20:42:05.277Z
 tags: ["PlayStation Plus","Sony","gaming","subscription prices"]
 hero_image: "/hero/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.jpg"
 hero_image_credit_name: "Garrett Morrow"
 hero_image_credit_url: "https://www.pexels.com/@garrettmorrow"
 visual_keyword: "PlayStation Plus"
 description: "Sony raises PlayStation Plus subscription prices in select regions, citing market conditions."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-18-sony-hikes-playstation-plus-prices-c5d5dd.mp3"
 audio_bytes: 631999
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The gaming industry is expected to continue growing, with new technologies and i
 
 ## Updates
 
+- **2026-11-10** — Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI ([source](https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/))
 - **2026-11-09** — Meet Drops, the new music app bringing back the fun of sharing songs with friends ([source](https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/))
 - **2026-10-21** — Supernatural, the best VR workout app, makes its glorious comeback today ([source](https://9to5google.com/2026/10/21/supernatural-the-best-vr-workout-app-makes-its-glorious-comeback-today/))
 - **2026-09-14** — Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll ([source](https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/))

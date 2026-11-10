@@ -1,15 +1,17 @@
 ---
 title: "Coral Cilia Slow Down as Oceans Warm"
 date: 2026-09-20T23:54:41.166Z
+modified_date: 2026-11-10T20:46:44.909Z
 tags: ["coral","climate","marinebiology","cilia"]
 hero_image: "/hero/2026-09-20-coral-cilia-slow-down-as-oceans-warm-05be70.jpg"
 hero_image_credit_name: "Tom Fisk"
 hero_image_credit_url: "https://www.pexels.com/@tomfisk"
 visual_keyword: "microscopic coral cilia moving water over a reef"
 description: "New studies show microscopic hairs that move water over corals falter in rising temperatures, jeopardizing reef health."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 Coral polyps depend on microscopic cilia to push water across their surfaces, and new research suggests those hairs stall as seas warm.[^1][^2][^3][^4]
 
@@ -43,7 +45,9 @@ Monitoring ciliary health may become a new metric for reef assessments.[^4][^7] 
 
 The next step is a coordinated field campaign to map ciliary beat rates across temperature gradients on multiple reefs. If the pattern holds, we can expect policy briefs urging climate‑adaptation funds to include micro‑scale physiological monitoring. Track the upcoming publication from the Coral Physiology Consortium, slated for late 2026, for the first large‑scale data set on coral cilia under warming scenarios.
 
+## Updates
 
+- **2026-11-10** — The Hardest Tarball? ([source](https://stoppels.ch/2026/11/07/the-hardest-tarball.html))
 
 [^1]: [nih.gov](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP56yAZeOEJOcI_kKeDinWpICIjn7et06if9jseEWDU9jgMiAJs-bG9-e4WRcEvfk4NIGOBf6imsW8cOx3K13DhT1Cu8BO8Qa7jqvOfwuGZlM4zEqBAJghe2dBFqEK65milhYe79vrQMthKsXX)
 [^2]: [unimelb.edu.au](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSzuL_6Fz9eIYQlemI90tk78aKROcN5_gc4i_cYbB8tsCEEDoHnSsMrq1PA1emGGAagcYC0ltkXI7zydSiXv5zBWqQHO-23GGiorTeRWJy7JnXtV2YigNsynYIx9hnmsZx3YwCU4L21EO0f-RZq1PY1NZQ5Ivb4rXg_jCMoRnygq0EqQZpLRJERhdHn9dh_7iq-K46SYlK)

@@ -1,19 +1,20 @@
 ---
 title: "Apple's iPhone Ad Takes Aimed Swipes at Android"
 date: 2026-06-04T10:05:41.814Z
-modified_date: 2026-10-30T14:53:29.203Z
+modified_date: 2026-11-10T20:42:34.309Z
 tags: ["Apple","Android","Smartphone Wars","Privacy on iPhone"]
 hero_image: "/hero/2026-06-04-apple-s-iphone-ad-takes-aimed-swipes-at-android-3445e1.jpg"
 hero_image_credit_name: "AS Photography"
 hero_image_credit_url: "https://www.pexels.com/@asphotography"
 visual_keyword: "Apple iPhone vs Android"
 description: "Apple's new ad makes Android phones look ancient and ugly"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-04-apple-s-iphone-ad-takes-aimed-swipes-at-android-3445e1.mp3"
 audio_bytes: 577873
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The global smartphone market is expected to continue growing, with both Apple an
 
 ## Updates
 
+- **2026-11-10** — ‘We Have to Take Over’: Far-Right Extremists Want to Seize Control of the GOP ([source](https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/))
 - **2026-10-30** — Android 17 is on 1% of devices after four months, Android 16 on over 25% ([source](https://9to5google.com/2026/10/30/android-17-is-on-1-of-devices-after-four-months-android-16-on-over-25/))
 - **2026-10-23** — Apple wins again in copyright infringement battle over Apple TV thriller series ([source](https://9to5mac.com/2026/10/22/apple-wins-again-in-copyright-infringement-battle-over-apple-tv-thriller-series/))
 - **2026-09-22** — Peloton has made a foldable (treadmill) ([source](https://www.engadget.com/2264548/peloton-tread-flex-vision-launch/))
