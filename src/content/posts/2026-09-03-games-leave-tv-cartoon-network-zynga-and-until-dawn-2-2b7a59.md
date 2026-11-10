@@ -1,15 +1,17 @@
 ---
 title: "Games leave TV: Cartoon Network, Zynga and Until Dawn 2"
 date: 2026-09-03T19:08:29.872Z
+modified_date: 2026-11-10T12:04:09.077Z
 tags: ["gaming","entertainment","mobile","industry"]
 hero_image: "/hero/2026-09-03-games-leave-tv-cartoon-network-zynga-and-until-dawn-2-2b7a59.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "animated characters hacking a mobile game on a tropical island"
 description: "Cartoon Network, Zynga and the new Until Dawn 2 illustrate how entertainment firms are turning to games to stay relevant."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Until Dawn 2 drops on a tropical island
 
@@ -40,3 +42,7 @@ All three moves share a common thread: traditional content creators are turning 
 The risk is clear. If the new titles fail to attract fresh players, the companies could be left with costly development pipelines and no clear monetization path. If the platforms succeed, they could reshape how studios think about IP ownership, distribution, and revenue sharing.
 
 **What to watch:** Track the daily active user numbers for *Until Dawn 2* during its first month, monitor the output of the Portland game jam and any community‑generated extensions for *OK K.O.! Lakewood Plaza Turbo*, and watch Zynga’s quarterly filings for the first revenue figures that come from Project Z. Those data points will reveal whether the gamble of turning TV‑centric brands into game‑centric platforms pays off.
+
+## Updates
+
+- **2026-11-10** — Real Motors’ Project Ares is a cyberpunk fantasy made real ([source](https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride))

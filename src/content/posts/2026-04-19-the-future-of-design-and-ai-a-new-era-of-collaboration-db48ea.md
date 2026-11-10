@@ -1,16 +1,17 @@
 ---
 title: "The Future of Design and AI: A New Era of Collaboration"
 date: 2026-04-19T05:56:04.645Z
-modified_date: 2026-10-26T16:53:52.200Z
+modified_date: 2026-11-10T12:04:37.727Z
 tags: ["ai","design","product management","sustainability"]
 hero_image: "/hero/2026-04-19-the-future-of-design-and-ai-a-new-era-of-collaboration-db48ea.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "ai-powered design tools"
 description: "The intersection of design and AI is rapidly evolving, with new tools and technologies emerging to change the way we create and interact with products. "
-sources_count: 31
+sources_count: 32
 author: "maya-chen"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The future of design and AI is a collaborative one, where humans and machines wo
 
 ## Updates
 
+- **2026-11-10** — Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse ([source](https://meowdisplay.app/))
 - **2026-10-26** — How to declutter your phone's address book and remove unnecessary contacts ([source](https://www.engadget.com/2294295/how-to-declutter-phone-address-book-remove-unnecessary-contacts/))
 - **2026-10-24** — Engadget review recap: iPhone Duo, Rivian R2 and more ([source](https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/))
 - **2026-10-22** — PHP web runtimes (CVE-2026-109618 and CVE-2026-109619) ([source](https://aws.amazon.com/security/security-bulletins/2026-143-aws/))

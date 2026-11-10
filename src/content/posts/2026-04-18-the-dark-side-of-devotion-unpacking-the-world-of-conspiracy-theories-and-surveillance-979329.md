@@ -1,16 +1,17 @@
 ---
 title: "The Dark Side of Devotion: Unpacking the World of Conspiracy"
 date: 2026-04-18T01:04:51.470Z
-modified_date: 2026-10-13T22:11:55.883Z
+modified_date: 2026-11-10T12:03:50.101Z
 tags: ["conspiracy theories","surveillance state","social media influencers"]
 hero_image: "/hero/2026-04-18-the-dark-side-of-devotion-unpacking-the-world-of-conspiracy-theories-and-surveillance-979329.jpg"
 hero_image_credit_name: "Rahime Gül"
 hero_image_credit_url: "https://www.pexels.com/@rahimegul"
 visual_keyword: "shattered mirror reflection"
 description: "Exploring the intersection of conspiracy, surveillance, and the erosion of trust in institutions"
-sources_count: 17
+sources_count: 18
 author: "maya-chen"
 ---
+
 
 
 
@@ -33,6 +34,7 @@ In recent weeks, the world of politics has been rocked by conspiracy theories su
 
 ## Updates
 
+- **2026-11-10** — Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane ([source](https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/))
 - **2026-10-13** — What is NVIDIA DLSS and how does it work? ([source](https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/))
 - **2026-08-29** — How to watch the 2026 US Open Tennis Championships ([source](https://www.engadget.com/2246659/how-to-watch-2026-us-open-streaming-tv-options/))
 - **2026-08-27** — IMAX or LieMax? How to tell the difference ([source](https://www.engadget.com/2244674/how-to-tell-difference-imax-liemax/))

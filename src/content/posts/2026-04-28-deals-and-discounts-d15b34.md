@@ -1,16 +1,17 @@
 ---
 title: "Deals and Discounts"
 date: 2026-04-28T06:34:10.367Z
-modified_date: 2026-11-10T03:59:31.333Z
+modified_date: 2026-11-10T12:03:59.581Z
 tags: ["deals","discounts","tech"]
 hero_image: "/hero/2026-04-28-deals-and-discounts-d15b34.jpg"
 hero_image_credit_name: "Adriana Beckova"
 hero_image_credit_url: "https://www.pexels.com/@adriana-beckova-1584864721"
 visual_keyword: "deals"
 description: "Find the latest deals on tech and more, plus a new rewards app that tracks your every move"
-sources_count: 33
+sources_count: 34
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The Miles rewards app and other deals and discounts platforms have significant d
 
 ## Updates
 
+- **2026-11-10** — Sam's Club Promo Codes and Membership Deals for November 2026 ([source](https://www.wired.com/story/sams-club-coupon/))
 - **2026-11-10** — Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026 ([source](https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/))
 - **2026-11-03** — Itch.io adds a filter for games with gen AI disclosures ([source](https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/))
 - **2026-10-23** — Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more ([source](https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/))
