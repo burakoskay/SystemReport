@@ -1,15 +1,17 @@
 ---
 title: "Chrome’s UI overhaul and MV2 kill‑switch reshape the browser"
 date: 2026-09-01T09:09:19.294Z
+modified_date: 2026-11-10T03:57:21.816Z
 tags: ["chrome","manifest-v3","adblockers"]
 hero_image: "/hero/2026-09-01-chrome-s-ui-overhaul-and-mv2-kill-switch-reshape-the-browser-7bd066.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Android phone displaying Chrome browser with crowded navigation bar"
 description: "Chrome’s Android redesign, the final removal of Manifest V2 extensions, and an emergency zero‑day patch signal a decisive shift for users and developers alike."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Chrome’s Android navigation bar redesign adds more chrome than clarity
 
@@ -53,3 +55,6 @@ Collectively, these changes could accelerate migration to privacy‑focused brow
 
 Track Chrome 150’s rollout this month and the subsequent Chrome 151 update for the complete removal of MV2 support. Monitor how uBlock Origin and other popular blockers respond—whether they ship Manifest V3 versions or retreat to alternative browsers. Keep an eye on Edge and Opera’s extension policies; any announcement to deprecate MV2 will confirm the industry‑wide shift. Finally, watch for post‑patch security reports on CVE‑2022‑4135 to gauge whether the emergency fix fully mitigates exploitation or reveals further vulnerabilities in Chrome’s GPU stack.
 
+## Updates
+
+- **2026-11-10** — David Ellison says AI could be the ‘biggest creative unlock in modern history’ ([source](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai))

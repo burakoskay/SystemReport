@@ -1,16 +1,17 @@
 ---
 title: "Meta's Profit Soars as Morale Plummets"
 date: 2026-05-14T10:25:03.146Z
-modified_date: 2026-10-18T17:03:49.630Z
+modified_date: 2026-11-10T03:57:02.118Z
 tags: ["Meta","Australian News Deal","Regulatory Scrutiny"]
 hero_image: "/hero/2026-05-14-meta-s-profit-soars-as-morale-plummets-e11d46.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "Meta"
 description: "Meta reports record profits but faces criticism over staff cuts and low morale."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 
 
@@ -82,6 +83,7 @@ In conclusion, Meta's decision to pull out of Australian news deals has sparked 
 
 ## Updates
 
+- **2026-11-10** — The Home Depot Best Early Black Friday Deals (2026) ([source](https://www.wired.com/story/the-home-depot-early-black-friday-deals-nov-2026/))
 - **2026-10-18** — Flat Ethernet cables probably aren't the answer to your home networking problem ([source](https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/))
 - **2026-10-10** — The techlash has gone Hollywood ([source](https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer))
 - **2026-10-06** — The MacBook Air Drops to Its Lowest Price Since June for Prime Day (2026) ([source](https://www.wired.com/story/macbook-air-prime-day-10-6-2026/))

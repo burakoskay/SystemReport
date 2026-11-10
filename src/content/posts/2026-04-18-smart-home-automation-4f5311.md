@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-11-06T20:16:09.225Z
+modified_date: 2026-11-10T03:58:51.614Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 27
+sources_count: 28
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-11-10** — What’s new in Android’s November 2026 Google System Updates [U] ([source](https://9to5google.com/2026/11/09/november-2026-google-system-updates/))
 - **2026-11-06** — Discord is about to get way, way faster on your Android phone ([source](https://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/))
 - **2026-11-03** — What’s new in Android Nov. 2026 Google System Updates: Android photo backup with Quick Share for Windows ([source](https://9to5google.com/2026/11/02/november-2026-google-system-updates/))
 - **2026-11-03** — This Chinese Android phone brand has launched a Harry Potter collab ([source](https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration/))

@@ -1,16 +1,17 @@
 ---
 title: "AI agents and bug hunters spark US policy scramble"
 date: 2026-05-07T23:13:35.000Z
-modified_date: 2026-10-20T13:13:49.845Z
+modified_date: 2026-11-10T03:57:31.860Z
 tags: ["ai","security","policy","space","tech"]
 hero_image: "/hero/2026-05-07-ai-agents-and-bug-hunters-spark-us-policy-scramble-caac01.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI code analysis robot beside satellite network"
 description: "Mozilla's AI bug scanner, Meta's shopping AI, and a US report on China's tech push converge to reshape security, commerce, and regulation."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ What to watch: The next quarterly release from Mozilla should reveal Mythos' fal
 
 ## Updates
 
+- **2026-11-10** — What could China get from Jensen Huang? ([source](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang))
 - **2026-10-20** — Final Fantasy dips back into the SNES golden era with Resonance ([source](https://www.theverge.com/games/1013958/final-fantasy-resonance-review))
 - **2026-10-08** — Paramount is making a Cyberpunk 2077 film ([source](https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie))
 - **2026-09-30** — OpenAI’s Jev clone could help the frontier lab stop its swarming agents ([source](https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/))

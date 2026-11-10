@@ -1,19 +1,20 @@
 ---
 title: "Hacker News shows niche tech topics dominate mid‑July buzz"
 date: 2026-08-01T19:05:00.415Z
-modified_date: 2026-11-03T01:58:41.961Z
+modified_date: 2026-11-10T03:56:52.084Z
 tags: ["hackernews","techculture","software"]
 hero_image: "/hero/2026-08-01-hacker-news-shows-niche-tech-topics-dominate-mid-july-buzz-96452a.jpg"
 hero_image_credit_name: "Somogro Bangladesh"
 hero_image_credit_url: "https://www.pexels.com/@somogrobangladesh"
 visual_keyword: "Hacker News front page with diverse tech article titles"
 description: "Mid‑July Hacker News highlighted a directory for RSS fans, a cost‑masking UI change at Cursor, and a retro assembly book, reflecting community appetite for niche tools."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-08-01-hacker-news-shows-niche-tech-topics-dominate-mid-july-buzz-96452a.mp3"
 audio_bytes: 665018
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -65,5 +66,6 @@ Future visibility will hinge on how quickly users up‑vote and comment. If a ne
 
 ## Updates
 
+- **2026-11-10** — Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work ([source](https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/))
 - **2026-11-03** — Meta will end Quest 2 OS updates in 2027 ([source](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates))
 - **2026-10-10** — LG’s RGB LED TV is good for certain situations, but an OLED is better ([source](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review))

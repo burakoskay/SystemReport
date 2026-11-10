@@ -1,16 +1,17 @@
 ---
 title: "Samsung's New Galaxy Buds and Tablet Lineup"
 date: 2026-04-20T20:42:51.471Z
-modified_date: 2026-11-03T22:51:44.325Z
+modified_date: 2026-11-10T03:58:41.724Z
 tags: ["samsung","galaxy buds","tablet"]
 hero_image: "/hero/2026-04-20-samsung-s-new-galaxy-buds-and-tablet-lineup-665d33.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Samsung Galaxy Buds and Tablet"
 description: "Samsung is working on new Galaxy Buds with an open-ear design and a budget-friendly tablet, the Galaxy Tab A11+ Kids Edition."
-sources_count: 21
+sources_count: 22
 author: "priya-raman"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ In the meantime, consumers can look forward to the release of the Galaxy Tab S11
 
 ## Updates
 
+- **2026-11-10** — Samsung Galaxy S27 series camera specs leak, and they’re disappointing ([source](https://9to5google.com/2026/11/09/samsung-galaxy-s27-series-camera-specs-leak-and-theyre-disappointing/))
 - **2026-11-03** — iOS 27.3 and macOS 27.3 add Vertical Tabs, Adaptive Dark Mode, and more to Safari ([source](https://9to5mac.com/2026/11/03/ios-27-3-and-macos-27-3-add-vertical-tabs-adaptive-dark-mode-and-more-to-safari/))
 - **2026-11-03** — Redmagic 12 Pro review: You’ve never gamed on a phone like this before ([source](https://9to5google.com/2026/11/03/redmagic-12-pro-review/))
 - **2026-10-12** — Monday’s Android app deals and freebies: Slime, CHUCHEL, Toziuha Night, House of Da Vinci, more ([source](https://9to5toys.com/2026/10/12/todays-highlight-google-play-deals-26/))

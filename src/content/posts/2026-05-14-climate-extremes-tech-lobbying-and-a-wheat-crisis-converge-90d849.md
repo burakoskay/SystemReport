@@ -1,16 +1,17 @@
 ---
 title: "Climate Extremes, Tech Lobbying, and a Wheat Crisis Converge"
 date: 2026-05-14T14:38:46.166Z
-modified_date: 2026-09-27T22:46:04.899Z
+modified_date: 2026-11-10T03:58:31.770Z
 tags: ["climate-crisis","tech-lobbying","agricultural-decline","energy-policy"]
 hero_image: "/hero/2026-05-14-climate-extremes-tech-lobbying-and-a-wheat-crisis-converge-90d849.jpg"
 hero_image_credit_name: "Trotter"
 hero_image_credit_url: "https://www.pexels.com/@trotter-3434183"
 visual_keyword: "arid plains under cracked earth with distant smoke plumes"
 description: "El Niño, corporate energy lobbying, and a 50-year wheat low show climate crises intensifying."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The tech lobbying win shows how companies weaponize this uncertainty. By framing
 
 ## Updates
 
+- **2026-11-10** — Apple starts offering $50 extended usage packs for AI features in Creator Studio ([source](https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/))
 - **2026-09-27** — This is my top feature request for the upcoming A20 Pro iPad mini ([source](https://9to5mac.com/2026/09/27/apple-next-ipad-mini-feature-request/))
 - **2026-08-27** — This former PG&E engineer is building a ‘Google Maps for the underground’ ([source](https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/))
 - **2026-07-26** — Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more ([source](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con))
