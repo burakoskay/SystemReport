@@ -1,16 +1,17 @@
 ---
 title: "Alibaba Splits, Google Bolsters Media Production Tech"
 date: 2026-11-01T17:46:59.081Z
-modified_date: 2026-11-04T20:41:46.061Z
+modified_date: 2026-11-11T08:45:20.634Z
 tags: ["media-tech","cloud-computing","artificial-intelligence","vfx","corporate-restructuring"]
 hero_image: "/hero/2026-11-01-alibaba-splits-google-bolsters-media-production-tech-b489a9.jpg"
 hero_image_credit_name: "Santhosh Kanthala"
 hero_image_credit_url: "https://www.pexels.com/@santhosh-kanthala-372615"
 visual_keyword: "cloud-rendering"
 description: "Alibaba Group divides into six entities, including a Digital Media and Entertainment Group. Google Cloud launches OpenCue and a limited AI celebrity recognition tool for M&E."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 Alibaba split its conglomerate into six independently managed units, establishing a dedicated Digital Media and Entertainment Group, as Google Cloud open-sourced its production rendering software and introduced a new AI-powered celebrity recognition tool for media companies. These concurrent developments indicate a sector adapting to increasingly specialized tooling and cloud-native production pipelines.
@@ -51,4 +52,5 @@ What to watch next includes the progress of Alibaba's various groups toward pote
 
 ## Updates
 
+- **2026-11-11** — Nvidia’s crisis has corporate governance experts reaching for the popcorn ([source](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/))
 - **2026-11-04** — Google’s latest smart home products make the perfect gifts, and they’re on sale at Best Buy ([source](https://9to5google.com/2026/11/04/google-smart-home-products-make-great-gifts/))
