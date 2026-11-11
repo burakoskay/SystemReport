@@ -1,16 +1,17 @@
 ---
 title: "8-Bit Web Hosting: Tiny Computing's Limits"
 date: 2026-05-17T11:19:17.857Z
-modified_date: 2026-11-06T20:15:22.828Z
+modified_date: 2026-11-11T17:39:06.251Z
 tags: ["tiny computing","8-bit microcontrollers","web hosting","IoT applications","ESP32","Arduino"]
 hero_image: "/hero/2026-05-17-8-bit-web-hosting-tiny-computing-s-limits-58f638.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "8-bit microcontroller web hosting"
 description: "Explore the feasibility of hosting a website on an 8-bit microcontroller with examples from MCP and other projects."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -105,5 +106,6 @@ visual_keyword: 8-bit microcontroller web hosting
 
 ## Updates
 
+- **2026-11-11** — The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026) ([source](https://www.wired.com/story/best-black-friday-deals-11-11-2026/))
 - **2026-11-06** — Lame-duck Congress might actually do something: speed up energy projects ([source](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote))
 - **2026-10-14** — Apple TV just confirmed a new season for one of my favorite shows this year ([source](https://9to5mac.com/2026/10/14/apple-tv-just-confirmed-a-new-season-for-one-of-my-favorite-shows-this-year/))

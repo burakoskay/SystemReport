@@ -1,18 +1,20 @@
 ---
 title: "DeepSeek Cuts Flagship Model Price by 75%"
 date: 2026-05-24T19:24:16.109Z
+modified_date: 2026-11-11T17:40:09.733Z
 tags: ["AI","DeepSeek","Reasonix"]
 hero_image: "/hero/2026-05-24-deepseek-cuts-flagship-model-price-by-75-a90a4c.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "caching"
 description: "DeepSeek announces permanent discount and new native coding agent"
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-05-24-deepseek-cuts-flagship-model-price-by-75-a90a4c.mp3"
 audio_bytes: 637432
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 DeepSeek's flagship model now costs 75% less, with the company framing the change as a permanent pricing tier. This move is described in a Bloomberg report dated May 23, 2026. DeepSeek has also introduced Reasonix, a native coding agent designed for high caching efficiency and lower operating costs.
 ## DeepSeek’s Pricing Change
@@ -37,3 +39,7 @@ The introduction of Reasonix and the price reduction of DeepSeek's flagship mode
 The AI industry is becoming increasingly competitive, with many companies vying for market share. The introduction of Reasonix and the price reduction of DeepSeek's flagship model are likely to have a significant impact on the industry, as companies will be forced to adapt to the new pricing landscape. This could lead to increased innovation and competition, as companies look to differentiate themselves and stay ahead of the curve.
 ## Prior Launches and Regulatory Actions
 DeepSeek has a history of launching innovative products and services, and the introduction of Reasonix is the latest example of this. The company has also been subject to regulatory actions in the past, and it will be interesting to see how the introduction of Reasonix affects the company's relationships with regulatory bodies.
+
+## Updates
+
+- **2026-11-11** — Google’s AlphaGenome 2 zooms in on the cellular roots of disease ([source](https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model))

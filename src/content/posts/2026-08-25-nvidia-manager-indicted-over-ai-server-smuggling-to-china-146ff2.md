@@ -1,15 +1,17 @@
 ---
 title: "Nvidia Manager Indicted Over AI Server Smuggling to China"
 date: 2026-08-25T08:49:37.857Z
+modified_date: 2026-11-11T17:38:59.476Z
 tags: ["nvidia","ai","export-controls","supply-chain","china"]
 hero_image: "/hero/2026-08-25-nvidia-manager-indicted-over-ai-server-smuggling-to-china-146ff2.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "corporate office hallway with a blurred figure holding a server rack"
 description: "A senior Nvidia employee faces charges for funneling AI servers through Supermicro to China, exposing gaps in export controls."
-sources_count: 9
+sources_count: 10
 author: "maya-chen"
 ---
+
 
 ## Indictment details
 
@@ -36,3 +38,7 @@ Nvidia’s board issued a brief statement saying the company “takes compliance
 The indictment may trigger a wave of internal audits across the AI hardware sector. Companies that assemble servers for export will likely tighten documentation checks and increase reliance on automated compliance software. Investors are watching for any impact on Nvidia’s quarterly earnings, as the firm continues to dominate the AI GPU market.
 
 **What to watch**: The next federal court hearing, scheduled for early next month, will reveal whether prosecutors will seek additional charges against Supermicro executives. A follow‑up decision from the Commerce Department on whether to expand the Entity List to include more server manufacturers could reshape the supply chain for AI hardware worldwide.
+
+## Updates
+
+- **2026-11-11** — Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth ([source](https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/))

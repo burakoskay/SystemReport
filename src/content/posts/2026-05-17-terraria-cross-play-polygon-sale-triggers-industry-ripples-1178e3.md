@@ -1,16 +1,17 @@
 ---
 title: "Terraria cross-play, Polygon sale triggers industry ripples"
 date: 2026-05-17T21:06:42.781Z
-modified_date: 2026-11-07T16:03:47.383Z
+modified_date: 2026-11-11T17:40:22.644Z
 tags: ["gaming","media","cross‑play"]
 hero_image: "/hero/2026-05-17-terraria-cross-play-polygon-sale-triggers-industry-ripples-1178e3.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Terraria characters playing together across console and mobile devices"
 description: "Terraria adds cross‑play and 15th‑anniversary merch while Polygon’s sale to Valnet sparks layoffs, highlighting consolidation in gaming media."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Re‑Logic has not set a release date for cross‑play, but community chatter su
 
 ## Updates
 
+- **2026-11-11** — Streaming is still trying to be TikTok ([source](https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video))
 - **2026-11-07** — Oppo reportedly cancels Find X10 Ultra thanks to RAMageddon ([source](https://9to5google.com/2026/11/07/oppo-reportedly-cancels-find-x10-ultra-thanks-to-ramageddon/))
 - **2026-11-05** — Instagram launches Edits for Mac with multi-track video editing and 4K exports ([source](https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/))
 - **2026-10-02** — Sling TV drops its one-day cable passes ([source](https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops))

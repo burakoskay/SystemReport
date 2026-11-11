@@ -1,16 +1,17 @@
 ---
 title: "Liquidations Ripple Through Tech, Finance, and Heritage Sectors"
 date: 2026-05-23T10:08:40.045Z
-modified_date: 2026-08-29T00:24:08.917Z
+modified_date: 2026-11-11T17:40:48.010Z
 tags: ["liquidation","startup","finance","event-tech","mortgage"]
 hero_image: "/hero/2026-05-23-liquidations-ripple-through-tech-finance-and-heritage-sectors-1eab0e.jpg"
 hero_image_credit_name: "Thanh  Luu"
 hero_image_credit_url: "https://www.pexels.com/@thanh-luu-29104820"
 visual_keyword: "legal documents scattered across a dim office with an empty museum exhibit hall"
 description: "Hopin’s UK parent, Carlyle Capital, and a historic museum face liquidation, exposing the risks of rapid growth and fragile capital structures."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Hopin’s UK parent is liquidating while the company’s US operations keep expanding.
@@ -47,4 +48,5 @@ The broader implication is that investors and founders must temper growth ambiti
 
 ## Updates
 
+- **2026-11-11** — Lucid CEO says the company didn't know where its own cars were ([source](https://www.engadget.com/2313113/lucid-q3-2026-losing-cars/))
 - **2026-08-29** — Chinese automakers are following Tesla’s bet that robots are the next big profit machine ([source](https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/))

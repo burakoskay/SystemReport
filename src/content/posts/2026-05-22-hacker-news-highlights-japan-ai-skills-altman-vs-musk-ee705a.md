@@ -1,19 +1,20 @@
 ---
 title: "Hacker News Highlights: Japan, AI Skills, Altman vs Musk"
 date: 2026-05-22T16:36:45.156Z
-modified_date: 2026-10-14T22:57:04.329Z
+modified_date: 2026-11-11T17:39:38.216Z
 tags: ["hackernews","ai","corporate-strategy","legal","language-models"]
 hero_image: "/hero/2026-05-22-hacker-news-highlights-japan-ai-skills-altman-vs-musk-ee705a.jpg"
 hero_image_credit_name: "Keysi Estrada"
 hero_image_credit_url: "https://www.pexels.com/@keysi-estrada-2151553493"
 visual_keyword: "tech newsroom with digital screens showing forum threads"
 description: "A deep dive into four trending Hacker News posts, unpacking Japanese corporate breadth, AI's skill multiplier, the Altman-Musk court clash, and a manifesto for language models."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-22-hacker-news-highlights-japan-ai-skills-altman-vs-musk-ee705a.mp3"
 audio_bytes: 593338
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Japanese Firms Keep Adding Business Lines
@@ -54,4 +55,5 @@ The next quarter will likely reveal whether these tensions resolve into new norm
 
 ## Updates
 
+- **2026-11-11** — A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks ([source](https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/))
 - **2026-10-14** — Fridge hack costing millions and sparking fires stemmed from poor security ([source](https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/))

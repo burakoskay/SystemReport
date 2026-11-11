@@ -1,19 +1,20 @@
 ---
 title: "Security deadline, LG TV risk, Stuxnet code, VMware VDDK pull"
 date: 2026-09-08T08:34:58.360Z
-modified_date: 2026-09-22T17:53:18.110Z
+modified_date: 2026-11-11T17:40:41.625Z
 tags: ["security","virtualization","malware","consumer-tech"]
 hero_image: "/hero/2026-09-08-security-deadline-lg-tv-risk-stuxnet-code-vmware-vddk-pull-771d43.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "concerned engineer reviewing code on multiple monitors"
 description: "A year to fix security, LG TVs exposed, Stuxnet source released, and VMware migration hit by VDDK removal."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-09-08-security-deadline-lg-tv-risk-stuxnet-code-vmware-vddk-pull-771d43.mp3"
 audio_bytes: 618415
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The looming year‑long security deadline
@@ -46,4 +47,5 @@ Track the adoption rate of automated security pipelines as firms chase the twelv
 
 ## Updates
 
+- **2026-11-11** — 2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring ([source](https://www.engadget.com/2312913/2027-chevrolet-bolt-review/))
 - **2026-09-22** — Microsoft is laying off 268 Xbox staffers and Ninja Theory may close ([source](https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure))

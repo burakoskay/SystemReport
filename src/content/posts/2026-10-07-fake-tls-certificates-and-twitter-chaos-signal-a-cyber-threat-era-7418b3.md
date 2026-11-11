@@ -1,19 +1,20 @@
 ---
 title: "Fake TLS Certificates and Twitter Chaos Signal a Cyber Threat Era"
 date: 2026-10-07T10:54:36.446Z
-modified_date: 2026-11-06T13:36:58.362Z
+modified_date: 2026-11-11T17:41:07.280Z
 tags: ["cybersecurity","tls","twitter","whistleblower","nation-state"]
 hero_image: "/hero/2026-10-07-fake-tls-certificates-and-twitter-chaos-signal-a-cyber-threat-era-7418b3.jpg"
 hero_image_credit_name: "Tim Mossholder"
 hero_image_credit_url: "https://www.pexels.com/@timmossholder"
 visual_keyword: "digital lock cracked open with glowing certificate icons"
 description: "Hackers forged TLS certs for Google, while a former Twitter security chief exposed systemic failures, underscoring a shift toward a wartime cyber mindset."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-10-07-fake-tls-certificates-and-twitter-chaos-signal-a-cyber-threat-era-7418b3.mp3"
 audio_bytes: 593338
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Hackers issued counterfeit TLS certificates for Google and other major services, while a former Twitter security chief blew the whistle on systemic failures at the platform. Both incidents expose a growing gap between the scale of modern cyber threats and the ability of organizations to defend against them.
@@ -54,4 +55,5 @@ Watch for a coordinated response from certificate authorities and domain registr
 
 ## Updates
 
+- **2026-11-11** — HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet ([source](https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/))
 - **2026-11-06** — How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’ ([source](https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel))

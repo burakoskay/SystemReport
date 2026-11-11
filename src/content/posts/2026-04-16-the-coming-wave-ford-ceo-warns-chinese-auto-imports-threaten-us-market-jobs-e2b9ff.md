@@ -1,16 +1,17 @@
 ---
 title: "Ford CEO: Chinese Auto Imports Threaten US Market and Jobs"
 date: 2026-04-16T05:31:26.392Z
-modified_date: 2026-09-26T20:31:55.828Z
+modified_date: 2026-11-11T17:40:54.406Z
 tags: ["automotive","us jobs","china trade","ford","ev market"]
 hero_image: "/hero/2026-04-16-the-coming-wave-ford-ceo-warns-chinese-auto-imports-threaten-us-market-jobs-e2b9ff.jpg"
 hero_image_credit_name: "Kelly"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "US auto industry under pressure from global competition"
 description: "Ford CEO Jim Farley warns China's vast auto production capacity could overwhelm the US market, posing a critical threat to American jobs and manufacturing."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ As the global automotive landscape shifts dramatically towards electrification a
 
 ## Updates
 
+- **2026-11-11** — Show HN: Black Ops II statically recompiled to native ARM64 macOS ([source](https://github.com/adrbn/bo2-mac))
 - **2026-09-26** — Minecraft is getting a new dimension called The Sift in 2027 ([source](https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/))
 - **2026-09-25** — Best Laptops (2026): My Top Recommendations After Testing Hundreds ([source](https://www.wired.com/story/best-laptops/))
 - **2026-08-07** — Report: White House drafting executive order linking vaccines and autism ([source](https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/))

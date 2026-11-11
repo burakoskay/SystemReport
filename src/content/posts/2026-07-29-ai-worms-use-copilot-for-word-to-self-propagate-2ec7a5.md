@@ -1,19 +1,20 @@
 ---
 title: "AI Worms Use Copilot for Word to Self‑Propagate"
 date: 2026-07-29T14:01:57.594Z
-modified_date: 2026-10-08T19:40:21.902Z
+modified_date: 2026-11-11T17:39:12.976Z
 tags: ["ai","security","microsoft","copilot","deepfake"]
 hero_image: "/hero/2026-07-29-ai-worms-use-copilot-for-word-to-self-propagate-2ec7a5.jpg"
 hero_image_credit_name: "Sadi Hockmuller"
 hero_image_credit_url: "https://www.pexels.com/@sadi-hockmuller-2055469670"
 visual_keyword: "digital worm spreading through a Microsoft Word document interface"
 description: "Researchers demonstrate AI‑driven code that spreads through Microsoft Word via Copilot, exposing a novel attack surface for enterprise documents."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-07-29-ai-worms-use-copilot-for-word-to-self-propagate-2ec7a5.mp3"
 audio_bytes: 601279
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ Watch for Microsoft’s response to the Copilot worm proof‑of‑concept. A sec
 
 ## Updates
 
+- **2026-11-11** — The AO3 Shutdown Is Pitting Fanfic Readers Against Authors ([source](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/))
 - **2026-10-08** — Classic PC demoscene productions running natively in the browser ([source](https://treylorswift.github.io/demoscene-recomp/web/))
 - **2026-08-04** — BMW’s in-car Spider-Man ad is villain behavior ([source](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad))

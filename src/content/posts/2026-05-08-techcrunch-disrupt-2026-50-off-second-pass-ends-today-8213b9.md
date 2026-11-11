@@ -1,16 +1,17 @@
 ---
 title: "TechCrunch Disrupt 2026: 50% Off Second Pass Ends Today"
 date: 2026-05-08T17:28:57.494Z
-modified_date: 2026-11-01T17:33:10.247Z
+modified_date: 2026-11-11T17:41:00.778Z
 tags: ["TechCrunch Disrupt","Tech Conference","Event Discount"]
 hero_image: "/hero/2026-05-08-techcrunch-disrupt-2026-50-off-second-pass-ends-today-8213b9.jpg"
 hero_image_credit_name: "Thilina Alagiyawanna"
 hero_image_credit_url: "https://www.pexels.com/@thilina-alagiyawanna-3266092"
 visual_keyword: "TechCrunch Disrupt 2026"
 description: "Today's the last day to buy a second pass to TechCrunch Disrupt 2026 at 50% off."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ In conclusion, today's the last day to take advantage of the 50% off second pass
 
 ## Updates
 
+- **2026-11-11** — Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more ([source](https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/))
 - **2026-11-01** — Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more ([source](https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/))
 - **2026-10-09** — Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss ([source](https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/))
 - **2026-09-19** — Rings around a tiny body have changed over the past decade ([source](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/))

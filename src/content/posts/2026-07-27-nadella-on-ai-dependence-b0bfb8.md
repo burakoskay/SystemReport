@@ -1,19 +1,20 @@
 ---
 title: "Nadella on AI Dependence"
 date: 2026-07-27T22:57:47.742Z
-modified_date: 2026-10-23T14:37:04.555Z
+modified_date: 2026-11-11T17:40:16.201Z
 tags: ["AI","Microsoft","Satya Nadella"]
 hero_image: "/hero/2026-07-27-nadella-on-ai-dependence-b0bfb8.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "AI Gateway"
 description: "Microsoft CEO Satya Nadella on single AI reliance"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-07-27-nadella-on-ai-dependence-b0bfb8.mp3"
 audio_bytes: 592084
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ The downstream implications also include the potential impact on the broader eco
 
 ## Updates
 
+- **2026-11-11** — Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price ([source](https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on))
 - **2026-10-23** — Is this the new cyber normal? ([source](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/))
 - **2026-09-14** — Is AppleCare really worth the extra cost? ([source](https://www.engadget.com/2250733/applecare-worth-extra-cost/))
 - **2026-08-11** — Used EV buying guide: The $30,000 edition ([source](https://arstechnica.com/cars/2026/08/used-ev-buying-guide-the-30000-edition/))
