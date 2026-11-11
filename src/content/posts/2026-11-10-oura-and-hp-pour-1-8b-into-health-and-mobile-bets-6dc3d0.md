@@ -1,18 +1,20 @@
 ---
 title: "Oura and HP pour $1.8B into health and mobile bets"
 date: 2026-11-10T20:48:04.374Z
+modified_date: 2026-11-11T01:42:16.925Z
 tags: ["oura","hp","acquisitions","healthtech","mobileos"]
 hero_image: "/hero/2026-11-10-oura-and-hp-pour-1-8b-into-health-and-mobile-bets-6dc3d0.jpg"
 hero_image_credit_name: "Monstera Production"
 hero_image_credit_url: "https://www.pexels.com/@gabby-k"
 visual_keyword: "tech executives shaking hands over digital devices"
 description: "Oura buys AI health startup Counsel for $625M while HP snaps up Palm for $1.2B, signaling aggressive pivots in wearables and mobile OS."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-11-10-oura-and-hp-pour-1-8b-into-health-and-mobile-bets-6dc3d0.mp3"
 audio_bytes: 561363
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Oura expands into AI primary care
 
@@ -53,3 +55,7 @@ Both deals leave open the question of execution risk. Will Oura launch a unified
 ## What to watch
 
 In the next six months, track Oura’s product announcements for any integrated primary‑care offering, as well as regulatory filings that could reveal how the company plans to handle patient data. For HP, monitor developer conference sessions for WebOS SDK releases, carrier partnership announcements, and any prototype hardware that showcases the OS in a consumer device. The success of these signals will indicate whether the $1.8 billion combined spend translates into sustainable market positions or remains a high‑risk expansion.
+
+## Updates
+
+- **2026-11-11** — Oura is acquiring medical AI chatbot startup Counsel Health ([source](https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition))

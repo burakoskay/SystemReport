@@ -1,15 +1,17 @@
 ---
 title: "Palo Alto Networks spends $500M on Console, reshaping AI security"
 date: 2026-09-03T08:33:17.064Z
+modified_date: 2026-11-11T01:41:47.628Z
 tags: ["palo alto networks","ai security","tech acquisitions","enterprise AI"]
 hero_image: "/hero/2026-09-03-palo-alto-networks-spends-500m-on-console-reshaping-ai-security-c19c62.jpg"
 hero_image_credit_name: "Brian Ramirez"
 hero_image_credit_url: "https://www.pexels.com/@brianzosky"
 visual_keyword: "modern corporate office with glowing network lines overlay"
 description: "Palo Alto Networks' $500M purchase of Thrive-backed Console puts AI IT service automation at the forefront of its security strategy."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 Palo Alto Networks paid $500 million to acquire Console, a platform built by Thrive that automates AI‑driven IT service tasks. The deal signals a shift toward tighter control of AI agents inside enterprise environments.
 
@@ -42,3 +44,7 @@ The technical trade‑off is latency. Adding a policy enforcement point introduc
 ## What to watch next
 
 The next quarter will reveal whether Palo Alto integrates Console into its Cortex suite or spins it out as a standalone SaaS offering. Analysts will also track how Serval responds—whether it pursues its own acquisition or doubles down on feature development. The broader market will watch hiddenlayer’s product roadmap for signs of standardization in AI‑observability APIs. Those moves will shape the security posture of AI‑heavy enterprises for years to come.
+
+## Updates
+
+- **2026-11-11** — OpenAI acquires Odessia, travel startup created by Sonder founder ([source](https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/))

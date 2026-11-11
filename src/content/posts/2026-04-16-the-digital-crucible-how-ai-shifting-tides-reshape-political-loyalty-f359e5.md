@@ -1,16 +1,17 @@
 ---
 title: "The Digital Crucible: How AI & Shifting Tides Reshape Political"
 date: 2026-04-16T05:30:04.105Z
-modified_date: 2026-10-13T22:12:27.574Z
+modified_date: 2026-11-11T01:43:14.053Z
 tags: ["ai in politics","political shifts","trump","digital propaganda","maga movement"]
 hero_image: "/hero/2026-04-16-the-digital-crucible-how-ai-shifting-tides-reshape-political-loyalty-f359e5.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI generated political art with a digital landscape overlay"
 description: "As Donald Trump faces growing criticism from former allies, his campaign's embrace of AI-generated art signals a new era in political messaging. We explore how technology is transforming allegiances."
-sources_count: 18
+sources_count: 19
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Concurrently, Trump's digital outreach has embraced the cutting edge, albeit con
 
 ## Updates
 
+- **2026-11-11** — What is the 'Dead Internet Theory' and should humanity be worried? ([source](https://www.engadget.com/2307790/what-is-dead-internet-theory/))
 - **2026-10-13** — macOS 27.2 Golden Gate beta 4 now available, here’s what’s coming [U: Public] ([source](https://9to5mac.com/2026/10/13/macos-27-2-golden-gate-beta-4-now-available-heres-whats-coming/))
 - **2026-09-16** — Your AI agents can now control your Google Home devices ([source](https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/))
 - **2026-09-07** — What new Google Messages features are rolling out [September 2026] ([source](https://9to5google.com/2026/09/07/new-google-messages-features/))

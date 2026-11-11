@@ -1,16 +1,17 @@
 ---
 title: "Texas Hyperloop Pitch, SpaceX Starship Test"
 date: 2026-09-20T23:57:20.795Z
-modified_date: 2026-10-18T17:03:37.196Z
+modified_date: 2026-11-11T01:42:35.941Z
 tags: ["hyperloop","starship","autonomous flight","transport","space"]
 hero_image: "/hero/2026-09-20-texas-hyperloop-pitch-spacex-starship-test-98b517.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "futuristic transportation network spanning Texas desert with tunnel and rockets overhead"
 description: "A Boring Company hyperloop proposal, SpaceX’s looming Starship test, and Joby Aviation’s autonomous coast‑to‑coast flight reveal how bold infrastructure bets clash with hard market realities."
-sources_count: 6
+sources_count: 7
 author: "elena-marchetti"
 ---
+
 
 
 ## Texas Hyperloop Pitch Revives a Stalled Vision
@@ -55,4 +56,5 @@ Regulators in Texas will soon decide whether to issue a right‑of‑way permit 
 
 ## Updates
 
+- **2026-11-11** — Why your Roku might be plugged into the wrong HDMI port ([source](https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port/))
 - **2026-10-18** — Trump says Google kisses his ass ([source](https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass))

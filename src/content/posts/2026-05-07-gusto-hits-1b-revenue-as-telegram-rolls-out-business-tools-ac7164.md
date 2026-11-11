@@ -1,19 +1,20 @@
 ---
 title: "Gusto hits $1B revenue as Telegram rolls out business tools"
 date: 2026-05-07T21:11:34.471Z
-modified_date: 2026-05-22T23:06:20.350Z
+modified_date: 2026-11-11T01:43:42.345Z
 tags: ["gusto","telegram","business-messaging","saas","monetization"]
 hero_image: "/hero/2026-05-07-gusto-hits-1b-revenue-as-telegram-rolls-out-business-tools-ac7164.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "messaging app interface with business tools overlay"
 description: "Gusto reports $1 billion in revenue while Telegram launches Business features and ad‑sharing, reshaping SaaS growth and messaging monetization."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-05-07-gusto-hits-1b-revenue-as-telegram-rolls-out-business-tools-ac7164.mp3"
 audio_bytes: 571395
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Gusto crosses the $1 billion revenue threshold
@@ -52,4 +53,5 @@ Gusto’s next filing will likely reveal whether the $1 billion figure transla
 
 ## Updates
 
+- **2026-11-11** — Spotify’s AI DJ adds nine voices and a setting to reduce interruptions ([source](https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/))
 - **2026-05-22** — SpaceX launches Starship V3 for the first time, but loses booster on return ([source](https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/))

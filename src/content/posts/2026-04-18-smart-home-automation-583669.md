@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:09.284Z
-modified_date: 2026-05-14T21:15:27.852Z
+modified_date: 2026-11-11T01:43:04.675Z
 tags: ["smart home","home automation","security"]
 hero_image: "/hero/2026-04-18-smart-home-automation-583669.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "smart lock"
 description: "Add style and function with smart devices"
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 
 ## Introduction to Smart Home Accessories
@@ -22,4 +23,5 @@ Homeowners can add these devices to boost their home's appeal. Costs vary, with 
 
 ## Updates
 
+- **2026-11-11** — Meta warns some of its AI glasses may get 'too warm' if they get wet ([source](https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/))
 - **2026-05-14** — Lovable just backed a company that’s looking to bring vibe coding to hardware ([source](https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/))
