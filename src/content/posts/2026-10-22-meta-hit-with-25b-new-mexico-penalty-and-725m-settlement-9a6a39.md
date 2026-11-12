@@ -1,18 +1,20 @@
 ---
 title: "Meta hit with $25B New Mexico penalty and $725M settlement"
 date: 2026-10-22T03:03:06.392Z
+modified_date: 2026-11-11T23:59:16.432Z
 tags: ["meta","privacy","settlement","regulation"]
 hero_image: "/hero/2026-10-22-meta-hit-with-25b-new-mexico-penalty-and-725m-settlement-9a6a39.jpg"
 hero_image_credit_name: "dp singh Bhullar"
 hero_image_credit_url: "https://www.pexels.com/@dpsinghbhullar"
 visual_keyword: "courtroom with digital data symbols"
 description: "Meta must pay a $25 billion New Mexico penalty and a $725 million federal settlement, tightening the noose around its data practices."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-10-22-meta-hit-with-25b-new-mexico-penalty-and-725m-settlement-9a6a39.mp3"
 audio_bytes: 698871
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Meta faces a $25 billion penalty from New Mexico and a $725 million settlement in a federal class action. The twin blows tighten the financial pressure on a company that has long dodged accountability for its data‑handling failures.
 
@@ -45,6 +47,10 @@ The pattern points to a regulatory environment that is increasingly comfortable 
 ## What to Watch
 
 The next steps will hinge on two key decisions. First, a federal judge in San Francisco will either certify or reject the $725 million settlement in the coming weeks. Second, New Mexico’s $25 billion judgment will likely face appeals that could reshape its enforceability[^1][^2][^4][^5][^7][^8]. Observers should also keep an eye on the UK competition case, which could set a precedent for cross‑border class actions. Together, these threads will determine whether Meta’s financial exposure becomes a one‑time hit or the opening move in a broader reckoning for the social‑media giant’s data practices.
+
+## Updates
+
+- **2026-11-11** — Toyota’s Scion is back, starting with an American-made, 25-mph kei truck ([source](https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival))
 
 [^1]: [washingtonpost.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtj1R9fqwrH7CnFY6qy4UFTHHyrBbd_8EGN0ev-G3RK50-Sxui_gqsqOYXHzZK9A5TzvV5SyutLji_frNArfSJLiWHCXSi5ySmS81i97jX7gymcX4QmoesZfdFYhE-gFoKCm3ywV4LZA3tfyWCLSEjGJIT8Mg1o7OMFJg-BHphoZdc3iT0WC_VOyc0w5xSORTtT4ssK02UJqFv_GXvylJ3c8pBz6-wSjLl)
 [^2]: [cnn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5B2karDLnT_WxIHl4-Wpsaa2f7HWwzYbLfb6yRSIydSVRN8zrRFGQ0CHP_uBCjyiSsr_veSsB5ptOM1LN6G9t46jA6xtpSSrurPy1dm7FGQY5t9Uh7rkH3xgTf-x9szI6jfrnq34lSOOvkLx79lccDFd6Up8ofX9THVSkHqRuBn8a)

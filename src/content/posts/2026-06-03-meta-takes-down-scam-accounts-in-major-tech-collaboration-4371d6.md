@@ -1,18 +1,20 @@
 ---
 title: "Meta Takes Down Scam Accounts in Major Tech Collaboration"
 date: 2026-06-03T11:12:35.720Z
+modified_date: 2026-11-11T23:59:32.182Z
 tags: ["AI","Security","Scams"]
 hero_image: "/hero/2026-06-03-meta-takes-down-scam-accounts-in-major-tech-collaboration-4371d6.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Meta, Microsoft, SpaceX, and the DOJ collaborated to take down over a million scam accounts in SE Asia. The operation targeted scam networks in the region."
-sources_count: 9
-author: "maya-chen"
+sources_count: 10
 audio_path: "/audio/2026-06-03-meta-takes-down-scam-accounts-in-major-tech-collaboration-4371d6.mp3"
 audio_bytes: 585605
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Meta Cracks Down on Scam Accounts
@@ -89,3 +91,6 @@ The security implications of AI-powered scams are significant. As scammers becom
 
 The collaboration between Meta, Microsoft, SpaceX, and the DOJ demonstrates that tech companies and law enforcement agencies can work together to combat online scams. However, it also highlights the need for continued vigilance and cooperation.
 
+## Updates
+
+- **2026-11-11** — iCloud+ has new perk in iOS 27 if you pay for more storage ([source](https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/))

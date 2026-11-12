@@ -1,16 +1,17 @@
 ---
 title: "Judge Bars Waymo Overnight Charging After Resident Noise"
 date: 2026-08-01T17:09:11.757Z
-modified_date: 2026-10-28T20:46:18.766Z
+modified_date: 2026-11-11T23:57:34.339Z
 tags: ["waymo","autonomous-vehicles","regulation","urban-planning"]
 hero_image: "/hero/2026-08-01-judge-bars-waymo-overnight-charging-after-resident-noise-8109f8.jpg"
 hero_image_credit_name: "Reinhard Bruckner"
 hero_image_credit_url: "https://www.pexels.com/@bruggi"
 visual_keyword: "nighttime autonomous vehicle charging station on a quiet residential street"
 description: "A Los Angeles judge halted Waymo’s 24‑hour charging in Santa Monica, citing resident sleep disruption and raising questions about autonomous fleet operations."
-sources_count: 7
+sources_count: 8
 author: "priya-raman"
 ---
+
 
 
 Waymo must stop charging its driverless taxis overnight in Santa Monica after a judge found the hum disturbed nearby residents.
@@ -47,6 +48,7 @@ Waymo has said it will appeal the decision and explore engineering fixes. The ne
 
 ## Updates
 
+- **2026-11-11** — Olaf Sakkers is betting he can beat the emerging-manager squeeze ([source](https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/))
 - **2026-10-28** — Apple's PROLED XDR Display has a cringy name but incredible specs ([source](https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/))
 
 [^1]: [latimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPfYd0fRB-6vvcirfgJ1D96gyZWroxzk2e9T7kgiu9aczNcxHS5SJqC9yjLnAYTnk-rx1hz4PyFZVf4_6EnDy8v4Gtrh7_qO93LNhCEHlqDmamfQT42fNflSXI4Dz9EHHeE5pOYH-zbvkZaTVtAyorl9BQre-0h6ni9MdndeepwTscTOdXpjnu8oMzxw6yeHnUAXe_L-ZRNL5_6XapeoIqww7tpbDUPjzbKsXMHURMsi_L1w==)

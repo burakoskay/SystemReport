@@ -1,16 +1,17 @@
 ---
 title: "California Jobs Guarantee Proposal"
 date: 2026-05-08T17:31:49.620Z
-modified_date: 2026-11-03T17:37:41.354Z
+modified_date: 2026-11-11T23:59:24.302Z
 tags: ["AI","jobs","California"]
 hero_image: "/hero/2026-05-08-california-jobs-guarantee-proposal-1ecc69.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "robotics"
 description: "California gubernatorial candidate Tom Steyer proposes jobs guarantee for workers displaced by AI."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ The discussion around AI and jobs is likely to continue in the coming years, and
 
 ## Updates
 
+- **2026-11-11** — OpenAI’s personal finance features for ChatGPT expands to Mac app ([source](https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/))
 - **2026-11-03** — The reason why some USB ports are black ([source](https://www.engadget.com/2303524/reason-why-usb-ports-black/))
 - **2026-09-21** — Apple Mac mini review: The new M6 impresses, but the price hike is rough ([source](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/))
 - **2026-08-24** — Ask HN: Why do corporate failures always seem to punish the wrong people? ([source](https://news.ycombinator.com/item?id=49418675))

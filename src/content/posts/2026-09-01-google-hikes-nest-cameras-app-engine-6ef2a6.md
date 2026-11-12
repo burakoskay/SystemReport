@@ -1,16 +1,17 @@
 ---
 title: "Google hikes Nest cameras, App Engine"
 date: 2026-09-01T09:06:18.575Z
-modified_date: 2026-10-17T02:33:27.147Z
+modified_date: 2026-11-11T23:57:18.580Z
 tags: ["google","pricing","cloud"]
 hero_image: "/hero/2026-09-01-google-hikes-nest-cameras-app-engine-6ef2a6.jpg"
 hero_image_credit_name: "Digital Buggu"
 hero_image_credit_url: "https://www.pexels.com/@digitalbuggu"
 visual_keyword: "Google Nest cameras on a price tag, App Engine code on a server, .dev domain text on a computer screen"
 description: "Google raises prices on Nest hardware, revamps App Engine billing, and faces backlash over a misreported .dev domain surge."
-sources_count: 6
+sources_count: 7
 author: "david-okafor"
 ---
+
 
 
 
@@ -52,5 +53,6 @@ Track the first quarterly earnings report after the Nest price change for any sh
 
 ## Updates
 
+- **2026-11-11** — The unfolding Jensen Huang scandal: a timeline ([source](https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/))
 - **2026-10-17** — HP Googlebook 14 Review: Great laptop, shame about the OS ([source](https://9to5google.com/2026/10/16/hp-googlebook-14-review/))
 - **2026-09-28** — Bose’s first wired earbuds in 11 years add noise canceling ([source](https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder))

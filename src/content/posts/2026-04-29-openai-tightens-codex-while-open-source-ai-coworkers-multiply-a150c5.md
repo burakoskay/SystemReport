@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Tightens Codex, While Open‑Source AI Coworkers Multiply"
 date: 2026-04-29T06:37:23.176Z
-modified_date: 2026-11-03T22:48:39.221Z
+modified_date: 2026-11-11T23:59:00.916Z
 tags: ["ai","open-source","devops","coding-tools"]
 hero_image: "/hero/2026-04-29-openai-tightens-codex-while-open-source-ai-coworkers-multiply-a150c5.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "developer using AI coworker on laptop with code and knowledge graph"
 description: "OpenAI bans fantasy references in Codex as a wave of open‑source AI coworkers, skill catalogs, and CI agents reshape developer workflows."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ Watch for OpenAI’s next prompt update and any public rationale for the creatur
 
 ## Updates
 
+- **2026-11-11** — United won’t let your AI agent book your flight ([source](https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents))
 - **2026-11-03** — Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist ([source](https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained))
 - **2026-10-08** — Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business ([source](https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo))
 - **2026-08-11** — Another OpenAI executive takes off ([source](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure))

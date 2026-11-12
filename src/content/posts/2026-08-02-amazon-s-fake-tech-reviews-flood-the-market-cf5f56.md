@@ -1,16 +1,17 @@
 ---
 title: "Amazon’s Fake Tech Reviews Flood the Market"
 date: 2026-08-02T11:14:35.766Z
-modified_date: 2026-10-07T18:19:39.656Z
+modified_date: 2026-11-11T23:57:50.173Z
 tags: ["amazon","reviews","ecommerce","consumer-protection"]
 hero_image: "/hero/2026-08-02-amazon-s-fake-tech-reviews-flood-the-market-cf5f56.jpg"
 hero_image_credit_name: "Beyzanur K."
 hero_image_credit_url: "https://www.pexels.com/@thefullonmonet"
 visual_keyword: "close-up of a laptop screen displaying a flood of glowing five-star product reviews with a subtle glitch overlay"
 description: "Which? uncovers thousands of bogus Amazon reviews for headphones and other tech, while new tools try to restore trust."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 Amazon's marketplace is awash with five‑star reviews that never happened.
@@ -57,4 +58,5 @@ The next quarter will reveal whether Amazon tightens its enforcement mechanisms 
 
 ## Updates
 
+- **2026-11-11** — Pete Hegseth Is About to Get His Ass Kicked ([source](https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked/))
 - **2026-10-07** — Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing ([source](https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/))

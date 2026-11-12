@@ -1,16 +1,17 @@
 ---
 title: "Offline AI markdown and iOS WordPress upgrades raise the bar"
 date: 2026-08-23T18:27:03.884Z
-modified_date: 2026-09-17T19:29:29.191Z
+modified_date: 2026-11-11T23:59:55.889Z
 tags: ["offline-ai","mobile-editing","performance"]
 hero_image: "/hero/2026-08-23-offline-ai-markdown-and-ios-wordpress-upgrades-raise-the-bar-075135.jpg"
 hero_image_credit_name: "olia danilevich"
 hero_image_credit_url: "https://www.pexels.com/@olia-danilevich"
 visual_keyword: "developer typing on laptop with AI model visualized, iPhone showing WordPress editor"
 description: "Allein adds local LLM assistance while WordPress iOS 2.9 overhauls its editor, sparking debate on performance trade‑offs for mobile creators."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Allein brings offline AI to markdown editing
@@ -51,4 +52,5 @@ Allein's next milestone will be the release of pre‑trained models optimized fo
 
 ## Updates
 
+- **2026-11-11** — Retirement Savings Are Fueling the AI Bubble ([source](https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/))
 - **2026-09-17** — TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host ([source](https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/))

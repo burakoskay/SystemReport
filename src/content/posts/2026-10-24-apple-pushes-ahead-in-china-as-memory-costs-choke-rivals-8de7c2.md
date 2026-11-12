@@ -1,18 +1,20 @@
 ---
 title: "Apple pushes ahead in China as memory costs choke rivals"
 date: 2026-10-24T14:02:03.109Z
+modified_date: 2026-11-11T23:57:42.284Z
 tags: ["apple","smartphones","macbook","watchos","china"]
 hero_image: "/hero/2026-10-24-apple-pushes-ahead-in-china-as-memory-costs-choke-rivals-8de7c2.jpg"
 hero_image_credit_name: "Maggie L"
 hero_image_credit_url: "https://www.pexels.com/@maggie-l-859117141"
 visual_keyword: "Apple devices on a Chinese city skyline at dusk"
 description: "Apple gains share in China despite a 10% shipment drop, while watchOS 27.2 RC lands and a redesigned MacBook Pro looms with a notable flaw."
-sources_count: 8
-author: "ryan-tanaka"
+sources_count: 9
 audio_path: "/audio/2026-10-24-apple-pushes-ahead-in-china-as-memory-costs-choke-rivals-8de7c2.mp3"
 audio_bytes: 550705
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Apple’s Q3 data shows the company gaining market share in China even as overall smartphone shipments slump 10% year‑over‑year. The shift matters because China remains the world’s largest handset market, and any gain there can offset global weakness.
 
@@ -45,3 +47,7 @@ If Apple can keep its pricing power in China, it may offset the revenue hit from
 ## What to Watch
 
 Track the Q4 shipment reports from IDC and Counterpoint for any shift in Apple’s China share as memory prices stabilize. Monitor developer feedback on watchOS 27.2 during the final week before launch; a surge in bug reports could delay broader adoption. Finally, keep an eye on early performance benchmarks of the new MacBook Pro—especially under sustained CPU‑intensive tasks—to see whether the thermal issue becomes a headline‑making flaw or a manageable trade‑off.
+
+## Updates
+
+- **2026-11-11** — With $720M round, Britain’s Fractile gets a leg up in the race for AI chips ([source](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/))

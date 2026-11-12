@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Reacts to AI Agents, Tencent Hy4, and arXivLabs"
 date: 2026-08-30T14:47:41.267Z
+modified_date: 2026-11-11T23:58:53.081Z
 tags: ["ai","opensource","hackernews","machinelearning"]
 hero_image: "/hero/2026-08-30-hacker-news-reacts-to-ai-agents-tencent-hy4-and-arxivlabs-fca15d.jpg"
 hero_image_credit_name: "ThisIsEngineering"
 hero_image_credit_url: "https://www.pexels.com/@thisisengineering"
 visual_keyword: "engineers discussing AI models around a laptop"
 description: "A look at three hot Hacker News posts—AI agent debate, Tencent's Hy4 preview, and arXivLabs' open‑source framework—and what they signal for the community."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## The Hacker News Pulse on AI Agent Narratives
 
@@ -46,3 +48,7 @@ From a strategic standpoint, companies that expose even a preview can reap indir
 ## What to Watch
 
 Watch for Tencent’s next announcement on whether Hy4 will graduate from preview to a full release. Track any follow‑up posts on Hacker News that cite performance metrics or integration guides. Keep an eye on arXivLabs as it rolls out its first community‑built tools; early adopters will likely publish case studies that reveal both the framework’s strengths and its limitations. Finally, monitor the evolution of AI agent research—especially any new benchmarks that the community agrees to standardize. Those signals will indicate whether the current buzz translates into durable, engineer‑focused progress.
+
+## Updates
+
+- **2026-11-11** — Nvidia is reportedly preparing to fire Jensen Huang ([source](https://www.theverge.com/tech/1031652/jensen-huang-rumor))
