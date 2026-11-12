@@ -1,15 +1,17 @@
 ---
 title: "PC Shipments Crash 20% as Niche Hardware Finds New Life"
 date: 2026-10-11T08:14:38.248Z
+modified_date: 2026-11-12T22:04:07.064Z
 tags: ["pc","hardware","mechanical-keyboard","retro-computing","notebooks"]
 hero_image: "/hero/2026-10-11-pc-shipments-crash-20-as-niche-hardware-finds-new-life-0566ad.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "a sleek mechanical keyboard beside a vintage Cray-1 replica built from Mac Minis in a museum setting"
 description: "A 20.1% drop in global PC shipments fuels price hikes and drives hobbyists toward mechanical keyboards and retro builds."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## The PC market’s sharpest tumble in years
 
@@ -46,3 +48,7 @@ Conversely, a sustained decline might push manufacturers to explore modular desi
 The next quarter’s shipment figures will reveal whether the 20.1 percent drop was an anomaly or the start of a deeper cycle. Track how major OEMs price their 2025‑2026 notebook lines and whether they introduce modular upgrade options. Keep an eye on hobbyist forums for spikes in mechanical‑keyboard sales and retro‑build projects, as these micro‑trends often foreshadow broader shifts in consumer hardware strategy.
 
 ---
+
+## Updates
+
+- **2026-11-12** — The Oura Ring 4 is almost as good as the newer model, but $150 cheaper ([source](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale))

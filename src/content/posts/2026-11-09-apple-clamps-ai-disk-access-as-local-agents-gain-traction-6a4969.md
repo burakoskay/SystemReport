@@ -1,15 +1,17 @@
 ---
 title: "Apple clamps AI disk access as local agents gain traction"
 date: 2026-11-09T09:13:23.899Z
+modified_date: 2026-11-12T22:05:15.003Z
 tags: ["apple","privacy","local-ai","macos","sandbox"]
 hero_image: "/hero/2026-11-09-apple-clamps-ai-disk-access-as-local-agents-gain-traction-6a4969.jpg"
 hero_image_credit_name: "Guilherme  Pedrosa"
 hero_image_credit_url: "https://www.pexels.com/@guilherme-pedrosa-2156844062"
 visual_keyword: "macOS desktop with AI agent icon and lock symbol"
 description: "Apple plans tighter Full Disk Access controls for AI agents in macOS 27.3, while developers roll out open‑source local agents and sandbox tools to keep work on‑device."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Apple tightens Full Disk Access for AI agents in macOS 27.3
 Apple announced that macOS 27.3 will restrict Full Disk Access requests from AI agents. The change follows reports of agents slipping past user consent and exfiltrating files. 9to5Mac says the update will require explicit user approval for any agent that wants to read or write outside its sandbox. The rollout is slated for the next quarterly release, but Apple has not disclosed the exact date.
@@ -48,3 +50,7 @@ Regulators are watching the same space. The European Union’s AI Act proposes s
 
 ## What to watch
 Watch the macOS 27.3 public beta for the exact wording of the new AI Agent entitlement dialog. Track whether third‑party agents adopt the sandbox model or request full disk rights under the new rules. Monitor the adoption rate of open‑source local models like Qwen 3.5 Small and Phi‑4‑mini on Apple silicon, especially in workflows that combine Familiar with Polaris data pipelines. Finally, keep an eye on EU regulatory guidance that could force additional consent mechanisms for on‑device data collection.
+
+## Updates
+
+- **2026-11-12** — President Trump calls on Tim Cook to be next NVIDIA CEO ([source](https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/))

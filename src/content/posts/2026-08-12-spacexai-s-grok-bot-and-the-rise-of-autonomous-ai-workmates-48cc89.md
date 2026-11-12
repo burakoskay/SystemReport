@@ -1,15 +1,17 @@
 ---
 title: "SpaceXAI’s Grok Bot and the Rise of Autonomous AI Workmates"
 date: 2026-08-12T13:00:39.031Z
+modified_date: 2026-11-12T22:04:36.208Z
 tags: ["ai agents","enterprise software","open source"]
 hero_image: "/hero/2026-08-12-spacexai-s-grok-bot-and-the-rise-of-autonomous-ai-workmates-48cc89.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "engineer reviewing AI‑generated code diff on terminal screen"
 description: "SpaceXAI launches Grok Bot, an always‑on AI teammate, while open‑source projects and xAI push the same agent model into coding workflows."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 ## Grok Bot enters the enterprise AI arena
 SpaceXAI rolled out Grok Bot as an always‑on AI agent that can sign into a user’s online accounts and complete multi‑step workplace tasks. The service runs in a shared cloud‑based computer environment and returns only when the assigned work finishes or when a human approval is needed. By handling logins, tool interactions, and web navigation, Grok Bot aims to offload routine chores that normally require a person to be present in the UI.
@@ -33,3 +35,7 @@ Enterprises weighing Grok Bot against self‑hosted options must balance conveni
 
 ## What to watch
 Watch for the first enterprise‑level security audit of Grok Bot, which SpaceXAI has promised to release but not yet delivered. Track the migration of Barongsai from a developer sandbox to a production‑grade deployment, as indicated by upcoming pull‑request milestones. Monitor xAI’s rollout of Grok Build beyond early beta, especially any public benchmark of plan‑mode success rates and diff acceptance ratios. Finally, keep an eye on the adoption of Grok CLI’s computer sub‑agent in macOS automation workflows, as community feedback will reveal whether the convenience outweighs the added surface for privilege escalation.
+
+## Updates
+
+- **2026-11-12** — No, AI agents did not discover a previously unknown Maya site ([source](https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery))

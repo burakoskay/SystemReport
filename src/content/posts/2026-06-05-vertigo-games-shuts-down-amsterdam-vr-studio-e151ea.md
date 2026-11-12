@@ -1,19 +1,20 @@
 ---
 title: "Vertigo Games Shuts Down Amsterdam VR Studio"
 date: 2026-06-05T12:51:06.549Z
-modified_date: 2026-11-10T03:59:21.324Z
+modified_date: 2026-11-12T22:01:41.704Z
 tags: ["Vertigo Games","VR gaming","studio closure"]
 hero_image: "/hero/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "VR gaming"
 description: "Vertigo Games, known for VR titles, closes Amsterdam studio, impacting the VR gaming industry."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-05-vertigo-games-shuts-down-amsterdam-vr-studio-e151ea.mp3"
 audio_bytes: 626565
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ In the short term, the closure of Vertigo Games' Amsterdam studio is likely to h
 
 ## Updates
 
+- **2026-11-12** — Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry ([source](https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/))
 - **2026-11-10** — How to customize or disable the touchscreen on the new MacBook Pro ([source](https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/))
 - **2026-10-27** — VisionQuest is what happens when AI really goes rogue ([source](https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai))
 - **2026-10-26** — Can AI help solve the COBOL code crisis? ([source](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic))

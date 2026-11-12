@@ -1,18 +1,20 @@
 ---
 title: "Safe Superintelligence Lab and Meta’s Muse Spark Accelerate"
 date: 2026-10-17T23:50:47.952Z
+modified_date: 2026-11-12T22:05:05.368Z
 tags: ["ai safety","superintelligence","multimodal models"]
 hero_image: "/hero/2026-10-17-safe-superintelligence-lab-and-meta-s-muse-spark-accelerate-dc4607.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "engineers working in a high‑tech lab with glowing AI model visualizations"
 description: "A new lab focused on safe superintelligence and Meta’s Muse Spark model highlight the growing tension between capability and safety in AI."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-10-17-safe-superintelligence-lab-and-meta-s-muse-spark-accelerate-dc4607.mp3"
 audio_bytes: 558647
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Safe Superintelligence Inc. opens its first dedicated lab
 
@@ -41,6 +43,10 @@ Recent policy drafts in the U.S. and EU propose oversight for high‑risk AI, bu
 ## What to watch
 
 The next quarter will reveal whether Muse Spark’s Contemplating mode reaches broader users and how its performance evolves on benchmark exams. At the same time, Safe Superintelligence Inc. is expected to publish its first safety‑focused research paper. Tracking those releases will show whether safety can keep pace with the rapid scaling of multimodal models. Regulators are also expected to issue draft guidelines for AI labs that claim a safety‑first mission. Those documents will shape the incentives for future labs and could dictate the next wave of investment in safe superintelligence.
+
+## Updates
+
+- **2026-11-12** — Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more ([source](https://9to5mac.com/2026/11/12/deals-homeview-m5-ipad-pro-magic-keyboard-airtag-2/))
 
 [^1]: [timesofisrael.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxWe_xwty3PdWczR60odZdV4-wNyo81uuMJrZ56h6QvDSlpZy38pjrHI8_BvsxT2lXS0DwnOHZJ1vs0IlPte_mZlT6Eqy-viaLtwEYSl6-S7Qy7sJcNjw0RLlLvsc0OQxoXFujAkgl5XHXpfG69wckwVdtwYwfI-aQwsuNJ8NGdahDhIvp0iVlad_tkXU80k5fWm8rWvckDcrsqfSEfKFwrLimsA==)
 [^2]: [ssi.inc](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErgc3ylVXbm3TIRYTiH6pBt3ocjp0b0vakZGnUW4zaKw-1ojc73-41XLAYMDIZVbAwmHl0PhVMG58bi4NS9h6VT2JRDlc02KFStN4=)

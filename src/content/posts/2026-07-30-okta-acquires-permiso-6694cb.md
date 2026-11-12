@@ -1,19 +1,20 @@
 ---
 title: "Okta Acquires Permiso"
 date: 2026-07-30T17:22:01.012Z
-modified_date: 2026-09-15T07:04:16.332Z
+modified_date: 2026-11-12T22:02:01.060Z
 tags: ["Okta","Permiso","AI Security"]
 hero_image: "/hero/2026-07-30-okta-acquires-permiso-6694cb.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "AI Security"
 description: "Okta buys AI security startup Permiso for $200M"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-07-30-okta-acquires-permiso-6694cb.mp3"
 audio_bytes: 591875
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction
@@ -37,4 +38,5 @@ Okta has a history of making strategic acquisitions to enhance its portfolio of 
 
 ## Updates
 
+- **2026-11-12** — Jensen Huang’s $470 Billion Affair ([source](https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/))
 - **2026-09-15** — Jensen Huang took a call from Trump, and showed off something else, too ([source](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/))

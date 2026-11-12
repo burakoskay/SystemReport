@@ -1,16 +1,17 @@
 ---
 title: "Pope Leo XIV's First Encyclical Calls for AI to Serve Humanity"
 date: 2026-05-25T15:18:18.081Z
-modified_date: 2026-08-04T14:28:10.844Z
+modified_date: 2026-11-12T22:04:26.422Z
 tags: ["AI","Vatican","Encyclical","Humanity"]
 hero_image: "/hero/2026-05-25-pope-leo-xiv-s-first-encyclical-calls-for-ai-to-serve-humanity-db3bbb.jpg"
 hero_image_credit_name: "Magda Ehlers"
 hero_image_credit_url: "https://www.pexels.com/@magda-ehlers-pexels"
 visual_keyword: "AI"
 description: "The Vatican's new encyclical flags AI risks, demands a human-first approach"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -45,4 +46,5 @@ The release of *Magnifica Humanitas* marks an important turning point in the dev
 
 ## Updates
 
+- **2026-11-12** — Meet the people who want peptides to be made in America ([source](https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha))
 - **2026-08-04** — Is the future of data centers portable? Runware builds a pod to find out ([source](https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/))

@@ -1,16 +1,17 @@
 ---
 title: "AirPods, Pixel Buds, O-Free: The Real State of Wireless Earbuds"
 date: 2026-08-11T01:18:02.325Z
-modified_date: 2026-08-30T19:00:04.484Z
+modified_date: 2026-11-12T22:02:10.769Z
 tags: ["wireless earbuds","audio","security"]
 hero_image: "/hero/2026-08-11-airpods-pixel-buds-o-free-the-real-state-of-wireless-earbuds-f6e996.jpg"
 hero_image_credit_name: "Dario Fernandez Ruz"
 hero_image_credit_url: "https://www.pexels.com/@dario-fernandez-ruz"
 visual_keyword: "close-up of true wireless earbuds in a modern office setting"
 description: "A hard look at Apple, Google, and Oppo’s true‑wireless earbuds, from fit woes to security flaws, and what the crowded market means for users."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 Apple's $159 AirPods finally arrived after a series of delays, and the first impression is that they feel like a draft of the wireless future. They sound solid, but the design still drops the ball on staying in the ear.
@@ -55,6 +56,7 @@ The next firmware cycles from Apple, Google, and Sony will reveal how quickly th
 
 ## Updates
 
+- **2026-11-12** — Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight ([source](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/))
 - **2026-08-30** — Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario ([source](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/))
 
 [^1]: [digitaltrends.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6rI5rnLz7Ii_2TD9EKkBH3KCBhteZKGpr8OxbE7wUyFLTRbW4sVeMAup_y5Q6cyiFIiOXJ_nqHkyx23SSxcOLlTgxIzJ2QOPlP2M3t6uKcu6tpiP2DRYKHjl9B3lcQ5skT0l6HMZ1nMTSkU98OPsslWEcVfUpqNC-atoEROP5OgNoMlPOCXOQwtaaN5A0IClO)

@@ -1,16 +1,17 @@
 ---
 title: "OpenAI Breaks Microsoft's Hold"
 date: 2026-04-27T21:08:45.859Z
-modified_date: 2026-10-20T18:17:04.664Z
+modified_date: 2026-11-12T22:04:16.706Z
 tags: ["OpenAI","Microsoft","Cloud Computing","AI"]
 hero_image: "/hero/2026-04-27-openai-breaks-microsoft-s-hold-44e806.jpg"
 hero_image_credit_name: "Antoni Shkraba Studio"
 hero_image_credit_url: "https://www.pexels.com/@shkrabaanthony"
 visual_keyword: "Cloud Computing"
 description: "OpenAI ends exclusivity with Microsoft, allowing it to sell products on AWS and other cloud providers."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ In conclusion, the updated partnership between OpenAI and Microsoft marks a sign
 
 ## Updates
 
+- **2026-11-12** — Microsoft Outlook is down ([source](https://www.theverge.com/tech/1032226/microsoft-outlook-is-down))
 - **2026-10-20** — Galaxy S27 might drop to 8GB of RAM; other Android phones could go back to 4GB ([source](https://9to5google.com/2026/10/20/samsung-galaxy-s27-8gb-ram-rumor/))
 - **2026-09-29** — OpenAI launches Dots, its Muse competitor ([source](https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor))
 - **2026-09-27** — Your old GPU could be worth more than you think ([source](https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/))

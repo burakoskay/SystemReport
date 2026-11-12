@@ -1,16 +1,17 @@
 ---
 title: "Tech Regulation Heats Up: Courts, Congress, and AI"
 date: 2026-04-29T03:42:26.327Z
-modified_date: 2026-05-31T13:54:48.397Z
+modified_date: 2026-11-12T22:02:59.332Z
 tags: ["AI regulation","tech regulation","geofence warrants"]
 hero_image: "/hero/2026-04-29-tech-regulation-heats-up-courts-congress-and-ai-fea2a3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "The US Supreme Court is set to rule on geofence search warrants, while Congress and state lawmakers grapple with AI regulation, data privacy, and social media laws."
-sources_count: 10
+sources_count: 11
 author: "maya-chen"
 ---
+
 
 
 
@@ -95,6 +96,7 @@ The future of tech regulation is both complex and contentious. However, one thin
 
 ## Updates
 
+- **2026-11-12** — Today’s Android app deals and freebies: Agent A, Swim Out, The Mutiny, more ([source](https://9to5toys.com/2026/11/12/todays-highlight-google-play-deals-48/))
 - **2026-05-31** — What happens in Vega$: steroids, swimmers, and a billion-dollar hustle ([source](https://techcrunch.com/2026/05/31/i-went-to-the-so-called-steroid-olympics-to-understand-why-silicon-valley-is-obsessed-with-peptides/))
 - **2026-05-28** — Here’s where you can preorder the new Oura Ring 5 ([source](https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability))
 - **2026-05-27** — Robinhood will let your AI agent trade stocks and make (or lose) lots of money ([source](https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading))

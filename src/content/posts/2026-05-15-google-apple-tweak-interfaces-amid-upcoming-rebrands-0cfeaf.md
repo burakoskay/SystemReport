@@ -1,16 +1,17 @@
 ---
 title: "Google, Apple Tweak Interfaces Amid Upcoming Rebrands"
 date: 2026-05-15T21:13:04.107Z
-modified_date: 2026-10-14T22:57:26.957Z
+modified_date: 2026-11-12T22:04:45.988Z
 tags: ["google","apple","ios-26","fitbit","smart-home"]
 hero_image: "/hero/2026-05-15-google-apple-tweak-interfaces-amid-upcoming-rebrands-0cfeaf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "vibrant app icons on smartphone screen"
 description: "Google and Apple roll out subtle updates across apps and hardware, signaling shifts ahead of major events and rebrands."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ For end users, the takeaway is clear: these subtle changes often precede more di
 
 ## Updates
 
+- **2026-11-12** — Oh, Palantir is ‘progressive’ now, is it? ([source](https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video))
 - **2026-10-14** — The best feature of Apple’s HomeView might be its simplicity ([source](https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature))
 - **2026-09-17** — Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about ([source](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/))
 - **2026-09-15** — Kia’s electric van lineup is getting more interesting with reveal of PV7 ([source](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale))
