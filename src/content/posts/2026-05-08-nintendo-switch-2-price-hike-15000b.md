@@ -1,16 +1,17 @@
 ---
 title: "Nintendo Switch 2 Price Hike"
 date: 2026-05-08T09:38:05.175Z
-modified_date: 2026-10-14T14:50:43.903Z
+modified_date: 2026-11-12T05:30:12.918Z
 tags: ["Nintendo","Switch 2","chip crisis"]
 hero_image: "/hero/2026-05-08-nintendo-switch-2-price-hike-15000b.jpg"
 hero_image_credit_name: "Daniel J. Schwarz"
 hero_image_credit_url: "https://www.pexels.com/@danieljschwarz"
 visual_keyword: "Nintendo Switch 2"
 description: "Nintendo raises Switch 2 prices amid chip crisis, sold 19.86 million units last year."
-sources_count: 3
+sources_count: 4
 author: "david-okafor"
 ---
+
 
 
 
@@ -47,5 +48,6 @@ The future of the gaming console market is uncertain, with many factors affectin
 
 ## Updates
 
+- **2026-11-12** — The Nintendo Switch 2 is down to its lowest price of the season tonight only ([source](https://9to5google.com/2026/11/11/the-nintendo-switch-2-is-down-to-its-lowest-price-of-the-season-tonight-only/))
 - **2026-10-14** — 8BitDo Ultimate 2C review: A fabulous Switch 2 controller at a fraction of the price ([source](https://www.engadget.com/2286164/8bitdo-ultimate-2c-review-a-fabulous-switch-2-controller-at-a-fraction-of-the-price/))
 - **2026-07-28** — AI’s finally expensive enough to make Wall Street nervous ([source](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex))

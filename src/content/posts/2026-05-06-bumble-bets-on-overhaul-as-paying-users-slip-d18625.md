@@ -1,19 +1,20 @@
 ---
 title: "Bumble Bets on Overhaul as Paying Users Slip"
 date: 2026-05-06T06:43:08.371Z
-modified_date: 2026-11-05T17:49:20.281Z
+modified_date: 2026-11-12T05:30:22.263Z
 tags: ["Bumble","dating apps","CDN market"]
 hero_image: "/hero/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.jpg"
 hero_image_credit_name: "Steve Burcham"
 hero_image_credit_url: "https://www.pexels.com/@steve-burcham-626383500"
 visual_keyword: "Bumble"
 description: "Bumble's paying users decline as the company focuses on getting users to meet in real life. The dating app is redesigning profiles and interactions."
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-06-bumble-bets-on-overhaul-as-paying-users-slip-d18625.mp3"
 audio_bytes: 578082
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -86,6 +87,7 @@ The success of Bumble's overhaul will depend on its ability to attract and retai
 
 ## Updates
 
+- **2026-11-12** — 9to5Mac Daily: November 11, 2026 – New Apple TV feature, more ([source](https://9to5mac.com/2026/11/11/daily-november-11-2026/))
 - **2026-11-05** — Xbox overhauls its PC, web, and cloud apps with a faster design ([source](https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign))
 - **2026-10-31** — Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game ([source](https://tng.episodle.com/))
 - **2026-09-11** — iOS 27 launches next week: Here are three new features I’ve been loving ([source](https://9to5mac.com/2026/09/11/ios-27-adds-three-new-iphone-features-ive-been-really-loving/))

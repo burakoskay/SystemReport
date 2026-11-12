@@ -1,16 +1,17 @@
 ---
 title: "AI startups surge, but privacy battles loom"
 date: 2026-08-18T22:28:39.853Z
-modified_date: 2026-10-28T00:53:28.603Z
+modified_date: 2026-11-12T05:29:54.399Z
 tags: ["ai","startup","privacy","valuation","cloud"]
 hero_image: "/hero/2026-08-18-ai-startups-surge-but-privacy-battles-loom-bdfdb6.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "data center with AI servers and encrypted lock"
 description: "Etched hits a $21 B valuation, Perplexity adds millions of Indian users, and Proton warns AI must respect privacy. The stakes for the AI market sharpen."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -54,6 +55,7 @@ Investors will watch Etched’s next hardware iteration for signs of performance
 
 ## Updates
 
+- **2026-11-12** — The Best Early Black Friday MacBook Air Deal: $200 Off ([source](https://www.wired.com/story/early-black-friday-macbook-air-deal/))
 - **2026-10-28** — The data center boom has an upside: innovation for the US grid ([source](https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/))
 - **2026-09-14** — Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world ([source](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit))
 
