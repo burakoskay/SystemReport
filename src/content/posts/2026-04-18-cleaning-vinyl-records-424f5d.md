@@ -1,16 +1,17 @@
 ---
 title: "Cleaning Vinyl Records"
 date: 2026-04-18T11:07:14.621Z
-modified_date: 2026-10-21T19:54:50.617Z
+modified_date: 2026-11-12T14:30:07.545Z
 tags: ["Vinyl Records","Record Cleaning","Sound Quality"]
 hero_image: "/hero/2026-04-18-cleaning-vinyl-records-424f5d.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Record Needle"
 description: "Improve sound quality by removing dust and dirt"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -29,6 +30,7 @@ For clean records, a brush may be enough. For dirtier records, try a cleaning so
 
 ## Updates
 
+- **2026-11-12** — Google really needs you to know it cares about smart glasses privacy ([source](https://www.engadget.com/2314414/google-really-wants-you-to-know-it-cares-about-smart-glasses-privacy/))
 - **2026-10-21** — Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours ([source](https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing))
 - **2026-10-19** — MagSafe Monday: Upgrading to the iPhone Duo? This MagSafe battery was built specifically for it ([source](https://9to5mac.com/2026/10/19/solidsafe-duo/))
 - **2026-10-15** — Apple sets cutoff time for getting fastest iPhone Duo pre-order ([source](https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order/))

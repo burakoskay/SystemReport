@@ -1,15 +1,17 @@
 ---
 title: "Trump’s Triple Push Exposes Government Capture"
 date: 2026-08-12T15:04:03.852Z
+modified_date: 2026-11-12T14:29:36.276Z
 tags: ["regulation","fema","fcc"]
 hero_image: "/hero/2026-08-12-trump-s-triple-push-exposes-government-capture-62e5db.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "trump in office with overlapping icons of FEMA, vaccine vial, and FCC gavel"
 description: "A week of moves on FEMA, vaccine policy, and the FCC reveals how political pressure reshapes regulation amid security threats."
-sources_count: 8
+sources_count: 9
 author: "elena-marchetti"
 ---
+
 
 Trump’s push to reshape three regulatory fronts this week exposed a pattern of political interference. The moves involve a FEMA contractor payment, a demand to split a childhood vaccine, and a reshaped FCC board.
 
@@ -52,3 +54,7 @@ Congressional committees will likely subpoena FEMA officials about the DOGE paym
 The FCC’s next meeting will decide whether to formalize the 3‑1 split through rule changes on broadband pricing. Observers will track the Senate’s confirmation of a new Democratic commissioner, a move that could restore balance. Finally, European energy ministries are set to convene a summit on aerial threats, a forum where U.S. policy on drone countermeasures may be discussed.
 
 Stakeholders should monitor the upcoming FEMA audit report, the FDA’s response to the vaccine split request, the FCC’s rule‑making docket, and the NATO‑led security briefing on offshore drone activity. Each decision will reveal whether political pressure or strategic stability will dominate the next policy cycle.
+
+## Updates
+
+- **2026-11-12** — The Polar Vortex Is About to Make Weather Weird From the UK to the US ([source](https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's iPhone 17 Lineup Hits Record Popularity"
 date: 2026-04-30T21:06:44.235Z
-modified_date: 2026-11-03T01:58:34.468Z
+modified_date: 2026-11-12T14:31:10.394Z
 tags: ["Apple","iPhone 17","smartphones"]
 hero_image: "/hero/2026-04-30-apple-s-iphone-17-lineup-hits-record-popularity-32cd5c.jpg"
 hero_image_credit_name: "Brijesh H"
 hero_image_credit_url: "https://www.pexels.com/@brijeshritz"
 visual_keyword: "iPhone 17"
 description: "Apple's iPhone 17 lineup has become the company's most popular model family ever, with the tech giant reporting another record-breaking quarter of earnings."
-sources_count: 25
+sources_count: 26
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ As Apple continues to push the boundaries of innovation, it will be exciting to 
 
 ## Updates
 
+- **2026-11-12** — 30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry ([source](https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/))
 - **2026-11-03** — Apple set an iPhone sales record even without a new standard iPhone ([source](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings))
 - **2026-10-29** — Microsoft reveals strong cloud growth amid financial reporting overhaul ([source](https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027))
 - **2026-10-26** — Which Android phone is the closest equivalent to the iPhone Duo? ([source](https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/))

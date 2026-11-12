@@ -1,16 +1,17 @@
 ---
 title: "Chinese State-Backed Tech in Global Financial Networks"
 date: 2026-04-30T19:47:40.483Z
-modified_date: 2026-05-06T03:36:15.376Z
+modified_date: 2026-11-12T14:30:39.499Z
 tags: ["high-frequency trading","chinese tech","regulatory risk","financial infrastructure"]
 hero_image: "/hero/2026-04-30-chinese-state-backed-tech-in-global-financial-networks-c93c98.jpg"
 hero_image_credit_name: "Michal Marek"
 hero_image_credit_url: "https://www.pexels.com/@michalmarek"
 visual_keyword: "high-frequency trading network components in a financial center"
 description: "A state-owned Chinese firm’s laser amplifiers power high-speed trading in key financial hubs, raising regulatory concerns."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Accelink’s Hidden Reach in Global Finance
@@ -43,4 +44,5 @@ The CFTC and SEC could expand their scrutiny to financial infrastructure beyond 
 
 ## Updates
 
+- **2026-11-12** — Disney just launched 3D movies on the Meta Quest ahead of Meta VR Glasses’ release ([source](https://9to5google.com/2026/11/12/disney-just-launched-3d-movies-on-the-meta-quest-ahead-of-meta-vr-glasses-release/))
 - **2026-05-06** — Intel’s stock jumped 13% today over Apple chip manufacturing report ([source](https://9to5mac.com/2026/05/05/intels-stock-jumped-13-today-over-apple-chip-manufacturing-report/))

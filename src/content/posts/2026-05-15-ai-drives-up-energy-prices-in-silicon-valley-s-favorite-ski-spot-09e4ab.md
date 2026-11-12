@@ -1,16 +1,17 @@
 ---
 title: "AI Drives Up Energy Prices in Silicon Valley's Favorite Ski Spot"
 date: 2026-05-15T19:45:44.511Z
-modified_date: 2026-09-25T09:18:08.759Z
+modified_date: 2026-11-12T14:30:47.186Z
 tags: ["AI","Energy","Sustainability"]
 hero_image: "/hero/2026-05-15-ai-drives-up-energy-prices-in-silicon-valley-s-favorite-ski-spot-09e4ab.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Lake Tahoe faces higher energy prices due to AI demand. Meanwhile, tech companies are exploring new ways to reduce their environmental footprint."
-sources_count: 7
+sources_count: 8
 author: "maya-chen"
 ---
+
 
 
 
@@ -74,4 +75,5 @@ The future of sustainable energy solutions is critical in mitigating the environ
 
 ## Updates
 
+- **2026-11-12** — Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition ([source](https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/))
 - **2026-09-25** — Federal judge orders Texas to air condition all prisons by the end of 2029 ([source](https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/))

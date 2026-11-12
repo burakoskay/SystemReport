@@ -1,16 +1,18 @@
 ---
 title: "Apple rolls out TV series renewal, UI tweak, and AI music policy"
 date: 2026-05-20T22:16:47.575Z
-modified_date: 2026-11-08T21:34:50.971Z
+modified_date: 2026-11-12T14:31:33.755Z
 tags: ["apple","tvos","music","ai","streaming"]
 hero_image: "/hero/2026-05-20-apple-rolls-out-tv-series-renewal-ui-tweak-and-ai-music-policy-d713be.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Apple TV interface with larger text overlay on a living room screen"
 description: "Apple TV renews Knife Edge, tvOS 27 adds Larger Text, and Apple Music outlines AI fairness steps."
-sources_count: 26
+sources_count: 28
 author: "maya-chen"
 ---
+
+
 
 
 
@@ -73,6 +75,8 @@ Track the October rollout of tvOS 27 for user feedback on Larger Text. Watch for
 
 ## Updates
 
+- **2026-11-12** — A general purpose Apple Silicon layer for x86-64 PCs ([source](https://github.com/tylertms/Stela))
+- **2026-11-12** — Apple TV 4K (4th gen) review: Still great, but drastically more expensive ([source](https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/))
 - **2026-11-08** — Suno AI music generator sued again for copyright infringement ([source](https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/))
 - **2026-11-03** — watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch ([source](https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch/))
 - **2026-11-02** — Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights ([source](https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/))

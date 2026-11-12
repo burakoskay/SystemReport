@@ -1,16 +1,17 @@
 ---
 title: "Pixel 8 gets 7‑year support, Samsung extends Android updates"
 date: 2026-08-31T18:43:00.572Z
-modified_date: 2026-10-13T17:21:13.654Z
+modified_date: 2026-11-12T14:29:20.666Z
 tags: ["android","updates","pixel","samsung"]
 hero_image: "/hero/2026-08-31-pixel-8-gets-7-year-support-samsung-extends-android-updates-882f1a.jpg"
 hero_image_credit_name: "Zain Ali"
 hero_image_credit_url: "https://www.pexels.com/@zaktech90"
 visual_keyword: "smartphone with Android update icons and calendar overlay"
 description: "Google promises seven years of OS and security updates for Pixel 8, while Samsung now offers four years of security patches, reshaping the Android update race."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 Google announced seven years of OS and security updates for the Pixel 8 and Pixel 8 Pro. The pledge means the phones will receive the latest Android builds and monthly security patches through 2030.[^1][^2][^3][^4][^5][^6][^7][^8]
@@ -53,6 +54,7 @@ Google’s seven‑year pledge will be tested when the first major Android versi
 
 ## Updates
 
+- **2026-11-12** — Google and Samsung’s Android XR Smart Glasses Are Finally Here ([source](https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/))
 - **2026-10-13** — Deals: Nothing Phone (3) $280 off, Headphone (a) 40% off, Pixel 11 devices up to $365 off, Lenovo Idea Tab $142, more ([source](https://9to5google.com/2026/10/13/deals-nothing-phone-3-headphone-a-pixel-11-idea-tab/))
 
 [^1]: [blog.google](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHboiH9at5SbBoo4P8OggWx3uzD0t5zV6HVJMZhpaptHEoFbrPirOkKWY4W4KNh9FnIbtB0wQV0ni8rLDco1GFhPpDIS-Gl1HN0CvtsVlDm2YkujeA7ix1BRDvQKUWfiJdZG-sDuvV95kiiZknCp69WpjzjPklWpqjMno85K8h2Hip2wPzOpAJiGWhoNAVpwp4WyPxUN-ZgQpYGCX5Xg9fh-9uCnTnYZg==)

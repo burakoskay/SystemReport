@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
-modified_date: 2026-10-19T16:45:44.620Z
+modified_date: 2026-11-12T14:29:51.790Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 23
+sources_count: 24
 author: "maya-chen"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The development of AI-powered devices is also driving the need for more advanced
 
 ## Updates
 
+- **2026-11-12** — I reviewed the Apple HomeView, ask me anything ([source](https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything))
 - **2026-10-19** — Nvidia launches new open models to run agents in the enterprise and on PCs ([source](https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/))
 - **2026-10-07** — Prime Day Android app deals and freebies: Ash of Gods, Foretales, Dungreed, ScourgeBringer, more ([source](https://9to5toys.com/2026/10/07/todays-highlight-google-play-deals-23/))
 - **2026-09-25** — Party Invite Phishing Scams Are the New Missed Connections ([source](https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/))
