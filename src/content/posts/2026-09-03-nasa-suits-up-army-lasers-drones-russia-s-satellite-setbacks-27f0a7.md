@@ -1,15 +1,17 @@
 ---
 title: "NASA suits up, Army lasers drones, Russia’s satellite setbacks"
 date: 2026-09-03T08:41:05.433Z
+modified_date: 2026-11-13T11:48:41.842Z
 tags: ["space","military","satellites","technology"]
 hero_image: "/hero/2026-09-03-nasa-suits-up-army-lasers-drones-russia-s-satellite-setbacks-27f0a7.jpg"
 hero_image_credit_name: "princess"
 hero_image_credit_url: "https://www.pexels.com/@princess-2150885580"
 visual_keyword: "lunar spacesuit beside high‑power laser array with satellite constellation in background"
 description: "NASA trims Artemis IV schedule, forcing a new lunar suit; the Army proves a 20 kW laser can kill drones; Russia’s Rassvet constellation shows early failures."
-sources_count: 5
+sources_count: 6
 author: "elena-marchetti"
 ---
+
 
 NASA trimmed the Artemis IV launch window this week, prompting engineers to rewrite the lunar EVA suit spec for a mission that now leans on near‑term hardware. The shift arrives as the U.S. Army demonstrated a 20‑kilowatt laser that shredded three hostile drones, and Russia’s fledgling Rassvet broadband constellation revealed three outright failures among its first thirty‑two satellites.
 
@@ -42,3 +44,7 @@ Even cultural memory is being reshaped. This week, the death of Toyohiro Akiyama
 ## What to watch
 
 The next weeks will reveal whether NASA can lock down a final suit specification before Artemis IV’s revised launch window, a decision that will dictate the pace of subsequent lunar missions. The Army is expected to submit a formal test‑report to the Department of Defense, a document that could green‑light larger‑scale deployments of directed‑energy weapons. Meanwhile, Russian officials have hinted at a follow‑up launch to replace the failed Rassvet units; the timing and success of that launch will be a barometer for Russia’s ability to compete in the satellite‑internet arena. Tracking these three fronts will show which approach—incremental redesign, kinetic‑less defense, or aggressive satellite rollout—will shape the next decade of space and security.
+
+## Updates
+
+- **2026-11-13** — The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat ([source](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/))

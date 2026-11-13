@@ -1,16 +1,17 @@
 ---
 title: "Apple Glasses rumor fuels doubts as brand loyalty wanes"
 date: 2026-04-30T14:25:14.301Z
-modified_date: 2026-11-04T20:41:26.959Z
+modified_date: 2026-11-13T11:49:00.730Z
 tags: ["apple","tech","privacy"]
 hero_image: "/hero/2026-04-30-apple-glasses-rumor-fuels-doubts-as-brand-loyalty-wanes-f143bd.jpg"
 hero_image_credit_name: "Sony Dude"
 hero_image_credit_url: "https://www.pexels.com/@sony-dude-2930971"
 visual_keyword: "apple glasses on a hand with subtle gesture icons, muted background"
 description: "A tentative hand‑gesture claim for Apple Glasses arrives while surveys show Apple slipping in consumer passion and regulators eye its news‑feed bias."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ What to watch: The next Apple hardware event, slated for early next year, will r
 
 ## Updates
 
+- **2026-11-13** — The Netherlands Is Dismantling the International Criminal Court ([source](https://rightsforum.org/en/diplomatic-sources-the-netherlands-is-negotiating-the-dismantling-of-the-international-criminal-court/))
 - **2026-11-04** — Nintendo's main Switch cartridge supplier is leaving the ROM business ([source](https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/))
 - **2026-10-18** — Someone behind the software ([source](https://karrisaarinen.com/posts/someone-behind-the-software/))
 - **2026-08-01** — Is AI reasoning right for the wrong reasons? ([source](https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/))

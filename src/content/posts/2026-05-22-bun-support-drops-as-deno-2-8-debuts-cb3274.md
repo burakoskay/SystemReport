@@ -1,19 +1,20 @@
 ---
 title: "Bun support drops as Deno 2.8 debuts"
 date: 2026-05-22T20:09:15.603Z
-modified_date: 2026-10-29T14:54:56.200Z
+modified_date: 2026-11-13T11:48:32.352Z
 tags: ["bun","deno","javascript","runtime"]
 hero_image: "/hero/2026-05-22-bun-support-drops-as-deno-2-8-debuts-cb3274.jpg"
 hero_image_credit_name: "Nemuel Sereti"
 hero_image_credit_url: "https://www.pexels.com/@nemuel"
 visual_keyword: "developer terminal showing code with Bun and Deno logos"
 description: "Bun’s integration with yt‑dlp is deprecated while Deno rolls out version 2.8, shifting the balance for developers who rely on lightweight runtimes."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-22-bun-support-drops-as-deno-2-8-debuts-cb3274.mp3"
 audio_bytes: 585187
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Bun support is now limited and deprecated
@@ -52,4 +53,5 @@ Developers should monitor the next yt‑dlp release notes for any official migra
 
 ## Updates
 
+- **2026-11-13** — ‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk ([source](https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/))
 - **2026-10-29** — The education price of the MacBook Neo just jumped again ([source](https://9to5mac.com/2026/10/29/the-education-price-of-the-macbook-neo-just-jumped-again/))

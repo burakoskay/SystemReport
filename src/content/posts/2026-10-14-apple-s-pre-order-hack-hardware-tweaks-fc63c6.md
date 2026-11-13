@@ -1,19 +1,20 @@
 ---
 title: "Apple’s pre‑order hack, hardware tweaks"
 date: 2026-10-14T14:52:34.328Z
-modified_date: 2026-10-15T19:40:24.581Z
+modified_date: 2026-11-13T11:48:51.247Z
 tags: ["apple","hardware","legal","market","software"]
 hero_image: "/hero/2026-10-14-apple-s-pre-order-hack-hardware-tweaks-fc63c6.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Apple engineer working on a sleek smart speaker and earbuds in a modern office"
 description: "Apple rolls out a Get Ready tool, unveils HomePod mini 2, battles a $5.7 B verdict and sees China shipments shift – here’s what it means."
-sources_count: 14
+sources_count: 15
 audio_path: "/audio/2026-10-14-apple-s-pre-order-hack-hardware-tweaks-fc63c6.mp3"
 audio_bytes: 612355
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple's new Get Ready tool lets customers lock in iPhone Duo orders before the official rush on Oct 16. By letting shoppers pre‑order a day early, Apple hopes to smooth the inevitable queue that every flagship launch generates.
@@ -54,4 +55,5 @@ Meanwhile, the outcome of the Taction verdict appeal and the OpenAI discovery wi
 
 ## Updates
 
+- **2026-11-13** — BYD admits wheel assembly error on its flagship electric SUV ([source](https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv/))
 - **2026-10-15** — Neural networks are clean ([source](https://already-clean.goodfire.com/))
