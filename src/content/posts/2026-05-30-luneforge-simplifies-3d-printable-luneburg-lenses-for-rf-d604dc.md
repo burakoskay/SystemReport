@@ -1,16 +1,17 @@
 ---
 title: "LuneForge Simplifies 3D-Printable Luneburg Lenses for RF"
 date: 2026-05-30T10:08:25.023Z
-modified_date: 2026-10-29T14:54:24.063Z
+modified_date: 2026-11-13T19:04:37.983Z
 tags: ["RF technology","Luneburg lenses","open-source software"]
 hero_image: "/hero/2026-05-30-luneforge-simplifies-3d-printable-luneburg-lenses-for-rf-d604dc.jpg"
 hero_image_credit_name: "David Guerrero"
 hero_image_credit_url: "https://www.pexels.com/@davidguerrero"
 visual_keyword: "Luneburg lens"
 description: "LuneForge simplifies creation of precise Luneburg lenses for RF applications, making lens design more accessible."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Future developments of LuneForge may include the integration of machine learning
 
 ## Updates
 
+- **2026-11-13** — ElevenLabs’ new app combines meeting note-taking and dictation for teams ([source](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/))
 - **2026-10-29** — Apple finally combined a toaster and a refrigerator ([source](https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator))
 - **2026-10-06** — The Internet Runs on Cats and Porn. It’s About to Get Cattier and Pornier ([source](https://www.wired.com/story/icann-top-level-domains-meow/))
 - **2026-09-23** — YouTube is making comments more fun — and fandom more lucrative for creators ([source](https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/))

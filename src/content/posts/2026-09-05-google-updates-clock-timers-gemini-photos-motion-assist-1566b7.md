@@ -1,15 +1,17 @@
 ---
 title: "Google updates Clock timers, Gemini Photos, Motion Assist"
 date: 2026-09-05T14:33:46.812Z
+modified_date: 2026-11-13T19:05:50.471Z
 tags: ["google","android","ai","apps"]
 hero_image: "/hero/2026-09-05-google-updates-clock-timers-gemini-photos-motion-assist-1566b7.jpg"
 hero_image_credit_name: "Castorly Stock"
 hero_image_credit_url: "https://www.pexels.com/@castorlystock"
 visual_keyword: "Android phone displaying updated Clock timer UI with preset buttons"
 description: "Google refreshed the Clock app’s timer UI, let Gemini Spark automate Google Photos, and began rolling Motion Assist to Android 17 devices."
-sources_count: 5
+sources_count: 6
 author: "david-okafor"
 ---
+
 
 ## Timer redesign in Google Clock
 
@@ -48,3 +50,7 @@ Motion Assist reflects a broader industry trend toward sensor‑driven context a
 Watch for broader adoption metrics of Motion Assist as Google expands the rollout beyond the initial Android 17 cohort. The company is expected to publish device‑level uptake numbers in a quarterly developer report. A surge in usage could prompt additional sensor‑based shortcuts in future Android releases.
 
 Monitor Gemini Spark’s app support list. If Google opens the API to third‑party photo editors, the automation workflow could become a competitive differentiator for the Pixel ecosystem. Conversely, any limitation or rollback would signal a shift in Google’s AI‑first strategy. Tracking these signals will help gauge how quickly AI agents move from novelty to core productivity tools.
+
+## Updates
+
+- **2026-11-13** — A technical vision for the Haskell ecosystem ([source](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078))

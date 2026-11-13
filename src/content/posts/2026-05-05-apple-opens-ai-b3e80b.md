@@ -1,16 +1,17 @@
 ---
 title: "Apple Opens AI"
 date: 2026-05-05T21:09:11.584Z
-modified_date: 2026-11-12T14:30:31.756Z
+modified_date: 2026-11-13T19:05:34.207Z
 tags: ["Apple","AI","iOS 27"]
 hero_image: "/hero/2026-05-05-apple-opens-ai-b3e80b.jpg"
 hero_image_credit_name: "Yaroslav Shuraev"
 hero_image_credit_url: "https://www.pexels.com/@yaroslav-shuraev"
 visual_keyword: "Apple Intelligence"
 description: "Apple plans to let users choose their preferred AI model in iOS 27"
-sources_count: 19
+sources_count: 20
 author: "maya-chen"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ In conclusion, Apple's decision to open up its AI features to third-party models
 
 ## Updates
 
+- **2026-11-13** — Apple announces release dates for the first Apple Home Collection smart devices ([source](https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing))
 - **2026-11-12** — Hands-on: Google and Samsung’s vision for Android XR glasses is 20/20 ([source](https://9to5google.com/2026/11/12/google-glasses-hands-on/))
 - **2026-11-07** — GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off ([source](https://www.wired.com/story/goruck-black-friday-sale-2026/))
 - **2026-11-03** — Apple is all in on AI — its own and everyone else&#8217;s ([source](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai))

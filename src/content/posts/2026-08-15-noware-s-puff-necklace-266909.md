@@ -1,16 +1,17 @@
 ---
 title: "Noware's Puff Necklace"
 date: 2026-08-15T16:19:49.464Z
-modified_date: 2026-09-07T22:27:31.944Z
+modified_date: 2026-11-13T19:06:06.676Z
 tags: ["wearable technology","Noware","Puff necklace","USB drive"]
 hero_image: "/hero/2026-08-15-noware-s-puff-necklace-266909.jpg"
 hero_image_credit_name: "sarayu P"
 hero_image_credit_url: "https://www.pexels.com/@sarayu-p-371879973"
 visual_keyword: "jewelry"
 description: "USB drive as jewelry"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The technical specifics of the Puff necklace are not publicly available, but its
 
 ## Updates
 
+- **2026-11-13** — Microsoft services are returning after an outage took down Outlook, Teams and more ([source](https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/))
 - **2026-09-07** — Sony WH-1000XM4C launch for $299 alongside two more affordable headphones ([source](https://9to5google.com/2026/09/07/sony-wh-1000xm4c-launch-for-299-alongside-two-more-affordable-headphones/))
 - **2026-08-16** — Pixel 11 Pro’s ‘HiLight’ is another half-baked feature burdened by bad first impressions ([source](https://9to5google.com/2026/08/16/google-pixel-11-hilight/))
 

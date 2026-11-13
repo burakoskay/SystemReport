@@ -1,17 +1,18 @@
 ---
 title: "The Deep-Sea Guillotine"
 date: 2026-04-20T21:48:40.880Z
-modified_date: 2026-11-07T08:08:39.326Z
+modified_date: 2026-11-13T19:05:58.654Z
 tags: ["editorial","geopolitics","china","cybersecurity","energy"]
 hero_image: "/hero/2026-04-20-the-deep-sea-guillotine-39f3a0.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 description: "How a Chinese research vessel's successful 3,500-meter deep-sea test fundamentally alters the security calculus for trans-Pacific data infrastructure."
-sources_count: 45
+sources_count: 46
 dek: "China's cable-cutter and the vulnerability of the physical internet."
 author: "elena-marchetti"
 format: "editorial"
 ---
+
 
 
 
@@ -115,6 +116,7 @@ But private capital alone will not sustain the scale of redundancy required to o
 
 ## Updates
 
+- **2026-11-13** — The Dawn of the Data Intelligence Engineer ([source](https://motherduck.com/blog/the-data-intelligence-engineer/))
 - **2026-11-07** — I toured Unitree's factory. I'm more bullish on the West ([source](https://josef.cn/blog/unitree))
 - **2026-11-04** — Please stop asking me when the AI bubble will pop ([source](https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds))
 - **2026-10-07** — OpenAI drops another batch of mathematical breakthroughs ([source](https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github))

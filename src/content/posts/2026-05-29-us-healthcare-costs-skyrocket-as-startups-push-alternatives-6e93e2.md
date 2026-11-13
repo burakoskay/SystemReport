@@ -1,16 +1,17 @@
 ---
 title: "US Healthcare Costs Skyrocket as Startups Push Alternatives"
 date: 2026-05-29T04:21:13.534Z
-modified_date: 2026-10-09T00:07:02.093Z
+modified_date: 2026-11-13T19:04:46.001Z
 tags: ["healthcare","insurance startups","metabolic health","employers","costs"]
 hero_image: "/hero/2026-05-29-us-healthcare-costs-skyrocket-as-startups-push-alternatives-6e93e2.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "healthcare professionals working with tablets and medical devices in a modern clinic"
 description: "New health startups aim to simplify costs and care in a system marked by poor outcomes and high prices."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -47,6 +48,7 @@ The broader lesson is that neither cost nor quality can be solved in isolation. 
 
 ## Updates
 
+- **2026-11-13** — Israel’s VCs see opportunity for challengers in Nvidia’s turmoil ([source](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/))
 - **2026-10-09** — An experimental tour-de-force: Entanglement between glass bead and light ([source](https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/))
 - **2026-08-25** — Apple rescues Hide My Email feature from the privacy scrap heap ([source](https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/))
 - **2026-08-24** — Amazon hikes hardware prices by 60%, blaming memory shortage ([source](https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/))

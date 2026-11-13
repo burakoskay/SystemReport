@@ -1,19 +1,20 @@
 ---
 title: "Atlantic Current Risks Shut Down"
 date: 2026-05-10T17:03:35.667Z
-modified_date: 2026-09-09T14:06:35.919Z
+modified_date: 2026-11-13T19:04:54.060Z
 tags: ["climate change","ocean currents","environmental science"]
 hero_image: "/hero/2026-05-10-atlantic-current-risks-shut-down-aa7733.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "ocean"
 description: "Scientists warn Atlantic current at risk of shutting down due to climate change. This could have severe environmental and economic impacts."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-10-atlantic-current-risks-shut-down-aa7733.mp3"
 audio_bytes: 564080
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ In the face of this potential crisis, international cooperation and collective a
 
 ## Updates
 
+- **2026-11-13** — The Microsoft Outage Is a Warning for the World ([source](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/))
 - **2026-09-09** — Students who use AI generally score worse at school ([source](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa))
 - **2026-08-07** — Volkswagen plans to win America back with a pickup, report says ([source](https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/))
 - **2026-07-28** — Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy ([source](https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/))

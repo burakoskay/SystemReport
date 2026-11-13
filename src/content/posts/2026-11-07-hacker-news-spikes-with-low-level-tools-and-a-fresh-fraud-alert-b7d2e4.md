@@ -1,18 +1,20 @@
 ---
 title: "Hacker News spikes with low‑level tools and a fresh fraud alert"
 date: 2026-11-07T16:05:24.470Z
+modified_date: 2026-11-13T19:05:18.187Z
 tags: ["hackernews","security","software","devops"]
 hero_image: "/hero/2026-11-07-hacker-news-spikes-with-low-level-tools-and-a-fresh-fraud-alert-b7d2e4.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "developer workstation with multiple browser tabs showing code and news feeds"
 description: "A wave of obscure projects and a new payment‑skimming scam dominate Hacker News, highlighting developer curiosity and security risks."
-sources_count: 5
-author: "ryan-tanaka"
+sources_count: 6
 audio_path: "/audio/2026-11-07-hacker-news-spikes-with-low-level-tools-and-a-fresh-fraud-alert-b7d2e4.mp3"
 audio_bytes: 645164
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 A fresh batch of obscure projects and a new fraud alert dominated Hacker News, exposing both the community’s appetite for low‑level tinkering and the persistent threat of supply‑chain abuse.
 
@@ -66,6 +68,9 @@ The incident underscores how supply‑chain attacks can infiltrate everyday serv
 
 Developers should monitor the evolution of GitHub’s storage rollout for signs of stability or regression. Security teams need to audit third‑party scripts on checkout pages in light of the payment‑skimming findings. The "Upload Your RAM" concept may inspire new memory‑exfiltration tools, so watch for any open‑source releases that implement the idea. Finally, keep an eye on Apple‑related disclosures that could surface more undocumented device metadata.
 
+## Updates
+
+- **2026-11-13** — The smallest version of Camp Snap’s retro digital camcorder fits on your keychain ([source](https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain))
 
 [^1]: [algolia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElHSZyvu1OflqmXhaJDErjIF2SLgrVhD3K5eSgokaf7A7xXNhizYDkptqPcpcKm46tk8iYIJHISAPFI3iMA4xXK_WrnHWwNA5rDBOt96fyTCwbzBRe77yY3kxs-pgQZ4jSTNVi3HVME9cjKGbSHJs-M7RYExF0tCUVZRrc2x2L-_ty7C0gFS6GceWwxvIxCuz-PoYExYslSl9siF8=)
 [^2]: [ycombinator.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6rPfmcwiw7v3Vsmf2E172MHxCvlMA0j1Gtf59StR7C8yDPfI7lD0RwPGGg9IEVV33sC9H8TFmeRiBkzqjujJyC-z9oYuYBHFyPGxFHq7MZg-hj4higHXxAlbruddwdo2S1Ao8t785jQ==)

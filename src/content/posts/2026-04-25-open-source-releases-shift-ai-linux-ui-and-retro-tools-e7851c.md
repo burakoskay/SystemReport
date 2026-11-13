@@ -1,19 +1,20 @@
 ---
 title: "Open-source releases shift AI, Linux UI, and retro tools"
 date: 2026-04-25T20:48:46.338Z
-modified_date: 2026-09-20T20:08:58.345Z
+modified_date: 2026-11-13T19:05:10.115Z
 tags: ["open-source","ai","linux","developer-tools"]
 hero_image: "/hero/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "developer workstation with code editors and open-source project logos"
 description: "Five recent open-source projects—memory layer, Wayland compositor, AI benchmark, C64 music files, and Turbo Vision—hit Hacker News, drawing developer attention."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-04-25-open-source-releases-shift-ai-linux-ui-and-retro-tools-e7851c.mp3"
 audio_bytes: 618624
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Developers will monitor how the memory‑layer library integrates with emerging 
 
 ## Updates
 
+- **2026-11-13** — You can adjust the position of the trackball on Keychron’s new wireless mouse ([source](https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable))
 - **2026-09-20** — Kojima Productions disputes reports the studio is in trouble ([source](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation))
 - **2026-08-31** — ATM Flaws Reveal Key Weaknesses in the Software Supply Chain ([source](https://www.wired.com/story/atm-flaws-reveal-key-weaknesses-in-the-software-supply-chain/))
 - **2026-05-14** — The Esports World Cup will reportedly move to Paris from Riyadh ([source](https://www.engadget.com/2173107/the-esports-world-cup-will-reportedly-move-to-paris-from-riyadh/))

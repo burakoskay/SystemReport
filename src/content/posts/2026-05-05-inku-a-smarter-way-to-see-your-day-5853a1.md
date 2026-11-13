@@ -1,16 +1,17 @@
 ---
 title: "Inku: A Smarter Way to See Your Day"
 date: 2026-05-05T17:56:08.830Z
-modified_date: 2026-10-07T23:59:12.495Z
+modified_date: 2026-11-13T19:06:54.673Z
 tags: ["smart calendar","e-ink","ai companion","productivity","hardware"]
 hero_image: "/hero/2026-05-05-inku-a-smarter-way-to-see-your-day-5853a1.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "e-ink desk calendar with cat avatar"
 description: "E-ink desk calendar with AI insights and a customizable companion avatar hits $249, ships mid-2026"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ Inku's success will depend on three things: the quality of its AI companion, the
 
 ## Updates
 
+- **2026-11-13** — iOS 27.3 adds three new features I’ve used almost every day ([source](https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/))
 - **2026-10-07** — Shaq Got Hacked. Now He’s Pitching for a VPN ([source](https://www.wired.com/story/how-a-weirdly-chill-celebrity-thinks-about-personal-cybersecurity/))
 - **2026-10-05** — Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it ([source](https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff))
 - **2026-08-20** — ChatGPT can now send texts for you with new Apple Messages plugin ([source](https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/))

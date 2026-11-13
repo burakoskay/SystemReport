@@ -1,16 +1,17 @@
 ---
 title: "Tech Deals"
 date: 2026-05-05T06:21:59.042Z
-modified_date: 2026-11-06T13:38:28.533Z
+modified_date: 2026-11-13T19:07:10.488Z
 tags: ["Tech Deals","Loop Earplugs","B&H Photo"]
 hero_image: "/hero/2026-05-05-tech-deals-a84ab7.jpg"
 hero_image_credit_name: "Tamanna Rumee"
 hero_image_credit_url: "https://www.pexels.com/@tamanna-rumee-52377920"
 visual_keyword: "Discounts"
 description: "Exclusive discounts on Loop Earplugs, B&H Photo, and more"
-sources_count: 23
+sources_count: 24
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The discounts offered by these companies can have a significant impact on custom
 
 ## Updates
 
+- **2026-11-13** — Deals: Apple TV 4K release day discount, Apple Watch Ultra $250 off, AirPods Pro 3, AirTag 2 all-time low, more ([source](https://9to5mac.com/2026/11/13/deals-apple-tv-4k-discount-airpods-pro-3-airtag-2/))
 - **2026-11-06** — Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO ([source](https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/))
 - **2026-11-03** — Go foldable or go home: All the gadgets you can own that fold ([source](https://www.engadget.com/2300425/go-foldable-or-go-home-all-the-gadgets-you-can-own-that-fold/))
 - **2026-11-02** — The Apple Watch Ultra 4 is $100 off, matching its best price to date ([source](https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale))

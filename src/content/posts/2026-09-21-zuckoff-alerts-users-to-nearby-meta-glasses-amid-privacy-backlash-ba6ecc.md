@@ -1,16 +1,17 @@
 ---
 title: "ZuckOff alerts users to nearby Meta glasses amid privacy backlash"
 date: 2026-09-21T16:13:44.305Z
-modified_date: 2026-10-07T18:21:48.461Z
+modified_date: 2026-11-13T19:06:22.922Z
 tags: ["meta","privacy","wearables","apps"]
 hero_image: "/hero/2026-09-21-zuckoff-alerts-users-to-nearby-meta-glasses-amid-privacy-backlash-ba6ecc.jpg"
 hero_image_credit_name: "VAZHNIK"
 hero_image_credit_url: "https://www.pexels.com/@vazhnik"
 visual_keyword: "person checking phone while another person wears smart glasses in a cafe"
 description: "A Polish developer's free app warns iPhone and Android users when Meta's recording glasses are in the room, sparking debate over privacy and tech liability."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 Meta’s AI‑powered smart glasses have become a flashpoint for privacy advocates. A free app called ZuckOff now tells you when a pair of those glasses is within earshot.[^1][^2][^3][^4][^5] The app’s launch has turned a vague fear into a concrete alert, and it has already drawn interest from regulators.[^1][^5]
@@ -47,6 +48,7 @@ The next few months will reveal whether regulators treat ZuckOff as a privacy‑
 
 ## Updates
 
+- **2026-11-13** — The Xiaomi 18 Pro’s rear displays support Google apps, Spotify, and custom GenAI apps ([source](https://9to5google.com/2026/11/13/the-xiaomi-18-pros-rear-displays-support-google-apps-spotify-and-custom-genai-apps/))
 - **2026-10-07** — The Social Reckoning is a timely reminder that we shouldn't trust Meta ([source](https://www.engadget.com/2279767/the-social-reckoning-is-a-timely-reminder-that-we-shouldnt-trust-meta/))
 
 [^1]: [businessinsider.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNgTsPdGUTTmzvzkf_36Bb3QwLU5IDQp-umOFTTeWUb4TYE4U4jpWOyD0Lfk5OhTZZqpRhumHQVv4vhm3bZH0O4ElSSy75GT2zKbBAbBR-ErvF63UNgRlcUmvCQ7mnp1Wff6LrYSorscgHiI7SAk8fgM4KHtjmN1qP1ZCO1pZrWRFWaNQpvYaYpHDWdkI4C2h8smvTPqdZI_1QWDxG)
