@@ -1,19 +1,20 @@
 ---
 title: "AI Models Face Chess Conundrum"
 date: 2026-05-03T03:44:59.520Z
-modified_date: 2026-05-07T14:30:42.133Z
+modified_date: 2026-11-13T02:31:45.408Z
 tags: ["AI","artificial intelligence","chess","zugzwang"]
 hero_image: "/hero/2026-05-03-ai-models-face-chess-conundrum-afa060.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "zugzwang"
 description: "Chess AI models struggle with zugzwang, a situation where any move worsens the position."
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-05-03-ai-models-face-chess-conundrum-afa060.mp3"
 audio_bytes: 559901
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -73,4 +74,5 @@ In conclusion, the concept of zugzwang has significant implications for AI model
 
 ## Updates
 
+- **2026-11-13** — Donald Trump really wants Tim Cook to run Nvidia ([source](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang))
 - **2026-05-07** — Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit. ([source](https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/))

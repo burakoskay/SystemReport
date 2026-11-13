@@ -1,19 +1,20 @@
 ---
 title: "Katie Haun Raises $1B for Crypto Venture Funds"
 date: 2026-05-04T19:48:30.545Z
-modified_date: 2026-11-11T23:59:08.688Z
+modified_date: 2026-11-13T02:32:17.498Z
 tags: ["crypto","blockchain","venture funds"]
 hero_image: "/hero/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.jpg"
 hero_image_credit_name: "Alesia  Kozik"
 hero_image_credit_url: "https://www.pexels.com/@alesiakozik"
 visual_keyword: "crypto"
 description: "Katie Haun's new venture funds raise $1B to back crypto and blockchain startups."
-sources_count: 17
+sources_count: 18
 audio_path: "/audio/2026-05-04-katie-haun-raises-1b-for-crypto-venture-funds-d8367e.mp3"
 audio_bytes: 588531
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ As the ecosystem continues to evolve, it will be important for investors and ent
 
 ## Updates
 
+- **2026-11-13** — 9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown ([source](https://9to5mac.com/2026/11/12/daily-november-12-2026/))
 - **2026-11-11** — Loot boxes, influencers, and addictive features face an EU crackdown ([source](https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection))
 - **2026-11-10** — Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop ([source](https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/))
 - **2026-10-30** — Touchscreen MacBook Pro with OLED, new iPad mini, and more ([source](https://9to5mac.com/2026/10/29/happy-hour-614/))

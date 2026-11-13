@@ -1,19 +1,20 @@
 ---
 title: "Apple's App Store Hits $1.4 Trillion in 2025"
 date: 2026-06-04T15:26:45.848Z
-modified_date: 2026-09-25T19:46:54.378Z
+modified_date: 2026-11-13T02:31:20.836Z
 tags: ["App Store","Apple","Developers"]
 hero_image: "/hero/2026-06-04-apple-s-app-store-hits-1-4-trillion-in-2025-56ad5f.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "App Store"
 description: "Apple reports $1.4 trillion in App Store billings for 2025"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-06-04-apple-s-app-store-hits-1-4-trillion-in-2025-56ad5f.mp3"
 audio_bytes: 646836
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ The App Store's growth is significant, with the store generating $1.4 trillion i
 
 ## Updates
 
+- **2026-11-13** — ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return ([source](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/))
 - **2026-09-25** — Meta makes the Muse filesystem even more accessible ([source](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem))
 - **2026-09-25** — Meta is putting its muscle behind Muse as the AI app takes off ([source](https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/))

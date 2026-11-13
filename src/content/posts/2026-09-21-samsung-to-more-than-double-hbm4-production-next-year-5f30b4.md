@@ -1,15 +1,17 @@
 ---
 title: "Samsung to More Than Double HBM4 Production Next Year"
 date: 2026-09-21T00:12:23.667Z
+modified_date: 2026-11-13T02:31:53.430Z
 tags: ["memory","semiconductor","hbm","samsung"]
 hero_image: "/hero/2026-09-21-samsung-to-more-than-double-hbm4-production-next-year-5f30b4.jpg"
 hero_image_credit_name: "Marta Branco"
 hero_image_credit_url: "https://www.pexels.com/@martabranco"
 visual_keyword: "Samsung semiconductor fab with high-bandwidth memory wafers"
 description: "Samsung plans to more than double output of its HBM4 and HBM4E DRAM chips, a move that could reshape high‑bandwidth memory supply for AI workloads."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 ## Samsung ramps up HBM4 output
 
@@ -40,3 +42,7 @@ The next data point to track is Samsung's first full‑year shipment numbers for
 Equally important is the response from SK Hynix and Micron. If they announce comparable capacity expansions, the market may avoid a supply crunch. If not, Samsung could capture a dominant share of the high‑bandwidth memory market for the next three years, giving it leverage over pricing and design partnerships with the biggest AI cloud players.
 
 Finally, watch the regulatory filings for Samsung's Pyeongtaek expansion. Environmental impact assessments and local government approvals could delay the rollout, turning a strategic advantage into a logistical headache. The interplay between production capacity, yield improvements, and market demand will define the high‑bandwidth memory landscape well into the next decade.
+
+## Updates
+
+- **2026-11-13** — Xbox announces Wolfenstein 3 ([source](https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3))
