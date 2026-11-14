@@ -1,16 +1,17 @@
 ---
 title: "Ghostty Bids Adieu to GitHub"
 date: 2026-04-28T20:21:56.046Z
-modified_date: 2026-11-13T02:32:01.491Z
+modified_date: 2026-11-14T00:38:40.791Z
 tags: ["ghostty","github","terminal emulator","tech news"]
 hero_image: "/hero/2026-04-28-ghostty-bids-adieu-to-github-ddf349.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "terminal emulator screenshot"
 description: "Popular terminal emulator Ghostty is leaving GitHub, citing reasons yet to be disclosed. The move comes after a series of innovative features and integrations."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The terminal emulator landscape is poised for continued innovation and growth. A
 
 ## Updates
 
+- **2026-11-14** — Apple details HomeView facial recognition, repair options, and more in new support guides ([source](https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/))
 - **2026-11-13** — Whoop launched a social network where every user has a ‘verified heartbeat’ ([source](https://www.theverge.com/gadgets/1032630/whoop-humans-social-network))
 - **2026-11-11** — Duolingo, Strava, and Ticketmaster Are All Caught Up in EU’s New Digital Fairness Rules ([source](https://www.wired.com/story/duolingo-strava-and-ticketmaster-are-all-caught-up-in-eus-new-digital-fairness-rules/))
 - **2026-10-25** — What is the cheapest new gaming console you can buy in 2026? ([source](https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/))

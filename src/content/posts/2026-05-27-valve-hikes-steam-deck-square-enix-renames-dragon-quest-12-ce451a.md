@@ -1,19 +1,20 @@
 ---
 title: "Valve hikes Steam Deck, Square Enix renames Dragon Quest 12"
 date: 2026-05-27T18:38:10.839Z
-modified_date: 2026-11-02T19:56:54.508Z
+modified_date: 2026-11-14T00:38:16.789Z
 tags: ["steam deck","square enix","apple tv","gaming","tech news"]
 hero_image: "/hero/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.jpg"
 hero_image_credit_name: "Diana ✨"
 hero_image_credit_url: "https://www.pexels.com/@didsss"
 visual_keyword: "handheld gaming console with price tag rising"
 description: "Valve raises Steam Deck prices by up to $300, Square Enix restarts Dragon Quest XII, and Apple TV adds a new thriller."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-27-valve-hikes-steam-deck-square-enix-renames-dragon-quest-12-ce451a.mp3"
 audio_bytes: 637014
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ Track Valve’s quarterly earnings report for any indication of a price correcti
 
 ## Updates
 
+- **2026-11-14** — Disney's 3D movies shine on Meta's Quest 3, it's just a shame it took so long ([source](https://www.engadget.com/2316342/meta-quest-3-disney-plus-3d-movies-hands-on/))
 - **2026-11-02** — New York Times and other outlets sue web browser Brave over alleged content scraping ([source](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/))
 - **2026-10-16** — Even Benchmark thinks AI is eroding the venture pact against backing rivals ([source](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/))
 - **2026-10-10** — Anthropic is cutting off its internal evaluations from the internet ([source](https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet))

@@ -1,16 +1,17 @@
 ---
 title: "China's Tiangong Achieves Artificial Photosynthesis Breakthrough"
 date: 2026-05-23T13:47:42.262Z
-modified_date: 2026-10-29T14:55:18.548Z
+modified_date: 2026-11-14T00:38:32.854Z
 tags: ["artificial photosynthesis","space exploration","China's space program"]
 hero_image: "/hero/2026-05-23-china-s-tiangong-achieves-artificial-photosynthesis-breakthrough-a94511.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Tiangong space station"
 description: "Chinese astronauts on the Tiangong space station have successfully demonstrated a new artificial photosynthesis technology, converting carbon dioxide and water into oxygen and rocket fuel ingredients."
-sources_count: 10
+sources_count: 11
 author: "priya-raman"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ The successful demonstration of artificial photosynthesis on the Tiangong space 
 
 ## Updates
 
+- **2026-11-14** — The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter ([source](https://9to5google.com/2026/11/13/the-ugreen-homeagent-is-a-local-first-way-to-make-your-smart-home-even-smarter/))
 - **2026-10-29** — An Urgent Message on Artificial Intelligence from the Kogui People ([source](https://sonidoselva.com/perspectiva-kogui))
 - **2026-10-11** — 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next ([source](https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/))
 - **2026-10-02** — Keurig’s new machine uses plastic-free compressed coffee pucks ([source](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder))

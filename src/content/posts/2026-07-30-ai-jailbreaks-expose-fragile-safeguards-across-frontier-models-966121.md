@@ -1,16 +1,17 @@
 ---
 title: "AI jailbreaks expose fragile safeguards across frontier models"
 date: 2026-07-30T02:01:40.850Z
-modified_date: 2026-08-29T19:05:36.358Z
+modified_date: 2026-11-14T00:37:52.956Z
 tags: ["ai","security","jailbreak","cryptography","tech"]
 hero_image: "/hero/2026-07-30-ai-jailbreaks-expose-fragile-safeguards-across-frontier-models-966121.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of AI model code with lock being broken"
 description: "A new tool bypassed safety filters on four leading AI models, raising doubts about current defenses and prompting broader security concerns."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 ## AI safeguards cracked in minutes
@@ -53,4 +54,5 @@ Track the next security patch releases from the four AI providers mentioned by W
 
 ## Updates
 
+- **2026-11-14** — CMF’s milk carton-shaped Bluetooth speaker is down to a new low price ([source](https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale))
 - **2026-08-29** — Why would you pay $359 for the most expensive Whoop membership? ([source](https://www.engadget.com/2242774/most-expensive-whoop-membership-life-why-pay/))

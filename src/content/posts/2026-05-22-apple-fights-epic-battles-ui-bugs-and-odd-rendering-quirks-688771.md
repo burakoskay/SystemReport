@@ -1,19 +1,20 @@
 ---
 title: "Apple fights Epic, battles UI bugs, and odd rendering quirks"
 date: 2026-05-22T16:37:32.834Z
-modified_date: 2026-10-18T17:03:18.283Z
+modified_date: 2026-11-14T00:38:08.912Z
 tags: ["apple","app store","ui bugs","security"]
 hero_image: "/hero/2026-05-22-apple-fights-epic-battles-ui-bugs-and-odd-rendering-quirks-688771.jpg"
 hero_image_credit_name: "Кирилл Абрамов"
 hero_image_credit_url: "https://www.pexels.com/@feel-and-live"
 visual_keyword: "Apple laptop with notch and glitchy menu bar"
 description: "Apple asks the Supreme Court to narrow Epic’s App Store injunction while users wrestle with notch menu bar glitches, PNG rendering bugs, and a quirky iOS calculator."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-22-apple-fights-epic-battles-ui-bugs-and-odd-rendering-quirks-688771.mp3"
 audio_bytes: 612146
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ Finally, keep an eye on iOS releases that address the calculator animation laten
 
 ## Updates
 
+- **2026-11-14** — Some international physical copies of GTA VI can allegedly be redeemed without opening the box ([source](https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/))
 - **2026-10-18** — Disney agrees to hire the majority of Character.AI’s workforce ([source](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/))
 - **2026-09-22** — Apple retires the Apple Park Visitor Center’s unique AR experience ([source](https://9to5mac.com/2026/09/22/apple-retires-the-apple-park-visitor-centers-unique-ar-experience/))
 - **2026-09-18** — Disney’s first CTO is Character.AI’s former CEO ([source](https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai))

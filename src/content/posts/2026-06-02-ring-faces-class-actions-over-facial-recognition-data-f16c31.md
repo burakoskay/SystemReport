@@ -1,19 +1,20 @@
 ---
 title: "Ring Faces Class Actions Over Facial-Recognition Data"
 date: 2026-06-02T20:58:20.535Z
-modified_date: 2026-08-26T19:43:38.002Z
+modified_date: 2026-11-14T00:37:45.000Z
 tags: ["Ring","Amazon","facial recognition","smart home"]
 hero_image: "/hero/2026-06-02-ring-faces-class-actions-over-facial-recognition-data-f16c31.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "Ring doorbell camera"
 description: "Amazon’s Ring is sued in Seattle for storing pass‑by faces without consent and for weak security that let hackers harass users."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-02-ring-faces-class-actions-over-facial-recognition-data-f16c31.mp3"
 audio_bytes: 565961
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The outcome of these cases could have far-reaching implications for the smart ho
 
 ## Updates
 
+- **2026-11-14** — Amazon has a plan to index the world’s online shopping data ([source](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search))
 - **2026-08-26** — There Are No Trans Women in the WNBA, so Right-Wingers Are Making Some Up ([source](https://www.wired.com/story/there-are-no-trans-women-in-the-wnba-so-right-wingers-are-making-some-up/))

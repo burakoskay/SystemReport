@@ -1,19 +1,20 @@
 ---
 title: "Supreme Court Weighs $8B Rural Phone and Internet Subsidy"
 date: 2026-05-18T04:10:25.006Z
-modified_date: 2026-11-01T17:33:39.601Z
+modified_date: 2026-11-14T00:37:28.578Z
 tags: ["rural broadband","universal service fund","supreme court"]
 hero_image: "/hero/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.jpg"
 hero_image_credit_name: "Sascha Weber"
 hero_image_credit_url: "https://www.pexels.com/@buxteh"
 visual_keyword: "rural broadband"
 description: "The US Supreme Court considers the fate of an $8 billion program subsidizing phone and internet services in rural areas, challenged on constitutional grounds."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-18-supreme-court-weighs-8b-rural-phone-and-internet-subsidy-26ceb4.mp3"
 audio_bytes: 627610
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ The Supreme Court's decision will have far-reaching implications for the future 
 
 ## Updates
 
+- **2026-11-14** — US government grounds all flights across the United States ‘due to extraordinary circumstances’ ([source](https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/))
 - **2026-11-01** — The AI cost of JavaScript frameworks ([source](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/))
 - **2026-10-06** — The Future of Mathematics ([source](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/))
 - **2026-09-21** — Here’s the iFixit Repairability Rating for the iPhone 18 Pro ([source](https://www.wired.com/story/ifixit-rating-for-the-iphone-18-pro-repairability/))

@@ -1,19 +1,20 @@
 ---
 title: "Dyson Drops Its Motor"
 date: 2026-05-01T11:12:10.678Z
-modified_date: 2026-09-05T17:52:07.778Z
+modified_date: 2026-11-14T00:38:56.963Z
 tags: ["Dyson","Robot Vacuum","Third-Party Motor"]
 hero_image: "/hero/2026-05-01-dyson-drops-its-motor-d5745a.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "Dyson Robot Vacuum"
 description: "Dyson's new robot vacuum uses a third-party motor"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-01-dyson-drops-its-motor-d5745a.mp3"
 audio_bytes: 637432
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -40,5 +41,6 @@ The lidar-based navigation technology used in the Spot & Scrub Ai robot vacuum a
 
 ## Updates
 
+- **2026-11-14** — Perplexity brings AI agents feature called Teammates to the Mac ([source](https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/))
 - **2026-09-05** — Clucky’s new alarm app wakes you up with a crowing rooster ([source](https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/))
 - **2026-05-23** — Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale ([source](https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/))
