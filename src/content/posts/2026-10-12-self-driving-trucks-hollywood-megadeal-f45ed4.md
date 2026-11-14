@@ -1,18 +1,20 @@
 ---
 title: "Self‑Driving Trucks, Hollywood Megadeal"
 date: 2026-10-12T08:29:56.917Z
+modified_date: 2026-11-14T08:28:51.155Z
 tags: ["ai","autonomous-vehicles","media-mergers","cybersecurity","environment"]
 hero_image: "/hero/2026-10-12-self-driving-trucks-hollywood-megadeal-f45ed4.jpg"
 hero_image_credit_name: "Feli Art"
 hero_image_credit_url: "https://www.pexels.com/@feliart"
 visual_keyword: "autonomous freight truck on highway, film studio merger, data center under cyber attack, Finnish forest with construction site"
 description: "Regulatory clearance for autonomous trucks, a $111 billion media merger, Yandex bot collapse, and a Finnish datacenter halt signal shifting tech frontiers."
-sources_count: 5
-author: "sam-whitfield"
+sources_count: 6
 audio_path: "/audio/2026-10-12-self-driving-trucks-hollywood-megadeal-f45ed4.mp3"
 audio_bytes: 621968
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 Self‑driving trucks cleared a regulatory roadblock this week, reviving hopes for autonomous freight corridors.
 
@@ -57,3 +59,7 @@ Stakeholders anticipate that the assessment will set a precedent for future data
 What to watch next
 
 Regulators will soon decide whether the self‑driving truck clearance can be expanded beyond pilot corridors, a move that could unlock billions in logistics investment. The Paramount‑Warner merger faces a U.S. antitrust review slated for early 2027; any injunction would force a breakup or restructuring. Yandex’s traffic metrics will stabilize as the company rebuilds its bot infrastructure, offering a glimpse into post‑attack recovery strategies. Finally, Finland’s environmental report will be published within months, and its conclusions could dictate the pace of Google’s green datacenter rollout across Europe. Stay tuned for official filings and agency statements that will confirm whether these developments reshape their respective sectors.
+
+## Updates
+
+- **2026-11-14** — FAA allows flights to resume after hours-long ground stop across the US ([source](https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/))
