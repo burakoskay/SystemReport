@@ -1,16 +1,17 @@
 ---
 title: "California Court Rejects Tesla Bid to Dismiss Discrimination Suit"
 date: 2026-05-27T23:30:03.335Z
-modified_date: 2026-11-11T23:58:05.965Z
+modified_date: 2026-11-14T21:54:49.004Z
 tags: ["tesla","discrimination","california","lawsuit","labor"]
 hero_image: "/hero/2026-05-27-california-court-rejects-tesla-bid-to-dismiss-discrimination-suit-74dc0e.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "Tesla factory interior with protest signs against discrimination"
 description: "A California civil rights agency won its fight to keep a racial discrimination lawsuit against Tesla alive, setting a July trial date."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The July trial date marks the first major courtroom test of the California agenc
 
 ## Updates
 
+- **2026-11-14** — Work to replace old copper wire led to the FAA’s ground stop ([source](https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire))
 - **2026-11-11** — NASA's secret weapon in the lunar space race may be ... procurement reform? ([source](https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/))
 - **2026-08-25** — Trump is upping the price of Big Tech’s favorite visa ([source](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration))
 - **2026-08-25** — The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms ([source](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/))

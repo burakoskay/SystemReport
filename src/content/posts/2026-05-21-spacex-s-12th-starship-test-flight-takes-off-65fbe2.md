@@ -1,19 +1,20 @@
 ---
 title: "SpaceX's 12th Starship Test Flight Takes Off"
 date: 2026-05-21T04:14:02.221Z
-modified_date: 2026-11-08T01:01:28.082Z
+modified_date: 2026-11-14T21:55:20.269Z
 tags: ["space","regulation","environment","open-source","software"]
 hero_image: "/hero/2026-05-21-spacex-s-12th-starship-test-flight-takes-off-65fbe2.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "rocket launch pad with legal documents and coffee cup recycling symbol"
 description: "A look at SpaceX's twelfth Starship flight, Colorado's open‑source age‑verification bill, Starbucks cup recycling data, and a stalled developer tool."
-sources_count: 20
+sources_count: 21
 audio_path: "/audio/2026-05-21-spacex-s-12th-starship-test-flight-takes-off-65fbe2.mp3"
 audio_bytes: 623222
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Track SpaceX’s next flight window on the launch page for any changes to the ve
 
 ## Updates
 
+- **2026-11-14** — SpaceX Catches the Starship to end Flight 15 ([source](https://x.com/i/broadcasts/2brajgZlOKRMka))
 - **2026-11-08** — The end of Microsoft Research's AI Frontiers group ([source](https://hunch.net/?p=13764006))
 - **2026-10-31** — The FDA wants to pull its approval of a drug. It’s not so easy. ([source](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/))
 - **2026-09-22** — Suspension of the de minimis administrative exemption for imports $800 or less ([source](https://www.personalimportation.org/advocacy))

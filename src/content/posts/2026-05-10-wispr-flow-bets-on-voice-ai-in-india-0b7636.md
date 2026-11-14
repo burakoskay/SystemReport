@@ -1,16 +1,17 @@
 ---
 title: "Wispr Flow Bets on Voice AI in India"
 date: 2026-05-10T03:43:56.792Z
-modified_date: 2026-11-02T19:59:41.234Z
+modified_date: 2026-11-14T21:55:43.675Z
 tags: ["Voice AI","India","Hinglish","Natural Language Processing"]
 hero_image: "/hero/2026-05-10-wispr-flow-bets-on-voice-ai-in-india-0b7636.jpg"
 hero_image_credit_name: "Anton"
 hero_image_credit_url: "https://www.pexels.com/@anton-8100"
 visual_keyword: "Voice AI"
 description: "Wispr Flow sees growth after Hinglish rollout"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ The competitive landscape for voice AI products in India is becoming increasingl
 
 ## Updates
 
+- **2026-11-14** — The Claude Delusion ([source](https://www.netmeister.org/blog/claude-delusion.html))
 - **2026-11-02** — Show HN: Warsaw in voxels – an interactive 3D map of the city centre ([source](https://p.migdal.pl/warsaw-vibe-voxel/))
 - **2026-10-28** — The Alexa Home Map is a visual way to see and control your smart home ([source](https://www.engadget.com/2299183/alexa-home-map-visual-way-see-control-smart-home/))
 - **2026-09-20** — The Millennium Problems for Biology ([source](https://millenniumproblems.bio/))

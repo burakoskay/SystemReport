@@ -1,16 +1,17 @@
 ---
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
-modified_date: 2026-11-08T16:29:38.396Z
+modified_date: 2026-11-14T21:55:28.120Z
 tags: ["Google","Travel","Shopping"]
 hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -32,6 +33,7 @@ The hotel price-tracking tool is designed to help users save money on summer vac
 
 ## Updates
 
+- **2026-11-14** — PyPI's redesigned project pages with clearer security signals are now live ([source](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/))
 - **2026-11-08** — Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory ([source](https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/))
 - **2026-11-07** — We know 15k websites are infected. how do we tell them? ([source](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/))
 - **2026-10-28** — What are wrong number text scams, and how can you avoid them? ([source](https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid/))

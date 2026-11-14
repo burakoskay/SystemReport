@@ -1,16 +1,17 @@
 ---
 title: "GuliKit launches $49.99 ES Max with anti‑drift thumbsticks"
 date: 2026-08-11T15:00:58.734Z
-modified_date: 2026-08-12T10:57:41.329Z
+modified_date: 2026-11-14T21:55:04.682Z
 tags: ["gaming","hardware","switch","controllers"]
 hero_image: "/hero/2026-08-11-gulikit-launches-49-99-es-max-with-anti-drift-thumbsticks-b70b01.jpg"
 hero_image_credit_name: "Kevin  Malik"
 hero_image_credit_url: "https://www.pexels.com/@kevin-malik"
 visual_keyword: "close-up of a gaming controller thumbstick with magnetic sensor"
 description: "GuliKit's new ES Max controller uses tweaked TMR thumbsticks to curb Switch stick drift, priced at $49.99, undercutting Nintendo's Pro model."
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 ## GuliKit ES Max hits the market
@@ -38,4 +39,5 @@ The next few months will reveal whether the ES Max gains traction among the Swit
 
 ## Updates
 
+- **2026-11-14** — How to clear the cache on your Xbox Series X ([source](https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/))
 - **2026-08-12** — ‘The Worst I’ve Ever Seen’: Cargo Thefts Have Turned Violent in Pursuit of AI Hardware ([source](https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/))

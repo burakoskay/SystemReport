@@ -1,16 +1,17 @@
 ---
 title: "Musk’s xAI Faces Triple Legal onslaught Over Air, Apps"
 date: 2026-07-29T21:04:46.163Z
-modified_date: 2026-09-18T14:03:42.210Z
+modified_date: 2026-11-14T21:54:33.280Z
 tags: ["ai","lawsuit","elon-musk"]
 hero_image: "/hero/2026-07-29-musk-s-xai-faces-triple-legal-onslaught-over-air-apps-a83723.jpg"
 hero_image_credit_name: "Marcus Wöckel"
 hero_image_credit_url: "https://www.pexels.com/@thanks"
 visual_keyword: "smoggy data center with turbine stacks beside a highway at dusk"
 description: "Environmental groups, Apple, OpenAI, and Tesla investors are suing Elon Musk’s xAI, exposing a pattern of aggressive expansion and legal risk."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,5 +59,6 @@ The next week will set the tone for xAI’s legal trajectory. A Mississippi publ
 
 ## Updates
 
+- **2026-11-14** — Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship ([source](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch))
 - **2026-09-18** — NASA's moon orbiter has spotted an impact crater that only happens once a century ([source](https://www.engadget.com/2262061/nasa-moon-orbiter-finds-largest-impact-crater-in-the-solar-system/))
 - **2026-08-09** — New leak may reveal the iPhone Ultra’s two launch colors ([source](https://9to5mac.com/2026/08/08/iphone-ultra-colors-leak-rumor/))
