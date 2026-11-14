@@ -1,16 +1,17 @@
 ---
 title: "Samsung workers plan massive May 21 strike"
 date: 2026-05-20T11:05:54.108Z
-modified_date: 2026-11-02T19:58:11.635Z
+modified_date: 2026-11-14T16:19:45.013Z
 tags: ["labor","samsung","tech industry","unions"]
 hero_image: "/hero/2026-05-20-samsung-workers-plan-massive-may-21-strike-04bb2d.jpg"
 hero_image_credit_name: "EqualStock IN"
 hero_image_credit_url: "https://www.pexels.com/@equalstock"
 visual_keyword: "crowd of factory workers holding signs outside a Samsung plant"
 description: "Nearly 48,000 Samsung union members in Korea will walk out on May 21 after talks stalled, raising fresh concerns for the tech supply chain."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -39,6 +40,7 @@ Beyond the strike, the industry should watch how other tech‑related labor batt
 
 ## Updates
 
+- **2026-11-14** — Beware the New AI-Fueled Ransomware Boom ([source](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/))
 - **2026-11-02** — Claude’s new rules against game cloning won’t stop the AI copying boom ([source](https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/))
 - **2026-09-02** — Dell’s newest laptop sounds a lot like a MacBook Neo ([source](https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs))
 - **2026-05-28** — Rockstar developers go public with first union ([source](https://www.engadget.com/2183358/rockstar-developers-go-public-with-first-union/))

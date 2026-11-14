@@ -1,19 +1,20 @@
 ---
 title: "Google’s Android 17 QPR2 Beta 4 Arrives as Pixel Support"
 date: 2026-08-29T14:56:22.453Z
-modified_date: 2026-10-27T20:26:24.463Z
+modified_date: 2026-11-14T16:20:09.622Z
 tags: ["android","pixel","updates","android11"]
 hero_image: "/hero/2026-08-29-google-s-android-17-qpr2-beta-4-arrives-as-pixel-support-d97b7e.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "pixel phone displaying Android update notification on screen"
 description: "Google rolls out Android 17 QPR2 Beta 4, clarifies Pixel update deadlines, and pushes Android 11 to a broader set of devices."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-08-29-google-s-android-17-qpr2-beta-4-arrives-as-pixel-support-d97b7e.mp3"
 audio_bytes: 602742
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Android 17 QPR2 Beta 4 lands on Pixel devices
@@ -46,6 +47,7 @@ What to watch: Google’s next beta, Android 17 QPR2 Beta 5, will reveal wheth
 
 ## Updates
 
+- **2026-11-14** — Should you make the switch to Samsung Galaxy from Google Pixel? ([source](https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/))
 - **2026-10-27** — Deals: Galaxy Z Fold 8/Ultra up to $570+ off, CMF Watch 3 Pro for $59, buds from $20, more ([source](https://9to5google.com/2026/10/27/deals-galaxy-z-fold-8-buds-4-pro-cmf-watch-3-pro/))
 
 [^1]: [droid-life.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqUGdLa9DNJz4tFYziz_58hAeZ5iNcO2mLEWuBzyFDs6GBlEbAaIjA3vp9idwai9CODc4riqrtnPK98pe-yRhzMRdx_1nKkIJRMhiCQKDPuX_s4vkN75VKuMW46Nt1sSzHhSZsiioHQcvVzWDWMfshvQHiDpPomluPhpuXzhXh8ruthDIRAYIMDg8q3jxaqgUi)

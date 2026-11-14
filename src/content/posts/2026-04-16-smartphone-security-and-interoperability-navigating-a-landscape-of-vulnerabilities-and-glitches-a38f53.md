@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-11-10T12:03:31.160Z
+modified_date: 2026-11-14T16:20:01.356Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 21
+sources_count: 22
 author: "david-okafor"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-11-14** — The 21 Best REI Holiday Sale Outdoor Deals (2026) ([source](https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/))
 - **2026-11-10** — Best Gifts for Hikers, Backpackers, Outdoorsy People (2026) ([source](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/))
 - **2026-10-05** — New Apple TV 4K launches next week with two major upgrades ([source](https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/))
 - **2026-10-04** — The Best Gifts Under $25 for Everyone on Your List (2026) ([source](https://www.wired.com/story/best-gifts-under-25-2026/))

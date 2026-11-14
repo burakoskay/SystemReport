@@ -1,16 +1,17 @@
 ---
 title: "PC Shipments Crash 20% as Niche Hardware Finds New Life"
 date: 2026-10-11T08:14:38.248Z
-modified_date: 2026-11-12T22:04:07.064Z
+modified_date: 2026-11-14T16:20:26.324Z
 tags: ["pc","hardware","mechanical-keyboard","retro-computing","notebooks"]
 hero_image: "/hero/2026-10-11-pc-shipments-crash-20-as-niche-hardware-finds-new-life-0566ad.jpg"
 hero_image_credit_name: "Avinash Kumar"
 hero_image_credit_url: "https://www.pexels.com/@avinash-kumar-299518778"
 visual_keyword: "a sleek mechanical keyboard beside a vintage Cray-1 replica built from Mac Minis in a museum setting"
 description: "A 20.1% drop in global PC shipments fuels price hikes and drives hobbyists toward mechanical keyboards and retro builds."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## The PC market’s sharpest tumble in years
@@ -51,4 +52,5 @@ The next quarter’s shipment figures will reveal whether the 20.1 percent dro
 
 ## Updates
 
+- **2026-11-14** — The weird reasons why your ethernet cable might be slower than your Wi-Fi ([source](https://www.engadget.com/2311140/reason-why-ethernet-cable-slower-than-wifi/))
 - **2026-11-12** — The Oura Ring 4 is almost as good as the newer model, but $150 cheaper ([source](https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale))
