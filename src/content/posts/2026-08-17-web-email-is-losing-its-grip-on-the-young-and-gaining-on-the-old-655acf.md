@@ -1,15 +1,17 @@
 ---
 title: "Web Email Is Losing Its Grip on the Young and Gaining on the Old"
 date: 2026-08-17T18:39:42.848Z
+modified_date: 2026-11-15T22:24:27.346Z
 tags: ["email","webmail","comscore","mobile"]
 hero_image: "/hero/2026-08-17-web-email-is-losing-its-grip-on-the-young-and-gaining-on-the-old-655acf.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "teenager scrolling past email inbox on laptop while smartphone shows chat notifications"
 description: "Comscore data shows a steep drop in web email use among teens while older users climb, reshaping the email ecosystem."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Web email traffic fell 6 percent year‑over‑year in November 2010, and usage among 12‑17‑year‑olds plunged 59 percent in the last twelve months. The shift is real, not a statistical quirk, and it forces providers to rethink a service that once underpinned the internet.
 
@@ -46,3 +48,7 @@ A parallel concern surfaced in 2016 when Reuters revealed Yahoo’s covert email
 The next quarter will reveal whether mobile email growth can offset web‑mail erosion. Comscore’s upcoming Q1 2024 data should show if the 30 percent mobile share climbs further or plateaus. Simultaneously, watch how major providers respond: will Yahoo, Outlook.com, and Gmail double down on mobile‑first features, or will they attempt a web‑mail renaissance with privacy‑by‑design upgrades? Finally, keep an eye on any regulatory shifts around email surveillance—new disclosures could tip the remaining skeptics back toward encrypted alternatives.
 
 The email inbox is not dead, but it is no longer the universal hub it once was. Its future will be defined by how well the remaining user base—largely older and mobile‑centric—can be served in a world that increasingly prefers instant, app‑driven conversation.
+
+## Updates
+
+- **2026-11-15** — SNL gathers all the tech tycoons for a lesson in dating and spycraft ([source](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/))

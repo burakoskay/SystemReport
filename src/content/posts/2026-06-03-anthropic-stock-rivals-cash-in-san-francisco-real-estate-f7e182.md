@@ -1,19 +1,20 @@
 ---
 title: "Anthropic Stock Rivals Cash in San Francisco Real Estate"
 date: 2026-06-03T17:02:45.812Z
-modified_date: 2026-10-12T00:55:09.499Z
+modified_date: 2026-11-15T22:25:29.124Z
 tags: ["Anthropic","San Francisco Real Estate","AI Startups"]
 hero_image: "/hero/2026-06-03-anthropic-stock-rivals-cash-in-san-francisco-real-estate-f7e182.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "Anthropic"
 description: "San Francisco real estate listings offer Anthropic stock as a bargaining chip. The AI startup's valuation has skyrocketed."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-06-03-anthropic-stock-rivals-cash-in-san-francisco-real-estate-f7e182.mp3"
 audio_bytes: 558438
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -63,4 +64,5 @@ In conclusion, the use of Anthropic stock in San Francisco real estate deals is 
 
 ## Updates
 
+- **2026-11-15** — Apple’s first smart glasses are coming together ([source](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together))
 - **2026-10-12** — So, You’d Like To Sell Your Print Issues Of The Onion? ([source](https://theonion.com/archivehunt/))

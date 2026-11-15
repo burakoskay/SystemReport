@@ -1,19 +1,20 @@
 ---
 title: "Chrome Zero-Day, Rogue App, AI Flaws Expose Gaps"
 date: 2026-06-06T03:58:41.610Z
-modified_date: 2026-10-03T17:43:45.281Z
+modified_date: 2026-11-15T22:25:36.905Z
 tags: ["security","vulnerabilities","ai"]
 hero_image: "/hero/2026-06-06-chrome-zero-day-rogue-app-ai-flaws-expose-gaps-b5dd4b.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "concerned engineer examining code on multiple screens"
 description: "From a Chrome use‑after‑free bug to a Russian app topping US charts, new attacks expose thin spots in software, hardware, and AI toolchains."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-06-chrome-zero-day-rogue-app-ai-flaws-expose-gaps-b5dd4b.mp3"
 audio_bytes: 644120
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ Track the rollout of Chrome’s twenty‑patch update across enterprise fleets; 
 
 ## Updates
 
+- **2026-11-15** — How to get the most protection from your Ring camera security system ([source](https://www.engadget.com/2313904/how-to-maximize-ring-camera-security-protection/))
 - **2026-10-03** — All the AI agents that can live in your text messages ([source](https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/))
 - **2026-09-06** — Farmed salmon may not be as nutritious as it once was, new research suggests ([source](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/))

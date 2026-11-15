@@ -1,16 +1,17 @@
 ---
 title: "Sri Lanka Loses $3M in Cybersecurity Incidents"
 date: 2026-04-29T14:16:33.875Z
-modified_date: 2026-11-11T17:39:19.333Z
+modified_date: 2026-11-15T22:25:05.926Z
 tags: ["Cybersecurity","Data Protection","Privacy","Geofence Warrants"]
 hero_image: "/hero/2026-04-29-sri-lanka-loses-3m-in-cybersecurity-incidents-1735b3.jpg"
 hero_image_credit_name: "Efrem  Efre"
 hero_image_credit_url: "https://www.pexels.com/@efrem-efre-2786187"
 visual_keyword: "lock"
 description: "Recent cybersecurity incidents cost Sri Lanka $3 million, while the US Supreme Court considers the legality of geofence warrants, highlighting growing concerns over data protection and privacy."
-sources_count: 20
+sources_count: 21
 author: "david-okafor"
 ---
+
 
 
 
@@ -86,6 +87,7 @@ The growth of cybersecurity awareness training has led to an increase in the dem
 
 ## Updates
 
+- **2026-11-15** — Jensen Huang might be plotting a return and more of the latest Nvidia drama ([source](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed))
 - **2026-11-11** — China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway ([source](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/))
 - **2026-11-02** — China publicly discloses plan for a lunar landing within three years ([source](https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/))
 - **2026-10-19** — Plex vulnerabilities being exploited in the wild to drop a cryptominer ([source](http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html))

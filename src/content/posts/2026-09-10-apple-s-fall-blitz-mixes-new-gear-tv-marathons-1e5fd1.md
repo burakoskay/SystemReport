@@ -1,19 +1,20 @@
 ---
 title: "Apple’s Fall Blitz Mixes New Gear, TV Marathons"
 date: 2026-09-10T17:40:16.687Z
-modified_date: 2026-11-10T20:41:55.635Z
+modified_date: 2026-11-15T22:26:15.619Z
 tags: ["apple","hardware","streaming","privacy","software"]
 hero_image: "/hero/2026-09-10-apple-s-fall-blitz-mixes-new-gear-tv-marathons-1e5fd1.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "modern smartwatch on wrist against abstract tech backdrop"
 description: "Apple drops a four‑week TV premiere marathon, launches Watch Ultra 4, Series 12 and AirPods 5, and faces app and listening concerns with the upcoming iPhone Duo."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-09-10-apple-s-fall-blitz-mixes-new-gear-tv-marathons-1e5fd1.mp3"
 audio_bytes: 603787
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ The next two weeks will reveal whether Apple’s hardware push translates into s
 
 ## Updates
 
+- **2026-11-15** — Here’s one small change that could improve iPhone Duo’s unoptimized apps ([source](https://9to5mac.com/2026/11/15/iphone-duo-default-split-view-option-suggestion/))
 - **2026-11-10** — Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline ([source](https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/))
 - **2026-10-21** — Review: Carrie is a triumphant remix with one major flaw ([source](https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/))
 - **2026-10-15** — Withings now charges $100 per year to sync your data to other apps ([source](https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026))

@@ -1,16 +1,17 @@
 ---
 title: "Apple's iOS Update Cycle: Balancing Security and Compatibility"
 date: 2026-05-26T18:38:40.765Z
-modified_date: 2026-11-09T20:23:44.882Z
+modified_date: 2026-11-15T22:24:35.123Z
 tags: ["Apple","iOS","security","privacy"]
 hero_image: "/hero/2026-05-26-apple-s-ios-update-cycle-balancing-security-and-compatibility-867a69.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple releases iOS updates to address security vulnerabilities and improve compatibility, but sometimes these updates cause issues for users."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ In conclusion, Apple's iOS update cycle is a complex and delicate process. The c
 
 ## Updates
 
+- **2026-11-15** — Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending ([source](https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/))
 - **2026-11-09** — Samsung bets that you’ll either buy a Galaxy S27 Pro or Ultra next year ([source](https://9to5google.com/2026/11/09/samsung-bets-that-youll-either-buy-a-galaxy-s27-pro-or-ultra-next-year/))
 - **2026-10-20** — OpenBSD 8.0 arrives with security record still intact ([source](https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/))
 - **2026-09-30** — Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues ([source](https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/))

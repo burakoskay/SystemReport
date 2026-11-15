@@ -1,16 +1,17 @@
 ---
 title: "Cloudflare Cuts 20% Workforce"
 date: 2026-05-08T06:10:30.929Z
-modified_date: 2026-08-08T18:28:19.391Z
+modified_date: 2026-11-15T22:24:58.204Z
 tags: ["Cloudflare","Layoffs","Tech Industry"]
 hero_image: "/hero/2026-05-08-cloudflare-cuts-20-workforce-0dc29e.jpg"
 hero_image_credit_name: "zhiyue Huang"
 hero_image_credit_url: "https://www.pexels.com/@zyuee"
 visual_keyword: "Cloudflare"
 description: "Cloudflare lays off 20% of workforce, details unclear."
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ In conclusion, Cloudflare's decision to cut 20% of its workforce reflects a broa
 
 ## Updates
 
+- **2026-11-15** — Vulcan rocket fails, destroying 40 Amazon Leo satellites ([source](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites))
 - **2026-08-08** — An Amazon data center could have the worst polluting power plant in the country ([source](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant))

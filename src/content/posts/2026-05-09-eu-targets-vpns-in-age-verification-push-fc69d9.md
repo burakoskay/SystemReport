@@ -1,18 +1,20 @@
 ---
 title: "EU Targets VPNs in Age Verification Push"
 date: 2026-05-09T09:24:58.882Z
+modified_date: 2026-11-15T22:25:21.408Z
 tags: ["EU","VPN","age verification","piracy"]
 hero_image: "/hero/2026-05-09-eu-targets-vpns-in-age-verification-push-fc69d9.jpg"
 hero_image_credit_name: "Stefan Coders"
 hero_image_credit_url: "https://www.pexels.com/@stefan-coders-1019774"
 visual_keyword: "VPN"
 description: "EU regulators focus on VPNs and browsers"
-sources_count: 3
-author: "lena-volkov"
+sources_count: 4
 audio_path: "/audio/2026-05-09-eu-targets-vpns-in-age-verification-push-fc69d9.mp3"
 audio_bytes: 612355
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## EU Focus on VPNs in Age Verification
 The European Commission views virtual private networks as a key area for improvement in enforcing online age checks. This perspective emerges from complaints by rights holders that minors use VPN services to bypass age restrictions on streaming platforms.
@@ -55,3 +57,7 @@ The EU's approach to VPNs and the AAPA's proposals will have downstream implicat
 For example, the introduction of DNS4EU could lead to increased adoption of European DNS services, potentially reducing reliance on US-based services. However, this could also raise concerns about the potential for EU DNS services to be used for censorship or surveillance.
 
 The EU will need to consider these downstream implications as it moves forward with its regulatory efforts, balancing competing interests and priorities to ensure that its approach to regulating online content is effective and fair.
+
+## Updates
+
+- **2026-11-15** — Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday ([source](https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale))
