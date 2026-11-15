@@ -1,19 +1,20 @@
 ---
 title: "Recent Breaches Highlight New Threats"
 date: 2026-06-02T04:24:05.140Z
-modified_date: 2026-09-24T19:44:10.747Z
+modified_date: 2026-11-15T16:45:51.938Z
 tags: ["Cybersecurity","AI","Software Supply Chain"]
 hero_image: "/hero/2026-06-02-recent-breaches-highlight-new-threats-67fcf9.jpg"
 hero_image_credit_name: "RDNE Stock project"
 hero_image_credit_url: "https://www.pexels.com/@rdne"
 visual_keyword: "Data Breach"
 description: "Exploits of AI support tools, supply-chain channels, and OT systems"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-02-recent-breaches-highlight-new-threats-67fcf9.mp3"
 audio_bytes: 562827
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ It is essential for organizations to prioritize cybersecurity, implement robust 
 
 ## Updates
 
+- **2026-11-15** — It’s Getting Too Dry for Even Cactuses to Survive ([source](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/))
 - **2026-09-24** — We have a trailer for Musk documentary Elon called a "hit piece" ([source](https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/))
 - **2026-07-29** — Full school day cellphone bans are more popular than ever ([source](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever))
 

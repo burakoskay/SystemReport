@@ -1,16 +1,18 @@
 ---
 title: "Judge Bars X Rival from \"Twitter\" Name, Leaves \"Tweet\" Open"
 date: 2026-09-04T23:55:04.553Z
-modified_date: 2026-11-02T19:58:28.457Z
+modified_date: 2026-11-15T16:47:16.099Z
 tags: ["trademark","xcorp","branding","law"]
 hero_image: "/hero/2026-09-04-judge-bars-x-rival-from-twitter-name-leaves-tweet-open-9fe4c0.jpg"
 hero_image_credit_name: "Sena Köse"
 hero_image_credit_url: "https://www.pexels.com/@sena-kose-1697414012"
 visual_keyword: "courtroom scene with trademark symbols and a bird logo"
 description: "A federal judge halts a startup's use of the Twitter trademark while allowing its \"Tweet\" branding, reshaping X's trademark strategy."
-sources_count: 5
+sources_count: 7
 author: "lena-volkov"
 ---
+
+
 
 
 ## The ruling and immediate impact
@@ -38,4 +40,6 @@ The next filing will be X’s response to the abandonment finding. If X files a 
 
 ## Updates
 
+- **2026-11-15** — Troubleshooting a black screen on your MacBook is easier than you think ([source](https://www.engadget.com/2313043/troubleshoot-macbook-black-screen-issues/))
+- **2026-11-15** — Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect ([source](https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/))
 - **2026-11-02** — Think twice before putting your gaming console inside a cabinet ([source](https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/))

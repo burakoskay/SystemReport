@@ -1,19 +1,20 @@
 ---
 title: "US ends old missile watch as commercial rockets ramp up"
 date: 2026-10-03T13:02:27.138Z
-modified_date: 2026-10-22T19:42:31.411Z
+modified_date: 2026-11-15T16:46:53.083Z
 tags: ["defense","space","launches","technology"]
 hero_image: "/hero/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "launch pad with rockets and satellite dishes"
 description: "The military shuts a legacy nuclear launch detection program while SpaceX, Rocket Lab, and Blue Origin push launch cadence higher."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.mp3"
 audio_bytes: 556139
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## The program that’s over
@@ -55,6 +56,7 @@ Track the FAA’s decision on Blue Origin’s request for fifty New Glenn laun
 
 ## Updates
 
+- **2026-11-15** — These are some of the strongest 3D printer filaments for durable parts ([source](https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/))
 - **2026-10-22** — Google tells Android users to update as parts of Canada adopt permanent daylight saving time ([source](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada))
 
 [^1]: [northeasttimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO1aCeJPMgQZw-NiUs8t4SFrDHffPf6ziY4z0mZXUmcFtHMn5V2Aj1owyYquP3jrPWP6hCFUQ0p6MXvagTUXZ4m3NlkQJZHfJeMs680PbXx0FuMrCGF1-t2hNXnpeXVVx3GYVwVp77G0zKcJHgiNk5KqdfLrj-VScZ0tTW1pzZcmgrUJ_7wG5x1pN1CWlaVECNXnwVsSPxDz_7W7N2-GWDMugCWWzuOX6p15SzoFAzlg==)
