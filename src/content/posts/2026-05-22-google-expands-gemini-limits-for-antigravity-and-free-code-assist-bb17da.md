@@ -1,16 +1,17 @@
 ---
 title: "Google expands Gemini limits for Antigravity and free Code Assist"
 date: 2026-05-22T04:19:46.892Z
-modified_date: 2026-07-26T20:51:16.026Z
+modified_date: 2026-11-15T01:30:14.609Z
 tags: ["google","gemini","ai"]
 hero_image: "/hero/2026-05-22-google-expands-gemini-limits-for-antigravity-and-free-code-assist-bb17da.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "developer using AI coding assistant in a modern IDE"
 description: "Google triples Antigravity limits, clarifies Gemini tier caps, and opens Code Assist with 180k free completions, shaking up the AI coding market."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 ## Google triples Antigravity limits, twice in a row
@@ -38,4 +39,5 @@ Google has not disclosed how long the expanded Antigravity caps will stay in pla
 
 ## Updates
 
+- **2026-11-15** — Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy ([source](https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/))
 - **2026-07-26** — What Google has teased about Gemini 4 ([source](https://9to5google.com/2026/07/26/google-gemini-4-teases/))

@@ -1,18 +1,20 @@
 ---
 title: "ISS Air Leak"
 date: 2026-06-05T16:34:17.092Z
+modified_date: 2026-11-15T01:29:52.680Z
 tags: ["Space Exploration","ISS","Air Leak"]
 hero_image: "/hero/2026-06-05-iss-air-leak-cdfe72.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "International Space Station"
 description: "Astronauts on the ISS shelter in place due to an air leak, NASA and Roscosmos investigate"
-sources_count: 8
-author: "sam-whitfield"
+sources_count: 9
 audio_path: "/audio/2026-06-05-iss-air-leak-cdfe72.mp3"
 audio_bytes: 609638
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Leak
 Astronauts on the International Space Station were instructed to shelter in place in the SpaceX Dragon capsule due to an air leak in the Russian service module. The leak was discovered in September 2019, but it did not interfere with normal operations. NASA and Roscosmos are investigating the cause of the leak.
@@ -34,3 +36,7 @@ The leak is located in the Zvezda Service Module, which is the heart of the Russ
 The cause of the leak is still unknown, but there are several potential explanations. One possibility is that the hole was drilled accidentally during a maintenance procedure. Another possibility is that the hole was drilled intentionally, either as a result of sabotage or as a result of a manufacturing defect. The investigation is ongoing, and NASA and Roscosmos are working together to determine the cause of the leak.
 ## Future Implications
 The ISS air leak has significant implications for the future of space exploration. If the leak is found to be the result of sabotage, it could have serious consequences for the relationship between NASA and Roscosmos. It could also have implications for the safety of the crew and the station, and could potentially delay or cancel future missions. The leak is a reminder that space exploration is a complex and challenging endeavor, and that even small incidents can have significant implications.
+
+## Updates
+
+- **2026-11-15** — With Starship catch, SpaceX still shows it can dazzle the world ([source](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/))
