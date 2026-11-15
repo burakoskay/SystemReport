@@ -1,18 +1,20 @@
 ---
 title: "Silicon Valley's culture clash: dating, events, and trust"
 date: 2026-09-04T23:43:00.158Z
+modified_date: 2026-11-15T08:44:40.695Z
 tags: ["silicon-valley","tech-culture","enterprise-software"]
 hero_image: "/hero/2026-09-04-silicon-valley-s-culture-clash-dating-events-and-trust-2cf385.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "silicon valley tech office with diverse professionals"
 description: "A look at the ‘Hot Girl Renaissance,’ TechCrunch Disrupt side‑event push, and VMware's trust deficit after Broadcom's focus on VCF."
-sources_count: 3
-author: "lena-volkov"
+sources_count: 4
 audio_path: "/audio/2026-09-04-silicon-valley-s-culture-clash-dating-events-and-trust-2cf385.mp3"
 audio_bytes: 556975
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 Silicon Valley is seeing a push to reshape dating norms, a scramble for event slots at TechCrunch Disrupt, and a public admission of mis‑focus at VMware.
 
@@ -45,3 +47,7 @@ Historical precedent shows that cultural shifts often precede structural change.
 ## What to watch
 
 Stakeholders should monitor three near‑term signals: the reception of the “Hot List” within WIRED’s follow‑up reporting, the roster of approved side events announced by TechCrunch after the midnight deadline, and Broadcom’s next quarterly earnings call for concrete metrics on SMB satisfaction. Each data point will reveal whether cultural framing or product trust is reshaping the competitive landscape in Silicon Valley.
+
+## Updates
+
+- **2026-11-15** — How did Woz write the Apple 1 BASIC before building the computer? ([source](https://retrocomputing.stackexchange.com/questions/17957))
