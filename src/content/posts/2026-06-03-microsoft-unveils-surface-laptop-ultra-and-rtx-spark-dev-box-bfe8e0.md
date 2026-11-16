@@ -1,19 +1,20 @@
 ---
 title: "Microsoft Unveils Surface Laptop Ultra and RTX Spark Dev Box"
 date: 2026-06-03T17:01:44.923Z
-modified_date: 2026-11-04T20:42:34.435Z
+modified_date: 2026-11-16T14:32:37.067Z
 tags: ["Microsoft","Surface Laptop Ultra","RTX Spark Dev Box","Nvidia"]
 hero_image: "/hero/2026-06-03-microsoft-unveils-surface-laptop-ultra-and-rtx-spark-dev-box-bfe8e0.jpg"
 hero_image_credit_name: "Josh Sorenson"
 hero_image_credit_url: "https://www.pexels.com/@joshsorenson"
 visual_keyword: "Surface Laptop Ultra"
 description: "Microsoft debuts two new Surface devices powered by Nvidia's RTX Spark chips, targeting performance and development needs."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-06-03-microsoft-unveils-surface-laptop-ultra-and-rtx-spark-dev-box-bfe8e0.mp3"
 audio_bytes: 625311
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ Overall, the Surface Laptop Ultra and RTX Spark Dev Box represent a significant 
 
 ## Updates
 
+- **2026-11-16** — Microsoft outage saw 80% of servers fail – here’s what happened ([source](https://9to5mac.com/2026/11/16/microsoft-outage-saw-80-of-servers-fail-heres-what-happened/))
 - **2026-11-04** — MacBook Neo 2 is coming, and Apple reportedly expects a massive hit ([source](https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/))
 - **2026-10-14** — Containment and monitoring failures are to blame for AI hacking reports: experts ([source](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html))
 - **2026-09-21** — What do you actually use a laptop for, and would Googlebook be able to do it? [Poll] ([source](https://9to5google.com/2026/09/21/googlebook-laptop-poll/))

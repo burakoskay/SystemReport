@@ -1,19 +1,20 @@
 ---
 title: "Google AI Health Coach"
 date: 2026-05-07T17:53:15.095Z
-modified_date: 2026-08-29T00:25:23.967Z
+modified_date: 2026-11-16T14:32:50.599Z
 tags: ["Google AI Health Coach","Nothing Ear Earbuds","Qualcomm Phone Chips"]
 hero_image: "/hero/2026-05-07-google-ai-health-coach-a21b6a.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI Health Coach"
 description: "Google launches AI health coach, Nothing Ear earbuds get new colorway, and Qualcomm reveals new phone chips"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-07-google-ai-health-coach-a21b6a.mp3"
 audio_bytes: 577037
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to AI Health Coach
@@ -68,4 +69,5 @@ The use of machine learning algorithms allows the coach to analyze large amounts
 
 ## Updates
 
+- **2026-11-16** — “…and the proof is checked in Lean” ([source](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/))
 - **2026-08-29** — ChatGPT and Codex now support multiple Gmail and Google Calendar accounts ([source](https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/))

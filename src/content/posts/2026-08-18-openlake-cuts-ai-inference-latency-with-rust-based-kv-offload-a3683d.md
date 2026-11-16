@@ -1,15 +1,17 @@
 ---
 title: "OpenLake cuts AI inference latency with Rust‑based KV offload"
 date: 2026-08-18T10:31:10.227Z
+modified_date: 2026-11-16T14:32:17.197Z
 tags: ["ai","gpu","rust","infrastructure","memory"]
 hero_image: "/hero/2026-08-18-openlake-cuts-ai-inference-latency-with-rust-based-kv-offload-a3683d.jpg"
 hero_image_credit_name: "Adriano Ponte Abreu"
 hero_image_credit_url: "https://www.pexels.com/@adriano-ponte-abreu-2162631677"
 visual_keyword: "GPU cluster with Rust code overlay and high‑speed storage racks"
 description: "OpenLake uses a Rust storage engine to offload transformer KV caches, delivering million‑plus IOPS and 66× faster first‑token times on H100 clusters."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 ## OpenLake slashes first‑token latency for long‑context models
 OpenLake moved KV cache storage from GPU RAM to a persistent Rust engine and saw a 66× speedup on time‑to‑first‑token for a 128K context window. The same engine kept latency under 1 ms while delivering more than a million IOPS. The result is higher accelerator utilization on H100 nodes running Gemma‑4‑31B with a 256K context window.
@@ -45,3 +47,7 @@ Another question is durability. OpenLake promises persistence and durability, bu
 The next release of OpenLake is slated to add RDMA support for cross‑node KV fetching. If the feature lives up to its promise, latency could drop further and the solution may become viable for multi‑region AI services. Tracking the performance of the upcoming RDMA‑enabled version, as well as any third‑party benchmarks that compare OpenLake to alternatives like ClawMem, will reveal whether the approach reshapes inference pipelines or remains a niche optimization.
 
 ---
+
+## Updates
+
+- **2026-11-16** — The EPA’s Chemical-Detecting Plane Isn’t Doing Its Job Anymore ([source](https://www.wired.com/story/epa-chemical-detecting-plane-isnt-doing-job/))
