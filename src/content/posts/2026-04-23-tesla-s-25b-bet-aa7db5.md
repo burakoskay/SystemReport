@@ -1,19 +1,20 @@
 ---
 title: "Tesla's $25B Bet"
 date: 2026-04-23T03:20:19.601Z
-modified_date: 2026-11-07T01:31:26.610Z
+modified_date: 2026-11-16T04:17:48.092Z
 tags: ["tesla","electric vehicles","spending plan"]
 hero_image: "/hero/2026-04-23-tesla-s-25b-bet-aa7db5.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "electric car manufacturing"
 description: "Tesla increases spending plan to $25B, CFO expects negative free cash flow for the year. What's behind the move?"
-sources_count: 23
+sources_count: 24
 audio_path: "/audio/2026-04-23-tesla-s-25b-bet-aa7db5.mp3"
 audio_bytes: 29190418
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -79,6 +80,7 @@ As Tesla continues to invest in new technologies and manufacturing capabilities,
 
 ## Updates
 
+- **2026-11-16** — The pros and cons of using your phone as a mobile hotspot ([source](https://www.engadget.com/2313946/pros-cons-using-phone-mobile-hotspot/))
 - **2026-11-07** — Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions ([source](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news))
 - **2026-09-13** — Your car is selling your data ([source](https://www.theverge.com/column/994172/your-car-is-selling-your-data))
 - **2026-09-03** — You can watch the coolant flow inside Ugreen’s liquid-cooled power bank ([source](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling))

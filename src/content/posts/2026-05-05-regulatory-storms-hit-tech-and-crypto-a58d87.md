@@ -1,16 +1,17 @@
 ---
 title: "Regulatory Storms Hit Tech and Crypto"
 date: 2026-05-05T03:31:39.386Z
-modified_date: 2026-10-07T18:20:02.378Z
+modified_date: 2026-11-16T04:18:35.273Z
 tags: ["AI regulation","cryptocurrency","online privacy"]
 hero_image: "/hero/2026-05-05-regulatory-storms-hit-tech-and-crypto-a58d87.jpg"
 hero_image_credit_name: "David McElwee"
 hero_image_credit_url: "https://www.pexels.com/@davidmcelwee"
 visual_keyword: "regulation"
 description: "New regulations loom for AI, Bitcoin, and online privacy, sparking debates on innovation and oversight."
-sources_count: 14
+sources_count: 15
 author: "lena-volkov"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The regulatory landscape for tech and crypto is evolving rapidly. As the White H
 
 ## Updates
 
+- **2026-11-16** — Do House members' stock trades beat the market? A test of 8,900 trades ([source](https://arkanumdata.com/research/house-trades))
 - **2026-10-07** — The Shark CryoGlow LED Mask Is Cheaper Than Ever on Prime Day ([source](https://www.wired.com/story/shark-cryoglow-led-face-mask-prime-day-deal/))
 - **2026-09-19** — Anamanaguchi has ‘too goddamn many’ browser tabs open right now ([source](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music))
 - **2026-09-14** — Microsoft says ‘people matter more than AI’ following safety concerns ([source](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct))
