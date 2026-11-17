@@ -1,16 +1,17 @@
 ---
 title: "Zig bans AI‑generated code, sparking open‑source debate"
 date: 2026-04-30T10:19:47.112Z
-modified_date: 2026-11-06T13:38:05.839Z
+modified_date: 2026-11-17T06:25:58.128Z
 tags: ["zig","ai","open-source","software"]
 hero_image: "/hero/2026-04-30-zig-bans-ai-generated-code-sparking-open-source-debate-04a69c.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "developer reviewing code policy document"
 description: "Zig’s new anti‑AI contribution policy draws sharp reactions on Hacker News and highlights broader tensions over machine‑written code."
-sources_count: 19
+sources_count: 20
 author: "lena-volkov"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ The next milestone for Zig will be the enforcement of the policy in its upcoming
 
 ## Updates
 
+- **2026-11-17** — Buying a used phone? Make sure to check the IMEI first ([source](https://www.engadget.com/2315183/buying-used-phone-check-imei-first/))
 - **2026-11-06** — Oppo confirms its next foldable will actually know what a ‘global’ release is ([source](https://9to5google.com/2026/11/06/oppo-find-n7-global-launch-confirmed/))
 - **2026-09-23** — A Startup Wants to Power Data Centers With ‘Supercritical’ Carbon Dioxide ([source](https://www.wired.com/story/startup-power-data-centers-supercritical-co2/))
 - **2026-08-28** — Inside Meta’s Push to Put Robots to Work in Data Centers ([source](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/))

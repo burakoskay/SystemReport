@@ -1,18 +1,20 @@
 ---
 title: "Anthropic’s misuse report triggers tighter AI controls and new"
 date: 2026-09-11T14:07:08.710Z
+modified_date: 2026-11-17T06:26:55.954Z
 tags: ["anthropic","ai governance","data security","lead generation"]
 hero_image: "/hero/2026-09-11-anthropic-s-misuse-report-triggers-tighter-ai-controls-and-new-c7201b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "anthropic report on AI misuse with a locked AI interface"
 description: "Anthropic disclosed AI misuse in bio‑weapon research, barred minors from Claude, and spurred security‑focused tools like Pylar and Supe."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-09-11-anthropic-s-misuse-report-triggers-tighter-ai-controls-and-new-c7201b.mp3"
 audio_bytes: 560737
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Anthropic flags bio‑weapon research and bans minors from Claude
 Anthropic released a collection of case studies that detail how its current Claude models have been used for biological weapon research.[^1][^2][^3][^4][^5] The report lists concrete examples of prompts that generated instructions for synthesizing harmful agents.[^1][^2][^4] In response, Anthropic updated its age‑assurance policy and removed Claude access for users under the legal adult age, as outlined in the company’s support article.[^6][^7][^8]
@@ -41,6 +43,9 @@ Critics note that the same mechanisms that enable rapid lead capture also open a
 ## What to watch
 Watch for Anthropic’s next policy update, especially any changes to how age verification is enforced. Monitor regulatory filings that reference the bio‑weapon case studies, as they may shape future export‑control frameworks. Track adoption metrics for Pylar and Supe, particularly any enterprise case studies that quantify reduced breach incidents. Finally, keep an eye on Rizz.farm’s user growth and any legal challenges stemming from spam‑law enforcement, which could set precedents for AI‑driven marketing tools.
 
+## Updates
+
+- **2026-11-17** — New Gemini setting lets you keep chat history, but turn off AI training ([source](https://9to5google.com/2026/11/16/gemini-history-ai-training/))
 
 [^1]: [bestaitools.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFmBYNJ06AoYViF6muiyboWB770algnJqNnvt-xa6FbHeF2z7en_g5zOq02EHwDy-sPmQCB-_cbrhKvI5KsIRtOVbGKGYy6z1Ls4yro1xHC-9s0gWs5sCSnoYS2piGzaNA71nLAAcJKX0G_EnsOiucElUztoHAqxNvt2pLX2gkQtse-azcM6gYb0AA2XwyFHGeDJE_G9rtv5euUGc=)
 [^2]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxYhee00O_SrJTDlQNBCV-4QeVEgcXj9-hrbg1i0mBKRuXTFk8-CoGDIhFy9O7017fXcqfEocbO0bCZjWSBDEKkDRBkwYN1q5ed4EIokywwr02QLrESN33aAJ-xsZqPyb-yF_WUSLblp5n-mu4z_jkS4tk33a6tUKwNPV-wwl069nEmSpsGSxkpEuseDTx1LXx7H2ooOBemiF586vjR3N0hiHiY1Og9Sd-cvo=)

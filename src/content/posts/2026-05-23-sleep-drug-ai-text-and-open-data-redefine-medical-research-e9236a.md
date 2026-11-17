@@ -1,16 +1,17 @@
 ---
 title: "Sleep Drug, AI Text and Open Data Redefine Medical Research"
 date: 2026-05-23T06:47:40.477Z
-modified_date: 2026-08-04T19:25:07.413Z
+modified_date: 2026-11-17T06:25:38.368Z
 tags: ["sleep-apnea","large-language-models","medical-research","data-sharing"]
 hero_image: "/hero/2026-05-23-sleep-drug-ai-text-and-open-data-redefine-medical-research-e9236a.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "researcher analyzing synthetic medical text on a computer screen"
 description: "A new sleep apnea drug, a clinical LLM, and open COVID data illustrate how speed, AI and data openness reshape medical research."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## New Sleep Apnea Drug Emerges from Decades of Research
@@ -51,4 +52,5 @@ The next FDA advisory panel on the new sleep apnea drug will reveal efficacy dat
 
 ## Updates
 
+- **2026-11-17** — Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’ ([source](https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/))
 - **2026-08-04** — Here’s the first Asus Googlebook as the floodgates start to open ([source](https://9to5google.com/2026/08/04/heres-the-first-asus-googlebook/))

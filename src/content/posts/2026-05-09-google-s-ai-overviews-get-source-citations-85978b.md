@@ -1,19 +1,20 @@
 ---
 title: "Google's AI Overviews Get Source Citations"
 date: 2026-05-09T03:32:01.343Z
-modified_date: 2026-10-08T19:38:20.974Z
+modified_date: 2026-11-17T06:27:34.217Z
 tags: ["Google","AI","Transparency","Accountability"]
 hero_image: "/hero/2026-05-09-google-s-ai-overviews-get-source-citations-85978b.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google AI Overviews"
 description: "Google's AI search will now cite sources in several new ways. The update aims to improve transparency and credibility."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-05-09-google-s-ai-overviews-get-source-citations-85978b.mp3"
 audio_bytes: 592502
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,5 +57,6 @@ As the AI industry continues to evolve, we can expect to see further innovations
 
 ## Updates
 
+- **2026-11-17** — Samsung’s ‘Galaxy Studio’ headphones leak with touch controls, two colors ([source](https://9to5google.com/2026/11/16/samsungs-galaxy-studio-headphones-leak-with-touch-controls-two-colors/))
 - **2026-10-08** — I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale ([source](https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale))
 - **2026-09-03** — Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option ([source](https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option))

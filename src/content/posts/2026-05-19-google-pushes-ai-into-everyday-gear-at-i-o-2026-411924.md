@@ -1,19 +1,20 @@
 ---
 title: "Google Pushes AI into Everyday Gear at I/O 2026"
 date: 2026-05-19T23:08:37.782Z
-modified_date: 2026-09-12T02:37:40.284Z
+modified_date: 2026-11-17T06:27:24.598Z
 tags: ["Google","AI","I/O 2026"]
 hero_image: "/hero/2026-05-19-google-pushes-ai-into-everyday-gear-at-i-o-2026-411924.jpg"
 hero_image_credit_name: "Sound On"
 hero_image_credit_url: "https://www.pexels.com/@sound-on"
 visual_keyword: "Google smart glasses"
 description: "Google unveiled AI-powered devices at I/O 2026"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-19-google-pushes-ai-into-everyday-gear-at-i-o-2026-411924.mp3"
 audio_bytes: 559483
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ As Google continues to develop its AI-powered devices and services, we can expec
 
 ## Updates
 
+- **2026-11-17** — Google beta lets you test ‘Create My Widget’ on Pixel 10 and 11 now ([source](https://9to5google.com/2026/11/16/pixel-create-my-widget-beta/))
 - **2026-09-12** — Some satellite companies still have an appetite for boutique launch services ([source](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/))
 - **2026-05-21** — Spotify and Universal Music strike deal allowing fan-made AI covers and remixes ([source](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/))

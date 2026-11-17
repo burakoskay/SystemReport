@@ -1,16 +1,17 @@
 ---
 title: "Apple's Dual Strategy: OLED Notebooks and a Product Avalanche"
 date: 2026-04-16T05:29:28.584Z
-modified_date: 2026-11-12T14:30:54.841Z
+modified_date: 2026-11-17T06:27:53.221Z
 tags: ["apple","oled","notebooks","product launches","tech strategy"]
 hero_image: "/hero/2026-04-16-apple-s-dual-strategy-oled-notebook-push-and-a-product-avalanche-signal-future-growth-349543.jpg"
 hero_image_credit_name: "Hans Herrington"
 hero_image_credit_url: "https://www.pexels.com/@hans-herrington-99819090"
 visual_keyword: "Apple futuristic tech innovation displays"
 description: "As the smartphone market cools, Apple is doubling down on advanced OLED notebook displays and a massive new product pipeline, signaling a strategic hardware offensive."
-sources_count: 16
+sources_count: 17
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Together, these two trends paint a compelling picture of a company strategically
 
 ## Updates
 
+- **2026-11-17** — Samsung’s Galaxy Z Fold 8 returns to its lowest price yet ahead of Black Friday ([source](https://9to5google.com/2026/11/16/samsungs-galaxy-z-fold-8-returns-to-its-lowest-price-yet-ahead-of-black-friday/))
 - **2026-11-12** — Apple Home Collection accessories available for pre-order this Friday ([source](https://9to5mac.com/2026/11/12/apple-home-collection-accessories-available-for-pre-order-this-friday/))
 - **2026-11-11** — How to get this Siri camera upgrade for your iPad before its public release ([source](https://www.engadget.com/2312808/how-to-get-ipad-siri-camera-upgrade-early/))
 - **2026-11-07** — Apple’s funny new Apple Card ad features an awkward therapy session ([source](https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/))

@@ -1,16 +1,17 @@
 ---
 title: "Galaxy Z TriFold Sold Out"
 date: 2026-04-18T05:30:02.890Z
-modified_date: 2026-11-14T16:20:42.899Z
+modified_date: 2026-11-17T06:27:43.693Z
 tags: ["Samsung","Galaxy Z TriFold","Foldable Phones"]
 hero_image: "/hero/2026-04-18-galaxy-z-trifold-sold-out-0f8324.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "Galaxy Z TriFold"
 description: "Samsung's Galaxy Z TriFold is sold out"
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ The Galaxy Z TriFold is no longer available for purchase. Samsung has not announ
 
 ## Updates
 
+- **2026-11-17** — Samsung Galaxy’s next major update keeps leaking – here’s what to expect in One UI 9.5 ([source](https://9to5google.com/2026/11/16/samsung-galaxy-one-ui-9-5-update-leak/))
 - **2026-11-14** — Samsung is taking a page out of Pixel's playbook with One UI 9.5 ([source](https://www.engadget.com/2316348/samsung-one-ui-9-5-feature-memory-app-from-pixel-playbook/))
 - **2026-11-03** — Google has fixed Android Auto issues on Samsung Galaxy phones running One UI 9 [U] ([source](https://9to5google.com/2026/11/03/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/))
 - **2026-11-02** — Some Samsung Galaxy phones are having Android Auto issues with One UI 9 ([source](https://9to5google.com/2026/11/02/some-samsung-galaxy-phones-are-having-android-auto-issues-with-one-ui-9/))

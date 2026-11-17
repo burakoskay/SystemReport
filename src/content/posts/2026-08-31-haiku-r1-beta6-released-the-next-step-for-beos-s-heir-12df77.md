@@ -1,16 +1,17 @@
 ---
 title: "Haiku R1 beta6 released, the next step for BeOS’s heir"
 date: 2026-08-31T10:30:44.830Z
-modified_date: 2026-09-07T19:32:52.043Z
+modified_date: 2026-11-17T06:27:05.495Z
 tags: ["haiku","os","beta6"]
 hero_image: "/hero/2026-08-31-haiku-r1-beta6-released-the-next-step-for-beos-s-heir-12df77.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "desktop computer screen running Haiku OS with Tracker UI"
 description: "Haiku OS ships R1/beta6 with updated ISO images, upgrade path from beta5, and continued work on its BeOS‑inspired desktop."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ The next checkpoint will be the community’s feedback on beta6’s stability ac
 
 ## Updates
 
+- **2026-11-17** — Secure cloud storage is the cheaper, safer alternative to keeping files physical ([source](https://9to5google.com/2026/11/16/secure-cloud-storage-cheaper-safer-alternative-keeping-files-physical/))
 - **2026-09-07** — The complex corporate web behind a $3.2 billion AI data center ([source](https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/))
 - **2026-09-07** — The complex corporate web behind a $3.2 billion AI data center ([source](https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/))

@@ -1,18 +1,20 @@
 ---
 title: "Haiku OS boots on Apple Silicon M1 Macs"
 date: 2026-05-18T21:19:52.250Z
+modified_date: 2026-11-17T06:28:31.595Z
 tags: ["haiku","apple silicon","open source","operating systems"]
 hero_image: "/hero/2026-05-18-haiku-os-boots-on-apple-silicon-m1-macs-69d35a.jpg"
 hero_image_credit_name: "Abdullah Bin Mubarak"
 hero_image_credit_url: "https://www.pexels.com/@abdullah-bin-mubarak-2067629"
 visual_keyword: "Apple M1 Mac laptop displaying Haiku OS desktop"
 description: "Open‑source Haiku OS finally runs on Apple’s M1 hardware, marking a rare ARM64 desktop OS on the platform."
-sources_count: 13
-author: "maya-chen"
+sources_count: 14
 audio_path: "/audio/2026-05-18-haiku-os-boots-on-apple-silicon-m1-macs-69d35a.mp3"
 audio_bytes: 588949
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Haiku OS now boots on Apple’s M1 Macs.
 
@@ -45,3 +47,7 @@ For the open‑source world, the Haiku port demonstrates that even small project
 ## What to watch
 
 The next Haiku release will need to address audio output, USB‑C peripherals, and Wi‑Fi support before the build can be considered usable on everyday hardware. Monitoring the Haiku forum for updates on driver development and the upcoming beta schedule will indicate how quickly the project moves from proof‑of‑concept to a practical desktop option. The broader community will also watch Apple’s response to third‑party OS boot attempts, as any policy changes could affect the viability of future ports.
+
+## Updates
+
+- **2026-11-17** — MagSafe Monday: MOFT’s Trackable Field Wallet holds eight cards, cash, and supports Find My ([source](https://9to5mac.com/2026/11/16/moft-trackable-field-wallet/))

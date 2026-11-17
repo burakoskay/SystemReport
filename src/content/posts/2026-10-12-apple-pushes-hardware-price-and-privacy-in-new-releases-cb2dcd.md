@@ -1,19 +1,20 @@
 ---
 title: "Apple pushes hardware, price and privacy in new releases"
 date: 2026-10-12T08:27:23.479Z
-modified_date: 2026-11-11T23:57:58.072Z
+modified_date: 2026-11-17T06:28:41.116Z
 tags: ["apple","hardware","pricing","privacy","ios"]
 hero_image: "/hero/2026-10-12-apple-pushes-hardware-price-and-privacy-in-new-releases-cb2dcd.jpg"
 hero_image_credit_name: "Calil Encarnación"
 hero_image_credit_url: "https://www.pexels.com/@calil-encarnacion-30667006"
 visual_keyword: "Apple iPhone near magnets with blurred camera view"
 description: "Apple's upcoming iPhone Duo demos, HomeView hub, iPad mini OLED and iOS 27 updates raise costs and practical concerns for users."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-10-12-apple-pushes-hardware-price-and-privacy-in-new-releases-cb2dcd.mp3"
 audio_bytes: 635969
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple's spring rollout piles new hardware, software tweaks, and hidden costs onto a user base already juggling accessories and subscriptions.
@@ -56,4 +57,5 @@ The next quarter will reveal whether Apple’s hardware upgrades and service ext
 
 ## Updates
 
+- **2026-11-17** — Tech leaders are convinced that Jensen Huang’s exit was a plot against him ([source](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories))
 - **2026-11-11** — I Saw the Future of Robotics in a Virtual Duck That Chases My Cat ([source](https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/))
