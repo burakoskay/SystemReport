@@ -1,16 +1,17 @@
 ---
 title: "France Targets Encrypted Messaging, Global Security Patches"
 date: 2026-05-10T03:46:43.377Z
-modified_date: 2026-11-06T20:15:59.955Z
+modified_date: 2026-11-18T00:22:54.223Z
 tags: ["encryption","security","France"]
 hero_image: "/hero/2026-05-10-france-targets-encrypted-messaging-global-security-patches-ff160b.jpg"
 hero_image_credit_name: "Christina & Peter"
 hero_image_credit_url: "https://www.pexels.com/@christina99999"
 visual_keyword: "lock"
 description: "France moves to break encrypted messaging, while tech giants release security patches for major vulnerabilities."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -103,6 +104,7 @@ The next step in the French government's push for backdoors in encrypted messagi
 
 ## Updates
 
+- **2026-11-18** — Nvidia says it does not intend to reinstate Jensen Huang as CEO ([source](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo))
 - **2026-11-06** — The iPhone Duo has more than 100,000 optimized apps, Apple says ([source](https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps))
 - **2026-10-15** — Samsung says the Galaxy Z Fold 8 is more popular than ever thanks to iPhone Duo ([source](https://9to5google.com/2026/10/15/samsung-galaxy-z-fold-8-popularity-iphone-duo/))
 - **2026-09-11** — Measuring the sloppiness of code ([source](https://earendil.com/posts/measuring-code-sloppiness/))

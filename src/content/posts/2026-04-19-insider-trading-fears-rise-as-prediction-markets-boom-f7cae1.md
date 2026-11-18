@@ -1,16 +1,17 @@
 ---
 title: "Insider Trading Fears Rise as Prediction Markets Boom"
 date: 2026-04-19T01:58:31.432Z
-modified_date: 2026-11-03T22:51:16.211Z
+modified_date: 2026-11-18T00:23:27.139Z
 tags: ["prediction markets","insider trading","government ethics"]
 hero_image: "/hero/2026-04-19-insider-trading-fears-rise-as-prediction-markets-boom-f7cae1.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "a graph showing the growth of prediction markets"
 description: "Traders are making millions on prediction markets, sparking concerns about insider trading by government officials and politicians."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ As prediction markets continue to boom, it's clear that there is a need for clea
 
 ## Updates
 
+- **2026-11-18** — Google Wallet is launching on iOS ([source](https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/))
 - **2026-11-03** — iOS 27.3 expands Siri AI with many new capabilities across Apple apps ([source](https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/))
 - **2026-10-22** — US official: Russia's stalker satellite sure looks like an orbital weapon ([source](https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/))
 - **2026-10-02** — iOS 27 adds four new ways to customize your iPhone’s Lock Screen ([source](https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/))

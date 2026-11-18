@@ -1,16 +1,17 @@
 ---
 title: "Google Enhances Travel and Shopping Features for Summer"
 date: 2026-04-18T01:10:16.980Z
-modified_date: 2026-11-16T04:18:07.046Z
+modified_date: 2026-11-18T00:23:48.748Z
 tags: ["Google","Travel","Shopping"]
 hero_image: "/hero/2026-04-18-google-enhances-travel-and-shopping-features-for-summer-a99cce.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google"
 description: "Google introduces hotel price tracking, AI-powered product finder, and free notebooks for Gemini app users."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -34,6 +35,7 @@ The hotel price-tracking tool is designed to help users save money on summer vac
 
 ## Updates
 
+- **2026-11-18** — YouTube ‘Co-Views’ try to guess how many people are watching your TV, rolling out now ([source](https://9to5google.com/2026/11/17/youtube-co-views-tv/))
 - **2026-11-16** — Apple’s Messages app keeps getting better; here are my favorite updates ([source](https://9to5mac.com/2026/11/15/apples-messages-app-keeps-getting-better-here-are-my-favorite-updates/))
 - **2026-11-14** — PyPI's redesigned project pages with clearer security signals are now live ([source](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/))
 - **2026-11-08** — Wandrd’s Magnetic Camera Straps Are My New Favorite Accessory ([source](https://www.wired.com/story/wandrd-magnetic-camera-straps-are-my-new-favorite-accessory/))

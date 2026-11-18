@@ -1,16 +1,17 @@
 ---
 title: "Spotify Introduces Verified Artist Badges"
 date: 2026-04-30T14:08:46.694Z
-modified_date: 2026-10-13T17:20:11.068Z
+modified_date: 2026-11-18T00:23:10.629Z
 tags: ["Spotify","Verified Artist Badges","AI-Generated Music"]
 hero_image: "/hero/2026-04-30-spotify-introduces-verified-artist-badges-c8b79b.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Spotify Badge"
 description: "Spotify badges to distinguish human from AI-generated artists"
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ In conclusion, the "Verified by Spotify" badge is a significant development in t
 
 ## Updates
 
+- **2026-11-18** — Instagram is helping creators crack down on copycat videos ([source](https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos))
 - **2026-10-13** — Wikipedians Believed AI Would Come and Go. They Were Wrong ([source](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/))
 - **2026-10-11** — The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know ([source](https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/))
 - **2026-09-20** — No Dogs in Space is back to feed your need for obsessive music history ([source](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast))

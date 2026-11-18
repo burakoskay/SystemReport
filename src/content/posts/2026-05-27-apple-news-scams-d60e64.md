@@ -1,16 +1,17 @@
 ---
 title: "Apple News Scams"
 date: 2026-05-27T04:14:56.979Z
-modified_date: 2026-09-30T14:36:26.085Z
+modified_date: 2026-11-18T00:23:59.748Z
 tags: ["Apple News","scam ads","RSS support"]
 hero_image: "/hero/2026-05-27-apple-news-scams-d60e64.jpg"
 hero_image_credit_name: "webber Amir"
 hero_image_credit_url: "https://www.pexels.com/@webber-amir-1551084"
 visual_keyword: "Apple News"
 description: "Apple News struggles with scam ads and limited RSS support"
-sources_count: 11
+sources_count: 12
 author: "david-okafor"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ Ultimately, the future success of Apple News will depend on its ability to adapt
 
 ## Updates
 
+- **2026-11-18** — iFixit tears down Apple HomeView, finds lots of glue and endless frustration ([source](https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/))
 - **2026-09-30** — Apple’s &#8216;HomePad&#8217; will reportedly launch on October 13th ([source](https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date))
 - **2026-09-04** — Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users ([source](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout))
 - **2026-08-28** — Price increases suddenly hit Apple TV and Apple One ([source](https://www.engadget.com/2246336/price-increases-suddenly-hit-apple-tv-and-apple-one/))

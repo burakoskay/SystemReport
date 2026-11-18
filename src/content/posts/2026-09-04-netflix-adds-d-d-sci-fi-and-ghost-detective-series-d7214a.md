@@ -1,15 +1,17 @@
 ---
 title: "Netflix adds D&D, sci‑fi, and ghost detective series"
 date: 2026-09-04T14:03:57.916Z
+modified_date: 2026-11-18T00:22:48.835Z
 tags: ["netflix","adaptations","controversy"]
 hero_image: "/hero/2026-09-04-netflix-adds-d-d-sci-fi-and-ghost-detective-series-d7214a.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "gothic castle shrouded in mist with a vampire silhouette"
 description: "Netflix unveiled a live‑action Ravenloft series, a contentious Three‑Body Problem adaptation, and the supernatural Dead Boy Detectives, sparking both excitement and political pushback."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 Netflix announced three new adaptations this month, spanning a dark‑fantasy D&D setting, a Chinese sci‑fi saga, and a ghost‑filled crime duo. The moves highlight the streamer’s willingness to bet on niche intellectual property despite mixed critical reception and political scrutiny.
 
@@ -53,3 +55,6 @@ From a technical standpoint, producing high‑budget fantasy and sci‑fi series
 
 Subscribers should monitor Netflix’s response to the senators’ letter, especially any public statements about Liu Cixin’s involvement. The platform’s handling of the political pressure will signal how far it will go in separating artistic collaboration from creator controversy. Meanwhile, the premiere dates for Ravenloft and *Dead Boy Detectives* will reveal whether Netflix can sustain momentum across disparate fantasy sub‑genres. Tracking viewership metrics for each series will indicate which niche IPs truly drive subscriber growth and which remain experimental outliers.
 
+## Updates
+
+- **2026-11-18** — Read everything that Nvidia’s board chair had to say about Jensen Huang ([source](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang))

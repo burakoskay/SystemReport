@@ -1,16 +1,17 @@
 ---
 title: "Science Funding"
 date: 2026-05-02T16:56:26.547Z
-modified_date: 2026-11-03T01:59:47.449Z
+modified_date: 2026-11-18T00:23:43.327Z
 tags: ["science","crowdfunding","spacex"]
 hero_image: "/hero/2026-05-02-science-funding-db7d3a.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "science"
 description: "Petridish crowdfunds science projects, transforming research funding. SpaceX recovers Dragon capsule with scientific experiments."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The growth of crowdfunding platforms like Petridish and the increasing use of te
 
 ## Updates
 
+- **2026-11-18** — Meta’s ‘secret’ Black Friday sale just started, and it offers up to 25% off the company’s smart glasses ([source](https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/))
 - **2026-11-03** — Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts] ([source](https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/))
 - **2026-11-02** — These are the best MacBook deals right now: November 2026 Buyer’s Guide ([source](https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/))
 - **2026-08-22** — How to limit Instagram from using your data for AI and ads ([source](https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/))

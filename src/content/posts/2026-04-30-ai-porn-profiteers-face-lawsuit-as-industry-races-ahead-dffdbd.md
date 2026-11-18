@@ -1,16 +1,17 @@
 ---
 title: "AI Porn Profiteers Face Lawsuit as Industry Races Ahead"
 date: 2026-04-30T14:22:22.520Z
-modified_date: 2026-11-12T05:30:03.729Z
+modified_date: 2026-11-18T00:22:16.360Z
 tags: ["ai","pornography","law","ethics","technology"]
 hero_image: "/hero/2026-04-30-ai-porn-profiteers-face-lawsuit-as-industry-races-ahead-dffdbd.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "dark office with computer screens displaying AI-generated adult images"
 description: "Arizona women sue men who turned their photos into AI porn and sold tutorials, highlighting ethical and labor fallout as AI-generated erotica expands."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ The lawsuit will test how courts handle deepfake porn and the sale of creation t
 
 ## Updates
 
+- **2026-11-18** — The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going ([source](https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going/))
 - **2026-11-12** — The Utah Teapot ([source](https://graphics.cs.utah.edu/teapot/))
 - **2026-11-11** — Emacs in the Age of Magic ([source](https://commandlinesystems.com/magic.txt))
 - **2026-10-20** — The Sideload 048: It’s AI Mania, Not AI Psychosis ([source](https://9to5google.com/2026/10/20/the-sideload-048-its-ai-mania-not-ai-psychosis/))

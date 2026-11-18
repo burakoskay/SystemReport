@@ -1,19 +1,20 @@
 ---
 title: "ISS Air Leak"
 date: 2026-06-05T16:34:17.092Z
-modified_date: 2026-11-15T01:29:52.680Z
+modified_date: 2026-11-18T00:22:27.245Z
 tags: ["Space Exploration","ISS","Air Leak"]
 hero_image: "/hero/2026-06-05-iss-air-leak-cdfe72.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "International Space Station"
 description: "Astronauts on the ISS shelter in place due to an air leak, NASA and Roscosmos investigate"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-06-05-iss-air-leak-cdfe72.mp3"
 audio_bytes: 609638
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the Leak
@@ -39,4 +40,5 @@ The ISS air leak has significant implications for the future of space exploratio
 
 ## Updates
 
+- **2026-11-18** — The Dark Side of the Moon Was the Brightest Part of 2026 ([source](https://www.wired.com/story/wired-yearbook-2026-artemis-crew/))
 - **2026-11-15** — With Starship catch, SpaceX still shows it can dazzle the world ([source](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/))

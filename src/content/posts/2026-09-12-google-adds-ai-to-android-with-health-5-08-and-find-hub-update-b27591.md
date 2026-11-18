@@ -1,18 +1,20 @@
 ---
 title: "Google adds AI to Android with Health 5.08 and Find Hub update"
 date: 2026-09-12T16:46:45.427Z
+modified_date: 2026-11-18T00:22:59.632Z
 tags: ["google","android","ai","gemini","software"]
 hero_image: "/hero/2026-09-12-google-adds-ai-to-android-with-health-5-08-and-find-hub-update-b27591.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "smartphone screen showing AI-powered health and search apps"
 description: "Google rolls out Health 5.08 and a Gemini‑powered Remembered tab in Find Hub, tightening AI across Android."
-sources_count: 11
-author: "ryan-tanaka"
+sources_count: 12
 audio_path: "/audio/2026-09-12-google-adds-ai-to-android-with-health-5-08-and-find-hub-update-b27591.mp3"
 audio_bytes: 557811
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Google rolled out its latest Health app update and a new Remembered tab in Find Hub, signaling a push to weave Gemini‑powered AI into everyday Android tools.
 
@@ -57,3 +59,7 @@ Developers will need to watch how Google balances convenience with consent.  If 
 ## What to watch
 
 The next milestone is Google’s public Gemini roadmap.  A scheduled developer preview in Q4 could reveal how much on‑device processing the model will handle.  Keep an eye on the Lenovo Googlebook launch date; its pricing will indicate whether Google expects consumers to pay a premium for AI‑ready hardware.  Samsung’s official Galaxy Buds On announcement will show whether the company plans to hand off voice data to Google’s services.  Finally, monitor any policy updates to Google Health’s data handling, especially after the 5.08 rollout settles in the wild.
+
+## Updates
+
+- **2026-11-18** — Nike’s new air sole technology can mix soft and firm cushioning ([source](https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning))
