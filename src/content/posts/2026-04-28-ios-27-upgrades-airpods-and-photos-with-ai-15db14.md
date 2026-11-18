@@ -1,16 +1,17 @@
 ---
 title: "iOS 27 Upgrades AirPods and Photos with AI"
 date: 2026-04-28T20:31:41.811Z
-modified_date: 2026-11-06T13:36:43.433Z
+modified_date: 2026-11-18T18:38:44.962Z
 tags: ["Apple","iOS 27","AirPods","AI"]
 hero_image: "/hero/2026-04-28-ios-27-upgrades-airpods-and-photos-with-ai-15db14.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AirPods Ultra"
 description: "Apple's iOS 27 adds AI tools for AirPods and Photos"
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -54,5 +55,6 @@ iOS 27’s beta begins in June, with a public release likely in September. Key d
 
 ## Updates
 
+- **2026-11-18** — Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more ([source](https://9to5mac.com/2026/11/18/deals-macbook-neo-airtag-2-apple-watch-alpine-loop/))
 - **2026-11-06** — Horny Grandmas Are Having a Moment ([source](https://www.wired.com/story/horny-grandmas-are-having-a-moment/))
 - **2026-08-26** — XCancel also down, at least for time being ([source](https://news.ycombinator.com/item?id=49440786))

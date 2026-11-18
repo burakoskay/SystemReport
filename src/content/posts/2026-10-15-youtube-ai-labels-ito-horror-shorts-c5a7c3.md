@@ -1,18 +1,20 @@
 ---
 title: "YouTube AI Labels, Ito Horror Shorts"
 date: 2026-10-15T19:47:37.247Z
+modified_date: 2026-11-18T18:36:03.016Z
 tags: ["youtube","ai","gaming","streaming"]
 hero_image: "/hero/2026-10-15-youtube-ai-labels-ito-horror-shorts-c5a7c3.jpg"
 hero_image_credit_name: "César Guillotel"
 hero_image_credit_url: "https://www.pexels.com/@cesar"
 visual_keyword: "abstract collage of music notes, manga horror art, and video game arena"
 description: "YouTube Music rolls out AI-generated genre labels, HBO Max debuts Junji Ito horror shorts, and Riot announces the 2027 sunset of LoL Classic mode."
-sources_count: 5
-author: "maya-chen"
+sources_count: 6
 audio_path: "/audio/2026-10-15-youtube-ai-labels-ito-horror-shorts-c5a7c3.mp3"
 audio_bytes: 583307
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## AI Labels Debut on YouTube Music
 
@@ -55,3 +57,7 @@ Together, these moves reveal a pattern: platforms are deploying AI and data to s
 ## What to Watch
 
 Track YouTube’s expansion of AI labels to the main YouTube site and any adjustments to the algorithm’s accuracy metrics. Monitor HBO Max’s viewership numbers for the Ito series and whether the network greenlights additional manga adaptations. Keep an eye on Riot’s communication about any limited‑time Classic events and the player engagement they generate. These data points will indicate whether automation and nostalgia can coexist profitably in the streaming and gaming ecosystems.
+
+## Updates
+
+- **2026-11-18** — Disney’s new Star Wars animatronics interact with guests using AI ([source](https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai))

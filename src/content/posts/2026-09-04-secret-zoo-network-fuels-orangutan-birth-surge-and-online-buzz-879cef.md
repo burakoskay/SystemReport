@@ -1,15 +1,17 @@
 ---
 title: "Secret Zoo Network Fuels Orangutan Birth Surge and Online Buzz"
 date: 2026-09-04T23:48:58.290Z
+modified_date: 2026-11-18T18:39:25.756Z
 tags: ["orangutan","conservation","zoos","breeding"]
 hero_image: "/hero/2026-09-04-secret-zoo-network-fuels-orangutan-birth-surge-and-online-buzz-879cef.jpg"
 hero_image_credit_name: "Klub Boks"
 hero_image_credit_url: "https://www.pexels.com/@klub-boks-1437055"
 visual_keyword: "orangutan infants playing in a zoo enclosure, natural lighting"
 description: "A covert U.S. zoo breeding network has sparked a wave of orangutan births, turning infants into viral stars and reigniting debate over great ape conservation."
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 ## Program Mechanics
 
@@ -36,3 +38,7 @@ The success of the orangutan network has sparked interest among institutions car
 Regulators will likely scrutinize any expansion, especially if reintroduction plans emerge. The U.S. Fish and Wildlife Service has indicated that any release of captive‑bred individuals must meet strict genetic and health criteria. The program’s next milestone, according to its coordinators, is to publish a peer‑reviewed analysis of birth outcomes and genetic metrics.
 
 **What to watch** – The upcoming annual review by the Association of Zoos and Aquariums, scheduled for early next year, will reveal whether the network’s data standards become the sector benchmark. A separate study slated for publication in *Conservation Genetics* will compare the genetic health of the program’s orangutans against wild populations. Tracking those releases will indicate whether the breeding effort can move beyond exhibition to tangible species recovery.
+
+## Updates
+
+- **2026-11-18** — Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House ([source](https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/))

@@ -1,18 +1,20 @@
 ---
 title: "Apple's new MacBook Pro revives glowing logo and adds DIY battery"
 date: 2026-10-29T01:33:34.339Z
+modified_date: 2026-11-18T18:36:23.304Z
 tags: ["apple","macbook-pro","hardware","repairability"]
 hero_image: "/hero/2026-10-29-apple-s-new-macbook-pro-revives-glowing-logo-and-adds-diy-battery-5213c4.jpg"
 hero_image_credit_name: "Junior Teixeira"
 hero_image_credit_url: "https://www.pexels.com/@junior-teixeira-1064069"
 visual_keyword: "glowing Apple logo on sleek laptop lid"
 description: "Apple launches a MacBook Pro with PROLED XDR, a glowing logo, flat-edged chassis, MagSafe and a user‑replaceable battery, while analysts predict a 25‑30% shipment boost."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-10-29-apple-s-new-macbook-pro-revives-glowing-logo-and-adds-diy-battery-5213c4.mp3"
 audio_bytes: 574528
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple rolls out a MacBook Pro that brings back the illuminated logo
 Apple unveiled a MacBook Pro that ships with a PROLED XDR display and a back‑lit Apple logo on the lid. The move restores a visual cue that disappeared after the 2016 redesign and signals a broader shift back to legacy ergonomics.
@@ -38,3 +40,7 @@ All models will run exclusively on Apple silicon; no Intel options are planned. 
 The next quarter will reveal whether the flat‑edged chassis and expanded I/O set a new baseline for Apple’s professional laptops. Watch the official launch event for confirmation of port counts, battery replacement guidelines, and any refinements to the PROLED XDR panel. Analysts will also be tracking the first‑quarter shipment numbers against Kuo’s 20 million‑unit target, a metric that will indicate how quickly the market adopts the design shift.
 
 ---
+
+## Updates
+
+- **2026-11-18** — The Verge’s 2026 holiday gift guide for travelers ([source](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026))

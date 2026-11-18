@@ -1,19 +1,20 @@
 ---
 title: "United Flight 236 Turns Back"
 date: 2026-05-31T19:24:12.337Z
-modified_date: 2026-10-20T13:13:55.931Z
+modified_date: 2026-11-18T18:35:42.657Z
 tags: ["Aviation","Security","Technology"]
 hero_image: "/hero/2026-05-31-united-flight-236-turns-back-daf062.jpg"
 hero_image_credit_name: "Peter Fazekas"
 hero_image_credit_url: "https://www.pexels.com/@peterfazekas"
 visual_keyword: "Bluetooth"
 description: "Security concerns over a Bluetooth speaker name"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-31-united-flight-236-turns-back-daf062.mp3"
 audio_bytes: 630536
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Incident Details
@@ -39,4 +40,5 @@ The incident involving United flight 236 highlights the potential impact of tech
 
 ## Updates
 
+- **2026-11-18** — I Will Never Stop Playing ‘Grand Theft Auto’ ([source](https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto/))
 - **2026-10-20** — Spotify’s new podcast memberships let you pay for extra perks ([source](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch))

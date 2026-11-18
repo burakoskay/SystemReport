@@ -1,16 +1,17 @@
 ---
 title: "Meta's AI Push Amidst 20 Million User Loss"
 date: 2026-04-30T14:14:17.175Z
-modified_date: 2026-11-05T23:10:40.740Z
+modified_date: 2026-11-18T18:37:54.768Z
 tags: ["Meta","AI","user loss"]
 hero_image: "/hero/2026-04-30-meta-s-ai-push-amidst-20-million-user-loss-6140a4.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "Meta AI"
 description: "Meta reports 10 million weekly business-AI conversations as its family of apps sheds 20 million users, raising questions about its AI spend."
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ Meta's AI push is a strategic move to drive revenue growth and increase competit
 
 ## Updates
 
+- **2026-11-18** — Could Meta fix its glasses privacy issues with an LED redesign? ([source](https://9to5google.com/2026/11/18/could-meta-fix-its-glasses-privacy-issues-with-an-led-redesign/))
 - **2026-11-05** — Claude can now analyze your spending with its new Personal Finance tool ([source](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/))
 - **2026-10-21** — Nvidia’s latest GPU driver brings a new way to speed up PC games ([source](https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support))
 - **2026-09-15** — Meta adds new subscription tiers for businesses, creators and 'AI power users' ([source](https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/))

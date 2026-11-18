@@ -1,16 +1,17 @@
 ---
 title: "Windows Longhorn Aurora Reborn in HTML5 Canvas"
 date: 2026-05-23T13:53:57.772Z
-modified_date: 2026-09-16T14:33:47.135Z
+modified_date: 2026-11-18T18:37:24.230Z
 tags: ["windows-longhorn","ui-design-history","html5-canvas","legacy-software","web-recreations"]
 hero_image: "/hero/2026-05-23-windows-longhorn-aurora-reborn-in-html5-canvas-12806b.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "vintage windows xp desktop with animated liquid gradients and retro gaming elements"
 description: "A fan recreates Microsoft's lost Longhorn UI effect using modern web tools. Here's how it works."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,5 +43,6 @@ The Longhorn Aurora project raises questions about the future of UI preservation
 
 ## Updates
 
+- **2026-11-18** — Vivo X500 Pro camera review: Battle of the small(er) phones vs Pixel 11 Pro ([source](https://9to5google.com/2026/11/18/vivo-x500-and-vivo-x500-pro-camera-review/))
 - **2026-09-16** — iPhone 18 Pro review: More of a great thing ([source](https://9to5mac.com/2026/09/16/iphone-18-pro-review/))
 - **2026-07-28** — The Trump administration is exempting data centers from pollution laws intended to prevent acid rain ([source](https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/))

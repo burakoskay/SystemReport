@@ -1,19 +1,20 @@
 ---
 title: "Cloned Polo Horses Dominate the Field"
 date: 2026-06-07T14:08:28.481Z
-modified_date: 2026-10-10T10:22:43.359Z
+modified_date: 2026-11-18T18:37:13.912Z
 tags: ["cloning","polo","technology","sports"]
 hero_image: "/hero/2026-06-07-cloned-polo-horses-dominate-the-field-882243.jpg"
 hero_image_credit_name: "Жанна  Алимкулова"
 hero_image_credit_url: "https://www.pexels.com/@2150381842"
 visual_keyword: "cloned polo horses"
 description: "Horse replicas have taken over polo, changing the sport with cloning technology."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-06-07-cloned-polo-horses-dominate-the-field-882243.mp3"
 audio_bytes: 593756
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The use of cloned horses in polo is a complex issue that requires careful consid
 
 ## Updates
 
+- **2026-11-18** — You'll need the latest PS5 firmware update to play GTA VI ([source](https://www.engadget.com/2320303/youll-need-the-latest-ps5-firmware-update-to-play-gta-vi/))
 - **2026-10-10** — Show HN: The rarest tech books and docs you've probably never read ([source](https://readrare.com/))
 - **2026-09-22** — Saudi Arabia’s new Exobot EVs make the Cybertruck look normal ([source](https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot))
 - **2026-07-26** — Champagne and Bullets belongs on the Mount Rushmore of bad movies ([source](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review))

@@ -1,16 +1,17 @@
 ---
 title: "Braun Discounts"
 date: 2026-08-13T07:19:34.282Z
-modified_date: 2026-09-13T22:02:01.216Z
+modified_date: 2026-11-18T18:39:35.919Z
 tags: ["Braun","Discounts","IPL","Grooming"]
 hero_image: "/hero/2026-08-13-braun-discounts-da8f1b.jpg"
 hero_image_credit_name: "Authentic Stock"
 hero_image_credit_url: "https://www.pexels.com/@authentic-stock-44398319"
 visual_keyword: "Braun IPL"
 description: "Save on Braun IPL and grooming products"
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,5 +36,6 @@ The 15% discount offer is not an isolated event, but rather part of a larger tre
 
 ## Updates
 
+- **2026-11-18** — The UK and some other countries don’t get more Siri AI usage with iCloud+ ([source](https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/))
 - **2026-09-13** — Flock worker calls police on reporter filming public camera installation ([source](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/))
 - **2026-09-02** — Deals: AirPods Pro 3 $50 off, M5 MacBook Air $240 off, M6 Mac mini, accessories from $5.50, more ([source](https://9to5mac.com/2026/09/02/deals-airpods-pro-3-m5-macbook-air-m6-mac-mini/))

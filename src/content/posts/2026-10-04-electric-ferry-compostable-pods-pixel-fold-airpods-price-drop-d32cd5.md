@@ -1,19 +1,20 @@
 ---
 title: "Electric Ferry, Compostable Pods, Pixel Fold, AirPods Price Drop"
 date: 2026-10-04T18:02:08.621Z
-modified_date: 2026-10-16T14:28:12.967Z
+modified_date: 2026-11-18T18:38:14.865Z
 tags: ["electric ferry","sustainable tech","consumer electronics","pricing"]
 hero_image: "/hero/2026-10-04-electric-ferry-compostable-pods-pixel-fold-airpods-price-drop-d32cd5.jpg"
 hero_image_credit_name: "Sami TÜRK"
 hero_image_credit_url: "https://www.pexels.com/@trksami"
 visual_keyword: "electric hydrofoil ferry gliding over water"
 description: "Vessev's near‑flying ferry, Keurig's compostable pod, Google's early Pixel Fold, and a deep AirPods Pro 3 discount illustrate shifting tech priorities."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-10-04-electric-ferry-compostable-pods-pixel-fold-airpods-price-drop-d32cd5.mp3"
 audio_bytes: 619669
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Vessev’s electric hydrofoil ferry lifted off the water this week, while Keurig unveiled a compostable coffee pod that costs more than its plastic predecessor. The two announcements highlight how sustainability pressures intersect with pricing realities across hardware categories.
@@ -62,4 +63,5 @@ What to watch: Vessev’s next funding round, Keurig’s retail pricing strategy
 
 ## Updates
 
+- **2026-11-18** — The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone ([source](https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/))
 - **2026-10-16** — Jabra Enhance Select M3 Review (2026): A Big Price for Small Wins ([source](https://www.wired.com/review/review-jabra-enhance-select-m3/))

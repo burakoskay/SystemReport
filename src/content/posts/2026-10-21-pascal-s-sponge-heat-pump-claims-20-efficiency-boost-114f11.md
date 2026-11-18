@@ -1,18 +1,20 @@
 ---
 title: "Pascal’s Sponge Heat Pump Claims 20% Efficiency Boost"
 date: 2026-10-21T20:01:57.573Z
+modified_date: 2026-11-18T18:36:43.510Z
 tags: ["heat pumps","energy efficiency","startup","hvac"]
 hero_image: "/hero/2026-10-21-pascal-s-sponge-heat-pump-claims-20-efficiency-boost-114f11.jpg"
 hero_image_credit_name: "alpha innotec"
 hero_image_credit_url: "https://www.pexels.com/@alpha-innotec-936418931"
 visual_keyword: "sponge-like heat pump material inside a modern home heating system"
 description: "Pascal unveils a sponge‑based heat pump that could shave 20% off energy use, challenging a 170‑year‑old technology."
-sources_count: 11
-author: "maya-chen"
+sources_count: 12
 audio_path: "/audio/2026-10-21-pascal-s-sponge-heat-pump-claims-20-efficiency-boost-114f11.mp3"
 audio_bytes: 573692
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Pascal rolled out a heat‑pump prototype that swaps traditional metal fins for a porous, sponge‑like absorbent. The startup says the material lifts the system’s coefficient of performance by roughly 20%.
 
@@ -47,3 +49,7 @@ Industry analysts note that a new material can trigger a cascade of redesigns ac
 Pascal plans to submit its prototype for AHRI certification later this year. The outcome will reveal whether the 20% lift survives independent testing. Watch for pilot installations in multi‑family buildings, which could provide real‑world performance data. Competitors may announce counter‑measures—such as advanced fin geometries or hybrid refrigerant blends—within the next 12 months. The next round of efficiency standards, expected in 2027, could also codify any gains if Pascal’s material proves viable.
 
 The heat‑pump market is at a point where a modest material breakthrough can reshape cost‑benefit calculations for retrofits. If Pascal’s sponge lives up to its promise, the next wave of residential heating could look less like a redesign of a 19th‑century engine and more like an incremental, material‑driven upgrade.
+
+## Updates
+
+- **2026-11-18** — GTA 6 launch day: Live updates on the biggest game of the year ([source](https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/))

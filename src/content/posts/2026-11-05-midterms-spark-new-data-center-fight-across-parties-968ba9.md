@@ -1,18 +1,20 @@
 ---
 title: "Midterms Spark New Data Center Fight Across Parties"
 date: 2026-11-05T02:02:06.225Z
+modified_date: 2026-11-18T18:37:34.409Z
 tags: ["data-centers","politics","ai","space","super-pac"]
 hero_image: "/hero/2026-11-05-midterms-spark-new-data-center-fight-across-parties-968ba9.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "satellite data center array over Earth at dusk"
 description: "Democrats' wins in AI hotspots and a bipartisan backlash reshape the data center debate, while space‑based options and a $100 million AI Super PAC add new twists."
-sources_count: 3
-author: "maya-chen"
+sources_count: 4
 audio_path: "/audio/2026-11-05-midterms-spark-new-data-center-fight-across-parties-968ba9.mp3"
 audio_bytes: 585395
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 Democrats captured key AI‑infrastructure districts in Tuesday’s midterms, and data‑center opposition rippled across party lines.
 
@@ -49,3 +51,7 @@ The PAC’s failure does not erase its presence. Its donors remain active in lob
 ## What to Watch Next
 
 The next battleground will be state‑level utility commissions as they decide whether to grant renewable‑energy contracts to data‑center developers. At the federal level, the FCC’s upcoming spectrum auction for satellite broadband could set the technical limits for LEO data centers. Finally, the “Leading the Future” Super PAC is expected to file a new political action report next quarter, which will reveal whether it is reallocating funds toward lobbying rather than ballot influence. Tracking those filings will indicate how the tech‑industry lobby adapts after a disappointing midterm showing.
+
+## Updates
+
+- **2026-11-18** — Fitbit Edge after 30 days: Life in the middle lane [Video] ([source](https://9to5google.com/2026/11/18/fitbit-edge-after-30-days-life-in-the-middle-lane-video/))

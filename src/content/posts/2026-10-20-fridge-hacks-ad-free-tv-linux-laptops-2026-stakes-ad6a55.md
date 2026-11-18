@@ -1,15 +1,17 @@
 ---
 title: "Fridge hacks, ad‑free TV, Linux laptops: 2026 stakes"
 date: 2026-10-20T13:26:50.389Z
+modified_date: 2026-11-18T18:37:44.714Z
 tags: ["iot security","android tv","linux"]
 hero_image: "/hero/2026-10-20-fridge-hacks-ad-free-tv-linux-laptops-2026-stakes-ad6a55.jpg"
 hero_image_credit_name: "Gustavo Fring"
 hero_image_credit_url: "https://www.pexels.com/@gustavo-fring"
 visual_keyword: "hacker in a supermarket aisle beside a smart fridge"
 description: "Hackers triggered defrosting in French fridges, a community stripped ads from Android TV, and a user installed Linux on an RTX Spark laptop, highlighting control gaps."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## Fridge firmware exposed
 
@@ -38,3 +40,7 @@ Regulators in Europe have begun to draft requirements for “secure by design”
 ## What to watch
 
 In the coming months, watch for a formal response from the French retailer’s parent company regarding the fridge vulnerability; a press release or patch rollout would signal how quickly the industry can remediate IoT flaws. Keep an eye on Android TV firmware updates that either close the ad‑removal loophole or introduce new, less intrusive monetization models. Finally, monitor announcements from major laptop OEMs about account‑free activation options, as consumer pressure may force a shift toward more open provisioning. Each of these moves will shape how much control end users retain over the devices they rely on daily.
+
+## Updates
+
+- **2026-11-18** — Deals: Pixel Watch 5 hits Black Friday price at $100 off, Galaxy Watch 9 $110 off, Galaxy Tabs $300 off, more ([source](https://9to5google.com/2026/11/18/deals-pixel-watch-5-galaxy-watch-9-galaxy-tabs/))

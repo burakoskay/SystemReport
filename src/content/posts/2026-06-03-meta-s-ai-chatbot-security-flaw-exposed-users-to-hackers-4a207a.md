@@ -1,18 +1,20 @@
 ---
 title: "Meta's AI Chatbot Security Flaw Exposed Users to Hackers"
 date: 2026-06-03T17:03:29.114Z
+modified_date: 2026-11-18T18:39:46.202Z
 tags: ["meta","ai chatbot","security breach","user security","hackers"]
 hero_image: "/hero/2026-06-03-meta-s-ai-chatbot-security-flaw-exposed-users-to-hackers-4a207a.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "hacked ai chatbot"
 description: "Meta's AI-powered chatbot allowed hackers to gain access to users' accounts, prompting the company to alert affected users."
-sources_count: 4
-author: "priya-raman"
+sources_count: 5
 audio_path: "/audio/2026-06-03-meta-s-ai-chatbot-security-flaw-exposed-users-to-hackers-4a207a.mp3"
 audio_bytes: 604831
+author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ### Meta's AI Chatbot Hack Exposes Users to Cyber Threats
@@ -43,3 +45,6 @@ The incident also raises concerns about the effectiveness of Meta's security mea
 
 In the coming weeks and months, companies that use AI chatbots will be closely watching Meta's response to the hack. The incident has highlighted the importance of prioritizing user security and taking steps to prevent similar incidents from occurring in the future. Companies must take a proactive approach to security, investing in measures that will protect user data and prevent security breaches.
 
+## Updates
+
+- **2026-11-18** — 'Human' Is Cambridge Dictionary's Word of the Year 2026 ([source](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026))
