@@ -1,18 +1,20 @@
 ---
 title: "Starlink's Fragile Role in Ukraine, Iran and Remote America"
 date: 2026-10-25T18:45:45.198Z
+modified_date: 2026-11-18T09:38:14.290Z
 tags: ["starlink","satellite-internet","geopolitics"]
 hero_image: "/hero/2026-10-25-starlink-s-fragile-role-in-ukraine-iran-and-remote-america-065549.jpg"
 hero_image_credit_name: "Igor Mashkov"
 hero_image_credit_url: "https://www.pexels.com/@igor-mashkov-14869791"
 visual_keyword: "satellite dish illuminated against night sky over war‑torn city"
 description: "Elon Musk's satellite network juggles war, sanctions and tribal access, exposing the risks of a single private owner of global broadband."
-sources_count: 8
-author: "elena-marchetti"
+sources_count: 9
 audio_path: "/audio/2026-10-25-starlink-s-fragile-role-in-ukraine-iran-and-remote-america-065549.mp3"
 audio_bytes: 588530
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Ukraine's Uncertain Bandwidth
 
@@ -46,6 +48,9 @@ That argument revives the 1996 Telecom Act debate, when lawmakers wrestled with 
 
 What to watch: the Federal Communications Commission’s pending review of SpaceX’s licensing, the Ukrainian Ministry of Defense’s rollout of alternative communication architectures, and any formal Iranian declaration of intent against Starlink facilities. Each decision will reveal whether the satellite internet market remains a private playground or becomes a regulated public utility.
 
+## Updates
+
+- **2026-11-18** — ‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse ([source](https://www.wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse/))
 
 [^1]: [koreatimes.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxQZPAppU_dgBGg9ELHax2LcMhQfgIxR5Zl0mZ2ppnFKA38ZMClh2H8i-7RomPhlCEm8i3KpRMlvaCVzkIilQ5cr09zBjwdiH-lZUc5kFyY73D2ycafVmOtX7V3hgJq30xUzzcmIvRU2R821z8YkmNIcklWI4VcU-xM61d4JtHLXfFkd9Gar1hWIvXYi9c7rL9yMHovyM5brUcY9GdhDQLF2AN30hTjs2ZHkNL-CvtmtnWJqhrtQ==)
 [^2]: [tovima.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCNUGD8CLbcYcoi9vSWz7_lY2YjIHuq6nLdt8PXIkRNp7oe4bjoQxV7o0D-grl_XhlWKFoFVWPnaPuaT0KaFUWztvQq0MKExKiu3u1sEODPnU6bPANLOYBbkP8J3u1y5fOQ4bQVrsrekOURgQZ8eZXe_xdsIoZD_LiImI73okfqM17XH_y5C3XVvmVDx0=)

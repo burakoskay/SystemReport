@@ -1,16 +1,17 @@
 ---
 title: "Starlette flaw endangers millions of AI agents"
 date: 2026-05-26T22:04:59.963Z
-modified_date: 2026-06-06T10:09:56.884Z
+modified_date: 2026-11-18T09:38:26.185Z
 tags: ["ai","security","robotics","open-source"]
 hero_image: "/hero/2026-05-26-starlette-flaw-endangers-millions-of-ai-agents-905a97.jpg"
 hero_image_credit_name: "Darlene Alderson"
 hero_image_credit_url: "https://www.pexels.com/@darlene-alderson"
 visual_keyword: "abstract network of code and robot silhouettes with warning symbols"
 description: "A BadHost package in the Starlette framework can hijack AI agents, exposing a broader pattern of robot and AI software vulnerabilities."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## BadHost in Starlette puts AI agents at risk
@@ -35,4 +36,5 @@ Watch for an official CVE for BadHost and for the next Starlette release that re
 
 ## Updates
 
+- **2026-11-18** — FAA suspends installation of router that led to a ground stop of flights across the US ([source](https://www.engadget.com/2320202/faa-suspends-installation-router-ground-stop-flights-across-us/))
 - **2026-06-06** — The Moons of Uranus May Hold the Key to Finding Missing Planets ([source](https://www.wired.com/story/the-moons-of-uranus-may-hold-the-key-to-finding-missing-planets/))

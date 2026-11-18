@@ -1,15 +1,17 @@
 ---
 title: "AI Personas Flip Coffee Preference After Sideways‑Inspired"
 date: 2026-09-02T02:40:35.668Z
+modified_date: 2026-11-18T09:38:32.071Z
 tags: ["ai","marketing","simulation","coffee","media-effects"]
 hero_image: "/hero/2026-09-02-ai-personas-flip-coffee-preference-after-sideways-inspired-b3693d.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "AI personas analyzing coffee preferences on a screen"
 description: "Rally’s new memory feature showed a 76‑point swing from Folgers to Ethiopian beans when AI personas were primed with a Sideways‑style narrative."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 Rally’s memory feature turned a coffee taste test on its head. In a controlled simulation, AI personas that absorbed a Sideways‑inspired memory dumped Folgers and gravitated toward single‑origin Ethiopian beans.
 
@@ -52,3 +54,7 @@ However, the experiment also exposed limits. The personas were a synthetic stand
 ## What to watch next
 
 Rally plans to open the memory feature to a broader developer audience later this quarter. Marketers should track adoption rates and any case studies that compare AI‑driven predictions with actual sales lift after a campaign launch. The next data point will be whether a brand can replicate the 76‑point swing in a live market using a movie tie‑in or influencer narrative.
+
+## Updates
+
+- **2026-11-18** — Here's what you can do if your PC won't read an external hard drive ([source](https://www.engadget.com/2315721/pc-wont-read-external-hard-drive-fixes/))
