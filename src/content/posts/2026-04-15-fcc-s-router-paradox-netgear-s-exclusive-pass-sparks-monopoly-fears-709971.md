@@ -1,16 +1,17 @@
 ---
 title: "FCC's Router Paradox: Netgear's Exclusive Pass Sparks Monopoly Fears"
 date: 2026-04-15T19:45:34.217Z
-modified_date: 2026-10-21T19:54:07.176Z
+modified_date: 2026-11-19T18:47:39.001Z
 tags: ["fcc","netgear","routers","cybersecurity","tech policy"]
 hero_image: "/hero/2026-04-15-fcc-s-router-paradox-netgear-s-exclusive-pass-sparks-monopoly-fears-709971.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "government regulation network routers"
 description: "The FCC's sweeping ban on foreign-made routers has a curious exception: Netgear. This conditional approval sparks questions about market fairness and national security."
-sources_count: 8
+sources_count: 9
 author: "lena-volkov"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ As the industry navigates this new regulatory landscape, the FCC faces increasin
 
 ## Updates
 
+- **2026-11-19** — 21 Best Home Entertainment Gifts (2026): TVs, Lights, and More ([source](https://www.wired.com/story/best-home-entertainment-gifts-2026/))
 - **2026-10-21** — 7 Best Phones You Can’t Buy in the US (2026) ([source](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/))
 - **2026-10-16** — Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push ([source](https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/))
 - **2026-06-02** — Ableton is letting musicians build browser-style extensions for Live ([source](https://www.theverge.com/tech/941674/ableton-live-extensions-sdk-music-daw))

@@ -1,16 +1,17 @@
 ---
 title: "Joi AI's Monthlong Study on Masturbation with AI Companions"
 date: 2026-08-14T10:55:11.023Z
-modified_date: 2026-09-29T20:25:25.884Z
+modified_date: 2026-11-19T18:50:47.373Z
 tags: ["AI","Intimacy","Mental Health"]
 hero_image: "/hero/2026-08-14-joi-ai-s-monthlong-study-on-masturbation-with-ai-companions-f372da.jpg"
 hero_image_credit_name: "Kindel Media"
 hero_image_credit_url: "https://www.pexels.com/@kindelmedia"
 visual_keyword: "AI Companions"
 description: "Joi AI hired 10 masturbation consultants for a study on AI companions"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Joi AI's study on masturbation with AI companions is a unique approach to addres
 
 ## Updates
 
+- **2026-11-19** — Halide camera app just got even better for iPhone Duo ([source](https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/))
 - **2026-09-29** — iOS 27.2: Three new features coming soon to your iPhone ([source](https://9to5mac.com/2026/09/29/ios-27-2-three-new-features-coming-soon-to-your-iphone/))
 - **2026-09-20** — Meet the Academics Trying to Stop You From Having Sex in Robotaxis ([source](https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/))
 - **2026-09-18** — Meta’s new Muse AI agent app overtakes ChatGPT as top iPhone app ([source](https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/))

@@ -1,16 +1,17 @@
 ---
 title: "Mars Spacecraft Faces Congressional Scrutiny"
 date: 2026-05-19T04:02:59.471Z
-modified_date: 2026-10-08T12:38:56.259Z
+modified_date: 2026-11-19T18:47:59.585Z
 tags: ["NASA","Mars","Space Exploration"]
 hero_image: "/hero/2026-05-19-mars-spacecraft-faces-congressional-scrutiny-53209a.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "Mars Reconnaissance Orbiter"
 description: "Two senators seek answers on NASA's Mars spacecraft performance."
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ The scrutiny faced by NASA's Mars Reconnaissance Orbiter highlights the importan
 
 ## Updates
 
+- **2026-11-19** — ‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down ([source](https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down/))
 - **2026-10-08** — A Scientist Working on the ‘IceCube’ Neutrino Detector Explains the Nobel Prize–Winning Technology ([source](https://www.wired.com/story/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/))

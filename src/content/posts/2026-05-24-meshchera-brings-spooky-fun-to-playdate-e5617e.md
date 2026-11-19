@@ -1,16 +1,17 @@
 ---
 title: "Meshchera Brings Spooky Fun to Playdate"
 date: 2026-05-24T23:05:28.349Z
-modified_date: 2026-11-05T17:53:15.431Z
+modified_date: 2026-11-19T18:50:16.465Z
 tags: ["gaming","playdate","live gaming"]
 hero_image: "/hero/2026-05-24-meshchera-brings-spooky-fun-to-playdate-e5617e.jpg"
 hero_image_credit_name: "Natalia Goryaeva"
 hero_image_credit_url: "https://www.pexels.com/@natalia-goryaeva-119587096"
 visual_keyword: "Meshchera"
 description: "A new match-three game for Playdate, Meshchera, offers an atmospheric experience set in a haunted marsh, complete with spiders and skeletons."
-sources_count: 8
+sources_count: 9
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -85,6 +86,7 @@ As the gaming industry continues to evolve, it will be interesting to see how ga
 
 ## Updates
 
+- **2026-11-19** — Proton Pass is up to 60% off for Black Friday—and it does way more than just store your passwords ([source](https://9to5google.com/2026/11/19/proton-pass-is-up-to-60-off-for-black-friday-and-it-does-way-more-than-just-store-your-passwords-sponsored/))
 - **2026-11-05** — Bluesky hit peak usage for the year on election night ([source](https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/))
 - **2026-10-28** — Apple Watch Series 12 and Ultra 4 adding two new features soon ([source](https://9to5mac.com/2026/10/28/apple-watch-series-12-ultra-4-adding-two-new-features-soon/))
 - **2026-09-08** — Pusheen’s first game is coming to Apple Arcade ([source](https://www.theverge.com/games/991398/pusheen-apple-arcade-game))

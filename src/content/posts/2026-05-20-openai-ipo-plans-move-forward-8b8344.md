@@ -1,16 +1,17 @@
 ---
 title: "OpenAI IPO Plans Move Forward"
 date: 2026-05-20T18:23:34.468Z
-modified_date: 2026-10-23T14:35:45.988Z
+modified_date: 2026-11-19T18:49:14.664Z
 tags: ["OpenAI","IPO","Artificial Intelligence"]
 hero_image: "/hero/2026-05-20-openai-ipo-plans-move-forward-8b8344.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "Artificial Intelligence"
 description: "OpenAI prepares for IPO after lawsuit loss"
-sources_count: 4
+sources_count: 5
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ The regulatory environment for AI companies is complex and evolving. OpenAI's IP
 
 ## Updates
 
+- **2026-11-19** — Microsoft is killing its great tasks app in favor of its worse tasks app ([source](https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner))
 - **2026-10-23** — Netflix can’t fire its way out of this downward spiral ([source](https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad))
 - **2026-08-05** — Reddit is introducing a new moderator: AI ([source](https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform))
 - **2026-06-03** — WiiM expands its whole-home ecosystem with a new soundbar ([source](https://www.theverge.com/tech/942748/wiim-releases-first-soundbar))

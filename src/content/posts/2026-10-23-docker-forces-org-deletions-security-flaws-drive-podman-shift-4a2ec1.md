@@ -1,18 +1,20 @@
 ---
 title: "Docker forces org deletions, security flaws drive Podman shift"
 date: 2026-10-23T03:00:12.767Z
+modified_date: 2026-11-19T18:49:45.487Z
 tags: ["docker","podman","open source","container security"]
 hero_image: "/hero/2026-10-23-docker-forces-org-deletions-security-flaws-drive-podman-shift-4a2ec1.jpg"
 hero_image_credit_name: "khezez  | خزاز"
 hero_image_credit_url: "https://www.pexels.com/@khezez"
 visual_keyword: "developer at desk with Docker and Podman logos, looking concerned"
 description: "Docker’s email threatening to delete free organization accounts and a string of recent vulnerabilities are pushing open‑source projects toward Podman Desktop."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-23-docker-forces-org-deletions-security-flaws-drive-podman-shift-4a2ec1.mp3"
 audio_bytes: 601278
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Docker’s sudden org‑deletion ultimatum
 Docker emailed every Docker Hub user with an "organisation" and warned that the account – together with every image – would be erased unless the owner upgraded to a paid Team plan. The notice linked to a terse PDF that omitted key details, leaving maintainers scrambling for answers. The upgrade costs $420 per year, a monthly charge that jumps from a previously free tier to a commercial price point. Personal accounts were spared, but they now face a six‑month image‑retention policy. Community members posted the reaction on Twitter and Hacker News, describing the move as a hostage‑taking of public images.
@@ -36,3 +38,7 @@ The broader container registry market is reacting. Registries that support OCI�
 
 ## What to watch
 Watch Docker’s next communication about the Team plan – a revised policy or a grace period could alter the migration calculus for many projects. Track adoption metrics for Podman Desktop and other daemonless runtimes; a rapid rise in downloads would signal a broader move away from Docker’s model. Finally, monitor any new CVEs affecting container runtimes, especially those that target daemon‑less architectures, as security will remain the primary driver of tooling decisions.
+
+## Updates
+
+- **2026-11-19** — DOJ accuses Russian national of spying on and harassing Palantir employees ([source](https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/))

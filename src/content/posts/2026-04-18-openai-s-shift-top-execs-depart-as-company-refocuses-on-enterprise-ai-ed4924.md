@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Shift: Top Execs Depart as Company Refocuses on Enterprise AI"
 date: 2026-04-18T01:04:41.771Z
-modified_date: 2026-11-13T19:07:18.448Z
+modified_date: 2026-11-19T18:50:57.958Z
 tags: ["ai","openai","enterprise"]
 hero_image: "/hero/2026-04-18-openai-s-shift-top-execs-depart-as-company-refocuses-on-enterprise-ai-ed4924.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI brain network"
 description: "OpenAI's pivot towards enterprise AI leads to key departures"
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -27,6 +28,7 @@ OpenAI, the company behind the revolutionary ChatGPT, is undergoing a significan
 
 ## Updates
 
+- **2026-11-19** — UK court rules Apple can share the top secret order everyone already knew ([source](https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/))
 - **2026-11-13** — OpenAI launches ChatGPT Wallet, enabling ‘dot’ agents to make purchases ([source](https://9to5mac.com/2026/11/13/openai-launches-chatgpt-wallet-enabling-dot-agents-to-make-purchases/))
 - **2026-10-14** — OpenAI claims an ex-employee took its product plans and presented them to Apple ([source](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans))
 - **2026-09-30** — Restate lands $20M as the need for durable infrastructure increases with AI agents ([source](https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/))

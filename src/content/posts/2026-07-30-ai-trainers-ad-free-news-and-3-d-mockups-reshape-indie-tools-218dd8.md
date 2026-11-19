@@ -1,16 +1,17 @@
 ---
 title: "AI trainers, ad‑free news and 3‑D mockups reshape indie tools"
 date: 2026-07-30T08:26:58.524Z
-modified_date: 2026-10-04T13:37:29.011Z
+modified_date: 2026-11-19T18:50:06.097Z
 tags: ["ai","subscription","design","fitness","software"]
 hero_image: "/hero/2026-07-30-ai-trainers-ad-free-news-and-3-d-mockups-reshape-indie-tools-218dd8.jpg"
 hero_image_credit_name: "Leonid Altman"
 hero_image_credit_url: "https://www.pexels.com/@altman"
 visual_keyword: "person reviewing workout form on phone while 3D device mockup renders on screen"
 description: "New AI personal trainer, ad‑free Ars Pro, and a 3‑D mockup generator illustrate how indie apps are betting on subscriptions and real‑time feedback."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ Ars Technica will publish subscriber growth numbers in its next earnings call, o
 
 ## Updates
 
+- **2026-11-19** — Keychron’s keyboards and dock are perfect desk accessories, and they’re up to $48 off ([source](https://9to5google.com/2026/11/19/keychrons-keyboards-and-dock-deals-black-friday/))
 - **2026-10-04** — The MacBook Air M5 is $200 off for the first time in months ([source](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale))
 - **2026-08-19** — The women’s soccer league trying to fix fantasy sports ([source](https://www.theverge.com/entertainment/981880/womens-super-league-wsl-fantasy-league-app))
 

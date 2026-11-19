@@ -1,19 +1,20 @@
 ---
 title: "Amazon kills Kindle Newsstand, shifts focus to Kindle Unlimited"
 date: 2026-05-29T16:00:46.974Z
-modified_date: 2026-11-07T21:20:11.040Z
+modified_date: 2026-11-19T18:49:04.209Z
 tags: ["Amazon","Kindle","digital publishing"]
 hero_image: "/hero/2026-05-29-amazon-kills-kindle-newsstand-shifts-focus-to-kindle-unlimited-5f5229.jpg"
 hero_image_credit_name: "Caio"
 hero_image_credit_url: "https://www.pexels.com/@caio"
 visual_keyword: "Kindle"
 description: "Amazon discontinues Kindle Newsstand, ending magazine and newspaper subscriptions, and pushes publishers to Kindle Unlimited."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-29-amazon-kills-kindle-newsstand-shifts-focus-to-kindle-unlimited-5f5229.mp3"
 audio_bytes: 596890
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ The discontinuation of Kindle Newsstand is just one example of the changes takin
 
 ## Updates
 
+- **2026-11-19** — Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June ([source](https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale))
 - **2026-11-07** — Amazon’s new basic Kindle proves you don’t need all the bells and whistles ([source](https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/))
 - **2026-10-13** — AI is a tool and using it well takes skill ([source](https://yyhh.org/blog/2026/10/ai-is-a-tool/))
 - **2026-08-25** — New Mac mini, featuring M6 and M5 Pro ([source](https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/))
