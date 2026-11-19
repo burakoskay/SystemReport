@@ -1,16 +1,17 @@
 ---
 title: "Kaspersky detects widespread attack on Daemon Tools users"
 date: 2026-05-05T17:36:07.054Z
-modified_date: 2026-11-16T14:31:56.840Z
+modified_date: 2026-11-19T01:38:40.537Z
 tags: ["cybersecurity","data breach","education technology"]
 hero_image: "/hero/2026-05-05-kaspersky-detects-widespread-attack-on-daemon-tools-users-496d26.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Thousands of Daemon Tools users infected with backdoor; Instructure suffers data breach."
-sources_count: 3
+sources_count: 4
 author: "priya-raman"
 ---
+
 
 
 
@@ -52,4 +53,5 @@ The incidents at Daemon Tools and Instructure serve as a reminder of the importa
 
 ## Updates
 
+- **2026-11-19** — Nvidia’s rise, visualized ([source](https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang))
 - **2026-11-16** — The Nvidia scandal isn’t slowing down ([source](https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down))

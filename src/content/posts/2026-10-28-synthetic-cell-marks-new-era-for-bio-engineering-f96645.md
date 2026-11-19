@@ -1,18 +1,20 @@
 ---
 title: "Synthetic Cell Marks New Era for Bio‑Engineering"
 date: 2026-10-28T20:53:31.107Z
+modified_date: 2026-11-19T01:38:23.897Z
 tags: ["synthetic biology","bioengineering","regulation"]
 hero_image: "/hero/2026-10-28-synthetic-cell-marks-new-era-for-bio-engineering-f96645.jpg"
 hero_image_credit_name: "Edward Jenner"
 hero_image_credit_url: "https://www.pexels.com/@edward-jenner"
 visual_keyword: "laboratory scientist holding a glowing synthetic bacterial cell"
 description: "Venter's team creates a living microbe fully controlled by synthetic DNA, sparking hopes and regulatory alarm."
-sources_count: 8
-author: "elena-marchetti"
+sources_count: 9
 audio_path: "/audio/2026-10-28-synthetic-cell-marks-new-era-for-bio-engineering-f96645.mp3"
 audio_bytes: 603368
+author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## The breakthrough
 Scientists at the J. Craig Venter Institute announced a synthetic cell whose entire genome is chemically assembled and fully directs the organism’s behavior. The feat pushes synthetic biology from blueprint to living factory and forces regulators to confront a new class of bio‑engineered organisms.
@@ -42,3 +44,7 @@ The tension between commercial ambition and precautionary principle is sharpenin
 Regulators in the United States and Europe will soon weigh proposals for oversight of fully synthetic organisms. The next public hearing at the National Institutes of Health, expected later this year, could set the tone for licensing, containment, and release criteria.
 
 Industry observers should track partnerships between Venter’s institute and corporate sponsors. Funding agreements, joint patents, or pilot production runs will reveal how quickly the technology moves from laboratory proof‑of‑concept to commercial scale. The balance between innovation and safety will determine whether synthetic cells become a cornerstone of the bio‑economy or a cautionary footnote.
+
+## Updates
+
+- **2026-11-19** — Democrats skip a vote on adding Brendan Carr’s adviser to the FCC ([source](https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs))

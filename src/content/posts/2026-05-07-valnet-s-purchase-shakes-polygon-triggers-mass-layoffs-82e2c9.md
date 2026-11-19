@@ -1,16 +1,17 @@
 ---
 title: "Valnet’s Purchase Shakes Polygon, Triggers Mass Layoffs"
 date: 2026-05-07T23:20:13.343Z
-modified_date: 2026-11-09T08:58:01.231Z
+modified_date: 2026-11-19T01:38:32.159Z
 tags: ["gaming","journalism","layoffs","valnet"]
 hero_image: "/hero/2026-05-07-valnet-s-purchase-shakes-polygon-triggers-mass-layoffs-82e2c9.jpg"
 hero_image_credit_name: "Huy Phan"
 hero_image_credit_url: "https://www.pexels.com/@huy-phan-316220"
 visual_keyword: "empty office desks with gaming memorabilia"
 description: "Vox Media sold Polygon to Valnet, sparking unexpected cuts that threaten independent gaming journalism."
-sources_count: 15
+sources_count: 16
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Track Valnet’s first quarterly earnings report for any line‑item shifts tied
 
 ## Updates
 
+- **2026-11-19** — Absolute Batman can save DC Studios ([source](https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios))
 - **2026-11-09** — Unlocking any car from X brand in most of the world ([source](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/))
 - **2026-11-03** — Show HN: Hacker Times, a New York Times-inspired version of Hacker News ([source](https://hackertimes.ca/))
 - **2026-10-22** — PC shipments are in the toilet, plunging over 20 percent from last year ([source](https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/))

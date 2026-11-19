@@ -1,19 +1,20 @@
 ---
 title: "Lenovo $900 Slim 5x, iPhone Duo $1,200 Deal, AirPods 5 ANC"
 date: 2026-11-03T22:57:47.961Z
-modified_date: 2026-11-11T01:43:32.857Z
+modified_date: 2026-11-19T01:38:57.637Z
 tags: ["lenovo","iphone","airpods","deals","tech"]
 hero_image: "/hero/2026-11-03-lenovo-900-slim-5x-iphone-duo-1-200-deal-airpods-5-anc-f700f4.jpg"
 hero_image_credit_name: "Владимир  Высоцкий"
 hero_image_credit_url: "https://www.pexels.com/@214377531"
 visual_keyword: "close-up of a laptop, smartphone, and earbuds on a desk"
 description: "Lenovo's IdeaPad Slim 5x hits $900, carriers bundle iPhone Duo with up to $1,200 off on 36‑month plans, and Apple adds ANC to every AirPods model."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-11-03-lenovo-900-slim-5x-iphone-duo-1-200-deal-airpods-5-anc-f700f4.mp3"
 audio_bytes: 664390
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Lenovo slashed the IdeaPad Slim 5x to $900, a price that undercuts the current laptop inflation trend. The discount feels like a rare reprieve for engineers who have watched notebook prices climb steadily.
@@ -60,4 +61,5 @@ Track whether Lenovo sustains the $900 price or reverts to higher margins once i
 
 ## Updates
 
+- **2026-11-19** — The leaked Lenovo Legion Go Beam could be the affordable handheld we need ([source](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need))
 - **2026-11-11** — CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features ([source](https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/))

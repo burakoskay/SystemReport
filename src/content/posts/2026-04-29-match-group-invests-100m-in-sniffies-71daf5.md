@@ -1,16 +1,17 @@
 ---
 title: "Match Group Invests $100M in Sniffies"
 date: 2026-04-29T06:28:58.657Z
-modified_date: 2026-10-22T19:43:24.734Z
+modified_date: 2026-11-19T01:39:22.401Z
 tags: ["Match Group","Sniffies","Online Dating"]
 hero_image: "/hero/2026-04-29-match-group-invests-100m-in-sniffies-71daf5.jpg"
 hero_image_credit_name: "Italo Crespi"
 hero_image_credit_url: "https://www.pexels.com/@italo-crespi-2169075"
 visual_keyword: "Sniffies"
 description: "Match invests in gay cruising app Sniffies"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ The investment in Sniffies is a significant development in this trend, as it hig
 
 ## Updates
 
+- **2026-11-19** — Mid-week Android app deals and freebies: Dungeon Merge!, ISLANDERS, LEGO Bricktales, more ([source](https://9to5toys.com/2026/11/18/todays-highlight-google-play-deals-51/))
 - **2026-10-22** — Arc browser gets a sunset date, and users have two months to move on ([source](https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on/))
 - **2026-10-13** — Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites ([source](https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/))
 - **2026-10-10** — Indie App Spotlight: ‘Milepost’ is a driving journal that saves your memories on the road ([source](https://9to5mac.com/2026/10/10/indie-app-spotlight-milepost-is-a-driving-journal-that-saves-your-memories-on-the-road/))

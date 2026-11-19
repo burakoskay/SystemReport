@@ -1,16 +1,17 @@
 ---
 title: "Atom Beats RSS on Reliability and Standards"
 date: 2026-08-02T13:15:03.421Z
-modified_date: 2026-08-24T16:29:18.844Z
+modified_date: 2026-11-19T01:38:15.784Z
 tags: ["atom","rss","webfeeds","specifications","openweb"]
 hero_image: "/hero/2026-08-02-atom-beats-rss-on-reliability-and-standards-077398.jpg"
 hero_image_credit_name: "anshul kumar"
 hero_image_credit_url: "https://www.pexels.com/@anshul-kumar-495857555"
 visual_keyword: "side-by-side comparison of Atom and RSS XML feed snippets"
 description: "Atom’s required ID element fixes RSS’s broken GUID handling, delivering cleaner feeds for developers and users alike."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -48,5 +49,6 @@ Keep an eye on the RSS Board’s activity under Cadenhead’s chairmanship; any 
 
 ## Updates
 
+- **2026-11-19** — The ‘GTA 6’ Work Blackout Is Here ([source](https://www.wired.com/story/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/))
 - **2026-08-24** — Moto Tag 2’s ‘limited time’ discount to $20 is still live, on Amazon right now too [U] ([source](https://9to5google.com/2026/08/24/moto-tag-2-discount-amazon/))
 - **2026-08-21** — Moto Tag 2’s ‘limited time’ discount to $20 is still live, on Amazon right now too ([source](https://9to5google.com/2026/08/21/moto-tag-2-discount-amazon/))

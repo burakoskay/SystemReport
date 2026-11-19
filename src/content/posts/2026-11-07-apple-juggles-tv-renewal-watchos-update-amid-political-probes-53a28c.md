@@ -1,19 +1,20 @@
 ---
 title: "Apple juggles TV renewal, watchOS update amid political probes"
 date: 2026-11-07T01:35:46.425Z
-modified_date: 2026-11-17T06:28:12.437Z
+modified_date: 2026-11-19T01:37:59.683Z
 tags: ["apple","antitrust","watchos","tv","politics"]
 hero_image: "/hero/2026-11-07-apple-juggles-tv-renewal-watchos-update-amid-political-probes-53a28c.jpg"
 hero_image_credit_name: "Najman Husaini"
 hero_image_credit_url: "https://www.pexels.com/@manglemix"
 visual_keyword: "Apple Watch screen displaying Siri Recap feature"
 description: "Apple renews its culinary series, rolls out Siri Recap in watchOS 27.3 beta, and confronts congressional and DOJ investigations."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-11-07-apple-juggles-tv-renewal-watchos-update-amid-political-probes-53a28c.mp3"
 audio_bytes: 554884
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple is fielding a congressional probe over ICE‑tracking apps while simultaneously expanding its media slate and shipping a new watchOS feature. The juxtaposition highlights how the company must balance product momentum against mounting regulatory pressure.
@@ -56,4 +57,5 @@ Stakeholders should monitor three near‑term signals: the first‑look trailer 
 
 ## Updates
 
+- **2026-11-19** — Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This ([source](https://www.wired.com/story/guys-really-we-got-this/))
 - **2026-11-17** — Apple’s leadership overhaul continues with new Apple Pay and Wallet chief ([source](https://9to5mac.com/2026/11/16/apples-leadership-overhaul-continues-with-new-apple-pay-and-wallet-chief/))
