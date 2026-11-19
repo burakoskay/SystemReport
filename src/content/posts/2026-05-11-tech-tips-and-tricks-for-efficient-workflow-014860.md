@@ -1,16 +1,17 @@
 ---
 title: "Tech Tips and Tricks for Efficient Workflow"
 date: 2026-05-11T11:36:30.208Z
-modified_date: 2026-11-16T14:31:50.153Z
+modified_date: 2026-11-19T09:45:56.348Z
 tags: ["productivity","workflow","tech tips"]
 hero_image: "/hero/2026-05-11-tech-tips-and-tricks-for-efficient-workflow-014860.jpg"
 hero_image_credit_name: "Jolo Diaz"
 hero_image_credit_url: "https://www.pexels.com/@jolodiazr"
 visual_keyword: "keyboard shortcuts"
 description: "Discover practical tech tips and tricks for efficient workflow, from keyboard shortcuts to handy tools and strategies."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -97,6 +98,7 @@ In conclusion, tech tips and tricks are essential for efficient workflow and pro
 
 ## Updates
 
+- **2026-11-19** — Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more ([source](https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/))
 - **2026-11-16** — Google Maps can now create trip itineraries for you ([source](https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning))
 - **2026-09-24** — Meta is going to let you build games with AI right on your phone ([source](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games))
 - **2026-09-24** — Why can’t we just keep rogue AIs off the internet? ([source](https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents))
