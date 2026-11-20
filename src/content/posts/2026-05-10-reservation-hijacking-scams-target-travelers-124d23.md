@@ -1,16 +1,17 @@
 ---
 title: "Reservation Hijacking Scams Target Travelers"
 date: 2026-05-10T09:42:16.163Z
-modified_date: 2026-05-18T21:16:33.219Z
+modified_date: 2026-11-20T09:32:39.286Z
 tags: ["Travel Scams","Reservation Hijacking","Tourism Industry"]
 hero_image: "/hero/2026-05-10-reservation-hijacking-scams-target-travelers-124d23.jpg"
 hero_image_credit_name: "Xayriddin Baxromxo'jayev"
 hero_image_credit_url: "https://www.pexels.com/@xayriddin"
 visual_keyword: "hotel"
 description: "Scammers impersonate hotel staff to seize bookings"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 ## Reservation Hijacking
@@ -36,4 +37,5 @@ Scammers are constantly evolving their tactics to stay ahead of their targets. I
 
 ## Updates
 
+- **2026-11-20** — Uber Kids will let parents book trips for their children aged 10 to 12 years old ([source](https://www.engadget.com/2322650/uber-kids-rides-children-aged-10-to-12-years-old/))
 - **2026-05-18** — Guy Gardner makes a cameo in new Lanterns teaser ([source](https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/))
