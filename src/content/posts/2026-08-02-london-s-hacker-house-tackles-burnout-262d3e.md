@@ -1,16 +1,17 @@
 ---
 title: "London's Hacker House Tackles Burnout"
 date: 2026-08-02T02:09:31.660Z
-modified_date: 2026-11-06T20:15:41.456Z
+modified_date: 2026-11-20T18:18:16.156Z
 tags: ["founder burnout","hacker house","work-life balance"]
 hero_image: "/hero/2026-08-02-london-s-hacker-house-tackles-burnout-262d3e.jpg"
 hero_image_credit_name: "Jabez Cutamora"
 hero_image_credit_url: "https://www.pexels.com/@jabzee"
 visual_keyword: "London"
 description: "Founder house prioritizes work-life balance"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In the future, we can expect to see more hacker houses and coworking spaces that
 
 ## Updates
 
+- **2026-11-20** — Waterdrop Filter’s Black Friday sale brings big savings on under-sink, countertop, and whole-home systems ([source](https://9to5google.com/2026/11/20/waterdrop-filters-black-friday-sale-brings-big-savings-on-under-sink-countertop-and-whole-home-systems/))
 - **2026-11-06** — Just about anyone can rent access to White House IP addresses ([source](https://www.theverge.com/tech/1028835/white-house-residential-proxy))
 - **2026-10-28** — The Xreal Aura smartglasses are now on sale for a discounted launch price ([source](https://www.engadget.com/2299633/the-xreal-aura-smartglasses-are-now-on-sale-for-a-discounted-launch-price/))
 - **2026-08-12** — Google’s Pixel 11 trade-ins top out at $1,000 with great values for older phones ([source](https://9to5google.com/2026/08/12/google-pixel-11-trade-in-offers-values/))

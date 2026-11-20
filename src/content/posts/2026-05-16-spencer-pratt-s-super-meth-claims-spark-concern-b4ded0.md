@@ -1,15 +1,17 @@
 ---
 title: "Spencer Pratt's 'Super Meth' Claims Spark Concern"
 date: 2026-05-16T09:49:41.642Z
+modified_date: 2026-11-20T18:15:13.056Z
 tags: ["Spencer Pratt","super meth","methamphetamine","LA mayoral election"]
 hero_image: "/hero/2026-05-16-spencer-pratt-s-super-meth-claims-spark-concern-b4ded0.jpg"
 hero_image_credit_name: "Diana ✨"
 hero_image_credit_url: "https://www.pexels.com/@didsss"
 visual_keyword: "methamphetamine"
 description: "LA mayoral candidate Spencer Pratt warns of 'super meth' threat, but experts say it's exaggerated."
-sources_count: 1
+sources_count: 2
 author: "ryan-tanaka"
 ---
+
 
 
 ## The 'Super Meth' Conundrum
@@ -57,3 +59,7 @@ The effects of methamphetamine on the brain and body are well-documented. Chroni
 ## Conclusion
 
 The controversy surrounding 'super meth' highlights the complexities of addressing substance abuse in the city. While Pratt's claims may have sparked concern, they also underscore the need for accurate information and evidence-based decision-making. By prioritizing a nuanced understanding of the issue and avoiding alarmist rhetoric, the city can develop effective strategies to address the challenges posed by substance abuse.
+
+## Updates
+
+- **2026-11-20** — Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives ([source](https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director))

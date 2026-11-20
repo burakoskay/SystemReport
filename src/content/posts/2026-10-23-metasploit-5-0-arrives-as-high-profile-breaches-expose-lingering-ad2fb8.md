@@ -1,18 +1,20 @@
 ---
 title: "Metasploit 5.0 arrives as high‑profile breaches expose lingering"
 date: 2026-10-23T09:05:20.136Z
+modified_date: 2026-11-20T18:16:58.867Z
 tags: ["security","metasploit","penetration-testing","software-updates","hacking"]
 hero_image: "/hero/2026-10-23-metasploit-5-0-arrives-as-high-profile-breaches-expose-lingering-ad2fb8.jpg"
 hero_image_credit_name: "Daniil Komov"
 hero_image_credit_url: "https://www.pexels.com/@dkomov"
 visual_keyword: "a laptop screen showing Metasploit console with code snippets"
 description: "Metasploit Framework’s long‑awaited 5.0 release lands amid reports of a Kushner phone hack and a full bypass of eMudhra’s OTP system."
-sources_count: 4
-author: "david-okafor"
+sources_count: 5
 audio_path: "/audio/2026-10-23-metasploit-5-0-arrives-as-high-profile-breaches-expose-lingering-ad2fb8.mp3"
 audio_bytes: 623848
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## High‑profile breaches surface on Hacker News
 
@@ -47,3 +49,7 @@ The vehicle‑security community frequently references Metasploit modules when t
 ## What to watch
 
 Track the rollout of Metasploit 5.0’s RESTful database service across major penetration‑testing distributions. Watch for community reports on multi‑host exploit stability and any emerging detection signatures targeting the new evasion modules. On the policy side, monitor whether regulators cite the Kushner phone leak or the eMudhra OTP breach as catalysts for stricter authentication guidelines in high‑value transactions.
+
+## Updates
+
+- **2026-11-20** — You can reveal the full GTA 6 map in minutes using this simple plane trick ([source](https://www.engadget.com/2323145/full-gta-6-map-reveal-plane-trick/))

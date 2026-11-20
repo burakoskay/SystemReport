@@ -1,16 +1,17 @@
 ---
 title: "Zig Overhauls Build System, Raising Stakes for Low‑Level Tooling"
 date: 2026-05-30T15:19:57.780Z
-modified_date: 2026-11-11T17:41:13.897Z
+modified_date: 2026-11-20T18:16:10.949Z
 tags: ["zig","build-system","programming-languages","devops"]
 hero_image: "/hero/2026-05-30-zig-overhauls-build-system-raising-stakes-for-low-level-tooling-24e385.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "developer at terminal reviewing build logs and code"
 description: "Zig's devlog on May 26, 2026 announced a major build‑system rewrite, prompting developers to weigh migration pain against long‑term gains."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ Watch the Zig repository for a detailed migration guide and any beta releases of
 
 ## Updates
 
+- **2026-11-20** — Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You ([source](https://www.wired.com/story/which-macbook-should-you-buy/))
 - **2026-11-11** — This video lets you actually see the ‘incredible’ new MacBook Pro cooling system ([source](https://9to5mac.com/2026/11/11/this-video-lets-you-actually-see-the-incredible-new-macbook-pro-cooling-system/))
 - **2026-09-26** — Decap is the man behind the drums behind your favorite song ([source](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview))
 - **2026-09-26** — Quince Luggage Is Affordable but Doesn’t Feel Cheap (2026) ([source](https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/))

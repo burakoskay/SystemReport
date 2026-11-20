@@ -1,19 +1,20 @@
 ---
 title: "Google commits 7 years to Pixel 8 updates"
 date: 2026-05-19T23:10:09.780Z
-modified_date: 2026-08-20T12:35:58.539Z
+modified_date: 2026-11-20T18:17:47.178Z
 tags: ["android","updates","pixel","samsung"]
 hero_image: "/hero/2026-05-19-google-commits-7-years-to-pixel-8-updates-3267d6.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "smartphone update timeline illustration"
 description: "Google pledges seven years of updates for Pixel 8, while Samsung offers four years of security patches across 130 models, reshaping Android's update landscape."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-19-google-commits-7-years-to-pixel-8-updates-3267d6.mp3"
 audio_bytes: 603787
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google promises seven years for Pixel 8
@@ -52,4 +53,5 @@ If Google extends its security window beyond four years, it could force other OE
 
 ## Updates
 
+- **2026-11-20** — Expect Samsung’s good-value Galaxy devices to get more expensive, report says ([source](https://9to5google.com/2026/11/20/samsungs-value-galaxy-devices-to-get-more-expensive/))
 - **2026-08-20** — Bought Logitech kit during the Trump tariff mess? You may be due a refund … ([source](https://9to5mac.com/2026/08/20/bought-logitech-kit-during-the-trump-tariff-mess-you-may-be-due-a-refund/))

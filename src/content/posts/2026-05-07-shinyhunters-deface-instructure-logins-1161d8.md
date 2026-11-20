@@ -1,19 +1,20 @@
 ---
 title: "ShinyHunters Deface Instructure Logins"
 date: 2026-05-07T21:10:23.914Z
-modified_date: 2026-11-20T01:38:12.363Z
+modified_date: 2026-11-20T18:16:49.176Z
 tags: ["cybersecurity","education","infrastructure"]
 hero_image: "/hero/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "computer screen showing hacked school login page with warning banner"
 description: "ShinyHunters posted extortion notes on school Canvas portals while another group booted TeamPCP from compromised systems, raising fresh alarm for education IT teams."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-07-shinyhunters-deface-instructure-logins-1161d8.mp3"
 audio_bytes: 600234
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ What to watch: Instructure’s next security bulletin, any follow‑up ransom no
 
 ## Updates
 
+- **2026-11-20** — El Niño Is Driving a Record Marine Heat Wave Off the California Coast ([source](https://www.wired.com/story/el-nino-record-california-marine-heat-wave/))
 - **2026-11-20** — Report: Apple job listings detail plans for autonomous AI agents ([source](https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/))
 - **2026-08-18** — US vaccination rates fall again as exemptions continue to rise, CDC data shows ([source](https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/))
 - **2026-06-04** — Elon Musk tries again to escape FTC audits of X data handling ([source](https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/))

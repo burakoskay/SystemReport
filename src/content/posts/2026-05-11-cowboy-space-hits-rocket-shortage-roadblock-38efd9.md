@@ -1,16 +1,17 @@
 ---
 title: "Cowboy Space Hits Rocket Shortage Roadblock"
 date: 2026-05-11T15:24:59.466Z
-modified_date: 2026-11-20T01:37:21.538Z
+modified_date: 2026-11-20T18:17:08.475Z
 tags: ["space","data centers","rockets"]
 hero_image: "/hero/2026-05-11-cowboy-space-hits-rocket-shortage-roadblock-38efd9.jpg"
 hero_image_credit_name: "Frank Cone"
 hero_image_credit_url: "https://www.pexels.com/@frank-cone-140140"
 visual_keyword: "space"
 description: "Cowboy Space raises $275 million for orbital data centers, but faces hurdles in building rockets for launch."
-sources_count: 12
+sources_count: 13
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -80,6 +81,7 @@ The future outlook for Cowboy Space Corporation is promising, but uncertain. The
 
 ## Updates
 
+- **2026-11-20** — The Trump administration has replaced its cybersecurity chief ([source](https://www.engadget.com/2322705/the-trump-administration-has-replaced-its-cybersecurity-chief/))
 - **2026-11-20** — Google is putting AI chats right on the homepage ([source](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats))
 - **2026-11-06** — You know the launch market is tough when satellite companies start building rockets ([source](https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/))
 - **2026-11-06** — Tesla will stop making the Cybertruck in 2027 ([source](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/))

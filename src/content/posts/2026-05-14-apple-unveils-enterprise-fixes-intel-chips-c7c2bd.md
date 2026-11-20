@@ -1,16 +1,17 @@
 ---
 title: "Apple Unveils Enterprise Fixes, Intel Chips"
 date: 2026-05-14T21:23:02.634Z
-modified_date: 2026-11-13T19:07:02.559Z
+modified_date: 2026-11-20T18:18:25.903Z
 tags: ["macos","apple-card","intel","carplay","apple-wallet"]
 hero_image: "/hero/2026-05-14-apple-unveils-enterprise-fixes-intel-chips-c7c2bd.jpg"
 hero_image_credit_name: "Tranmautritam"
 hero_image_credit_url: "https://www.pexels.com/@tranmautritam"
 visual_keyword: "technical scene with Apple products and Intel chips in a modern workspace"
 description: "Apple addresses enterprise macOS issues, partners with Intel for iPhone chips, and expands CarPlay audio features as part of ongoing product updates."
-sources_count: 28
+sources_count: 29
 author: "david-okafor"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The macOS 26.5 fixes will roll out to enterprise users in mid-September. Intel�
 
 ## Updates
 
+- **2026-11-20** — Apple Calendar got two feature upgrades it really needed in iOS 27 ([source](https://9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27/))
 - **2026-11-13** — This tiny iOS 27 camera feature really makes a huge difference ([source](https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/))
 - **2026-10-27** — 9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini ([source](https://9to5mac.com/2026/10/26/daily-october-26-2026/))
 - **2026-10-09** — Apple marks first Apple TV 4K ‘vintage’ with new model imminent ([source](https://9to5mac.com/2026/10/09/apple-marks-first-apple-tv-4k-vintage-with-new-model-imminent/))

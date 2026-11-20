@@ -1,16 +1,17 @@
 ---
 title: "OpenAI's Phone Plans and EU's Android AI Push"
 date: 2026-04-27T22:57:50.687Z
-modified_date: 2026-11-17T06:28:21.984Z
+modified_date: 2026-11-20T18:16:01.308Z
 tags: ["OpenAI","AI","Android"]
 hero_image: "/hero/2026-04-27-openai-s-phone-plans-and-eu-s-android-ai-push-9dc03a.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "OpenAI may be working on a phone with AI agents replacing apps, while the EU tells Google to open up AI on Android."
-sources_count: 26
+sources_count: 27
 author: "maya-chen"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The development of AI-powered devices is also driving the need for more advanced
 
 ## Updates
 
+- **2026-11-20** — The Best Pura Deals for Cyber Week (2026) ([source](https://www.wired.com/story/pura-black-friday-2026/))
 - **2026-11-17** — In My Cart: The best early Black Friday deals we’re buying today ([source](https://9to5mac.com/2026/11/16/gear-we-buying-amazon-early-black-friday-sale/))
 - **2026-11-13** — Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more ([source](https://9to5toys.com/2026/11/13/todays-highlight-google-play-deals-49/))
 - **2026-11-12** — I reviewed the Apple HomeView, ask me anything ([source](https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything))

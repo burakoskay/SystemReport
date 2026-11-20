@@ -1,18 +1,20 @@
 ---
 title: "Google banks on Gemini, Motorola adapter disappears"
 date: 2026-11-14T08:35:04.927Z
+modified_date: 2026-11-20T18:15:22.594Z
 tags: ["google","ai","finance","android","antitrust"]
 hero_image: "/hero/2026-11-14-google-banks-on-gemini-motorola-adapter-disappears-72f26e.jpg"
 hero_image_credit_name: "Solen Feyissa"
 hero_image_credit_url: "https://www.pexels.com/@solenfeyissa"
 visual_keyword: "a smartphone screen showing AI chat analyzing bank transactions"
 description: "Google lets Gemini read bank data for expense analysis, Motorola’s new Android Auto dongle vanishes post‑launch, and Epic urges the Supreme Court to keep Apple’s contempt ruling."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-11-14-google-banks-on-gemini-motorola-adapter-disappears-72f26e.mp3"
 audio_bytes: 578917
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Google ties Gemini to bank accounts
 Google opened Gemini to personal finance data this week. The AI can now scan linked accounts and return spending breakdowns, but it cannot initiate purchases. According to Engadget, the feature is positioned strictly for analysis, not for transaction execution. The move nudges Gemini into the crowded field of AI‑assisted budgeting tools, where privacy concerns already dominate headlines.
@@ -43,3 +45,7 @@ Motorola’s MA2 hiccup underscores the fragility of hardware launches that depe
 Epic’s Supreme Court push could reshape the economics of app distribution if the contempt ruling sticks. Developers and investors will be watching the Court’s docket for any sign that Apple’s fee structure will be forced open.
 
 **What to watch**: Keep an eye on Google’s next Gemini update for any shift toward transaction capabilities, monitor Motorola’s supply‑chain communications for a possible re‑release of the MA2, and track the Supreme Court’s briefing schedule for Epic’s case, which could land a decision before the end of the year.
+
+## Updates
+
+- **2026-11-20** — Let’s talk about GTA VI ([source](https://www.theverge.com/entertainment/1037545/gta-6-discussion))

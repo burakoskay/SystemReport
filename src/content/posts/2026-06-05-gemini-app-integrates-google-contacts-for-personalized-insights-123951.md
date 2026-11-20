@@ -1,19 +1,20 @@
 ---
 title: "Gemini App Integrates Google Contacts for Personalized Insights"
 date: 2026-06-05T23:16:58.390Z
-modified_date: 2026-11-19T18:48:10.025Z
+modified_date: 2026-11-20T18:17:27.782Z
 tags: ["Google","Gemini App","Google Contacts","AI-driven Applications"]
 hero_image: "/hero/2026-06-05-gemini-app-integrates-google-contacts-for-personalized-insights-123951.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google Contacts"
 description: "Google's Gemini app now integrates with Google Contacts to provide users with personalized insights and responses based on their contacts."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-06-05-gemini-app-integrates-google-contacts-for-personalized-insights-123951.mp3"
 audio_bytes: 621550
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -71,6 +72,7 @@ In the coming months, it will be interesting to see how users respond to this in
 
 ## Updates
 
+- **2026-11-20** — Hands-on: Sony’s Walkman-revival USB-C headphones are back in stock and worth a look ([source](https://9to5google.com/2026/11/20/sony-walkman-mdr-3r-usb-c-headphones-hands-on/))
 - **2026-11-19** — 10 Best Therabody Gadgets & Theraguns to Gift This Year (2026) ([source](https://www.wired.com/gallery/best-theragun-percussive-therapy-devices/))
 - **2026-11-05** — Sony revives the original Walkman headphones, adds USB-C ([source](https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/))
 - **2026-10-27** — Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more ([source](https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more/))

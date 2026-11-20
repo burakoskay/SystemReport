@@ -1,15 +1,17 @@
 ---
 title: "Google TV Streamer’s $150 price tag forces a rethink on cheap"
 date: 2026-09-01T14:42:13.477Z
+modified_date: 2026-11-20T18:15:42.081Z
 tags: ["google","android","security","ai","hardware"]
 hero_image: "/hero/2026-09-01-google-tv-streamer-s-150-price-tag-forces-a-rethink-on-cheap-baee39.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "sleek streaming device on a modern living room TV"
 description: "Google hikes its TV Streamer from $100 to $150, sparking debate over hardware pricing, security lapses, and AI copyright battles."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 Google raised the price of its TV Streamer to $150, a 50 % jump that forces households to rethink cheap streaming. The device, which sold for $100 a year ago, now sits at a price point that borders on premium territory.
 
@@ -46,3 +48,7 @@ The Streamer price hike, Dropbox breach, and Anthropic lawsuit form a trifecta o
 Regulators and courts will watch the Anthropic case for precedent on AI training data. A ruling that deems torrent‑sourced training illegal could force a shift toward licensed datasets, reshaping the economics of generative AI. Meanwhile, Android’s incremental updates will continue to lay the groundwork for tighter privacy and performance standards.
 
 Stakeholders should keep an eye on three metrics: the Streamer’s sales velocity post‑hike, the frequency of SSO‑related incidents reported by cloud services, and any court filings that cite the Anthropic case as a reference point. The next quarter will reveal whether pricing, security, or copyright battles dominate the tech conversation.
+
+## Updates
+
+- **2026-11-20** — Valve says it might have to raise the price of supply-limited Steam Machines ([source](https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/))
