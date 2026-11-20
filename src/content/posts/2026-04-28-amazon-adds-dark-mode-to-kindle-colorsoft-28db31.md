@@ -1,19 +1,20 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T19:39:50.843Z
-modified_date: 2026-11-03T17:35:16.733Z
+modified_date: 2026-11-20T01:36:58.871Z
 tags: ["amazon","kindle","ai-commerce","eks","e-reader"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.jpg"
 hero_image_credit_name: "Valeria Palesska"
 hero_image_credit_url: "https://www.pexels.com/@palesska"
 visual_keyword: "Amazon Kindle Colorsoft e-reader with dark mode interface displayed on a wooden table"
 description: "Amazon introduces dark mode for its color e-reader and AI-powered product Q&A"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-28db31.mp3"
 audio_bytes: 547571
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ The next six months will test the viability of Amazon's dual updates. Key metric
 
 ## Updates
 
+- **2026-11-20** — Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up ([source](https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/))
 - **2026-11-03** — Anthropic is still grappling with the economics of compute ([source](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/))
 - **2026-10-19** — Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more ([source](https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case/))
 - **2026-08-26** — Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards ([source](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale))

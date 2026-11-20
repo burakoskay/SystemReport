@@ -1,16 +1,17 @@
 ---
 title: "The Lonely Runner Problem"
 date: 2026-04-18T12:46:00.914Z
-modified_date: 2026-11-17T06:25:09.870Z
+modified_date: 2026-11-20T01:36:53.247Z
 tags: ["mathematics","lonely runner problem","number theory"]
 hero_image: "/hero/2026-04-18-the-lonely-runner-problem-9da208.jpg"
 hero_image_credit_name: "Deepak Gautam"
 hero_image_credit_url: "https://www.pexels.com/@kuchbhigautam"
 visual_keyword: "mathematical track"
 description: "Mathematicians struggle to solve the 'lonely runner' problem, a decades-old question about runners circling a track at unique paces."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ The problem touches on concepts in number theory, algebra, and geometry.
 
 ## Updates
 
+- **2026-11-20** — Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself ([source](https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/))
 - **2026-11-17** — Cyber giant Infoblox confirms security incident after hackers access ‘company information’ ([source](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/))
 - **2026-09-29** — Nothing's flagship $399 Headphone 1 Pro actually have some professional features ([source](https://www.engadget.com/2271675/nothing-headphone-1-pro/))
 - **2026-09-29** — Trump cuts fuel economy standards back to 2014 levels ([source](https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/))

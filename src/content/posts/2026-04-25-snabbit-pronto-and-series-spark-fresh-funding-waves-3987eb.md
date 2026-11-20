@@ -1,19 +1,20 @@
 ---
 title: "Snabbit, Pronto, and Series spark fresh funding waves"
 date: 2026-04-25T19:02:08.763Z
-modified_date: 2026-11-10T03:57:11.857Z
+modified_date: 2026-11-20T01:36:47.435Z
 tags: ["gig economy","AI social networking","funding rounds"]
 hero_image: "/hero/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.jpg"
 hero_image_credit_name: "El gringo photo"
 hero_image_credit_url: "https://www.pexels.com/@el-gringo-photo-116752370"
 visual_keyword: "gig economy"
 description: "Indian gig player Snabbit seeks $400M, house-help platform Pronto eyes $200M, and US AI social network Series lands $5.1M."
-sources_count: 20
+sources_count: 21
 audio_path: "/audio/2026-04-25-snabbit-pronto-and-series-spark-fresh-funding-waves-3987eb.mp3"
 audio_bytes: 632208
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -93,6 +94,7 @@ The funding rounds for Snabbit, Pronto, and Series reflect the growing interest 
 
 ## Updates
 
+- **2026-11-20** — The Best Hatch Black Friday Deals (2026) ([source](https://www.wired.com/story/hatch-black-friday-deals-2026/))
 - **2026-11-10** — These WIRED-Tested Standing Desks Are Already on Sale for Black Friday ([source](https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26/))
 - **2026-10-24** — Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry ([source](https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/))
 - **2026-09-23** — The Best Samsung Phones of 2026: Ultra, Fold, Budget ([source](https://www.wired.com/gallery/best-samsung-phones/))

@@ -1,19 +1,20 @@
 ---
 title: "Finnish AI Lab QuTwo Hits $380M Valuation"
 date: 2026-05-06T10:24:31.987Z
-modified_date: 2026-08-20T00:53:31.167Z
+modified_date: 2026-11-20T01:37:49.714Z
 tags: ["AI","Quantum Computing","Finland","Funding"]
 hero_image: "/hero/2026-05-06-finnish-ai-lab-qutwo-hits-380m-valuation-5e9f06.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Quantum Computing"
 description: "QuTwo, a Finnish AI lab, reaches $380M valuation after raising $29M in angel funding, signaling growth in AI and quantum computing."
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-05-06-finnish-ai-lab-qutwo-hits-380m-valuation-5e9f06.mp3"
 audio_bytes: 663555
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,4 +82,5 @@ The company's focus on developing native foundation models for multimodal agents
 
 ## Updates
 
+- **2026-11-20** — Google’s 3D emoji has wild Android spec requirements: 10GB of free space, 6GB RAM ([source](https://9to5google.com/2026/11/19/android-3d-emoji-specs-requirements/))
 - **2026-08-20** — Camera-equipped AirPods reportedly won’t launch in 2026, despite demo video leak ([source](https://9to5mac.com/2026/08/19/camera-equipped-airpods-reportedly-wont-launch-in-2026-despite-demo-video-leak/))

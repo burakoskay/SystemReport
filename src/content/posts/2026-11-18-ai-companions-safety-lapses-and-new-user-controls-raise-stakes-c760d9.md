@@ -1,18 +1,20 @@
 ---
 title: "AI companions, safety lapses, and new user controls raise stakes"
 date: 2026-11-18T09:41:43.440Z
+modified_date: 2026-11-20T01:37:55.341Z
 tags: ["ai","privacy","regulation","social-media","technology"]
 hero_image: "/hero/2026-11-18-ai-companions-safety-lapses-and-new-user-controls-raise-stakes-c760d9.jpg"
 hero_image_credit_name: "Michelangelo Buonarroti"
 hero_image_credit_url: "https://www.pexels.com/@michelangelo-buonarroti"
 visual_keyword: "young person chatting with a holographic AI avatar"
 description: "Gen Z leans on AI friends, while OpenAI faces a lawsuit over loss‑of‑control incidents and Google rolls out edit‑able AI memory."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-11-18-ai-companions-safety-lapses-and-new-user-controls-raise-stakes-c760d9.mp3"
 audio_bytes: 626146
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## AI companionship spikes among Gen Z
 
@@ -50,6 +52,9 @@ Industry observers predict a wave of compliance mandates. Companies may need to 
 
 Track California's case docket for OpenAI, especially any injunctions on model testing. Monitor how Google expands Gemini's memory editor and whether third‑party tools adopt similar transparency layers. Keep an eye on media outlets that experiment with AI content pipelines, as their outcomes will inform future regulatory drafts.
 
+## Updates
+
+- **2026-11-20** — Google homepage rolling out AI-focused redesign that includes your Gemini chats [Video] ([source](https://9to5google.com/2026/11/19/google-search-homepage-gemini-sidebar-update/))
 
 [^1]: [superpowerdaily.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0-96rfwbC5w3mbyhIs7g_YqFTepr0x64y796A6kzhp9E44XAYOKCwtYeuvSPm79MuQ3pd-UTOBrhgX1SPGY27TWeb8AvbXw--TvCuQVDArB0mEeEgMAj2Dn6iqB9N2YhYj6qxfoJMWsdhwooCqaEKMgenuKqli_7vHCZIPi-bALc08dk9Y2VeZsywURCcKySKnF2VXG5mSTkuJkLk7Ztooa_4BP1V)
 [^2]: [fourweekmba.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5PB5LnBYaesMi0RB4tbWBpp7MXsFRNj8zNeG4VMuNINZ0jBQQRuno_4SMEx6-qEItQ0jlwcSyfwKwbz0G7YbFXesrabGRtI27zoz2Ir-ooCKsomFoQzilLTZGiOTtKgmrbJE-3er8PF4IGpduoYxmcDu17otBu4AMh5gbhtn4DugsfHMJ-L2qPOZkcKe4)

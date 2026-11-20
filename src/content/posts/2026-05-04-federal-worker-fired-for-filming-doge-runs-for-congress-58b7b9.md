@@ -1,19 +1,20 @@
 ---
 title: "Federal Worker Fired for Filming DOGE, Runs for Congress"
 date: 2026-05-04T14:16:25.345Z
-modified_date: 2026-11-18T09:38:20.178Z
+modified_date: 2026-11-20T01:38:01.014Z
 tags: ["government","congress","DOGE"]
 hero_image: "/hero/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.jpg"
 hero_image_credit_name: "Hugo Sykes"
 hero_image_credit_url: "https://www.pexels.com/@hugosykes"
 visual_keyword: "Alexis Goldstein"
 description: "Alexis Goldstein, ex-CFPB employee, fired for recording DOGE's incursion into the agency, now runs for Congress."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-04-federal-worker-fired-for-filming-doge-runs-for-congress-58b7b9.mp3"
 audio_bytes: 561573
 author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ Ultimately, the outcome of Goldstein's campaign will depend on how voters respon
 
 ## Updates
 
+- **2026-11-20** — Quit worrying about storage and get a UGREEN NAS for up to $160 off right now ([source](https://9to5google.com/2026/11/19/ugreen-nas-early-black-friday-deals/))
 - **2026-11-18** — Copilot is "the new OS for work," and now Office runs inside of it ([source](https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/))
 - **2026-11-15** — The tech products we enthusiastically recommend this holiday season ([source](https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/))
 - **2026-11-05** — Pixel 11 and Pixel 10 at up to $350 off are great phone deals that will only be harder to find in RAMageddon ([source](https://9to5google.com/2026/11/05/google-pixel-11-10-deals-ramageddon/))

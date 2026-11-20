@@ -1,19 +1,20 @@
 ---
 title: "Apple CEO Shift"
 date: 2026-04-21T06:05:51.664Z
-modified_date: 2026-11-19T01:39:55.331Z
+modified_date: 2026-11-20T01:37:27.137Z
 tags: ["apple","ceo transition","john ternus"]
 hero_image: "/hero/2026-04-21-apple-ceo-shift-69091b.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Apple CEO Transition"
 description: "Tim Cook steps down, John Ternus takes over as Apple's eighth CEO. What it means for the company's future."
-sources_count: 22
+sources_count: 23
 audio_path: "/audio/2026-04-21-apple-ceo-shift-69091b.mp3"
 audio_bytes: 25934846
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ In the immediate future, investors and followers of Apple will be watching for a
 
 ## Updates
 
+- **2026-11-20** — FCC greenlights rule allowing prisons to jam cellphone signals ([source](https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming))
 - **2026-11-19** — Apple among the companies facing pressure from US senators over ‘nudify’ apps ([source](https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/))
 - **2026-10-19** — William Gibson and the trademarking of cyberspace ([source](https://colo.to/cyberspace.html))
 - **2026-09-01** — John Ternus takes over as Apple&#8217;s new CEO ([source](https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook))

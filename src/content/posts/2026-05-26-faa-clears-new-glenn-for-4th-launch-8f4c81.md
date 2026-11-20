@@ -1,19 +1,20 @@
 ---
 title: "FAA Clears New Glenn for 4th Launch"
 date: 2026-05-26T15:55:50.535Z
-modified_date: 2026-11-19T18:48:31.481Z
+modified_date: 2026-11-20T01:37:10.205Z
 tags: ["space","debris","launch","satellite-internet"]
 hero_image: "/hero/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "blue origin new glenn rocket on launch pad with satellite internet beams"
 description: "Blue Origin's New Glenn gets FAA clearance for its fourth flight as debris concerns grow and satellite internet readies to power more inflight Wi‑Fi by 2027."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-26-faa-clears-new-glenn-for-4th-launch-8f4c81.mp3"
 audio_bytes: 598980
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ Watch for the FAA’s next set of rules on upper‑stage disposal, which could r
 
 ## Updates
 
+- **2026-11-20** — A brief history of Nvidia’s recent stock fluctuations ([source](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings))
 - **2026-11-19** — Leaked images reveal Motorola’s wide foldable ([source](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak))
 - **2026-10-01** — The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next ([source](https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/))
 - **2026-09-20** — Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems ([source](https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure))
