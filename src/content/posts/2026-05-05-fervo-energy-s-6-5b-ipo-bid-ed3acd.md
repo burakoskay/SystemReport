@@ -1,16 +1,17 @@
 ---
 title: "Fervo Energy's $6.5B IPO Bid"
 date: 2026-05-05T03:26:02.852Z
-modified_date: 2026-11-16T14:32:23.918Z
+modified_date: 2026-11-21T22:43:20.370Z
 tags: ["Geothermal Energy","Renewable Energy","IPO"]
 hero_image: "/hero/2026-05-05-fervo-energy-s-6-5b-ipo-bid-ed3acd.jpg"
 hero_image_credit_name: "ArtHouse Studio"
 hero_image_credit_url: "https://www.pexels.com/@arthousestudio"
 visual_keyword: "Geothermal"
 description: "Geothermal startup Fervo Energy to raise up to $1.3B in IPO"
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,6 +36,7 @@ Fervo Energy's EGS technology has the potential to offer several advantages over
 
 ## Updates
 
+- **2026-11-21** — The trade-offs of using Apple's AirPods Max headphones ([source](https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/))
 - **2026-11-16** — Mazama Energy has a solution for geothermal’s biggest drilling problem ([source](https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/))
 - **2026-11-01** — Electrification Could Cut Global Energy Use in Half ([source](https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/))
 - **2026-10-05** — Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026 ([source](https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/))

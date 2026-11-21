@@ -1,16 +1,17 @@
 ---
 title: "Tech's High Stakes: Billions Bet on Nuclear Futures While"
 date: 2026-04-16T05:29:02.815Z
-modified_date: 2026-11-05T17:51:08.642Z
+modified_date: 2026-11-21T22:43:10.823Z
 tags: ["tech startups","venture capital","autonomous tech","nuclear energy","innovation"]
 hero_image: "/hero/2026-04-16-tech-s-high-stakes-billions-bet-on-nuclear-futures-while-autonomous-tractors-stall-090631.jpg"
 hero_image_credit_name: "Michael Gattorna"
 hero_image_credit_url: "https://www.pexels.com/@michael-gattorna-3447992"
 visual_keyword: "futuristic cityscape with autonomous pods and nuclear power plant in background"
 description: "The tech startup world sees both colossal investments in bold new ventures like advanced nuclear energy and autonomous transport, and the quiet collapse of others, underscoring the volatile nature of innovation."
-sources_count: 23
+sources_count: 24
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ These contrasting narratives highlight the inherent volatility and risk-reward d
 
 ## Updates
 
+- **2026-11-21** — What's new with Apple's latest Siri Remote, and does your old Apple TV support it? ([source](https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/))
 - **2026-11-05** — Awesome repositories are no longer awesome ([source](https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/))
 - **2026-11-04** — The first Snapdragon phone with Android Linux Terminal support is here ([source](https://9to5google.com/2026/11/04/the-first-snapdragon-phone-with-android-linux-terminal-support-is-here/))
 - **2026-10-13** — Thunderbird for iOS ([source](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/))

@@ -1,19 +1,20 @@
 ---
 title: "Apple updates icons, iOS keyboard, EU rules and MacBook Air"
 date: 2026-11-07T16:07:15.857Z
-modified_date: 2026-11-21T17:04:32.347Z
+modified_date: 2026-11-21T22:42:12.653Z
 tags: ["apple","ios","macbook","eu"]
 hero_image: "/hero/2026-11-07-apple-updates-icons-ios-keyboard-eu-rules-and-macbook-air-37c078.jpg"
 hero_image_credit_name: "Jean-Daniel Francoeur"
 hero_image_credit_url: "https://www.pexels.com/@jean-daniel"
 visual_keyword: "Apple devices lineup with updated icons and MacBook Air in a modern office"
 description: "Apple refreshes its Music Classical icon, grapples with a Czech keyboard bug, amends EU App Store rules and launches a Retina‑display MacBook Air."
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-11-07-apple-updates-icons-ios-keyboard-eu-rules-and-macbook-air-37c078.mp3"
 audio_bytes: 574110
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple Music Classical gets a monochrome makeover
@@ -52,4 +53,5 @@ The lock‑screen keyboard bug will likely surface again if Apple expands custom
 
 ## Updates
 
+- **2026-11-21** — Review: Godzilla Minus Zero joins the list of truly stellar sequels ([source](https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/))
 - **2026-11-21** — The Xiaomi 18 Pro proves two screens aren’t better than one ([source](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review))

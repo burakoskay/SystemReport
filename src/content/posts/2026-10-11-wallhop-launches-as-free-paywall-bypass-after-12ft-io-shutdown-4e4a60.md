@@ -1,15 +1,17 @@
 ---
 title: "WallHop launches as free paywall bypass after 12ft.io shutdown"
 date: 2026-10-11T08:25:47.029Z
+modified_date: 2026-11-21T22:43:29.892Z
 tags: ["paywall","open-source","web-tools","privacy"]
 hero_image: "/hero/2026-10-11-wallhop-launches-as-free-paywall-bypass-after-12ft-io-shutdown-4e4a60.jpg"
 hero_image_credit_name: "Erik Mclean"
 hero_image_credit_url: "https://www.pexels.com/@introspectivedsgn"
 visual_keyword: "hand holding smartphone displaying stripped-down news article"
 description: "WallHop offers a free, multi‑method paywall bypass after 12ft.io’s removal, supporting iOS shortcuts and API endpoints, but it still hits some server‑side blocks."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 WallHop went live as a free paywall bypass on Tuesday. The tool fills the gap left by 12ft.io, which the News Media Alliance took down in July 2025.
 
@@ -26,3 +28,7 @@ WallHop joins a growing ecosystem of open‑source bypass tools. Projects like `
 The broader context includes recent legal scrutiny of paywall circumvention. In the United States, the DMCA’s anti‑circumvention provisions have been applied to DRM, but paywalls sit in a gray area. European regulators have begun to examine whether forced paywalls constitute unfair practice. WallHop’s open‑source nature could attract attention from both advocates of open information and from publishers defending subscription models. So far, no takedown notices have appeared, but the service’s visibility may prompt legal challenges.
 
 What to watch next is the response from the publishing industry. If major outlets begin issuing DMCA takedown requests or updating their server‑side defenses, WallHop’s effectiveness could drop sharply. Conversely, the community may fork the project to stay ahead of new barriers. Tracking the service’s uptime, the rate of reported failures, and any legal filings will indicate whether WallHop remains a viable alternative to paid subscriptions. Developers and power users should monitor the GitHub repository for updates and watch Hacker News threads for emerging bypass techniques.
+
+## Updates
+
+- **2026-11-21** — Discs vs. disks: What's the difference? ([source](https://www.engadget.com/2319034/discs-vs-disks-differences/))

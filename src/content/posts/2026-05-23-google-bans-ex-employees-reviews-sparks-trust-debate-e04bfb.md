@@ -1,15 +1,17 @@
 ---
 title: "Google bans ex-employees' reviews, sparks trust debate"
 date: 2026-05-23T19:31:34.896Z
+modified_date: 2026-11-21T22:43:01.224Z
 tags: ["google","reviews","platform","trust","policy"]
 hero_image: "/hero/2026-05-23-google-bans-ex-employees-reviews-sparks-trust-debate-e04bfb.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "a sleek smartphone screen displaying a Google Maps review with a red ban icon"
 description: "Google blocks former workers from posting negative reviews, a move that raises questions about review integrity and corporate control."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 ## Google clamps down on ex‑employee reviews
 Google updated its Google My Business policy to forbid former employees from posting negative reviews about past workplaces. The change, announced in a policy notice, labels such posts a "conflict of interest" and says they undermine the honesty of user‑generated content.
@@ -27,3 +29,7 @@ These examples illustrate a common thread: platforms must balance user confidenc
 
 ## What to watch
 Watch how Google’s policy change affects the volume and tone of reviews on Google My Business over the next quarter; a dip in negative posts could signal tighter control or simply a shift in employee behavior. Also monitor whether other review‑centric services, such as Yelp or TripAdvisor, adjust their own rules in response to the same conflict‑of‑interest concerns. Finally, keep an eye on SpaceX’s next Starship test, as a successful orbital flight would test whether public hype can finally align with engineering reality.
+
+## Updates
+
+- **2026-11-21** — How long can fiber optic cables be before they lose signal? ([source](https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/))

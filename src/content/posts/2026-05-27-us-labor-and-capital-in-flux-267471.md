@@ -1,16 +1,17 @@
 ---
 title: "US Labor and Capital in Flux"
 date: 2026-05-27T10:12:24.640Z
-modified_date: 2026-08-16T12:27:23.986Z
+modified_date: 2026-11-21T22:43:49.202Z
 tags: ["labor","US","economy"]
 hero_image: "/hero/2026-05-27-us-labor-and-capital-in-flux-267471.jpg"
 hero_image_credit_name: "Clarence Gaspar"
 hero_image_credit_url: "https://www.pexels.com/@gasparclarence01"
 visual_keyword: "striking workers"
 description: "Reports on labor issues in the US, including a Department of Labor email and a national prison strike"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -80,4 +81,5 @@ The future of labor in the US is uncertain, but it is clear that workers will co
 
 ## Updates
 
+- **2026-11-21** — Which car has the largest infotainment touchscreen? ([source](https://www.engadget.com/2318759/largest-car-infotainment-touchscreen/))
 - **2026-08-16** — It’s Never Too Early to Start Planning for the Next Two Solar Eclipses ([source](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/))
