@@ -1,19 +1,20 @@
 ---
 title: "AI Startups' Inflated ARR"
 date: 2026-05-22T21:16:56.606Z
-modified_date: 2026-11-17T06:26:07.870Z
+modified_date: 2026-11-21T17:05:39.965Z
 tags: ["AI startups","inflated ARR","revenue metrics","transparency"]
 hero_image: "/hero/2026-05-22-ai-startups-inflated-arr-d1cbc2.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "AI"
 description: "AI startups misrepresent revenue, investors aware"
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-05-22-ai-startups-inflated-arr-d1cbc2.mp3"
 audio_bytes: 583307
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -64,6 +65,7 @@ The future outlook for the AI startup industry is promising, but it requires a f
 
 ## Updates
 
+- **2026-11-21** — Clojure will affect the way you think about programming (2017) ([source](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/))
 - **2026-11-17** — The important Gmail security settings you should be using ([source](https://www.engadget.com/2315195/gmail-security-settings-most-important-use/))
 - **2026-11-09** — Our favorite gear to elevate your new MacBook Pro setup ([source](https://9to5mac.com/2026/11/09/our-favorite-gear-to-elevate-your-new-macbook-pro-setup/))
 - **2026-10-20** — You can build your own mechanical keyboard, but is it worth the price? ([source](https://www.engadget.com/2288961/build-keyboard-why-worth-it/))

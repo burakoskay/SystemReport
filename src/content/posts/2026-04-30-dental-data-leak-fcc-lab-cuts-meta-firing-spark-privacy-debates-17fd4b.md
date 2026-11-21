@@ -1,16 +1,17 @@
 ---
 title: "Dental Data Leak, FCC Lab Cuts, Meta Firing Spark Privacy Debates"
 date: 2026-04-30T17:32:55.099Z
-modified_date: 2026-10-30T20:19:57.395Z
+modified_date: 2026-11-21T17:05:20.677Z
 tags: ["data privacy","federal regulations","ai ethics"]
 hero_image: "/hero/2026-04-30-dental-data-leak-fcc-lab-cuts-meta-firing-spark-privacy-debates-17fd4b.jpg"
 hero_image_credit_name: "SHVETS production"
 hero_image_credit_url: "https://www.pexels.com/@shvets-production"
 visual_keyword: "patient's medical records on a computer screen with security locks"
 description: "A dental software bug, FCC lab bans, and Meta layoffs reveal cracks in tech's privacy armor."
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ These cases should serve as case studies for any organization deploying new tech
 
 ## Updates
 
+- **2026-11-21** — Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking ([source](https://9to5mac.com/2026/11/21/apple-work/))
 - **2026-10-30** — Security Bite: This iOS 27.2 camera bug still isn’t enough to make me buy a camera cover ([source](https://9to5mac.com/2026/10/30/security-bite-this-ios-27-2-camera-bug-still-isnt-enough-to-make-me-buy-a-camera-cover/))
 - **2026-10-27** — Major League Baseball is looking for a new kind of fan ([source](https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers))
 - **2026-10-01** — GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature ([source](https://9to5mac.com/2026/10/01/graykey-maker-can-reportedly-bypass-the-iphones-inactivity-reboot-security-feature/))

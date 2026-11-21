@@ -1,18 +1,20 @@
 ---
 title: "Apple updates icons, iOS keyboard, EU rules and MacBook Air"
 date: 2026-11-07T16:07:15.857Z
+modified_date: 2026-11-21T17:04:32.347Z
 tags: ["apple","ios","macbook","eu"]
 hero_image: "/hero/2026-11-07-apple-updates-icons-ios-keyboard-eu-rules-and-macbook-air-37c078.jpg"
 hero_image_credit_name: "Jean-Daniel Francoeur"
 hero_image_credit_url: "https://www.pexels.com/@jean-daniel"
 visual_keyword: "Apple devices lineup with updated icons and MacBook Air in a modern office"
 description: "Apple refreshes its Music Classical icon, grapples with a Czech keyboard bug, amends EU App Store rules and launches a Retina‑display MacBook Air."
-sources_count: 5
-author: "david-okafor"
+sources_count: 6
 audio_path: "/audio/2026-11-07-apple-updates-icons-ios-keyboard-eu-rules-and-macbook-air-37c078.mp3"
 audio_bytes: 574110
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple Music Classical gets a monochrome makeover
 Apple replaced the red‑background music note on the Apple Music app with a black‑and‑white silhouette and immediately applied the same look to the Apple Music Classical sub‑app. The change arrived as part of the broader redesign of the Music icon that rolled out earlier this month. By matching the Classical icon, Apple eliminates the visual inconsistency that had persisted since the original launch of the streaming service.
@@ -47,3 +49,7 @@ Meter, a monitoring service, documented the issue across macOS 12.6.2, 13.1 an
 
 ## What to watch
 The lock‑screen keyboard bug will likely surface again if Apple expands custom‑character passcodes beyond the Latin alphabet. Monitoring iOS 27 release notes for a reinstated háček or a broader character‑set policy will be essential for security‑conscious users. In the EU, the next checkpoint is Apple’s appeal of the $2 billion fine and any subsequent amendments to the App Store steering rules; developers should watch for updates to the entitlement implementation timeline. The MacBook Air’s Retina panel will face head‑to‑head performance tests against competing ultrabooks that use Apple‑silicon; early benchmark releases will reveal whether the Intel‑based Air can stay relevant. Finally, macOS users should verify that their systems have applied Ventura 13.1 or later and confirm that AWDL remains disabled if they experience lingering Wi‑Fi glitches.
+
+## Updates
+
+- **2026-11-21** — The Xiaomi 18 Pro proves two screens aren’t better than one ([source](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review))

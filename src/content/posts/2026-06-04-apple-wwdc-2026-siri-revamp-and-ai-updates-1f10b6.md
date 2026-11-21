@@ -1,18 +1,20 @@
 ---
 title: "Apple WWDC 2026: Siri Revamp and AI Updates"
 date: 2026-06-04T18:26:50.950Z
+modified_date: 2026-11-21T17:05:01.388Z
 tags: ["Apple","WWDC 2026","Siri","AI"]
 hero_image: "/hero/2026-06-04-apple-wwdc-2026-siri-revamp-and-ai-updates-1f10b6.jpg"
 hero_image_credit_name: "Ivan Babydov"
 hero_image_credit_url: "https://www.pexels.com/@babydov"
 visual_keyword: "Apple WWDC 2026"
 description: "Apple's WWDC 2026 is expected to bring significant updates to Siri and Apple Intelligence."
-sources_count: 9
-author: "ryan-tanaka"
+sources_count: 10
 audio_path: "/audio/2026-06-04-apple-wwdc-2026-siri-revamp-and-ai-updates-1f10b6.mp3"
 audio_bytes: 566588
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Apple's WWDC 2026: What's in Store?
@@ -62,3 +64,7 @@ In addition to the keynote, developers and tech enthusiasts can also expect to s
 The conference will also provide an opportunity for developers to network and learn from each other, as well as from Apple's engineers and developers. This could lead to the development of new apps and services that take advantage of the updates to Siri and Apple Intelligence.
 
 Overall, WWDC 2026 is expected to be a significant event for Apple and the tech industry as a whole. With the updates to Siri and Apple Intelligence, Apple is poised to make a major impact in the virtual assistant market and beyond.
+
+## Updates
+
+- **2026-11-21** — Why deep discounts on used Apple AirPods just aren't worth it ([source](https://www.engadget.com/2317961/used-apple-airpods-deep-discounts-not-worth-it/))

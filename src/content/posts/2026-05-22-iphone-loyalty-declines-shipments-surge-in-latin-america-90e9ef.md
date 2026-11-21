@@ -1,18 +1,20 @@
 ---
 title: "iPhone Loyalty Declines, Shipments Surge in Latin America"
 date: 2026-05-22T12:27:49.912Z
+modified_date: 2026-11-21T17:03:44.143Z
 tags: ["Apple","iPhone","Loyalty"]
 hero_image: "/hero/2026-05-22-iphone-loyalty-declines-shipments-surge-in-latin-america-90e9ef.jpg"
 hero_image_credit_name: "Rubaitul Azad"
 hero_image_credit_url: "https://www.pexels.com/@rubaitulazad"
 visual_keyword: "iPhone"
 description: "iPhone owner loyalty declines in US and Europe, while Latin America sees 31% surge in iPhone shipments."
-sources_count: 6
-author: "david-okafor"
+sources_count: 7
 audio_path: "/audio/2026-05-22-iphone-loyalty-declines-shipments-surge-in-latin-america-90e9ef.mp3"
 audio_bytes: 607339
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## iPhone Loyalty Takes a Hit
@@ -74,3 +76,7 @@ In addition, Apple's competitors, such as Samsung and Google, are also working t
 In conclusion, the decline in iPhone loyalty is a significant trend that Apple will need to address. The company's focus on innovation and customer satisfaction will be crucial in retaining its loyal customer base and attracting new customers. The iPhone 18 Pro's improved satellite connectivity features could be a step in the right direction, but it remains to be seen whether Apple can successfully execute on this strategy.
 
 The company's ability to adapt to changing consumer behavior and preferences will be key to its future success. With the smartphone market continuing to evolve, Apple will need to stay ahead of the curve to remain competitive.
+
+## Updates
+
+- **2026-11-21** — Sony Bravia 9 II Review (2026): Adjustable and Bright ([source](https://www.wired.com/review/sony-bravia-9-ii/))

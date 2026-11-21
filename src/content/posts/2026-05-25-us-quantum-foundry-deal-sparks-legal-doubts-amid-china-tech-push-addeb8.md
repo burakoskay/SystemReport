@@ -1,15 +1,17 @@
 ---
 title: "US quantum foundry deal sparks legal doubts amid China tech push"
 date: 2026-05-25T15:27:07.299Z
+modified_date: 2026-11-21T17:05:11.103Z
 tags: ["quantum computing","AI","US-China relations"]
 hero_image: "/hero/2026-05-25-us-quantum-foundry-deal-sparks-legal-doubts-amid-china-tech-push-addeb8.jpg"
 hero_image_credit_name: "Pachon in Motion"
 hero_image_credit_url: "https://www.pexels.com/@pachon-in-motion-426015731"
 visual_keyword: "quantum computing"
 description: "A new quantum foundry partnership raises legal questions as US faces AI exploit growth and China's tech advancements."
-sources_count: 3
+sources_count: 4
 author: "maya-chen"
 ---
+
 
 
 ## US quantum bet meets a legal gray area
@@ -41,3 +43,7 @@ The development of a quantum foundry company in the US is likely to have signifi
 
 ## Conclusion
 The creation of a quantum foundry company in the US marks a significant milestone in the development of quantum computing technology. However, the report's findings raise important questions about the partnership's structure and regulatory compliance. As the US continues to invest in emerging technologies, it must balance the need for innovation with the need for national security and regulatory compliance. The development of a quantum foundry company is just one example of the complex issues that policymakers and industry leaders will need to navigate in the coming years.
+
+## Updates
+
+- **2026-11-21** — Samsung might copy the iPhone’s Dynamic Island soon, but it actually looks good [Video] ([source](https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/))
