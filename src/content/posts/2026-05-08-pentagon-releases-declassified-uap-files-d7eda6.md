@@ -1,16 +1,17 @@
 ---
 title: "Pentagon Releases Declassified UAP Files"
 date: 2026-05-08T19:30:41.524Z
-modified_date: 2026-10-26T09:35:20.012Z
+modified_date: 2026-11-21T09:07:28.442Z
 tags: ["UAP","Pentagon","UFO"]
 hero_image: "/hero/2026-05-08-pentagon-releases-declassified-uap-files-d7eda6.jpg"
 hero_image_credit_name: "Galib Rahman Nadim"
 hero_image_credit_url: "https://www.pexels.com/@capturedbynadim"
 visual_keyword: "UAP"
 description: "Declassified UFO files offer little new evidence"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ In conclusion, the release of declassified UAP documents and videos by the Penta
 
 ## Updates
 
+- **2026-11-21** — The stochastic parrots have apparently proved the Riemann Hypothesis ([source](https://scottaaronson.blog/?p=10344))
 - **2026-10-26** — Behind the scenes at the NeXT Computer office ([source](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry))
 - **2026-10-20** — Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal ([source](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/))
 - **2026-09-24** — Nexterity wants to automate the hard, dangerous part of pipefitting ([source](https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/))

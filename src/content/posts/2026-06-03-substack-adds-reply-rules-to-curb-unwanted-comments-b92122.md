@@ -1,19 +1,20 @@
 ---
 title: "Substack adds Reply Rules to curb unwanted comments"
 date: 2026-06-03T21:24:13.634Z
-modified_date: 2026-11-14T16:19:28.360Z
+modified_date: 2026-11-21T09:07:09.637Z
 tags: ["Substack","comment moderation","online publishing"]
 hero_image: "/hero/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "comment section"
 description: "Substack's new Reply Rules give creators control over audience replies."
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-06-03-substack-adds-reply-rules-to-curb-unwanted-comments-b92122.mp3"
 audio_bytes: 582053
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,6 +68,7 @@ Substack's Reply Rules feature is a significant development in the world of onli
 
 ## Updates
 
+- **2026-11-21** — Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do? ([source](https://news.ycombinator.com/item?id=50583761))
 - **2026-11-14** — This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers ([source](https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on))
 - **2026-09-23** — Netflix releases trailer for Brad Bird's Ray Gunn ([source](https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/))
 - **2026-09-17** — Camp Snap’s 110D gives slim retro film cameras a digital upgrade ([source](https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film))

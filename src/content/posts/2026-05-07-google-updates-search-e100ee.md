@@ -1,16 +1,17 @@
 ---
 title: "Google Updates Search"
 date: 2026-05-07T03:43:23.874Z
-modified_date: 2026-11-20T01:37:44.095Z
+modified_date: 2026-11-21T09:05:35.275Z
 tags: ["Google","AI","Search"]
 hero_image: "/hero/2026-05-07-google-updates-search-e100ee.jpg"
 hero_image_credit_name: "Philipp Pistis"
 hero_image_credit_url: "https://www.pexels.com/@philipp-pistis-164965741"
 visual_keyword: "Google Search"
 description: "Google introduces new AI-powered search features and updates to Maps and Translate"
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -89,6 +90,7 @@ As the use of AI in these areas continues to grow, it's likely that we'll see si
 
 ## Updates
 
+- **2026-11-21** — Google rolls out new search homepage with AI chat history and no search button ([source](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/))
 - **2026-11-20** — Employees call out Google over AI Search in schools ([source](https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/))
 - **2026-09-02** — Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? ([source](https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/))
 - **2026-05-22** — You can no longer Google the word ‘disregard’ ([source](https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/))

@@ -1,19 +1,20 @@
 ---
 title: "Media and Gaming Converge in AI-Driven Live Entertainment"
 date: 2026-04-26T22:56:45.034Z
-modified_date: 2026-10-21T19:56:00.449Z
+modified_date: 2026-11-21T09:05:06.946Z
 tags: ["AI-driven live entertainment","media and gaming convergence","interactive media"]
 hero_image: "/hero/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "AI-powered live casino"
 description: "VCs and developers are redefining interactive media through AI and real-time gaming innovations."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-04-26-media-and-gaming-converge-in-ai-driven-live-entertainment-2728c3.mp3"
 audio_bytes: 597099
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -77,6 +78,7 @@ Each represents a hinge point. Fail to regulate live game RNGs, and you risk a n
 
 ## Updates
 
+- **2026-11-21** — YouTube is reportedly preparing to settle social media addiction claims for $3 billion ([source](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement))
 - **2026-10-21** — Review: The Oppo Find X10 Pro Max is a gut punch in a post-OnePlus world ([source](https://9to5google.com/2026/10/21/oppo-find-x10-pro-max-review/))
 - **2026-09-22** — Saudi Arabia wants a car industry, launches Ceer with two EVs ([source](https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/))
 - **2026-08-30** — The wildest video game budgets can't hold a candle to GTA 6 ([source](https://www.engadget.com/2246918/video-games-rival-gta-6-budget/))

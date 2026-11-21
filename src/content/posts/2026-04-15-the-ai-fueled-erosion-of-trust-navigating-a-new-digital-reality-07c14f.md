@@ -1,16 +1,17 @@
 ---
 title: "The AI-Fueled Erosion of Trust: Navigating a New Digital Reality"
 date: 2026-04-15T19:48:08.092Z
-modified_date: 2026-11-17T06:25:48.169Z
+modified_date: 2026-11-21T09:05:54.115Z
 tags: ["artificial intelligence","deepfakes","misinformation","digital privacy","media accountability"]
 hero_image: "/hero/2026-04-15-the-ai-fueled-erosion-of-trust-navigating-a-new-digital-reality-07c14f.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "Eroding digital trust"
 description: "AI's pervasive spread fuels a crisis of authenticity, from deepfake nudes to AI-judged journalism and legal privacy concerns, demanding vigilance."
-sources_count: 30
+sources_count: 31
 author: "lena-volkov"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ As AI's capabilities advance, so too does its capacity for crafting convincing i
 
 ## Updates
 
+- **2026-11-21** — Watching as a giant star swallowed its neighbor and exploded ([source](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/))
 - **2026-11-17** — The Bank Outage May Have Nothing to Do With Your Bank ([source](https://www.wired.com/story/jpmorganchase-bank-outage-oh-come-on/))
 - **2026-11-11** — Samsung Gallery now syncs with Google to back up your photos ([source](https://www.engadget.com/2313059/samsung-gallery-syncs-with-google/))
 - **2026-11-05** — Now Claude can help with your finances too ([source](https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too/))

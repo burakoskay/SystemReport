@@ -1,16 +1,17 @@
 ---
 title: "Google's Desktop Resurgence: Gemini Leads the Native App Charge"
 date: 2026-04-16T05:28:26.805Z
-modified_date: 2026-09-19T13:40:29.765Z
+modified_date: 2026-11-21T09:07:00.234Z
 tags: ["google","desktop apps","gemini","macos","tech news"]
 hero_image: "/hero/2026-04-16-google-s-desktop-resurgence-gemini-leads-the-native-app-charge-aa3a26.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "Google Gemini app on Mac desktop with AI assistant interface"
 description: "Google signals a strategic shift, expanding its ecosystem with new desktop applications. The powerful Gemini AI assistant now integrates natively on macOS, enhancing user experience."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ This strategic pivot suggests Google is aiming to offer a more holistic and inte
 
 ## Updates
 
+- **2026-11-21** — HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home ([source](https://9to5mac.com/2026/11/20/lafaers-5-in-1-presence-sensor-fixes-the-most-annoying-automation-in-apple-home/))
 - **2026-09-19** — If math is more than proof, we need to better celebrate the rest of it ([source](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/))
 - **2026-08-31** — The Slate Truck is affordable because you have to 'bring your own tech' ([source](https://www.engadget.com/2244162/the-slate-truck-is-affordable-because-you-have-to-bring-your-own-tech/))
 - **2026-08-24** — ESPN streaming prices are going up, including Disney+ and Hulu bundles ([source](https://9to5mac.com/2026/08/24/espn-streaming-prices-are-going-up-along-with-disney-and-hulu-bundles/))

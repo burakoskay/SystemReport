@@ -1,19 +1,20 @@
 ---
 title: "Google Opens 10th Store, Adapts to South Korea Law"
 date: 2026-04-25T21:01:35.212Z
-modified_date: 2026-10-29T14:54:39.680Z
+modified_date: 2026-11-21T09:06:22.454Z
 tags: ["google","app-store-compliance","sanctions-compliance","retail-expansion","tech-regulation"]
 hero_image: "/hero/2026-04-25-google-opens-10th-store-adapts-to-south-korea-law-1c7120.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "google store interior with android devices displayed on white counters"
 description: "Google expands US retail footprint and adjusts Android payments to meet new regulations, while facing scrutiny over sanctioned apps on Google Play."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-25-google-opens-10th-store-adapts-to-south-korea-law-1c7120.mp3"
 audio_bytes: 569305
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Google’s Retail Push and Regulatory Adjustments
@@ -49,4 +50,5 @@ Longer term, the sanctioned app saga underscores a systemic challenge: how to au
 
 ## Updates
 
+- **2026-11-21** — Best Buy brings back 4K Blu-ray discs with an expanding collection, in-store availability [U] ([source](https://9to5google.com/2026/11/20/best-buy-brings-back-4k-blu-ray-discs-with-a-slowly-expanding-collection/))
 - **2026-10-29** — Apple and Google fined in South Korea over app store violations ([source](https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations/))

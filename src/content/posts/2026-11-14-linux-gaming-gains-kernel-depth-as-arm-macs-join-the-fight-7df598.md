@@ -1,18 +1,20 @@
 ---
 title: "Linux gaming gains kernel depth as ARM Macs join the fight"
 date: 2026-11-14T22:02:19.947Z
+modified_date: 2026-11-21T09:05:25.766Z
 tags: ["linux","gaming","kernel","macos","gpu"]
 hero_image: "/hero/2026-11-14-linux-gaming-gains-kernel-depth-as-arm-macs-join-the-fight-7df598.jpg"
 hero_image_credit_name: "Edgar Almeida"
 hero_image_credit_url: "https://www.pexels.com/@edgaralmeida"
 visual_keyword: "steam deck beside macbook with linux terminal overlay"
 description: "Kernel‑level sync, ARM‑Mac toolkits and GOG’s Linux client signal a shift for gamers who rely on more than just iGPUs."
-sources_count: 10
-author: "david-okafor"
+sources_count: 11
 audio_path: "/audio/2026-11-14-linux-gaming-gains-kernel-depth-as-arm-macs-join-the-fight-7df598.mp3"
 audio_bytes: 611936
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Linux kernel gains native Windows sync primitives
 
@@ -43,6 +45,10 @@ Dedicated cards also sidestep the kernel‑level synchronization gap that NTSYNC
 ## What to watch
 
 The next Steam Deck firmware update will expose NTSYNC performance metrics across a broader game set, giving the community a clearer picture of its impact. Asahi Linux plans a stable 1.0 release later this year, which should include full Vulkan 1.3 support without the current alpha caveats. Finally, GOG’s roadmap for a Linux Galaxy client is expected to surface in a developer blog within the next quarter. Tracking these milestones will reveal whether the Linux gaming ecosystem can finally shed its “novelty” label and become a primary platform for both indie and AAA titles.
+
+## Updates
+
+- **2026-11-21** — Multiplying your Switch 2’s storage costs less than usual right now ([source](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale))
 
 [^1]: [commandlinux.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP33fps087FAqGkeN7dA-pawkTuxLD6vubQE_bw0iaHAXId9hRODuWscggKrJx6xIMlYbt_RqPkt7V83SA3TzniD0U9ZKynrnzMq832yXrYSfeA23mM1SbqWJWgBZ1y9--h7EbLWszhcSp740PSf6W3IGr)
 [^2]: [videocardz.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6A1DTgaMJJ8-BE0Y-dXIbeGQNI7Pd9quo4oZcNSPv7XEECmSRVGxQL_cpf0B72pRklX3G7lEJeHfSVmGBPVaQVivRUBXPmF5iETfEOxHEnKA7wecwrFfqGo0IT_qfwZLS92uIHbVr_wZbHC9swDPPGd3ZYLv5ZvGL6GiY-h-Vpwh8YaeINwzAsmZhrU7yvLCzsEQIrqnamez30RQyfmMi)

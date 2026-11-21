@@ -1,16 +1,17 @@
 ---
 title: "Mercedes-Benz Commits to Bringing Back Physical Buttons"
 date: 2026-05-03T17:00:47.876Z
-modified_date: 2026-11-13T19:06:31.063Z
+modified_date: 2026-11-21T09:06:41.337Z
 tags: ["Mercedes-Benz","Physical Buttons","In-Car Controls"]
 hero_image: "/hero/2026-05-03-mercedes-benz-commits-to-bringing-back-physical-buttons-6ac09d.jpg"
 hero_image_credit_name: "Mathias Reding"
 hero_image_credit_url: "https://www.pexels.com/@matreding"
 visual_keyword: "Mercedes-Benz"
 description: "Mercedes-Benz to reintroduce physical buttons in vehicles, reversing touchscreen trend."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -63,6 +64,7 @@ The reintroduction of physical buttons by Mercedes-Benz is a significant develop
 
 ## Updates
 
+- **2026-11-21** — 9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update ([source](https://9to5mac.com/2026/11/20/daily-november-20-2026/))
 - **2026-11-13** — Pixel Watch update brings a sweet redesign I wish was on more apps ([source](https://9to5google.com/2026/11/13/google-pixel-watch-media-controls-redesign-update/))
 - **2026-11-05** — 9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available ([source](https://9to5mac.com/2026/11/04/daily-november-4-2026/))
 - **2026-10-30** — Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more ([source](https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40/))

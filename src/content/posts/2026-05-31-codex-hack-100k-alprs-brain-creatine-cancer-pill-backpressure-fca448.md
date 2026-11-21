@@ -1,19 +1,20 @@
 ---
 title: "Codex hack, 100k ALPRs, brain creatine, cancer pill, backpressure"
 date: 2026-05-31T21:07:52.693Z
-modified_date: 2026-09-24T19:45:38.076Z
+modified_date: 2026-11-21T09:06:03.661Z
 tags: ["ai","health","privacy","software","research"]
 hero_image: "/hero/2026-05-31-codex-hack-100k-alprs-brain-creatine-cancer-pill-backpressure-fca448.jpg"
 hero_image_credit_name: "Google DeepMind"
 hero_image_credit_url: "https://www.pexels.com/@googledeepmind"
 visual_keyword: "abstract representation of code, license plates, brain scan, pill bottle, data flow"
 description: "A look at a Codex sudo workaround, Deflock's 100k ALPR map, creatine's brain boost, a pancreatic cancer pill that doubles survival, and why backpressure matters."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-31-codex-hack-100k-alprs-brain-creatine-cancer-pill-backpressure-fca448.mp3"
 audio_bytes: 592711
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Codex sidesteps sudo with a clever hack
@@ -52,4 +53,5 @@ Watch for three near‑term signals: GitHub and OpenAI may publish updated safet
 
 ## Updates
 
+- **2026-11-21** — Pixelated 126: Schrödinger’s DoorDash notification ([source](https://9to5google.com/2026/11/20/pixelated-126-schrodingers-doordash-notification/))
 - **2026-09-24** — Two-tier encryption in the UK ([source](https://macanorak.com/two-tier-encryption-in-the-uk/))
