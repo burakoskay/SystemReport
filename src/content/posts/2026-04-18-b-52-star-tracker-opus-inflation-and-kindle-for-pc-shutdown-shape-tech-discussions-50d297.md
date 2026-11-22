@@ -1,16 +1,17 @@
 ---
 title: "B-52 star tracker, Opus inflation"
 date: 2026-04-18T20:29:16.431Z
-modified_date: 2026-11-20T18:17:37.550Z
+modified_date: 2026-11-22T04:35:36.337Z
 tags: ["B-52 star tracker","Opus inflation","Kindle for PC shutdown","cloud migration","Japanese rail efficiency","Kdenlive state report"]
 hero_image: "/hero/2026-04-18-b-52-star-tracker-opus-inflation-and-kindle-for-pc-shutdown-shape-tech-discussions-50d297.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "B-52 star tracker computer"
 description: "B-52 avionics, token inflation, and platform shifts lead Hacker News"
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The B-52 star tracker computer's design era and specific gear ratios demonstrate
 
 ## Updates
 
+- **2026-11-22** — How to calibrate your 3D printer (and why you should) ([source](https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/))
 - **2026-11-20** — Motorola accidentally releases ‘Moto Tag 3’ tracker early with new colors ([source](https://9to5google.com/2026/11/20/motorola-moto-tag-3-leak/))
 - **2026-10-30** — Silicon Valley wants you to invest in miracles ([source](https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles))
 - **2026-09-18** — Apple Watch Ultra 4 vs. Galaxy Watch Ultra 2: Comparing their features, durability and displays ([source](https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/))

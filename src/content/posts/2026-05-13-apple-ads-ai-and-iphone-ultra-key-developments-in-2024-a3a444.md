@@ -1,19 +1,20 @@
 ---
 title: "Apple Ads, AI, and iPhone Ultra: Key Developments in 2024"
 date: 2026-05-13T21:39:06.868Z
-modified_date: 2026-11-14T16:21:16.477Z
+modified_date: 2026-11-22T04:35:44.561Z
 tags: ["apple","ai","iphone","ads","wwdc"]
 hero_image: "/hero/2026-05-13-apple-ads-ai-and-iphone-ultra-key-developments-in-2024-a3a444.jpg"
 hero_image_credit_name: "Tim Witzdam"
 hero_image_credit_url: "https://www.pexels.com/@tim-witzdam-1081250691"
 visual_keyword: "foldable iphone on lab table with holographic interface"
 description: "Apple forms Emerging Team to boost ad spending, confirms iPhone Ultra features, and pushes AI integration—key 2024 developments analyzed."
-sources_count: 20
+sources_count: 21
 audio_path: "/audio/2026-05-13-apple-ads-ai-and-iphone-ultra-key-developments-in-2024-a3a444.mp3"
 audio_bytes: 637641
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Apple's Emerging Team will report results at Q1 earnings in October. WWDC 2024's
 
 ## Updates
 
+- **2026-11-22** — Building your own mini PC is harder than you would think ([source](https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/))
 - **2026-11-14** — Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX ([source](https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/))
 - **2026-10-31** — Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain ([source](https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/))
 - **2026-10-26** — Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now ([source](https://www.wired.com/story/apple-airtag-deal-october-2026/))
