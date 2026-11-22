@@ -1,16 +1,17 @@
 ---
 title: "Jira's Workflow Engine Proves Turing-Complete"
 date: 2026-05-25T10:22:30.081Z
-modified_date: 2026-11-05T23:11:47.066Z
+modified_date: 2026-11-22T13:55:30.537Z
 tags: ["Jira","Turing-Completeness","Security"]
 hero_image: "/hero/2026-05-25-jira-s-workflow-engine-proves-turing-complete-3831b4.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "Jira"
 description: "A blog post shows Jira's built-in workflow engine can simulate a universal Turing machine, sparking debate on security and maintenance implications."
-sources_count: 6
+sources_count: 7
 author: "priya-raman"
 ---
+
 
 
 
@@ -66,4 +67,5 @@ The implications of Turing-completeness in Jira's workflow engine are far-reachi
 
 ## Updates
 
+- **2026-11-22** — Does old computer hardware ever become truly useless? ([source](https://www.engadget.com/2319347/old-computer-hardware-truly-useless/))
 - **2026-11-05** — The Xbox PC app is getting a speed boost ([source](https://www.engadget.com/2308407/the-xbox-pc-app-is-getting-a-speed-boost/))

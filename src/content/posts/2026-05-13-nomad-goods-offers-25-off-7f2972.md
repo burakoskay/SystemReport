@@ -1,16 +1,17 @@
 ---
 title: "Nomad Goods Offers 25% Off"
 date: 2026-05-13T06:52:21.113Z
-modified_date: 2026-10-29T01:31:16.389Z
+modified_date: 2026-11-22T13:55:21.051Z
 tags: ["tech discounts","Nomad Goods","Corsair","H&R Block"]
 hero_image: "/hero/2026-05-13-nomad-goods-offers-25-off-7f2972.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "discounts"
 description: "Nomad, Corsair, and H&R Block offer discounts"
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ Consumers should track whether these discounts continue and if other brands foll
 
 ## Updates
 
+- **2026-11-22** — AirPods Pro 3 just got even cheaper, now $169 ($80 off) ([source](https://9to5mac.com/2026/11/22/airpods-pro-3-just-got-even-cheaper-now-169-80-off/))
 - **2026-10-29** — Apple charges $14,549 for a fully specced touchscreen MacBook Pro ([source](https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced))
 - **2026-10-09** — Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more ([source](https://9to5mac.com/2026/10/09/deals-airpods-max-2-mac-mini-macbook-air-magic-mouse/))
 - **2026-09-27** — The pros and cons of using a foldable phone ([source](https://www.engadget.com/2266434/foldable-phone-pros-cons/))

@@ -1,19 +1,20 @@
 ---
 title: "Uber CTO joins StrictlyVC SF lineup"
 date: 2026-04-24T17:32:34.129Z
-modified_date: 2026-08-03T20:58:25.659Z
+modified_date: 2026-11-22T13:55:40.056Z
 tags: ["AI","Uber","StrictlyVC SF"]
 hero_image: "/hero/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.jpg"
 hero_image_credit_name: "Federico Abis"
 hero_image_credit_url: "https://www.pexels.com/@federicoabisphotography"
 visual_keyword: "Uber"
 description: "Uber CTO Praveen Neppalli Naga joins StrictlyVC San Francisco on April 30 to discuss operating at scale in the age of AI."
-sources_count: 4
+sources_count: 5
 audio_path: "/audio/2026-04-24-uber-cto-joins-strictlyvc-sf-lineup-e69f78.mp3"
 audio_bytes: 635760
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ In conclusion, the addition of Uber CTO Praveen Neppalli Naga to the StrictlyVC 
 
 ## Updates
 
+- **2026-11-22** — Apple AirPods 5 vs. AirPods Pro 3: What are the key differences? ([source](https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/))
 - **2026-08-03** — AWS is helping vibe-coding startup Superblocks, and the implications are big ([source](https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/))
 - **2026-07-30** — Upper stage impacting the moon on 2026 August 5 ([source](https://www.projectpluto.com/25010d.htm))

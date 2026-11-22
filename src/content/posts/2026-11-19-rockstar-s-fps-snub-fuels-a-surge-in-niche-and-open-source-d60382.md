@@ -1,18 +1,20 @@
 ---
 title: "Rockstar’s FPS snub fuels a surge in niche and open‑source"
 date: 2026-11-19T18:59:06.049Z
+modified_date: 2026-11-22T13:55:11.473Z
 tags: ["gaming","linux","hardware","cloud-gaming"]
 hero_image: "/hero/2026-11-19-rockstar-s-fps-snub-fuels-a-surge-in-niche-and-open-source-d60382.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "handheld gaming device with crank controller on a reflective black-and-white screen"
 description: "Rockstar kills 60 fps on consoles as Playdate, Linux kernel sync, Asahi Linux, and GOG’s Linux push signal a shift toward alternative gaming ecosystems."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-11-19-rockstar-s-fps-snub-fuels-a-surge-in-niche-and-open-source-d60382.mp3"
 audio_bytes: 591874
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Rockstar confirmed that GTA 6 will never run at 60 fps on current‑gen consoles, a decision that highlights a growing industry tilt toward niche hardware and open‑source ecosystems.
 
@@ -60,3 +62,6 @@ For power users who still need Windows‑only performance, a revamped cloud‑ga
 
 The next checkpoint will be Rockstar’s response to community backlash—whether the studio doubles down on the 30 fps ceiling or offers a PC‑only 60 fps mode that forces players onto higher‑end hardware. On the Linux side, watch for the first stable release of Asahi’s toolkit and for GOG’s Galaxy Linux client to leave beta. Finally, keep an eye on EC2 pricing and Nvidia’s driver updates; a dip in cloud costs could make remote gaming the default for developers testing cross‑platform builds.
 
+## Updates
+
+- **2026-11-22** — Your questions about Apple HomeView’s audio, answered ([source](https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay))

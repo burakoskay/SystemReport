@@ -1,16 +1,17 @@
 ---
 title: "Google bans ex-employees' reviews, sparks trust debate"
 date: 2026-05-23T19:31:34.896Z
-modified_date: 2026-11-21T22:43:01.224Z
+modified_date: 2026-11-22T13:54:52.380Z
 tags: ["google","reviews","platform","trust","policy"]
 hero_image: "/hero/2026-05-23-google-bans-ex-employees-reviews-sparks-trust-debate-e04bfb.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "a sleek smartphone screen displaying a Google Maps review with a red ban icon"
 description: "Google blocks former workers from posting negative reviews, a move that raises questions about review integrity and corporate control."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 
 ## Google clamps down on ex‑employee reviews
@@ -32,4 +33,5 @@ Watch how Google’s policy change affects the volume and tone of reviews on Goo
 
 ## Updates
 
+- **2026-11-22** — Scientists Tried to Kill This Dirt, but It Wouldn’t Die ([source](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/))
 - **2026-11-21** — How long can fiber optic cables be before they lose signal? ([source](https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal/))
