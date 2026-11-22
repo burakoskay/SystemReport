@@ -1,19 +1,20 @@
 ---
 title: "Switch games run on Apple TV as open‑source hack surfaces"
 date: 2026-11-05T17:56:29.736Z
-modified_date: 2026-11-14T16:20:51.222Z
+modified_date: 2026-11-22T20:34:08.498Z
 tags: ["nintendo","apple tv","gaming","open-source","console-market"]
 hero_image: "/hero/2026-11-05-switch-games-run-on-apple-tv-as-open-source-hack-surfaces-ef3d48.jpg"
 hero_image_credit_name: "Mateusz Dach"
 hero_image_credit_url: "https://www.pexels.com/@mateusz-dach-99805"
 visual_keyword: "Apple TV displaying Super Mario Odyssey gameplay"
 description: "A Redditor’s Claude Code port lets Switch titles like Super Mario Odyssey run natively on Apple TV, raising questions as Nintendo’s Switch 2 sales slump and Sony’s PS5 shortages persist."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-11-05-switch-games-run-on-apple-tv-as-open-source-hack-surfaces-ef3d48.mp3"
 audio_bytes: 577245
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 A Redditor’s Claude Code port now runs Switch titles on Apple TV, proving the streaming box can double as a handheld console.
@@ -50,6 +51,7 @@ Track the next commit to the Claude Code repository for additional Switch 2 ti
 
 ## Updates
 
+- **2026-11-22** — Nintendo’s Switch 2 console is $50 off for Black Friday ([source](https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale))
 - **2026-11-14** — How to use the new remote finding features on the Apple TV 4K (4th gen) ([source](https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/))
 
 [^1]: [biggo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJWD8o3zNwzC7MBaVsUBUswAj34cIU3jP-jHh9EmrC2Ir12Wyq285Ub2miB362gA4t_FNWgN5vmSXBip77TFpbRFB0gmshlwFhtKm_A0rX1gaYoVbVB-W_Vpyj7EUH16ahREGk53Vm6CvBL-_cZrxoYzm_GUZdk1UDeCs7Jrs=)

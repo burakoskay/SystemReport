@@ -1,19 +1,20 @@
 ---
 title: "Meta AI Workers Face Layoffs"
 date: 2026-04-28T19:34:40.925Z
-modified_date: 2026-08-14T18:45:49.949Z
+modified_date: 2026-11-22T20:34:21.258Z
 tags: ["AI","Meta","Layoffs"]
 hero_image: "/hero/2026-04-28-meta-ai-workers-face-layoffs-7ab748.jpg"
 hero_image_credit_name: "Murry Lee"
 hero_image_credit_url: "https://www.pexels.com/@murry"
 visual_keyword: "AI Workers"
 description: "Over 700 jobs at risk in Ireland"
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-04-28-meta-ai-workers-face-layoffs-7ab748.mp3"
 audio_bytes: 620923
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The future of AI development is likely to be shaped by the experiences of worker
 
 ## Updates
 
+- **2026-11-22** — What the little clock icon at the top of your Samsung phone means ([source](https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/))
 - **2026-08-14** — Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested ([source](https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/))
 - **2026-08-01** — How to create and delete stickers on your iPhone ([source](https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/))
 - **2026-06-07** — The Virtual OS Museum lets you relive over 600 operating systems right on your desktop ([source](https://www.theverge.com/tech/945246/virtual-os-museum-dos-windows-mac-os))
