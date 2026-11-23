@@ -1,18 +1,20 @@
 ---
 title: "Tech Turbulence – MAHA Split, Samsung Surge, Vaccine Halt"
 date: 2026-10-22T23:04:01.314Z
+modified_date: 2026-11-23T02:09:36.205Z
 tags: ["tech","policy","consumer","privacy"]
 hero_image: "/hero/2026-10-22-tech-turbulence-maha-split-samsung-surge-vaccine-halt-a6f229.jpg"
 hero_image_credit_name: "Thirdman"
 hero_image_credit_url: "https://www.pexels.com/@thirdman"
 visual_keyword: "collage of foldable phone, vaccine vial, music streaming app, political rally"
 description: "MAHA leader quits, Samsung foldable interest spikes after iPhone Duo, US infant vaccine trial canceled, and Spotify adds QR verification to its Family plan."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-10-22-tech-turbulence-maha-split-samsung-surge-vaccine-halt-a6f229.mp3"
 audio_bytes: 618832
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 The tech world woke to a cascade of setbacks, from a political health group’s leadership loss to a sudden surge in foldable phone searches, a halted infant vaccine trial, and a new Spotify family verification hurdle. Ars Technica reported that the Make America Healthy Again movement lost its leader, Samsung foldable interest spiked after Apple’s iPhone Duo reveal, the US‑backed vaccine trial on babies was canceled last week, and Spotify rolled out a QR‑code check for Family plan members.
 
@@ -59,6 +61,10 @@ The vaccine trial cancellation may prompt regulatory bodies to tighten oversight
 Spotify’s QR verification will roll out to existing Family plan members over the coming weeks. Track user sentiment on social platforms and any legal challenges that could force the service to adjust its approach.
 
 The convergence of political, consumer, and regulatory turbulence highlights how quickly tech ecosystems can shift when policy, competition, and compliance intersect. Stakeholders should stay alert to the next wave of reactions.
+
+## Updates
+
+- **2026-11-23** — I joined the NTP Pool, but not with my Stratum 1 Pi ([source](https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/))
 
 [^1]: [cristinaiglesias.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAz0CvwKI8wyLbU1tLoPB3R5vQp_aVGNO0orMyjDl9h5KilTnxmbZO1O5AA4Abyzs_Y97PPz8ZDRjJlK39wA0MUZqtSrWzIk4lIDcbXnFZWoUY3u3Pq0QiUQLxtCwekJPoMrkeLFGTi1GSWxR0hJG0zZ83oCPA2l1I_g49QnQPmbJJlEdnrGus2jWJnOHqsXBah4ITk9-OkWlmifTnT-3ETOwJnAZ79YfLCRJmVeepTgFtJnelBly1xYIh-jODhMQOkxXCTRT5SuYsjoE=)
 [^2]: [cnn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDhHfaXWTDer_udI2byBpHWQBfHTXpGzaiXa2x1suicOyjnPng0Pz3IJZ39exSD2nSrlZ1tZKLawQOI62h_po2m46Spv7dyTTknTVG6TfAv7oW8O1jcw0-b4EP3rA0uIPcmp4v6zkvJsoQzbn3gG1kov91lcwHqc6wVg==)

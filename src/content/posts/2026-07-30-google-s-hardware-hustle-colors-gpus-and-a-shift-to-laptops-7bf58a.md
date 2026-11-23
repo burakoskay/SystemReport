@@ -1,16 +1,17 @@
 ---
 title: "Google’s hardware hustle: colors, GPUs, and a shift to laptops"
 date: 2026-07-30T08:23:12.202Z
-modified_date: 2026-10-06T16:36:37.402Z
+modified_date: 2026-11-23T02:08:28.552Z
 tags: ["google","pixel","hardware"]
 hero_image: "/hero/2026-07-30-google-s-hardware-hustle-colors-gpus-and-a-shift-to-laptops-7bf58a.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "green pixel phone beside matching earbuds on a sleek tabletop"
 description: "Leaks, retail friction, and a cancelled tablet reveal how Google’s hardware strategy is evolving amid new Pixel launches."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ The next few months will reveal whether the Mali‑G78 lands in the Pixel 6 an
 
 ## Updates
 
+- **2026-11-23** — Public vs. private IP addresses: what's the difference? ([source](https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/))
 - **2026-10-06** — Arturia adds proper sound design tools to its AstroLab synths ([source](https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update))
 - **2026-08-21** — Genki’s new customizable controller has a big screen and adjustable buttons ([source](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen))
 - **2026-08-12** — The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself ([source](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/))

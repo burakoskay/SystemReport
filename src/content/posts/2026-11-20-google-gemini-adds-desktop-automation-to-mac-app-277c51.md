@@ -1,15 +1,17 @@
 ---
 title: "Google Gemini adds desktop automation to Mac app"
 date: 2026-11-20T01:50:12.408Z
+modified_date: 2026-11-23T02:08:53.379Z
 tags: ["google","gemini","ai","macos","privacy"]
 hero_image: "/hero/2026-11-20-google-gemini-adds-desktop-automation-to-mac-app-277c51.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "person using a laptop with AI assistant overlay"
 description: "Gemini on macOS now controls local files and apps, while Spark expands to Chrome and mobile, raising both productivity and privacy questions."
-sources_count: 9
+sources_count: 10
 author: "ryan-tanaka"
 ---
+
 
 ## Gemini on Mac moves from chat to desktop automation
 Google rolled out Gemini Spark to the macOS app, letting the assistant act on files and programs that sit on a user’s computer. The beta is limited to Google AI Ultra subscribers aged 18 and over in the United States and can be downloaded at **gemini.google/mac**. Users can ask Spark to sort PDFs in the Downloads folder, generate a budget spreadsheet from recent invoices, or schedule a recurring update for that sheet. The assistant only touches files that the user explicitly grants it permission to use.
@@ -33,3 +35,7 @@ Unintended activations are also covered. If a background noise sounds like “He
 
 ## What to watch
 The next few months will reveal whether desktop automation gains traction beyond power users. Watch for the expansion of macOS Spark beyond the US beta, the rollout of Chrome integration to additional regions, and any regulatory scrutiny of the human‑reviewer pipeline. The interplay between convenience and data privacy will shape how quickly enterprises adopt Gemini as a core productivity layer.
+
+## Updates
+
+- **2026-11-23** — The pros and cons of sharing your location ([source](https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/))

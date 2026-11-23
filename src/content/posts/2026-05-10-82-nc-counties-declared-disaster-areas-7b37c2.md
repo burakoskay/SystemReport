@@ -1,16 +1,17 @@
 ---
 title: "82 NC Counties Declared Disaster Areas"
 date: 2026-05-10T13:42:51.288Z
-modified_date: 2026-09-30T20:28:41.415Z
+modified_date: 2026-11-23T02:09:44.518Z
 tags: ["natural disaster","drought","North Carolina"]
 hero_image: "/hero/2026-05-10-82-nc-counties-declared-disaster-areas-7b37c2.jpg"
 hero_image_credit_name: "James Frid"
 hero_image_credit_url: "https://www.pexels.com/@james-frid-81279"
 visual_keyword: "drought"
 description: "The US government designates 82 North Carolina counties as natural disaster areas due to severe drought conditions."
-sources_count: 13
+sources_count: 14
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ As the drought continues to affect North Carolina and other parts of the country
 
 ## Updates
 
+- **2026-11-23** — AI is becoming a disaster for the climate ([source](https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the))
 - **2026-09-30** — A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos ([source](https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/))
 - **2026-08-25** — Claude Cowork finally remembers what you told the app in chat ([source](https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/))
 - **2026-08-05** — The AI Notetaker Has Been Invited to All the Meetings ([source](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/))

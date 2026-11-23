@@ -1,15 +1,17 @@
 ---
 title: "Backyard Bugs, Bare‑Bones Tasks, and Health Overload"
 date: 2026-09-20T17:19:56.820Z
+modified_date: 2026-11-23T02:08:20.201Z
 tags: ["tech review","product roundup","consumer gadgets"]
 hero_image: "/hero/2026-09-20-backyard-bugs-bare-bones-tasks-and-health-overload-3c772c.jpg"
 hero_image_credit_name: "Anastasiya Badun"
 hero_image_credit_url: "https://www.pexels.com/@badun"
 visual_keyword: "a backyard patio with a sleek mosquito repellent device, a minimalist Mac laptop displaying a plain text task list, a smartwatch on a wrist showing health metrics, a bird feeder with a small camera"
 description: "A deep dive into Thermacell's LIV 2.0, the Tasks.txt Mac app, Samsung's Galaxy Watch9, and top bird‑lover gifts, with take‑aways for tech‑savvy consumers."
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 Thermocell's LIV 2.0 finally gave my patio a fighting chance against mosquitoes, but the device costs enough to make you question whether the bite‑free evenings are worth the price tag.
 
@@ -55,6 +57,9 @@ Choosing the right gift still depends on the recipient’s experience level. A b
 
 Thermacell plans to release a lower‑cost cartridge later this year; early adopters should monitor pricing before committing to a bulk purchase. Tasks.txt may add a mobile companion in a future update, a move that could broaden its appeal beyond macOS purists. Samsung is rumored to trim the Galaxy Watch9’s sensor suite for a longer battery in the next firmware cycle, a change that could make the watch more practical for everyday wear. Finally, the bird‑gear market is likely to see more hybrid devices that blend analog guides with digital logging, so watch for announcements from outdoor tech startups.
 
+## Updates
+
+- **2026-11-23** — We haven’t seen the last of the major tech outages ([source](https://www.theverge.com/tech/1039851/major-tech-outages))
 
 [^1]: [bestbuy.ca](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtD0bavTMsfzuXHWuBRq-eY0GcmOQA4rEULiY0WBnLdf7L1kKJzruEe2vZdowdu-9f5Uvp5ywyZgBqxhPwxEUmY90rgY3Q_4A_gseEN24r8Yi9fNiN7tzIZ3wfrhwlalmsCxzz3VQQpeIFvUgPcl6vcZfKbNV5SQcflc-oAIBJ8BRA1jDfCmeW-sy6Q2xp4luxy5MgJ9zunuVicy6y)
 [^2]: [pcmag.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHJcTDC_OZYhChOyEhmMf8sD3zDaRX2yDP6CWHSnDVROkF3Pk27eb02xbbvkCx6TJ3Mnrt2RsPEZ6qoDBlU7X06ATmuAWsk1tbPo5o1i1AvCxumvrLKTbQYw4mgRkcz5dJnpyx64jgzQ3FmUXXTgYmZ7GbtoL2mwDSDrWdbwCljtd9pW1l_y5kPzlrW9uOFs3MrMMhUjieNRw=)

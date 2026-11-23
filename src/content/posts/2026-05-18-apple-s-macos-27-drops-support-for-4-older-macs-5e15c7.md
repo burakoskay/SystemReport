@@ -1,19 +1,20 @@
 ---
 title: "Apple's macOS 27 Drops Support for 4 Older Macs"
 date: 2026-05-18T21:18:11.068Z
-modified_date: 2026-11-05T23:12:53.203Z
+modified_date: 2026-11-23T02:09:01.910Z
 tags: ["Apple","macOS 27","iOS 27"]
 hero_image: "/hero/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.jpg"
 hero_image_credit_name: "Lex Photography"
 hero_image_credit_url: "https://www.pexels.com/@lexovertoom"
 visual_keyword: "macOS"
 description: "Apple's upcoming macOS 27 will no longer support four older Mac models. The company also introduces new security features, including AI-powered vulnerability detection."
-sources_count: 22
+sources_count: 23
 audio_path: "/audio/2026-05-18-apple-s-macos-27-drops-support-for-4-older-macs-5e15c7.mp3"
 audio_bytes: 647463
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -89,6 +90,7 @@ In conclusion, Apple's macOS 27 and iOS 27 represent a significant step forward 
 
 ## Updates
 
+- **2026-11-23** — Can you safely use a 140w charger on an iPhone? ([source](https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/))
 - **2026-11-05** — September in Servo: <progress>, rounded rectangles, and more ([source](https://servo.org/blog/2026/11/05/september-in-servo/))
 - **2026-10-23** — You can score a Pixel Watch 5 with LTE for $100 off right now ([source](https://9to5google.com/2026/10/23/pixel-watch-5-lte-discount/))
 - **2026-10-13** — Gemini 4 Argon for Robotics ([source](https://developers.googleblog.com/gemini-4-argon-for-robotics/))

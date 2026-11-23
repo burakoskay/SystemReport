@@ -1,16 +1,17 @@
 ---
 title: "Schematik's Hardware Coding Ambition"
 date: 2026-04-18T12:45:25.911Z
-modified_date: 2026-09-26T08:59:45.145Z
+modified_date: 2026-11-23T02:09:19.156Z
 tags: ["AI","coding","design"]
 hero_image: "/hero/2026-04-18-schematik-s-hardware-coding-ambition-2cdfb0.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "robotics"
 description: "Schematik's 'Cursor for Hardware' and Anthropic's Claude Design aim to streamline coding and design"
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ Chef Robotics, having escaped the robot-cooking graveyard, is thriving with its 
 
 ## Updates
 
+- **2026-11-23** — iOS 27 has a clever fix for unreliable Wi-Fi connections ([source](https://9to5mac.com/2026/11/22/ios-27-has-a-clever-fix-for-unreliable-wi-fi-connections/))
 - **2026-09-26** — Can &#8216;eSUV&#8217; e-bikes really go from trail to town? ([source](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox))
 - **2026-09-25** — Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures ([source](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats))
 - **2026-08-12** — How to Select the Office Chair That’s Right For You ([source](https://www.wired.com/story/how-to-choose-the-right-office-chair/))

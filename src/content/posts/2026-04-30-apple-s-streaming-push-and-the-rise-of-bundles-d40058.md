@@ -1,16 +1,17 @@
 ---
 title: "Apple's Streaming Push and the Rise of Bundles"
 date: 2026-04-30T19:59:10.317Z
-modified_date: 2026-10-21T02:53:29.614Z
+modified_date: 2026-11-23T02:09:10.507Z
 tags: ["apple tv","streaming services","comcast","tv bundling"]
 hero_image: "/hero/2026-04-30-apple-s-streaming-push-and-the-rise-of-bundles-d40058.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "modern living room with Apple TV interface displayed on a smart TV"
 description: "Apple expands streaming ambitions as Comcast bundles challenge industry norms"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Apple's streaming strategy hinges on three factors: how quickly partners adopt i
 
 ## Updates
 
+- **2026-11-23** — Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’ ([source](https://9to5google.com/2026/11/22/pixel-weather-report/))
 - **2026-10-21** — SpaceX and Tesla boards form special committees to review merger ([source](https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/))
 - **2026-08-31** — How to add and remove cards from Apple Wallet ([source](https://www.engadget.com/2246404/how-to-add-remove-cards-from-apple-wallet/))
