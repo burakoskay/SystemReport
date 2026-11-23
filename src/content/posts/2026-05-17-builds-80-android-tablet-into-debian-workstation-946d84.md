@@ -1,16 +1,17 @@
 ---
 title: "Builds $80 Android tablet into Debian workstation"
 date: 2026-05-17T21:09:45.084Z
-modified_date: 2026-11-11T23:58:21.701Z
+modified_date: 2026-11-23T13:57:54.280Z
 tags: ["linux","arm","devops"]
 hero_image: "/hero/2026-05-17-builds-80-android-tablet-into-debian-workstation-946d84.jpg"
 hero_image_credit_name: "Kawê  Rodrigues"
 hero_image_credit_url: "https://www.pexels.com/@kawerodriguess"
 visual_keyword: "engineer using a small tablet as a Linux workstation on a desk"
 description: "A hobbyist repurposes a cheap RK3562 tablet for Debian, showing how low‑cost hardware can become a usable Linux dev box."
-sources_count: 17
+sources_count: 18
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Looking ahead, the success of this hack could spur more manufacturers to ship ta
 
 ## Updates
 
+- **2026-11-23** — ‘Babylon on the Potomac’: Pete Hegseth’s Radical DC Church Attracts Government Elites ([source](https://www.wired.com/story/babylon-on-the-potomac-pete-hegseths-radical-dc-church-attracts-government-elites/))
 - **2026-11-11** — The Lenovo Legion Tab Gen 5 would be my perfect Steam tablet if it didn’t cost $900 ([source](https://9to5google.com/2026/11/11/lenovo-legion-tab-gen-5-review/))
 - **2026-10-31** — The reason most electrical plug prongs have holes in them ([source](https://www.engadget.com/2300248/reason-most-electrical-plug-prongs-have-holes/))
 - **2026-10-15** — ChatGPT can peek at your Chrome tabs now ([source](https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs))

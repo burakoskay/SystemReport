@@ -1,19 +1,20 @@
 ---
 title: "Ghosting in Long-Term Relationships"
 date: 2026-08-03T11:18:42.037Z
-modified_date: 2026-10-17T13:25:57.184Z
+modified_date: 2026-11-23T13:58:51.552Z
 tags: ["Ghosting","Modern Dating","Relationships"]
 hero_image: "/hero/2026-08-03-ghosting-in-long-term-relationships-eae06d.jpg"
 hero_image_credit_name: "Matheus Lara"
 hero_image_credit_url: "https://www.pexels.com/@matheus-lara-1785960246"
 visual_keyword: "Ghosting"
 description: "Ghosting is ubiquitous in modern dating"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-08-03-ghosting-in-long-term-relationships-eae06d.mp3"
 audio_bytes: 554885
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -50,5 +51,6 @@ As we consider the implications of ghosting, it's essential to think about how w
 
 ## Updates
 
+- **2026-11-23** — Tri-screen portable monitors aren’t for the faint of heart ([source](https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/))
 - **2026-10-17** — Is the Google Fitbit Air waterproof? ([source](https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/))
 - **2026-09-11** — Could United Launch Alliance's money problems finally force its owners to sell? ([source](https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/))

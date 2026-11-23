@@ -1,18 +1,20 @@
 ---
 title: "Regulators Clamp Down on Politics, Data Caps and AI Booking"
 date: 2026-11-12T00:06:37.015Z
+modified_date: 2026-11-23T13:58:32.454Z
 tags: ["regulation","telecom","ai","politics","utilities"]
 hero_image: "/hero/2026-11-12-regulators-clamp-down-on-politics-data-caps-and-ai-booking-9e5952.jpg"
 hero_image_credit_name: "Plato Terentev"
 hero_image_credit_url: "https://www.pexels.com/@plato-terentev-3804555"
 visual_keyword: "government building with telecom towers and AI symbol"
 description: "Regulators in Michigan, New York, and the airline industry impose new limits on utility political spending, low‑income internet caps, and AI booking tools."
-sources_count: 6
-author: "maya-chen"
+sources_count: 7
 audio_path: "/audio/2026-11-12-regulators-clamp-down-on-politics-data-caps-and-ai-booking-9e5952.mp3"
 audio_bytes: 639730
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Michigan Ballot Limits Utility Political Spending
 
@@ -49,3 +51,7 @@ The move marks one of the first explicit prohibitions on AI‑driven commerce in
 ## What to Watch
 
 The Michigan amendment will soon appear before a state appellate court; a ruling could set precedent for similar ballot measures in other states. In New York, T‑Mobile must file a compliance plan within 30 days, and regulators will audit the company’s network to ensure the 25 Mbps floor is met. The Senate’s vote on the FCC nominee is slated for early 2025, and the outcome will influence broadband policy ahead of the next midterm elections. United’s AI ban will be tested as developers attempt workarounds; the airline’s compliance reports to the DOT will reveal whether the policy curtails security incidents. Tracking these decisions will show how regulators balance innovation, consumer protection, and political influence across the tech ecosystem.
+
+## Updates
+
+- **2026-11-23** — Goodbye, World: The End of Programmers ([source](https://www.wired.com/story/goodbye-world-the-end-of-programmers/))

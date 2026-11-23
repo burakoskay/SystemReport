@@ -1,19 +1,20 @@
 ---
 title: "Casio Luxury G‑Shock, Gemini Photo AI"
 date: 2026-09-04T23:40:11.109Z
-modified_date: 2026-10-04T13:38:26.617Z
+modified_date: 2026-11-23T13:58:13.369Z
 tags: ["tech","ai","consumer-gadgets"]
 hero_image: "/hero/2026-09-04-casio-luxury-g-shock-gemini-photo-ai-654825.jpg"
 hero_image_credit_name: "Deyan Georgiev"
 hero_image_credit_url: "https://www.pexels.com/@deyan-georgiev-170431557"
 visual_keyword: "luxury G‑Shock watch beside AI music plug‑in interface and Bluetooth tracker"
 description: "Casio unveils a luxury G‑Shock line, Google expands Gemini Spark to manage Photos, and Roland launches Melody Flip AI music plug‑in, marking a wave of consumer AI tools."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-09-04-casio-luxury-g-shock-gemini-photo-ai-654825.mp3"
 audio_bytes: 649553
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Watch for Casio’s official launch date and price tier; the market’s reaction
 
 ## Updates
 
+- **2026-11-23** — Inside Google’s Failure to Make Google Maps Work for Palestinians ([source](https://www.wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians/))
 - **2026-10-04** — Google Pixel turns 10 years old today, and we’re still talking about it ([source](https://9to5google.com/2026/10/04/google-pixel-10-years-old/))
 - **2026-10-02** — iOS 27 gives Apple Photos two features we’ve waited a long time for ([source](https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/))
 

@@ -1,16 +1,17 @@
 ---
 title: "Google speeds Chrome patches with AI, adds mute and link shields"
 date: 2026-07-30T21:08:48.450Z
-modified_date: 2026-10-15T22:51:13.864Z
+modified_date: 2026-11-23T13:59:49.000Z
 tags: ["chrome","security","ai","privacy"]
 hero_image: "/hero/2026-07-30-google-speeds-chrome-patches-with-ai-adds-mute-and-link-shields-512fb4.jpg"
 hero_image_credit_name: "Julio Lopez"
 hero_image_credit_url: "https://www.pexels.com/@julio-lopez-75309646"
 visual_keyword: "browser window with muted video icon and security shield"
 description: "Google ramps up Chrome bug fixes using AI and rolls out permanent mute and link‑shield features, while a health‑tech breach highlights the stakes."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 
@@ -46,5 +47,6 @@ Future updates may reveal whether AI can keep pace with the growing complexity o
 
 ## Updates
 
+- **2026-11-23** — Five recent tech outages were not due to AI; the next round will be ([source](https://9to5mac.com/2026/11/23/five-recent-tech-outages-were-not-due-to-ai-the-next-round-will-be/))
 - **2026-10-15** — Targeted ads delivered 0-click exploits to install mercenary malware ([source](https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/))
 - **2026-08-30** — Two new small, powerful Macs ([source](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera))

@@ -1,15 +1,17 @@
 ---
 title: "LED Lights Repel Bugs While Retro Gaming Finds New Co‑Op Life"
 date: 2026-11-05T02:19:25.124Z
+modified_date: 2026-11-23T13:58:03.794Z
 tags: ["led","gaming","education","ev","brazil"]
 hero_image: "/hero/2026-11-05-led-lights-repel-bugs-while-retro-gaming-finds-new-co-op-life-b7c0f0.jpg"
 hero_image_credit_name: "祝 鹤槐"
 hero_image_credit_url: "https://www.pexels.com/@zhuhehuai"
 visual_keyword: "night street with LED lamps and few insects"
 description: "Hacker News highlights insect avoidance of LEDs, a DOS Wing Commander co‑op breakthrough, education funding concerns, and BYD's Brazil market surge."
-sources_count: 4
+sources_count: 5
 author: "priya-raman"
 ---
+
 
 ## Bugs Skip LED Beams
 The new post on birdsoutsidemywindow.org shows insects steering clear of LED streetlamps. The author documents a field test that found no swarming around modern white LEDs, a stark contrast to the yellow sodium lamps that have long drawn moths and beetles. The article, posted on 2026‑11‑03, earned 164 points and sparked 93 comments on Hacker News, indicating strong community interest.
@@ -33,3 +35,7 @@ Analysts attribute the growth to BYD's ability to source components locally and 
 
 ## What to Watch
 Track city procurement decisions for LED street lighting upgrades, as they may shift urban pest management strategies. Follow the GitHub repository for the Wing Commander co‑op patches to see if the community can reduce latency and add cross‑platform support. Monitor policy proposals in the U.S. and EU that address subscription pricing for educational content, especially any legislation that could curb pay‑walls. Finally, watch BYD’s quarterly production reports and Brazil’s EV incentive programs for signs of whether the 9.7% share will translate into sustained market dominance.
+
+## Updates
+
+- **2026-11-23** — States Sue SpaceX Over Grok Deepfakes ([source](https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/))

@@ -1,16 +1,17 @@
 ---
 title: "Nvidia Unveils RTX Spark Superchip for AI-Powered PCs"
 date: 2026-06-01T21:40:25.334Z
-modified_date: 2026-10-16T19:13:16.601Z
+modified_date: 2026-11-23T13:59:01.077Z
 tags: ["AI","Nvidia","Microsoft","Windows PCs"]
 hero_image: "/hero/2026-06-01-nvidia-unveils-rtx-spark-superchip-for-ai-powered-pcs-c3b2d6.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "RTX Spark superchip"
 description: "Nvidia and Microsoft partner to bring AI agents to Windows PCs with new RTX Spark superchip"
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ In conclusion, the RTX Spark superchip has the potential to revolutionize the wa
 
 ## Updates
 
+- **2026-11-23** — Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI ([source](https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/))
 - **2026-10-16** — Friday’s Android app deals and freebies: Majesty, Boxville 2, Dungeon Defense, Mythic Trials 2, more ([source](https://9to5toys.com/2026/10/16/todays-highlight-google-play-deals-30/))
 - **2026-10-07** — Surface RTX Spark Dev Box is available for preorder for $5,999 ([source](https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder))
 - **2026-09-03** — Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here ([source](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/))

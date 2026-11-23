@@ -1,16 +1,17 @@
 ---
 title: "Apple's iPhone 17 Lineup Hits Record Popularity"
 date: 2026-04-30T21:06:44.235Z
-modified_date: 2026-11-15T08:44:33.594Z
+modified_date: 2026-11-23T13:58:42.026Z
 tags: ["Apple","iPhone 17","smartphones"]
 hero_image: "/hero/2026-04-30-apple-s-iphone-17-lineup-hits-record-popularity-32cd5c.jpg"
 hero_image_credit_name: "Brijesh H"
 hero_image_credit_url: "https://www.pexels.com/@brijeshritz"
 visual_keyword: "iPhone 17"
 description: "Apple's iPhone 17 lineup has become the company's most popular model family ever, with the tech giant reporting another record-breaking quarter of earnings."
-sources_count: 27
+sources_count: 28
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ As Apple continues to push the boundaries of innovation, it will be exciting to 
 
 ## Updates
 
+- **2026-11-23** — F1 in Las Vegas: You've never seen an F1 race like this before ([source](https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/))
 - **2026-11-15** — We're Asking an Appeals Court to Require a Warrant for ALPR Searches ([source](https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches))
 - **2026-11-12** — 30% of iPhone Duo buyers may have returned it, but I don’t think Apple should worry ([source](https://9to5mac.com/2026/11/12/30-of-iphone-duo-buyers-may-have-returned-it-but-i-dont-think-apple-should-worry/))
 - **2026-11-03** — Apple set an iPhone sales record even without a new standard iPhone ([source](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings))

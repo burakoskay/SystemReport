@@ -1,19 +1,20 @@
 ---
 title: "Amazon Adds Dark Mode to Kindle Colorsoft"
 date: 2026-04-28T17:51:37.722Z
-modified_date: 2026-11-21T22:42:22.360Z
+modified_date: 2026-11-23T13:57:25.641Z
 tags: ["Amazon","Apple","AI","Pricing Models"]
 hero_image: "/hero/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.jpg"
 hero_image_credit_name: "Luana  Ribeiro"
 hero_image_credit_url: "https://www.pexels.com/@luana-ribeiro-44057245"
 visual_keyword: "Kindle Colorsoft"
 description: "Amazon updates Kindle Colorsoft with dark mode, Apple introduces new subscription tier"
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-04-28-amazon-adds-dark-mode-to-kindle-colorsoft-592065.mp3"
 audio_bytes: 564289
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -60,6 +61,7 @@ Ultimately, the future of the tech industry will be shaped by the ongoing interp
 
 ## Updates
 
+- **2026-11-23** — Amazon is taking orders for the Moto Tag 3 before it’s even been announced ([source](https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak))
 - **2026-11-21** — Amazon is complaining about NYC Council on shipping labels, too ([source](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label))
 - **2026-05-12** — Amazon’s ultrafast 30-minute deliveries are now available in more cities ([source](https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities))
 - **2026-05-03** — Google’s official cases for the entire Pixel 10 series are on sale right now ([source](https://9to5google.com/2026/05/03/google-pixel-10-cases-discount/))

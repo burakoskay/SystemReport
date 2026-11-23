@@ -1,19 +1,20 @@
 ---
 title: "Chuwi Minibook X, AMD RX 9070 GRE, and Console Shifts"
 date: 2026-06-01T04:44:51.396Z
-modified_date: 2026-08-13T22:35:39.109Z
+modified_date: 2026-11-23T13:59:58.495Z
 tags: ["Chuwi Minibook X","AMD RX 9070 GRE","Next-Gen Consoles"]
 hero_image: "/hero/2026-06-01-chuwi-minibook-x-amd-rx-9070-gre-and-console-shifts-b815fb.jpg"
 hero_image_credit_name: "Василь Вовк"
 hero_image_credit_url: "https://www.pexels.com/@2874318"
 visual_keyword: "Netbook"
 description: "Chuwi's new netbook and AMD's GPU release signal change"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-01-chuwi-minibook-x-amd-rx-9070-gre-and-console-shifts-b815fb.mp3"
 audio_bytes: 662510
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -36,5 +37,6 @@ The releases of the Chuwi Minibook X and the Radeon RX 9070 GRE will have signif
 
 ## Updates
 
+- **2026-11-23** — AirPods Pro 3 hit new all-time low price, now $149 ($100 off) ([source](https://9to5mac.com/2026/11/23/airpods-pro-3-just-got-even-cheaper-now-169-80-off/))
 - **2026-08-13** — Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything ([source](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/))
 - **2026-08-10** — Show HN: Voice driven murder mystery, Interview AI suspects with your voice ([source](https://www.whodunnitai.com/))
