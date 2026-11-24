@@ -1,16 +1,17 @@
 ---
 title: "Google embeds Gemini in TV, Android Search"
 date: 2026-04-29T17:46:40.728Z
-modified_date: 2026-11-18T00:23:16.142Z
+modified_date: 2026-11-24T11:56:50.753Z
 tags: ["Google Gemini","AI Integration","Consumer Devices"]
 hero_image: "/hero/2026-04-29-google-embeds-gemini-in-tv-android-search-7c88b7.jpg"
 hero_image_credit_name: "Czapp Árpád"
 hero_image_credit_url: "https://www.pexels.com/@czapp-arpad-3647289"
 visual_keyword: "Google TV"
 description: "Google adds Gemini tools to TV and Android Search, generates Docs, PDFs, Word files"
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ What to watch: tracking adoption metrics for the TV transformers and file-genera
 
 ## Updates
 
+- **2026-11-24** — Honor teams up with cinema camera-maker Arri on the Magic 9 Pro Max ([source](https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/))
 - **2026-11-18** — Google makes it easier to use Gemini without training AI on your data ([source](https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/))
 - **2026-09-18** — Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons ([source](https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/))
 - **2026-08-19** — Google packs Search and Gemini with new AI study tools ([source](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/))

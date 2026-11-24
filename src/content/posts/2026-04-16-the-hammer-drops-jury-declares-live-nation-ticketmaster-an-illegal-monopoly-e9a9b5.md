@@ -1,16 +1,17 @@
 ---
 title: "The Hammer Drops: Jury Declares Live Nation-Ticketmaster an"
 date: 2026-04-16T05:27:56.433Z
-modified_date: 2026-11-22T20:34:39.821Z
+modified_date: 2026-11-24T11:58:29.664Z
 tags: ["antitrust","livemusic","ticketmaster","monopoly","doj"]
 hero_image: "/hero/2026-04-16-the-hammer-drops-jury-declares-live-nation-ticketmaster-an-illegal-monopoly-e9a9b5.jpg"
 hero_image_credit_name: "Flo Zimmermann"
 hero_image_credit_url: "https://www.pexels.com/@flo-zimmermann-3188601"
 visual_keyword: "broken chains over concert stage"
 description: "A federal jury found Live Nation-Ticketmaster an illegal monopoly, validating fan outrage and opening the door to a potential breakup of the live entertainment giant."
-sources_count: 28
+sources_count: 29
 author: "lena-volkov"
 ---
+
 
 
 
@@ -45,6 +46,7 @@ For millions of concert-goers and artists alike, this verdict represents a glimm
 
 ## Updates
 
+- **2026-11-24** — Freeing the iPod Nano 5G ([source](https://viktorkrapivin.com/blog/nano5g-priv-prvd))
 - **2026-11-22** — The Mythology of Conscious AI ([source](https://www.noemamag.com/the-mythology-of-conscious-ai/))
 - **2026-11-14** — Smart glasses could replace your monitor but they shouldn't — here's why ([source](https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/))
 - **2026-10-06** — Why Common Lisp is now the best programming language ([source](https://www.vivienhenz.com/common-lisp))

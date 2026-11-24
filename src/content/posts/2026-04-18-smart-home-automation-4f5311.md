@@ -1,16 +1,17 @@
 ---
 title: "Smart Home Automation"
 date: 2026-04-18T11:07:01.302Z
-modified_date: 2026-11-17T06:26:36.758Z
+modified_date: 2026-11-24T11:57:15.636Z
 tags: ["Smart Home","Automation","Curb Appeal","Home Accessories"]
 hero_image: "/hero/2026-04-18-smart-home-automation-4f5311.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Smart Locks"
 description: "Boost curb appeal with smart locks and lights"
-sources_count: 30
+sources_count: 31
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Incorporating these devices provides improved convenience and efficiency, accord
 
 ## Updates
 
+- **2026-11-24** — What’s new in Android’s November 2026 Google System Updates [U] ([source](https://9to5google.com/2026/11/23/november-2026-google-system-updates/))
 - **2026-11-17** — What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad] ([source](https://9to5google.com/2026/11/16/november-2026-google-system-updates/))
 - **2026-11-15** — Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery] ([source](https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/))
 - **2026-11-10** — What’s new in Android’s November 2026 Google System Updates [U] ([source](https://9to5google.com/2026/11/09/november-2026-google-system-updates/))

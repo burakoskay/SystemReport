@@ -1,15 +1,17 @@
 ---
 title: "BepiColombo reaches Mercury as community tools reshape space"
 date: 2026-09-21T09:34:42.715Z
+modified_date: 2026-11-24T11:56:19.659Z
 tags: ["space","software","open-source","async","asimo"]
 hero_image: "/hero/2026-09-21-bepicolombo-reaches-mercury-as-community-tools-reshape-space-fa37dc.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "BepiColombo spacecraft near Mercury with code overlay"
 description: "After eight years in flight, ESA's BepiColombo probe nears Mercury while open-source projects and new research expose the software and cultural gaps in modern space exploration."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 ## BepiColombo's long trek ends
 
@@ -46,3 +48,7 @@ The author’s broader vision included solar‑power stations in deserts and a w
 ## What to watch
 
 The next weeks will reveal BepiColombo's first magnetic field measurements, a data set that will feed models built in part with community code. Keep an eye on Naev’s upcoming release notes for any new mission modules that mimic real‑world trajectories. Follow citations of the async/await design paper as language designers iterate on task semantics. Finally, watch ESA’s announcements on follow‑on missions that may blend autonomous probes with open‑source simulation pipelines, a convergence Asimov could only hint at.
+
+## Updates
+
+- **2026-11-24** — Ladybird, the first new browser engine in years, is now available to test ([source](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing))

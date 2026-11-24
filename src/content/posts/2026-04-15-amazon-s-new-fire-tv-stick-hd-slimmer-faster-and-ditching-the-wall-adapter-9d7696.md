@@ -1,16 +1,17 @@
 ---
 title: "Amazon's New Fire TV Stick HD: Slimmer, Faster"
 date: 2026-04-15T19:46:06.589Z
-modified_date: 2026-11-20T18:18:55.556Z
+modified_date: 2026-11-24T11:57:21.747Z
 tags: ["amazon","fire tv","streaming","gadgets","smart home"]
 hero_image: "/hero/2026-04-15-amazon-s-new-fire-tv-stick-hd-slimmer-faster-and-ditching-the-wall-adapter-9d7696.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Fire TV Stick HD hidden TV USB power"
 description: "Amazon unveils its new $35 Fire TV Stick HD, featuring a slimmer design, Wi-Fi 6, and direct power from a TV's USB port, eliminating bulky wall adapters."
-sources_count: 31
+sources_count: 32
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Shipping begins April 29 in multiple regions including the US, UK, and Canada, t
 
 ## Updates
 
+- **2026-11-24** — Hands-on: Baseus’ new PicoGo Pro USB-C charger is clever, cute, and on sale ([source](https://9to5google.com/2026/11/23/baseus-picogo-pro-usb-c-hands-on/))
 - **2026-11-20** — Frostbite: A new CPU architecture discovered, designed and verified by AI ([source](https://architectlabs.com/blog/frostbite))
 - **2026-11-14** — Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new ([source](https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/))
 - **2026-11-12** — The price of your Android XR glasses can quickly skyrocket with add-ons ([source](https://9to5google.com/2026/11/12/android-xr-glasses-add-on-prices/))

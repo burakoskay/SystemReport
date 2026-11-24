@@ -1,16 +1,17 @@
 ---
 title: "FTC Deals Ignore Discrimination"
 date: 2026-08-14T22:18:57.153Z
-modified_date: 2026-11-21T09:05:44.739Z
+modified_date: 2026-11-24T11:56:44.473Z
 tags: ["FTC","discrimination","auto dealers"]
 hero_image: "/hero/2026-08-14-ftc-deals-ignore-discrimination-47e349.jpg"
 hero_image_credit_name: "Zion Smith"
 hero_image_credit_url: "https://www.pexels.com/@zion-smith-2162655713"
 visual_keyword: "FTC"
 description: "FTC strikes deals with auto dealers accused of discrimination"
-sources_count: 2
+sources_count: 3
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,4 +59,5 @@ Consumer advocates will likely continue to push for greater transparency and acc
 
 ## Updates
 
+- **2026-11-24** — OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government ([source](https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/))
 - **2026-11-21** — Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. ([source](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/))

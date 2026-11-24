@@ -1,16 +1,17 @@
 ---
 title: "Meta AI Arrives on WhatsApp with Private 'Incognito Chat'"
 date: 2026-05-13T18:09:56.685Z
-modified_date: 2026-11-05T01:59:03.864Z
+modified_date: 2026-11-24T11:56:07.277Z
 tags: ["Meta AI","WhatsApp","AI chatbot","private conversations"]
 hero_image: "/hero/2026-05-13-meta-ai-arrives-on-whatsapp-with-private-incognito-chat-49105b.jpg"
 hero_image_credit_name: "Rahul Shah"
 hero_image_credit_url: "https://www.pexels.com/@-rahulshah-"
 visual_keyword: "Meta AI on WhatsApp"
 description: "Meta brings AI chatbot to WhatsApp with end-to-end encryption, allowing private conversations."
-sources_count: 14
+sources_count: 15
 author: "maya-chen"
 ---
+
 
 
 
@@ -76,6 +77,7 @@ However, the integration of Meta AI with WhatsApp also raises concerns about use
 
 ## Updates
 
+- **2026-11-24** — The hacker behind early GTA VI leaks has been sentenced — and released ([source](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released))
 - **2026-11-05** — Hackers exploited iOS and Android flaws to infect phones ([source](https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/))
 - **2026-10-23** — Meta is charging government and nonprofit pages to post links on Facebook ([source](https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/))
 - **2026-10-09** — SpaceX calls for better coordination in orbit after near-misses with Starlink ([source](https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/))

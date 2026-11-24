@@ -1,15 +1,17 @@
 ---
 title: "Tech firms cannibalize washing machines for chips amid shortage"
 date: 2026-11-09T09:16:17.202Z
+modified_date: 2026-11-24T11:57:27.904Z
 tags: ["semiconductor shortage","washing machines","automotive","supply chain","tech recycling"]
 hero_image: "/hero/2026-11-09-tech-firms-cannibalize-washing-machines-for-chips-amid-shortage-8d7b17.jpg"
 hero_image_credit_name: "Marian  Cosnete"
 hero_image_credit_url: "https://www.pexels.com/@marian-cosnete-1556886778"
 visual_keyword: "industrial washing machine being dismantled, chips scattered on workbench"
 description: "Companies are ripping new washers for sensors and Wi‑Fi chips as the global semiconductor crunch stalls car and appliance production."
-sources_count: 3
+sources_count: 4
 author: "ryan-tanaka"
 ---
+
 
 Tech firms are buying brand‑new washing machines and gutting them for chips. The move reflects a desperate scramble to keep production lines moving while the world wrestles with a multi‑year semiconductor deficit.
 
@@ -43,6 +45,9 @@ Wennink told investors that the “width of the demand” has been vastly undere
 
 The next quarterly earnings from ASML will reveal whether the company can expand capacity fast enough to ease the pressure. Keep an eye on any official statements from major automakers about alternative sourcing strategies. If the washer‑cannibalism trend spreads, we may see a new class of “chip‑recovery” startups emerge, turning discarded appliances into a secondary supply node for the semiconductor ecosystem.
 
+## Updates
+
+- **2026-11-24** — TCL’s Picture Frame TVs with Google TV are up to $800 off this week ([source](https://9to5google.com/2026/11/23/tcls-picture-frame-tvs-with-google-tv-are-up-to-800-off-this-week/))
 
 [^1]: [tomshardware.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiXDW8IcQGxoizlrqs8GAVWd6t56kK0QMcq1rjKWEHyye7w3xXJDdMmr-RVF3wdE1YqTIbJU_3HdSnYFqD29ndDbjlq-UIOJJDN6Q7Zr-PLDA5nykVxjfkJda1QOdm1R7Cq50-czJ4IuUhr6t6KZlmIgF5FANCQEaO5sqLkXu8VuW73KZGLF2-_83C)
 [^2]: [techspot.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTOGtWwFwkRrMy5XcRgRYJ2jFyE525hJs_8xrdqpS722224axL-fXeB2690yVRWlvcLiB3U0PRf5GCrWrulDeuSWhGI3Ha4PFSgFaFMhRuoZV2Mn-kgY_Qos-fSbghyX3-DARrvPKb_XGUwLLpdhgFfetFINgDE_-ca6q43Jw-HyiXDeALU-nnBcthxXluSmQcVFeYtfTO6A==)

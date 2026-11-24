@@ -1,15 +1,17 @@
 ---
 title: "YouTube eyes audiobooks as Spotify rewrites its app"
 date: 2026-10-15T20:06:09.770Z
+modified_date: 2026-11-24T11:57:46.386Z
 tags: ["youtube","audiobooks","spotify","streaming","ebook"]
 hero_image: "/hero/2026-10-15-youtube-eyes-audiobooks-as-spotify-rewrites-its-app-d7487a.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "person listening to audiobook on smartphone with YouTube and Spotify logos"
 description: "YouTube Premium may add audiobooks, while Spotify rolls out a TikTok‑style feed, signaling a clash for listeners' time."
-sources_count: 3
+sources_count: 4
 author: "sam-whitfield"
 ---
+
 
 ## YouTube’s audiobook experiment
 
@@ -63,6 +65,9 @@ Stakeholders to monitor include major audiobook publishers (Audible’s parent A
 
 ---
 
+## Updates
+
+- **2026-11-24** — ChatGPT expands GPT-6.2 Sol as OpenAI sets retirement date for two models ([source](https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ytyatUVjcVmgFhbjN2XLB1W2D_qBrttHvdZsKciZcqNBJ4StMAYDWYn45wUV5PbCQvzWbpM_ILfj2bGvY9qVsC7lfCj8sxHOx7rHUNv2NtAMLXTIikgoVxpEXjs7usL89HlmbK4I7V9fTcTHph6hqGCLrHwPbIZXAH3J-una)
 [^2]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5lntKK6MVfv2Dt7mrQmPus7ESlLHrzmQuFmOHirshLV0B9fQ4SmaAvLodDrmEE-V_ScbNVVTGlohzDBY8BMJfZgHiWMGRa1m7MiNFhHDkmSMumw1WNiqB3JrL56kPBQl)

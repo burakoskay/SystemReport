@@ -1,19 +1,20 @@
 ---
 title: "Google Bans Negative Reviews"
 date: 2026-05-09T13:27:28.154Z
-modified_date: 2026-11-16T14:32:43.851Z
+modified_date: 2026-11-24T11:56:00.952Z
 tags: ["Google","Online Reviews","Review Policy"]
 hero_image: "/hero/2026-05-09-google-bans-negative-reviews-19e70c.jpg"
 hero_image_credit_name: "ubeyonroad"
 hero_image_credit_url: "https://www.pexels.com/@ubeyonroad-926249862"
 visual_keyword: "Google My Business"
 description: "Google updates review policies, bans people from posting negative reviews of former employers, aiming to make reviews more accurate and unbiased."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-05-09-google-bans-negative-reviews-19e70c.mp3"
 audio_bytes: 577664
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -69,6 +70,7 @@ In conclusion, Google's updated review policy is a significant step towards main
 
 ## Updates
 
+- **2026-11-24** — Google alternative Kagi launches an email service ([source](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative))
 - **2026-11-16** — Google Maps rolling out travel itineraries & list search for Ask Maps ([source](https://9to5google.com/2026/11/16/google-ask-maps-itineraries/))
 - **2026-10-10** — Where Google Wallet state IDs are available on Android ([source](https://9to5google.com/2026/10/10/google-wallet-state-ids/))
 - **2026-09-05** — Where Google Wallet state IDs are available on Android ([source](https://9to5google.com/2026/09/05/google-wallet-state-ids/))

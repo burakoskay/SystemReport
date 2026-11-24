@@ -1,15 +1,17 @@
 ---
 title: "Apple HomeView adds iPhone widget support while EU launch stalls"
 date: 2026-10-14T20:19:08.271Z
+modified_date: 2026-11-24T11:55:42.108Z
 tags: ["apple","homeview","smart-home"]
 hero_image: "/hero/2026-10-14-apple-homeview-adds-iphone-widget-support-while-eu-launch-stalls-e88db8.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "modern smart home display on sleek aluminum base with bright screen"
 description: "HomeView can now show iPhone widgets and may run YouTube or Netflix, but Siri AI’s EU ban delays its rollout in Europe."
-sources_count: 7
+sources_count: 8
 author: "david-okafor"
 ---
+
 
 ## HomeView opens to third‑party widgets
 Apple announced that HomeView will display widgets drawn from a paired iPhone. The feature arrives without an App Store on the device. Users can pull a Weather, Calendar or third‑party widget from their phone and watch it update on the 7‑inch screen.
@@ -35,3 +37,7 @@ The EU ban highlights a broader regulatory tension. Apple’s on‑device intell
 ## What to watch
 Track Apple’s negotiations with the European Commission for a Siri AI exemption. A resolution could unlock HomeView sales in the EU as early as the next quarter. Also monitor which video services sign the conditional agreement. A Netflix or YouTube launch would expand HomeView’s entertainment value and could influence other smart‑display makers.
 Finally, watch for any developer updates on widget support. If third‑party apps begin shipping HomeView‑specific extensions, the device could evolve beyond a simple iPhone companion into a standalone smart‑home hub.
+
+## Updates
+
+- **2026-11-24** — Inside the Chinese City Where Furniture Dupes Are Made ([source](https://www.wired.com/story/foshan-china-dupes-furniture/))

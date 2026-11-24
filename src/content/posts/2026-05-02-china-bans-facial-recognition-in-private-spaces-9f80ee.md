@@ -1,19 +1,20 @@
 ---
 title: "China Bans Facial Recognition in Private Spaces"
 date: 2026-05-02T19:08:16.977Z
-modified_date: 2026-06-05T20:01:40.236Z
+modified_date: 2026-11-24T11:56:57.122Z
 tags: ["China","facial recognition","privacy"]
 hero_image: "/hero/2026-05-02-china-bans-facial-recognition-in-private-spaces-9f80ee.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "facial recognition"
 description: "China's new rules ban facial recognition without consent in private areas like hotel rooms and public toilets, but don't apply to researchers or AI training."
-sources_count: 12
+sources_count: 13
 audio_path: "/audio/2026-05-02-china-bans-facial-recognition-in-private-spaces-9f80ee.mp3"
 audio_bytes: 593965
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,4 +68,5 @@ The development of facial recognition technology is likely to continue, with pot
 
 ## Updates
 
+- **2026-11-24** — The biggest downsides to using Apple's Magic Mouse ([source](https://www.engadget.com/2320296/apple-magic-mouse-biggest-downsides/))
 - **2026-06-05** — The Sonos Era 100 speaker is down to its lowest price in months ([source](https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale))

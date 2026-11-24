@@ -1,19 +1,20 @@
 ---
 title: "Apple Works to Integrate Gemini into iPhone for Siri"
 date: 2026-05-28T20:32:32.458Z
-modified_date: 2026-07-31T17:45:56.981Z
+modified_date: 2026-11-24T11:58:04.948Z
 tags: ["Apple","Gemini","Siri","AI"]
 hero_image: "/hero/2026-05-28-apple-works-to-integrate-gemini-into-iphone-for-siri-875b17.jpg"
 hero_image_credit_name: "Đỗ Tâm"
 hero_image_credit_url: "https://www.pexels.com/@duytamdo"
 visual_keyword: "iPhone"
 description: "Apple aims to fit Gemini on iPhone for lower latency and privacy"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-28-apple-works-to-integrate-gemini-into-iphone-for-siri-875b17.mp3"
 audio_bytes: 633880
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -67,5 +68,6 @@ The development of on-device AI capabilities may also have significant implicati
 
 ## Updates
 
+- **2026-11-24** — MacBook Neo gets rare $100 price drop for Black Friday [Updated] ([source](https://9to5mac.com/2026/11/23/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/))
 - **2026-07-31** — iPhone Air 2 to feature smaller Dynamic Island, more: report ([source](https://9to5mac.com/2026/07/31/iphone-air-2-to-feature-smaller-dynamic-island-more-report/))
 - **2026-07-28** — Touchscreen decision may push MacBook Ultra price even higher ([source](https://9to5mac.com/2026/07/28/touchscreen-decision-may-push-macbook-ultra-price-even-higher/))

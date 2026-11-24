@@ -1,16 +1,17 @@
 ---
 title: "Apple clamps AI disk access as local agents gain traction"
 date: 2026-11-09T09:13:23.899Z
-modified_date: 2026-11-12T22:05:15.003Z
+modified_date: 2026-11-24T11:56:38.018Z
 tags: ["apple","privacy","local-ai","macos","sandbox"]
 hero_image: "/hero/2026-11-09-apple-clamps-ai-disk-access-as-local-agents-gain-traction-6a4969.jpg"
 hero_image_credit_name: "Guilherme  Pedrosa"
 hero_image_credit_url: "https://www.pexels.com/@guilherme-pedrosa-2156844062"
 visual_keyword: "macOS desktop with AI agent icon and lock symbol"
 description: "Apple plans tighter Full Disk Access controls for AI agents in macOS 27.3, while developers roll out open‑source local agents and sandbox tools to keep work on‑device."
-sources_count: 5
+sources_count: 6
 author: "maya-chen"
 ---
+
 
 
 ## Apple tightens Full Disk Access for AI agents in macOS 27.3
@@ -53,4 +54,5 @@ Watch the macOS 27.3 public beta for the exact wording of the new AI Agent entit
 
 ## Updates
 
+- **2026-11-24** — Trump halts Iowa detonation, says new governor to blame if it blows accidentally ([source](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/))
 - **2026-11-12** — President Trump calls on Tim Cook to be next NVIDIA CEO ([source](https://9to5mac.com/2026/11/12/president-trump-calls-on-tim-cook-to-be-next-nvidia-ceo/))

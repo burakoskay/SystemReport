@@ -1,19 +1,20 @@
 ---
 title: "AI Advances"
 date: 2026-05-06T06:42:07.091Z
-modified_date: 2026-11-20T01:37:32.876Z
+modified_date: 2026-11-24T11:57:34.106Z
 tags: ["AI","Nvidia","ChatRTX"]
 hero_image: "/hero/2026-05-06-ai-advances-87aff6.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "New AI developments and implications"
-sources_count: 15
+sources_count: 16
 audio_path: "/audio/2026-05-06-ai-advances-87aff6.mp3"
 audio_bytes: 587277
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -81,6 +82,7 @@ The next significant development to watch is the release of new AI-powered produ
 
 ## Updates
 
+- **2026-11-24** — The VR Forever Gaming Awards return in December with tons of demos and discounts ([source](https://9to5google.com/2026/11/23/the-vr-forever-gaming-awards-return-in-december-with-tons-of-demos-and-discounts/))
 - **2026-11-20** — Sony’s WH-1000XM5 are cheaper than ever for Black Friday ([source](https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale))
 - **2026-09-09** — White House takes down ‘Build the Wall’ game after the Tetris Company complains ([source](https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/))
 - **2026-06-01** — Websites Can Now Spy on You Through Your Hard Drive ([source](https://www.wired.com/story/websites-can-now-spy-on-you-through-your-hard-drive/))

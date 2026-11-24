@@ -1,16 +1,17 @@
 ---
 title: "Apple Watch Import Ban Lifted as ITC Closes Case"
 date: 2026-04-18T01:10:58.213Z
-modified_date: 2026-11-17T06:29:00.311Z
+modified_date: 2026-11-24T11:57:58.620Z
 tags: ["Apple","Apple Watch","ITC"]
 hero_image: "/hero/2026-04-18-apple-watch-import-ban-lifted-as-itc-closes-case-9294b4.jpg"
 hero_image_credit_name: "Harry Shelton"
 hero_image_credit_url: "https://www.pexels.com/@harry-shelton-39376662"
 visual_keyword: "Apple Watch"
 description: "ITC sides with Apple in patent dispute with Masimo, ending threat to Apple Watch sales"
-sources_count: 23
+sources_count: 24
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -44,6 +45,7 @@ The Apple Watch has become an increasingly important product line for Apple, pla
 
 ## Updates
 
+- **2026-11-24** — Apple Watch SE 3 vs Series 12: Which should you buy this holiday season? ([source](https://9to5mac.com/2026/11/23/apple-watch-se-3-vs-series-12-which-should-you-buy-this-holiday-season/))
 - **2026-11-17** — The Apple Watch Series 12 is cheaper than ever ahead of Black Friday ([source](https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale))
 - **2026-11-15** — You can control your other devices with this resourceful Apple feature ([source](https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/))
 - **2026-11-02** — Apple TV just added a ton of free classic movies, here’s everything new ([source](https://9to5mac.com/2026/11/02/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new-2/))
