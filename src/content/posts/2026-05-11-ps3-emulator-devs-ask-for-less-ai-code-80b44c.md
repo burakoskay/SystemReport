@@ -1,19 +1,20 @@
 ---
 title: "PS3 Emulator Devs Ask for Less AI Code"
 date: 2026-05-11T03:59:35.334Z
-modified_date: 2026-09-02T23:46:56.271Z
+modified_date: 2026-11-25T16:39:18.954Z
 tags: ["PS3 Emulator","AI-generated code","open-source development"]
 hero_image: "/hero/2026-05-11-ps3-emulator-devs-ask-for-less-ai-code-80b44c.jpg"
 hero_image_credit_name: "Stas Knop"
 hero_image_credit_url: "https://www.pexels.com/@stasknop"
 visual_keyword: "PS3 Emulator"
 description: "Developers of a PS3 emulator ask users to stop flooding it with AI-generated code."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-11-ps3-emulator-devs-ask-for-less-ai-code-80b44c.mp3"
 audio_bytes: 583516
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -90,5 +91,6 @@ The PS3 emulator project will likely continue to evolve and improve, and the dev
 
 ## Updates
 
+- **2026-11-25** — How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP ([source](https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/))
 - **2026-09-02** — Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations ([source](https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/))
 - **2026-07-29** — Mark Zuckerberg is planning a big push into personal AI agents ([source](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents))

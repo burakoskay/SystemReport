@@ -1,16 +1,17 @@
 ---
 title: "Hark Raises $700M for Secretive AI Interface Amid AWS"
 date: 2026-05-21T20:08:24.371Z
-modified_date: 2026-11-12T14:31:26.009Z
+modified_date: 2026-11-25T16:39:24.982Z
 tags: ["ai","aws","climate-risk","investments","hark"]
 hero_image: "/hero/2026-05-21-hark-raises-700m-for-secretive-ai-interface-amid-aws-cd57b8.jpg"
 hero_image_credit_name: "Markus Spiske"
 hero_image_credit_url: "https://www.pexels.com/@markusspiske"
 visual_keyword: "abstract data flow with green energy nodes and digital interface patterns"
 description: "Hark secures $700M for AI platform, AWS expands in Spain with climate-linked investment."
-sources_count: 13
+sources_count: 14
 author: "maya-chen"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ Investors should track three metrics: Hark’s model performance in third-party 
 
 ## Updates
 
+- **2026-11-25** — Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long ([source](https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/))
 - **2026-11-12** — Critical RCE Vulnerability in Apache HTTP Server ([source](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability))
 - **2026-11-04** — Meta's Quest 2 and Quest Pro reach 'end of feature development' ([source](https://www.engadget.com/2306079/meta-quest-2-and-quest-pro-reach-end-of-feature-development/))
 - **2026-10-07** — iFixit tears down Apple Watch Series 12 and Ultra 4, finds mixed repairability results ([source](https://9to5mac.com/2026/10/06/ifixit-tears-down-apple-watch-series-12-and-ultra-4-finds-mixed-repairability-results/))

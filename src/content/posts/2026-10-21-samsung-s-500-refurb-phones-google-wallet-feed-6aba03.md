@@ -1,15 +1,17 @@
 ---
 title: "Samsung's $500 Refurb Phones, Google Wallet Feed"
 date: 2026-10-21T20:06:37.559Z
+modified_date: 2026-11-25T16:40:13.938Z
 tags: ["samsung","google","wearables"]
 hero_image: "/hero/2026-10-21-samsung-s-500-refurb-phones-google-wallet-feed-6aba03.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "refurbished smartphone lineup on Amazon storefront"
 description: "Samsung launches sub‑$500 refurbished Galaxy phones on Amazon, Google adds a notifications feed to Wallet, and Fitbit Air’s sleep breathing feature remains pending."
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 ## Samsung pushes refurbished Galaxy phones under $500 on Amazon
 
@@ -48,3 +50,7 @@ The discrepancy highlights a broader challenge for Google’s health‑tracking 
 Watch Samsung’s Amazon sales data for the next quarter; a surge could trigger a broader "Re‑Newed" lineup or deeper price cuts. Track Google Wallet adoption rates as the notifications feed matures; spikes in active users may prompt further feature expansions. Finally, monitor Fitbit’s communications for a firm launch date on the Air’s sleep breathing quality metric, and note whether the rollout aligns with the Pixel Watch timeline.
 
 ---
+
+## Updates
+
+- **2026-11-25** — ‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV ([source](https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa))

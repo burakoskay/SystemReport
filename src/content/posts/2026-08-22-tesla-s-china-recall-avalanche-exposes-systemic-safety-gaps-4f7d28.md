@@ -1,15 +1,17 @@
 ---
 title: "Tesla's China recall avalanche exposes systemic safety gaps"
 date: 2026-08-22T06:30:10.412Z
+modified_date: 2026-11-25T16:40:01.510Z
 tags: ["tesla","china","recall","automotive","regulation"]
 hero_image: "/hero/2026-08-22-tesla-s-china-recall-avalanche-exposes-systemic-safety-gaps-4f7d28.jpg"
 hero_image_credit_name: "JUNLIN ZOU"
 hero_image_credit_url: "https://www.pexels.com/@fangyuanzhiwai"
 visual_keyword: "Tesla Shanghai plant with caution tape and Chinese recall notice"
 description: "Tesla faces three massive recalls in China, covering over 4 million cars, as regulators clamp down on safety flaws from door handles to suspension and cruise control."
-sources_count: 3
+sources_count: 4
 author: "elena-marchetti"
 ---
+
 
 Tesla announced a recall of more than 4 million vehicles in China, adding to two earlier recalls that together affect over 315,000 cars. The wave of recalls puts the automaker under unprecedented regulatory pressure in the world’s biggest EV market.
 
@@ -50,3 +52,7 @@ If Tesla does not address the underlying design and quality‑assurance flaws, i
 ## What to watch
 
 Regulators will soon publish a compliance audit of Tesla’s manufacturing processes at the Shanghai Gigafactory. The audit’s findings, expected in the next quarter, will determine whether additional recalls are mandated. Simultaneously, Tesla’s service network in China must process over 4 million warranty repairs, a logistical challenge that could strain parts inventories and delay new vehicle deliveries. The next board meeting of Tesla’s China subsidiary, slated for early October, will likely decide whether to overhaul its supplier vetting for suspension components and to invest in a dedicated software safety team. How the company navigates these decisions will shape its ability to retain market share in China’s fiercely competitive EV arena.
+
+## Updates
+
+- **2026-11-25** — Amazon is reportedly in talks to end Muse AI shopping block ([source](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions))

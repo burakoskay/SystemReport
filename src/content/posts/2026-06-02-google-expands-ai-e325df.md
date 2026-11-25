@@ -1,18 +1,20 @@
 ---
 title: "Google Expands AI"
 date: 2026-06-02T23:51:48.454Z
+modified_date: 2026-11-25T16:41:09.366Z
 tags: ["Google","AI","Android"]
 hero_image: "/hero/2026-06-02-google-expands-ai-e325df.jpg"
 hero_image_credit_name: "Shantanu Kumar"
 hero_image_credit_url: "https://www.pexels.com/@theshantanukr"
 visual_keyword: "Google"
 description: "Google announces June Android Drop and teases Android 17, while introducing AI-powered features and updates across various products."
-sources_count: 10
-author: "ryan-tanaka"
+sources_count: 11
 audio_path: "/audio/2026-06-02-google-expands-ai-e325df.mp3"
 audio_bytes: 600861
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to Google's Latest Updates
 
@@ -63,6 +65,10 @@ However, it also raises questions about the future of Android development. As AI
 The development of AI-powered features in Android is an area to watch in the coming months. As Google continues to push the boundaries of what is possible with AI, we can expect to see new and innovative applications of this technology. The key will be balancing the benefits of AI with the need to protect user privacy and security.
 
 Google's plans for Android 17 are also worth keeping an eye on. With the company teasing “even more exciting updates” coming soon, it's clear that Google has big ambitions for its mobile operating system.[^1][^7] As the company continues to develop and refine Android, we can expect to see new features and improvements that will further enhance the user experience.
+
+## Updates
+
+- **2026-11-25** — Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More ([source](https://github.com/google-research/google-research/tree/master/cogentic_research_papers))
 
 [^1]: [9to5google.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEraL22qsvsiN46URpWaFXRdu2QYfQtv8f2QDTfO1qLEMg64mw5tjLW1DIrFuWzTyjUn9ko-SfhYA56ha190r7iUHOFVININysEC-sOMFzAufPduPXcBrHCWrRoT6MPB3_DBzKr3S_42Mf9hF-2E29KnxHgxw==)
 [^2]: [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpih3mH4gV1e-RCSrlcT0CvUuTC4QTuaSgDYFzeFvy9qlQpVtqKWy_OZ3Q1Dbqy6PheUlH3LRT6ha4tD1srrNL3tGwO1dyG5lCC2FI4kB4xnTdN1rrr4Xl9AzAPONB6hAga6PZJVIeC8SfcmJ0S-36kayS8-djbQI91cPMMeFTV6xW64a7-P15Zg1WmF2zK8r5TaWUPQ==)

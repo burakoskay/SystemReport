@@ -1,16 +1,17 @@
 ---
 title: "Vinyl Revival and AI-Powered Concert Archives"
 date: 2026-04-18T12:45:04.524Z
-modified_date: 2026-11-06T13:36:36.050Z
+modified_date: 2026-11-25T16:41:27.310Z
 tags: ["vinyl","AI","music archives","streaming"]
 hero_image: "/hero/2026-04-18-vinyl-revival-and-ai-powered-concert-archives-e60ced.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "vinyl record"
 description: "Clean vinyl records and turn concert memories into digital archives"
-sources_count: 20
+sources_count: 21
 author: "maya-chen"
 ---
+
 
 
 
@@ -48,6 +49,7 @@ As technology advances, more innovative solutions emerge in music preservation a
 
 ## Updates
 
+- **2026-11-25** — Serving Qwen via AWS Lambdas for fun and 80x negative profit ([source](https://noahbuilt.it/writing/qwen-on-5600-lambdas))
 - **2026-11-06** — Meta, Google, and TikTok sue California AG over teen social media law ([source](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/))
 - **2026-10-31** — GitHub Incident with Actions, Pages, and Webhooks ([source](https://www.githubstatus.com/incidents/pwxsjgnvrk6b))
 - **2026-10-15** — Samsung just released Android 17 updates for Galaxy S23 and several more devices ([source](https://9to5google.com/2026/10/15/samsung-just-released-android-17-updates-for-galaxy-s23-and-several-more-devices/))

@@ -1,16 +1,17 @@
 ---
 title: "Apple tweaks EU fees, iPhone battery tools"
 date: 2026-08-18T22:31:41.924Z
-modified_date: 2026-11-09T01:22:15.295Z
+modified_date: 2026-11-25T16:40:51.245Z
 tags: ["apple","eu","battery","homepod"]
 hero_image: "/hero/2026-08-18-apple-tweaks-eu-fees-iphone-battery-tools-7b81bf.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "iPhone screen showing battery health metrics with percentage and cycle count"
 description: "Apple rolls out new EU commission rates, clarifies iPhone battery health access, and leaks a HomePod display via macOS beta code."
-sources_count: 14
+sources_count: 15
 author: "david-okafor"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ Track the European Commission's next enforcement notice; any deviation from the 
 
 ## Updates
 
+- **2026-11-25** — Apple has iPads running macOS already, but don’t get too excited ([source](https://9to5mac.com/2026/11/25/apple-has-ipads-running-macos-already-but-dont-get-too-excited/))
 - **2026-11-09** — Apps to distract you from the endless cycle of doomscrolling ([source](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/))
 - **2026-10-25** — Now you can watch Instagram Reels on your Apple TV ([source](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv))
 - **2026-09-20** — A small but growing number of founders are betting on bringing people together offline ([source](https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/))

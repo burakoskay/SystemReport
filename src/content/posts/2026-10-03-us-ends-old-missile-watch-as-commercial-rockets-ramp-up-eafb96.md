@@ -1,19 +1,20 @@
 ---
 title: "US ends old missile watch as commercial rockets ramp up"
 date: 2026-10-03T13:02:27.138Z
-modified_date: 2026-11-15T16:46:53.083Z
+modified_date: 2026-11-25T16:41:03.324Z
 tags: ["defense","space","launches","technology"]
 hero_image: "/hero/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "launch pad with rockets and satellite dishes"
 description: "The military shuts a legacy nuclear launch detection program while SpaceX, Rocket Lab, and Blue Origin push launch cadence higher."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-10-03-us-ends-old-missile-watch-as-commercial-rockets-ramp-up-eafb96.mp3"
 audio_bytes: 556139
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ Track the FAA’s decision on Blue Origin’s request for fifty New Glenn laun
 
 ## Updates
 
+- **2026-11-25** — A few questions for the guy who went snorkeling in a Home Depot retention pond ([source](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts))
 - **2026-11-15** — These are some of the strongest 3D printer filaments for durable parts ([source](https://www.engadget.com/2313687/strongest-3d-printer-filament-carbon-fiber-nylon-polycarbonate/))
 - **2026-10-22** — Google tells Android users to update as parts of Canada adopt permanent daylight saving time ([source](https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada))
 

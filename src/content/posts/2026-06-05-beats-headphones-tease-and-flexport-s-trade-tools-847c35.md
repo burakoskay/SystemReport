@@ -1,18 +1,20 @@
 ---
 title: "Beats headphones tease and Flexport's trade tools"
 date: 2026-06-05T10:02:19.988Z
+modified_date: 2026-11-25T16:40:07.722Z
 tags: ["Beats","Flexport","trade compliance"]
 hero_image: "/hero/2026-06-05-beats-headphones-tease-and-flexport-s-trade-tools-847c35.jpg"
 hero_image_credit_name: "Aleksandar Spasojevic"
 hero_image_credit_url: "https://www.pexels.com/@spal"
 visual_keyword: " headphones"
 description: "Lamine Yamal teases unreleased Beats headphones as Flexport rolls out new trade tools to cut costs and protect margins in a volatile trade environment."
-sources_count: 3
-author: "lena-volkov"
+sources_count: 4
 audio_path: "/audio/2026-06-05-beats-headphones-tease-and-flexport-s-trade-tools-847c35.mp3"
 audio_bytes: 580590
+author: "lena-volkov"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Beats drops a second glimpse
@@ -47,3 +49,6 @@ Track Beats' next social post for a confirmed launch window and any pricing hint
 
 The need for trade compliance solutions has been growing over the years, driven by increasing complexity in global trade regulations. In the past, businesses have faced challenges in complying with trade regulations, resulting in costly penalties and delays. The development of trade compliance solutions has helped to address these challenges, providing businesses with the tools they need to navigate complex regulations. Flexport's new Customs Technology Suite is the latest innovation in this space, providing businesses with a comprehensive suite of tools to help them stay compliant and competitive.
 
+## Updates
+
+- **2026-11-25** — Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday ([source](https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale))

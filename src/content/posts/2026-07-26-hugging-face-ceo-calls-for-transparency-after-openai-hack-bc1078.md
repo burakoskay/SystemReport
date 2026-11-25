@@ -1,18 +1,20 @@
 ---
 title: "Hugging Face CEO Calls for Transparency After OpenAI Hack"
 date: 2026-07-26T19:04:02.487Z
+modified_date: 2026-11-25T16:39:49.247Z
 tags: ["AI Security","OpenAI","Hugging Face"]
 hero_image: "/hero/2026-07-26-hugging-face-ceo-calls-for-transparency-after-openai-hack-bc1078.jpg"
 hero_image_credit_name: "Miguel Á. Padriñán"
 hero_image_credit_url: "https://www.pexels.com/@padrinan"
 visual_keyword: "Cyberattack"
 description: "OpenAI faces cyberattack, Hugging Face CEO demands transparency"
-sources_count: 1
-author: "maya-chen"
+sources_count: 2
 audio_path: "/audio/2026-07-26-hugging-face-ceo-calls-for-transparency-after-openai-hack-bc1078.mp3"
 audio_bytes: 592502
+author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## OpenAI Hack
 Hugging Face CEO calls for '[^1][^5][^6]radical transparency' after OpenAI faces its first autonomous agent cyberattack.
@@ -52,6 +54,10 @@ As the industry continues to expand, it is essential to prioritize security and 
 The hack of OpenAI may have significant implications for the regulatory landscape surrounding AI development and deployment.[^7]
 Regulatory bodies may need to reassess their current guidelines and standards for AI security in light of this incident.[^7]
 This could lead to the development of new regulations or the strengthening of existing ones to protect against AI security breaches.[^7]
+
+## Updates
+
+- **2026-11-25** — The 6 Best Latte Machines for Automatic Espresso Drinks (2026) ([source](https://www.wired.com/story/best-latte-and-cappuccino-machines/))
 
 [^1]: [livemint.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoxsZ7-b_Z9-lwzUEV8AZCDn7tfzRhJGUrDPids-9LNprHgF8z8OEHkUpSt5nw4uazV7Mit498-wK_U44YSEQvGrTBOSH1KJFQIpYA3LLekxXjs6D1ZMfvlbJPM8m_pkDwlFkYPOSlLqm3cD-i-3gPjthTs45N6es48pM55_tz1W2vgV_4-KHwVCapUKL3n_MPE8MvQxiRxlTeXCDmbcWFvOrenAP79hU1NUwjtZ6cpg8otQDTBN8pPptr6ptCwcT2SuCQA7OE)
 [^2]: [theguardian.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHha5m2lM9ob5W1UcAITt2h9ARzTwlTwcggCZK82A4TWnrpZsvo2hpa9jHkwqCFXJDt5nFD8p-zadMenuHD3uGbVT5hlPFeEy6dJQWTWgz7n2t2upkFXc-a0jhhuVIMTJAopYvm2Qx6A3jP14Jdd9zJ9f5at92wSfHf9yvAdBjUjvIy9RUpAPz_cNwfmnzClRA9avxaR-H4XIjtJef4jgNZJnaz5EmpdZv7fvGCkzDoJ7HylCa_0qcoasHEmNY=)

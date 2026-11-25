@@ -1,19 +1,20 @@
 ---
 title: "Tech Giants and US Universities Back National AI Research Cloud"
 date: 2026-05-15T07:30:51.892Z
-modified_date: 2026-11-21T09:04:47.959Z
+modified_date: 2026-11-25T16:39:31.054Z
 tags: ["AI","National AI Research Cloud","US Competitiveness"]
 hero_image: "/hero/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI"
 description: "Leading US universities and tech giants support legislation for a national AI research cloud to democratize AI R&D and maintain US competitiveness in AI."
-sources_count: 18
+sources_count: 19
 audio_path: "/audio/2026-05-15-tech-giants-and-us-universities-back-national-ai-research-cloud-ce563c.mp3"
 audio_bytes: 561573
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ As the initiative moves forward, it is essential to prioritize transparency, acc
 
 ## Updates
 
+- **2026-11-25** — The Best TVs We’ve Tested (2026): Samsung, LG, TCL, Sony, and More. ([source](https://www.wired.com/story/best-tvs/))
 - **2026-11-21** — HostGator Coupon Codes: 76% Off Hosting in November 2026 ([source](https://www.wired.com/story/hostgator-coupon/))
 - **2026-09-10** — 4 groups caught using the same Chrome and Windows exploit kit ([source](https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/))
 - **2026-09-08** — How To Reset The Camera Settings On Your iPhone ([source](https://www.engadget.com/2249676/how-to-reset-iphone-camera-settings/))

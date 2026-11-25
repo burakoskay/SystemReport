@@ -1,19 +1,20 @@
 ---
 title: "Share Links to Specific Text"
 date: 2026-06-06T10:10:26.850Z
-modified_date: 2026-10-07T18:20:47.935Z
+modified_date: 2026-11-25T16:39:55.330Z
 tags: ["text sharing","browser functionality","information sharing"]
 hero_image: "/hero/2026-06-06-share-links-to-specific-text-2d019f.jpg"
 hero_image_credit_name: "Christina Morillo"
 hero_image_credit_url: "https://www.pexels.com/@divinetechygirl"
 visual_keyword: "browser"
 description: "Modern browsers enable link sharing to specific text phrases"
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-06-06-share-links-to-specific-text-2d019f.mp3"
 audio_bytes: 591457
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -51,6 +52,7 @@ The ability to share links to specific text phrases is part of a broader trend t
 
 ## Updates
 
+- **2026-11-25** — The Verge’s guide to affordable holiday gifts under $25 ([source](https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026))
 - **2026-10-07** — The Meta Quest 3S gets a rare discount during October Prime Day ([source](https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale))
 - **2026-10-06** — Example.com just launched the biggest redesign in decades ([source](https://www.debugbear.com/blog/example-dot-com-redesign-history))
 - **2026-08-25** — New bootloader lets you take the "Meta" out of the original Meta Quest ([source](https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/))

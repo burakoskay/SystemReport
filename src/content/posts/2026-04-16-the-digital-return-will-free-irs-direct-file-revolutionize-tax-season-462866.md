@@ -1,16 +1,17 @@
 ---
 title: "The Digital Return: Will Free IRS Direct File Revolutionize Tax"
 date: 2026-04-16T05:28:39.623Z
-modified_date: 2026-11-25T04:45:30.423Z
+modified_date: 2026-11-25T16:40:20.230Z
 tags: ["irs","direct file","tax reform","senate vote","financial technology"]
 hero_image: "/hero/2026-04-16-the-digital-return-will-free-irs-direct-file-revolutionize-tax-season-462866.jpg"
 hero_image_credit_name: "Leeloo The First"
 hero_image_credit_url: "https://www.pexels.com/@leeloothefirst"
 visual_keyword: "IRS Direct File portal, modern, free, user-friendly, digital tax forms"
 description: "The Senate is poised to vote on the Direct File Act, potentially resurrecting a free, direct tax filing service that promised to simplify taxes for millions."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -40,6 +41,7 @@ The potential return of IRS Direct File isn't just about saving a few dollars on
 
 ## Updates
 
+- **2026-11-25** — Tapo’s new indoor security camera includes a touchscreen for video calls ([source](https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt))
 - **2026-11-25** — 8 Best Espresso Machines for Home (2026), Tested by Coffee Pros ([source](https://www.wired.com/gallery/best-espresso-machines/))
 - **2026-11-21** — Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop ([source](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/))
 - **2026-11-15** — Amazon is reportedly working on a database for 'virtually every item for sale on Earth' ([source](https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/))
