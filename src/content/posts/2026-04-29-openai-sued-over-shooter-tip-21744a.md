@@ -1,16 +1,17 @@
 ---
 title: "OpenAI sued over shooter tip"
 date: 2026-04-29T14:25:56.092Z
-modified_date: 2026-11-14T16:19:36.710Z
+modified_date: 2026-11-25T04:47:47.326Z
 tags: ["openai","ai","law","data-centers","ammunition"]
 hero_image: "/hero/2026-04-29-openai-sued-over-shooter-tip-21744a.jpg"
 hero_image_credit_name: "William Gevorg Urban"
 hero_image_credit_url: "https://www.pexels.com/@willbillurban"
 visual_keyword: "rural protest near a massive data center with protest signs"
 description: "OpenAI faces lawsuits for not reporting a ChatGPT user, rural America resists AI data hubs, and Germany tops U.S. in ammunition capacity."
-sources_count: 23
+sources_count: 24
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ The OpenAI case will move to court later this year; watch for any injunctions th
 
 ## Updates
 
+- **2026-11-25** — Huawei is guilty of conspiracy to steal trade secrets, US jury rules ([source](https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/))
 - **2026-11-14** — A gadget to make your dumb house smarter ([source](https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer))
 - **2026-10-27** — OpenAI announces three big science discoveries and a new way to work with academics ([source](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics))
 - **2026-10-18** — What is the star button for on your Roku remote? ([source](https://www.engadget.com/2286582/roku-remote-star-button-what-for/))

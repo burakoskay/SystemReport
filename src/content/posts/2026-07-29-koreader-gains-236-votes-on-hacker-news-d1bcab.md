@@ -1,19 +1,20 @@
 ---
 title: "KOReader Gains 236 Votes on Hacker News"
 date: 2026-07-29T14:03:34.693Z
-modified_date: 2026-11-18T00:22:32.638Z
+modified_date: 2026-11-25T04:48:46.627Z
 tags: ["opensource","performance","linux","ai","security"]
 hero_image: "/hero/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.jpg"
 hero_image_credit_name: "Bibek ghosh"
 hero_image_credit_url: "https://www.pexels.com/@bibekghosh"
 visual_keyword: "open-source project logos arranged on a code editor background"
 description: "KOReader, SQLite tuning, Wayland multi‑cursor, Kimi K3 on M1 Max, and Codex Security each drew major attention on Hacker News, sparking deep technical discussion."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-07-29-koreader-gains-236-votes-on-hacker-news-d1bcab.mp3"
 audio_bytes: 719979
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -62,6 +63,7 @@ Watch for a stable Wayland compositor release that ships multi‑cursor support 
 
 ## Updates
 
+- **2026-11-25** — Yes, the Pixel 10 is still a great buy [Video] ([source](https://9to5google.com/2026/11/24/yes-the-pixel-10-is-still-a-great-buy-video/))
 - **2026-11-18** — Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults ([source](https://www.wired.com/story/wired-yearbook-2026-ms-rachel/))
 - **2026-11-07** — Discogs’ Kevin Lewandowski can’t live without his AeroPress ([source](https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview))
 - **2026-10-29** — Apple says it’s ‘only getting started’ updating macOS for touchscreens ([source](https://9to5mac.com/2026/10/29/apple-says-its-only-getting-started-updating-macos-for-touchscreens/))

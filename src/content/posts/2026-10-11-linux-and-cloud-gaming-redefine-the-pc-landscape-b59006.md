@@ -1,19 +1,20 @@
 ---
 title: "Linux and Cloud Gaming Redefine the PC Landscape"
 date: 2026-10-11T00:44:08.011Z
-modified_date: 2026-10-13T17:21:20.568Z
+modified_date: 2026-11-25T04:50:15.232Z
 tags: ["linux","cloud-gaming","handheld","gaming-tech"]
 hero_image: "/hero/2026-10-11-linux-and-cloud-gaming-redefine-the-pc-landscape-b59006.jpg"
 hero_image_credit_name: "ROMAN ODINTSOV"
 hero_image_credit_url: "https://www.pexels.com/@roman-odintsov"
 visual_keyword: "a gamer using a sleek handheld device beside a cloud server rack"
 description: "Linux kernel advances, cloud rigs, and new handhelds push gaming beyond Windows, reshaping how developers and players interact."
-sources_count: 11
+sources_count: 12
 audio_path: "/audio/2026-10-11-linux-and-cloud-gaming-redefine-the-pc-landscape-b59006.mp3"
 audio_bytes: 617161
 author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Ray tracing still taxes PCs, but alternatives are gaining traction
@@ -48,4 +49,5 @@ Watch Valve’s next kernel‑level contribution. If NTSYNC proves stable, the L
 
 ## Updates
 
+- **2026-11-25** — Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark ([source](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/))
 - **2026-10-13** — Here’s the full list of OnePlus devices getting Android 17, but it’s not OxygenOS ([source](https://9to5google.com/2026/10/13/oneplus-android-17-list-schedule/))

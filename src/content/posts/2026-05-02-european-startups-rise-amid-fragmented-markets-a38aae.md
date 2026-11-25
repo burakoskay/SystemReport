@@ -1,16 +1,17 @@
 ---
 title: "European Startups Rise Amid Fragmented Markets"
 date: 2026-05-02T14:57:52.561Z
-modified_date: 2026-11-22T04:35:28.041Z
+modified_date: 2026-11-25T04:49:55.719Z
 tags: ["european startups","tech ecosystem","venture capital","digital markets act"]
 hero_image: "/hero/2026-05-02-european-startups-rise-amid-fragmented-markets-a38aae.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "european startup workspace with laptops, coffee cups, and whiteboard sketches"
 description: "European startups are gaining traction despite higher sales costs and fragmented markets, with regions like Slovakia and the Nordics leading the charge."
-sources_count: 15
+sources_count: 16
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -50,6 +51,7 @@ The coming months will test Europe’s startup resilience. In Q3, the EU’s Dig
 
 ## Updates
 
+- **2026-11-25** — Skip the knockoffs: Real PITAKA aramid fiber cases start at $18.99 this Black Friday ([source](https://9to5mac.com/2026/11/24/skip-the-knockoffs-real-pitaka-aramid-fiber-cases-start-at-18-99-this-black-friday/))
 - **2026-11-22** — This is what can happen if too many devices are sharing your home network ([source](https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/))
 - **2026-10-27** — Why does the FCC hate Minions routers? ([source](https://www.engadget.com/2296043/why-does-the-fcc-hate-minions-routers/))
 - **2026-10-02** — Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass ([source](https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/))

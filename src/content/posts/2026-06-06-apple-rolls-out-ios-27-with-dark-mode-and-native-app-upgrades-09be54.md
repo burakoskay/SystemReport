@@ -1,19 +1,20 @@
 ---
 title: "Apple rolls out iOS 27 with dark mode and native app upgrades"
 date: 2026-06-06T17:22:10.730Z
-modified_date: 2026-11-14T00:38:24.828Z
+modified_date: 2026-11-25T04:47:07.540Z
 tags: ["apple","ios","wwdc","software","nativeapps"]
 hero_image: "/hero/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "iPhone screen displaying dark mode interface"
 description: "Apple unveils iOS 27 at WWDC, adding dark mode, revamped Health, Maps, and watchOS App Store support while tightening its native app ecosystem."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-06-apple-rolls-out-ios-27-with-dark-mode-and-native-app-upgrades-09be54.mp3"
 audio_bytes: 623013
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Track the adoption rate of dark mode in the first iOS 27 update cycle; a low upt
 
 ## Updates
 
+- **2026-11-25** — You don't have to look at your Apple Watch to get the time ([source](https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/))
 - **2026-11-14** — Pixelated 125: Google’s glasses, Meta’s baggage ([source](https://9to5google.com/2026/11/13/pixelated-125-googles-glasses-metas-baggage/))
 - **2026-11-08** — Apple aiming to make Siri ‘more like an agent’ as soon as next year: report ([source](https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/))
 - **2026-11-06** — Meta introduces Spaces, a new way to collaborate with your Muse agent ([source](https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/))

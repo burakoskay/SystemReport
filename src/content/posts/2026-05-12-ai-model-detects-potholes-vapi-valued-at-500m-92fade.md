@@ -1,19 +1,20 @@
 ---
 title: "AI Model Detects Potholes, Vapi Valued at $500M"
 date: 2026-05-12T14:38:08.303Z
-modified_date: 2026-11-16T14:31:30.006Z
+modified_date: 2026-11-25T04:48:56.505Z
 tags: ["AI","road maintenance","customer support"]
 hero_image: "https://images.pexels.com/photos/3977241/pexels-photo-3977241.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
 hero_image_credit_name: "Viktor Mogilat"
 hero_image_credit_url: "https://www.pexels.com/@mogilat"
 visual_keyword: "pothole"
 description: "Samsara develops AI to detect potholes, while Vapi reaches $500M valuation."
-sources_count: 8
+sources_count: 9
 audio_path: "/audio/2026-05-12-ai-model-detects-potholes-vapi-valued-at-500m-92fade.mp3"
 audio_bytes: 597517
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -66,6 +67,7 @@ In the near future, we can expect to see more companies adopting AI-powered road
 
 ## Updates
 
+- **2026-11-25** — Wyze’s new window camera has a bird feeder and can identify species, more for $70 [Video] ([source](https://9to5google.com/2026/11/24/wyze-window-bird-cam-launch/))
 - **2026-11-16** — Mercedes' clever new driving assist handles complex traffic like a champ ([source](https://arstechnica.com/cars/2026/11/mercedes-clever-new-driving-assist-handles-complex-traffic-like-a-champ/))
 - **2026-10-29** — As US ties fray, Europe plans first undersea cable link to Greenland ([source](https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/))
 - **2026-10-19** — Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It ([source](https://www.wired.com/review/insta360-luna-ultra-luna-pro/))

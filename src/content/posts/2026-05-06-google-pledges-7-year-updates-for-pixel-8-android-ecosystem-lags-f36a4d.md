@@ -1,16 +1,17 @@
 ---
 title: "Google Pledges 7-Year Updates for Pixel 8, Android Ecosystem Lags"
 date: 2026-05-06T23:03:43.188Z
-modified_date: 2026-11-12T14:30:23.865Z
+modified_date: 2026-11-25T04:50:05.456Z
 tags: ["android-updates","pixel-8","obtainium"]
 hero_image: "/hero/2026-05-06-google-pledges-7-year-updates-for-pixel-8-android-ecosystem-lags-f36a4d.jpg"
 hero_image_credit_name: "Steve A Johnson"
 hero_image_credit_url: "https://www.pexels.com/@steve"
 visual_keyword: "abstract geometric shapes in blue and green tones"
 description: "Google extends software support for Pixel 8 to 2030, but Android’s update chaos persists. Samsung and Apple still dominate."
-sources_count: 26
+sources_count: 27
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ Google’s Pixel 8 update timeline will determine whether it can keep up with An
 
 ## Updates
 
+- **2026-11-25** — PenGPT: A Generative Transformer for Handwriting and Sketches ([source](https://greydanus.github.io/2026/11/12/pengpt/))
 - **2026-11-12** — Google’s new Android XR glasses work with iOS, Made for iPhone certified ([source](https://9to5google.com/2026/11/12/google-glasses-iphone-support/))
 - **2026-11-03** — ‘Cyclon’ uses an old Google Pixel to let AI do literally everything for you – who wants this? ([source](https://9to5google.com/2026/11/03/cyclon-uses-an-old-google-pixel-to-let-ai-do-literally-everything-for-you-who-wants-this/))
 - **2026-10-29** — SpaceX no longer needs NASA, and that's a problem for America's space agency ([source](https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/))

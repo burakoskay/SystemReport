@@ -1,19 +1,20 @@
 ---
 title: "Marshall Med School"
 date: 2026-05-10T19:12:46.317Z
-modified_date: 2026-11-09T20:24:23.522Z
+modified_date: 2026-11-25T04:45:49.673Z
 tags: ["Marshall University","Joan C. Edwards School of Medicine","Healthcare Infrastructure"]
 hero_image: "/hero/2026-05-10-marshall-med-school-bc74b0.jpg"
 hero_image_credit_name: "K"
 hero_image_credit_url: "https://www.pexels.com/@kelly"
 visual_keyword: "Marshall University"
 description: "Marshall University plans to acquire Northcott Court property for the future Joan C. Edwards School of Medicine"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-05-10-marshall-med-school-bc74b0.mp3"
 audio_bytes: 584769
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -70,6 +71,7 @@ In the long term, the Joan C. Edwards School of Medicine is expected to have a p
 
 ## Updates
 
+- **2026-11-25** — What's going on with the Riemann hypothesis? ([source](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/))
 - **2026-11-09** — MagSafe Monday: Pelican’s MagSafe wallet is built for the people who still carry cash ([source](https://9to5mac.com/2026/11/09/pelicans-magsafe-wallet-is-for-the-people-who-still-carry-cash/))
 - **2026-10-13** — The Social Reckoning is flopping at the box office ([source](https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy))
 - **2026-08-30** — China’s robots race ahead ([source](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race))

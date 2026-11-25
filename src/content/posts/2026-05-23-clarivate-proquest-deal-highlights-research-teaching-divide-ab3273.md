@@ -1,16 +1,17 @@
 ---
 title: "Clarivate‑ProQuest Deal Highlights Research‑Teaching Divide"
 date: 2026-05-23T19:27:50.532Z
-modified_date: 2026-10-01T16:53:03.335Z
+modified_date: 2026-11-25T04:48:36.791Z
 tags: ["research","higher-education","acquisition","science-policy"]
 hero_image: "/hero/2026-05-23-clarivate-proquest-deal-highlights-research-teaching-divide-ab3273.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "conference room with data servers and university lecture hall juxtaposed"
 description: "Clarivate's $5.3 billion acquisition of ProQuest underscores the growing clout of research data firms while a new study shows universities still treat research and teaching as a zero‑sum game."
-sources_count: 8
+sources_count: 9
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -41,6 +42,7 @@ Track Clarivate’s integration roadmap over the next twelve months, especially 
 
 ## Updates
 
+- **2026-11-25** — Black Friday deals: Pixel 11 $692, Pixel Watch 5 even lower, Galaxy Buds 4 Pro $80 off, Dell PCs $1,000 off, more ([source](https://9to5google.com/2026/11/24/black-friday-deals-pixel-11-watch-5-galaxy-buds-4-pro/))
 - **2026-10-01** — Engadget's best of 2026 ([source](https://www.engadget.com/2274600/engadgets-best-of-2026/))
 - **2026-09-26** — Court rules Trump can blacklist Anthropic for refusing to enable Claude features ([source](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/))
 - **2026-08-13** — Nintendo’s next Fire Emblem has a bold new structure ([source](https://www.theverge.com/games/977955/fire-emblem-fortunes-weave-preview-impressions-nintendo-switch-2))

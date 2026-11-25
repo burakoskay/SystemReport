@@ -1,16 +1,17 @@
 ---
 title: "NASA’s Moon Base Plans Clash With Selection Bias and Crew Strain"
 date: 2026-05-26T22:02:09.808Z
-modified_date: 2026-09-23T19:25:22.749Z
+modified_date: 2026-11-25T04:47:17.494Z
 tags: ["lunar-base","nasa","space-policy","mission-selection"]
 hero_image: "/hero/2026-05-26-nasa-s-moon-base-plans-clash-with-selection-bias-and-crew-strain-252914.jpg"
 hero_image_credit_name: "Zelch Csaba"
 hero_image_credit_url: "https://www.pexels.com/@zelch"
 visual_keyword: "NASA lunar habitat concept under a starry sky"
 description: "NASA’s lunar perimeter talks expose legal hurdles while mission picks and crew rotations reveal deeper systemic pressures."
-sources_count: 10
+sources_count: 11
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ Finally, the ISS crew schedule will be a barometer for NASA’s resilience. The 
 
 ## Updates
 
+- **2026-11-25** — The battery in your Fitbit Edge is replaceable, but it's not as easy as you'd think ([source](https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/))
 - **2026-09-23** — Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr ([source](https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr))
 - **2026-09-14** — Pre-orders for the Android-based Googlebook laptops open on September 21 ([source](https://www.engadget.com/2258035/pre-orders-for-the-android-based-googlebook-laptops-open-on-september-21/))
 - **2026-08-26** — Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model ([source](https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/))

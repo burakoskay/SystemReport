@@ -1,16 +1,17 @@
 ---
 title: "Tech Privacy and Security Updates"
 date: 2026-05-09T19:13:32.980Z
-modified_date: 2026-10-16T02:41:37.882Z
+modified_date: 2026-11-25T04:46:28.336Z
 tags: ["tech privacy","security updates","regulatory actions"]
 hero_image: "/hero/2026-05-09-tech-privacy-and-security-updates-c11b1d.jpg"
 hero_image_credit_name: "Jessica Lewis 🦋 thepaintedsquare"
 hero_image_credit_url: "https://www.pexels.com/@thepaintedsquare"
 visual_keyword: "lock"
 description: "General Motors settles for $12.75M over driver privacy, while tech companies face scrutiny over data handling and surveillance."
-sources_count: 14
+sources_count: 15
 author: "lena-volkov"
 ---
+
 
 
 
@@ -88,6 +89,7 @@ The actions taken by tech companies and regulators will have significant downstr
 
 ## Updates
 
+- **2026-11-25** — Amazon says hackers' AI agents found and exploited 0-day with little human input ([source](https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/))
 - **2026-10-16** — Tesla reveals SpaceX-powered Roadster that flies and falls with style ([source](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/))
 - **2026-09-28** — Where to find YouTube's autoplay settings and how to turn it off and on ([source](https://www.engadget.com/2268943/where-to-find-youtubes-autoplay-settings-and-how-to-turn-it-off-and-on/))
 - **2026-09-23** — Logitech’s new haptics-based gaming mouse is a little better and $20 more ([source](https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price))

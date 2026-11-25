@@ -1,16 +1,17 @@
 ---
 title: "Europe funds launch startups as cheap rockets reshape the market"
 date: 2026-08-29T00:44:54.921Z
-modified_date: 2026-09-03T19:01:57.911Z
+modified_date: 2026-11-25T04:46:18.622Z
 tags: ["space","launch","satellite","technology"]
 hero_image: "/hero/2026-08-29-europe-funds-launch-startups-as-cheap-rockets-reshape-the-market-2bc927.jpg"
 hero_image_credit_name: "SpaceX"
 hero_image_credit_url: "https://www.pexels.com/@spacex"
 visual_keyword: "European launch pad with small rockets and a futuristic spaceplane"
 description: "European cash and new launch vehicles push costs down while the US tests quantum navigation on the X‑37B, and hobbyists chase PocketQube flights."
-sources_count: 5
+sources_count: 6
 author: "ryan-tanaka"
 ---
+
 
 
 ## Europe pumps money into launch startups
@@ -51,4 +52,5 @@ The next few months will reveal whether Europe’s modest funding translates int
 
 ## Updates
 
+- **2026-11-25** — Homo erectus lived in the rainforest alongside Denisovans ([source](https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/))
 - **2026-09-03** — Ollie is betting its focus on privacy can help it win the AI assistant race ([source](https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/))

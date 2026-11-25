@@ -1,15 +1,17 @@
 ---
 title: "Hacker News Trends: Submissions and Success"
 date: 2026-05-28T04:07:51.837Z
+modified_date: 2026-11-25T04:47:57.422Z
 tags: ["Hacker News","Content Strategy","Data Analysis"]
 hero_image: "/hero/2026-05-28-hacker-news-trends-submissions-and-success-fa014e.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "Hacker News"
 description: "Analyzing Hacker News article success with data-driven insights"
-sources_count: 7
+sources_count: 8
 author: "lena-volkov"
 ---
+
 
 ## Understanding Hacker News Trends
 
@@ -66,3 +68,7 @@ The analysis of Hacker News submissions and success rates offers valuable insigh
 ## What to Watch
 
 The next step in this analysis could involve exploring how these trends change over time and how different types of content perform on the platform. Additionally, comparing the dynamics of Hacker News with other social platforms could provide further insights into user behavior and content success. For now, authors and publishers can leverage the findings to optimize their content strategy and increase their visibility on Hacker News.
+
+## Updates
+
+- **2026-11-25** — Ways you can help your video doorbell stay charged in the winter ([source](https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/))

@@ -1,16 +1,17 @@
 ---
 title: "Google Unleashes Gemini on Mac: A New Era for Seamless Desktop AI"
 date: 2026-04-15T19:44:55.276Z
-modified_date: 2026-11-18T18:38:24.944Z
+modified_date: 2026-11-25T04:49:26.064Z
 tags: ["google","gemini","macos","artificial intelligence","desktop ai"]
 hero_image: "/hero/2026-04-15-google-unleashes-gemini-on-mac-a-new-era-for-seamless-desktop-ai-e9ee61.jpg"
 hero_image_credit_name: "Matheus Bertelli"
 hero_image_credit_url: "https://www.pexels.com/@bertellifotografia"
 visual_keyword: "futuristic AI assistant on macOS desktop, floating chat interface, seamless integration"
 description: "Google's native Gemini app for Mac revolutionizes desktop interaction, offering AI assistance with seamless screen and file sharing directly from a shortcut."
-sources_count: 33
+sources_count: 34
 author: "maya-chen"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ This strategic move by Google introduces a dynamic competitor into a space that 
 
 ## Updates
 
+- **2026-11-25** — Apple Mail added four convenient new features in iOS 27 ([source](https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/))
 - **2026-11-18** — Apple Creator Studio adds MotionVFX for Final Cut Pro, new Pixelmator Pro features, more ([source](https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/))
 - **2026-10-29** — iOS 27.2 gives Shortcuts app these new and improved features ([source](https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features/))
 - **2026-10-23** — Retro gaming is being overrun with AI ([source](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port))

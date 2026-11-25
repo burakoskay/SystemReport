@@ -1,18 +1,20 @@
 ---
 title: "Tesla Roadster 2 flips with old Lockheed thrusters"
 date: 2026-10-17T02:34:21.976Z
+modified_date: 2026-11-25T04:46:37.943Z
 tags: ["tesla","roadster","thrusters","automotive","technology"]
 hero_image: "/hero/2026-10-17-tesla-roadster-2-flips-with-old-lockheed-thrusters-74f8a9.jpg"
 hero_image_credit_name: "Mario Alvarado"
 hero_image_credit_url: "https://www.pexels.com/@pixelazteca"
 visual_keyword: "Tesla Roadster 2 performing a dramatic spin with gas thrusters"
 description: "Tesla’s new Roadster 2 uses decades‑old Lockheed Martin compressed‑gas thrusters to spin the 230‑mph car in the air, sparking debate over its practicality."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-10-17-tesla-roadster-2-flips-with-old-lockheed-thrusters-74f8a9.mp3"
 audio_bytes: 594382
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 The latest Tesla Roadster can spin itself in mid‑air, and it does so with a set of gas thrusters that look ripped from a stunt show. The effect is as much a publicity stunt as a technical showcase, but it also raises real questions about how far a hyper‑car can push the boundaries of physics.
 
@@ -49,3 +51,7 @@ Regulators, meanwhile, are watching the use of compressed‑gas systems in consu
 The next milestone for the Roadster 2 will be its homologation test run, where the car must meet safety and emissions standards while retaining the thruster package. Keep an eye on Tesla’s filing with the National Highway Traffic Safety Administration for any updates on certification. A successful approval could pave the way for limited‑edition models that include the flip as a factory option, while a setback would likely relegate the feature to a demo‑only gimmick.
 
 Beyond the Roadster, watch how other manufacturers respond. If a competitor releases a comparable active‑thrust system, it could spark a mini‑arms race in aerodynamic manipulation. Conversely, if regulators clamp down, the industry may shift focus back to pure electric power and conventional aero solutions. Either way, the next few months will reveal whether Tesla’s airborne stunt is a fleeting spectacle or the first step toward a new class of performance engineering.
+
+## Updates
+
+- **2026-11-25** — US financial crimes bureau discloses ‘cybersecurity incident’ ([source](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident))
