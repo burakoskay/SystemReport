@@ -1,18 +1,20 @@
 ---
 title: "Ableton launches Extensions SDK, spurring new plugin tools"
 date: 2026-06-04T10:09:19.477Z
+modified_date: 2026-11-26T01:30:14.092Z
 tags: ["ableton","plugins","music-production","ai-music","open-source"]
 hero_image: "/hero/2026-06-04-ableton-launches-extensions-sdk-spurring-new-plugin-tools-dfa14c.jpg"
 hero_image_credit_name: "Brett Sayles"
 hero_image_credit_url: "https://www.pexels.com/@brett-sayles"
 visual_keyword: "musician using laptop with audio software and plugin icons"
 description: "Ableton's new Extensions SDK opens Live to custom UI panels, prompting community tools like Presync and The Infinite Crate to accelerate music‑production workflows."
-sources_count: 3
-author: "ryan-tanaka"
+sources_count: 4
 audio_path: "/audio/2026-06-04-ableton-launches-extensions-sdk-spurring-new-plugin-tools-dfa14c.mp3"
 audio_bytes: 564707
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Ableton released an Extensions SDK that lets developers embed custom UI panels directly into Live. The move promises tighter integration between the DAW and third‑party tools, a shift that could reshape how producers assemble their workflows.
 
@@ -41,3 +43,7 @@ Installation instructions note the usual VST3 and AU locations—/Library/Audio/
 The real test will be adoption. If Ableton’s Extensions SDK gains traction, we should see a shift from external installers like Presync toward native panels that load instantly with a project. Watch for the first wave of third‑party extensions on the Ableton Marketplace and for any updates to the SDK documentation that address performance or security concerns. Equally important will be community feedback on whether AI‑centric plugins such as The Infinite Crate can leverage the new API to offer tighter, lower‑latency interaction with Live’s transport.
 
 Developers, producers, and power users should keep an eye on Ableton’s developer blog for SDK release notes, and monitor Hacker News threads for emerging tools that either complement or compete with the official extension framework. The next few months will reveal whether the SDK fulfills its promise of a more unified, frictionless music‑production environment.
+
+## Updates
+
+- **2026-11-26** — The New York Times warns photographers not to update Photoshop over AI features ([source](https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features))

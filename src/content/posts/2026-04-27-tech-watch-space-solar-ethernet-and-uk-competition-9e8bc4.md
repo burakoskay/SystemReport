@@ -1,19 +1,20 @@
 ---
 title: "Tech Watch: Space Solar, Ethernet, and UK Competition"
 date: 2026-04-27T10:24:34.592Z
-modified_date: 2026-11-20T18:16:20.489Z
+modified_date: 2026-11-26T01:27:42.828Z
 tags: ["space solar power","Ethernet","UK digital competition"]
 hero_image: "/hero/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.jpg"
 hero_image_credit_name: "Lio Voo"
 hero_image_credit_url: "https://www.pexels.com/@lio-voo-262755153"
 visual_keyword: "space solar power"
 description: "Meta inks deal for solar power beamed from space, Ethernet's relevance in modern networks, and UK's push for digital competition."
-sources_count: 16
+sources_count: 17
 audio_path: "/audio/2026-04-27-tech-watch-space-solar-ethernet-and-uk-competition-9e8bc4.mp3"
 audio_bytes: 609638
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -87,6 +88,7 @@ The intersection of technology and transportation is an exciting space, with man
 
 ## Updates
 
+- **2026-11-26** — Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too ([source](https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras))
 - **2026-11-20** — The Smart Ring Goes to Church ([source](https://www.wired.com/story/smart-ring-goes-to-church/))
 - **2026-11-02** — Vivo’s first Pro Max phone proves its Ultra is still in a league of its own ([source](https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price))
 - **2026-10-23** — Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today ([source](https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today/))

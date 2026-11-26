@@ -1,19 +1,20 @@
 ---
 title: "Spyware App and Quantum-Safe Ransomware Highlight Cybersecurity"
 date: 2026-04-24T17:26:16.416Z
-modified_date: 2026-11-14T21:54:25.339Z
+modified_date: 2026-11-26T01:30:33.028Z
 tags: ["cybersecurity","spyware","ransomware","quantum computing"]
 hero_image: "/hero/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "cybersecurity"
 description: "New spyware app and quantum-safe ransomware family expose growing risks for engineers and security teams."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-24-spyware-app-and-quantum-safe-ransomware-highlight-cybersecurity-7f1ede.mp3"
 audio_bytes: 622804
 author: "priya-raman"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,6 +84,7 @@ The emergence of bespoke spyware and quantum-safe ransomware highlights the grow
 
 ## Updates
 
+- **2026-11-26** — I checked Clojure's core with Lean and found unreported bugs ([source](https://s.conao3.com/blog/2026/e4f733))
 - **2026-11-14** — Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee ([source](https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/))
 - **2026-11-09** — Audioengine Color of the Year Kit Review: Bright Look, Good Sound ([source](https://www.wired.com/review/audioengine-2026-color-of-the-year-kit/))
 - **2026-09-15** — Slow Horses is back tonight, and Apple just confirmed two more seasons ([source](https://9to5mac.com/2026/09/15/slow-horses-is-back-tonight-and-apple-just-confirmed-two-more-seasons/))

@@ -1,15 +1,17 @@
 ---
 title: "Instagram Map Rollout Sparks Privacy Outcry as Meta Defends"
 date: 2026-10-06T08:48:18.722Z
+modified_date: 2026-11-26T01:29:36.160Z
 tags: ["instagram","privacy","meta","lawsuits"]
 hero_image: "/hero/2026-10-06-instagram-map-rollout-sparks-privacy-outcry-as-meta-defends-f726b3.jpg"
 hero_image_credit_name: "Marina Leonova"
 hero_image_credit_url: "https://www.pexels.com/@marina-zasorina"
 visual_keyword: "Instagram map interface showing user locations on a stylized globe"
 description: "Instagram's new map feature and read‑only Plus mode trigger user backlash and raise questions amid ongoing lawsuits over teen safety."
-sources_count: 6
+sources_count: 7
 author: "maya-chen"
 ---
+
 
 ## Instagram pushes map feature and read‑only Plus mode
 Instagram launched a map tool on Wednesday that shows users' last active locations. The same day Meta announced a read‑only mode for Instagram Plus subscribers, which Engadget dubbed a nicer name than “stalker mode.”[^1][^2]
@@ -48,6 +50,9 @@ The next weeks will reveal whether Meta tightens the map’s consent flow or rol
 
 If Meta adjusts the map or introduces clearer warnings, the change will set a precedent for how large platforms balance social discovery with privacy safeguards. If the lawsuits succeed, we may see a broader clampdown on features that encourage endless scrolling.
 
+## Updates
+
+- **2026-11-26** — WhatsApp is finally offering scheduled messages ([source](https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/))
 
 [^1]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd6CKcW5zloioeGdWX63OGTh8ptZfS_PwpLFEhiKnexV052R2WA2p9a1GRiBpd7NZvrn8kjwJ1l6Tbw1aLms9HJcZYoWOJsCdChLYHG-I-JjrOepUwzMQN_8itVtxuPh8o3GiA2L3yn5cZ0H4bV8SFLutXRPx7J-yQl6diVjbz-0D-mTSSraCKG9ILPJrBoMcXJCoDHOQKuFDPbA==)
 [^2]: [engadget.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRgN737anlNt0zAsgIjA0ORhtHgVKXozQdmTBgKZeoGDsLehCGQtYZJiMZSgHg3mEltRhJJwd_Wb7BfOiBleZZwj9xQ9IQg3MNgLlynNA-HpRjq70QF4Sb2J5kD3xwtvA03w==)

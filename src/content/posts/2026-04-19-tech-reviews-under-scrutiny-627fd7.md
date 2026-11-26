@@ -1,16 +1,17 @@
 ---
 title: "Tech Reviews Under Scrutiny"
 date: 2026-04-19T12:42:40.242Z
-modified_date: 2026-10-08T19:38:55.620Z
+modified_date: 2026-11-26T01:27:33.222Z
 tags: ["tech reviews","fake reviews","amazon","ai analysis"]
 hero_image: "/hero/2026-04-19-tech-reviews-under-scrutiny-627fd7.jpg"
 hero_image_credit_name: "Towfiqu barbhuiya"
 hero_image_credit_url: "https://www.pexels.com/@towfiqu-barbhuiya-3440682"
 visual_keyword: "fake review detection"
 description: "Fake reviews plague tech products on Amazon, undermining trust"
-sources_count: 11
+sources_count: 12
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -38,6 +39,7 @@ The issue of fake reviews is a pressing concern that affects not only Amazon but
 
 ## Updates
 
+- **2026-11-26** — The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It ([source](https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/))
 - **2026-10-08** — Amazon Alexa Tablet 12 Pro, Alexa Tablet 11, Alexa Tablet 8: Specs, Features, Price ([source](https://www.wired.com/story/amazon-alexa-tablets-2026/))
 - **2026-05-15** — Codex is now in the ChatGPT mobile app ([source](https://openai.com/index/work-with-codex-from-anywhere/))
 - **2026-05-06** — Blink bumps its budget buzzer to 2K ([source](https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date))

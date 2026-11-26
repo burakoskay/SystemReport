@@ -1,19 +1,20 @@
 ---
 title: "Open Source Funding"
 date: 2026-05-03T09:25:48.190Z
-modified_date: 2026-10-24T17:10:14.436Z
+modified_date: 2026-11-26T01:28:30.012Z
 tags: ["Open Source","Funding","Community Engagement"]
 hero_image: "/hero/2026-05-03-open-source-funding-52a41d.jpg"
 hero_image_credit_name: "Karol D"
 hero_image_credit_url: "https://www.pexels.com/@karoldach"
 visual_keyword: "Funding"
 description: "New funding announcements and community discussions highlight open source development nuances"
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-03-open-source-funding-52a41d.mp3"
 audio_bytes: 617788
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -56,6 +57,7 @@ In addition to the direct impact on the Clojure ecosystem, the funding announcem
 
 ## Updates
 
+- **2026-11-26** — 1Password breach leaked customer names and emails, but not passwords ([source](https://www.theverge.com/tech/1042409/1password-data-breach-leak))
 - **2026-10-24** — Fielded is obsessed with scammers and unhinged Japanese cyberpunk ([source](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview))
 - **2026-06-03** — Defense tech is flooded with money, but who’s built to last? ([source](https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/))
 - **2026-05-07** — Gmail adds AI Inbox to the bottom bar as Help me write becomes more personal ([source](https://9to5google.com/2026/05/07/gmail-ai-inbox-android-ios/))

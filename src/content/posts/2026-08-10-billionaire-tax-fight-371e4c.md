@@ -1,18 +1,20 @@
 ---
 title: "Billionaire Tax Fight"
 date: 2026-08-10T22:32:53.956Z
+modified_date: 2026-11-26T01:30:23.556Z
 tags: ["Billionaire Tax","California Prop 40","Wealth Inequality"]
 hero_image: "/hero/2026-08-10-billionaire-tax-fight-371e4c.jpg"
 hero_image_credit_name: "https://kaboompics.com/"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Billionaire Tax"
 description: "Google co-founder Sergey Brin spends $100 million to fight California's billionaire tax proposal"
-sources_count: 1
-author: "ryan-tanaka"
+sources_count: 2
 audio_path: "/audio/2026-08-10-billionaire-tax-fight-371e4c.mp3"
 audio_bytes: 625102
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Introduction to the Billionaire Tax
 Sergey Brin, co-founder of Google, has spent $100 million to fight California's proposed billionaire tax, Prop 40.[^1][^2][^3][^4] This tax would impose a one-time 5% tax on the net worth of the state's billionaires.[^5][^6][^7][^8]
@@ -37,6 +39,10 @@ The proposed tax would be imposed on the net worth of billionaires, which would 
 
 ## Downstream Implications
 The implications of the tax proposal extend beyond the state of California. If passed, it could set a precedent for other states to follow suit, potentially leading to a significant shift in the way wealth is taxed in the United States. This could have far-reaching consequences for the economy, including the potential for increased revenue for public services and a reduction in economic inequality. The proposal could also have implications for the tech industry, as it could lead to increased scrutiny of the industry's tax practices and potentially even lead to calls for greater regulation of the industry.
+
+## Updates
+
+- **2026-11-26** — Investigating degraded experiences across GitHub products ([source](https://www.githubstatus.com/incidents/qn8mfv6q5hlx))
 
 [^1]: [newsbytesapp.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJKQxsAYOLbI42Z2xu_FVjiva5sOag5UhjHYgzPizqzZPFJZGHxGSEZ7TZ7Hlr4Pza8VH8cumH2XA5h-NdWD5zVDwh_Iic_THY_uYun1WKssGhje_jkvlaX0sO9S5nTM0uVSyy2iQbYc0Tvs2xL1FO3OWWxUPU2x7tDzQzwagAHPES_aKpKyaJp9H3KHYg7JCtX_vJBIsZ-WSqNstNxIL8yJgf3SUooYnDpHml)
 [^2]: [whalesbook.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9O80LLFE1C6ifDa2AGlH_YSe9EOJ-uFAFa5K_npO8YysxkL48on6O2dSn8bMGZ9Vr90wFXg9kTPbqKnCPq2gCjTpjD5ylIdVsBXwYLp10-jdU_JNNQwe9KO3KEN5-3319BZLSXWDoJaTwHM47mAzpXfOjZKB1LuFMGUUrWijEnphWh396oNZKUt9q0psoQlexkW8QWFtw2AtaoJrW6i7bDTdzt3sTn7wckn4xNCtKs664T4LjDz_NrJyso0z8Y7SI2gII9zbs2fo-AQ0=)

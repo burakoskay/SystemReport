@@ -1,16 +1,17 @@
 ---
 title: "FCC's Regulatory Tightrope: Mergers, Broadcast Rules"
 date: 2026-04-29T06:46:32.439Z
-modified_date: 2026-11-10T03:57:51.856Z
+modified_date: 2026-11-26T01:29:26.751Z
 tags: ["fcc-regulation","media-mergers","broadcast-rules","equal-time-debate","antitrust-lawsuit"]
 hero_image: "/hero/2026-04-29-fcc-s-regulatory-tightrope-mergers-broadcast-rules-480439.jpg"
 hero_image_credit_name: "August de Richelieu"
 hero_image_credit_url: "https://www.pexels.com/@august-de-richelieu"
 visual_keyword: "FCC officials discussing regulations at NAB Show"
 description: "FCC faces legal and political battles over media mergers and equal-time enforcement."
-sources_count: 38
+sources_count: 39
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -75,6 +76,7 @@ The FCC’s current trajectory is a high-stakes balancing act. For media compani
 
 ## Updates
 
+- **2026-11-26** — This $1,900 Alienware Aurora is one of the best early Black Friday PC deals ([source](https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/))
 - **2026-11-10** — The global pledge to use AI for climate good is a cruel joke ([source](https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31))
 - **2026-11-07** — From the front row to the hot seat — what the midterms mean for Big Tech ([source](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/))
 - **2026-10-21** — The 1.5°C goal of the Paris Agreement is no longer viable ([source](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/))

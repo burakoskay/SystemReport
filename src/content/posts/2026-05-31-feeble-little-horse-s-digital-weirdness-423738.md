@@ -1,19 +1,20 @@
 ---
 title: "Feeble Little Horse's Digital Weirdness"
 date: 2026-05-31T19:24:53.818Z
-modified_date: 2026-09-23T22:38:23.212Z
+modified_date: 2026-11-26T01:30:04.531Z
 tags: ["indie rock","digital music","Feeble Little Horse"]
 hero_image: "/hero/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.jpg"
 hero_image_credit_name: "Ron Lach"
 hero_image_credit_url: "https://www.pexels.com/@ron-lach"
 visual_keyword: "digital weirdness"
 description: "Feeble Little Horse's new album bitknot leans into digital weirdness with a low-bit aesthetic and glitchy sound."
-sources_count: 19
+sources_count: 20
 audio_path: "/audio/2026-05-31-feeble-little-horse-s-digital-weirdness-423738.mp3"
 audio_bytes: 559483
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ The album's success could also lead to a renewed interest in digital music produ
 
 ## Updates
 
+- **2026-11-26** — Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model ([source](https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model/))
 - **2026-09-23** — MacWhisper update brings real-time meeting transcripts, improved speaker recognition, more ([source](https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/))
 - **2026-08-29** — Run Qwen3.8 27B locally: real numbers from my Mac Studio ([source](https://terminalbytes.com/run-qwen-3-8-27b-locally/))
 - **2026-08-17** — Pixel Recorder update brings new Pixel 11 app icon ([source](https://9to5google.com/2026/08/17/pixel-recorder-new-icon/))
