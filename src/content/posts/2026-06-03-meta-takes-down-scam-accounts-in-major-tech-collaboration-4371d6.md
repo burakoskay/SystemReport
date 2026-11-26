@@ -1,19 +1,20 @@
 ---
 title: "Meta Takes Down Scam Accounts in Major Tech Collaboration"
 date: 2026-06-03T11:12:35.720Z
-modified_date: 2026-11-11T23:59:32.182Z
+modified_date: 2026-11-26T20:51:15.221Z
 tags: ["AI","Security","Scams"]
 hero_image: "/hero/2026-06-03-meta-takes-down-scam-accounts-in-major-tech-collaboration-4371d6.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "cybersecurity"
 description: "Meta, Microsoft, SpaceX, and the DOJ collaborated to take down over a million scam accounts in SE Asia. The operation targeted scam networks in the region."
-sources_count: 10
+sources_count: 11
 audio_path: "/audio/2026-06-03-meta-takes-down-scam-accounts-in-major-tech-collaboration-4371d6.mp3"
 audio_bytes: 585605
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -93,4 +94,5 @@ The collaboration between Meta, Microsoft, SpaceX, and the DOJ demonstrates that
 
 ## Updates
 
+- **2026-11-26** — The Motorola Signature 27’s haptics finally feel more like a Pixel, and it’s about time ([source](https://9to5google.com/2026/11/26/the-motorola-signature-27s-haptics-finally-feel-more-like-a-pixel-and-its-about-time/))
 - **2026-11-11** — iCloud+ has new perk in iOS 27 if you pay for more storage ([source](https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/))

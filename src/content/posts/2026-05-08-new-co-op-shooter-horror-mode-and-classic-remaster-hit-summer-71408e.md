@@ -1,16 +1,17 @@
 ---
 title: "New Co‑op Shooter, Horror Mode, and Classic Remaster Hit Summer"
 date: 2026-05-08T19:39:29.080Z
-modified_date: 2026-08-20T14:30:54.781Z
+modified_date: 2026-11-26T20:49:52.099Z
 tags: ["gaming","releases","remaster"]
 hero_image: "/hero/2026-05-08-new-co-op-shooter-horror-mode-and-classic-remaster-hit-summer-71408e.jpg"
 hero_image_credit_name: "Pavel Danilyuk"
 hero_image_credit_url: "https://www.pexels.com/@pavel-danilyuk"
 visual_keyword: "gaming controllers and retro game box art on a sleek table"
 description: "Aliens: Fireteam Elite 2 adds four‑player co‑op and new classes, Resident Evil Requiem launches a Leon‑only mode, and Sony upgrades Ico and Shadow of the Colossus."
-sources_count: 8
+sources_count: 9
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ Track the server performance metrics for Aliens: Fireteam Elite 2 once it launch
 
 ## Updates
 
+- **2026-11-26** — The Best MagSafe Wallets for Your Everyday Carry (2026) ([source](https://www.wired.com/gallery/best-magsafe-wallets/))
 - **2026-08-20** — Waymo lifts the lid on the ‘brain’ powering its robotaxis ([source](https://www.theverge.com/transportation/982653/waymo-brain-computer-chip-robotaxi-hardware-suppliers))
 - **2026-08-18** — Warp’s new system is an out-of-the-box software factory for AI development ([source](https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/))
 - **2026-08-13** — I finally found a robot lawnmower I’d trust with my yard ([source](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame))

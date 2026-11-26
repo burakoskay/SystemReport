@@ -1,19 +1,20 @@
 ---
 title: "Fake Reviews on Amazon"
 date: 2026-06-07T11:52:59.092Z
-modified_date: 2026-08-06T23:56:13.730Z
+modified_date: 2026-11-26T20:51:07.166Z
 tags: ["Amazon","Fake Reviews","E-commerce"]
 hero_image: "/hero/2026-06-07-fake-reviews-on-amazon-5dae1c.jpg"
 hero_image_credit_name: "Miguel Angel Lozano Baron"
 hero_image_credit_url: "https://www.pexels.com/@miguel-angel-lozano-baron-1293045616"
 visual_keyword: "Amazon"
 description: "Fake reviews affect tech products"
-sources_count: 6
+sources_count: 7
 audio_path: "/audio/2026-06-07-fake-reviews-on-amazon-5dae1c.mp3"
 audio_bytes: 650598
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -44,5 +45,6 @@ Consumer awareness is key to combating fake reviews. Consumers must be aware of 
 
 ## Updates
 
+- **2026-11-26** — Black Friday Week deals: Pixel Watch 5 now $285, Pixelsnap Ring Stand, Android Alexa Tablet 12 Pro, Lenovo tabs, more ([source](https://9to5google.com/2026/11/26/black-friday-deals-pixel-watch-5-pixelsnap-ring-stand-alexa-tablet/))
 - **2026-08-06** — AirPods Pro 3 keep getting better, here’s what’s new in iOS 27 ([source](https://9to5mac.com/2026/08/06/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/))
 - **2026-07-30** — Samsung has another brand-new Galaxy Buds design, and they just leaked [Gallery] ([source](https://9to5google.com/2026/07/30/samsung-galaxy-buds-ear-hook-design-leak/))

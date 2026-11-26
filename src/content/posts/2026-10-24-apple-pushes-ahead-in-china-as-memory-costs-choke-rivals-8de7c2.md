@@ -1,19 +1,20 @@
 ---
 title: "Apple pushes ahead in China as memory costs choke rivals"
 date: 2026-10-24T14:02:03.109Z
-modified_date: 2026-11-11T23:57:42.284Z
+modified_date: 2026-11-26T20:50:42.867Z
 tags: ["apple","smartphones","macbook","watchos","china"]
 hero_image: "/hero/2026-10-24-apple-pushes-ahead-in-china-as-memory-costs-choke-rivals-8de7c2.jpg"
 hero_image_credit_name: "Maggie L"
 hero_image_credit_url: "https://www.pexels.com/@maggie-l-859117141"
 visual_keyword: "Apple devices on a Chinese city skyline at dusk"
 description: "Apple gains share in China despite a 10% shipment drop, while watchOS 27.2 RC lands and a redesigned MacBook Pro looms with a notable flaw."
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-10-24-apple-pushes-ahead-in-china-as-memory-costs-choke-rivals-8de7c2.mp3"
 audio_bytes: 550705
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 Apple’s Q3 data shows the company gaining market share in China even as overall smartphone shipments slump 10% year‑over‑year. The shift matters because China remains the world’s largest handset market, and any gain there can offset global weakness.
@@ -50,4 +51,5 @@ Track the Q4 shipment reports from IDC and Counterpoint for any shift in Apple�
 
 ## Updates
 
+- **2026-11-26** — Federal judge blocks the FCC from reviewing ABC’s licenses early ([source](https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block))
 - **2026-11-11** — With $720M round, Britain’s Fractile gets a leg up in the race for AI chips ([source](https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/))

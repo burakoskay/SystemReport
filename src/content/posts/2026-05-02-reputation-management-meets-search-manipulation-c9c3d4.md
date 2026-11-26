@@ -1,19 +1,20 @@
 ---
 title: "Reputation Management Meets Search Manipulation"
 date: 2026-05-02T17:05:44.103Z
-modified_date: 2026-11-10T03:59:01.546Z
+modified_date: 2026-11-26T20:50:16.940Z
 tags: ["search-manipulation","reputation-management","algorithmic-transparency","platform-responsibility","digital-fraud"]
 hero_image: "/hero/2026-05-02-reputation-management-meets-search-manipulation-c9c3d4.jpg"
 hero_image_credit_name: "Zulfugar Karimov"
 hero_image_credit_url: "https://www.pexels.com/@zulfugarkarimov"
 visual_keyword: "manipulated search results on a smartphone screen showing fake professional profiles"
 description: "Criminal records and fraudsters are rewriting their digital footprints through SEO campaigns, exposing a blind spot in online trust systems."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-02-reputation-management-meets-search-manipulation-c9c3d4.mp3"
 audio_bytes: 568051
 author: "elena-marchetti"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -49,6 +50,7 @@ The FTC’s upcoming 2024 rulemaking on algorithmic transparency will determine 
 
 ## Updates
 
+- **2026-11-26** — Ford unveils the GT41 as it hopes to win Le Mans again ([source](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/))
 - **2026-11-10** — Canadian court certifies class action against Apple over Google search deal ([source](https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/))
 - **2026-11-02** — My Journey to the Center of America’s Political Spam Text Hell ([source](https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/))
 - **2026-10-20** — An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding ([source](https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/))

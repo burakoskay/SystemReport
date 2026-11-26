@@ -1,18 +1,20 @@
 ---
 title: "Apple tests touchscreen MacBook Pro, rolls out dev videos"
 date: 2026-10-29T01:35:02.868Z
+modified_date: 2026-11-26T20:50:59.088Z
 tags: ["apple","macos","touchscreen","hardware"]
 hero_image: "/hero/2026-10-29-apple-tests-touchscreen-macbook-pro-rolls-out-dev-videos-f1bc39.jpg"
 hero_image_credit_name: "Thijs van der Weide"
 hero_image_credit_url: "https://www.pexels.com/@thijsvdw"
 visual_keyword: "engineer sketching a touchscreen laptop prototype"
 description: "Apple releases developer videos for touchscreen Macs and, per Bloomberg, is prototyping a touchscreen MacBook Pro for a possible 2025 launch."
-sources_count: 6
-author: "ryan-tanaka"
+sources_count: 7
 audio_path: "/audio/2026-10-29-apple-tests-touchscreen-macbook-pro-rolls-out-dev-videos-f1bc39.mp3"
 audio_bytes: 589784
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Apple rolls out dev resources for touchscreen Macs
 Apple unveiled a series of short videos aimed at developers who want to make their apps work on a touchscreen Mac. The videos arrive alongside an announcement that live Q&A sessions will start in November. The move signals that Apple is preparing its software ecosystem for a hardware shift that has long been denied.
@@ -32,3 +34,7 @@ Apple’s recent push to adopt OLED across its product line suggests the company
 
 ## What to watch
 The next few months will reveal whether Apple’s internal debate tips toward a launch. Key signals include the November live developer sessions and any updates to the MacBook Pro spec sheet that mention OLED or touch input. If Apple adds a touchscreen option at launch, we can expect a new set of macOS gestures and possibly a revised App Store policy for iOS‑derived apps. Conversely, a quiet shelving of the project would reinforce the company’s long‑standing stance that the Mac belongs to the indirect‑input world. Either outcome will shape the hardware choices of power users who value a keyboard‑first workflow versus those who want the flexibility of a hybrid device.
+
+## Updates
+
+- **2026-11-26** — The Screens app will let you turn your iPhone Duo into an itty bitty MacBook ([source](https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/))

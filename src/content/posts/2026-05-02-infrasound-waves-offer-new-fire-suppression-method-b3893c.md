@@ -1,16 +1,17 @@
 ---
 title: "Infrasound Waves Offer New Fire Suppression Method"
 date: 2026-05-02T13:26:22.717Z
-modified_date: 2026-11-20T01:38:29.426Z
+modified_date: 2026-11-26T20:51:23.179Z
 tags: ["fire safety","acoustic fire suppression","infrasound waves"]
 hero_image: "/hero/2026-05-02-infrasound-waves-offer-new-fire-suppression-method-b3893c.jpg"
 hero_image_credit_name: "𝑒𝑏𝑟𝑎𝑟"
 hero_image_credit_url: "https://www.pexels.com/@2149896912"
 visual_keyword: "fire"
 description: "Acoustic system uses low-frequency sound to extinguish kitchen fires, but questions remain on effectiveness and scalability."
-sources_count: 29
+sources_count: 30
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -106,6 +107,7 @@ Regulatory bodies will also play a critical role in the adoption of acoustic fir
 
 ## Updates
 
+- **2026-11-26** — Readdle’s Documents app adds voice recording with transcripts, summaries, more ([source](https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more/))
 - **2026-11-20** — 9to5Mac Daily: November 19, 2026 – New iPhone rumors, leadership changes ([source](https://9to5mac.com/2026/11/19/daily-november-19-2026/))
 - **2026-11-18** — 9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo ([source](https://9to5mac.com/2026/11/18/daily-november-18-2026/))
 - **2026-11-11** — 9to5Mac Daily: November 10, 2026 – iOS 27.2.1, HomeView rumors ([source](https://9to5mac.com/2026/11/10/daily-november-10-2026/))

@@ -1,16 +1,17 @@
 ---
 title: "WIRED's Verified Discounts for May 2026"
 date: 2026-05-14T06:50:12.741Z
-modified_date: 2026-11-03T17:36:01.957Z
+modified_date: 2026-11-26T20:50:50.976Z
 tags: ["Retail","Discounts","Promotions","Sephora","Birdfy"]
 hero_image: "/hero/2026-05-14-wired-s-verified-discounts-for-may-2026-93350b.jpg"
 hero_image_credit_name: "David Kouakou"
 hero_image_credit_url: "https://www.pexels.com/@david-kouakou-536418893"
 visual_keyword: "Sephora"
 description: "Exclusive promo codes for Sephora, Birdfy, and more"
-sources_count: 19
+sources_count: 20
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -43,6 +44,7 @@ Consumer behavior and preferences are constantly evolving, and retailers must be
 
 ## Updates
 
+- **2026-11-26** — Samsung’s R95H TV shows what RGB LED is capable of ([source](https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review))
 - **2026-11-03** — Moft’s new origami case adds a kickstand and grip to the iPhone Duo ([source](https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo))
 - **2026-10-29** — Nothing Headphones Sale: Stylish and Up to 41% Off ([source](https://www.wired.com/story/nothing-cmf-deals-october-2026/))
 - **2026-10-08** — Deals: Galaxy Z Fold 8 up to $628 off, Pixel 11 Pro up to nearly $400 off, Nothing Headphone (a) 35% off, more ([source](https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/))

@@ -1,19 +1,20 @@
 ---
 title: "Wacom MovinkPad 11"
 date: 2026-08-08T12:37:08.242Z
-modified_date: 2026-09-20T17:15:38.466Z
+modified_date: 2026-11-26T20:50:00.156Z
 tags: ["Wacom","MovinkPad 11","Graphics Tablet","Digital Art"]
 hero_image: "/hero/2026-08-08-wacom-movinkpad-11-424bb2.jpg"
 hero_image_credit_name: "Kawê  Rodrigues"
 hero_image_credit_url: "https://www.pexels.com/@kawerodriguess"
 visual_keyword: "Wacom MovinkPad 11"
 description: "Wacom's new graphics tablet for digital artists"
-sources_count: 2
+sources_count: 3
 audio_path: "/audio/2026-08-08-wacom-movinkpad-11-424bb2.mp3"
 audio_bytes: 603787
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Introduction to the MovinkPad 11
@@ -37,4 +38,5 @@ The demand for graphics tablets is on the rise, driven by the growing popularity
 
 ## Updates
 
+- **2026-11-26** — Here’s Everything You Can Do With With the New Gemini AI on Android Auto ([source](https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/))
 - **2026-09-20** — Can you tell which images are AI-generated? ([source](https://slop-sense.labtoagi.com/games/is-this-image-ai/))
