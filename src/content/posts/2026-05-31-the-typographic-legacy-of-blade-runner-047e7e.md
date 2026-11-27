@@ -1,16 +1,17 @@
 ---
 title: "The Typographic Legacy of Blade Runner"
 date: 2026-05-31T04:25:44.027Z
-modified_date: 2026-08-23T12:26:34.035Z
+modified_date: 2026-11-27T13:24:39.059Z
 tags: ["typography","blade runner","design","sci-fi"]
 hero_image: "/hero/2026-05-31-the-typographic-legacy-of-blade-runner-047e7e.jpg"
 hero_image_credit_name: "Brett Jordan"
 hero_image_credit_url: "https://www.pexels.com/@brettjordan"
 visual_keyword: "typography"
 description: "Exploring the iconic typography of Ridley Scott's sci-fi classic and its influence on design"
-sources_count: 6
+sources_count: 7
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -57,5 +58,6 @@ The legacy of Blade Runner's typography is a testament to the power of design to
 
 ## Updates
 
+- **2026-11-27** — Our Favorite Merino Wool is 30% Off During the Unbound Merino Black Friday Sale ([source](https://www.wired.com/story/unbound-merino-black-friday-sale-2026/))
 - **2026-08-23** — The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience (2026) ([source](https://www.wired.com/gallery/best-laptop-docking-stations/))
 - **2026-07-27** — This is my new favorite laptop, but thanks to RAMageddon it already went up in price by $800 ([source](https://www.theverge.com/tech/971160/framework-laptop-13-pro-intel-review))

@@ -1,19 +1,20 @@
 ---
 title: "Telephoto Flagships Clash, Linux Phones Refine Hardware"
 date: 2026-05-22T20:03:14.260Z
-modified_date: 2026-10-31T23:00:29.168Z
+modified_date: 2026-11-27T13:24:54.972Z
 tags: ["smartphones","linux","hardware"]
 hero_image: "/hero/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.jpg"
 hero_image_credit_name: "Andrey Matveev"
 hero_image_credit_url: "https://www.pexels.com/@zeleboba"
 visual_keyword: "side-by-side comparison of high-end telephoto smartphone and open-source Linux phone hardware schematics"
 description: "Engadget pits Oppo and Vivo's telephoto flagships while Linux phones iterate on openness, revealing shifting priorities in the smartphone market."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-05-22-telephoto-flagships-clash-linux-phones-refine-hardware-9abf75.mp3"
 audio_bytes: 599398
 author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -59,6 +60,7 @@ Track the next firmware release for the PinePhone’s Allwinner A64; a fully mai
 
 ## Updates
 
+- **2026-11-27** — The Best Black Friday iPad Deals On the Latest 2026 Models: Get $100 Off ([source](https://www.wired.com/story/best-black-friday-ipad-deals-11-27-2026/))
 - **2026-10-31** — Keyboards of The Verge ([source](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks))
 - **2026-10-24** — Blue Planet III is keeping the rough edges in the age of AI ([source](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai))
 - **2026-10-16** — We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album ([source](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli))

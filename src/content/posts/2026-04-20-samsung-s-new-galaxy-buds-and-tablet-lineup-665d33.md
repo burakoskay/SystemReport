@@ -1,16 +1,17 @@
 ---
 title: "Samsung's New Galaxy Buds and Tablet Lineup"
 date: 2026-04-20T20:42:51.471Z
-modified_date: 2026-11-24T11:57:52.407Z
+modified_date: 2026-11-27T13:25:34.838Z
 tags: ["samsung","galaxy buds","tablet"]
 hero_image: "/hero/2026-04-20-samsung-s-new-galaxy-buds-and-tablet-lineup-665d33.png"
 hero_image_credit_name: "System Report (Flux Schnell)"
 hero_image_credit_url: "https://developers.cloudflare.com/workers-ai/models/flux-1-schnell/"
 visual_keyword: "Samsung Galaxy Buds and Tablet"
 description: "Samsung is working on new Galaxy Buds with an open-ear design and a budget-friendly tablet, the Galaxy Tab A11+ Kids Edition."
-sources_count: 25
+sources_count: 26
 author: "priya-raman"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ In the meantime, consumers can look forward to the release of the Galaxy Tab S11
 
 ## Updates
 
+- **2026-11-27** — Our favorite headphones and earbuds are cheaper than ever for Black Friday ([source](https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026))
 - **2026-11-24** — Kodak SlideTag is a $35 AirTag alternative with an E-Ink display for your photos ([source](https://9to5mac.com/2026/11/23/kodak-slidetag-e-ink-iphone-tracker-airtag/))
 - **2026-11-17** — Monday’s Android app deals and freebies: Final Fantasy games, Dragon Quest, Ash of Gods, more ([source](https://9to5toys.com/2026/11/16/today-highlight-google-play-deals-final-fantasy/))
 - **2026-11-17** — Which Google Pixel phone is most similar to the Galaxy S26+? ([source](https://www.engadget.com/2314824/google-pixel-phone-most-similar-to-galaxy-s26-plus/))

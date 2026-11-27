@@ -1,18 +1,20 @@
 ---
 title: "Why hidden OS steps still matter for phones"
 date: 2026-10-05T19:09:02.692Z
+modified_date: 2026-11-27T13:25:50.957Z
 tags: ["software-updates","chromebook","macos-beta"]
 hero_image: "/hero/2026-10-05-why-hidden-os-steps-still-matter-for-phones-ca2f76.jpg"
 hero_image_credit_name: "Geri Tech"
 hero_image_credit_url: "https://www.pexels.com/@geri-tech-3769679"
 visual_keyword: "smartphone with app icons, Chromebook keyboard with developer mode overlay, macOS window showing beta version"
 description: "Automatic updates and developer modes sound seamless, but missed patches and beta releases keep users on their toes."
-sources_count: 5
-author: "david-okafor"
+sources_count: 6
 audio_path: "/audio/2026-10-05-why-hidden-os-steps-still-matter-for-phones-ca2f76.mp3"
 audio_bytes: 565334
+author: "david-okafor"
 audio_mime: "audio/mpeg"
 ---
+
 
 ## Automatic app updates aren’t foolproof
 
@@ -49,3 +51,7 @@ The net effect is a market where security and stability depend on informed, occa
 ## What to watch
 
 Track the official macOS 27.2 Golden Gate release date; Apple typically announces the final version in a keynote or via the developer portal. Monitor Android and iOS security bulletins for any critical patches that have not propagated through the automatic update channel. Finally, watch for community reports on Chromebook developer‑mode stability, especially as Linux‑on‑ChromeOS expands its hardware support. Each of these signals will indicate whether the hidden steps are being smoothed out or remain a friction point for advanced users.
+
+## Updates
+
+- **2026-11-27** — Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026 ([source](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/))

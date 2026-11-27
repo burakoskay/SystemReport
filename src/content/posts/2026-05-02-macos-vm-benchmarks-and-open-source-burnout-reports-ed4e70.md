@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-11-23T13:58:22.907Z
+modified_date: 2026-11-27T13:26:07.456Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 20
+sources_count: 21
 author: "maya-chen"
 ---
+
 
 
 
@@ -57,6 +58,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-11-27** — The need for a formally verifiable mainstream programming language ([source](https://blainehansen.me/post/mainstream-verifiable-language/))
 - **2026-11-23** — A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules ([source](https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/))
 - **2026-11-11** — Trump wanted little Kei trucks for America, Toyota makes it happen ([source](https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/))
 - **2026-10-31** — France is getting download tax for content providers (€0.055/GB) ([source](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/))
