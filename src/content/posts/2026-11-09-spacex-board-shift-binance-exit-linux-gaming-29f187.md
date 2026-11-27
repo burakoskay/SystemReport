@@ -1,18 +1,20 @@
 ---
 title: "SpaceX Board Shift, Binance Exit, Linux Gaming"
 date: 2026-11-09T09:00:01.277Z
+modified_date: 2026-11-27T22:32:19.223Z
 tags: ["spaceX","binance","linux","google","technews"]
 hero_image: "/hero/2026-11-09-spacex-board-shift-binance-exit-linux-gaming-29f187.jpg"
 hero_image_credit_name: "Ernie Indriati Saragih Manihuruk"
 hero_image_credit_url: "https://www.pexels.com/@ernie-indriati-saragih-manihuruk-1846419816"
 visual_keyword: "biker protest outside a data center construction site"
 description: "SpaceX adds Sequoia veteran to its board, Binance CFO quits after a $6.3 B hack, Epic Games brings its launcher to SteamOS, and activists rally against a new Google data center."
-sources_count: 5
-author: "sam-whitfield"
+sources_count: 6
 audio_path: "/audio/2026-11-09-spacex-board-shift-binance-exit-linux-gaming-29f187.mp3"
 audio_bytes: 612981
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 SpaceX added Sequoia veteran Roelof Botha to its board, a move that surprised the venture firm’s partners. The appointment arrives as the aerospace maker tightens its governance amid soaring launch demand and as rivals scramble for talent.
 
@@ -46,6 +48,9 @@ The protest reflects a broader European pushback against large‑scale data infr
 
 SpaceX’s board reshuffle will be tested at the next quarterly meeting, where both governance and financing decisions will surface. Binance’s next CFO appointment and its response to regulator inquiries will indicate whether the exchange can stabilize after the hack. Epic Games’ full Linux rollout is slated for later this year; adoption metrics will reveal if the move translates into market share. Finally, the outcome of the Google data center planning review will set a precedent for future data‑center siting across Europe. Track corporate filings, regulator statements, and community actions to gauge how these storylines evolve.
 
+## Updates
+
+- **2026-11-27** — A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf] ([source](https://eprint.iacr.org/2026/3020.pdf))
 
 [^1]: [aiweekly.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQnpxbh7Sqq02siPKvo8Y__6GHA8rDhORoFOX3hGUBAxWIJzQbFKg56WrZD54ZuR02lVF_nOO25WJJ3K4cNNyiC9qnVLgaO9qf1wgAUJuEy_udbjOjJyCk7XS16a0dVEE3XEdqucmtXhq8UaBgv8uOuGpiM_d-tbBJLISfdfpOvQYQoi0pmHJFW2UEskc=)
 [^2]: [techbytes.app](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERCevFMyhwR5gLbnqOAJcBygQNGqcIE_APocFsPWvFwUrqu_tqu1r7Nhetv747FofJht9Urf-LM45zbP6YcoqCutMJQsvi-JEWLEjEUajQKZFnHHbeyK4DrVA16Mbom46nUAoS_YCaKa6o6tWH1q8_UXceX0p891k4YBvvUD6oiCO6S3HFnESIa_92kEsIdAkcQzYHfIQIkt7P9kv-GnIwVTuR)

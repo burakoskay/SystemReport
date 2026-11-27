@@ -1,19 +1,20 @@
 ---
 title: "Spur Intelligence Secures $200M Investment"
 date: 2026-07-28T22:56:29.076Z
-modified_date: 2026-11-02T19:58:56.648Z
+modified_date: 2026-11-27T22:30:52.196Z
 tags: ["Spur Intelligence","Bot-Detection","Cybersecurity"]
 hero_image: "/hero/2026-07-28-spur-intelligence-secures-200m-investment-568c5d.jpg"
 hero_image_credit_name: "Sanket  Mishra"
 hero_image_credit_url: "https://www.pexels.com/@sanketgraphy"
 visual_keyword: "Bot-Detection Technology"
 description: "Spur raises $200M for bot-detection tech"
-sources_count: 3
+sources_count: 4
 audio_path: "/audio/2026-07-28-spur-intelligence-secures-200m-investment-568c5d.mp3"
 audio_bytes: 587277
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -38,5 +39,6 @@ The regulatory environment for bot-detection and cybersecurity is evolving, with
 
 ## Updates
 
+- **2026-11-27** — Black Friday deals: Galaxy Z Fold 8 at least $450 off, Echo smart displays $100 off, Pixel Watch 5 $115 off, more ([source](https://9to5google.com/2026/11/27/black-friday-deals-fold-8-echo-smart-display-pixel-watch-5/))
 - **2026-11-02** — This is your rare chance to get a Garmin smartwatch for under $170 ([source](https://9to5google.com/2026/11/02/this-is-your-rare-chance-to-get-a-garmin-smartwatch-for-under-170/))
 - **2026-08-03** — Samsung Galaxy Z Fold 8 Ultra review: Nice upgrades, but not quite ultra ([source](https://www.engadget.com/2228942/samsung-galaxy-z-fold-8-ultra-review/))

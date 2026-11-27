@@ -1,16 +1,17 @@
 ---
 title: "Bumble Drops First Move Rule"
 date: 2026-08-11T14:54:53.528Z
-modified_date: 2026-10-23T14:36:30.420Z
+modified_date: 2026-11-27T22:30:23.224Z
 tags: ["Bumble","Dating Apps","Online Dating"]
 hero_image: "/hero/2026-08-11-bumble-drops-first-move-rule-50b200.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Dating App Update"
 description: "Bumble changes messaging rules"
-sources_count: 4
+sources_count: 5
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -35,5 +36,6 @@ The online dating market is highly competitive, with many apps and websites vyin
 
 ## Updates
 
+- **2026-11-27** — I’m so glad I didn’t give up on the Galaxy Z Fold 8 ([source](https://9to5google.com/2026/11/27/i-didnt-give-up-on-the-galaxy-z-fold-8/))
 - **2026-10-23** — Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup ([source](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/))
 - **2026-09-28** — The iPhone Duo may already have its first killer app: a virtual Walkman ([source](https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/))

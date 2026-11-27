@@ -1,16 +1,17 @@
 ---
 title: "Beyond Earth: Nuclear Power, Subterranean Havens"
 date: 2026-04-15T19:49:01.011Z
-modified_date: 2026-11-19T09:46:12.471Z
+modified_date: 2026-11-27T22:31:40.511Z
 tags: ["space exploration","nasa","nuclear power","commercial space","dark energy"]
 hero_image: "/hero/2026-04-15-beyond-earth-nuclear-power-subterranean-havens-and-the-new-space-race-4b0d6e.jpg"
 hero_image_credit_name: "Ayşe"
 hero_image_credit_url: "https://www.pexels.com/@ayse-58498816"
 visual_keyword: "Lunar nuclear power and subterranean alien habitats"
 description: "From NASA's lunar nuclear reactors to the search for life in alien caves and the shifting dynamics of commercial launches, humanity is charting an ambitious new course in space."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -31,6 +32,7 @@ is becoming a paramount factor. This competitive landscape is driving innovation
 
 ## Updates
 
+- **2026-11-27** — 5 Costco Electronics With Deep Discounts For Black Friday 2026 ([source](https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/))
 - **2026-11-19** — Software companies are trying to kill home computing? ([source](https://lateblt.livejournal.com/526188.html))
 - **2026-10-19** — Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out ([source](https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out/))
 - **2026-10-06** — Are extended warranties on TVs and laptops ever really worth it? ([source](https://www.engadget.com/2275958/extended-warranty-for-laptop-tv-worth-it/))

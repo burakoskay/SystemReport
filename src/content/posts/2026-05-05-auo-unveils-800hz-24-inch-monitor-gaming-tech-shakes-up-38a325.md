@@ -1,16 +1,17 @@
 ---
 title: "AUO Unveils 800Hz 24-Inch Monitor, Gaming Tech Shakes Up"
 date: 2026-05-05T17:53:04.695Z
-modified_date: 2026-11-26T01:29:55.080Z
+modified_date: 2026-11-27T22:32:09.580Z
 tags: ["auo","xbox","gaming-hardware"]
 hero_image: "/hero/2026-05-05-auo-unveils-800hz-24-inch-monitor-gaming-tech-shakes-up-38a325.jpg"
 hero_image_credit_name: "Lynde"
 hero_image_credit_url: "https://www.pexels.com/@lynde-2123295"
 visual_keyword: "800Hz gaming monitor with RGB lighting on desk"
 description: "AUO's 800Hz monitor, Microsoft-NVIDIA update woes, Xbox exec shakeup, and new games define tech's turbulent week."
-sources_count: 17
+sources_count: 18
 author: "sam-whitfield"
 ---
+
 
 
 
@@ -53,6 +54,7 @@ AUO’s 800Hz monitor needs a 2027 launch date and real-world latency tests. Xbo
 
 ## Updates
 
+- **2026-11-27** — New York and California age gating rules go into effect in the new year ([source](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year))
 - **2026-11-26** — Big Google Home update adds these new Nest Cam, app, and Gemini features ([source](https://9to5google.com/2026/11/25/google-home-update-nest-cam-thermostat-gemini-features/))
 - **2026-11-19** — Multiple vulnerabilities in Regexp and String case conversion ([source](https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/))
 - **2026-11-06** — Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web ([source](https://github.com/anomalyco/rune))

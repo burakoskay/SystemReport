@@ -1,15 +1,17 @@
 ---
 title: "EU Considers US Cloud Restrictions Over Security Concerns"
 date: 2026-05-17T22:57:29.179Z
+modified_date: 2026-11-27T22:31:30.930Z
 tags: ["cloud","EU","security"]
 hero_image: "/hero/2026-05-17-eu-considers-us-cloud-restrictions-over-security-concerns-c0a401.jpg"
 hero_image_credit_name: "Pixabay"
 hero_image_credit_url: "https://www.pexels.com/@pixabay"
 visual_keyword: "cloud"
 description: "EU weighs restricting US cloud platforms for government data"
-sources_count: 2
+sources_count: 3
 author: "priya-raman"
 ---
+
 
 ## Introduction to the Issue
 The European Union is considering restricting the use of US cloud platforms, such as AWS, Azure, and Google Cloud, to process sensitive government data due to security concerns.
@@ -56,3 +58,7 @@ This could involve the development of new cloud services and solutions that are 
 The EU's decision will likely have a ripple effect on the global cloud industry, influencing the strategies of cloud providers and the way they approach data sovereignty and security. As the EU continues to weigh its options, one thing is clear: the future of cloud computing in the region hangs in the balance.
 
 In conclusion, the EU's consideration of restricting US cloud platforms is a complex issue with significant implications for the global cloud industry. The EU's decision will likely have far-reaching consequences, shaping the way cloud providers approach data sovereignty and security, and influencing the development of new cloud services and solutions.
+
+## Updates
+
+- **2026-11-27** — Hackers reportedly infiltrated the Air Force's cloud systems ([source](https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/))

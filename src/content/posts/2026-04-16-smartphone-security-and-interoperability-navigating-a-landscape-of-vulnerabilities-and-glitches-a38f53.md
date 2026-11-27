@@ -1,16 +1,17 @@
 ---
 title: "Smartphone Security and Interoperability"
 date: 2026-04-16T05:29:18.681Z
-modified_date: 2026-11-18T18:39:15.520Z
+modified_date: 2026-11-27T22:29:05.443Z
 tags: ["smartphone security","iphone vulnerability","android safety","interoperability","data privacy"]
 hero_image: "/hero/2026-04-16-smartphone-security-and-interoperability-navigating-a-landscape-of-vulnerabilities-and-glitches-a38f53.jpg"
 hero_image_credit_name: "Jakub Zerdzicki"
 hero_image_credit_url: "https://www.pexels.com/@jakubzerdzicki"
 visual_keyword: "Digital lock on smartphone"
 description: "Recent reports detail iPhone's persistent tap-to-pay vulnerability and Galaxy's AirDrop data loss, highlighting evolving mobile security and sharing challenges."
-sources_count: 23
+sources_count: 24
 author: "david-okafor"
 ---
+
 
 
 
@@ -42,6 +43,7 @@ Collectively, these recent revelations paint a dynamic picture of the modern sma
 
 ## Updates
 
+- **2026-11-27** — You might lose your Oura health data if you’re still using an old Android phone ([source](https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11))
 - **2026-11-18** — New Siri Remote for Apple TV 4K just got a firmware update ([source](https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/))
 - **2026-11-14** — The 21 Best REI Holiday Sale Outdoor Deals (2026) ([source](https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/))
 - **2026-11-10** — Best Gifts for Hikers, Backpackers, Outdoorsy People (2026) ([source](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-outdoorsy-people/))

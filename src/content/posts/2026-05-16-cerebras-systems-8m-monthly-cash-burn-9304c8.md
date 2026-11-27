@@ -1,16 +1,17 @@
 ---
 title: "Cerebras Systems' $8M Monthly Cash Burn"
 date: 2026-05-16T15:01:59.001Z
-modified_date: 2026-09-15T00:09:32.794Z
+modified_date: 2026-11-27T22:30:42.486Z
 tags: ["AI chips","Cerebras Systems","IPO"]
 hero_image: "/hero/2026-05-16-cerebras-systems-8m-monthly-cash-burn-9304c8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "AI chips"
 description: "Cerebras Systems burned $8M monthly before its 2026 IPO, revealing the massive costs of developing cutting-edge AI chips."
-sources_count: 8
+sources_count: 9
 author: "david-okafor"
 ---
+
 
 
 
@@ -61,6 +62,7 @@ In the coming years, Cerebras Systems will face significant challenges as it see
 
 ## Updates
 
+- **2026-11-27** — What new Google Messages features are rolling out [November 2026] ([source](https://9to5google.com/2026/11/27/new-google-messages-features/))
 - **2026-09-15** — What execs and politicians are saying about slowing down AI development ([source](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei))
 - **2026-09-06** — Nitter and XCancel resume service after legal advice ([source](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3))
 - **2026-06-07** — New dummy units give our closest look yet at the iPhone Fold ([source](https://9to5mac.com/2026/06/07/dummy-unit-iphone-fold-ultra-new-look/))

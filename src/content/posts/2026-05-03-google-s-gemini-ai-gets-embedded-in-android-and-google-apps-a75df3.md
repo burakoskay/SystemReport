@@ -1,16 +1,17 @@
 ---
 title: "Google's Gemini AI Gets Embedded in Android and Google Apps"
 date: 2026-05-03T22:51:39.290Z
-modified_date: 2026-10-27T20:26:07.179Z
+modified_date: 2026-11-27T22:31:21.156Z
 tags: ["Google","Gemini AI","Android","Google Apps"]
 hero_image: "/hero/2026-05-03-google-s-gemini-ai-gets-embedded-in-android-and-google-apps-a75df3.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "Google Gemini AI"
 description: "Google's AI model Gemini is being integrated into Android and Google apps, enhancing user experience with features like image generation, task automation, and personalized assistance."
-sources_count: 18
+sources_count: 19
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -68,6 +69,7 @@ In conclusion, the integration of Gemini AI in Android and Google apps marks a s
 
 ## Updates
 
+- **2026-11-27** — LA school district blocks Google's AI search features ([source](https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/))
 - **2026-10-27** — Google Nest Wifi router and point get October 2026 update ([source](https://9to5google.com/2026/10/27/nest-wifi-october-2026-update/))
 - **2026-10-08** — Amazon's Panos Panay teases more Alexa-branded devices and a new design language ([source](https://www.engadget.com/2280951/panos-panay-tease-neo-design-language-and-alexa-interface/))
 - **2026-09-27** — How to use Spotify's Running Mode on iOS and Android ([source](https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/))

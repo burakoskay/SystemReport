@@ -1,19 +1,20 @@
 ---
 title: "Hoka and Skool Offer Discounts"
 date: 2026-05-12T10:39:10.749Z
-modified_date: 2026-11-19T18:49:55.842Z
+modified_date: 2026-11-27T22:30:13.442Z
 tags: ["Hoka","Skool","Discounts","E-commerce"]
 hero_image: "/hero/2026-05-12-hoka-and-skool-offer-discounts-27fbb9.jpg"
 hero_image_credit_name: "www.kaboompics.com"
 hero_image_credit_url: "https://www.pexels.com/@karola-g"
 visual_keyword: "Discounts"
 description: "Hoka and Skool offer discounts on their products. Hoka is offering 30% off while Skool is offering a discount on their videos."
-sources_count: 5
+sources_count: 6
 audio_path: "/audio/2026-05-12-hoka-and-skool-offer-discounts-27fbb9.mp3"
 audio_bytes: 597099
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -83,4 +84,5 @@ The discounts offered by Hoka and Skool are part of a larger trend in the indust
 
 ## Updates
 
+- **2026-11-27** — Which Waterdrop water filters are actually worth buying this Black Friday? ([source](https://9to5google.com/2026/11/27/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/))
 - **2026-11-19** — Which Waterdrop water filters are actually worth buying this Black Friday? ([source](https://9to5google.com/2026/11/19/which-waterdrop-water-filters-are-actually-worth-buying-this-black-friday/))

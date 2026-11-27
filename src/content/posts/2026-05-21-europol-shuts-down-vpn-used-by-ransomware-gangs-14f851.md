@@ -1,16 +1,17 @@
 ---
 title: "Europol shuts down VPN used by ransomware gangs"
 date: 2026-05-21T23:10:51.558Z
-modified_date: 2026-05-29T15:51:53.019Z
+modified_date: 2026-11-27T22:31:59.801Z
 tags: ["ransomware","vpn","europol","cybersecurity"]
 hero_image: "/hero/2026-05-21-europol-shuts-down-vpn-used-by-ransomware-gangs-14f851.jpg"
 hero_image_credit_name: "panumas nikhomkhai"
 hero_image_credit_url: "https://www.pexels.com/@cookiecutter"
 visual_keyword: "dark server room with glowing network maps"
 description: "Europol dismantled a VPN service that promised complete anonymity and was leveraged by roughly two dozen ransomware groups."
-sources_count: 13
+sources_count: 14
 author: "david-okafor"
 ---
+
 
 
 ## The operation
@@ -51,4 +52,5 @@ The next step will be the legal fallout. Europol is expected to hand over the id
 
 ## Updates
 
+- **2026-11-27** — Convex skills send the user's app idea to a remote server without telling them ([source](https://github.com/convex/convex-backend-skill/issues/64))
 - **2026-05-29** — Hundreds of prolific Wikipedia editors are threatening to go on strike ([source](https://www.theverge.com/report/939442/wikipedia-editors-protest-wikimedia-layoffs-strike))

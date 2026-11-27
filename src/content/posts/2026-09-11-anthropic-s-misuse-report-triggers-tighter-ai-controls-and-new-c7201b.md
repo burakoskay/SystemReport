@@ -1,19 +1,20 @@
 ---
 title: "Anthropic’s misuse report triggers tighter AI controls and new"
 date: 2026-09-11T14:07:08.710Z
-modified_date: 2026-11-25T04:48:17.156Z
+modified_date: 2026-11-27T22:29:44.195Z
 tags: ["anthropic","ai governance","data security","lead generation"]
 hero_image: "/hero/2026-09-11-anthropic-s-misuse-report-triggers-tighter-ai-controls-and-new-c7201b.jpg"
 hero_image_credit_name: "cottonbro studio"
 hero_image_credit_url: "https://www.pexels.com/@cottonbro"
 visual_keyword: "anthropic report on AI misuse with a locked AI interface"
 description: "Anthropic disclosed AI misuse in bio‑weapon research, barred minors from Claude, and spurred security‑focused tools like Pylar and Supe."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-09-11-anthropic-s-misuse-report-triggers-tighter-ai-controls-and-new-c7201b.mp3"
 audio_bytes: 560737
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ Watch for Anthropic’s next policy update, especially any changes to how age ve
 
 ## Updates
 
+- **2026-11-27** — iPhone Duo Diary: Pros & cons in early real-life use ([source](https://9to5mac.com/2026/11/27/iphone-duo-diary-pros-cons-in-early-real-life-use/))
 - **2026-11-25** — New Gemini setting lets you keep chat history, but turn off AI training [U] ([source](https://9to5google.com/2026/11/24/gemini-history-ai-training/))
 - **2026-11-17** — New Gemini setting lets you keep chat history, but turn off AI training ([source](https://9to5google.com/2026/11/16/gemini-history-ai-training/))
 

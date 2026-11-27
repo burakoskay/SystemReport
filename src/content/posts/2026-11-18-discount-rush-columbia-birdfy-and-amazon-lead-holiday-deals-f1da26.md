@@ -1,18 +1,20 @@
 ---
 title: "Discount Rush: Columbia, Birdfy, and Amazon Lead Holiday Deals"
 date: 2026-11-18T09:40:07.882Z
+modified_date: 2026-11-27T22:29:24.832Z
 tags: ["discounts","e-commerce","holiday shopping","columbia","birdfy"]
 hero_image: "/hero/2026-11-18-discount-rush-columbia-birdfy-and-amazon-lead-holiday-deals-f1da26.jpg"
 hero_image_credit_name: "MART  PRODUCTION"
 hero_image_credit_url: "https://www.pexels.com/@mart-production"
 visual_keyword: "shopping cart overflowing with outdoor jacket, smart pet feeder, and Amazon box"
 description: "Columbia, Birdfy, and Amazon roll out deep discounts ahead of the holidays, reshaping shopper expectations and retailer tactics."
-sources_count: 4
-author: "ryan-tanaka"
+sources_count: 5
 audio_path: "/audio/2026-11-18-discount-rush-columbia-birdfy-and-amazon-lead-holiday-deals-f1da26.mp3"
 audio_bytes: 612981
+author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 Deal hunters are already sprinting for the season's deepest cuts.
 
@@ -33,3 +35,7 @@ These three discount campaigns converge to amplify a broader shift in holiday re
 Historically, Black Friday began as a single‑day price slash that retailers used to clear excess stock. Over the past decade, the model has fragmented into pre‑Black Friday teasers, Cyber Monday extensions, and now, continuous discount windows. The Columbia and Birdfy codes illustrate how niche brands adopt the same temporal tactics once reserved for large retailers.
 
 What to watch: Columbia will reveal whether its November discount lifts Q4 revenue in its earnings call later this year. Birdfy’s next product launch may test if the discount strategy sustains long‑term growth or merely spikes short‑term sales. Amazon’s post‑Black Friday performance will indicate if early‑deal cannibalization harms or helps its overall holiday margin.
+
+## Updates
+
+- **2026-11-27** — Review: Aqara W200 supports Adaptive Temperature in HomeKit at a great price ([source](https://9to5mac.com/2026/11/27/aqara-w200-adaptive-temperature-thermostat-review/))
