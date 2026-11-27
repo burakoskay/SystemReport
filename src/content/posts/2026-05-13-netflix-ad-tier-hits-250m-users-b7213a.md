@@ -1,19 +1,20 @@
 ---
 title: "Netflix Ad Tier Hits 250M Users"
 date: 2026-05-13T21:38:10.811Z
-modified_date: 2026-11-05T23:12:42.158Z
+modified_date: 2026-11-27T03:55:20.067Z
 tags: ["netflix","ad-tier","assassins-creed","device-compatibility","streaming-industry"]
 hero_image: "/hero/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.jpg"
 hero_image_credit_name: "Anastasia Haritonov"
 hero_image_credit_url: "https://www.pexels.com/@anastasia-haritonov-898480"
 visual_keyword: "Netflix logo with Italian filming locations"
 description: "Netflix's ad-supported tier hits 250M users while Assassin's Creed TV series begins filming in Italy"
-sources_count: 13
+sources_count: 14
 audio_path: "/audio/2026-05-13-netflix-ad-tier-hits-250m-users-b7213a.mp3"
 audio_bytes: 615907
 author: "ryan-tanaka"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -55,6 +56,7 @@ What to watch:
 
 ## Updates
 
+- **2026-11-27** — Netflix’s coziest show has made a very quiet return ([source](https://www.theverge.com/entertainment/1043489/midnight-diner-season3))
 - **2026-11-05** — Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator ([source](https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/))
 - **2026-05-29** — SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites ([source](https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract))
 - **2026-05-24** — Memory has grown to nearly two-thirds of AI chip component costs ([source](https://epoch.ai/data-insights/ai-chip-component-cost-shares))
