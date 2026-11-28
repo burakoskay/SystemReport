@@ -1,19 +1,20 @@
 ---
 title: "Meta AI Workers Face Layoffs"
 date: 2026-04-28T19:34:40.925Z
-modified_date: 2026-11-22T20:34:21.258Z
+modified_date: 2026-11-28T14:54:55.619Z
 tags: ["AI","Meta","Layoffs"]
 hero_image: "/hero/2026-04-28-meta-ai-workers-face-layoffs-7ab748.jpg"
 hero_image_credit_name: "Murry Lee"
 hero_image_credit_url: "https://www.pexels.com/@murry"
 visual_keyword: "AI Workers"
 description: "Over 700 jobs at risk in Ireland"
-sources_count: 9
+sources_count: 10
 audio_path: "/audio/2026-04-28-meta-ai-workers-face-layoffs-7ab748.mp3"
 audio_bytes: 620923
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 
@@ -52,6 +53,7 @@ The future of AI development is likely to be shaped by the experiences of worker
 
 ## Updates
 
+- **2026-11-28** — Swift Saw the Secrets of Space Before Falling to Earth ([source](https://www.wired.com/story/swift-saw-the-secrets-of-space-before-falling-to-earth/))
 - **2026-11-22** — What the little clock icon at the top of your Samsung phone means ([source](https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means/))
 - **2026-08-14** — Review: TerraMow V1000 is the easiest iPhone-controlled robot lawn mower I’ve tested ([source](https://9to5mac.com/2026/08/14/review-terramow-v1000-is-the-easiest-iphone-controlled-robot-lawn-mower-ive-tested/))
 - **2026-08-01** — How to create and delete stickers on your iPhone ([source](https://www.engadget.com/2225199/how-to-create-delete-stickers-on-iphone/))

@@ -1,18 +1,20 @@
 ---
 title: "Switch 2 film, PS5 carpet heat, disc limits, NAT basics"
 date: 2026-11-08T08:30:49.974Z
+modified_date: 2026-11-28T14:57:07.881Z
 tags: ["switch2","ps5","gaming","hardware"]
 hero_image: "/hero/2026-11-08-switch-2-film-ps5-carpet-heat-disc-limits-nat-basics-530e06.jpg"
 hero_image_credit_name: "Polina Tankilevitch"
 hero_image_credit_url: "https://www.pexels.com/@polina-tankilevitch"
 visual_keyword: "Nintendo Switch 2 with protective film and PlayStation 5 on a wooden stand, gaming setup"
 description: "Why the Switch 2’s screen film stays, how a carpet overheats a PS5, what discs the console reads, and the impact of NAT types on online play."
-sources_count: 12
-author: "sam-whitfield"
+sources_count: 13
 audio_path: "/audio/2026-11-08-switch-2-film-ps5-carpet-heat-disc-limits-nat-basics-530e06.mp3"
 audio_bytes: 560318
+author: "sam-whitfield"
 audio_mime: "audio/mpeg"
 ---
+
 
 The Switch 2 shipped with a factory‑applied film on its OLED panel, and the first thing many owners do is rip it off. A livestream of a speedrun on *The Legend of Zelda: Tears of the Kingdom* went viral because the player’s screen was spotless—exactly the kind of visual the film protects.
 
@@ -51,3 +53,7 @@ The root cause is port forwarding. Home routers often block the ports that conso
 ## What to watch next
 
 Keep an eye on firmware releases for the Switch 2 that might offer an official way to remove the protective film without voiding warranty. For PS5 owners, monitor Sony’s upcoming cooling‑mode updates that could mitigate heat buildup on soft flooring. Finally, watch for Sony’s next network stack patch—each iteration can reshape NAT handling and improve online stability for competitive gamers.
+
+## Updates
+
+- **2026-11-28** — Show HN: DragDropMath – Learn math by feel ([source](https://dragdropmath.com/))

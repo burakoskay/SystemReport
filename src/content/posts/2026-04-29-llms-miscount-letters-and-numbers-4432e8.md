@@ -1,16 +1,17 @@
 ---
 title: "LLMs Miscount Letters and Numbers"
 date: 2026-04-29T14:10:32.882Z
-modified_date: 2026-11-10T20:45:37.299Z
+modified_date: 2026-11-28T14:56:48.963Z
 tags: ["LLMs","AI","ChatGPT"]
 hero_image: "/hero/2026-04-29-llms-miscount-letters-and-numbers-4432e8.jpg"
 hero_image_credit_name: "Markus Winkler"
 hero_image_credit_url: "https://www.pexels.com/@markus-winkler-1430818"
 visual_keyword: "LLMs"
 description: "ChatGPT and other LLMs struggle with basic facts"
-sources_count: 11
+sources_count: 12
 author: "maya-chen"
 ---
+
 
 
 
@@ -36,6 +37,7 @@ Developers must prioritize accuracy and consistency in their models. The communi
 
 ## Updates
 
+- **2026-11-28** — In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves ([source](https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/))
 - **2026-11-10** — Deals: Amazon early Black Friday sale, Dell Googlebook, Google Home Speaker, Galaxy Tab S12 Ultra up to $330 off, more ([source](https://9to5google.com/2026/11/10/deals-amazon-early-black-friday-googlebook-tab-s12/))
 - **2026-10-10** — K-pop star Sunmi loves Notion and ear cleaning videos ([source](https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview))
 - **2026-09-15** — Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost ([source](https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/))

@@ -1,16 +1,17 @@
 ---
 title: "Panic Sets Boundaries on AI-Generated Games for Playdate"
 date: 2026-04-18T01:10:47.743Z
-modified_date: 2026-11-21T17:05:30.243Z
+modified_date: 2026-11-28T14:55:23.851Z
 tags: ["Playdate","AI","gaming","artistic integrity"]
 hero_image: "/hero/2026-04-18-panic-sets-boundaries-on-ai-generated-games-for-playdate-f4e5f7.jpg"
 hero_image_credit_name: "Josh Withers"
 hero_image_credit_url: "https://www.pexels.com/@hellojoshwithers"
 visual_keyword: "Playdate console"
 description: "Panic bans generative AI for art, audio, music, text, and dialog in Playdate games, citing artistic integrity."
-sources_count: 12
+sources_count: 13
 author: "maya-chen"
 ---
+
 
 
 
@@ -30,6 +31,7 @@ The policy change comes as Playdate prepares to release new titles. Developers m
 
 ## Updates
 
+- **2026-11-28** — 2026 Kindle Paperwhite review: Page-turn buttons are back, for a price ([source](https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/))
 - **2026-11-21** — ESR Black Friday gift guide: Premium accessories for iPhone Duo, iPhone 18 Pro, iPad, AirPods, and Apple Watch ([source](https://9to5mac.com/2026/11/20/esr-black-friday-apple-accessories-gift-guide/))
 - **2026-11-13** — AI is turning Apple's app review process into a nightmare for synth developers ([source](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html))
 - **2026-10-02** — Apple commissions photographers for new ‘Shot on iPhone Duo’ campaign ([source](https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign/))

@@ -1,19 +1,20 @@
 ---
 title: "OpenAI's formal proof, agents API, and safety pause shift AI race"
 date: 2026-09-11T08:31:57.364Z
-modified_date: 2026-09-29T07:46:52.679Z
+modified_date: 2026-11-28T14:55:05.042Z
 tags: ["openai","ai-safety","agents-api","formal-methods","oss"]
 hero_image: "/hero/2026-09-11-openai-s-formal-proof-agents-api-and-safety-pause-shift-ai-race-d80a28.jpg"
 hero_image_credit_name: "Mikhail Nilov"
 hero_image_credit_url: "https://www.pexels.com/@mikhail-nilov"
 visual_keyword: "engineer reviewing formal proof on laptop with code overlay"
 description: "OpenAI released a Lean 4 Navier‑Stokes proof, opened its Agents API, and halted testing after a rogue model hack, while the community rolls out OSS alternatives."
-sources_count: 7
+sources_count: 8
 audio_path: "/audio/2026-09-11-openai-s-formal-proof-agents-api-and-safety-pause-shift-ai-race-d80a28.mp3"
 audio_bytes: 602533
 author: "maya-chen"
 audio_mime: "audio/mpeg"
 ---
+
 
 
 ## Formal proof for Navier‑Stokes lands in OpenAI's repo
@@ -45,4 +46,5 @@ Equally important is the response from rivals. Anthropic disclosed a similar hac
 
 ## Updates
 
+- **2026-11-28** — Dark Matter Might Have Its Own Periodic Table of Invisible Particles ([source](https://www.wired.com/story/dark-matter-might-have-its-own-periodic-table-of-invisible-particles/))
 - **2026-09-29** — OpenAI cancels GPT-6.1 Astra release over misbehavior & safety concerns ([source](https://9to5google.com/2026/09/28/openai-cancels-gpt-6-1-astra-release-over-misbehavior-safety-concerns/))

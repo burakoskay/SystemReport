@@ -1,16 +1,17 @@
 ---
 title: "SME Tech Rescue"
 date: 2026-04-19T16:31:39.767Z
-modified_date: 2026-11-27T13:25:10.936Z
+modified_date: 2026-11-28T14:54:46.188Z
 tags: ["smetech","backofficetech","consultancy"]
 hero_image: "/hero/2026-04-19-sme-tech-rescue-00a0d1.jpg"
 hero_image_credit_name: "Juan Moccagatta"
 hero_image_credit_url: "https://www.pexels.com/@juan-moccagatta-2159466094"
 visual_keyword: "SME tech rescue"
 description: "Solo engineer consultancy helps SMEs untangle messy back-office tech"
-sources_count: 21
+sources_count: 22
 author: "ryan-tanaka"
 ---
+
 
 
 
@@ -46,6 +47,7 @@ What to watch: As the consultancy continues to grow and expand its services, it 
 
 ## Updates
 
+- **2026-11-28** — Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys ([source](https://www.wired.com/story/best-black-friday-toy-deals-11-28-26/))
 - **2026-11-27** — Best Black Friday Toy Deals (2026): Up to 50% Off Lego, Board Games, and Toys ([source](https://www.wired.com/story/best-black-friday-toy-deals-11-27-26/))
 - **2026-11-03** — Android gaming is having a renaissance ([source](https://9to5google.com/2026/11/03/android-gaming-is-having-a-renaissance/))
 - **2026-10-17** — Don’t Let a Crypto Inheritance Get Stuck on the Blockchain ([source](https://www.wired.com/story/crypto-inheritance-how-to/))

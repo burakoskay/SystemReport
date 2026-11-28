@@ -1,16 +1,17 @@
 ---
 title: "macOS VM Benchmarks and Open-Source Burnout Reports"
 date: 2026-05-02T15:01:15.209Z
-modified_date: 2026-11-27T13:26:07.456Z
+modified_date: 2026-11-28T14:56:58.386Z
 tags: ["macos","virtualization","open-source","burnout","environment-variables"]
 hero_image: "/hero/2026-05-02-macos-vm-benchmarks-and-open-source-burnout-reports-ed4e70.jpg"
 hero_image_credit_name: "Lukas Blazek"
 hero_image_credit_url: "https://www.pexels.com/@goumbik"
 visual_keyword: "macos virtual machine benchmark charts with 15% performance gap overlay"
 description: "macOS virtualization benchmarks reveal 15% native performance gap while open-source burnout survey highlights systemic strain."
-sources_count: 21
+sources_count: 22
 author: "maya-chen"
 ---
+
 
 
 
@@ -58,6 +59,7 @@ For environment variable conflicts[^3] [2], Microsoft's 2024 Windows 11 update i
 
 ## Updates
 
+- **2026-11-28** — Audible removes download option for purchased audiobooks ([source](https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks))
 - **2026-11-27** — The need for a formally verifiable mainstream programming language ([source](https://blainehansen.me/post/mainstream-verifiable-language/))
 - **2026-11-23** — A Power Provider for Meta Urged Regulators to Exempt Data Center Plants From Acid Rain Rules ([source](https://www.wired.com/story/a-power-provider-for-meta-urged-regulators-to-exempt-data-center-plants-from-acid-rain-rules/))
 - **2026-11-11** — Trump wanted little Kei trucks for America, Toyota makes it happen ([source](https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/))

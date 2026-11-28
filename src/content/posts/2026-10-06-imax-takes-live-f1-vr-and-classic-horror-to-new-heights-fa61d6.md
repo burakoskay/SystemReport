@@ -1,15 +1,17 @@
 ---
 title: "IMAX Takes Live F1, VR, and Classic Horror to New Heights"
 date: 2026-10-06T08:45:06.587Z
+modified_date: 2026-11-28T14:55:33.434Z
 tags: ["imax","formula-1","apple tv","virtual reality","cinema"]
 hero_image: "/hero/2026-10-06-imax-takes-live-f1-vr-and-classic-horror-to-new-heights-fa61d6.jpg"
 hero_image_credit_name: "Tima Miroshnichenko"
 hero_image_credit_url: "https://www.pexels.com/@tima-miroshnichenko"
 visual_keyword: "IMAX theater interior with a Formula 1 car projected on the screen"
 description: "Apple TV and IMAX will stream live Formula 1 races in U.S. theaters in 2026 while the chain expands into VR and re‑releases The Shining in IMAX."
-sources_count: 7
+sources_count: 8
 author: "ryan-tanaka"
 ---
+
 
 ## Live F1 in IMAX: A New Arena for Speed
 
@@ -47,3 +49,6 @@ Fans who have only seen the film on home video will experience a new level of im
 
 Track Apple TV’s live F1 feed during the Miami Grand Prix on May 3 to gauge audience reaction to the IMAX experience. Monitor ticket sales at the 50‑plus IMAX venues and watch for any follow‑up announcements about additional races or sports. Keep an eye on IMAX’s VR rollout schedule and the first franchise‑based VR titles, as their reception will signal whether the company can sustain a second‑screen revenue model. Finally, note box‑office numbers for *The Shining* IMAX run; strong performance could spur more classic films into the format.
 
+## Updates
+
+- **2026-11-28** — The Alexa Photo Frame is the Echo Show without the bits you hate ([source](https://www.theverge.com/tech/1043764/amazon-alexa-photo-frame-review))
